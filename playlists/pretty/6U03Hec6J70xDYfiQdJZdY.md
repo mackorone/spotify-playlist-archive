@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6U03Hec6J70xDYfiQdJZdY.md) - [plain]
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-[Topsify](https://open.spotify.com/user/topsify) - 21,281 likes - 79 songs - 4 hr 19 min
+[Topsify](https://open.spotify.com/user/topsify) - 21,279 likes - 79 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/6U03Hec6J70xDYfiQdJZdY.md) - [plain]
 | 65 | [Eternal Sunshine](https://open.spotify.com/track/73VevVSRPsGB4FFIasDEB2) | [Jean Lucas](https://open.spotify.com/artist/43nGYUDNoXAdaOc7sOI7SJ) | [Eternal Sunshine](https://open.spotify.com/album/5TvrJAZpjUqTATvZXDxCFr) | 2:27 |
 | 66 | [Saint\-Saëns: Le carnaval des animaux: XIII\. Le cygne \(Arr\. Godowsky for Piano\)](https://open.spotify.com/track/57p7J7Vzp5u8quzKQp41Uo) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Autograph](https://open.spotify.com/album/0RPiJQreijUfloPd3EjUQ9) | 2:49 |
 | 67 | [Another You](https://open.spotify.com/track/3s1txM4bDjytDVariGJUZv) | [Aaron Falk](https://open.spotify.com/artist/0qVeDVweBCpd7PcAG6pRwO) | [Another You](https://open.spotify.com/album/01ckergTL2A9T467KSnPd3) | 2:54 |
-| 68 | [Now is enough](https://open.spotify.com/track/2mGXHKQLP7Wfgu1CZaku1P) | [van](https://open.spotify.com/artist/3xB24iATAOgiiP0G821Ndz) | [Now is enough](https://open.spotify.com/album/7GxvKYmg1J88wurQg2n9r5) | 2:58 |
+| 68 | [Now is enough](https://open.spotify.com/track/2mGXHKQLP7Wfgu1CZaku1P) | [Van Toan](https://open.spotify.com/artist/5af1P6XDYgWZSJ8T0Fh5cT) | [Now is enough](https://open.spotify.com/album/7GxvKYmg1J88wurQg2n9r5) | 2:58 |
 | 69 | [For Emma](https://open.spotify.com/track/1HetgxI2OacK75TRvJP9Ho) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [For Emma](https://open.spotify.com/album/1oAUsMrbSIu3TJr2oxHebv) | 3:12 |
 | 70 | [Chopin: Nocturne No\. 21 in C Minor, Op\. Posth.](https://open.spotify.com/track/4enYj5VBLp4qYox1BS6G3k) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Elisabeth Leonskaja](https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8) | [Chopin: Nocturnes \[Complete\]](https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb) | 3:40 |
 | 71 | [L’Orient & L’Occident \- L’art de Voyager \- Triste](https://open.spotify.com/track/0chlKsV4SCbGo47tYMbBtY) | [Coen Molenaar](https://open.spotify.com/artist/3mDU9n4gGcXFkQ2Cby05aO), [Myllèrí](https://open.spotify.com/artist/7FBXThPwYvJ0kdeQagzYKj) | [L’Orient & L’Occident \- L’art de Voyager \- Triste](https://open.spotify.com/album/0MMtHDdPZWMYlOtMWSmilZ) | 1:46 |

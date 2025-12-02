@@ -1,6 +1,6 @@
 {
   "description": "Versos y barras de alto poder",
-  "num_followers": 159859,
+  "num_followers": 159903,
   "original_name": "Ejercicio con Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-10-17 01:49:16",
       "album": {
+        "name": "ROXANNE",
+        "url": "https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "ROXANNE",
+      "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
+    },
+    {
+      "added_at": "2025-10-17 01:49:16",
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 193346,
       "name": "P power (feat. Drake)",
       "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
-    },
-    {
-      "added_at": "2025-10-17 01:49:16",
-      "album": {
-        "name": "ROXANNE",
-        "url": "https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "ROXANNE",
-      "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
     },
     {
       "added_at": "2025-10-17 01:49:16",

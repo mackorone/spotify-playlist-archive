@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些華語歌還很紅也！一年了？兩年了？真的假的？高人氣金曲讓你一路聽下去！Cover: 告五人 \(Accusefive\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,375 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,387 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [黑夜狂奔](https://open.spotify.com/track/4rCpwGXcaoNejahMl7BbFQ) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我們就像那些要命的傻瓜](https://open.spotify.com/album/3ZswervhsAwTbWS8Z1c4WB) | 5:20 |
 | 2 | [月亮](https://open.spotify.com/track/2hNHLFhM14XgPgGMhmR1Ju) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [核核核](https://open.spotify.com/album/19vrQhiQic2ZmiubTkt6kc) | 4:17 |
-| 3 | [都是weather你](https://open.spotify.com/track/3Sp9bi6Oj8rWmWhPXpyZ5l) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv), [楊子平 ᏟᎪsᏢᎬᏒ](https://open.spotify.com/artist/3ZvPuPIHI1Xhh0XvBLAhky) | [都是weather你](https://open.spotify.com/album/59aLs5FpqBI7u5tSaYIi7a) | 3:07 |
+| 3 | [都是weather你](https://open.spotify.com/track/3Sp9bi6Oj8rWmWhPXpyZ5l) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv), [楊子平CAsPER](https://open.spotify.com/artist/3ZvPuPIHI1Xhh0XvBLAhky) | [都是weather你](https://open.spotify.com/album/59aLs5FpqBI7u5tSaYIi7a) | 3:07 |
 | 4 | [做你的格](https://open.spotify.com/track/1aThnS8mr3Oc5fFkjBLfTR) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg) | [南北二路](https://open.spotify.com/album/084VhLU9xSrfVwdxnzQAMv) | 3:00 |
 | 5 | [偷偷想念你 \(feat\. 方晨\)](https://open.spotify.com/track/7xVj07lWHM86OIlTXkEq7R) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ), [方晨](https://open.spotify.com/artist/5Nd4foqBx41TIEW2VXyENC) | [偷偷想念你 \(feat\. 方晨\)](https://open.spotify.com/album/0CBuNM8l1oqJY6aq7sJeQo) | 2:51 |
 | 6 | [縫補傷的人](https://open.spotify.com/track/022xFcCvHSK6Fem8YPP9T7) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [沒事的](https://open.spotify.com/album/7fGKnOYEvizrbor8VsHAGw) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [一起看月彎彎](https://open.spotify.com/track/1tXjoZrAnRwYISAAnhOLWT) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [New Moon](https://open.spotify.com/album/6oU51LHuI3LiMRSbajRQcd) | 3:46 |
 | 50 | [才二十三](https://open.spotify.com/track/1h1odoIBoxI1BvZUpoAGcH) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:44 |
 
-Snapshot ID: `AAAAAKYmM6yQT/jyKp/TUp3Mt8/EqINx`
+Snapshot ID: `AAAAALIGn/RapsbYhsJa5X+yx92c/n6t`

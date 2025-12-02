@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Madeon \\m/",
-  "num_followers": 346630,
+  "num_followers": 346643,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2025-11-29 18:36:53",
       "album": {
-        "name": "Crash & Burn",
-        "url": "https://open.spotify.com/album/76vLQIeMvpqzqDRwpvuUqO"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        },
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Crash & Burn",
-      "url": "https://open.spotify.com/track/5UrZ1UfrJhyB7RMmWaRjXO"
-    },
-    {
-      "added_at": "2025-11-29 18:36:53",
-      "album": {
         "name": "Shivering",
         "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 300916,
       "name": "Shivering",
       "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
+    },
+    {
+      "added_at": "2025-11-29 18:36:53",
+      "album": {
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/76vLQIeMvpqzqDRwpvuUqO"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        },
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/5UrZ1UfrJhyB7RMmWaRjXO"
     },
     {
       "added_at": "2025-11-29 18:36:53",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2025-11-29 18:36:53",
       "album": {
+        "name": "AFTER MIDNIGHT",
+        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
+      },
+      "artists": [
+        {
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+        }
+      ],
+      "duration_ms": 121458,
+      "name": "AFTER MIDNIGHT",
+      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
+    },
+    {
+      "added_at": "2025-11-29 18:36:53",
+      "album": {
         "name": "Core (That's Who We Are)",
         "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 178909,
       "name": "Core (That's Who We Are)",
       "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
-    },
-    {
-      "added_at": "2025-11-29 18:36:53",
-      "album": {
-        "name": "AFTER MIDNIGHT",
-        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
-      },
-      "artists": [
-        {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
-        }
-      ],
-      "duration_ms": 121458,
-      "name": "AFTER MIDNIGHT",
-      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
     },
     {
       "added_at": "2025-11-29 18:36:53",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2025-11-29 18:36:53",
       "album": {
-        "name": "Being One",
-        "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Being One",
-      "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
-    },
-    {
-      "added_at": "2025-11-29 18:36:53",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/2mEhoqFj0ZSANEpPwaYnBZ"
       },
@@ -2291,22 +2275,18 @@
     {
       "added_at": "2025-11-29 18:36:53",
       "album": {
-        "name": "FEEL THE RAGE",
-        "url": "https://open.spotify.com/album/0GCSrc22Kdti0WbJWGET7p"
+        "name": "Being One",
+        "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
       },
       "artists": [
         {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Uncured",
-          "url": "https://open.spotify.com/artist/6YicvYF7Qo1FxNt903gAMh"
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
         }
       ],
-      "duration_ms": 205600,
-      "name": "FEEL THE RAGE",
-      "url": "https://open.spotify.com/track/1oiWd6ShFvTmp8IXwcfpwz"
+      "duration_ms": 200000,
+      "name": "Being One",
+      "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
     },
     {
       "added_at": "2025-11-29 18:36:53",
@@ -2323,6 +2303,26 @@
       "duration_ms": 233203,
       "name": "FIMBULVETR",
       "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+    },
+    {
+      "added_at": "2025-11-29 18:36:53",
+      "album": {
+        "name": "FEEL THE RAGE",
+        "url": "https://open.spotify.com/album/0GCSrc22Kdti0WbJWGET7p"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Uncured",
+          "url": "https://open.spotify.com/artist/6YicvYF7Qo1FxNt903gAMh"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "FEEL THE RAGE",
+      "url": "https://open.spotify.com/track/1oiWd6ShFvTmp8IXwcfpwz"
     },
     {
       "added_at": "2025-11-29 18:36:53",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2025-11-29 18:36:53",
       "album": {
+        "name": "Time Is Eating",
+        "url": "https://open.spotify.com/album/5bCRiMVBL4UVBpSJHv73K3"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Time Is Eating",
+      "url": "https://open.spotify.com/track/3qzghUDEnx78gNAjQEnRiw"
+    },
+    {
+      "added_at": "2025-11-29 18:36:53",
+      "album": {
         "name": "Going Down",
         "url": "https://open.spotify.com/album/5NeIIC2AIQOFJNawPbLCAb"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 178846,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/5q0X54hfXAnEo457iHjOLD"
-    },
-    {
-      "added_at": "2025-11-29 18:36:53",
-      "album": {
-        "name": "Time Is Eating",
-        "url": "https://open.spotify.com/album/5bCRiMVBL4UVBpSJHv73K3"
-      },
-      "artists": [
-        {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Time Is Eating",
-      "url": "https://open.spotify.com/track/3qzghUDEnx78gNAjQEnRiw"
     },
     {
       "added_at": "2025-11-29 18:36:53",

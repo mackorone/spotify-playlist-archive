@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 33844,
+  "num_followers": 33852,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACIh2exrmvagdY98zfgs8gJ",
+  "snapshot_id": "aSuJAAAAAAC+xzMjcuzoihIZ2f6Bk6Wx",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "Misunderstood",
-      "url": "https://open.spotify.com/track/4Ojm1pLLjRWdYqIv8boIFw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollywood Gold",
         "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 183653,
       "name": "Hold Me Back",
       "url": "https://open.spotify.com/track/0b0bblC9e8Xxrq5rfq3omD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/4Ojm1pLLjRWdYqIv8boIFw"
     },
     {
       "added_at": null,

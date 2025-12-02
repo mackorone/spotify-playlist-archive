@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,170 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,160 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 51 | [Won’t Be Possible](https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Won’t Be Possible](https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p) | 2:16 |
 | 52 | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE) | 3:44 |
 | 53 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
-| 54 | [On & On](https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [On & On](https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc) | 3:04 |
-| 55 | [Karibu](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj) | 4:02 |
-| 56 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 |
+| 54 | [Karibu](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj) | 4:02 |
+| 55 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 |
+| 56 | [On & On](https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [On & On](https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc) | 3:04 |
 | 57 | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0) | 2:19 |
 | 58 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 |
 | 59 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 |

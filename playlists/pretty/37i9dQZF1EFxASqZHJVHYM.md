@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,411 likes - 119 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,409 likes - 119 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 32 | [Let's Go](https://open.spotify.com/track/6AIccJIWHGK26xi34FAkwl) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:24 |
 | 33 | [Peta \(feat\. Meek Mill\)](https://open.spotify.com/track/4bl1HBZliBuYpFZjWgefE4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:18 |
 | 34 | [24/7 \(feat\. Ella Mai\)](https://open.spotify.com/track/6irE4Fbjbry3czv7mTxVSB) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:41 |
-| 35 | [Life Is Good \(feat\. Drake, DaBaby & Lil Baby\) \- Remix](https://open.spotify.com/track/4Qd0pa3JO76UEwhos9JmN0) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 5:14 |
-| 36 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 |
+| 35 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 |
+| 36 | [Life Is Good \(feat\. Drake, DaBaby & Lil Baby\) \- Remix](https://open.spotify.com/track/4Qd0pa3JO76UEwhos9JmN0) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 5:14 |
 | 37 | [Treacherous Twins](https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:00 |
 | 38 | [Middle of the Ocean](https://open.spotify.com/track/410TZrK18uRjtsTunG14cl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 5:56 |
 | 39 | [Keep Me](https://open.spotify.com/track/6SWHTMywuTXLFlMQ75cAuu) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 4:36 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 118 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 119 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `AcDAPAAAAACDv2DPP3xWg0Zpc15oN/pw`
+Snapshot ID: `AcDF0gAAAAD6kEP83iKOBBOhcxl4Ytf2`

@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 47 | [WEATHER](https://open.spotify.com/track/2ioPOUIEdDPabQsQly3tWX) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:54 |
 | 48 | [Emerald City](https://open.spotify.com/track/6iwOHhChBjf9VqLJ05K1s1) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant Commentary](https://open.spotify.com/album/02HvVdouLKpJD56EJfxyZo) | 2:16 |
 | 49 | [Did You Make It Home? \(outro\)](https://open.spotify.com/track/2lwG3Zs3Pr5JJs9pnU4T9F) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 0:59 |
-| 50 | [Put It To Bed](https://open.spotify.com/track/4IF2gmlUAAyapNnNfCl4Dt) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:47 |
-| 51 | [Cut Me Up](https://open.spotify.com/track/2Tm7QZxAqRy9CZb2067XsO) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:35 |
+| 50 | [Cut Me Up](https://open.spotify.com/track/2Tm7QZxAqRy9CZb2067XsO) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:35 |
+| 51 | [Put It To Bed](https://open.spotify.com/track/4IF2gmlUAAyapNnNfCl4Dt) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:47 |
 | 52 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 |
 | 53 | [dirt on 'em](https://open.spotify.com/track/5Gz4MqUn5CcgDWK0ES4650) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 2:49 |
 | 54 | [Wide Open](https://open.spotify.com/track/4AkhBwuqQZQidZFkJICQsd) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 3:09 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 78 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 | 79 | [Double Standard](https://open.spotify.com/track/29kSxzMLoSZ4qeEEO2vN4L) | [Conor Clemmons](https://open.spotify.com/artist/6CrzyNTeFnxKAnkXdx8eyv) | [Double Standard](https://open.spotify.com/album/5N9RkXhSdRLVRLNbAJ3hEP) | 3:24 |
 
-Snapshot ID: `AcDAZAAAAADGipZP8XaqU9sFEVapP8we`
+Snapshot ID: `AcDFyAAAAABCmeryQ2Dtp53vfjXI+H51`

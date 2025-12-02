@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Scarlet Pleasure, Freja Kirk, Ed Sheeran og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,526 likes - 81 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,522 likes - 81 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

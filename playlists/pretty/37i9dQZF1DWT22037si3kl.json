@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALye0bMrP3IJIrvWG2YRo7LBNCEu",
+  "snapshot_id": "AAAAAPTRK9LhRhWiK8XATxV+BkfvHM1U",
   "tracks": [
     {
       "added_at": "2025-11-24 14:36:24",
@@ -655,30 +655,6 @@
     {
       "added_at": "2025-11-24 14:36:24",
       "album": {
-        "name": "Emit\u00ea \u00danico On the Radar Freestyle",
-        "url": "https://open.spotify.com/album/09ScvVzN0hafQWry6N9kb7"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 138657,
-      "name": "Emit\u00ea \u00danico On the Radar Freestyle",
-      "url": "https://open.spotify.com/track/6zUCh9am6gzewamg135d9J"
-    },
-    {
-      "added_at": "2025-11-24 14:36:24",
-      "album": {
         "name": "MOTIVO",
         "url": "https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB"
       },
@@ -699,6 +675,30 @@
       "duration_ms": 166015,
       "name": "MOTIVO",
       "url": "https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w"
+    },
+    {
+      "added_at": "2025-11-24 14:36:24",
+      "album": {
+        "name": "Emit\u00ea \u00danico On the Radar Freestyle",
+        "url": "https://open.spotify.com/album/09ScvVzN0hafQWry6N9kb7"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 138657,
+      "name": "Emit\u00ea \u00danico On the Radar Freestyle",
+      "url": "https://open.spotify.com/track/6zUCh9am6gzewamg135d9J"
     },
     {
       "added_at": "2025-11-24 14:36:24",

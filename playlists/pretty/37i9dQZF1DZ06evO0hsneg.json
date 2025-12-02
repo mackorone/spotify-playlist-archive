@@ -1,12 +1,12 @@
 {
   "description": "This is Ramengvrl. The essential tracks, all in one playlist.",
-  "num_followers": 679,
+  "num_followers": 680,
   "original_name": "This Is Ramengvrl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAALc1FGFve1t6CEnS5l5/SH",
+  "snapshot_id": "aSuJAAAAAAAdmcygxh5A4m9JSh57O+pE",
   "tracks": [
     {
       "added_at": null,
@@ -351,30 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decide",
-        "url": "https://open.spotify.com/album/2slywIgmb7LB6uZxh68HCO"
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/3u9tjjOT8BMthxEWTHEKnd"
       },
       "artists": [
         {
-          "name": "Dipha Barus",
-          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
-        },
-        {
-          "name": "A. Nayaka",
-          "url": "https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n"
-        },
-        {
-          "name": "Matter Mos",
-          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 268051,
-      "name": "Decide",
-      "url": "https://open.spotify.com/track/1agoTVhdFUt7ELV8MTDBvc"
+      "duration_ms": 221083,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/3X5vRDJKCe2ciy4saOkDIo"
     },
     {
       "added_at": null,
@@ -399,22 +391,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "DEKADE",
-        "url": "https://open.spotify.com/album/3u9tjjOT8BMthxEWTHEKnd"
+        "name": "Decide",
+        "url": "https://open.spotify.com/album/2slywIgmb7LB6uZxh68HCO"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Dipha Barus",
+          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
+        },
+        {
+          "name": "A. Nayaka",
+          "url": "https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n"
+        },
+        {
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
         },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 221083,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/3X5vRDJKCe2ciy4saOkDIo"
+      "duration_ms": 268051,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/1agoTVhdFUt7ELV8MTDBvc"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Rayi Putra",
-          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
-        }
-      ],
-      "duration_ms": 181185,
-      "name": "out of control (feat. Rayi Putra)",
-      "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Tinder",
         "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 254062,
       "name": "No Tinder",
       "url": "https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        }
+      ],
+      "duration_ms": 181185,
+      "name": "out of control (feat. Rayi Putra)",
+      "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
     },
     {
       "added_at": null,
@@ -959,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake Friends",
-        "url": "https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 154583,
-      "name": "Fake Friends",
-      "url": "https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Speak English",
         "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 154583,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FASHION",
         "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 193853,
       "name": "FASHION",
       "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 150929,
-      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
     },
     {
       "added_at": null,
@@ -1050,15 +1034,27 @@
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Sihk",
-          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
         }
       ],
-      "duration_ms": 143157,
-      "name": "The Emo Song (feat. Sihk)",
-      "url": "https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac"
+      "duration_ms": 160000,
+      "name": "Let Em Be",
+      "url": "https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 150929,
+      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
     },
     {
       "added_at": null,
@@ -1111,18 +1107,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
       "artists": [
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
         }
       ],
-      "duration_ms": 165067,
-      "name": "whats ur problem",
-      "url": "https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7"
+      "duration_ms": 143157,
+      "name": "The Emo Song (feat. Sihk)",
+      "url": "https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac"
     }
   ],
   "unique_name": "This Is Ramengvrl",

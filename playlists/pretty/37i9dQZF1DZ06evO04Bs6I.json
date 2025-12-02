@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116406,
+  "num_followers": 116411,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACBtlD7is8caQtuQDiRabTJ",
+  "snapshot_id": "aSuJAAAAAAAW/31Z2g3bkzWucdRet/52",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bra\u00e7os de Amor",
-        "url": "https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 332333,
-      "name": "Bra\u00e7os de Amor",
-      "url": "https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu \u00c9s Santo",
         "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resultado",
-        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+        "name": "Bra\u00e7os de Amor",
+        "url": "https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Resultado",
-      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+      "duration_ms": 332333,
+      "name": "Bra\u00e7os de Amor",
+      "url": "https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 252453,
       "name": "Confio em Ti",
       "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
     },
     {
       "added_at": null,

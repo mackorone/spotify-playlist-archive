@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,932 likes - 44 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,931 likes - 44 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/track/1FhgmMvNlh3nJ1Ldc2eE6H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:59 |
 | 2 | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 2:43 |
 | 3 | [Something to Talk About](https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:24 |
-| 4 | [Surrounded](https://open.spotify.com/track/2Al9P5vRKol3YoqDIjWLwH) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Surrounded](https://open.spotify.com/album/4w6qmr3nn6fJQPUpbnfouc) | 3:08 |
+| 4 | [Ragweed](https://open.spotify.com/track/3MxWqiFH3s8Mll4CljGLfa) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 4:12 |
 | 5 | [Sweet Dreams](https://open.spotify.com/track/3dzRwqd1L3HqxmViUJt20A) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:53 |
-| 6 | [Ragweed](https://open.spotify.com/track/3MxWqiFH3s8Mll4CljGLfa) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 4:12 |
+| 6 | [Surrounded](https://open.spotify.com/track/2Al9P5vRKol3YoqDIjWLwH) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Surrounded](https://open.spotify.com/album/4w6qmr3nn6fJQPUpbnfouc) | 3:08 |
 | 7 | [Fuss and Fight](https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 4:00 |
 | 8 | [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 |
-| 9 | [Werewolf](https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Werewolf](https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u) | 3:42 |
-| 10 | [Forever](https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 2:57 |
+| 9 | [Forever](https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 2:57 |
+| 10 | [Werewolf](https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Werewolf](https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u) | 3:42 |
 | 11 | [February 28, 2016](https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:53 |
 | 12 | [Good Die Young](https://open.spotify.com/track/6vBbirJ0n9L0j1XPtWlG6T) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 2:45 |
 | 13 | [Austin](https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Austin](https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5) | 4:34 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 18 | [Creeps](https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:44 |
 | 19 | [Kuntry & Wistern](https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 4:01 |
 | 20 | [Good Times \(Bonus Track\)](https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:31 |
-| 21 | [Gunshy \- Rerecorded](https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Six String Sorrow Sessions](https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP) | 4:48 |
-| 22 | [I'm Done](https://open.spotify.com/track/3GR0V5mwjNInFEGG7tYtxE) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:30 |
+| 21 | [I'm Done](https://open.spotify.com/track/3GR0V5mwjNInFEGG7tYtxE) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:30 |
+| 22 | [Gunshy \- Rerecorded](https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Six String Sorrow Sessions](https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP) | 4:48 |
 | 23 | [Cold & Alone](https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:18 |
 | 24 | [Song I Can Drink Too](https://open.spotify.com/track/6aqG6VFDGxrVkPJxumd9kG) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 4:04 |
 | 25 | [Oklahoma Sun](https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:36 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 43 | [Never Leave](https://open.spotify.com/track/60BIPuGD04bcqHPV1qSja0) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 3:59 |
 | 44 | [Change My Ways](https://open.spotify.com/track/77jNaWJRQSsj1Ro9D1P8vA) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 3:45 |
 
-Snapshot ID: `aSo3gAAAAADHEFycBNABac04MhtRDS9z`
+Snapshot ID: `aSuJAAAAAABAhTcowNefDBN5CvIghmig`

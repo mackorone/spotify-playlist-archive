@@ -4,7 +4,7 @@
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 57 min
+68 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Life Support](https://open.spotify.com/track/6ccAG3Mvu2qPtfqTjvt2VF) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 4:10 | 2025-04-04 | 2025-05-07 |
 | [Lonely \(feat\. Young Scooter\) \- Remix](https://open.spotify.com/track/0QBDmhUqCEFtxA6OoAktKC) | [Speaker Knockerz](https://open.spotify.com/artist/3KuLo66B73btyQpdXlkqFx), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Married to the Money II \#MTTM2](https://open.spotify.com/album/3lLFSUpKZ22bmK9asvk5uE) | 3:06 | 2025-07-14 |  |
 | [Made It](https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Fast Lane Juugin](https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX) | 4:26 | 2025-04-01 |  |
-| [Made It out the Hood](https://open.spotify.com/track/15Z9QZbFbQxH2y2bRL46bf) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery 3](https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF) | 3:17 | 2025-09-12 |  |
+| [Made It out the Hood](https://open.spotify.com/track/15Z9QZbFbQxH2y2bRL46bf) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery 3](https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF) | 3:17 | 2025-09-12 | 2025-12-02 |
 | [Medellin \(feat\. Young Scooter\)](https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Young Jefe](https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q) | 3:33 | 2025-04-01 |  |
 | [Middle Of The Hood](https://open.spotify.com/track/66KafkpdRjbRevYn2V1B77) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 2:52 | 2025-08-13 | 2025-08-25 |
 | [Muddy \(feat\. Young Dolph & Young Scooter\)](https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap House 3](https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL) | 4:15 | 2025-04-01 |  |
@@ -66,6 +66,7 @@
 | [SLAM DUNK \(FEAT\. YOUNG SCOOTER\)](https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:22 | 2025-04-01 |  |
 | [Special \(feat\. Young Scooter\)](https://open.spotify.com/track/2XjcBGdV3h5NJ1hq5NFCy0) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 4:58 | 2025-04-01 |  |
 | [STAYED DOWN \(feat\. Young Scooter\)](https://open.spotify.com/track/0VIiXARnoOP3X6G416SIe1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:51 | 2025-04-01 |  |
+| [Super](https://open.spotify.com/track/0Vm9eDHO02oETkGrbVfZaX) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Free Bricks 2](https://open.spotify.com/album/0u1zuwdz8PmbNBMpR8jAx2) | 3:00 | 2025-12-02 |  |
 | [Touchdown](https://open.spotify.com/track/7uBxxv1fY6JodMDIuEDUxd) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 2:26 | 2025-04-01 | 2025-09-12 |
 | [Trap It Out](https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:17 | 2025-05-10 |  |
 | [Trap Slow](https://open.spotify.com/track/2rRrYmgUJataikDTcSJkQ3) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 2:57 | 2025-04-01 | 2025-04-28 |

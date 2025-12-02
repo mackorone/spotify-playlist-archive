@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 40241,
+  "num_followers": 40253,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,34 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/7Ls1fcaC61JEMXHxeoR7CZ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Paolo Montarsolo",
+          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "La Cenerentola, Act II: Aria. Sia qualunque delle figlie",
+      "url": "https://open.spotify.com/track/5Wv2CIRajNnmUDeZJgwR4s"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
         "name": "Rossini: Stabat Mater",
         "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
       },
@@ -531,34 +559,6 @@
       "duration_ms": 272176,
       "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
       "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Rossini: La Cenerentola",
-        "url": "https://open.spotify.com/album/7Ls1fcaC61JEMXHxeoR7CZ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Paolo Montarsolo",
-          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 305493,
-      "name": "La Cenerentola, Act II: Aria. Sia qualunque delle figlie",
-      "url": "https://open.spotify.com/track/5Wv2CIRajNnmUDeZJgwR4s"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -787,30 +787,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Rossini: String Sonatas, Vol.2",
-        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
-      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Rossini: Guillaume Tell",
         "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 217626,
       "name": "Rossini: Guillaume Tell, Act 4: Final. \"Pourquoi ta pr\u00e9sence, \u00f4 mon p\u00e8re !\" (Arnold, Guillaume, Hedwige, Jemmy, Mathilde, Gessler, Walter, Ch\u0153ur)",
       "url": "https://open.spotify.com/track/4UwOQ5TGLU3TpNkWwf664Y"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Rossini: String Sonatas, Vol.2",
+        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
+      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
     },
     {
       "added_at": "2025-09-15 14:00:16",

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: ILLIT
 
-1,623 songs - 3 day 13 hr 58 min
+1,624 songs - 3 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -995,6 +995,7 @@
 | [PainDrop \(by SeoYeon, JiWoo, YuBin, SoHyun\)](https://open.spotify.com/track/0lBpd8IbpD4m7BydKwNPqk) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Friendly Rivalry \(Music from the U+ Original Series\), Pt\. 4](https://open.spotify.com/album/0nRjUGQcqLiG3QjiHw6n5p) | 3:32 | 2025-03-04 | 2025-06-27 |
 | [PANDA](https://open.spotify.com/track/2QeuakrxtOESvNyROxyN1G) | [Celest1a](https://open.spotify.com/artist/7hMOFPZVD8QWoAXtaYWXld) | [PANDA](https://open.spotify.com/album/14bpdzXr1wJ7AnvNgM2Ij4) | 3:06 | 2024-07-30 | 2024-09-25 |
 | [PANORAMA](https://open.spotify.com/track/7DwR5sQ0kpwvAz60Fm0FEk) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [PANORAMA](https://open.spotify.com/album/4vuOLGwkgHN5UqkDqkThDB) | 2:58 | 2023-08-24 | 2023-10-07 |
+| [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 | 2025-12-01 |  |
 | [PAPARAZZI ARRIVE \- Chinese Ver.](https://open.spotify.com/track/33jFvqx2weF8ZeN2C4gzRT) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O MAY](https://open.spotify.com/artist/6MHvscbuui67TvYTr3ZpV4) | [PAPARAZZI ARRIVE](https://open.spotify.com/album/54XcHEnJ2BKMOzkeRrRubu) | 2:53 | 2025-11-02 |  |
 | [Paradigm](https://open.spotify.com/track/2YeteVB8F8UkB5gmRPevLm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.PARADIGM](https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA) | 3:13 | 2022-11-29 | 2023-03-04 |
 | [PARALLEL PARALLEL](https://open.spotify.com/track/5JeIo5GWHq8mJbnI7R5ypk) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [PARALLEL PARALLEL](https://open.spotify.com/album/4apOFp29EkxRXbDlKNxb9S) | 3:37 | 2023-01-31 | 2023-03-08 |
@@ -1160,7 +1161,7 @@
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-16 | 2023-07-26 |
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-14 | 2024-04-24 |
 | [Sexy In The Air](https://open.spotify.com/track/3wluV5HGCW1Dq1CYsjIdLu) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [ETERNAL](https://open.spotify.com/album/13M8K1l146FLdFoObJIVj9) | 3:14 | 2024-08-20 | 2024-09-25 |
-| [Shaking My Head](https://open.spotify.com/track/37Kn4OZyeGaMXWOXp4sLam) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [Shaking My Head](https://open.spotify.com/album/7um95MJ2CQlGFWibM13MRd) | 2:33 | 2025-09-05 |  |
+| [Shaking My Head](https://open.spotify.com/track/37Kn4OZyeGaMXWOXp4sLam) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [Shaking My Head](https://open.spotify.com/album/7um95MJ2CQlGFWibM13MRd) | 2:33 | 2025-09-05 | 2025-12-02 |
 | [ShaLala](https://open.spotify.com/track/7JSBM7BSHafBx7RwV5waxR) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [My Name Is…](https://open.spotify.com/album/46axlrG3csbSmbRci3j8ON) | 3:00 | 2025-03-11 | 2025-07-07 |
 | [SHALALA](https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [SHALALA \- The 1st Mini Album](https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp) | 3:21 | 2023-06-06 | 2023-08-04 |
 | [Shark](https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Shark](https://open.spotify.com/album/104jjlIreYgxI8FofxpaFz) | 3:23 | 2021-12-23 | 2022-03-09 |

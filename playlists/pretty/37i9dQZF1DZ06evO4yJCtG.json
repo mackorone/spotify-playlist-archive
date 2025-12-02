@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 154215,
+  "num_followers": 154219,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAABFcgEPuMEaOKwU73ldJflj",
+  "snapshot_id": "aSuJAAAAAAA6z1Gj0UzexyTh3AZw/w9f",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "After the Butterflies",
-        "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
+        "name": "Heart On My Sleeve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
       },
       "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 190498,
-      "name": "All or Nothing (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa"
+      "duration_ms": 230757,
+      "name": "2 O'Clock",
+      "url": "https://open.spotify.com/track/2J6jie0GZHJ9wZ7AzpMrig"
     },
     {
       "added_at": null,
@@ -763,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart On My Sleeve (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
       },
       "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 230757,
-      "name": "2 O'Clock",
-      "url": "https://open.spotify.com/track/2J6jie0GZHJ9wZ7AzpMrig"
+      "duration_ms": 190498,
+      "name": "All or Nothing (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa"
     },
     {
       "added_at": null,

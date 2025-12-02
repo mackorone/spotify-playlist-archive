@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,128 songs - 2 day 15 hr 5 min
+1,129 songs - 2 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -975,6 +975,7 @@
 | [Tension](https://open.spotify.com/track/5fsPCB4c74rgxBtZI38DCE) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Tension](https://open.spotify.com/album/5jAVsqobvDn8gH9DgMeyZU) | 3:41 | 2023-04-10 | 2023-07-05 |
 | [Terminal](https://open.spotify.com/track/5UiBPe2tMACirmcdSpjP13) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Terminal](https://open.spotify.com/album/4BtoDXCj6ktolMeu3Okxma) | 3:10 | 2024-09-09 | 2024-12-03 |
 | [Tether](https://open.spotify.com/track/4DMLxt7joaC4OzbBKCC8I0) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Tether](https://open.spotify.com/album/0nP5bOmiy9MUhv8Gl6Vmqa) | 3:04 | 2024-11-05 | 2025-02-14 |
+| [The Air I Breathe](https://open.spotify.com/track/0vdLN8v547CNvO0J05OS5O) | [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo), [Lukher](https://open.spotify.com/artist/75ZTmZ69JQ6CXbjGHZDZl8) | [The Air I Breathe](https://open.spotify.com/album/1JwruKDh9O2bthiv2pTX2V) | 3:48 | 2025-12-01 |  |
 | [The Banana Song](https://open.spotify.com/track/1fTxD2WAaESaaXJqg2av2X) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [The Banana Song](https://open.spotify.com/album/3Z64U9gwzFb0CNy7bTC0Fs) | 2:45 | 2024-04-01 | 2024-06-18 |
 | [The Beginning](https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Beginning](https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5) | 4:11 | 2024-06-26 | 2024-09-20 |
 | [The Dark](https://open.spotify.com/track/3mE2sIa33kLQtTcSTWrylq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Crimson Child](https://open.spotify.com/artist/3HfDytr1a4fQhrC2J29K6v) | [The Dark](https://open.spotify.com/album/60XUyh545wo0P4HHuVQPsI) | 3:48 | 2023-01-26 | 2023-04-13 |

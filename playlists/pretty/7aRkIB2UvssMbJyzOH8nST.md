@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7aRkIB2UvssMbJyzOH8nST.md) - [plain]
 
 > Ease into your day with these beautiful chill songs – Relaxing Morning Music , Relaxing, Chill Music, Lazy Sunday, Cozy morning, Soft morning tunes, Weekend vibes, Sunday brunch playlist, Slow coffee music, Laid\-back, sounds, Morning acoustic
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 274,912 likes - 170 songs - 9 hr 41 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 274,894 likes - 170 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/7aRkIB2UvssMbJyzOH8nST.md) - [plain]
 | 69 | [lost myself 4 u](https://open.spotify.com/track/730GhznXWwH802wyHVJoqi) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [lost myself 4 u](https://open.spotify.com/album/7nVYdEipAl8lghrBOk0sW6) | 3:50 |
 | 70 | [Two Roads](https://open.spotify.com/track/2LqxUcXsr4c0oc9N47lExD) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Two Roads](https://open.spotify.com/album/5N1HWPxpCPkYSxt5eBwsdi) | 3:34 |
 | 71 | [All I Am](https://open.spotify.com/track/6EC8WKlArPIeWznmf79OMk) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [When I Change My Mind I Don't Mean It \(Deluxe\)](https://open.spotify.com/album/1FJWUHBGshLfJV4NkSvvkm) | 3:08 |
-| 72 | [twin](https://open.spotify.com/track/5DIZg9QqSdzgHmkZ2k2F1a) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:28 |
+| 72 | [Alcohol](https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Alcohol](https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt) | 3:19 |
 | 73 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 |
 | 74 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 |
 | 75 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/7aRkIB2UvssMbJyzOH8nST.md) - [plain]
 | 169 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
 | 170 | [Barcelona](https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:08 |
 
-Snapshot ID: `AAAgpo0G6/FZ3nYWVKL1zAEa16sVvBOV`
+Snapshot ID: `AAAgqj8humRZBC7bRVR2xyXJ5740VjP1`

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Afterimages",
+        "url": "https://open.spotify.com/album/0KJP6gjrr60y15M8tsPade"
+      },
+      "artists": [
+        {
+          "name": "Noxura",
+          "url": "https://open.spotify.com/artist/4H1RjP4HLvLn8QMRGsQTaV"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265079,
+      "name": "All The Streets Were Empty",
+      "url": "https://open.spotify.com/track/2zVQBDD2vKOLpHyCnGiQVk"
+    },
+    {
+      "album": {
         "name": "Amar Otra Vez",
         "url": "https://open.spotify.com/album/2Ll0g3ZhooEvBFdGxrGw8b"
       },
@@ -1034,6 +1052,24 @@
       "duration_ms": 254693,
       "name": "It's a Miracle",
       "url": "https://open.spotify.com/track/7s27mrQHnVSCyRqOaU46HY"
+    },
+    {
+      "album": {
+        "name": "Ain't Dead Yet",
+        "url": "https://open.spotify.com/album/6WgRkxsyY5CNChBN70wGLQ"
+      },
+      "artists": [
+        {
+          "name": "The New Old",
+          "url": "https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "It's Only Rock 'n' Roll (But I Like It)",
+      "url": "https://open.spotify.com/track/6LgYr4tHifLhHdPS5OXkew"
     },
     {
       "album": {
@@ -2332,6 +2368,24 @@
       "duration_ms": 179269,
       "name": "\u0414\u043e\u0440\u043e\u0433\u0438 \u0441\u043d\u0435\u0433\u043e\u043c \u0437\u0430\u043c\u0435\u043b\u043e...",
       "url": "https://open.spotify.com/track/3jST45CWJr4yZPPfWNhap4"
+    },
+    {
+      "album": {
+        "name": "\u0416\u0435\u043d\u0449\u0438\u043d\u0430",
+        "url": "https://open.spotify.com/album/1EauWCGwFOiE58e8Gq6Efp"
+      },
+      "artists": [
+        {
+          "name": "\u042d\u0440\u0438\u043a \u0428\u0430\u0440\u0438\u043f\u043e\u0432",
+          "url": "https://open.spotify.com/artist/4wZEqo5Khk8Dmam8PLe5xq"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184970,
+      "name": "\u0416\u0435\u043d\u0449\u0438\u043d\u0430",
+      "url": "https://open.spotify.com/track/6nMGOXJqekVgIfJWUjyMQt"
     }
   ],
   "url": "https://open.spotify.com/playlist/5CWXyjHfBmLsy0Cm7g20uO"

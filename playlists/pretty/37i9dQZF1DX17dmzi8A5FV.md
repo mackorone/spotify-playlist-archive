@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 
 > All the biggest hits from the biggest boybands!  Cover: One Direction
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,076 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,097 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 27 | [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 |
 | 28 | [Tonight Tonight](https://open.spotify.com/track/2i0AUcEnsDm3dsqLrFWUCq) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Whatever](https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN) | 3:20 |
 | 29 | [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:24 |
-| 30 | [All Night](https://open.spotify.com/track/0dXNQ8dckG4eYfEtq9zcva) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Night & Day \(Night Edition\)](https://open.spotify.com/album/69Pj3ce9XFZUi3XuQylLKf) | 3:17 |
-| 31 | [Can You Stand The Rain](https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 4:57 |
+| 30 | [Can You Stand The Rain](https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 4:57 |
+| 31 | [All Night](https://open.spotify.com/track/0dXNQ8dckG4eYfEtq9zcva) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Night & Day \(Night Edition\)](https://open.spotify.com/album/69Pj3ce9XFZUi3XuQylLKf) | 3:17 |
 | 32 | [One Love](https://open.spotify.com/track/2W5acFzXf5FrktecuD30Or) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [One Love](https://open.spotify.com/album/7hleBoZbfZyL2umi4JzxCL) | 3:27 |
 | 33 | [The Call](https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:24 |
 | 34 | [Peaches & Cream](https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 3:13 |
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 54 | [Everybody in Love](https://open.spotify.com/track/2iLN22AngD3PTsbvBu5ypL) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [JLS](https://open.spotify.com/album/37ocVmUr58CZsunyOapI3m) | 3:15 |
 | 55 | [Everybody Get Up \- Radio Edit](https://open.spotify.com/track/0WGn8xhpPumX73lECUY5Yo) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:03 |
 | 56 | [Let's Get Married](https://open.spotify.com/track/1PmHkalaUHhh0fz23SBHDL) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 4:23 |
-| 57 | [Five Colours In Her Hair](https://open.spotify.com/track/26QkYH0dmzPQBprter9Jsw) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Room On The 3rd Floor](https://open.spotify.com/album/2WMApBk2Flz1G3urFsEUuv) | 2:57 |
-| 58 | [Relight My Fire \(feat\. Lulu\)](https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 4:11 |
-| 59 | [Gone](https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 4:52 |
-| 60 | [Like a Rose](https://open.spotify.com/track/2jvrUFdJTjcgs94427PqHx) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [Here We Come](https://open.spotify.com/album/0YipK1zDiAU6gqdZ31Frnp) | 4:11 |
+| 57 | [Relight My Fire \(feat\. Lulu\)](https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 4:11 |
+| 58 | [Five Colours In Her Hair](https://open.spotify.com/track/26QkYH0dmzPQBprter9Jsw) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Room On The 3rd Floor](https://open.spotify.com/album/2WMApBk2Flz1G3urFsEUuv) | 2:57 |
+| 59 | [Like a Rose](https://open.spotify.com/track/2jvrUFdJTjcgs94427PqHx) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [Here We Come](https://open.spotify.com/album/0YipK1zDiAU6gqdZ31Frnp) | 4:11 |
+| 60 | [Gone](https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 4:52 |
 | 61 | [No One Compares To You](https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:02 |
-| 62 | [Girl On TV](https://open.spotify.com/track/4DJwdQDai9DLYBL9TNrEDo) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:07 |
-| 63 | [Never Forget \- Single Version](https://open.spotify.com/track/1WK7eLVsD0zH4UWm9ob3z6) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Never Forget: The Ultimate Collection](https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI) | 6:24 |
+| 62 | [Never Forget \- Single Version](https://open.spotify.com/track/1WK7eLVsD0zH4UWm9ob3z6) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Never Forget: The Ultimate Collection](https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI) | 6:24 |
+| 63 | [Girl On TV](https://open.spotify.com/track/4DJwdQDai9DLYBL9TNrEDo) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:07 |
 | 64 | [Candy Girl](https://open.spotify.com/track/72OrfuJ9RxfLCoqAMeKHCZ) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Candy Girl](https://open.spotify.com/album/62OvMX7ymbmxO6TKiXDE4v) | 3:55 |
 | 65 | [Caught in the Middle](https://open.spotify.com/track/4UE8T2GKceEaNhn5ORTkyo) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [Make It Good](https://open.spotify.com/album/7aMMpyDflUCZzDFp6LNul0) | 3:26 |
 | 66 | [Chloe \(You're the One I Want\)](https://open.spotify.com/track/036GQb6SETOJJG8BxJTNxc) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 3:42 |

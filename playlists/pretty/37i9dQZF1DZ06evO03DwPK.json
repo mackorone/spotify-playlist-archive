@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 4216106,
+  "num_followers": 4216085,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAD5WZ22XiAX2OBNIC1EgoyX",
+  "snapshot_id": "aSuJAAAAAACF8RRSw1a10fvFHTW+OpyV",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It Will Rain",
+        "url": "https://open.spotify.com/album/4A0vJtV9ok7vmr9ursSKj8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 257720,
+      "name": "It Will Rain",
+      "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Will Rain",
-        "url": "https://open.spotify.com/album/4A0vJtV9ok7vmr9ursSKj8"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 257720,
-      "name": "It Will Rain",
-      "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
     },
     {
       "added_at": null,

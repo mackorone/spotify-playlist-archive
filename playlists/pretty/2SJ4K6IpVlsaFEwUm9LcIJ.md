@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,593 likes - 24 songs - 1 hr 30 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,597 likes - 25 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,5 +32,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 22 | [Chère chambre](https://open.spotify.com/track/67QdtBFncrV2RVth3q9VRC) | [Faust](https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7) | [The Faust Tapes](https://open.spotify.com/album/1OAEmy7XGbuOaZ85UXQELd) | 3:09 |
 | 23 | [Lowdown](https://open.spotify.com/track/5Bz1PAWnF1n1xQDpvwLYg8) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Scary World Theory](https://open.spotify.com/album/08FP6j08db3ZHH5vADaoZ6) | 3:56 |
 | 24 | [Teardrop](https://open.spotify.com/track/0LXPoOxdUEeeT870fl7onI) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP), [KUKII](https://open.spotify.com/artist/6qOEFZyFqonqgBEZn5lkK7) | [Reestablishing Connection \[2020\]](https://open.spotify.com/album/31zWxMVZtTzjqIKYlx4YNB) | 2:03 |
+| 25 | [Siestas ahí](https://open.spotify.com/track/48ZuLtNLHM0I5DdmIo99YZ) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Siestas ahí](https://open.spotify.com/album/4cIU4zFcWB3aacaT8Je8vt) | 4:30 |
 
-Snapshot ID: `AAANdeQPDyy2QL2KzEbBLs28IvCHLXDO`
+Snapshot ID: `AAANdhMRctzNVKIES/nClkpstppg52ru`

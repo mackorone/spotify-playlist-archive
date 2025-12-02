@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,400 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,480 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 60 | [It's Tomorrow Now](https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:43 |
 | 61 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
 | 62 | [Something More](https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 3:18 |
-| 63 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
-| 64 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 |
+| 63 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 |
+| 64 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
 | 65 | [My Dreaming Hill](https://open.spotify.com/track/6WwaIdQ1Ub79fsgwM5k2CK) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 6:12 |
 | 66 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
 | 67 | [Guilt](https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 4:13 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 70 | [A Fading Smile](https://open.spotify.com/track/4zV1IR8ZGLMWgBbVNGnYgd) | [Alcian Blue](https://open.spotify.com/artist/3hIgKWB9U0IMNJsBLfixET) | [Years Too Late](https://open.spotify.com/album/3HEEpQxUXRB7GX9HUcwu6v) | 4:20 |
 | 71 | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/track/2lKvOmRdGrctk2AMPcKhjn) | [Nothing](https://open.spotify.com/artist/6wgWGtoBlNofKC6Z1i4yyW) | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/album/5vMsogprlxHsjreQ57Zz8d) | 4:08 |
 | 72 | [Breather](https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \- The Original Recordings](https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0) | 4:32 |
-| 73 | [Square Wave](https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW) | [The Ecstasy Of Saint Theresa](https://open.spotify.com/artist/37WxvPv7fSfSDpy1H0D4AO) | [Still In A Dream: A Story Of Shoegaze 1988\-1995](https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao) | 3:41 |
-| 74 | [Landing](https://open.spotify.com/track/3JYkqeNDO72o8hNPwKsD6e) | [Fragile Animals](https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7) | [Landing](https://open.spotify.com/album/1wYMTM3mpZLYsoGzl5OFvR) | 3:52 |
+| 73 | [Landing](https://open.spotify.com/track/3JYkqeNDO72o8hNPwKsD6e) | [Fragile Animals](https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7) | [Landing](https://open.spotify.com/album/1wYMTM3mpZLYsoGzl5OFvR) | 3:52 |
+| 74 | [Square Wave](https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW) | [The Ecstasy Of Saint Theresa](https://open.spotify.com/artist/37WxvPv7fSfSDpy1H0D4AO) | [Still In A Dream: A Story Of Shoegaze 1988\-1995](https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao) | 3:41 |
 | 75 | [Sunshy](https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J) | [Alison's Halo](https://open.spotify.com/artist/0QqpFsm55FdqfpCEIiHUgS) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 5:53 |
 | 76 | [Prayer Song](https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo) | [The Charlottes](https://open.spotify.com/artist/4kgTkv0kJu4b2psOX7yJNL) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 4:27 |
 | 77 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 81 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 |
 | 82 | [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 |
 | 83 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 |
-| 84 | [Cherry\-coloured Funk](https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven Or Las Vegas \(Remastered\)](https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E) | 3:12 |
-| 85 | [23](https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl) | 5:18 |
+| 84 | [Thoughtforms \- 2nd Version](https://open.spotify.com/track/7ARIbfiiJA4nyuXyXsGxJL) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/11hFygy8xLDCeECJEDnNEK) | 2:47 |
+| 85 | [Cherry\-coloured Funk](https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven Or Las Vegas \(Remastered\)](https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E) | 3:12 |
 | 86 | [Skin Game](https://open.spotify.com/track/2Paii6qKa1C0AKWLFnruFy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Skin Game](https://open.spotify.com/album/3Vg9mkJSyq18e3ASkYfGaU) | 4:25 |
-| 87 | [Thoughtforms \- 2nd Version](https://open.spotify.com/track/7ARIbfiiJA4nyuXyXsGxJL) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/11hFygy8xLDCeECJEDnNEK) | 2:47 |
+| 87 | [23](https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl) | 5:18 |
 | 88 | [Sight of You](https://open.spotify.com/track/2XMwak0QKaukNo502mcufY) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [The Comforts of Madness](https://open.spotify.com/album/0nIWyOR3JgBnVsJgKQxyWt) | 5:37 |
 | 89 | [Turn Into](https://open.spotify.com/track/0iIZNAtdihZR65sTst3KgZ) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Turn Into](https://open.spotify.com/album/3hGEiHWq02qRrTIWqJrk7U) | 3:23 |
 | 90 | [One](https://open.spotify.com/track/5tC9wEYsOylv7aXeXCRaL3) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Mild Orange](https://open.spotify.com/album/0cHGTDM93EWsLKxwiUzpPF) | 4:11 |

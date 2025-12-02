@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 332,
+  "num_followers": 334,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACAnZTR6Gmj/7Agt/X5PIlR1bgL1ta",
+  "snapshot_id": "AAACBX88vQwJZEtBFPOghgIPylrrev8p",
   "tracks": [
     {
       "added_at": "2025-11-16 12:40:10",
@@ -1487,6 +1487,54 @@
       "duration_ms": 381943,
       "name": "My Energy Transformation",
       "url": "https://open.spotify.com/track/4zpMCYjAJQrazZod6z2Jc1"
+    },
+    {
+      "added_at": "2025-12-01 15:42:21",
+      "album": {
+        "name": "Where Love Became a Ghost",
+        "url": "https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP"
+      },
+      "artists": [
+        {
+          "name": "Blue Remains",
+          "url": "https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv"
+        }
+      ],
+      "duration_ms": 271741,
+      "name": "Where Love Became a Ghost",
+      "url": "https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK"
+    },
+    {
+      "added_at": "2025-12-01 18:25:01",
+      "album": {
+        "name": "You See Me as an Artist",
+        "url": "https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hedger",
+          "url": "https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy"
+        }
+      ],
+      "duration_ms": 143473,
+      "name": "You See Me as an Artist",
+      "url": "https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s"
+    },
+    {
+      "added_at": "2025-12-01 18:32:49",
+      "album": {
+        "name": "UNITED",
+        "url": "https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls"
+      },
+      "artists": [
+        {
+          "name": "Broken Star",
+          "url": "https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6"
+        }
+      ],
+      "duration_ms": 224226,
+      "name": "Coming Home (UNITED)",
+      "url": "https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

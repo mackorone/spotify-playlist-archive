@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > for the baddies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,118 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,293 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 44 | [Usurper](https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [Usurper](https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8) | 3:35 |
 | 45 | [one day](https://open.spotify.com/track/72eNA0R1yKAWOH8Z599i47) | [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC), [Grimzlee](https://open.spotify.com/artist/2cjwLVLbN1d5WaMZg5Em2g), [Skill Syrup](https://open.spotify.com/artist/7FvspmKAf0OXZbxx2A15hW) | [one day](https://open.spotify.com/album/5zY67Arwn1TAUgkvmLpWf3) | 2:34 |
 | 46 | [Atlantis](https://open.spotify.com/track/3p0yOrPChxUXZQgIUg4OLZ) | [Dreams They Have Stolen](https://open.spotify.com/artist/3pvmmwd6f0zBP0Fkp6X4dU), [Artifer](https://open.spotify.com/artist/5DZaSqMnJ9V5KDQVZhns5n) | [Atlantis](https://open.spotify.com/album/7zNKFmUNZ6yAzsYqv0Habc) | 4:02 |
-| 47 | [Sleepyhead](https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw) | 3:12 |
+| 47 | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q) | 3:06 |
 | 48 | [WAR](https://open.spotify.com/track/2Q4t8PCGdjy5Uk6uSxTYpD) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [FEAN IS WAR](https://open.spotify.com/album/28rByyY0tDhN0DfQ2cQiO1) | 4:17 |
 | 49 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
 | 50 | [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Blood on the Sheets](https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i) | 3:49 |
 | 51 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 |
-| 52 | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q) | 3:06 |
+| 52 | [Sleepyhead](https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw) | 3:12 |
 | 53 | [Rolling Out the Red Carpet](https://open.spotify.com/track/5ShA1hnZOOtZZHiObVtrzT) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Wake](https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB) | 2:05 |
 | 54 | [PARADOX](https://open.spotify.com/track/4KZUetMsBaYdvWcLQ3bF3x) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [PARADOX](https://open.spotify.com/album/5LqNAnY30ZnanfbMfqkgmb) | 3:20 |
 | 55 | [Outside](https://open.spotify.com/track/6D46UmiP97e9nxssD4r7tN) | [breakk.away](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Outside](https://open.spotify.com/album/11Hbhd3ShzY3uhNjOaxMUP) | 3:25 |

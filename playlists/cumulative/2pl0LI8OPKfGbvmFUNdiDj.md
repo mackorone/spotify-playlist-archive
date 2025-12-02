@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-195 songs - 10 hr 52 min
+197 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [GOD COMPLEX](https://open.spotify.com/track/2mIQlRDu72rSaQozH4YvIS) | [Hellex](https://open.spotify.com/artist/6PuNkhoTKOgsmnLhUqZBRt) | [GOD COMPLEX](https://open.spotify.com/album/3P7c8yQ8QdTIxiotvmGk42) | 2:38 | 2025-11-01 | 2025-12-01 |
 | [Good Things](https://open.spotify.com/track/71dSBF6OYZXAgttZUkU1R6) | [Belonging](https://open.spotify.com/artist/35Hu3Q5BlAlQgUDH3jATl7) | [Good Things](https://open.spotify.com/album/2ljaFGrgIpGVt04MXHP3IH) | 2:16 | 2025-11-22 |  |
 | [Great Escape](https://open.spotify.com/track/1Qk1TypCuztmSRnPucphnq) | [Ignatius Reilly](https://open.spotify.com/artist/5EvmRBc82fhLAJla8bdCt3) | [Superstitions Fade](https://open.spotify.com/album/6q7sbsq8GVQTzrk4LujFkm) | 5:29 | 2025-11-08 | 2025-12-01 |
+| [Gregorian Time](https://open.spotify.com/track/2GLBxwXrIY5P2kHzZDAtek) | [Lily Quinn](https://open.spotify.com/artist/2vDtkusMUDE17BfHasvShX) | [Seraphic Whisper](https://open.spotify.com/album/3uzuuzA6r2Po42yaiqOS0F) | 4:08 | 2025-12-01 |  |
 | [Guau Guau](https://open.spotify.com/track/6c63incVIBg4FCtvxFUqZX) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 4:32 | 2025-11-03 | 2025-12-01 |
 | [Gélido](https://open.spotify.com/track/4bKbELQHfllBUDB8cFH6ri) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Gélido](https://open.spotify.com/album/0Ws3kH0TFGWPdCXo3cTe9C) | 3:00 | 2025-11-11 | 2025-12-01 |
 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-24 |  |
@@ -96,6 +97,7 @@
 | [Il mio nome è Divoc](https://open.spotify.com/track/5C9onzUPqDPEa1bkicVEvH) | [Mantideatea](https://open.spotify.com/artist/5v1HMdsldVByS7yLgsL3aB) | [Vecchio Progresso](https://open.spotify.com/album/3r1infkoCbumrwUx4nBIEd) | 3:16 | 2025-11-24 |  |
 | [Imagine](https://open.spotify.com/track/0qfZc2BEwvldx3YU55aBJy) | [ELEKTROWAN](https://open.spotify.com/artist/6PAHshSRQPQLC0UWb9v43v) | [Imagine](https://open.spotify.com/album/1GCezoHHagiknb2SwdHAdd) | 3:15 | 2025-11-10 | 2025-12-01 |
 | [In My Dreams](https://open.spotify.com/track/3bJmToSAKBi018GPh5dZk5) | [Emma Galanaki](https://open.spotify.com/artist/3uLWfPiygNLK6JFhj2gCG7) | [In My Dreams](https://open.spotify.com/album/0FFKptQv4URWBWRSJj8Vcx) | 3:45 | 2025-11-08 | 2025-12-01 |
+| [In My Lowrider](https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6) | [Willie of Wilshire](https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS) | [A Day in LA](https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1) | 2:52 | 2025-12-01 |  |
 | [Johnny Drago](https://open.spotify.com/track/7JymuwXjghHmMRVZTXZvaA) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Time Trials](https://open.spotify.com/album/3KNPBIJpxFh4uh1dYkKwcx) | 3:10 | 2025-11-17 |  |
 | [Kick It Up!](https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Kick It Up!](https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR) | 3:19 | 2025-10-19 |  |
 | [Kisses On The Lips](https://open.spotify.com/track/3jrhLw4fhfPi9g4KN4k9i7) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Kisses On The Lips](https://open.spotify.com/album/6hxvNG9uKUhwjn0QdOrW7G) | 4:45 | 2025-11-17 |  |

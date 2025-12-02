@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a>Georgia</a>",
-  "num_followers": 61723,
+  "num_followers": 61724,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAARHzCDiaeHkbYsb6XstcHxhIHvWyez",
+  "snapshot_id": "AAARIaTSfzxViNfDqZovcvj/qQNkmDEB",
   "tracks": [
+    {
+      "added_at": "2025-12-01 11:37:36",
+      "album": {
+        "name": "The House That Doesn\u2019t Exist",
+        "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 143985,
+      "name": "The House That Doesn\u2019t Exist",
+      "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
+    },
     {
       "added_at": "2025-11-26 12:21:21",
       "album": {

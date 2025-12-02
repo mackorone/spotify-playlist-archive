@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste pop songs. Cover: Sienna Spiro",
-  "num_followers": 99302,
+  "num_followers": 99301,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAORaKi3BFWA9fT825pYrDp+y01jH",
+  "snapshot_id": "AAAAANysMOkDZnhyiul5HA5l1DXbDUHo",
   "tracks": [
     {
       "added_at": "2025-11-27 23:00:17",
@@ -71,6 +71,26 @@
       "duration_ms": 174453,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/4N4LVFozqHTxDgPWNprAia"
+    },
+    {
+      "added_at": "2025-11-27 23:00:17",
+      "album": {
+        "name": "The Thing I Love",
+        "url": "https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 172636,
+      "name": "The Thing I Love",
+      "url": "https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu"
     },
     {
       "added_at": "2025-11-27 23:00:17",
@@ -203,26 +223,6 @@
       "duration_ms": 180159,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg"
-    },
-    {
-      "added_at": "2025-11-27 23:00:17",
-      "album": {
-        "name": "The Thing I Love",
-        "url": "https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 172636,
-      "name": "The Thing I Love",
-      "url": "https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu"
     },
     {
       "added_at": "2025-11-27 23:00:17",

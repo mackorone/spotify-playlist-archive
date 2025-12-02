@@ -1,6 +1,6 @@
 {
   "description": "Sweat it out with your favorite country workout songs. Cover: Carrie Underwood",
-  "num_followers": 121826,
+  "num_followers": 121835,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-11-03 22:16:20",
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Somethin' 'Bout A Truck",
+      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
+    },
+    {
+      "added_at": "2025-11-03 22:16:20",
+      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 209733,
       "name": "Beer Can\u2019t Fix",
       "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
-    },
-    {
-      "added_at": "2025-11-03 22:16:20",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Somethin' 'Bout A Truck",
-      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
     },
     {
       "added_at": "2025-11-03 22:16:20",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-11-03 22:16:20",
       "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Baggage",
-      "url": "https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa"
-    },
-    {
-      "added_at": "2025-11-03 22:16:20",
-      "album": {
         "name": "Cole Swindell",
         "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 191906,
       "name": "Ain't Worth the Whiskey",
       "url": "https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn"
+    },
+    {
+      "added_at": "2025-11-03 22:16:20",
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Pontoon",
+      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
     },
     {
       "added_at": "2025-11-03 22:16:20",
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-11-03 22:16:20",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 212320,
-      "name": "Pontoon",
-      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
+      "duration_ms": 152813,
+      "name": "Baggage",
+      "url": "https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa"
     },
     {
       "added_at": "2025-11-03 22:16:20",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2025-11-03 22:16:20",
       "album": {
-        "name": "You Should Be Here",
-        "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        },
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         }
       ],
-      "duration_ms": 177066,
-      "name": "Flatliner (feat. Dierks Bentley)",
-      "url": "https://open.spotify.com/track/0WyFpxYlBCgH1gMXd26OOr"
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
     },
     {
       "added_at": "2025-11-03 22:16:20",
@@ -1083,18 +1079,22 @@
     {
       "added_at": "2025-11-03 22:16:20",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+        "name": "You Should Be Here",
+        "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Wine, Beer, Whiskey",
-      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
+      "duration_ms": 177066,
+      "name": "Flatliner (feat. Dierks Bentley)",
+      "url": "https://open.spotify.com/track/0WyFpxYlBCgH1gMXd26OOr"
     },
     {
       "added_at": "2025-11-03 22:16:20",

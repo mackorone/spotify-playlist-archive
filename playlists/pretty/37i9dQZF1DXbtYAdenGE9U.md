@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,788 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,181 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 27 | [Fire Wire \- Radio Edit](https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Fire Wire](https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY) | 2:51 |
 | 28 | [Mystery Land](https://open.spotify.com/track/1fwmpaKObFM51Nw1g5uJyt) | [Y\-Traxx](https://open.spotify.com/artist/5s2mMsZZjqenfPaKVW4bpT) | [Clubbin'spirit 2](https://open.spotify.com/album/1YJ8Bo9MWNOHh1BImavPht) | 4:01 |
 | 29 | [Greece 2000 \- Edit](https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG) | [Greece 2000](https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n) | 3:39 |
-| 30 | [Superstring \- RANK 1's Radio Edit](https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Superstring](https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3) | 3:07 |
-| 31 | [Don't Give Up](https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:30 |
-| 32 | [Happiness Happening \- Lange Remix](https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA) | [Happiness Happening](https://open.spotify.com/album/0Cv2ksoLYcjvHKP0CZ89s0) | 3:35 |
-| 33 | [Xpander \- Edit](https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [The Xpander E.P.](https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q) | 3:22 |
+| 30 | [Don't Give Up](https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:30 |
+| 31 | [Superstring \- RANK 1's Radio Edit](https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Superstring](https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3) | 3:07 |
+| 32 | [Xpander \- Edit](https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [The Xpander E.P.](https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q) | 3:22 |
+| 33 | [Happiness Happening \- Lange Remix](https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA) | [Happiness Happening](https://open.spotify.com/album/0Cv2ksoLYcjvHKP0CZ89s0) | 3:35 |
 | 34 | [Synaesthesia \(Fly Away\)](https://open.spotify.com/track/5QdgpcfAw8EbsupH0B6BpI) | [The Thrillseekers](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5), [Sheryl Deane](https://open.spotify.com/artist/7dVxjwH88uQMmN69MD61Fa) | [Synaesthesia \(Fly Away\)](https://open.spotify.com/album/5VsjT0u49R46HG9kSYsHMz) | 3:49 |
 | 35 | [Not Over Yet '99 \(feat\. Grace\) \- Radio Edit](https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be), [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet '99 \(feat\. Grace\)](https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH) | 3:34 |
 | 36 | [Time to Burn \- Radio Edit](https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC) | [Storm](https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0) | [Time To Burn 2010](https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku) | 2:55 |

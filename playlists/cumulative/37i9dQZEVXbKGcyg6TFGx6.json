@@ -3782,7 +3782,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -4040,7 +4040,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -6502,7 +6502,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -21276,7 +21276,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -23012,7 +23012,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 141389,
       "name": "G\u00e9n\u00e9ration impolie",
       "url": "https://open.spotify.com/track/7EyB1sN9IUO1YXIoHTyZRk"
@@ -23161,6 +23161,24 @@
     },
     {
       "album": {
+        "name": "A Pentatonix Christmas",
+        "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268956,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx"
+    },
+    {
+      "album": {
         "name": "A Pentatonix Christmas Deluxe",
         "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
       },
@@ -23176,24 +23194,6 @@
       "duration_ms": 268960,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
-    },
-    {
-      "album": {
-        "name": "A Pentatonix Christmas",
-        "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "date_added": "2024-12-02",
-      "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
-      "duration_ms": 268960,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx"
     },
     {
       "album": {
@@ -23378,7 +23378,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 206600,
       "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
       "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
@@ -25860,7 +25860,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 129577,
       "name": "I Run",
       "url": "https://open.spotify.com/track/7yxEOiB5klVkj9RXfia90C"
@@ -27598,7 +27598,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
@@ -31552,7 +31552,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -34664,7 +34664,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -36952,21 +36952,13 @@
       },
       "artists": [
         {
-          "name": "Brian Kierulf",
-          "url": "https://open.spotify.com/artist/7xPxbgA4TgMgFHWgYORx47"
-        },
-        {
-          "name": "Josh Schwartz",
-          "url": "https://open.spotify.com/artist/1s36VyXzwA4Q6RC36tcO6q"
-        },
-        {
           "name": "Britney Spears",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 255400,
       "name": "My Only Wish (This Year)",
       "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
@@ -42104,7 +42096,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 177440,
       "name": "Please Come Home for Christmas - 2013 Remaster",
       "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
@@ -45500,7 +45492,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 174493,
       "name": "RUINART",
       "url": "https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w"
@@ -46368,7 +46360,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 242644,
       "name": "Santa, Can\u2019t You Hear Me",
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
@@ -49112,7 +49104,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -50724,7 +50716,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 272333,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
@@ -53176,7 +53168,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - Non-Album Single",
       "url": "https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck"
@@ -60032,7 +60024,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 183613,
       "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR"
@@ -61324,7 +61316,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 156773,
       "name": "You Make It Feel Like Christmas (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"

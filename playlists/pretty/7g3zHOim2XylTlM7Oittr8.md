@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7g3zHOim2XylTlM7Oittr8.md) - [plain]
 
 > Enjoy the top streamed country songs of 2016 right here! Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,246 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,245 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,785 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,817 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 60 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
 | 61 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
 | 62 | [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 |
-| 63 | [Tomás](https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Tomás](https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c) | 3:02 |
-| 64 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 |
+| 63 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 |
+| 64 | [Tomás](https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Tomás](https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c) | 3:02 |
 | 65 | [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 |
 | 66 | [Soon We Will Reminisce](https://open.spotify.com/track/1Q6eNHzBl7PfGemMSCrAOP) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Soon We Will Reminisce](https://open.spotify.com/album/0LwFkMpnSjOEOPcZECj5a2) | 2:07 |
 | 67 | [High Notes](https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High Notes](https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv) | 2:32 |
 | 68 | [The Water](https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx) | [Bel Tempo](https://open.spotify.com/artist/4pJRvcgbeXo78Lne0j9uKJ), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [The Water](https://open.spotify.com/album/51qnnj0KfsTbijLYHTy0ox) | 3:00 |
-| 69 | [Stay](https://open.spotify.com/track/5yKq9qYTmED7z26BQ7tRdU) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl) | [Stay](https://open.spotify.com/album/5luPtrBhOvzPdaGt9PhoM9) | 3:22 |
-| 70 | [Closer](https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Closer](https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma) | 2:49 |
+| 69 | [Closer](https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Closer](https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma) | 2:49 |
+| 70 | [Stay](https://open.spotify.com/track/5yKq9qYTmED7z26BQ7tRdU) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl) | [Stay](https://open.spotify.com/album/5luPtrBhOvzPdaGt9PhoM9) | 3:22 |
 
 Snapshot ID: `AAAAABjqf0RxFQe5PzfIqhiP/8fTQFFo`

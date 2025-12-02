@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,629 songs - 4 day 3 hr 1 min
+1,631 songs - 4 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [De Mim Terá O Melhor](https://open.spotify.com/track/0kIBjZVunCWQoR0YOe5xcZ) | [Sakura](https://open.spotify.com/artist/3zdj6AlYpqSgCh8w1WfCjn) | [De Mim Terá O Melhor](https://open.spotify.com/album/5FFLojXjwHlsn2gWNQJOTq) | 4:11 | 2025-07-10 |  |
 | [Dead Flowers](https://open.spotify.com/track/3bvqJskS8cw4V2vPY3eC1R) | [Laugal](https://open.spotify.com/artist/2ftFy0PVhjxJkPCi4ivNRe) | [Dead Flowers](https://open.spotify.com/album/4ulTQWYHE3BiIbHTxJ4eUI) | 4:44 | 2025-05-13 |  |
 | [Dead Politiks](https://open.spotify.com/track/2AlnlW7Q1pE1YBziDwLHD5) | [Red Star Martyrs](https://open.spotify.com/artist/7mkHyAZeueFBhPFEe0EJoO), [Haji Mike](https://open.spotify.com/artist/5EV3QkIvzAnEbCmzBUxE1d) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 5:24 | 2024-03-23 |  |
+| [Dear Summer](https://open.spotify.com/track/4GK6QSZ7hxOw13sNjEuc04) | [Urban Grizzly](https://open.spotify.com/artist/7KHXAGYNMTcZkyvMrQwCOj) | [Dear Summer](https://open.spotify.com/album/5dWifVlsFXOqeB0E5438BY) | 4:12 | 2025-12-01 |  |
 | [DEATH](https://open.spotify.com/track/0pwnoUhy57HdGjj1zNzzNV) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 5:06 | 2025-05-22 |  |
 | [Death Roll](https://open.spotify.com/track/1ViiOKBUbJY69lSrRTbDXi) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:01 | 2024-03-04 |  |
 | [Decoded \(Shankara NZ Remix\)](https://open.spotify.com/track/5GzrIURKsk1dFrVX16Qlov) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl), [Shankara NZ](https://open.spotify.com/artist/4Qtb8BZuGO3kLIAmCVxH29) | [Decoded](https://open.spotify.com/album/4y6SuS8cQwkUhoojsG86RY) | 6:56 | 2024-03-17 |  |
@@ -1006,6 +1007,7 @@
 | [No One Like You](https://open.spotify.com/track/52LKwIbzBGEiByhT01Mn65) | [Sandi Padilla](https://open.spotify.com/artist/2iSXutDQwaCqQX7xujsUWq) | [The Frequency of Healing](https://open.spotify.com/album/2klgeDpHJWUaO4ractZY05) | 6:22 | 2025-08-12 |  |
 | [No Other Dub](https://open.spotify.com/track/1TzsrmvHTedCaLDl1UKS2t) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:32 | 2024-03-25 |  |
 | [No Peace](https://open.spotify.com/track/6j1FRcO0AlBxkoFFqwhnCb) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu), [Pasnbesa](https://open.spotify.com/artist/5Y2bckLQhabsfHtaQ5rHZq) | [No Peace](https://open.spotify.com/album/4he5tNS0pe4NllI3n3sLVB) | 3:57 | 2024-09-21 |  |
+| [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2025-12-01 |  |
 | [No WW3](https://open.spotify.com/track/25YGdL2WclZGjmq6YA027U) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 4:01 | 2024-03-23 |  |
 | [None Else](https://open.spotify.com/track/48Havqmv88gVscsSbTYtN8) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 2:42 | 2024-03-25 |  |
 | [Northern Star](https://open.spotify.com/track/33VX9hgtQXJWmH6W1hkwA4) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Northern Star](https://open.spotify.com/album/48ahazq0gDgALwMBxRrLu6) | 2:06 | 2025-11-21 |  |

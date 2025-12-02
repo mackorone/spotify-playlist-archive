@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ivan Greko",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: RACK",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -1925,6 +1925,32 @@
     },
     {
       "album": {
+        "name": "GYALINOS KOSMOS",
+        "url": "https://open.spotify.com/album/6l9neRDoThD9loGS7iwBDJ"
+      },
+      "artists": [
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201507,
+      "name": "DIRTY",
+      "url": "https://open.spotify.com/track/3MAReNQVFzF3xtkaW2bTbf"
+    },
+    {
+      "album": {
         "name": "Disco-Tech",
         "url": "https://open.spotify.com/album/0gcIvBjFvumZy9ecqGUA3x"
       },
@@ -3033,6 +3059,28 @@
     },
     {
       "album": {
+        "name": "GHOSTBUSTERS",
+        "url": "https://open.spotify.com/album/4iDMzmEMKz6eM2Y4UfC3k3"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162233,
+      "name": "GHOSTBUSTERS",
+      "url": "https://open.spotify.com/track/4Z3ey55mT83QaU0wGXJ9OJ"
+    },
+    {
+      "album": {
         "name": "Repetition",
         "url": "https://open.spotify.com/album/2hwW3zp6Hgxpjs5AiUVxuF"
       },
@@ -3470,7 +3518,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 159428,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/6z2o8MUXciVpixpC0r0Jsv"
@@ -3622,6 +3670,28 @@
       "duration_ms": 168888,
       "name": "ILEGAL",
       "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
+    },
+    {
+      "album": {
+        "name": "INEBONUS",
+        "url": "https://open.spotify.com/album/7dgZbBtC1lPFYyTW0liY1R"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159047,
+      "name": "INEBONUS",
+      "url": "https://open.spotify.com/track/0FKY8MHOsg7pY8pRP4M8ma"
     },
     {
       "album": {
@@ -3962,6 +4032,32 @@
       "duration_ms": 207058,
       "name": "Kataramenos",
       "url": "https://open.spotify.com/track/0BX3JjlMC0KOUD1zqXc3Eg"
+    },
+    {
+      "album": {
+        "name": "GYALINOS KOSMOS",
+        "url": "https://open.spotify.com/album/6l9neRDoThD9loGS7iwBDJ"
+      },
+      "artists": [
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247058,
+      "name": "KATHE FORA POU TON HLIO PIANO",
+      "url": "https://open.spotify.com/track/42Nz6Td19soH4iG6objKdm"
     },
     {
       "album": {
@@ -4416,6 +4512,32 @@
       "duration_ms": 192500,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/4Sfb8n4vc3tPOC5dk5A33s"
+    },
+    {
+      "album": {
+        "name": "Lete Lete",
+        "url": "https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213120,
+      "name": "Lete Lete",
+      "url": "https://open.spotify.com/track/676OyMHIOfootgShTPbJgC"
     },
     {
       "album": {
@@ -5990,7 +6112,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 309554,
       "name": "PEGASUS",
       "url": "https://open.spotify.com/track/7zlSJEQdA4UaztxQcGnXrO"
@@ -6410,7 +6532,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 196666,
       "name": "Pros To Paron",
       "url": "https://open.spotify.com/track/0Gppi7bYjmxwovvnqRKc1n"
@@ -6994,7 +7116,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 190030,
       "name": "Siopi Sti Diapason",
       "url": "https://open.spotify.com/track/1Zw1dBNnFCyHWTRWTRk3wW"
@@ -7144,7 +7266,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 239482,
       "name": "Sou Eleipsa H Oxi?",
       "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
@@ -7306,6 +7428,28 @@
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+    },
+    {
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/0H0yH3OAMyV7ukvJu9iWLE"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122637,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/4oT1BiDu0b2P4dDWng62VB"
     },
     {
       "album": {
@@ -7600,7 +7744,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 196701,
       "name": "TELEIA EPAFI",
       "url": "https://open.spotify.com/track/2NWiKEdsg3YGIpZ4fjyGVD"

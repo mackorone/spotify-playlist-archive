@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 
 > This is Sly & The Family Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,838 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,840 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 6 | [I Want to Take You Higher](https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 5:22 |
 | 7 | [Que Sera, Sera \(Whatever Will Be, Will Be\)](https://open.spotify.com/track/52Xfwd81ZsBMDTW2S2X3zz) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 5:22 |
 | 8 | [Hot Fun in the Summertime \- Mono Single Master](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:39 |
-| 9 | [This Is Love](https://open.spotify.com/track/3WVZ2pRenWqfKdRw3c350C) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 2:53 |
+| 9 | [Underdog](https://open.spotify.com/track/2VHALpy5ewC9SAZS6n1hqm) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:57 |
 | 10 | [Sing a Simple Song \- Single Version](https://open.spotify.com/track/3QbfWiLvHcAMYmdRPd9WnX) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:55 |
-| 11 | [Underdog](https://open.spotify.com/track/2VHALpy5ewC9SAZS6n1hqm) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:57 |
+| 11 | [This Is Love](https://open.spotify.com/track/3WVZ2pRenWqfKdRw3c350C) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 2:53 |
 | 12 | [Remember Who You Are](https://open.spotify.com/track/21zc5vR3zofPz2WZIVLYgJ) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 3:17 |
 | 13 | [In Time](https://open.spotify.com/track/21SHzZ1qsXzJ5Socuuyo8w) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 5:47 |
 | 14 | [Stand!](https://open.spotify.com/track/68DqLs1hv7zI08EBvu53wV) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:07 |
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 20 | [The Same Thing \(Makes You Laugh, Makes You Cry\)](https://open.spotify.com/track/5FuDvELQSwjYo36HORMqiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:42 |
 | 21 | [Runnin' Away \- Single Version](https://open.spotify.com/track/2clHc3VGk2bITHsgPY7atj) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 2:57 |
 | 22 | [M'Lady](https://open.spotify.com/track/6GbtYclO9NzN0NLFLmlB7A) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:46 |
-| 23 | [Skin I'm In](https://open.spotify.com/track/0y1eoYIvyK5OLMv6CkH95K) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 2:54 |
+| 23 | [Let Me Have It All](https://open.spotify.com/track/0xY1l2iECKzl7swYdUzCI9) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 2:55 |
 | 24 | [Mother Beautiful](https://open.spotify.com/track/4AXLP8xCcEZkXbD0WmgVSq) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 1:59 |
 | 25 | [\(You Caught Me\) Smilin' \- Single Version](https://open.spotify.com/track/2Q2RWHHUWlrOcot38Q3OPI) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 2:56 |
 | 26 | [Somebody's Watching You](https://open.spotify.com/track/5DCAUoDMRiBiezamBZX4yt) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:20 |
-| 27 | [Let Me Have It All](https://open.spotify.com/track/0xY1l2iECKzl7swYdUzCI9) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 2:55 |
+| 27 | [Skin I'm In](https://open.spotify.com/track/0y1eoYIvyK5OLMv6CkH95K) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 2:54 |
 | 28 | [Loose Booty](https://open.spotify.com/track/2bODSpA5V6atKBN5WKinQG) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:46 |
 | 29 | [Poet](https://open.spotify.com/track/6rQ7RXlfojwjHnUbAseB7D) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 3:02 |
 | 30 | [Fun](https://open.spotify.com/track/70AM9U6VMFtSyjCYc34srx) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 49 | [Turn Me Loose](https://open.spotify.com/track/5min27LLty1G9R270gS0p4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 1:55 |
 | 50 | [Higher \- Single Version](https://open.spotify.com/track/7gwZKwKeogm0h62tJlfq2q) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:47 |
 
-Snapshot ID: `aSo3gAAAAABAZ3wvmjJgPKVmVl+mHurv`
+Snapshot ID: `aSuJAAAAAAD91wkvuQIwBVtkRn+RMTXU`

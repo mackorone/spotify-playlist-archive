@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,839 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,850 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 14 | [Hotel](https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Glazed](https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12) | 2:39 |
 | 15 | [Adults](https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA) | [Kray Stax](https://open.spotify.com/artist/18U2xdC8wtA3Jl6mQcrjWS) | [Adults](https://open.spotify.com/album/2VS6Va3gr1cGiMi2E9SPPE) | 3:37 |
 | 16 | [Skye](https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd) | [Off / Side](https://open.spotify.com/artist/5vAjIRFvJZWeqcIDrWD9uR) | [Skye](https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT) | 3:10 |
-| 17 | [Rahat \- Instrumental](https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:46 |
-| 18 | [HAAT \- Instrumental](https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [HAAT](https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn) | 2:30 |
+| 17 | [HAAT \- Instrumental](https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [HAAT](https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn) | 2:30 |
+| 18 | [Rahat \- Instrumental](https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:46 |
 | 19 | [Spectra](https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Rudimentary](https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy) | 2:09 |
 | 20 | [Draai Je Om \- Instrumental](https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Draai Je Om](https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf) | 3:14 |
 | 21 | [Arrival](https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Arrival](https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe) | 2:45 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 30 | [Eshkol](https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Eshkol](https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV) | 1:58 |
 | 31 | [Qahwah Con Leche](https://open.spotify.com/track/3tUdYudStuFWmlb43jvo24) | [El Bles](https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL), [Thanks Joey](https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk) | [Qahwah Con Leche](https://open.spotify.com/album/4qhILwo49DJUZLXEaaM0fF) | 3:32 |
 | 32 | [SMOK](https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV) | [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv) | [SMOK](https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7) | 2:40 |
-| 33 | [Be Mine](https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN) | [Amine Maxwell](https://open.spotify.com/artist/7fBgvBDrg5ZA7YvweEd1Ii) | [Be Mine](https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8) | 2:02 |
-| 34 | [Targa](https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt) | [Targa](https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3) | 2:52 |
+| 33 | [Targa](https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt) | [Targa](https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3) | 2:52 |
+| 34 | [Be Mine](https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN) | [Amine Maxwell](https://open.spotify.com/artist/7fBgvBDrg5ZA7YvweEd1Ii) | [Be Mine](https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8) | 2:02 |
 | 35 | [Deserted Tree](https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Deserted Tree](https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1) | 2:45 |
 | 36 | [Wie im Traum \- Instrumental](https://open.spotify.com/track/2XlOrYMsqtvxFTtO3ktDhQ) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:24 |
 | 37 | [Emot](https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs) | [TheeAgris](https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB) | [Emot](https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7) | 2:26 |

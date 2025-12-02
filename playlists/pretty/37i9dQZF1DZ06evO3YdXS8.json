@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 639525,
+  "num_followers": 639550,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAA0uKeV5RsdvvgWZoRYwYWR",
+  "snapshot_id": "aSuJAAAAAAC8dvIO6ta5yQyLh6a6vDbf",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Si La Quieres",
-      "url": "https://open.spotify.com/track/2cKCwfztCCpCILaWIBUS6I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live-The Last Concert",
         "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 205400,
       "name": "Si Una Vez - Live",
       "url": "https://open.spotify.com/track/2GFC4Zo3Qz1AF2cmVZkxZh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Si La Quieres",
+      "url": "https://open.spotify.com/track/2cKCwfztCCpCILaWIBUS6I"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "Techno Cumbia 2012",
-      "url": "https://open.spotify.com/track/4dsxlK3ju4g1g15Z7PM6XX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live-The Last Concert",
         "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 403640,
       "name": "Como La Flor - Live From Astrodome",
       "url": "https://open.spotify.com/track/2e5lffoLF7p6YeGbcmigdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Techno Cumbia 2012",
+      "url": "https://open.spotify.com/track/4dsxlK3ju4g1g15Z7PM6XX"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 463266,
+      "name": "Disco Medley - Live From Astrodome",
+      "url": "https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 284973,
       "name": "Buenos Amigos",
       "url": "https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live-The Last Concert",
-        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 463266,
-      "name": "Disco Medley - Live From Astrodome",
-      "url": "https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 148026,
-      "name": "Ven Conmigo",
-      "url": "https://open.spotify.com/track/0R4TBAYYSq1gdEvwNe9aex"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live-The Last Concert",
         "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 125266,
       "name": "Amor Prohibido - Live",
       "url": "https://open.spotify.com/track/11cpWQAHmjzrwA5OgYHtvw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 148026,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/0R4TBAYYSq1gdEvwNe9aex"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movie Soundtrack",
-        "url": "https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 518640,
-      "name": "Cumbia Medley - Live",
-      "url": "https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live-The Last Concert",
         "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 195346,
       "name": "El Chico Del Apartamento 512 - Live",
       "url": "https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movie Soundtrack",
+        "url": "https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 518640,
+      "name": "Cumbia Medley - Live",
+      "url": "https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena: The Series Soundtrack",
-        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Yo Fui Aquella - .",
-      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live-The Last Concert",
         "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 116600,
       "name": "Cobarde - Live",
       "url": "https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Yo Fui Aquella - .",
+      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
     },
     {
       "added_at": null,

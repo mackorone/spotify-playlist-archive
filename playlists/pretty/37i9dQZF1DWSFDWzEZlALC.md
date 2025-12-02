@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Jassin, Edwin Rosen
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,889 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,983 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wieder zurück \(feat\. Edwin Rosen\)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh), [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Arsenalplatz](https://open.spotify.com/album/1LpzaHg585JwktXMEwRH6j) | 3:58 |
 | 2 | [All die schönen Worte feat\. Faber](https://open.spotify.com/track/6d7QE9925lkSV8IxaNC55s) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4), [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [All die schönen Worte feat\. Faber](https://open.spotify.com/album/3aEYufSNb9oRDRQXBxDNi3) | 3:24 |
-| 3 | [GIB MIR DEIN GELD!](https://open.spotify.com/track/0cZUxTmBCPaZqBKHuLRt6H) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [GIB MIR DEIN GELD!](https://open.spotify.com/album/0NNkfONWAf5tgZmCQjIp2L) | 3:56 |
-| 4 | [Flaschenpost](https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Zeitraffer](https://open.spotify.com/album/7L9SoZMJYpDvZCaZg62vVq) | 2:01 |
-| 5 | [geklaut](https://open.spotify.com/track/2bn6CPbM335ggmT67msIUy) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [geklaut](https://open.spotify.com/album/4n4rc4QpTeUDrgO38soAph) | 2:36 |
-| 6 | [leicht](https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [leicht](https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7) | 2:21 |
-| 7 | [BIS EINER WEINT](https://open.spotify.com/track/1iMuG0PaAK5ORbHuIJ54Ah) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [BIS EINER WEINT](https://open.spotify.com/album/2Rtyne5TEgOHq7PCAG4fIy) | 2:53 |
-| 8 | [baby T](https://open.spotify.com/track/3Xyk1vBAJvZZ8ZlkqWG8Wf) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby t](https://open.spotify.com/album/2K6Pdbsu8DDIo4SJDuDYyq) | 2:23 |
-| 9 | [Coming of age Sitcom](https://open.spotify.com/track/71elVtofx6HRFlfIiyZi8B) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [Coming of age Sitcom](https://open.spotify.com/album/2hDcksDCjuc9tUJTxX098k) | 3:19 |
-| 10 | [G€LD](https://open.spotify.com/track/6ZuBdYeF4hDOv81YbtH14J) | [Yunus](https://open.spotify.com/artist/3SrCAswHaxL87fCepyuN0U), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [G€LD](https://open.spotify.com/album/3sUwpjJOfyQ6GIRep8CLJw) | 2:11 |
-| 11 | [für immer kind bleiben](https://open.spotify.com/track/7qAnJ6dSXymBTYEinAFvmt) | [jaschu](https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8) | [für immer kind bleiben](https://open.spotify.com/album/2Lli6Izvojoyd2Lroj1lp3) | 2:39 |
+| 3 | [leicht](https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [leicht](https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7) | 2:21 |
+| 4 | [für immer kind bleiben](https://open.spotify.com/track/7qAnJ6dSXymBTYEinAFvmt) | [jaschu](https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8) | [für immer kind bleiben](https://open.spotify.com/album/2Lli6Izvojoyd2Lroj1lp3) | 2:39 |
+| 5 | [GIB MIR DEIN GELD!](https://open.spotify.com/track/0cZUxTmBCPaZqBKHuLRt6H) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [GIB MIR DEIN GELD!](https://open.spotify.com/album/0NNkfONWAf5tgZmCQjIp2L) | 3:56 |
+| 6 | [Flaschenpost](https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Zeitraffer](https://open.spotify.com/album/7L9SoZMJYpDvZCaZg62vVq) | 2:01 |
+| 7 | [geklaut](https://open.spotify.com/track/2bn6CPbM335ggmT67msIUy) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [geklaut](https://open.spotify.com/album/4n4rc4QpTeUDrgO38soAph) | 2:36 |
+| 8 | [BIS EINER WEINT](https://open.spotify.com/track/1iMuG0PaAK5ORbHuIJ54Ah) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [BIS EINER WEINT](https://open.spotify.com/album/2Rtyne5TEgOHq7PCAG4fIy) | 2:53 |
+| 9 | [baby T](https://open.spotify.com/track/3Xyk1vBAJvZZ8ZlkqWG8Wf) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby t](https://open.spotify.com/album/2K6Pdbsu8DDIo4SJDuDYyq) | 2:23 |
+| 10 | [Coming of age Sitcom](https://open.spotify.com/track/71elVtofx6HRFlfIiyZi8B) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [Coming of age Sitcom](https://open.spotify.com/album/2hDcksDCjuc9tUJTxX098k) | 3:19 |
+| 11 | [G€LD](https://open.spotify.com/track/6ZuBdYeF4hDOv81YbtH14J) | [Yunus](https://open.spotify.com/artist/3SrCAswHaxL87fCepyuN0U), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [G€LD](https://open.spotify.com/album/3sUwpjJOfyQ6GIRep8CLJw) | 2:11 |
 | 12 | [Gegenteil von Glück](https://open.spotify.com/track/6hHrfh59hQJyfxGjGtMQ0h) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/31Q0RTl2JFPyexVMgwub3B) | 2:39 |
 | 13 | [lieblingslied](https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [lieblingslied](https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp) | 2:26 |
 | 14 | [Hunde](https://open.spotify.com/track/1l9ENpcYemz9iAYy5ZuLu1) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Hunde](https://open.spotify.com/album/1qm0apTk5hpPINgNE0sxWO) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Kleiner Herbst](https://open.spotify.com/track/3M4X1K2aZlY43ahioolPkV) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Anlehnen](https://open.spotify.com/album/6aMShdKE0qI3uvTvqwljpL) | 2:11 |
 | 75 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 |
 
-Snapshot ID: `AAAAAA2ZyRg3H+1NHQMLcAN5891CqVWI`
+Snapshot ID: `AAAAAODbMEMiNvRHzxEenGMZeLZ3KLtR`

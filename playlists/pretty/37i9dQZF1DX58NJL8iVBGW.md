@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,941 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,953 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 54 | [O Death \(with Francesco Turrisi\)](https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:13 |
 | 55 | [Dead Man's Pocket](https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 2:54 |
 | 56 | [Black Dog Sin](https://open.spotify.com/track/7h0TNtloK2rFT1DwErSbYn) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Black Dog Sin](https://open.spotify.com/album/1nRFcm0e5wDmejKX2HgQhB) | 3:22 |
-| 57 | [Rosie](https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [Small Town Murder Songs \- Original Soundtrack](https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ) | 3:12 |
-| 58 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
+| 57 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
+| 58 | [Rosie](https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [Small Town Murder Songs \- Original Soundtrack](https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ) | 3:12 |
 | 59 | [Where the Enemy Sleeps \(feat\. Lucette\)](https://open.spotify.com/track/17YEHsH3LwT9yqqQhuid8k) | [Scott Mackay](https://open.spotify.com/artist/2xYS83mlSswjyivp81pukU), [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Twin](https://open.spotify.com/album/5GhI019oC8mS6czOfouj2J) | 3:16 |
 | 60 | [Saint Elizabeth](https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 3:59 |
 | 61 | [Underneath the Blood Moon](https://open.spotify.com/track/76JVAMWG968qRkbccq6ziq) | [South for Winter](https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8) | [Underneath the Blood Moon](https://open.spotify.com/album/0wSfaQBd6ihGGQjGNCza3B) | 4:30 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 87 | [Barton Hollow](https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:25 |
 | 88 | [Ain't No Grave](https://open.spotify.com/track/33gHvO5eLnhxKHgGDu6xu9) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken by a Low Sound](https://open.spotify.com/album/6uFn0hAG96lR9aINZ1N8y8) | 3:21 |
 | 89 | [Canary](https://open.spotify.com/track/6z2WfgI5lYcq1su1WyOxQ9) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:29 |
-| 90 | [Devils](https://open.spotify.com/track/4YJpXSRosOLGssNpjIYsUk) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [War Brides](https://open.spotify.com/album/7vxVCBXPKqZ2YKfKFVTLIe) | 2:24 |
-| 91 | [My Church Is Black](https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ) | [Me And That Man](https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a) | [My Church Is Black](https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG) | 2:58 |
-| 92 | [Snake Song](https://open.spotify.com/track/0ki12WtT63xUQCYkVpRZGZ) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/0cSyiBaPRl6MG4lMuKYL97) | 2:48 |
-| 93 | [Beat The Devil's Tattoo](https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP) | 3:45 |
-| 94 | [The Railroad](https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [A Long Life of Living](https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ) | 4:10 |
-| 95 | [At Night](https://open.spotify.com/track/6Hf3csmUPauF9MsanSZVjk) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [At Night](https://open.spotify.com/album/1kWQBgsWuDTe8qtsYmd4fg) | 3:19 |
-| 96 | [Too Dry to Cry](https://open.spotify.com/track/2mHzmh7saA4O2ZbHFxFp27) | [Willis Earl Beal](https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC) | [Nobody knows.](https://open.spotify.com/album/0MHRNWUvq6JT8hjoL4ilvi) | 4:39 |
-| 97 | [Meet Me In The Alleyway](https://open.spotify.com/track/4qIY8BJt2qBDZT8lm2eFkv) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I'll Never Get Out of This World Alive](https://open.spotify.com/album/1QZxAcimNfPH2jymFKdmDE) | 4:25 |
-| 98 | [Bad Things](https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z) | 5:13 |
-| 99 | [Waiting For The Taker](https://open.spotify.com/track/4fIgjwBCK9YuvmJRQ0r7yW) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Fern Girl and Ice Man](https://open.spotify.com/album/3FX9ygnFTCdOIOgCmC4wVt) | 5:41 |
-| 100 | [Iuka](https://open.spotify.com/track/1jzfEz82pQL6I6S3QnkKET) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Iuka](https://open.spotify.com/album/2RMiOPbbi4kDUeZFspOkUD) | 4:42 |
+| 90 | [Filthy Dirty South](https://open.spotify.com/track/74Fd1uz6wiTaqDXyWK7AXl) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/0jDnfywtNBh634OQD7EOJf) | 5:46 |
+| 91 | [Devils](https://open.spotify.com/track/4YJpXSRosOLGssNpjIYsUk) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [War Brides](https://open.spotify.com/album/7vxVCBXPKqZ2YKfKFVTLIe) | 2:24 |
+| 92 | [My Church Is Black](https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ) | [Me And That Man](https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a) | [My Church Is Black](https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG) | 2:58 |
+| 93 | [Snake Song](https://open.spotify.com/track/0ki12WtT63xUQCYkVpRZGZ) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/0cSyiBaPRl6MG4lMuKYL97) | 2:48 |
+| 94 | [Beat The Devil's Tattoo](https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP) | 3:45 |
+| 95 | [The Railroad](https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [A Long Life of Living](https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ) | 4:10 |
+| 96 | [At Night](https://open.spotify.com/track/6Hf3csmUPauF9MsanSZVjk) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [At Night](https://open.spotify.com/album/1kWQBgsWuDTe8qtsYmd4fg) | 3:19 |
+| 97 | [Too Dry to Cry](https://open.spotify.com/track/2mHzmh7saA4O2ZbHFxFp27) | [Willis Earl Beal](https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC) | [Nobody knows.](https://open.spotify.com/album/0MHRNWUvq6JT8hjoL4ilvi) | 4:39 |
+| 98 | [Meet Me In The Alleyway](https://open.spotify.com/track/4qIY8BJt2qBDZT8lm2eFkv) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I'll Never Get Out of This World Alive](https://open.spotify.com/album/1QZxAcimNfPH2jymFKdmDE) | 4:25 |
+| 99 | [Bad Things](https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z) | 5:13 |
+| 100 | [Waiting For The Taker](https://open.spotify.com/track/4fIgjwBCK9YuvmJRQ0r7yW) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Fern Girl and Ice Man](https://open.spotify.com/album/3FX9ygnFTCdOIOgCmC4wVt) | 5:41 |
 
 Snapshot ID: `AAAAAHwM7dLXNas4G6PMUW4VFtD+trul`

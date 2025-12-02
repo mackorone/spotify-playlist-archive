@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Dan + Shay",
-  "num_followers": 135250,
+  "num_followers": 135261,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2025-11-14 05:00:37",
       "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 320933,
+      "name": "Someone Like You - Piano Vocal",
+      "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
+    },
+    {
+      "added_at": "2025-11-14 05:00:37",
+      "album": {
         "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
         "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 216546,
       "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
       "url": "https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0"
-    },
-    {
-      "added_at": "2025-11-14 05:00:37",
-      "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 320933,
-      "name": "Someone Like You - Piano Vocal",
-      "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
     }
   ],
   "unique_name": "Country Covers",

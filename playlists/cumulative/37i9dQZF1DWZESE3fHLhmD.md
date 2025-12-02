@@ -4,7 +4,7 @@
 
 > Pumpkin Spice everything  🧡
 
-357 songs - 19 hr 4 min
+359 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-09-26 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-01-19 | 2025-08-02 |
 | [ich glaub ich](https://open.spotify.com/track/1mVADHCWdiSsCQdtTlgppI) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [ich glaub ich](https://open.spotify.com/album/4the8S6XlsLrZMkgGzkLMN) | 2:46 | 2025-10-16 | 2025-11-09 |
+| [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 | 2025-12-01 |  |
 | [impstr](https://open.spotify.com/track/5TVdAbllNYNBXQhG0h74lY) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [impstr](https://open.spotify.com/album/5TxPb4YrQ6LUz3RY9Jgohr) | 2:46 | 2023-10-27 | 2023-11-10 |
 | [imsochillandcool](https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [imsochillandcool](https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu) | 3:26 | 2024-11-09 | 2024-12-21 |
 | [In Der Zeit Verlieren](https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF), [alfons.](https://open.spotify.com/artist/6Y44iZaaZDPqrztfH9dcin) | [In Der Zeit Verlieren](https://open.spotify.com/album/131JPd43brI7u4ad651rj8) | 2:38 | 2024-04-19 |  |
@@ -178,7 +179,7 @@
 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 | 2024-05-22 | 2025-03-02 |
 | [lieblingslied](https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [lieblingslied](https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp) | 2:26 | 2025-11-21 |  |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-07-26 | 2023-09-09 |
-| [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-07-26 |  |
+| [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-07-26 | 2025-12-02 |
 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 | 2023-07-26 |  |
 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 | 2023-09-15 | 2024-07-02 |
 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2023-07-26 | 2024-12-07 |
@@ -246,6 +247,7 @@
 | [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 | 2025-11-07 |  |
 | [Radio](https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:34 | 2023-07-26 | 2024-04-19 |
 | [Radio](https://open.spotify.com/track/7oqabZXW9Q8p8szD7G8cTg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/5h5XOo9ZoMhKA4uu0NXiD7) | 3:34 | 2024-07-01 | 2024-12-19 |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-12-01 |  |
 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 | 2024-07-09 | 2024-09-27 |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2023-12-11 | 2024-04-19 |
 | [Real Love Baby](https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa) | 3:09 | 2024-04-19 | 2024-05-27 |
@@ -260,7 +262,7 @@
 | [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 | 2023-07-26 | 2024-09-27 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-26 | 2023-10-17 |
 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 | 2023-10-13 | 2023-10-21 |
-| [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 | 2024-11-09 |  |
+| [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 | 2024-11-09 | 2025-12-02 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-23 | 2025-01-17 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-08-08 |  |
 | [sandmann](https://open.spotify.com/track/0VjaALHWHv43TFwqwf2tKB) | [RGB](https://open.spotify.com/artist/2tfeC4TYQYtV7g1q578LZ6), [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [sandmann](https://open.spotify.com/album/02bdwgTWtG1zIFdhx95L11) | 2:34 | 2023-12-19 | 2024-01-20 |

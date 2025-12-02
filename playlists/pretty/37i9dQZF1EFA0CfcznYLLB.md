@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,782 likes - 302 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,779 likes - 302 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 58 | [More Than That](https://open.spotify.com/track/180WImKPbvdUrboKUov5f4) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [More Than That](https://open.spotify.com/album/5f1rhSMLYVduMx8B62dtPv) | 2:38 |
 | 59 | [Eat It](https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:49 |
 | 60 | [Built My Legacy \(feat\. Offset\)](https://open.spotify.com/track/7Jd3almoehzurMOYuy2eIE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:04 |
-| 61 | [I'm Not Goin' \(feat\. Kevin Gates\)](https://open.spotify.com/track/79GYAkpRIEXZEEKSqufbj8) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Evil Genius](https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX) | 3:16 |
-| 62 | [From Now On \(feat\. Future\)](https://open.spotify.com/track/2wdgjxZPgtrPd8OUqMSuYh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:59 |
+| 61 | [From Now On \(feat\. Future\)](https://open.spotify.com/track/2wdgjxZPgtrPd8OUqMSuYh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:59 |
+| 62 | [I'm Not Goin' \(feat\. Kevin Gates\)](https://open.spotify.com/track/79GYAkpRIEXZEEKSqufbj8) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Evil Genius](https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX) | 3:16 |
 | 63 | [Beep Beep](https://open.spotify.com/track/5iHC401tsNlJRY46ECSYbo) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 1:35 |
 | 64 | [Antisocial \(feat\. Juice WRLD\)](https://open.spotify.com/track/3lakLxKgelrvKBTyGwDXhX) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:22 |
 | 65 | [Why](https://open.spotify.com/track/32i4H0NOOpFeDYk2MtDUJd) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Waking at Dawn](https://open.spotify.com/album/5rvBOTHohJZk2aQHPJi6eU) | 4:22 |
@@ -311,4 +311,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 301 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 302 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `AcDAUAAAAAB3KC7MLrsrFBSxvaXH/7v5`
+Snapshot ID: `AcDF8AAAAABZCwqt/BxRBlyYoZbHUFaU`

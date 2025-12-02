@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. CAPO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,531 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,532 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 79 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 |
 | 80 | [Better Dayz](https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mr\. Biggs](https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:17 |
 | 81 | [Just A Lil Bit](https://open.spotify.com/track/0cGRHovKcI9895yGY13xtp) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Just A Lil Bit](https://open.spotify.com/album/1DMzMBm4jj1GpFJpCHCGwe) | 3:59 |
-| 82 | [La Brabus](https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [La Brabus](https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72) | 3:29 |
-| 83 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE), [Sintapia](https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
+| 82 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
+| 83 | [La Brabus](https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [La Brabus](https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72) | 3:29 |
 | 84 | [Gatito](https://open.spotify.com/track/5dYEvAwG9X2P7f7qvplVzE) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Gatito](https://open.spotify.com/album/3uu5Dvy6FsgoZJBzzwECO8) | 2:58 |
 | 85 | [Anda Bien el Nene](https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Anda Bien el Nene](https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU) | 2:57 |
 | 86 | [SRT](https://open.spotify.com/track/35Z5UYDKI5tyEfEsGMMRaz) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SRT](https://open.spotify.com/album/0NK19kHjoL1Akoyo234nVt) | 2:54 |
@@ -99,13 +99,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 89 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 |
 | 90 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 |
 | 91 | [Lamine Yamal](https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Lamine Yamal](https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J) | 2:43 |
-| 92 | [Heartz Of Men](https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:43 |
-| 93 | [Capuchas](https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Capuchas](https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut) | 2:37 |
+| 92 | [Capuchas](https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Capuchas](https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut) | 2:37 |
+| 93 | [Heartz Of Men](https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:43 |
 | 94 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
 | 95 | [Abayarde](https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 3:22 |
 | 96 | [La Despedida](https://open.spotify.com/track/192yg3gYKtLi5eXlJcsSS8) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py) | [La Despedida](https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB) | 2:28 |
-| 97 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |
-| 98 | [OKRA](https://open.spotify.com/track/74ZovzRxHBvCq5yIwe8boh) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OKRA](https://open.spotify.com/album/0dXN05tQ4StX1W0lwN95Q6) | 2:31 |
+| 97 | [OKRA](https://open.spotify.com/track/74ZovzRxHBvCq5yIwe8boh) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OKRA](https://open.spotify.com/album/0dXN05tQ4StX1W0lwN95Q6) | 2:31 |
+| 98 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |
 | 99 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 |
 | 100 | [GPI](https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [GPI](https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9) | 2:34 |
 

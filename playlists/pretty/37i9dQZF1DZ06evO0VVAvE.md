@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,594 likes - 48 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,610 likes - 48 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 3 | [Beamer](https://open.spotify.com/track/4i3wDQa5VBDPUiREGaS44Z) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:46 |
 | 4 | [Sometimes](https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sometimes](https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip) | 3:04 |
 | 5 | [Trenches Luv](https://open.spotify.com/track/1lcFhGrPvib79Hqm7umnKs) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 3:25 |
-| 6 | [Run from God](https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:21 |
+| 6 | [Lose My Mind](https://open.spotify.com/track/7p0zRjSeJu091IdVihXMHt) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 2:30 |
 | 7 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 |
-| 8 | [Lose My Mind](https://open.spotify.com/track/7p0zRjSeJu091IdVihXMHt) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 2:30 |
+| 8 | [Run from God](https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:21 |
 | 9 | [Introduction](https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:25 |
 | 10 | [Gbedu](https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:47 |
 | 11 | [Mario](https://open.spotify.com/track/5Ck0RUDWbZs5npuXRmjIKU) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:14 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 32 | [Play \(feat\. Fave\)](https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:44 |
 | 33 | [Dealer](https://open.spotify.com/track/44sHaGuDAjwXHAzcCKHHlp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 2:26 |
 | 34 | [Motivate](https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:41 |
-| 35 | [Oba \(feat\. Barry Jhay\)](https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:08 |
+| 35 | [Ali \(Remix\)](https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg) | [Steven Adeoye](https://open.spotify.com/artist/0mXiMVr0qnRXZDogkEPgF6), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Ali \(Remix\)](https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv) | 3:22 |
 | 36 | [Alone \(feat\. Bella Shmurda\)](https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:24 |
-| 37 | [Ali \(Remix\)](https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg) | [Steven Adeoye](https://open.spotify.com/artist/0mXiMVr0qnRXZDogkEPgF6), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Ali \(Remix\)](https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv) | 3:22 |
+| 37 | [Oba \(feat\. Barry Jhay\)](https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:08 |
 | 38 | [All Eyes On Me](https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Different Lane](https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F) | 2:12 |
 | 39 | [On D Low](https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 1:58 |
 | 40 | [Lock Up](https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:14 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 47 | [Daddy Yo](https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
 | 48 | [Overload \(Kala\)](https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Never Stop Vol\. 1](https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw) | 2:29 |
 
-Snapshot ID: `aSo3gAAAAADM8sqyeKs10ilxoY5eAUj6`
+Snapshot ID: `aSuJAAAAAADcvC+SZhdJfCJSzUWyNfJr`

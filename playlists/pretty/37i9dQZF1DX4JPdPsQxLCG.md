@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,407 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,401 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 49 | [Too Late Now](https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:29 |
 | 50 | [Something In The Air](https://open.spotify.com/track/0emd9tHSVP4dK6UG4pcOFD) | [Thunderclap Newman](https://open.spotify.com/artist/1USHlPahTZrCeJXS2v5pkF) | [Hollywood Dream \(Expanded Edition\)](https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87) | 3:54 |
 | 51 | [Another Life](https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Another Life](https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi) | 4:37 |
-| 52 | [Come With Me Now](https://open.spotify.com/track/6FCmFo5oqhPerHy187op7H) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:39 |
-| 53 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
+| 52 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
+| 53 | [Come With Me Now](https://open.spotify.com/track/6FCmFo5oqhPerHy187op7H) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:39 |
 | 54 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
 | 55 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
 | 56 | [What Good?](https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [What Good?](https://open.spotify.com/album/37t024pDno6KveKjG2BvJM) | 2:59 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 70 | [Must Be a Cop](https://open.spotify.com/track/6RVPJhj0AamUoSa5faaufH) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Full\-On Monet](https://open.spotify.com/album/44E4Mfi5mRLWkG263l4mX5) | 3:49 |
 | 71 | [Road Warrior](https://open.spotify.com/track/0sx9zhSNZ0jHGNI1BGgYW4) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Christian](https://open.spotify.com/album/6oUgwvZ2iktgyRulCUogjJ) | 3:12 |
 | 72 | [Wild One](https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Wild One](https://open.spotify.com/album/6uQPitAnucKcatIRufA7om) | 2:22 |
-| 73 | [The Bridge](https://open.spotify.com/track/24jaYO61YocxAaD00zmNTM) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [The Bridge](https://open.spotify.com/album/5jybWpBPGtgDzGftITHCjv) | 3:04 |
-| 74 | [Chinatown In The Rain](https://open.spotify.com/track/6nbflG3dkyaa4YBoYSM8GM) | [Rohin](https://open.spotify.com/artist/0pUsChzvXQKeICRYbmlqWs) | [As The Light Fades](https://open.spotify.com/album/4N4APluc5Uj8rcjWvKFfnb) | 3:56 |
+| 73 | [Chinatown In The Rain](https://open.spotify.com/track/6nbflG3dkyaa4YBoYSM8GM) | [Rohin](https://open.spotify.com/artist/0pUsChzvXQKeICRYbmlqWs) | [As The Light Fades](https://open.spotify.com/album/4N4APluc5Uj8rcjWvKFfnb) | 3:56 |
+| 74 | [The Bridge](https://open.spotify.com/track/24jaYO61YocxAaD00zmNTM) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [The Bridge](https://open.spotify.com/album/5jybWpBPGtgDzGftITHCjv) | 3:04 |
 | 75 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 |
 
 Snapshot ID: `AAAAAMBXHCB+4PWDBY1bR70UkfgExn71`

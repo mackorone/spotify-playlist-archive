@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 44 songs - 2 hr 51 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 46 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 42 | [Collide](https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV) | [Moni Blue](https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5) | [Collide](https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h) | 3:08 |
 | 43 | [MEDUSA](https://open.spotify.com/track/7jUrziB9wx75HUm7FBstrQ) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [MEDUSA](https://open.spotify.com/album/5MWi0gKJigS1MbLRsAegES) | 3:33 |
 | 44 | [Sunday Evening](https://open.spotify.com/track/6rudmQGuyCFqoYJgOnpxbw) | [kroonch](https://open.spotify.com/artist/3XwKaQzzykRkBs7rLY5avT) | [Sunday Evening](https://open.spotify.com/album/3Mxh22R5GYKdxkbqt0KXO8) | 2:22 |
+| 45 | [Only You](https://open.spotify.com/track/3B6AKdVGauMT11fwUWJ8Ga) | [Kaðlín](https://open.spotify.com/artist/30QneQaLsKZZ5pLoRNg1TZ) | [Only You](https://open.spotify.com/album/6Lly4v5CpIs8zsDxS1iqlk) | 1:02 |
+| 46 | [Automático](https://open.spotify.com/track/5FUDj98ylGW4iUcFfiWo50) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Trans](https://open.spotify.com/album/1T2lmX3LY6Vrw0ZMI6eYry) | 3:45 |
 
-Snapshot ID: `AAAjpIyn1vFIt0j8wqmy/p9Z59WCAj5i`
+Snapshot ID: `AAAjpqsontNXqGVfJvP8ntckQ0LkhZCo`

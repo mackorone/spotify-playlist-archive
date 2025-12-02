@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Algernon Cadwallader
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,212 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,238 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 24 | [Fatal Flaw](https://open.spotify.com/track/7iOmNAV74wgniReAH65opV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [There's A Whole World Out There](https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE) | 4:10 |
 | 25 | [World Apart](https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [World Apart](https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd) | 3:00 |
 | 26 | [Sure, Ok](https://open.spotify.com/track/4QAvVugE3bnfY52wEOSs3I) | [First Day Back](https://open.spotify.com/artist/7DgsNBbuNxmm5et9oYHJgx) | [Forward](https://open.spotify.com/album/0YMs1zWAno5lULSw5rlXUp) | 2:21 |
-| 27 | [777](https://open.spotify.com/track/1bIg5pzhE8NCiyzlhh2JtS) | [Riley!](https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps) | [Keep Your Cool](https://open.spotify.com/album/2N2nVXYiltFdU8NL0ACh7T) | 3:00 |
-| 28 | [i used to check my driveway hoping one day i might see you there](https://open.spotify.com/track/74qNCVxEXgqHlb8sZW5Kik) | [empty parking lot](https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB) | [silly songs for a silly girl](https://open.spotify.com/album/4LBL1hPWZd9nddHGVMwdqE) | 2:42 |
+| 27 | [i used to check my driveway hoping one day i might see you there](https://open.spotify.com/track/74qNCVxEXgqHlb8sZW5Kik) | [empty parking lot](https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB) | [silly songs for a silly girl](https://open.spotify.com/album/4LBL1hPWZd9nddHGVMwdqE) | 2:42 |
+| 28 | [777](https://open.spotify.com/track/1bIg5pzhE8NCiyzlhh2JtS) | [Riley!](https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps) | [Keep Your Cool](https://open.spotify.com/album/2N2nVXYiltFdU8NL0ACh7T) | 3:00 |
 | 29 | [Where Blue Light Blooms](https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Feeling Not Found](https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj) | 3:20 |
 | 30 | [Serotonin](https://open.spotify.com/track/0PkriCeqOJvh9QNvfMka7w) | [Covey](https://open.spotify.com/artist/1BWtQmbjRgQ6YaEIizJ5Pe) | [Serotonin](https://open.spotify.com/album/1OISFeE5Pfq40hyzuqtT8H) | 3:17 |
 | 31 | [One Day At A Time](https://open.spotify.com/track/4sOe8FOLNFEYrP3u4xEpsq) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [One Day At A Time](https://open.spotify.com/album/5oEivM3tC7p1dcF133azNT) | 3:13 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 39 | [Really Big Shrimp](https://open.spotify.com/track/1HrlVqg8nu86YRdMIGOGzT) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Really Big Shrimp](https://open.spotify.com/album/3sOldd5oq7qesemjhPgcei) | 4:07 |
 | 40 | [Weekend Fever](https://open.spotify.com/track/7nOTJuYsNzXGDRDYStxAvA) | [Nihilistic Easyrider](https://open.spotify.com/artist/7kKoxT5gbBKVP3Na9BaQnq) | [DELUXE EDITION](https://open.spotify.com/album/6xRvwAmYLGaQnxjolg9bgw) | 3:26 |
 | 41 | [waste away](https://open.spotify.com/track/7qfse0LAPI1kMhUHVcG1La) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [waste away](https://open.spotify.com/album/0lWRAuUBmuMSsZT7ntYTis) | 2:46 |
-| 42 | [yes! yes! a thousand times yes!](https://open.spotify.com/track/4dSataK59s0m0UpNnQX0Ed) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [the whaler](https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0) | 3:54 |
+| 42 | [winning the high school talent show didnt make me more confident like i thought it would](https://open.spotify.com/track/10dYa9nzrib15HF4Z0dMu0) | [empty parking lot](https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB) | [winning the high school talent show didnt make me more confident like i thought it would](https://open.spotify.com/album/0YsUvXxQwssOCVqNS7007m) | 4:15 |
 | 43 | [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 |
-| 44 | [winning the high school talent show didnt make me more confident like i thought it would](https://open.spotify.com/track/10dYa9nzrib15HF4Z0dMu0) | [empty parking lot](https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB) | [winning the high school talent show didnt make me more confident like i thought it would](https://open.spotify.com/album/0YsUvXxQwssOCVqNS7007m) | 4:15 |
+| 44 | [yes! yes! a thousand times yes!](https://open.spotify.com/track/4dSataK59s0m0UpNnQX0Ed) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [the whaler](https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0) | 3:54 |
 | 45 | [Medina Ohio](https://open.spotify.com/track/3bpiG12mjNR0KGZZhtWjnP) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Medina Ohio](https://open.spotify.com/album/5Tz7YUNbcQr7F5KUxequvN) | 3:38 |
 | 46 | [ps pls call me](https://open.spotify.com/track/6p03ssQvEzWVSQxGGyJIML) | [Dear Maryanne](https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8) | [ps pls call me](https://open.spotify.com/album/1y5PrfclvJhAgeHAoHfil7) | 2:34 |
 | 47 | [little pieces](https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [the loneliest place i've ever been](https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO) | 4:02 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 56 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
 | 57 | [closure](https://open.spotify.com/track/3ayeHyZ09bDgxnPfRBS5K2) | [Frat Mouse](https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8) | [flea house](https://open.spotify.com/album/4x5p7yXHi64StUzFmDEtRd) | 2:34 |
 | 58 | [Wisteria](https://open.spotify.com/track/00U358cDNH2xS9B1YTcE0b) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [We Could Be Brave](https://open.spotify.com/album/7CrSe4ZbLVmW0jJcuwpvOL) | 4:52 |
-| 59 | [It Was Real To Me](https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [It Was Real To Me](https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4) | 2:46 |
-| 60 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
+| 59 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
+| 60 | [It Was Real To Me](https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [It Was Real To Me](https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4) | 2:46 |
 | 61 | [Full Speed Ahead](https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 2:34 |
 | 62 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
 | 63 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 72 | [When I Come East](https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [When I Come East](https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p) | 2:51 |
 | 73 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |
 | 74 | [What Tomorrow Brings / Requiem \- Acoustic](https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Together In Lonesome \(Acoustic EP\)](https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j) | 3:24 |
-| 75 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
+| 75 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
 
 Snapshot ID: `AAAAAEfY92Sb6L5MdronXm+BUwlSqj/A`

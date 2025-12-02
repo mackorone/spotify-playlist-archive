@@ -4,14 +4,14 @@
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-128 songs - 11 hr 32 min
+129 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aconcagua](https://open.spotify.com/track/0FYSaSJEndxvjuIEKprPuy) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 3:40 | 2025-11-29 |  |
 | [Aconcagua](https://open.spotify.com/track/1J3YwZoLyuT0pPOtMbenOE) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 3:40 | 2022-09-16 | 2025-11-29 |
 | [Aguamarina](https://open.spotify.com/track/38oA0SevVbUsoZCBDEWcvb) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 4:02 | 2023-01-14 | 2025-06-11 |
-| [Aguamarina](https://open.spotify.com/track/5cN62o6B0GORay2k1tFsDT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 4:02 | 2025-11-30 | 2025-12-01 |
+| [Aguamarina](https://open.spotify.com/track/5cN62o6B0GORay2k1tFsDT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 4:02 | 2025-11-30 |  |
 | [Alumno](https://open.spotify.com/track/7oDgG2GrSs6xEMHGEKVXeF) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 1:23 | 2023-02-14 | 2023-03-18 |
 | [Amor Americano](https://open.spotify.com/track/2devOvQdt2r3lLOWu92O4x) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX) | 5:28 | 2022-09-16 | 2025-11-27 |
 | [Amor Americano](https://open.spotify.com/track/6jjhtVX8EMP7GfxOwWV7SS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk) | 5:28 | 2025-11-27 |  |
@@ -73,6 +73,7 @@
 | [Huaynito de la Mañana](https://open.spotify.com/track/1mdt5Jh5wSHicq7y6jvmuj) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp) | 1:36 | 2025-10-08 | 2025-11-29 |
 | [Indio Hermano \- Versión 1996](https://open.spotify.com/track/2qvdu1d8aO0TvT3jRoxSZ6) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 6:01 | 2025-11-29 |  |
 | [Indio Hermano \- Versión 1996](https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 6:01 | 2022-09-16 | 2025-11-29 |
+| [La Centinela \- Versión 1997](https://open.spotify.com/track/0nYOSO5oocI5qHJn8JupIa) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 5:04 | 2025-12-02 |  |
 | [La Centinela \- Versión 1997](https://open.spotify.com/track/20S5GtOi4DT7suYJ3ifd3F) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 5:04 | 2022-09-16 | 2025-12-01 |
 | [La Conquistada](https://open.spotify.com/track/1iCVobzc6lYXEdvTN0bloD) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 7:13 | 2022-09-16 |  |
 | [La Poderosa Muerte](https://open.spotify.com/track/21fooaqsdHnfEX6I2xszdD) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX) | 11:12 | 2022-09-16 | 2025-11-28 |
@@ -114,7 +115,7 @@
 | [Sueño Del Inca](https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:43 | 2022-09-16 |  |
 | [Takirari del Puerto](https://open.spotify.com/track/1BHHR8y6keQDMdTdiXyxdl) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 3:50 | 2025-11-29 |  |
 | [Takirari del Puerto](https://open.spotify.com/track/361zrhidWZOrmjFExUpfSy) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 3:50 | 2022-09-16 | 2025-11-29 |
-| [Tan Lejos del Sol](https://open.spotify.com/track/1PmsOon14qW3aO8HhZ9D5B) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0) | 6:28 | 2025-12-01 |  |
+| [Tan Lejos del Sol](https://open.spotify.com/track/1PmsOon14qW3aO8HhZ9D5B) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0) | 6:28 | 2025-12-01 | 2025-12-02 |
 | [Tan Lejos del Sol](https://open.spotify.com/track/3WRCP41Htspiy2z9mSxUVK) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 6:28 | 2022-09-16 | 2025-11-26 |
 | [Tarka y Ocarina \(Diablada\-Trote\-Kotaiki\)](https://open.spotify.com/track/3sbeeC62ewTzE1ywXAx0WI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 13:18 | 2022-09-16 | 2025-06-12 |
 | [Todos Americanos](https://open.spotify.com/track/69Evt4yslyJhrDYmkD3DHV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW) | 4:53 | 2022-09-24 | 2025-11-28 |
@@ -133,7 +134,7 @@
 | [Violeta Ausente](https://open.spotify.com/track/3rVxpABVuCYAR6knD0u1xd) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 5:06 | 2025-12-01 |  |
 | [Virgen del Amor](https://open.spotify.com/track/35RP7qnvpvftFj5N5y5dXQ) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 5:08 | 2024-02-10 | 2024-02-14 |
 | [Y Arriba Quemando el Sol](https://open.spotify.com/track/0qarO5TEf1JwiJMyV6GQ23) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 11:03 | 2022-09-16 | 2025-11-26 |
-| [Y Arriba Quemando el Sol](https://open.spotify.com/track/6imqwirgq3MR9N5ovQltDI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 11:03 | 2025-12-01 |  |
+| [Y Arriba Quemando el Sol](https://open.spotify.com/track/6imqwirgq3MR9N5ovQltDI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 11:03 | 2025-12-01 | 2025-12-02 |
 | [Águila Sideral](https://open.spotify.com/track/3TsdkwdKHxMLK047EXtOlc) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX) | 5:22 | 2022-09-16 | 2025-11-28 |
 | [Águila Sideral](https://open.spotify.com/track/5KiAfMWWdmUpoYI0NLIDCq) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk) | 5:22 | 2025-11-28 |  |
 

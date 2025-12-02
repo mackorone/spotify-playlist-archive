@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,996 likes - 307 songs - 18 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,997 likes - 307 songs - 18 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 112 | [Nowhere To Run](https://open.spotify.com/track/72XxzjvIBR0TKljL0ETcGQ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Nowhere To Run](https://open.spotify.com/album/0FblLlqUsJImmPkaKqEkz5) | 3:41 |
 | 113 | [X\-Wing](https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:56 |
 | 114 | [ARE YOU OK?](https://open.spotify.com/track/5Ji2rXNyEQfTIGz1PEkLK9) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A) | 6:34 |
-| 115 | [UGLY \(feat\. Lil Baby\)](https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [UGLY \(feat\. Lil Baby\)](https://open.spotify.com/album/6QKJuikQEvlMmthEFunSUW) | 3:14 |
-| 116 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/7roN0Nu1FdBk9abw7qIbSG) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/4yvsyIKcqYFmUbD5gzb20W) | 2:30 |
+| 115 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/7roN0Nu1FdBk9abw7qIbSG) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/4yvsyIKcqYFmUbD5gzb20W) | 2:30 |
+| 116 | [UGLY \(feat\. Lil Baby\)](https://open.spotify.com/track/0PJ4dXVkpNAtoOZsEjqktc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [UGLY \(feat\. Lil Baby\)](https://open.spotify.com/album/6QKJuikQEvlMmthEFunSUW) | 3:14 |
 | 117 | [Like Me](https://open.spotify.com/track/71kZP3u1h27zyjfULjSxPT) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Remember My Name \(Deluxe\)](https://open.spotify.com/album/3quLLvWeivpGuxi3WiGgzg) | 3:58 |
 | 118 | [I Got A Shot](https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:18 |
 | 119 | [Magic Don Juan \(Princess Diana\)](https://open.spotify.com/track/7pBcryEKcUEaWHwAu1wUyP) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:40 |
@@ -284,8 +284,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 274 | [Options](https://open.spotify.com/track/5AbFf7bcqyFFCSQh3az5XX) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [Options](https://open.spotify.com/album/3bna9MFciOVPiqMzjZ24AO) | 2:59 |
 | 275 | [Sometimes](https://open.spotify.com/track/46Hf77O2IyreVIS6G8BXIV) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [UNDER8ED](https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ) | 4:11 |
 | 276 | [Finally](https://open.spotify.com/track/0Ue6SyGx6Lm2DsQdxUsm5E) | [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L) | [Finally](https://open.spotify.com/album/1sJk23UnhRLiXqIXUZ9bf8) | 2:24 |
-| 277 | [Our Way \(Outro\)](https://open.spotify.com/track/1e7v53dxDmMZ7IseXOEG4j) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r) | [welcome to: OUR HOUSE \(Deluxe\)](https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa) | 5:39 |
-| 278 | [PLANET BEAM](https://open.spotify.com/track/39e9hkMX40YCILJqWEyBKp) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 6:22 |
+| 277 | [PLANET BEAM](https://open.spotify.com/track/39e9hkMX40YCILJqWEyBKp) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 6:22 |
+| 278 | [Our Way \(Outro\)](https://open.spotify.com/track/1e7v53dxDmMZ7IseXOEG4j) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r) | [welcome to: OUR HOUSE \(Deluxe\)](https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa) | 5:39 |
 | 279 | [WTF](https://open.spotify.com/track/7HLjZNXC0BhteqncIigRX1) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [No Weapons](https://open.spotify.com/album/6qCsH9hHN8PPVLvlswoaNt) | 2:30 |
 | 280 | [Too Soon?](https://open.spotify.com/track/7rkIQfm5giweK9Xjwbtg7n) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 3:04 |
 | 281 | [Somebody to Miss You](https://open.spotify.com/track/4iYIvu41J5amGqwy61ERaG) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [All I Wanna Do \(EP\)](https://open.spotify.com/album/7qKgvQvJP7P1uKbSl19Fft) | 3:04 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 306 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 307 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcDAZAAAAACsVq9caA8DhHfFB5WGbUXm`
+Snapshot ID: `AcDFyAAAAADK7Iitp96xe2Ak4r8MFsp1`

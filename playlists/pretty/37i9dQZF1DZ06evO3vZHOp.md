@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,204 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,225 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 5 | [3 Am](https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:28 |
 | 6 | [Mbappe](https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:27 |
 | 7 | [Hola Como Vas](https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:18 |
-| 8 | [$extape](https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [$extape](https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF) | 4:04 |
-| 9 | [THUNDER Y LIGHTNING](https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:37 |
+| 8 | [THUNDER Y LIGHTNING](https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:37 |
+| 9 | [$extape](https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [$extape](https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF) | 4:04 |
 | 10 | [Primer Lugar](https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Primer Lugar](https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe) | 4:05 |
 | 11 | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40/66](https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40/66](https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb) | 2:44 |
 | 12 | [Traviesa \(feat\. Eladio Carrion\)](https://open.spotify.com/track/7E6bhcHhU5LwXjiAITtBkZ) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Do Not Disturb](https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 49 | [Friends \- Remix](https://open.spotify.com/track/54iyLNmcnLWNdCqX5pdtuL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:08 |
 | 50 | [Triste Verano](https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Triste Verano](https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y) | 3:32 |
 
-Snapshot ID: `aSo3gAAAAADZjLQPdiOiNeyfR+lo8WHU`
+Snapshot ID: `aSuJAAAAAAAqxJpGWhgGueMEntt+v86+`

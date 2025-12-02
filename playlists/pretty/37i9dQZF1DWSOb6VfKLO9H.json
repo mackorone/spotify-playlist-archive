@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 103075,
+  "num_followers": 103092,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Boot",
+        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "duration_ms": 197637,
+      "name": "Boot",
+      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 184400,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Boot",
-        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
-      },
-      "artists": [
-        {
-          "name": "Fmg",
-          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
-        }
-      ],
-      "duration_ms": 197637,
-      "name": "Boot",
-      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1735,34 +1735,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Spiritual",
-        "url": "https://open.spotify.com/album/764ROddbOz7lLkKLexbdKR"
-      },
-      "artists": [
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "ADF Samski",
-          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        }
-      ],
-      "duration_ms": 176366,
-      "name": "Spiritual",
-      "url": "https://open.spotify.com/track/4PSltAygj37fHdUccvL1x5"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
         "url": "https://open.spotify.com/album/0BYPTyenqy6oj1LSkcWoz6"
       },
@@ -1791,6 +1763,34 @@
       "duration_ms": 174117,
       "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
       "url": "https://open.spotify.com/track/36UAh8lq8r62uopY9Du1w3"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Spiritual",
+        "url": "https://open.spotify.com/album/764ROddbOz7lLkKLexbdKR"
+      },
+      "artists": [
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "duration_ms": 176366,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/4PSltAygj37fHdUccvL1x5"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2059,26 +2059,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
+        "name": "Amiri Jeans",
+        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
       },
       "artists": [
         {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+          "name": "Philly Mor\u00e9",
+          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
         },
         {
-          "name": "Zefanio",
-          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 204878,
-      "name": "Van Mij (feat. Jandro & Zefanio)",
-      "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
+      "duration_ms": 146822,
+      "name": "Amiri Jeans",
+      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2103,6 +2099,30 @@
       "duration_ms": 156921,
       "name": "Walou Crisis (feat. 3robi & Mula B)",
       "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        },
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Van Mij (feat. Jandro & Zefanio)",
+      "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2195,26 +2215,6 @@
       "duration_ms": 203446,
       "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
       "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "BON VIBES",
-        "url": "https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3"
-      },
-      "artists": [
-        {
-          "name": "Chip Charlez",
-          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
-        },
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "BON VIBES",
-      "url": "https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk"
     }
   ],
   "unique_name": "Oude Party Tunes",

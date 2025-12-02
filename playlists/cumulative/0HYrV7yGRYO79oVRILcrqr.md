@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-194 songs - 11 hr 57 min
+196 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Call My Name](https://open.spotify.com/track/33xuhHhDgCVaEMHXHB9bd8) | [L'Orely & The Scarlett Band](https://open.spotify.com/artist/12aIeiS0nbNCcfRIJss29n) | [Ne doute pas](https://open.spotify.com/album/4rlD5iOOSof6wuxrihIsuW) | 3:40 | 2025-11-02 |  |
 | [Can't Get Enough \- Live](https://open.spotify.com/track/55KAZ5rHlaRtWfY83vva54) | [Rockers On Broadway](https://open.spotify.com/artist/4tBjymJzFjkdHwNPk0aKZP), [Donnie Kehr](https://open.spotify.com/artist/5iMECNzLtUZYMgkGoxRTRG), [Simon Kirke](https://open.spotify.com/artist/0vKffNhiMY9sJ6lyOJL6NF) | [Rockers On Broadway, Vol\. 2 \(Live\)](https://open.spotify.com/album/1WHUj6k8JuNzn5yjGC7IFQ) | 3:10 | 2025-10-17 | 2025-11-28 |
 | [Can't Stop The Bop!](https://open.spotify.com/track/54WZmqgaoO1OyiA7fkurMI) | [Cealee Maag](https://open.spotify.com/artist/595TbVycqvKvUL0dYIudlM), [Pleach](https://open.spotify.com/artist/5fFkXBl9jCXDHcRnJDHeus) | [Can't Stop The Bop!](https://open.spotify.com/album/5p6wMOgSdy4vRwRQLRQK8h) | 4:27 | 2025-10-04 |  |
+| [Cansado del amor](https://open.spotify.com/track/12IELCO5NmSEIk6x8CoDHT) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 2:43 | 2025-12-01 |  |
 | [Captain Frenchy](https://open.spotify.com/track/4NoRvNC07A2CQey6K73d09) | [Teymur Karimli](https://open.spotify.com/artist/21FB5CWks6Hpc9kc7M2JZw) | [Captain Frenchy](https://open.spotify.com/album/5790XMNa3mSfofFLXkS8HR) | 3:20 | 2025-11-09 |  |
 | [Cocomama](https://open.spotify.com/track/10kkQ39P3LF5U4owFUW1D5) | [Pituf Project](https://open.spotify.com/artist/1JZT0UPEFA7lPu94SzUqWh) | [Perception Altérée](https://open.spotify.com/album/6y1AIZMakzsN8OTTiq29zg) | 4:14 | 2025-09-01 |  |
 | [Come on in My Kitchen](https://open.spotify.com/track/7DQjQM2ftbW6gMxqUhGNcN) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Come on in My Kitchen](https://open.spotify.com/album/2qUxGZ5CJdxmwxsxzSgOpf) | 4:06 | 2025-10-16 | 2025-11-28 |
@@ -180,6 +181,7 @@
 | [Troubled](https://open.spotify.com/track/6Z5gGO33AtWMkI0W6gScTN) | [Fat Drive Factory](https://open.spotify.com/artist/6JL7xnHim56hmMNyUDelFE) | [Troubled](https://open.spotify.com/album/27e0SHGsIxErsW0wWTPjpY) | 3:21 | 2025-09-30 |  |
 | [Tête à l'envers](https://open.spotify.com/track/62E5607aqyEGn5T2tz4Fqr) | [Namaspamus](https://open.spotify.com/artist/1pc5KcGRGuzw16cryiEEbY) | [Tête à l'envers](https://open.spotify.com/album/6ISo571ltmZ2flJiyAYkcn) | 3:14 | 2025-10-27 | 2025-11-28 |
 | [Un Rato Más](https://open.spotify.com/track/13Uh63MZHQSGbAIqYisQoS) | [Ruiz de Lope](https://open.spotify.com/artist/3UxGJoUiyIIIu3LYMBelzR) | [Un Rato Más](https://open.spotify.com/album/60Nv8JoGyzxDKKiv28i5mC) | 3:08 | 2025-11-09 |  |
+| [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/track/5kGZUGMDh7wUwEHPOjFKsm) | [Daniel Forsius](https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3) | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/album/4ISu9gFv2wlWWAoMHYVV8a) | 3:15 | 2025-12-01 |  |
 | [UNDER ATTACK](https://open.spotify.com/track/1iZsqUTWkxYXAErYDp3asz) | [R4V€N](https://open.spotify.com/artist/2OeMnrNGgkbdV2Gvi1Z3LP), [Aaron Melody](https://open.spotify.com/artist/29sCXAGfrDIl85EFHdPdUo), [8bitplatypus](https://open.spotify.com/artist/3JgdgdUryJQPn23lmnb55o), [2Dreamers](https://open.spotify.com/artist/3ybOYKLMipfyUbhTo7ngxM) | [UNDER ATTACK](https://open.spotify.com/album/13QO4lcxBgafmVjAFsE9pa) | 3:16 | 2025-11-07 |  |
 | [Unforgettable You](https://open.spotify.com/track/3WH19TThR7mDY2WDL0BVb1) | [Grandpa BoBo](https://open.spotify.com/artist/4i9fnDTJBPHA5kfFj3q8YA) | [Unforgettable You](https://open.spotify.com/album/7jrmeCSsei50OQxOgYKwNt) | 3:09 | 2025-11-05 |  |
 | [Universal Cowboy](https://open.spotify.com/track/3E1Xd1dU70XoR3RDSLJVpH) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Universal Cowboy](https://open.spotify.com/album/4rOErxwAu1auXgapFpo84E) | 4:23 | 2025-11-02 |  |

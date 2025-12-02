@@ -4374,7 +4374,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 328674,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4zQ2O3bAhEO1c0QI5cxJY5"
@@ -5818,7 +5818,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 162958,
       "name": "Miracle of Christmas",
       "url": "https://open.spotify.com/track/0gS3ThEdFsj0FygA8KeXHC"
@@ -5912,6 +5912,24 @@
       "duration_ms": 213426,
       "name": "Nativity",
       "url": "https://open.spotify.com/track/67qGatvyPERJqO7TW64g2v"
+    },
+    {
+      "album": {
+        "name": "No Place Like Home (It's Christmas)",
+        "url": "https://open.spotify.com/album/7nOzfgwgwK8r75QMSVnTm0"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171153,
+      "name": "No Place Like Home (It's Christmas)",
+      "url": "https://open.spotify.com/track/3UolkTMBr42UzGt49GhHkE"
     },
     {
       "album": {
@@ -6952,6 +6970,28 @@
       "duration_ms": 194754,
       "name": "O What A King",
       "url": "https://open.spotify.com/track/4ZYP7XI3QZC0d1Zp2psPKn"
+    },
+    {
+      "album": {
+        "name": "Christmas Mixtape",
+        "url": "https://open.spotify.com/album/0Zlwahf97zOoki7LETwudL"
+      },
+      "artists": [
+        {
+          "name": "Rhett Walker",
+          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
+        },
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206256,
+      "name": "Oh Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/3cg5wqA1sGd2jFpVhk2rqN"
     },
     {
       "album": {

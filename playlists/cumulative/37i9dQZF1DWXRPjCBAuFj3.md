@@ -4,7 +4,7 @@
 
 > Astro ha fatto cantare il forum 🎤 Brani virali e trend, rap e urban 📈
 
-925 songs - 2 day 0 hr 0 min
+926 songs - 2 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -812,6 +812,7 @@
 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 | 2024-05-30 | 2025-07-04 |
 | [Swear to God \(feat\. Future\)](https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Swear to God \(feat\. Future\)](https://open.spotify.com/album/5j8aNVtgdhzP7azN05Z9h5) | 3:00 | 2024-05-10 | 2024-11-03 |
 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 | 2024-08-29 | 2025-07-04 |
+| [Take 6](https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 6](https://open.spotify.com/album/5rBSou2aGWqVv28GiYx11N) | 2:44 | 2025-12-01 |  |
 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b) | 4:41 | 2022-10-28 | 2023-01-03 |
 | [Talk My Shit \(feat\. Amaarae & Flo Milli\)](https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:45 | 2024-07-19 | 2024-11-26 |
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-12 | 2024-02-16 |

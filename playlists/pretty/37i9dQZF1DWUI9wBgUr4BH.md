@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,374 likes - 39 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,347 likes - 39 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

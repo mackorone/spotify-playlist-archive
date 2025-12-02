@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️ Featuring music from: Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, H.E.R, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more\. Chill vibes \| Romantic dinner 2025
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 488,840 likes - 110 songs - 6 hr 55 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 488,809 likes - 110 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 53 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 54 | [When We Were Young](https://open.spotify.com/track/6O5TrlFWTYvznd9fMC0VvU) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:50 |
 | 55 | [Alibi](https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Alibi](https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr) | 3:33 |
-| 56 | [Yours Forever](https://open.spotify.com/track/2A2Vrk5NJwPiiS0NCGZUpv) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Yours Forever](https://open.spotify.com/album/6OAwyyPrXrOA1P9Pr1a1C9) | 3:18 |
+| 56 | [Alcohol](https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Alcohol](https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt) | 3:19 |
 | 57 | [FU & UF](https://open.spotify.com/track/6EmVYBTauOBjejUU5n9GyF) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/6KwW5AwZbyHJD3KyZuuyM1) | 2:39 |
 | 58 | [Her Face](https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Her Face](https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg) | 3:23 |
 | 59 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 109 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
 | 110 | [Baby Be Mine](https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:20 |
 
-Snapshot ID: `AAAVK/IGIusQa5EQtNYgiWanpC081Hr+`
+Snapshot ID: `AAAVL8MO1CnplSrL/CWe3yG7C5Psc1Im`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 他們就是本年度的重點雷達及力推星人！Let's meet the future！Cover: 黃瑋昕 \(Haezee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,554 likes - 36 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,550 likes - 36 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

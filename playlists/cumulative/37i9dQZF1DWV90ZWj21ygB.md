@@ -4,7 +4,7 @@
 
 > Relax to the roaring sound of crashing waves.
 
-262 songs - 12 hr 35 min
+263 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Massive Waves](https://open.spotify.com/track/1vPIDPxEUnDnCWxp9Ffu1S) | [Sundays By The Ocean](https://open.spotify.com/artist/0zZl9VsforOKto9vF8ufLg) | [Volume Two](https://open.spotify.com/album/7tUbD65VOcEepfGQ6LVrd5) | 3:10 | 2022-08-03 |  |
 | [Meditation Waves](https://open.spotify.com/track/69Piw2qUQQBIWdSIhHWzaO) | [Japanese Garden](https://open.spotify.com/artist/3oIpb7nuzcXKzS9hgh4LAQ) | [Stream Of Life](https://open.spotify.com/album/1RaCPUrWLHhG5D2q8uHCJN) | 2:18 | 2022-08-03 |  |
 | [Mediterranean Ocean Waves](https://open.spotify.com/track/6prKls8xG1jFIv6S8i9qxq) | [Tropical Bliss](https://open.spotify.com/artist/0P9soVwRkzTSE7zN8se9CM) | [Mediterranean Ocean Waves](https://open.spotify.com/album/2YYzNDf8AW6xpFIsUzy45i) | 2:59 | 2023-06-19 |  |
-| [Mediterranean Sea](https://open.spotify.com/track/06OXGSu3HfaLcct0AX51Y7) | [Verdelume](https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8) | [Mediterranean Sea](https://open.spotify.com/album/26HRhpTI4y75eprIhUeZya) | 2:22 | 2025-11-10 |  |
+| [Mediterranean Sea](https://open.spotify.com/track/06OXGSu3HfaLcct0AX51Y7) | [Verdelume](https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8) | [Mediterranean Sea](https://open.spotify.com/album/26HRhpTI4y75eprIhUeZya) | 2:22 | 2025-11-10 | 2025-12-02 |
 | [Miami Beach Waves](https://open.spotify.com/track/12Dq3g5lnKjg6sgtQITuUw) | [Chill Bees](https://open.spotify.com/artist/317OsNvmAmolBVu7dLWhhD) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:23 | 2022-08-03 |  |
 | [Misty Waves](https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 2:54 | 2022-08-03 |  |
 | [Morning Tide](https://open.spotify.com/track/0e75LMLqDz7IhEGjswPMfJ) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 3:04 | 2022-08-03 | 2025-11-15 |
@@ -222,6 +222,7 @@
 | [Tropical Waves](https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Relaxed Minds](https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm) | 2:35 | 2022-08-03 |  |
 | [Underwater Symphony](https://open.spotify.com/track/38gVD9RmSNjZG8TvIszftv) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Underwater Symphony](https://open.spotify.com/album/2IRHovngovEhMeN2HapRuB) | 1:49 | 2023-06-19 | 2023-10-12 |
 | [Upstream River Sounds](https://open.spotify.com/track/3HtzQDc13GIkar1d3suvKl) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:49 | 2022-08-03 |  |
+| [Vacation Waves](https://open.spotify.com/track/4K7AP8tMtQnuLF0ei8wcTo) | [Sundays By The Ocean](https://open.spotify.com/artist/0zZl9VsforOKto9vF8ufLg) | [Vacation Waves](https://open.spotify.com/album/6llhvxl7lDVhRbEPrQuxdt) | 3:12 | 2025-11-10 |  |
 | [Vagues Secrètes](https://open.spotify.com/track/1SJWEPfDt9U4t9q2w2UtXv) | [Vagues Dans La Mer](https://open.spotify.com/artist/6DxfAk7g7J4PUg4zFvOK9t) | [Surfez Sur Les Vagues](https://open.spotify.com/album/11VPKyawPrb6lOe2fGQZVZ) | 1:43 | 2022-08-03 | 2023-06-20 |
 | [Venice Beach Waves](https://open.spotify.com/track/7hyGZCYCcnBWpvMrnTpFjC) | [Pacific Ocean Wave Sounds](https://open.spotify.com/artist/5xS7pgxPJgT5afkIppVezB) | [Volume 1](https://open.spotify.com/album/3RSVUGZJ3Zc0iEKZG5mvf9) | 3:09 | 2022-08-03 |  |
 | [Water for relaxation](https://open.spotify.com/track/46G2H1KQtvPiyanCSoZQAN) | [Rivulet](https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8) | [Gentle Waves](https://open.spotify.com/album/7tM4OvM5AlaiTpZCMmH7hy) | 3:16 | 2022-08-03 |  |

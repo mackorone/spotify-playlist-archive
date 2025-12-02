@@ -4,7 +4,7 @@
 
 > This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 47 min
+90 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [El Malandrín](https://open.spotify.com/track/3YfrZf562Ixxq5rAHmO4GI) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 2:21 | 2022-06-12 | 2024-06-26 |
 | [El Melate](https://open.spotify.com/track/6ykBuAVP23NGrXVm9HsuVt) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 3:21 | 2022-06-01 | 2024-06-04 |
 | [El Santo De La Palma](https://open.spotify.com/track/3W9AG3MZIN1EwBijFfpt91) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 3:14 | 2022-06-01 |  |
+| [El Telegrama](https://open.spotify.com/track/6qyesbo3Ma3ZYenR9yTYJ4) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [30 Anos](https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL) | 2:46 | 2025-12-02 |  |
 | [El Terrón](https://open.spotify.com/track/2VQ66m1O2NELSZ5d5a4aMQ) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 2:27 | 2022-06-01 |  |
 | [Eres Mi Estrella](https://open.spotify.com/track/7HtRhY4YrqTIg2NCizbBL4) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Eres Mi Estrella](https://open.spotify.com/album/3gbFQIpKk46W2nJ6hg8gig) | 3:15 | 2022-06-01 | 2024-01-07 |
 | [Esa Triste Guitarra](https://open.spotify.com/track/5DLkYGsCuWVoNKDCUBZInU) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [30 Anos](https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL) | 3:14 | 2025-05-21 | 2025-11-28 |
@@ -93,7 +94,7 @@
 | [Tu Condena \- Ranchera Version](https://open.spotify.com/track/6mwSeGZQuRWkXapSFpzSeW) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Necesito Dueña](https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY) | 2:48 | 2022-06-01 |  |
 | [Tu Retrato](https://open.spotify.com/track/3JAoKeOr0fK8MYeEEQRSzA) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Atraves de la Luna](https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2) | 2:45 | 2022-06-01 | 2024-01-07 |
 | [Tú \- Balada Version](https://open.spotify.com/track/2WLBbZNzqxxga0ZRhUX7w0) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Necesito Dueña](https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY) | 3:44 | 2022-10-09 | 2022-10-11 |
-| [Un Mar De Penas](https://open.spotify.com/track/6k4dy9siLo45PEbLHvOAVN) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [30 Anos](https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL) | 2:23 | 2025-01-10 |  |
+| [Un Mar De Penas](https://open.spotify.com/track/6k4dy9siLo45PEbLHvOAVN) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [30 Anos](https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL) | 2:23 | 2025-01-10 | 2025-12-02 |
 | [Ya No Me Preguntes](https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 2:48 | 2023-11-10 |  |
 | [Zapatos Nuevos](https://open.spotify.com/track/4vSysCCv3X0TEGalKGXPu5) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Recordando A El Shaka](https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa) | 3:01 | 2022-06-01 | 2025-01-10 |
 | [Zapatos Nuevos](https://open.spotify.com/track/7BcdzFXBXCaHVmOmoUXCmo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 3:01 | 2025-02-21 |  |

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-814 songs - 1 day 23 hr 55 min
+815 songs - 2 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [Shoot](https://open.spotify.com/track/5Jp97FprZYGlTMM0tpiMTT) | [Taxidermists](https://open.spotify.com/artist/7pigwk4t0mwGiwrbrQbEV7) | [Shoot](https://open.spotify.com/album/4h2xnaKa1f8T7ki3Fdmmmx) | 1:36 | 2025-01-27 | 2025-03-02 |
 | [Shoot from the Heart](https://open.spotify.com/track/2tuiGLoE9ZNqAamqylsafY) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Ritmo](https://open.spotify.com/album/0xwLWmM77s0319HTS6HJ4T) | 4:26 | 2024-01-05 | 2024-03-10 |
 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2024-04-22 | 2024-05-16 |
+| [Siestas ahí](https://open.spotify.com/track/48ZuLtNLHM0I5DdmIo99YZ) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Siestas ahí](https://open.spotify.com/album/4cIU4zFcWB3aacaT8Je8vt) | 4:30 | 2025-12-01 |  |
 | [Signs](https://open.spotify.com/track/1xxapFhumr4nQ72HwbzTjV) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp) | [Scenic Route \- Road Less Travelled, Vol​​​.​​​ 2](https://open.spotify.com/album/1qMuvJRu4Rc7RmZPdafYU8) | 3:53 | 2024-06-20 | 2024-07-12 |
 | [Signs](https://open.spotify.com/track/7epmAvoQHWEXQKkESieryn) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Cardinal](https://open.spotify.com/album/5j2btF2YP9WdNBo7ZKPEtH) | 2:19 | 2024-04-05 | 2024-05-16 |
 | [Silly Girl](https://open.spotify.com/track/4s8rwUpjO2RT0AiKhS827c) | [Scribble](https://open.spotify.com/artist/3Ib4CzrIzFgmCUuu0kqyH8) | [Scribble](https://open.spotify.com/album/4cOGsGT3sE4PDiejAHrfai) | 3:43 | 2025-01-27 | 2025-03-02 |

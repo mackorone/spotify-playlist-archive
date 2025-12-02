@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Enjoy music from "Nijigasaki High School Idol Club"\. ©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,641 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,639 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 43 | [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 |
 | 44 | [Dream Land!Dream World!](https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Dream Land!Dream World!](https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN) | 3:51 |
 | 45 | [眠れる森に行きたいな](https://open.spotify.com/track/24CUT6eQMpK66kZexYJdhh) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:24 |
-| 46 | [Evergreen](https://open.spotify.com/track/6IR8MKTOD0skW9FKZKl3kH) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:55 |
+| 46 | [MONSTER GIRLS](https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [MONSTER GIRLS](https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi) | 3:56 |
 | 47 | [テレテレパシー](https://open.spotify.com/track/1mMPqcCOJjvWOjBcgNZNdL) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:13 |
-| 48 | [MONSTER GIRLS](https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [MONSTER GIRLS](https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi) | 3:56 |
+| 48 | [Evergreen](https://open.spotify.com/track/6IR8MKTOD0skW9FKZKl3kH) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:55 |
 | 49 | [ヤダ！](https://open.spotify.com/track/6L8bDztOq8w5fWpED5b1Zb) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [L！L！L！ \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:15 |
 | 50 | [My Own Fairy\-Tale](https://open.spotify.com/track/5TKgniNeHWwaH1pf5QV8nA) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:40 |
 

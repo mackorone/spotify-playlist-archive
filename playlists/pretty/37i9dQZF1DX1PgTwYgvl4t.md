@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=Lz1l8CJQQ9O8usenEwIh5w>Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,856 likes - 100 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,979 likes - 100 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 17 | [I PREVAIL \- Live](https://open.spotify.com/track/05e71J5stPJGlANXswQDDu) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Live\)](https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL) | 12:58 |
 | 18 | [Chinecherem](https://open.spotify.com/track/7MERrzA9P7J9NoCBYknyUA) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Chinecherem](https://open.spotify.com/album/1mzwra79YSKnA4WOm6tbdn) | 9:35 |
 | 19 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 |
-| 20 | [GLORY \(It belongs to You\)](https://open.spotify.com/track/0iBuV7UiQN9fJM8YWy9a3A) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [GLORY \(It belongs to You\)](https://open.spotify.com/album/0jvSPTpNzU1pwER0llsYMA) | 3:12 |
+| 20 | [GLORY \(It belongs to You\)](https://open.spotify.com/track/0iBuV7UiQN9fJM8YWy9a3A) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [GLORY \(It belongs to You\)](https://open.spotify.com/album/0jvSPTpNzU1pwER0llsYMA) | 3:14 |
 | 21 | [Adun \- Acoustic](https://open.spotify.com/track/6U6GLUbyFxsQJZw1iFfkc8) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Adun \(Acoustic\)](https://open.spotify.com/album/61Sq2uHcC0aHls8ZwuR15u) | 5:26 |
 | 22 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 |
 | 23 | [Let It Show \(Live\)](https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Let It Show \(Live\)](https://open.spotify.com/album/1yorjTPD4R9JExtEfY70ka) | 7:59 |

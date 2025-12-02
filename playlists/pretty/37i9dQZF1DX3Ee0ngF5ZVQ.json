@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Drake Milligan",
-  "num_followers": 404983,
+  "num_followers": 404964,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-11-15 05:00:20",
       "album": {
+        "name": "Coulda Been Love",
+        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Coulda Been Love",
+      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
+    },
+    {
+      "added_at": "2025-11-15 05:00:20",
+      "album": {
         "name": "Fort Worth",
         "url": "https://open.spotify.com/album/6UoQs8c0c0F9uiJ73jkYd8"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 216796,
       "name": "Fort Worth",
       "url": "https://open.spotify.com/track/4fsfmBOOxwMOJ7DzibpfU5"
-    },
-    {
-      "added_at": "2025-11-15 05:00:20",
-      "album": {
-        "name": "Coulda Been Love",
-        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Coulda Been Love",
-      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
     },
     {
       "added_at": "2025-11-15 05:00:20",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2025-11-15 05:00:20",
       "album": {
+        "name": "A Few Years Back",
+        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
+      },
+      "artists": [
+        {
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+        }
+      ],
+      "duration_ms": 220474,
+      "name": "A Few Years Back",
+      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
+    },
+    {
+      "added_at": "2025-11-15 05:00:20",
+      "album": {
         "name": "Your Bar Now",
         "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 214253,
       "name": "Your Bar Now",
       "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
-    },
-    {
-      "added_at": "2025-11-15 05:00:20",
-      "album": {
-        "name": "A Few Years Back",
-        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
-      },
-      "artists": [
-        {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
-        }
-      ],
-      "duration_ms": 220474,
-      "name": "A Few Years Back",
-      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
     },
     {
       "added_at": "2025-11-15 05:00:20",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2025-11-15 05:00:20",
       "album": {
-        "name": "Broke Umbrella",
-        "url": "https://open.spotify.com/album/6zCrDjTnw73WVSCmpkrCoO"
+        "name": "Clover On The Hillside",
+        "url": "https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976"
       },
       "artists": [
         {
-          "name": "Cameron Sacky Band",
-          "url": "https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0"
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
         }
       ],
-      "duration_ms": 245589,
-      "name": "Broke Umbrella",
-      "url": "https://open.spotify.com/track/4GY7J4ecSUU3wkyIU5GZbs"
+      "duration_ms": 141072,
+      "name": "Clover On The Hillside",
+      "url": "https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03"
     }
   ],
   "unique_name": "Texas Country Now",

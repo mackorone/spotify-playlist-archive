@@ -4,7 +4,7 @@
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-130 songs - 7 hr 25 min
+131 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [We Hug Now](https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh) | 4:08 | 2025-07-04 |  |
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2025-07-04 |  |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/48NthgcgfoRrWT8LtgW28A) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF) | 3:04 | 2025-07-04 |  |
+| [What It Gave Me](https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What It Gave Me](https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva) | 2:44 | 2025-12-01 |  |
 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 | 2025-10-10 |  |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2025-09-18 |  |
 | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG) | 3:10 | 2025-07-04 |  |

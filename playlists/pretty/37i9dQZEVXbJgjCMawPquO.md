@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,691 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,694 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 12 | [Bailando Conmigo](https://open.spotify.com/track/4d4cW91CpcogH1COrpNaH2) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [Bailando Conmigo](https://open.spotify.com/album/1UR0HYFjrVtdbP9eEPGhu6) | 3:13 |
 | 13 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
 | 14 | [Caprichito \(En Vivo\)](https://open.spotify.com/track/2vT5QlaH24MEHSLGcyf84I) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [Caprichito \(En Vivo\)](https://open.spotify.com/album/6S95VlCqSP519PNY8R7obi) | 3:55 |
-| 15 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
+| 15 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
 | 16 | [Chica Vacilona](https://open.spotify.com/track/1xgpbCyimWgC4dYkwFX6zQ) | [Turromantikos](https://open.spotify.com/artist/53uyY4DWcaGrNd5xegj5TC) | [Chica Vacilona](https://open.spotify.com/album/3vOQtgvjHYml9QVs09SOOk) | 2:47 |
 | 17 | [MI DEBILIDAD](https://open.spotify.com/track/4N6qAEYy282pyOprDEU9Dw) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t), [Bonny Lovy](https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1), [Corona](https://open.spotify.com/artist/61HN3ENIM36CPLXzPTvfxJ) | [MI DEBILIDAD](https://open.spotify.com/album/4G7YKEAXQj0kZS25j92v6i) | 3:59 |
 | 18 | [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [Gil](https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:53 |
 | 50 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 |
 
-Snapshot ID: `ML+8gAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MMEG+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

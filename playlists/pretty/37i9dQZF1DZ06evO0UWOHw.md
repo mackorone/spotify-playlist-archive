@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,999 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,009 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 29 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:29 |
 | 30 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/7vCTeLGRwAkLqZr1fphHg1) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/6ceb9dx3TsqZBcBrt3es8n) | 3:46 |
 | 31 | [Pray](https://open.spotify.com/track/5GNDZaBc7yHUp7003hPPDw) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dark Times](https://open.spotify.com/album/6bCbQPwKbD0NRVlN22s7Kt) | 2:46 |
-| 32 | [Apollo](https://open.spotify.com/track/4ua1W0cz4hQfh3VGQdeDAu) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:50 |
-| 33 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
+| 32 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
+| 33 | [Apollo](https://open.spotify.com/track/4ua1W0cz4hQfh3VGQdeDAu) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:50 |
 | 34 | [Holy Father](https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Back In Office](https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO) | 3:04 |
 | 35 | [Ba$Tard, Don't Be Silly](https://open.spotify.com/track/2gf8dPfeIdXHqugQvfaCf3) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:51 |
 | 36 | [Sawa](https://open.spotify.com/track/7lrCHLEPnEs8E1lfxbjrmk) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 2:44 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 39 | [Sunday School](https://open.spotify.com/track/0wpQP0UhO1KkvAIB0jYlT5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:03 |
 | 40 | [My Darling](https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY) | 3:13 |
 | 41 | [Chop & Slide](https://open.spotify.com/track/3WsH5oWObB3Lo1Q0cQjSwq) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:48 |
-| 42 | [Psycho](https://open.spotify.com/track/1WZI9KoHg61cChCLEGi2Gn) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [$exy Girl $ummer \(Vol.1\)](https://open.spotify.com/album/68q09r65wcBidNleimVoLk) | 2:48 |
-| 43 | [Daily Bread](https://open.spotify.com/track/7poaa6i2Uke1kUpVRUX2dP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [King](https://open.spotify.com/album/2Bq1QgK74IvFTiWHh88Ybi) | 2:55 |
+| 42 | [Daily Bread](https://open.spotify.com/track/7poaa6i2Uke1kUpVRUX2dP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [King](https://open.spotify.com/album/2Bq1QgK74IvFTiWHh88Ybi) | 2:55 |
+| 43 | [Psycho](https://open.spotify.com/track/1WZI9KoHg61cChCLEGi2Gn) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [$exy Girl $ummer \(Vol.1\)](https://open.spotify.com/album/68q09r65wcBidNleimVoLk) | 2:48 |
 | 44 | [Special](https://open.spotify.com/track/6vR6tnHPody1hK6pU2Orw3) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [It's Not You, It's Summer](https://open.spotify.com/album/1hge2FgayfY4zOTLKwUbxV) | 3:12 |
 | 45 | [Outlaw](https://open.spotify.com/track/34YiLztdZohs4iwKXxcVgo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 3:17 |
 | 46 | [Jailer](https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Jailer](https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 49 | [Selema \(Po Po\) \- Remix](https://open.spotify.com/track/4etb2MbOkYa90Rvf08kMVf) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\) \[Remix\]](https://open.spotify.com/album/4i88bfyHm8i2rgepa4kcrp) | 5:31 |
 | 50 | [Angelus](https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY) | 3:06 |
 
-Snapshot ID: `aSo3gAAAAABBgXdxk2vp9nL/zZgpvHjk`
+Snapshot ID: `aSuJAAAAAAAdiwNSEUMAsh1nt4xZeM5f`

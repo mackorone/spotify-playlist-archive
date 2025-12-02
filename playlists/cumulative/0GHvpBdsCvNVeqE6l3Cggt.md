@@ -4,11 +4,12 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-52 songs - 3 hr 19 min
+54 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Song For The Lovers](https://open.spotify.com/track/7a90gal9tr3yS8bEXUvu8D) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Alone With Everybody](https://open.spotify.com/album/7rVo1K80X4sr88MxsD0vds) | 5:26 | 2021-03-29 |  |
+| [Automático](https://open.spotify.com/track/5FUDj98ylGW4iUcFfiWo50) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Trans](https://open.spotify.com/album/1T2lmX3LY6Vrw0ZMI6eYry) | 3:45 | 2025-12-01 |  |
 | [Beyond Reach](https://open.spotify.com/track/0hbF6ks1K7QReqX5MDQUsz) | [A Walking Miracle](https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM) | [Beyond Reach](https://open.spotify.com/album/5j30B79NqODEF1OeFgiTdd) | 2:48 | 2025-10-13 |  |
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2021-03-29 |  |
 | [Blood Orange](https://open.spotify.com/track/37ezRYgGPhn8c04W6v6Oyv) | [Zoe Wynns](https://open.spotify.com/artist/7wQ8IMTKvyGSOqjrGnAnit) | [Blood Orange](https://open.spotify.com/album/71vwafT0yr1239fkxRhIy1) | 3:45 | 2025-11-04 | 2025-11-22 |
@@ -36,6 +37,7 @@
 | [MEDUSA](https://open.spotify.com/track/7jUrziB9wx75HUm7FBstrQ) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [MEDUSA](https://open.spotify.com/album/5MWi0gKJigS1MbLRsAegES) | 3:33 | 2025-11-26 |  |
 | [Memoria](https://open.spotify.com/track/7lHiBXwoCvOY1ZJUBWicse) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 3:00 | 2025-10-13 |  |
 | [Motorcycle Emptiness](https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Forever Delayed](https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv) | 5:05 | 2021-03-29 |  |
+| [Only You](https://open.spotify.com/track/3B6AKdVGauMT11fwUWJ8Ga) | [Kaðlín](https://open.spotify.com/artist/30QneQaLsKZZ5pLoRNg1TZ) | [Only You](https://open.spotify.com/album/6Lly4v5CpIs8zsDxS1iqlk) | 1:02 | 2025-12-01 |  |
 | [Panorama](https://open.spotify.com/track/2ujuuoIQYTGRuHi21rHsq4) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Rotation](https://open.spotify.com/album/28RHd7GLjkq20xYnll14Sf) | 2:48 | 2025-10-13 |  |
 | [Permanent Record](https://open.spotify.com/track/3wP0TrbEyiedBDOdOUkDKT) | [GG Fearn](https://open.spotify.com/artist/1IBnZK5Ccb90mmCETbnWBx) | [Permanent Record](https://open.spotify.com/album/0c2SFBNduNDGXeEd99nT1U) | 3:26 | 2024-07-31 |  |
 | [Powder](https://open.spotify.com/track/3OMF3Eq99pNyj7rC4JLsw0) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 2:58 | 2021-11-21 |  |

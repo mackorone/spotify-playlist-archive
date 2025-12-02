@@ -4871,6 +4871,28 @@
     },
     {
       "album": {
+        "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
+        "url": "https://open.spotify.com/album/0szJT51Wsr88AhBpL7Q2ss"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144812,
+      "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
+      "url": "https://open.spotify.com/track/5cGieTJ0FQC2JXqSH4OJpg"
+    },
+    {
+      "album": {
         "name": "Ice e Gin",
         "url": "https://open.spotify.com/album/1w6AdQBOiBEMgZFN7HHVb9"
       },
@@ -7534,7 +7556,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 117230,
       "name": "N\u00e3o Fosse T\u00e3o Tarde - MTG Remix",
       "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"

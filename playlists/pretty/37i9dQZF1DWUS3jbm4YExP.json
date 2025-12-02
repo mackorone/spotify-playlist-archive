@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 854889,
+  "num_followers": 854962,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -279,18 +279,18 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
-        "name": "The Rabbit That Hunts Tigers",
-        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
       "artists": [
         {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 159443,
-      "name": "Pingpxng",
-      "url": "https://open.spotify.com/track/5uaHxu2wJ4YRk37bHWtbTX"
+      "duration_ms": 261926,
+      "name": "Ddoje Facce",
+      "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -311,18 +311,18 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+        "name": "The Rabbit That Hunts Tigers",
+        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 261926,
-      "name": "Ddoje Facce",
-      "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
+      "duration_ms": 159443,
+      "name": "Pingpxng",
+      "url": "https://open.spotify.com/track/5uaHxu2wJ4YRk37bHWtbTX"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
+        "name": "Touch Me (Radio Edit)",
+        "url": "https://open.spotify.com/album/4nUqQb9VTY3Dqe3wBlpFZ9"
+      },
+      "artists": [
+        {
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
+        }
+      ],
+      "duration_ms": 214408,
+      "name": "Touch Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3cmPdhXpjIoMwmuezMwwDZ"
+    },
+    {
+      "added_at": "2025-11-03 17:35:26",
+      "album": {
         "name": "Magnolia Tree",
         "url": "https://open.spotify.com/album/0s8skAYOKtD2M7r6X9LptB"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 168837,
       "name": "Magnolia Tree",
       "url": "https://open.spotify.com/track/3rQWK48enFpN2cAWtrU813"
-    },
-    {
-      "added_at": "2025-11-03 17:35:26",
-      "album": {
-        "name": "Touch Me (Radio Edit)",
-        "url": "https://open.spotify.com/album/4nUqQb9VTY3Dqe3wBlpFZ9"
-      },
-      "artists": [
-        {
-          "name": "Tomos",
-          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
-        }
-      ],
-      "duration_ms": 214408,
-      "name": "Touch Me - Radio Edit",
-      "url": "https://open.spotify.com/track/3cmPdhXpjIoMwmuezMwwDZ"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
-        "name": "La Matanza",
-        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
-      },
-      "artists": [
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 201562,
-      "name": "La Matanza",
-      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2025-11-03 17:35:26",
-      "album": {
         "name": "Wahala Wahala",
         "url": "https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx"
       },
@@ -1123,6 +1103,26 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
+      "added_at": "2025-11-03 17:35:26",
+      "album": {
         "name": "Calima",
         "url": "https://open.spotify.com/album/09ZgnKiHJX0Eo7OVRNyHwR"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 186251,
       "name": "Calima",
       "url": "https://open.spotify.com/track/59fqP4UTf9yP7xLJLyBn1I"
-    },
-    {
-      "added_at": "2025-11-03 17:35:26",
-      "album": {
-        "name": "Mango Season",
-        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 147489,
-      "name": "Mango Season",
-      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -1171,6 +1155,22 @@
       "duration_ms": 293999,
       "name": "Homo Sapiens",
       "url": "https://open.spotify.com/track/7237Rc0OgaozeyigB1VPn0"
+    },
+    {
+      "added_at": "2025-11-03 17:35:26",
+      "album": {
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+        }
+      ],
+      "duration_ms": 257019,
+      "name": "Nisyan",
+      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
+    },
+    {
+      "added_at": "2025-11-03 17:35:26",
+      "album": {
         "name": "Como Fuego",
         "url": "https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi"
       },
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
-        "name": "Compilation",
-        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+        "name": "Countryman '82",
+        "url": "https://open.spotify.com/album/5TANOhy2EyTNRjaUhUrhul"
       },
       "artists": [
         {
-          "name": "Ahmed Fakroun",
-          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
         }
       ],
-      "duration_ms": 257019,
-      "name": "Nisyan",
-      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
+      "duration_ms": 243442,
+      "name": "Countryman '82",
+      "url": "https://open.spotify.com/track/2FLejaz3c5gLUMViFIjddZ"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -1487,22 +1503,6 @@
       "duration_ms": 214638,
       "name": "you loved me like a fool",
       "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
-    },
-    {
-      "added_at": "2025-11-03 17:35:26",
-      "album": {
-        "name": "Countryman '82",
-        "url": "https://open.spotify.com/album/5TANOhy2EyTNRjaUhUrhul"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 243442,
-      "name": "Countryman '82",
-      "url": "https://open.spotify.com/track/2FLejaz3c5gLUMViFIjddZ"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
-        "name": "Waiting For The Punchline (Swallertrip)",
-        "url": "https://open.spotify.com/album/1EnXmluTzfCoiEluGATRLp"
+        "name": "Perak",
+        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
       },
       "artists": [
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
         }
       ],
-      "duration_ms": 203688,
-      "name": "Waiting For The Punchline (Swallertrip)",
-      "url": "https://open.spotify.com/track/740u0eelwwCQ6pfgQzg1Gy"
+      "duration_ms": 172777,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
-        "name": "Perak",
-        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
+        "name": "Waiting For The Punchline (Swallertrip)",
+        "url": "https://open.spotify.com/album/1EnXmluTzfCoiEluGATRLp"
       },
       "artists": [
         {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 172777,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
+      "duration_ms": 203688,
+      "name": "Waiting For The Punchline (Swallertrip)",
+      "url": "https://open.spotify.com/track/740u0eelwwCQ6pfgQzg1Gy"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
+        "name": "La N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 244403,
+      "name": "La N\u00famero Uno",
+      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2025-11-03 17:35:26",
+      "album": {
         "name": "Dubby Sunday",
         "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 348662,
       "name": "Dubby Sunday",
       "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
-    },
-    {
-      "added_at": "2025-11-03 17:35:26",
-      "album": {
-        "name": "La N\u00famero Uno",
-        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 244403,
-      "name": "La N\u00famero Uno",
-      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -2139,18 +2139,18 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
-        "name": "Darker Than Blue",
-        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
+        "name": "G\u200b\u00fc\u200ble G\u200b\u00fc\u200ble",
+        "url": "https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW"
       },
       "artists": [
         {
-          "name": "Devon Russell",
-          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl"
         }
       ],
-      "duration_ms": 235706,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
+      "duration_ms": 223764,
+      "name": "Guzelim Benim",
+      "url": "https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -2171,18 +2171,18 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
-        "name": "G\u200b\u00fc\u200ble G\u200b\u00fc\u200ble",
-        "url": "https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW"
+        "name": "Darker Than Blue",
+        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
       },
       "artists": [
         {
-          "name": "Romano",
-          "url": "https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl"
+          "name": "Devon Russell",
+          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
         }
       ],
-      "duration_ms": 223764,
-      "name": "Guzelim Benim",
-      "url": "https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl"
+      "duration_ms": 235706,
+      "name": "Move on Up",
+      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 175632,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
-    },
-    {
-      "added_at": "2025-11-03 17:35:26",
-      "album": {
         "name": "ELCANO",
         "url": "https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 298826,
       "name": "Negro Santo",
       "url": "https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk"
+    },
+    {
+      "added_at": "2025-11-03 17:35:26",
+      "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 175632,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
+        "name": "Ancients / It's Starting",
+        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "duration_ms": 309857,
+      "name": "It's Starting",
+      "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
+    },
+    {
+      "added_at": "2025-11-03 17:35:26",
+      "album": {
         "name": "Haraka / Khamsin",
         "url": "https://open.spotify.com/album/1RghaiZjw0Oj3Cx5YHlnaz"
       },
@@ -2523,22 +2539,6 @@
       "duration_ms": 195368,
       "name": "Khamsin",
       "url": "https://open.spotify.com/track/34ZhsFLWuq1glsOGwMnDCi"
-    },
-    {
-      "added_at": "2025-11-03 17:35:26",
-      "album": {
-        "name": "Ancients / It's Starting",
-        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
-      },
-      "artists": [
-        {
-          "name": "RIO KOSTA",
-          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
-        }
-      ],
-      "duration_ms": 309857,
-      "name": "It's Starting",
-      "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
     },
     {
       "added_at": "2025-11-03 17:35:26",
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2025-11-03 17:35:26",
       "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
-    },
-    {
-      "added_at": "2025-11-03 17:35:26",
-      "album": {
         "name": "Fighting Slowly",
         "url": "https://open.spotify.com/album/7vXFAnHHFWDPECJLi89PPk"
       },
@@ -2595,6 +2579,22 @@
       "duration_ms": 322819,
       "name": "Fighting Slowly",
       "url": "https://open.spotify.com/track/4BPmWt2dEIP0ygttCwLBq6"
+    },
+    {
+      "added_at": "2025-11-03 17:35:26",
+      "album": {
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "added_at": "2025-11-03 17:35:26",

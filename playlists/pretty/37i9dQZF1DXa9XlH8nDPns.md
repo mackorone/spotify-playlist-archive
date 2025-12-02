@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 
 > Feelgood indie & roadtrip bangers
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,587 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,593 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 23 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
 | 24 | [Man On The Moon](https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Man On The Moon](https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb) | 2:39 |
 | 25 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 |
-| 26 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
-| 27 | [Same Old Song](https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 2:54 |
+| 26 | [Same Old Song](https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 2:54 |
+| 27 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 | 28 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 |
 | 29 | [Diamonds & Roses](https://open.spotify.com/track/5dQ1oSOiGzfPPbPpzWTT7Y) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Diamonds & Roses](https://open.spotify.com/album/6zWSQlnZvg7Tr8Koz3BMI6) | 2:45 |
 | 30 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 50 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
 | 51 | [Take a trip](https://open.spotify.com/track/2lc22De7oWxlAj5Dm3JDy4) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Take a trip](https://open.spotify.com/album/0K6gjjwKxkwlwBWHOfYxMB) | 2:27 |
 | 52 | [Sweet Love \(coconut\)](https://open.spotify.com/track/4klmKtdoQRFiUy81avReWA) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:42 |
-| 53 | [Vanishing Point](https://open.spotify.com/track/2x99yY56oIokc7Wi6969mI) | [Sunbeam Sound Machine](https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq) | [Vanishing Point](https://open.spotify.com/album/6ecsDCvIi7BsZmyUHEYHyV) | 4:58 |
-| 54 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 |
-| 55 | [Drive](https://open.spotify.com/track/5tdS0ZR30mNjJKGS6YU8kA) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [The Mustard Seed](https://open.spotify.com/album/7ri2zz9FdwG1fcmUMHXe1R) | 3:29 |
+| 53 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 |
+| 54 | [Drive](https://open.spotify.com/track/5tdS0ZR30mNjJKGS6YU8kA) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [The Mustard Seed](https://open.spotify.com/album/7ri2zz9FdwG1fcmUMHXe1R) | 3:29 |
+| 55 | [Vanishing Point](https://open.spotify.com/track/2x99yY56oIokc7Wi6969mI) | [Sunbeam Sound Machine](https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq) | [Vanishing Point](https://open.spotify.com/album/6ecsDCvIi7BsZmyUHEYHyV) | 4:58 |
 | 56 | [I Wanna Know](https://open.spotify.com/track/3dHxz2xClaQdyh8KuZIwrr) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [I Wanna Know](https://open.spotify.com/album/7jqC0VJUpFoEY8W1H69i76) | 3:44 |
 | 57 | [Sunny Baby](https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Sunny Baby](https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa) | 3:19 |
 | 58 | [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 |

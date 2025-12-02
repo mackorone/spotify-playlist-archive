@@ -4,7 +4,7 @@
 
 > Songs from the UK's best kids musicians and characters.
 
-90 songs - 3 hr 34 min
+91 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,12 +91,13 @@
 | [The Wheels on the Bus](https://open.spotify.com/track/0hzaZcWMIhWlUwrgOdZiHJ) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Action Songs](https://open.spotify.com/album/4E2rZ8JY1CaDdvwlCGq03B) | 1:06 | 2025-05-22 |  |
 | [This Song Belongs to You](https://open.spotify.com/track/54kCoe6ix7rXjFym0nqiHh) | [YolanDa](https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq) | [YolanDa's Band Jam](https://open.spotify.com/album/5ao41Lw4krw6XAn8KI0jbc) | 3:10 | 2025-05-22 |  |
 | [Tidy up Song](https://open.spotify.com/track/4nTkqnEJ7ueMWoRMjOqDuF) | [Sticky Kids](https://open.spotify.com/artist/76vBk1P2JmNY2HSfWZGNjD) | [Rattle & Shake with the Sticky Kids](https://open.spotify.com/album/2KpmmCvAFPYiAzLAvALXg7) | 2:27 | 2025-05-22 |  |
-| [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/6yh2rSvK4QsB45Bc6wwsHV) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [The Rainbow Collections Boxset](https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB) | 3:20 | 2025-05-22 |  |
+| [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/6yh2rSvK4QsB45Bc6wwsHV) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [The Rainbow Collections Boxset](https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB) | 3:20 | 2025-05-22 | 2025-12-02 |
 | [Walking in the Rain](https://open.spotify.com/track/15nIJLXwow0NZD1Xlc9pkI) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR) | [Nature With Me](https://open.spotify.com/album/4TwngJaoSeoxrXdVwvDsbM) | 1:04 | 2025-05-22 |  |
 | [Walking through the Jungle](https://open.spotify.com/track/5pKrfHEgKkqeuPkFM8nO7H) | [Piccolo Music](https://open.spotify.com/artist/1JYuWmfI1YsWKxb050RxRI) | [Hip Hop Happy : Happy Songs for Happy Children](https://open.spotify.com/album/1r2Ga1CGXMITs3T2D0ilkg) | 2:43 | 2025-05-22 |  |
 | [When I get up in the morning](https://open.spotify.com/track/5n01NtqSvjTxOw5QQVwary) | [Piccolo Music](https://open.spotify.com/artist/1JYuWmfI1YsWKxb050RxRI) | [Dance Baby Sing ;Tickly Songs for Giggly Babies](https://open.spotify.com/album/6tCpJYTuIUi57ix1GY9WMe) | 2:48 | 2025-05-22 |  |
 | [When I Grow Up](https://open.spotify.com/track/6i2S5zq6JY7TQp26N7Kb7E) | [Matilda the Musical Original Cast](https://open.spotify.com/artist/7paFidVdtsmKlLtHiLZu41) | [Matilda the Musical \(Original London Cast Recording\)](https://open.spotify.com/album/4TMFJM8OsgA2RwwYySNhmU) | 3:36 | 2025-05-22 |  |
 | [Wind the Bobbin Up](https://open.spotify.com/track/1RNtN6KGi2gz6fL3cS3fMU) | [The Jamborees](https://open.spotify.com/artist/5fpJ1JmUCDq0xvMuqOoBAo) | [The Wheels On the Bus](https://open.spotify.com/album/1iuZ8H27OlJPyjnQXaUftG) | 2:32 | 2025-05-22 |  |
 | [Ye Cannae Shove Yer Granny Aff a Bus](https://open.spotify.com/track/5bCQxhB3mfWK0U0oaHWoiN) | [The Singing Kettle](https://open.spotify.com/artist/3XJOMSlY6zru65ppsgAira) | [Greatest Hits Volume 1](https://open.spotify.com/album/3ZXb4T3qRRvQOpNTMHTD6K) | 2:50 | 2025-05-22 |  |
+| [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 | 2025-12-01 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

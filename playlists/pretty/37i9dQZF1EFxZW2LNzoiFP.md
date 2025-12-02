@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120 likes - 269 songs - 15 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121 likes - 269 songs - 15 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,16 +192,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 182 | [Like a Dream](https://open.spotify.com/track/0pmq1cjqHDBT87pJabXhq1) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Like a Dream](https://open.spotify.com/album/4P7xlrlQlV7Urlf3yZLoOt) | 3:32 |
 | 183 | [What You Want](https://open.spotify.com/track/6oAPRV8xNp5i8VT8kfahWL) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:07 |
 | 184 | [Further Out](https://open.spotify.com/track/5F76wwoJnfFV4dRRsuqHdl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:17 |
-| 185 | [Backseat](https://open.spotify.com/track/5Kcd6Da7qph8vcnNyBYZ3f) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:46 |
-| 186 | [Shoot Me to the Moon](https://open.spotify.com/track/6bGrym3frP517DvJys2gXy) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Shoot Me to the Moon](https://open.spotify.com/album/66OLG8ePE75kGDxCCQIPHD) | 3:15 |
+| 185 | [Shoot Me to the Moon](https://open.spotify.com/track/6bGrym3frP517DvJys2gXy) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Shoot Me to the Moon](https://open.spotify.com/album/66OLG8ePE75kGDxCCQIPHD) | 3:15 |
+| 186 | [Backseat](https://open.spotify.com/track/5Kcd6Da7qph8vcnNyBYZ3f) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:46 |
 | 187 | [I Don't Want To See You Like That](https://open.spotify.com/track/5sz5CknwFGpttn1Lfb1hiI) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 2:41 |
 | 188 | [For Life](https://open.spotify.com/track/5S1x9p5NtD9lbEs76eSwog) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
 | 189 | [wraith](https://open.spotify.com/track/6AqOu3JIw2gbA3YPb0QFRY) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [crawl\_\_space](https://open.spotify.com/album/49Ci8AbHDggwLpVWLrluXm) | 2:45 |
 | 190 | [fine](https://open.spotify.com/track/0XLmGgWdu0bA9hmBFMhh6b) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [spark\_\_space](https://open.spotify.com/album/6zHZnhADGVRQigmy7NP4mS) | 2:03 |
 | 191 | [Shake](https://open.spotify.com/track/0vMUSEc4Te8dJIwKfwM4ud) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 4:23 |
 | 192 | [This Light](https://open.spotify.com/track/5aeqo0Hg287WAoUvG6eTr1) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
-| 193 | [Pretty Words](https://open.spotify.com/track/3A6rIUd9uq9ZaEaHkXF7wK) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [No Summer](https://open.spotify.com/album/7L8R8rNEPbdgW4IT2MlBJR) | 3:38 |
-| 194 | [Elementary](https://open.spotify.com/track/3vURAji5B56s4euPDZXK3c) | [Ray Silvers](https://open.spotify.com/artist/1KMzsmemrnRNGISrqjaxsa) | [Elementary](https://open.spotify.com/album/3NsxMjzFvE27raagsJ2b8e) | 3:09 |
+| 193 | [Elementary](https://open.spotify.com/track/3vURAji5B56s4euPDZXK3c) | [Ray Silvers](https://open.spotify.com/artist/1KMzsmemrnRNGISrqjaxsa) | [Elementary](https://open.spotify.com/album/3NsxMjzFvE27raagsJ2b8e) | 3:09 |
+| 194 | [Pretty Words](https://open.spotify.com/track/3A6rIUd9uq9ZaEaHkXF7wK) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [No Summer](https://open.spotify.com/album/7L8R8rNEPbdgW4IT2MlBJR) | 3:38 |
 | 195 | [A Wish](https://open.spotify.com/track/03xEUiZCkvWTnDTn737HQ8) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:27 |
 | 196 | [Freak Dreams](https://open.spotify.com/track/49F51032pRZNtEXO92KImJ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 3:46 |
 | 197 | [You and I Dig](https://open.spotify.com/track/6yYC9tYC0hGd6DUdr6PeKW) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:30 |
@@ -278,4 +278,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 268 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 | 269 | [Moving On](https://open.spotify.com/track/2WFd4EE5LLW0hqwyMTS7iS) | [R E N](https://open.spotify.com/artist/1uUI6SnnLWwpurgqePyxRv) | [Moving On](https://open.spotify.com/album/0aSBgOE9wpT7qw00WXjzWL) | 4:08 |
 
-Snapshot ID: `AcDAZAAAAADoBR2oD3XfR7QP5bwjxCB3`
+Snapshot ID: `AcDFyAAAAAA30YLDuLAw3eMSDUne8YnG`

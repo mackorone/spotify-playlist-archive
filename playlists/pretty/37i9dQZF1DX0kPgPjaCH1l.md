@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 
 > Baba God, run am 🙏\. <br/>Cover:  Hotkeed
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,731 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,818 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 13 | [Bag of Vibes](https://open.spotify.com/track/5zHdXMi4oTkowQvBaKuftu) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Kaizen](https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu) | 2:51 |
 | 14 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 |
 | 15 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 |
-| 16 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 |
+| 16 | [Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Instagram](https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S) | 2:20 |
 | 17 | [Do Better](https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Do Better](https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u) | 2:42 |
-| 18 | [Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Instagram](https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S) | 2:20 |
+| 18 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 |
 | 19 | [Where I’m from](https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Timileyin 2.0](https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a) | 2:39 |
 | 20 | [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 |
 | 21 | [Lameda](https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [LAMEDA / AWAY](https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky) | 2:16 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 34 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 |
 | 35 | [Peace](https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Peace](https://open.spotify.com/album/1GGfruBunSIXTQgArMbzX9) | 3:26 |
 | 36 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 |
-| 37 | [That Guy](https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:18 |
-| 38 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
+| 37 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
+| 38 | [That Guy](https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:18 |
 | 39 | [Amiri \(Trumpet\)](https://open.spotify.com/track/37arTqMOOr919yJ47a5bBa) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Amiri \(Trumpet\)](https://open.spotify.com/album/2zM1mfrXUWl3Aedhq2xlxC) | 2:42 |
 | 40 | [Imagine](https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Intergalactic Dreams](https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S) | 2:04 |
 | 41 | [Baba God](https://open.spotify.com/track/5GLAHK3yCLCZ9lzmb44EVM) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 2:44 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 51 | [1000 Thoughts](https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:26 |
 | 52 | [SPIRIT](https://open.spotify.com/track/0zQFZFR4vONHRgXs6Dqp2P) | [Vicoka](https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [SPIRIT](https://open.spotify.com/album/626iZIxk6Pmb2DlnRo4FQY) | 3:31 |
 | 53 | [Ashimolowo](https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:07 |
-| 54 | [Dead Flowers](https://open.spotify.com/track/3GWRi1nidQuwXcoP3zB7u9) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Dead Flowers](https://open.spotify.com/album/5UnD4luhw0cDGhPvQabsnJ) | 3:01 |
-| 55 | [7AM in Lekki](https://open.spotify.com/track/6iaJo4mAS7qmob0xtJ17sQ) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 3:30 |
+| 54 | [7AM in Lekki](https://open.spotify.com/track/6iaJo4mAS7qmob0xtJ17sQ) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 3:30 |
+| 55 | [Dead Flowers](https://open.spotify.com/track/3GWRi1nidQuwXcoP3zB7u9) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Dead Flowers](https://open.spotify.com/album/5UnD4luhw0cDGhPvQabsnJ) | 3:01 |
 | 56 | [eko](https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [eko](https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N) | 2:54 |
 | 57 | [Young Again](https://open.spotify.com/track/19H1JRTGuLrogqrhhbyF3Q) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Peace by Piece](https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ) | 2:41 |
 | 58 | [Letter To My Guys \- LTMG](https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Letter To My Guys \(LTMG\)](https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce) | 2:51 |

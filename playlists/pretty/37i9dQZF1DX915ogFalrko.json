@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 183186,
+  "num_followers": 183195,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-11-28 14:32:40",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "3 Days",
+      "url": "https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G"
+    },
+    {
+      "added_at": "2025-11-28 14:32:40",
+      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 217143,
       "name": "David's Brother",
       "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
-    },
-    {
-      "added_at": "2025-11-28 14:32:40",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 255720,
-      "name": "3 Days",
-      "url": "https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G"
     },
     {
       "added_at": "2025-11-28 14:32:40",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-11-28 14:32:40",
       "album": {
-        "name": "Delay",
-        "url": "https://open.spotify.com/album/4u5PEdBoOdNSQo1KhlYSWw"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Delay",
-      "url": "https://open.spotify.com/track/4S8ClIfm6X0ddX7YaDjx1o"
-    },
-    {
-      "added_at": "2025-11-28 14:32:40",
-      "album": {
         "name": "Incredibly Blind (feat. X-Cetra)",
         "url": "https://open.spotify.com/album/39ofopEoieuFM7zHvsdpKy"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 144829,
       "name": "Incredibly Blind (feat. X-Cetra)",
       "url": "https://open.spotify.com/track/4Ui0BmcYIgCF3rWQPBGtl3"
+    },
+    {
+      "added_at": "2025-11-28 14:32:40",
+      "album": {
+        "name": "Delay",
+        "url": "https://open.spotify.com/album/4u5PEdBoOdNSQo1KhlYSWw"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Delay",
+      "url": "https://open.spotify.com/track/4S8ClIfm6X0ddX7YaDjx1o"
     },
     {
       "added_at": "2025-11-28 14:32:40",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-11-28 14:32:40",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
-    },
-    {
-      "added_at": "2025-11-28 14:32:40",
-      "album": {
         "name": "33 000 FT.",
         "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 170868,
       "name": "Love Song (feat. Glasses)",
       "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
+    },
+    {
+      "added_at": "2025-11-28 14:32:40",
+      "album": {
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
     },
     {
       "added_at": "2025-11-28 14:32:40",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-11-28 14:32:40",
       "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+      },
+      "artists": [
+        {
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+        }
+      ],
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+    },
+    {
+      "added_at": "2025-11-28 14:32:40",
+      "album": {
         "name": "Bebey",
         "url": "https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 215446,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL"
-    },
-    {
-      "added_at": "2025-11-28 14:32:40",
-      "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
-      },
-      "artists": [
-        {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
-        }
-      ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2025-11-28 14:32:40",
@@ -947,18 +947,22 @@
     {
       "added_at": "2025-11-28 14:32:40",
       "album": {
-        "name": "Ordinary Creature",
-        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
+        "name": "Celestial Strut",
+        "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        },
+        {
+          "name": "Kuyen",
+          "url": "https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b"
         }
       ],
-      "duration_ms": 220226,
-      "name": "Ordinary Creature",
-      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
+      "duration_ms": 349257,
+      "name": "Found Your Love",
+      "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
     },
     {
       "added_at": "2025-11-28 14:32:40",
@@ -979,22 +983,18 @@
     {
       "added_at": "2025-11-28 14:32:40",
       "album": {
-        "name": "Celestial Strut",
-        "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
       },
       "artists": [
         {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        },
-        {
-          "name": "Kuyen",
-          "url": "https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 349257,
-      "name": "Found Your Love",
-      "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
     },
     {
       "added_at": "2025-11-28 14:32:40",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-11-28 14:32:40",
       "album": {
-        "name": "La prima estate",
-        "url": "https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB"
-      },
-      "artists": [
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        }
-      ],
-      "duration_ms": 240435,
-      "name": "La prima estate",
-      "url": "https://open.spotify.com/track/6vtG5IMWKidt5K54DCSUo6"
-    },
-    {
-      "added_at": "2025-11-28 14:32:40",
-      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 255360,
       "name": "De Cara a la Pared",
       "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
+    },
+    {
+      "added_at": "2025-11-28 14:32:40",
+      "album": {
+        "name": "La prima estate",
+        "url": "https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB"
+      },
+      "artists": [
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        }
+      ],
+      "duration_ms": 240435,
+      "name": "La prima estate",
+      "url": "https://open.spotify.com/track/6vtG5IMWKidt5K54DCSUo6"
     },
     {
       "added_at": "2025-11-28 14:32:40",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-11-28 14:32:40",
       "album": {
-        "name": "10K",
-        "url": "https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV"
-      },
-      "artists": [
-        {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
-        }
-      ],
-      "duration_ms": 194403,
-      "name": "Creator",
-      "url": "https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl"
-    },
-    {
-      "added_at": "2025-11-28 14:32:40",
-      "album": {
         "name": "Yellow Brick Road",
         "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 152062,
       "name": "Yellow Brick Road",
       "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
+    },
+    {
+      "added_at": "2025-11-28 14:32:40",
+      "album": {
+        "name": "10K",
+        "url": "https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 194403,
+      "name": "Creator",
+      "url": "https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl"
     },
     {
       "added_at": "2025-11-28 14:32:40",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2025-11-28 14:32:40",
       "album": {
-        "name": "Beginner Again",
-        "url": "https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI"
+        "name": "Swear",
+        "url": "https://open.spotify.com/album/0sACc500qALRTNO2l0yvUS"
       },
       "artists": [
         {
-          "name": "Saint Stacy",
-          "url": "https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G"
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
         }
       ],
-      "duration_ms": 156394,
-      "name": "Didn't Mean To",
-      "url": "https://open.spotify.com/track/0R2F8Y0exgly8whypDattk"
+      "duration_ms": 148880,
+      "name": "Swear",
+      "url": "https://open.spotify.com/track/0AXK5URrriXUx3gf8PtQB9"
     }
   ],
   "unique_name": "D\u00eener entre amis",

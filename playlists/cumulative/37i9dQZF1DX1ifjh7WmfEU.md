@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-302 songs - 13 hr 15 min
+304 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Drivande](https://open.spotify.com/track/3Xi0zJ4FNyZ3EPERLAuXXX) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Drivande](https://open.spotify.com/album/7o9SwnbiM5hXE4IzoW3mzw) | 3:12 | 2025-01-07 | 2025-04-24 |
 | [Drøm](https://open.spotify.com/track/2wD4uaLNl9DZrBmRC87a3W) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Drøm](https://open.spotify.com/album/2KOmdQ7vwCdf8An8sKO7ex) | 1:49 | 2022-09-15 | 2025-04-05 |
 | [Echidna](https://open.spotify.com/track/66IOe8PcQPacJ3D3MtGLMS) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [Echidna](https://open.spotify.com/album/28l69Lzo3apBK4Os1PDh7Y) | 2:24 | 2024-03-25 |  |
+| [Echoes of a Dream](https://open.spotify.com/track/2NFeT0ncQU4cmsdPBse7Dn) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Echoes of a Dream](https://open.spotify.com/album/15W1S3iV9CWzagW4w50bIm) | 2:31 | 2025-12-01 |  |
 | [Emberline](https://open.spotify.com/track/6NG7PoE0dcstZY4cdM7McF) | [Nivellea](https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f) | [Emberline](https://open.spotify.com/album/2SR68CyFVSf66b8JTGU65f) | 2:32 | 2025-11-05 |  |
 | [Embrace me](https://open.spotify.com/track/2SFuklg1x2ooQ8NGAaPuyn) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Embrace me](https://open.spotify.com/album/47slUbGDlDwNvw4oEnjyEY) | 2:22 | 2025-06-10 |  |
 | [Emerald of the East](https://open.spotify.com/track/6fo9G6qHkya3qFKRi5ujkp) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Emerald of the East](https://open.spotify.com/album/15h7O9HdnXjMmFgbDGggEh) | 1:59 | 2023-07-12 | 2025-03-27 |
@@ -255,6 +256,7 @@
 | [Take Me Back](https://open.spotify.com/track/4u8aNYQTJdyBvpsSwz05I6) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Take Me Back](https://open.spotify.com/album/69tYSDWT80qmZXsBRaYlhG) | 2:21 | 2022-05-27 | 2024-03-26 |
 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 | 2022-05-27 | 2024-04-10 |
 | [The Highest Tide](https://open.spotify.com/track/0aBLCPk5i2F0sSuNea20It) | [Elba](https://open.spotify.com/artist/3vyBIFbCPSFdrzamx6G60r) | [The Highest Tide](https://open.spotify.com/album/0REbc6qtgvudVfKnRCLRpn) | 1:45 | 2022-05-27 | 2022-09-16 |
+| [The Moment I Knew](https://open.spotify.com/track/6elyNUjJsRxxZ0atvD2w9h) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [The Moment I Knew](https://open.spotify.com/album/39QKyXCnTrLVgZpGNTfzu2) | 2:28 | 2025-12-01 |  |
 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 | 2023-12-12 | 2025-08-06 |
 | [The Path Unwinds](https://open.spotify.com/track/021CxXvGrxUY6X2PXqrW5c) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [The Path Unwinds](https://open.spotify.com/album/3sAeswtRu2pVWIk9WrvYSF) | 2:52 | 2024-09-13 |  |
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-08-07 | 2025-05-03 |

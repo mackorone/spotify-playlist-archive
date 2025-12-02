@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 129855,
+  "num_followers": 129905,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAA2j/tuHExVJAYJ7TB7Hpye",
+  "snapshot_id": "aSuJAAAAAACHHTADRQtXM5gHlqzeM4Wm",
   "tracks": [
     {
       "added_at": null,
@@ -379,30 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Know Your Worth (feat. Davido & Tems)",
-        "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         },
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 191067,
-      "name": "Know Your Worth (feat. Davido & Tems)",
-      "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
+      "duration_ms": 147046,
+      "name": "No.1 (feat. Tems)",
+      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
     },
     {
       "added_at": null,
@@ -436,29 +428,37 @@
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 160560,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/0fKrZjwdZlwAEYi7S012mN"
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+        "name": "Know Your Worth (feat. Davido & Tems)",
+        "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 147046,
-      "name": "No.1 (feat. Tems)",
-      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+      "duration_ms": 191067,
+      "name": "Know Your Worth (feat. Davido & Tems)",
+      "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 234080,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+      "duration_ms": 160560,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/0fKrZjwdZlwAEYi7S012mN"
     },
     {
       "added_at": null,

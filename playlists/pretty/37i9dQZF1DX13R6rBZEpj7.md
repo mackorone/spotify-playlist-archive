@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,922 likes - 68 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,963 likes - 68 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 46 | [Von dutch remix with skream & benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream & Benga](https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38) | [Von dutch remix with skream & benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 |
 | 47 | [Sick Of The Chatter](https://open.spotify.com/track/44XDzqSWbBfKHs8WKhwVm0) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [Sick Of The Chatter](https://open.spotify.com/album/7j7zHWt0MsgnXnGkr90rRp) | 3:27 |
 | 48 | [KEEP IT ROLLING](https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF) | [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [KEEP IT ROLLING](https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH) | 3:19 |
-| 49 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 |
-| 50 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
+| 49 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
+| 50 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 |
 | 51 | [Pretty & Plump](https://open.spotify.com/track/14wKQXw7pRc5nCqrqgbSJ0) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [Pretty & Plump](https://open.spotify.com/album/6iPArDxTfZDMtj0Ync4SD3) | 2:24 |
 | 52 | [No Other Man \(One Man\)](https://open.spotify.com/track/15NJ4BGMClGSBXbZ96XwLy) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Vanessa Bling](https://open.spotify.com/artist/1PiEUwpwwtIostNXewLUG1), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [No Other Man \(One Man\)](https://open.spotify.com/album/77nnpZro8WHHrEX0nscxJH) | 2:20 |
 | 53 | [If You Could Be My Sweetheart](https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [If You Could Be My Sweetheart](https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt) | 4:06 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 62 | [Ur Number](https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn) | [N3RD](https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR), [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Marky B](https://open.spotify.com/artist/15k1qXazWMXAuvcYb59XFj) | [Ur Number](https://open.spotify.com/album/4uTybjyrLbp6zCrENn0bKN) | 2:35 |
 | 63 | [Make A Fool](https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [Baddie Bassline](https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR) | 4:03 |
 | 64 | [Bad Boi Selecta](https://open.spotify.com/track/0MapFtUi8jx8UcUsG3vqAt) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [Bad Boi Selecta](https://open.spotify.com/album/0gJNkkw45DJLT5FzXxeesS) | 2:48 |
-| 65 | [Higher](https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [Higher](https://open.spotify.com/album/2GcTWVCHl9KR00vBbMv7Uj) | 2:33 |
-| 66 | [Passion](https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [What About The DJ?](https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV) | 4:40 |
+| 65 | [Passion](https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [What About The DJ?](https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV) | 4:40 |
+| 66 | [Higher](https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [Higher](https://open.spotify.com/album/2GcTWVCHl9KR00vBbMv7Uj) | 2:33 |
 | 67 | [No Chase](https://open.spotify.com/track/6mFBj2KS2sWIBFya5dO36K) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [Club Orthodontics](https://open.spotify.com/album/2H9QqWVpc5FwkrIZzCPWG3) | 2:32 |
 | 68 | [Bassline Girl](https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Bassline Girl](https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF) | 4:06 |
 

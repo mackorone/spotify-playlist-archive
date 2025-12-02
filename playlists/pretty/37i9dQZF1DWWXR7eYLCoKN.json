@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 165301,
+  "num_followers": 165310,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Mangueira - a Menina Dos Meus Olhos",
-        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 157689,
-      "name": "Hist\u00f3rias Pra Ninar Gente Grande",
-      "url": "https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "NEKTAR",
         "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 206442,
       "name": "LONGE LONGE DE MIM",
       "url": "https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "Mangueira - a Menina Dos Meus Olhos",
+        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 157689,
+      "name": "Hist\u00f3rias Pra Ninar Gente Grande",
+      "url": "https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Faz Parte Do Meu Show",
-        "url": "https://open.spotify.com/album/2fxjbevDgbE6a4QIg4slI3"
-      },
-      "artists": [
-        {
-          "name": "Gina Garcia",
-          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 161675,
-      "name": "Faz Parte Do Meu Show",
-      "url": "https://open.spotify.com/track/4cCwzNl97fBtpTCISj49AA"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "A Chave do Sucesso",
         "url": "https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1"
       },
@@ -1107,22 +1087,6 @@
       "duration_ms": 142000,
       "name": "Jura",
       "url": "https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
-        "name": "Carioca da Gema (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Malandro - Ao Vivo",
-      "url": "https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -1143,6 +1107,42 @@
       "duration_ms": 242589,
       "name": "Dia De Gl\u00f3ria",
       "url": "https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "Carioca da Gema (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Malandro - Ao Vivo",
+      "url": "https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "Faz Parte Do Meu Show",
+        "url": "https://open.spotify.com/album/2fxjbevDgbE6a4QIg4slI3"
+      },
+      "artists": [
+        {
+          "name": "Gina Garcia",
+          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 161675,
+      "name": "Faz Parte Do Meu Show",
+      "url": "https://open.spotify.com/track/4cCwzNl97fBtpTCISj49AA"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 196808,
-      "name": "Samba de Amanda e T\u00e9",
-      "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "Conselheiro Calado",
         "url": "https://open.spotify.com/album/1SWSMAbIToMxu0OIQLPyeN"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 203680,
       "name": "Macieira",
       "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 196808,
+      "name": "Samba de Amanda e T\u00e9",
+      "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
     },
     {
       "added_at": "2025-11-25 18:58:58",

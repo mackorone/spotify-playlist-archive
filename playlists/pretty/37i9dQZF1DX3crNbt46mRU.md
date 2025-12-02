@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Gigi Malua, Ed Sheeran,  Pronto, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,235 likes - 94 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,229 likes - 94 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 22 | [Tanze I De Luft](https://open.spotify.com/track/3pCFwODl0gA3Et48LeoshZ) | [Dodo](https://open.spotify.com/artist/5x0wy0trcqYLvwUG5PFmQL) | [Tanze I De Luft](https://open.spotify.com/album/0T9VmC8Y9gTmHhUpDuPcVZ) | 2:50 |
 | 23 | [baby T](https://open.spotify.com/track/3Xyk1vBAJvZZ8ZlkqWG8Wf) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby t](https://open.spotify.com/album/2K6Pdbsu8DDIo4SJDuDYyq) | 2:23 |
 | 24 | [geklaut](https://open.spotify.com/track/2bn6CPbM335ggmT67msIUy) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [geklaut](https://open.spotify.com/album/4n4rc4QpTeUDrgO38soAph) | 2:36 |
-| 25 | [Hypocrite](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 |
+| 25 | [Hypocrite \(deux visages\)](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite \(deux visages\)](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 |
 | 26 | [Chica Galáctica \- W Sound 07](https://open.spotify.com/track/623kbEIDhzRFLVk1r8cBTm) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chica Galáctica \(W Sound 07\)](https://open.spotify.com/album/4LG03Cn7TgdxBrujUG7ah2) | 3:07 |
 | 27 | [Toure](https://open.spotify.com/track/7kZ0PlIj3w9ddNFHLCv7fa) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Toure](https://open.spotify.com/album/1r68wuu5ZHEbbg1bJKE17Z) | 2:32 |
 | 28 | [Sentire \(feat\. Angelina Mango\)](https://open.spotify.com/track/1hIwH3jEyXBgk8FflP3UNy) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Speriamo](https://open.spotify.com/album/5945EwcH66jMpVaJOI60Cj) | 3:20 |

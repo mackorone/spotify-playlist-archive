@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21OMhmWTQ50.md) - [plain]
 
 > Gentle festive piano music to keep you focused this holiday season☕️✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,652 likes - 58 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,780 likes - 59 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,19 +52,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21OMhmWTQ50.md) - [plain]
 | 42 | [Jingle Bell Rock](https://open.spotify.com/track/2A4lNx9IATchVQnnYNVcvN) | [Nemo Jaymes](https://open.spotify.com/artist/0aZCH5KbYUZ69UWNjp0FZe) | [Jingle Bell Rock](https://open.spotify.com/album/3vzrqbCszsdtXKNeeDTiwk) | 2:20 |
 | 43 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/0aKt25CTygW0FpPAPEgH19) | [Frost & Ember](https://open.spotify.com/artist/1mvunBQzdq7XvcsxyVRaUV) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/42odUTzJRHivK7qujWnWVq) | 4:35 |
 | 44 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/1Gwlts2YlFJeR9SzFSKqEx) | [Declan Starling](https://open.spotify.com/artist/7G7YDXb2goL9xeq7eWUYKa) | [Christmas Magic](https://open.spotify.com/album/3xcgKBVMhAqxNr5wwcxCL3) | 2:27 |
-| 45 | [See You Again](https://open.spotify.com/track/5DIbLerPdwMXuMsAvF4qIK) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 3:13 |
-| 46 | [Blue Christmas](https://open.spotify.com/track/3du2vdssfRZmtXvajt4zBH) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Blue Christmas](https://open.spotify.com/album/4yQZZRtvEUIBgof8K8NC9w) | 2:32 |
-| 47 | [Cantique De Noël](https://open.spotify.com/track/2WnkEW8F20IfnZjHToKh9V) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [The Christmas Collection](https://open.spotify.com/album/52Na0HF5eGRagKqZdE98CE) | 3:48 |
-| 48 | [All I Want For Christmas is You \- Cover](https://open.spotify.com/track/0F1o5Komjj1RXDceIDyVdI) | [Forrest St\. Marie](https://open.spotify.com/artist/1sN2yaH4cGJ4a951vNgdFR) | [All I Want For Christmas is You \(Cover\)](https://open.spotify.com/album/1QeZioeBRk5Lfum86keCXu) | 2:42 |
-| 49 | [We Three Kings](https://open.spotify.com/track/7FDHfTdbx22RIUjNmj6j8p) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [We Three Kings](https://open.spotify.com/album/2FM695LGS0NUZYD8OrmGDf) | 2:28 |
-| 50 | [Frosty the Snowman](https://open.spotify.com/track/5mXAw2m5OcNPWfaqDZa0Fq) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [Soft Snowflakes](https://open.spotify.com/album/4qpv0uBsFRQbtGDbm3LOVg) | 2:11 |
-| 51 | [Shepherd's Voice](https://open.spotify.com/track/4J9xD4Tan4PeZG339g24qa) | [Joel Carrington](https://open.spotify.com/artist/09DPxIQWwKpQSRHsn5CNcf) | [Shepherd's Voice](https://open.spotify.com/album/3ko3x5Oy57SF0x07WlnUI9) | 2:11 |
-| 52 | [Ding Dong Merrily on High](https://open.spotify.com/track/5vqMZbAU4yvKhZlZNBOGre) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Ding Dong Merrily on High](https://open.spotify.com/album/28rlS1Z0VuczgX7HqlviJK) | 2:37 |
-| 53 | [Santa Baby](https://open.spotify.com/track/6iRD5O0I3iYZUvkhmqhc79) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [Santa Baby](https://open.spotify.com/album/0jmp1r3wPuxnXh43Wp0Oid) | 2:23 |
-| 54 | [Joy to the World](https://open.spotify.com/track/4K9oXfi4duY1GaQBJ5Rr7g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Joy to the World](https://open.spotify.com/album/4vGvjUVOgYlQHh5YK0ObWS) | 2:21 |
-| 55 | [Skating \- Cover](https://open.spotify.com/track/27pVQURWH2HTpuca6nOWRO) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Skating \(Cover\)](https://open.spotify.com/album/1H3FeVZu31Ca6Mq1ndCPMg) | 2:19 |
-| 56 | [Somewhere In My Memory \- from 'Home Alone'](https://open.spotify.com/track/2th9BQmL3NcYwSwtj8aan7) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 3:04 |
-| 57 | [Driving Home for Christmas](https://open.spotify.com/track/5AOxcIbAt8YbNk2Y1HGPaY) | [Saint Swithun](https://open.spotify.com/artist/24skfwQl61Uz1Alg6J7A4Z) | [Driving Home for Christmas](https://open.spotify.com/album/25uhApTUFy999s8qPyFX6f) | 3:00 |
-| 58 | [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/4iSpJOotQU6eWlaB9Qo50F) | [Pauline Poncelet](https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/59KaMF4TGpxaSnWyToTNmb) | 2:29 |
+| 45 | [Santa Doesn't Know You Like I Do](https://open.spotify.com/track/7kfwGTuBVH7G4P3IC23oqh) | [Davy Burns](https://open.spotify.com/artist/3i1joJ76xcNJLuBNHlQ5Pi) | [Santa Doesn't Know You Like I Do](https://open.spotify.com/album/21gOnh6LjPUlv9PjjV2VHt) | 5:00 |
+| 46 | [See You Again](https://open.spotify.com/track/5DIbLerPdwMXuMsAvF4qIK) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 3:13 |
+| 47 | [Blue Christmas](https://open.spotify.com/track/3du2vdssfRZmtXvajt4zBH) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Blue Christmas](https://open.spotify.com/album/4yQZZRtvEUIBgof8K8NC9w) | 2:32 |
+| 48 | [Cantique De Noël](https://open.spotify.com/track/2WnkEW8F20IfnZjHToKh9V) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [The Christmas Collection](https://open.spotify.com/album/52Na0HF5eGRagKqZdE98CE) | 3:48 |
+| 49 | [All I Want For Christmas is You \- Cover](https://open.spotify.com/track/0F1o5Komjj1RXDceIDyVdI) | [Forrest St\. Marie](https://open.spotify.com/artist/1sN2yaH4cGJ4a951vNgdFR) | [All I Want For Christmas is You \(Cover\)](https://open.spotify.com/album/1QeZioeBRk5Lfum86keCXu) | 2:42 |
+| 50 | [We Three Kings](https://open.spotify.com/track/7FDHfTdbx22RIUjNmj6j8p) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [We Three Kings](https://open.spotify.com/album/2FM695LGS0NUZYD8OrmGDf) | 2:28 |
+| 51 | [Frosty the Snowman](https://open.spotify.com/track/5mXAw2m5OcNPWfaqDZa0Fq) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [Soft Snowflakes](https://open.spotify.com/album/4qpv0uBsFRQbtGDbm3LOVg) | 2:11 |
+| 52 | [Shepherd's Voice](https://open.spotify.com/track/4J9xD4Tan4PeZG339g24qa) | [Joel Carrington](https://open.spotify.com/artist/09DPxIQWwKpQSRHsn5CNcf) | [Shepherd's Voice](https://open.spotify.com/album/3ko3x5Oy57SF0x07WlnUI9) | 2:11 |
+| 53 | [Ding Dong Merrily on High](https://open.spotify.com/track/5vqMZbAU4yvKhZlZNBOGre) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Ding Dong Merrily on High](https://open.spotify.com/album/28rlS1Z0VuczgX7HqlviJK) | 2:37 |
+| 54 | [Santa Baby](https://open.spotify.com/track/6iRD5O0I3iYZUvkhmqhc79) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [Santa Baby](https://open.spotify.com/album/0jmp1r3wPuxnXh43Wp0Oid) | 2:23 |
+| 55 | [Joy to the World](https://open.spotify.com/track/4K9oXfi4duY1GaQBJ5Rr7g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Joy to the World](https://open.spotify.com/album/4vGvjUVOgYlQHh5YK0ObWS) | 2:21 |
+| 56 | [Skating \- Cover](https://open.spotify.com/track/27pVQURWH2HTpuca6nOWRO) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Skating \(Cover\)](https://open.spotify.com/album/1H3FeVZu31Ca6Mq1ndCPMg) | 2:19 |
+| 57 | [Somewhere In My Memory \- from 'Home Alone'](https://open.spotify.com/track/2th9BQmL3NcYwSwtj8aan7) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 3:04 |
+| 58 | [Driving Home for Christmas](https://open.spotify.com/track/5AOxcIbAt8YbNk2Y1HGPaY) | [Saint Swithun](https://open.spotify.com/artist/24skfwQl61Uz1Alg6J7A4Z) | [Driving Home for Christmas](https://open.spotify.com/album/25uhApTUFy999s8qPyFX6f) | 3:00 |
+| 59 | [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/4iSpJOotQU6eWlaB9Qo50F) | [Pauline Poncelet](https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/59KaMF4TGpxaSnWyToTNmb) | 2:29 |
 
-Snapshot ID: `AAAAAD5SmrOOLJ9FHbcJSo9de4wl9aCQ`
+Snapshot ID: `AAAAANbp0lQ1WDy89RQlloaorOXXCU+U`

@@ -4,13 +4,14 @@
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-127 songs - 7 hr 55 min
+130 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Safe Place](https://open.spotify.com/track/0ZagOOQzpzYaNYNtD9WnR9) | [Burnout](https://open.spotify.com/artist/1NDKxIZp07zolDObnbx2St) | [A Safe Place](https://open.spotify.com/album/6keWkRIxkmWLekIY2F3As3) | 3:42 | 2025-09-09 |  |
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2025-09-12 |  |
 | [All Inclusive \- Radio Edit](https://open.spotify.com/track/1452Jb3L3WVrnQJcry0UVU) | [TémèT](https://open.spotify.com/artist/54MDcTmiO78HWCK2iyvVNy) | [Bad Night](https://open.spotify.com/album/2o4FCkWDjH323WLJLKACz0) | 3:28 | 2025-09-11 |  |
+| [All The Streets Were Empty](https://open.spotify.com/track/2zVQBDD2vKOLpHyCnGiQVk) | [Noxura](https://open.spotify.com/artist/4H1RjP4HLvLn8QMRGsQTaV) | [Afterimages](https://open.spotify.com/album/0KJP6gjrr60y15M8tsPade) | 4:25 | 2025-12-01 |  |
 | [Amar Otra Vez](https://open.spotify.com/track/3Is6rbjnEzaZRCswgLf2v0) | [R U N I N](https://open.spotify.com/artist/1qLUCGE2DUv9jdcxf5NVcR) | [Amar Otra Vez](https://open.spotify.com/album/2Ll0g3ZhooEvBFdGxrGw8b) | 4:24 | 2024-11-02 |  |
 | [Another Day Is Gone](https://open.spotify.com/track/0HS4fqcRazWuujB0aTdwiD) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Another Day Is Gone](https://open.spotify.com/album/3xKkBJlx8QMc00eSanaZSN) | 4:21 | 2025-10-01 |  |
 | [Armour Hill](https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Armour Hill](https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw) | 4:19 | 2025-09-26 |  |
@@ -64,6 +65,7 @@
 | [In Waves](https://open.spotify.com/track/1bv3Uf6i9W0iinKn7imxjd) | [Museums](https://open.spotify.com/artist/6AojHY3vDiUeA0OWCkFDt6) | [In Waves](https://open.spotify.com/album/4RtqoH6UQwNHVvfqiRml5j) | 4:15 | 2025-11-03 |  |
 | [Infinito](https://open.spotify.com/track/1PqVWVN9E5oNggwkRojIcf) | [SECULA](https://open.spotify.com/artist/454r38dyHssBuCDmC5RuGf) | [Infinito](https://open.spotify.com/album/7er2RUl43tqrjwNMjGo9q9) | 3:57 | 2025-09-25 |  |
 | [It's a Miracle](https://open.spotify.com/track/7s27mrQHnVSCyRqOaU46HY) | [Scott Baker Graham](https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA), [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [It's a Miracle](https://open.spotify.com/album/6obrv5EwZziKK5LTQCgU8p) | 4:14 | 2025-09-12 |  |
+| [It's Only Rock 'n' Roll \(But I Like It\)](https://open.spotify.com/track/6LgYr4tHifLhHdPS5OXkew) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Ain't Dead Yet](https://open.spotify.com/album/6WgRkxsyY5CNChBN70wGLQ) | 4:28 | 2025-12-01 |  |
 | [Its All Good \- Horror Show Version](https://open.spotify.com/track/1nfNkJZkFyH7SRrdt87R2X) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Horror Show](https://open.spotify.com/album/37ICiT3HUSymRH3IkYTbTH) | 4:51 | 2025-10-30 |  |
 | [Jardim do Silêncio](https://open.spotify.com/track/55vWWozvpoZO9LySuHkGzr) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Pandora](https://open.spotify.com/album/2J1jlruXrCryLpvQmisbRh) | 3:03 | 2025-10-20 |  |
 | [Kaos](https://open.spotify.com/track/5Gv6JRKCGzdhBXDyMRMXv0) | [Againstide](https://open.spotify.com/artist/7qEOhbkxfx5d24fF5vEjpI) | [Kaos](https://open.spotify.com/album/3Kk9Jiio0xLE4FOuvY0kvx) | 4:37 | 2025-07-26 |  |
@@ -135,5 +137,6 @@
 | [Your Light](https://open.spotify.com/track/2feL5CrldN5Qk2hYZgxeYs) | [Radiogeist](https://open.spotify.com/artist/4DyDsTZASajZFpfOdBvSsk) | [9](https://open.spotify.com/album/5M5LOKNr2dwyUXf4BjOavV) | 3:02 | 2025-11-04 |  |
 | [You’re Not There](https://open.spotify.com/track/2ZvFxhehRLBvz65yugCU0i) | [VoodooMirage](https://open.spotify.com/artist/3nSA1zY4DETNYKugJVCHJf) | [You’re Not There](https://open.spotify.com/album/5zJiYG3qCNZTv3ubwqY8xX) | 4:16 | 2025-01-04 |  |
 | [Дороги снегом замело...](https://open.spotify.com/track/3jST45CWJr4yZPPfWNhap4) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Дороги снегом замело...](https://open.spotify.com/album/2pTVHLJ4wxSOWXshqJE2nX) | 2:59 | 2025-09-22 |  |
+| [Женщина](https://open.spotify.com/track/6nMGOXJqekVgIfJWUjyMQt) | [Эрик Шарипов](https://open.spotify.com/artist/4wZEqo5Khk8Dmam8PLe5xq) | [Женщина](https://open.spotify.com/album/1EauWCGwFOiE58e8Gq6Efp) | 3:04 | 2025-12-01 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

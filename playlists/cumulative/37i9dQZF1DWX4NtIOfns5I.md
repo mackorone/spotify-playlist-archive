@@ -4,7 +4,7 @@
 
 > 🍃🍃🍃 Runo Plum on the cover
 
-675 songs - 1 day 16 hr 38 min
+676 songs - 1 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Fault Line](https://open.spotify.com/track/3883bcJDGj5DHEahNyaZqh) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [The Garden](https://open.spotify.com/album/2hPowa1qEPeArnDMJkqLSz) | 4:34 | 2025-03-14 | 2025-10-18 |
 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 | 2025-03-21 | 2025-08-09 |
 | [feels like i'm changing](https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [juliet](https://open.spotify.com/album/3bO8aWJrQzvUZE4kaAvaWh) | 2:49 | 2024-09-06 | 2025-04-05 |
+| [Fingers and Clothes](https://open.spotify.com/track/4HHRljxDiaRgVKQBXEC7b0) | [Jake Minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [George](https://open.spotify.com/album/2WCrgpZ3OFFyNj8M0wRgz6) | 3:01 | 2025-12-01 |  |
 | [First Date Conversations \(For the Healthy Young Professional\)](https://open.spotify.com/track/7E3gvkRgBkjsGQr2N4bjIq) | [Jake Bardin](https://open.spotify.com/artist/6au2CHviUD4hfqI9UAPLgo) | [First Date Conversations \(For the Healthy Young Professional\)](https://open.spotify.com/album/4v1cJPYanw5ODSVbsC9Oum) | 3:09 | 2023-10-06 | 2024-03-16 |
 | [Flowers](https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Flowers](https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv) | 4:00 | 2025-02-28 | 2025-09-13 |
 | [Fluorescent Light](https://open.spotify.com/track/1bhOhI3xUf89gDYoHMd5WX) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Fluorescent Light + Boars](https://open.spotify.com/album/2Cr6Ys4sCsknBXqQZ1G9pB) | 3:14 | 2025-10-17 |  |

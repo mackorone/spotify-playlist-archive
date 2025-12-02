@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -3730,7 +3730,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 262495,
       "name": "B\u1ea7u Tr\u1eddi M\u1edbi",
       "url": "https://open.spotify.com/track/7fCeYpR02Q8JVuD88hJZVT"
@@ -9202,7 +9202,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 223200,
       "name": "gi\u00e1 nh\u01b0",
       "url": "https://open.spotify.com/track/58ZlEBxBrzISXtmcOPo476"
@@ -10452,7 +10452,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 354782,
       "name": "H\u01b0 kh\u00f4ng",
       "url": "https://open.spotify.com/track/3A9A7mfVDVm3rrS9SMGhg5"
@@ -10536,7 +10536,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
       "url": "https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n"
@@ -12035,6 +12035,24 @@
     },
     {
       "album": {
+        "name": "Kh\u00f3c \u0110\u1ea5y",
+        "url": "https://open.spotify.com/album/4WSJSePbQv1t4MEw0CvNCP"
+      },
+      "artists": [
+        {
+          "name": "Th\u1eafng",
+          "url": "https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227416,
+      "name": "Kh\u00f3c \u0110\u1ea5y",
+      "url": "https://open.spotify.com/track/1x6rRJAgtPYgmlPOkZ6hpz"
+    },
+    {
+      "album": {
         "name": "Kh\u00f4ng Bu\u00f4ng",
         "url": "https://open.spotify.com/album/6XkJNJGMV0VxaaxlfB3ss3"
       },
@@ -12350,7 +12368,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 291268,
       "name": "KH\u00d4NG \u0110AU N\u1eeeA R\u1ed2I",
       "url": "https://open.spotify.com/track/1uiqiUzPn2EJpvHDy84PEZ"
@@ -15866,7 +15884,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 239090,
       "name": "Ng\u00e0y N\u00e0y N\u0103m \u1ea4y",
       "url": "https://open.spotify.com/track/1WbTOu4D2oHK9fg2qR6msd"
@@ -16552,7 +16570,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 241190,
       "name": "nh\u1eafn nh\u1ee7",
       "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
@@ -23956,7 +23974,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 237931,
       "name": "t\u00e2m tr\u00ed lang thang",
       "url": "https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG"
@@ -25064,6 +25082,28 @@
       "duration_ms": 170958,
       "name": "Vi\u1ec7t Ki\u1ec1u",
       "url": "https://open.spotify.com/track/59LeatGytui1mQleoiEnWM"
+    },
+    {
+      "album": {
+        "name": "V\u00e0 Th\u1ebf Gi\u1edbi \u0110\u00e3 M\u1ea5t \u0110i M\u1ed9t Ng\u01b0\u1eddi C\u00f4 \u0110\u01a1n",
+        "url": "https://open.spotify.com/album/2nrI2EXyALcCWr12MwOzpA"
+      },
+      "artists": [
+        {
+          "name": "marzuz",
+          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
+        },
+        {
+          "name": "Changg",
+          "url": "https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201176,
+      "name": "V\u00e0 Th\u1ebf Gi\u1edbi \u0110\u00e3 M\u1ea5t \u0110i M\u1ed9t Ng\u01b0\u1eddi C\u00f4 \u0110\u01a1n",
+      "url": "https://open.spotify.com/track/6Qwl74olNi1rl65FNxG5We"
     },
     {
       "album": {
@@ -27338,7 +27378,7 @@
       ],
       "date_added": "2021-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 266000,
       "name": "\u0110\u01b0\u1eddng T\u00f4i Ch\u1edf Em V\u1ec1",
       "url": "https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,750 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,762 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 22 | [Time to Party](https://open.spotify.com/track/6NSmOtlkUnpavCWIuLbZo8) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 4:04 |
 | 23 | [I Know You \(feat\. Bastille\)](https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:34 |
 | 24 | [Hidden Agenda](https://open.spotify.com/track/5MRruRrB235AeY0DISngdw) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 3:53 |
-| 25 | [When the Bassline Drops](https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:05 |
-| 26 | [All the Way](https://open.spotify.com/track/5ln1Tttut50qIL1KJkl3YC) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 3:55 |
+| 25 | [All the Way](https://open.spotify.com/track/5ln1Tttut50qIL1KJkl3YC) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 3:55 |
+| 26 | [When the Bassline Drops](https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:05 |
 | 27 | [SOS](https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [SOS](https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq) | 3:30 |
 | 28 | [Officially Yours](https://open.spotify.com/track/4sofx1s0nDS4LG1Tx3uxpG) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 3:55 |
-| 29 | [Ain't Giving Up](https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 2:37 |
-| 30 | [Rain](https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Rain](https://open.spotify.com/album/6effz36583EebaQcS3ZOrM) | 3:34 |
+| 29 | [Rain](https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Rain](https://open.spotify.com/album/6effz36583EebaQcS3ZOrM) | 3:34 |
+| 30 | [Ain't Giving Up](https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 2:37 |
 | 31 | [Abracadabra \(Feat\. Craig David\)](https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5) | 2:35 |
 | 32 | [Hypnotic](https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:19 |
 | 33 | [Heartline](https://open.spotify.com/track/60RZ7d1D4DeEdtzkjXrp77) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:12 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 47 | [Every Neighbour Got Their Flava \(Just Eat\)](https://open.spotify.com/track/7BBF73cSuNulTag3pLOvVQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Every Neighbour Got Their Flava \(Just Eat\)](https://open.spotify.com/album/2hdOMkeUEwT54EN0jnfHdD) | 1:00 |
 | 48 | [Addicted \- Radio Edit](https://open.spotify.com/track/627SOpaFBewVhekDAu5b8v) | [DJ Assad](https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Greg Parys](https://open.spotify.com/artist/3oxDUMO16ReenrnGfoXsGV) | [Addicted \(Radio Edit\)](https://open.spotify.com/album/70XtossftXZXhbL4ZKfKWs) | 3:34 |
 | 49 | [Spanish](https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 5:03 |
-| 50 | [Leave The Light On](https://open.spotify.com/track/4QKaDo33XTC0JumNtvBNXI) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 3:18 |
+| 50 | [My Heart's Been Waiting for You \- feat\. Duvall](https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:24 |
 
-Snapshot ID: `aSo3gAAAAABCu0MB042VwEKUsn+EHAAf`
+Snapshot ID: `aSuJAAAAAACPiOMJXHoYIESiJ1inpNx9`

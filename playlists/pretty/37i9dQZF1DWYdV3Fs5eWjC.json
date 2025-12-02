@@ -1,6 +1,6 @@
 {
   "description": "Discover the multifaceted creativity of the Black queer community. Cover: The Arti$t",
-  "num_followers": 80109,
+  "num_followers": 80110,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz"
     },
     {
+      "added_at": "2020-06-01 21:07:43",
+      "album": {
+        "name": "Grrrl Like",
+        "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
+      },
+      "artists": [
+        {
+          "name": "Dope Saint Jude",
+          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
+        }
+      ],
+      "duration_ms": 171667,
+      "name": "Grrrl Like",
+      "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
+    },
+    {
       "added_at": "2021-08-06 04:00:00",
       "album": {
         "name": "Slow Down (feat. Tion Wayne)",
@@ -975,22 +991,6 @@
       "duration_ms": 198058,
       "name": "Slow Down (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/1kW0R9RBRSZe9sWjp8DkKY"
-    },
-    {
-      "added_at": "2020-06-01 21:07:43",
-      "album": {
-        "name": "Grrrl Like",
-        "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
-      },
-      "artists": [
-        {
-          "name": "Dope Saint Jude",
-          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
-        }
-      ],
-      "duration_ms": 171667,
-      "name": "Grrrl Like",
-      "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
     },
     {
       "added_at": "2025-05-07 20:24:43",
@@ -1081,38 +1081,6 @@
       "url": "https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a"
     },
     {
-      "added_at": "2021-06-25 04:01:00",
-      "album": {
-        "name": "Thicker Than Water",
-        "url": "https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        }
-      ],
-      "duration_ms": 247346,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN"
-    },
-    {
-      "added_at": "2023-10-05 17:45:18",
-      "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "Lipstick Lover",
-      "url": "https://open.spotify.com/track/0zBVnui5j6g5lDEfPpbobx"
-    },
-    {
       "added_at": "2025-05-07 20:24:43",
       "album": {
         "name": "BLOOM",
@@ -1131,6 +1099,38 @@
       "duration_ms": 279999,
       "name": "Flounce",
       "url": "https://open.spotify.com/track/2mgiMZ9BFMI8YgGHtIlgmT"
+    },
+    {
+      "added_at": "2023-10-05 17:45:18",
+      "album": {
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Lipstick Lover",
+      "url": "https://open.spotify.com/track/0zBVnui5j6g5lDEfPpbobx"
+    },
+    {
+      "added_at": "2021-06-25 04:01:00",
+      "album": {
+        "name": "Thicker Than Water",
+        "url": "https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "duration_ms": 247346,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN"
     },
     {
       "added_at": "2025-05-07 20:24:43",

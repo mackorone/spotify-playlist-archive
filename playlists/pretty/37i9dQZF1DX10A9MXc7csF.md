@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Hans El Oso
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,504 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,532 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 26 | [Guerrero de Mil Batallas](https://open.spotify.com/track/3NLiwEsbaihHr32XJwcdcX) | [Los Hnos Rodriguez](https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU) | [DEL CERO AL CIEN](https://open.spotify.com/album/6fqg03bbpSA8a6bpbRaWlK) | 3:33 |
 | 27 | [NO SE ME RAJE](https://open.spotify.com/track/7cxgfa1qeumz1zHLIMXDN2) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [CERO MIEDO](https://open.spotify.com/album/1haYUGKyZ79gGcSFjBTyCg) | 2:51 |
 | 28 | [Amo](https://open.spotify.com/track/0QieT45vFvqEkzrcbIz01s) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Amo](https://open.spotify.com/album/4ePqxgdhLET9p96yDVvLr1) | 3:39 |
-| 29 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE), [Sintapia](https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
+| 29 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
 | 30 | [No Me Preocupo Tanto](https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Los Ultimos Son Los Primeros](https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4) | 2:33 |
 | 31 | [Rancherita](https://open.spotify.com/track/4K8xVCALzznaUOXpeViceU) | [Monir Bautista](https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g) | [Rancherita](https://open.spotify.com/album/6P2XpBHkCAdk0lQhBFwd9y) | 2:29 |
 | 32 | [Palabras](https://open.spotify.com/track/0HEZRVYA4WDvLHQpan1vFr) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [Palabras](https://open.spotify.com/album/0iI1hpOmkFLcLwMlFTNOho) | 4:53 |

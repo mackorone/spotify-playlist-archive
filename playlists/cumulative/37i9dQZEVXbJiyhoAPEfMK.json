@@ -114,7 +114,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 222767,
       "name": "069",
       "url": "https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -4620,7 +4620,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -4656,7 +4656,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -7934,7 +7934,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -9060,7 +9060,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -12464,9 +12464,9 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 85266,
-      "name": "Carol of the Bells",
+      "name": "Carol of the Bells (From \"Home Alone\" Soundtrack)",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
     },
     {
@@ -13512,7 +13512,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
@@ -13530,7 +13530,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 243057,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/7LoFMtL7hxP9tr5HYyyUrJ"
@@ -19956,7 +19956,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -20908,7 +20908,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -27694,7 +27694,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
@@ -27712,7 +27712,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
@@ -29210,7 +29210,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 129577,
       "name": "I Run",
       "url": "https://open.spotify.com/track/7yxEOiB5klVkj9RXfia90C"
@@ -30519,6 +30519,24 @@
     },
     {
       "album": {
+        "name": "Winterkinder ...auf der Suche nach Weihnachten",
+        "url": "https://open.spotify.com/album/7h4CEzgecVSP9JwpFepdx6"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "In der Weihnachtsb\u00e4ckerei",
+      "url": "https://open.spotify.com/track/7gcKoI9KokClK9ZUjNFgZa"
+    },
+    {
+      "album": {
         "name": "Aus meinem Tagebuch",
         "url": "https://open.spotify.com/album/18lmPK5jSx7uwin7aYqUMb"
       },
@@ -31330,7 +31348,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -31348,7 +31366,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -31400,7 +31418,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
@@ -32070,7 +32088,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 120693,
       "name": "Jingle Bells - Remastered 1999",
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
@@ -34194,7 +34212,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -36277,6 +36295,24 @@
     },
     {
       "album": {
+        "name": "A Very Jonas Christmas Movie (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1IJDQOKfMGSDKy1St3nJVc"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200873,
+      "name": "Like It's Christmas",
+      "url": "https://open.spotify.com/track/5NUXAUIItJAxBIUOdm0gUf"
+    },
+    {
+      "album": {
         "name": "Like It's Christmas",
         "url": "https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu"
       },
@@ -36828,7 +36864,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -43484,21 +43520,13 @@
       },
       "artists": [
         {
-          "name": "Brian Kierulf",
-          "url": "https://open.spotify.com/artist/7xPxbgA4TgMgFHWgYORx47"
-        },
-        {
-          "name": "Josh Schwartz",
-          "url": "https://open.spotify.com/artist/1s36VyXzwA4Q6RC36tcO6q"
-        },
-        {
           "name": "Britney Spears",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 255400,
       "name": "My Only Wish (This Year)",
       "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
@@ -48094,7 +48122,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
@@ -48906,7 +48934,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -49508,7 +49536,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 177440,
       "name": "Please Come Home for Christmas - 2013 Remaster",
       "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
@@ -52968,7 +52996,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 135760,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw"
@@ -56878,7 +56906,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -58334,7 +58362,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 272333,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
@@ -59490,7 +59518,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -61704,7 +61732,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -70440,7 +70468,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 156773,
       "name": "You Make It Feel Like Christmas (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"

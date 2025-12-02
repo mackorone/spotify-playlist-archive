@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13547,
+  "num_followers": 13549,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAAVTETKBaAQ/nVFU8RfmUbh",
+  "snapshot_id": "aSuJAAAAAAAbloBwg4B4VVy2JHTonkc5",
   "tracks": [
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sobred\u00f3sis De Tempra",
+        "url": "https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Sobred\u00f3sis De Tempra",
+      "url": "https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Es Mi Fiesta Y Si Quiero Hago Un EP",
         "url": "https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 155520,
       "name": "Mi Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobred\u00f3sis De Tempra",
-        "url": "https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Sobred\u00f3sis De Tempra",
-      "url": "https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 30 Nov 23:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 01 Dec 14:05 UTC.
 
-5,892 songs - 13 day 15 hr 25 min
+5,893 songs - 13 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3604,7 +3604,7 @@
 | [NOBODY SAFE](https://open.spotify.com/track/5PjOxRWKD3aUvNHTf4bgAe) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [NOBODY SAFE](https://open.spotify.com/album/20N6yVUaJ0M8pgYvQRcZEE) | 1:42 | 2025-08-08 | 2025-08-19 |
 | [Nobody's Perfect](https://open.spotify.com/track/53SirzTK2fEruERQoZ8egL) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Nobody's Perfect](https://open.spotify.com/album/3I9FpnzIRxnktCGwDdKeZK) | 2:40 | 2024-10-30 | 2024-11-02 |
 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 | 2025-01-23 | 2025-02-02 |
-| [nohj.scus.na](https://open.spotify.com/track/62xNoIIs2J56rPLSFUHrWd) | [JOHNNASCUS](https://open.spotify.com/artist/1Kvu06TxgDMSFkoYQEj6Rv) | [nohj.scus.na](https://open.spotify.com/album/4TB5dMWHyGM0qB8vR0r0FL) | 4:43 | 2025-11-19 |  |
+| [nohj.scus.na](https://open.spotify.com/track/62xNoIIs2J56rPLSFUHrWd) | [JOHNNASCUS](https://open.spotify.com/artist/1Kvu06TxgDMSFkoYQEj6Rv) | [nohj.scus.na](https://open.spotify.com/album/4TB5dMWHyGM0qB8vR0r0FL) | 4:43 | 2025-11-19 | 2025-12-02 |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 | 2024-10-21 | 2024-10-25 |
 | [Noisy Boys](https://open.spotify.com/track/3JCckl9tjLZnfjguaxyckw) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP), [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Noisy Boys](https://open.spotify.com/album/5lxwsxClvVt8C4XOxtTGjV) | 3:15 | 2024-10-03 | 2024-10-05 |
 | [Nokia](https://open.spotify.com/track/1o9ts3waIgedtU4EiSDqTo) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Nokia](https://open.spotify.com/album/7liilwoUssfYWNckKRf4SW) | 3:07 | 2024-07-24 | 2024-07-27 |
@@ -4581,6 +4581,7 @@
 | [Soft Spot](https://open.spotify.com/track/5pmITEphUtjpCLmKiYIPl9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Soft Spot](https://open.spotify.com/album/5huqwJ6gDBbuyjNOOVOTrP) | 3:24 | 2024-09-12 | 2024-09-14 |
 | [SOLD OUT](https://open.spotify.com/track/4oSo1Wtu73wqf8YxerTiV4) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [SOLD OUT](https://open.spotify.com/album/55vTWKWqRLNYoJoEzDEU2h) | 1:41 | 2025-05-09 | 2025-05-20 |
 | [Soldier In The Army Of Love](https://open.spotify.com/track/43zPNC1Ba7FTKH6ixOsdtB) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army Of Love](https://open.spotify.com/album/5W8zfj8FM6UqJMxl6yXGnA) | 2:58 | 2024-06-28 | 2024-07-03 |
+| [Solitary](https://open.spotify.com/track/1HlZyNtc0IhqsoIeu0ExKE) | [KRYSTAL](https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI) | [Solitary](https://open.spotify.com/album/6332xxEEpdU7af0Cxv31YQ) | 2:18 | 2025-12-01 |  |
 | [Solitude of the Night Bus](https://open.spotify.com/track/0XrRTQNcxOn8tQgrilf4Mp) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Solitude of the Night Bus](https://open.spotify.com/album/5kzQFWJ9ArgLKExI7BaTnN) | 3:18 | 2024-07-09 | 2024-07-11 |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-09-26 | 2024-09-28 |
 | [Some Days I Drink My Coffee by the Grave of William Blake](https://open.spotify.com/track/7oA9S6NHRiaI7TUbPwKOCF) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Some Days I Drink My Coffee by the Grave of William Blake](https://open.spotify.com/album/3D8hTdaS1LPiA8gayUlGdR) | 4:03 | 2024-08-29 | 2024-08-31 |

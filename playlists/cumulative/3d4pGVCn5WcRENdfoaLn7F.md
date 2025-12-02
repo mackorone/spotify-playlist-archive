@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-90 songs - 5 hr 29 min
+93 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [CHERRIES](https://open.spotify.com/track/5ZsI8sZQCuKddaqgCU23O7) | [k0vn](https://open.spotify.com/artist/7B2CuYxTrTolxU6z1exymy) | [CHERRIES](https://open.spotify.com/album/2HUh8kMZwmcnIJOjrreooR) | 3:10 | 2025-11-12 |  |
 | [Cindy Lee, Forever](https://open.spotify.com/track/1vu2V0n5tuSKODQWwzIJwv) | [Ernest Graves](https://open.spotify.com/artist/3S0CAgGVPhrk1V4CzGKJFB) | [Cindy Lee, Forever](https://open.spotify.com/album/0a9aFMSqP2he9f66pY6iFy) | 3:02 | 2025-11-26 |  |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-09-21 |  |
+| [Coming Home \(UNITED\)](https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:44 | 2025-12-01 |  |
 | [Coping](https://open.spotify.com/track/0OzYP6QaMX7DIQaBkaIHv6) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Coping](https://open.spotify.com/album/5oWwyfSLZVbtxJ6lGquURw) | 3:50 | 2025-11-07 |  |
 | [Crashout Bandicoot](https://open.spotify.com/track/4tr2Y43N2nmWDY14JzkRoi) | [Four Stars](https://open.spotify.com/artist/2tdl7uw2qVGiuAk0AjUpGG) | [Crashout Bandicoot](https://open.spotify.com/album/5pEGwEj7GOB2qg2tOZW1Ut) | 2:57 | 2025-11-26 |  |
 | [Dagger](https://open.spotify.com/track/2z085z3HP9wxC1NbZg0l75) | [Rhaina Yasmin](https://open.spotify.com/artist/0HRstpwKkdAHomEsGun6Id) | [Dagger](https://open.spotify.com/album/3uBwu021Fop6TxolWGkf65) | 4:18 | 2025-11-16 |  |
@@ -93,10 +94,12 @@
 | [Walk Through Quicksand](https://open.spotify.com/track/5Pr5NTcu6bgkcQgNabBM3b) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Walk Through Quicksand](https://open.spotify.com/album/2oxRmthCj3nUYYmx7xliaE) | 3:31 | 2025-11-26 |  |
 | [What You've Been Told](https://open.spotify.com/track/2PC2lNfhz7LiyyjV0Ignpk) | [Dandbroom](https://open.spotify.com/artist/7eH9LgP0tS3a6TwkoEWwBI) | [What You've Been Told](https://open.spotify.com/album/4W4wS1Uoo9YnJyYzxRP0pp) | 3:11 | 2025-11-11 |  |
 | [What's Wrong With You?](https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [What's Wrong With You?](https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK) | 4:20 | 2025-11-17 |  |
+| [Where Love Became a Ghost](https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Where Love Became a Ghost](https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP) | 4:31 | 2025-12-01 |  |
 | [wild](https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:43 | 2025-11-11 |  |
 | [World is Equal](https://open.spotify.com/track/05YK7hsS859ziFGqqyPvol) | [3syk](https://open.spotify.com/artist/6nLWTo3BGompYwZMi5MbnZ), [ugazin](https://open.spotify.com/artist/1LoZxacnWxCypwVYdkNKIS) | [World is Equal](https://open.spotify.com/album/2YDjHFunY5aJUsXrZijyUS) | 3:33 | 2025-10-30 |  |
 | [XOX](https://open.spotify.com/track/6NPFMNDnzPigdslFwfXoGm) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [LET IT BURN](https://open.spotify.com/album/7qPN6FUAx44U3Ti7F6Rpxr) | 2:06 | 2025-11-04 |  |
 | [You Don't Wanna Go Home](https://open.spotify.com/track/1N3Yy7KmL8kPNUvUf9ndyU) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [You Don't Wanna Go Home](https://open.spotify.com/album/7y2TICCC1Hv6sXMQHbljoR) | 2:59 | 2025-10-29 |  |
+| [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 | 2025-12-01 |  |
 | [Your Love Shines Down Like a Supernova's Death](https://open.spotify.com/track/0pNHZJgtYJoN9UfLvxvOL3) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:06 | 2025-11-02 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

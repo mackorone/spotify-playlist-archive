@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > La playlist sin fronteras, elevando a la Música Mexicana\. Cover: Peso Pluma & Tito Double P
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,304,789 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,304,616 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 42 | [Vice City](https://open.spotify.com/track/4BhC4JAAAkI5VV5KEMVP6k) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Vice City](https://open.spotify.com/album/2Mi0UQhynmysuUvzwTLNV7) | 3:15 |
 | 43 | [CHAVALITAS](https://open.spotify.com/track/3qdeRGn9erK9sjs1kUtBys) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:44 |
 | 44 | [Sin Mí](https://open.spotify.com/track/4CkpqTLPw14hlXxJB1r0Ba) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Sin Mí](https://open.spotify.com/album/3xN9ooUhk0pQs6wl3pjB5V) | 2:17 |
-| 45 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE), [Sintapia](https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
+| 45 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
 | 46 | [TU TU TU](https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [TU TU TU](https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0) | 2:31 |
 | 47 | [El Final De Nuestra Historia](https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:15 |
 | 48 | [Changuito Me Apodaron](https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [Changuito Me Apodaron](https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu) | 2:43 |

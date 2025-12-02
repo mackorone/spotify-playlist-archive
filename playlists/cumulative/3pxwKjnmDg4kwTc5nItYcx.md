@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-875 songs - 1 day 23 hr 2 min
+876 songs - 1 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Medicine](https://open.spotify.com/track/3OH5hqxxjvDLTu04jxRvL2) | [MA RATED](https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg) | [Medicine](https://open.spotify.com/album/538WTSicIPlXTeNzcraF7X) | 3:32 | 2020-06-19 | 2021-05-12 |
 | [Meet U Again](https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Meet U Again](https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP) | 2:35 | 2022-02-28 | 2025-08-27 |
 | [Melancholy](https://open.spotify.com/track/1TvbMS0nNRFfG7x0SpOHqe) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Melancholy](https://open.spotify.com/album/4zbDad6JvhsqzrbvUtkKJN) | 2:44 | 2020-04-03 | 2020-05-19 |
+| [Memories and Ghosts](https://open.spotify.com/track/77z3Z6bEf017UZiTgCo5Mu) | [Ilan Kidron](https://open.spotify.com/artist/2h4XAkDeP79wkwWE4eXzTT) | [Swimmer](https://open.spotify.com/album/1mAwtq83TXihLdVhNc0XMZ) | 3:01 | 2025-12-02 |  |
 | [Memories of You](https://open.spotify.com/track/180yjcIvKU1Vx6KifwaTU9) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Memories of You](https://open.spotify.com/album/1ddVg2hiXNHyNZHCkZ1NFh) | 3:21 | 2022-11-04 | 2025-08-27 |
 | [MERLOT](https://open.spotify.com/track/30UDUJFpL8hEY6D0eiV7Gc) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [MERLOT](https://open.spotify.com/album/26xqHT27zigQm127bNp1li) | 3:16 | 2024-03-20 | 2025-08-27 |
 | [Mind Is A Prison](https://open.spotify.com/track/4GGSmoTmc5LClrowB4SmEw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Mind Is A Prison](https://open.spotify.com/album/3oFteG1YXJg2LS6R7Ge2yB) | 2:42 | 2019-12-13 | 2020-05-19 |

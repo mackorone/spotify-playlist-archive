@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 419713,
+  "num_followers": 419707,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Back to Oz / Fictional California",
         "url": "https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 252052,
       "name": "Back To Oz",
       "url": "https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "In the Game",
-        "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        },
-        {
-          "name": "Susan O'Neill",
-          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
-        }
-      ],
-      "duration_ms": 200161,
-      "name": "Chain Reaction",
-      "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "To Love",
         "url": "https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 216189,
       "name": "Every Day's A Lesson In Humility",
       "url": "https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "In the Game",
+        "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        },
+        {
+          "name": "Susan O'Neill",
+          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
+        }
+      ],
+      "duration_ms": 200161,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Shape of Silence",
-        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 200355,
-      "name": "Causing Trouble",
-      "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Satan / Jacob Rose",
         "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 196264,
       "name": "Satan",
       "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Shape of Silence",
+        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 200355,
+      "name": "Causing Trouble",
+      "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "midnight sun",
-        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "midnight sun",
-      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Desert Woman",
         "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 256402,
       "name": "Desert Woman",
       "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "midnight sun",
+        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "midnight sun",
+      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "We Watch The Stars",
         "url": "https://open.spotify.com/album/7CDx9LMmJ9cbFlGRK7cmYY"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 225076,
       "name": "We Watch The Stars - Berlin Session",
       "url": "https://open.spotify.com/track/4WhSZZcvtkC6Bn2992AacO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Redwood Tree",
-        "url": "https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep"
-      },
-      "artists": [
-        {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
-        }
-      ],
-      "duration_ms": 170894,
-      "name": "Redwood Tree",
-      "url": "https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Everything Was Beautiful",
         "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 352333,
       "name": "Best Thing You Never Had (The D Song)",
       "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Redwood Tree",
+        "url": "https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 170894,
+      "name": "Redwood Tree",
+      "url": "https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Late Bloomer",
-        "url": "https://open.spotify.com/album/3s1OBLlL9gLOVl5Dtc5RHs"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 174598,
-      "name": "Late Bloomer",
-      "url": "https://open.spotify.com/track/0dTgjND9WVIfk9M2jHbzjr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "southwest serenade",
         "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/3s1OBLlL9gLOVl5Dtc5RHs"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 174598,
+      "name": "Late Bloomer",
+      "url": "https://open.spotify.com/track/0dTgjND9WVIfk9M2jHbzjr"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 169823,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Begin Again - EP",
         "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
       },
@@ -1971,22 +1955,34 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Mouth (feat. Luke Krutzke)",
-        "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
       },
       "artists": [
         {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        },
-        {
-          "name": "Luke Krutzke",
-          "url": "https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL"
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
         }
       ],
-      "duration_ms": 236032,
-      "name": "Mouth (feat. Luke Krutzke)",
-      "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
+      "duration_ms": 169823,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Ignorance (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 173008,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2007,18 +2003,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Ignorance (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
+        "name": "Mouth (feat. Luke Krutzke)",
+        "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
       },
       "artists": [
         {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        },
+        {
+          "name": "Luke Krutzke",
+          "url": "https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL"
         }
       ],
-      "duration_ms": 173008,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
+      "duration_ms": 236032,
+      "name": "Mouth (feat. Luke Krutzke)",
+      "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2179,42 +2179,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "On A Beach",
-        "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
-      },
-      "artists": [
-        {
-          "name": "Hayden",
-          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
-        },
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 245656,
-      "name": "On A Beach",
-      "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Big Star (Alt)",
-        "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 244632,
-      "name": "Big Star - Alt",
-      "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Turn Away",
         "url": "https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk"
       },
@@ -2243,6 +2207,42 @@
       "duration_ms": 271120,
       "name": "Bummer Year",
       "url": "https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Big Star (Alt)",
+        "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 244632,
+      "name": "Big Star - Alt",
+      "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "On A Beach",
+        "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
+      },
+      "artists": [
+        {
+          "name": "Hayden",
+          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 245656,
+      "name": "On A Beach",
+      "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Greatest Weapon / Under The Water",
         "url": "https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 174156,
       "name": "Greatest Weapon",
       "url": "https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "FODDER",
+        "url": "https://open.spotify.com/album/1EddVMg0glN4iWtW9261ll"
+      },
+      "artists": [
+        {
+          "name": "Insightful",
+          "url": "https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z"
+        }
+      ],
+      "duration_ms": 248164,
+      "name": "Shores",
+      "url": "https://open.spotify.com/track/7mCBglQEL4tFTjwrrLm5BJ"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/7IepJT6QQV379tlsxJm0Eb"
       },
@@ -2467,22 +2483,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "FODDER",
-        "url": "https://open.spotify.com/album/1EddVMg0glN4iWtW9261ll"
-      },
-      "artists": [
-        {
-          "name": "Insightful",
-          "url": "https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z"
-        }
-      ],
-      "duration_ms": 248164,
-      "name": "Shores",
-      "url": "https://open.spotify.com/track/7mCBglQEL4tFTjwrrLm5BJ"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/1tvSxaTCXwwBK6vEYnj06T"
       },
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Standing On The Moon",
-        "url": "https://open.spotify.com/album/5NbG7i8fTUc4eJzl4KJUQK"
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/27yHVnSUoOngzMAwwPA0ks"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 299536,
-      "name": "Standing On The Moon",
-      "url": "https://open.spotify.com/track/757iJ0Z4Sn48BzcQgxFl8W"
+      "duration_ms": 239056,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/7z2MAtdSKCY0bAVy2ItYP0"
     }
   ],
   "unique_name": "Modern Eclectic",

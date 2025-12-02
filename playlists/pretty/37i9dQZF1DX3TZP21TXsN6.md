@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuwe tracks elke week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,954 likes - 62 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,953 likes - 62 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 14 | [Check\-In](https://open.spotify.com/track/56DizN16m8zIxLqBwHJDED) | [Mastah D](https://open.spotify.com/artist/2P6FMuX6QThelGJPxdGazY), [DeMozah](https://open.spotify.com/artist/6xk6F2Ixz6Ljlxnt1FlMLU) | [Check\-In](https://open.spotify.com/album/7bUh7IRE6diy44ahxVjA1u) | 2:04 |
 | 15 | [What a Life](https://open.spotify.com/track/4zDEwRi2nhuAMEGdaCTuEk) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [What a Life](https://open.spotify.com/album/1QCoLF7vyXhpa4zsZi6xcK) | 2:46 |
 | 16 | [Timer](https://open.spotify.com/track/1TdMDwgfVf5LXA1DQyRnrY) | [Rocher](https://open.spotify.com/artist/2gVPi9fTLuumDLlkRn2G5j) | [Timer](https://open.spotify.com/album/4zxv4eGHsswITqChUq2jPa) | 2:35 |
-| 17 | [SWS!](https://open.spotify.com/track/6S8RsTHdtIGiaPncz5scAb) | [Djesco10](https://open.spotify.com/artist/1BM5QQ8Xoxc0zy1Bax8499) | [SWS!](https://open.spotify.com/album/01katWjXoLNhMhZflD9ytH) | 2:20 |
+| 17 | [SWS!](https://open.spotify.com/track/6S8RsTHdtIGiaPncz5scAb) | [Djesco10](https://open.spotify.com/artist/1BM5QQ8Xoxc0zy1Bax8499) | [SWS!](https://open.spotify.com/album/01katWjXoLNhMhZflD9ytH) | 2:15 |
 | 18 | [Millie](https://open.spotify.com/track/2MVDfx1jaCm8BGcR4QSMcD) | [Flo](https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy) | [Millie](https://open.spotify.com/album/1gqGYqkrgJPXF2PY7mqBWy) | 2:36 |
 | 19 | [TNAWIES](https://open.spotify.com/track/07zIEXphyaKpjL5J3yLg0X) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR) | [TNAWIES](https://open.spotify.com/album/6R3q06Xa7wrDlk8Hq20HYV) | 1:57 |
 | 20 | [Wist Allang](https://open.spotify.com/track/40H9rkqbz4bqX9JpbAWdkL) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [TADS](https://open.spotify.com/artist/4PiXfQoM68C9kWwaJNMbQ7), [SHY](https://open.spotify.com/artist/6XPCiOK0ZzG8WJhUsnyU7T) | [Wist Allang](https://open.spotify.com/album/134jINYHs2A8OvGmFXUUJa) | 3:14 |

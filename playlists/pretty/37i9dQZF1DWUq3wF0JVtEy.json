@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 919633,
+  "num_followers": 919538,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "We Don\u2019t Need",
         "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 188644,
       "name": "We Don\u2019t Need",
       "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -947,6 +947,42 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG"
+      },
+      "artists": [
+        {
+          "name": "NO SIGNE",
+          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+        },
+        {
+          "name": "Rell Rock",
+          "url": "https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Beast Mode (Knock You Out)",
+        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Beast Mode (Knock You Out)",
+      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -971,38 +1007,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Beast Mode (Knock You Out)",
-        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Beast Mode (Knock You Out)",
-      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG"
-      },
-      "artists": [
-        {
-          "name": "NO SIGNE",
-          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+          "name": "Dirty Palm",
+          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
         },
         {
-          "name": "Rell Rock",
-          "url": "https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq"
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
         }
       ],
-      "duration_ms": 180480,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
+      "duration_ms": 162187,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1027,26 +1047,6 @@
       "duration_ms": 159230,
       "name": "Party After Party",
       "url": "https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
-      },
-      "artists": [
-        {
-          "name": "Dirty Palm",
-          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
-        },
-        {
-          "name": "KDH",
-          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
-        }
-      ],
-      "duration_ms": 162187,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1171,26 +1171,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Go Mode",
-        "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
+        "name": "Senses (Now We Go)",
+        "url": "https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO"
       },
       "artists": [
         {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
         },
         {
-          "name": "Blookah",
-          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+          "name": "ONEDUO",
+          "url": "https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc"
         }
       ],
-      "duration_ms": 232031,
-      "name": "Go Mode",
-      "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
+      "duration_ms": 153750,
+      "name": "Senses (Now We Go)",
+      "url": "https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1215,22 +1211,26 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Senses (Now We Go)",
-        "url": "https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO"
+        "name": "Go Mode",
+        "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
       },
       "artists": [
         {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
         },
         {
-          "name": "ONEDUO",
-          "url": "https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc"
+          "name": "Blookah",
+          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
+        },
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Senses (Now We Go)",
-      "url": "https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC"
+      "duration_ms": 232031,
+      "name": "Go Mode",
+      "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "Rock The Party",
+        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "Rock The Party",
+      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Rock The Party",
-        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "Rock The Party",
-      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "Repeating",
         "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 147420,
       "name": "Repeating",
       "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 177187,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1443,6 +1427,22 @@
       "duration_ms": 194243,
       "name": "Quick Highs",
       "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "BASS RELATED VOL. 1",
+        "url": "https://open.spotify.com/album/6atF5QM5DJdbqtJqFlyLsN"
+      },
+      "artists": [
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "duration_ms": 168281,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/3vE4BK9rlQRRCnuguRTCuT"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "No Ecstasy Love",
         "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 166399,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/1v5IFYrqslFhjqqHpBebAg"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "BASS RELATED VOL. 1",
-        "url": "https://open.spotify.com/album/6atF5QM5DJdbqtJqFlyLsN"
-      },
-      "artists": [
-        {
-          "name": "Merow",
-          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
-        }
-      ],
-      "duration_ms": 168281,
-      "name": "ILY",
-      "url": "https://open.spotify.com/track/3vE4BK9rlQRRCnuguRTCuT"
     }
   ],
   "unique_name": "Shuffle Syndrome",

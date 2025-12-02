@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 70397,
+  "num_followers": 70484,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "De Verdad (15 Super Exitos)",
         "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
       },
@@ -235,22 +219,6 @@
       "duration_ms": 297053,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Reclamando Nuestro Espacio",
-        "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 248555,
-      "name": "Anhelo",
-      "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -271,6 +239,38 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "Reclamando Nuestro Espacio",
+        "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 248555,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Atrevido Y Diferente",
         "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 308040,
       "name": "Que Locura Enamorarme De Ti",
       "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 342520,
-      "name": "Triste canci\u00f3n",
-      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Una Dimensi\u00f3n De \u00c9xitos",
         "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 342520,
+      "name": "Triste canci\u00f3n",
+      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Guaracha Sabrosona",
-        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Guaracha Sabrosona",
-      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Fabricando Fantas\u00edas",
         "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 272266,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Guaracha Sabrosona",
+        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Guaracha Sabrosona",
+      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Mi Mu\u00f1equita Sint\u00e9tica",
-      "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 292653,
       "name": "Mi Media Mitad",
       "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Mi Mu\u00f1equita Sint\u00e9tica",
+      "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "Grito En Silencio",
+        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Carabo",
+          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "El Afilador",
+      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Grito En Silencio",
-        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
+        "name": "Para Qu\u00e9 Llorar",
+        "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
       },
       "artists": [
         {
-          "name": "Grupo Carabo",
-          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
         }
       ],
-      "duration_ms": 215973,
-      "name": "El Afilador",
-      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
+      "duration_ms": 193013,
+      "name": "La Inconforme",
+      "url": "https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1495,22 +1511,6 @@
       "duration_ms": 438026,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Para Qu\u00e9 Llorar",
-        "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
-      },
-      "artists": [
-        {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "La Inconforme",
-      "url": "https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 335621,
       "name": "A Esa Gran Velocidad",
       "url": "https://open.spotify.com/track/5dXKQ5MzrOPjFwtJEJZYuu"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Sobredosis de Amor y Salsa",
-        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        },
-        {
-          "name": "\u00d3scar Quesada",
-          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
-        }
-      ],
-      "duration_ms": 287459,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/6ADkHioGKvBpqDkXVhMZKr"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 295160,
       "name": "T\u00fa Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1hiy2Mm4Xw57Vh6tiWbyam"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Sobredosis de Amor y Salsa",
+        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        },
+        {
+          "name": "\u00d3scar Quesada",
+          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
+        }
+      ],
+      "duration_ms": 287459,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/6ADkHioGKvBpqDkXVhMZKr"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Cumbia Francesa",
-      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "20 Exitos Originales 20",
         "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 277028,
       "name": "El Amor de la Nena",
       "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Cumbia Francesa",
+      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
     },
     {
       "added_at": "2025-09-26 06:00:27",

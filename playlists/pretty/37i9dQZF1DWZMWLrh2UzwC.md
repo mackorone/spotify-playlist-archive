@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from, Joe Flizzow, Ed Sheeran, Shila Amzah, ILLIT,   and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,231 likes - 101 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,232 likes - 101 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 12 | [Pelangi](https://open.spotify.com/track/4ScwWnzXnRAv7n2oBvLDSa) | [El Riss](https://open.spotify.com/artist/198REvNUVAwWZc24QEUwA5) | [Pelangi](https://open.spotify.com/album/58fnqn2LszMMc4yGpg0cLU) | 3:53 |
 | 13 | [Mahkota](https://open.spotify.com/track/2gQwX2GDrCu89CxJVo78XB) | [Sekumpulan Orang Gila](https://open.spotify.com/artist/0lsic3ZlNuapuwzbmD4imv), [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Mahkota](https://open.spotify.com/album/07RStQxi5NERLDvc5UQ6G3) | 3:44 |
 | 14 | [sampai bila bila](https://open.spotify.com/track/7Dd8cjtC83OQ9JDAEIIOkz) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh), [Airliftz](https://open.spotify.com/artist/4O2Gfcx2x2dIrFdFrrf0PY) | [punca kecewa](https://open.spotify.com/album/59sMrZdgQ7vmjrtJoLPcvK) | 4:56 |
-| 15 | [tropical downpour](https://open.spotify.com/track/5RKkfrz1twRhu7nDuYCAcJ) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [tropical downpour](https://open.spotify.com/album/59E30iPJI2jYozB70t4bPb) | 3:08 |
+| 15 | [Tropical Downpour](https://open.spotify.com/track/5RKkfrz1twRhu7nDuYCAcJ) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Tropical Downpour](https://open.spotify.com/album/59E30iPJI2jYozB70t4bPb) | 3:08 |
 | 16 | [你会不会一样离开我](https://open.spotify.com/track/5S605LfXogbEQneBZyw6dR) | [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [你会不会一样离开我](https://open.spotify.com/album/0KfsnW06jEgJuRW6FzuaLb) | 3:27 |
 | 17 | [Biar Kau Bahagia](https://open.spotify.com/track/3sJ6Lcprkf7P1TBMYlEvHF) | [Ariff Bahran](https://open.spotify.com/artist/2ZDEFZjcNiDOiCgQpixGBI) | [Biar Kau Bahagia](https://open.spotify.com/album/7shW2N587JQyaTNaR5q5Fx) | 4:32 |
 | 18 | [Masuk Lagi](https://open.spotify.com/track/3mUK30BnqxoTy8UJsiJwXd) | [Baby Shima](https://open.spotify.com/artist/6b8ra1rFH1RtPCHWYEkaA5) | [Masuk Lagi](https://open.spotify.com/album/4yKQuSNiG0XT6NFJ1EVq4E) | 4:03 |

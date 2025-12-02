@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of best Prog Rock tracks\. Cover: Dream Theater
+> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,408 likes - 75 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,450 likes - 75 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

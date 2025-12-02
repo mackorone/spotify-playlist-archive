@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpy4ZQQMZKm.md) - [plain]
 
 > The songs with the biggest throwback moments\. Cover: Rihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,460 likes - 55 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188,553 likes - 55 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

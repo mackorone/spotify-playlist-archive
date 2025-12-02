@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,667 likes - 50 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,707 likes - 50 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 7 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 |
 | 8 | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:01 |
 | 9 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 |
-| 10 | [Jesus Be The Name \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Jesus Be The Name](https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T) | 8:59 |
-| 11 | [Been So Good \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 7:44 |
+| 10 | [Been So Good \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 7:44 |
+| 11 | [Jesus Be The Name \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Jesus Be The Name](https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T) | 8:59 |
 | 12 | [Lo Harás Otra Vez \(Do It Again\)](https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Lo Harás Otra Vez](https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx) | 6:17 |
 | 13 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/4wc8FpW9XCUaoxtii3CiCf) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:32 |
 | 14 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 49 | [Never Lost \(Live\) \(feat\. Tauren Wells\)](https://open.spotify.com/track/0Ck8Iw5OM5Ag8q2CjBqjrV) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 6:50 |
 | 50 | [Tumbas A Jardines \(feat\. Elevation Worship\)](https://open.spotify.com/track/0RHSDsa4EkiNBC0UJtGn7l) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Mil Generaciones](https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA) | 4:54 |
 
-Snapshot ID: `aSo3gAAAAAAl8B5w168KyuVN2rU5J0Bt`
+Snapshot ID: `aSuJAAAAAAD5YTwUZ1YCbWwhuHnTu4gl`

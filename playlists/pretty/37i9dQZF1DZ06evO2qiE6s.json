@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 126986,
+  "num_followers": 127006,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACmAsYwlk6sNXesRAr8FmpU",
+  "snapshot_id": "aSuJAAAAAADup9SfFeM0fKwZLGxKodIn",
   "tracks": [
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Italia",
-        "url": "https://open.spotify.com/album/5V2wSvrTzQRRLA7RRXfekM"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        },
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 188626,
-      "name": "I've Grown Accustomed to Her Face (feat. Dean Martin)",
-      "url": "https://open.spotify.com/track/6g5aYgw2cdd4rFDpZ7bnxT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cha Cha De Amor",
         "url": "https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 143626,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/6rE5UhskbiwqzvkPB33MF9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Italia",
+        "url": "https://open.spotify.com/album/5V2wSvrTzQRRLA7RRXfekM"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        },
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 188626,
+      "name": "I've Grown Accustomed to Her Face (feat. Dean Martin)",
+      "url": "https://open.spotify.com/track/6g5aYgw2cdd4rFDpZ7bnxT"
     },
     {
       "added_at": null,

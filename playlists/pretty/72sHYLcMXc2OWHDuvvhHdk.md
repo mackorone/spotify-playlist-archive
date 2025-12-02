@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 550 likes - 2,065 songs - 5 day 0 hr 59 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 550 likes - 2,074 songs - 5 day 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1010,7 +1010,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 1000 | [Like That Kiss](https://open.spotify.com/track/6U0o5LXjZdRNiNeny0xeeQ) | [Tyler Herwig](https://open.spotify.com/artist/2xdCts7UWRYMS4Uyf6GBM5) | [Like That Kiss](https://open.spotify.com/album/48PpLxtq8e0h1ZWhGbrDRa) | 3:10 |
 | 1001 | [What I Am](https://open.spotify.com/track/0UdUwl4jeCmfWJqw7fIGQK) | [Novelistme](https://open.spotify.com/artist/1x8JnJjZPlFO4UciBRXMQb) | [What I Am](https://open.spotify.com/album/6en6qvR1CbHXJLbP2kfsW6) | 3:31 |
 | 1002 | [Point of View](https://open.spotify.com/track/66RqcpiQUdQGePE0Ehi9C9) | [AGE of the BEAR](https://open.spotify.com/artist/6BR4OKYlNp1SW2CtwSJAfM) | [Point of View](https://open.spotify.com/album/5exPYEsralL6wEKnXymmOD) | 3:34 |
-| 1003 | [Face It](https://open.spotify.com/track/59A1RZhchzpJAwwoe0iJdu) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [](https://open.spotify.com/album/null) | 2:12 |
+| 1003 | [Face It](https://open.spotify.com/track/59A1RZhchzpJAwwoe0iJdu) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Face It](https://open.spotify.com/album/1FFvjCQLXBZrmJ3U72tXHU) | 2:12 |
 | 1004 | [Date Night](https://open.spotify.com/track/1yG9JMM82y19MeQJwgpS9l) | [Mahlon](https://open.spotify.com/artist/58saaTGuSsM20PD63MWtpr) | [Tape XV](https://open.spotify.com/album/4bAchcYllCeip8wVDsm81S) | 2:57 |
 | 1005 | [Your Love Is Gone](https://open.spotify.com/track/5asUBlLnDicLHP6HHlpXaQ) | [Mr.Tac](https://open.spotify.com/artist/5t3ljcFCQwtUQ3zixhqNN9) | [Klassified Material The MixTape: Chapter 1](https://open.spotify.com/album/0Hg3UarhCezqVqh9kljd7a) | 2:59 |
 | 1006 | [Silver Forever](https://open.spotify.com/track/4YeDTYqW8vMvMuvAPCXv3B) | [冉明阳](https://open.spotify.com/artist/7gn8b6PSGLSivahI4fq0Cl) | [Silver Forever](https://open.spotify.com/album/4aX4pdjp1X7v955uJN7Yr1) | 3:21 |
@@ -2073,5 +2073,14 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2063 | [Lately](https://open.spotify.com/track/37ZYppwoFy8yg7cfacr4py) | [Riki Ann](https://open.spotify.com/artist/4MKz7DRpKA1LkLW3nzn5tT) | [Lately](https://open.spotify.com/album/7C8St6Ey1nifTekuDH4FJs) | 3:27 |
 | 2064 | [Joyful Days](https://open.spotify.com/track/2ejqRknRaC6zC1WQLuUcTb) | [Mustafa Erhan](https://open.spotify.com/artist/7mve4x9DCP237Y8I1UC4TK) | [All in One](https://open.spotify.com/album/4tAYZAjdvpsskwRxDT3bXn) | 3:04 |
 | 2065 | [Waiting for You \- Radio Edit](https://open.spotify.com/track/0nF0U2n8t52evziL2LdwHf) | [Ayoona Bay](https://open.spotify.com/artist/3w1N70ai2u9Vfrpc3bO4eq) | [Waiting for You \(Radio Edit\)](https://open.spotify.com/album/0ORBTVlls7sw1egY3Jwumd) | 3:20 |
+| 2066 | [You don't know what I fear](https://open.spotify.com/track/44976wjTzyPlovmxaVyUcz) | [Escaped Apple](https://open.spotify.com/artist/467ch0mj3q9fvf2j0Zgy6k), [Kärvheten](https://open.spotify.com/artist/0BE9eXeknHHx4G5DYXYSoa) | [I made it](https://open.spotify.com/album/3YOVSem8buM8nqTY7EBH4I) | 3:03 |
+| 2067 | [Closer](https://open.spotify.com/track/12eIu4SdTy6GwrtKfpvSLt) | [Hobart Curtis](https://open.spotify.com/artist/39sME8uZeT4llM1R9Ef4i5) | [Breathe Now, Before You Are Dead](https://open.spotify.com/album/3HtLKZuPSKjrZMPjqAndu1) | 3:02 |
+| 2068 | [Song For Roaming Alone](https://open.spotify.com/track/4C3jR4t2lNa14ZnKOxK5l5) | [Moujo](https://open.spotify.com/artist/0PbmFiJmYHIFmmYx4It54y) | [Song For Roaming Alone](https://open.spotify.com/album/5Ydh5cFnZilwjI68pC0TvJ) | 2:30 |
+| 2069 | [Kuku, The Sun God](https://open.spotify.com/track/3X8e8ubHf0PmGxGJWybpwK) | [Elephant Den](https://open.spotify.com/artist/6lHh6b5h1N8xRdlwfSy136) | [I'll Be There When I Get There](https://open.spotify.com/album/1Xi4oFFzshIXOWahlvI0Pa) | 3:42 |
+| 2070 | [Alive](https://open.spotify.com/track/0gphdsEhn9X13g42x82XLB) | [Charity Ekeke](https://open.spotify.com/artist/4dF8xJWnX6GQRQDjaFWrIX) | [Alive](https://open.spotify.com/album/3ZiakyFqgrIcKoJhuT8f2u) | 3:34 |
+| 2071 | [My Private World Of Darkness](https://open.spotify.com/track/1qY6aiE9gPwb0ty748kGip) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [My Private World Of Darkness](https://open.spotify.com/album/1LAHkhsFyD6e88puBAb5Z3) | 2:25 |
+| 2072 | [I DON´T WANNA WORK](https://open.spotify.com/track/3L3BwVldv7DV7Htk4BHHMd) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [I DON´T WANNA WORK](https://open.spotify.com/album/0l4EpsXzxsBtbf85eQFaX3) | 2:59 |
+| 2073 | [A New Start](https://open.spotify.com/track/0POrdlvaCWTkBU35uIHoUb) | [Rexlambo](https://open.spotify.com/artist/0I83Jj4OE4Y102cx1R5mjV) | [A New Start](https://open.spotify.com/album/5O7CIXlNUk2TOgHFeeNnph) | 2:22 |
+| 2074 | [Heard](https://open.spotify.com/track/5tLvNgShXJlHc5XoA8gqs4) | [orkopolo](https://open.spotify.com/artist/77CvD64H5WdfuhZT1UzJVW) | [Prizefighter](https://open.spotify.com/album/0SfIYY2pmwuy27PKhTyT33) | 4:42 |
 
-Snapshot ID: `AAAIn8aNfRprS/wwAJ/gaWOn7JbEJRde`
+Snapshot ID: `AAAIqPmJFLrMhqL8kc9HjQ2CJEXrt728`

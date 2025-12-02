@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2025-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301866,
+      "name": "All These Things That I've Done",
+      "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
+    },
+    {
+      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
       },
@@ -680,7 +698,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 174760,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"

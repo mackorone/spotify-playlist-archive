@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136443,
+  "num_followers": 136444,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 220575,
       "name": "\u30d0\u30a4\u30af\u3092\u98db\u3070\u3057\u3066",
       "url": "https://open.spotify.com/track/7CJGXnESvFMH9bKXVhwwP7"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2025-11-11 17:08:53",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
+        "name": "What are you looking for",
+        "url": "https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 401173,
+      "name": "\u304a\u3042\u3044\u3053",
+      "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
-        "name": "What are you looking for",
-        "url": "https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 401173,
-      "name": "\u304a\u3042\u3044\u3053",
-      "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/031ZxdGrMfQdhwJu4B2euP"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 155021,
       "name": "Dream",
       "url": "https://open.spotify.com/track/6aeeLI3C9U6yAnE0QRCce9"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 240323,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
     },
     {
       "added_at": "2025-11-11 17:08:53",
@@ -1063,22 +1079,6 @@
       "duration_ms": 286366,
       "name": "Twinkle Stars",
       "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 240323,
-      "name": "Mellow",
-      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
     },
     {
       "added_at": "2025-11-11 17:08:53",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
-        "name": "Arrows",
-        "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 266729,
-      "name": "Arrows",
-      "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
         "name": "early summer 2022",
         "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 274066,
       "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
       "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "Arrows",
+        "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "duration_ms": 266729,
+      "name": "Arrows",
+      "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
     },
     {
       "added_at": "2025-11-11 17:08:53",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
+        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "duration_ms": 116880,
+      "name": "\u591c\u306e\u307e\u307e\u3067",
+      "url": "https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 233946,
       "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
       "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
-        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
-        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 116880,
-      "name": "\u591c\u306e\u307e\u307e\u3067",
-      "url": "https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX"
     },
     {
       "added_at": "2025-11-11 17:08:53",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
-        "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
-        "url": "https://open.spotify.com/album/6sQTNDYLrgz6QTOVZCP87x"
-      },
-      "artists": [
-        {
-          "name": "Saho Terao",
-          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
-        }
-      ],
-      "duration_ms": 430266,
-      "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
-      "url": "https://open.spotify.com/track/5Y1z7Lgf0eBw2tRXMo2TRa"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
         "name": "\u6700\u60aa\u6700\u611b",
         "url": "https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 358666,
       "name": "\u5287\u5834",
       "url": "https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
+        "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
+        "url": "https://open.spotify.com/album/6sQTNDYLrgz6QTOVZCP87x"
+      },
+      "artists": [
+        {
+          "name": "Saho Terao",
+          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
+        }
+      ],
+      "duration_ms": 430266,
+      "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
+      "url": "https://open.spotify.com/track/5Y1z7Lgf0eBw2tRXMo2TRa"
     },
     {
       "added_at": "2025-11-11 17:08:53",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2025-11-11 17:08:53",
       "album": {
+        "name": "\u4eca\u5e74\u3082\u3053\u3046\u3057\u3066\u4e8c\u4eba\u3067\u30af\u30ea\u30b9\u30de\u30b9\u3092\u795d\u3046",
+        "url": "https://open.spotify.com/album/0rqOOSih1UbpLOB19YNAya"
+      },
+      "artists": [
+        {
+          "name": "KAN",
+          "url": "https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "\u4eca\u5e74\u3082\u3053\u3046\u3057\u3066\u4e8c\u4eba\u3067\u30af\u30ea\u30b9\u30de\u30b9\u3092\u795d\u3046",
+      "url": "https://open.spotify.com/track/35vwr2rXlNZ9ATUNlgafL2"
+    },
+    {
+      "added_at": "2025-11-11 17:08:53",
+      "album": {
         "name": "A Rainy Night in NY",
         "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 178546,
       "name": "A Rainy Night in NY",
       "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
-    },
-    {
-      "added_at": "2025-11-11 17:08:53",
-      "album": {
-        "name": "kiss",
-        "url": "https://open.spotify.com/album/1ceWSCpDoeJNHCnsR2RJyB"
-      },
-      "artists": [
-        {
-          "name": "Chara",
-          "url": "https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp"
-        }
-      ],
-      "duration_ms": 321160,
-      "name": "kiss",
-      "url": "https://open.spotify.com/track/3qUdY6w3ovJI9juqsqEXOg"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

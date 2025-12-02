@@ -1209,6 +1209,28 @@
     },
     {
       "album": {
+        "name": "A Milh\u00e3o",
+        "url": "https://open.spotify.com/album/5JNGIXo6A9lNuJl4TVCSXU"
+      },
+      "artists": [
+        {
+          "name": "M0R\u00d4",
+          "url": "https://open.spotify.com/artist/3AiypG7qdJLl0S2o0QMMvn"
+        },
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126427,
+      "name": "A Milh\u00e3o",
+      "url": "https://open.spotify.com/track/6qjmz662TFp9FWquPzRgwB"
+    },
+    {
+      "album": {
         "name": "A noite toda",
         "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
       },
@@ -8056,7 +8078,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 131180,
       "name": "CIGANO",
       "url": "https://open.spotify.com/track/5aPrs4aOonWYsdp6undvEo"

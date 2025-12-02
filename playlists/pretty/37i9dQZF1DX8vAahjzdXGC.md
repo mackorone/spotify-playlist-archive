@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Shakira Jasmine, Ed Sheeeran, Nuca dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,997 likes - 76 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,004 likes - 76 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 26 | [Tak Pernah Sendiri \(\#tenangadague\)](https://open.spotify.com/track/0NOKwUeBUvfqXvkXcSO3qZ) | [BRODERBONG](https://open.spotify.com/artist/3Qy81jyccmYUKh459AevUa) | [Tak Pernah Sendiri \(\#tenangadague\)](https://open.spotify.com/album/43NXGE46jGBxNxGlGBESYw) | 4:16 |
 | 27 | [TAKATAKA](https://open.spotify.com/track/4si6nKeoCVKeBbE3WhxTL7) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [SURAK EP](https://open.spotify.com/album/0VpvdjYxvw0Zlg8YdTZnyC) | 2:22 |
 | 28 | [Home](https://open.spotify.com/track/6NT8Sa3jev1C3Xm33VDcJF) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Home](https://open.spotify.com/album/7vulueHhGo64AVnt88kcxd) | 2:53 |
-| 29 | [tropical downpour](https://open.spotify.com/track/5RKkfrz1twRhu7nDuYCAcJ) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [tropical downpour](https://open.spotify.com/album/59E30iPJI2jYozB70t4bPb) | 3:08 |
+| 29 | [Tropical Downpour](https://open.spotify.com/track/5RKkfrz1twRhu7nDuYCAcJ) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Tropical Downpour](https://open.spotify.com/album/59E30iPJI2jYozB70t4bPb) | 3:08 |
 | 30 | [Ajur](https://open.spotify.com/track/3xKvaef3MTIy1HLiARUCa4) | [Sleman Receh](https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP) | [Ajur](https://open.spotify.com/album/2xj30sMia50aGitejKMDPy) | 5:16 |
 | 31 | [Kusuma Nala](https://open.spotify.com/track/0zmQTTdb4du9W5AYltC1FW) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kusuma Nala](https://open.spotify.com/album/3Ya3nTreVzuhYFowsZRyrB) | 4:39 |
 | 32 | [Kopi Pahit](https://open.spotify.com/track/1e2txvlOlOSDaJWYCO5jVg) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Kopi Pahit](https://open.spotify.com/album/0wehoKtZd9JUbm3JdvetT5) | 4:10 |

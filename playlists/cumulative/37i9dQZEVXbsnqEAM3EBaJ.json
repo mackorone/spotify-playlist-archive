@@ -2571,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Priv\u00e9 (Remasterizado 2025)",
+        "url": "https://open.spotify.com/album/00qj2giiDV2K0LUIJ9o64Y"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250191,
+      "name": "Alfil, Ella No Cambia Nada - Remasterizado 2025",
+      "url": "https://open.spotify.com/track/2FZEEykFbpHD9nZ1VQXYCW"
+    },
+    {
+      "album": {
         "name": "Alias (Live at Metal Church)",
         "url": "https://open.spotify.com/album/5N9WwSmIA11ku8OIl3fqeZ"
       },
@@ -28234,7 +28252,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 179761,
       "name": "La Mirada De Freud - Remasterizado 2025",
       "url": "https://open.spotify.com/track/0BrZmCqeLLTz8mbOqPFqnS"

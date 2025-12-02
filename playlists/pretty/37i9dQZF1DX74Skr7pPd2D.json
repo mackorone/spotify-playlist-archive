@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 48014,
+  "num_followers": 48027,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -497,6 +497,22 @@
       "url": "https://open.spotify.com/track/3EpJ36yrwkPvlUXKeQa7ca"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "A Generation Ago Today",
+        "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Stompin' At The Savoy",
+      "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Mel Torme: Swings Shubert Alley",
@@ -531,22 +547,6 @@
       "duration_ms": 154306,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "A Generation Ago Today",
-        "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Stompin' At The Savoy",
-      "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -887,6 +887,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Guitar Forms (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Movin' Wes",
         "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 382773,
       "name": "April In Paris",
       "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Guitar Forms (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Greensleeves",
-      "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
     },
     {
       "added_at": "2019-10-02 08:54:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7V3ptrxki0a.md) - [plain]
 
 > Agarren su pareja que es momento de mover ese botecito\. En portada Damaris Bojor 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,728 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,725 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

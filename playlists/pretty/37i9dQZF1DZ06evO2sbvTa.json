@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAADUWFcQoN0/GCYVMeK27zgc",
+  "snapshot_id": "aSuJAAAAAACJHit+IqYrNOKErUKeRiCg",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BEASTMODE 2",
+        "url": "https://open.spotify.com/album/6Ew52HWkgfbth9ihRAq2Xd"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 220377,
+      "name": "DOH DOH (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/0U06Yqe0nkkJlptlr7O4uO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trap God",
         "url": "https://open.spotify.com/album/6SiRYxE07klRSLa8uyDQzt"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 216476,
       "name": "Shooter (feat. Young Scooter & Yung Fresh)",
       "url": "https://open.spotify.com/track/07ybMGXgr3pe4YJWzafg1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEASTMODE 2",
-        "url": "https://open.spotify.com/album/6Ew52HWkgfbth9ihRAq2Xd"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "DOH DOH (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/0U06Yqe0nkkJlptlr7O4uO"
     },
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Pledge Allegiance to the Trap, Vol. 5",
+        "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 185077,
+      "name": "Imma Ball Forever",
+      "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Recipe",
         "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 213026,
       "name": "Bloodshed",
       "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Pledge Allegiance to the Trap, Vol. 5",
-        "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 185077,
-      "name": "Imma Ball Forever",
-      "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
     },
     {
       "added_at": null,
@@ -719,30 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zaystreet",
-        "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Zaytoven",
-          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
-        },
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        }
-      ],
-      "duration_ms": 204605,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/75Wu6zaSb1QUolSm70RSwo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Astronaut Status",
         "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 264946,
       "name": "Birds Take a Bath",
       "url": "https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zaystreet",
+        "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 204605,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/75Wu6zaSb1QUolSm70RSwo"
     },
     {
       "added_at": null,
@@ -803,6 +803,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 238728,
+      "name": "How Can I Not (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zaystreet",
         "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 209099,
       "name": "Black Migo",
       "url": "https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 238728,
-      "name": "How Can I Not (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL"
     },
     {
       "added_at": null,
@@ -967,18 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "80's Baby",
-        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
+        "name": "Young Jefe",
+        "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
       },
       "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 187063,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
+      "duration_ms": 213773,
+      "name": "Medellin (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
     },
     {
       "added_at": null,
@@ -1003,38 +1007,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Jefe",
-        "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
+        "name": "80's Baby",
+        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
       },
       "artists": [
         {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 187063,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Bricks 2",
+        "url": "https://open.spotify.com/album/0u1zuwdz8PmbNBMpR8jAx2"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 213773,
-      "name": "Medellin (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Street Lottery 3",
-        "url": "https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 197434,
-      "name": "Made It out the Hood",
-      "url": "https://open.spotify.com/track/15Z9QZbFbQxH2y2bRL46bf"
+      "duration_ms": 180426,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/0Vm9eDHO02oETkGrbVfZaX"
     }
   ],
   "unique_name": "This Is Young Scooter",

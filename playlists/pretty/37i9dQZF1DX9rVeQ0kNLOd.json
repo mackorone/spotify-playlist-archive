@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002",
-  "num_followers": 28681,
+  "num_followers": 28683,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-11-18 15:00:11",
       "album": {
-        "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
-        "url": "https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9"
-      },
-      "artists": [
-        {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
-        }
-      ],
-      "duration_ms": 216169,
-      "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
-      "url": "https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu"
-    },
-    {
-      "added_at": "2025-11-18 15:00:11",
-      "album": {
         "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
         "url": "https://open.spotify.com/album/6gnt7LdFIjqUsIszpOVIrX"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 235682,
       "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
       "url": "https://open.spotify.com/track/4gbHag1jhjLTDcrbfpFnYQ"
+    },
+    {
+      "added_at": "2025-11-18 15:00:11",
+      "album": {
+        "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
+        "url": "https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "duration_ms": 216169,
+      "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
+      "url": "https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu"
     },
     {
       "added_at": "2025-11-18 15:00:11",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-11-18 15:00:11",
       "album": {
+        "name": "Won't ever",
+        "url": "https://open.spotify.com/album/4mdaxkLZ454RKHh1Lhm3QU"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 173299,
+      "name": "Won't ever",
+      "url": "https://open.spotify.com/track/7uXbeSZqwSHEvi3fIfl4DO"
+    },
+    {
+      "added_at": "2025-11-18 15:00:11",
+      "album": {
         "name": "\u5207\u611b",
         "url": "https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 224633,
       "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
       "url": "https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9"
-    },
-    {
-      "added_at": "2025-11-18 15:00:11",
-      "album": {
-        "name": "Won't ever",
-        "url": "https://open.spotify.com/album/4mdaxkLZ454RKHh1Lhm3QU"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 173299,
-      "name": "Won't ever",
-      "url": "https://open.spotify.com/track/7uXbeSZqwSHEvi3fIfl4DO"
     },
     {
       "added_at": "2025-11-18 15:00:11",

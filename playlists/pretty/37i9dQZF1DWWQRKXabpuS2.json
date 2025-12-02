@@ -1,13 +1,61 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 43565,
+  "num_followers": 43580,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL1QStdKEFaQSMJji2ptV0OxKK4J",
+  "snapshot_id": "AAAAAOaJdsYsAyVyTwpWnawrZ18lrLy7",
   "tracks": [
+    {
+      "added_at": "2025-12-01 07:27:43",
+      "album": {
+        "name": "\u0644\u0645\u0627 \u0634\u0641\u062a\u0647",
+        "url": "https://open.spotify.com/album/0xzB9IlXZbdXMWBwbunzDL"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        }
+      ],
+      "duration_ms": 172955,
+      "name": "\u0644\u0645\u0627 \u0634\u0641\u062a\u0647",
+      "url": "https://open.spotify.com/track/4tN8EZsbTYa3FSID88ueA8"
+    },
+    {
+      "added_at": "2025-12-01 07:27:43",
+      "album": {
+        "name": "Hala Hala",
+        "url": "https://open.spotify.com/album/3eueSUlj4cCV1EM226qaON"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Hala Hala",
+      "url": "https://open.spotify.com/track/5Ijbu7lhZ9UWi5PVNOCZco"
+    },
+    {
+      "added_at": "2025-12-01 07:27:43",
+      "album": {
+        "name": "Mutar",
+        "url": "https://open.spotify.com/album/3KASa2YIj1PTTQx6eGnUMa"
+      },
+      "artists": [
+        {
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
+        }
+      ],
+      "duration_ms": 182045,
+      "name": "Mutar",
+      "url": "https://open.spotify.com/track/4zyc2ENI9oLwXLQQKAUSTx"
+    },
     {
       "added_at": "2025-11-06 10:41:00",
       "album": {

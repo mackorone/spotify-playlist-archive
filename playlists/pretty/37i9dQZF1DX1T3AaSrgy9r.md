@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 
 > Underground dance and alternative that went on to define a new millennium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,851 likes - 88 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,904 likes - 88 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 32 | [Leave You Far Behind](https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G) | [Lunatic Calm](https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX) | [Metropol](https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n) | 3:12 |
 | 33 | [Original \- Remastered](https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 6:22 |
 | 34 | [Gabriel](https://open.spotify.com/track/0QKQfBRO7yv8XCefwEax14) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [What Sound](https://open.spotify.com/album/64cilhPYkNmbRzMgbvJPeV) | 4:20 |
-| 35 | [Busy Child](https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj) | [Vegas](https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt) | 7:25 |
-| 36 | [Flat Beat](https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ) | 5:25 |
+| 35 | [Flat Beat](https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ) | 5:25 |
+| 36 | [Busy Child](https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj) | [Vegas](https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt) | 7:25 |
 | 37 | [Push It](https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0 \(20th Anniversary Deluxe Edition / Remastered\)](https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk) | 4:02 |
 | 38 | [Ready to Go](https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Republica](https://open.spotify.com/album/5KIb3c4z28CHa5snztEMNK) | 5:01 |
 | 39 | [Supermoves](https://open.spotify.com/track/1HeCBrZd0A2ub1E8aeZJie) | [Overseer](https://open.spotify.com/artist/3V4c44pHzC8apm8HiiFF6V) | [Wreckage](https://open.spotify.com/album/6niSmIWp5Pgl3pyMndWSKx) | 4:47 |

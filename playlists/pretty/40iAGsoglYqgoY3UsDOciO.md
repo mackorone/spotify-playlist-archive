@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 504 likes - 439 songs - 21 hr 14 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 505 likes - 441 songs - 21 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -447,5 +447,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 437 | [Mahakaal Tera Gungan](https://open.spotify.com/track/5sMhNlTz5KAbA4Ak7ehS8P) | [Pruthvi Pawar](https://open.spotify.com/artist/6s4l3B5BsMiIXqUhYE7p0J), [Sagar Date](https://open.spotify.com/artist/16sC4mCzwahbSw1ReTntR5) | [Mahakaal Tera Gungan](https://open.spotify.com/album/0q6R1TEr0VwumApn1mLOh2) | 4:27 |
 | 438 | [City Lights](https://open.spotify.com/track/7yfavewPcZm3t1XV1HJxU7) | [Stefano Pesapane](https://open.spotify.com/artist/1pqq2ysQTQXlFJ23ePR8L8) | [City Lights](https://open.spotify.com/album/1b1B3W2TKvWqsLs6hr94qt) | 4:00 |
 | 439 | [Starhero](https://open.spotify.com/track/7hX6Maampqji3vHpftrHGV) | [RorreN](https://open.spotify.com/artist/3RhESwqU21m7aa1x1X0Cnu) | [Starhero \(Love Story\)](https://open.spotify.com/album/1eqSFzJ2c6ihj3MrN4jmyr) | 2:13 |
+| 440 | [On Display, Pt\. 3](https://open.spotify.com/track/5wM2zCngggufalq4pnvYI3) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [On Display, Pt\. 3](https://open.spotify.com/album/2s8PuynnrQhk13zYrlEJSN) | 1:56 |
+| 441 | [Tralandia](https://open.spotify.com/track/3uNmUUM3dmgQmTjxkUcgTw) | [ARTIN & ROMAN DJ](https://open.spotify.com/artist/3CgomiE7lP85mKvgn66knC) | [Tralandia](https://open.spotify.com/album/0xNYINEGK0TD7Ggw30syAu) | 3:28 |
 
-Snapshot ID: `AAABV8WH/VF13lyTVZF3bWA6xyRStXmm`
+Snapshot ID: `AAABWSti76KuNblRkPRjcoPvbg1iBMHf`

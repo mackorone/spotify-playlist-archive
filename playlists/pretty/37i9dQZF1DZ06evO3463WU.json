@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 157170,
+  "num_followers": 157183,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAAQZBE4pkcEjpmLuZ+gw09d",
+  "snapshot_id": "aSuJAAAAAABXUU36Bg0ocmShJKR/kdDH",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Consentidas De Pancho Barraza",
+        "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Y Las Mariposas",
+      "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 272234,
       "name": "No Llega el Olvido (En Vivo)",
       "url": "https://open.spotify.com/track/6qn4mgku9XyOU5IoTcrNgW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Consentidas De Pancho Barraza",
-        "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Y Las Mariposas",
-      "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 213774,
-      "name": "Por Amor Y Fe",
-      "url": "https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo O Nada",
         "url": "https://open.spotify.com/album/1TUOGsKIg3CKeiGbIFzHdz"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 190811,
       "name": "Todo O Nada",
       "url": "https://open.spotify.com/track/3yX313GliD0OXekykuhDmA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 213774,
+      "name": "Por Amor Y Fe",
+      "url": "https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 145786,
-      "name": "El Vagabundo Que Te Ama",
-      "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Historia De Un Amor",
         "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 179520,
       "name": "Historia De Un Amor",
       "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 145786,
+      "name": "El Vagabundo Que Te Ama",
+      "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
-        "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
-      },
-      "artists": [
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
-      "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 1)",
         "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 187050,
       "name": "Cien Por Ciento Sincero",
       "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
+        "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
+      "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis 30 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 200703,
+      "name": "Con El Alma Marchita",
+      "url": "https://open.spotify.com/track/3qhOgv0VL70qBsU9qZlRHm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 254368,
       "name": "Ac\u00e1 Entre Nos (En Vivo)",
       "url": "https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis 30 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 200703,
-      "name": "Con El Alma Marchita",
-      "url": "https://open.spotify.com/track/3qhOgv0VL70qBsU9qZlRHm"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

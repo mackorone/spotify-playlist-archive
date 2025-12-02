@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 659595,
+  "num_followers": 659623,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACkqbl+tyWiPs+JFmOM2N9Y",
+  "snapshot_id": "aSuJAAAAAABjmcqcmwEev42u6EMnLCeq",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nebraska '82: Expanded Edition",
-        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Losin' Kind - Nebraska Outtakes",
-      "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Human Touch",
         "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 391552,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska '82: Expanded Edition",
+        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Losin' Kind - Nebraska Outtakes",
+      "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nebraska '82: Expanded Edition",
-        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 150040,
-      "name": "Gun in Every Home - Nebraska Outtakes",
-      "url": "https://open.spotify.com/track/0yXxTdtAn5WQiLXpoxMkbl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nebraska '82: Expanded Edition",
+        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 150040,
+      "name": "Gun in Every Home - Nebraska Outtakes",
+      "url": "https://open.spotify.com/track/0yXxTdtAn5WQiLXpoxMkbl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -663,26 +663,6 @@
       "duration_ms": 391764,
       "name": "Backstreets",
       "url": "https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The List",
-        "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 186226,
-      "name": "Sea Of Heartbreak",
-      "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
     },
     {
       "added_at": null,
@@ -719,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The List",
+        "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 186226,
+      "name": "Sea Of Heartbreak",
+      "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tracks",
         "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 216573,
       "name": "Pink Cadillac - Single B-Side - 1984",
       "url": "https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nebraska '82: Expanded Edition",
-        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 332080,
-      "name": "Child Bride - Nebraska Outtakes",
-      "url": "https://open.spotify.com/track/1cSpwDLPDrb5UsPFtHFEfr"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 205130,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska '82: Expanded Edition",
+        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 332080,
+      "name": "Child Bride - Nebraska Outtakes",
+      "url": "https://open.spotify.com/track/1cSpwDLPDrb5UsPFtHFEfr"
     },
     {
       "added_at": null,

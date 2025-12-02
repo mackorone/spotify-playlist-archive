@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,285 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,287 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 45 | [Friends](https://open.spotify.com/track/2yzwaxhiaT4a8U3JLPtOPu) | [Kohei Kamoto](https://open.spotify.com/artist/6E4VzbFuCzmnnA4Ep5LwnJ) | [Dangle Candle](https://open.spotify.com/album/2zJkwrv2WqEMqBOOb4XEyN) | 4:37 |
 | 46 | [Undertaker](https://open.spotify.com/track/124lzM9n1fGbnV3vWFkABo) | [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ) | [lageon](https://open.spotify.com/album/51V3fL29zUx478Nss9a1G5) | 3:34 |
 | 47 | [在這裡停一下](https://open.spotify.com/track/5oaA00dgTQLoYW9ZmapoTp) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [在這裡停一下](https://open.spotify.com/album/7g0XbGsZ0w7fANqnkm3ohT) | 4:50 |
-| 48 | [Stories 2.0](https://open.spotify.com/track/5txrFqLLYnm9YzYW5E2NuV) | [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [Crystal Coastlines](https://open.spotify.com/album/33SSVZsiqDiT0MAMxJavXQ) | 4:30 |
+| 48 | [Stories 2.0](https://open.spotify.com/track/5txrFqLLYnm9YzYW5E2NuV) | [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [Crystal Coastlines](https://open.spotify.com/album/33SSVZsiqDiT0MAMxJavXQ) | 4:32 |
 | 49 | [6.12inches \(feat\. T\-STONE & Masato Hayashi\)](https://open.spotify.com/track/7I3ME1epLXr65Olvw6CnvJ) | [AIRIE](https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py), [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [6.12inches \(feat\. T\-STONE & Masato Hayashi\)](https://open.spotify.com/album/51SUt3gaeAQnJiWzyDiAYv) | 3:45 |
 | 50 | [GOLD](https://open.spotify.com/track/3SMMzDfLHUw5FE5tO8AZUF) | [BBY NABE](https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B) | [GOLD](https://open.spotify.com/album/7kfC2S0ejmQj63boArWMBM) | 3:11 |
 | 51 | [wakeup](https://open.spotify.com/track/0od8Ov6yqnpNwfVZIVjbHj) | [itachi](https://open.spotify.com/artist/20xzByUKmZViuEx3OIf0yo) | [wakeup](https://open.spotify.com/album/7ghgTkVKDUKyjSF31PGyOf) | 1:27 |

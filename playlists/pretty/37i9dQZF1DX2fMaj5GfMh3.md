@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Sienna Spiro
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,302 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,301 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 2 | [Empty Skies](https://open.spotify.com/track/2g3fPn92feohW3HMlhj9Ok) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Empty Skies](https://open.spotify.com/album/3u0pQzm5VH1Qfv3xCnhNVu) | 3:08 |
 | 3 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 |
 | 4 | [Girlfriend](https://open.spotify.com/track/4N4LVFozqHTxDgPWNprAia) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [Girlfriend](https://open.spotify.com/album/48jeApuGYMx3DXKDrgTPqo) | 2:54 |
-| 5 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
-| 6 | [SORRY](https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 3:11 |
-| 7 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 |
-| 8 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 |
-| 9 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 |
-| 10 | [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 |
-| 11 | [H.A.P.P.Y](https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [H.A.P.P.Y](https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB) | 2:29 |
-| 12 | [Too Far](https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Too Far](https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4) | 3:00 |
-| 13 | [The Thing I Love](https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Thing I Love](https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG) | 2:52 |
+| 5 | [The Thing I Love](https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Thing I Love](https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG) | 2:52 |
+| 6 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
+| 7 | [SORRY](https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 3:11 |
+| 8 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 |
+| 9 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 |
+| 10 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 |
+| 11 | [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 |
+| 12 | [H.A.P.P.Y](https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [H.A.P.P.Y](https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB) | 2:29 |
+| 13 | [Too Far](https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Too Far](https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4) | 3:00 |
 | 14 | [Bathroom Floor](https://open.spotify.com/track/3QFFda4IODSKbT839NW6BR) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Bathroom Floor](https://open.spotify.com/album/0L1NH4UV8rgpGo7kW948X8) | 2:56 |
 | 15 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
 | 16 | [If Not Now Then When](https://open.spotify.com/track/4bVs6e8fpoS9sVPDHp7oo9) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [If Not Now Then When](https://open.spotify.com/album/4BK0XMjnJQfMWgQWgyii8b) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [r u gonna love me?](https://open.spotify.com/track/0xpy0DrLu1kcCWAkvb0HqU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [r u gonna love me?](https://open.spotify.com/album/2fDf6DEQH3Tv0hOkOhbeYU) | 3:03 |
 | 100 | [Ghosts](https://open.spotify.com/track/20Rjl0NnWdKHv1OwKA7gid) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Ghosts](https://open.spotify.com/album/2PWoBl1aTMVU93FZDQKF8S) | 3:47 |
 
-Snapshot ID: `AAAAAORaKi3BFWA9fT825pYrDp+y01jH`
+Snapshot ID: `AAAAANysMOkDZnhyiul5HA5l1DXbDUHo`

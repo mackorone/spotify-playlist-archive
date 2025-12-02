@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-670 songs - 1 day 5 hr 1 min
+674 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Comfort](https://open.spotify.com/track/2Vi2f6Hf11vYsoov4Z9HWe) | [Gabriela Ohm](https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g) | [Comfort](https://open.spotify.com/album/49QcBTDwd5jQbAyvcgXZhr) | 3:01 | 2024-08-07 | 2025-05-15 |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2022-04-22 | 2024-11-07 |
 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 | 2022-04-22 | 2023-08-08 |
-| [consolation](https://open.spotify.com/track/4wjEcvWf8ynGLJDxFTG7sZ) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [consolation](https://open.spotify.com/album/7LORbuNBK0aO9InBE8gFbY) | 2:37 | 2025-09-17 |  |
+| [consolation](https://open.spotify.com/track/4wjEcvWf8ynGLJDxFTG7sZ) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [consolation](https://open.spotify.com/album/7LORbuNBK0aO9InBE8gFbY) | 2:37 | 2025-09-17 | 2025-12-02 |
 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 | 2022-04-22 | 2024-02-14 |
 | [Conversations](https://open.spotify.com/track/5iU1vfBMdbpGj1QT3sPcy8) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Conversations](https://open.spotify.com/album/4aYNTrTcQisJeqN1xZuBOn) | 2:53 | 2025-01-22 |  |
 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2022-04-22 | 2023-08-15 |
@@ -142,6 +142,7 @@
 | [Dormancy](https://open.spotify.com/track/0gTGHIdwerQJczdziYMaoq) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Dormancy](https://open.spotify.com/album/1nJmaA5MmaQ8U8t2eknqYz) | 2:49 | 2024-03-04 |  |
 | [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 | 2024-05-22 |  |
 | [Down The Line](https://open.spotify.com/track/25DsngbeW7QvMTuPJBy8ww) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Down The Line](https://open.spotify.com/album/5dx9rLR3Lqfx8zh6XWklKw) | 2:26 | 2023-05-03 |  |
+| [Dream Residue](https://open.spotify.com/track/66psQH5NhF48bBYJMZYi7a) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Dream Residue](https://open.spotify.com/album/7A4KyA0JhZdmKdLuGhYsVJ) | 2:24 | 2025-12-01 |  |
 | [Dream Until the First Rays of Dawn](https://open.spotify.com/track/1YrmdTAZdNa2uzxKttTXq6) | [Dravde](https://open.spotify.com/artist/48hcGoeqRficiqH0Egd2Kc) | [Dream Until the First Rays of Dawn](https://open.spotify.com/album/3XlmyE8Y0HKjOHAG4qXLrl) | 2:35 | 2022-04-22 | 2023-01-27 |
 | [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 | 2023-01-26 |  |
 | [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 | 2023-10-23 | 2024-04-19 |
@@ -154,6 +155,7 @@
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-04-22 | 2024-10-09 |
 | [Echidna](https://open.spotify.com/track/66IOe8PcQPacJ3D3MtGLMS) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [Echidna](https://open.spotify.com/album/28l69Lzo3apBK4Os1PDh7Y) | 2:24 | 2024-03-25 |  |
 | [Echo](https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Echo](https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6) | 2:01 | 2022-04-22 | 2023-01-27 |
+| [Echoes of a Dream](https://open.spotify.com/track/2NFeT0ncQU4cmsdPBse7Dn) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Echoes of a Dream](https://open.spotify.com/album/15W1S3iV9CWzagW4w50bIm) | 2:31 | 2025-12-01 |  |
 | [Echoes Of Forgotten Times](https://open.spotify.com/track/7HlfgPAVPHtUAH2joYyyAC) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Echoes Of Forgotten Times](https://open.spotify.com/album/2gerydg3DbPYBjAsAnvgpS) | 2:42 | 2023-12-12 |  |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2022-04-22 | 2023-04-04 |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-04-22 | 2024-09-25 |
@@ -181,6 +183,7 @@
 | [Everlost](https://open.spotify.com/track/5gKleAF9imvWmf46kIVar7) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Everlost](https://open.spotify.com/album/4OIaJjLneomYvwTl7zGRO7) | 3:01 | 2022-04-22 | 2023-12-13 |
 | [Fairy Wings](https://open.spotify.com/track/6CMNS6pnhXrNMVIaySBaMY) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Fairy Wings](https://open.spotify.com/album/0AVeV4v7mhaOW7Okhxk7Yb) | 2:05 | 2023-06-19 |  |
 | [Faith](https://open.spotify.com/track/6rMKRMeW8iGPRGaAA3g8ZJ) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Faith](https://open.spotify.com/album/6KFLVb3LM2asbF4FbGdN99) | 2:13 | 2023-09-18 | 2025-08-27 |
+| [fall](https://open.spotify.com/track/5AIzxuiHKnMgvodH57KZoZ) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [fall](https://open.spotify.com/album/6k8LLE8sDVmCnRing5pSeE) | 2:33 | 2025-12-01 |  |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-22 | 2024-02-14 |
 | [Falling Leaves](https://open.spotify.com/track/1rzC7unFOnmkvhJ8f9hKvn) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Falling Leaves](https://open.spotify.com/album/030THEgwacYaV1XQ2jumYh) | 2:48 | 2024-02-02 |  |
 | [Fantasifull](https://open.spotify.com/track/7JxnwtrmZVwIt4jEsVlRHT) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Fantasifull](https://open.spotify.com/album/40bwSaWIycZ7vLnn8xtl7u) | 2:35 | 2023-11-13 |  |
@@ -579,6 +582,7 @@
 | [The life of a flower](https://open.spotify.com/track/1s9K9MrOUcSeeoi8HrzZM3) | [Bo Henning](https://open.spotify.com/artist/6NAmqtkKUi22cOkQCOlth6) | [The life of a flower](https://open.spotify.com/album/32C7WDFahMTVTGzMgFSz60) | 2:49 | 2024-02-13 |  |
 | [The Light Of That Morning](https://open.spotify.com/track/3hA4o2GOVotNTAzZEY7kBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Light Of That Morning](https://open.spotify.com/album/6uAyUcY2newV2vsoPiBLdV) | 2:34 | 2023-05-03 |  |
 | [The Memory Remains](https://open.spotify.com/track/5RkIxZFkyS5T5UE8eljQQX) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Memory Remains](https://open.spotify.com/album/5NQn4qGru0cBmlLyp8kxHy) | 2:15 | 2022-04-22 | 2024-11-07 |
+| [The Moment I Knew](https://open.spotify.com/track/6elyNUjJsRxxZ0atvD2w9h) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [The Moment I Knew](https://open.spotify.com/album/39QKyXCnTrLVgZpGNTfzu2) | 2:28 | 2025-12-01 |  |
 | [The Orchard \(I\)](https://open.spotify.com/track/2Wcv1iL7U75j0yAUuQq4Qz) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [The Orchard \(I\)](https://open.spotify.com/album/7r3fBLzgZjxVXqRyUU2tPt) | 2:47 | 2022-04-22 | 2023-01-27 |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-04-22 | 2024-04-16 |
 | [The Path Unwinds](https://open.spotify.com/track/021CxXvGrxUY6X2PXqrW5c) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [The Path Unwinds](https://open.spotify.com/album/3sAeswtRu2pVWIk9WrvYSF) | 2:52 | 2024-09-13 |  |

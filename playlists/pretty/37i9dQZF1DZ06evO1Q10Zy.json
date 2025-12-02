@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 38100,
+  "num_followers": 38102,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACCG2iYBytF0msd7d8yaWJ+",
+  "snapshot_id": "aSuJAAAAAAAG9hc/t8H0Ej1xrcRyKxm9",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "I Said I Love You",
+      "url": "https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Babyface Unplugged NYC 1997",
         "url": "https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 273400,
       "name": "Someone to Love (feat. Babyface)",
       "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "I Said I Love You",
-      "url": "https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj"
     },
     {
       "added_at": null,
@@ -391,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
       },
       "artists": [
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 315093,
-      "name": "How Come, How Long (feat. Stevie Wonder)",
-      "url": "https://open.spotify.com/track/6kTakcO9wwXh8tEqmJSV8h"
+      "duration_ms": 246466,
+      "name": "What If - Urban Mix",
+      "url": "https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
       "artists": [
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 246466,
-      "name": "What If - Urban Mix",
-      "url": "https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW"
+      "duration_ms": 315093,
+      "name": "How Come, How Long (feat. Stevie Wonder)",
+      "url": "https://open.spotify.com/track/6kTakcO9wwXh8tEqmJSV8h"
     },
     {
       "added_at": null,

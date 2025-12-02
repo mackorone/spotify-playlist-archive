@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 어반자카파\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 태연\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-623 songs - 1 day 16 hr 46 min
+624 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [I Still Miss You](https://open.spotify.com/track/07SG3Ckwi580swia3AK1CS) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [I Still Miss You](https://open.spotify.com/album/0dFkBmGAmfBu0rmwkoqBt4) | 4:14 | 2024-09-27 | 2024-11-16 |
 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-22 | 2024-01-04 |
 | [I Will](https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [I Will](https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt) | 3:53 | 2024-06-24 |  |
-| [I will be your flower](https://open.spotify.com/track/0RE0Y7Rv9t3ngylTdKiWLZ) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [I will be your flower](https://open.spotify.com/album/39OFidEKg7M3yOm9rsTmrJ) | 3:47 | 2025-05-12 |  |
+| [I will be your flower](https://open.spotify.com/track/0RE0Y7Rv9t3ngylTdKiWLZ) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [I will be your flower](https://open.spotify.com/album/39OFidEKg7M3yOm9rsTmrJ) | 3:47 | 2025-05-12 | 2025-12-02 |
 | [I will bear my grief\. Thank you.](https://open.spotify.com/track/5QAynerkLzjgFNPFT0RTts) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [I will bear my grief\. Thank you.](https://open.spotify.com/album/3d5sQWZYfybvm2AF0ejVL2) | 4:30 | 2022-11-23 | 2022-12-14 |
 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 | 2021-12-20 |  |
 | [I Will Shine On You](https://open.spotify.com/track/4VnZhQatrHFXySz467yURC) | [Odett](https://open.spotify.com/artist/1jYtDU2z8vLKUWGKe9UhHu) | [May I Help You? \(Original Television Soundtrack\) Part.5](https://open.spotify.com/album/1vOYGpf02GZzCfPyZVvWPf) | 3:57 | 2023-01-10 | 2023-01-25 |
@@ -408,6 +408,7 @@
 | [Our unrequited love story \(Korean Ver.\)](https://open.spotify.com/track/4bAtJo9xcOBlWO6nAxbkRZ) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Our unrequited love story](https://open.spotify.com/album/0suBDEQUPriV1qzaWkfjX2) | 3:35 | 2023-12-01 | 2023-12-14 |
 | [Over the window \(feat\. Paul Kim\)](https://open.spotify.com/track/1TsMSWZHdljgsgIqAH7JuT) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Over the window](https://open.spotify.com/album/3JKlj3W1hKvqICDM3pGXPF) | 4:01 | 2023-12-14 | 2024-01-13 |
 | [Paindrops](https://open.spotify.com/track/78HIu4EgPdesHf46oIBLuZ) | [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [Tiny Bits of Life Part.7](https://open.spotify.com/album/2eSf3kZZ0ii75biMW5WzQv) | 4:22 | 2022-03-29 | 2022-04-15 |
+| [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 | 2025-12-01 |  |
 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 | 2024-02-27 | 2025-04-03 |
 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 | 2021-12-20 |  |
 | [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 | 2025-03-01 | 2025-03-15 |

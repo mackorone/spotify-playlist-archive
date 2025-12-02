@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,599 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,607 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 7 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 |
 | 8 | [若無你我欲去佗位](https://open.spotify.com/track/76EfpqmO6JUL2TTR1SIGwz) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [若無你我欲去佗位](https://open.spotify.com/album/62aFcrZppdH6tQqYX5ncIQ) | 3:41 |
 | 9 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
-| 10 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
-| 11 | [What is Love?](https://open.spotify.com/track/5Ek40FyMPprcvtyZDjqylX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/4JRX1T8VKbEMvTtnQXnLYM) | 3:28 |
+| 10 | [THIS IS FOR](https://open.spotify.com/track/3598iBWrS4JhJqP5tHlpVK) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/02dUOPB3MtmV5fawzaZiq6) | 2:11 |
+| 11 | [What is Love?](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 |
 | 12 | [一夜一夜一夜](https://open.spotify.com/track/3wofqqt5YJWdhLI9IFaX39) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:07 |
 | 13 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
 | 14 | [特別的人](https://open.spotify.com/track/0VTzUEuHYD8s7CgQ15cDPo) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [危險世界](https://open.spotify.com/album/3QR6UyUXB4KclN8HwSIhx9) | 4:19 |
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 16 | [離開我的依賴](https://open.spotify.com/track/28VBdtYc5Cpmey4Cpvcrby) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [離開我的依賴](https://open.spotify.com/album/4SvBcrlinZopwRdfZsAEFz) | 3:53 |
 | 17 | [離開的一路上](https://open.spotify.com/track/1NoDTQhJsrd5rnpb6PQthK) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:14 |
 | 18 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 |
-| 19 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 |
+| 19 | [WE GO UP](https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 3:06 |
 | 20 | [左轉燈 \(1000 Times+1\)](https://open.spotify.com/track/4UwZyC0wEV6XDEAr9kaQhi) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [mac ova seas](https://open.spotify.com/artist/1a3bTQmBNmgiY3U7sMh9pf) | [左轉燈 \(1000 Times+1\)](https://open.spotify.com/album/4i9a1vM9oimwgR1z8zCCxs) | 3:17 |
 | 21 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
 | 22 | [做我的初戀](https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [做我的初戀](https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY) | 2:57 |
 | 23 | [幾分之幾 \- 電影<花甲大人轉男孩>主題曲](https://open.spotify.com/track/4F7ZAsndEIJXyFzJUHNlRu) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [幾分之幾](https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx) | 3:48 |
 | 24 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 |
-| 25 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [孫燕姿](https://open.spotify.com/artist/0m82WFZwz1rRtE6k69fLY3) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
+| 25 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
 | 26 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 | 27 | [JANE DOE](https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [JANE DOE](https://open.spotify.com/album/381FouVeKunSg1WZTnmryL) | 3:55 |
 | 28 | [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 |
-| 29 | [Do It](https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 2:39 |
+| 29 | [Do It](https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k) | 2:39 |
 | 30 | [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 |
 | 31 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 |
 | 32 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 44 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 |
 | 45 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
 | 46 | [愛愛愛](https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:35 |
-| 47 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 |
+| 47 | [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 |
 | 48 | [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 |
 | 49 | [跟悲傷結了帳](https://open.spotify.com/track/2asybJtO3YT7zg22tsIJBD) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [跟悲傷結了帳](https://open.spotify.com/album/20mUgXnBxw1q6UkgikTTuo) | 3:03 |
-| 50 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\)](https://open.spotify.com/track/19GxfaRs5KdurzPKLVX3Cq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR DELUXE](https://open.spotify.com/album/2KL4QCX5syZYi6Xh7gP5kE) | 3:00 |
+| 50 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\) \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR \(DELUXE\)](https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U) | 3:00 |
 
-Snapshot ID: `ML+8gAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MMEG+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

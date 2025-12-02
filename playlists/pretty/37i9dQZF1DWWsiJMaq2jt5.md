@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:2v295z585SM68pluEKXKSM">Kayah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,811 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,815 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

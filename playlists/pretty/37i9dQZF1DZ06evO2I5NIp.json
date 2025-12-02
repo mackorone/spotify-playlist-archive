@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAABKdN58GoGoLrrEGTBHmNBi",
+  "snapshot_id": "aSuJAAAAAAABYQySZdNuERKc/MAkN91p",
   "tracks": [
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl Friends",
-        "url": "https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        },
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 197468,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blame It On Eve",
         "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
       },
@@ -459,6 +439,22 @@
       "duration_ms": 243053,
       "name": "Wine O'Clock",
       "url": "https://open.spotify.com/track/3BgUyQR9i8n8UE73LGVgrF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 225412,
+      "name": "Apple Pie And A .45",
+      "url": "https://open.spotify.com/track/6XeyjxtNrYiPLwPN6A9M6M"
     },
     {
       "added_at": null,
@@ -479,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+        "name": "Girl Friends",
+        "url": "https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0"
       },
       "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        },
         {
           "name": "Shemekia Copeland",
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 225412,
-      "name": "Apple Pie And A .45",
-      "url": "https://open.spotify.com/track/6XeyjxtNrYiPLwPN6A9M6M"
+      "duration_ms": 197468,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 249787,
-      "name": "Only Miss You All the Time",
-      "url": "https://open.spotify.com/track/3RxKaM5fNDdCTAonhzy7X5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn The Heat Up!",
         "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 235893,
       "name": "Suspicion",
       "url": "https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 249787,
+      "name": "Only Miss You All the Time",
+      "url": "https://open.spotify.com/track/3RxKaM5fNDdCTAonhzy7X5"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 228002,
-      "name": "Broken High Heels",
-      "url": "https://open.spotify.com/track/7KJHFbQMatRENgkXRiXI90"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn The Heat Up!",
         "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 425733,
       "name": "It Don't Hurt No More",
       "url": "https://open.spotify.com/track/0t2oq1DRaeWzX6VQ1fAXeE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 228002,
+      "name": "Broken High Heels",
+      "url": "https://open.spotify.com/track/7KJHFbQMatRENgkXRiXI90"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 224325,
-      "name": "Is There Anybody Up There?",
-      "url": "https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 233866,
       "name": "The Battle Is Over (But The War Goes On)",
       "url": "https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 224325,
+      "name": "Is There Anybody Up There?",
+      "url": "https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 219672,
-      "name": "Cadillac Blue",
-      "url": "https://open.spotify.com/track/2fdAfs7JLnHyuUdwD1btC1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
       },
       "artists": [
         {
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 181160,
-      "name": "Ka-Ching",
-      "url": "https://open.spotify.com/track/7rnvAAyPIh1wUvSHV6VvNS"
+      "duration_ms": 219672,
+      "name": "Cadillac Blue",
+      "url": "https://open.spotify.com/track/2fdAfs7JLnHyuUdwD1btC1"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 285990,
       "name": "Uncivil War",
       "url": "https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 181160,
+      "name": "Ka-Ching",
+      "url": "https://open.spotify.com/track/7rnvAAyPIh1wUvSHV6VvNS"
     },
     {
       "added_at": null,

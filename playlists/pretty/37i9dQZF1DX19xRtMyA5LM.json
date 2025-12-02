@@ -1,12 +1,12 @@
 {
   "description": "De beste tracks in WS\u2757\ufe0fCover: Jack",
-  "num_followers": 709457,
+  "num_followers": 709395,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA4ZToBZFFYW1+U+wYPT5eADjyQ+",
+  "snapshot_id": "AAAAAL2AQihj9jJDaDZNUkyaKoCeFEpL",
   "tracks": [
     {
       "added_at": "2025-11-28 09:33:56",
@@ -23,6 +23,26 @@
       "duration_ms": 113103,
       "name": "Plan C",
       "url": "https://open.spotify.com/track/1h9iSY0MustqhMDTJ20KdE"
+    },
+    {
+      "added_at": "2025-11-28 09:33:56",
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/3E2aAebxO2g7U8svhw5JJa"
+      },
+      "artists": [
+        {
+          "name": "Leblanco",
+          "url": "https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/4aBYk2fxRupiNjvvtOglRM"
     },
     {
       "added_at": "2025-11-28 09:33:56",
@@ -143,6 +163,22 @@
     {
       "added_at": "2025-11-28 09:33:56",
       "album": {
+        "name": "Warming up",
+        "url": "https://open.spotify.com/album/7aZsDpLkUujdXXwmCeefIf"
+      },
+      "artists": [
+        {
+          "name": "Nass",
+          "url": "https://open.spotify.com/artist/2vmQP2rkDh9bcyzhP1YVKU"
+        }
+      ],
+      "duration_ms": 122352,
+      "name": "Warming up",
+      "url": "https://open.spotify.com/track/4bO9GDQ6RX5IrpbhIQMnIS"
+    },
+    {
+      "added_at": "2025-11-28 09:33:56",
+      "album": {
         "name": "Idolen",
         "url": "https://open.spotify.com/album/4Uu7gSBUsHiZIy6EajKiXR"
       },
@@ -235,6 +271,22 @@
     {
       "added_at": "2025-11-28 09:33:56",
       "album": {
+        "name": "Plan C",
+        "url": "https://open.spotify.com/album/3QpD7k6aF8teVbLxMm5QPR"
+      },
+      "artists": [
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        }
+      ],
+      "duration_ms": 129278,
+      "name": "Pleintje",
+      "url": "https://open.spotify.com/track/2RsZPNZAQPpodPFwHZAHJF"
+    },
+    {
+      "added_at": "2025-11-28 09:33:56",
+      "album": {
         "name": "Scorpio Flow",
         "url": "https://open.spotify.com/album/1A8LI3IfCLe4UaepsoD8UW"
       },
@@ -251,42 +303,6 @@
     {
       "added_at": "2025-11-28 09:33:56",
       "album": {
-        "name": "Man Down",
-        "url": "https://open.spotify.com/album/3E2aAebxO2g7U8svhw5JJa"
-      },
-      "artists": [
-        {
-          "name": "Leblanco",
-          "url": "https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Man Down",
-      "url": "https://open.spotify.com/track/4aBYk2fxRupiNjvvtOglRM"
-    },
-    {
-      "added_at": "2025-11-28 09:33:56",
-      "album": {
-        "name": "Baby Laat Het",
-        "url": "https://open.spotify.com/album/3uVc7VqfVLKbVFDV8UwFAc"
-      },
-      "artists": [
-        {
-          "name": "Jack",
-          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Baby Laat Het",
-      "url": "https://open.spotify.com/track/2fvdCrH8Yon0VvNKZlHA6o"
-    },
-    {
-      "added_at": "2025-11-28 09:33:56",
-      "album": {
         "name": "Vertrouwen",
         "url": "https://open.spotify.com/album/40nEaz0B6Oj6tpBftNnbjz"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 136833,
       "name": "Vertrouwen",
       "url": "https://open.spotify.com/track/2DmQS3IIH1w9gwo1MRWCVj"
-    },
-    {
-      "added_at": "2025-11-28 09:33:56",
-      "album": {
-        "name": "Warming up",
-        "url": "https://open.spotify.com/album/7aZsDpLkUujdXXwmCeefIf"
-      },
-      "artists": [
-        {
-          "name": "Nass",
-          "url": "https://open.spotify.com/artist/2vmQP2rkDh9bcyzhP1YVKU"
-        }
-      ],
-      "duration_ms": 122352,
-      "name": "Warming up",
-      "url": "https://open.spotify.com/track/4bO9GDQ6RX5IrpbhIQMnIS"
     },
     {
       "added_at": "2025-11-28 09:33:56",
@@ -403,6 +403,22 @@
       "duration_ms": 129326,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/7E41iQPkQJ3HhMhzqjeCCa"
+    },
+    {
+      "added_at": "2025-11-28 09:33:56",
+      "album": {
+        "name": "Baby Laat Het",
+        "url": "https://open.spotify.com/album/3uVc7VqfVLKbVFDV8UwFAc"
+      },
+      "artists": [
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Baby Laat Het",
+      "url": "https://open.spotify.com/track/2fvdCrH8Yon0VvNKZlHA6o"
     },
     {
       "added_at": "2025-11-28 09:33:56",
@@ -519,22 +535,6 @@
       "duration_ms": 183626,
       "name": "Rondjes",
       "url": "https://open.spotify.com/track/4nJDZctVlsqaQhtCTPZFj2"
-    },
-    {
-      "added_at": "2025-11-28 09:33:56",
-      "album": {
-        "name": "Plan C",
-        "url": "https://open.spotify.com/album/3QpD7k6aF8teVbLxMm5QPR"
-      },
-      "artists": [
-        {
-          "name": "Jack",
-          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
-        }
-      ],
-      "duration_ms": 129278,
-      "name": "Pleintje",
-      "url": "https://open.spotify.com/track/2RsZPNZAQPpodPFwHZAHJF"
     },
     {
       "added_at": "2025-11-28 09:33:56",

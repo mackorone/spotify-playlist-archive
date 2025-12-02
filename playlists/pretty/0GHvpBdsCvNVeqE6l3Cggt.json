@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAjpIyn1vFIt0j8wqmy/p9Z59WCAj5i",
+  "snapshot_id": "AAAjpqsontNXqGVfJvP8ntckQ0LkhZCo",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -711,6 +711,38 @@
       "duration_ms": 142532,
       "name": "Sunday Evening",
       "url": "https://open.spotify.com/track/6rudmQGuyCFqoYJgOnpxbw"
+    },
+    {
+      "added_at": "2025-12-01 08:55:54",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6Lly4v5CpIs8zsDxS1iqlk"
+      },
+      "artists": [
+        {
+          "name": "Ka\u00f0l\u00edn",
+          "url": "https://open.spotify.com/artist/30QneQaLsKZZ5pLoRNg1TZ"
+        }
+      ],
+      "duration_ms": 62778,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3B6AKdVGauMT11fwUWJ8Ga"
+    },
+    {
+      "added_at": "2025-12-01 14:39:30",
+      "album": {
+        "name": "Trans",
+        "url": "https://open.spotify.com/album/1T2lmX3LY6Vrw0ZMI6eYry"
+      },
+      "artists": [
+        {
+          "name": "Boris Vian",
+          "url": "https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8"
+        }
+      ],
+      "duration_ms": 225686,
+      "name": "Autom\u00e1tico",
+      "url": "https://open.spotify.com/track/5FUDj98ylGW4iUcFfiWo50"
     }
   ],
   "unique_name": "Alternative Pop Archive",

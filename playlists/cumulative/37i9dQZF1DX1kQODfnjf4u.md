@@ -4,7 +4,7 @@
 
 > 50 nejžhavějších hitů v České republice\. Cover: Calin & Ewa Farna
 
-181 songs - 8 hr 51 min
+182 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Kung\-fu](https://open.spotify.com/track/0odvlXjOnmtZ6sZ9CIIvbt) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [v gastru nejsou lidi](https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS) | 2:21 | 2024-09-16 | 2024-11-19 |
 | [Letná](https://open.spotify.com/track/7JLiGPvaKNNrYJHfzfANe5) | [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [Letná](https://open.spotify.com/album/71pgnbzr7VB04NEUGQsU6F) | 2:16 | 2024-07-01 | 2025-09-11 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-07-01 | 2025-04-01 |
-| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-09-01 |  |
+| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-09-01 | 2025-12-02 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-07-01 | 2024-09-10 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-02 | 2025-01-21 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-07-01 | 2024-07-09 |
@@ -151,6 +151,7 @@
 | [Sonáta \(feat\. Robin Zoot\)](https://open.spotify.com/track/7dIAJCXkTp2hhfBiN4UByB) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Co je teď víc](https://open.spotify.com/album/3TPwbdgBbj01IMoYypmn80) | 2:19 | 2025-09-22 |  |
 | [space](https://open.spotify.com/track/5YwRYw9u0Abs5R3sDiPAXJ) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [space](https://open.spotify.com/album/0MwH6PaO0rV86yqyF1R0hL) | 2:52 | 2024-07-01 | 2025-03-18 |
 | [STFU \(feat\. Calin & SIMILIVINLIFE\)](https://open.spotify.com/track/1ipAABlNuyDxSeaeTvjbVc) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [PRESIDENT OF SEXICO](https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD) | 2:32 | 2024-07-01 | 2024-12-17 |
+| [Stovky let](https://open.spotify.com/track/4ngeoCqT1A0H2l6tJX7KTr) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Stovky let](https://open.spotify.com/album/7jKEFgDqdk6XtUDQivJN9W) | 2:41 | 2025-12-01 |  |
 | [Strach](https://open.spotify.com/track/5JShUXhGOwqhqwJVGjqVWk) | [BUKA](https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI) | [Já, mé druhé já a Kristýna](https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg) | 3:25 | 2025-11-17 |  |
 | [studené srdce](https://open.spotify.com/track/6GwekXZF2LdRWQ8IebcoQn) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i), [Karlo](https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC), [G1nter](https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa) | [brat](https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp) | 3:56 | 2025-06-09 |  |
 | [Stále som](https://open.spotify.com/track/7JeVRhvdsU2s6HpuUPdEuA) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:38 | 2025-04-28 | 2025-05-02 |

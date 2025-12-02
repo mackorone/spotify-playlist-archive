@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-260 songs - 14 hr 46 min
+265 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Emo Dancing](https://open.spotify.com/track/3Oaul3W1QAfjbTOY7P1lpf) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 3:15 | 2025-10-24 |  |
 | [Endless Scroll](https://open.spotify.com/track/6uoCUv7mMYnhsx1s4vyilB) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [PUNKT](https://open.spotify.com/album/1V4XzrUe8LagIAvmSupuoV) | 1:43 | 2025-08-03 |  |
 | [Eternal \(remaster\)](https://open.spotify.com/track/5dyhnr7rcAhlHOIkCvoECn) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:21 | 2025-09-18 |  |
+| [Exciō](https://open.spotify.com/track/2ddPIXFkaAlgHc00Q0Da1d) | [IDŌL](https://open.spotify.com/artist/3nmBN4kK0iZ0yoYymH7RMS) | [Exciō](https://open.spotify.com/album/1CjeSNtmby1vmXZxwcRp6g) | 3:53 | 2025-12-01 |  |
 | [Face Pull](https://open.spotify.com/track/6ZI2pOkgpUPatCMwQZWj0o) | [No Object](https://open.spotify.com/artist/5XuAvWJlsVw4ZVO0lWRIAw) | [SUSTAIN](https://open.spotify.com/album/1ILFukl8E0NsgZjwjF750F) | 3:46 | 2025-11-13 |  |
 | [Faint](https://open.spotify.com/track/66vElSVmVuC9StxwlBrbYa) | [Basavriuk](https://open.spotify.com/artist/1jiZdw6LLdm28eMxFnDKSd) | [Faint](https://open.spotify.com/album/7EeNUyO2Qcjm9cQYAtkiEb) | 3:27 | 2025-11-30 |  |
 | [Falling Standards](https://open.spotify.com/track/4OyewJNyf69I44f3W5iDCJ) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 4:29 | 2025-08-03 |  |
@@ -120,6 +121,7 @@
 | [Insane](https://open.spotify.com/track/0qvuPbmtrcNTOZMF19pVJk) | [Alex Vecchietti](https://open.spotify.com/artist/3fI1wOMASMQNUz2iFhg3WM) | [Insane](https://open.spotify.com/album/2Ms9hDgUk2IzrvuUPmlfpa) | 4:32 | 2025-11-07 |  |
 | [Integration](https://open.spotify.com/track/3OJdvSdzZbYC1tXtalZaNW) | [Ape Bucket](https://open.spotify.com/artist/18wqhsjlZgcc68jrcsum08) | [Integration](https://open.spotify.com/album/4FaXkw9MRR791Q3weqGjj0) | 2:34 | 2025-11-30 |  |
 | [Intro](https://open.spotify.com/track/3y31Rv3XEaUipUJHXiojZ8) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 1:12 | 2025-08-03 |  |
+| [Is This Love](https://open.spotify.com/track/3qkIQpy37KifoBtajiiTYN) | [Stoned Waves](https://open.spotify.com/artist/6C2X50bk3vmp75os3ZQNPs) | [Until the Planets Crash](https://open.spotify.com/album/7jzDqWgpugP45YLUb24gtN) | 5:11 | 2025-12-01 |  |
 | [IV \. Ashes of the Rose](https://open.spotify.com/track/0nBc3rOfkaZ3jxin6nJasN) | [MER](https://open.spotify.com/artist/7CvljdGrUIw9LLpCelscEN) | [The Way of the Rose](https://open.spotify.com/album/3JexvhBHllJq5Yne04ebXD) | 5:09 | 2025-11-14 |  |
 | [Iza Bella](https://open.spotify.com/track/2m33TemOMBEDzRpw1TsLhd) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:24 | 2025-11-21 |  |
 | [JinXXX](https://open.spotify.com/track/2grH4gOFNCt6mbV1e2TVyt) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 5:18 | 2025-09-16 |  |
@@ -177,6 +179,7 @@
 | [QPR](https://open.spotify.com/track/6eFwjtcfmoJjYRQJhivcCH) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 2:19 | 2025-08-03 |  |
 | [Red On You](https://open.spotify.com/track/1NqEnJemvYdbGsFlYDNTgq) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 2:33 | 2025-08-03 |  |
 | [Reloaded](https://open.spotify.com/track/6cvpx4nJPQ9JcX4OmAWjM7) | [K.W.E.S.I.](https://open.spotify.com/artist/1JQNmDKu1o2W8MPGDnBiCy) | [SHEESH!](https://open.spotify.com/album/3GuFTVum5qr45HkbPtveqx) | 2:06 | 2025-11-07 |  |
+| [Remember Lady](https://open.spotify.com/track/4BO9dmX7Yuh5gF9vA1KWW8) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Let's Greet the Sunrise](https://open.spotify.com/album/5XlQowlA1XmId9UjzxhS4K) | 3:15 | 2025-12-01 |  |
 | [Resentment](https://open.spotify.com/track/0vagsWwL9sL9dO1v20DUH6) | [Jake Vera](https://open.spotify.com/artist/0fugVpgpowLO9coAvpgRvP) | [Lost](https://open.spotify.com/album/0c4irpy4JnvF1xd3EatVx5) | 2:44 | 2025-10-24 |  |
 | [Resistance](https://open.spotify.com/track/2MjWYeEx3LmtqihJjRRMw3) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana](https://open.spotify.com/album/0eMRitbmy4cdRn4lHXTNdA) | 3:42 | 2025-08-03 |  |
 | [Resistance \(remaster\)](https://open.spotify.com/track/0dq6lmjXEcwFDa6E7ZPWua) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:40 | 2025-09-22 |  |
@@ -192,8 +195,10 @@
 | [Searchlights](https://open.spotify.com/track/053X0nqmnEYzlLgQ4kuHC3) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:12 | 2025-08-03 |  |
 | [Secret Ive Kept](https://open.spotify.com/track/2wEDn3xrlM2sl8AYMomUEn) | [Unders](https://open.spotify.com/artist/3hrtWqTWO3ZRGYgS7CCAm4) | [Secret Ive Kept](https://open.spotify.com/album/7fOQzg0OXncPxI8xE9v6U0) | 5:36 | 2025-11-03 |  |
 | [Sensiz kaldım bu şehirde](https://open.spotify.com/track/24zGYsfbvpFJEP9CtI8shr) | [Sefa Gümüştakım](https://open.spotify.com/artist/68pWu4Vj6PfXu7B2qYCavq) | [Sensiz kaldım bu şehirde](https://open.spotify.com/album/4ap8ZnW7p2Z149NrTvypMX) | 2:54 | 2025-11-17 |  |
+| [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 | 2025-12-01 |  |
 | [Shadows Devour](https://open.spotify.com/track/2hK8q1XtpUgJg5oNWR1zlx) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [Shadows Devour](https://open.spotify.com/album/5GrEGsmB0efkNI478LlFnt) | 4:04 | 2025-11-11 |  |
 | [Shape Shifter](https://open.spotify.com/track/7sD50e8OpxIo2p66mIyucQ) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:36 | 2025-09-16 |  |
+| [Shortchanged Even Shorter](https://open.spotify.com/track/3yUpbRXgwt0yftpRTlfeRK) | [FILIBUSTER](https://open.spotify.com/artist/67XEaD84geoRWd6v4kno3L) | [Shortchanged Even Shorter](https://open.spotify.com/album/4imrwR8PREQhfAsQKkfIeE) | 3:03 | 2025-12-01 |  |
 | [Shutters + Stutters](https://open.spotify.com/track/3dJDRmonHnUfgdrjYKhFIs) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Threats](https://open.spotify.com/album/44Z7Gf8lHHBUq66SaDDYIT) | 4:20 | 2025-10-31 |  |
 | [Simon Dice](https://open.spotify.com/track/0I24rhHVXYGYgJyG2L8Vu2) | [Jardin Animal](https://open.spotify.com/artist/38QAh40vAt0RRB7V5KxOJN) | [Simon Dice](https://open.spotify.com/album/0PAOV8XpwnoeLCFHT3GzL4) | 3:37 | 2025-11-16 |  |
 | [Simply Fabulous](https://open.spotify.com/track/7fMn70HEPQngTwPtla6K6R) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 4:09 | 2025-08-03 |  |

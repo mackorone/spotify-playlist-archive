@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,904 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,956 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 77 | [Cruel](https://open.spotify.com/track/1QQsgLecQ0pakWP3vBdQnf) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [The Program](https://open.spotify.com/album/42XlvIgpTYlQMexFQcXbHl) | 3:39 |
 | 78 | [Again](https://open.spotify.com/track/5RjamWdv59INL8YEGUKUO1) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Again](https://open.spotify.com/album/0fqeoihWiRX75Mff3walzT) | 2:35 |
 | 79 | [Quick Escape](https://open.spotify.com/track/3FoykAESe8MNT69DpM6B4c) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Quick Escape](https://open.spotify.com/album/1hiDXsDWyQkChURbrmdgsY) | 4:46 |
-| 80 | [bad for you](https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [bad for you](https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb) | 1:54 |
-| 81 | [Surf Wax America \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/6HHVEg2gVXgqPpDaE5sLVr) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 3:05 |
+| 80 | [Surf Wax America \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/6HHVEg2gVXgqPpDaE5sLVr) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 3:05 |
+| 81 | [bad for you](https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [bad for you](https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb) | 1:54 |
 | 82 | [Mercy](https://open.spotify.com/track/4wEKLWQxK9xzwYaWQkgzBj) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [LIGHTBRINGER](https://open.spotify.com/album/51CoENXtQxKfwEfvxRHyDN) | 4:26 |
 | 83 | [My Name Is Human](https://open.spotify.com/track/3VYgUNGdcQwfjDukoYkFWf) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [My Name Is Human](https://open.spotify.com/album/0UkO5kKwHPWG9K3Q4MJrCQ) | 4:18 |
 | 84 | [Dave's TV](https://open.spotify.com/track/1pWWkiVNNMQaJ1gU0FWKRI) | [The Thing](https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L) | [Dave's TV / Above Snakes](https://open.spotify.com/album/02dkv7ky8DsB4vhOHDcWv9) | 3:47 |

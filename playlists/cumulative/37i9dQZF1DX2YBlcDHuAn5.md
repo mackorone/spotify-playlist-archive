@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-270 songs - 15 hr 54 min
+272 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 | 2025-04-17 |  |
 | [Maybe, Maybe Not](https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Maybe, Maybe Not](https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf) | 3:20 | 2023-02-23 | 2023-09-01 |
 | [Mighty Fine](https://open.spotify.com/track/7mQ1GhZ30ytGO2902sj3GU) | [Minko](https://open.spotify.com/artist/5rKmNZs0FFUjd9yCfwjV50) | [MINKO](https://open.spotify.com/album/0uibIGsdawV51MmrL5oOYY) | 3:12 | 2025-10-09 |  |
-| [Monsters](https://open.spotify.com/track/41Sl6Lq8H6Ztgw7JgAnJat) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x), [Leadbeaters](https://open.spotify.com/artist/0NCAW9dP1JyZg0idsKw8Uf) | [Monsters](https://open.spotify.com/album/5zznSR6RMH6hOewWZWtjTI) | 2:36 | 2025-10-31 |  |
+| [Monsters](https://open.spotify.com/track/41Sl6Lq8H6Ztgw7JgAnJat) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x), [Leadbeaters](https://open.spotify.com/artist/0NCAW9dP1JyZg0idsKw8Uf) | [Monsters](https://open.spotify.com/album/5zznSR6RMH6hOewWZWtjTI) | 2:36 | 2025-10-31 | 2025-12-02 |
 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 | 2024-05-25 |  |
 | [Mortality Blues](https://open.spotify.com/track/3otoe6eXRrH0NO5IVEGBfy) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mortality Blues](https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ) | 3:15 | 2024-08-01 | 2025-04-18 |
 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 | 2025-02-07 | 2025-09-26 |
@@ -203,7 +203,7 @@
 | [Russell County Line](https://open.spotify.com/track/7JQavxjJS7gEB6oxhhGyJj) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW) | 4:09 | 2024-04-11 | 2024-04-19 |
 | [Sam](https://open.spotify.com/track/79KtcWS9S7FhxVGmuyNLbe) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K), [Blue Grass Boogiemen](https://open.spotify.com/artist/0sP3ip1gi7QdAqpYiA4ZlA) | [Ride Again](https://open.spotify.com/album/3T0S5FrGoPeNbgCy2vMYEQ) | 3:06 | 2025-02-07 | 2025-03-14 |
 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2025-02-03 |  |
-| [Scary Movie](https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0) | [Jennifer Ewbank](https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8) | [Scary Movie](https://open.spotify.com/album/4HAbJtpr5QJobYQoveKLvd) | 3:03 | 2025-10-31 |  |
+| [Scary Movie](https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0) | [Jennifer Ewbank](https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8) | [Scary Movie](https://open.spotify.com/album/4HAbJtpr5QJobYQoveKLvd) | 3:03 | 2025-10-31 | 2025-12-02 |
 | [See You Better](https://open.spotify.com/track/3xxZ3wbTJut0V7GBXIosmj) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [See You Better](https://open.spotify.com/album/02koeBYuztkAMuAHu23XKE) | 3:26 | 2023-02-23 | 2023-02-28 |
 | [Separate Cars](https://open.spotify.com/track/7hwOnTyzAl6Jf8XIKEKv2A) | [Michael Asnot](https://open.spotify.com/artist/1TfbvyIkRpQHY0JIsX4nuL), [Silke](https://open.spotify.com/artist/1qA7JNMyTJw6VmOFr8pyI7) | [Separate Cars](https://open.spotify.com/album/0irmnMY7pNUETNQfVa1A1l) | 3:04 | 2025-03-13 | 2025-05-11 |
 | [She Needs Lovin' Too](https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z) | [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Time Jumper](https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25) | 3:06 | 2025-11-13 |  |
@@ -238,6 +238,7 @@
 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 | 2023-09-07 | 2024-11-09 |
 | [The Shadow](https://open.spotify.com/track/29eoSK7mWFzE54eNJtPMPC) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [The Shadow](https://open.spotify.com/album/06Jo2XRE2NfU2vafCR0pFB) | 4:00 | 2024-10-21 | 2025-01-25 |
 | [The Way I Love You Now \- Bluefinger Version](https://open.spotify.com/track/5PSKr3GOMG58k5SoI2ebQo) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [The Way I Love You Now](https://open.spotify.com/album/4AIG9wuEswkHUeQHcIZazL) | 4:09 | 2023-07-06 | 2025-01-17 |
+| [This Night's Alright](https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wanderings](https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l) | 3:41 | 2025-12-01 |  |
 | [This Time](https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now) | 3:48 | 2023-02-23 | 2023-09-10 |
 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 | 2023-06-09 | 2023-10-06 |
 | [Time \(feat\. Jade Bird\)](https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Time \(feat\. Jade Bird\)](https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6) | 2:59 | 2025-11-06 |  |
@@ -248,6 +249,7 @@
 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 | 2023-02-23 | 2024-03-13 |
 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 | 2023-02-23 | 2023-10-06 |
 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 | 2023-02-23 | 2024-08-30 |
+| [Too Much Glitter](https://open.spotify.com/track/7xouR29oC5HevooWRBCsAq) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x), [Leadbeaters](https://open.spotify.com/artist/0NCAW9dP1JyZg0idsKw8Uf) | [The Ballad Of Too Much Glitter](https://open.spotify.com/album/6GaF5UhKpuDQdRca2Kk9Rt) | 3:13 | 2025-12-01 |  |
 | [Too Much Of A Woman](https://open.spotify.com/track/1kZno76kl0lVWni9SlncvW) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Too Much Of A Woman](https://open.spotify.com/album/2bT1OG1ABW8NzsFfoyhu0d) | 3:13 | 2023-07-06 | 2024-06-07 |
 | [Tower Of Song](https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:59 | 2023-02-23 | 2024-04-19 |
 | [Travel Light](https://open.spotify.com/track/4v1qgDcJzAqU3260OcmCgP) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Travel Light](https://open.spotify.com/album/00ZHqC79EA9asErkPHGWNg) | 3:14 | 2025-10-21 | 2025-11-01 |

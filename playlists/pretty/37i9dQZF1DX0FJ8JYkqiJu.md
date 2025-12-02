@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,840 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,869 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 60 | [Kimpton](https://open.spotify.com/track/1wxZ9pAu1nW79Toy255OFz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Kimpton](https://open.spotify.com/album/4irD2QKX4eA49YhoAhUj21) | 3:48 |
 | 61 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
 | 62 | [No Gravity \(feat\. Bava\)](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Telos](https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5) | 3:31 |
-| 63 | [Wait For You](https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Another Touch](https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR) | 3:45 |
-| 64 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
+| 63 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
+| 64 | [Wait For You](https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Another Touch](https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR) | 3:45 |
 | 65 | [Stay](https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [The Panorama Sessions, Vol\. 2](https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J) | 6:00 |
 | 66 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 | 67 | [Raye](https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Raye](https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4) | 4:50 |
-| 68 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 |
-| 69 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 |
+| 68 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 |
+| 69 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 |
 | 70 | [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 |
 
 Snapshot ID: `AAAAAE5jOq6SOWzIMx5vOvNoK2yyQq/v`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,285 likes - 70 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,372 likes - 70 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 13 | [DNA de Maria](https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [DNA de Maria](https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55) | 3:38 |
 | 14 | [Generalíssima \- Ao Vivo](https://open.spotify.com/track/4h1LQR2ZG1ekR3WswzQFgI) | [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Generalíssima \(Ao Vivo\)](https://open.spotify.com/album/0SJ4FOVzLDG4xbIyXLvtXN) | 5:25 |
 | 15 | [Me Leva](https://open.spotify.com/track/2z6uchqZ5mTC5spfvsmAsc) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Me Leva](https://open.spotify.com/album/1L69Pt5Yg6FpXFbK1AaI2r) | 11:36 |
-| 16 | [A Nossa Fé \- Ao Vivo](https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe) | [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [A Nossa Fé \(Ao Vivo\)](https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP) | 12:04 |
-| 17 | [Além da Dor \- Ao Vivo](https://open.spotify.com/track/5whl2bGgvEvb6WvxQ5CV2H) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Thayna Azevedo](https://open.spotify.com/artist/2ZcolXX8HMPKGeY926QenE) | [A Glória da Segunda Casa, Ato 1 \(Ao Vivo\)](https://open.spotify.com/album/4vjSGGLV2Mho6TqMrB3WFB) | 11:22 |
+| 16 | [Além da Dor \- Ao Vivo](https://open.spotify.com/track/5whl2bGgvEvb6WvxQ5CV2H) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Thayna Azevedo](https://open.spotify.com/artist/2ZcolXX8HMPKGeY926QenE) | [A Glória da Segunda Casa, Ato 1 \(Ao Vivo\)](https://open.spotify.com/album/4vjSGGLV2Mho6TqMrB3WFB) | 11:22 |
+| 17 | [A Nossa Fé \- Ao Vivo](https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe) | [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [A Nossa Fé \(Ao Vivo\)](https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP) | 12:04 |
 | 18 | [Oração De São Francisco](https://open.spotify.com/track/3dtnRL4N4yEZTfOXCb722D) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Oração De São Francisco](https://open.spotify.com/album/3xUOd5fORtOZ9FoGm4UbRI) | 3:52 |
 | 19 | [Ainda Bem](https://open.spotify.com/track/1wmJX9qbdcx6uzVn9YAlQ0) | [GBA Worship](https://open.spotify.com/artist/4t6soZWVyBgyasne3JFfPI), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD), [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M) | [UM \- Origem](https://open.spotify.com/album/4eowyg64oQCHdhDM8GF5c0) | 4:54 |
 | 20 | [Aparecida](https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Aparecida](https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8) | 4:53 |

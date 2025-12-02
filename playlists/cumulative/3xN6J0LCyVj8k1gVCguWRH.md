@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,476 songs - 12 day 17 hr 58 min
+5,480 songs - 12 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,6 +595,7 @@
 | [Blue Moon \- Dorian Remix](https://open.spotify.com/track/2ux9N6Y4H4U9GIjs0i3LEW) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [Blue Moon \(Dorian Remix\)](https://open.spotify.com/album/1dCvElMRXbrj8TyT5b0TEM) | 3:15 | 2021-02-26 | 2021-07-25 |
 | [Blue Ocean Eyes](https://open.spotify.com/track/5h3GrS5zl3b9pZTzPMQ10J) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [Slify](https://open.spotify.com/artist/0LUduziBKs3lzxTI5Gr2B6), [Hanakin](https://open.spotify.com/artist/75JZI3CDiOIdzP13qPbQs9) | [Blue Ocean Eyes](https://open.spotify.com/album/6v46cwIhKC0blnm1PWmdQq) | 2:58 | 2022-10-28 | 2022-11-19 |
 | [Blue Sea \(Remastered\)](https://open.spotify.com/track/3IArEiFaXvk8LttR2sinYG) | [Justin Nathanielson](https://open.spotify.com/artist/62KQpTUOiT9nHHmgDXYzQF) | [Jus' Brown \(Remastered\)](https://open.spotify.com/album/7mCe1hnVqz8ftqlf0oU8yE) | 4:56 | 2023-03-10 | 2023-04-03 |
+| [Blue Skies](https://open.spotify.com/track/6QaKExKN419g7gBelKzg5r) | [Neelais](https://open.spotify.com/artist/0OeOKwCIlRePkSfI6rHovu) | [Blue Skies](https://open.spotify.com/album/0aR1KbnvCSSfEtaKPWopcT) | 3:38 | 2025-12-01 |  |
 | [Blue Sky](https://open.spotify.com/track/4TiBtiVxBalgutQXydwLeR) | [LEE XI DAE](https://open.spotify.com/artist/1mdCLE4Ruk49Efe2cHeLKe) | [BLOOM](https://open.spotify.com/album/4ARqqmAFEmNCJl6aFKx1pd) | 3:05 | 2023-12-31 | 2024-01-08 |
 | [Blue Summer](https://open.spotify.com/track/3xKqJA2Qy0QboulKbztFUO) | [Natalie K](https://open.spotify.com/artist/2B2JJHFfdtp2H10DPMypwB) | [Blue Summer](https://open.spotify.com/album/2IVRvZcfdk3RpVPtfarSQd) | 3:59 | 2021-07-10 | 2021-07-25 |
 | [Blue Train](https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 10:43 | 2023-07-20 |  |
@@ -615,6 +616,7 @@
 | [Bohemian Rhapsody](https://open.spotify.com/track/1XzJrnQz8Hzv6abTC5qn8U) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Bohemian Rhapsody](https://open.spotify.com/album/02XnINSvZFOlFYUWbtURex) | 4:05 | 2021-02-08 | 2021-02-21 |
 | [bon iver](https://open.spotify.com/track/00jldtNfQM5x4MYGUI8myI) | [Kyro](https://open.spotify.com/artist/4YqRz3XWdr7VDVkqSgRMSY) | [bon iver](https://open.spotify.com/album/4ZIexZ1ZxRIgAh6m7GLyYd) | 3:50 | 2024-07-12 | 2024-07-24 |
 | [Bonita](https://open.spotify.com/track/4SEqBuHS3qTU1udNSh02KL) | [Michael Dametto](https://open.spotify.com/artist/5iMF7zxzkmDSRIys2wL980) | [Bonita](https://open.spotify.com/album/2NWnSsLxyJVTYnuFlGq9Tz) | 2:58 | 2024-11-25 | 2024-12-08 |
+| [Boo Hoo](https://open.spotify.com/track/0UMkemnTmMckoOVCx5P21c) | [Captain Smooth](https://open.spotify.com/artist/2UtWiyu82GLeeTadC6fg1y) | [Kream Dream](https://open.spotify.com/album/6yvM0QU6955zAHHKZ6QXWa) | 2:43 | 2025-12-01 |  |
 | [Boo'd Up](https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 4:16 | 2019-09-29\* | 2021-11-19 |
 | [BoomBoomRoom](https://open.spotify.com/track/0SDxsP4stOJhNo5jgdkEYt) | [Snowskii](https://open.spotify.com/artist/1NVQF3K9b6IbJtA2xWHars) | [BoomBoomRoom](https://open.spotify.com/album/0l9c0h0i8z37DZND55WciD) | 2:37 | 2024-12-26 | 2025-01-08 |
 | [Boost Your Day](https://open.spotify.com/track/5JYp61ZAJC43DMPWxbcqzy) | [ProFresh](https://open.spotify.com/artist/5m12qXigvAFKGPGaaCuT5U) | [Boost Your Day](https://open.spotify.com/album/7iFqwv1c1omXtGXyO79TXV) | 1:56 | 2019-10-30 | 2019-11-16 |
@@ -1275,6 +1277,7 @@
 | [Don't Stop](https://open.spotify.com/track/2uGlJ9lXs38UHnZWXcNk3C) | [45 Riots](https://open.spotify.com/artist/5cYyRSD0PnQjQLeTTACdVx), [Tyrik Ballard](https://open.spotify.com/artist/7DeISeiT53I2cjTEM4rpTG) | [Don't Stop](https://open.spotify.com/album/0Kmj4eZhHt1gyd1mmup6vp) | 2:35 | 2024-08-22 | 2024-09-02 |
 | [Don't Stop](https://open.spotify.com/track/76MfHdCfKkqUtp34AaS5l3) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz) | [Don't Stop](https://open.spotify.com/album/0LUhnc2LP5ZOJE4KWIWC0w) | 2:34 | 2025-07-02 | 2025-07-22 |
 | [Don't Stop](https://open.spotify.com/track/4hVwfXGthJSmD5XOUHAUMF) | [Xero Music](https://open.spotify.com/artist/4XWdJYXmR4TY2gwnapByZd) | [Hood Boy Blues](https://open.spotify.com/album/0SvHUIWaTmwacy2EsyAznf) | 3:22 | 2024-10-14 | 2024-10-26 |
+| [DON'T TALK LOVE](https://open.spotify.com/track/2PA3Yn1G97kAZb6pXkMO9e) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [DON'T TALK LOVE](https://open.spotify.com/album/6cko37BVuOWQJAbvefiLDc) | 3:00 | 2025-12-01 |  |
 | [Don't Tell Daddy](https://open.spotify.com/track/4PfdlT7EnLLUB0bbJql3eE) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Don't Tell Daddy](https://open.spotify.com/album/71FjFlrm03RyC8n6eQlQmR) | 2:53 | 2024-12-26 | 2025-01-06 |
 | [Don't Trip](https://open.spotify.com/track/7DaEQTp3aHWqoXPG5MzdZl) | [Swelles](https://open.spotify.com/artist/3uRgUVvZ1p7oI1TLXwdKDl) | [Don't Trip](https://open.spotify.com/album/0mBX59kZ2z4wgbVvQtc0vq) | 2:50 | 2024-08-04 | 2024-08-16 |
 | [Don't Understand Why](https://open.spotify.com/track/038lrvLY3wWNxs4kQvgvgt) | [TOUCAN](https://open.spotify.com/artist/62qJvoIRvMlDGOrnLvylX0) | [Don't Understand Why](https://open.spotify.com/album/5vq0A4GmKfJMKUGDhsDU4x) | 3:16 | 2024-05-18 | 2024-06-01 |
@@ -1804,6 +1807,7 @@
 | [Get Down](https://open.spotify.com/track/6HeVdU7MataqoI7hA8tMwE) | [Traveler](https://open.spotify.com/artist/6wCnoQVmun9H1OqppOGY76) | [Get Down](https://open.spotify.com/album/28AzsxCog5pmmEXfjE6LhI) | 4:47 | 2020-12-24 | 2021-01-12 |
 | [Get Go](https://open.spotify.com/track/6uUhULywbpSYgqalmqtHJa) | [Sophia Stephens](https://open.spotify.com/artist/0u3rpTUnVkv6hnfzVTWIne) | [Love & Grief](https://open.spotify.com/album/0oy2GP7TFPjnWCRMSwGEVS) | 3:04 | 2024-11-15 | 2024-11-27 |
 | [Get In Line](https://open.spotify.com/track/5b2aFkixELY8zMMbPx6qRr) | [The Hill](https://open.spotify.com/artist/1c0H68OLDj8rXGSn2TI2bd) | [Get In Line](https://open.spotify.com/album/28xEV0fSN95jOA1xp1h8hp) | 2:13 | 2024-07-12 | 2024-07-23 |
+| [Get it Back](https://open.spotify.com/track/1OwmWEXP52wtotfyGwRJQ6) | [Alex Charles](https://open.spotify.com/artist/57p5pJde1DB1FyVeP55OCv) | [Get it Back](https://open.spotify.com/album/1p9I7UFkaeldWvFHuyxUkE) | 2:59 | 2025-12-01 |  |
 | [Get It Wrong](https://open.spotify.com/track/2oZocnV5nBaWHUHZbu50fi) | [Sky Adler](https://open.spotify.com/artist/7tBYbT4opzICINZB2JNCYX) | [Good Grief](https://open.spotify.com/album/3vRdg33fQOkacKAn4RgPP6) | 3:11 | 2025-07-25 | 2025-09-03 |
 | [Get Loose](https://open.spotify.com/track/4w2TiaRRwkfDIUsMLdiAqO) | [Iris Stryx](https://open.spotify.com/artist/5fDwMjmvNjDhXHxDd991kd) | [Get Loose](https://open.spotify.com/album/2xRaJ7CIfmgQB1WvgSY48U) | 3:06 | 2020-11-22 | 2020-12-20 |
 | [Get Me, Got You](https://open.spotify.com/track/44G528nX0cALLmXZFWv7j8) | [Julia Goodwin](https://open.spotify.com/artist/0eUv8y68onLgHdBfO7jvYe) | [Get Me, Got You](https://open.spotify.com/album/5uJ5vV6I6f2OgAgoL36TM9) | 4:03 | 2021-03-06 | 2021-03-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,170 likes - 36 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,168 likes - 36 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 29 | [I Learned From You](https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:23 |
 | 30 | [Things Dads Do](https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Things Dads Do](https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX) | 4:09 |
 | 31 | [Song For Dad](https://open.spotify.com/track/0l2G2yxjpE9zgUA8rJlAMu) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:56 |
-| 32 | [Color Him Father](https://open.spotify.com/track/4qlk1U68B90hEi37NvCJRK) | [The Winstons](https://open.spotify.com/artist/4Dvqy5ohQ4sUR1sCETSeak) | [Color Him Father](https://open.spotify.com/album/5Ups4qqJu7BegTd8JoOU4M) | 3:10 |
-| 33 | [Build Me A Daddy](https://open.spotify.com/track/3udcshOhVkIlkFpqys8H6X) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Build Me A Daddy](https://open.spotify.com/album/3wCpymONuF2pwfAyz4mFW3) | 3:09 |
+| 32 | [Build Me A Daddy](https://open.spotify.com/track/3udcshOhVkIlkFpqys8H6X) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Build Me A Daddy](https://open.spotify.com/album/3wCpymONuF2pwfAyz4mFW3) | 3:09 |
+| 33 | [Color Him Father](https://open.spotify.com/track/4qlk1U68B90hEi37NvCJRK) | [The Winstons](https://open.spotify.com/artist/4Dvqy5ohQ4sUR1sCETSeak) | [Color Him Father](https://open.spotify.com/album/5Ups4qqJu7BegTd8JoOU4M) | 3:10 |
 | 34 | [Father and Daughter](https://open.spotify.com/track/6PQqTPQ63mMf7jg0jb407d) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:10 |
 | 35 | [Winter](https://open.spotify.com/track/69mhMyy8rxYKGfPpr9wesT) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes](https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb) | 5:42 |
 | 36 | [Daughters](https://open.spotify.com/track/2cOfceFeMN2YgYaOf3KYJ6) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Life Is Good \(Deluxe\)](https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI) | 3:20 |

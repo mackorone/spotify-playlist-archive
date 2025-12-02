@@ -1,6 +1,6 @@
 {
   "description": "A trip down pop's memory lane.",
-  "num_followers": 544909,
+  "num_followers": 544898,
   "original_name": "Classic Pop Picks",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-03-27 15:56:13",
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 270506,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+    },
+    {
+      "added_at": "2024-03-27 15:56:13",
+      "album": {
         "name": "Demon Days",
         "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 244999,
       "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
       "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
-    },
-    {
-      "added_at": "2024-03-27 15:56:13",
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 270506,
-      "name": "Ms. Jackson",
-      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
     },
     {
       "added_at": "2024-03-27 15:56:13",
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 230192,
-      "name": "Marry You",
-      "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
+      "duration_ms": 222091,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8"
     },
     {
       "added_at": "2024-03-27 15:56:13",
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 222091,
-      "name": "Grenade",
-      "url": "https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8"
+      "duration_ms": 230192,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
     },
     {
       "added_at": "2024-03-27 15:56:13",
@@ -651,8 +651,8 @@
     {
       "added_at": "2024-03-27 15:56:13",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
     },
     {
       "added_at": "2024-03-27 15:56:13",
@@ -735,8 +735,8 @@
     {
       "added_at": "2024-03-27 15:56:13",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 178560,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
     },
     {
       "added_at": "2024-03-27 15:56:13",

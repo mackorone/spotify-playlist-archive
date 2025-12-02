@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 50273,
+  "num_followers": 50279,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAABPySte0IEx58jK041uHhs/",
+  "snapshot_id": "aSuJAAAAAACaAJnW9nIuQsuJ/Q7sqs/8",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
-        "url": "https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        }
-      ],
-      "duration_ms": 64311,
-      "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
-      "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bluey Titelsong (German Version)",
         "url": "https://open.spotify.com/album/0oRfkNavThhul9SgWb9Jrj"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 64311,
       "name": "Bluey Titelsong (German Version)",
       "url": "https://open.spotify.com/track/5cYNCZOYRnKoNtsBlX1Xc1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
+        "url": "https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        }
+      ],
+      "duration_ms": 64311,
+      "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
+      "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
     }
   ],
   "unique_name": "This Is Bluey",

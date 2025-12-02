@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,574 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,672 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,18 +65,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 55 | [El Caballo de Mi Padre](https://open.spotify.com/track/34mSoUrzLEASYlAphqLdoe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Caballo de Mi Padre](https://open.spotify.com/album/3F8eGBvmfsMQ9659Ju5uWI) | 3:21 |
 | 56 | [One Dashing Eagle](https://open.spotify.com/track/3PtzZYnDamHnif0I6DtcLw) | [Alex Ramirez Y Su Grupo Profetas](https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R) | [One Dashing Eagle](https://open.spotify.com/album/1Vhtuz6IdryKO4crutpm9y) | 3:44 |
 | 57 | [Potro Lobo Gateado](https://open.spotify.com/track/1Ks8NK7LDMjOMEc26rithO) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/7mDCXj1j5QoxnJxK6Bk6MJ) | 4:38 |
-| 58 | [Ranchero Y Gallardo](https://open.spotify.com/track/0M7CH6QBbsYi6lF8owxhn7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/5rM7lYRbyu9ktUF8cU0lG0) | 2:14 |
-| 59 | [Eran Cuatro de a Caballo](https://open.spotify.com/track/21IeqSi1HY4Nm7vzhLjdqo) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Tres Tumbas](https://open.spotify.com/album/1UF7X9zpBOF6JNv0l5wsx0) | 3:05 |
-| 60 | [La Panchita](https://open.spotify.com/track/1NSNeV7Woy6cBc69wxfzLr) | [Serapio Ramirez](https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW) | [La Panchita](https://open.spotify.com/album/2fZDHIZm16tWGay2uuBmTX) | 3:33 |
+| 58 | [La Panchita](https://open.spotify.com/track/1NSNeV7Woy6cBc69wxfzLr) | [Serapio Ramirez](https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW) | [La Panchita](https://open.spotify.com/album/2fZDHIZm16tWGay2uuBmTX) | 3:33 |
+| 59 | [Ranchero Y Gallardo](https://open.spotify.com/track/0M7CH6QBbsYi6lF8owxhn7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/5rM7lYRbyu9ktUF8cU0lG0) | 2:14 |
+| 60 | [Eran Cuatro de a Caballo](https://open.spotify.com/track/21IeqSi1HY4Nm7vzhLjdqo) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Tres Tumbas](https://open.spotify.com/album/1UF7X9zpBOF6JNv0l5wsx0) | 3:05 |
 | 61 | [Mi Caballo Pobre](https://open.spotify.com/track/4wW1Xvbfwmq8CMJdjoR4fg) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 2:45 |
 | 62 | [El Samuray](https://open.spotify.com/track/0Mtutk1CW5jOnf5ujYDNQq) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/7mDCXj1j5QoxnJxK6Bk6MJ) | 3:04 |
-| 63 | [El Golden Boy](https://open.spotify.com/track/5rSHtxvd1VIvhXyeh0GJLP) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Golden Boy](https://open.spotify.com/album/6c2TLFewLrROUee7c6qkLL) | 2:40 |
-| 64 | [Donde Estara Mi Caballo](https://open.spotify.com/track/5GukrCjab9vqMBNV6YKqSd) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Inspiracion Nortena](https://open.spotify.com/album/3W3Nzf46FADCAXYjjEpTVA) | 2:48 |
-| 65 | [El Dorado](https://open.spotify.com/track/1FeAh9QTsAuzP7gG7nSgKf) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB) | [El Dorado](https://open.spotify.com/album/4ZkNYJMP6iLQobERrLiwqt) | 3:49 |
+| 63 | [El Dorado](https://open.spotify.com/track/1FeAh9QTsAuzP7gG7nSgKf) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB) | [El Dorado](https://open.spotify.com/album/4ZkNYJMP6iLQobERrLiwqt) | 3:49 |
+| 64 | [El Golden Boy](https://open.spotify.com/track/5rSHtxvd1VIvhXyeh0GJLP) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Golden Boy](https://open.spotify.com/album/6c2TLFewLrROUee7c6qkLL) | 2:40 |
+| 65 | [Donde Estara Mi Caballo](https://open.spotify.com/track/5GukrCjab9vqMBNV6YKqSd) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Inspiracion Nortena](https://open.spotify.com/album/3W3Nzf46FADCAXYjjEpTVA) | 2:48 |
 | 66 | [El Alazán Y El Rocío](https://open.spotify.com/track/7BuX3mtN7qyZS0WeiG8kok) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:17 |
 | 67 | [La Cecilia](https://open.spotify.com/track/1P20Yh2PLv1C8vAJW2kclG) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Humberto Herrera](https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/7mDCXj1j5QoxnJxK6Bk6MJ) | 3:26 |
-| 68 | [Trato De Muerte](https://open.spotify.com/track/2rAKr8ccF24rWoFbC80706) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/5LUAUynTSlr686U0OQMM1E) | 3:19 |
-| 69 | [El Muchacho y el Potro](https://open.spotify.com/track/1oLNiCEDdocJ59lgI43OVG) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/7vnnPHcY893aPwnBnyl7u1) | 3:13 |
-| 70 | [El Durango Contra El Peligro](https://open.spotify.com/track/02YhmAsJJ0xaG13aqD0dw1) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Con Estrella De Borracho](https://open.spotify.com/album/7mCIJYO4dR2J5LTZy7NMsC) | 2:11 |
+| 68 | [El Durango Contra El Peligro](https://open.spotify.com/track/02YhmAsJJ0xaG13aqD0dw1) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Con Estrella De Borracho](https://open.spotify.com/album/7mCIJYO4dR2J5LTZy7NMsC) | 2:11 |
+| 69 | [Trato De Muerte](https://open.spotify.com/track/2rAKr8ccF24rWoFbC80706) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/5LUAUynTSlr686U0OQMM1E) | 3:19 |
+| 70 | [El Muchacho y el Potro](https://open.spotify.com/track/1oLNiCEDdocJ59lgI43OVG) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/7vnnPHcY893aPwnBnyl7u1) | 3:13 |
 
 Snapshot ID: `AAAAAOA4ZxwcUPgPYLscHLueFPgVaWU5`

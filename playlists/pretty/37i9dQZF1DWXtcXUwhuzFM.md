@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Robin Packalen, VIIVI, Ed Sheeran, HUGO..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,339 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,331 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 60 | [SOMEWHERE NEW](https://open.spotify.com/track/5ZLmCLrXfaK537kBH1RGbJ) | [Raffi Maxwell](https://open.spotify.com/artist/7p08F3lgkPW56dlhSY4XFB) | [HOW LONG HAS IT BEEN](https://open.spotify.com/album/1YYDxb3ocB2qvMr9L34oDu) | 3:08 |
 | 61 | [Anything Anymore](https://open.spotify.com/track/35xhqa6izgVx2viO7nTh8n) | [Stella Hennen](https://open.spotify.com/artist/6MnbL55UpU2qOvoXDmTF2B) | [Where I Don't Exist](https://open.spotify.com/album/6QqwgAF5PyHd7IBRF006ih) | 2:58 |
 | 62 | [Stay The Night](https://open.spotify.com/track/3CsUFsUp5guMgzaU9zSPj9) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Stay The Night](https://open.spotify.com/album/01ZXm2k9PdMIJE8I01gRqM) | 3:58 |
-| 63 | [tropical downpour](https://open.spotify.com/track/5RKkfrz1twRhu7nDuYCAcJ) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [tropical downpour](https://open.spotify.com/album/59E30iPJI2jYozB70t4bPb) | 3:08 |
+| 63 | [Tropical Downpour](https://open.spotify.com/track/5RKkfrz1twRhu7nDuYCAcJ) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Tropical Downpour](https://open.spotify.com/album/59E30iPJI2jYozB70t4bPb) | 3:08 |
 | 64 | [Absence Of You](https://open.spotify.com/track/7GlXm2BbymNulnb3ObUcpY) | [Joe Jordan](https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv) | [Absence Of You](https://open.spotify.com/album/1wGgXXDdf08dYjnrKvOz92) | 3:54 |
 | 65 | [Rot](https://open.spotify.com/track/7kZzn2dgVaU0itU7CpIBYL) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [LIVE LAUGH COOL STAR](https://open.spotify.com/album/2cXKr33dR0o2MrbVKpV8C9) | 2:34 |
-| 66 | [Side Bitch SZN \(feat\. Aaron Page\)](https://open.spotify.com/track/3CdIbHOuuQ9oYnmhB1kaW6) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06), [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Side Bitch SZN \(feat\. Aaron Page\)](https://open.spotify.com/album/367CiJpYQGIMbTRHI7Robu) | 3:25 |
+| 66 | [Side Bitch SZN](https://open.spotify.com/track/3CdIbHOuuQ9oYnmhB1kaW6) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06), [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Side Bitch SZN](https://open.spotify.com/album/367CiJpYQGIMbTRHI7Robu) | 3:25 |
 | 67 | [Tea](https://open.spotify.com/track/0kfM6SaO7OWLHVCPgss2Ql) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Tea](https://open.spotify.com/album/4a5oAeBcNj0eDjIJgDsoqP) | 1:59 |
 | 68 | [CRTX/VRTX](https://open.spotify.com/track/4MrUkGfYHtxwZlcSqCiw8X) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C) | [ONYX’!](https://open.spotify.com/album/1RjZWl3SPtDf2CfQvAFWAP) | 3:35 |
 | 69 | [Behaviour \(feat\. A.D.O.R.\)](https://open.spotify.com/track/4GAVRZ9ABPQzvy0Nj4hGPy) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [A.D.O.R.](https://open.spotify.com/artist/5dniQPRxD0LDjCqMI4rvrM) | [Behaviour \(feat\. A.D.O.R.\)](https://open.spotify.com/album/1ieZsGSghohH5qrMlQVWP7) | 2:20 |

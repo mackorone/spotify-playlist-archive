@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkk7Hqpo679.md) - [plain]
 
 > Allerbeste songs van de 70's! Cover: The Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,909 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,918 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkk7Hqpo679.md) - [plain]
 | 75 | [Who's That Lady With My Man](https://open.spotify.com/track/1BQ1iEiTtOVxWc2MAVSDS8) | [Patricia Paay](https://open.spotify.com/artist/7wSSa5ZhfmxYBMM0LT5lEd) | [Hollands Glorie](https://open.spotify.com/album/4yZEdbhWjZILUaSex1Dis3) | 3:11 |
 | 76 | [Let's Dance](https://open.spotify.com/track/5yM9wTZcPgFEZgtBWciZ11) | [The Cats](https://open.spotify.com/artist/4mplweFSgMgpH03ruEMEMv) | [Favorieten Expres](https://open.spotify.com/album/6vjJpzdtItQIK9FxJNnXs9) | 3:26 |
 | 77 | [Mississippi](https://open.spotify.com/track/5jQcnMoKf7QxXHxsiI3CRl) | [Pussycat](https://open.spotify.com/artist/2rmQ5EEAIkloNGWdGlvCYM) | [Favorieten Expres](https://open.spotify.com/album/7Mkh2urG8SpYeaPquoXFkc) | 4:35 |
-| 78 | [Inkpot](https://open.spotify.com/track/7fKfIfnIuQaNrnvrRkF637) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [The Very Best Of Shocking Blue \(Part One \- The A Sides\)](https://open.spotify.com/album/2UpjCnEO4XJ5F5PwKGFg8N) | 2:39 |
+| 78 | [Memories](https://open.spotify.com/track/1OQAgz0YJVT25qcANVYp9V) | [Earth & Fire](https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo) | [Earth & Fire](https://open.spotify.com/album/7dSaXmg3sfQsC5wE58o4RM) | 3:20 |
 | 79 | [Weekend Love](https://open.spotify.com/track/2XEZ7vNowkcxPDbehugy3Q) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Golden Earring Biggest Hits](https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm) | 4:15 |
-| 80 | [Memories](https://open.spotify.com/track/1OQAgz0YJVT25qcANVYp9V) | [Earth & Fire](https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo) | [Earth & Fire](https://open.spotify.com/album/7dSaXmg3sfQsC5wE58o4RM) | 3:20 |
+| 80 | [Inkpot](https://open.spotify.com/track/7fKfIfnIuQaNrnvrRkF637) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [The Very Best Of Shocking Blue \(Part One \- The A Sides\)](https://open.spotify.com/album/2UpjCnEO4XJ5F5PwKGFg8N) | 2:39 |
 
 Snapshot ID: `AAAAAJgOzhnB6QBrbR2Hf4QH479WH0EW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,363 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,371 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 18 | [DÓNDE](https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 3:13 |
 | 19 | [Ultra Complicado \(feat\. Sebas\) \- Remix](https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Sebas](https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J) | [Ultra Complicado \(feat\. Sebas\) \[Remix\]](https://open.spotify.com/album/5e90EkJ4CrMDooT8EeRkgh) | 4:17 |
 | 20 | [Soltera \- W Sound 01](https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Soltera \(W Sound 01\)](https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4) | 2:22 |
-| 21 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
+| 21 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 |
 | 22 | [El Beneficio De La Duda](https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 4:05 |
 | 23 | [BUENOS DIAS \(feat\. Tury, GeezyDee, CARABIN3\)](https://open.spotify.com/track/10B0cONtHL7b8hdMRE2Du6) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [BUENOS DIAS \(feat\. Tury, GeezyDee, CARABIN3\)](https://open.spotify.com/album/1UrmUtWsy8x0Gr5NpVUyKM) | 4:55 |
 | 24 | [UNA NOCHE DE LOCURA](https://open.spotify.com/track/2tKVinInf0PJS1iG04zzqi) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Sebastian Ledher](https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [Joseph Ren](https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb) | [TRINIDAD BENDITA](https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [sobelove](https://open.spotify.com/track/3fmw8iIyQDS2L7nE6Wd0xG) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:11 |
 | 50 | [MÁS DE AHÍ](https://open.spotify.com/track/4ATzrqMF84B9iSCGUUqfTT) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Kzadores](https://open.spotify.com/artist/4y6AiRdD8ZaV9DbpmsQdei) | [BULLSHIT DE LA CALLE](https://open.spotify.com/album/2H2ojJuG84gHY0ZmjlczIz) | 2:44 |
 
-Snapshot ID: `ML+8gAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MMEG+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

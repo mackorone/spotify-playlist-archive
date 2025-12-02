@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4080652,
+  "num_followers": 4080815,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAAoGSFJ2ZwcNXbQmzv7pJsD",
+  "snapshot_id": "aSuJAAAAAACuvLHY2XgyBlZZP6w3Vj7B",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curtain Call: The Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
       "artists": [
         {
@@ -332,13 +332,13 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 274440,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/0fGh0trRN1xz3s41r7V5ce"
+      "duration_ms": 230199,
+      "name": "Somebody Save Me",
+      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
       },
       "artists": [
         {
@@ -368,13 +368,13 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
         }
       ],
-      "duration_ms": 230199,
-      "name": "Somebody Save Me",
-      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
+      "duration_ms": 274440,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/0fGh0trRN1xz3s41r7V5ce"
     },
     {
       "added_at": null,

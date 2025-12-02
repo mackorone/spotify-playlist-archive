@@ -4,14 +4,15 @@
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-69 songs - 3 hr 34 min
+71 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Child Is Born](https://open.spotify.com/track/3uQ9spsKSa7yNW1tLRGQ4Q) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [A Child Is Born](https://open.spotify.com/album/6y4XRViVif4hk4ZYzN75fB) | 2:46 | 2025-11-14 |  |
 | [A Marshmallow World](https://open.spotify.com/track/6pB2kCDyRizqjFAtw4B8Bp) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol\. 3](https://open.spotify.com/album/2hdVR9dhg6UmbY5Dk6qzGT) | 2:25 | 2024-10-17 |  |
 | [Auld lang syne](https://open.spotify.com/track/0YdgUN2Am0zQzKY4eP6IsA) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Auld lang syne](https://open.spotify.com/album/2IZUszlSkfGgYD9wJRacEM) | 3:19 | 2024-10-17 |  |
-| [Blue Christmas \- Acoustic Version](https://open.spotify.com/track/4zuUC39UYTGdaCgZqK0HVe) | [Eliza May](https://open.spotify.com/artist/22iqZKWq4isF3MqNMZgCvm) | [Blue Christmas](https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh) | 3:10 | 2024-10-17 |  |
+| [Blue Christmas](https://open.spotify.com/track/4LoYVomBj9x4eO3vPuq5wZ) | [Iris Faye](https://open.spotify.com/artist/37Q5rp3LYMmuM5JOTjFcL4) | [Blue Christmas](https://open.spotify.com/album/5Ex45Qpq67TW07vw1fCN2b) | 2:31 | 2025-12-01 |  |
+| [Blue Christmas \- Acoustic Version](https://open.spotify.com/track/4zuUC39UYTGdaCgZqK0HVe) | [Eliza May](https://open.spotify.com/artist/22iqZKWq4isF3MqNMZgCvm) | [Blue Christmas](https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh) | 3:10 | 2024-10-17 | 2025-12-02 |
 | [Christmas \(Baby Please Come Home\) \- Acoustic](https://open.spotify.com/track/6beE2TbUK19qeOCBQUjqRF) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Christmas \(Baby Please Come Home\) \[Acoustic\]](https://open.spotify.com/album/6F9QQItaqltAOrDhzWZT8a) | 2:08 | 2024-10-17 |  |
 | [Christmas Always Finds Me \- Acoustic](https://open.spotify.com/track/2Sod5LQvNcsXc1zjSnlOAT) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Christmas Always Finds Me \(Acoustic\)](https://open.spotify.com/album/5ue2joXJpbxq5V1tvzqTpJ) | 3:04 | 2024-10-17 |  |
 | [Christmas For Cowboys](https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Christmas For Cowboys](https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7) | 3:06 | 2024-10-17 | 2025-09-05 |
@@ -74,6 +75,7 @@
 | [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 | 2024-10-17 |  |
 | [We Three Kings](https://open.spotify.com/track/5dT77tyFweHSHC8V0lrDFH) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [We Three Kings](https://open.spotify.com/album/1NZWpPv9ATEef2q7UaS5hc) | 2:41 | 2024-10-17 |  |
 | [When A Child Is Born](https://open.spotify.com/track/2UyBIhcJ5KlikoLSaSyG2p) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [When A Child Is Born](https://open.spotify.com/album/7sFPBfprmUMHIJDLrhZ4v6) | 2:37 | 2024-10-17 |  |
+| [When You Wish Upon A Star](https://open.spotify.com/track/7tNGPBaSo1mE4qBCdfQTQr) | [Sun Valley](https://open.spotify.com/artist/0070pgQUavlZcVICMUDyvL) | [When You Wish Upon A Star](https://open.spotify.com/album/71FqQOH6KW7o1PoXxm9Zqo) | 3:17 | 2025-12-01 |  |
 | [Where Are You Christmas](https://open.spotify.com/track/4Scdu8OfiVukJrULMZkuzZ) | [Cinema Sessions](https://open.spotify.com/artist/7lhCySmCIsq2J7JeNm7RWO) | [Mistletoe](https://open.spotify.com/album/0xEZWNEhKaDHa9zE5L6FGw) | 2:56 | 2025-09-04 |  |
 | [white christmas](https://open.spotify.com/track/26ivtKYwzmHuUAsQvDx7hh) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [white christmas](https://open.spotify.com/album/1Xw5gJEsHUa1uEVirBA09O) | 2:14 | 2024-12-20 |  |
 | [You Make It Feel Like Christmas](https://open.spotify.com/track/45xw5Qmu7RS3EP8yDAT3Cn) | [Katerina Robbins](https://open.spotify.com/artist/0bKSKcre6jkpyXLYh44yxr) | [You Make It Feel Like Christmas](https://open.spotify.com/album/0umAlXdTuRknPUXZLchRN2) | 3:15 | 2024-10-17 | 2025-09-05 |

@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Shift and Shadow",
+        "url": "https://open.spotify.com/album/68coa3myXyACGNFuHU0OZT"
+      },
+      "artists": [
+        {
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243493,
+      "name": "Cumbia del Paletero",
+      "url": "https://open.spotify.com/track/4laare64UJzFrVoFuZOMqP"
+    },
+    {
+      "album": {
         "name": "Cumbia siglo XXI",
         "url": "https://open.spotify.com/album/6s91YTFJHq3LWDRMC4QOvp"
       },
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 146496,
       "name": "El Vacile Del T\u00edo",
       "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 237524,
       "name": "Luna Villera",
       "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
@@ -3706,7 +3724,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 316077,
       "name": "\u00d1oco\u00f1oco",
       "url": "https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb"

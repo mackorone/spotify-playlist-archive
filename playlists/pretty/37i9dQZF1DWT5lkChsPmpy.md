@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,658 likes - 255 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,982 likes - 255 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 254 | [Dormant](https://open.spotify.com/track/5fOi6gHQnqBNwM37zupVgr) | [Bjänn](https://open.spotify.com/artist/21Q9pfmgNxjRd5q2O6eVQ9) | [Dormant](https://open.spotify.com/album/5r9MCvOcxCziejbRx7aUsq) | 2:28 |
 | 255 | [Nothing But Love](https://open.spotify.com/track/5Ta751OhMtN2F0IR9fJRFL) | [Chimes & Diamonds](https://open.spotify.com/artist/22hToWuWyog4NvZLmuZKND) | [Nothing But Love](https://open.spotify.com/album/4VAJ4cK6wAGBEeoC28bF20) | 2:34 |
 
-Snapshot ID: `AAAAAKY1Q+UptGEJ3wyXapJOPk5ONHbb`
+Snapshot ID: `AAAAAEHhrcNaOm8xdCMBn9aspu8jLH4G`

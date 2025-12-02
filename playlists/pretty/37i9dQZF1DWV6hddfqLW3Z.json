@@ -211,22 +211,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Dona Cila",
-      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "Ac\u00fastico Jota Quest",
         "url": "https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 307055,
       "name": "S\u00f3 Hoje - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3dQlFoNRi1mjKBPVXXEjYt"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Dona Cila",
+      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Multishow Ao Vivo Vanessa da Mata",
-        "url": "https://open.spotify.com/album/7q8glgZ0K2PgqTahLyVWnz"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "Um Dia, um Adeus - Ao Vivo",
-      "url": "https://open.spotify.com/track/5MnZisUGPBNKrV4jF9BHt8"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 179933,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Multishow Ao Vivo Vanessa da Mata",
+        "url": "https://open.spotify.com/album/7q8glgZ0K2PgqTahLyVWnz"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "Um Dia, um Adeus - Ao Vivo",
+      "url": "https://open.spotify.com/track/5MnZisUGPBNKrV4jF9BHt8"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
+        "name": "Ofert\u00f3rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 200045,
+      "name": "Reconvexo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
         "name": "Preciso Dizer Que Te Amo",
         "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
       },
@@ -679,38 +695,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Ofert\u00f3rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 200045,
-      "name": "Reconvexo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
-        "name": "O Vento",
-        "url": "https://open.spotify.com/album/2GuQWKQDral2TTSywYtOw3"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 296774,
-      "name": "O Vento",
-      "url": "https://open.spotify.com/track/3lBQcsRgxcflvTJl6Wu84T"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 224720,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "O Vento",
+        "url": "https://open.spotify.com/album/2GuQWKQDral2TTSywYtOw3"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 296774,
+      "name": "O Vento",
+      "url": "https://open.spotify.com/track/3lBQcsRgxcflvTJl6Wu84T"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Improviso",
-        "url": "https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 286593,
-      "name": "Improviso",
-      "url": "https://open.spotify.com/track/02zAXDfFsHV6awd5DgiUrY"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "Nossa m\u00fasica",
         "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 239642,
       "name": "Nossa m\u00fasica",
       "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Improviso",
+        "url": "https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 286593,
+      "name": "Improviso",
+      "url": "https://open.spotify.com/track/02zAXDfFsHV6awd5DgiUrY"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
+        "name": "O Que Fa\u00e7o \u00c9 Musica",
+        "url": "https://open.spotify.com/album/1ODdKdJ6X3kiolyEJ54CQA"
+      },
+      "artists": [
+        {
+          "name": "Jards Macal\u00e9",
+          "url": "https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg"
+        }
+      ],
+      "duration_ms": 304533,
+      "name": "Vapor Barato",
+      "url": "https://open.spotify.com/track/2vhwNpHlTFGSwGffxVMIuM"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
         "name": "Goela Abaixo",
         "url": "https://open.spotify.com/album/6u9KVK2R84AIC5tR75SLAo"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 230849,
       "name": "Bem Bom",
       "url": "https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
-        "name": "O Que Fa\u00e7o \u00c9 Musica",
-        "url": "https://open.spotify.com/album/1ODdKdJ6X3kiolyEJ54CQA"
-      },
-      "artists": [
-        {
-          "name": "Jards Macal\u00e9",
-          "url": "https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg"
-        }
-      ],
-      "duration_ms": 304533,
-      "name": "Vapor Barato",
-      "url": "https://open.spotify.com/track/2vhwNpHlTFGSwGffxVMIuM"
     },
     {
       "added_at": "2025-11-25 18:54:26",

@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-431 songs - 1 day 5 hr 36 min
+434 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Haki Jareh](https://open.spotify.com/track/2Ae93SYvUUS7J4u4h0mnHy) | [Borhan](https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi) | [Haki Jareh](https://open.spotify.com/album/0xIPVNzOXEp9GhpvKR2qBx) | 4:56 | 2021-12-23 | 2022-03-12 |
 | [Hal Jarhi](https://open.spotify.com/track/6BB2PW7vUYR0I9Yz9xwSK8) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Hal Jarhi](https://open.spotify.com/album/4ZUeA6F2MoE38fhmXcWm0V) | 4:29 | 2023-12-05 | 2024-06-25 |
 | [Hala Bek](https://open.spotify.com/track/2gNIpFX1xqfGKwUNPSHMXJ) | [Borhan](https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi) | [Hala Bek](https://open.spotify.com/album/5jx0W4QtPWYZrJOKCaq76F) | 4:05 | 2022-06-29 | 2023-01-13 |
+| [Hala Hala](https://open.spotify.com/track/5Ijbu7lhZ9UWi5PVNOCZco) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hala Hala](https://open.spotify.com/album/3eueSUlj4cCV1EM226qaON) | 3:06 | 2025-12-01 |  |
 | [Ham We Inzaah](https://open.spotify.com/track/64J16v8vzKE5TIniAZVIx0) | [مطرف المطرف](https://open.spotify.com/artist/5aXMgkXcyM23iEx7ZyzNh9) | [Ham We Inzaah](https://open.spotify.com/album/6g227LC1R1wY1PGRPRsPzv) | 4:36 | 2024-06-07 | 2025-04-08 |
 | [Hatet Yadak](https://open.spotify.com/track/0hnemjZiAz2E1jg83hsQl0) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Hatet Yadak](https://open.spotify.com/album/2yvDoecCouFgoSA8u84OJ7) | 4:32 | 2021-12-23 | 2022-02-11 |
 | [Hatha Al Kalam](https://open.spotify.com/track/4YfGPnOkFzM1SjwqpCSE7U) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Hatha Al Kalam](https://open.spotify.com/album/6XX6i3D0ovgR2Q4m7Mc26Q) | 3:45 | 2023-07-14 | 2024-02-07 |
@@ -241,6 +242,7 @@
 | [Momken Aeesh](https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Momken Aeesh](https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ) | 4:47 | 2025-01-16 |  |
 | [Mostafz Alnas](https://open.spotify.com/track/1x3qoGBof6SVqJYi6WvhyI) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Mostafz Alnas](https://open.spotify.com/album/6M6XVr2LDKXOkUb5C4PNrO) | 3:05 | 2024-05-16 | 2024-06-21 |
 | [Musalem](https://open.spotify.com/track/0dC9VMXaO0qua5e8a4DSuj) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Musalem](https://open.spotify.com/album/0bSzzGmaNi37uJznq5KbkR) | 3:40 | 2022-09-14 | 2023-03-25 |
+| [Mutar](https://open.spotify.com/track/4zyc2ENI9oLwXLQQKAUSTx) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Mutar](https://open.spotify.com/album/3KASa2YIj1PTTQx6eGnUMa) | 3:02 | 2025-12-01 |  |
 | [My People And My World](https://open.spotify.com/track/0xPWpqWvI3KSj1kv3SnPjG) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [My People And My World](https://open.spotify.com/album/2npyzyawAdH8O2nghXZRbX) | 5:05 | 2021-12-23 | 2022-06-04 |
 | [Nadak Qalbi](https://open.spotify.com/track/18Jd5WsemYkxI5Ty3OekPK) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Nadak Qalbi](https://open.spotify.com/album/4PttyaHnJgijuo8VoryAuR) | 3:50 | 2023-06-18 | 2024-01-06 |
 | [Nekhtelef](https://open.spotify.com/track/4b4ToL5Y9UJxWdi6KcFnUi) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [Nekhtelef](https://open.spotify.com/album/52Oiimt5jHOxCvDijrH7v2) | 3:31 | 2023-04-22 | 2023-04-24 |
@@ -404,6 +406,7 @@
 | [كل ما بغيت](https://open.spotify.com/track/1aKoHSI8NrQ6oxG5aoO98J) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [كل ما بغيت](https://open.spotify.com/album/3RpdGoFAU2TsKvdz3bnGNr) | 3:20 | 2025-07-16 |  |
 | [كل ما حاولت](https://open.spotify.com/track/5VvGnhgCaBzRcZDGRRdQSB) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [كل ما حاولت](https://open.spotify.com/album/0v25kgJ3D5upB1ryeET1VT) | 3:36 | 2025-10-17 |  |
 | [لبيه](https://open.spotify.com/track/0CZtin5PSGzCCHp0cxjHTT) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [لبيه](https://open.spotify.com/album/2julMTVNHEdU3D0vHOpyAd) | 3:47 | 2023-06-30 | 2024-02-01 |
+| [لما شفته](https://open.spotify.com/track/4tN8EZsbTYa3FSID88ueA8) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [لما شفته](https://open.spotify.com/album/0xzB9IlXZbdXMWBwbunzDL) | 2:52 | 2025-12-01 |  |
 | [ليلة وصالك](https://open.spotify.com/track/6BCDeCmDw39YPG2L4T1nGM) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC) | [ليلة وصالك](https://open.spotify.com/album/5j5SPlaI0ERnjeQdu0EzMZ) | 5:40 | 2024-02-21 | 2024-04-19 |
 | [ليه تسأل](https://open.spotify.com/track/2bTIVLvuEcirWIcrRy3RqU) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [ليه تسأل](https://open.spotify.com/album/1kaKgMDwbbPNJy7Iy3Ugsv) | 4:29 | 2025-11-06 |  |
 | [ما طرا لك](https://open.spotify.com/track/7mCgHEktGmzif4F4gZbhM4) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [ما طرا لك](https://open.spotify.com/album/0y6IIvasAsbnqt84FzEDzX) | 3:53 | 2025-11-06 |  |

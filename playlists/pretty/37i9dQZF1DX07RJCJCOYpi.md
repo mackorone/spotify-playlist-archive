@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: RØZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,828,676 likes - 109 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,828,368 likes - 109 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 20 | [Bitch](https://open.spotify.com/track/6CB9r4IC3iHpKjowIVinOV) | [Private Music](https://open.spotify.com/artist/1eKjyHjZxxy9jt85oWnF1L), [Joonyes](https://open.spotify.com/artist/3blefdKESIFMEPBM11UYw9) | [Bitch](https://open.spotify.com/album/2lfxXTo48Acq4YZXO4wkSJ) | 3:45 |
 | 21 | [Amazonas Tic Tic Tac](https://open.spotify.com/track/3Umr6JkfbUhDQdfGOSVSq9) | [Gaia Music](https://open.spotify.com/artist/4plmCc0XXDEHO2MF0mNpgp) | [Amazonas Tic Tic Tac](https://open.spotify.com/album/0UZLUDSyq90prpzxAMMu8C) | 4:07 |
 | 22 | [Como Tú](https://open.spotify.com/track/0B579r7pTXXfLY4bP90rOA) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [For Siempre, Pt\. 1](https://open.spotify.com/album/47ckEmuDKYDwnwIFgb05iY) | 1:44 |
-| 23 | [Baile Bounce](https://open.spotify.com/track/4JAi6fdEddk9XpW23KYq2E) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U), [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7) | [Baile Bounce](https://open.spotify.com/album/7BTKwaSJQBJvzMxVb82sVE) | 2:14 |
+| 23 | [Baile Bounce](https://open.spotify.com/track/4JAi6fdEddk9XpW23KYq2E) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U), [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7), [CASA AMIGOS](https://open.spotify.com/artist/1GfmUaYy7OeBPTwqDrjiE3) | [Baile Bounce](https://open.spotify.com/album/7BTKwaSJQBJvzMxVb82sVE) | 2:14 |
 | 24 | [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 |
 | 25 | [BadWine](https://open.spotify.com/track/5jybZsapWD8m1cR9d6dBY9) | [QMore](https://open.spotify.com/artist/1ekErPx4RqDpWKZ5PYuCp4), [Jcobig](https://open.spotify.com/artist/0HDg3f3YQ4qwatZYu7MNrU), [Ocampox](https://open.spotify.com/artist/5LJXciySoBoGMMvs9uh8p8), [Private Music](https://open.spotify.com/artist/1eKjyHjZxxy9jt85oWnF1L), [La S](https://open.spotify.com/artist/2Lf0fdQeNoqFrCShG6bzTA) | [BadWine](https://open.spotify.com/album/7eiSGu4pJ56D4zUMWDxiV5) | 2:36 |
 | 26 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |

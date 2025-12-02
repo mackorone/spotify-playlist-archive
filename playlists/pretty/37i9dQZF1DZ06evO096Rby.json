@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 50299,
+  "num_followers": 50335,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAABwmU85rjX+i4EASTBX1cfg",
+  "snapshot_id": "aSuJAAAAAAAbTASgE2/GfkVmuaTbdD7E",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Kitty",
-        "url": "https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 158409,
-      "name": "Hello Kitty",
-      "url": "https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eres Veneno",
         "url": "https://open.spotify.com/album/5sNmy4jQLyHYV83lLNyct9"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 125428,
       "name": "Eres Veneno",
       "url": "https://open.spotify.com/track/5DJCbtz1sF20CsDI0GGbnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Kitty",
+        "url": "https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 158409,
+      "name": "Hello Kitty",
+      "url": "https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 150950,
+      "name": "Paz En Este Amor - En Vivo",
+      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Que Color Es La Suerte",
         "url": "https://open.spotify.com/album/7Luhi6dMH1sWR1KhrWrGOD"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 221617,
       "name": "De Que Color Es La Suerte",
       "url": "https://open.spotify.com/track/2RhyI9fUK2bEn6blowOh9w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 150950,
-      "name": "Paz En Este Amor - En Vivo",
-      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "El Vaso Derrama - En Vivo",
+      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ajustad\u00f3n",
         "url": "https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 159685,
       "name": "Ajustad\u00f3n",
       "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "El Vaso Derrama - En Vivo",
-      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
     },
     {
       "added_at": null,

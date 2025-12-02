@@ -1,12 +1,12 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 22201,
+  "num_followers": 22202,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAAjde5JwbI63BzNvVRX2Q3l",
+  "snapshot_id": "aSuJAAAAAACqwUsX7b8EjS4JuyEZhfGt",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 287040,
-      "name": "\u30ab\u30ca\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/4vn0eCi3dRwGDHdyskh3Oy"
+      "duration_ms": 277480,
+      "name": "SWEET HURT",
+      "url": "https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 277480,
-      "name": "SWEET HURT",
-      "url": "https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc"
+      "duration_ms": 287040,
+      "name": "\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/4vn0eCi3dRwGDHdyskh3Oy"
     },
     {
       "added_at": null,
@@ -707,22 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+        "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
+        "url": "https://open.spotify.com/album/1SQyPCQJp2Me9K52zBCAIA"
       },
       "artists": [
-        {
-          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
-          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
-        },
         {
           "name": "ReoNa",
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 257372,
-      "name": "Dancer in the Discord",
-      "url": "https://open.spotify.com/track/7KmzkpVC89akEovfbwTFG7"
+      "duration_ms": 640626,
+      "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/2pcSKo69fqz0J8t0ZwheFg"
     },
     {
       "added_at": null,
@@ -747,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
-        "url": "https://open.spotify.com/album/1SQyPCQJp2Me9K52zBCAIA"
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
       },
       "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
         {
           "name": "ReoNa",
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 640626,
-      "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
-      "url": "https://open.spotify.com/track/2pcSKo69fqz0J8t0ZwheFg"
+      "duration_ms": 257372,
+      "name": "Dancer in the Discord",
+      "url": "https://open.spotify.com/track/7KmzkpVC89akEovfbwTFG7"
     },
     {
       "added_at": null,

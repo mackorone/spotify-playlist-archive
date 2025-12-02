@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,498 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,493 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 12 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 13 | [Wings](https://open.spotify.com/track/7pADYTP4U0LAMRbWigXGXn) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [AFTEREFFECT](https://open.spotify.com/album/4jogTxUefvshTl4NuNyxjN) | 3:42 |
 | 14 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 |
-| 15 | [Cosmic Underdog](https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:13 |
-| 16 | [Let Me Love My Youth](https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57) | 4:08 |
+| 15 | [Let Me Love My Youth](https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57) | 4:08 |
+| 16 | [Cosmic Underdog](https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:13 |
 | 17 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 |
 | 18 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 |
 | 19 | [Love poem](https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:18 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 31 | [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 |
 | 32 | [Slow](https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Slow](https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r) | 4:01 |
 | 33 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 |
-| 34 | [Take You Home](https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Take You Home \- SM STATION](https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK) | 3:54 |
-| 35 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
+| 34 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
+| 35 | [Take You Home](https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Take You Home \- SM STATION](https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK) | 3:54 |
 | 36 | [Amateur](https://open.spotify.com/track/6lUpyKNgcksg3w9HPq2p3m) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [Resident Playbook, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/022Jz3R8RUtbFmxsH0Vj0l) | 4:03 |
 | 37 | [I will listen never alone](https://open.spotify.com/track/5Ny8dTK7mUgpL04RV07gee) | [Mirae Yoon](https://open.spotify.com/artist/7spkVN3BEcaQ4yWSzxPwra) | [Who Are You : School 2015 \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/5rbk6PfoQk7m9KB6iaC6eG) | 3:14 |
 | 38 | [Waterfall](https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm) | 3:17 |

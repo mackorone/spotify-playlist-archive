@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,394 likes - 340 songs - 21 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,396 likes - 340 songs - 21 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,16 +107,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 97 | [Hostage](https://open.spotify.com/track/42PnVxGUSKziKSKXCNXoob) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 2:56 |
 | 98 | [Opportunity](https://open.spotify.com/track/4RlEfpp0p8TzRwseTUA4fp) | [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:06 |
 | 99 | [Fear](https://open.spotify.com/track/5WfBl43XUcWng7OnB8LKNW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Fear](https://open.spotify.com/album/2wmvVAqB2sAiJQpp2pRWcD) | 4:40 |
-| 100 | [Confetti](https://open.spotify.com/track/3kikZxz3Sg6lwG72ZLssIL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:06 |
-| 101 | [Puppies Are Forever](https://open.spotify.com/track/5Uj1LL6HaSFYlfyC6o42ZC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:43 |
+| 100 | [Puppies Are Forever](https://open.spotify.com/track/5Uj1LL6HaSFYlfyC6o42ZC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:43 |
+| 101 | [Confetti](https://open.spotify.com/track/3kikZxz3Sg6lwG72ZLssIL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:06 |
 | 102 | [Sunshine](https://open.spotify.com/track/0ApkFFU362NocXTexqWPYn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:25 |
 | 103 | [Double Rainbow](https://open.spotify.com/track/7B8TA3WaoMiKZ3wfnF7PgN) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:51 |
 | 104 | [Courage](https://open.spotify.com/track/3wNPirSnPtlJOS2PSBQGqG) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 4:19 |
 | 105 | [Battle Cry](https://open.spotify.com/track/13kiXTWqDhjZFh6A8dsJvl) | [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dirty Gold \(Deluxe\)](https://open.spotify.com/album/44OLN0q78wTRrMcAWzSDLy) | 4:52 |
 | 106 | [Straight for the Knife](https://open.spotify.com/track/6AAl7AECcCH7mVGNqHGmaI) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:31 |
 | 107 | [Déjà Vu](https://open.spotify.com/track/60XMmxciP1qewvkcD16qKQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:17 |
-| 108 | [The Girl You Lost To Cocaine](https://open.spotify.com/track/3o9JsjPISLo2T9rcXLDT0a) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 2:40 |
-| 109 | [Underneath the Christmas Lights](https://open.spotify.com/track/1KuPjp2SyimuFq2Hh62Tym) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:36 |
+| 108 | [Underneath the Christmas Lights](https://open.spotify.com/track/1KuPjp2SyimuFq2Hh62Tym) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:36 |
+| 109 | [The Girl You Lost To Cocaine](https://open.spotify.com/track/3o9JsjPISLo2T9rcXLDT0a) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 2:40 |
 | 110 | [about u](https://open.spotify.com/track/7fYqZ0lXT0gJOaQidAfDXM) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [about u](https://open.spotify.com/album/1hvviILsmIrfuD9z3E3Oxg) | 3:14 |
 | 111 | [Hold On \- Sub Focus Remix](https://open.spotify.com/track/4D1YzHNXLlBLlLlatzlyj0) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [O.M.G.!](https://open.spotify.com/album/07BD9T4zyqIl3bIbSrwgmw) | 4:27 |
 | 112 | [Fair Game](https://open.spotify.com/track/3N1bQ9rnwVXIKClKx6vcpG) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:51 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 132 | [Midnight Decisions](https://open.spotify.com/track/5rVElqSBdfsDALQfc7z2ZQ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:42 |
 | 133 | [Cannonball \- From The "Home" Soundtrack](https://open.spotify.com/track/2x4elpH0Q4CCCvHsI9GyA8) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1CqBtwIeVnXDzORWTO8Rpo) | 3:57 |
 | 134 | [MTG \- ELASTIC HEART](https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw) | [Lucas Hits](https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H) | [MTG \- ELASTIC HEART](https://open.spotify.com/album/7qKgwyMMABXE0gsBBrhaKd) | 1:20 |
-| 135 | [Knock You Out](https://open.spotify.com/track/1iNPlFDLDGjnJZbt11SU1e) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [Knock You Out](https://open.spotify.com/album/3yD752ODQgnGdaVNcMSrwo) | 2:50 |
-| 136 | [My Old Santa Claus](https://open.spotify.com/track/3lhTIJepO4zHFK7sllezGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:24 |
+| 135 | [My Old Santa Claus](https://open.spotify.com/track/3lhTIJepO4zHFK7sllezGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:24 |
+| 136 | [Knock You Out](https://open.spotify.com/track/1iNPlFDLDGjnJZbt11SU1e) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [Knock You Out](https://open.spotify.com/album/3yD752ODQgnGdaVNcMSrwo) | 2:50 |
 | 137 | [I Forgive You](https://open.spotify.com/track/735axlkSRsqMIYwci9pQ9Y) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 4:19 |
 | 138 | [Welcome to the Wonderful World of \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2mMQFumTaHcwMZsiNE57Um) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 1:56 |
 | 139 | [Freeze You Out](https://open.spotify.com/track/36FL3mxfAupY7iA8b6K9BS) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 4:07 |
@@ -349,4 +349,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 339 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 340 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcDAUAAAAABKQZdp29e+S3gipDsCorG8`
+Snapshot ID: `AcDF8AAAAADtxTVAsiGysy2yjfwdvltt`

@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 21 | [All the Things You'd Ruin](https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn) | 2:46 |
 | 22 | [poltergeist](https://open.spotify.com/track/3vp3r5tiCAHDNHtqhBk6rv) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:33 |
 | 23 | [Introduction](https://open.spotify.com/track/7FVYj2QfqGOfC06kiX4u14) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 1:15 |
-| 24 | [American in Paris](https://open.spotify.com/track/0qmiXuQjdromX08E2ZjZ4j) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j) | 2:44 |
-| 25 | [Cautiously Optimistic](https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x) | 2:25 |
+| 24 | [Cautiously Optimistic](https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x) | 2:25 |
+| 25 | [American in Paris](https://open.spotify.com/track/0qmiXuQjdromX08E2ZjZ4j) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j) | 2:44 |
 | 26 | [DO YOU LIKE ME?](https://open.spotify.com/track/3apkBldyjHqAn57yzVtYGH) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:57 |
 | 27 | [HRDCR](https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Oliver Price](https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg), [Thomas Greenwood](https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr) | [Pop Drama](https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5) | 3:40 |
 | 28 | [Cool 4 U](https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG) | 2:19 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 30 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 |
 | 31 | [Because of Me](https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j) | 3:02 |
 
-Snapshot ID: `aSo3gAAAAAC+oZSq4A1j18ZDSgCTqENB`
+Snapshot ID: `aSuJAAAAAACnsNbhux5OvjS7BFqiVEoO`

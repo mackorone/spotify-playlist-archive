@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 
 > This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,954,708 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,954,484 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 23 | [the remedy for a broken heart \(why am I so in love\)](https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:40 |
 | 24 | [Carry On](https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:09 |
 | 25 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
-| 26 | [The Way \(with XXXTENTACION\)](https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Legends Never Die \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18) | 3:50 |
-| 27 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 |
+| 26 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 |
+| 27 | [The Way \(with XXXTENTACION\)](https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Legends Never Die \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18) | 3:50 |
 | 28 | [Triumph](https://open.spotify.com/track/3arQDLbkZnujJVfhoyEDlM) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:46 |
 | 29 | [what are you so afraid of](https://open.spotify.com/track/57nOpVSc3j9o03Cr928ZM4) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 2:30 |
 | 30 | [YuNg BrAtZ](https://open.spotify.com/track/2ooF4088y5L72c4YTEJQoB) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 49 | [Take A Step Back](https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h) | 3:30 |
 | 50 | [NEVER](https://open.spotify.com/track/5J4tp32gF3lWNk4RqvsjsO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 3:40 |
 
-Snapshot ID: `aSo3gAAAAADvorIbvWMWzjIpDtUE+r+2`
+Snapshot ID: `aSuJAAAAAABogaR0azAEMnK9PzbUpUyp`

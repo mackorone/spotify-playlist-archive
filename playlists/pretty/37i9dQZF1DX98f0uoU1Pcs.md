@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: bar italia
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,849 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,850 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,17 +37,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 27 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 28 | [New York, Let's Do Nothing](https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Big Swimmer](https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc) | 3:22 |
 | 29 | [In My Pocket](https://open.spotify.com/track/2ZO4EidiOqngPkhNlSY5Zl) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Bite Reality](https://open.spotify.com/album/6i7UnNlsaT8MbI5TKtX3rM) | 3:58 |
-| 30 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 |
-| 31 | [Jesse](https://open.spotify.com/track/71h0heg5nqZ8JwuXahMWD9) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [4D Country](https://open.spotify.com/album/4K2SDO8BFmI5oJsAHJieHp) | 2:55 |
+| 30 | [Jesse](https://open.spotify.com/track/71h0heg5nqZ8JwuXahMWD9) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [4D Country](https://open.spotify.com/album/4K2SDO8BFmI5oJsAHJieHp) | 2:55 |
+| 31 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 |
 | 32 | [Steamroller](https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 3:25 |
-| 33 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 |
-| 34 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
+| 33 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
+| 34 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 |
 | 35 | [Man with Hands and Ankles Bound](https://open.spotify.com/track/2JoqNFdzlNjkLryxXDii1b) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [No One Was Driving The Car](https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN) | 3:18 |
 | 36 | [Pumpkin](https://open.spotify.com/track/3ojxLlQYFkLh8WiYlkx2Yz) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:17 |
 | 37 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 |
 | 38 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
-| 39 | [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 |
-| 40 | [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/track/2gaY4NhYEGJvxKbur1GKJE) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/album/1yo6Z11R4lcfGB938jqazC) | 3:50 |
+| 39 | [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/track/2gaY4NhYEGJvxKbur1GKJE) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/album/1yo6Z11R4lcfGB938jqazC) | 3:50 |
+| 40 | [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 |
 | 41 | [There’s No More Underground](https://open.spotify.com/track/3FRVbgqA7pVAJ0VBnXsrIK) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [There’s No More Underground](https://open.spotify.com/album/5euflJlUQaylKswQycK6oS) | 2:14 |
 | 42 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 |
 | 43 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 80 | [Crashing Highs](https://open.spotify.com/track/7aeDHsVnCToDJIV5fLalnZ) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Crashing Highs](https://open.spotify.com/album/1h98ixZPZWOAAp29e0cZoU) | 3:01 |
 | 81 | [Ceathair](https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Tír na nÓg](https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96) | 5:20 |
 | 82 | [Earthling](https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Earthling](https://open.spotify.com/album/3hexPg1F7lMWXJFDpHSlOQ) | 3:31 |
-| 83 | [GET OFF MY WAVE](https://open.spotify.com/track/0TVYQ6ueruXc4jtAOIWstD) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIX ME / GET OFF MY WAVE](https://open.spotify.com/album/5OA0rkVY8HljR7QEuFIqXl) | 2:18 |
-| 84 | [Le feu](https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:50 |
-| 85 | [Tired](https://open.spotify.com/track/75Hb6zfkNVghWhkxaye8O2) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Tired](https://open.spotify.com/album/4h8WaLQ7LtzgiWsS40HGTz) | 2:11 |
-| 86 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 |
+| 83 | [Le feu](https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:50 |
+| 84 | [GET OFF MY WAVE](https://open.spotify.com/track/0TVYQ6ueruXc4jtAOIWstD) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIX ME / GET OFF MY WAVE](https://open.spotify.com/album/5OA0rkVY8HljR7QEuFIqXl) | 2:18 |
+| 85 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 |
+| 86 | [Tired](https://open.spotify.com/track/75Hb6zfkNVghWhkxaye8O2) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Tired](https://open.spotify.com/album/4h8WaLQ7LtzgiWsS40HGTz) | 2:11 |
 | 87 | [Break the Tension](https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Break the Tension](https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo) | 3:45 |
 | 88 | [Light Your Way Home](https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Up On Gravity Hill](https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN) | 5:08 |
 | 89 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Jaakko Kulta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,647 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,641 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Muusa](https://open.spotify.com/track/5Kg7XEdypuPNZKJfVPQvTF) | [SÄÄDÖT](https://open.spotify.com/artist/7gs2lkVVM12MZuU1xFT4vb) | [SÄÄDÖT](https://open.spotify.com/album/6A8d1Bkesve4w6H0rZVEpD) | 4:44 |
 | 80 | [Tilttiin](https://open.spotify.com/track/3xC2yYiPgrTdiltspGyzdS) | [Saa Kiljua](https://open.spotify.com/artist/1IEcL95T535T1IVAtXxWbP) | [Ihmisroska](https://open.spotify.com/album/6mvhRAOpWIwOKiaazXaCMJ) | 2:48 |
 
-Snapshot ID: `AAAAAAyW5BU9QOOtSi/6MUzWc1tYW3Po`
+Snapshot ID: `AAAAAJZHdvwfzu1kBtW8eTGyzEqz07mE`

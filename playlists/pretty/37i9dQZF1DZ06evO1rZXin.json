@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACkB+YQ5OAPgWvffFQntHxH",
+  "snapshot_id": "aSuJAAAAAACD1psG5bpqin2gCqeNmIFR",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "El Mero Mero",
-      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La V\u00edbora Peligrosa",
         "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 149084,
       "name": "La V\u00edbora Peligrosa",
       "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
     },
     {
       "added_at": null,

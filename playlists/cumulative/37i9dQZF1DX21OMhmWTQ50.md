@@ -4,7 +4,7 @@
 
 > Gentle festive piano music to keep you focused this holiday season☕️✨
 
-66 songs - 2 hr 54 min
+67 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Sans Day Carol](https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:41 | 2025-10-22 |  |
 | [Santa Baby](https://open.spotify.com/track/6iRD5O0I3iYZUvkhmqhc79) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [Santa Baby](https://open.spotify.com/album/0jmp1r3wPuxnXh43Wp0Oid) | 2:23 | 2025-10-22 |  |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/6InFfsRNEmoInEkViOLXhH) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [Santa Claus Is Coming to Town](https://open.spotify.com/album/0aBnWUHUHQ44ZM4aJWPRLo) | 1:54 | 2025-10-22 |  |
+| [Santa Doesn't Know You Like I Do](https://open.spotify.com/track/7kfwGTuBVH7G4P3IC23oqh) | [Davy Burns](https://open.spotify.com/artist/3i1joJ76xcNJLuBNHlQ5Pi) | [Santa Doesn't Know You Like I Do](https://open.spotify.com/album/21gOnh6LjPUlv9PjjV2VHt) | 5:00 | 2025-12-01 |  |
 | [See You Again](https://open.spotify.com/track/5DIbLerPdwMXuMsAvF4qIK) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 3:13 | 2025-11-13 |  |
 | [Shepherd's Voice](https://open.spotify.com/track/4J9xD4Tan4PeZG339g24qa) | [Joel Carrington](https://open.spotify.com/artist/09DPxIQWwKpQSRHsn5CNcf) | [Shepherd's Voice](https://open.spotify.com/album/3ko3x5Oy57SF0x07WlnUI9) | 2:11 | 2025-11-13 |  |
 | [Silent Night](https://open.spotify.com/track/56bebkBfoARRQs2vanbxbG) | [Franz Xaver Gruber](https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 2:56 | 2025-10-22 |  |

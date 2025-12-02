@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Aspova
 
-795 songs - 1 day 11 hr 57 min
+796 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Beat Bar \#2](https://open.spotify.com/track/0ypjetQBKsAj9zebFnlQ6O) | [Dr\. Fuchs](https://open.spotify.com/artist/51o6QF11Nswx5jMlp6rAL8) | [Beat Bar \#2](https://open.spotify.com/album/5n1dfhumSwNepQaOXm08Ls) | 1:08 | 2025-10-30 | 2025-11-07 |
 | [behzat ç](https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [behzat ç](https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW) | 2:06 | 2024-07-04 | 2024-11-08 |
 | [BELLYDANCE](https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [BELLYDANCE](https://open.spotify.com/album/7vKX8Z5lmyEPCmNfVjP8vq) | 2:27 | 2025-05-22 |  |
+| [Ben Anlamam](https://open.spotify.com/track/0WSCJshw0LkgQVFaVam4Tx) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [dj.young.mes](https://open.spotify.com/artist/1qpk2zMYWrRoELQMaPZz72) | [Ben Anlamam](https://open.spotify.com/album/5jzCX7DCuD1dtrKPHom08c) | 3:19 | 2025-12-01 |  |
 | [BEN BENİ](https://open.spotify.com/track/319j1tobYOtrISSZVihH1i) | [Yener Çevik](https://open.spotify.com/artist/5rBUMBV7L6zPsEKnlgiOm9), [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg) | [BEN BENİ](https://open.spotify.com/album/4AgQ5CdJWvHGLI1lI6KDlM) | 2:20 | 2023-12-12 | 2024-01-05 |
 | [Bench Press](https://open.spotify.com/track/5DkuYrfGZrg6xTWpvRsIkk) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Bench Press](https://open.spotify.com/album/3GtEfsHdYR6TIHSk2IcJ62) | 2:50 | 2025-07-31 | 2025-08-16 |
 | [Beni Bana Bırak P2](https://open.spotify.com/track/1xUJeN44DEWTZnTJEj957n) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw), [SALİ](https://open.spotify.com/artist/6ppkNaM5kypGlnXcDhgU5n) | [Beni Bana Bırak P2](https://open.spotify.com/album/1TGmNOY5ZHVNhkHlmnP8vJ) | 2:18 | 2025-11-13 | 2025-11-28 |
@@ -730,7 +731,7 @@
 | [VOLTRAN](https://open.spotify.com/track/0uvfNcdpbZJmWxUa5yRNoh) | [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk), [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3), [Ceza](https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI) | [NORMAL](https://open.spotify.com/album/6UVeWzWjvi2bjceybwm9Ag) | 4:04 | 2024-04-11 | 2024-04-26 |
 | [VUR](https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [VUR](https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr) | 3:10 | 2023-01-10 | 2023-12-15 |
 | [VUR](https://open.spotify.com/track/6qYsT8Znb8rApEGEsrXGI6) | [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [LOTUS](https://open.spotify.com/album/6JXAFNgbb6e6WLbwneCygV) | 2:41 | 2023-09-28 | 2023-11-11 |
-| [WAG1](https://open.spotify.com/track/4yrIO5r0yw9MBKJ1nrHcF7) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT) | [WAG1](https://open.spotify.com/album/1DFSUGasEQxrOfFkXQiDPT) | 2:06 | 2025-08-07 |  |
+| [WAG1](https://open.spotify.com/track/4yrIO5r0yw9MBKJ1nrHcF7) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT) | [WAG1](https://open.spotify.com/album/1DFSUGasEQxrOfFkXQiDPT) | 2:06 | 2025-08-07 | 2025-12-02 |
 | [WALTER WHITE](https://open.spotify.com/track/40cvbS9VhRyV9Uqg5MQAKw) | [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m), [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [SİMÜLASYON](https://open.spotify.com/album/7J4wkdCK6o8X5QKyapKpde) | 4:00 | 2024-04-18 | 2024-05-03 |
 | [WOW](https://open.spotify.com/track/3L7K5kazMNFbZrYk6jCWKB) | [Fredo](https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6), [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [WOW](https://open.spotify.com/album/2fT5GS1iEmHWQWvRL2oJlC) | 2:52 | 2024-05-16 | 2024-06-01 |
 | [Wow](https://open.spotify.com/track/3YRJu4unaNFTWXPN46DvWa) | [TRAP ZONE](https://open.spotify.com/artist/2Rf5bF15wJxPz4LQatGKSt), [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [TRAP ZONE](https://open.spotify.com/album/7AL4rusMDUiuGhwAplwvry) | 3:48 | 2025-05-15 | 2025-05-30 |

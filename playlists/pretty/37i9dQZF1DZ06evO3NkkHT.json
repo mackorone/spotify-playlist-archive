@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 71160,
+  "num_followers": 71218,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAADdsqNBjzeUzSvnd6sorBu2",
+  "snapshot_id": "aSuJAAAAAACBSOjjrYRJio1d4Op1r63c",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 137716,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy",
         "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 126000,
       "name": "Pray Hard (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/6p6iLtRA7a93kXhkomJUPo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 137716,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Stepper",
-        "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
+        "name": "I Hope You're Happy (Deluxe)",
+        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 130774,
-      "name": "Big Stepper",
-      "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
+      "duration_ms": 122266,
+      "name": "From The Bottom",
+      "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Stepper",
+        "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 130774,
+      "name": "Big Stepper",
+      "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 108133,
       "name": "Therapy Session",
       "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Hope You're Happy (Deluxe)",
-        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 122266,
-      "name": "From The Bottom",
-      "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
     },
     {
       "added_at": null,

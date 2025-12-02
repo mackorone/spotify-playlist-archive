@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 
 > This is Binomio de Oro de América\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,888 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,893 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 | 26 | [Y No Regresas](https://open.spotify.com/track/2jnRsLF9SldwnS129Utsqi) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:57 |
 | 27 | [No Te Quiero Perder](https://open.spotify.com/track/0OF0Y4tv6s2mWWOmVzUAMA) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 5:06 |
 | 28 | [No Puedo Olvidarla](https://open.spotify.com/track/1fbGlN6KJzmelg4tCSs2ck) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:39 |
-| 29 | [Como Hago?](https://open.spotify.com/track/61PSeaG0rMXe7KYfmLpXir) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ), [Gigantes Del Vallenato](https://open.spotify.com/artist/5Xze4GSrC0iPwUdulpUxSu) | [Solo Hits](https://open.spotify.com/album/0TuwCPLmXFqqbbeVuQjAR3) | 4:49 |
+| 29 | [Locamente Enamorado](https://open.spotify.com/track/6S4mHl2osunAmz5vx928tH) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Lo Nuestro](https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN) | 4:40 |
 | 30 | [Tres Palabras](https://open.spotify.com/track/1PM7WVCkmMmsWnnbh54FqC) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:41 |
-| 31 | [Locamente Enamorado](https://open.spotify.com/track/6S4mHl2osunAmz5vx928tH) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Lo Nuestro](https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN) | 4:40 |
+| 31 | [Como Hago?](https://open.spotify.com/track/61PSeaG0rMXe7KYfmLpXir) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ), [Gigantes Del Vallenato](https://open.spotify.com/artist/5Xze4GSrC0iPwUdulpUxSu) | [Solo Hits](https://open.spotify.com/album/0TuwCPLmXFqqbbeVuQjAR3) | 4:49 |
 | 32 | [Amigo el Corazón](https://open.spotify.com/track/4N4HpuGlzf9lOmVTvrta2K) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 4:55 |
 | 33 | [Un Recuerdo Que Mata](https://open.spotify.com/track/6olio6TmfjrE5Jmnq3F1VV) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [En Todo Su Esplendor](https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v) | 4:39 |
 | 34 | [No Te Vayas](https://open.spotify.com/track/235RP8gmp1yl5wWvp9oLh7) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Todo Corazón](https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD) | 4:06 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 | 46 | [Celos](https://open.spotify.com/track/0ZrddFVnZp5galGScp8NK5) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [De La Mano Con El Pueblo](https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8) | 5:19 |
 | 47 | [Acuerdate De Mi](https://open.spotify.com/track/4A8lkKChFBIOniZvmhD0mD) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 4:49 |
 | 48 | [El Forastero](https://open.spotify.com/track/6uz1ZeeLDnuadYCDXi83aH) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Lo Nuestro](https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN) | 4:55 |
-| 49 | [Jamás Imaginé](https://open.spotify.com/track/421cZGDH9uq3gVNOG8zvm2) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [En Todo Su Esplendor](https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v) | 4:27 |
+| 49 | [Que Bonito](https://open.spotify.com/track/0Mwsok9mGp5jpyVWBQqCID) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Todo Corazón](https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD) | 4:53 |
 | 50 | [Solo Por Ti](https://open.spotify.com/track/5biz82cvckw47XRp26iJwT) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [De La Mano Con El Pueblo](https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8) | 5:02 |
 
-Snapshot ID: `aSo3gAAAAADxC9/IqsGHAWKyhSudgEPD`
+Snapshot ID: `aSuJAAAAAACJbnPMLqfMvjjr3HbaBrt3`

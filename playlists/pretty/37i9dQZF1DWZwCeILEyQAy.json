@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: PLUTO",
-  "num_followers": 462584,
+  "num_followers": 462525,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,26 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "Sexyy Love Money (feat. VonOff1700)",
+      "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
         "name": "BACK OUTSIDE (feat. Latto)",
         "url": "https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 171428,
       "name": "I AIN\u2019T GOING",
       "url": "https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        }
-      ],
-      "duration_ms": 164002,
-      "name": "Sexyy Love Money (feat. VonOff1700)",
-      "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
     },
     {
       "added_at": "2025-06-20 04:00:58",

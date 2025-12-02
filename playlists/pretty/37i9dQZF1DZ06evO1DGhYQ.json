@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9276,
+  "num_followers": 9274,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAC2M1BlARTc868yK9Ciu3hK",
+  "snapshot_id": "aSuJAAAAAAA8tuhJoZP+hSrSjyH1Zpq1",
   "tracks": [
     {
       "added_at": null,
@@ -499,26 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOST IN PARADISE",
-        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u306a\u307f\u3061\u3048",
-          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
-        },
-        {
-          "name": "GOMESS",
-          "url": "https://open.spotify.com/artist/37cFtvT8bs2rU39mvPLN0I"
         }
       ],
-      "duration_ms": 347706,
-      "name": "FAITH",
-      "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
+      "duration_ms": 189466,
+      "name": "Jungle Love",
+      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
     },
     {
       "added_at": null,
@@ -559,18 +551,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Side",
-        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+        "name": "LOST IN PARADISE",
+        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u306a\u307f\u3061\u3048",
+          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
+        },
+        {
+          "name": "GOMESS",
+          "url": "https://open.spotify.com/artist/37cFtvT8bs2rU39mvPLN0I"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Jungle Love",
-      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
+      "duration_ms": 347706,
+      "name": "FAITH",
+      "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
-        }
-      ],
-      "duration_ms": 289300,
-      "name": "FOUND BLUE",
-      "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MY LIFE. MY DESTINY",
         "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 239600,
       "name": "MY LIFE. MY DESTINY",
       "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "duration_ms": 289300,
+      "name": "FOUND BLUE",
+      "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
     },
     {
       "added_at": null,

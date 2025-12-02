@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,639 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,650 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 49 | [Heaven Thunder](https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Heaven Thunder](https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC) | 3:37 |
 | 50 | [Palinodes](https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU) | 0:32 |
 
-Snapshot ID: `aSo3gAAAAABk5XGVngNi88mYrPVjYeDB`
+Snapshot ID: `aSuJAAAAAADAk+X4BB/iYHDUtOWXtTAi`

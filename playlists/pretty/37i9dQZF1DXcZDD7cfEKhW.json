@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: RAYE",
-  "num_followers": 4044627,
+  "num_followers": 4044373,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -485,26 +485,6 @@
       "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
     },
     {
-      "added_at": "2025-10-31 04:00:33",
-      "album": {
-        "name": "Camera (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/17w0kQfQhwj2ptpp0eFt3n"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 163948,
-      "name": "Camera (CYRIL Remix)",
-      "url": "https://open.spotify.com/track/6J1L5q4tDfn2mfP9mFDZAF"
-    },
-    {
       "added_at": "2025-09-05 13:32:53",
       "album": {
         "name": "Sinnerman (Sofi Tukker Remix)",
@@ -523,6 +503,26 @@
       "duration_ms": 232632,
       "name": "Sinnerman - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
+    },
+    {
+      "added_at": "2025-10-31 04:00:33",
+      "album": {
+        "name": "Camera (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/17w0kQfQhwj2ptpp0eFt3n"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 163948,
+      "name": "Camera (CYRIL Remix)",
+      "url": "https://open.spotify.com/track/6J1L5q4tDfn2mfP9mFDZAF"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "Goodies",
+      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
         "name": "Hold Me Closer (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 248594,
       "name": "Hold Me Closer - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "Goodies",
-      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
     },
     {
       "added_at": "2025-09-05 13:32:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: The Dream Life of Mr.Kim\(서울 자가에 대기업 다니는 김부장\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,731,850 likes - 101 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,731,681 likes - 101 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 100 | [BamBamBam](https://open.spotify.com/track/66MnBhmfJPdBSP1HLzFUD1) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [The First Night With The Duke \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2xi6m9KfCxbzuieSDZKCGl) | 3:21 |
 | 101 | [Be Your Shade \(The Haunted Palace : Original Television Soundtrack\)](https://open.spotify.com/track/1IbjQvZ1CfeA6xnbEzdI1O) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The Haunted Palace OST Part.2](https://open.spotify.com/album/4a2NGtb8PGlEmKAuJVl09P) | 3:36 |
 
-Snapshot ID: `AAAAAJ6dmJOMj8aQ9CETefnLsxqCx7UX`
+Snapshot ID: `AAAAAANTj8+kCQuWFbWrE8LcuhSepbAP`

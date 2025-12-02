@@ -1,6 +1,6 @@
 {
   "description": "Muy a mi nivel \ud83d\udc8b\u2728 ",
-  "num_followers": 123494,
+  "num_followers": 123528,
   "original_name": "Playlist de chava ",
   "owner": {
     "name": "Spotify",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Te Aprovechas",
+      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
         "name": "Por Dentro",
         "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Te Aprovechas",
-      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "el cielo",
-        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "el cielo",
-      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 179320,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Stripper",
-        "url": "https://open.spotify.com/album/7hfdNJlk2bgIMsd4JlMawm"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 166181,
-      "name": "Stripper",
-      "url": "https://open.spotify.com/track/2EUpRR7YI821jsIHJvwSPI"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Hermanas de leche",
         "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 165318,
       "name": "Hermanas de leche",
       "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Stripper",
+        "url": "https://open.spotify.com/album/7hfdNJlk2bgIMsd4JlMawm"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 166181,
+      "name": "Stripper",
+      "url": "https://open.spotify.com/track/2EUpRR7YI821jsIHJvwSPI"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
+        "name": "Monica Naranjo",
+        "url": "https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz"
+      },
+      "artists": [
+        {
+          "name": "Monica Naranjo",
+          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "Solo Se Vive una Vez",
+      "url": "https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
         "name": "Ride Or Die",
         "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 184510,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "Monica Naranjo",
-        "url": "https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz"
-      },
-      "artists": [
-        {
-          "name": "Monica Naranjo",
-          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Solo Se Vive una Vez",
-      "url": "https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH"
     },
     {
       "added_at": "2025-10-31 06:00:15",

@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 313667,
+  "num_followers": 313707,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAAl8B5w168KyuVN2rU5J0Bt",
+  "snapshot_id": "aSuJAAAAAAD5YTwUZ1YCbWwhuHnTu4gl",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Be The Name",
-        "url": "https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 539000,
-      "name": "Jesus Be The Name (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 464333,
       "name": "Been So Good (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Be The Name",
+        "url": "https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 539000,
+      "name": "Jesus Be The Name (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe"
     },
     {
       "added_at": null,

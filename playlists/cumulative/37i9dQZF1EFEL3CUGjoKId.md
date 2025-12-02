@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrGNtrGiJfVh8TSrPHSiE">Christine McVie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-91 songs - 5 hr 53 min
+92 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Forgiveness](https://open.spotify.com/track/04559tmz2gEFOrlcIzvpw2) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:44 | 2024-01-29 |  |
 | [Friend](https://open.spotify.com/track/0pwHYR5GGOBxLPyxaecBj5) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 4:30 | 2024-01-29 |  |
 | [Game of Pretend](https://open.spotify.com/track/0eoJlrS9Fd975OR7XfeEek) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Lindsey Buckingham Christine McVie](https://open.spotify.com/album/0hV5tUdhxoe9ul2YVqco6b) | 4:33 | 2024-01-29 |  |
-| [Get Like You Used to Be](https://open.spotify.com/track/4gmWBOmoDfKllMdtpXQd2x) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Preaching the Blues](https://open.spotify.com/album/1KMUEvKi6V8lKnY1LlDFVW) | 3:49 | 2024-01-29 |  |
+| [Get Like You Used to Be](https://open.spotify.com/track/4gmWBOmoDfKllMdtpXQd2x) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Preaching the Blues](https://open.spotify.com/album/1KMUEvKi6V8lKnY1LlDFVW) | 3:49 | 2024-01-29 | 2025-12-02 |
+| [Get Like You Used to Be \- Live at Capitol Theatre, Passaic, NJ, 10/17/75](https://open.spotify.com/track/0zaqvXwFoLKCPiWc0neuAr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac \(Deluxe Edition\)](https://open.spotify.com/album/0OQxaj2MqTb9nEtoTPfN4P) | 4:24 | 2025-12-01 |  |
 | [Givin' It Back](https://open.spotify.com/track/2baK4Msd8ccExOgei0zEA4) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 4:46 | 2024-01-29 |  |
 | [Gone Into The Sun](https://open.spotify.com/track/3a4KG9TKdMNx9AMPZW3qwj) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 2:46 | 2024-01-29 |  |
 | [Got a Hold on Me](https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 3:52 | 2024-01-29 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Esos \u00e9xitos que todav\u00eda quieres seguir escuchando. Foto: Zion & Lennox",
-  "num_followers": 676759,
+  "num_followers": 676846,
   "original_name": "Reggaet\u00f3n Rewind",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,26 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193456,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -515,22 +535,18 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 193456,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
+      "duration_ms": 229848,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -551,22 +567,6 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 229848,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "El Amante",
-      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 203183,
       "name": "Mayores",
       "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "El Amante",
+      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
         "name": "Intimo",
         "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 195999,
-      "name": "Perro Fiel (feat. Nicky Jam)",
-      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 204700,
       "name": "Bella y Sensual",
       "url": "https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 195999,
+      "name": "Perro Fiel (feat. Nicky Jam)",
+      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -2231,26 +2231,6 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "EL MAKINON",
-      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
         "name": "Siempre Blessd",
         "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
       },
@@ -2271,6 +2251,26 @@
       "duration_ms": 234402,
       "name": "Tendencia Global",
       "url": "https://open.spotify.com/track/2TCklWS3S4Zg6e2m2MBoYm"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "EL MAKINON",
+      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178693,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -2375,6 +2359,42 @@
       "duration_ms": 273198,
       "name": "A Solas (Remix)",
       "url": "https://open.spotify.com/track/1fXEkSum1vbTa3w0yvYzYW"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178693,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
+        "name": "Se Te Nota (with Guaynaa)",
+        "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
+      },
+      "artists": [
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 155825,
+      "name": "Se Te Nota (with Guaynaa)",
+      "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -2419,22 +2439,18 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "Se Te Nota (with Guaynaa)",
-        "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 155825,
-      "name": "Se Te Nota (with Guaynaa)",
-      "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -2451,22 +2467,6 @@
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -2659,8 +2659,8 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "S\u00e1bado Rebelde",
-        "url": "https://open.spotify.com/album/5bdnS9Jv6LM2VxIJWiqfdz"
+        "name": "Adictiva",
+        "url": "https://open.spotify.com/album/7Eeyj4vopzd7c1aAhwXFGU"
       },
       "artists": [
         {
@@ -2668,13 +2668,13 @@
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 240266,
-      "name": "S\u00e1bado Rebelde",
-      "url": "https://open.spotify.com/track/00C97lUG7Y0TY0KLv7p32h"
+      "duration_ms": 207853,
+      "name": "Adictiva",
+      "url": "https://open.spotify.com/track/6MJUCumnQsQEKbCy28tbCP"
     },
     {
       "added_at": "2025-10-20 20:42:37",

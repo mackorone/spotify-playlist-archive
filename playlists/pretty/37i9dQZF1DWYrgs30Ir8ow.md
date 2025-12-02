@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,254 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,251 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:48 |
-| 2 | [Puinhoop](https://open.spotify.com/track/5UR6iM7zFdl0JhY4JZ7NIw) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Puinhoop](https://open.spotify.com/album/0HOPa8tTcv1s2K1JbI2UPW) | 2:14 |
-| 3 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
-| 4 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 |
+| 1 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 |
+| 2 | [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:48 |
+| 3 | [Puinhoop](https://open.spotify.com/track/5UR6iM7zFdl0JhY4JZ7NIw) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Puinhoop](https://open.spotify.com/album/0HOPa8tTcv1s2K1JbI2UPW) | 2:14 |
+| 4 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
 | 5 | [Body](https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Body](https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8) | 3:14 |
 | 6 | [Hoogtevrees](https://open.spotify.com/track/4EgjDXCj3Nokm6cP0FVH1F) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Hoogtevrees](https://open.spotify.com/album/2eFFsUoXgThMpW3hCZdqJ0) | 3:35 |
 | 7 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Afterparty](https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Afterparty](https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU) | 2:35 |
 | 40 | [QUE CE SOIT CLAIR](https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [QUE CE SOIT CLAIR](https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx) | 2:56 |
 
-Snapshot ID: `AAAAAPPoJTYXwlvgqsmTLR6uzMY/OIF5`
+Snapshot ID: `AAAAAFvF0AkiZ1OuqbLz98xc/bxbfatx`

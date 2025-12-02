@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 | 15 | [Recio Andamos](https://open.spotify.com/track/6MNSEAJ2acxLtDVC1DmBu8) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:56 |
 | 16 | [Soy Ayon](https://open.spotify.com/track/59R6ch1PRI9YY7aGHGiOc0) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 2:57 |
 | 17 | [Playas](https://open.spotify.com/track/7xVJ2ccRAQpUWL6fHPslqL) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 2:26 |
-| 18 | [BELLAGIO](https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [BELLAGIO \(Estudio\)](https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ) | 2:38 |
+| 18 | [BELLAGIO](https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [BELLAGIO](https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ) | 2:38 |
 | 19 | [El Vivo Retrato \(Ivan Archivaldo\)](https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:44 |
 | 20 | [Cartel De Reyes](https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3](https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS) | 2:10 |
 | 21 | [Gente De Negocio](https://open.spotify.com/track/3rZXsyClbQZPN20u3h8ADk) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 2:26 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 | 28 | [Peligro](https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5) | [Trouble Kidd](https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Peligro](https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh) | 2:08 |
 | 29 | [Platicame De Ti \- En Vivo](https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr) | [Sol De Mi Tierra\- mariacheño](https://open.spotify.com/artist/51adjnMrqIJnsXRtyQkLFc), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Platicame De Ti \(En Vivo\)](https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is) | 2:54 |
 
-Snapshot ID: `aSo3gAAAAADrX6neCOGrGXm8t2yZXinw`
+Snapshot ID: `aSuJAAAAAACb9LtDoUpov/laDjq0Uia7`

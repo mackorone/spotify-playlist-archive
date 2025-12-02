@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1221639,
+  "num_followers": 1221697,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACX1i3AdSl3Hl1LWDqBfKaR",
+  "snapshot_id": "aSuJAAAAAAAhVZT1zL+KMfw/QW1FUJPl",
   "tracks": [
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilogy: Past, Present & Future",
-        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 206066,
-      "name": "Theme From New York, New York",
-      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
+      "duration_ms": 172920,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/0IU7UJ9nknVKWlHCECHVQw"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
       },
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 172920,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/0IU7UJ9nknVKWlHCECHVQw"
+      "duration_ms": 177240,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
     },
     {
       "added_at": null,
@@ -471,26 +487,6 @@
       "duration_ms": 194093,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highlights From Duets",
-        "url": "https://open.spotify.com/album/28DupF2KXWachQjIKZOuu9"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/6jd8s6YNkkQfVflmh4CLzx"
     },
     {
       "added_at": null,
@@ -515,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+        "name": "Highlights From Duets",
+        "url": "https://open.spotify.com/album/28DupF2KXWachQjIKZOuu9"
       },
       "artists": [
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
         }
       ],
-      "duration_ms": 177240,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
+      "duration_ms": 211746,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/6jd8s6YNkkQfVflmh4CLzx"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
       "duration_ms": 135506,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/4AdqsEH40jfERiDkzyY0Ur"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 170346,
-      "name": "Young At Heart",
-      "url": "https://open.spotify.com/track/4AdqsEH40jfERiDkzyY0Ur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
         "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 181906,
       "name": "Learnin' The Blues",
       "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "Moonlight In Vermont - Remastered 1998",
+      "url": "https://open.spotify.com/track/1ymaji9iiLLfPOq91srHeH"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
       "duration_ms": 201866,
       "name": "Rain In My Heart",
       "url": "https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "Moonlight In Vermont - Remastered 1998",
-      "url": "https://open.spotify.com/track/1ymaji9iiLLfPOq91srHeH"
     },
     {
       "added_at": null,
@@ -795,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Columbia Years (1943-1952) The Complete Recordings",
-        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
+        "name": "The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra)",
+        "url": "https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g"
       },
       "artists": [
+        {
+          "name": "Tommy Dorsey",
+          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
+        },
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Homesick -- That's All",
-      "url": "https://open.spotify.com/track/46PMpnd62rwRX6wk3UNnd5"
+      "duration_ms": 199733,
+      "name": "Polka Dots and Moonbeams",
+      "url": "https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U"
     },
     {
       "added_at": null,
@@ -831,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra)",
-        "url": "https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g"
+        "name": "The Columbia Years (1943-1952) The Complete Recordings",
+        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
       },
       "artists": [
-        {
-          "name": "Tommy Dorsey",
-          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
-        },
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 199733,
-      "name": "Polka Dots and Moonbeams",
-      "url": "https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U"
+      "duration_ms": 202666,
+      "name": "Homesick -- That's All",
+      "url": "https://open.spotify.com/track/46PMpnd62rwRX6wk3UNnd5"
     },
     {
       "added_at": null,

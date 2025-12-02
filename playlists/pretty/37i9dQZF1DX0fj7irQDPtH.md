@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 
 > The biggest songs in Latin America in 2014\. Cover: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,120 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,179 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 35 | [Vamo a Busal](https://open.spotify.com/track/0ySExWMtzlVKO70rPYEz84) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Vamo a Busal](https://open.spotify.com/album/2Te8t6pWaQhGxeYJeOFGLV) | 4:00 |
 | 36 | [Una Noche Más](https://open.spotify.com/track/4HLGAcqh05iAqsCCs8ayrq) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [The Beginning](https://open.spotify.com/album/1sBA4WniS6cBvvSDAsCgrV) | 3:36 |
 | 37 | [Madrugada](https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:41 |
-| 38 | [Quédate Con Ella](https://open.spotify.com/track/0BTBoi7AeMBrMP6cwOLNR0) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Creo en Mi](https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1) | 3:49 |
-| 39 | [Corazón En La Maleta](https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 38 | [Corazón En La Maleta](https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 39 | [Quédate Con Ella](https://open.spotify.com/track/0BTBoi7AeMBrMP6cwOLNR0) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Creo en Mi](https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1) | 3:49 |
 | 40 | [Una Cita \- Remix](https://open.spotify.com/track/3Ke1NVElHXQpBeuWz6QOt8) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [El Roockie](https://open.spotify.com/artist/3sc8HnadkPW5YaIGbCljw4), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Una Cita \(Remix\)](https://open.spotify.com/album/6lEJcXTGwEF6HHkdyA00iR) | 4:35 |
 | 41 | [La promesa](https://open.spotify.com/track/2GJyBJWPmnM7pK961cB6iV) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Un alumno más](https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo) | 3:53 |
 | 42 | [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 
 > Lo que diga el corazón ❤️💔 Cover: RIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,712 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,743 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 | 75 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
 | 76 | [La Cuadrada](https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Cuadrada](https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J) | 2:40 |
 | 77 | [Tu Nueva Etapa](https://open.spotify.com/track/4qesrlnBKu1ZTSiJImSHzS) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Tu Nueva Etapa](https://open.spotify.com/album/5wN5T8lbSVU6Y1CBZMNid1) | 2:55 |
-| 78 | [Me Robaron](https://open.spotify.com/track/3Mvg1j86v0StZyT5zHQib8) | [Rutazz](https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh) | [Me Robaron](https://open.spotify.com/album/5kta8yiRYAb1PUZB6dpmpa) | 3:02 |
+| 78 | [Me Robaron](https://open.spotify.com/track/3Mvg1j86v0StZyT5zHQib8) | [Rutazz](https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh), [Sintapia](https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo) | [Me Robaron](https://open.spotify.com/album/5kta8yiRYAb1PUZB6dpmpa) | 3:02 |
 | 79 | [40 Y 20](https://open.spotify.com/track/20ygCbbuOBZAfi9zcckFOj) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 2:49 |
 | 80 | [NO PIERDO LA VIDA](https://open.spotify.com/track/44zZM2dn9AcOUt5XKUMNJ3) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [NO PIERDO LA VIDA](https://open.spotify.com/album/7DueGhsMj4VYSbe1jgQ4H2) | 2:48 |
 | 81 | [Tu Casi Algo](https://open.spotify.com/track/4rdZeiurMmbCBov3ON3oC0) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [NEXT](https://open.spotify.com/album/1bWcE0tKOJgn4kgpNKSHU0) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with RL Grime & Deadcrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,489 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,454 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 79 | [I Can't Take It](https://open.spotify.com/track/6opSU5uIZO1m0B6OnUSNYM) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [UNDY](https://open.spotify.com/artist/3WblVrC43yUgW8cVFeVEuQ), [Seiren](https://open.spotify.com/artist/5HKQopZI4z7YTgcqsScIrN) | [I Can't Take It](https://open.spotify.com/album/4CTOvko83wCD9JwQsyq4KY) | 3:04 |
 | 80 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
 | 81 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 |
-| 82 | [need2know](https://open.spotify.com/track/64OfsokBDQLKONzokhUh1h) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [need2know](https://open.spotify.com/album/62woKz3YaWjZi1nTVc2cRu) | 3:48 |
-| 83 | [Bassline Flexa](https://open.spotify.com/track/2Ls9ecOpdCnfNuzGqE1P39) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Joytime Collective](https://open.spotify.com/artist/000RxCIP8j1ysGQKrZheBj) | [Bassline Flexa](https://open.spotify.com/album/2tUzlYkAW8m1PzA3DEgGu1) | 2:02 |
+| 82 | [Bassline Flexa](https://open.spotify.com/track/2Ls9ecOpdCnfNuzGqE1P39) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Joytime Collective](https://open.spotify.com/artist/000RxCIP8j1ysGQKrZheBj) | [Bassline Flexa](https://open.spotify.com/album/2tUzlYkAW8m1PzA3DEgGu1) | 2:02 |
+| 83 | [need2know](https://open.spotify.com/track/64OfsokBDQLKONzokhUh1h) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [need2know](https://open.spotify.com/album/62woKz3YaWjZi1nTVc2cRu) | 3:48 |
 | 84 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
 | 85 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
 | 86 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
-| 87 | [MERCY](https://open.spotify.com/track/2QoDGwJUabNMyJnxGJIy8w) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [SEEING DOUBLE EP](https://open.spotify.com/album/3lxZ6nSst67I8FZsqPoF43) | 3:57 |
-| 88 | [Forever](https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Forever](https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6) | 2:34 |
+| 87 | [Forever](https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Forever](https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6) | 2:34 |
+| 88 | [MERCY](https://open.spotify.com/track/2QoDGwJUabNMyJnxGJIy8w) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [SEEING DOUBLE EP](https://open.spotify.com/album/3lxZ6nSst67I8FZsqPoF43) | 3:57 |
 | 89 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
 | 90 | [CONTROL](https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [CONTROL](https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6) | 2:25 |
 | 91 | [Lazarus Rise](https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m) | [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2), [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Lazarus Rise](https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw) | 3:12 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 97 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
 | 98 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
 | 99 | [Burn For You](https://open.spotify.com/track/7p4PjjO0d9Y8HgVZ7ptT3g) | [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [RayJhin](https://open.spotify.com/artist/1Qt9Dc7m0ewnea08te3FvF) | [Burn For You](https://open.spotify.com/album/10TlIL9zil6BfNcSF3jBuD) | 3:42 |
-| 100 | [Stuntin'](https://open.spotify.com/track/68eZg9oSbjdZI2DgSG07DY) | [MY BAD](https://open.spotify.com/artist/63L7fapgmG0gsJPlsMr6ui) | [Stuntin'](https://open.spotify.com/album/1UYUD3Ji8KbbR0SbJqqRfw) | 3:22 |
+| 100 | [Anxious](https://open.spotify.com/track/0aIZGMXxGwKfkIOwiTzY82) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Anxious](https://open.spotify.com/album/2fvpGsmXuNd24IC3gEABHU) | 2:22 |
 
 Snapshot ID: `AAAAABgqGa7pEDA74si7AzwSHbWI9rvq`

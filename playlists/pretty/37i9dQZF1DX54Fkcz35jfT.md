@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > Discover the intensity and emotion resonating through Japan’s hard rock\. / 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: Paledusk
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,011 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,007 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 10 | [HUGs](https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HUGs](https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv) | 5:33 |
 | 11 | [スパートシンドローマー](https://open.spotify.com/track/0DKaod4U8DOyesrlwvQzVH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [スパートシンドローマー](https://open.spotify.com/album/7ivYLdm0eoIJ2Ew34JHRaK) | 3:44 |
 | 12 | [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Lost God of SASORI](https://open.spotify.com/album/5S1kW1jHBlg22tckMUY5Z1) | 4:08 |
-| 13 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
+| 13 | [完全感覚Dreamer](https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Nicheシンドローム](https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa) | 4:12 |
 | 14 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 |
 | 15 | [UNINSTALL](https://open.spotify.com/track/2L0PMoyeQ6u5jKxcbJM5N8) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [grunge is dead\. EP](https://open.spotify.com/album/4DT9L2A2N0aFSriNHLCRd8) | 2:19 |
 | 16 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 17 | [I Guess I Won't Tell](https://open.spotify.com/track/3irFpwC2rmWOvH9BFE1flf) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Luv Sux Sessions](https://open.spotify.com/album/43w0P1Dtw0rhfnrGCc04YK) | 3:33 |
-| 18 | [完全感覚Dreamer](https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Nicheシンドローム](https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa) | 4:12 |
+| 18 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
 | 19 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白 \- Confession](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 |
 | 20 | [RUN](https://open.spotify.com/track/2oeWrzaLuMg7sYEdFxqZ1c) | [Doona](https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp) | [RUN](https://open.spotify.com/album/7Hddb9WtN6df9DFD7DgQjL) | 3:51 |
 | 21 | [from me to u \(feat\. Poppy\)](https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [from me to u \(feat\. Poppy\)](https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn) | 3:24 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 57 | [東京ミッドナイト \- Tokyo Midnight](https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [The Crown](https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca) | 3:48 |
 | 58 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
 | 59 | [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 |
-| 60 | [Until You Die Out](https://open.spotify.com/track/2ijSj23nvR4Zo4NdNOpw4v) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Until You Die Out](https://open.spotify.com/album/4oSV62VjbA1f87S0VNZqkx) | 3:26 |
-| 61 | [PAC\-MANISM](https://open.spotify.com/track/06OI5rkTs4hHrlUGjD1UUw) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [PAC\-MANISM](https://open.spotify.com/album/4Rl64ebxCFoq7NuECnR9Nu) | 2:07 |
+| 60 | [PAC\-MANISM](https://open.spotify.com/track/06OI5rkTs4hHrlUGjD1UUw) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [PAC\-MANISM](https://open.spotify.com/album/4Rl64ebxCFoq7NuECnR9Nu) | 2:07 |
+| 61 | [Until You Die Out](https://open.spotify.com/track/2ijSj23nvR4Zo4NdNOpw4v) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Until You Die Out](https://open.spotify.com/album/4oSV62VjbA1f87S0VNZqkx) | 3:26 |
 | 62 | [Atmosphere](https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [The Unforgettables E.P.](https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM) | 2:48 |
 | 63 | [DUA･RHYTHM](https://open.spotify.com/track/4gTa2HNlJEfGr9q1s2PsFD) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [DUA･RHYTHM](https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF) | 3:33 |
 | 64 | [Matatabi](https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Matatabi](https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG) | 2:48 |
@@ -82,15 +82,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 72 | [I'll be there](https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [I'll be there](https://open.spotify.com/album/2XV1p7LViusogXzUiB338X) | 4:38 |
 | 73 | [Inside of Me](https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Inside Of Me](https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE) | 3:13 |
 | 74 | [BRIGHT EYES](https://open.spotify.com/track/6SM0swCv4dXsRozMjB27Pv) | [ASH](https://open.spotify.com/artist/7ipJyP4vRUwlGvYNkjpsja) | [BRIGHT EYES](https://open.spotify.com/album/5JS9x5USWSbprGHpLBlesV) | 3:27 |
-| 75 | [Bring the Beat Back](https://open.spotify.com/track/1Ahg8y7aonu9fjfZ9oJu6l) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Bring the Beat Back](https://open.spotify.com/album/3RWoqQ54ELSe9VPpc3LVqZ) | 2:56 |
-| 76 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
+| 75 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
+| 76 | [Bring the Beat Back](https://open.spotify.com/track/1Ahg8y7aonu9fjfZ9oJu6l) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Bring the Beat Back](https://open.spotify.com/album/3RWoqQ54ELSe9VPpc3LVqZ) | 2:56 |
 | 77 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
 | 78 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |
 | 79 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
 | 80 | [Beast Mode](https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode](https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt) | 4:10 |
-| 81 | [Cure](https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Cure](https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg) | 2:50 |
-| 82 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 |
-| 83 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 4:31 |
+| 81 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 4:31 |
+| 82 | [Cure](https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Cure](https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg) | 2:50 |
+| 83 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 |
 | 84 | [開花宣言](https://open.spotify.com/track/4PvO2OtoM5j8UpuurSZiC8) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [開花宣言](https://open.spotify.com/album/1RfVbPhg2uUd8AZaKZ39OK) | 3:09 |
 | 85 | [the anomaly](https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [montauk](https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au) | 3:24 |
 | 86 | [MISS WORLD](https://open.spotify.com/track/3R0i1KADblDL0zwBbLyDBO) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 2:21 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 96 | [オクターヴ](https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [オクターヴ](https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL) | 3:07 |
 | 97 | [DIKIDANDAN](https://open.spotify.com/track/3ehgrNAlUz9FAZ2NbhXQo0) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [AlterGeist0000](https://open.spotify.com/album/3LwplQwZ9pAKxvehPfytkx) | 3:33 |
 | 98 | [厄災](https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [THE ETERNAL DOOM](https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP) | 3:00 |
-| 99 | [X\_AXIS](https://open.spotify.com/track/5RTnzxXdlqzSySbdtxP6lF) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [X\_AXIS](https://open.spotify.com/album/4BIRrr3mvcNUpTCzVGkAwW) | 3:01 |
-| 100 | [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 |
+| 99 | [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 |
+| 100 | [X\_AXIS](https://open.spotify.com/track/5RTnzxXdlqzSySbdtxP6lF) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [X\_AXIS](https://open.spotify.com/album/4BIRrr3mvcNUpTCzVGkAwW) | 3:01 |
 
 Snapshot ID: `AAAAAHg/+Gn5zYeeurN8vBhnRaQpy7jF`

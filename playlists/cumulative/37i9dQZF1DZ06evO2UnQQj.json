@@ -135,6 +135,32 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Sei Falar de Amor",
+        "url": "https://open.spotify.com/album/1tzwzVZ0PtMU8dCr58Qje6"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/51prkIwAZLXoDLokr2nah6"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Amor e Paz",
+      "url": "https://open.spotify.com/track/47R9Xk72mntXxLh6dkEyaz"
+    },
+    {
+      "album": {
         "name": "Eskibaile",
         "url": "https://open.spotify.com/album/5AA7WwdqI8dQheLWmYpleQ"
       },
@@ -558,7 +584,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 214409,
       "name": "Clara Luz",
       "url": "https://open.spotify.com/track/6zajQ6vXfcKmOiBZsjJHbp"

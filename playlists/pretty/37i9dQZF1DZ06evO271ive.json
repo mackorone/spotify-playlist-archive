@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 28642,
+  "num_followers": 28644,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACdGJc9lMbX3gKt2iMyrs8I",
+  "snapshot_id": "aSuJAAAAAADPMdUFIPqhKR0vqtQXkKkh",
   "tracks": [
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Mami (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3CiCLeSabMedcyDMIZ12ID"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Mami (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3CiCLeSabMedcyDMIZ12ID"
     },
     {
       "added_at": null,

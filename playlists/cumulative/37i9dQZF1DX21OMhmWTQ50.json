@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Santa Doesn't Know You Like I Do",
+        "url": "https://open.spotify.com/album/21gOnh6LjPUlv9PjjV2VHt"
+      },
+      "artists": [
+        {
+          "name": "Davy Burns",
+          "url": "https://open.spotify.com/artist/3i1joJ76xcNJLuBNHlQ5Pi"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Santa Doesn't Know You Like I Do",
+      "url": "https://open.spotify.com/track/7kfwGTuBVH7G4P3IC23oqh"
+    },
+    {
+      "album": {
         "name": "Cozy Winter",
         "url": "https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7"
       },

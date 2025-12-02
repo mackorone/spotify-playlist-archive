@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,257 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,337 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 47 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 |
 | 48 | [パンダガール](https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [パンダガール](https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR) | 3:34 |
 | 49 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
-| 50 | [インフェリア](https://open.spotify.com/track/1TPZq8RupVFSB2sSt5dxav) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [インフェリア](https://open.spotify.com/album/5VECDMfN7ZA9T5LaBmhy7z) | 3:38 |
+| 50 | [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 |
 
 Snapshot ID: `AAAAAAMboUm8GLHLY02uHQeZmwgO6BNC`

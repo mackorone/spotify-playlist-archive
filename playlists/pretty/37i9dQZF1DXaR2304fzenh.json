@@ -1,6 +1,6 @@
 {
   "description": "El t\u00edtulo says it all, a whole mood! ",
-  "num_followers": 323312,
+  "num_followers": 324021,
   "original_name": "Fiesta y Desmadre",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,38 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
+        "name": "As\u00ed Es Esto",
+        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "El Precio De La Soledad",
+      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
+    },
+    {
+      "added_at": "2025-08-30 00:09:47",
+      "album": {
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 175514,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t"
+    },
+    {
+      "added_at": "2025-08-30 00:09:47",
+      "album": {
         "name": "PRESIDENTE",
         "url": "https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR"
       },
@@ -343,38 +375,6 @@
       "duration_ms": 181064,
       "name": "PRESIDENTE",
       "url": "https://open.spotify.com/track/4OLT65TRsOx3Iv1TlCcQVb"
-    },
-    {
-      "added_at": "2025-08-30 00:09:47",
-      "album": {
-        "name": "El Primero",
-        "url": "https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 175514,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t"
-    },
-    {
-      "added_at": "2025-08-30 00:09:47",
-      "album": {
-        "name": "As\u00ed Es Esto",
-        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "El Precio De La Soledad",
-      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
+    },
+    {
+      "added_at": "2025-08-30 00:09:47",
+      "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
-    },
-    {
-      "added_at": "2025-08-30 00:09:47",
-      "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2025-08-30 00:09:47",
+      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 225250,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
-    },
-    {
-      "added_at": "2025-08-30 00:09:47",
-      "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
+        "name": "Un Suspir\u00f3",
+        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 184411,
+      "name": "Un Suspir\u00f3",
+      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+    },
+    {
+      "added_at": "2025-08-30 00:09:47",
+      "album": {
         "name": "FIRST LOVE",
         "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
-        "name": "Un Suspir\u00f3",
-        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 184411,
-      "name": "Un Suspir\u00f3",
-      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
-    },
-    {
-      "added_at": "2025-08-30 00:09:47",
-      "album": {
         "name": "Me Robaste El Corazon",
         "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
       },
@@ -867,30 +867,6 @@
       "duration_ms": 198920,
       "name": "La Chona",
       "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
-    },
-    {
-      "added_at": "2025-08-30 00:09:47",
-      "album": {
-        "name": "El Gavil\u00e1n",
-        "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 175295,
-      "name": "El Gavil\u00e1n",
-      "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -931,6 +907,30 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+    },
+    {
+      "added_at": "2025-08-30 00:09:47",
+      "album": {
+        "name": "El Gavil\u00e1n",
+        "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 175295,
+      "name": "El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
-        "name": "No Son Doritos",
-        "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "NO SON DORITOS",
-      "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
-    },
-    {
-      "added_at": "2025-08-30 00:09:47",
-      "album": {
         "name": "Que Me Importa",
         "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 208541,
       "name": "Que Me Importa",
       "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
+    },
+    {
+      "added_at": "2025-08-30 00:09:47",
+      "album": {
+        "name": "No Son Doritos",
+        "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "NO SON DORITOS",
+      "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+    },
+    {
+      "added_at": "2025-08-30 00:09:47",
+      "album": {
         "name": "NO PASA NADA",
         "url": "https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 136000,
       "name": "NO PASA NADA",
       "url": "https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt"
-    },
-    {
-      "added_at": "2025-08-30 00:09:47",
-      "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
-        "name": "Kalashnikov",
-        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
       "artists": [
         {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 129500,
-      "name": "Kalashnikov",
-      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+      "duration_ms": 129500,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
     },
     {
       "added_at": "2025-08-30 00:09:47",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2025-08-30 00:09:47",
       "album": {
-        "name": "En Vivo Desde Mi Ranchito",
-        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/4dKY6JFNvj2yWzENIL1P6s"
-    },
-    {
-      "added_at": "2025-08-30 00:09:47",
-      "album": {
         "name": "LA CUMBIA DEL CASTOR",
         "url": "https://open.spotify.com/album/4B1Zcqug3F80KdJKp2PvRt"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 188661,
       "name": "A Trav\u00e9s del Vaso",
       "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
+    },
+    {
+      "added_at": "2025-08-30 00:09:47",
+      "album": {
+        "name": "En Vivo Desde Mi Ranchito",
+        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/4dKY6JFNvj2yWzENIL1P6s"
     }
   ],
   "unique_name": "Fiesta y Desmadre",

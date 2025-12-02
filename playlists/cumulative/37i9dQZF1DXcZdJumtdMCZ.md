@@ -2,7 +2,7 @@
 
 ### [RAP 91 Tamil](https://open.spotify.com/playlist/37i9dQZF1DXcZdJumtdMCZ)
 
-> Best of Tamil Hip\-Hop!<br/>Cover : Ratty Adhiththan and King Mohan
+> Best of Tamil Hip\-Hop!<br/>Cover : San T
 
 253 songs - 13 hr 45 min
 

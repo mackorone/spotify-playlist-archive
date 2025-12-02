@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAADMpgOQjRUYMs5WzinlijKG",
+  "snapshot_id": "aSuJAAAAAAA3D70YR3m4zmTy7YyC2ReI",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "As Ruas Sabem",
+        "url": "https://open.spotify.com/album/3l5UJy9plzuyP5JtimkmwN"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "VIETN\u00c3",
+          "url": "https://open.spotify.com/artist/10KPCPEMWg7CyzMScMPXHo"
+        }
+      ],
+      "duration_ms": 171208,
+      "name": "Tabuleiro",
+      "url": "https://open.spotify.com/track/6ULwDWRaOpQHxWGqzmggSO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oxig\u00eanio (Corona Disco)",
         "url": "https://open.spotify.com/album/7K4Sn0GxfcQnlcV46ZOaT2"
       },
@@ -279,22 +299,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "As Ruas Sabem",
-        "url": "https://open.spotify.com/album/3l5UJy9plzuyP5JtimkmwN"
+        "name": "C\u00c9U NUBLADO",
+        "url": "https://open.spotify.com/album/1YHnXj62FkVvIfQBnZv3Hz"
       },
       "artists": [
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+        },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "VIETN\u00c3",
-          "url": "https://open.spotify.com/artist/10KPCPEMWg7CyzMScMPXHo"
+          "name": "Victor Xam\u00e3",
+          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
         }
       ],
-      "duration_ms": 171208,
-      "name": "Tabuleiro",
-      "url": "https://open.spotify.com/track/6ULwDWRaOpQHxWGqzmggSO"
+      "duration_ms": 165600,
+      "name": "C\u00c9U NUBLADO",
+      "url": "https://open.spotify.com/track/2dqpWKWs1Uuu7DJgXtNnYr"
     },
     {
       "added_at": null,
@@ -323,30 +347,6 @@
       "duration_ms": 135443,
       "name": "Contra N\u00f3s Quem Puder",
       "url": "https://open.spotify.com/track/2xr0VmnqmeYCHzg1vJVGXl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "C\u00c9U NUBLADO",
-        "url": "https://open.spotify.com/album/1YHnXj62FkVvIfQBnZv3Hz"
-      },
-      "artists": [
-        {
-          "name": "BEATDOMK",
-          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Victor Xam\u00e3",
-          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "C\u00c9U NUBLADO",
-      "url": "https://open.spotify.com/track/2dqpWKWs1Uuu7DJgXtNnYr"
     },
     {
       "added_at": null,
@@ -403,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SELFIE",
+        "url": "https://open.spotify.com/album/53QAxf8tki7iAQqmVrFfKT"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/4i59vgAtwbdzZF4mAV6cbG"
+        }
+      ],
+      "duration_ms": 123596,
+      "name": "Noite Quente de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/7cVrbItdfCZFD7bZIWpPsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fendi (Remix)",
         "url": "https://open.spotify.com/album/13fvyjO64cFoKWTgdLenZh"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 224292,
       "name": "Fendi - Remix",
       "url": "https://open.spotify.com/track/3IfXnDhadUdCMNFLuA9yAS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SELFIE",
-        "url": "https://open.spotify.com/album/53QAxf8tki7iAQqmVrFfKT"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/4i59vgAtwbdzZF4mAV6cbG"
-        }
-      ],
-      "duration_ms": 123596,
-      "name": "Noite Quente de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/7cVrbItdfCZFD7bZIWpPsY"
     },
     {
       "added_at": null,
@@ -1151,6 +1151,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Falsos Cair\u00e3o",
+        "url": "https://open.spotify.com/album/3ZTxT95TnY5msvf0nvU43a"
+      },
+      "artists": [
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        }
+      ],
+      "duration_ms": 192052,
+      "name": "Falsos Cair\u00e3o",
+      "url": "https://open.spotify.com/track/2Ullm8em3nn4YH2LxcOzAl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jersey Culture BR",
+        "url": "https://open.spotify.com/album/6ak8yshcSjZBlkLEy4AlEB"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "RealLamak",
+          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
+        }
+      ],
+      "duration_ms": 119172,
+      "name": "Jersey Culture BR",
+      "url": "https://open.spotify.com/track/3FhjtSYUo9lOCXnCH1W96h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confort\u00e1vel",
         "url": "https://open.spotify.com/album/1xFQyDmc8fFkkrHwjlVDdp"
       },
@@ -1187,54 +1235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jersey Culture BR",
-        "url": "https://open.spotify.com/album/6ak8yshcSjZBlkLEy4AlEB"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "RealLamak",
-          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
-        }
-      ],
-      "duration_ms": 119172,
-      "name": "Jersey Culture BR",
-      "url": "https://open.spotify.com/track/3FhjtSYUo9lOCXnCH1W96h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clara Luz",
-        "url": "https://open.spotify.com/album/6MkGHJGMvN7BCwvt2AauOC"
-      },
-      "artists": [
-        {
-          "name": "Boca",
-          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Nissin",
-          "url": "https://open.spotify.com/artist/2QliLX5GUQ5ZfOdJC0kKHs"
-        }
-      ],
-      "duration_ms": 214409,
-      "name": "Clara Luz",
-      "url": "https://open.spotify.com/track/6zajQ6vXfcKmOiBZsjJHbp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Filha do Sol",
         "url": "https://open.spotify.com/album/1gViplzslh7HqURT2ghNEV"
       },
@@ -1259,30 +1259,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Falsos Cair\u00e3o",
-        "url": "https://open.spotify.com/album/3ZTxT95TnY5msvf0nvU43a"
+        "name": "S\u00f3 Sei Falar de Amor",
+        "url": "https://open.spotify.com/album/1tzwzVZ0PtMU8dCr58Qje6"
       },
       "artists": [
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/51prkIwAZLXoDLokr2nah6"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 192052,
-      "name": "Falsos Cair\u00e3o",
-      "url": "https://open.spotify.com/track/2Ullm8em3nn4YH2LxcOzAl"
+      "duration_ms": 151304,
+      "name": "Amor e Paz",
+      "url": "https://open.spotify.com/track/47R9Xk72mntXxLh6dkEyaz"
     },
     {
       "added_at": null,

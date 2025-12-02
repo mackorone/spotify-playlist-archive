@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,942 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,938 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 |
 | 2 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
-| 3 | [Ethereal Connection](https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:42 |
-| 4 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/2VuzBUB5V9AlpniCUhaszP) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/33UfArB1wqUntTPUbsFmUD) | 2:06 |
+| 3 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/2VuzBUB5V9AlpniCUhaszP) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/33UfArB1wqUntTPUbsFmUD) | 2:06 |
+| 4 | [Ethereal Connection](https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:42 |
 | 5 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 |
 | 6 | [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [The Heads That Know](https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7) | 7:03 |
 | 7 | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg) | 3:02 |

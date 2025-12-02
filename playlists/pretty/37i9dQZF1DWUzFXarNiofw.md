@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,640 likes - 307 songs - 15 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,644 likes - 307 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 2 | [What It Gave Me](https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What It Gave Me](https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva) | 2:44 |
 | 3 | [MEET THE SUN](https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [MEET THE SUN](https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w) | 4:45 |
 | 4 | [How Much Will It Take](https://open.spotify.com/track/06x8K7S6w6M318VvWUg5GA) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [bygone](https://open.spotify.com/album/4ratZOOUKwmfsv2ZgRzosO) | 3:39 |
-| 5 | [Side Bitch SZN \(feat\. Aaron Page\)](https://open.spotify.com/track/3CdIbHOuuQ9oYnmhB1kaW6) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06), [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Side Bitch SZN \(feat\. Aaron Page\)](https://open.spotify.com/album/367CiJpYQGIMbTRHI7Robu) | 3:25 |
+| 5 | [Side Bitch SZN](https://open.spotify.com/track/3CdIbHOuuQ9oYnmhB1kaW6) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06), [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Side Bitch SZN](https://open.spotify.com/album/367CiJpYQGIMbTRHI7Robu) | 3:25 |
 | 6 | [BLAME](https://open.spotify.com/track/4XvynsgJosJbUyxKmqiCKf) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [BLAME](https://open.spotify.com/album/13ofwNuwoP9P2qJPdXf8HT) | 2:39 |
 | 7 | [Forget](https://open.spotify.com/track/4fSZBTepMlI7bqbbpqLpLj) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Final Bo$$](https://open.spotify.com/album/2ThN4SQsDDccLMLRyHES5u) | 3:27 |
 | 8 | [tru colours](https://open.spotify.com/track/5zne6ejkAiOEdZNGJkr57o) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [demo\-itis, Vol\. 1](https://open.spotify.com/album/6icwjSNTkyrKU3ecqRwRvz) | 2:02 |

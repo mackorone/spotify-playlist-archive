@@ -4,7 +4,7 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-413 songs - 1 day 4 hr 20 min
+416 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,11 +290,13 @@
 | [Point Of No Return](https://open.spotify.com/track/5YJILvImepN7U7Vonz2VkB) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Point Of No Return EP](https://open.spotify.com/album/6diYp1uiFuHfCbbapfIC6y) | 4:37 | 2023-03-28 |  |
 | [Prince](https://open.spotify.com/track/5adqASjgkPk2U77AzL8Lcw) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes \(Deluxe\)](https://open.spotify.com/album/4RQnFSkkZlA65Xxchhnaha) | 3:36 | 2023-04-05 |  |
 | [Prison Song](https://open.spotify.com/track/3AwLxSqo1jOOMpNsgxqRNE) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:21 | 2023-03-28 |  |
+| [Prosthetic](https://open.spotify.com/track/3GkJayiMYPZMkTP9KnmYXK) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Virus](https://open.spotify.com/album/1i6DTKXsonvhHZYdLhIbk1) | 5:58 | 2025-12-01 |  |
 | [Prosthetics](https://open.spotify.com/track/5huA9m9CJ56zZoTDrMFrtm) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 4:58 | 2023-06-26 |  |
 | [Psycho](https://open.spotify.com/track/6VzV6RI7641o57TuqfGRpj) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:45 | 2023-03-28 |  |
 | [Psychosocial](https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:43 | 2023-03-28 |  |
 | [Punching Bag](https://open.spotify.com/track/7fudux10sVIxILOocZaHrW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punching Bag](https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS) | 2:59 | 2023-04-06 |  |
 | [Purity](https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 4:25 | 2023-06-28 |  |
+| [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 | 2025-12-01 |  |
 | [Question!](https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 3:20 | 2024-09-28 |  |
 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 | 2025-07-16 |  |
 | [Redlined](https://open.spotify.com/track/6syVm5S71Wj7IrqcupFidR) | [erikas invitation](https://open.spotify.com/artist/395gAKwrv9y7cwSOIcWDXk) | [Redlined](https://open.spotify.com/album/2BJeApv4NiZ4SfSvzlkVGT) | 4:53 | 2025-09-27 |  |
@@ -340,6 +342,7 @@
 | [Street Carp](https://open.spotify.com/track/5qNr7GnEmD3zA2oQTAdI3a) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 2:41 | 2023-03-29 |  |
 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 2:44 | 2024-08-27 |  |
 | [Sugar](https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:33 | 2023-03-28 |  |
+| [Sulfur](https://open.spotify.com/track/4g3QZlvz39UllCcRXDZ0Do) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:37 | 2025-12-01 |  |
 | [Sun Killer](https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:47 | 2023-03-29 |  |
 | [Surfacing](https://open.spotify.com/track/0iget4icTqUya9wtpvCTF2) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:38 | 2023-09-18 |  |
 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/3D0bXrSv7O73vOaGOG8J9c) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Smells Like Children](https://open.spotify.com/album/5XiQM9S9V3XL03xxmIMPeb) | 4:53 | 2023-06-23 |  |

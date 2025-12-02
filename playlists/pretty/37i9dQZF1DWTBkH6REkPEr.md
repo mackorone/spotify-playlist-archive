@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,511 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,547 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 57 | [Ah Yeah So What \- Radio Edit](https://open.spotify.com/track/37PuGmhHTzDbbaUAFKj6bJ) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Elen Levon](https://open.spotify.com/artist/3gClSlUEpEoQd4IldcqBUz) | [Ah Yeah So What](https://open.spotify.com/album/0O6VKi6sTFS7xUsG2I85C1) | 3:15 |
 | 58 | [High \(feat\. Nicole Millar\)](https://open.spotify.com/track/40PYeQjt149YOfq6H20vmd) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [High \(feat\. Nicole Millar\)](https://open.spotify.com/album/6K62nsscCdtqdBksQpQdon) | 3:48 |
 | 59 | [Tremor \- Sensation 2014 Anthem; Radio Edit](https://open.spotify.com/track/5xhlXPI81zTycdILy3e038) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Tremor \(Sensation 2014 Anthem; Radio Edit\)](https://open.spotify.com/album/0ExfeH4t1YraNIHtbhNgIi) | 3:13 |
-| 60 | [One Day \(Vandaag\) \- Radio Edit](https://open.spotify.com/track/7qRtIcMaDnaJYmQDPpMgTe) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [One Day \(Vandaag\)](https://open.spotify.com/album/418vL0rOxoVcELcvu51fg9) | 3:41 |
-| 61 | [All The Way](https://open.spotify.com/track/6g3zlVzqVgg8sqAYDhsWSL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 2:59 |
+| 60 | [All The Way](https://open.spotify.com/track/6g3zlVzqVgg8sqAYDhsWSL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 2:59 |
+| 61 | [One Day \(Vandaag\) \- Radio Edit](https://open.spotify.com/track/7qRtIcMaDnaJYmQDPpMgTe) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [One Day \(Vandaag\)](https://open.spotify.com/album/418vL0rOxoVcELcvu51fg9) | 3:41 |
 | 62 | [Do It Again](https://open.spotify.com/track/44eQkbofZeY7rEPnPdobwa) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Do It Again](https://open.spotify.com/album/5rgGVO0mjqDYsHQnD4XkJV) | 5:06 |
 | 63 | [Miami 82 \- Kygo Remix](https://open.spotify.com/track/2DFT4mdft2yUPs7rX6coSd) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Armada Deep House Selection, Vol\. 3 \(The Finest Deep House Tunes\)](https://open.spotify.com/album/5ibzTdYFvMukXN8J6ZEzvF) | 5:41 |
 | 64 | [Cocaine Model](https://open.spotify.com/track/5MxDkXp4X06zjnIUqvEvdQ) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Nightday \(EP\)](https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP) | 4:15 |

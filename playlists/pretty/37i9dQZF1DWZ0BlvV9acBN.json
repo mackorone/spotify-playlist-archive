@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rosa de Saron",
-  "num_followers": 147967,
+  "num_followers": 147986,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,6 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
-        "name": "For\u00e7a",
-        "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        },
-        {
-          "name": "Bruno Faglioni",
-          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
-        }
-      ],
-      "duration_ms": 240704,
-      "name": "For\u00e7a",
-      "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
         "name": "Me Fez Vivo (feat. Fernandinho)",
         "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 241088,
       "name": "Me Fez Vivo (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
+        "name": "For\u00e7a",
+        "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "Bruno Faglioni",
+          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
+        }
+      ],
+      "duration_ms": 240704,
+      "name": "For\u00e7a",
+      "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
     },
     {
       "added_at": "2025-10-24 18:38:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 332 likes - 90 songs - 5 hr 29 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 334 likes - 93 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 88 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 |
 | 89 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 |
 | 90 | [My Energy Transformation](https://open.spotify.com/track/4zpMCYjAJQrazZod6z2Jc1) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 6:21 |
+| 91 | [Where Love Became a Ghost](https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Where Love Became a Ghost](https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP) | 4:31 |
+| 92 | [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 |
+| 93 | [Coming Home \(UNITED\)](https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:44 |
 
-Snapshot ID: `AAACAnZTR6Gmj/7Agt/X5PIlR1bgL1ta`
+Snapshot ID: `AAACBX88vQwJZEtBFPOghgIPylrrev8p`

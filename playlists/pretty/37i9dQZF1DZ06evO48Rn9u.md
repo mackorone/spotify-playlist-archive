@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,979 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,982 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 16 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
 | 17 | [Apologize \- Acoustic Version](https://open.spotify.com/track/3NSdgXx0p5mcQTjcs50n9C) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Apologize + See You Again \(Acoustic\)](https://open.spotify.com/album/74OL4hEPYhlA7k8iWOlcxF) | 2:31 |
 | 18 | [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 |
-| 19 | [Late To The Party](https://open.spotify.com/track/1uXUAE4lmnGCufaAh6n2D5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa) | 3:37 |
+| 19 | [Family Is Family](https://open.spotify.com/track/5IXXpT9Ypyqjl6qkuuekLc) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:32 |
 | 20 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 |
 | 21 | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR) | 3:33 |
 | 22 | [Giver / Taker](https://open.spotify.com/track/7aWAahCNnOyF1yP547S9fv) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:10 |
-| 23 | [Family Is Family](https://open.spotify.com/track/5IXXpT9Ypyqjl6qkuuekLc) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:32 |
+| 23 | [Late To The Party](https://open.spotify.com/track/1uXUAE4lmnGCufaAh6n2D5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa) | 3:37 |
 | 24 | [Oh, What A World](https://open.spotify.com/track/5ToJzoVfLYyF7ohMOBNObi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:01 |
 | 25 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/661XFV3LB1wpEFSmumnXUM) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 2:53 |
 | 26 | [Sway](https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 49 | [angel](https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:19 |
 | 50 | [Lost Highway](https://open.spotify.com/track/7okG4aydS3Sb8xZvI3BvLH) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Lost Highway](https://open.spotify.com/album/75xRAiBzaIxASbYLy8EJdf) | 3:09 |
 
-Snapshot ID: `aSo3gAAAAAC0bRA1EEi5egXlhVR5DhW8`
+Snapshot ID: `aSuJAAAAAADkLGPBWwaK+MdsrVsxpfRK`

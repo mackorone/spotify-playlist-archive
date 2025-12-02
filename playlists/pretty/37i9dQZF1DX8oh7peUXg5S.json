@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: V\u00edctor Manuel.",
-  "num_followers": 346594,
+  "num_followers": 346607,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
+        "name": "Logo",
+        "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Anoche So\u00f1\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
         "name": "Al Final de Este Viaje...",
         "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 247266,
       "name": "No soy de aqu\u00ed",
       "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
-        "name": "Logo",
-        "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "Anoche So\u00f1\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Con Derecho A...",
-        "url": "https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 241986,
-      "name": "Comiendote a Besos",
-      "url": "https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
         "name": "Mediterr\u00e1neo",
         "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 110373,
       "name": "Aquellas Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
+        "name": "Con Derecho A...",
+        "url": "https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "Comiendote a Besos",
+      "url": "https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Cuando el R\u00edo Suena...",
-        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "La Puerta Violeta",
-      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
         "name": "City Zen",
         "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 228413,
       "name": "Desde Que Te Perd\u00ed",
       "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
+        "name": "Cuando el R\u00edo Suena...",
+        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "La Puerta Violeta",
+      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Canciones 1980-2009",
-        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "El sitio de mi recreo",
-      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
         "name": "Antolog\u00eda Desordenada",
         "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 192670,
       "name": "Lucia (with Silvio Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
+        "name": "Canciones 1980-2009",
+        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "El sitio de mi recreo",
+      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Unicornio",
-        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 308510,
-      "name": "Unicornio",
-      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
         "name": "Canciones De Amor Para Tiempos Dificiles",
         "url": "https://open.spotify.com/album/1HITxEQK7ac082gDH7ynDR"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 225800,
       "name": "Santa Lucia",
       "url": "https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
+        "name": "Unicornio",
+        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 308510,
+      "name": "Unicornio",
+      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Desnud\u00e9monos",
-        "url": "https://open.spotify.com/album/5ZBJEiqkgpAt9UVU9Kkv6Z"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Desnud\u00e9monos",
-      "url": "https://open.spotify.com/track/588KXcDCF8as8eHJdntFti"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
         "name": "Cuando el R\u00edo Suena...",
         "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 234743,
       "name": "Antes De Verte (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
+        "name": "Desnud\u00e9monos",
+        "url": "https://open.spotify.com/album/5ZBJEiqkgpAt9UVU9Kkv6Z"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Desnud\u00e9monos",
+      "url": "https://open.spotify.com/track/588KXcDCF8as8eHJdntFti"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -1547,22 +1547,18 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Quererte",
-        "url": "https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92"
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
       "artists": [
         {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 181825,
-      "name": "Quererte",
-      "url": "https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw"
+      "duration_ms": 172000,
+      "name": "Pasaba por Aqui",
+      "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -1583,6 +1579,26 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
+        "name": "Quererte",
+        "url": "https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 181825,
+      "name": "Quererte",
+      "url": "https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
         "name": "Romancero",
         "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 184480,
       "name": "De Momento Abril",
       "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Pasaba por Aqui",
-      "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
     },
     {
       "added_at": "2025-11-20 23:00:42",

@@ -1255,6 +1255,32 @@
     },
     {
       "album": {
+        "name": "In The Bleak Midwinter",
+        "url": "https://open.spotify.com/album/51pGZlMTBR9EeAn2CsR1KZ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        },
+        {
+          "name": "Rosie Bennet",
+          "url": "https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138440,
+      "name": "In The Bleak Midwinter",
+      "url": "https://open.spotify.com/track/3czlbEgQDVP39H5BXd7CPH"
+    },
+    {
+      "album": {
         "name": "Acoustic Christmas",
         "url": "https://open.spotify.com/album/7z4ULIFjxpGEBwePyr9Aki"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,981 likes - 172 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,982 likes - 172 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 67 | [R e a l W o m a n](https://open.spotify.com/track/7FzUJj4UzBlswK4EmF6BDK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:14 |
 | 68 | [H e r O l d F r i e n d s](https://open.spotify.com/track/29SqwhEfi1OY9GtCIF0ifC) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:16 |
 | 69 | [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/2KQdxByLeH5HvuqG2MPbg7) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [96 Months](https://open.spotify.com/album/5uRY0boZn48gDio0ASlgI0) | 3:04 |
-| 70 | [SPLIT DECISION](https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:06 |
-| 71 | [GREEDY](https://open.spotify.com/track/2WNUYpLeOSMSlWgOmgGURl) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/2v6x8JNW3DdI0IBkKdrBvt) | 6:26 |
-| 72 | [East Liberty](https://open.spotify.com/track/2nOTvYKyk51OSs90GvMgLW) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/52SPzTxOUOS996NCHoGN0r) | 2:52 |
+| 70 | [GREEDY](https://open.spotify.com/track/2WNUYpLeOSMSlWgOmgGURl) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/2v6x8JNW3DdI0IBkKdrBvt) | 6:26 |
+| 71 | [East Liberty](https://open.spotify.com/track/2nOTvYKyk51OSs90GvMgLW) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/52SPzTxOUOS996NCHoGN0r) | 2:52 |
+| 72 | [SPLIT DECISION](https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:06 |
 | 73 | [Days in The East](https://open.spotify.com/track/4czcw3NVLY0of5hTD7OufN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 5:53 |
 | 74 | [Young Nigga \(feat\. Puff Daddy\)](https://open.spotify.com/track/0pBcI8Gf1Oe3ziIbE9tBsX) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 3:56 |
 | 75 | [SAVAGE ANTHEM](https://open.spotify.com/track/7I0Sleck98bBPRZItY0w76) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 6:16 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 171 | [Elevate](https://open.spotify.com/track/3HEe35p5i97KcFoBra4pIn) | [Siedd](https://open.spotify.com/artist/0BjgliR7fzJazTNUaaal14) | [Elevate](https://open.spotify.com/album/01Abn8AtQ1psk6jwqqHPta) | 2:12 |
 | 172 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 
-Snapshot ID: `AcDAZAAAAAARWDrOYHVc7eqdc7XQHedi`
+Snapshot ID: `AcDFyAAAAABN0kuSvXb1ebU17KzTaJbx`

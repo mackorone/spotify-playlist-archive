@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,479 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,477 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 25 | [Habibi](https://open.spotify.com/track/1oqb2byqglKfTr4TEvLtGZ) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Back 2 Love](https://open.spotify.com/album/2XpYarn4l8zxeCh5Zzj3Mv) | 4:51 |
 | 26 | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/track/5q6eZbatNFuToQdA7FGhj5) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/album/4J0PU4ST1vM11tK5bPuJOb) | 4:04 |
 | 27 | [Dilbar \(From "Satyameva Jayate"\)](https://open.spotify.com/track/6cARnc9YVlBNigjNSX63pp) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Frolic Neha Kakkar](https://open.spotify.com/album/72AyTNvQjaCH6btYBQbyVD) | 3:04 |
-| 28 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 |
-| 29 | [Dilbar Arabic](https://open.spotify.com/track/5EdkHBTXHVXrLz1AkIMweE) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Fnaire](https://open.spotify.com/artist/1g8q1m1XjmUW8zOO3vCqcW), [Mohcine Tizaf](https://open.spotify.com/artist/2iO6cqotEJYZC0H3mch1ZC), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Dilbar Arabic](https://open.spotify.com/album/4EF0E4sgNEA27ZrB4QMbjy) | 3:18 |
+| 28 | [Dilbar Arabic](https://open.spotify.com/track/5EdkHBTXHVXrLz1AkIMweE) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Fnaire](https://open.spotify.com/artist/1g8q1m1XjmUW8zOO3vCqcW), [Mohcine Tizaf](https://open.spotify.com/artist/2iO6cqotEJYZC0H3mch1ZC), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Dilbar Arabic](https://open.spotify.com/album/4EF0E4sgNEA27ZrB4QMbjy) | 3:18 |
+| 29 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 |
 | 30 | [Bollywood](https://open.spotify.com/track/75bnrRBe7WXrlM8vxBQMOI) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Bollywood](https://open.spotify.com/album/4a4Ilmyy4LticNI8wjxdEh) | 3:09 |
 | 31 | [Mann Tu Talbat](https://open.spotify.com/track/2E7YOOQjlK8bb0I7kM3JSG) | [Hamza Faruqui](https://open.spotify.com/artist/0wUD0Q5YZchgEGt7Xh7bXI) | [Super Star](https://open.spotify.com/album/0wswgvh5SqzIbPPimeNuTu) | 5:29 |
 | 32 | [Wallah Wallah](https://open.spotify.com/track/4N1szZrSScl8EbUg2t240H) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Proof](https://open.spotify.com/artist/5pk8AXDLwwybWfGXpqWkZ5) | [Wallah Wallah](https://open.spotify.com/album/0YvN3saYGkzZzvRcCdyYNr) | 3:51 |

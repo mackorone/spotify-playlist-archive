@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 262505,
+  "num_followers": 262573,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 266893,
+      "name": "T\u00fa No Le Amas Le Temes",
+      "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 249878,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "T\u00fa No Le Amas Le Temes",
-      "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 391320,
-      "name": "Siento",
-      "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 391320,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 336160,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 327466,
       "name": "Bambol\u00e9o",
       "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
-      },
-      "artists": [
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        }
-      ],
-      "duration_ms": 336160,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 265480,
-      "name": "De Punta a Punta",
-      "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "De Costa a Costa",
         "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 309760,
       "name": "Te Voy a Hacer Feliz",
       "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 265480,
+      "name": "De Punta a Punta",
+      "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 317573,
-      "name": "Caradura",
-      "url": "https://open.spotify.com/track/1ngWLwko1GnliVV9kHj4CC"
+      "duration_ms": 229600,
+      "name": "Y Nos Amamos",
+      "url": "https://open.spotify.com/track/0vAA0c6zf8pCWgmIj4Oggx"
     },
     {
       "added_at": "2024-07-11 00:51:42",

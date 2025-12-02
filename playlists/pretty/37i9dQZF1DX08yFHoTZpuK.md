@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,072 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,109 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 21 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 |
 | 22 | [フラワー](https://open.spotify.com/track/3BF4RksNihC06UoqYi6hnq) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [フラワー](https://open.spotify.com/album/2EcW1SjKIISp8sZImkbFgu) | 4:47 |
 | 23 | [IN THE RAIN x XDM](https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IN THE RAIN](https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L) | 3:14 |
-| 24 | [You Ain't My Friend](https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [You Ain't My Friend](https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl) | 2:57 |
-| 25 | [TECHNOPOLIS](https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 4:14 |
+| 24 | [TECHNOPOLIS](https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 4:14 |
+| 25 | [You Ain't My Friend](https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [You Ain't My Friend](https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl) | 2:57 |
 | 26 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 |
 | 27 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
 | 28 | [Feeling](https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Feeling](https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx) | 3:20 |

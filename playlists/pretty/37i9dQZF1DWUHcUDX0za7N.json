@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Zaylevelten",
-  "num_followers": 74002,
+  "num_followers": 74027,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,6 @@
     {
       "added_at": "2025-11-28 00:01:21",
       "album": {
-        "name": "TaTaTa (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 150651,
-      "name": "TaTaTa (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
-    },
-    {
-      "added_at": "2025-11-28 00:01:21",
-      "album": {
         "name": "Kilometer II",
         "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 123185,
       "name": "Kilogram",
       "url": "https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB"
+    },
+    {
+      "added_at": "2025-11-28 00:01:21",
+      "album": {
+        "name": "TaTaTa (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 150651,
+      "name": "TaTaTa (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
     },
     {
       "added_at": "2025-11-28 00:01:21",
@@ -463,6 +463,26 @@
     {
       "added_at": "2025-11-28 00:01:21",
       "album": {
+        "name": "then 1t g0t crazier",
+        "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Wuse Tu",
+      "url": "https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo"
+    },
+    {
+      "added_at": "2025-11-28 00:01:21",
+      "album": {
         "name": "NBA",
         "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 169043,
       "name": "NBA",
       "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
-    },
-    {
-      "added_at": "2025-11-28 00:01:21",
-      "album": {
-        "name": "FLAKO",
-        "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "FLAKO",
-      "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
     },
     {
       "added_at": "2025-11-28 00:01:21",
@@ -523,22 +523,22 @@
     {
       "added_at": "2025-11-28 00:01:21",
       "album": {
-        "name": "then 1t g0t crazier",
-        "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
+        "name": "FLAKO",
+        "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
       },
       "artists": [
         {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
         },
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Wuse Tu",
-      "url": "https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo"
+      "duration_ms": 174117,
+      "name": "FLAKO",
+      "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
     },
     {
       "added_at": "2025-11-28 00:01:21",
@@ -655,26 +655,6 @@
     {
       "added_at": "2025-11-28 00:01:21",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/0YJON4FqskJ7Zp5W5Xaug0"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/1o40BKnO6xqV1ul2YUOWeF"
-    },
-    {
-      "added_at": "2025-11-28 00:01:21",
-      "album": {
         "name": "Type Sh*t",
         "url": "https://open.spotify.com/album/67pWb0xvEAFSaKPRnG98ep"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 151034,
       "name": "Type Sh*t",
       "url": "https://open.spotify.com/track/2sTjJbgPuWC5dYY7xtJm7j"
+    },
+    {
+      "added_at": "2025-11-28 00:01:21",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/0YJON4FqskJ7Zp5W5Xaug0"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1o40BKnO6xqV1ul2YUOWeF"
     },
     {
       "added_at": "2025-11-28 00:01:21",
@@ -867,26 +867,6 @@
     {
       "added_at": "2025-11-28 00:01:21",
       "album": {
-        "name": "G.O.A.T",
-        "url": "https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF"
-      },
-      "artists": [
-        {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 163444,
-      "name": "THERAPY SESSION",
-      "url": "https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx"
-    },
-    {
-      "added_at": "2025-11-28 00:01:21",
-      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 144000,
       "name": "Compose",
       "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+    },
+    {
+      "added_at": "2025-11-28 00:01:21",
+      "album": {
+        "name": "G.O.A.T",
+        "url": "https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 163444,
+      "name": "THERAPY SESSION",
+      "url": "https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx"
     },
     {
       "added_at": "2025-11-28 00:01:21",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-11-28 00:01:21",
       "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/4x7FRzw7GiTHGaoQP1xU98"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/51MR8SzQI8jD0JGvw8J8mI"
-    },
-    {
-      "added_at": "2025-11-28 00:01:21",
-      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 163468,
       "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
       "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
+    },
+    {
+      "added_at": "2025-11-28 00:01:21",
+      "album": {
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/4x7FRzw7GiTHGaoQP1xU98"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/51MR8SzQI8jD0JGvw8J8mI"
     },
     {
       "added_at": "2025-11-28 00:01:21",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-11-28 00:01:21",
       "album": {
-        "name": "Pawon + Fly",
-        "url": "https://open.spotify.com/album/6twgGorVU0d808ToQ632pw"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 118939,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/1GYbLczHk6f3O6drvghsB4"
-    },
-    {
-      "added_at": "2025-11-28 00:01:21",
-      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 136732,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
+    },
+    {
+      "added_at": "2025-11-28 00:01:21",
+      "album": {
+        "name": "Pawon + Fly",
+        "url": "https://open.spotify.com/album/6twgGorVU0d808ToQ632pw"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 118939,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/1GYbLczHk6f3O6drvghsB4"
     },
     {
       "added_at": "2025-11-28 00:01:21",
@@ -1331,26 +1331,18 @@
     {
       "added_at": "2025-11-28 00:01:21",
       "album": {
-        "name": "Lust In Lagos",
-        "url": "https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N"
+        "name": "Folasade",
+        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
       },
       "artists": [
         {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Crowther",
-          "url": "https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         }
       ],
-      "duration_ms": 211934,
-      "name": "Soft Prayer",
-      "url": "https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z"
+      "duration_ms": 168648,
+      "name": "Folasade",
+      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
     }
   ],
   "unique_name": "Naija Bars ",

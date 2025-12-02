@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,873 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,841 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 10 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 11 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 |
 | 12 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 |
-| 13 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 |
-| 14 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 |
+| 13 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 |
+| 14 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 |
 | 15 | [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 |
 | 16 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 |
 | 17 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 33 | [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 |
 | 34 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 |
 | 35 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
-| 36 | [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 |
-| 37 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 |
-| 38 | [Miracle](https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7) | 3:36 |
+| 36 | [Miracle](https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7) | 3:36 |
+| 37 | [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 |
+| 38 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 |
 | 39 | [Lonestar](https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations \(Outtakes Edition\)](https://open.spotify.com/album/0H7Ygy8UZ1FBz5N2LKRpjq) | 2:53 |
 | 40 | [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 |
 | 41 | [Daisy](https://open.spotify.com/track/4nGH9TgCC3Ebz3WzOGdrgs) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Daisy](https://open.spotify.com/album/2ex1SdB7QepUqe5bqCWhPI) | 2:44 |

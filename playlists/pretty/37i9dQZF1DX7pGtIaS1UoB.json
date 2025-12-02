@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 100199,
+  "num_followers": 100216,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-11-20 16:00:38",
       "album": {
+        "name": "story that never ends",
+        "url": "https://open.spotify.com/album/4aiPkG3hycKgbDJrT3rwkq"
+      },
+      "artists": [
+        {
+          "name": "CONSTANCE",
+          "url": "https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP"
+        }
+      ],
+      "duration_ms": 208023,
+      "name": "story that never ends",
+      "url": "https://open.spotify.com/track/1U92diBuPuPhWpQ3KbPPGd"
+    },
+    {
+      "added_at": "2025-11-20 16:00:38",
+      "album": {
         "name": "Six Degrees",
         "url": "https://open.spotify.com/album/1GiYC9prlXmNGgYAbQ5Jiu"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 194838,
       "name": "Six Degrees",
       "url": "https://open.spotify.com/track/1SMC4asXLbJMhckDg1PKAq"
-    },
-    {
-      "added_at": "2025-11-20 16:00:38",
-      "album": {
-        "name": "story that never ends",
-        "url": "https://open.spotify.com/album/4aiPkG3hycKgbDJrT3rwkq"
-      },
-      "artists": [
-        {
-          "name": "CONSTANCE",
-          "url": "https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP"
-        }
-      ],
-      "duration_ms": 208023,
-      "name": "story that never ends",
-      "url": "https://open.spotify.com/track/1U92diBuPuPhWpQ3KbPPGd"
     },
     {
       "added_at": "2025-11-20 16:00:38",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-11-20 16:00:38",
       "album": {
-        "name": "\u70ba\u611b\u72c2\u6b61",
-        "url": "https://open.spotify.com/album/781Sn4bHT34vq17zwv9BuJ"
-      },
-      "artists": [
-        {
-          "name": "Jam Hsiao",
-          "url": "https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "\u70ba\u611b\u72c2\u6b61",
-      "url": "https://open.spotify.com/track/3uIBc49Y3qNRTPs3rCGY2g"
-    },
-    {
-      "added_at": "2025-11-20 16:00:38",
-      "album": {
         "name": "\u8ffd\u5149\u8005",
         "url": "https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 213333,
       "name": "\u8ffd\u5149\u8005",
       "url": "https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p"
+    },
+    {
+      "added_at": "2025-11-20 16:00:38",
+      "album": {
+        "name": "\u70ba\u611b\u72c2\u6b61",
+        "url": "https://open.spotify.com/album/781Sn4bHT34vq17zwv9BuJ"
+      },
+      "artists": [
+        {
+          "name": "Jam Hsiao",
+          "url": "https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "\u70ba\u611b\u72c2\u6b61",
+      "url": "https://open.spotify.com/track/3uIBc49Y3qNRTPs3rCGY2g"
     },
     {
       "added_at": "2025-11-20 16:00:38",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-11-20 16:00:38",
       "album": {
-        "name": "\u5b98\u5ba3",
-        "url": "https://open.spotify.com/album/13B0fljkWc7JaiSm3M3J4R"
-      },
-      "artists": [
-        {
-          "name": "\u5433\u970f",
-          "url": "https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4"
-        }
-      ],
-      "duration_ms": 169301,
-      "name": "\u5b98\u5ba3",
-      "url": "https://open.spotify.com/track/2PJdqbmvMlwmvCKvXbS0x3"
-    },
-    {
-      "added_at": "2025-11-20 16:00:38",
-      "album": {
         "name": "\u60f3\u5beb\u4e00\u9996\u60c5\u6b4c\u7d66\u4f60",
         "url": "https://open.spotify.com/album/0SaL2FBYObFbkhRisnIhag"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 162762,
       "name": "\u60f3\u5beb\u4e00\u9996\u60c5\u6b4c\u7d66\u4f60",
       "url": "https://open.spotify.com/track/18MWw902cGonMsCbWjoJkZ"
+    },
+    {
+      "added_at": "2025-11-20 16:00:38",
+      "album": {
+        "name": "\u5b98\u5ba3",
+        "url": "https://open.spotify.com/album/13B0fljkWc7JaiSm3M3J4R"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u970f",
+          "url": "https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4"
+        }
+      ],
+      "duration_ms": 169301,
+      "name": "\u5b98\u5ba3",
+      "url": "https://open.spotify.com/track/2PJdqbmvMlwmvCKvXbS0x3"
     },
     {
       "added_at": "2025-11-20 16:00:38",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-11-20 16:00:38",
       "album": {
-        "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
-        "url": "https://open.spotify.com/album/1I4vRJBMS58WiZZuK4af6l"
-      },
-      "artists": [
-        {
-          "name": "\u738bADEN",
-          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
-      "url": "https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um"
-    },
-    {
-      "added_at": "2025-11-20 16:00:38",
-      "album": {
         "name": "\u5e7e\u5206\u4e4b\u5e7e",
         "url": "https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 218700,
       "name": "\u4f60\u662f\u6211\u7684\u6c34 - \u96fb\u5f71<\u82b1\u7532\u5927\u4eba\u8f49\u7537\u5b69>\u63d2\u66f2",
       "url": "https://open.spotify.com/track/6K95j4rov7rzTljwWXVibx"
+    },
+    {
+      "added_at": "2025-11-20 16:00:38",
+      "album": {
+        "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
+        "url": "https://open.spotify.com/album/1I4vRJBMS58WiZZuK4af6l"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
+      "url": "https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um"
     },
     {
       "added_at": "2025-11-20 16:00:38",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-11-20 16:00:38",
       "album": {
-        "name": "\u6c92\u6709\u9632\u5099",
-        "url": "https://open.spotify.com/album/1ZabWvUeTv49eJCdwHGCqH"
-      },
-      "artists": [
-        {
-          "name": "\u6591\u6069Ben",
-          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
-        }
-      ],
-      "duration_ms": 195230,
-      "name": "\u6c92\u6709\u9632\u5099",
-      "url": "https://open.spotify.com/track/4o1VLDG427usXtT9rk2EO5"
-    },
-    {
-      "added_at": "2025-11-20 16:00:38",
-      "album": {
         "name": "\u4f60\u9084\u4e0d\u77e5\u9053\uff1f",
         "url": "https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2025-11-20 16:00:38",
       "album": {
-        "name": "\u6162\u52d5\u4f5c\u544a\u767d",
-        "url": "https://open.spotify.com/album/3rmO1ZCqgQbHlWam1InUBD"
+        "name": "\u6c92\u6709\u9632\u5099",
+        "url": "https://open.spotify.com/album/1ZabWvUeTv49eJCdwHGCqH"
       },
       "artists": [
         {
-          "name": "Sam Lin",
-          "url": "https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1"
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
         }
       ],
-      "duration_ms": 159528,
-      "name": "\u6162\u52d5\u4f5c\u544a\u767d",
-      "url": "https://open.spotify.com/track/0oTNUfAZEykfW3zglmqdiF"
+      "duration_ms": 195230,
+      "name": "\u6c92\u6709\u9632\u5099",
+      "url": "https://open.spotify.com/track/4o1VLDG427usXtT9rk2EO5"
     },
     {
       "added_at": "2025-11-20 16:00:38",
@@ -1147,6 +1131,22 @@
       "duration_ms": 213680,
       "name": "\u6211\u6703\u5f88\u611b\u59b3",
       "url": "https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT"
+    },
+    {
+      "added_at": "2025-11-20 16:00:38",
+      "album": {
+        "name": "\u6162\u52d5\u4f5c\u544a\u767d",
+        "url": "https://open.spotify.com/album/3rmO1ZCqgQbHlWam1InUBD"
+      },
+      "artists": [
+        {
+          "name": "Sam Lin",
+          "url": "https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1"
+        }
+      ],
+      "duration_ms": 159528,
+      "name": "\u6162\u52d5\u4f5c\u544a\u767d",
+      "url": "https://open.spotify.com/track/0oTNUfAZEykfW3zglmqdiF"
     },
     {
       "added_at": "2025-11-20 16:00:38",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-11-20 16:00:38",
       "album": {
-        "name": "fill me in love",
-        "url": "https://open.spotify.com/album/0ZX1injt006uMBLj3rRaxj"
+        "name": "\u8b1d\u8b1d\u4f60\u7684\u7f8e\u597d",
+        "url": "https://open.spotify.com/album/7l8wuAhY4aCPnc9ZmwxvSE"
       },
       "artists": [
         {
-          "name": "Lu Han",
-          "url": "https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO"
+          "name": "Yen-J",
+          "url": "https://open.spotify.com/artist/2GzmpDXimCEph6SAw4YdNi"
         }
       ],
-      "duration_ms": 175050,
-      "name": "fill me in love",
-      "url": "https://open.spotify.com/track/4wE1y97uzWQTFrkFwKFuQ8"
+      "duration_ms": 248400,
+      "name": "\u6211\u559c\u6b61(\u4e0d,\u6211\u611b)",
+      "url": "https://open.spotify.com/track/7lqtdXxC38KOrQ33SB5wVo"
     },
     {
       "added_at": "2025-11-20 16:00:38",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2025-11-20 16:00:38",
       "album": {
-        "name": "\u8b1d\u8b1d\u4f60\u7684\u7f8e\u597d",
-        "url": "https://open.spotify.com/album/7l8wuAhY4aCPnc9ZmwxvSE"
+        "name": "fill me in love",
+        "url": "https://open.spotify.com/album/0ZX1injt006uMBLj3rRaxj"
       },
       "artists": [
         {
-          "name": "Yen-J",
-          "url": "https://open.spotify.com/artist/2GzmpDXimCEph6SAw4YdNi"
+          "name": "Lu Han",
+          "url": "https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO"
         }
       ],
-      "duration_ms": 248400,
-      "name": "\u6211\u559c\u6b61(\u4e0d,\u6211\u611b)",
-      "url": "https://open.spotify.com/track/7lqtdXxC38KOrQ33SB5wVo"
+      "duration_ms": 175050,
+      "name": "fill me in love",
+      "url": "https://open.spotify.com/track/4wE1y97uzWQTFrkFwKFuQ8"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

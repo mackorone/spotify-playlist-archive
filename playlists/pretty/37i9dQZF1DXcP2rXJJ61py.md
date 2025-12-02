@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcP2rXJJ61py.md) - [plain]
 
 > All must choose\. The official playlist for House of the Dragon \(and House Targaryen\) — new episodes on Sundays on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,934 likes - 116 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,933 likes - 116 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

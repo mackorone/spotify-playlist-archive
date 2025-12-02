@@ -978,7 +978,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 277654,
       "name": "47 Ronin",
       "url": "https://open.spotify.com/track/3AuiCjoEuBv0L2AKtuspZF"
@@ -5080,7 +5080,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 677093,
       "name": "Be The Sky",
       "url": "https://open.spotify.com/track/0CNRRRtkOoQv7iKUsoJ7li"
@@ -54701,6 +54701,28 @@
     },
     {
       "album": {
+        "name": "The Ayatollah",
+        "url": "https://open.spotify.com/album/6gjHLXGZbIUKpG0RG1dTmK"
+      },
+      "artists": [
+        {
+          "name": "Murkemz",
+          "url": "https://open.spotify.com/artist/6GndH44hnFqySPvGrUQowx"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187924,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/6kPAA6srBUvm2kISHpD6oX"
+    },
+    {
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
       },
@@ -65008,7 +65030,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 555506,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/0TU6xH5FIxex6j4oeZlJup"

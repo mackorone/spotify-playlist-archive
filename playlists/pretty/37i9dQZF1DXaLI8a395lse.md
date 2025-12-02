@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,457,325 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,457,661 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 45 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 |
 | 46 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
 | 47 | [Popular](https://open.spotify.com/track/48sJGpBLqQTs0sZ2ImHJof) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [High/Low](https://open.spotify.com/album/4o7LG3LUbq67bPNMitn00L) | 3:40 |
-| 48 | [Something Changed](https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 3:18 |
-| 49 | [only shallow](https://open.spotify.com/track/1KKuoYESWoUGsau6YYoEMl) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 4:16 |
+| 48 | [only shallow](https://open.spotify.com/track/1KKuoYESWoUGsau6YYoEMl) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 4:16 |
+| 49 | [Something Changed](https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 3:18 |
 | 50 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
 | 51 | [Big Time Sensuality](https://open.spotify.com/track/0X0LTI0MQG9S3FLSUvjrj5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 3:56 |
 | 52 | [Motorcycle Emptiness](https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Forever Delayed](https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv) | 5:05 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 55 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
 | 56 | [sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 5:19 |
 | 57 | [Block Rockin' Beats](https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Dig Your Own Hole](https://open.spotify.com/album/0FjHy5dCyVROqDUl6f2VTK) | 5:13 |
-| 58 | [Kinky Afro](https://open.spotify.com/track/2ItPID4dgSL1t1ZbZCrg5S) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Greatest Hits](https://open.spotify.com/album/4KapcT8hGnauYnTSmxAkKh) | 3:59 |
-| 59 | [History \- Remastered 2016](https://open.spotify.com/track/52p8lRbIrKYjzwDMXgBVFO) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Northern Soul \(2016 Remastered / Deluxe\)](https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR) | 5:26 |
+| 58 | [Overcome](https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 4:30 |
+| 59 | [Kinky Afro](https://open.spotify.com/track/2ItPID4dgSL1t1ZbZCrg5S) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Greatest Hits](https://open.spotify.com/album/4KapcT8hGnauYnTSmxAkKh) | 3:59 |
 | 60 | [My Favourite Game](https://open.spotify.com/track/7gjm1sq5ALU5svBSi9g178) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo](https://open.spotify.com/album/4gNjfAA5axfUEBbHJoAKBO) | 3:37 |
-| 61 | [Overcome](https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 4:30 |
+| 61 | [History \- Remastered 2016](https://open.spotify.com/track/52p8lRbIrKYjzwDMXgBVFO) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Northern Soul \(2016 Remastered / Deluxe\)](https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR) | 5:26 |
 | 62 | [A Design for Life \- Remastered](https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Everything Must Go 10th Anniversary Edition](https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2) | 4:17 |
 | 63 | [Alright](https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:37 |
 | 64 | [Unfinished Sympathy \- Remastered 2006](https://open.spotify.com/track/10CiC7n8xCJJpbNcBpHsXc) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Shara Nelson](https://open.spotify.com/artist/54bhVqHnHD8wDPBvk2Danm) | [Collected](https://open.spotify.com/album/1X4zW7kIY8bQHO9gDTsIVh) | 5:12 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 73 | [A.M\. 180](https://open.spotify.com/track/1tMHDdJEz8MFrkPFgwFACG) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Under The Western Freeway](https://open.spotify.com/album/57FtCFNPyiqlltBLhFGDYi) | 3:20 |
 | 74 | [Ready to Go](https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Ready To Go](https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp) | 5:01 |
 | 75 | [Sandstorm](https://open.spotify.com/track/3knlIGVH97AywBzVtF1Rpy) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 2:41 |
-| 76 | [On Your Own \- Remastered 2016](https://open.spotify.com/track/6KA7zkPJOGjFI4bmwm3la2) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Northern Soul \(2016 Remastered / Deluxe\)](https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR) | 3:33 |
-| 77 | [Gorecki](https://open.spotify.com/track/5VRkJsYcf9z4Wni19FxICi) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Lamb](https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO) | 6:30 |
+| 76 | [Gorecki](https://open.spotify.com/track/5VRkJsYcf9z4Wni19FxICi) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Lamb](https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO) | 6:30 |
+| 77 | [On Your Own \- Remastered 2016](https://open.spotify.com/track/6KA7zkPJOGjFI4bmwm3la2) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Northern Soul \(2016 Remastered / Deluxe\)](https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR) | 3:33 |
 | 78 | [Needle In The Hay](https://open.spotify.com/track/1bFPKxP56XWDXJOwo3Kvfp) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc) | 4:17 |
 | 79 | [Wake up Boo!](https://open.spotify.com/track/15RgdXlKJQTNMsR4hAzIGh) | [The Boo Radleys](https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP) | [Wake Up!](https://open.spotify.com/album/4Jw9nbFQEGEfB3RCwHqRNU) | 3:37 |
 | 80 | [All You Good Good People](https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 6:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,824,513 likes - 76 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,824,673 likes - 76 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 46 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:07 |
 | 47 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
 | 48 | [WYD \(with GloRilla & Big Boogie\)](https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:33 |
-| 49 | [Big League](https://open.spotify.com/track/0zhocF7DYymbHSdwdOCyMq) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Big League](https://open.spotify.com/album/48CmbANm0zAaBpD4wjd6m0) | 3:09 |
-| 50 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
+| 49 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
+| 50 | [Big League](https://open.spotify.com/track/0zhocF7DYymbHSdwdOCyMq) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Big League](https://open.spotify.com/album/48CmbANm0zAaBpD4wjd6m0) | 3:09 |
 | 51 | [Trophies](https://open.spotify.com/track/1T0iAFb7dgP0hajkmYstFu) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:02 |
 | 52 | [All Of A Sudden](https://open.spotify.com/track/0XOMoQbYxYPVLxwK4VDmNA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:49 |
 | 53 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 |

@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Megan Moroney",
-  "num_followers": 143349,
+  "num_followers": 143348,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-11-21 05:00:38",
       "album": {
+        "name": "An Evening With John Denver",
+        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Take Me Home, Country Roads - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
+      "url": "https://open.spotify.com/track/6sPWx6muyq4EQ7edBCqVTy"
+    },
+    {
+      "added_at": "2025-11-21 05:00:38",
+      "album": {
         "name": "Brooks & Dunn and Friends - Live from CMT Crossroads",
         "url": "https://open.spotify.com/album/7kgTfRyCCwAIMFpGRktONm"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 254653,
       "name": "Brand New Man (with Luke Combs) - Live from CMT Crossroads",
       "url": "https://open.spotify.com/track/2u2TK3JmzoBXlMQJ1s7Skq"
-    },
-    {
-      "added_at": "2025-11-21 05:00:38",
-      "album": {
-        "name": "An Evening With John Denver",
-        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Take Me Home, Country Roads - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
-      "url": "https://open.spotify.com/track/6sPWx6muyq4EQ7edBCqVTy"
     },
     {
       "added_at": "2025-11-21 05:00:38",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-11-21 05:00:38",
       "album": {
-        "name": "Next Thing You Know (Live From The O2 London)",
-        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 181034,
-      "name": "Next Thing You Know - Live From The O2 London",
-      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
-    },
-    {
-      "added_at": "2025-11-21 05:00:38",
-      "album": {
         "name": "Nobody But You (Duet with Gwen Stefani) [Live]",
         "url": "https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp"
       },
@@ -1231,18 +1215,34 @@
     {
       "added_at": "2025-11-21 05:00:38",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
+        "name": "Next Thing You Know (Live From The O2 London)",
+        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
       },
       "artists": [
         {
-          "name": "Johnny Lee",
-          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 242369,
-      "name": "Lookin' For Love",
-      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
+      "duration_ms": 181034,
+      "name": "Next Thing You Know - Live From The O2 London",
+      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
+    },
+    {
+      "added_at": "2025-11-21 05:00:38",
+      "album": {
+        "name": "Live From London",
+        "url": "https://open.spotify.com/album/5YHZoRo1sGcOfWVYMUP9Ch"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 214407,
+      "name": "Over Now - Live From London",
+      "url": "https://open.spotify.com/track/0sUzqTXuvRZQGkWb3uhbj1"
     },
     {
       "added_at": "2025-11-21 05:00:38",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2025-11-21 05:00:38",
       "album": {
-        "name": "Live From London",
-        "url": "https://open.spotify.com/album/5YHZoRo1sGcOfWVYMUP9Ch"
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+          "name": "Johnny Lee",
+          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
         }
       ],
-      "duration_ms": 214407,
-      "name": "Over Now - Live From London",
-      "url": "https://open.spotify.com/track/0sUzqTXuvRZQGkWb3uhbj1"
+      "duration_ms": 242369,
+      "name": "Lookin' For Love",
+      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
     },
     {
       "added_at": "2025-11-21 05:00:38",

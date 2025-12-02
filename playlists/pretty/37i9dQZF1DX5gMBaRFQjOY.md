@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 
 > Country classics you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,939 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,122 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,13 +92,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 82 | [The Wild Side Of Life](https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0), [Hank Thompson And His Brazos Valley Boys](https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk) | [Songs Of The Brazos Valley](https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc) | 2:44 |
 | 83 | [You Ain't Woman Enough \- Single Version](https://open.spotify.com/track/41jCeKeeVTxxDli1XdCPnx) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [The Definitive Collection](https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2) | 2:12 |
 | 84 | [Cattle Call](https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs) | 2:43 |
-| 85 | [I Don't Wanna Play House](https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:34 |
-| 86 | [Almost Persuaded](https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn) | [David Houston](https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf) | [Almost Persuaded](https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk) | 2:59 |
+| 85 | [Almost Persuaded](https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn) | [David Houston](https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf) | [Almost Persuaded](https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk) | 2:59 |
+| 86 | [I Don't Wanna Play House](https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:34 |
 | 87 | [Abilene](https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX) | [George Hamilton IV](https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti) | [Abilene](https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M) | 2:13 |
 | 88 | [Sleeping Single In A Double Bed \- Single Version](https://open.spotify.com/track/2Ln5JJOBoVDIoA8MJ2vG0C) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Ultimate Collection: Barbara Mandrell](https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX) | 2:18 |
 | 89 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 |
-| 90 | [Golden Ring \- Single Version](https://open.spotify.com/track/1Bqt4M53ylr5NXMvBg1FMf) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tears Of Fire: The 25th Anniversary Collection](https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg) | 3:01 |
-| 91 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
+| 90 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
+| 91 | [Golden Ring \- Single Version](https://open.spotify.com/track/1Bqt4M53ylr5NXMvBg1FMf) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tears Of Fire: The 25th Anniversary Collection](https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg) | 3:01 |
 | 92 | [Tennessee Flat Top Box](https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:15 |
 | 93 | [\(If Loving You Is Wrong\) I Don't Want To Be Right](https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Ultimate Collection: Barbara Mandrell](https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX) | 3:05 |
 | 94 | [Heartaches By The Number](https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Super Hits](https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV) | 2:56 |

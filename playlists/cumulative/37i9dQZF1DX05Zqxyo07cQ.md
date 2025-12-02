@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-882 songs - 1 day 18 hr 34 min
+885 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A New Tomorrow](https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [A New Tomorrow](https://open.spotify.com/album/4nEYU3MjOoJ360A2ovMH6r) | 2:52 | 2023-03-23 | 2024-02-09 |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2023-03-23 | 2024-05-05 |
 | [A Peaceful Space](https://open.spotify.com/track/2RGH3CpTwZac0WSu27KY74) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [A Peaceful Space](https://open.spotify.com/album/64CA3RsK23wuS4dWuVhsCL) | 2:46 | 2024-12-17 | 2025-09-24 |
-| [A Sky Inside](https://open.spotify.com/track/0JAo9MefKP0TdcklH2BBRL) | [Starfield Echo](https://open.spotify.com/artist/4rEMs74XRhiHTEycuIVyAh) | [A Sky Inside](https://open.spotify.com/album/4p4i5aXparmdP3ZJYL2Hbd) | 2:55 | 2025-07-24 |  |
+| [A Sky Inside](https://open.spotify.com/track/0JAo9MefKP0TdcklH2BBRL) | [Starfield Echo](https://open.spotify.com/artist/4rEMs74XRhiHTEycuIVyAh) | [A Sky Inside](https://open.spotify.com/album/4p4i5aXparmdP3ZJYL2Hbd) | 2:55 | 2025-07-24 | 2025-12-02 |
 | [A Solid State](https://open.spotify.com/track/0j7itsX7DkAsHJQQGL4XJe) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [A Solid State](https://open.spotify.com/album/31b43Zr4Eb7nNEnsX6GywM) | 2:53 | 2023-03-23 | 2024-03-21 |
 | [A Special Place](https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [A Special Place](https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB) | 2:26 | 2024-07-09 | 2025-01-09 |
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2023-03-23 | 2024-05-05 |
@@ -145,7 +145,7 @@
 | [Celestia](https://open.spotify.com/track/1KL3vXV6GaClrlhNkt1TR9) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Celestia](https://open.spotify.com/album/7HoO3mUB1L6mRK5BP6kidR) | 2:44 | 2025-11-12 |  |
 | [Celestial Bliss](https://open.spotify.com/track/7KM2IzL238AnUMw7FqWrRB) | [Felix Lancaster](https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4) | [Celestial Bliss](https://open.spotify.com/album/2k7vTKuo2IRa2niagED1z1) | 2:36 | 2024-10-14 | 2025-03-28 |
 | [Celestial Drift](https://open.spotify.com/track/7tShTLflfkgBxjMEFs6N8l) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Celestial Drift](https://open.spotify.com/album/4xgtSnUGTIyIPA7oZQsCWX) | 3:00 | 2024-01-17 | 2024-03-07 |
-| [Celestial Lights](https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Celestial Lights](https://open.spotify.com/album/2FkbPQFsoBizcGbrkT4u7S) | 2:40 | 2025-02-04 |  |
+| [Celestial Lights](https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Celestial Lights](https://open.spotify.com/album/2FkbPQFsoBizcGbrkT4u7S) | 2:40 | 2025-02-04 | 2025-12-02 |
 | [Cette Montagne](https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Cette Montagne](https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf) | 3:26 | 2023-03-23 | 2024-05-05 |
 | [Changes](https://open.spotify.com/track/5wlC59ql7RSgBjZAL9lOYc) | [Vinícius Énnae](https://open.spotify.com/artist/3kj0g7ata90ABzu9sHr5XD) | [Changes](https://open.spotify.com/album/3CV53NBLvCuGuGUN75RupY) | 3:06 | 2023-03-23 | 2024-05-21 |
 | [Changing Winds](https://open.spotify.com/track/7sNIwVvNRT0REGuBLit27x) | [Rawiri Te Awa](https://open.spotify.com/artist/7N2I8FaKX2fyQSVIOEzFRP) | [Changing Winds](https://open.spotify.com/album/4Yy3FxXEXLKpcCzA7irgdb) | 2:46 | 2025-11-12 |  |
@@ -189,6 +189,7 @@
 | [Crystal Shells](https://open.spotify.com/track/2zYMpzcL5s032DNC3FX1M0) | [Sasha Coleman](https://open.spotify.com/artist/48h7ZhLv7ZR1D1HFUcA7oO) | [Crystal Shells](https://open.spotify.com/album/63yjO9pMTTnJni9RA6d6Wh) | 2:37 | 2025-02-26 | 2025-07-04 |
 | [Crystalline](https://open.spotify.com/track/27YaBVbv8K7atUj0EoE4gQ) | [Andromedaecho](https://open.spotify.com/artist/5X4x6jIGCFmtPxI4c3GgbC) | [Crystalline](https://open.spotify.com/album/6YyOTspsFXEm7eYXDZHCpq) | 3:28 | 2024-05-04 | 2024-07-12 |
 | [Cynosure](https://open.spotify.com/track/7lIKaNo2Pgd4vl7HhPHEji) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Cynosure](https://open.spotify.com/album/4O0gCkddeyolsrAetSBx0d) | 2:36 | 2025-06-25 |  |
+| [Cyrene](https://open.spotify.com/track/0ba7fzDvZHSyVRrC4c5Tr7) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Cyrene](https://open.spotify.com/album/5GftmKG9oxt9uLGoe2hood) | 2:46 | 2025-11-12 |  |
 | [Daffodilian Dreams](https://open.spotify.com/track/4xEChYDVoW5ZW21kuwUwSD) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Daffodilian Dreams](https://open.spotify.com/album/1LRYvwhy94JRhYc6yY9ovf) | 2:27 | 2024-05-20 | 2025-05-13 |
 | [Dans Mes Rèves](https://open.spotify.com/track/5rnWDfjlHA2OVtes6J2RF7) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Dans Mes Rèves](https://open.spotify.com/album/1FEBGcOFl7kr7zf1GOK0rH) | 2:32 | 2023-03-23 | 2024-05-05 |
 | [Dark Blue](https://open.spotify.com/track/2BTJLOrqvYeLLeEub0IDJx) | [Palace Flower](https://open.spotify.com/artist/1uU27K4D96Hn0ws2lULjHp) | [Dark Blue](https://open.spotify.com/album/4RlbWH1eu5h1ICu4zeA35n) | 2:54 | 2023-03-23 | 2024-03-21 |
@@ -231,7 +232,7 @@
 | [Dreaming of Tomorrow](https://open.spotify.com/track/3EFaN9v9tupcVsokB6OswI) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Dreaming of Tomorrow](https://open.spotify.com/album/12mfOaap1GI6c0SCuQNLCK) | 2:50 | 2024-02-08 | 2024-07-13 |
 | [Dreamless](https://open.spotify.com/track/4NfFX4UXNLP7kjvQqdlxag) | [Aitne](https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO) | [Dreamless](https://open.spotify.com/album/4nOghyDZWdB3mqNpVmrjCQ) | 3:04 | 2024-01-17 | 2025-03-01 |
 | [Dreamplay](https://open.spotify.com/track/2LkRhuE955ZZ5QLCYNU1HM) | [Fabuluxe](https://open.spotify.com/artist/4MwFbGn1PGHhaKAkhtEVDP) | [Dreamplay](https://open.spotify.com/album/0Dr78N59UGKGci0dtR5Xoj) | 2:50 | 2025-02-26 |  |
-| [Dreamscape Calmitude](https://open.spotify.com/track/1gnYXbQ7MVciBMO5MtXIfN) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Dreamscape Calmitude](https://open.spotify.com/album/3qE5BgBOSVtKefkKbJNFtl) | 3:07 | 2025-05-27 |  |
+| [Dreamscape Calmitude](https://open.spotify.com/track/1gnYXbQ7MVciBMO5MtXIfN) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Dreamscape Calmitude](https://open.spotify.com/album/3qE5BgBOSVtKefkKbJNFtl) | 3:07 | 2025-05-27 | 2025-12-02 |
 | [Dreamwalker](https://open.spotify.com/track/52ahkUIhePPGiz4lvI4Ah9) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Dreamwalker](https://open.spotify.com/album/3tWedrnHrVXerXmF2Euion) | 2:48 | 2024-03-20 |  |
 | [Dreyma](https://open.spotify.com/track/4k1kHU7F4Y2rJFkDJrtcuk) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Dreyma](https://open.spotify.com/album/1Y6RbEzGoaZptjqC2vF6YQ) | 2:47 | 2025-03-19 |  |
 | [drifting](https://open.spotify.com/track/0Bkuw9iTcI7JGHnLDcYDiR) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [drifting](https://open.spotify.com/album/43XZAnWowTdkO2jEoDxmB8) | 2:45 | 2024-04-05 | 2024-05-05 |
@@ -405,6 +406,7 @@
 | [Initially](https://open.spotify.com/track/6JNaHAeQrCiqIf0nvZHu3b) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Initially](https://open.spotify.com/album/6Wesmg2ZiQ944z84Gqdm3S) | 3:05 | 2024-12-03 | 2025-05-29 |
 | [Ink](https://open.spotify.com/track/1n7faxE0AzrxoLz0OmQl6Q) | [Divijata Ash](https://open.spotify.com/artist/5CRHdG2bIiKcAsRwAmJqwg) | [Ink](https://open.spotify.com/album/4HV2Fmobr0NiMNuQfLtJFk) | 3:01 | 2024-05-04 | 2025-03-03 |
 | [Inner Guidance](https://open.spotify.com/track/7fhxsFzVhoznTnK7UlbnLv) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Inner Guidance](https://open.spotify.com/album/5dYYm6NNZ5aM8Nxf5Djy29) | 4:01 | 2024-01-17 | 2024-03-21 |
+| [Inner Peace](https://open.spotify.com/track/1a1WigZxBQWaKdqBfGHJLX) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Inner Peace](https://open.spotify.com/album/369TKysbFo2IGmw2ntwIGI) | 2:52 | 2025-11-12 |  |
 | [Inner Realm](https://open.spotify.com/track/28k1LumefEFmrUKTRaakIO) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Inner Realm](https://open.spotify.com/album/6D0Gk54OLdjSPcJucPYJ0s) | 3:23 | 2025-02-04 | 2025-07-24 |
 | [Inner Strength and Courage](https://open.spotify.com/track/5AiDahGjCGvc0zSsU3nz2A) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Inner Strength and Courage](https://open.spotify.com/album/5N7hvsSyBmye2JyaQ7UziS) | 3:10 | 2024-08-30 | 2024-12-22 |
 | [Insightful](https://open.spotify.com/track/0NlByUffMwnOmFjoGgJNCs) | [Noah Florence](https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6) | [Insightful](https://open.spotify.com/album/06gZhh1yRVqsA3E6By30MH) | 2:45 | 2024-03-06 | 2025-01-09 |
@@ -628,6 +630,7 @@
 | [Reappearance](https://open.spotify.com/track/381txcpzL73JjcdV2690sm) | [Spacetactular](https://open.spotify.com/artist/7FQhluCKlC5UBRvkodPl8m) | [Reappearance](https://open.spotify.com/album/0O2ZiFlvME9d031RNbZJqp) | 2:02 | 2023-03-23 | 2024-02-09 |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2023-03-23 | 2024-02-09 |
 | [Rebirth](https://open.spotify.com/track/2KCD0Kx46ftF8quaA1I0cP) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Night Meadows](https://open.spotify.com/album/0gsw7NryxN2GDB8tjIjrWn) | 3:11 | 2023-03-23 | 2023-05-06 |
+| [Recognition](https://open.spotify.com/track/6uw0ljrK4RlyEckezeUaMa) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Recognition](https://open.spotify.com/album/6IQA2AcX3BLAQ7k46YhxmZ) | 3:09 | 2025-11-12 |  |
 | [Recombination](https://open.spotify.com/track/0vTkzpVA6dpjQo5s6l9WOg) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Recombination](https://open.spotify.com/album/0gOoHcaJF4R89QSkjlQVCA) | 2:59 | 2024-11-05 | 2025-03-27 |
 | [Reconstitute](https://open.spotify.com/track/3ArhNAMaWOksN4ymVoN0sw) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Reconstitute](https://open.spotify.com/album/5hM6c9HtEY0DzPvHHEobDG) | 2:47 | 2025-09-23 |  |
 | [Reflections](https://open.spotify.com/track/0WMxqTBStEzYizr2V3Z35z) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Reflections](https://open.spotify.com/album/7CBdIfVzECewERr8nvYolp) | 3:17 | 2025-02-14 | 2025-11-14 |

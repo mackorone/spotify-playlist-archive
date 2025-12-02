@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 325170,
+  "num_followers": 325160,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 184827,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
-    },
-    {
-      "added_at": "2025-08-28 23:00:34",
-      "album": {
         "name": "Karibu",
         "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 136406,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
+    },
+    {
+      "added_at": "2025-08-28 23:00:34",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
     },
     {
       "added_at": "2025-08-28 23:00:34",

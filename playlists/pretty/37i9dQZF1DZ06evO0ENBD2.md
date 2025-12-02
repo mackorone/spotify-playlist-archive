@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,963,854 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,963,892 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 26 | [These Are The Days Of Our Lives \- 2011 Remaster](https://open.spotify.com/track/5js1JJOAkR5KwlifBpvHMN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:15 |
 | 27 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 |
 | 28 | [Save Me \- Remastered 2011](https://open.spotify.com/track/1pBFEy8cz0Fq4Pru0c4awd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:49 |
-| 29 | [Bicycle Race \- Remastered 2011](https://open.spotify.com/track/5CTAcf8aS0a0sIsDwQRF9C) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:00 |
-| 30 | [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8) | 2:47 |
+| 29 | [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8) | 2:47 |
+| 30 | [Bicycle Race \- Remastered 2011](https://open.spotify.com/track/5CTAcf8aS0a0sIsDwQRF9C) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:00 |
 | 31 | [It's A Hard Life \- Remastered 2011](https://open.spotify.com/track/34MoKBRdC9JDjcL4b4X1Ic) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 4:06 |
 | 32 | [Breakthru \- Remastered 2011](https://open.spotify.com/track/5Nuxdf0f5PpaeaPm4jrhiE) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(2011 Remaster\)](https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V) | 4:08 |
-| 33 | [Play The Game \- Remastered 2011](https://open.spotify.com/track/5p6xhgQCwzX0G9PadMU9GA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:32 |
-| 34 | [Innuendo \- Remastered 2011](https://open.spotify.com/track/0BzhS74ByIVlyz8BedHaYi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 6:33 |
+| 33 | [Innuendo \- Remastered 2011](https://open.spotify.com/track/0BzhS74ByIVlyz8BedHaYi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 6:33 |
+| 34 | [Play The Game \- Remastered 2011](https://open.spotify.com/track/5p6xhgQCwzX0G9PadMU9GA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:32 |
 | 35 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 4:49 |
 | 36 | [We Are The Champions \- Live Aid](https://open.spotify.com/track/4XaG9IpCXklOcuau1sIrUX) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:57 |
 | 37 | ['39 \- Remastered 2011](https://open.spotify.com/track/65NTcXUtOb27NHKQ4fAcw0) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 49 | [Don't Try Suicide \- Remastered 2011](https://open.spotify.com/track/0V7AVcMTaQqLKzxVloxWHj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:52 |
 | 50 | [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:13 |
 
-Snapshot ID: `aSo3gAAAAACxABQ8kf3avIJI7h0JrI18`
+Snapshot ID: `aSuJAAAAAABKdXgIXcm2b4MO30vN1dRh`

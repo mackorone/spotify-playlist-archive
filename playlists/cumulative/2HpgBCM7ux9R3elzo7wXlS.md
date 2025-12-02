@@ -4,7 +4,7 @@
 
 > All of it
 
-1,060 songs - 2 day 17 hr 2 min
+1,062 songs - 2 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2025-06-02 |  |
 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 | 2025-06-02 |  |
 | [Aries \(feat\. Peter Hook and Georgia\)](https://open.spotify.com/track/2haIfONRw1Bhi2zSp67MYU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Peter Hook](https://open.spotify.com/artist/7yE0pgnhHPnPk4GZVuEpZM), [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Song Machine Episode 3](https://open.spotify.com/album/7z7ioOPs2FaEWB2uRWjfCE) | 4:13 | 2025-06-02 |  |
+| [Armies of the Lord](https://open.spotify.com/track/1NRA6m1D5w3XbJPfs1xS3g) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Through This Fire Across from Peter Balkan](https://open.spotify.com/album/23wXSnurzNp56xCyGBPQ65) | 5:09 | 2025-12-02 |  |
 | [Aruarian Dance](https://open.spotify.com/track/2F5e9kJc67bSXfTiITlcUe) | [skoomy](https://open.spotify.com/artist/7GyNvpxE8hXDIYpKAUxFJN) | [Aruarian Dance](https://open.spotify.com/album/6aE2QNRYDWyxJihU8F93C5) | 4:34 | 2025-06-02 |  |
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2025-06-02 |  |
 | [As the World Caves In](https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [As the World Caves In](https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH) | 2:41 | 2025-06-02 |  |
@@ -184,6 +185,7 @@
 | [Count Me Out](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:43 | 2025-06-02 |  |
 | [Count to Five](https://open.spotify.com/track/4ynqq6nbZUPI0fsD5ooALh) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Stray](https://open.spotify.com/album/2cB3JYraRPrxqIODugyL6M) | 3:04 | 2025-06-02 |  |
 | [Coup de Grace](https://open.spotify.com/track/0F4qfsJvnRkqYRu51di03k) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Call of Duty: Modern Warfare 2 \(Original Game Score\)](https://open.spotify.com/album/6MLrVz0HyVkRUd9jnhagKc) | 3:21 | 2025-06-02 |  |
+| [Cowboying](https://open.spotify.com/track/2Kh1GlkA7DqZsAOu1iAa4Y) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [What of Our Nature](https://open.spotify.com/album/2hmp05PYZ92rxCK0cdTaZd) | 3:11 | 2025-12-01 |  |
 | [Cracklin' Rosie \- Single Version](https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Tap Root Manuscript](https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO) | 2:59 | 2025-06-02 |  |
 | [CRANK](https://open.spotify.com/track/7xAvtuHf8nGi5OtXVPYgb3) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:27 | 2025-11-06 |  |
 | [Crazier](https://open.spotify.com/track/3druZC9WrM7UUv82PX0SfA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:58 | 2025-06-02 |  |

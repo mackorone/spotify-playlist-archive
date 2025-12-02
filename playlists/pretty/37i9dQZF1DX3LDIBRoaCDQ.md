@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: The Damned from DB Burkeman's <a href="https://www.blurringbooks.com/book/crash"> Crash Bang</a>, a book filled with photos & culture from the late ’70s/early ’80s New York, LA & London punk scenes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,184 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601,162 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 33 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
 | 34 | [Knowledge \- 2007 Remaster](https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 1:42 |
 | 35 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 |
-| 36 | [Six Pack](https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:20 |
-| 37 | [Corona](https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8) | [Minutemen](https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz) | [Double Nickels on the Dime](https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF) | 2:25 |
-| 38 | [See No Evil](https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 3:52 |
+| 36 | [See No Evil](https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Marquee Moon](https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP) | 3:52 |
+| 37 | [Six Pack](https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:20 |
+| 38 | [Corona](https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8) | [Minutemen](https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz) | [Double Nickels on the Dime](https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF) | 2:25 |
 | 39 | [Hope](https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq) | 2:00 |
 | 40 | [Suffer](https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:47 |
 | 41 | [Bastards of Young \- 2008 Remaster](https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim \(Expanded\)](https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve) | 3:38 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 87 | [Add It Up \- 2002 Remastered Version](https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB) | 4:43 |
 | 88 | [Salad Days](https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [Salad Days](https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y) | 2:46 |
 | 89 | [Sick Boy](https://open.spotify.com/track/4w6R5BW7q2u06Cq9vA5Kn8) | [GBH](https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY) | [City Baby Attacked by Rats](https://open.spotify.com/album/3E9flqSwqJRUuhZ3l4K8S6) | 2:32 |
-| 90 | [Oh Bondage! Up Yours!](https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:51 |
-| 91 | [Bad Mouth](https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:35 |
-| 92 | [Rock 'N' Roll High School \- Remastered](https://open.spotify.com/track/0CZPjc07HBHxmZVvVnnHWx) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loud, Fast, Ramones: Their Toughest Hits](https://open.spotify.com/album/0Me9wrzxQGN7vZDudzlI4t) | 2:17 |
+| 90 | [I Wanna Be Sedated](https://open.spotify.com/track/0weTorJ7HSAdi874qIFCXM) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rhino Hi\-Five: Ramones](https://open.spotify.com/album/5J9I5RkAe6EMWb4aZxAKYl) | 2:30 |
+| 91 | [Oh Bondage! Up Yours!](https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:51 |
+| 92 | [Bad Mouth](https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:35 |
 | 93 | [What Do I Get?](https://open.spotify.com/track/69cHTfo3Dc7S4sl1bQScNO) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Operators Manual \(Buzzcocks Best\)](https://open.spotify.com/album/61K4bZBmmHrMdTZiRWERBF) | 2:56 |
 | 94 | [Minor Threat](https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC) | 1:31 |
-| 95 | [Identity](https://open.spotify.com/track/7xvIF8xmq2HsN2jvNcrEiv) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:25 |
-| 96 | [Banned In D.C.](https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc) | 2:12 |
-| 97 | [Search and Destroy](https://open.spotify.com/track/7Gd94scnTXpy4RWyPYg6A1) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [My Girl Hates My Heroin](https://open.spotify.com/album/1ztQiUdQorH2BJfMAgKdBW) | 3:49 |
-| 98 | [Blank Generation](https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Blank Generation](https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw) | 2:43 |
-| 99 | [I Wanna Be Sedated](https://open.spotify.com/track/0weTorJ7HSAdi874qIFCXM) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rhino Hi\-Five: Ramones](https://open.spotify.com/album/5J9I5RkAe6EMWb4aZxAKYl) | 2:30 |
+| 95 | [Rock 'N' Roll High School \- Remastered](https://open.spotify.com/track/0CZPjc07HBHxmZVvVnnHWx) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loud, Fast, Ramones: Their Toughest Hits](https://open.spotify.com/album/0Me9wrzxQGN7vZDudzlI4t) | 2:17 |
+| 96 | [Identity](https://open.spotify.com/track/7xvIF8xmq2HsN2jvNcrEiv) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:25 |
+| 97 | [Banned In D.C.](https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc) | 2:12 |
+| 98 | [Search and Destroy](https://open.spotify.com/track/7Gd94scnTXpy4RWyPYg6A1) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [My Girl Hates My Heroin](https://open.spotify.com/album/1ztQiUdQorH2BJfMAgKdBW) | 3:49 |
+| 99 | [Blank Generation](https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG) | [Richard Hell](https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB) | [Blank Generation](https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw) | 2:43 |
 | 100 | [Anarchy Burger \(Hold The Government\)](https://open.spotify.com/track/43UVZ8ZgNNuXOf0mTBeLSo) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Peace Thru Vandalism \(Re\-Mastered\)](https://open.spotify.com/album/5rPr9N2sCgivHFmQu6qJj1) | 1:54 |
 
 Snapshot ID: `AAAAAH/c9Ts5g/rW0UXQqdBISwnbfbg5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,447 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,454 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 49 | [Walkin' Blues](https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:58 |
 | 50 | [I Want to Be Loved \#2](https://open.spotify.com/track/5Q5GJBCmWJo7z7K8g223K1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Hard Again](https://open.spotify.com/album/11pwCi0JWNahMuu9ViIx3Q) | 2:21 |
 
-Snapshot ID: `aSo3gAAAAAC0NGRbLa+Ec0RLxEmeJTHU`
+Snapshot ID: `aSuJAAAAAABctKFiQpL9K+EYEo4e4G+9`

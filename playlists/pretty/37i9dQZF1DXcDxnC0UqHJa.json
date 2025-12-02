@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 449089,
+  "num_followers": 449057,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-11-21 05:00:37",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 255675,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki"
-    },
-    {
-      "added_at": "2025-11-21 05:00:37",
-      "album": {
         "name": "Nobody Dies Anymore",
         "url": "https://open.spotify.com/album/7gCbxIpqSafuDrI7ixuMIr"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 238049,
       "name": "Nobody Dies Anymore",
       "url": "https://open.spotify.com/track/78xIX4Kt6miLXt3uMzez9W"
+    },
+    {
+      "added_at": "2025-11-21 05:00:37",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 255675,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki"
     },
     {
       "added_at": "2025-11-21 05:00:37",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-11-21 05:00:37",
       "album": {
-        "name": "A Complete Unknown (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4"
-      },
-      "artists": [
-        {
-          "name": "Timoth\u00e9e Chalamet",
-          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF"
-    },
-    {
-      "added_at": "2025-11-21 05:00:37",
-      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 248360,
       "name": "Unknown Legend",
       "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
+    },
+    {
+      "added_at": "2025-11-21 05:00:37",
+      "album": {
+        "name": "A Complete Unknown (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF"
     },
     {
       "added_at": "2025-11-21 05:00:37",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-11-21 05:00:37",
       "album": {
-        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
-      },
-      "artists": [
-        {
-          "name": "Timoth\u00e9e Chalamet",
-          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "A Hard Rain's A-Gonna Fall",
-      "url": "https://open.spotify.com/track/3F544tk9EjPIxsSCyNW1KQ"
-    },
-    {
-      "added_at": "2025-11-21 05:00:37",
-      "album": {
         "name": "Pine Hollow (Live)",
         "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 253000,
       "name": "Jolene - Live",
       "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
+    },
+    {
+      "added_at": "2025-11-21 05:00:37",
+      "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 206796,
+      "name": "The Safety Dance",
+      "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
     },
     {
       "added_at": "2025-11-21 05:00:37",
@@ -743,18 +743,18 @@
     {
       "added_at": "2025-11-21 05:00:37",
       "album": {
-        "name": "Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
+        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
       },
       "artists": [
         {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
         }
       ],
-      "duration_ms": 206796,
-      "name": "The Safety Dance",
-      "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
+      "duration_ms": 184546,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/3F544tk9EjPIxsSCyNW1KQ"
     },
     {
       "added_at": "2025-11-21 05:00:37",
@@ -867,26 +867,6 @@
     {
       "added_at": "2025-11-21 05:00:37",
       "album": {
-        "name": "Listen To The Radio",
-        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 240386,
-      "name": "Listen To The Radio",
-      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
-    },
-    {
-      "added_at": "2025-11-21 05:00:37",
-      "album": {
         "name": "Let Down",
         "url": "https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 237013,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo"
+    },
+    {
+      "added_at": "2025-11-21 05:00:37",
+      "album": {
+        "name": "Listen To The Radio",
+        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 240386,
+      "name": "Listen To The Radio",
+      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
     },
     {
       "added_at": "2025-11-21 05:00:37",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-11-21 05:00:37",
       "album": {
-        "name": "Saint Cloud +3",
-        "url": "https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 278456,
-      "name": "Light of a Clear Blue Morning",
-      "url": "https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn"
-    },
-    {
-      "added_at": "2025-11-21 05:00:37",
-      "album": {
         "name": "So Low",
         "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 264930,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
+    },
+    {
+      "added_at": "2025-11-21 05:00:37",
+      "album": {
+        "name": "Saint Cloud +3",
+        "url": "https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 278456,
+      "name": "Light of a Clear Blue Morning",
+      "url": "https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn"
     },
     {
       "added_at": "2025-11-21 05:00:37",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-11-21 05:00:37",
       "album": {
-        "name": "Coming Around Again",
-        "url": "https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 214625,
-      "name": "Coming Around Again",
-      "url": "https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7"
-    },
-    {
-      "added_at": "2025-11-21 05:00:37",
-      "album": {
         "name": "Little Hands",
         "url": "https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 367333,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"
+    },
+    {
+      "added_at": "2025-11-21 05:00:37",
+      "album": {
+        "name": "Coming Around Again",
+        "url": "https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 214625,
+      "name": "Coming Around Again",
+      "url": "https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7"
     },
     {
       "added_at": "2025-11-21 05:00:37",

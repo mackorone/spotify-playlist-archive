@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-103 songs - 5 hr 49 min
+104 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [TU PEOR ENEMIGO](https://open.spotify.com/track/53uQB3TDPmEl5lNhUd5ddB) | [lorenzo](https://open.spotify.com/artist/0ZTHezz846ANN3ssdfozCD) | [TU PEOR ENEMIGO](https://open.spotify.com/album/3Tr8y87l1nOkNf27wxoC8t) | 3:39 | 2025-11-03 |  |
 | [Una Señal](https://open.spotify.com/track/3MaxzGBdn5zDmrAziSGFu3) | [Joselu Toribio](https://open.spotify.com/artist/1LUaDb2TDUyN4MBowhnWqu) | [Una Señal](https://open.spotify.com/album/27m8pNmvR6GNsXzoLkN3sz) | 3:42 | 2025-11-12 |  |
 | [Upstairs](https://open.spotify.com/track/4lJYXQFig7YEqBPZHcFxwI) | [Alma Samiri](https://open.spotify.com/artist/6scn9hopwDs5jfwtV5aZ1V), [Alfred YAO](https://open.spotify.com/artist/65wEQSfJRfQmdlVDl2MjCg) | [Upstairs](https://open.spotify.com/album/14EUlHI6yl60oXvNKZQyJ0) | 2:29 | 2025-10-29 |  |
+| [Vur Kalbimden](https://open.spotify.com/track/0fu2sSqESedfVKV7QD7fBz) | [Azel](https://open.spotify.com/artist/6Wefz4jdGRWUIPjmvl76QU) | [Vur Kalbimden](https://open.spotify.com/album/7efSlA8XFS5odUgIg36w0V) | 3:11 | 2025-12-01 |  |
 | [We're Not Going Back !](https://open.spotify.com/track/2ZfUwtNAa1m2pFfbw12P1f) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [We're Not Going Back !](https://open.spotify.com/album/24RpqAI2h0N71yyWZAHjUR) | 3:09 | 2025-11-03 |  |
 | [Weaker](https://open.spotify.com/track/6EXLpcnf9KBY7T16ZfX1Y1) | [Daryan Tchoubineh](https://open.spotify.com/artist/5kTeo0SHSNeFvUQP4mhtxj) | [Weaker](https://open.spotify.com/album/44m2wMyKWD8ANnMBUToYp5) | 3:31 | 2025-11-22 |  |
 | [White Roses](https://open.spotify.com/track/0dRwGLzgtvpZvS5NncfRJ8) | [Javier Sánchez](https://open.spotify.com/artist/012ou1HhOyZ6iFWL7FYsyZ) | [White Roses](https://open.spotify.com/album/4vPVInfF4dXmKVKFBR30XY) | 3:10 | 2025-11-10 |  |

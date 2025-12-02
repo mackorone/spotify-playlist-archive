@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,240 likes - 46 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,233 likes - 46 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 35 | [Mande Um Sinal / Sinais \- Ao vivo](https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 4:41 |
 | 36 | [Um Pôr do Sol Na Praia](https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Um Pôr do Sol Na Praia](https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO) | 3:08 |
 | 37 | [Coisa de Pele](https://open.spotify.com/track/6WSj6dONKKx9InJwNhcvYI) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 3:24 |
-| 38 | [Eu estive Aqui \- Ao Vivo](https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:40 |
+| 38 | [Sinais de fogo \- Ao Vivo](https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:21 |
 | 39 | [Sintoma de Amor / Depois do Amor / Agenda \- Ao vivo](https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 5:25 |
 | 40 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 |
 | 41 | [Meu Defeito](https://open.spotify.com/track/6bIfEba9GxPRhIdRmFz8zv) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 3:16 |
-| 42 | [Sinais de fogo \- Ao Vivo](https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:21 |
+| 42 | [Eu estive Aqui \- Ao Vivo](https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:40 |
 | 43 | [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 |
 | 44 | [Whine](https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 2:58 |
 | 45 | [Ninguém Merece Amar Sozinho](https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Ninguém Merece Amar Sozinho](https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0) | 3:47 |
 | 46 | [Apê 1001](https://open.spotify.com/track/6oVNrpMWlzS6UkQuuM8zHU) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:51 |
 
-Snapshot ID: `aSo3gAAAAACTStdqfNgswagZOFvz9pL+`
+Snapshot ID: `aSuJAAAAAAAUGEwmWGtJsmNJ6ri8+mI+`

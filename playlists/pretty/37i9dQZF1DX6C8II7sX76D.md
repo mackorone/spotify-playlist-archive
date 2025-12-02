@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,163 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,202 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 3 | [Black Out Days \(Stay Away\)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Black Out Days \(Stay Away\)](https://open.spotify.com/album/5tqjvPX88OX1OpVo1QGBYC) | 2:52 |
 | 4 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
 | 5 | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Salomé Das](https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77) | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo) | 2:52 |
-| 6 | [REHAB](https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [REHAB](https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas) | 3:15 |
-| 7 | [Curry Goat](https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Solesky](https://open.spotify.com/artist/68Qt3UOMYDriBgoq9NAATw) | [Curry Goat](https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV) | 2:19 |
+| 6 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 |
+| 7 | [REHAB](https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [REHAB](https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas) | 3:15 |
 | 8 | [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 |
 | 9 | [messy](https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [messy](https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP) | 3:27 |
 | 10 | [Blue Monday](https://open.spotify.com/track/5dXZhZbDHWu6zwXkssFQcs) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Blue Monday](https://open.spotify.com/album/743cLwhIfyy5dFZNEF6zOw) | 4:12 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 20 | [Mas Que Nada](https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Sérgio Mendes](https://open.spotify.com/artist/2U72p3AsKMmh1jxIa2Ty65) | [Mas Que Nada](https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf) | 2:07 |
 | 21 | [i like the way you kiss me \- southstar remix](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 2:17 |
 | 22 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
-| 23 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 |
+| 23 | [Curry Goat](https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Solesky](https://open.spotify.com/artist/68Qt3UOMYDriBgoq9NAATw) | [Curry Goat](https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV) | 2:19 |
 | 24 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 |
 | 25 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
 | 26 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 50 | [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 |
 
-Snapshot ID: `AAAAAKA6MHkwdI2e+1zpwP64P3KEiKVr`
+Snapshot ID: `AAAAAO5VrCwVvYFR4GDlCfPVG0MAgsJ0`

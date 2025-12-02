@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 22262,
+  "num_followers": 22317,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "rainy evening",
-        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
-      },
-      "artists": [
-        {
-          "name": "Idealism",
-          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Controlla",
-      "url": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Chillhop Essentials Spring 2017",
         "url": "https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 152812,
       "name": "Koi",
       "url": "https://open.spotify.com/track/5zaVUfHKidYZ8xIsDOnWl6"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "rainy evening",
+        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -479,8 +479,8 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Legends of the Past",
-        "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
+        "name": "Mind Temple",
+        "url": "https://open.spotify.com/album/7erfxu8pJ5KRvYHvIwEss5"
       },
       "artists": [
         {
@@ -488,9 +488,25 @@
           "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
         }
       ],
-      "duration_ms": 128571,
-      "name": "Torii Road",
-      "url": "https://open.spotify.com/track/6U4InR48CmnV8jhCCx9JNN"
+      "duration_ms": 179000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2973DHddEjLXmV4Wq9ldhY"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Forest Shrine",
+        "url": "https://open.spotify.com/album/7ouPAfQBNWJI2BX8GZe19d"
+      },
+      "artists": [
+        {
+          "name": "Kerusu",
+          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
+        }
+      ],
+      "duration_ms": 190302,
+      "name": "Forest Shrine",
+      "url": "https://open.spotify.com/track/6U84Oadw1LFCLl5NyDOY00"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -511,22 +527,6 @@
       "duration_ms": 147000,
       "name": "Sage",
       "url": "https://open.spotify.com/track/63yGlWei594l3Me8KaKF2G"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Forest Shrine",
-        "url": "https://open.spotify.com/album/7ouPAfQBNWJI2BX8GZe19d"
-      },
-      "artists": [
-        {
-          "name": "Kerusu",
-          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
-        }
-      ],
-      "duration_ms": 190302,
-      "name": "Forest Shrine",
-      "url": "https://open.spotify.com/track/6U84Oadw1LFCLl5NyDOY00"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -563,8 +563,8 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Mind Temple",
-        "url": "https://open.spotify.com/album/7erfxu8pJ5KRvYHvIwEss5"
+        "name": "Legends of the Past",
+        "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2973DHddEjLXmV4Wq9ldhY"
+      "duration_ms": 128571,
+      "name": "Torii Road",
+      "url": "https://open.spotify.com/track/6U4InR48CmnV8jhCCx9JNN"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -903,18 +903,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Mt Fuji",
-        "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
+        "name": "Stories From Japan II",
+        "url": "https://open.spotify.com/album/2z39Ia2ATOWwjVns0G7jjF"
       },
       "artists": [
         {
-          "name": "lechiffrebeats",
-          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+        },
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
         }
       ],
-      "duration_ms": 116841,
-      "name": "Mt Fuji",
-      "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
+      "duration_ms": 188571,
+      "name": "Lost in Tokyo",
+      "url": "https://open.spotify.com/track/6PLBqxTZIugoOSsBDxcAG2"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -935,22 +939,18 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Stories From Japan II",
-        "url": "https://open.spotify.com/album/2z39Ia2ATOWwjVns0G7jjF"
+        "name": "Mt Fuji",
+        "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
       },
       "artists": [
         {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
-        },
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+          "name": "lechiffrebeats",
+          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Lost in Tokyo",
-      "url": "https://open.spotify.com/track/6PLBqxTZIugoOSsBDxcAG2"
+      "duration_ms": 116841,
+      "name": "Mt Fuji",
+      "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "First Light Of Spring",
-        "url": "https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH"
-      },
-      "artists": [
-        {
-          "name": "Lenny B",
-          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
-        },
-        {
-          "name": "Coloured Rocks",
-          "url": "https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t"
-        }
-      ],
-      "duration_ms": 140678,
-      "name": "Jade Temple",
-      "url": "https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Journey To Osaka",
         "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
       },
@@ -1075,18 +1055,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Chinese Morning",
-        "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
+        "name": "First Light Of Spring",
+        "url": "https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH"
       },
       "artists": [
         {
-          "name": "The Geek x Vrv",
-          "url": "https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF"
+          "name": "Lenny B",
+          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
+        },
+        {
+          "name": "Coloured Rocks",
+          "url": "https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Chinese Morning",
-      "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
+      "duration_ms": 140678,
+      "name": "Jade Temple",
+      "url": "https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
+        "name": "Chinese Morning",
+        "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
+      },
+      "artists": [
+        {
+          "name": "The Geek x Vrv",
+          "url": "https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Chinese Morning",
+      "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
         "name": "Sunday Vibes",
         "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 133668,
       "name": "Birds",
       "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Yamete",
-        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
-      },
-      "artists": [
-        {
-          "name": "Tosama Beats",
-          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Yamete",
-      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Phase",
-        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
+        "name": "Yamete",
+        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
       },
       "artists": [
         {
-          "name": "Howle",
-          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
+          "name": "Tosama Beats",
+          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
         }
       ],
-      "duration_ms": 234782,
-      "name": "Phase",
-      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
+      "duration_ms": 195829,
+      "name": "Yamete",
+      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1187,6 +1171,22 @@
       "duration_ms": 219112,
       "name": "Yu Garden",
       "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
+      },
+      "artists": [
+        {
+          "name": "Howle",
+          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
+        }
+      ],
+      "duration_ms": 234782,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Red Lamps.",
-        "url": "https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi"
-      },
-      "artists": [
-        {
-          "name": "greenface",
-          "url": "https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL"
-        },
-        {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
-        }
-      ],
-      "duration_ms": 131294,
-      "name": "Red Lamps.",
-      "url": "https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Kodama",
         "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 139095,
       "name": "Anata",
       "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Red Lamps.",
+        "url": "https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi"
+      },
+      "artists": [
+        {
+          "name": "greenface",
+          "url": "https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL"
+        },
+        {
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+        }
+      ],
+      "duration_ms": 131294,
+      "name": "Red Lamps.",
+      "url": "https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Lost in Japan II",
-        "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
-      },
-      "artists": [
-        {
-          "name": "Elijah Nang",
-          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "Song of the Samurai",
-      "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Nama",
         "url": "https://open.spotify.com/album/2gaz2Ko1IGrk8LfQxAgSBX"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 161020,
       "name": "Nama",
       "url": "https://open.spotify.com/track/5uvMZMApFm7G5pVueAmXhu"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Lost in Japan II",
+        "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
+      },
+      "artists": [
+        {
+          "name": "Elijah Nang",
+          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "Song of the Samurai",
+      "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Days Before You",
-        "url": "https://open.spotify.com/album/4KKeoHKRCneg7G2qfdiPRY"
-      },
-      "artists": [
-        {
-          "name": "Ngyn",
-          "url": "https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL"
-        }
-      ],
-      "duration_ms": 126822,
-      "name": "Tides of Summer",
-      "url": "https://open.spotify.com/track/6XbMP4HWXEC6gKe84WvutA"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Torimichi",
         "url": "https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 221832,
       "name": "rainy day",
       "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Days Before You",
+        "url": "https://open.spotify.com/album/4KKeoHKRCneg7G2qfdiPRY"
+      },
+      "artists": [
+        {
+          "name": "Ngyn",
+          "url": "https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL"
+        }
+      ],
+      "duration_ms": 126822,
+      "name": "Tides of Summer",
+      "url": "https://open.spotify.com/track/6XbMP4HWXEC6gKe84WvutA"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Aquilla",
-        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
-      },
-      "artists": [
-        {
-          "name": "Loafy Building",
-          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
-        },
-        {
-          "name": "Hoogway",
-          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
-        }
-      ],
-      "duration_ms": 124765,
-      "name": "Zhuki",
-      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Sakura Temple",
         "url": "https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 129082,
       "name": "Miso",
       "url": "https://open.spotify.com/track/6dIgNPbGc6tsl2BofmRPUa"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Aquilla",
+        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
+      },
+      "artists": [
+        {
+          "name": "Loafy Building",
+          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "duration_ms": 124765,
+      "name": "Zhuki",
+      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
     }
   ],
   "unique_name": "oriental lofi",

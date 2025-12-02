@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Elle E",
-  "num_followers": 25684,
+  "num_followers": 25688,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -229,22 +229,6 @@
       "url": "https://open.spotify.com/track/4NOH87zWncLh9FvLDzq7K9"
     },
     {
-      "added_at": "2025-09-19 09:12:03",
-      "album": {
-        "name": "Spoed",
-        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 150810,
-      "name": "Spoed",
-      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
-    },
-    {
       "added_at": "2025-08-08 08:08:22",
       "album": {
         "name": "My Huis",
@@ -263,6 +247,22 @@
       "duration_ms": 210092,
       "name": "My Huis",
       "url": "https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc"
+    },
+    {
+      "added_at": "2025-09-19 09:12:03",
+      "album": {
+        "name": "Spoed",
+        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 150810,
+      "name": "Spoed",
+      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
     },
     {
       "added_at": "2025-11-28 07:22:14",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
     },
     {
-      "added_at": "2025-08-07 22:00:52",
-      "album": {
-        "name": "Berge",
-        "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 255722,
-      "name": "Berge",
-      "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
-    },
-    {
       "added_at": "2025-11-14 06:02:00",
       "album": {
         "name": "TV TYD",
@@ -691,6 +675,22 @@
       "duration_ms": 204269,
       "name": "Kaya",
       "url": "https://open.spotify.com/track/3AuTu5VGS5AqbIbMJJjf38"
+    },
+    {
+      "added_at": "2025-08-07 22:00:52",
+      "album": {
+        "name": "Berge",
+        "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "duration_ms": 255722,
+      "name": "Berge",
+      "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
     },
     {
       "added_at": "2025-08-07 22:00:52",

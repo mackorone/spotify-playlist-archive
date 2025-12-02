@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Sara Baroni
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,044 likes - 101 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,024 likes - 101 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

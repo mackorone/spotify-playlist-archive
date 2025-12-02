@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover:  FAVE",
-  "num_followers": 258909,
+  "num_followers": 258926,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-11-28 00:01:20",
       "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "added_at": "2025-11-28 00:01:20",
+      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 191160,
       "name": "Commitment",
       "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
-    },
-    {
-      "added_at": "2025-11-28 00:01:20",
-      "album": {
-        "name": "Luv Again",
-        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Luv Again",
-      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     },
     {
       "added_at": "2025-11-28 00:01:20",

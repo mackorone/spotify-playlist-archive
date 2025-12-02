@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc6Ams1C6tL.md) - [plain]
 
 > Taylor Swift is back on top 🥇
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,687 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,633 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

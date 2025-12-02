@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-539 songs - 1 day 7 hr 32 min
+542 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ), [Noah Learmonth](https://open.spotify.com/artist/6Q9ndqe5oLP6PbgENxW1Pp) | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b) | 3:30 | 2025-11-25 |  |
 | [blood \(feat\. KennyHoopla & JUDGE\)](https://open.spotify.com/track/4oGdeEvF5iKi3FydasLD7y) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [JUDGE](https://open.spotify.com/artist/1QyROiT6mJDfdLKRZ9HBIz) | [blood \(feat\. KennyHoopla & JUDGE\)](https://open.spotify.com/album/4WP9gLuuR0r17Tw2GI3I11) | 2:38 | 2020-11-03 | 2022-03-18 |
 | [Blood On My Leather](https://open.spotify.com/track/35ZmQdHzKlVrkWZkn8ftwP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Blood On My Leather](https://open.spotify.com/album/6ahaUiVd3ihYcAHTFCa2do) | 2:33 | 2020-10-10\* | 2021-02-25 |
+| [Blood Run Warm](https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [PLAY!](https://open.spotify.com/album/2PmWuTXfKGX4Tx26VSdUQu) | 3:16 | 2025-12-02 |  |
 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-01-18 | 2025-06-04 |
 | [Boilermaker](https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Boilermaker](https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7) | 3:29 | 2021-04-16 | 2022-03-18 |
 | [Born For This Bullshit \(feat\. Sad13\)](https://open.spotify.com/track/6FwhbeCYKzSvg4Gf5fvFOM) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf), [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg) | [Born For This Bullshit \(feat\. Sad13\)](https://open.spotify.com/album/3HrbnJr4QUgy5qoO2hlPId) | 3:55 | 2021-09-24 | 2025-05-28 |
@@ -93,6 +94,7 @@
 | [crying](https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [crying](https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp) | 3:07 | 2024-05-16 | 2025-06-04 |
 | [Culture Head](https://open.spotify.com/track/4ojof8laCdzwYtQhHswbcR) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Culture Head/HWY 666/Black Eyes Blue/CMFT Must Be Stopped \(Featuring Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6VOTHy1g5S9dceKlzCQENd) | 3:59 | 2020-10-10\* | 2022-03-18 |
 | [CURLED IN](https://open.spotify.com/track/750yDjBGlUvxbzEAg5pJyG) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [CURLED IN](https://open.spotify.com/album/0pOi58vWGJ2H9d7ubJk9Ss) | 3:15 | 2021-02-26 | 2022-03-18 |
+| [Curse](https://open.spotify.com/track/3Uq3THjKQx73juBlWnLFqa) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Body Broker](https://open.spotify.com/album/2qOPFkzeD33AyGvMOblT5u) | 2:23 | 2025-12-01 |  |
 | [Cut Dem](https://open.spotify.com/track/7068rW6H1qMYld5LLNuRv3) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/1dKfCyGJeO4WQBvD0X0YSX) | 3:51 | 2020-10-10\* | 2021-02-25 |
 | [Cyanide](https://open.spotify.com/track/4kutzanEPtsdPPO8kjxjgu) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Cyanide](https://open.spotify.com/album/2Ig6DAdtEvDo6YVTgIOmNH) | 3:27 | 2020-10-10\* | 2021-05-13 |
 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 | 2023-01-13 | 2025-06-04 |
@@ -366,6 +368,7 @@
 | [Puppets Can’t Control You](https://open.spotify.com/track/1J5xY3cpHnTnfPTkUnktwI) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can’t Control You](https://open.spotify.com/album/5Sy2lygukJmycmwJ2sLr0K) | 3:14 | 2025-01-24 |  |
 | [Purge The Poison](https://open.spotify.com/track/1sy0mqUBREJx0A89UsIkIl) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Purge The Poison](https://open.spotify.com/album/4l15cBxcsMtKozzTLPsXnc) | 3:16 | 2021-04-16 | 2022-03-18 |
 | [Queen of New York City](https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Where The Light Goes](https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV) | 3:32 | 2023-05-26 | 2025-06-04 |
+| [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [GODSPEED](https://open.spotify.com/album/7CUuQk7lCT1Stgs5bqt9hY) | 2:56 | 2025-12-01 |  |
 | [RAGE](https://open.spotify.com/track/3wtmfJg7Y59193gisXjdmR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [RAGE](https://open.spotify.com/album/15w0umvukS2W8W4LdsIJQx) | 4:08 | 2025-08-05 |  |
 | [Rain Your Blood On Me](https://open.spotify.com/track/6JriCfDvNyAj4QmEG1HciK) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Rain Your Blood On Me](https://open.spotify.com/album/5nVX7E3Cu7dREQeBle4FRW) | 4:14 | 2025-07-16 |  |
 | [Ramona](https://open.spotify.com/track/5EfK3DZoPOzmVmN29GJKIm) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Ramona](https://open.spotify.com/album/5JKsvGrCimdMGjvuQGctG3) | 3:48 | 2020-11-03 | 2022-03-18 |

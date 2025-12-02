@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 42687,
+  "num_followers": 42701,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-11-28 00:01:19",
       "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
+    },
+    {
+      "added_at": "2025-11-28 00:01:19",
+      "album": {
         "name": "Arike (Remix)",
         "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
-    },
-    {
-      "added_at": "2025-11-28 00:01:19",
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2025-11-28 00:01:19",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-11-28 00:01:19",
       "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 184135,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/0Zy9VEBhwZzh3RPzMDvdrM"
-    },
-    {
-      "added_at": "2025-11-28 00:01:19",
-      "album": {
         "name": "TO CRY A FLOOD",
         "url": "https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 151000,
       "name": "DROWN",
       "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
+    },
+    {
+      "added_at": "2025-11-28 00:01:19",
+      "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 184135,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/0Zy9VEBhwZzh3RPzMDvdrM"
     },
     {
       "added_at": "2025-11-28 00:01:19",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-11-28 00:01:19",
       "album": {
-        "name": "Mali Spirit",
-        "url": "https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW"
-      },
-      "artists": [
-        {
-          "name": "LAGOS IN PARIS",
-          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Mali Spirit",
-      "url": "https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd"
-    },
-    {
-      "added_at": "2025-11-28 00:01:19",
-      "album": {
         "name": "Soundgod Fest IV",
         "url": "https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 128683,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I"
+    },
+    {
+      "added_at": "2025-11-28 00:01:19",
+      "album": {
+        "name": "Mali Spirit",
+        "url": "https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Mali Spirit",
+      "url": "https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd"
     },
     {
       "added_at": "2025-11-28 00:01:19",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2025-11-28 00:01:19",
       "album": {
-        "name": "US III",
-        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
+        "name": "US",
+        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
       },
       "artists": [
         {
@@ -1368,13 +1368,13 @@
           "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
         },
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
         }
       ],
-      "duration_ms": 156190,
-      "name": "US III",
-      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+      "duration_ms": 139047,
+      "name": "US",
+      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
     },
     {
       "added_at": "2025-11-28 00:01:19",
@@ -1435,42 +1435,6 @@
     {
       "added_at": "2025-11-28 00:01:19",
       "album": {
-        "name": "DIVE IN",
-        "url": "https://open.spotify.com/album/0wcF2eQIGacMilWO8F3hTM"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 182565,
-      "name": "DIVE IN",
-      "url": "https://open.spotify.com/track/4zwGCsh0qWBJYpKCJk2wBl"
-    },
-    {
-      "added_at": "2025-11-28 00:01:19",
-      "album": {
-        "name": "US",
-        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
-      },
-      "artists": [
-        {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "US",
-      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
-    },
-    {
-      "added_at": "2025-11-28 00:01:19",
-      "album": {
         "name": "Suns Out",
         "url": "https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy"
       },
@@ -1483,6 +1447,42 @@
       "duration_ms": 151788,
       "name": "Suns Out",
       "url": "https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW"
+    },
+    {
+      "added_at": "2025-11-28 00:01:19",
+      "album": {
+        "name": "US III",
+        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "US III",
+      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+    },
+    {
+      "added_at": "2025-11-28 00:01:19",
+      "album": {
+        "name": "DIVE IN",
+        "url": "https://open.spotify.com/album/0wcF2eQIGacMilWO8F3hTM"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 182565,
+      "name": "DIVE IN",
+      "url": "https://open.spotify.com/track/4zwGCsh0qWBJYpKCJk2wBl"
     },
     {
       "added_at": "2025-11-28 00:01:19",

@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie, med Sarah Klang
 
-1,030 songs - 2 day 11 hr 39 min
+1,031 songs - 2 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Friends](https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Friends](https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU) | 3:50 | 2025-06-05 |  |
 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 | 2025-07-03 | 2025-10-17 |
 | [Fumbling](https://open.spotify.com/track/30gu79HBDubdcbhmUJOjIy) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Fumbling](https://open.spotify.com/album/1yQnL9bEmohv6UQwiRTBko) | 3:20 | 2025-10-30 |  |
+| [Fånga vågen \- Yttling Jazz Remix](https://open.spotify.com/track/087aFkD6MtHl8LwYviYDER) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [Yttling Jazz](https://open.spotify.com/artist/0sHY32geV56IzTbEEomMFG) | [Fånga vågen \(Yttling Jazz Remix\)](https://open.spotify.com/album/5Bv0zjf55eSdmzHDkpZNEB) | 4:03 | 2025-12-01 |  |
 | [Förloraren](https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Förloraren](https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo) | 3:05 | 2025-03-20 | 2025-06-20 |
 | [Gaza is Calling](https://open.spotify.com/track/3ChIzdLUmq1sB9I556xwgC) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Gaza is Calling](https://open.spotify.com/album/33xs5LXJkJZDVptz8ovCcb) | 4:30 | 2024-06-27 | 2024-08-16 |
 | [Ge mig allt du har](https://open.spotify.com/track/0FuvQXwIIiSSJJKfsvSJmh) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Ge mig allt du har](https://open.spotify.com/album/4ze5bjFV8sPKTeYnllQQcB) | 3:13 | 2025-10-16 |  |

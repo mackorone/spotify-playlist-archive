@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 116082,
+  "num_followers": 116086,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN+//FFbTAXaaHzODzWRrte97eAP",
+  "snapshot_id": "AAAAAIAm1Cxx6CU1izvm/AgX8aif7mc5",
   "tracks": [
     {
       "added_at": "2025-11-21 07:23:18",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
+        "name": "Beat It Up",
+        "url": "https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Beat It Up",
+      "url": "https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -351,26 +367,6 @@
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
-        "name": "Killin' It Girl (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 148714,
-      "name": "Killin' It Girl (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -391,18 +387,22 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Beat It Up",
-        "url": "https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp"
+        "name": "Killin' It Girl (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Beat It Up",
-      "url": "https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF"
+      "duration_ms": 148714,
+      "name": "Killin' It Girl (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -587,22 +587,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+        "name": "DESIRE : UNLEASH",
+        "url": "https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
+      "duration_ms": 141885,
+      "name": "Bad Desire (With or Without You)",
+      "url": "https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -623,18 +619,22 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "DESIRE : UNLEASH",
-        "url": "https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B"
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 141885,
-      "name": "Bad Desire (With or Without You)",
-      "url": "https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM"
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "IVE SECRET",
-        "url": "https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "XOXZ",
-      "url": "https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "IVE SECRET",
+        "url": "https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "XOXZ",
+      "url": "https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "SYNK : PARALLEL LINE - Special Digital Single",
         "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 166640,
       "name": "UP - KARINA Solo",
       "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "HOT",
-        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 143797,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "\u2018The ReVe Festival\u2019 Finale",
         "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 210560,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 143797,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "JENNIE Special Single [You & Me]",
-        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+        "name": "TWS 4th Mini Album 'play hard'",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
         }
       ],
-      "duration_ms": 179164,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+      "duration_ms": 160000,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "TWS 4th Mini Album 'play hard'",
-        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
       },
       "artists": [
         {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 160000,
-      "name": "OVERDRIVE",
-      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
+      "duration_ms": 179164,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 164040,
-      "name": "THUNDER",
-      "url": "https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
@@ -1867,18 +1851,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Butter (Hotter, Sweeter, Cooler)",
-        "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 164441,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
+      "duration_ms": 164040,
+      "name": "THUNDER",
+      "url": "https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1899,18 +1883,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+        "name": "Butter (Hotter, Sweeter, Cooler)",
+        "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 175889,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
+      "duration_ms": 164441,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1927,6 +1911,22 @@
       "duration_ms": 155026,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "THE WORLD EP.1 : MOVEMENT",
-        "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 207921,
-      "name": "Guerrilla",
-      "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "I'LL LIKE YOU",
         "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
       },
@@ -2027,18 +2011,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Chaotic & Confused",
-        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
+        "name": "THE WORLD EP.1 : MOVEMENT",
+        "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
       },
       "artists": [
         {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 158917,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
+      "duration_ms": 207921,
+      "name": "Guerrilla",
+      "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2055,6 +2039,22 @@
       "duration_ms": 255728,
       "name": "instagram",
       "url": "https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "Chaotic & Confused",
+        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 158917,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "GOLDEN HOUR : Part.3",
-        "url": "https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 179395,
-      "name": "Lemon Drop",
-      "url": "https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "The Red Summer - Summer Mini Album",
         "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 191139,
       "name": "Red Flavor",
       "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "GOLDEN HOUR : Part.3",
+        "url": "https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 179395,
+      "name": "Lemon Drop",
+      "url": "https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Pink Venom",
-        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "Savage Love (Laxed - Siren Beat) [BTS Remix]",
         "url": "https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o"
       },
@@ -2263,18 +2247,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "DUH!",
-        "url": "https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p"
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
       },
       "artists": [
         {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 185440,
-      "name": "DUH!",
-      "url": "https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA"
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2295,18 +2279,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "TASTE - The 1st Album",
-        "url": "https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U"
+        "name": "DUH!",
+        "url": "https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p"
       },
       "artists": [
         {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
         }
       ],
-      "duration_ms": 206480,
-      "name": "CRZY",
-      "url": "https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5"
+      "duration_ms": 185440,
+      "name": "DUH!",
+      "url": "https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2367,6 +2351,22 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
+        "name": "TASTE - The 1st Album",
+        "url": "https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "CRZY",
+      "url": "https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
         "name": "TWS 3rd Mini Album 'TRY WITH US'",
         "url": "https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y"
       },
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "3rd MINI ALBUM [LOVE PULSE]",
-        "url": "https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 170699,
-      "name": "PARADISE",
-      "url": "https://open.spotify.com/track/20pXBnV8q1xnWzSijxq6QM"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "GREAT!",
         "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 208863,
       "name": "BBoom BBoom",
       "url": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "3rd MINI ALBUM [LOVE PULSE]",
+        "url": "https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 170699,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/20pXBnV8q1xnWzSijxq6QM"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd"
-      },
-      "artists": [
-        {
-          "name": "izna",
-          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
-        }
-      ],
-      "duration_ms": 166612,
-      "name": "SIGN",
-      "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "One-reeler / Act IV",
         "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
       },
@@ -2527,18 +2511,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Perfect Velvet - The 2nd Album",
-        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
         }
       ],
-      "duration_ms": 189049,
-      "name": "Peek-A-Boo",
-      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
+      "duration_ms": 166612,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2555,6 +2539,22 @@
       "duration_ms": 178013,
       "name": "Memories",
       "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "Perfect Velvet - The 2nd Album",
+        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 189049,
+      "name": "Peek-A-Boo",
+      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
-        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Feel My Rhythm",
-      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R"
       },
@@ -2643,6 +2627,22 @@
       "duration_ms": 196549,
       "name": "For You",
       "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
+        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Feel My Rhythm",
+      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2679,22 +2679,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "ZERO : FEVER Part.3",
-        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 196670,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "Hello Future - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
       },
@@ -2707,6 +2691,22 @@
       "duration_ms": 220920,
       "name": "Hello Future",
       "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "ZERO : FEVER Part.3",
+        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 196670,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2931,6 +2931,22 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
+        "name": "ELSE",
+        "url": "https://open.spotify.com/album/3Xf88Z2tDQeLdzBxa7naSL"
+      },
+      "artists": [
+        {
+          "name": "Cha Eun-Woo",
+          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+        }
+      ],
+      "duration_ms": 187929,
+      "name": "SATURDAY PREACHER",
+      "url": "https://open.spotify.com/track/0orrrJ5FdLQNrMJCRz9lyF"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
         "name": "YOUTH IN THE SHADE",
         "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
       },
@@ -3043,22 +3059,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "ELSE",
-        "url": "https://open.spotify.com/album/3Xf88Z2tDQeLdzBxa7naSL"
-      },
-      "artists": [
-        {
-          "name": "Cha Eun-Woo",
-          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
-        }
-      ],
-      "duration_ms": 187929,
-      "name": "SATURDAY PREACHER",
-      "url": "https://open.spotify.com/track/0orrrJ5FdLQNrMJCRz9lyF"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "REAL",
         "url": "https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh"
       },
@@ -3075,22 +3075,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "BEEP",
-        "url": "https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e"
-      },
-      "artists": [
-        {
-          "name": "izna",
-          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
-        }
-      ],
-      "duration_ms": 164884,
-      "name": "BEEP",
-      "url": "https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "WORLD OF STREET WOMAN FIGHTER(WSWF) Original Vol.2 (Class Mission)",
         "url": "https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f"
       },
@@ -3103,6 +3087,22 @@
       "duration_ms": 153386,
       "name": "ECHO! (Prod. WOOZI)",
       "url": "https://open.spotify.com/track/2ZmjUVTEA6UjJmqyiRGBBd"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "BEEP",
+        "url": "https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "duration_ms": 164884,
+      "name": "BEEP",
+      "url": "https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -3203,26 +3203,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Don\u2019t Need Your Love",
-        "url": "https://open.spotify.com/album/2e3TvxplnFh1HcFUcSe39u"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "Don\u2019t Need Your Love",
-      "url": "https://open.spotify.com/track/7oEm5Q1virEUB9H0XjWZzF"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "NCT 2018 EMPATHY",
         "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
       },
@@ -3239,6 +3219,26 @@
       "duration_ms": 210641,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "Don\u2019t Need Your Love",
+        "url": "https://open.spotify.com/album/2e3TvxplnFh1HcFUcSe39u"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "Don\u2019t Need Your Love",
+      "url": "https://open.spotify.com/track/7oEm5Q1virEUB9H0XjWZzF"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -3327,22 +3327,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "I\u2019ll Never Love Again",
-        "url": "https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "I'll Never Love Again",
-      "url": "https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
       },
@@ -3355,6 +3339,22 @@
       "duration_ms": 198795,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "I\u2019ll Never Love Again",
+        "url": "https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "I'll Never Love Again",
+      "url": "https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -3427,18 +3427,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Too Much Part 1",
-        "url": "https://open.spotify.com/album/0spXOvUlUo1EUDs13nlXki"
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 163000,
-      "name": "\uac00\uc704\ubc14\uc704\ubcf4 Eeny meeny miny moe",
-      "url": "https://open.spotify.com/track/5hy45ZHbIypFH2NsiEyc0Z"
+      "duration_ms": 181432,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
     }
   ],
   "unique_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",

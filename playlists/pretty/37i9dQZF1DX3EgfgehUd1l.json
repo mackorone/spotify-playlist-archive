@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 176495,
+  "num_followers": 176500,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Mr. Broadway",
-        "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Stranger in Paradise",
-      "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
         "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 185051,
       "name": "True Love",
       "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Mr. Broadway",
+        "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Stranger in Paradise",
+      "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Best Of Tony Brent",
-        "url": "https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn"
-      },
-      "artists": [
-        {
-          "name": "Tony Brent",
-          "url": "https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj"
-        }
-      ],
-      "duration_ms": 154720,
-      "name": "Make It Soon - 1999 Remaster",
-      "url": "https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Love Is A Simple Thing",
         "url": "https://open.spotify.com/album/4xFfbmS2BiQieVo1nRZi47"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 184346,
       "name": "Tammy",
       "url": "https://open.spotify.com/track/5aumFAJ6QzEy8Sm9fluanc"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Best Of Tony Brent",
+        "url": "https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn"
+      },
+      "artists": [
+        {
+          "name": "Tony Brent",
+          "url": "https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj"
+        }
+      ],
+      "duration_ms": 154720,
+      "name": "Make It Soon - 1999 Remaster",
+      "url": "https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Skiffle - From Britain to Broadway",
-        "url": "https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS"
-      },
-      "artists": [
-        {
-          "name": "Johnny Duncan & The Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k"
-        }
-      ],
-      "duration_ms": 151186,
-      "name": "Last Train to San Fernando",
-      "url": "https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Platters",
         "url": "https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 163920,
       "name": "My Prayer",
       "url": "https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Skiffle - From Britain to Broadway",
+        "url": "https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS"
+      },
+      "artists": [
+        {
+          "name": "Johnny Duncan & The Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k"
+        }
+      ],
+      "duration_ms": 151186,
+      "name": "Last Train to San Fernando",
+      "url": "https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+        "name": "The Very Best Of Slim Whitman",
+        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
       },
       "artists": [
         {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+          "name": "Slim Whitman",
+          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
         }
       ],
-      "duration_ms": 165466,
-      "name": "My Special\u00a0Angel",
-      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
+      "duration_ms": 177493,
+      "name": "I'll Take You Home Again, Kathleen",
+      "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Very Best Of Slim Whitman",
-        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
       },
       "artists": [
         {
-          "name": "Slim Whitman",
-          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
         }
       ],
-      "duration_ms": 177493,
-      "name": "I'll Take You Home Again, Kathleen",
-      "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
+      "duration_ms": 165466,
+      "name": "My Special\u00a0Angel",
+      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Ruby Murray - Greatest Hits",
-        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
-      },
-      "artists": [
-        {
-          "name": "Ruby Murray",
-          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "I'll Come When You Call",
-      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Climb Every Mountain",
         "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
       },
@@ -1163,22 +1147,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
-      },
-      "artists": [
-        {
-          "name": "The Four Aces",
-          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Love Is A Many Splendoured Thing",
-      "url": "https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Original Hits - Country",
         "url": "https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n"
       },
@@ -1191,6 +1159,38 @@
       "duration_ms": 142426,
       "name": "Rose Marie",
       "url": "https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Ruby Murray - Greatest Hits",
+        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
+      },
+      "artists": [
+        {
+          "name": "Ruby Murray",
+          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "I'll Come When You Call",
+      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+      },
+      "artists": [
+        {
+          "name": "The Four Aces",
+          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Love Is A Many Splendoured Thing",
+      "url": "https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq"
     },
     {
       "added_at": "2023-10-17 16:18:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं\. Cover: Surabhi Kashyap, Stuti Sinha, Nikita Rai
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,418 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,436 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 31 | [Re Sajni](https://open.spotify.com/track/4hiPErACgGGVB6NN3jSH6G) | [Kiran Kashyap](https://open.spotify.com/artist/7FGFKpRL065kNi42y4vsI0) | [Re Sajni](https://open.spotify.com/album/4pkKfwkjUlm9kcuDkItqFx) | 3:10 |
 | 32 | [Runjhun Khola Na Kewadiya](https://open.spotify.com/track/0QGBV1H3I6m9byzSyYl0B2) | [Shailendra Mishra](https://open.spotify.com/artist/6TaxFYdCeCCkLnqNxWm3ht), [Prashant Singh](https://open.spotify.com/artist/0UCrJlbwzyfOvyYGd7vOi0) | [Runjhun Khola Na Kewadiya](https://open.spotify.com/album/2HWJKxxAYAEPLHbTCM5sG1) | 3:31 |
 | 33 | [JUG JUG JIYA SU LALANWA SOHAR](https://open.spotify.com/track/6v9a59GBqiiui2L65Hrfe4) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm) | [JUG JUG JIYA SU LALANWA SOHAR](https://open.spotify.com/album/3viQgZ5OzIW11aWq33w2qS) | 3:17 |
-| 34 | [Bagiya](https://open.spotify.com/track/48ZAPt4dLgYko0T1rCfimu) | [Mini Pandey](https://open.spotify.com/artist/5K9cn9P6AjHu5ggNjmfHOZ) | [Bagiya](https://open.spotify.com/album/7iCkRMBw9irsgzQqYch68r) | 3:44 |
-| 35 | [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 |
+| 34 | [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 |
+| 35 | [Bagiya](https://open.spotify.com/track/48ZAPt4dLgYko0T1rCfimu) | [Mini Pandey](https://open.spotify.com/artist/5K9cn9P6AjHu5ggNjmfHOZ) | [Bagiya](https://open.spotify.com/album/7iCkRMBw9irsgzQqYch68r) | 3:44 |
 | 36 | [Chutki Bhar Senura](https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chutki Bhar Senura](https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w) | 6:52 |
 | 37 | [CHUTKI BHAR SENURA](https://open.spotify.com/track/4LQ8sY86aDpaVOYLhlRNs6) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO) | [CHUTKI BHAR SENURA](https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy) | 4:50 |
 | 38 | [Doliya Kahar](https://open.spotify.com/track/1z2zRkwyPCKB0bBAR2dlLw) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Doliya Kahar](https://open.spotify.com/album/2g0vIAmEnvoCAJDuSuJrsi) | 4:07 |

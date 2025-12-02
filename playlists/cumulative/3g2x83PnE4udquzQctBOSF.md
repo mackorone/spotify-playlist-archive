@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-420 songs - 1 day 1 hr 0 min
+421 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Sombrero Galaxy](https://open.spotify.com/track/1oQoDktIuJITi7TQXpJ5Jx) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Sombrero Galaxy](https://open.spotify.com/album/6hnHiX4yrDKeO65xn0vr9L) | 3:00 | 2023-03-19 | 2023-04-01 |
 | [Some More](https://open.spotify.com/track/5nKoXD5R3PN5KwmxrkoCHb) | [GREEDO](https://open.spotify.com/artist/3yu7ddRCRTmHlxmz7NWO0c) | [Some More](https://open.spotify.com/album/0K9XP2XPW1R5vx6IV9pnvC) | 3:00 | 2024-03-10 | 2024-05-20 |
 | [SOMEBODY HERE?](https://open.spotify.com/track/38PbBMCHd67hE9XQrHFwut) | [KODELEAN DJ](https://open.spotify.com/artist/2CG8X1NKy4XkOxsUckIrWl) | [SOMEBODY HERE?](https://open.spotify.com/album/3Bkcjr5mpF6mxqlJL3MDHu) | 2:30 | 2025-11-29 |  |
+| [SOMEBODY HERE? \- Extended Version](https://open.spotify.com/track/3pWjNTp2YCT5hVkXZ0JdNB) | [KODELEAN DJ](https://open.spotify.com/artist/2CG8X1NKy4XkOxsUckIrWl) | [SOMEBODY HERE?](https://open.spotify.com/album/3Bkcjr5mpF6mxqlJL3MDHu) | 4:01 | 2025-12-01 |  |
 | [Something In Your Eyes](https://open.spotify.com/track/5vr8JEu7dWxm6p1IXBGEbH) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Something In Your Eyes](https://open.spotify.com/album/5s4ZxE4IDV0TlOBwZNAPo1) | 2:08 | 2023-03-05 | 2023-03-20 |
 | [Soundboy](https://open.spotify.com/track/5RU33jajJPKSXfqJoZpABf) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Soundboy](https://open.spotify.com/album/1FSB0rdp9vJrhfW9Aql04O) | 2:35 | 2023-08-27 | 2023-09-26 |
 | [Space Trip](https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Space Trip](https://open.spotify.com/album/2cPvcE5SPbVPyWNGOsisRD) | 2:50 | 2023-03-26 | 2023-04-10 |

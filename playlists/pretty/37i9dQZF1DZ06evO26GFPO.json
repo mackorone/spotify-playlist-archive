@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 307240,
+  "num_followers": 307233,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACTStdqfNgswagZOFvz9pL+",
+  "snapshot_id": "aSuJAAAAAAAUGEwmWGtJsmNJ6ri8+mI+",
   "tracks": [
     {
       "added_at": null,
@@ -758,11 +758,15 @@
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 160027,
-      "name": "Eu estive Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc"
+      "duration_ms": 201301,
+      "name": "Sinais de fogo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO"
     },
     {
       "added_at": null,
@@ -822,15 +826,11 @@
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 201301,
-      "name": "Sinais de fogo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO"
+      "duration_ms": 160027,
+      "name": "Eu estive Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc"
     },
     {
       "added_at": null,

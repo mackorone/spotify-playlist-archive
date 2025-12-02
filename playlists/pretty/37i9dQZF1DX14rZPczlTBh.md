@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,845 likes - 50 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,874 likes - 50 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 39 | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/track/6SzhKwa0saR0U6C2ZynpKW) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj) | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/album/1bZ1IHL2eSxBNwJ3kjMcl1) | 3:59 |
 | 40 | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob) | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF) | 1:14 |
 | 41 | [Proposal \(From "Love Reddy"\)](https://open.spotify.com/track/27yelBarlAKbDh28Yn3JRf) | [Prince Henry](https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY) | [Proposal \(From "Love Reddy"\)](https://open.spotify.com/album/6x0UthIyzcRRTGhZKEx5J0) | 0:47 |
-| 42 | [Mirapakai](https://open.spotify.com/track/5XzWkd0hxTesChmAs2o00G) | [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Mirapakay](https://open.spotify.com/album/7jsaQdNi0QERa22Wm7NVq7) | 1:16 |
-| 43 | [⁠Fall of the Hero \- Instrumental](https://open.spotify.com/track/2U3155pXVjy5PoPMgahtTK) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [TEST \- Telugu \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1kWdF6bVQ2GZyL96xF3rBO) | 1:30 |
+| 42 | [⁠Fall of the Hero \- Instrumental](https://open.spotify.com/track/2U3155pXVjy5PoPMgahtTK) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [TEST \- Telugu \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1kWdF6bVQ2GZyL96xF3rBO) | 1:30 |
+| 43 | [Mirapakai](https://open.spotify.com/track/5XzWkd0hxTesChmAs2o00G) | [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Mirapakay](https://open.spotify.com/album/7jsaQdNi0QERa22Wm7NVq7) | 1:16 |
 | 44 | [Rise of Karthikeya](https://open.spotify.com/track/2tdFX0TdftpyaixQ2OJPvE) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA) | [Karthikeya](https://open.spotify.com/album/5e0PXRVSqL2hqJ4RysHdTC) | 1:21 |
 | 45 | [Ghaati Theme](https://open.spotify.com/track/0Gv0dkofefppyS3PQSDOyR) | [Nagavelli Vidya Sagar](https://open.spotify.com/artist/2ik2sh5tUx1dFIB5AI5cxt) | [GHAATI](https://open.spotify.com/album/3w6G6aozcvPqRawcI1o4UA) | 0:43 |
 | 46 | [Badrenath Theme](https://open.spotify.com/track/2Fh0F8p45Ef4FNvZTWEGNj) | [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Badrenath](https://open.spotify.com/album/08sznMeYBuj3GInM6VUIvw) | 2:17 |

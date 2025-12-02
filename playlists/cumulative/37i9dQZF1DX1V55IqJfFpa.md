@@ -4,13 +4,14 @@
 
 > aquí pura vibra chida ✨ Neton Vega en portada
 
-607 songs - 1 day 7 hr 54 min
+608 songs - 1 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#TETAS](https://open.spotify.com/track/2RAKwOzLiXA8AgA1pFIuFe) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:29 | 2025-03-14 | 2025-03-22 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-08-25 | 2023-12-19 |
 | [/Lentes](https://open.spotify.com/track/1ur0gl2eeCUwzaO2iev7eP) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 3:09 | 2025-11-14 |  |
+| [00:00](https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 3:35 | 2025-11-28 |  |
 | [1000COSAS](https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [1000COSAS](https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj) | 3:59 | 2024-04-19 | 2024-06-01 |
 | [2+2](https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [2+2](https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG) | 3:18 | 2025-06-27 | 2025-08-21 |
 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 | 2024-04-26 | 2025-01-18 |
@@ -562,7 +563,7 @@
 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2023-06-09 | 2023-07-08 |
 | [Umbrella](https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:35 | 2023-06-09 | 2023-08-26 |
 | [Un Bezito](https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Un Bezito](https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b) | 2:36 | 2024-05-31 | 2024-06-08 |
-| [Un Desperdicio](https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 3:43 | 2024-06-12 |  |
+| [Un Desperdicio](https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 3:43 | 2024-06-12 | 2025-12-02 |
 | [Un Pacto](https://open.spotify.com/track/1yxwBHV8dqJw4tCw6hlyMw) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Un Pacto](https://open.spotify.com/album/5U4L0ii38QNKx85bicBMCz) | 2:26 | 2024-12-06 | 2025-01-25 |
 | [Un Rodeoooo](https://open.spotify.com/track/5ak67nfN54lbm0ophfLj2t) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Un Rodeoooo](https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi) | 2:16 | 2023-07-14 | 2023-10-08 |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-06-09 |  |

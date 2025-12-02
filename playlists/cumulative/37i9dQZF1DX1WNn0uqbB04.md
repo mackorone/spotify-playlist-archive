@@ -4,7 +4,7 @@
 
 > El Tango está más vivo que nunca 📸 Santiago Motorizado & FLORIAN
 
-112 songs - 7 hr 0 min
+113 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Amor de Madrugada](https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Amor de Madrugada](https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW) | 2:11 | 2024-11-04 | 2025-08-08 |
 | [Amor de Tango](https://open.spotify.com/track/1J4n9qgCWFUgWae1LqZUH6) | [Lilí Gardés](https://open.spotify.com/artist/7LyRikRQ83unSIemMi1z3c) | [Amor de Tango](https://open.spotify.com/album/0RaAYnwUyy8tuWEAxTXdJJ) | 3:05 | 2025-06-20 | 2025-09-05 |
 | [Bahia Blanca](https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Milonguero](https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g) | 2:50 | 2023-08-04 |  |
+| [Barrio Maravillas](https://open.spotify.com/track/27RhzFpBqR4JaOVzzQvH94) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Summer Tango](https://open.spotify.com/album/1XDSxgEXFdtUMPxL5dXLpj) | 2:33 | 2025-11-28 |  |
 | [Buenos Aires Dreams](https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf) | [Le Griser](https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb) | [Buenos Aires Dreams](https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O) | 3:46 | 2023-11-24 | 2025-06-13 |
 | [Bye Mom](https://open.spotify.com/track/2kliWnNyvuFRjVITOzkKXr) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 3:43 | 2023-08-04 | 2024-04-19 |
 | [Cafe 1930](https://open.spotify.com/track/1hHhJm5ghxlAYagj8hQgww) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:15 | 2023-08-04 |  |
@@ -24,7 +25,7 @@
 | [Clarens](https://open.spotify.com/track/1IHH4ncmI3TQZRed7SQEWd) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 5:02 | 2023-08-04 | 2024-04-19 |
 | [Codigo de barra](https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 3:01 | 2023-08-04 |  |
 | [COMO DOS EXTRAÑOS \(feat\. Santiago Motorizado\)](https://open.spotify.com/track/1OzWR3TeXVCYw5OHgAHRo1) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [COMO DOS EXTRAÑOS \(feat\. Santiago Motorizado\)](https://open.spotify.com/album/0BtfSe5QLvZTlTrvcTO5Lc) | 2:52 | 2025-11-28 |  |
-| [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 | 2023-11-24 |  |
+| [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 | 2023-11-24 | 2025-12-02 |
 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 | 2024-11-04 |  |
 | [Diferente](https://open.spotify.com/track/5I3jKRlR8WS0xYYamnAhpG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Hôtel Costes 9](https://open.spotify.com/album/3l1nGJTNNjFwQ1cADEGHaw) | 4:39 | 2023-08-04 |  |
 | [Dos Gardenias](https://open.spotify.com/track/56weCAI0spznGe7zzHW2Zd) | [La Milonga](https://open.spotify.com/artist/4na1NgMIN3rJvlBqjCsSKT) | [Tango Y Bolero Con Flamencura](https://open.spotify.com/album/4osukm8dToowskd09AtGi1) | 5:49 | 2023-08-04 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: אנה זק
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,009 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,011 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

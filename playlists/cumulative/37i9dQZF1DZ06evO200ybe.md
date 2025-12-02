@@ -4,7 +4,7 @@
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 20 min
+61 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [That Ole Devil Called Love](https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:17 | 2025-07-20 |  |
 | [The More I See You](https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:06 | 2025-07-20 |  |
 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 | 2025-07-20 |  |
-| [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 4:41 | 2025-07-20 |  |
+| [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 4:41 | 2025-07-20 | 2025-12-02 |
+| [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/3pXjJpOV4gPLcxTUEItg1B) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Quartet Vol\. 2 \(Chet Baker in Paris Vol\. 2\)](https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu) | 4:44 | 2025-12-02 |  |
 | [Time After Time \- Vocal Version](https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:46 | 2025-07-20 |  |
 | [Time On My Hands \- Mono](https://open.spotify.com/track/7gCRsieaL44rHWyZz7Q5Nj) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:34 | 2025-07-20 |  |
 | [Trav'lin Light](https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 3:44 | 2025-07-20 |  |

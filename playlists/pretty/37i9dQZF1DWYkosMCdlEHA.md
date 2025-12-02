@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,965 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,977 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 37 | [Is This Love \(Cover\) \- Acústico](https://open.spotify.com/track/18F79JBZvBDdI7FmRtFEEh) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Is This Love \(Cover\) \[Acústico\]](https://open.spotify.com/album/1dKiVt1rzKdnjEoRHKsN8O) | 3:52 |
 | 38 | [Onda do Arraial \- Ao Vivo](https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:25 |
 | 39 | [Maré Cheia \- Acústico](https://open.spotify.com/track/3oByoGmRulhrK0h9Il19w0) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Maré Cheia](https://open.spotify.com/album/05CKBbHojCcLRBz4X96ik8) | 3:17 |
-| 40 | [Não é Sério \- Ao Vivo \- Chegou Quem Faltava](https://open.spotify.com/track/4hXfkCgImL8rhqlppBrDPj) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chegou Quem Faltava \- Volume 2 \(Ao Vivo\)](https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT) | 4:17 |
+| 40 | [Proibiram as Flores \- Acústico](https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Eltin](https://open.spotify.com/artist/0CuAjzGLgyZe7aHgVwSzSq) | [Proibiram as Flores \(Acústico\)](https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs) | 3:58 |
 | 41 | [Solstício de Verão \- Acústico](https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Solstício de Verão \(acústico\)](https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw) | 3:11 |
-| 42 | [Proibiram as Flores \- Acústico](https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Eltin](https://open.spotify.com/artist/0CuAjzGLgyZe7aHgVwSzSq) | [Proibiram as Flores \(Acústico\)](https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs) | 3:58 |
+| 42 | [Não é Sério \- Ao Vivo \- Chegou Quem Faltava](https://open.spotify.com/track/4hXfkCgImL8rhqlppBrDPj) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chegou Quem Faltava \- Volume 2 \(Ao Vivo\)](https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT) | 4:17 |
 | 43 | [Nesses Olhos \- Ao Vivo](https://open.spotify.com/track/5BeOmmGoxAvDus9Ozpc0MI) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:44 |
 | 44 | [Burnin' & Lootin' \- Live At Music Hall, Boston / 1978](https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Easy Skanking In Boston '78](https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc) | 5:35 |
 | 45 | [Reggae de Barão \- Acústico](https://open.spotify.com/track/1eZq0aDtVF4JOe1OMXCQKo) | [Da Vula Band](https://open.spotify.com/artist/4foXml2ME1mqHJ6i8DDhdA) | [Flow and Slow \(Acústico\)](https://open.spotify.com/album/5Rb8yyhD4wFRbzGJxK2UOM) | 3:42 |

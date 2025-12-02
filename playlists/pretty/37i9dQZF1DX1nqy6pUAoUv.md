@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,396 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,373 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 40 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 41 | [Money Is King](https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 2:54 |
 | 42 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
-| 43 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 |
-| 44 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
+| 43 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
+| 44 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 |
 | 45 | [You Led Me To The Wrong](https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:17 |
 | 46 | [Under the Concrete](https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 3:25 |
 | 47 | [The Capitalist Blues](https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 3:55 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 88 | [Lorraine](https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [Lorraine](https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA) | 4:33 |
 | 89 | [Myth](https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:35 |
 | 90 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
-| 91 | [Unmistakable Love](https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [Songs Of](https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY) | 3:55 |
-| 92 | [Love Will Win the War](https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9) | [Darden Smith](https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA) | [Everything](https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov) | 3:54 |
+| 91 | [Love Will Win the War](https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9) | [Darden Smith](https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA) | [Everything](https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov) | 3:54 |
+| 92 | [Unmistakable Love](https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [Songs Of](https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY) | 3:55 |
 | 93 | [In the Kingdom of Dreams](https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD) | [Ian Felice](https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv) | [In the Kingdom of Dreams](https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7) | 3:56 |
 | 94 | [IOU](https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [IOU](https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF) | 4:03 |
 | 95 | [Avalon \(with Francesco Turrisi\)](https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:54 |
 | 96 | [Candy Man](https://open.spotify.com/track/1w9BpnmUQwiizWK6ZRp3kh) | [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Music from The American Epic Sessions \(Deluxe\)](https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP) | 2:52 |
 | 97 | [Walk Into a Storm](https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk Into a Storm](https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp) | 5:06 |
 | 98 | [Eye to Eye](https://open.spotify.com/track/0tTPqTWwd4lyd3HQUPIr8C) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Eye to Eye](https://open.spotify.com/album/6z3SLJb0PKfBStprLMMEvW) | 3:51 |
-| 99 | [Pacific Northwest Bound](https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN) | [Mike McKenna Jr.](https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0) | [Pacific Northwest Bound](https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ) | 2:53 |
+| 99 | [I Will Be Your Shield](https://open.spotify.com/track/4RvvquKe1Ohb2eU4d3eJWn) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [I Will Be Your Shield](https://open.spotify.com/album/1rcdnPaa79UeiOmkLHbDGU) | 3:31 |
 | 100 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/6FHmHZgliJRNz6L16y60V1) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/5vIo3myTJ8fmttU2wARlYB) | 3:49 |
 
 Snapshot ID: `AAAAANDBTEyk7n2/rkrWiHJfqVrwe2L+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 
 > Japanese music duo formed in 2019, consisting of vocalist ikura and producer Ayase\. YOASOBIの楽曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,537 likes - 67 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,548 likes - 67 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

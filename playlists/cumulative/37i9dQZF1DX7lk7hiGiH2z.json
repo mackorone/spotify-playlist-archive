@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-28",
-  "description": "Zeit f\u00fcr Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
+  "description": "Zeit f\u00fcr Pl\u00e4tzchen backen, Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
   "name": "Familienzeit: Winter",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 148173,
       "name": "Advent",
       "url": "https://open.spotify.com/track/02wFNl5sVJGCB7NwAhyWCj"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 193813,
       "name": "Adventskalender",
       "url": "https://open.spotify.com/track/49pLOR48qA4FHTsgyObQpw"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/42YhIdgYETPgj3Rnr6C2Zt"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 205568,
       "name": "Alle Monate",
       "url": "https://open.spotify.com/track/6TLbNxLrYcgd3k0NDLkqPp"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 180986,
       "name": "Allergr\u00f6\u00dfter Wunsch",
       "url": "https://open.spotify.com/track/47vUmnYNNikz6UZTx9VZSo"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 180320,
       "name": "Carla, die Weihnachtsfrau",
       "url": "https://open.spotify.com/track/5ATqvrY6bQZFt52cJ1AO3q"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 178750,
       "name": "Christmas Bells",
       "url": "https://open.spotify.com/track/2NIn9H6pH7hNkt5pA3xOuU"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 152120,
       "name": "Das bist du",
       "url": "https://open.spotify.com/track/5Q2qa9EyvKqGkHHOTwn1KI"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 184626,
       "name": "Der Weihnachtsmann ist eine Frau",
       "url": "https://open.spotify.com/track/6k3o3aMgSHDpHm4lp28xCp"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 189520,
       "name": "Die Weihnachtskinder",
       "url": "https://open.spotify.com/track/2CmW44XheHnAEKTXJDKzxj"
@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 185454,
       "name": "Eisb\u00e4r-Pinguin Rock",
       "url": "https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT"
@@ -2368,6 +2368,24 @@
       "duration_ms": 273725,
       "name": "Eisb\u00e4rn (Kinderlied zum Winter)",
       "url": "https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi"
+    },
+    {
+      "album": {
+        "name": "Weihnachtslieder",
+        "url": "https://open.spotify.com/album/7K3DgbJv0nAyB1zrP7yXY6"
+      },
+      "artists": [
+        {
+          "name": "Ena Kinderlieder",
+          "url": "https://open.spotify.com/artist/7BWj0quGHpkdSx9HZnD3CN"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191114,
+      "name": "Elf Emil",
+      "url": "https://open.spotify.com/track/3bdXxEGeXdnAkJdvDXSUcU"
     },
     {
       "album": {
@@ -2398,7 +2416,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 193886,
       "name": "Endlich wieder Weihnachten (feat. Katharina Hirschberg, Harriet Herbig-Matten)",
       "url": "https://open.spotify.com/track/0o6QOa5hplEw5kmtHYoFID"
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 151512,
       "name": "Es dauert nicht mehr lang",
       "url": "https://open.spotify.com/track/7yy6vkKP5JogHDYEidLFaN"
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 136973,
       "name": "Es schneit",
       "url": "https://open.spotify.com/track/4NhNX3C9Ue4gatgwHQobyY"
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 213774,
       "name": "Feliz na wie geht's",
       "url": "https://open.spotify.com/track/6aYP4p7LWhlDTGLq2BIfvO"
@@ -2798,7 +2816,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 175600,
       "name": "Frohe Weihnachten",
       "url": "https://open.spotify.com/track/7eUu6tZyNoJ5RVe7qlo0Ir"
@@ -2816,7 +2834,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Frosty The Snowman",
       "url": "https://open.spotify.com/track/4kzzkf98gOSdTMjgs0Ize1"
@@ -3436,7 +3454,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 140666,
       "name": "Have A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/7b0KnScryOgaV9uKTWpeUm"
@@ -4215,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "Ich lieb' die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/7MZDk0Uq7Wj1sjfnRMKj9y"
+      },
+      "artists": [
+        {
+          "name": "3Berlin",
+          "url": "https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151346,
+      "name": "Ich lieb' die Weihnachtszeit",
+      "url": "https://open.spotify.com/track/6sso0VEvluZjDKaUlYWhL1"
+    },
+    {
+      "album": {
         "name": "Ich liebe alle Sterne (Laternenlied)",
         "url": "https://open.spotify.com/album/1rdaF7ppns4a1ebTYxupqW"
       },
@@ -4304,7 +4340,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 214506,
       "name": "Ich wollte immer einen Bruder",
       "url": "https://open.spotify.com/track/2x1dkjz30TxRRKb5wYbDZx"
@@ -4612,7 +4648,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 177423,
       "name": "In der Schlumpfenb\u00e4ckerei",
       "url": "https://open.spotify.com/track/2sUEgIEUXVFTOvi74Ov916"
@@ -4790,7 +4826,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 173840,
       "name": "Jingle Bells, Schlittenfahrt im Schnee",
       "url": "https://open.spotify.com/track/3kOrUgcXj6kg7biLCocVPR"
@@ -4890,7 +4926,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 153207,
       "name": "Kannst du die Lichter sehen (feat. Detlev J\u00f6cker, Sarah Schiffer & Kinderlieder Gang)",
       "url": "https://open.spotify.com/track/3R84hhAyodxavUJo8pdfnq"
@@ -5032,7 +5068,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 92146,
       "name": "KiKANiNCHEN-Weihnachtslied",
       "url": "https://open.spotify.com/track/5CfOAeldmtNqbNTubbTr7c"
@@ -5556,7 +5592,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 122170,
       "name": "Lasst uns froh und munter sein",
       "url": "https://open.spotify.com/track/7dQ64SvVCggIC9GyTr4TU0"
@@ -5578,7 +5614,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 165546,
       "name": "Lasst uns froh und munter sein",
       "url": "https://open.spotify.com/track/13q5iVQZzinrazFCAG1yFE"
@@ -5596,7 +5632,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 216333,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/38cSfKVAUI3Mn9fOIyZi9Y"
@@ -6620,7 +6656,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 144293,
       "name": "Nikolaus, Nikolaus",
       "url": "https://open.spotify.com/track/5m2iD9ImK5TxjScasHLo9H"
@@ -6656,7 +6692,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 221560,
       "name": "O je, Tannenbaum!",
       "url": "https://open.spotify.com/track/3UpOay0ipJUvhzk8YFeHl1"
@@ -7248,7 +7284,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 127333,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/57XIECPD5LwZyRbQ16Vnnr"
@@ -7582,7 +7618,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 99200,
       "name": "Schnupfennase",
       "url": "https://open.spotify.com/track/1XdPvu4zQI5oVm8aN1TWKn"
@@ -8008,7 +8044,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 103614,
       "name": "Stell die Stiefel raus",
       "url": "https://open.spotify.com/track/60pcT7fU0vW5Y6TutUGw1P"
@@ -8224,7 +8260,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 185680,
       "name": "Tanzen unterm Weihnachtsbaum (feat. Katharina Hirschberg, Harriet Herbig-Matten)",
       "url": "https://open.spotify.com/track/5fEVVIUV3T10ToGnbIJDbW"
@@ -8790,7 +8826,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 195280,
       "name": "Weihnachten im Zoo",
       "url": "https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn"
@@ -8826,7 +8862,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 135903,
       "name": "Weihnachtskeksrakete",
       "url": "https://open.spotify.com/track/7hyisV0kr3uhzNcgJef3aO"
@@ -8844,7 +8880,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 139487,
       "name": "Weihnachtssong (Santa Claus Rap)",
       "url": "https://open.spotify.com/track/19FbU9S8eTXqtwiBRlOJIH"
@@ -8866,7 +8902,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 152546,
       "name": "Weihnachtszeit, Kinderzeit",
       "url": "https://open.spotify.com/track/0IHclLb62TS7CauAJJ4SU5"
@@ -9062,7 +9098,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 155680,
       "name": "Wichteltime",
       "url": "https://open.spotify.com/track/46wigzacZdGpbn6R0psgOm"
@@ -9226,7 +9262,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 138486,
       "name": "Winterkinder",
       "url": "https://open.spotify.com/track/1prcQwgVvp34YRXEdH4EEj"
@@ -9262,7 +9298,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 122120,
       "name": "Winterzeit",
       "url": "https://open.spotify.com/track/5hrDo5pej0NZIc6IZIWME5"
@@ -9280,7 +9316,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 122120,
       "name": "Winterzeit",
       "url": "https://open.spotify.com/track/6zJviKdcuwQGdSKUVwQDIV"
@@ -9430,7 +9466,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 169627,
       "name": "Wir sind die Wichtel",
       "url": "https://open.spotify.com/track/5Z4oTHTkzt1hDD5DO0jzB0"
@@ -9506,7 +9542,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Wo wohnt der Weihnachtsmann",
       "url": "https://open.spotify.com/track/15xIwpdEjDBeVU0u51NAeh"
@@ -9542,7 +9578,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 213600,
       "name": "Wundersch\u00f6ne Weihnachtszeit",
       "url": "https://open.spotify.com/track/3eneVHkg8zT9pKjp1fOiJ1"
@@ -9652,7 +9688,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 144000,
       "name": "Zootierpolka",
       "url": "https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0"
@@ -9670,7 +9706,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 244373,
       "name": "Zu Weihnachten, da w\u00fcnsch ich mir",
       "url": "https://open.spotify.com/track/3WGrttRrM6XHKpAFAoc8oM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,443 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,445 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 14 | [You Send Me](https://open.spotify.com/track/4EbIIWf305n1WOJAWEb8cc) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 8:28 |
 | 15 | [Feed Me Your Love](https://open.spotify.com/track/6HSLTou3stVB46VMEiNK1N) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Soulsociety](https://open.spotify.com/artist/1jQbHWXe0zA2ZcrS6ngzPc) | [Feed Me Your Love](https://open.spotify.com/album/4p6oGoxRZvCAcbhuwF8Rjs) | 4:14 |
 | 16 | [Brawling Broads \- From The "Coffy" Soundtrack](https://open.spotify.com/track/2ZoZzG6PESuJ9taOuLevxk) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:46 |
-| 17 | [Green and Gold \- Delfonic Rework](https://open.spotify.com/track/42NO5tmaYgn8trdgg6UnhC) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP) | [Roy Ayers Delfonic Reworked \#1](https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy) | 4:01 |
-| 18 | [Gravity](https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:26 |
-| 19 | [Satisfaction](https://open.spotify.com/track/0rhUo9oEDGs822bVN8J0FR) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [FONVILLE](https://open.spotify.com/artist/4Pk1WAS0PpMDJb36CMbyfv), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Champagne Kisses](https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU) | 1:42 |
+| 17 | [Satisfaction](https://open.spotify.com/track/0rhUo9oEDGs822bVN8J0FR) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [FONVILLE](https://open.spotify.com/artist/4Pk1WAS0PpMDJb36CMbyfv), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Champagne Kisses](https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU) | 1:42 |
+| 18 | [Green and Gold \- Delfonic Rework](https://open.spotify.com/track/42NO5tmaYgn8trdgg6UnhC) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP) | [Roy Ayers Delfonic Reworked \#1](https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy) | 4:01 |
+| 19 | [Gravity](https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:26 |
 | 20 | [Aragon \- From The "Coffy" Soundtrack](https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:55 |
 | 21 | [2000 Blacks Got to Be Free \(Edit\)](https://open.spotify.com/track/2n7yrYNPbpBAlFIJvlKfHk) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got to Be Free](https://open.spotify.com/album/28XsGD0agBuKQn3RFKjczf) | 4:53 |
 | 22 | [And Don't You Say No](https://open.spotify.com/track/5CMjTh5RhPt5WkvcDvCaqw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 49 | [Ain't No Sunshine](https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 6:20 |
 | 50 | [Escape \- From The "Coffy" Soundtrack](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 |
 
-Snapshot ID: `aSo3gAAAAADmouSEStUYSSC2DVroNHlr`
+Snapshot ID: `aSuJAAAAAAC3RL4N5vy9fdrOwm+afjyK`

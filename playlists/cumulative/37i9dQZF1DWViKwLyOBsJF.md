@@ -4,7 +4,7 @@
 
 > Traditional Christmas songs for a classic festive feeling.
 
-125 songs - 5 hr 31 min
+126 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [I Saw Three Ships](https://open.spotify.com/track/6vT9ESh7N1SPjLfME1oLcp) | [Traditional Song](https://open.spotify.com/artist/4xpFJ59XzXnBngXKoH9Uld), [Øyen](https://open.spotify.com/artist/4An8FdoKpdHizSEaWQlqmT) | [24 Christmas Songs & Carols Gently on My Piano](https://open.spotify.com/album/4lGJils3BIt3Uv5hQpCxM2) | 1:34 | 2021-11-19 | 2023-09-28 |
 | [I Wonder as I Wander](https://open.spotify.com/track/044LY9AUmn4YaAQR9TWpdz) | [James Gaertner](https://open.spotify.com/artist/1ej6vCFXoyVEmZQV2hixDS) | [Simply Christmas](https://open.spotify.com/album/5d8HRqN6O7RIcNi030teHY) | 3:53 | 2021-11-19 |  |
 | [Il Est Ne, Le Divin Enfant \(He Is Born\)](https://open.spotify.com/track/7Abl4nhpTicAlcbHmUGVv3) | [Brad Jacobsen](https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s) | [Winter \- Solo Piano Christmas](https://open.spotify.com/album/5rKmeg1OjlUA5IwbtdRiLL) | 4:48 | 2021-11-19 |  |
-| [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/track/5OKJh9efE7zbKQeSML51Xk) | [Jonny Southard](https://open.spotify.com/artist/6BeZ093zzZgeGLSV9TG5Ez) | [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/album/4zqHiaCQamGSDLkzKS8UxF) | 4:03 | 2021-11-19 |  |
+| [In The Bleak Midwinter](https://open.spotify.com/track/3czlbEgQDVP39H5BXd7CPH) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [In The Bleak Midwinter](https://open.spotify.com/album/51pGZlMTBR9EeAn2CsR1KZ) | 2:18 | 2025-12-01 |  |
+| [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/track/5OKJh9efE7zbKQeSML51Xk) | [Jonny Southard](https://open.spotify.com/artist/6BeZ093zzZgeGLSV9TG5Ez) | [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/album/4zqHiaCQamGSDLkzKS8UxF) | 4:03 | 2021-11-19 | 2025-12-02 |
 | [It Came Upon A Midnight Clear \- Piano](https://open.spotify.com/track/7uVk518SvNt275Bhx02z06) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 2:25 | 2021-11-19 |  |
 | [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/4iSpJOotQU6eWlaB9Qo50F) | [Pauline Poncelet](https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/59KaMF4TGpxaSnWyToTNmb) | 2:29 | 2025-11-19 |  |
 | [Jingle Bells](https://open.spotify.com/track/0zwo1TTLQ1hT1D0FSUVzJb) | [Clouded Transparency](https://open.spotify.com/artist/5vuqXzXIvJedvrLxiekZk7) | [Jingle Bells](https://open.spotify.com/album/6v06rX8IKFfen73wXhIHcD) | 2:32 | 2024-11-06 | 2025-09-03 |

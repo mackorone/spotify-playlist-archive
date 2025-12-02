@@ -4,33 +4,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨DJ Suzy ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,001 likes - 286 songs - 15 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,009 likes - 286 songs - 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Silent War](https://open.spotify.com/track/3o2yy5B9AEuw791DZMBjok) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Silent War](https://open.spotify.com/album/3pIyEjKUoytocadT9yQbAZ) | 3:59 |
 | 2 | [Winny](https://open.spotify.com/track/4qhrMsB4w2pHYB3BhX5WPr) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Winny](https://open.spotify.com/album/63ITryjqkiwjmk3GABslAj) | 4:24 |
-| 3 | [Lover's Rock](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Acoustics & Hood Psychedelia](https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl) | 2:48 |
-| 4 | [wanna know](https://open.spotify.com/track/1vXR2dgcg46srmu4pYleX1) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Significant Value](https://open.spotify.com/album/1XlxQ0FxsIsNM8tu4BZ9uH) | 2:40 |
-| 5 | [Lipdance](https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 3:35 |
-| 6 | [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 |
-| 7 | [On My Mind](https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [On My Mind](https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z) | 3:22 |
+| 3 | [wanna know](https://open.spotify.com/track/1vXR2dgcg46srmu4pYleX1) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Significant Value](https://open.spotify.com/album/1XlxQ0FxsIsNM8tu4BZ9uH) | 2:40 |
+| 4 | [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 |
+| 5 | [Lover's Rock](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Acoustics & Hood Psychedelia](https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl) | 2:48 |
+| 6 | [Lipdance](https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 3:35 |
+| 7 | [You got time and I got money](https://open.spotify.com/track/0il7LJ828XyPqyvNx9cF5S) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 4:31 |
 | 8 | [The 64](https://open.spotify.com/track/34HvxIlrCngqaA00cHKtfd) | [Caesar Omaka](https://open.spotify.com/artist/0mzIUAC5NKH15AIryf5n2j) | [Svalor](https://open.spotify.com/album/2Oo7VnvlPLYrWco7LgvJER) | 3:37 |
-| 9 | [You got time and I got money](https://open.spotify.com/track/0il7LJ828XyPqyvNx9cF5S) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 4:31 |
+| 9 | [On My Mind](https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [On My Mind](https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z) | 3:22 |
 | 10 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 |
 | 11 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
 | 12 | [Think About U Lots](https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Think About U Lots](https://open.spotify.com/album/6iAhu9llD9clQtdAbc4v6m) | 3:34 |
 | 13 | [High Like The Sky](https://open.spotify.com/track/29VlrhOYEm3gowUKINZU6Q) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [High Like The Sky](https://open.spotify.com/album/6ooNDxGpXpFhithnfnyH1l) | 3:02 |
 | 14 | [Mom & Dad](https://open.spotify.com/track/3s3DGbw88GhQsFFobf8Jsp) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Mom & Dad](https://open.spotify.com/album/2l1AkZ39WjZO3V2TrP4Pdy) | 2:36 |
-| 15 | [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 |
-| 16 | [GIRL FIGHT](https://open.spotify.com/track/0PES33JUQt97Ua3IPPfIrI) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [GIRL FIGHT](https://open.spotify.com/album/77UHlVMgHm1KFQXDhnK8fo) | 2:45 |
+| 15 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 |
+| 16 | [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 |
 | 17 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
-| 18 | [Tell Me You're Fighting](https://open.spotify.com/track/4nU1ozanQhBheKqiC2ooef) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Tell Me You're Fighting](https://open.spotify.com/album/20nQR4HuCHAfHt3kBNsNRh) | 2:16 |
-| 19 | [if u only knew](https://open.spotify.com/track/2Q2pfG1ysMeeMNo851x389) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [if u only knew](https://open.spotify.com/album/2ujMIf2a5j3sBSUcncF42O) | 2:03 |
-| 20 | [Moment](https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Moment](https://open.spotify.com/album/74tiJMeAD7XYcQFDjqXp2k) | 2:14 |
-| 21 | [Yup](https://open.spotify.com/track/70pfTEWs5Z7K6bBkR8JyNi) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Yup](https://open.spotify.com/album/1LlP9glKx0kPVKdncrMIs6) | 4:07 |
-| 22 | [AHA](https://open.spotify.com/track/6HK56tpRGMGUGOFZ9CPnoj) | [BIJI](https://open.spotify.com/artist/2spZzA9c41ahb6OIXkYJgy) | [AHA](https://open.spotify.com/album/6k9yX6fWuJW1kzOUZ4jPAr) | 2:08 |
-| 23 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 |
+| 18 | [GIRL FIGHT](https://open.spotify.com/track/0PES33JUQt97Ua3IPPfIrI) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [GIRL FIGHT](https://open.spotify.com/album/77UHlVMgHm1KFQXDhnK8fo) | 2:45 |
+| 19 | [Tell Me You're Fighting](https://open.spotify.com/track/4nU1ozanQhBheKqiC2ooef) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Tell Me You're Fighting](https://open.spotify.com/album/20nQR4HuCHAfHt3kBNsNRh) | 2:16 |
+| 20 | [if u only knew](https://open.spotify.com/track/2Q2pfG1ysMeeMNo851x389) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [if u only knew](https://open.spotify.com/album/2ujMIf2a5j3sBSUcncF42O) | 2:03 |
+| 21 | [Moment](https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Moment](https://open.spotify.com/album/74tiJMeAD7XYcQFDjqXp2k) | 2:14 |
+| 22 | [Yup](https://open.spotify.com/track/70pfTEWs5Z7K6bBkR8JyNi) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Yup](https://open.spotify.com/album/1LlP9glKx0kPVKdncrMIs6) | 4:07 |
+| 23 | [AHA](https://open.spotify.com/track/6HK56tpRGMGUGOFZ9CPnoj) | [BIJI](https://open.spotify.com/artist/2spZzA9c41ahb6OIXkYJgy) | [AHA](https://open.spotify.com/album/6k9yX6fWuJW1kzOUZ4jPAr) | 2:08 |
 | 24 | [Don't Let It Get You Down](https://open.spotify.com/track/1czmsKJJuPQenQbDZcgR7x) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [Don't Let It Get You Down](https://open.spotify.com/album/79QyLSGRvcPrGO9MujjdTn) | 2:59 |
 | 25 | [FOR THE BOYS](https://open.spotify.com/track/6SVl0VRh9ZfHuN6Iy94GoQ) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [FOR THE BOYS](https://open.spotify.com/album/5xk2bNPyiDBHR5mqglyVWo) | 4:33 |
 | 26 | [I Believe](https://open.spotify.com/track/2FFusd66B0nxFk0t1HJ4gE) | [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Rust Pop, Pt\. 1](https://open.spotify.com/album/2c8Q75Gpk5rrUdjkdd5x7m) | 2:37 |
@@ -295,4 +295,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 285 | [t\-shirt](https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [t\-shirt](https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD) | 2:32 |
 | 286 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 |
 
-Snapshot ID: `AAAAAEPVGHbY2uQeCs1xAbSOj3yjnCbK`
+Snapshot ID: `AAAAAEcl6774GgpWCdQjYsHZSK3xLClB`

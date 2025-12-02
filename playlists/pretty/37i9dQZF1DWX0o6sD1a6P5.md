@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: KeBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,082 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,031 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hypocrite](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 |
+| 1 | [Hypocrite \(deux visages\)](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite \(deux visages\)](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 |
 | 2 | [SONGI SONGI](https://open.spotify.com/track/2FaguN0RwC7KiTHiUuaO2y) | [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [SONGI SONGI](https://open.spotify.com/album/4ZGMdKfRPnQgQu5sXy6hXQ) | 2:48 |
 | 3 | [Rebanav 126bpm](https://open.spotify.com/track/0zJ73feFCS8807usUclLWo) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Rebanav 126bpm](https://open.spotify.com/album/1pHOXBLIMAns5o6IZl4t9M) | 2:06 |
 | 4 | [Waist](https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd) | 2:45 |

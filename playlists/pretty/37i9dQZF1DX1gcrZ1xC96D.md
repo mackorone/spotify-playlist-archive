@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,965 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,959 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 42 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 |
 | 43 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 |
 | 44 | [Slow Burner](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
-| 45 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 |
-| 46 | [WAITING](https://open.spotify.com/track/4K4itwcuTopegq8qWQnRzk) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [WAITING](https://open.spotify.com/album/2iYFhXy1kMSJwxvd2OB4YM) | 4:00 |
+| 45 | [WAITING](https://open.spotify.com/track/4K4itwcuTopegq8qWQnRzk) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [WAITING](https://open.spotify.com/album/2iYFhXy1kMSJwxvd2OB4YM) | 4:00 |
+| 46 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 |
 | 47 | [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 |
 | 48 | [Wasted Youth](https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Wasted Youth](https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy) | 2:27 |
 | 49 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:28 |

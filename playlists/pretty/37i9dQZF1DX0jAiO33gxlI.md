@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto:  Drik Barbosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,022 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,000 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: RESCENE\(리센느\)\)
 
-1,523 songs - 3 day 9 hr 49 min
+1,524 songs - 3 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [8'O Clock](https://open.spotify.com/track/5mNPMAT47L4ZriY5YIGqJl) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [8'O Clock](https://open.spotify.com/album/0U2zMQyT1Cw2q6hFjx4c6D) | 2:52 | 2021-08-25 | 2021-10-06 |
 | [90's Love](https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s) | 3:33 | 2020-11-23 | 2021-04-22 |
 | [9LIVES](https://open.spotify.com/track/0TC2qsBgTZC9ojrtbKz8Rd) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Good Girl \(Episode 2\)](https://open.spotify.com/album/0rnf3v41imToPANdyUNhWF) | 3:23 | 2020-10-13\* | 2020-11-05 |
-| [A Chance Encounter](https://open.spotify.com/track/0lGPKB9g7qVCs5vMzZMGe2) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [A Chance Encounter](https://open.spotify.com/album/2fccNWzL5jDwu4dfbqRROs) | 3:33 | 2025-10-27 |  |
+| [A Chance Encounter](https://open.spotify.com/track/0lGPKB9g7qVCs5vMzZMGe2) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [A Chance Encounter](https://open.spotify.com/album/2fccNWzL5jDwu4dfbqRROs) | 3:33 | 2025-10-27 | 2025-12-02 |
 | [A Poem Titled You](https://open.spotify.com/track/4uW8imiqhAXandpeQk8Cnh) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [If, Vol\. 1](https://open.spotify.com/album/3D9DBNiWtmU37jYh0x5sPG) | 3:36 | 2023-07-07 | 2023-08-19 |
 | [A to Z](https://open.spotify.com/track/7qBGxGuUIQaYwm8gCVeab8) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [A to Z \(BANG YEDAM X Lulu\-lala Friends\)](https://open.spotify.com/album/4AJjxuKTdg7FfrnPmANcM4) | 2:30 | 2025-09-08 | 2025-10-08 |
 | [ABYSS](https://open.spotify.com/track/0mvQ0J2oRljP2lcOd3ewgn) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ABYSS](https://open.spotify.com/album/2PgBHwXf7FNCF8W0JyxXlo) | 3:52 | 2023-02-23 | 2023-04-14 |
@@ -1249,6 +1249,7 @@
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-06-02 | 2022-07-30 |
 | [STYLE](https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB) | 3:29 | 2025-06-18 | 2025-08-05 |
 | [Sudden Shower](https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 3:53 | 2024-06-12 | 2025-04-09 |
+| [SUGAR](https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [SUGAR](https://open.spotify.com/album/3FrLQvdgg4exfE1njHIxMQ) | 2:57 | 2025-12-01 |  |
 | [Sugar](https://open.spotify.com/track/4Tu4zn23F50xF0vq5FGzhW) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [2ND DESIRE \[TASTY\]](https://open.spotify.com/album/6kTFUtFLUxFQidclj616It) | 3:03 | 2021-02-10 | 2021-03-01 |
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-06-21 | 2022-07-26 |
 | [Sugar Rush](https://open.spotify.com/track/5FJqpWkacWPUrXtJ5waI1j) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:28 | 2024-02-26 | 2024-05-15 |

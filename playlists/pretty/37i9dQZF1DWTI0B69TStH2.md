@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6HIl4Jj9GAZEgHUKTJouuC">Weronika Drybs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,650 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,651 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pierwsza](https://open.spotify.com/track/1cayPVn2u8u2j0quByCett) | [Weronika Drybs](https://open.spotify.com/artist/6HIl4Jj9GAZEgHUKTJouuC) | [Pierwsza](https://open.spotify.com/album/69paJdjvpOUpmqTtLzAZOb) | 3:16 |
-| 2 | [One](https://open.spotify.com/track/5rhdVTXkakGgQ5BVKr1Ld2) | [Yulia](https://open.spotify.com/artist/7qDriwH0EP469oQTiTrWpl), [whysowavy](https://open.spotify.com/artist/4bC7MC4TiYpwnZUo7Ykv9F) | [One](https://open.spotify.com/album/4mltE18EoQSOKCYNYJKYY0) | 2:01 |
+| 2 | [ONE](https://open.spotify.com/track/5rhdVTXkakGgQ5BVKr1Ld2) | [Yulia](https://open.spotify.com/artist/7qDriwH0EP469oQTiTrWpl), [whysowavy](https://open.spotify.com/artist/4bC7MC4TiYpwnZUo7Ykv9F) | [ONE](https://open.spotify.com/album/4mltE18EoQSOKCYNYJKYY0) | 2:01 |
 | 3 | [gdzie jeZt?](https://open.spotify.com/track/1esxrMwWu6e4fqnmHaCYgu) | [Pawella](https://open.spotify.com/artist/6TVzi49bBN1JAwcHDiN5AH) | [gdzie jeZt?](https://open.spotify.com/album/6nDjDX5kqmlBURHB9VdCXi) | 2:29 |
 | 4 | [Leżeć](https://open.spotify.com/track/7fw1R3Z4EHs34kj2pG0NY0) | [Patrycja Krzyczman](https://open.spotify.com/artist/6o28utkI0NEACC95AlqMB1) | [Leżeć](https://open.spotify.com/album/6MhzCswgFkSa00Etoh0QA4) | 2:29 |
 | 5 | [już wychodzę](https://open.spotify.com/track/6plmaFaaTC1wXJBokbLBEX) | [oda nova](https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU) | [dualizm](https://open.spotify.com/album/11RqCeh0Tw8aq8X1BEgybD) | 1:30 |

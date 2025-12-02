@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>! Featuring Alison Wonderland
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,309 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,313 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 16 | [By Your Side](https://open.spotify.com/track/2OE8b4XUccHrareZNJRSLc) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Disk Utility](https://open.spotify.com/album/7h0A0UsPVRcSwIPE68YuNz) | 3:12 |
 | 17 | [Eight08](https://open.spotify.com/track/3IyJdQKc5ySnn25ORoijH0) | [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [Eight08/Hai](https://open.spotify.com/album/0zC3Pa5JrXZfn270TcEleI) | 3:00 |
 | 18 | [Nightmares \(feat\. Issey Cross\)](https://open.spotify.com/track/79aGuVHoeEa6fGzs5EmzIF) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Nightmares \(feat\. Issey Cross\)](https://open.spotify.com/album/0QXqGwL443mY0Sfb6fjRVo) | 2:58 |
-| 19 | [Right Time](https://open.spotify.com/track/48MoatAq65R3q5fRalsXq6) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI) | [The Moab Tapes](https://open.spotify.com/album/1cNIJ8WBmOj3fTMbRDHrXR) | 4:00 |
+| 19 | [Right Time](https://open.spotify.com/track/48MoatAq65R3q5fRalsXq6) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI) | [The Moab Tapes](https://open.spotify.com/album/1cNIJ8WBmOj3fTMbRDHrXR) | 3:59 |
 | 20 | [VIRUS](https://open.spotify.com/track/5RVdc5KXrZp7RElvkY5eSd) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [VIRUS](https://open.spotify.com/album/2MnQ62i9ZlUxZjJXRTifVO) | 2:48 |
 | 21 | [PUSHINN](https://open.spotify.com/track/3afe2BTqwgrwrLoOatjxFi) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [PUSHINN](https://open.spotify.com/album/2umT6tMDBC2DDbjCEckF3v) | 2:19 |
 | 22 | [Dancing In The Leaves](https://open.spotify.com/track/3nHjEuNtJ0fmAD2EljdKlz) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Buunshin](https://open.spotify.com/artist/5ucX3eT8wlEQGRVwUyeqBj), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Dancing In The Leaves](https://open.spotify.com/album/7H7TH8noObN6xLd7Oy34Sj) | 2:03 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 96 | [ONANON](https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [ONANON](https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP) | 3:15 |
 | 97 | [LOUDER](https://open.spotify.com/track/3tUl81O1ilB0U3H63kcNiy) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [LOUDER](https://open.spotify.com/album/5klX6dXCGsRln0N4t6pHEr) | 2:12 |
 | 98 | [Nobody Else But U](https://open.spotify.com/track/3iagcHosUvxs9876pJwZKI) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Nobody Else But U](https://open.spotify.com/album/6vNxyOKtUI4bpLKOtYlIkY) | 3:20 |
-| 99 | [IYKYK](https://open.spotify.com/track/2VfsWUM63pXOHrPwHqrIfC) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Amanda Joy](https://open.spotify.com/artist/0nWFxqxClqiIvjQvjyi4Gi) | [IYKYK](https://open.spotify.com/album/0iZav5xhaGkYCRijYyxfG9) | 3:56 |
-| 100 | [Monsoon](https://open.spotify.com/track/5pVySA9qkHt5qsh8oVUDma) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Monsoon](https://open.spotify.com/album/34FbsM0FQZpATKLGKaw4c5) | 2:50 |
+| 99 | [Monsoon](https://open.spotify.com/track/5pVySA9qkHt5qsh8oVUDma) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Monsoon](https://open.spotify.com/album/34FbsM0FQZpATKLGKaw4c5) | 2:50 |
+| 100 | [IYKYK](https://open.spotify.com/track/2VfsWUM63pXOHrPwHqrIfC) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Amanda Joy](https://open.spotify.com/artist/0nWFxqxClqiIvjQvjyi4Gi) | [IYKYK](https://open.spotify.com/album/0iZav5xhaGkYCRijYyxfG9) | 3:56 |
 
 Snapshot ID: `AAAAAFXZBugKng/rfPAaA7Rcd0/xHxou`

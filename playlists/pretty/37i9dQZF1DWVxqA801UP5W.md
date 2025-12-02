@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: David Guetta, Teddy Swims, Tones & I
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,534 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,538 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

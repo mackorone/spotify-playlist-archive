@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,093 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,115 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 53 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
 | 54 | [Desliga e Vem / Gamei / Gandaia \(feat\. Péricles & Chrigor\) \- Ao Vivo](https://open.spotify.com/track/2uRwpWT3PmIFQRvqx3LPkN) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Chrigor](https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk) | [Misturadin \(Ao Vivo\)](https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4) | 6:00 |
 | 55 | [Robô \- Spotify Singles](https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [Robô \- Spotify Singles](https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi) | 3:49 |
-| 56 | [Vidro Fumê \- Ao Vivo](https://open.spotify.com/track/4JHeRGCG7AZeaplGFQIarO) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Pela Porta da Frente](https://open.spotify.com/album/5a792NJrWn34jwktaRAewS) | 3:30 |
-| 57 | [Trovão](https://open.spotify.com/track/1q87J3ftrxGqKKSPXYqOhd) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [O Cara Certo](https://open.spotify.com/album/46AcQjehXf14WEIzG7X780) | 3:43 |
+| 56 | [Trovão](https://open.spotify.com/track/1q87J3ftrxGqKKSPXYqOhd) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [O Cara Certo](https://open.spotify.com/album/46AcQjehXf14WEIzG7X780) | 3:43 |
+| 57 | [Vidro Fumê \- Ao Vivo](https://open.spotify.com/track/4JHeRGCG7AZeaplGFQIarO) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Pela Porta da Frente](https://open.spotify.com/album/5a792NJrWn34jwktaRAewS) | 3:30 |
 | 58 | [Escreve Aí](https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Escreve Aí \- Single](https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5) | 3:58 |
 | 59 | [TunTunTun \- Spotify Singles](https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [TunTunTun \(Spotify Singles\)](https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK) | 3:06 |
 | 60 | [De Copo Em Copo \- Ao Vivo](https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR) | 2:38 |
-| 61 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
-| 62 | [Liga Lá em Casa \- Ao Vivo](https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR) | [Leonardo 30 Anos \(Ao Vivo\)](https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz) | 3:50 |
+| 61 | [Liga Lá em Casa \- Ao Vivo](https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR) | [Leonardo 30 Anos \(Ao Vivo\)](https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz) | 3:50 |
+| 62 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
 | 63 | [Toca um João Mineiro e Marciano \- Ao Vivo](https://open.spotify.com/track/1WHU8HxR21Zi6wyM1uYrBD) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov) | [É Divino \- Ao Vivo Em Campo Grande](https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM) | 2:54 |
 | 64 | [Deixa Tudo Como Tá \- Ao Vivo](https://open.spotify.com/track/0abrd2vT2W3JZBDNezUY7r) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 3:37 |
 | 65 | [Sogra \- Ao Vivo](https://open.spotify.com/track/4x8XaoLvpo6kd51PZD16RK) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Sogra \(Ao Vivo\)](https://open.spotify.com/album/2JIKCyhUqzmfiDWYcZbKiH) | 2:57 |

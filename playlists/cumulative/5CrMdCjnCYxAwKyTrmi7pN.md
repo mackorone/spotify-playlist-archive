@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/5CrMdCjnCYxAwKyTrmi7pN.md) - cumulative - [plain](/playlists/plain/5CrMdCjnCYxAwKyTrmi7pN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5CrMdCjnCYxAwKyTrmi7pN)
 
-### [Herfst Vibes 2025 ](https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN)
+### [Winter Vibes 2025 ](https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN)
 
-> Get cozy met deze playlist vol herfstvibes! Met muziek van Olivia Dean, Morgan Wallen, Lola Young en meer...
+> Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...
 
-231 songs - 12 hr 31 min
+232 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2025-09-22 | 2025-11-18 |
 | [What a Woman](https://open.spotify.com/track/7yCngOJnTDXHuabhS74XR3) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [What a Woman](https://open.spotify.com/album/3zJWDcRieFRKO76KegbEfu) | 3:33 | 2025-10-15 |  |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/48NthgcgfoRrWT8LtgW28A) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF) | 3:04 | 2025-07-17 |  |
+| [What It Gave Me](https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What It Gave Me](https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva) | 2:44 | 2025-12-01 |  |
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-07-17 | 2025-08-30 |
 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 | 2025-10-20 |  |
 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 | 2025-09-22 |  |

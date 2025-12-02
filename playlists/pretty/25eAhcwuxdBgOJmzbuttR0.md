@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 7 likes - 408 songs - 1 day 3 hr 54 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 7 likes - 411 songs - 1 day 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -416,5 +416,8 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 406 | [Tonight, Tonight \- Live In Denver](https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 4:06 |
 | 407 | [Build God, Then We'll Talk \- Live In Denver](https://open.spotify.com/track/3WIgVyhvuleR2o90Tr9bED) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 5:04 |
 | 408 | [HOT PINK BLOOD](https://open.spotify.com/track/2M1B6RyKn03IOZGPJIHNqU) | [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08) | [little lost bunny girl!!](https://open.spotify.com/album/4yNE7vglIMXBOvZMHEJdYa) | 3:18 |
+| 409 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
+| 410 | [Sulfur](https://open.spotify.com/track/4g3QZlvz39UllCcRXDZ0Do) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:37 |
+| 411 | [Prosthetic](https://open.spotify.com/track/3GkJayiMYPZMkTP9KnmYXK) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Virus](https://open.spotify.com/album/1i6DTKXsonvhHZYdLhIbk1) | 5:58 |
 
-Snapshot ID: `AAABqpQt5+qaV/scN2GdNeflXSaTnjDT`
+Snapshot ID: `AAABrY+g/iIveiS51ohdAypsuR7k1iAP`

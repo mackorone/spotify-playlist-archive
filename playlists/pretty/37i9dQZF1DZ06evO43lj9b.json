@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16443,
+  "num_followers": 16445,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAADmouSEStUYSSC2DVroNHlr",
+  "snapshot_id": "aSuJAAAAAAC3RL4N5vy9fdrOwm+afjyK",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Champagne Kisses",
+        "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
+      },
+      "artists": [
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "FONVILLE",
+          "url": "https://open.spotify.com/artist/4Pk1WAS0PpMDJb36CMbyfv"
+        },
+        {
+          "name": "Basile Petite",
+          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
+        }
+      ],
+      "duration_ms": 102812,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/0rhUo9oEDGs822bVN8J0FR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roy Ayers Delfonic Reworked #1",
         "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
       },
@@ -355,38 +387,6 @@
       "duration_ms": 206523,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Champagne Kisses",
-        "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
-      },
-      "artists": [
-        {
-          "name": "Reuben James",
-          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
-        },
-        {
-          "name": "FONVILLE",
-          "url": "https://open.spotify.com/artist/4Pk1WAS0PpMDJb36CMbyfv"
-        },
-        {
-          "name": "Basile Petite",
-          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
-        }
-      ],
-      "duration_ms": 102812,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/0rhUo9oEDGs822bVN8J0FR"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 578858,
+  "num_followers": 578796,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
       },
@@ -331,18 +315,18 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
-        "name": "Mystical Magical",
-        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 165746,
-      "name": "Mystical Magical",
-      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -363,6 +347,22 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -989,6 +989,26 @@
       "url": "https://open.spotify.com/track/7hEKlcqyoj3oOH0jtJveIS"
     },
     {
+      "added_at": "2025-11-21 05:00:43",
+      "album": {
+        "name": "Zoo (From \"Zootopia 2\")",
+        "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Zoo - From \"Zootopia 2\"",
+      "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
+    },
+    {
       "added_at": "2025-07-02 03:49:02",
       "album": {
         "name": "Double Life (From \"Despicable Me 4\")",
@@ -1039,26 +1059,6 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
-    },
-    {
-      "added_at": "2025-11-21 05:00:43",
-      "album": {
-        "name": "Zoo (From \"Zootopia 2\")",
-        "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 190822,
-      "name": "Zoo - From \"Zootopia 2\"",
-      "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219209,
+      "name": "Shake It Off (Taylor's Version)",
+      "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
         "name": "Descendants 2 (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 190720,
       "name": "What's My Name",
       "url": "https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219209,
-      "name": "Shake It Off (Taylor's Version)",
-      "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
     },
     {
       "added_at": "2025-07-02 03:49:02",

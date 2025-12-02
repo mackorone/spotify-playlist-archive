@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Ninho,  Meryl x Theodora  et Ofenbach au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,299 likes - 83 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,207 likes - 83 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 9 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
 | 10 | [Bonbon](https://open.spotify.com/track/3Lasn0k10J5Xx3nlez8N6h) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Bonbon](https://open.spotify.com/album/1ADfN6Y8bD0kgEtMYcm6dn) | 2:21 |
 | 11 | [Tu tenenew](https://open.spotify.com/track/4Y08UhClVz8TGngxNodK1P) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Tu tenenew](https://open.spotify.com/album/4KB7AtMShRDjCyDxooLxpe) | 3:13 |
-| 12 | [Hypocrite](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 |
+| 12 | [Hypocrite \(deux visages\)](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite \(deux visages\)](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 |
 | 13 | [..FEISTY](https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ICEY..FEISTY](https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL) | 2:51 |
 | 14 | [Free \(You Got To Live\)](https://open.spotify.com/track/7igzyhUbcM75ETumhe4nzO) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free \(You Got To Live\)](https://open.spotify.com/album/0V07kae1K63UGyBDfiTDDU) | 2:53 |
 | 15 | [Get This](https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Get This](https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH) | 3:19 |

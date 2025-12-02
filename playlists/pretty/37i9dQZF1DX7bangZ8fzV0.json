@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Chris Steyn",
-  "num_followers": 138006,
+  "num_followers": 138029,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
     },
     {
-      "added_at": "2025-11-10 08:54:35",
-      "album": {
-        "name": "Patriot",
-        "url": "https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 203413,
-      "name": "Nonna",
-      "url": "https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g"
-    },
-    {
       "added_at": "2025-10-30 22:00:14",
       "album": {
         "name": "Helemal",
@@ -651,6 +635,22 @@
       "duration_ms": 227999,
       "name": "Helemal",
       "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
+    },
+    {
+      "added_at": "2025-11-10 08:54:35",
+      "album": {
+        "name": "Patriot",
+        "url": "https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 203413,
+      "name": "Nonna",
+      "url": "https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g"
     },
     {
       "added_at": "2025-11-20 22:00:18",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Die Boer Hier Binne My",
-        "url": "https://open.spotify.com/album/03CKGxifmhiU610KWRCRBM"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 200886,
-      "name": "Die Boer Hier Binne My",
-      "url": "https://open.spotify.com/track/4QEuN7EBs37KQBQBqJuZug"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
         "name": "Sonsak In Die Vrystaat",
         "url": "https://open.spotify.com/album/50dKlWGrIJxkqxOhWtT5gK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 264935,
       "name": "Sonsak In Die Vrystaat",
       "url": "https://open.spotify.com/track/0kCV9CS4xBUgAyHf2bGjUm"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Die Boer Hier Binne My",
+        "url": "https://open.spotify.com/album/03CKGxifmhiU610KWRCRBM"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 200886,
+      "name": "Die Boer Hier Binne My",
+      "url": "https://open.spotify.com/track/4QEuN7EBs37KQBQBqJuZug"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Kom Klop Weer",
-        "url": "https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc"
-      },
-      "artists": [
-        {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu"
-        }
-      ],
-      "duration_ms": 175147,
-      "name": "Kom Klop Weer",
-      "url": "https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
         "name": "Winter In Die Kaap",
         "url": "https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
+        "name": "Kom Klop Weer",
+        "url": "https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu"
+        }
+      ],
+      "duration_ms": 175147,
+      "name": "Kom Klop Weer",
+      "url": "https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
         "name": "Wat Kan 'n Man Dan Doen",
         "url": "https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 164520,
       "name": "Wat Kan 'n Man Dan Doen",
       "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
-        "name": "Praat Duits",
-        "url": "https://open.spotify.com/album/2j4HaojiJQt5p6NgqJJIkh"
-      },
-      "artists": [
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
-        }
-      ],
-      "duration_ms": 207078,
-      "name": "Praat Duits",
-      "url": "https://open.spotify.com/track/3O5NhPYS1eZNmKwDk9b3tR"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1043,6 +1027,22 @@
       "duration_ms": 192676,
       "name": "Shut Up & Soen My",
       "url": "https://open.spotify.com/track/1LVudOtqu2VZzuE1UrfjpL"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Praat Duits",
+        "url": "https://open.spotify.com/album/2j4HaojiJQt5p6NgqJJIkh"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 207078,
+      "name": "Praat Duits",
+      "url": "https://open.spotify.com/track/3O5NhPYS1eZNmKwDk9b3tR"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Ek Sal Nie Bang Wees Nie",
-        "url": "https://open.spotify.com/album/4Ok6uHJKhvETPiGnCu7qYQ"
-      },
-      "artists": [
-        {
-          "name": "Jo Black",
-          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Ek Sal Nie Bang Wees Nie",
-      "url": "https://open.spotify.com/track/0YAYhBmpFGVCgOBcdzjzBS"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
         "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
         "url": "https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 182927,
       "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
       "url": "https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Ek Sal Nie Bang Wees Nie",
+        "url": "https://open.spotify.com/album/4Ok6uHJKhvETPiGnCu7qYQ"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Ek Sal Nie Bang Wees Nie",
+      "url": "https://open.spotify.com/track/0YAYhBmpFGVCgOBcdzjzBS"
     }
   ],
   "unique_name": "Afrikaanse Hits",

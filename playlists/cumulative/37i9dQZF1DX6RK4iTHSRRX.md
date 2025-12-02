@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-147 songs - 6 hr 3 min
+148 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [In Dulci Jubilo](https://open.spotify.com/track/4CgMcRtgYkkB2vxMVh21Cs) | [Sølvin Refvik](https://open.spotify.com/artist/0fUAVgLdki5UCCEbaKfX0L) | [Silent Night \- Christmas Songs for Guitar](https://open.spotify.com/album/56RQXXZgczxNDHoUzuybAT) | 2:15 | 2024-06-10 |  |
 | [In The Bleak Midwinter](https://open.spotify.com/track/1OqSragbUUlPg7WKF01prY) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Blue Christmas](https://open.spotify.com/album/21w7OtjUD2N02608s1pYNE) | 2:12 | 2023-10-27 |  |
 | [In the Bleak Midwinter](https://open.spotify.com/track/2yYTQ6Jjz9lSIcytWrdbTq) | [Ernie Rissmann](https://open.spotify.com/artist/6jc0zP2sIU3iDeJBYcH8jt) | [Silent Night \(Christmas Carols on Acoustic Guitar\)](https://open.spotify.com/album/5a8rDCGZi82Uo1mcAF9Oq7) | 2:09 | 2021-12-22 | 2023-10-27 |
+| [In The Bleak Midwinter](https://open.spotify.com/track/3czlbEgQDVP39H5BXd7CPH) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [In The Bleak Midwinter](https://open.spotify.com/album/51pGZlMTBR9EeAn2CsR1KZ) | 2:18 | 2025-12-01 |  |
 | [Infant Holy, Infant Lowly](https://open.spotify.com/track/4e37raAOz628uYyP41jW77) | [Unplugged](https://open.spotify.com/artist/2zWN3tPCwG3g59tOvIZPXY) | [Acoustic Christmas](https://open.spotify.com/album/7z4ULIFjxpGEBwePyr9Aki) | 2:42 | 2021-12-22 |  |
 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/3CQr9je6lodUVdrZXAkdQr) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [It Came Upon a Midnight Clear](https://open.spotify.com/album/78QZDSa0cAbMCXumjzbbQl) | 2:42 | 2023-11-17 |  |
 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/6YxMWJd7FWGYh3HbpBvjd9) | [Jeff Wahl](https://open.spotify.com/artist/3z975VInlGLspa4qHMmZwM) | [Christmas Guitar](https://open.spotify.com/album/3DhGSShEDNgIqqecW8EqnR) | 2:15 | 2021-12-22 | 2023-11-17 |

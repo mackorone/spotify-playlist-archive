@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60535,
+  "num_followers": 60536,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
+        "name": "You You You",
+        "url": "https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 162113,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
         "name": "VULKAN\u00d8",
         "url": "https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 179917,
       "name": "Sygeplejerske p\u00e5 nattevagt (feat. Molly Sand\u00e9n & Delara)",
       "url": "https://open.spotify.com/track/5sLwYGTP680NRoQG4BqeSW"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
-        "name": "You You You",
-        "url": "https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 162113,
-      "name": "You You You",
-      "url": "https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -511,6 +511,26 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
+        "name": "F\u00f6rlora dig l\u00e5ngsamt",
+        "url": "https://open.spotify.com/album/13AYEJK45UlkahBUngfsvY"
+      },
+      "artists": [
+        {
+          "name": "KHARMA",
+          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
+        },
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "duration_ms": 151093,
+      "name": "F\u00f6rlora dig l\u00e5ngsamt",
+      "url": "https://open.spotify.com/track/6WlJ1sVqmfeEvMRAKebp91"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
         "name": "Klara",
         "url": "https://open.spotify.com/album/5CNoE336D6RcLoWP0w9h2H"
       },
@@ -523,22 +543,6 @@
       "duration_ms": 229994,
       "name": "Klara",
       "url": "https://open.spotify.com/track/0bGNkAnYXjd9V8rMTbctHs"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
-        "name": "Andarna",
-        "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 226124,
-      "name": "Andarna",
-      "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -559,22 +563,18 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "F\u00f6rlora dig l\u00e5ngsamt",
-        "url": "https://open.spotify.com/album/13AYEJK45UlkahBUngfsvY"
+        "name": "Andarna",
+        "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
       },
       "artists": [
         {
-          "name": "KHARMA",
-          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
-        },
-        {
-          "name": "Theo",
-          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
         }
       ],
-      "duration_ms": 151093,
-      "name": "F\u00f6rlora dig l\u00e5ngsamt",
-      "url": "https://open.spotify.com/track/6WlJ1sVqmfeEvMRAKebp91"
+      "duration_ms": 226124,
+      "name": "Andarna",
+      "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -775,18 +775,18 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Cutting Ties",
-        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z"
       },
       "artists": [
         {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+          "name": "Dione",
+          "url": "https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK"
         }
       ],
-      "duration_ms": 261854,
-      "name": "Cutting Ties",
-      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
+      "duration_ms": 202171,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -807,34 +807,18 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Backspegeln",
-        "url": "https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2"
+        "name": "Cutting Ties",
+        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
       },
       "artists": [
         {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
         }
       ],
-      "duration_ms": 226745,
-      "name": "Backspegeln - Radio Edit",
-      "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z"
-      },
-      "artists": [
-        {
-          "name": "Dione",
-          "url": "https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK"
-        }
-      ],
-      "duration_ms": 202171,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA"
+      "duration_ms": 261854,
+      "name": "Cutting Ties",
+      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -855,6 +839,22 @@
       "duration_ms": 176672,
       "name": "MIG/DIG (feat. Klaudy)",
       "url": "https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "Backspegeln",
+        "url": "https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 226745,
+      "name": "Backspegeln - Radio Edit",
+      "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Mjukt ljus",
-        "url": "https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 160817,
-      "name": "Mjukt ljus",
-      "url": "https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "Sv\u00e5rt",
         "url": "https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
+        "name": "Mjukt ljus",
+        "url": "https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 160817,
+      "name": "Mjukt ljus",
+      "url": "https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
         "name": "I want you to be happy",
         "url": "https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Same Kids",
-        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Same Kids",
-      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "Han vill ha dig",
         "url": "https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 208845,
       "name": "Han vill ha dig",
       "url": "https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "Same Kids",
+        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Same Kids",
+      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "YAKO",
-        "url": "https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT"
-      },
-      "artists": [
-        {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Fel",
-      "url": "https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "Camels",
         "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 114000,
       "name": "Camels",
       "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "YAKO",
+        "url": "https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT"
+      },
+      "artists": [
+        {
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Fel",
+      "url": "https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Where It Hurts",
-        "url": "https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm"
+        "name": "Same Old Dirt",
+        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
       },
       "artists": [
         {
-          "name": "Dandelion",
-          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
         }
       ],
-      "duration_ms": 180632,
-      "name": "Where It Hurts",
-      "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
+      "duration_ms": 186893,
+      "name": "Same Old Dirt",
+      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Same Old Dirt",
-        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
+        "name": "Where It Hurts",
+        "url": "https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm"
       },
       "artists": [
         {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
         }
       ],
-      "duration_ms": 186893,
-      "name": "Same Old Dirt",
-      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
+      "duration_ms": 180632,
+      "name": "Where It Hurts",
+      "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "PURE ILLUSION",
-        "url": "https://open.spotify.com/album/4Pd2CKdgaxt3GHa2sVqkj0"
-      },
-      "artists": [
-        {
-          "name": "Jhon Allan",
-          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
-        }
-      ],
-      "duration_ms": 149018,
-      "name": "MISUNDERSTAND",
-      "url": "https://open.spotify.com/track/2cGLPWT5DTBQdvjbf5Gh82"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
         "url": "https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3"
       },
@@ -1395,22 +1379,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "Stockholm City",
         "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
       },
@@ -1423,6 +1391,38 @@
       "duration_ms": 160465,
       "name": "Stockholm City",
       "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "PURE ILLUSION",
+        "url": "https://open.spotify.com/album/4Pd2CKdgaxt3GHa2sVqkj0"
+      },
+      "artists": [
+        {
+          "name": "Jhon Allan",
+          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
+        }
+      ],
+      "duration_ms": 149018,
+      "name": "MISUNDERSTAND",
+      "url": "https://open.spotify.com/track/2cGLPWT5DTBQdvjbf5Gh82"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Madame",
-        "url": "https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf"
-      },
-      "artists": [
-        {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
-        }
-      ],
-      "duration_ms": 134254,
-      "name": "Madame",
-      "url": "https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "Dansa med mig sj\u00e4lv",
         "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
       },
@@ -1479,18 +1463,34 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Gatorna i Bor\u00e5s",
-        "url": "https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV"
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf"
       },
       "artists": [
         {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
         }
       ],
-      "duration_ms": 164089,
-      "name": "Gatorna i Bor\u00e5s",
-      "url": "https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg"
+      "duration_ms": 134254,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "Is It Love?",
+        "url": "https://open.spotify.com/album/70WeBMKxVg8C06c68o1661"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "duration_ms": 182133,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
     }
   ],
   "unique_name": "p\u00e5 repeat",

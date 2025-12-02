@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 140305,
+  "num_followers": 140301,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAB+AHW/fddo80YOUhxxw57n",
+  "snapshot_id": "aSuJAAAAAABAgqRhU7fLdmbwVTpObvc+",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 326960,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6ChFsa3xElTTIJAo460out"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "And If Our God Is For Us...",
         "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 326960,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6ChFsa3xElTTIJAo460out"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 291410,
       "name": "10,000 Reasons (Bless The Lord)",
       "url": "https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "We Fall Down",
+      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
       "duration_ms": 230360,
       "name": "Who You Are To Me (feat. Lady A)",
       "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "We Fall Down",
-      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
     },
     {
       "added_at": null,

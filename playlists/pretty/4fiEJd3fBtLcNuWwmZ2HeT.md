@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 397 songs - 22 hr 54 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 398 songs - 22 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -405,5 +405,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 395 | [DAI DAI DAI KIRAI](https://open.spotify.com/track/5IHJVTiUEkaTQYH1tibQVu) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [DENNOSTALGIA](https://open.spotify.com/album/1wWe5h0pGEdpybC4sqri4Z) | 3:14 |
 | 396 | [요단강](https://open.spotify.com/track/5iHc6qrkJAm8LNoQuuSAlL) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [아홉가지기분](https://open.spotify.com/album/5ooEdlSXdzcTXLTHMg6QMO) | 4:47 |
 | 397 | [Nightmare Restaurant](https://open.spotify.com/track/2QjWqcAy7BaBsYBYs9ozZG) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [Nightmare Restaurant](https://open.spotify.com/album/4Nwqel1zFJwAFRHXVd1nZK) | 3:00 |
+| 398 | [迷彩](https://open.spotify.com/track/4997ipQH5dYt24YqSp4Cb6) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [斎藤ネコ](https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz) | [平成風俗](https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv) | 3:57 |
 
-Snapshot ID: `AAAJhd03GuNV/9v36Jhv6f5ZEzeWSe7D`
+Snapshot ID: `AAAJhrlaWZqWvHiQPPLtx7Z+8yXc495k`

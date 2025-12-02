@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 101576,
+  "num_followers": 101581,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAA9J/IlwQ9ZcmGz/LfIuyhz",
+  "snapshot_id": "aSuJAAAAAAAYVk0KietP5qYyV019ofeI",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Persuasive (with SZA)",
-        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Persuasive (with SZA)",
-      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timeless (Remix)",
         "url": "https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 228000,
       "name": "Timeless (feat. Playboi Carti & Doechii) - Remix",
       "url": "https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Persuasive (with SZA)",
+        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Persuasive (with SZA)",
+      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beat A B!tch Up",
-        "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "Beat A B!tch Up",
-      "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The House Is Burning",
         "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 176682,
       "name": "Wat U Sed (feat. Doechii & Kal Banx)",
       "url": "https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beat A B!tch Up",
+        "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "Beat A B!tch Up",
+      "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
     },
     {
       "added_at": null,

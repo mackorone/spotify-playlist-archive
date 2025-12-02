@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,387 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,390 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 37 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
 | 38 | [Everytime We Say Goodbye](https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 6:01 |
 | 39 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
-| 40 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 |
-| 41 | [12th Avenue](https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [12th Avenue](https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd) | 4:37 |
+| 40 | [12th Avenue](https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [12th Avenue](https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd) | 4:37 |
+| 41 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 |
 | 42 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/5xtiAessAtry987cTy5maQ) | [Jamie Lancaster](https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR) | [Joyride](https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f) | 3:01 |
 | 43 | [Misty](https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:54 |
 | 44 | [You Are There](https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [You Are There](https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM) | 5:45 |
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 52 | [Si Me Dejas Ahora](https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Al Príncipe Bossa](https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH) | 3:25 |
 | 53 | [The Very Thought of You](https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Homefree](https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD) | 6:01 |
 | 54 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
-| 55 | [Even in the Evenin'](https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:47 |
-| 56 | [She Loves You](https://open.spotify.com/track/1a56wRkbBjtglKTwyGdROw) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:38 |
+| 55 | [She Loves You](https://open.spotify.com/track/1a56wRkbBjtglKTwyGdROw) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:38 |
+| 56 | [Even in the Evenin'](https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:47 |
 | 57 | [Confession / The Other Woman](https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 6:43 |
 | 58 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt) | [Kevin Mahogany](https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN) | [My Romance](https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf) | 4:13 |
 | 59 | [Rat In My Kitchen](https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Jazz and Essentials](https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY) | 3:17 |
-| 60 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 |
-| 61 | [A Hard Day´s Night \(Bossa Version\)](https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J) | [Monique Kessous](https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI) | [Relaxing Bossa Lounge](https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw) | 2:38 |
+| 60 | [A Hard Day´s Night \(Bossa Version\)](https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J) | [Monique Kessous](https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI) | [Relaxing Bossa Lounge](https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw) | 2:38 |
+| 61 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 |
 | 62 | [All About Ronnie](https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [All About Chris](https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA) | 3:00 |
 | 63 | [My Mood Is You](https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE) | [Freddy Cole](https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK) | [My Mood Is You](https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY) | 5:45 |
 | 64 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 74 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
 | 75 | [Allways on my mind](https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 5:14 |
 
-Snapshot ID: `AAAAAGU2CjHO45iJf2QeCgTco/RfZvpZ`
+Snapshot ID: `AAAAAHqnBqcOXuA8vMiawyWc7sKpjfbW`

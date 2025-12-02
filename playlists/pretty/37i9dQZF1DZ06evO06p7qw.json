@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 189060,
+  "num_followers": 189119,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAAKzNvhmfc64bx7oVPuR7fW",
+  "snapshot_id": "aSuJAAAAAABBYsNYt33a/i6S3gUmosjl",
   "tracks": [
     {
       "added_at": null,
@@ -363,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
       },
       "artists": [
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva"
+      "duration_ms": 191866,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
     },
     {
       "added_at": null,
@@ -411,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERIOR",
-        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
       },
       "artists": [
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
         }
       ],
-      "duration_ms": 191866,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
+      "duration_ms": 212466,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buena",
-        "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Buena",
-      "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
+      "duration_ms": 174000,
+      "name": "Superior",
+      "url": "https://open.spotify.com/track/68FmwuQOlAiruuhcynSXPm"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERIOR",
-        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+        "name": "Buena",
+        "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Superior",
-      "url": "https://open.spotify.com/track/68FmwuQOlAiruuhcynSXPm"
+      "duration_ms": 218013,
+      "name": "Buena",
+      "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
       "duration_ms": 209133,
       "name": "Mojado",
       "url": "https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Cuando Te Beso",
+      "url": "https://open.spotify.com/track/2iMnAAwsMGn2YSD9R6wAhj"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERIOR",
-        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Cuando Te Beso",
-      "url": "https://open.spotify.com/track/2iMnAAwsMGn2YSD9R6wAhj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Este Cuento",
         "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 281390,
-      "name": "Una y Otra Vez - En Vivo Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/7qFiF4M4mTtvUkADadj8o2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERIOR",
         "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 199933,
       "name": "Alguien Como T\u00fa",
       "url": "https://open.spotify.com/track/5tU9ASFW06aP69DNB5ewP0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 281390,
+      "name": "Una y Otra Vez - En Vivo Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/7qFiF4M4mTtvUkADadj8o2"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/176EqIhvWigS80o9u6Tiiq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Este Momento",
         "url": "https://open.spotify.com/album/1TcPnkUgx9IR4dUJgCTk0N"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 206778,
       "name": "Este Momento",
       "url": "https://open.spotify.com/track/4E4IYliBvPWdrSmNMcuiRN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPERIOR",
-        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/176EqIhvWigS80o9u6Tiiq"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Delincuentes",
+      "url": "https://open.spotify.com/track/7weXEtywT6SjhByI0wg8oO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPERIOR",
-        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Delincuentes",
-      "url": "https://open.spotify.com/track/7weXEtywT6SjhByI0wg8oO"
     },
     {
       "added_at": null,

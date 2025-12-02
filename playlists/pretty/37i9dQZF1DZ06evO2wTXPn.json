@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31733,
+  "num_followers": 31736,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAABRdLlbYZ+15yxY7szUiCWQ",
+  "snapshot_id": "aSuJAAAAAACpMIvFPjVrGxDcjwK5vxXd",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Las Ganas",
-        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Con Las Ganas",
-      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "unas ac\u00fasticas",
         "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 202573,
       "name": "Somos Instantes - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Las Ganas",
+        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Con Las Ganas",
+      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
     },
     {
       "added_at": null,

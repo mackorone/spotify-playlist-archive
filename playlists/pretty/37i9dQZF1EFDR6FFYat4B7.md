@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538 likes - 165 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 539 likes - 165 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 61 | [Sex \(With My Ex\)](https://open.spotify.com/track/5uOOSpNpOfw9MtfAiyyIx3) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 3:12 |
 | 62 | [Unhinged](https://open.spotify.com/track/545yZeRbrPHj6wM94RgT3M) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:52 |
 | 63 | [Baggage \(with AlunaGeorge\)](https://open.spotify.com/track/4sDztUavwewTc3Oy8KZE7I) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:16 |
-| 64 | [My Attic](https://open.spotify.com/track/6BoGECI8eEAII2fjOV88He) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 3:02 |
-| 65 | [Danger](https://open.spotify.com/track/4CevWKebcrg0qzZCI6vu9c) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:55 |
+| 64 | [Danger](https://open.spotify.com/track/4CevWKebcrg0qzZCI6vu9c) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:55 |
+| 65 | [My Attic](https://open.spotify.com/track/6BoGECI8eEAII2fjOV88He) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 3:02 |
 | 66 | [Doppelgänger](https://open.spotify.com/track/1KjJfUt1UyEbZSbliSkGpi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Doppelgänger](https://open.spotify.com/album/7wUFChQwfJDOAMTBTFjBHc) | 3:14 |
 | 67 | [so sad so sexy](https://open.spotify.com/track/1hQjRldnVW3On7QzoxGlht) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:32 |
 | 68 | [Infinity](https://open.spotify.com/track/7IzurnmQLvZmMDJcpITUyt) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [\#1 to Infinity](https://open.spotify.com/album/6kRdK7cPgLqNfSoI7AMlyj) | 3:59 |
@@ -142,16 +142,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 132 | [The Great Magician](https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [The Great Magician](https://open.spotify.com/album/63t10xbFmyLIsLoush60io) | 3:03 |
 | 133 | [Freak Of Nature](https://open.spotify.com/track/2R5MNcivvBdMqV5rFnVH3L) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Mark Ronson Presents The Music Of "Spies In Disguise"](https://open.spotify.com/album/0EeETtjyIpQwsiqIQMHLtk) | 3:27 |
 | 134 | [Silent Night \(feat\. Ilsey\)](https://open.spotify.com/track/319QeKXVvPyCO82wqMnvDG) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:50 |
-| 135 | [Simplify](https://open.spotify.com/track/3FWMV8E8bugipOWGaehWW6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 3:51 |
-| 136 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 135 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 136 | [Simplify](https://open.spotify.com/track/3FWMV8E8bugipOWGaehWW6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 3:51 |
 | 137 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
 | 138 | [If It Ain't Love](https://open.spotify.com/track/13JNBBhATtY4Naa7LeslpI) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [More Issues Than Vogue](https://open.spotify.com/album/307Vo39bAFM833KEs9Op54) | 4:26 |
 | 139 | [Last Thing I Do](https://open.spotify.com/track/0XVnoq2OcuWH2b8LNiBHqQ) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [Last Thing I Do](https://open.spotify.com/album/2x7ZpyuydRC4viG7nfr9os) | 3:21 |
 | 140 | [Thicker Than Water](https://open.spotify.com/track/3DUDmYlLCnp0bdVfJGwe9k) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EZEE](https://open.spotify.com/artist/3BRnVKHvAQEdENW8XCjeb9) | [Thicker Than Water](https://open.spotify.com/album/0kY5zsvfsr74b1a76ZHRGe) | 3:03 |
 | 141 | [Send Me Your Love \- KDrew Remix](https://open.spotify.com/track/5pYngSQa1LIT2WZ14sTKKD) | [Taryn Manning](https://open.spotify.com/artist/5XuruQMEsXHJZ7AIREr8Yv) | [Send Me Your Love \(KDrew Remix\) \- Single](https://open.spotify.com/album/28NaVVA9vrBQZEac8iIVVM) | 4:54 |
 | 142 | [Brooklyn Apartment \(It’s Louder Than The TV And The Radio\)](https://open.spotify.com/track/6rohsMPgiP6CAvlTejehdE) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Low Blows](https://open.spotify.com/album/6ShsZvRGx3dU6s0WXs7DfT) | 3:19 |
-| 143 | [WW3](https://open.spotify.com/track/21bFJLBdEX2YLpwSW27XYt) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Architect \(Zeitgeist Edition\)](https://open.spotify.com/album/6jXWfehoSTsRDXExVJMeAh) | 3:10 |
-| 144 | [D i s t a n c e](https://open.spotify.com/track/0mzNuvoGJQuZ2Dk21Ru7lF) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:22 |
+| 143 | [D i s t a n c e](https://open.spotify.com/track/0mzNuvoGJQuZ2Dk21Ru7lF) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:22 |
+| 144 | [WW3](https://open.spotify.com/track/21bFJLBdEX2YLpwSW27XYt) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Architect \(Zeitgeist Edition\)](https://open.spotify.com/album/6jXWfehoSTsRDXExVJMeAh) | 3:10 |
 | 145 | [Bad For Me](https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad For Me](https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG) | 2:58 |
 | 146 | [Jealousy](https://open.spotify.com/track/771xIRZvmPNPNw8CP82WJV) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 3:02 |
 | 147 | [Before The Sun Goes Down](https://open.spotify.com/track/3koztLmMH6DSP8NmI0Mc9f) | [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [Before The Sun Goes Down](https://open.spotify.com/album/0LW7Gi4WOcZ1KaEWY0fY7M) | 2:51 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 164 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 | 165 | [Slow Dance](https://open.spotify.com/track/48iQ59o2m0IFrTvPk1XRyY) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:55 |
 
-Snapshot ID: `AcDAUAAAAAAwTsd8U+su8x1ZSEm3O/G0`
+Snapshot ID: `AcDF8AAAAAA41l6Pgf+GtIB5zSHO+FRH`

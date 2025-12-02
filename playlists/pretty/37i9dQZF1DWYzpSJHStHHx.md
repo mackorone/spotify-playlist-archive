@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,713 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,693 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 49 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
 | 50 | [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 |
 | 51 | [Obsession](https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Mushroom](https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu) | 3:25 |
-| 52 | [The Beach](https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF) | [Warbaby](https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK) | [The Beach](https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY) | 3:15 |
-| 53 | [Walk To The One You Love](https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY) | [Twin Peaks](https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs) | [Down In Heaven](https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5) | 3:33 |
-| 54 | [Pacific Ocean](https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Pacific Ocean](https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25) | 2:33 |
+| 52 | [Walk To The One You Love](https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY) | [Twin Peaks](https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs) | [Down In Heaven](https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5) | 3:33 |
+| 53 | [Pacific Ocean](https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Pacific Ocean](https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25) | 2:33 |
+| 54 | [The Beach](https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF) | [Warbaby](https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK) | [The Beach](https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY) | 3:15 |
 | 55 | [LCD](https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [LCD](https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y) | 3:31 |
 | 56 | [The Way You Talk](https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [The Way You Talk](https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq) | 3:18 |
 | 57 | [Never Going Home](https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C) | 3:56 |

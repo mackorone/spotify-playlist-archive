@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,691 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,695 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,20 +41,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 31 | [Saginaw, Michigan](https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Saginaw, Michigan](https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX) | 3:02 |
 | 32 | [D\-I\-V\-O\-R\-C\-E](https://open.spotify.com/track/5f38UWziNmvOjdMHvwxsL9) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:55 |
 | 33 | [Branded Man \- Remastered](https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Prison](https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ) | 3:06 |
-| 34 | [Just Between You and Me](https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Super Hits](https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX) | 2:14 |
+| 34 | [Detroit City](https://open.spotify.com/track/7eNM9suHz80f4fbC8aobod) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:49 |
 | 35 | [She's Got You](https://open.spotify.com/track/1Pj6cjIyqBBnl82qJwi1Kb) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [The Definitive Collection](https://open.spotify.com/album/3g5uyAp8sS8LnnCxh9y2em) | 2:58 |
-| 36 | [Devil Woman](https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 2:52 |
-| 37 | [Detroit City](https://open.spotify.com/track/7eNM9suHz80f4fbC8aobod) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:49 |
+| 36 | [Just Between You and Me](https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Super Hits](https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX) | 2:14 |
+| 37 | [Devil Woman](https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 2:52 |
 | 38 | [Six Days On The Road](https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql) | [Dave Dudley](https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv) | [20th Century Masters: The Millennium Collection: Best Of Dave Dudley](https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM) | 2:14 |
 | 39 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
 | 40 | [Fist City](https://open.spotify.com/track/6BLoKpgWtQbYqFDFUp9ApX) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Fist City](https://open.spotify.com/album/4or7bC7lPqBTr7Nh1AUSsN) | 2:12 |
-| 41 | [May the Bird of Paradise Fly up Your Nose](https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [May the Bird of Paradise Fly Up Your Nose](https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR) | 2:31 |
-| 42 | [The Streets of Baltimore](https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Streets of Baltimore](https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp) | 2:40 |
+| 41 | [The Streets of Baltimore](https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Streets of Baltimore](https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp) | 2:40 |
+| 42 | [May the Bird of Paradise Fly up Your Nose](https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [May the Bird of Paradise Fly Up Your Nose](https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR) | 2:31 |
 | 43 | [The Bottle Let Me Down](https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Vintage Collections](https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg) | 2:48 |
 | 44 | [Don't Worry](https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 3:14 |
 | 45 | [Stupid Cupid](https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Right Or Wrong](https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX) | 2:16 |
-| 46 | [The Carroll County Accident](https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Essential Porter Wagoner](https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S) | 2:49 |
-| 47 | [500 Miles Away from Home](https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:42 |
+| 46 | [500 Miles Away from Home](https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:42 |
+| 47 | [The Carroll County Accident](https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Essential Porter Wagoner](https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S) | 2:49 |
 | 48 | [Me And Bobby McGee](https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Super Hits](https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C) | 3:16 |
 | 49 | [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 |
 | 50 | [Sea of Heartbreak](https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:31 |

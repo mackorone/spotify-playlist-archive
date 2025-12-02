@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Kekel",
-  "num_followers": 1651,
+  "num_followers": 1663,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,30 @@
     {
       "added_at": "2025-09-29 14:54:33",
       "album": {
+        "name": "Respeitada",
+        "url": "https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 140495,
+      "name": "Respeitada",
+      "url": "https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4"
+    },
+    {
+      "added_at": "2025-09-29 14:54:33",
+      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
       },
@@ -431,30 +455,6 @@
       "duration_ms": 236523,
       "name": "D\u00e1 pra ser?",
       "url": "https://open.spotify.com/track/7jdP9m9lpNp51ainfora8t"
-    },
-    {
-      "added_at": "2025-09-29 14:54:33",
-      "album": {
-        "name": "Respeitada",
-        "url": "https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 140495,
-      "name": "Respeitada",
-      "url": "https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4"
     },
     {
       "added_at": "2025-09-29 14:54:33",
@@ -867,26 +867,6 @@
     {
       "added_at": "2025-09-29 14:54:33",
       "album": {
-        "name": "Baby C\u00ea \u00e9 Gata",
-        "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 118976,
-      "name": "Baby C\u00ea \u00e9 Gata",
-      "url": "https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW"
-    },
-    {
-      "added_at": "2025-09-29 14:54:33",
-      "album": {
         "name": "Daquele Naip",
         "url": "https://open.spotify.com/album/2GlF4MhZ8JMR8326uH2ivg"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 210000,
       "name": "Dichave",
       "url": "https://open.spotify.com/track/3hYScvpnpwomGVVWhfZZA3"
+    },
+    {
+      "added_at": "2025-09-29 14:54:33",
+      "album": {
+        "name": "Baby C\u00ea \u00e9 Gata",
+        "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 118976,
+      "name": "Baby C\u00ea \u00e9 Gata",
+      "url": "https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW"
     },
     {
       "added_at": "2025-09-29 14:54:33",

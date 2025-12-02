@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,160 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,218 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 9 | [Texas](https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:26 |
 | 10 | [Drink Don't Need No Mix \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:13 |
 | 11 | [2AM](https://open.spotify.com/track/26TX1oZbaDeKxfTYDclSAo) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 3:04 |
-| 12 | [Pray Hard \(feat\. Luke Combs\)](https://open.spotify.com/track/6p6iLtRA7a93kXhkomJUPo) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:06 |
-| 13 | [Whip It](https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop) | 2:17 |
+| 12 | [Whip It](https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop) | 2:17 |
+| 13 | [Pray Hard \(feat\. Luke Combs\)](https://open.spotify.com/track/6p6iLtRA7a93kXhkomJUPo) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:06 |
 | 14 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:15 |
 | 15 | [Change Me](https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:16 |
 | 16 | [Hip\-Hop \(feat\. BigXthaPlug, Jay Jones\)](https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jay Jones](https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 4:01 |
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 30 | [Badu Flow](https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:24 |
 | 31 | [New Day](https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [New Day](https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih) | 2:44 |
 | 32 | [Boy](https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Boy](https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe) | 2:12 |
-| 33 | [Big Stepper](https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Big Stepper](https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr) | 2:10 |
+| 33 | [From The Bottom](https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 2:02 |
 | 34 | [Safehouse](https://open.spotify.com/track/260XeZ5B5iyXTxVmSpks4K) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:16 |
-| 35 | [Therapy Session](https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 1:48 |
-| 36 | [From The Bottom](https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 2:02 |
+| 35 | [Big Stepper](https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Big Stepper](https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr) | 2:10 |
+| 36 | [Therapy Session](https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 1:48 |
 | 37 | [Good To Me](https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O) | [Mykfresh](https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR), [2RawQua](https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Good To Me](https://open.spotify.com/album/1M3XfdyaT9cU4kji29TuO3) | 3:28 |
 | 38 | [I Hope You're Happy \(feat\. Darius Rucker\)](https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 3:05 |
 | 39 | [U and Me \(feat\. BigXthaPlug\)](https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [Meet The 6ixers](https://open.spotify.com/track/0Ta2fVj5VeLL49IZQ9JCO5) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Yung Hood](https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [MEET THE 6IXERS](https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5) | 2:17 |
 | 50 | [Gift & a Curse \(interlude\)](https://open.spotify.com/track/5jJE44YbriUpUtA2Qphpz3) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 0:41 |
 
-Snapshot ID: `aSo3gAAAAADdsqNBjzeUzSvnd6sorBu2`
+Snapshot ID: `aSuJAAAAAACBSOjjrYRJio1d4Op1r63c`

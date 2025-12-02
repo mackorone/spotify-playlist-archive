@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,525 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,502 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 36 | [Mister Burns](https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Mister Burns](https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi) | 2:35 |
 | 37 | [Mexico](https://open.spotify.com/track/6HSEHDSU9XmdxheOyQBn1I) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Mexico](https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr) | 3:12 |
 | 38 | [cbb to b sad](https://open.spotify.com/track/56b4sQ1Sxi3ox5CoCmcp49) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [shame](https://open.spotify.com/album/5h31KRuPwb3EEgUW0b4k6l) | 4:28 |
-| 39 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 |
-| 40 | [Kalif Onya](https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T) | [Al Pride](https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB) | [Kalif Onya](https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl) | 3:58 |
+| 39 | [Kalif Onya](https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T) | [Al Pride](https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB) | [Kalif Onya](https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl) | 3:58 |
+| 40 | [beautiful day](https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [beautiful day](https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq) | 3:03 |
 | 41 | [Go Out](https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Go Out](https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4) | 2:34 |
-| 42 | [beautiful day](https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [beautiful day](https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq) | 3:03 |
+| 42 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 |
 | 43 | [You Don't Know How to Drive](https://open.spotify.com/track/10eGximnbByN1OCjAS4IoZ) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [You Don't Know How to Drive](https://open.spotify.com/album/5Ul7nxr0KsPt4vde0Ue5zY) | 3:15 |
 | 44 | [Highroll](https://open.spotify.com/track/4eaXS4949afO8LgaF4rzZO) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Highroll](https://open.spotify.com/album/2Kaxgrdx5WnASCgyIRlII4) | 3:01 |
 | 45 | [Sweet Melancholy](https://open.spotify.com/track/6pPQ49LVCxxxjxJArSvdxl) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Sweet Melancholy](https://open.spotify.com/album/3eR4Py7KIGQ0hsLtnFUYH8) | 2:58 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 91 | [What Were You Hoping to Find?](https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [What Were You Hoping to Find?](https://open.spotify.com/album/3Q5bDksRVfWytZluEMWajp) | 3:45 |
 | 92 | [Divine](https://open.spotify.com/track/06eMGYbD8sbYmxaQ11KWNM) | [Good Wilson](https://open.spotify.com/artist/72tmD7IO0OwXgkswzuURye) | [Divine](https://open.spotify.com/album/3TRXJ67MWVvbi1kVXm7ICe) | 3:23 |
 | 93 | [Geometric](https://open.spotify.com/track/0IRAtFcPIqysHbfNAfArgK) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Geometric](https://open.spotify.com/album/5ARMVAvzgckxtlo09wDi17) | 3:17 |
-| 94 | [Sixth Gear](https://open.spotify.com/track/3qRW8jmfgjhqGQZePnNiD4) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Sixth Gear](https://open.spotify.com/album/4mtghzQfcOaIqXaQ72qEek) | 3:17 |
-| 95 | [Shot Shot Cherry](https://open.spotify.com/track/2YtGRSOyUBzvmavhAV73XD) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/5S047vXGgxCioGnpxQFuhe) | 2:32 |
+| 94 | [Shot Shot Cherry](https://open.spotify.com/track/2YtGRSOyUBzvmavhAV73XD) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/5S047vXGgxCioGnpxQFuhe) | 2:32 |
+| 95 | [Sixth Gear](https://open.spotify.com/track/3qRW8jmfgjhqGQZePnNiD4) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Sixth Gear](https://open.spotify.com/album/4mtghzQfcOaIqXaQ72qEek) | 3:17 |
 | 96 | [My Boy](https://open.spotify.com/track/4vQsC1A1LNqKenyh6UyoTN) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/1RS0vQwtq4DpNqb4eYALfP) | 2:43 |
 | 97 | [Lovers](https://open.spotify.com/track/6AccHVZg9yVxPv6TbEF4Lw) | [KEØMA](https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U) | [Lovers](https://open.spotify.com/album/17iM8xirzqQOAm4w7zZd6D) | 3:06 |
 | 98 | [Eau De Toilette](https://open.spotify.com/track/4Etr8WrFrZlzQK5C3B6cv8) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Eau De Toilette](https://open.spotify.com/album/0BuWLZMQGOwlLREjXWDbeR) | 2:48 |

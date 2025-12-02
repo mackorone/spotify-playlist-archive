@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACLwmsXzIPtN2XL4xlRIlET",
+  "snapshot_id": "aSuJAAAAAADBvG3DhEWAy9/tUv4gIxZK",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Na Chapa",
-        "url": "https://open.spotify.com/album/6WAjvoPfdjjETMTMULlcMl"
-      },
-      "artists": [
-        {
-          "name": "DJ Mandrake 100% Original",
-          "url": "https://open.spotify.com/artist/6ZZ2yR3x1jcHyx7EheNf8M"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "Na Chapa",
-      "url": "https://open.spotify.com/track/1ZiA8va8siGNP0uDVQ5sUV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu N\u00e3o Sou Dif\u00edcil",
         "url": "https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 131081,
       "name": "Eu N\u00e3o Sou Dif\u00edcil",
       "url": "https://open.spotify.com/track/688RlI3w1TOy4Ib1oZNOw8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Na Chapa",
+        "url": "https://open.spotify.com/album/6WAjvoPfdjjETMTMULlcMl"
+      },
+      "artists": [
+        {
+          "name": "DJ Mandrake 100% Original",
+          "url": "https://open.spotify.com/artist/6ZZ2yR3x1jcHyx7EheNf8M"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "Na Chapa",
+      "url": "https://open.spotify.com/track/1ZiA8va8siGNP0uDVQ5sUV"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3 No Aquecimento",
         "url": "https://open.spotify.com/album/3Kot1u0EnG4vFmjouH3ylx"
       },
@@ -811,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vida do Crime",
         "url": "https://open.spotify.com/album/3D97mhE8FfyvJI5hhT3Tu4"
       },
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como Acredito No Amor",
+        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "Como Acredito No Amor",
+      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Casal Mandrake",
         "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 139826,
       "name": "Casal Mandrake",
       "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Acredito No Amor",
-        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "Como Acredito No Amor",
-      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
     },
     {
       "added_at": null,
@@ -1295,6 +1295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Novembro",
+        "url": "https://open.spotify.com/album/2dv7uPquU801ROCydE2GPv"
+      },
+      "artists": [
+        {
+          "name": "Junior Gobira",
+          "url": "https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 135855,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/4ghA52EaYaZl1YnvO4uD8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elixir",
         "url": "https://open.spotify.com/album/6Fj7aHiJhbUjEEKfM9cwq3"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 203136,
       "name": "Profissional",
       "url": "https://open.spotify.com/track/5fM2QuUtKNNQiTkYqLvyut"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Novembro",
-        "url": "https://open.spotify.com/album/2dv7uPquU801ROCydE2GPv"
-      },
-      "artists": [
-        {
-          "name": "Junior Gobira",
-          "url": "https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 135855,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/4ghA52EaYaZl1YnvO4uD8Z"
     },
     {
       "added_at": null,
@@ -1403,6 +1403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set 1.0 Dieguinho Nvi",
         "url": "https://open.spotify.com/album/5wIjV4nUx1IFn88A2LBxbJ"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 487578,
       "name": "Set 1.0 Dieguinho Nvi",
       "url": "https://open.spotify.com/track/5exDLfQ3ix4XqXQMaw4evo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
-      },
-      "artists": [
-        {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
     },
     {
       "added_at": null,

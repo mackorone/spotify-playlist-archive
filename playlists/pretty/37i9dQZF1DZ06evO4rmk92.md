@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,095 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,108 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 34 | [Acércate Más](https://open.spotify.com/track/6c877PJUCIHKP0A0yaj6zJ) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Natalie Cole En Español \(Track By Track Commentary\)](https://open.spotify.com/album/4neGAu0qprh1ghFDhH824H) | 2:47 |
 | 35 | [Walkin' My Baby Back Home](https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole's 8 Top Pops](https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC) | 2:38 |
 | 36 | [Ramblin' Rose](https://open.spotify.com/track/6bZlab0NrNteVppLu9C2Zy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Ramblin Rose](https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP) | 2:47 |
-| 37 | [I Don't Want To See Tomorrow \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [I Don't Want To Be Hurt Anymore](https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe) | 2:36 |
-| 38 | [It's All In The Game](https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:07 |
+| 37 | [It's All In The Game](https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:07 |
+| 38 | [I Don't Want To See Tomorrow \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [I Don't Want To Be Hurt Anymore](https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe) | 2:36 |
 | 39 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/3VWYuQ65f34zCUYSoakoJR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Let's Face The Music \(Expanded Edition\)](https://open.spotify.com/album/0GnnnrEJWgUHRdfqdZGRi0) | 3:46 |
 | 40 | [I Could Have Danced All Night](https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [My Fair Lady](https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I) | 2:30 |
 | 41 | [Walkin' My Baby Back Home](https://open.spotify.com/track/4HI45rr7RtHDxuR1sy63x9) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Still Unforgettable \(Expanded Edition\)](https://open.spotify.com/album/5DoaC07Tzl170xtqz0f2oU) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 49 | [Cappuccina](https://open.spotify.com/track/0l77yPx7obpLzZ93NFNcFR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sincerely](https://open.spotify.com/album/338VuAlKIPVBLt5O2AKe5M) | 2:48 |
 | 50 | [Love Letters \- Remastered](https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:43 |
 
-Snapshot ID: `aSo3gAAAAAC7iPlaKmwuQKvT3Nvnig6K`
+Snapshot ID: `aSuJAAAAAAC169tnxRCO78xa6vpUF2ip`

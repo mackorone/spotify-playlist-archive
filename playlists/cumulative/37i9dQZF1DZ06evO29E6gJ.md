@@ -4,7 +4,7 @@
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-105 songs - 4 hr 54 min
+106 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Una Sola Caída \- Ranchera](https://open.spotify.com/track/63OuAYsEK8xo1A8c5WEljj) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:50 | 2025-04-05 |  |
 | [Valente Quintero](https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:31 | 2022-06-01 |  |
 | [Veinte Años](https://open.spotify.com/track/2EwoK2GpabnJQzJVwN266w) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 3:10 | 2022-07-18 | 2025-11-01 |
+| [Veinte Años](https://open.spotify.com/track/4jLHdOEXzOqQUUrrrE6FuD) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Homenaje Norteño A Felipe Valdes Leal Con](https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp) | 3:10 | 2025-12-02 |  |
 | [Vino Maldito](https://open.spotify.com/track/0SG5Pj8V7JhcK99z9m9vYe) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:10 | 2023-11-10 |  |
 | [Ya Supe Lupe](https://open.spotify.com/track/7jukbOcwfMWVni2PfoTN9I) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Fogata Norteña](https://open.spotify.com/album/779btSeHZhLy2Bam2WAHAj) | 2:54 | 2025-09-26 |  |
 

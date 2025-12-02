@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Synthetik Blonde, JUST LIZZY, Jamie Rust and more",
+  "description": "With Synthetik Blonde, Julien-K, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 360000,
       "name": "A Cold Romance",
       "url": "https://open.spotify.com/track/05LwZIavFBbngDduQQV63X"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "All-Inclusive",
       "url": "https://open.spotify.com/track/5a2DObmVugouqxO7UM7A2R"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 220190,
       "name": "AM PM",
       "url": "https://open.spotify.com/track/5bcq3tfrM2lerLrGqpLqBJ"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 148239,
       "name": "Chasing Crows",
       "url": "https://open.spotify.com/track/1IBcjm6bxYn0SX8gzfiMmW"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 230433,
       "name": "Cleansed by Fire",
       "url": "https://open.spotify.com/track/1sS9JrjTsg7bFGg7NoNg2u"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 208500,
       "name": "Cocoon - Redux",
       "url": "https://open.spotify.com/track/4fxBZYoB8NYG01fjZUvzVg"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 277525,
       "name": "Dark Eternal",
       "url": "https://open.spotify.com/track/0us1anTW6u2BsrofUUpAeH"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 214081,
       "name": "Discomfort",
       "url": "https://open.spotify.com/track/1tiwWrOQoUWIyAcZLQiIvh"
@@ -530,10 +530,28 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Doppelganger",
       "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
+    },
+    {
+      "album": {
+        "name": "Dunkelziffer & Ransom",
+        "url": "https://open.spotify.com/album/0reOLmlXtj2g8c8hn7cHkT"
+      },
+      "artists": [
+        {
+          "name": "A Shrine to Failure",
+          "url": "https://open.spotify.com/artist/0nXYxiS5VC7eoz5YR986oS"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Dunkelziffer",
+      "url": "https://open.spotify.com/track/4aVNpU3Dgii5jlq0G4TBVR"
     },
     {
       "album": {
@@ -624,7 +642,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 152128,
       "name": "Father Is Dead",
       "url": "https://open.spotify.com/track/6IbgXsrJcjD5GWOF3YSNQA"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 256634,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/4zR3I8wrWs1lW3wHW507qU"
@@ -935,6 +953,24 @@
     },
     {
       "album": {
+        "name": "On the Moon",
+        "url": "https://open.spotify.com/album/2aKyXsHVopm3JUQ7enG78D"
+      },
+      "artists": [
+        {
+          "name": "Men Without Hats",
+          "url": "https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259700,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/4sL9gOlcxCqPLI1WoFWgkm"
+    },
+    {
+      "album": {
         "name": "Forgiveness",
         "url": "https://open.spotify.com/album/0DrzOBmXjyNjaQRyOIAyxk"
       },
@@ -946,7 +982,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 285133,
       "name": "Justified",
       "url": "https://open.spotify.com/track/1z1CuhZjWHSdAjueoC5PzT"
@@ -1098,6 +1134,28 @@
       "duration_ms": 273272,
       "name": "Martyr Box",
       "url": "https://open.spotify.com/track/6AZTZhPZ6b63FZI5TPeLL9"
+    },
+    {
+      "album": {
+        "name": "Men Putting Words in the Mouths of Gods (Judas and the Pilot Remix)",
+        "url": "https://open.spotify.com/album/2DLxnzMFqSUZCG8TCevIOr"
+      },
+      "artists": [
+        {
+          "name": "Distance From Zero",
+          "url": "https://open.spotify.com/artist/0GoBb3AHIP4JWcfTWiFY3Z"
+        },
+        {
+          "name": "Judas and the Pilot",
+          "url": "https://open.spotify.com/artist/3TvDJLrngdLFX3mv9cY82a"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238031,
+      "name": "Men Putting Words in the Mouths of Gods - Judas and the Pilot Remix",
+      "url": "https://open.spotify.com/track/6dCBGKMZpkoPb79gBwFRcy"
     },
     {
       "album": {
@@ -1318,7 +1376,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -1348,6 +1406,24 @@
       "duration_ms": 214000,
       "name": "Protected",
       "url": "https://open.spotify.com/track/0LsgbtfzDFsSC1bqPWjbNN"
+    },
+    {
+      "album": {
+        "name": "Psycho Killer",
+        "url": "https://open.spotify.com/album/5MgerM46FHMnfrZ46i2s0H"
+      },
+      "artists": [
+        {
+          "name": "TUBE AMP'D",
+          "url": "https://open.spotify.com/artist/2HCH65ifrLyZKPG0Op0iN9"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Psycho Killer",
+      "url": "https://open.spotify.com/track/1CjgOByLIycURaTJP9AcJv"
     },
     {
       "album": {
@@ -1518,7 +1594,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 317173,
       "name": "Soul Crush - Signals MIX",
       "url": "https://open.spotify.com/track/5b1ErbWFbwvIo4fgOWyUL0"
@@ -1536,7 +1612,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 299866,
       "name": "Sprawling",
       "url": "https://open.spotify.com/track/5PK9hMSgbOqUg5wUr783mN"
@@ -1630,7 +1706,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 176941,
       "name": "The Wild",
       "url": "https://open.spotify.com/track/7nfOgZQQY7hCO3lFeQ5pz8"
@@ -1648,7 +1724,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 217683,
       "name": "The Wild Boys",
       "url": "https://open.spotify.com/track/2vqQry3F7l5vigdP1EZPab"
@@ -1724,7 +1800,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 168716,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/12KKoSZN4BkrAD3Z6B4dMj"
@@ -1764,7 +1840,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 345000,
       "name": "Vamp - Freaky Mind Remix",
       "url": "https://open.spotify.com/track/3aaAXgfnrqMDged56UyFGA"
@@ -1934,7 +2010,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 231228,
       "name": "World Full Of Echoes",
       "url": "https://open.spotify.com/track/0lG69UDGyLApKGSfyAKI02"

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-124 songs - 7 hr 31 min
+131 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,16 +21,20 @@
 | [Audio Garden](https://open.spotify.com/track/0Eht5ezV1mVtrpiBlOgblJ) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Immortal](https://open.spotify.com/album/1Bww8qOOKesIVb0V0njtwe) | 4:07 | 2025-11-11 |  |
 | [Back to Zero](https://open.spotify.com/track/5h4P5D7fapPvJE2u9Z4V03) | [Aaron Friend & the Enemies](https://open.spotify.com/artist/1w0QljQB8KWyuRWEnBgTeM) | [Back to Zero](https://open.spotify.com/album/2YVLvdyUCUsHdT9dhzUxHv) | 2:55 | 2025-11-26 |  |
 | [Birdsong](https://open.spotify.com/track/1jtWKXkkbGlLfqDmmCaHS0) | [Gradient](https://open.spotify.com/artist/6yNuEm7qTtdWtb6m0HOtrk) | [Birdsong](https://open.spotify.com/album/3TjMb5loMqhttqnP29INZR) | 2:40 | 2025-11-01 | 2025-11-22 |
+| [Black Widow](https://open.spotify.com/track/5bRrgKXYXx0XL6wbNnbBiJ) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Haunted House](https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2) | 3:58 | 2025-12-01 |  |
 | [Blistered Eyeballs](https://open.spotify.com/track/2xQZoq4VwQ7liQewD36JuT) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:10 | 2025-11-09 |  |
 | [bloodsports](https://open.spotify.com/track/7IXsMgRqVCUv7ZeH23D4Ba) | [REDRAW](https://open.spotify.com/artist/0d5Dgm3Rwn8WatrjwGkcws) | [bloodsports](https://open.spotify.com/album/39HzHBGmHiKKa8rznT4nm6) | 3:30 | 2025-11-20 |  |
+| [Bored & Jaded](https://open.spotify.com/track/1RW431i46vNeR0tqM1eZj7) | [Rocketmonkey Lovemachine](https://open.spotify.com/artist/2de9uHlJsqASrZoofVPQAh) | [Rmlm](https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa) | 3:15 | 2025-12-01 |  |
 | [Break Up Bangs](https://open.spotify.com/track/4kVAjnV2duer0Sa81i6sX4) | [Lucia Dostal](https://open.spotify.com/artist/2Y5Zd5cSEdZ57lCr4lkGVr) | [Break Up Bangs](https://open.spotify.com/album/4NxSKL2Xd1unpYhN3ElgEQ) | 2:36 | 2025-10-18 |  |
 | [Bring Me Down](https://open.spotify.com/track/6DDJXTCoB99753Q6Pt3YDz) | [Aaetheria](https://open.spotify.com/artist/5XvLB3DxqgreEsNDrtAdfu) | [Bring Me Down](https://open.spotify.com/album/3S7MDIVQgVNIq9Q9KfCVtZ) | 2:57 | 2025-11-19 |  |
 | [Bullet](https://open.spotify.com/track/2C7E2SbFqS2GbExpD2hopJ) | [Lowland Revelry](https://open.spotify.com/artist/0nzPea6VeRN1WvaNAGdqF9) | [REV\-L\-REE](https://open.spotify.com/album/505KlJdJOgnwFvqcRlhYPc) | 5:06 | 2025-10-31 | 2025-11-22 |
+| [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2025-12-01 |  |
 | [Ciclos](https://open.spotify.com/track/4oIDPzkzzlZSWo2IKn6YfR) | [Peyote](https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF) | [Ciclos](https://open.spotify.com/album/3XL3e4KxuMu0ty0nj8HW2F) | 3:57 | 2025-11-11 |  |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-15 |  |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-11-04 |  |
 | [Cold as Ice](https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Cold as Ice](https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM) | 3:07 | 2025-07-30 |  |
 | [Comes and Goes \- Live at SG Studios](https://open.spotify.com/track/1AiQKcCwiojDWrlQrAzdCo) | [T.A.C.](https://open.spotify.com/artist/0FKUSwozoJX6ErtEzlgQHT) | [Comes and Goes \(Live at SG Studios\)](https://open.spotify.com/album/1Bccygv8GElrilUCXVpMKa) | 3:59 | 2025-11-07 |  |
+| [Coming Home \(UNITED\)](https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:44 | 2025-12-01 |  |
 | [Coming Stars](https://open.spotify.com/track/7EsFMWgc1EVf6NUepID6gd) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Coming Stars](https://open.spotify.com/album/5nRfA7DrRB7FEYswNXIUMy) | 3:10 | 2025-11-11 |  |
 | [Constant Disregard](https://open.spotify.com/track/6aFrhZqBnTwtvlxjgpYtmv) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:17 | 2025-11-26 |  |
 | [Coping](https://open.spotify.com/track/0OzYP6QaMX7DIQaBkaIHv6) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Coping](https://open.spotify.com/album/5oWwyfSLZVbtxJ6lGquURw) | 3:50 | 2025-11-07 |  |
@@ -65,6 +69,7 @@
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-10 |  |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-10-28 | 2025-11-22 |
 | [Loving in C](https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Loving in C](https://open.spotify.com/album/3q0RQpej71nrgbcuAS6giu) | 2:12 | 2025-10-27 | 2025-11-22 |
+| [Memory Lapse](https://open.spotify.com/track/3vNql4MJZIrxkRAoVI7fSz) | [Nick Wallisch](https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk), [Proteus](https://open.spotify.com/artist/2npdyO8ezTNfRw9vSi8f4K) | [The Lost Jams](https://open.spotify.com/album/6FoybyVEEiMq1kpsiGa5Ni) | 3:56 | 2025-12-01 |  |
 | [Miasma](https://open.spotify.com/track/5h6VI7hqGOEHKZ2SB841o1) | [Shivar](https://open.spotify.com/artist/3PxXprTqU2XCcSEWqfHZKA) | [Miasma](https://open.spotify.com/album/6iidZ2ekONN6F6X9Z4msfl) | 4:18 | 2025-11-17 |  |
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2025-11-27 |  |
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2025-11-29 |  |
@@ -87,6 +92,7 @@
 | [Ride or Die](https://open.spotify.com/track/3M4NMhrnmgiKVCN94MK5EF) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 5:05 | 2025-10-27 | 2025-11-22 |
 | [Rights Down 50](https://open.spotify.com/track/1vPHGl7R7Zycn2nxg6iNxZ) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 3:33 | 2025-11-08 |  |
 | [Ritual](https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 5:50 | 2025-10-06 |  |
+| [Rocking Gnossienne'25](https://open.spotify.com/track/1uj9DhkyZSGnYDljWAjWnS) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Gary Hayward](https://open.spotify.com/artist/71W5r0ihrkAoHc19RcmPNW) | [Rocking Gnossienne'25](https://open.spotify.com/album/2uLL5xhvVZXdYaNEJemWl6) | 3:05 | 2025-12-01 |  |
 | [Sally Feels Bad](https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Sally Feels Bad](https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa) | 3:01 | 2025-11-21 |  |
 | [Satu](https://open.spotify.com/track/2zBjzjeCTUG0ThIqwhutl8) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [Satu](https://open.spotify.com/album/0k9XH2GEapyuRdAD6nH3Me) | 3:18 | 2025-11-02 | 2025-11-22 |
 | [Save Me](https://open.spotify.com/track/0GSW18Q6Gm2sXv5z8NmMro) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:39 | 2025-11-26 |  |
@@ -132,5 +138,6 @@
 | [Wolfman](https://open.spotify.com/track/335KIfI6iRzLsdHTi1PSMc) | [Matt Malone & The Holy Spirits](https://open.spotify.com/artist/24uJIeIX3E40nyx51WZO9M) | [Wolfman](https://open.spotify.com/album/1CpD6xutceVgnNhxK2aW5E) | 3:20 | 2025-11-02 | 2025-11-22 |
 | [Wolves \(Instrumental Version\)](https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Danny Bourgeois](https://open.spotify.com/artist/0j2o3txfia5ATDt4sPqAnr) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:07 | 2025-11-17 |  |
 | [You Can't Drive a Prius Without Wheels](https://open.spotify.com/track/2bz3GfwWoGRLjvbcclozYg) | [Not Exact](https://open.spotify.com/artist/6J8F4udmCRNzDt5l1AckUG) | [On a Roll EP](https://open.spotify.com/album/64JIDZEvAnH2JFgKSLzYiy) | 3:03 | 2025-11-12 |  |
+| [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 | 2025-12-01 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

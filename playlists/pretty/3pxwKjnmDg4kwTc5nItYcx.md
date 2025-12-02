@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,620 likes - 60 songs - 3 hr 12 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,620 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 58 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 |
 | 59 | [The Loneliest I Ever Was](https://open.spotify.com/track/0y7hOVuGBLrlttFeQ3NsgU) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Yours Forever](https://open.spotify.com/album/2dpE9xtpAn2WneiRfxWEN9) | 2:49 |
 | 60 | [Want You Back](https://open.spotify.com/track/47ZgtovCo5c8I5QqAtXKiy) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Want You Back](https://open.spotify.com/album/0E5rDybP5sO4st8biXaOo3) | 3:03 |
+| 61 | [Memories and Ghosts](https://open.spotify.com/track/77z3Z6bEf017UZiTgCo5Mu) | [Ilan Kidron](https://open.spotify.com/artist/2h4XAkDeP79wkwWE4eXzTT) | [Swimmer](https://open.spotify.com/album/1mAwtq83TXihLdVhNc0XMZ) | 3:01 |
 
-Snapshot ID: `AAAHr6g5jBPLfMSPbqs9npYLioZLF1Om`
+Snapshot ID: `AAAHsIMspBak0+TI0w1fz5tehM9S1I5X`

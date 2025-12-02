@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \uc5b4\ubc18\uc790\uce74\ud30c) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \ud0dc\uc5f0) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -4368,7 +4368,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 227026,
       "name": "I will be your flower",
       "url": "https://open.spotify.com/track/0RE0Y7Rv9t3ngylTdKiWLZ"
@@ -7506,6 +7506,24 @@
       "duration_ms": 262743,
       "name": "Paindrops",
       "url": "https://open.spotify.com/track/78HIu4EgPdesHf46oIBLuZ"
+    },
+    {
+      "album": {
+        "name": "Panorama : The Best of TAEYEON",
+        "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
     },
     {
       "album": {

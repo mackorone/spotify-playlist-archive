@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: XXJULÍA
 
-275 songs - 14 hr 53 min
+275 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [The Puppet](https://open.spotify.com/track/7naZ7ZEhzqvBjvte3J15aw) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [The Puppet](https://open.spotify.com/album/5iTusNNEq8cTdJeWktMfdO) | 2:42 | 2025-05-07 | 2025-10-01 |
 | [The Sailor's Warning](https://open.spotify.com/track/3bgmoyCHa6v3bMMsgK1rWh) | [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [The Sailor's Warning](https://open.spotify.com/album/4VUpMJnr9jgHbzpXevbIsN) | 2:07 | 2025-05-07 |  |
 | [the social disconnection](https://open.spotify.com/track/4goV1DysAzrdvBsGccwkaT) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [the social disconnection](https://open.spotify.com/album/4JkpjPJ7gKpOTMXkVPhdl5) | 2:52 | 2024-10-21 | 2025-05-08 |
-| [The Square](https://open.spotify.com/track/3A8M7QIbSrjGqmQFDcm7Bw) | [Jackie & The Facts](https://open.spotify.com/artist/4Q8G8g6rH2LHLPJLS1tOLf) | [The Square](https://open.spotify.com/album/5I3q0fSGOJxM3Ajx580Zfu) | 3:15 | 2025-11-28 |  |
+| [The Square](https://open.spotify.com/track/3A8M7QIbSrjGqmQFDcm7Bw) | [Jackie & The Facts](https://open.spotify.com/artist/4Q8G8g6rH2LHLPJLS1tOLf) | [The Square](https://open.spotify.com/album/5I3q0fSGOJxM3Ajx580Zfu) | 3:13 | 2025-11-28 |  |
 | [The Tide](https://open.spotify.com/track/0cobsIdBv0wXtk6Shpubm5) | [Anouk Wolf](https://open.spotify.com/artist/2HABYmyNHmN6fSxwx88rO8) | [The Tide](https://open.spotify.com/album/5dflX4qm13gP4b2Bh4pK7T) | 3:06 | 2025-05-07 | 2025-09-05 |
 | [Then You Know](https://open.spotify.com/track/3wloUn32vK3P5sX0VV5wxj) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Then You Know](https://open.spotify.com/album/33szRZCRaCeSIPXhmzsEn2) | 4:47 | 2024-07-01 | 2024-09-17 |
 | [Thousand Pieces](https://open.spotify.com/track/0dmMJNWEjnD8vCsfyZu7Hq) | [LNDE](https://open.spotify.com/artist/2YuMX7ytJAdMfJr7x8r7Be) | [Thousand Pieces](https://open.spotify.com/album/6cSkDEmh4TVYOqI0VV5MJD) | 4:07 | 2025-05-07 | 2025-07-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 534,062 likes - 71 songs - 4 hr 43 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 534,336 likes - 71 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 8 | [Can't Cross that Line](https://open.spotify.com/track/7FavXXpGGoSVUT6qKO3Dt6) | [Lady Ginseng](https://open.spotify.com/artist/3HoIgPDkmSxM6WTlbfa5ky) | [Piece of My Mind](https://open.spotify.com/album/5rKy6ZgIVL5T6Yxgm5Q1EK) | 4:27 |
 | 9 | [I am a loser](https://open.spotify.com/track/74OI5ygzW1TMai6Ra3JjLD) | [Santhosh CHRiS](https://open.spotify.com/artist/6qBXD2mJ0LSdqX7GB7DKJn) | [I am a loser](https://open.spotify.com/album/5wJhiJOPti1JdIzvWhzTOL) | 4:20 |
 | 10 | [Al](https://open.spotify.com/track/4XGHkBwxe5DtVO7kvxoRDJ) | [The Postcard Brass Band](https://open.spotify.com/artist/1vlQVyLy3MRLfkxG6Ucpgn) | [Pop & Roll](https://open.spotify.com/album/7Kxqsp1aUiacOyNVZmuwhP) | 7:43 |
-| 11 | [En El Crei](https://open.spotify.com/track/0GjTeL42y3g86sMNyq31zn) | [Lee Dwyer](https://open.spotify.com/artist/0F6FegWx5Ds1CSdTwmXdqW) | [En El Crei](https://open.spotify.com/album/5HalghBKu394muc3V0OPJC) | 3:01 |
+| 11 | [En El Crei](https://open.spotify.com/track/0GjTeL42y3g86sMNyq31zn) | [Lee C\. Dwyer](https://open.spotify.com/artist/1A9MlwvAwlMezsDWivdZLx) | [En El Crei](https://open.spotify.com/album/5HalghBKu394muc3V0OPJC) | 3:01 |
 | 12 | [Moonlight Ripples](https://open.spotify.com/track/2jZamf9ZQZwt2qnnmyZcVE) | [Ink Arena](https://open.spotify.com/artist/2TqOILlj8fcnHretTzENwQ) | [Moonlight Ripples](https://open.spotify.com/album/3F9F9n4Yf4KWcnGDyioOaA) | 2:20 |
 | 13 | [Mankato](https://open.spotify.com/track/6SCg14D8NdrPkBL1wHa6FZ) | [Ben Durbin's Modern Antiques](https://open.spotify.com/artist/3YcTum2q0JhIv16gQdVVse) | [Sweet Precious Time](https://open.spotify.com/album/7JToVT6N6BvKYNT05RFEaF) | 3:35 |
 | 14 | [Party Tonight](https://open.spotify.com/track/2OA0QmyAMRuOaaP7qbVXvb) | [The Pacman](https://open.spotify.com/artist/4zOro8gRVSOHYsAp0kZQId) | [Cold Lava](https://open.spotify.com/album/6vGZmc3GTgWnrokj56mw4q) | 4:26 |

@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,066 songs - 2 day 4 hr 16 min
+1,067 songs - 2 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,7 @@
 | [Lowkey!](https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Lowkey!](https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA) | 3:33 | 2023-10-13 | 2024-04-12 |
 | [Loyal](https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Loyal](https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish) | 2:40 | 2025-07-25 | 2025-11-14 |
 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2024-06-07 | 2024-09-28 |
-| [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 | 2025-06-20 |  |
+| [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 | 2025-06-20 | 2025-12-02 |
 | [Maame Water](https://open.spotify.com/track/3jbTDcDDTAg8knx5dZgYFP) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Maame Water](https://open.spotify.com/album/4On2TPasGNGWc7yfkCi8zI) | 2:40 | 2022-10-13 | 2022-10-18 |
 | [Machala](https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/2wzBXrWlqM29fbmKCT7J0I) | 2:34 | 2022-08-08 | 2022-09-10 |
 | [Mademoiselle \(feat\. ODUMODUBLVCK, Shallipopi, Theodora, Zeina\)](https://open.spotify.com/track/1iYBlO1RGEFeDnG3AH4gUE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:51 | 2025-10-08 |  |
@@ -1052,6 +1052,7 @@
 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 | 2023-12-01 | 2024-09-28 |
 | [Woza](https://open.spotify.com/track/58GA6ogxMNO5aEGnW9fbly) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Woza](https://open.spotify.com/album/5884PHr4CsiPlJlNhkaXDa) | 2:32 | 2025-05-09 | 2025-06-10 |
 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 | 2025-05-16 |  |
+| [Wuse Tu](https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:27 | 2025-11-28 |  |
 | [WWGD \[What We Gon Do\]](https://open.spotify.com/track/5GmKF1H37UiJ3sBBibxZKw) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [BIPOLAR](https://open.spotify.com/album/4rjnYqHrPb6zd6kARIMQat) | 2:52 | 2025-04-11 | 2025-05-17 |
 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 | 2022-10-12 | 2023-09-29 |
 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Yahyuppiyah \(feat\. Pcee, EeQue, & Chley\)](https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C) | 4:56 | 2023-03-30 | 2023-09-29 |

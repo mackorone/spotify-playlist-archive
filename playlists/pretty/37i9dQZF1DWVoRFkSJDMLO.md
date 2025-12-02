@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands with Aya Nakamura\. 🇲🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,704 likes - 64 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,760 likes - 64 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 63 | [Laho](https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ) | 2:24 |
 | 64 | [Dudu](https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 2:55 |
 
-Snapshot ID: `AAAAADI5cdVgM95t+EdA3O5j/vbS6ih7`
+Snapshot ID: `AAAAAAC8T/XTE0a6TUIFg1oWfuMmojZC`

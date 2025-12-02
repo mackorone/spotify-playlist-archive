@@ -113,6 +113,28 @@
     },
     {
       "album": {
+        "name": "All That Glitters",
+        "url": "https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199006,
+      "name": "All That Glitters",
+      "url": "https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da"
+    },
+    {
+      "album": {
         "name": "Angels from the Realms of Glory",
         "url": "https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC"
       },
@@ -142,7 +164,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 275745,
       "name": "Angels We Have Heard on High / Joy to the World",
       "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
@@ -550,7 +572,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 272160,
       "name": "Christmas Children",
       "url": "https://open.spotify.com/track/04StngW1Y0GV26sKl59WiW"
@@ -786,6 +808,24 @@
       "duration_ms": 178066,
       "name": "Christmas in New York",
       "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
+    },
+    {
+      "album": {
+        "name": "Christmas Is\u2026",
+        "url": "https://open.spotify.com/album/4lDNpF4lVOsq1hyrKJN59L"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239546,
+      "name": "Christmas Is",
+      "url": "https://open.spotify.com/track/7w2N65YAK9aEQ8WbWtKunT"
     },
     {
       "album": {
@@ -1398,7 +1438,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 267093,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/0jn7VR6QOuB5C5s57SFICf"
@@ -2556,7 +2596,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 309386,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/1AuqctepNkbMGhlysf9VqX"
@@ -2830,6 +2870,28 @@
       "duration_ms": 135760,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw"
+    },
+    {
+      "album": {
+        "name": "Rudolph, the Red-Nosed Reindeer",
+        "url": "https://open.spotify.com/album/6lal9JhZK4ctetNcVb4OJK"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        },
+        {
+          "name": "Matthew Barber",
+          "url": "https://open.spotify.com/artist/2mhqgf0GxdfXpO6gwLohyX"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "Rudolph, the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/0QnznO6imspkpxHFY1c34b"
     },
     {
       "album": {
@@ -3284,7 +3346,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 159000,
       "name": "That's How I Picture Christmas Eve",
       "url": "https://open.spotify.com/track/7z7a4p1MrrSlnOIIYyMINs"

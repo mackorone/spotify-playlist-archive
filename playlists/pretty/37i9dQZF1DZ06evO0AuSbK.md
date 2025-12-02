@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AuSbK.md) - [plain]
 
 > This is Limp Bizkit\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,817 likes - 44 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,978 likes - 44 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AuSbK.md) - [plain]
 | 26 | [Almost Over](https://open.spotify.com/track/043Re81uRxCx2Nw6LfAheU) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:38 |
 | 27 | [Just Drop Dead](https://open.spotify.com/track/7oGFLiay0XopGrUiYbZKHC) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Eat You Alive](https://open.spotify.com/album/5Bu9ucyQatIFNf6dm0lzpX) | 4:04 |
 | 28 | [Pollution](https://open.spotify.com/track/2Gle7uL36Pg0FZKuNtW30v) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 3:52 |
-| 29 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 |
-| 30 | [Ready To Go](https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Ready To Go](https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur) | 6:01 |
+| 29 | [Ready To Go](https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Ready To Go](https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur) | 6:01 |
+| 30 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 |
 | 31 | [Build A Bridge](https://open.spotify.com/track/4qWOEeCDVLZPXGzgxE8F7D) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 3:56 |
 | 32 | [Stuck](https://open.spotify.com/track/1CP8UCFq3Buyg4MN8mZUka) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 5:24 |
 | 33 | [Shark Attack](https://open.spotify.com/track/1oQIVInvZ4e92v1bOzrUgD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 3:26 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AuSbK.md) - [plain]
 | 36 | [Sour](https://open.spotify.com/track/2PusNhFvJHBr4qtHBKcHP4) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 3:32 |
 | 37 | [Shotgun](https://open.spotify.com/track/4H5tQdRchZaGpwoz56qRQa) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 4:32 |
 | 38 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
-| 39 | [Battlefield: The After\-party](https://open.spotify.com/track/2Ow6WvNDcW3gxSMxCZ0qXq) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz), [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Battlefield 6 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/6mOnfNEZwyHMUo0UMIf3Z7) | 3:48 |
-| 40 | [The Story](https://open.spotify.com/track/3fCk6T2IJsMVEZ45079urc) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 3:49 |
+| 39 | [The Story](https://open.spotify.com/track/3fCk6T2IJsMVEZ45079urc) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 3:49 |
+| 40 | [Battlefield: The After\-party](https://open.spotify.com/track/2Ow6WvNDcW3gxSMxCZ0qXq) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz), [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Battlefield 6 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/6mOnfNEZwyHMUo0UMIf3Z7) | 3:48 |
 | 41 | [Walking Away](https://open.spotify.com/track/6cUABkGFq0f8hBZZCUBX4Q) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 4:45 |
 | 42 | [Empty Hole](https://open.spotify.com/track/2ISetzZ91WX6szLgyfNQOV) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 1:52 |
 | 43 | [The Propaganda](https://open.spotify.com/track/7m8leIR2d0XtLWm1lPXaKu) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 5:16 |
 | 44 | [Douche Bag](https://open.spotify.com/track/02feeh3yjDZDXEOXiVh96S) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 3:42 |
 
-Snapshot ID: `aSo3gAAAAABFSbPMGMS2gdf1pRrOjOLI`
+Snapshot ID: `aSuJAAAAAAB7xUOeDy11QUP5TBekUZgN`

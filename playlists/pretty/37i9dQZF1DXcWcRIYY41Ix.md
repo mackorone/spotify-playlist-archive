@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Karmento y Le Parody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,810 likes - 104 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,817 likes - 104 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

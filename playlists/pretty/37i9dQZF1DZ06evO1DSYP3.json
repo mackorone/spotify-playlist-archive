@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAAT6TcwOh+FyABmMVQcaWOt",
+  "snapshot_id": "aSuJAAAAAAA/8kvIUpBSL2SR4t3hwExf",
   "tracks": [
     {
       "added_at": null,
@@ -871,30 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Soil",
-        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        },
-        {
-          "name": "Goapele",
-          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
-        }
-      ],
-      "duration_ms": 217710,
-      "name": "Suede",
-      "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
         "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
       },
@@ -939,18 +915,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+        "name": "For The Soil",
+        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
       },
       "artists": [
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Goapele",
+          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
         }
       ],
-      "duration_ms": 139041,
-      "name": "Type Beat",
-      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
+      "duration_ms": 217710,
+      "name": "Suede",
+      "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
     },
     {
       "added_at": null,
@@ -975,6 +959,22 @@
       "duration_ms": 243226,
       "name": "Light This Bitch Up",
       "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Type Beat",
+      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     },
     {
       "added_at": null,
@@ -1019,6 +1019,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Lose Your Head",
+        "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Zion I",
+          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Don't Lose Your Head",
+      "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -1035,26 +1059,6 @@
       "duration_ms": 182926,
       "name": "Luh U",
       "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
-      },
-      "artists": [
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 175354,
-      "name": "Level",
-      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
     },
     {
       "added_at": null,
@@ -1079,26 +1083,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Lose Your Head",
-        "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
       },
       "artists": [
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Zion I",
-          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Don't Lose Your Head",
-      "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
+      "duration_ms": 175354,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
     },
     {
       "added_at": null,

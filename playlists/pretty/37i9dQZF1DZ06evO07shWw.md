@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 
 > This is Ingrid Andress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,092 likes - 33 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,091 likes - 33 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 9 | [Waste of Lime](https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Waste of Lime](https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B) | 3:08 |
 | 10 | [Both](https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:23 |
 | 11 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 |
-| 12 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
-| 13 | [Good As Gone](https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good As Gone](https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB) | 3:07 |
+| 12 | [Good As Gone](https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good As Gone](https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB) | 3:07 |
+| 13 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
 | 14 | [The Stranger](https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:11 |
 | 15 | [Seeing Someone Else](https://open.spotify.com/track/2EuYoHOVQOR4Sperca5Uon) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:26 |
 | 16 | [Treated Me Good](https://open.spotify.com/track/0AiV5WLxaKInSKhh1s99aI) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Today's Country](https://open.spotify.com/album/0ktFSQatgI3YWvbzo3hIDv) | 3:20 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 32 | [Wish You Would](https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 4:18 |
 | 33 | [Bed on Fire \(feat\. Ingrid Andress\)](https://open.spotify.com/track/06IC4v8Smdm5fVQuMAOxe2) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [songs for sad eyes](https://open.spotify.com/album/6NS3kVO5BUMDdWlIOvOk65) | 3:48 |
 
-Snapshot ID: `aSo3gAAAAAAn2D3tGxvZBvi/r71c7oSR`
+Snapshot ID: `aSuJAAAAAADN/jFebBdQbzmowtnqjUJj`

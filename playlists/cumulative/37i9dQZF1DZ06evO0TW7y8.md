@@ -4,7 +4,7 @@
 
 > This is Jorja Smith\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 20 min
+60 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Down For You](https://open.spotify.com/track/5hKjvZFDOkBcJgeT7bF61A) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Infinite](https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3) | 3:40 | 2025-10-15 |  |
 | [Down For You](https://open.spotify.com/track/797phNSRMhA06VJp3syULD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Down For You](https://open.spotify.com/album/51ikLHp9PJdKuWSKGI8b7K) | 3:40 | 2025-10-12 | 2025-10-15 |
 | [Falling or flying](https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:24 | 2025-08-02 |  |
-| [February 3rd](https://open.spotify.com/track/3c5gLGgwRrE7sQYSNHCXEj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:02 | 2025-08-02 |  |
+| [February 3rd](https://open.spotify.com/track/3c5gLGgwRrE7sQYSNHCXEj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:02 | 2025-08-02 | 2025-12-02 |
 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 | 2025-08-02 |  |
 | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg) | 2:40 | 2025-08-02 |  |
 | [Get It Together](https://open.spotify.com/track/7y6c07pgjZvtHI9kuMVqk1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:10 | 2025-08-02 |  |
@@ -62,6 +62,7 @@
 | [The One](https://open.spotify.com/track/1Ahp4PZ1vzdbzBCedUrsqI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:17 | 2025-08-02 |  |
 | [The Way I Love You](https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj) | 3:23 | 2025-08-02 |  |
 | [The Way I Love You \- Acoustic](https://open.spotify.com/track/2a1YoHUcoZeQMCDT5jIRMr) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You / With You \(Acoustic\)](https://open.spotify.com/album/347aGCrSf0rmbfJelbJHOD) | 2:39 | 2025-11-02 | 2025-11-30 |
+| [Tomorrow](https://open.spotify.com/track/14qLa09blyCJdkRJRQ8lpV) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:52 | 2025-12-02 |  |
 | [Try Me](https://open.spotify.com/track/0pvp14nDtb1DnEgRrmcBpY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:33 | 2025-08-02 | 2025-11-10 |
 | [Tyrant \(feat\. Jorja Smith\)](https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:24 | 2025-08-02 |  |
 | [Where Did I Go?](https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:11 | 2025-08-02 |  |

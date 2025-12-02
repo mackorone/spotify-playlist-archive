@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,969 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,987 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 6 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 |
 | 7 | [Eu Nasci](https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Eu Nasci](https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl) | 3:34 |
 | 8 | [A Alegria Está no Coração](https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d) | [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Mara Lima e Seus Amiguinhos, Vol\. 6](https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn) | 3:23 |
-| 9 | [O Sabão \- Deluxe](https://open.spotify.com/track/31NTFyLNBjUFmIv5wUVg4L) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [O Sabão \(Deluxe\)](https://open.spotify.com/album/3wissWXrndk2jkBWB8NmNG) | 2:22 |
+| 9 | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W) | 2:12 |
 | 10 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
 | 11 | [Arca de Noé](https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:21 |
 | 12 | [Bondade de Deus](https://open.spotify.com/track/45rrbhJ6P5CbZWCotd8Hwe) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Bondade de Deus](https://open.spotify.com/album/5qfRfNDrvKsUxYwRRixEWv) | 4:42 |
 | 13 | [Brilhando](https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Turminha da Cristina Mel \- Fazendo a Diferença](https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX) | 3:08 |
-| 14 | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W) | 2:12 |
+| 14 | [O Sabão \- Deluxe](https://open.spotify.com/track/31NTFyLNBjUFmIv5wUVg4L) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [O Sabão \(Deluxe\)](https://open.spotify.com/album/3wissWXrndk2jkBWB8NmNG) | 2:22 |
 | 15 | [Tesouro](https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Tesouro](https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v) | 3:25 |
 | 16 | [A, E, I, O, U](https://open.spotify.com/track/3ECu0Ipd7bspFhrJTuYwoA) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2) | [A,E,I,O,U](https://open.spotify.com/album/5xWQKN7mnHZ9b2WxW5JrF9) | 2:26 |
 | 17 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 |

@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 70 | [Best Years](https://open.spotify.com/track/6LHDP5yKHUIQxeml0YKUQy) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:10 |
 | 71 | [Should've Said It](https://open.spotify.com/track/0sHc1EEeOnmgjP6QmsR7px) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:20 |
 | 72 | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7) | 2:19 |
-| 73 | [Burning Man](https://open.spotify.com/track/6REbB4VXol3q3iiCjvojL5) | [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Burning Man](https://open.spotify.com/album/6qarDmB5GzLM0JLOgFVL0a) | 3:17 |
-| 74 | [Angry](https://open.spotify.com/track/5op6kdhlMQ4L0KH30GCZ5T) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:46 |
-| 75 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 |
+| 73 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 |
+| 74 | [Burning Man](https://open.spotify.com/track/6REbB4VXol3q3iiCjvojL5) | [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Burning Man](https://open.spotify.com/album/6qarDmB5GzLM0JLOgFVL0a) | 3:17 |
+| 75 | [Angry](https://open.spotify.com/track/5op6kdhlMQ4L0KH30GCZ5T) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:46 |
 | 76 | [Truth Be Told](https://open.spotify.com/track/0CbDc6JeCKQGYVAI89abdm) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New](https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi) | 3:39 |
 | 77 | [Can't Leave You Alone \(feat\. Juice WRLD\)](https://open.spotify.com/track/5kS3Kw2elRTrodnsyQuhvI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:16 |
 | 78 | [Socialite](https://open.spotify.com/track/3ZcJaN63FKEMxDWWPefsiW) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:19 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 222 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 | 223 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `AcDAUAAAAAAL5RfGYGjBHq3UMTHjqMpL`
+Snapshot ID: `AcDF8AAAAABYdsO4wwpOttGERO3lshzB`

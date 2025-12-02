@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Shepherd y Niko Eme
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,178 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,202 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 79 | [DIME TÚ](https://open.spotify.com/track/5aLORzg3abwlYhmvWZpfJ1) | [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG), [Ellis Henry](https://open.spotify.com/artist/289M0ZLgdClwb6gOpfj9K1) | [DIME TÚ](https://open.spotify.com/album/6akmdpjZUnNgrJVymUeTCJ) | 3:01 |
 | 80 | [TRIPOLOSKI](https://open.spotify.com/track/0UKbjErUYDah89awIVxhjG) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [TRIPOLOSKI](https://open.spotify.com/album/0mwa4UE5Srox0XGAJeYadA) | 1:57 |
 
-Snapshot ID: `AAAAAI8c8WX9IsnwDMbsAF+zzZOua14o`
+Snapshot ID: `AAAAAEpwIND4aRtMap6+EHzMeWfkt4xD`

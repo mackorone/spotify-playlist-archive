@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,228 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,227 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 19 | [The Blue Night of Jeju Island](https://open.spotify.com/track/68OxmOeNzSDJnfB9QX6dzJ) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/37eokJCyqRxZfSuyMq1tEC) | 4:10 |
 | 20 | [In My Dream](https://open.spotify.com/track/59aPed7AGGtbC4ro8Bc6BW) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Plant](https://open.spotify.com/album/5KftzhKELNjc4oxGiGQvRf) | 4:02 |
 | 21 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 |
-| 22 | [Could you?](https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Mind Laundry](https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4) | 3:50 |
-| 23 | [Fine](https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL) | 4:11 |
-| 24 | [The Little](https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [The Little](https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM) | 3:04 |
+| 22 | [The Little](https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [The Little](https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM) | 3:04 |
+| 23 | [Could you?](https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Mind Laundry](https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4) | 3:50 |
+| 24 | [Fine](https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL) | 4:11 |
 | 25 | [Shore](https://open.spotify.com/track/0Ld42IxP9PdoWTvGdplbTu) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI), [Jang Jae Sung](https://open.spotify.com/artist/1zz7NH3kiTsLinbIof7qIN) | [Shore](https://open.spotify.com/album/6s8W1vDLKT7deGBvI42eW4) | 3:20 |
 | 26 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
 | 27 | [Small Talk About Everything](https://open.spotify.com/track/68lrtGou1rovK9aYHlr660) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Small Talk About Everything](https://open.spotify.com/album/1W48cB0P1XA9uWAgS8pokX) | 4:10 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 34 | [It Won't Be Anything Anyway \(with deulrejang\)](https://open.spotify.com/track/1A5xMM3UvEL1pldYBhfN2J) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg), [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 5:14 |
 | 35 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
 | 36 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |
-| 37 | [Hug Me \(I'm In Your Arms\)](https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Broken Heart](https://open.spotify.com/album/5q19924bYcyPB5dvkivG84) | 3:58 |
-| 38 | [그 밤](https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:34 |
+| 37 | [그 밤](https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:34 |
+| 38 | [Hug Me \(I'm In Your Arms\)](https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Broken Heart](https://open.spotify.com/album/5q19924bYcyPB5dvkivG84) | 3:58 |
 | 39 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 |
 | 40 | [Dream](https://open.spotify.com/track/46eCeipMrAoRS5gTkmzgrK) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/5sXb3IWnfelEvKB7zzW0nV) | 6:14 |
 | 41 | [Meet us in a dream](https://open.spotify.com/track/053u42YOHacJCMmN3W8KCJ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Meet us in a dream](https://open.spotify.com/album/4eTz5EUGTVGUwooSGYhLAp) | 3:47 |

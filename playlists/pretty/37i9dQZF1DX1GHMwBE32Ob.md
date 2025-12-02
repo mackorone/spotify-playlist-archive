@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: T.I Blaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,348 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,436 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 43 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 |
 | 44 | [Fuji Vibe](https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 5:22 |
 | 45 | [Rover](https://open.spotify.com/track/6z3msNjyaN5nY0kDt7XCgs) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Rover](https://open.spotify.com/album/4TcZrHap6VtZGDRs3gVlha) | 2:34 |
-| 46 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 |
-| 47 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 |
+| 46 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 |
+| 47 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 |
 | 48 | [Life](https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Life](https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb) | 2:47 |
 | 49 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 |
-| 50 | [Imagine](https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Intergalactic Dreams](https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S) | 2:04 |
-| 51 | [Too Busy](https://open.spotify.com/track/22l3YPQhWkphT3FWJL7heC) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:13 |
+| 50 | [Too Busy](https://open.spotify.com/track/22l3YPQhWkphT3FWJL7heC) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:13 |
+| 51 | [Imagine](https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Intergalactic Dreams](https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S) | 2:04 |
 | 52 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
 | 53 | [Nati \(feat\. Olamide\)](https://open.spotify.com/track/1Zq9JpMFVaKzQdgkcltijZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:07 |
 | 54 | [Hot Hot](https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Hot Hot](https://open.spotify.com/album/6PaoE59BSEIdQjrBkTTIv8) | 2:23 |

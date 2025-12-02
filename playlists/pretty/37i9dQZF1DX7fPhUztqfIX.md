@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: CityAlight
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,566 likes - 74 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,588 likes - 74 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique covers by your favorite country artists\. Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,250 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,261 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 96 | [I'm On Fire \- Spotify Singles](https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [I'm On Fire \- Spotify Singles](https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV) | 3:29 |
 | 97 | [Just to See You Smile](https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Just to See You Smile](https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA) | 4:29 |
 | 98 | [Lord, I Hope This Day Is Good](https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Lord, I Hope This Day Is Good](https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK) | 2:49 |
-| 99 | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR) | 3:36 |
-| 100 | [Someone Like You \- Piano Vocal](https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [1979](https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C) | 5:20 |
+| 99 | [Someone Like You \- Piano Vocal](https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [1979](https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C) | 5:20 |
+| 100 | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR) | 3:36 |
 
 Snapshot ID: `AAAAAMQ8p1ZNa2zMZVqoiEM/+ut1Jngl`

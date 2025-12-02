@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,910 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,932 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 42 | [Other People](https://open.spotify.com/track/6xaBHNTugbgWWzUwgye0vg) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:24 |
 | 43 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
 | 44 | [Get Away](https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 2:30 |
-| 45 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
-| 46 | [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 |
+| 45 | [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 |
+| 46 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
 | 47 | [Last Dance](https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:26 |
 | 48 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
 | 49 | [I Wanna Go](https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio) | [About A Feeling](https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX) | 4:07 |
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 54 | [Psychic City \- Classixx Remix](https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [See Mystery Lights: Remixes & B\-Sides](https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb) | 4:11 |
 | 55 | [About You](https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu) | [xxyyxx](https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb) | [XXYYXX](https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0) | 4:07 |
 | 56 | [Mirror Maru](https://open.spotify.com/track/52Pp8J18LYkyWL9OXhRUZh) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [Mirror Maru \- EP](https://open.spotify.com/album/74j51jlqXt7csQ7o2bntwZ) | 4:02 |
-| 57 | [Let in the Light](https://open.spotify.com/track/0WxS9Vw4649veGUtOrOPO1) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv) | 4:15 |
-| 58 | [obedear](https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
-| 59 | [Underwaterfall](https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Underwaterfall](https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q) | 4:20 |
-| 60 | [I Heard](https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [TAPE TWO](https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy) | 3:42 |
+| 57 | [Underwaterfall](https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Underwaterfall](https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q) | 4:20 |
+| 58 | [I Heard](https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [TAPE TWO](https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy) | 3:42 |
+| 59 | [Let in the Light](https://open.spotify.com/track/0WxS9Vw4649veGUtOrOPO1) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv) | 4:15 |
+| 60 | [obedear](https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
 | 61 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
 | 62 | [Babe](https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA) | [Evenings](https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y) | [Yore](https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB) | 2:52 |
 | 63 | [Marilyn](https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 4:11 |
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 77 | [Helios](https://open.spotify.com/track/5xQkY7ia30xE1rLnHSblKI) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Helios](https://open.spotify.com/album/5K3ZZRtBqotmlCWFwZbX4S) | 3:18 |
 | 78 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
 | 79 | [Automatic](https://open.spotify.com/track/1NB0VPwAw6Rx8b9qvDKB5M) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Genesis Series](https://open.spotify.com/album/1X4yodq8QzdlHOf2EgwhWU) | 3:50 |
-| 80 | [Swoon](https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm) | 6:05 |
-| 81 | [Hémisphère](https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Hémisphère / Je m'ennuie](https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0) | 7:13 |
-| 82 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
-| 83 | [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 |
+| 80 | [Hémisphère](https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Hémisphère / Je m'ennuie](https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0) | 7:13 |
+| 81 | [Swoon](https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm) | 6:05 |
+| 82 | [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 |
+| 83 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
 | 84 | [Body Language \- Interpretation](https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ) | 5:00 |
 | 85 | [Truth Is Light](https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 3:59 |
 | 86 | [Flicker](https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 4:39 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 91 | [Girl](https://open.spotify.com/track/4x94qgTeMEcwj4X1APUnpb) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:05 |
 | 92 | [The Lung](https://open.spotify.com/track/45GTuMUP3lNuZcw7MGKfhx) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Choose Your Weapon](https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z) | 4:53 |
 | 93 | [BULLETS](https://open.spotify.com/track/54B9SGrQI1Yfu0vuoBZBGy) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:59 |
-| 94 | [Go Back Home](https://open.spotify.com/track/3KrTlYioYhUIvd8IoptcTN) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 3:55 |
-| 95 | [Illest Alive](https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 4:09 |
+| 94 | [Illest Alive](https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 4:09 |
+| 95 | [Go Back Home](https://open.spotify.com/track/3KrTlYioYhUIvd8IoptcTN) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 3:55 |
 | 96 | [She Just Likes to Fight](https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr) | 4:41 |
 | 97 | [Hours](https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:44 |
-| 98 | [The Big Unknown](https://open.spotify.com/track/4Ri84aoor16uSkNtpAvPgQ) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik) | [Elder Island](https://open.spotify.com/album/5wyOoFvt08gMtEsiG42iPZ) | 5:03 |
-| 99 | [Psylla](https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Glass Animals](https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU) | 3:31 |
+| 98 | [Psylla](https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Glass Animals](https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU) | 3:31 |
+| 99 | [The Big Unknown](https://open.spotify.com/track/4Ri84aoor16uSkNtpAvPgQ) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik) | [Elder Island](https://open.spotify.com/album/5wyOoFvt08gMtEsiG42iPZ) | 5:03 |
 | 100 | [Affection](https://open.spotify.com/track/3AFpIlNR4DEJ1WC7qyOHU8) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 2:36 |
 
 Snapshot ID: `AAAAAFuAN18DESptf3oKFOV+rDu85KjS`

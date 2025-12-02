@@ -4,7 +4,7 @@
 
 > 
 
-1,232 songs - 2 day 15 hr 39 min
+1,235 songs - 2 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [calling](https://open.spotify.com/track/665JLYnKdI4SXeKkE0X5dB) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [K Suave](https://open.spotify.com/artist/5quPjryJ2Pn2qmiPAbGtbz), [EastBayTae](https://open.spotify.com/artist/60fUrp5D4pO5sialH3dqqp), [Rackeduproy](https://open.spotify.com/artist/7GRvL2syhRyTxOEygzQ19q) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 3:01 | 2022-12-21 | 2023-05-09 |
 | [Camelot](https://open.spotify.com/track/44sYqNBttbXNxya33FJ3Dj) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 2:28 | 2025-07-10 |  |
 | [Can I Have It Like That](https://open.spotify.com/track/73Ijn0pKw1YJVP4OO4jUl7) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 3:55 | 2025-08-14 |  |
+| [Can't Go Wrong](https://open.spotify.com/track/78q45vuOe4PhgJn5CAqbf0) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Jewelz](https://open.spotify.com/album/142QQkfbqskQe7uBlmaS9F) | 3:45 | 2025-12-02 |  |
 | [Can't Rent Anymore!](https://open.spotify.com/track/5t5AMaa3XhuOitcBTWstWL) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Can't Rent Anymore!](https://open.spotify.com/album/0iH2suaKjEGBeM0JM2JR8O) | 2:41 | 2023-03-19 | 2023-12-14 |
 | [Can't Smoke](https://open.spotify.com/track/2O1HUQNmz2aIzOc8U3ggAR) | [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Can't Smoke](https://open.spotify.com/album/0VKqahuccgsXjJsBoUsE2n) | 2:34 | 2022-09-29 | 2023-05-09 |
 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 | 2025-08-03 |  |
@@ -404,6 +405,7 @@
 | [Give It 2 Me](https://open.spotify.com/track/6G7d2cbkZSaAOE0H6K1ohb) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk) | 4:47 | 2025-08-21 |  |
 | [Give Up the Goods \(Just Step\) \(feat\. Big Noyd\)](https://open.spotify.com/track/61VlApj8p2ZaP0WTunTrKT) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Big Noyd](https://open.spotify.com/artist/4bwxkkA3AAwyymVwXjxz0F) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 4:03 | 2023-09-07 | 2024-03-05 |
 | [Glaciers of Ice \(feat\. Ghostface Killah & Masta Killa\)](https://open.spotify.com/track/0qldEqAtjaDY4Gfl4h8oS7) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh) | [Only Built 4 Cuban Linx...](https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8) | 5:20 | 2025-10-14 |  |
+| [Glass House \(feat\. Curren$y & Wiz Khalifa\)](https://open.spotify.com/track/1c03rrWkCxyvIofWSD5lDG) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [K.R.I.T\. Wuz Here](https://open.spotify.com/album/30ERYJfWavYaaEJ0BLRE88) | 3:17 | 2025-12-01 |  |
 | [GLE 2 Hellcat](https://open.spotify.com/track/3Q0CQNtHZrc0xRVoBeRE5S) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Gle 2 Hellcat](https://open.spotify.com/album/3vRCaLMY3WOvpoq64hIk8m) | 2:59 | 2024-09-21 | 2025-05-21 |
 | [globe](https://open.spotify.com/track/7sMpcpvDcXqRu6fwRj4D2H) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [globe](https://open.spotify.com/album/5mkWBx2xqAQp4z2yPzdfco) | 2:13 | 2022-12-21 | 2023-05-09 |
 | [Glokk'$ on Me](https://open.spotify.com/track/5LVEZVXeSekSo7xbvQzdXP) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 3:01 | 2024-03-04 | 2024-04-24 |
@@ -1014,6 +1016,7 @@
 | [Squidrific](https://open.spotify.com/track/0Z1CgKoZXoQYRiqyXhq9LV) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Squidtastic](https://open.spotify.com/album/0YksPVYor2eHo7ILCTAxJs) | 2:52 | 2023-10-10 | 2024-03-05 |
 | [SSN](https://open.spotify.com/track/63tCTmZxknDTZKEEEu9JOS) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [SSN](https://open.spotify.com/album/04bCZaRSZaS0YsSJvs3yM1) | 1:41 | 2022-10-04 | 2023-12-14 |
 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 | 2024-11-05 | 2025-05-21 |
+| [Stakes Is High](https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 5:30 | 2025-12-01 |  |
 | [Stand On It \(with Future\)](https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:00 | 2024-02-16 | 2024-04-24 |
 | [Stay Cool](https://open.spotify.com/track/268FMyd9ACqcOoItVvaukp) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [The Tipping Point](https://open.spotify.com/album/2fw2PxmN6epMmz6qZXXNLn) | 3:34 | 2025-10-20 |  |
 | [Stay Focused](https://open.spotify.com/track/4w8IHtYC1uTSY27fH4DPdk) | [10TA Lil A](https://open.spotify.com/artist/3E7zyjnY6AthfEeOAT1x3e) | [Drill Ohio](https://open.spotify.com/album/0ohtzOtfezDOm5GA6Q9j3J) | 1:33 | 2022-09-19 | 2023-03-01 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 480315,
+  "num_followers": 480291,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACDK/OpUkWlWnka2xFK2z7b",
+  "snapshot_id": "aSuJAAAAAAB1kQ57x4swrtRp3ysTC2ZM",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Did The Body",
-        "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
+        "name": "Still Bad",
+        "url": "https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL"
       },
       "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 149173,
-      "name": "Freak Show",
-      "url": "https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv"
+      "duration_ms": 208585,
+      "name": "Still Bad",
+      "url": "https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W"
     },
     {
       "added_at": null,
@@ -183,18 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Bad",
-        "url": "https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL"
+        "name": "Who Did The Body",
+        "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
       },
       "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 208585,
-      "name": "Still Bad",
-      "url": "https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W"
+      "duration_ms": 149173,
+      "name": "Freak Show",
+      "url": "https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv"
     },
     {
       "added_at": null,
@@ -758,15 +758,11 @@
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         }
       ],
-      "duration_ms": 141781,
-      "name": "STFU (FEAT. LIL JON)",
-      "url": "https://open.spotify.com/track/4lQi3waSXFs3SjQPKOcv1o"
+      "duration_ms": 102842,
+      "name": "LACE LIFTERS",
+      "url": "https://open.spotify.com/track/6K2JmaTn3MWXpXqICyCrjB"
     },
     {
       "added_at": null,
@@ -834,11 +830,15 @@
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         }
       ],
-      "duration_ms": 102842,
-      "name": "LACE LIFTERS",
-      "url": "https://open.spotify.com/track/6K2JmaTn3MWXpXqICyCrjB"
+      "duration_ms": 141781,
+      "name": "STFU (FEAT. LIL JON)",
+      "url": "https://open.spotify.com/track/4lQi3waSXFs3SjQPKOcv1o"
     },
     {
       "added_at": null,

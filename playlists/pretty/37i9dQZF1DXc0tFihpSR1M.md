@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 
 > Det beste av ny pop akkurat nå! 🍭
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,247 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,240 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 | 41 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 |
 | 42 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
 | 43 | [Love Is Like \(feat\. Lil Wayne\)](https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:54 |
-| 44 | [use me!!!!!!!](https://open.spotify.com/track/73I3Tcfussd9QT9OY6dqSi) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/7KRiPA7S7cR3b6QZXePL91) | 2:04 |
-| 45 | [Maskulin](https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Maskulin](https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX) | 3:03 |
+| 44 | [Maskulin](https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Maskulin](https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX) | 3:03 |
+| 45 | [use me!!!!!!!](https://open.spotify.com/track/73I3Tcfussd9QT9OY6dqSi) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/7KRiPA7S7cR3b6QZXePL91) | 2:04 |
 | 46 | [Camera](https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:35 |
 | 47 | [Ingen her e deg](https://open.spotify.com/track/3eR6Hc3POZkClqpCsUy0qL) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Tobias Sten \(Utvida\)](https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy) | 4:00 |
 | 48 | [Alle vil til himmelen](https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Alle vil til himmelen](https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z) | 2:25 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 | 55 | [To Be Free](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 |
 | 56 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 |
 | 57 | [Det får världen aldrig veta](https://open.spotify.com/track/5gvf3tnmRlEacNJ5XmaKJV) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 2:31 |
-| 58 | [Du lyg](https://open.spotify.com/track/1v0Erq90AMsmP8C0vJk4q7) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Du lyg](https://open.spotify.com/album/2b6ovHU9jpZPH1WNXa1fjg) | 3:14 |
-| 59 | [Lys på mig](https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lys på mig](https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M) | 2:39 |
+| 58 | [Lys på mig](https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lys på mig](https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M) | 2:39 |
+| 59 | [Du lyg](https://open.spotify.com/track/1v0Erq90AMsmP8C0vJk4q7) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Du lyg](https://open.spotify.com/album/2b6ovHU9jpZPH1WNXa1fjg) | 3:14 |
 | 60 | [Vondt å vende](https://open.spotify.com/track/7LhxOhnAILyoCEqxtsNgK3) | [ULD](https://open.spotify.com/artist/5P7qPM9Znluf9Hqgi5WIg9) | [Vondt å vende](https://open.spotify.com/album/1DPAJzpKLqJMkcUyizmRyb) | 3:33 |
 | 61 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
 | 62 | [No Heartbreak's Killed Me Yet](https://open.spotify.com/track/58SMNUc42Art0NNE7aiWht) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [No Heartbreak's Killed Me Yet](https://open.spotify.com/album/65xHRIaffZ3DYvtKvSrLHW) | 2:37 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 | 64 | [HÆ?](https://open.spotify.com/track/2q5ndRxFsCsDMUY0MjbXAZ) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [HÆ?](https://open.spotify.com/album/1Sbtt9rQIOdwNT2RxvstDp) | 2:32 |
 | 65 | [Verdens beste menneske](https://open.spotify.com/track/0AVVCQRww9bV5RLZOlqZZr) | [Jon Ranes](https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t) | [VERDENS BESTE ALBUM](https://open.spotify.com/album/7KXuM7PAkPanN5WfYEtgx1) | 3:07 |
 | 66 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 |
-| 67 | [Store gutter gråter ikke](https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Store gutter gråter ikke](https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb) | 3:28 |
-| 68 | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx) | 2:17 |
+| 67 | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx) | 2:17 |
+| 68 | [Store gutter gråter ikke](https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Store gutter gråter ikke](https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb) | 3:28 |
 | 69 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 |
 | 70 | [Trophy](https://open.spotify.com/track/2JHpFobSp0WktxCod6MEIy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 3:10 |
 

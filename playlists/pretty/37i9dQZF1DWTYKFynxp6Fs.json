@@ -1,13 +1,37 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Lokah",
-  "num_followers": 574793,
+  "num_followers": 575214,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGPrqmvMuOY1gdzUlXq0ljAQCLCo",
+  "snapshot_id": "AAAAAJzh8Lh8+F4U/eAcf4pNFGkWa+L4",
   "tracks": [
+    {
+      "added_at": "2025-12-01 06:53:26",
+      "album": {
+        "name": "Kunjikkavil Meghame (From \"Aashaan\")",
+        "url": "https://open.spotify.com/album/2KhiAM5udaWOv0ohiipVBS"
+      },
+      "artists": [
+        {
+          "name": "Johnpaul George",
+          "url": "https://open.spotify.com/artist/3odIxuvJWJpYybFS0fDI4X"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 284210,
+      "name": "Kunjikkavil Meghame (From \"Aashaan\")",
+      "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
+    },
     {
       "added_at": "2025-05-26 06:55:48",
       "album": {
@@ -1123,38 +1147,6 @@
       "duration_ms": 340977,
       "name": "Sundaree Onnu Parayoo - Version, 1",
       "url": "https://open.spotify.com/track/1HELfOdMwHZRwjyekjrrXx"
-    },
-    {
-      "added_at": "2023-11-21 13:36:17",
-      "album": {
-        "name": "Mada Trance",
-        "url": "https://open.spotify.com/album/6XdYhfN9MzeybUMKhASWGR"
-      },
-      "artists": [
-        {
-          "name": "Dabzee",
-          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
-        },
-        {
-          "name": "Wraith V",
-          "url": "https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ"
-        },
-        {
-          "name": "M.H.R",
-          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
-        },
-        {
-          "name": "Fathima Jahaan",
-          "url": "https://open.spotify.com/artist/2iqMauzUdnUyiCOUeOFYD6"
-        },
-        {
-          "name": "Sarah Rose Joseph",
-          "url": "https://open.spotify.com/artist/3nk99ryTzWBnm6mD3cHqmG"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "Mada Trance",
-      "url": "https://open.spotify.com/track/7vdBLnzBdestP0UMaGTjP9"
     },
     {
       "added_at": "2024-02-17 08:31:37",

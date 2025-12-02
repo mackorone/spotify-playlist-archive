@@ -1,6 +1,6 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 305430,
+  "num_followers": 305442,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
@@ -1651,18 +1651,22 @@
     {
       "added_at": "2025-09-26 04:00:21",
       "album": {
-        "name": "American Saturday Night",
-        "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
+        "name": "Undivided",
+        "url": "https://open.spotify.com/album/0r9cbjDibgfT9Zvj5PHiFw"
       },
       "artists": [
         {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 274194,
-      "name": "American Saturday Night",
-      "url": "https://open.spotify.com/track/7xJqaCgeteqWPogqjjxkBl"
+      "duration_ms": 175920,
+      "name": "Undivided",
+      "url": "https://open.spotify.com/track/2DINVEELpI3ibUW2EzeDs7"
     }
   ],
   "unique_name": "Heartland Country",

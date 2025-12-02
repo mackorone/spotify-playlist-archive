@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,642 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,644 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 30 | [Bow Bow Bow \- F My Baby Daddy Freestyle](https://open.spotify.com/track/6jxSWts4DsWiC8w48A1Yri) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Bow Bow Bow \(F My Baby Daddy Freestyle\)](https://open.spotify.com/album/68hjCuAod6dhaeLvNnYS7l) | 1:21 |
 | 31 | [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:55 |
 | 32 | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7) | 2:38 |
-| 33 | [Mami \(feat\. Sexyy Red\)](https://open.spotify.com/track/3CiCLeSabMedcyDMIZ12ID) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 2:47 |
-| 34 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 |
+| 33 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 |
+| 34 | [Mami \(feat\. Sexyy Red\)](https://open.spotify.com/track/3CiCLeSabMedcyDMIZ12ID) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 2:47 |
 | 35 | [Pound Town 2](https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 3:14 |
 | 36 | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs) | 2:29 |
 | 37 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 49 | [Me N OG Snoop](https://open.spotify.com/track/4pfUkkJKUgrsXuVVYRuSh4) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Iz It a Crime?](https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD) | 2:38 |
 | 50 | [You Don’t Love Me](https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [You Don’t Love Me](https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9) | 2:37 |
 
-Snapshot ID: `aSo3gAAAAACdGJc9lMbX3gKt2iMyrs8I`
+Snapshot ID: `aSuJAAAAAADPMdUFIPqhKR0vqtQXkKkh`

@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 23432,
+  "num_followers": 23441,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAAJ2x2NLydC/Eb3H78gb+7n",
+  "snapshot_id": "aSuJAAAAAADjDzgysKin4rS0ozUMfUsz",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jouw Blik (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/3WfqR2964SBkPhpMadS3eh"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        }
+      ],
+      "duration_ms": 313536,
+      "name": "Jouw Blik - Outsiders Remix",
+      "url": "https://open.spotify.com/track/7GOslRvDbMGO3gwxmzNP01"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vaderland",
         "url": "https://open.spotify.com/album/4Yu2FndCZi7jLRsDlZroxg"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 208286,
       "name": "Vaderland",
       "url": "https://open.spotify.com/track/4EncVGXlw9yTuaPXMRLTw1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jouw Blik (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/3WfqR2964SBkPhpMadS3eh"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "John West",
-          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
-        }
-      ],
-      "duration_ms": 313536,
-      "name": "Jouw Blik - Outsiders Remix",
-      "url": "https://open.spotify.com/track/7GOslRvDbMGO3gwxmzNP01"
     },
     {
       "added_at": null,
@@ -671,30 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leven Voor De Rave",
-        "url": "https://open.spotify.com/album/1fJLR7t5nuGiDi8xDSoEbl"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        }
-      ],
-      "duration_ms": 178838,
-      "name": "Leven Voor De Rave",
-      "url": "https://open.spotify.com/track/1Othclu13izG3c1oFKbbMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Magnifico (Jump Remix)",
         "url": "https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 159774,
       "name": "Magnifico - Jump Remix",
       "url": "https://open.spotify.com/track/3sFZe3Y4rvMmIdxpektQfV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leven Voor De Rave",
+        "url": "https://open.spotify.com/album/1fJLR7t5nuGiDi8xDSoEbl"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        }
+      ],
+      "duration_ms": 178838,
+      "name": "Leven Voor De Rave",
+      "url": "https://open.spotify.com/track/1Othclu13izG3c1oFKbbMJ"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KUTMUZIEK",
-        "url": "https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "NZG\u00dbL",
-          "url": "https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "KUTMUZIEK",
-      "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 197142,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KUTMUZIEK",
+        "url": "https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "NZG\u00dbL",
+          "url": "https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "KUTMUZIEK",
+      "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"
     },
     {
       "added_at": null,

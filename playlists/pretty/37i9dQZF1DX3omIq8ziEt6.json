@@ -1,6 +1,6 @@
 {
   "description": "Timeless Latin hits. ",
-  "num_followers": 3937799,
+  "num_followers": 3937756,
   "original_name": "Esenciales",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
-    },
-    {
-      "added_at": "2025-11-25 18:12:32",
-      "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 235133,
       "name": "Propuesta Indecente",
       "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
+    },
+    {
+      "added_at": "2025-11-25 18:12:32",
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -531,18 +531,18 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+        "name": "Barrio Fino En Directo",
+        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
+      "duration_ms": 188626,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -567,34 +567,18 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
-        "name": "Barrio Fino En Directo",
-        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 188626,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
-    },
-    {
-      "added_at": "2025-11-25 18:12:32",
-      "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Devu\u00e9lveme a mi chica",
-      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -611,6 +595,22 @@
       "duration_ms": 250693,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+    },
+    {
+      "added_at": "2025-11-25 18:12:32",
+      "album": {
+        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
+        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "Devu\u00e9lveme a mi chica",
+      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
-        "name": "El Templo del Pop",
-        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
+        "name": "Visperas De Carnaval",
+        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
       },
       "artists": [
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
         }
       ],
-      "duration_ms": 225413,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o"
+      "duration_ms": 191560,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
-        "name": "Visperas De Carnaval",
-        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
+        "name": "El Templo del Pop",
+        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
       },
       "artists": [
         {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         }
       ],
-      "duration_ms": 191560,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
+      "duration_ms": 225413,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -1195,6 +1195,22 @@
       "duration_ms": 242026,
       "name": "Amor del Bueno",
       "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
+    },
+    {
+      "added_at": "2025-11-25 18:12:32",
+      "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+        "name": "Soy el Mismo",
+        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 277653,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+      "duration_ms": 206934,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -1259,22 +1275,6 @@
       "duration_ms": 205413,
       "name": "Lim\u00f3n y Sal",
       "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2025-11-25 18:12:32",
-      "album": {
-        "name": "Soy el Mismo",
-        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 206934,
-      "name": "Darte un Beso",
-      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
-        "name": "Escucha",
-        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 236613,
-      "name": "V\u00edveme",
-      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
-    },
-    {
-      "added_at": "2025-11-25 18:12:32",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 238160,
       "name": "T\u00fa de Qu\u00e9 Vas",
       "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
+    },
+    {
+      "added_at": "2025-11-25 18:12:32",
+      "album": {
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 236613,
+      "name": "V\u00edveme",
+      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
-        "name": "Bajo El Signo De Ca\u00edn",
-        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
+      "duration_ms": 267826,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
+        "name": "Bajo El Signo De Ca\u00edn",
+        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
+    },
+    {
+      "added_at": "2025-11-25 18:12:32",
+      "album": {
         "name": "HA-ASH Primera Fila - Hecho Realidad",
         "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 197800,
       "name": "Lo Aprend\u00ed de Ti - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
       "url": "https://open.spotify.com/track/3xrpI0GqWNMjMDOdXUOnK3"
-    },
-    {
-      "added_at": "2025-11-25 18:12:32",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -1807,22 +1807,18 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -1843,18 +1839,22 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J"
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Lobo-hombre en Par\u00eds",
+      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
+    },
+    {
+      "added_at": "2025-11-25 18:12:32",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2025-11-25 18:12:32",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
-      },
-      "artists": [
-        {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Lobo-hombre en Par\u00eds",
-      "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
-        "name": "Stereo Hits",
-        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Ni T\u00fa Ni Nadie",
-      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
-    },
-    {
-      "added_at": "2025-11-25 18:12:32",
-      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 186373,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "added_at": "2025-11-25 18:12:32",
+      "album": {
+        "name": "Stereo Hits",
+        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Ni T\u00fa Ni Nadie",
+      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
     },
     {
       "added_at": "2025-11-25 18:12:32",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2025-11-25 18:12:32",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 332040,
-      "name": "Experiencia Religiosa",
-      "url": "https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi"
-    },
-    {
-      "added_at": "2025-11-25 18:12:32",
-      "album": {
         "name": "3 A.M.",
         "url": "https://open.spotify.com/album/6HS9TsSBYFKwALTeRPvcdI"
       },
@@ -2759,6 +2743,22 @@
       "duration_ms": 232253,
       "name": "Yo Te Esperar\u00e9",
       "url": "https://open.spotify.com/track/0mGvaKpwLYoybnIoboC3uS"
+    },
+    {
+      "added_at": "2025-11-25 18:12:32",
+      "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 332040,
+      "name": "Experiencia Religiosa",
+      "url": "https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi"
     }
   ],
   "unique_name": "Esenciales",

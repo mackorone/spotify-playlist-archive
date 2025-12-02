@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2779,
+  "num_followers": 2781,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAC9LIm0BUr8LV/qAEuaNOrZ",
+  "snapshot_id": "aSuJAAAAAABOtfNVYKf62pbT0cAnRIcs",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pal Bailador (Pasito Tun Tun)",
-        "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 185233,
-      "name": "Pal Bailador (Pasito Tun Tun)",
-      "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
         "url": "https://open.spotify.com/album/4AAxr6YcB2n3yn7VAyozMI"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 198622,
       "name": "Agua Helada",
       "url": "https://open.spotify.com/track/5RTwxQJO725bKdK2a8d5om"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pal Bailador (Pasito Tun Tun)",
+        "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 185233,
+      "name": "Pal Bailador (Pasito Tun Tun)",
+      "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grupero Hits",
+        "url": "https://open.spotify.com/album/5dVfZriigZIsjQrK9veAlV"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 167320,
+      "name": "Aerobics de se\u00f1oritas",
+      "url": "https://open.spotify.com/track/5peoeFKvBESDFc7Ej2G3Bp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dame Chamoy",
         "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 146538,
       "name": "Dame Chamoy",
       "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grupero Hits",
-        "url": "https://open.spotify.com/album/5dVfZriigZIsjQrK9veAlV"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 167320,
-      "name": "Aerobics de se\u00f1oritas",
-      "url": "https://open.spotify.com/track/5peoeFKvBESDFc7Ej2G3Bp"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes Bandas",
-        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 171720,
-      "name": "Zapatos viejos",
-      "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100% Tropical, Vol. 8",
         "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
       },
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tropicalandia",
-        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
+        "name": "Grandes Bandas",
+        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
       },
       "artists": [
         {
@@ -684,9 +668,25 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 220293,
-      "name": "Me Vas a Querer",
-      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
+      "duration_ms": 171720,
+      "name": "Zapatos viejos",
+      "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charangas, Vol. 3",
+        "url": "https://open.spotify.com/album/0UqWpT5GDnIM6KyyPdJTwF"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Llena de Amor",
+      "url": "https://open.spotify.com/track/0thgST7TUDPVuW8wTE1LXH"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charangas, Vol. 3",
-        "url": "https://open.spotify.com/album/0UqWpT5GDnIM6KyyPdJTwF"
+        "name": "Tropicalandia",
+        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 245333,
-      "name": "Llena de Amor",
-      "url": "https://open.spotify.com/track/0thgST7TUDPVuW8wTE1LXH"
+      "duration_ms": 220293,
+      "name": "Me Vas a Querer",
+      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
     },
     {
       "added_at": null,

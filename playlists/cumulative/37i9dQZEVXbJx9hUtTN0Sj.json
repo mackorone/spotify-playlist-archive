@@ -6238,7 +6238,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 139093,
       "name": "Boussole (feat. Josman)",
       "url": "https://open.spotify.com/track/1u6rKFVYKbFkpk9AEimvHH"
@@ -8766,7 +8766,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 67558,
       "name": "Clean It Up!",
       "url": "https://open.spotify.com/track/53CnanPxbhecUExO9EIinJ"
@@ -9372,7 +9372,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 78620,
       "name": "CONFESS YOUR LOVE FUNK",
       "url": "https://open.spotify.com/track/7BPNz9Ap1rFIX27umIQchp"
@@ -9390,7 +9390,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 78854,
       "name": "Confess Your Love Funk",
       "url": "https://open.spotify.com/track/5kQbGGVTmVHUDjSdo3V0Np"
@@ -19642,7 +19642,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
@@ -25584,7 +25584,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 111157,
       "name": "LV Sandals",
       "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
@@ -27834,7 +27834,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -33386,7 +33386,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 211155,
       "name": "PLAYER",
       "url": "https://open.spotify.com/track/444hAcCB1cvQ5HvRRuGRgB"
@@ -34506,7 +34506,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -34886,7 +34886,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 230240,
       "name": "Reliquia",
       "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
@@ -45545,6 +45545,24 @@
     },
     {
       "album": {
+        "name": "Charlie Kirk Forever Alive",
+        "url": "https://open.spotify.com/album/2a854F8IkCKnrB2vEIc4qJ"
+      },
+      "artists": [
+        {
+          "name": "Spalexma",
+          "url": "https://open.spotify.com/artist/0br7BhK6Vr2Bx8IEg0PEn3"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224479,
+      "name": "We Are Charlie Kirk",
+      "url": "https://open.spotify.com/track/5nC5a57UgrSg1mUxsz1P9D"
+    },
+    {
+      "album": {
         "name": "We Bad, We Know",
         "url": "https://open.spotify.com/album/4OigOvkkb2GyOiDfhC8JdC"
       },
@@ -48420,6 +48438,24 @@
       "duration_ms": 262533,
       "name": "Zoveel Stress",
       "url": "https://open.spotify.com/track/68gkB9GBHeTotKGqtPMGUX"
+    },
+    {
+      "album": {
+        "name": "\u00c7a d\u00e9gage.",
+        "url": "https://open.spotify.com/album/2Q1eRpMbQMh7VgA1vppSut"
+      },
+      "artists": [
+        {
+          "name": "Roustaa",
+          "url": "https://open.spotify.com/artist/2UsR0cDnNPatY4KdFNI9wV"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121359,
+      "name": "\u00c7a d\u00e9gage.",
+      "url": "https://open.spotify.com/track/4OZB71f3ZKRvmPSeR0ffDy"
     },
     {
       "album": {

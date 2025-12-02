@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > New arrivals as they come\. Cover: AntsLive
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,967 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,969 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

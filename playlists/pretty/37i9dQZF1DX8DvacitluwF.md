@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,460 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,468 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 21 | [DEEPER](https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 2:52 |
 | 22 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 |
 | 23 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 |
-| 24 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 |
-| 25 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
+| 24 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
+| 25 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 |
 | 26 | [Blame U](https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 2:49 |
 | 27 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
 | 28 | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 42 | [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 |
 | 43 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 |
 | 44 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
-| 45 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
-| 46 | [Venting](https://open.spotify.com/track/7uXMqHAf0bQINryPJ9jsQ4) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Venting](https://open.spotify.com/album/0ayCbGIRjdC1f84McDwNHE) | 3:26 |
+| 45 | [Venting](https://open.spotify.com/track/7uXMqHAf0bQINryPJ9jsQ4) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Venting](https://open.spotify.com/album/0ayCbGIRjdC1f84McDwNHE) | 3:26 |
+| 46 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
 | 47 | [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 |
 | 48 | [Aweh](https://open.spotify.com/track/66prH4Oa24RKnJbMR1iXzY) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:04 |
 | 49 | [When You're Around](https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [When You're Around](https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec) | 3:17 |

@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. Cover: XXJUL\u00cdA ",
-  "num_followers": 2002,
+  "num_followers": 2003,
   "original_name": "Popronde 2025",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
+        "name": "The Next Time We Meet",
+        "url": "https://open.spotify.com/album/13hRU2LNjolmWEkDnjWOiA"
+      },
+      "artists": [
+        {
+          "name": "Coos",
+          "url": "https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "The Next Time We Meet",
+      "url": "https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
         "name": "Simpel",
         "url": "https://open.spotify.com/album/6TYk8noeUSvU8vPQTos0ky"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 240137,
       "name": "Graceful Fire",
       "url": "https://open.spotify.com/track/3i8SE9MzDHGeKkT01BPjCf"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "The Next Time We Meet",
-        "url": "https://open.spotify.com/album/13hRU2LNjolmWEkDnjWOiA"
-      },
-      "artists": [
-        {
-          "name": "Coos",
-          "url": "https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "The Next Time We Meet",
-      "url": "https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Overcompensating",
-        "url": "https://open.spotify.com/album/3UJTW4CxzsBQyQLvqbV3h0"
-      },
-      "artists": [
-        {
-          "name": "Moon Jacky Jane",
-          "url": "https://open.spotify.com/artist/0T7wdpMq0CIzTJBdTOCaov"
-        }
-      ],
-      "duration_ms": 195450,
-      "name": "Overcompensating",
-      "url": "https://open.spotify.com/track/29q8cAbDbnqiX9dgs94P98"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/5ss71IJPLmogSbrXmI9bV4"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 175619,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6twfj64yWVPf00VvpVnQQc"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Overcompensating",
+        "url": "https://open.spotify.com/album/3UJTW4CxzsBQyQLvqbV3h0"
+      },
+      "artists": [
+        {
+          "name": "Moon Jacky Jane",
+          "url": "https://open.spotify.com/artist/0T7wdpMq0CIzTJBdTOCaov"
+        }
+      ],
+      "duration_ms": 195450,
+      "name": "Overcompensating",
+      "url": "https://open.spotify.com/track/29q8cAbDbnqiX9dgs94P98"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -539,34 +539,18 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Nightmare$",
-        "url": "https://open.spotify.com/album/10bJOsNcNWOBqvRvICq33Q"
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/1lYgLMntuPpvQx7Kl1zzel"
       },
       "artists": [
         {
-          "name": "Bens",
-          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
+          "name": "IL\u00c6NDER",
+          "url": "https://open.spotify.com/artist/5IFTVCSrOl8dZwbLrYyg0Z"
         }
       ],
-      "duration_ms": 126829,
-      "name": "Nightmare$",
-      "url": "https://open.spotify.com/track/7kbbzpV34lJ2ESBrluZcTL"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "vissenkom",
-        "url": "https://open.spotify.com/album/50qksUVit3aLwaIIHFNYFV"
-      },
-      "artists": [
-        {
-          "name": "LOE.",
-          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
-        }
-      ],
-      "duration_ms": 220452,
-      "name": "vissenkom",
-      "url": "https://open.spotify.com/track/2T73IUQJhlsn6kYqPzyev7"
+      "duration_ms": 230098,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/7I9uVwnMSMARHdmrhhHd3T"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -587,18 +571,34 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Inside My Head",
-        "url": "https://open.spotify.com/album/1lYgLMntuPpvQx7Kl1zzel"
+        "name": "vissenkom",
+        "url": "https://open.spotify.com/album/50qksUVit3aLwaIIHFNYFV"
       },
       "artists": [
         {
-          "name": "IL\u00c6NDER",
-          "url": "https://open.spotify.com/artist/5IFTVCSrOl8dZwbLrYyg0Z"
+          "name": "LOE.",
+          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
         }
       ],
-      "duration_ms": 230098,
-      "name": "Inside My Head",
-      "url": "https://open.spotify.com/track/7I9uVwnMSMARHdmrhhHd3T"
+      "duration_ms": 220452,
+      "name": "vissenkom",
+      "url": "https://open.spotify.com/track/2T73IUQJhlsn6kYqPzyev7"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Nightmare$",
+        "url": "https://open.spotify.com/album/10bJOsNcNWOBqvRvICq33Q"
+      },
+      "artists": [
+        {
+          "name": "Bens",
+          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
+        }
+      ],
+      "duration_ms": 126829,
+      "name": "Nightmare$",
+      "url": "https://open.spotify.com/track/7kbbzpV34lJ2ESBrluZcTL"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
+        "name": "(You Can Never Kill My) Radio",
+        "url": "https://open.spotify.com/album/44igM8ZA1iJM31bMhAJcVV"
+      },
+      "artists": [
+        {
+          "name": "Badminton",
+          "url": "https://open.spotify.com/artist/3dGxfZgbXwg8qIRYs1IuNO"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "(You Can Never Kill My) Radio",
+      "url": "https://open.spotify.com/track/3hFJxlTXA8oiHuhsrqApX3"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
         "name": "Muurvast",
         "url": "https://open.spotify.com/album/2YZPcDxaUMzrNCvn4FovNq"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 194586,
       "name": "On Top/Inside",
       "url": "https://open.spotify.com/track/3aZDSOAQF5AxU7Vx9QjoW2"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "(You Can Never Kill My) Radio",
-        "url": "https://open.spotify.com/album/44igM8ZA1iJM31bMhAJcVV"
-      },
-      "artists": [
-        {
-          "name": "Badminton",
-          "url": "https://open.spotify.com/artist/3dGxfZgbXwg8qIRYs1IuNO"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "(You Can Never Kill My) Radio",
-      "url": "https://open.spotify.com/track/3hFJxlTXA8oiHuhsrqApX3"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Dit Gaat Pijn Doen",
-        "url": "https://open.spotify.com/album/1Gt7ItM4BmcpjupLhMahcv"
-      },
-      "artists": [
-        {
-          "name": "BERBER",
-          "url": "https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Dit Gaat Pijn Doen",
-      "url": "https://open.spotify.com/track/2CTfVMR4Uayoge0b2gl60g"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Judith Judith",
         "url": "https://open.spotify.com/album/0xNIOrJI537lnWQ0vXw9mj"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 219818,
       "name": "Judith Judith",
       "url": "https://open.spotify.com/track/6D19JQFTor3GaXKoRkQ11p"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Dit Gaat Pijn Doen",
+        "url": "https://open.spotify.com/album/1Gt7ItM4BmcpjupLhMahcv"
+      },
+      "artists": [
+        {
+          "name": "BERBER",
+          "url": "https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Dit Gaat Pijn Doen",
+      "url": "https://open.spotify.com/track/2CTfVMR4Uayoge0b2gl60g"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -811,18 +811,38 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/6gSDIkV4dlmwk05OYvbpjp"
+        "name": "In Love Again (The ABC Way)",
+        "url": "https://open.spotify.com/album/4aDRZiu65An6Ztka8vp2EP"
       },
       "artists": [
         {
-          "name": "Rockpool Dramas",
-          "url": "https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq"
+          "name": "MAYA MARIA",
+          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
         }
       ],
-      "duration_ms": 190733,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/3jtewako7fIW5bdf3nCUGi"
+      "duration_ms": 219160,
+      "name": "In Love Again (The ABC Way)",
+      "url": "https://open.spotify.com/track/3n2xdrh8ncMunxXtYjbAsS"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Lekker Boeie",
+        "url": "https://open.spotify.com/album/775LFBAGPMVzzcjktkpAV0"
+      },
+      "artists": [
+        {
+          "name": "SKINC",
+          "url": "https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6"
+        },
+        {
+          "name": "Doe Gewoon",
+          "url": "https://open.spotify.com/artist/3OgHfFp586DJhpvUYZU6xg"
+        }
+      ],
+      "duration_ms": 153771,
+      "name": "Lekker Boeie",
+      "url": "https://open.spotify.com/track/27yseICgom8ko8hz0OZy7T"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -843,18 +863,34 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "In Love Again (The ABC Way)",
-        "url": "https://open.spotify.com/album/4aDRZiu65An6Ztka8vp2EP"
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/6gSDIkV4dlmwk05OYvbpjp"
       },
       "artists": [
         {
-          "name": "MAYA MARIA",
-          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
+          "name": "Rockpool Dramas",
+          "url": "https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq"
         }
       ],
-      "duration_ms": 219160,
-      "name": "In Love Again (The ABC Way)",
-      "url": "https://open.spotify.com/track/3n2xdrh8ncMunxXtYjbAsS"
+      "duration_ms": 190733,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/3jtewako7fIW5bdf3nCUGi"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Salty Birthday Cake",
+        "url": "https://open.spotify.com/album/0b3EXHtJqyKt2hoXtyFn3k"
+      },
+      "artists": [
+        {
+          "name": "Death Sells",
+          "url": "https://open.spotify.com/artist/46RqXRTuw8zLluwycbGQG7"
+        }
+      ],
+      "duration_ms": 232404,
+      "name": "Salty Birthday Cake",
+      "url": "https://open.spotify.com/track/50WEt08laklxMpDofqIZ16"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -875,18 +911,18 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Salty Birthday Cake",
-        "url": "https://open.spotify.com/album/0b3EXHtJqyKt2hoXtyFn3k"
+        "name": "The Square",
+        "url": "https://open.spotify.com/album/5I3q0fSGOJxM3Ajx580Zfu"
       },
       "artists": [
         {
-          "name": "Death Sells",
-          "url": "https://open.spotify.com/artist/46RqXRTuw8zLluwycbGQG7"
+          "name": "Jackie & The Facts",
+          "url": "https://open.spotify.com/artist/4Q8G8g6rH2LHLPJLS1tOLf"
         }
       ],
-      "duration_ms": 232404,
-      "name": "Salty Birthday Cake",
-      "url": "https://open.spotify.com/track/50WEt08laklxMpDofqIZ16"
+      "duration_ms": 193750,
+      "name": "The Square",
+      "url": "https://open.spotify.com/track/3A8M7QIbSrjGqmQFDcm7Bw"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -927,42 +963,6 @@
       "duration_ms": 281965,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/0GzXJ8VIHDL4m4dHVK59Ir"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "The Square",
-        "url": "https://open.spotify.com/album/5I3q0fSGOJxM3Ajx580Zfu"
-      },
-      "artists": [
-        {
-          "name": "Jackie & The Facts",
-          "url": "https://open.spotify.com/artist/4Q8G8g6rH2LHLPJLS1tOLf"
-        }
-      ],
-      "duration_ms": 195030,
-      "name": "The Square",
-      "url": "https://open.spotify.com/track/3A8M7QIbSrjGqmQFDcm7Bw"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "Lekker Boeie",
-        "url": "https://open.spotify.com/album/775LFBAGPMVzzcjktkpAV0"
-      },
-      "artists": [
-        {
-          "name": "SKINC",
-          "url": "https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6"
-        },
-        {
-          "name": "Doe Gewoon",
-          "url": "https://open.spotify.com/artist/3OgHfFp586DJhpvUYZU6xg"
-        }
-      ],
-      "duration_ms": 153771,
-      "name": "Lekker Boeie",
-      "url": "https://open.spotify.com/track/27yseICgom8ko8hz0OZy7T"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Tanjiro",
-        "url": "https://open.spotify.com/album/5IDIwsUx4ts2YqG3z8ftDY"
-      },
-      "artists": [
-        {
-          "name": "FAMKE",
-          "url": "https://open.spotify.com/artist/554ztB5FNpDfdPmHYf59w3"
-        }
-      ],
-      "duration_ms": 141532,
-      "name": "Tanjiro",
-      "url": "https://open.spotify.com/track/0CcdB5iv26yiENNayybuZB"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Lonely Part Of Me",
         "url": "https://open.spotify.com/album/4LCVhpY0194Ei335gTSxIu"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 199558,
       "name": "Lonely Part Of Me",
       "url": "https://open.spotify.com/track/1B2SEsITGnyID7NI7HJIKA"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Tanjiro",
+        "url": "https://open.spotify.com/album/5IDIwsUx4ts2YqG3z8ftDY"
+      },
+      "artists": [
+        {
+          "name": "FAMKE",
+          "url": "https://open.spotify.com/artist/554ztB5FNpDfdPmHYf59w3"
+        }
+      ],
+      "duration_ms": 141532,
+      "name": "Tanjiro",
+      "url": "https://open.spotify.com/track/0CcdB5iv26yiENNayybuZB"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/6UxpS0oPiIMM1ZdApF9ArR"
-      },
-      "artists": [
-        {
-          "name": "Luke Christoffel",
-          "url": "https://open.spotify.com/artist/5dgXsHqTPrNc5OrisLV5bC"
-        }
-      ],
-      "duration_ms": 192342,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/4EGE5kCr3v5w0PSHPKUtH8"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "WINDKRACHT TIEN",
         "url": "https://open.spotify.com/album/3mqavFbZsfMQS6thcFIn8y"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "bubble",
-        "url": "https://open.spotify.com/album/764nFclQjC7BFAZZjVPNK9"
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/6UxpS0oPiIMM1ZdApF9ArR"
       },
       "artists": [
         {
-          "name": "SERVICE",
-          "url": "https://open.spotify.com/artist/2GS7B0jEZp2FPg6NH6zJNY"
+          "name": "Luke Christoffel",
+          "url": "https://open.spotify.com/artist/5dgXsHqTPrNc5OrisLV5bC"
         }
       ],
-      "duration_ms": 186612,
-      "name": "bubble",
-      "url": "https://open.spotify.com/track/1qfO88TpTtHIsY8pNidXF2"
+      "duration_ms": 192342,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/4EGE5kCr3v5w0PSHPKUtH8"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1187,6 +1171,22 @@
       "duration_ms": 310866,
       "name": "Stampij",
       "url": "https://open.spotify.com/track/6ds6wPSpV7XcQVxW9cR6Sk"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "bubble",
+        "url": "https://open.spotify.com/album/764nFclQjC7BFAZZjVPNK9"
+      },
+      "artists": [
+        {
+          "name": "SERVICE",
+          "url": "https://open.spotify.com/artist/2GS7B0jEZp2FPg6NH6zJNY"
+        }
+      ],
+      "duration_ms": 186612,
+      "name": "bubble",
+      "url": "https://open.spotify.com/track/1qfO88TpTtHIsY8pNidXF2"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "The Immortal Gerard",
-        "url": "https://open.spotify.com/album/7BAh6QkxTBK8vY6JepR17J"
-      },
-      "artists": [
-        {
-          "name": "Baba Pen & The Bim Bam Band",
-          "url": "https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "The Immortal Gerard",
-      "url": "https://open.spotify.com/track/0L9h6PM0vMWpHThUpiK55z"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "A\u015fk\u0131m Benim",
         "url": "https://open.spotify.com/album/20ZtTOtyoQCE9XJnatqIKI"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 188235,
       "name": "A\u015fk\u0131m Benim",
       "url": "https://open.spotify.com/track/45nk1gm67eO6KZimMZyFzK"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "The Immortal Gerard",
+        "url": "https://open.spotify.com/album/7BAh6QkxTBK8vY6JepR17J"
+      },
+      "artists": [
+        {
+          "name": "Baba Pen & The Bim Bam Band",
+          "url": "https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "The Immortal Gerard",
+      "url": "https://open.spotify.com/track/0L9h6PM0vMWpHThUpiK55z"
     },
     {
       "added_at": "2025-11-28 18:02:04",

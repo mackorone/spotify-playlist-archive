@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 90366,
+  "num_followers": 90382,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-11-24 13:08:24",
       "album": {
-        "name": "Paint It Black",
-        "url": "https://open.spotify.com/album/1cV57IymcPP6bXxvpRbdBp"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "The Sickest Squad",
-          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Paint It Black",
-      "url": "https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP"
-    },
-    {
-      "added_at": "2025-11-24 13:08:24",
-      "album": {
         "name": "Highs In My Dreams",
         "url": "https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 146666,
       "name": "Highs In My Dreams",
       "url": "https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx"
+    },
+    {
+      "added_at": "2025-11-24 13:08:24",
+      "album": {
+        "name": "Paint It Black",
+        "url": "https://open.spotify.com/album/1cV57IymcPP6bXxvpRbdBp"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Paint It Black",
+      "url": "https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP"
     },
     {
       "added_at": "2025-11-24 13:08:24",
@@ -843,18 +843,22 @@
     {
       "added_at": "2025-11-24 13:08:24",
       "album": {
-        "name": "Rip City",
-        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
+        "name": "Path Of The Wisemen",
+        "url": "https://open.spotify.com/album/3v5vGc50acckobzhRTFsWd"
       },
       "artists": [
         {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Billx",
+          "url": "https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB"
         }
       ],
-      "duration_ms": 161327,
-      "name": "Rip City",
-      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
+      "duration_ms": 180694,
+      "name": "Path Of The Wisemen",
+      "url": "https://open.spotify.com/track/68Ln2A2umloSrPWrVMOI9h"
     },
     {
       "added_at": "2025-11-24 13:08:24",
@@ -875,22 +879,18 @@
     {
       "added_at": "2025-11-24 13:08:24",
       "album": {
-        "name": "Path Of The Wisemen",
-        "url": "https://open.spotify.com/album/3v5vGc50acckobzhRTFsWd"
+        "name": "Rip City",
+        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
       },
       "artists": [
         {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Billx",
-          "url": "https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB"
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
         }
       ],
-      "duration_ms": 180694,
-      "name": "Path Of The Wisemen",
-      "url": "https://open.spotify.com/track/68Ln2A2umloSrPWrVMOI9h"
+      "duration_ms": 161327,
+      "name": "Rip City",
+      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
     },
     {
       "added_at": "2025-11-24 13:08:24",

@@ -9511,6 +9511,24 @@
     },
     {
       "album": {
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/1mAwtq83TXihLdVhNc0XMZ"
+      },
+      "artists": [
+        {
+          "name": "Ilan Kidron",
+          "url": "https://open.spotify.com/artist/2h4XAkDeP79wkwWE4eXzTT"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Memories and Ghosts",
+      "url": "https://open.spotify.com/track/77z3Z6bEf017UZiTgCo5Mu"
+    },
+    {
+      "album": {
         "name": "Memories of You",
         "url": "https://open.spotify.com/album/1ddVg2hiXNHyNZHCkZ1NFh"
       },

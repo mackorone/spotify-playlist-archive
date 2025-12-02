@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Nuca
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,048 likes - 144 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,043 likes - 144 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

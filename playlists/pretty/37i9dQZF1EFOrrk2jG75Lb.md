@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 54 | [Fuego Con Fuego](https://open.spotify.com/track/4pqBrW3WShZxsDVwdj384q) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:56 |
 | 55 | [Perfume](https://open.spotify.com/track/35jmQJNmRDUeu0eksdjJQh) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:08 |
 | 56 | [Puede Ser Amor](https://open.spotify.com/track/4FrlpHVNDoCJGwlwlh3SUa) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:17 |
-| 57 | [Jack el Reprobador](https://open.spotify.com/track/64TA9g90KKv6iFkqNQSWzR) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:09 |
-| 58 | [Mentí](https://open.spotify.com/track/0EDMeCkkHQz5XXffoxm9CA) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 4:04 |
+| 57 | [Mentí](https://open.spotify.com/track/0EDMeCkkHQz5XXffoxm9CA) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 4:04 |
+| 58 | [Jack el Reprobador](https://open.spotify.com/track/64TA9g90KKv6iFkqNQSWzR) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:09 |
 | 59 | [Soy Lo Que Soy](https://open.spotify.com/track/0neDKfG6Ed41pLCo5sXlGR) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:19 |
 | 60 | [Sobrenatural](https://open.spotify.com/track/6K1DkPu4xY6HgU3BjSE0Z9) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:37 |
 | 61 | [Para Querer Como Te Quiero](https://open.spotify.com/track/0fXMkVHE6cCAwH2Ydyy9g9) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:43 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 75 | [Mi Navidá \(Pa Pedirte A Ti\)](https://open.spotify.com/track/5tcxo91GPmSVgMEw8r0TzB) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 3:02 |
 | 76 | [Un Ángel De Dios \(Aleluya\)](https://open.spotify.com/track/5Q02SSgigCQRCysAyDto0J) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 3:36 |
 
-Snapshot ID: `AcDAUAAAAAAunEq2jI4yKNlnQ4aESalU`
+Snapshot ID: `AcDF8AAAAADWge0mC0xZmyK+sxQW9PPP`

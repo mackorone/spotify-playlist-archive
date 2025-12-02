@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 7594,
+  "num_followers": 7610,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAADM8sqyeKs10ilxoY5eAUj6",
+  "snapshot_id": "aSuJAAAAAADcvC+SZhdJfCJSzUWyNfJr",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+        "name": "El-Chapo",
+        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
       },
       "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 141674,
-      "name": "Run from God",
-      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
+      "duration_ms": 150508,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7p0zRjSeJu091IdVihXMHt"
     },
     {
       "added_at": null,
@@ -135,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El-Chapo",
-        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
       "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 150508,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7p0zRjSeJu091IdVihXMHt"
+      "duration_ms": 141674,
+      "name": "Run from God",
+      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
     },
     {
       "added_at": null,
@@ -603,22 +603,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+        "name": "Ali (Remix)",
+        "url": "https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv"
       },
       "artists": [
+        {
+          "name": "Steven Adeoye",
+          "url": "https://open.spotify.com/artist/0mXiMVr0qnRXZDogkEPgF6"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         },
         {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
         }
       ],
-      "duration_ms": 188737,
-      "name": "Oba (feat. Barry Jhay)",
-      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
+      "duration_ms": 202301,
+      "name": "Ali (Remix)",
+      "url": "https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg"
     },
     {
       "added_at": null,
@@ -643,26 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali (Remix)",
-        "url": "https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv"
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
       "artists": [
-        {
-          "name": "Steven Adeoye",
-          "url": "https://open.spotify.com/artist/0mXiMVr0qnRXZDogkEPgF6"
-        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         },
         {
-          "name": "Portable",
-          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
         }
       ],
-      "duration_ms": 202301,
-      "name": "Ali (Remix)",
-      "url": "https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg"
+      "duration_ms": 188737,
+      "name": "Oba (feat. Barry Jhay)",
+      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
     },
     {
       "added_at": null,

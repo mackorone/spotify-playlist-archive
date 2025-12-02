@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 83901,
+  "num_followers": 83900,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACLMKWohLzxuUPo1U8qCM5r",
+  "snapshot_id": "aSuJAAAAAABQWCRjFEezgRUAfNh9PrZ3",
   "tracks": [
     {
       "added_at": null,
@@ -135,46 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All My Women",
-        "url": "https://open.spotify.com/album/4FoXl09p5HGAdf9UdTCo67"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "All My Women",
-      "url": "https://open.spotify.com/track/7v35UanWstlGp0icYiAH44"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 205767,
-      "name": "red (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/6GBXOabwqSAI5A75F3FruX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -199,6 +159,46 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/2tev2oEdAUyNtR1U8gQ8c4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 205767,
+      "name": "red (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/6GBXOabwqSAI5A75F3FruX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All My Women",
+        "url": "https://open.spotify.com/album/4FoXl09p5HGAdf9UdTCo67"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "All My Women",
+      "url": "https://open.spotify.com/track/7v35UanWstlGp0icYiAH44"
     },
     {
       "added_at": null,

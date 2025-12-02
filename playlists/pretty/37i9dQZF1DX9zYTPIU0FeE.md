@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: giuliette price
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,522 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,523 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 31 | [kulungile](https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [kulungile](https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9) | 5:46 |
 | 32 | [Elusive Freedom](https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3) | [Billy Monama](https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m), [MoAfrika Wa Mokgathi](https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs) | [The Y\-Factor Project](https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s) | 4:18 |
 | 33 | [The Aha Moment](https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq), [Zuko Collective](https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK) | [Tones of Epiphany](https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea) | 6:02 |
-| 34 | [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 |
-| 35 | [The Anchor](https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [The Seed](https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8) | 4:31 |
+| 34 | [The Anchor](https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [The Seed](https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8) | 4:31 |
+| 35 | [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 |
 | 36 | [Homecoming \(Part 1\) \- Revisited](https://open.spotify.com/track/1S62PSTgmuEycOj5qJvjOH) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W), [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha), [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Homecoming \(Part 1\) \[Revisited\]](https://open.spotify.com/album/3L92zDOHjNuj33K1jWZJjT) | 6:11 |
 | 37 | [People of the South](https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu) | [Viwe Mkizwana Ensemble](https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4) | [People of the South](https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd) | 5:45 |
 | 38 | [Bawo Ndi Xolele \(Hymn\)](https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq) | [Billy Monama](https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m) | [The Y\-Factor Project](https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s) | 3:30 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-278 songs - 14 hr 27 min
+279 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [For Every Fish](https://open.spotify.com/track/3AmHpajlAdhKPKO42JoHyh) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 3:44 | 2024-07-24 |  |
 | [Free and Equal Blues](https://open.spotify.com/track/6lhdFMZRCRwPGvwYe4bXcP) | [Josh White](https://open.spotify.com/artist/0nZxdWJcomHivMW1UwCKQb) | [The Story Of John Henry..\. A Musical Narrative](https://open.spotify.com/album/66z5jhUnq0p2Nh1ChBoYdu) | 3:51 | 2024-07-24 |  |
 | [Frosty \- Single Version](https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Truckin' With Albert Collins](https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj) | 3:05 | 2024-07-24 | 2025-06-28 |
-| [Fun To Be Fooled](https://open.spotify.com/track/00L8X3IhFXxBnGRDPmKoYC) | [Teddi King/John Meyer](https://open.spotify.com/artist/6IhptixFXSsZosa9MWOrYZ) | [Teddi King, Live at The Painted Pony](https://open.spotify.com/album/6sMYdzmRwcCsdYZN3mbPHD) | 2:16 | 2024-07-24 |  |
+| [Fun To Be Fooled](https://open.spotify.com/track/0SfMN5K2PRkv4XF4LSPg0p) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Love Is The Thing](https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0) | 3:31 | 2025-12-01 |  |
+| [Fun To Be Fooled](https://open.spotify.com/track/00L8X3IhFXxBnGRDPmKoYC) | [Teddi King/John Meyer](https://open.spotify.com/artist/6IhptixFXSsZosa9MWOrYZ) | [Teddi King, Live at The Painted Pony](https://open.spotify.com/album/6sMYdzmRwcCsdYZN3mbPHD) | 2:16 | 2024-07-24 | 2025-12-02 |
 | [God's Country \(Remastered 2022\)](https://open.spotify.com/track/4j6CpdQi6vaMe5i4OhCAZq) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa) | [Remastered Classics, Vol\. 234: Al Jolson](https://open.spotify.com/album/6UFQ8p3IkdCn6nj2fhzWJV) | 2:43 | 2024-07-24 |  |
 | [Green Eyes](https://open.spotify.com/track/32TC1Ay0ccXZz8zSTHq5Jx) | [Tommy Dorsey / Jimmy Dorsey](https://open.spotify.com/artist/4gRI1O2PDMRfIV1pFShRcj) | [The Dorsey Brothers](https://open.spotify.com/album/2UfILZ3cxaEgaXYjeikYEe) | 3:15 | 2024-07-24 |  |
 | [Happiest Girl in the World](https://open.spotify.com/track/4EAfQBOMsisU159cHoBxAl) | [Plus 4](https://open.spotify.com/artist/7bwxKK7KGQ37lZ1Fv0Neta) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:45 | 2024-07-24 | 2025-06-28 |

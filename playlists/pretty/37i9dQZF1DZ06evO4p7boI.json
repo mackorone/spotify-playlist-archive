@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95978,
+  "num_followers": 95971,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACPSfe5pc7qJsx8HxAWqYMj",
+  "snapshot_id": "aSuJAAAAAAC3D6d2E2Fdh/KeeiHkiIvF",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "YOU (FT DON TOLIVER)",
-      "url": "https://open.spotify.com/track/6cvbYMdlVhoAXIpQDmrcIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drip Season 3 (Deluxe)",
         "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 219816,
       "name": "Car Sick (feat. NAV & Metro Boomin)",
       "url": "https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "YOU (FT DON TOLIVER)",
+      "url": "https://open.spotify.com/track/6cvbYMdlVhoAXIpQDmrcIf"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Intentions",
-        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 188117,
-      "name": "Codeine (feat. Gunna)",
-      "url": "https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daytona (Remix)",
         "url": "https://open.spotify.com/album/2QLjscrXJ2ZsWL7VM20mjr"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 219741,
       "name": "Daytona - Remix",
       "url": "https://open.spotify.com/track/6YRxtTysuvoAvo4aTOmQmv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 188117,
+      "name": "Codeine (feat. Gunna)",
+      "url": "https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 204363,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 228106,
       "name": "Held Me Down",
       "url": "https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 204363,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Good For It",
-      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Habits (Deluxe)",
         "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 217775,
       "name": "Price On My Head (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Good For It",
+      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rexdale",
         "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 125093,
       "name": "Rexdale",
       "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "NAV",
-      "url": "https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "88GLAM RELOADED",
         "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 185316,
       "name": "Bali",
       "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "NAV",
+      "url": "https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX"
     },
     {
       "added_at": null,
@@ -995,8 +995,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "REAL ME",
-        "url": "https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX"
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
       "artists": [
         {
@@ -1004,13 +1004,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 187213,
-      "name": "REAL ME (WITH METRO BOOMIN)",
-      "url": "https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm"
+      "duration_ms": 164937,
+      "name": "Interstellar (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy"
     }
   ],
   "unique_name": "This Is NAV",

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Pabst
 
-1,761 songs - 4 day 5 hr 51 min
+1,762 songs - 4 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1048,7 +1048,7 @@
 | [Nintendo](https://open.spotify.com/track/4gXOQMPhk5B1h0hXcT5oQD) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [Nintendo](https://open.spotify.com/album/1hiENPjpnZ7ih4hMKTbjEy) | 2:21 | 2024-11-28 | 2024-12-13 |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-08-29 | 2024-10-18 |
 | [No Angels](https://open.spotify.com/track/0rILJVRD7waDGOFzoyruI2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [No Angels](https://open.spotify.com/album/5cGHWAoS3cGwU9eYTH3mSm) | 3:52 | 2023-06-15 | 2023-06-23 |
-| [no cell phones in rehab](https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [no cell phones in rehab](https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e) | 2:35 | 2025-10-23 |  |
+| [no cell phones in rehab](https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [no cell phones in rehab](https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e) | 2:35 | 2025-10-23 | 2025-12-02 |
 | [NO LOVE BUT FOR OUR OWN](https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ONLY ONE MODE](https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9) | 2:52 | 2024-07-11 | 2024-09-13 |
 | [No Obligation](https://open.spotify.com/track/5AnKgZ8Ctag36HxyPP5Uzn) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [No Obligation](https://open.spotify.com/album/1HVe5wBBPAASqbV4j6qhQg) | 2:06 | 2024-09-12 | 2024-10-11 |
 | [NO PAIN](https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 3:41 | 2024-03-03 | 2024-08-30 |
@@ -1204,6 +1204,7 @@
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-10-19 | 2023-11-03 |
 | [Prison of Flesh](https://open.spotify.com/track/3cg3s4m9gQkV1Aqp0yBP56) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Prison of Flesh](https://open.spotify.com/album/2nyNqY9t8kn8m1nwLSxEtC) | 7:00 | 2025-08-21 | 2025-09-29 |
 | [Private](https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Private](https://open.spotify.com/album/3ZHB2EDswWPDigqKXI59CL) | 3:49 | 2025-10-23 |  |
+| [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 | 2025-11-27 |  |
 | [Prizefighter](https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Prizefighter](https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq) | 3:20 | 2025-04-03 | 2025-05-30 |
 | [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 | 2023-05-25 | 2023-06-02 |
 | [Prove It To You](https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Prove It To You](https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J) | 3:20 | 2024-01-25 | 2024-02-02 |

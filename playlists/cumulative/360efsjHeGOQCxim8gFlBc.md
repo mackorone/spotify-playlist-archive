@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-841 songs - 1 day 11 hr 0 min
+842 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [As It Was \(Piano Version\)](https://open.spotify.com/track/5H8qAeA04uTyHv0vpeSadp) | [Hiki](https://open.spotify.com/artist/20qqzVa018cvVt0IyqYFqn) | [As It Was \(Piano Version\)](https://open.spotify.com/album/402BVU2hPJfSUmzKEEWwJD) | 1:22 | 2024-06-17 | 2025-03-02 |
 | [as the wind dances through the forest](https://open.spotify.com/track/58rT93fl1bbt6J4TvTVzJO) | [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl) | [as the wind dances through the forest](https://open.spotify.com/album/12weKSiYCtIQQqLDWFAIig) | 3:05 | 2024-10-23 |  |
 | [Asakusa](https://open.spotify.com/track/6ZYbTKGo2UHcg1sFg1VMsQ) | [Allen Tando](https://open.spotify.com/artist/56yauq6SV97pFLOzLlRCh2) | [Osomi](https://open.spotify.com/album/6H5ce94u4568qLVSouNzL8) | 1:27 | 2024-09-06 | 2025-05-20 |
+| [Ashes to Light](https://open.spotify.com/track/38mcTF43CobnLIciJC3LMW) | [Moein Zand](https://open.spotify.com/artist/7l7vY4LOPGfYb0btc0RyO1) | [Ashes to Light](https://open.spotify.com/album/5CxeVObRoBH2RVwWflGbrh) | 3:12 | 2025-12-01 |  |
 | [Astral Observatory \- Majora's Mask \(Sleepy Felt Piano\)](https://open.spotify.com/track/6Hn7BfYPhO63aMx8hJLXnP) | [setsaile](https://open.spotify.com/artist/5JZA3oo7AiWrmEYV3hVp1U) | [Astral Observatory \- Majora's Mask \(Sleepy Felt Piano\)](https://open.spotify.com/album/04bjQcaIXabkOgzqmn4KZH) | 1:34 | 2024-08-04 | 2025-06-24 |
 | [autumn](https://open.spotify.com/track/6NnFQH4FERhMyrfgpprjPT) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi) | [autumn](https://open.spotify.com/album/3WmVPJ4IwYAuzHgbxYX7Va) | 2:24 | 2024-09-06 |  |
 | [Autumn Air](https://open.spotify.com/track/4bIz6WIScPS9dVAd3zV99p) | [Tanner Christian Gesek](https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC) | [Charisma](https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9) | 2:59 | 2024-07-12 | 2025-02-15 |

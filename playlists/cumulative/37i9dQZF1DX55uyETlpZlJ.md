@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Swarathma
 
-592 songs - 1 day 9 hr 41 min
+593 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Geeya Geeya](https://open.spotify.com/track/6XJf6jtozUGfOEmswsp8So) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Michael League](https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9), [Praveen D Rao](https://open.spotify.com/artist/72CnTX4NMeDFpxPrEoV0MJ) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 5:09 | 2024-07-08 | 2025-01-03 |
 | [Gelati Agidi Nanninda Doora](https://open.spotify.com/track/03mPHnV5h5dqKNiFMzFLjk) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst) | [Gelati Agidi Nanninda Doora](https://open.spotify.com/album/7CQocbwTKk7fwvFZeK20oO) | 9:20 | 2025-08-22 |  |
 | [Gelthinallo](https://open.spotify.com/track/67aund6DgSswfEy1lkMyZD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Gelthinallo](https://open.spotify.com/album/1lwlU3A6anSNGgR8U0gZ1U) | 3:31 | 2024-03-14 | 2024-08-04 |
-| [Giliyu Panjaradolilla](https://open.spotify.com/track/0tiXZfVfKlUrSyYEBIGGoG) | [Shruthi S Bhat](https://open.spotify.com/artist/16nJsLk3LarQFlCXziGg3y) | [Giliyu Panjaradolilla](https://open.spotify.com/album/7Ddee1QHeZUNaJ62PvjVvI) | 6:42 | 2025-08-07 |  |
+| [Giliyu Panjaradolilla](https://open.spotify.com/track/0tiXZfVfKlUrSyYEBIGGoG) | [Shruthi S Bhat](https://open.spotify.com/artist/16nJsLk3LarQFlCXziGg3y) | [Giliyu Panjaradolilla](https://open.spotify.com/album/7Ddee1QHeZUNaJ62PvjVvI) | 6:42 | 2025-08-07 | 2025-12-02 |
 | [Good Night](https://open.spotify.com/track/2on44Nj5lhjWRTcdJfVcu8) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Good Night](https://open.spotify.com/album/6zCkPLOYgZWOy2dPPkB7ac) | 3:52 | 2022-10-20 | 2023-12-20 |
 | [Good Vibe](https://open.spotify.com/track/1sAUWodQtglnQ3RqVbRLxj) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Good Vibe](https://open.spotify.com/album/52RcOVDsrNbqrDAnCesUnq) | 2:17 | 2024-02-26 | 2024-08-13 |
 | [Gundige](https://open.spotify.com/track/4Bo1YL88CMFQHL8XbjL3jT) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Gundige](https://open.spotify.com/album/3RGZ5Ru3es7BmdlKM4Eq1A) | 2:51 | 2025-02-24 | 2025-07-17 |
@@ -442,6 +442,7 @@
 | [Ninnolava Kaanuninalli](https://open.spotify.com/track/5W57cmj8AzPqZpOvzO1kBZ) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnolava Kaanuninalli](https://open.spotify.com/album/6JWKtJQqms2ZFW8qhFaiR5) | 5:05 | 2023-01-05 | 2023-06-08 |
 | [Ninnolavina Aasare](https://open.spotify.com/track/5D1X2g1faG74urU0MI5HFg) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Aasare](https://open.spotify.com/album/1G5Pnfrg6iQfxe28J74nN7) | 1:36 | 2023-05-25 | 2023-06-08 |
 | [Ninnolavina Aasare](https://open.spotify.com/track/3x3Esiey1grIJ0edTcpxAh) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Ninnolavina Aasare](https://open.spotify.com/album/4ADpZeIj6CBNRZ3jVYLVkd) | 1:36 | 2023-05-25 | 2023-06-01 |
+| [Nirantara](https://open.spotify.com/track/3AzK1YCgsKjZNh1zZO5nyd) | [RaiSon](https://open.spotify.com/artist/7BeOC4noWoC7o7zTeHkVJc) | [Nirantara](https://open.spotify.com/album/0DueM5onD2FCW81jJpQmFT) | 2:17 | 2025-12-01 |  |
 | [No Filter](https://open.spotify.com/track/6CnlSin1nGk5D1V4OzTq4m) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [No Filter](https://open.spotify.com/album/4cD3N1DB3lvV7YIJabNq60) | 3:20 | 2022-12-09 | 2024-02-02 |
 | [NUMB](https://open.spotify.com/track/3DaHvW5MRZiVisfICBbblu) | [VishwxsMUZiK](https://open.spotify.com/artist/5klwYQTdqW2U8RTVvykN5Y), [YNG DADDY](https://open.spotify.com/artist/4oPBODU08L7Gva8y6eiN20) | [NUMB](https://open.spotify.com/album/6TXFBkH8hdPSrAp25sHynT) | 3:51 | 2025-04-09 | 2025-09-07 |
 | [O Priya](https://open.spotify.com/track/0zM0oVvm8YBCdirTyPMAx2) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i), [Ismail Attar](https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31) | [O Priya](https://open.spotify.com/album/1nZighCTs9RhIBA5gGlxsK) | 5:08 | 2023-06-08 | 2023-09-01 |

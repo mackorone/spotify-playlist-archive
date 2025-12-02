@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "El Dilema",
+        "url": "https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen"
+      },
+      "artists": [
+        {
+          "name": "Jules Daud",
+          "url": "https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154180,
+      "name": "El Dilema",
+      "url": "https://open.spotify.com/track/4agirhYgist2lFc31siLMJ"
+    },
+    {
+      "album": {
         "name": "Eliza",
         "url": "https://open.spotify.com/album/1fdfeMzHPdAI4JmFlslw7W"
       },
@@ -654,6 +672,24 @@
       "duration_ms": 245234,
       "name": "King Tide",
       "url": "https://open.spotify.com/track/0oOfLzw44wpabfgz4GcZhU"
+    },
+    {
+      "album": {
+        "name": "La Muerte No Es El Final",
+        "url": "https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2"
+      },
+      "artists": [
+        {
+          "name": "Demonios Del Cielo",
+          "url": "https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301642,
+      "name": "La Muerte No Es El Final",
+      "url": "https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv"
     },
     {
       "album": {

@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Seraphic Whisper",
+        "url": "https://open.spotify.com/album/3uzuuzA6r2Po42yaiqOS0F"
+      },
+      "artists": [
+        {
+          "name": "Lily Quinn",
+          "url": "https://open.spotify.com/artist/2vDtkusMUDE17BfHasvShX"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Gregorian Time",
+      "url": "https://open.spotify.com/track/2GLBxwXrIY5P2kHzZDAtek"
+    },
+    {
+      "album": {
         "name": "En Fin",
         "url": "https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8"
       },
@@ -1626,6 +1644,24 @@
       "duration_ms": 225456,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/3bJmToSAKBi018GPh5dZk5"
+    },
+    {
+      "album": {
+        "name": "A Day in LA",
+        "url": "https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1"
+      },
+      "artists": [
+        {
+          "name": "Willie of Wilshire",
+          "url": "https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172311,
+      "name": "In My Lowrider",
+      "url": "https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6"
     },
     {
       "album": {

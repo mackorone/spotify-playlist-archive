@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,584 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,595 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 46 | [Profuga](https://open.spotify.com/track/5kLnAf93pPAcEnIzzghQEL) | [Alex Got](https://open.spotify.com/artist/16fOP8AoBwsszz9nX0qbnX), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Profuga](https://open.spotify.com/album/7nfQMiQI7qyUqAz2feazuc) | 3:21 |
 | 47 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
 | 48 | [Imposible](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Imposible](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
-| 49 | [Chakalicious](https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Chakalicious](https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC) | 3:19 |
-| 50 | [Tanto Fronteo](https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk) | [King Goyi](https://open.spotify.com/artist/3IABS6mmasQ8f1YOsOmBCs), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Team Mati](https://open.spotify.com/artist/6QkRTiYDDBNkxcvnxaeAd2) | [Tanto Fronteo](https://open.spotify.com/album/27PL5DSMr3hRU6TOYeQFKp) | 4:57 |
+| 49 | [Tanto Fronteo](https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk) | [King Goyi](https://open.spotify.com/artist/3IABS6mmasQ8f1YOsOmBCs), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Team Mati](https://open.spotify.com/artist/6QkRTiYDDBNkxcvnxaeAd2) | [Tanto Fronteo](https://open.spotify.com/album/27PL5DSMr3hRU6TOYeQFKp) | 4:57 |
+| 50 | [Chakalicious](https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Chakalicious](https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC) | 3:19 |
 | 51 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 |
 | 52 | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0) | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX) | 3:01 |
 | 53 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 |
 | 54 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
 | 55 | [Nada Formal](https://open.spotify.com/track/5kvlGR3K69Hk3a3DwfJQED) | [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Nada Formal](https://open.spotify.com/album/27e20XRLAglZv8waxqEeWz) | 4:29 |
 | 56 | [Cada Vez](https://open.spotify.com/track/3x7Xpx7MG91amARyT0wmZ3) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cada Vez](https://open.spotify.com/album/31SngBc9PCn2qDix3g745R) | 3:37 |
-| 57 | [Quiero Verte](https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Quiero Verte](https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn) | 2:54 |
+| 57 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
 | 58 | [X Ti Lo Digo](https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [X Ti Lo Digo](https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM) | 3:11 |
-| 59 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
+| 59 | [Quiero Verte](https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Quiero Verte](https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn) | 2:54 |
 | 60 | [Más Papel](https://open.spotify.com/track/2guH6Iwas87W7c4QjgLot7) | [Axel Guerra](https://open.spotify.com/artist/5Pi482fNZrF0kD8nyhDtvo), [Castro Angel](https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr) | [Más Papel](https://open.spotify.com/album/6PFtQgbQ6fVrf2sTKBgzn1) | 2:32 |
 
 Snapshot ID: `AAAAABE69jK4HKFjcNEnfNirvojHFFSa`

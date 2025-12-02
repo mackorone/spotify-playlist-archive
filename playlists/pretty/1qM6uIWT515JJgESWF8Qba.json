@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 239,
+  "num_followers": 244,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAAyZTZnymod8gBEFha7MPbVvJ+IfIL",
+  "snapshot_id": "AAAAy4GEBEeZPiYuC15kzRNfxw+CL9rs",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1095,6 +1095,38 @@
       "duration_ms": 327750,
       "name": "Overthrown",
       "url": "https://open.spotify.com/track/4aGCFWNgI4vUq9y9XuoVQA"
+    },
+    {
+      "added_at": "2025-12-01 16:49:05",
+      "album": {
+        "name": "La Muerte No Es El Final",
+        "url": "https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2"
+      },
+      "artists": [
+        {
+          "name": "Demonios Del Cielo",
+          "url": "https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm"
+        }
+      ],
+      "duration_ms": 301642,
+      "name": "La Muerte No Es El Final",
+      "url": "https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv"
+    },
+    {
+      "added_at": "2025-12-01 18:40:27",
+      "album": {
+        "name": "El Dilema",
+        "url": "https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen"
+      },
+      "artists": [
+        {
+          "name": "Jules Daud",
+          "url": "https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI"
+        }
+      ],
+      "duration_ms": 154180,
+      "name": "El Dilema",
+      "url": "https://open.spotify.com/track/4agirhYgist2lFc31siLMJ"
     }
   ],
   "unique_name": "Local Rock Bands",

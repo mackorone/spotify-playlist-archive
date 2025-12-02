@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,868 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,869 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 25 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 | 26 | [CEO of the friendship group](https://open.spotify.com/track/0LBvqSkfl9FgOuKYg04l1s) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [CEO of the friendship group](https://open.spotify.com/album/1s7zUfyNtrsXXoKvRGrNV1) | 1:48 |
 | 27 | [Quien Tengo Que Ser](https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn) | 4:27 |
-| 28 | [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 |
-| 29 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 |
+| 28 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 |
+| 29 | [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 |
 | 30 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 |
 | 31 | [My Future](https://open.spotify.com/track/0RRxs3flR3IsEYcaqXXpoe) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/4BKCOeBgzagiMFZxYA5buw) | 2:35 |
 | 32 | [half of my heart](https://open.spotify.com/track/2pwrXRM5OHVxvd7D5yqoDO) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [half of my heart](https://open.spotify.com/album/34bZ5TOjUZJ3qfnCPiG49t) | 3:38 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 39 | [falco](https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:29 |
 | 40 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
 | 41 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
-| 42 | [Falling Behind](https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Falling Behind](https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw) | 3:48 |
-| 43 | [Blue Voyage](https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [REIA](https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6) | [Blue Voyage](https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw) | 4:14 |
+| 42 | [Blue Voyage](https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [REIA](https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6) | [Blue Voyage](https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw) | 4:14 |
+| 43 | [Falling Behind](https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Falling Behind](https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw) | 3:48 |
 | 44 | [Spiral City](https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [The CARR Show](https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ) | 2:29 |
 | 45 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 |
 | 46 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 51 | [Nobody](https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y) | [Nobody](https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od) | 3:02 |
 | 52 | [Tell Me Something](https://open.spotify.com/track/7qghdTl0t1CSalzT6s9w85) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Welcome Home](https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P) | 4:17 |
 | 53 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 |
-| 54 | [Best Case Girl](https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [Best Case Girl](https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu) | 2:51 |
-| 55 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 |
+| 54 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 |
+| 55 | [Best Case Girl](https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [Best Case Girl](https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu) | 2:51 |
 | 56 | [little miss misogyny](https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [little miss misogyny](https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS) | 2:27 |
-| 57 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
-| 58 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 |
+| 57 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 |
+| 58 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
 | 59 | [While You Were Sleeping](https://open.spotify.com/track/7kWOuJFd1UenmFrr9z64H9) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [While You Were Sleeping](https://open.spotify.com/album/6tmcv5Ex2UwhFvNXScwD44) | 3:34 |
-| 60 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
-| 61 | [Crashland](https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Crashland](https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT) | 2:42 |
+| 60 | [Crashland](https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Crashland](https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT) | 2:42 |
+| 61 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
 | 62 | [LA DROGA ES MIA \(Yuca\_Ab\_120BPM\)](https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:15 |
 | 63 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
 | 64 | [Gulabi](https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Gulabi](https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4) | 2:45 |

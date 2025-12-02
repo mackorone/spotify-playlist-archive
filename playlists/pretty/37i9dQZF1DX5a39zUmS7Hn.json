@@ -1,6 +1,6 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Buckingham Nicks",
-  "num_followers": 589495,
+  "num_followers": 589652,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 259933,
       "name": "Drops of Jupiter (Tell Me)",
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "London Calling (Remastered)",
         "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 199703,
       "name": "London Calling - Remastered",
       "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 351626,
-      "name": "Common People - Full Length Version",
-      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
       "artists": [
         {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+      "duration_ms": 351626,
+      "name": "Common People - Full Length Version",
+      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -883,6 +867,22 @@
       "duration_ms": 713191,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Black Sabbath",
-        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
         }
       ],
-      "duration_ms": 262493,
-      "name": "The Wizard - 2009 Remaster",
-      "url": "https://open.spotify.com/track/02VKxjok07ypt3oFlGRjmH"
+      "duration_ms": 444053,
+      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
     },
     {
       "added_at": "2025-07-24 23:00:27",

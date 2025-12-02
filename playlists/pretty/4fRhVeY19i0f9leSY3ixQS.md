@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,056 likes - 263 songs - 14 hr 56 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,055 likes - 268 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -271,5 +271,10 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 261 | [dark haze](https://open.spotify.com/track/72H4KQmCvxUMO51re1lEPb) | [lunar celestia](https://open.spotify.com/artist/4HmcZK8JsIxzQZQnEOrFOb) | [dark haze](https://open.spotify.com/album/6LllUPvX8egR8bLWXS8kH3) | 2:52 |
 | 262 | [Integration](https://open.spotify.com/track/3OJdvSdzZbYC1tXtalZaNW) | [Ape Bucket](https://open.spotify.com/artist/18wqhsjlZgcc68jrcsum08) | [Integration](https://open.spotify.com/album/4FaXkw9MRR791Q3weqGjj0) | 2:34 |
 | 263 | [社畜 Shachiku](https://open.spotify.com/track/0N4EbvbxeRYTrfROmbGIPD) | [ASK I FALL](https://open.spotify.com/artist/4uMaST3Kqi6sKwECsMoTKp) | [社畜 Shachiku](https://open.spotify.com/album/51KVyM9mGolhRVVDnAzre9) | 3:38 |
+| 264 | [Remember Lady](https://open.spotify.com/track/4BO9dmX7Yuh5gF9vA1KWW8) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Let's Greet the Sunrise](https://open.spotify.com/album/5XlQowlA1XmId9UjzxhS4K) | 3:15 |
+| 265 | [Exciō](https://open.spotify.com/track/2ddPIXFkaAlgHc00Q0Da1d) | [IDŌL](https://open.spotify.com/artist/3nmBN4kK0iZ0yoYymH7RMS) | [Exciō](https://open.spotify.com/album/1CjeSNtmby1vmXZxwcRp6g) | 3:53 |
+| 266 | [Is This Love](https://open.spotify.com/track/3qkIQpy37KifoBtajiiTYN) | [Stoned Waves](https://open.spotify.com/artist/6C2X50bk3vmp75os3ZQNPs) | [Until the Planets Crash](https://open.spotify.com/album/7jzDqWgpugP45YLUb24gtN) | 5:11 |
+| 267 | [Shortchanged Even Shorter](https://open.spotify.com/track/3yUpbRXgwt0yftpRTlfeRK) | [FILIBUSTER](https://open.spotify.com/artist/67XEaD84geoRWd6v4kno3L) | [Shortchanged Even Shorter](https://open.spotify.com/album/4imrwR8PREQhfAsQKkfIeE) | 3:03 |
+| 268 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 |
 
-Snapshot ID: `AAAH46aoLmOzKwJqDKA/98wKwDHMcvvb`
+Snapshot ID: `AAAH6BRv23Tx7mmDS83osv0AMSidCEm7`

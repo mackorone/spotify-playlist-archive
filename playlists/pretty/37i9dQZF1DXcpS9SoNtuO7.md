@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,151 likes - 102 songs - 20 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,153 likes - 102 songs - 20 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

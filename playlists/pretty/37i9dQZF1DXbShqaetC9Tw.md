@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,158 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,143 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 44 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
 | 45 | [MOVIE](https://open.spotify.com/track/4VnBF5nptyzyiY9AKJ95z9) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [bright \#9](https://open.spotify.com/album/44LkNR2ydGI4qVdaDPgEBg) | 3:00 |
 | 46 | [Our FIlm](https://open.spotify.com/track/0YcrevMPRQzfxX0I0Q9efv) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Fishtank](https://open.spotify.com/album/5G3wdVrYfbkdIi6C0PkVtt) | 3:38 |
-| 47 | [wwwe](https://open.spotify.com/track/4odCTjcPKGVc0sMI1ezSVL) | [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [wwwe](https://open.spotify.com/album/58L2BUfuMMjK2tZv8dMSyv) | 3:42 |
-| 48 | [How could I say](https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [How could I say](https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw) | 2:40 |
+| 47 | [How could I say](https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [How could I say](https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw) | 2:40 |
+| 48 | [wwwe](https://open.spotify.com/track/4odCTjcPKGVc0sMI1ezSVL) | [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [wwwe](https://open.spotify.com/album/58L2BUfuMMjK2tZv8dMSyv) | 3:42 |
 | 49 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 50 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 |
 

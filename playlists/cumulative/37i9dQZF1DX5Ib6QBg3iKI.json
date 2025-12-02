@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Joy To The World",
+        "url": "https://open.spotify.com/album/6CEUCfBMzOnnzVcRDd9CCZ"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325360,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2TyrQS9gC73SSPlu2IEQjP"
+    },
+    {
+      "album": {
         "name": "Songs For Christmas",
         "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
       },
@@ -3544,7 +3562,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 133866,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4ricyQVd20UQde1jpXCSuJ"

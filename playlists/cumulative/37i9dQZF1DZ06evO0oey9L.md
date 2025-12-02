@@ -4,14 +4,14 @@
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-120 songs - 5 hr 57 min
+121 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Iniciales NC](https://open.spotify.com/track/0Y0qqu5lwjtQFzDfYgODls) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 4:06 | 2022-06-01 | 2023-01-14 |
 | [A Lo Lejos Me Veran](https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:28 | 2022-06-01 |  |
 | [Ace of Spades](https://open.spotify.com/track/5NAJzQnVtRPmug4PcwiFgm) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Christian Zepeda](https://open.spotify.com/artist/1OOzpB4qc8zndHFs9O4dzo) | [Ace of Spades](https://open.spotify.com/album/4gvnBYrlVxacLhUeBfuIqr) | 3:00 | 2024-12-20 | 2025-07-19 |
-| [Al Millon Ando Yo](https://open.spotify.com/track/6NvAr4wSu5QmZjv141KRoZ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 2:24 | 2024-07-27 |  |
+| [Al Millon Ando Yo](https://open.spotify.com/track/6NvAr4wSu5QmZjv141KRoZ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 2:24 | 2024-07-27 | 2025-12-02 |
 | [Al Niño Le Gusta Lo Bueno](https://open.spotify.com/track/0osBwuy7W8a7H0HkPPTDgn) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:54 | 2022-07-23 | 2022-08-11 |
 | [Al Niño Le Gusta Lo Bueno](https://open.spotify.com/track/1c6ilYnCPdP1BiFN6qi0Dy) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:54 | 2022-08-10 | 2023-10-11 |
 | [Alex Valencia](https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:18 | 2023-10-04 | 2025-08-12 |
@@ -82,6 +82,7 @@
 | [Me Dicen Rana y Brinco](https://open.spotify.com/track/3VJHjovNyzkOw4CUdXOp6Y) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Job Gallegos](https://open.spotify.com/artist/76lYBIbMnUBukvLlYZFGrH), [Cuadra Distante](https://open.spotify.com/artist/18YbbzNXbzfAYvguEzcQ5D) | [Me Dicen Rana y Brinco](https://open.spotify.com/album/3ecvio5Id4s2NCOHMWKFbf) | 3:08 | 2024-03-21 | 2024-09-17 |
 | [Me Prendo Un Gallito](https://open.spotify.com/track/5VE64Tvg3eS8eBhL1kKMqH) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:08 | 2023-10-01 | 2024-06-01 |
 | [Me Pueden Juzgar](https://open.spotify.com/track/1jtw4JaOsoFCWflmycd1fD) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Me Pueden Juzgar](https://open.spotify.com/album/3QDHcul1zZ2aZZQo860HMI) | 3:37 | 2022-06-01 | 2025-02-12 |
+| [Mi Buena Suerte](https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Mi Buena Suerte](https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH) | 2:25 | 2025-12-02 |  |
 | [Millonario y Me Retiro](https://open.spotify.com/track/5TS8Q5BGgq3PlqfySprCB4) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:59 | 2022-08-10 | 2022-10-13 |
 | [Millonario y Me Retiro](https://open.spotify.com/track/6u9KQvTQBGQ6uQ5PbqPItd) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:59 | 2022-07-26 | 2022-08-03 |
 | [Miran La Apariencia](https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:16 | 2022-06-01 |  |

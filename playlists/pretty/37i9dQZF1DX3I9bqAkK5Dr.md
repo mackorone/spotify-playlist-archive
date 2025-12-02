@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath Kiran Goparaaju
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,980 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,996 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [O Seliya](https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c) | [Ganesh Krovvidi](https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [O Seliya](https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h) | 3:29 |
 | 75 | [Maya](https://open.spotify.com/track/0y5EJMV1PE3YPDUWMN314E) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Maya](https://open.spotify.com/album/39qvG5SrtnJO2gBpl9m2mf) | 4:42 |
 
-Snapshot ID: `AAAAAEg2z4qqzNeRerTyCRO+0X6SSvVe`
+Snapshot ID: `AAAAAFIYpbbm4qdFq3to6/yvhj64EgA2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Maria Marçal
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,580 likes - 80 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,604 likes - 80 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 38 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 |
 | 39 | [Como Não Te Adorar \- Ao Vivo](https://open.spotify.com/track/0Wd7GcT9YDAKddGR2nz72n) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Como Não Te Adorar \(Ao Vivo\)](https://open.spotify.com/album/4uYjlQQM5rZiobFQS8tXM3) | 6:20 |
 | 40 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA) | 3:54 |
-| 41 | [Eu Não Era Nada](https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Não Era Nada](https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9) | 5:43 |
-| 42 | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/track/2nHSRcZHW6L75pAWfPNOHn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/album/0RXhj4IrrkcMs9Puae55n8) | 3:55 |
+| 41 | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/track/2nHSRcZHW6L75pAWfPNOHn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/album/0RXhj4IrrkcMs9Puae55n8) | 3:55 |
+| 42 | [Eu Não Era Nada](https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Não Era Nada](https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9) | 5:43 |
 | 43 | [Prioridade \(Ao Vivo\)](https://open.spotify.com/track/42xqD1YxWBXgU9ND55MqXE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Prioridade \(Ao Vivo\)](https://open.spotify.com/album/4EO1KlcmvHxJGG37PzYmDw) | 4:15 |
 | 44 | [Majestoso \(Ao Vivo\)](https://open.spotify.com/track/5ZCpz2wtswpyKMoFblb91y) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Majestoso \(Ao Vivo\)](https://open.spotify.com/album/48XqZGHMs2p9iBYiNevkWL) | 5:35 |
 | 45 | [Eu Cuido de Tudo \- Ao vivo](https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Eu Cuido de Tudo](https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ) | 7:27 |

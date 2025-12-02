@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,052 songs - 2 day 16 hr 34 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,054 songs - 2 day 16 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1060,5 +1060,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1050 | [Through This Fire](https://open.spotify.com/track/2vyWW2iSi5EQjejvF8JkXz) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Through This Fire Across from Peter Balkan](https://open.spotify.com/album/23wXSnurzNp56xCyGBPQ65) | 3:18 |
 | 1051 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 |
 | 1052 | [JoyRide](https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:37 |
+| 1053 | [Cowboying](https://open.spotify.com/track/2Kh1GlkA7DqZsAOu1iAa4Y) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [What of Our Nature](https://open.spotify.com/album/2hmp05PYZ92rxCK0cdTaZd) | 3:11 |
+| 1054 | [Armies of the Lord](https://open.spotify.com/track/1NRA6m1D5w3XbJPfs1xS3g) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Through This Fire Across from Peter Balkan](https://open.spotify.com/album/23wXSnurzNp56xCyGBPQ65) | 5:09 |
 
-Snapshot ID: `AAAHxlXhmdrRAcigfhs8qFIlnRG6Coy6`
+Snapshot ID: `AAAHyOoBbR56UL5o9uOwCv6DTWVeUuk2`

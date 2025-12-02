@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 173499,
+  "num_followers": 173507,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACW7Jt2vbqv+f5W4xR8k310",
+  "snapshot_id": "aSuJAAAAAAAWZBg41gVAHbpOINVgBpNo",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/1luu1JuZyWqBFNcssZBK8o"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 294049,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/68tUNy23zU6wic6xh67E2o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Mundo D\u00e1 Voltas",
         "url": "https://open.spotify.com/album/1fmt1VeCfsXnQTVQ9CgY8y"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 342928,
       "name": "A Laje",
       "url": "https://open.spotify.com/track/0EXqaE8m9hSzNrO9h6Yepq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/1luu1JuZyWqBFNcssZBK8o"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 294049,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/68tUNy23zU6wic6xh67E2o"
     },
     {
       "added_at": null,
@@ -526,19 +526,11 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        },
-        {
-          "name": "Thiago Ventura",
-          "url": "https://open.spotify.com/artist/5fk2j97tfvbVybgZvWmhs0"
         }
       ],
-      "duration_ms": 292013,
-      "name": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
-      "url": "https://open.spotify.com/track/78m3BiWZ2dLGzElYwrIfFD"
+      "duration_ms": 335600,
+      "name": "Canan\u00e9ia, Iguape e Ilha Comprida",
+      "url": "https://open.spotify.com/track/3aXbjjFVHC86pSZey62vbS"
     },
     {
       "added_at": null,
@@ -610,11 +602,19 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        },
+        {
+          "name": "Thiago Ventura",
+          "url": "https://open.spotify.com/artist/5fk2j97tfvbVybgZvWmhs0"
         }
       ],
-      "duration_ms": 335600,
-      "name": "Canan\u00e9ia, Iguape e Ilha Comprida",
-      "url": "https://open.spotify.com/track/3aXbjjFVHC86pSZey62vbS"
+      "duration_ms": 292013,
+      "name": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
+      "url": "https://open.spotify.com/track/78m3BiWZ2dLGzElYwrIfFD"
     },
     {
       "added_at": null,
@@ -683,62 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
-      "url": "https://open.spotify.com/track/7b10Xiz8qNbe0W1x7RVbxh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Anos de Triunfo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Ooorra - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criolo E Emicida Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "Vida Loka I - Live",
-      "url": "https://open.spotify.com/track/3KYbhVPCxYHIeZg8Zy07ay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quintal dos Prettos (Ao Vivo)",
         "url": "https://open.spotify.com/album/1Y79dwPc0O5P5nIERR6Pmv"
       },
@@ -783,22 +727,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Amor \u00c9 Tudo de Bom",
-        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
       },
       "artists": [
-        {
-          "name": "Mundo Bita",
-          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
-        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 207000,
-      "name": "O Amor \u00c9 Tudo de Bom",
-      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
+      "duration_ms": 284693,
+      "name": "Ooorra - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
+        }
+      ],
+      "duration_ms": 271840,
+      "name": "Vida Loka I - Live",
+      "url": "https://open.spotify.com/track/3KYbhVPCxYHIeZg8Zy07ay"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
+      "url": "https://open.spotify.com/track/7b10Xiz8qNbe0W1x7RVbxh"
     },
     {
       "added_at": null,
@@ -823,6 +803,26 @@
       "duration_ms": 249373,
       "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
       "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Amor \u00c9 Tudo de Bom",
+        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
+      },
+      "artists": [
+        {
+          "name": "Mundo Bita",
+          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "O Amor \u00c9 Tudo de Bom",
+      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
     },
     {
       "added_at": null,
@@ -979,26 +979,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
       },
       "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 246904,
-      "name": "NUNCA TENHA MEDO RMX - Ao Vivo",
-      "url": "https://open.spotify.com/track/3CSNLfuxKXmJDlw916US3j"
+      "duration_ms": 209480,
+      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
     },
     {
       "added_at": null,
@@ -1047,18 +1039,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
       "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 209480,
-      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
+      "duration_ms": 246904,
+      "name": "NUNCA TENHA MEDO RMX - Ao Vivo",
+      "url": "https://open.spotify.com/track/3CSNLfuxKXmJDlw916US3j"
     },
     {
       "added_at": null,

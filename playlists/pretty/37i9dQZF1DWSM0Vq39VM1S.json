@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388596,
+  "num_followers": 388558,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -219,26 +219,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        },
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        }
-      ],
-      "duration_ms": 119140,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "End of Time",
         "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
       },
@@ -251,6 +231,22 @@
       "duration_ms": 226052,
       "name": "End of Time",
       "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Still In Love",
+        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 161164,
+      "name": "Still In Love",
+      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -283,18 +279,22 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Still In Love",
-        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
         }
       ],
-      "duration_ms": 161164,
-      "name": "Still In Love",
-      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+      "duration_ms": 119140,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
+        "name": "Wally",
+        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 128332,
+      "name": "Wally",
+      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
         "name": "BIG MONEY",
         "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 215594,
       "name": "Free",
       "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
-        "name": "Wally",
-        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 128332,
-      "name": "Wally",
-      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -715,18 +715,18 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Una lunghissima ombra",
-        "url": "https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb"
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
       },
       "artists": [
         {
-          "name": "Andrea Laszlo De Simone",
-          "url": "https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh"
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
         }
       ],
-      "duration_ms": 389173,
-      "name": "Ricordo tattile",
-      "url": "https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC"
+      "duration_ms": 197136,
+      "name": "Brown Eyes",
+      "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
+        "name": "Una lunghissima ombra",
+        "url": "https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb"
       },
       "artists": [
         {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+          "name": "Andrea Laszlo De Simone",
+          "url": "https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh"
         }
       ],
-      "duration_ms": 197136,
-      "name": "Brown Eyes",
-      "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
+      "duration_ms": 389173,
+      "name": "Ricordo tattile",
+      "url": "https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Lisbon",
         "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 150656,
       "name": "Lisbon",
       "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
     },
     {
       "added_at": "2025-11-13 23:00:19",

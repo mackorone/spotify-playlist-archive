@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 1090009,
+  "num_followers": 1090105,
   "original_name": "Energy Booster: Pop",
   "owner": {
     "name": "Spotify",
@@ -203,26 +203,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Mad Love The Prequel",
         "url": "https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 221176,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -891,26 +891,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Dancing Shoes",
-        "url": "https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz"
-      },
-      "artists": [
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Cry for You",
-      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "5 Seconds Of Summer",
         "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 202496,
       "name": "She Looks So Perfect",
       "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Dancing Shoes",
+        "url": "https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz"
+      },
+      "artists": [
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 129686,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/4kfSXPK13aXkLzuz02hCSC"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/4uQY80TKE1u4ZQZQKHzVEi"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 129686,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/4kfSXPK13aXkLzuz02hCSC"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Halcyon Days",
-        "url": "https://open.spotify.com/album/2Dw4fYqDQnxsgoXDdMbqh3"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 231211,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2GgxS8bUT5G25QJTsfSv0R"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 182114,
       "name": "Lips Are Movin",
       "url": "https://open.spotify.com/track/6gj08XDlv9Duc2fPOxUmVD"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Halcyon Days",
+        "url": "https://open.spotify.com/album/2Dw4fYqDQnxsgoXDdMbqh3"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 231211,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2GgxS8bUT5G25QJTsfSv0R"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Timeless (Deluxe)",
         "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 154504,
       "name": "Criminals",
       "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76"
     },
     {
       "added_at": "2025-05-27 13:50:42",

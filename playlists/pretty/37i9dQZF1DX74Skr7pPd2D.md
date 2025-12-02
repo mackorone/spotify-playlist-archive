@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,014 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,027 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 26 | [There Is No Greater Love](https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 6:34 |
 | 27 | [Just One Of Those Things \- Take 8 \- Master Take](https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Songs For Distingué Lovers](https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw) | 5:33 |
 | 28 | [Summer Samba \(So Nice\)](https://open.spotify.com/track/3EpJ36yrwkPvlUXKeQa7ca) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [Rain Forest](https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv) | 3:06 |
-| 29 | [Too Close For Comfort](https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Orchestra](https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p) | [Mel Torme: Swings Shubert Alley](https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE) | 4:05 |
-| 30 | [There Is No Greater Love](https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:34 |
-| 31 | [Stompin' At The Savoy](https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Generation Ago Today](https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf) | 6:08 |
+| 29 | [Stompin' At The Savoy](https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Generation Ago Today](https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf) | 6:08 |
+| 30 | [Too Close For Comfort](https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Orchestra](https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p) | [Mel Torme: Swings Shubert Alley](https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE) | 4:05 |
+| 31 | [There Is No Greater Love](https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:34 |
 | 32 | [Caravan](https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 9:40 |
 | 33 | [Las Vegas Tango](https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Individualism Of Gil Evans](https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms) | 6:35 |
 | 34 | [My Baby Just Cares For Me \- Live At Vine St\. Bar & Grill, 1987](https://open.spotify.com/track/07Xrizjzvky8DVmXUGsQrS) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It Be Me \(Live\)](https://open.spotify.com/album/3jF9Zz9QlwIMgNvSaY8KW9) | 3:01 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 49 | [Worlds Outside](https://open.spotify.com/track/5as828xQewhAy2JBXwakAj) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best of Chris Botti](https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD) | 4:37 |
 | 50 | [All Of Me](https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 7:37 |
 | 51 | [Gettin' To It](https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Gettin' To It](https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2) | 5:30 |
-| 52 | [Movin' Wes \- Pt\. 1](https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Movin' Wes](https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5) | 3:29 |
-| 53 | [April In Paris](https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54) | [Lionel Hampton Quintet](https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd) | [The Lionel Hampton Quintet](https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh) | 6:22 |
-| 54 | [Greensleeves](https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Guitar Forms \(Expanded Edition\)](https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc) | 4:11 |
+| 52 | [Greensleeves](https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Guitar Forms \(Expanded Edition\)](https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc) | 4:11 |
+| 53 | [Movin' Wes \- Pt\. 1](https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Movin' Wes](https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5) | 3:29 |
+| 54 | [April In Paris](https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54) | [Lionel Hampton Quintet](https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd) | [The Lionel Hampton Quintet](https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh) | 6:22 |
 | 55 | [Let's Go Back To The Waltz](https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Empathy](https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH) | 4:30 |
 | 56 | [Round Midnight](https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [An Image: Lee Konitz With Strings](https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN) | 5:19 |
 | 57 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 |

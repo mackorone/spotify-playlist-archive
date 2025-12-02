@@ -4,37 +4,37 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,841 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,850 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 |
 | 2 | [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 |
 | 3 | [Nemesis](https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:12 |
-| 4 | [Illuminate the Path](https://open.spotify.com/track/5Wo7Z56JrHk7noeiQ8EAb0) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:48 |
-| 5 | [The Eagle Flies Alone \- edit](https://open.spotify.com/track/7KoWRwwVUgZV5D0zmrr25s) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:59 |
-| 6 | [Break the Spell](https://open.spotify.com/track/2XLfNFUKxi1er33lMTa34m) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Break the Spell](https://open.spotify.com/album/3Fjjxc5rAZr8xw0gl25crI) | 4:27 |
-| 7 | [Handshake with Hell](https://open.spotify.com/track/4jPU94aF0U2PMNN0aBnhgX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 5:38 |
+| 4 | [The Eagle Flies Alone \- edit](https://open.spotify.com/track/7KoWRwwVUgZV5D0zmrr25s) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:59 |
+| 5 | [Illuminate the Path](https://open.spotify.com/track/5Wo7Z56JrHk7noeiQ8EAb0) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:48 |
+| 6 | [Handshake with Hell](https://open.spotify.com/track/4jPU94aF0U2PMNN0aBnhgX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 5:38 |
+| 7 | [Break the Spell](https://open.spotify.com/track/2XLfNFUKxi1er33lMTa34m) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Break the Spell](https://open.spotify.com/album/3Fjjxc5rAZr8xw0gl25crI) | 4:27 |
 | 8 | [Lachrymatory](https://open.spotify.com/track/0vMSFxhahDAwVnnPDO8Oas) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 3:50 |
 | 9 | [The World Is Yours](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:53 |
-| 10 | [Dream Stealer](https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:29 |
-| 11 | [House of Mirrors](https://open.spotify.com/track/4mdop8Jx5BwspAQzvjF8pu) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:40 |
+| 10 | [House of Mirrors](https://open.spotify.com/track/4mdop8Jx5BwspAQzvjF8pu) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:40 |
+| 11 | [Dream Stealer](https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:29 |
 | 12 | [You Will Know My Name](https://open.spotify.com/track/45eGeRq5VjhY6RTN1TOefI) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:37 |
 | 13 | [My Apocalypse](https://open.spotify.com/track/7ak5dWy0Vee6yhR5dwQWO5) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 5:25 |
-| 14 | [Blood Dynasty](https://open.spotify.com/track/6QO8o6bGA3bR056Rsm3bVk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:51 |
-| 15 | [Deceiver, Deceiver](https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:51 |
+| 14 | [Deceiver, Deceiver](https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:51 |
+| 15 | [Blood Dynasty](https://open.spotify.com/track/6QO8o6bGA3bR056Rsm3bVk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:51 |
 | 16 | [Presage](https://open.spotify.com/track/25HZHTKy9gkPwSCJMsmzpy) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 0:47 |
 | 17 | [No Gods, No Masters](https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:14 |
-| 18 | [Paper Tiger](https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:56 |
-| 19 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 |
+| 18 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 |
+| 19 | [Paper Tiger](https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:56 |
 | 20 | [Don't Look Down](https://open.spotify.com/track/4gMYkfOztdTywqnakbBtpQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:07 |
 | 21 | [We Will Rise](https://open.spotify.com/track/0KtQaeUT372b7vRProw9Sm) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:06 |
-| 22 | [A Million Suns](https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:45 |
-| 23 | [Sunset over the Empire](https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:03 |
+| 22 | [Poisoned Arrow](https://open.spotify.com/track/0mO1FN8MXytVZfZYpC5i56) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:51 |
+| 23 | [A Million Suns](https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:45 |
 | 24 | [March of the Miscreants](https://open.spotify.com/track/145Uavh1IEvv1xyG8AWAU8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:49 |
 | 25 | [First Day in Hell](https://open.spotify.com/track/7uqohNjCnZ8sZd5S2vh5vx) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:48 |
-| 26 | [Liars & Thieves](https://open.spotify.com/track/0ddMkwKUpd2ExFOLJlDoze) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:20 |
-| 27 | [Poisoned Arrow](https://open.spotify.com/track/0mO1FN8MXytVZfZYpC5i56) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:51 |
+| 26 | [Sunset over the Empire](https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:03 |
+| 27 | [Liars & Thieves](https://open.spotify.com/track/0ddMkwKUpd2ExFOLJlDoze) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:20 |
 | 28 | [The Pendulum](https://open.spotify.com/track/3FJUmtBF0JWQC2O3bpYq6f) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 3:42 |
 | 29 | [As the Pages Burn](https://open.spotify.com/track/3BkqtdD3Vc90C3JFtTTVqI) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:01 |
 | 30 | [Reason to Believe](https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 49 | [Silent Wars](https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 |
 | 50 | [I Am Legend/Out for Blood](https://open.spotify.com/track/3y9BI61Ssc71BX3Yh6aE5N) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:58 |
 
-Snapshot ID: `aSo3gAAAAAAPyAk2NGTKCozuDLU5ujFr`
+Snapshot ID: `aSuJAAAAAADVw3MrzBdk995ZXPKc9BYD`

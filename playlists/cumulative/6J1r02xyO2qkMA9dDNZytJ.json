@@ -235,6 +235,24 @@
     },
     {
       "album": {
+        "name": "SUCKERPUNCH005",
+        "url": "https://open.spotify.com/album/2AklCoNjGJVcDAcckgQJGf"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294229,
+      "name": "Blue Line To Monroe",
+      "url": "https://open.spotify.com/track/1a9k30I4NBW6cOUoH4GLIn"
+    },
+    {
+      "album": {
         "name": "Body Move",
         "url": "https://open.spotify.com/album/5s8QRKX9HB8BYO8FyEuS7r"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 200000,
       "name": "Body Move",
       "url": "https://open.spotify.com/track/58ral7Fw9tcXR2Y8zFxcM0"
@@ -595,6 +613,28 @@
     },
     {
       "album": {
+        "name": "Don Dadda",
+        "url": "https://open.spotify.com/album/44BHcTsU2XAvFUgBnN1Lh6"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Saliva Commandos",
+          "url": "https://open.spotify.com/artist/1KoSnTUvEhtwNeZqaZnZ9M"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202741,
+      "name": "Don Dadda",
+      "url": "https://open.spotify.com/track/36umETHgZmiWrhyZdvLiPU"
+    },
+    {
+      "album": {
         "name": "Draw The Line",
         "url": "https://open.spotify.com/album/7vW81eN7oTdk0b0LQUhNZJ"
       },
@@ -632,6 +672,32 @@
       "duration_ms": 151904,
       "name": "Dreaming (Feelings)",
       "url": "https://open.spotify.com/track/03fBbF1Y6uNdC4v7RhBCrH"
+    },
+    {
+      "album": {
+        "name": "Edge of Desire (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/2STORLqbca4TPym8doxGZk"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179996,
+      "name": "Edge of Desire - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/6w1z9aGsflx9cMHWl8d5eB"
     },
     {
       "album": {
@@ -872,7 +938,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 185585,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/4lF4BSqTwEZyonn9UVBf0T"
@@ -1127,6 +1193,28 @@
     },
     {
       "album": {
+        "name": "Gypsy Woman",
+        "url": "https://open.spotify.com/album/7fQL0HY8oDcUQJU1O1TRnL"
+      },
+      "artists": [
+        {
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        },
+        {
+          "name": "Holly Jaz",
+          "url": "https://open.spotify.com/artist/7ARY5Ps825SlBAjXJKHp0J"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178815,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/2nto3uwHdsC2XQIBePrpDT"
+    },
+    {
+      "album": {
         "name": "H2DAIZZO",
         "url": "https://open.spotify.com/album/3lAzVR1ZomRbfuXwsxHlWg"
       },
@@ -1218,6 +1306,28 @@
       "duration_ms": 173167,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/3p3pXvnwSuVE1srNdK1PrN"
+    },
+    {
+      "album": {
+        "name": "Bullets Vol. 7",
+        "url": "https://open.spotify.com/album/7qXF4ATTz8mhIKoAsOnMNg"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202380,
+      "name": "I Don't Wanna Come Down",
+      "url": "https://open.spotify.com/track/1CIB8WypDLpGXijTpGd0su"
     },
     {
       "album": {
@@ -1426,7 +1536,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 180109,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
@@ -1451,6 +1561,28 @@
     },
     {
       "album": {
+        "name": "L.O.V.E. Love",
+        "url": "https://open.spotify.com/album/0lRSNRMJq4pJORyG4tOy8e"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        },
+        {
+          "name": "Katy Alex",
+          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "L.O.V.E. Love",
+      "url": "https://open.spotify.com/track/4Vq7hzpl5hGr1cUCyx2t2y"
+    },
+    {
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/3DrNNJtb95HOnFrECKZqvE"
       },
@@ -1466,7 +1598,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 178110,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/01UTKNFPC5tyXu0XNI3X3d"
@@ -1586,7 +1718,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 193278,
       "name": "Let's Go All The Way",
       "url": "https://open.spotify.com/track/5FssdxeCVStnb6qoIqpu58"
@@ -1832,7 +1964,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 193750,
       "name": "My Love Is Deep - Eats Everything Reebeef",
       "url": "https://open.spotify.com/track/3i6BPfqpaVjBLy82IpXU5N"
@@ -1880,6 +2012,24 @@
       "duration_ms": 187162,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/3wjDCP2gPG5BpqE11A55k9"
+    },
+    {
+      "album": {
+        "name": "Only God",
+        "url": "https://open.spotify.com/album/7FGoMhFcDIEQzC1Tz1BA71"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210161,
+      "name": "Only God",
+      "url": "https://open.spotify.com/track/5D6jYyeh4Ow7ITHzoYHcyD"
     },
     {
       "album": {
@@ -2015,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
+    },
+    {
+      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/1R7MsTiYLXAKV9Q9jR6dI3"
       },
@@ -2122,7 +2290,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 217500,
       "name": "Raw - Tony Romera Remix",
       "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
@@ -3088,7 +3256,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 170694,
       "name": "You Don't Own Me (feat. RAHH)",
       "url": "https://open.spotify.com/track/1TsDNh8OuRcGfNX4Dz8oVl"

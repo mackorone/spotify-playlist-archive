@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,289 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,296 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [No Blemishes](https://open.spotify.com/track/0qOhA2UqDcgRL3GUEhneeN) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Criminally Attached](https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs) | 2:46 |
 | 49 | [the decoupling of the nuclear family](https://open.spotify.com/track/2CoC3apW4ahryZB9vCoGKT) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [the decoupling of the nuclear family](https://open.spotify.com/album/5dycwetorMNU2RgY2lVRVE) | 3:49 |
 
-Snapshot ID: `AAAAADbGGRK3PvHG9fv0PRv0om9eek0a`
+Snapshot ID: `AAAAAHSEbhORxigpdJy14u+HhhSc/UAv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Blondshell
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,674 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,675 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 27 | [Coastline \- Vancouver Sleep Clinic Remix](https://open.spotify.com/track/0zUTBKmEYRpJnNwbILo3mW) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Coastline \(Vancouver Sleep Clinic Remix\)](https://open.spotify.com/album/1n8JqMqXX3ojKrFCQHMHPR) | 3:06 |
 | 28 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
 | 29 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 |
-| 30 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 |
-| 31 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
-| 32 | [2000 Miles \(from "Oh\. What\. Fun."\)](https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Oh\. What\. Fun.](https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S) | [2000 Miles \(from "Oh\. What\. Fun."\)](https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe) | 3:09 |
+| 30 | [2000 Miles \(from "Oh\. What\. Fun."\)](https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Oh\. What\. Fun.](https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S) | [2000 Miles \(from "Oh\. What\. Fun."\)](https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe) | 3:09 |
+| 31 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 |
+| 32 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
 | 33 | [Espresso \- triple j Like A Version](https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Espresso \(triple j Like A Version\)](https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF) | 3:04 |
 | 34 | [my love mine all mine](https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [my love mine all mine](https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb) | 2:45 |
 | 35 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 95 | [Making Breakfast](https://open.spotify.com/track/2slU3LSs6yFAsit4blFSjA) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Making Breakfast](https://open.spotify.com/album/6gZ2JwFSMQsllwM2XJjZIh) | 2:20 |
 | 96 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 |
 | 97 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 |
-| 98 | [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 |
+| 98 | [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 |
 | 99 | [Thank You for Sending Me an Angel](https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Thank You for Sending Me an Angel](https://open.spotify.com/album/3XXw969WtYPCotGSO5S5x9) | 3:08 |
-| 100 | [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 |
+| 100 | [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 |
 
 Snapshot ID: `AAAAACXQxQDWnsUT1xVumcubXokkAvrO`

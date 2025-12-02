@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 冰球樂團 \(icyball\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,645 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,646 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dumplings](https://open.spotify.com/track/5DZuLmb40FUPXKHGg1PhYu) | [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [Dumplings](https://open.spotify.com/album/6Xv2JLjZbLbLsLqEjtGA9K) | 3:09 |
+| 1 | [Dumplings](https://open.spotify.com/track/5DZuLmb40FUPXKHGg1PhYu) | [icyball 冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [Dumplings](https://open.spotify.com/album/6Xv2JLjZbLbLsLqEjtGA9K) | 3:09 |
 | 2 | [Hackery](https://open.spotify.com/track/50HuO1enoZQANZ7cWYyr4b) | [Flesh Juicer](https://open.spotify.com/artist/78ltY2tUrZpkWJ9CWYGZfl) | [Hackery](https://open.spotify.com/album/7u7NRI7T7L6EoJVv9yLX4b) | 2:44 |
 | 3 | [Let it! Shake it!](https://open.spotify.com/track/2BlbIy2oLGxjtJwpPXuiny) | [The Salitus](https://open.spotify.com/artist/4TR7zNw9uDpmuGVMUKxSFj) | [Let it! Shake it! / Carry On](https://open.spotify.com/album/7uNclugkD9plQsbDBROcuO) | 3:25 |
 | 4 | [在這裡停一下](https://open.spotify.com/track/5oaA00dgTQLoYW9ZmapoTp) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [在這裡停一下](https://open.spotify.com/album/7g0XbGsZ0w7fANqnkm3ohT) | 4:50 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 48 | [願你愛自己，像我愛你一樣](https://open.spotify.com/track/0xme1uL6BTAkjQdHGW66aA) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [願你愛自己，像我愛你一樣](https://open.spotify.com/album/4JLYwZPpbZandgmxR4GYYT) | 4:24 |
 | 49 | [Things I Couldn't Tell You](https://open.spotify.com/track/2cjunNbje3GCkkgbAfYfzB) | [Blueburn](https://open.spotify.com/artist/3njOo5lp2DWZ4M5FRMl1td) | [Type The Way You Talk](https://open.spotify.com/album/5RUkdLUrlGWZcFfpAi8ItT) | 3:16 |
 | 50 | [我是誰我是誰我是誰\(GX版\)](https://open.spotify.com/track/22VWtSne9Yhv7ifQ9J36ZZ) | [GX \(鼓鼓 呂思緯、蕭秉治\)](https://open.spotify.com/artist/288ePKcM3N0VLXFIGuv4LV) | [GX 1st MINI ALBUM](https://open.spotify.com/album/31ShII00nJmvfMcnx5ujR7) | 4:25 |
-| 51 | [一個吻的時間 \(feat\. 冰球樂團\)](https://open.spotify.com/track/0hcKfrkRn9sNlrKJLM7ZQh) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj), [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [一個吻的時間 \(feat\. 冰球樂團\)](https://open.spotify.com/album/7HmD13Vr6HKEPYxpMEflCa) | 2:55 |
+| 51 | [一個吻的時間 \(feat\. 冰球樂團\)](https://open.spotify.com/track/0hcKfrkRn9sNlrKJLM7ZQh) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj), [icyball 冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [一個吻的時間 \(feat\. 冰球樂團\)](https://open.spotify.com/album/7HmD13Vr6HKEPYxpMEflCa) | 2:55 |
 | 52 | [孤單北半球 \- 滾石撞樂隊2 \(原唱:林依晨\)](https://open.spotify.com/track/3L6xFIfkPyjXdBB6CDC0ur) | [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [滾石撞樂隊2 \- 孤單北半球](https://open.spotify.com/album/3axDHT082RaLYhNDIcZ9xf) | 2:54 |
 | 53 | [神的孩子都在摔跤](https://open.spotify.com/track/5qANggpluY26UYONwunDtv) | [無妄合作社](https://open.spotify.com/artist/6py5j29igdKEvG75sZpTbW) | [開往天堂的海盜船](https://open.spotify.com/album/4MeuCJLMPrbkEO8Q9alBtQ) | 5:45 |
 | 54 | [下輩子 \- Remix](https://open.spotify.com/track/1qiSvhEJLzmijvayjSICw0) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [下輩子 \(Remix\)](https://open.spotify.com/album/5vI5LKjr1uwk16WmxnxwTR) | 3:00 |

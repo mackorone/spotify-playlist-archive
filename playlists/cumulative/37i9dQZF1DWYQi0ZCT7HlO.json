@@ -240,6 +240,24 @@
     {
       "album": {
         "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/250FL8QVK07VqCoHJquukf"
+      },
+      "artists": [
+        {
+          "name": "Johnny Blackwood",
+          "url": "https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114812,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/0KECgQzZvJ0O2rKD16EUx7"
+    },
+    {
+      "album": {
+        "name": "Christmas Time Is Here",
         "url": "https://open.spotify.com/album/3HgsNXKka2w0bxShbNt71t"
       },
       "artists": [
@@ -268,7 +286,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 146031,
       "name": "Christmas Time Is Here - Fireplace Lullaby Version",
       "url": "https://open.spotify.com/track/5n86SwBqhl4tAowONYOPda"
@@ -358,10 +376,28 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 100259,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/1ZuCGjQw1RDbrF6xJjxBfG"
+    },
+    {
+      "album": {
+        "name": "Fireside Carols",
+        "url": "https://open.spotify.com/album/7jOTah3laFV4llZQoTtEAw"
+      },
+      "artists": [
+        {
+          "name": "Noel Newman",
+          "url": "https://open.spotify.com/artist/2DfgtFKS0D6r8nCklevapF"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139120,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/5YMtjxtGrZQbAUTm93HclS"
     },
     {
       "album": {
@@ -527,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Good King Wenceslas",
+        "url": "https://open.spotify.com/album/4bL0VFyRr4U52yCyNUpzir"
+      },
+      "artists": [
+        {
+          "name": "Rowan Hart",
+          "url": "https://open.spotify.com/artist/1jGkEXEO2ApXkQTdlTCre5"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Good King Wenceslas",
+      "url": "https://open.spotify.com/track/5fm9gX1b8jRAt5mxbFICpL"
+    },
+    {
+      "album": {
         "name": "Good King Wenceslas (Fireside)",
         "url": "https://open.spotify.com/album/12EnrufJvTBMSreZ1onCo0"
       },
@@ -538,7 +592,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 151923,
       "name": "Good King Wenceslas (Fireside)",
       "url": "https://open.spotify.com/track/70hKKXqwuOwU1iBDSMLu1Y"
@@ -1154,6 +1208,42 @@
       "duration_ms": 194000,
       "name": "Marys Boychild",
       "url": "https://open.spotify.com/track/0osb0FU1iezygPXT4FgBbo"
+    },
+    {
+      "album": {
+        "name": "Mary\u00b4s Boy Child",
+        "url": "https://open.spotify.com/album/1jX3qAM2iqFQOb68yDb4q5"
+      },
+      "artists": [
+        {
+          "name": "Jan Holdsworth",
+          "url": "https://open.spotify.com/artist/1xefND4JiYjKNKPGc7ng1I"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "Mary\u00b4s Boy Child",
+      "url": "https://open.spotify.com/track/3EcDF9yPGRxdAjiOzSO2XO"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas (Fireside)",
+        "url": "https://open.spotify.com/album/1qXxHkkUQx7QtupaLqRuWL"
+      },
+      "artists": [
+        {
+          "name": "everall",
+          "url": "https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166935,
+      "name": "Merry Christmas (Fireside)",
+      "url": "https://open.spotify.com/track/3YHbK1nzcc7eVbKckWCAvk"
     },
     {
       "album": {

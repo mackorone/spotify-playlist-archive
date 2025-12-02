@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 113859,
+  "num_followers": 113866,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACTbga1jmS49H1bz+x4fSGT",
+  "snapshot_id": "aSuJAAAAAACcUuhTtLcxb+8rfan+IS9k",
   "tracks": [
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Strange Case of... (Deluxe)",
-        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 191680,
-      "name": "You Call Me a Bitch Like It's a Bad Thing",
-      "url": "https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk"
+      "duration_ms": 188573,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Strange Case of... (Deluxe)",
+        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 191680,
+      "name": "You Call Me a Bitch Like It's a Bad Thing",
+      "url": "https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reimagined",
         "url": "https://open.spotify.com/album/6U136FqCYPkYDQnBaaUovl"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 294093,
       "name": "Break In (feat. Amy Lee)",
       "url": "https://open.spotify.com/track/2vB55r6U3pqNI8I6Spz391"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
     },
     {
       "added_at": null,

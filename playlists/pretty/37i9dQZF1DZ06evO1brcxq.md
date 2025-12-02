@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 
 > This is Charli xcx\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,555 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,586 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 38 | [Lipgloss \(feat\. CupcakKe\)](https://open.spotify.com/track/7niKxzFThgRf5fXlIYdjtZ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:54 |
 | 39 | [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
 | 40 | [forever](https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:03 |
-| 41 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 |
-| 42 | [Next Level Charli](https://open.spotify.com/track/7a6HVxpLhW7hRL9JcFZl16) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 2:37 |
+| 41 | [Next Level Charli](https://open.spotify.com/track/7a6HVxpLhW7hRL9JcFZl16) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 2:37 |
+| 42 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 |
 | 43 | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA) | 2:37 |
 | 44 | [Boys](https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Boys](https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8) | 2:42 |
 | 45 | [Break the Rules](https://open.spotify.com/track/70ebKSMHvkUSg7JXgUz74Q) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/2fGpw56D35My0c82eNfKJF) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 49 | [Hello goodbye](https://open.spotify.com/track/7KA5C1c2byqgzCCgdo0nZR) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 3:39 |
 | 50 | [Move Me](https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:27 |
 
-Snapshot ID: `aSo3gAAAAAB9kYeuZPukOtvpDwXp/v0A`
+Snapshot ID: `aSuJAAAAAAAAShtvxRTeNd9XoEzY2bAg`

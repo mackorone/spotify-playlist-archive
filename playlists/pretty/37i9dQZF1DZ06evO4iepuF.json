@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAAjbO6qGYzA1UzmlCnx6Cty",
+  "snapshot_id": "aSuJAAAAAABmZ1WJ8CIdATgq6Bz307/P",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "against my shell",
-        "url": "https://open.spotify.com/album/2FtFeGlFaJMY5KTDNGPu2Z"
-      },
-      "artists": [
-        {
-          "name": "Joshua Lanuarii",
-          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
-        },
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 154554,
-      "name": "against my shell",
-      "url": "https://open.spotify.com/track/6Or8ZOAIKbzhpYwatE2Ccw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "no inbetween",
         "url": "https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp"
       },
@@ -155,22 +135,6 @@
       "duration_ms": 111494,
       "name": "no inbetween",
       "url": "https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "want me dead",
-        "url": "https://open.spotify.com/album/7A4NF0ta5wzCDx6lFZnyfa"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 78233,
-      "name": "want me dead",
-      "url": "https://open.spotify.com/track/0IKyrmqsTmNynOa1muZ3RX"
     },
     {
       "added_at": null,
@@ -191,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "plug me in",
-        "url": "https://open.spotify.com/album/66vy2eQCgPVxMWbf8XTZap"
+        "name": "want me dead",
+        "url": "https://open.spotify.com/album/7A4NF0ta5wzCDx6lFZnyfa"
       },
       "artists": [
         {
@@ -200,9 +164,29 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 127246,
-      "name": "plug me in",
-      "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
+      "duration_ms": 78233,
+      "name": "want me dead",
+      "url": "https://open.spotify.com/track/0IKyrmqsTmNynOa1muZ3RX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "against my shell",
+        "url": "https://open.spotify.com/album/2FtFeGlFaJMY5KTDNGPu2Z"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 154554,
+      "name": "against my shell",
+      "url": "https://open.spotify.com/track/6Or8ZOAIKbzhpYwatE2Ccw"
     },
     {
       "added_at": null,
@@ -219,6 +203,58 @@
       "duration_ms": 60312,
       "name": "u are my favorite!",
       "url": "https://open.spotify.com/track/2gMldmMX52M9PdkGnKMtaB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DIRECTIONS",
+        "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "stagnant waters",
+      "url": "https://open.spotify.com/track/2I7Bm4iroSTgKbc2Cz4Qyu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "plug me in",
+        "url": "https://open.spotify.com/album/66vy2eQCgPVxMWbf8XTZap"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 127246,
+      "name": "plug me in",
+      "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "iNSaNiTY",
+        "url": "https://open.spotify.com/album/6jfjgXQEMUrulLtER06jsc"
+      },
+      "artists": [
+        {
+          "name": "sixwing",
+          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 297600,
+      "name": "iNSaNiTY",
+      "url": "https://open.spotify.com/track/1SQK8160GZWi2tBJBqqT76"
     },
     {
       "added_at": null,
@@ -248,29 +284,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 176000,
-      "name": "stagnant waters",
-      "url": "https://open.spotify.com/track/2I7Bm4iroSTgKbc2Cz4Qyu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "iNSaNiTY",
-        "url": "https://open.spotify.com/album/6jfjgXQEMUrulLtER06jsc"
-      },
-      "artists": [
-        {
-          "name": "sixwing",
-          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
-        },
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 297600,
-      "name": "iNSaNiTY",
-      "url": "https://open.spotify.com/track/1SQK8160GZWi2tBJBqqT76"
+      "duration_ms": 151500,
+      "name": "bumpin' tails",
+      "url": "https://open.spotify.com/track/7aFzDaMpBbRqQYHymHJ8bt"
     },
     {
       "added_at": null,
@@ -287,6 +303,22 @@
       "duration_ms": 131378,
       "name": "superposition",
       "url": "https://open.spotify.com/track/0foq1CuScisKw9QXmktboo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "one touch",
+        "url": "https://open.spotify.com/album/2Jo2CqIHzBePJCkeDmJDOI"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 97904,
+      "name": "one touch",
+      "url": "https://open.spotify.com/track/5acV2YistDobtrwjN9Q7MY"
     },
     {
       "added_at": null,
@@ -316,41 +348,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 151500,
-      "name": "bumpin' tails",
-      "url": "https://open.spotify.com/track/7aFzDaMpBbRqQYHymHJ8bt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "one touch",
-        "url": "https://open.spotify.com/album/2Jo2CqIHzBePJCkeDmJDOI"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 97904,
-      "name": "one touch",
-      "url": "https://open.spotify.com/track/5acV2YistDobtrwjN9Q7MY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "pastpresentfuture + instrumentals",
-        "url": "https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 67450,
-      "name": "you still live in my veins",
-      "url": "https://open.spotify.com/track/7427blkGwSdUTdimGaLW93"
+      "duration_ms": 181130,
+      "name": "Directions",
+      "url": "https://open.spotify.com/track/1O0bYizbSQ8u7JOwvLFU3P"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DIRECTIONS",
-        "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
+        "name": "outcast (they all hate me)",
+        "url": "https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 181130,
-      "name": "Directions",
-      "url": "https://open.spotify.com/track/1O0bYizbSQ8u7JOwvLFU3P"
+      "duration_ms": 182624,
+      "name": "outcast",
+      "url": "https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "outcast (they all hate me)",
-        "url": "https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62"
+        "name": "DIRECTIONS",
+        "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
       },
       "artists": [
         {
@@ -412,9 +412,41 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 182624,
-      "name": "outcast",
-      "url": "https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J"
+      "duration_ms": 137299,
+      "name": "I NEED THAT",
+      "url": "https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "pastpresentfuture + instrumentals",
+        "url": "https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 67450,
+      "name": "you still live in my veins",
+      "url": "https://open.spotify.com/track/7427blkGwSdUTdimGaLW93"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "phoinky new beginning",
+        "url": "https://open.spotify.com/album/1GwIoG4mDd0pCCg8ptEmiz"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 47782,
+      "name": "phoinky",
+      "url": "https://open.spotify.com/track/6Bn7TTEgMp6ZjnFXHgUqXr"
     },
     {
       "added_at": null,
@@ -444,25 +476,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 137299,
-      "name": "I NEED THAT",
-      "url": "https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "phoinky new beginning",
-        "url": "https://open.spotify.com/album/1GwIoG4mDd0pCCg8ptEmiz"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 47782,
-      "name": "phoinky",
-      "url": "https://open.spotify.com/track/6Bn7TTEgMp6ZjnFXHgUqXr"
+      "duration_ms": 159000,
+      "name": "cursed2all4s",
+      "url": "https://open.spotify.com/track/268Q8ZqFfUo3tGThTeEnbL"
     },
     {
       "added_at": null,
@@ -499,38 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DIRECTIONS",
-        "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "cursed2all4s",
-      "url": "https://open.spotify.com/track/268Q8ZqFfUo3tGThTeEnbL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
-        "url": "https://open.spotify.com/album/6wXmfsjzYp8tpmoIZr4WjJ"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 101668,
-      "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
-      "url": "https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RIP Creativity",
         "url": "https://open.spotify.com/album/4daDA6ersDkffX8BC46lAM"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 120004,
       "name": "RIP Creativity",
       "url": "https://open.spotify.com/track/0tCmwtKSJK5CHsmNLz1Unw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
+        "url": "https://open.spotify.com/album/6wXmfsjzYp8tpmoIZr4WjJ"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 101668,
+      "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
+      "url": "https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i only got one",
-        "url": "https://open.spotify.com/album/3c7bZRslufiDbDTjsyV2w7"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 70024,
-      "name": "i only got one",
-      "url": "https://open.spotify.com/track/78lrxMDObspPOaFyLYgzoL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "falling into place (the cat's out!)",
         "url": "https://open.spotify.com/album/64i9yGucn6fgikh9NMHC8m"
       },
@@ -615,6 +599,38 @@
       "duration_ms": 186390,
       "name": "falling into place (the cat's out!)",
       "url": "https://open.spotify.com/track/5BcemKiPUE9hCukT9GqVCm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i only got one",
+        "url": "https://open.spotify.com/album/3c7bZRslufiDbDTjsyV2w7"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 70024,
+      "name": "i only got one",
+      "url": "https://open.spotify.com/track/78lrxMDObspPOaFyLYgzoL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SO NUMB THAT SHE'S IN HELL!!!",
+        "url": "https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 171455,
+      "name": "so numb that she's in hell - 2025 Version",
+      "url": "https://open.spotify.com/track/4Fa74jnKpzzfjU9zeDT07P"
     },
     {
       "added_at": null,
@@ -655,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SO NUMB THAT SHE'S IN HELL!!!",
-        "url": "https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky"
+        "name": "pastpresentfuture + instrumentals",
+        "url": "https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3"
       },
       "artists": [
         {
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 171455,
-      "name": "so numb that she's in hell - 2025 Version",
-      "url": "https://open.spotify.com/track/4Fa74jnKpzzfjU9zeDT07P"
+      "duration_ms": 64066,
+      "name": "before i explode",
+      "url": "https://open.spotify.com/track/3k8Ft1GlaoMSK0gX535vA2"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
       "duration_ms": 117408,
       "name": "freeze up",
       "url": "https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "pastpresentfuture + instrumentals",
-        "url": "https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 64066,
-      "name": "before i explode",
-      "url": "https://open.spotify.com/track/3k8Ft1GlaoMSK0gX535vA2"
     },
     {
       "added_at": null,
@@ -743,6 +743,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "when has healthy ever been my priority",
+        "url": "https://open.spotify.com/album/3gGsuSxZerzUF3ZcMwjk87"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 100010,
+      "name": "when has healthy ever been my priority - Remake Version",
+      "url": "https://open.spotify.com/track/3R2YwDsdxwNwaxVLKbY5Hi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dissociated fantasy",
+        "url": "https://open.spotify.com/album/5C8AIOpAhAloLoxBfB0w2Y"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 112124,
+      "name": "dissociated fantasy",
+      "url": "https://open.spotify.com/track/3kUnMYg05ughCG68fgMDH1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "crying in the club",
         "url": "https://open.spotify.com/album/7HnucOoLxbhgFNyDfmjDDS"
       },
@@ -759,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "when has healthy ever been my priority",
-        "url": "https://open.spotify.com/album/3gGsuSxZerzUF3ZcMwjk87"
+        "name": "14",
+        "url": "https://open.spotify.com/album/23UWRHbBgmhCztyn8fzjwc"
       },
       "artists": [
         {
@@ -768,9 +800,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 100010,
-      "name": "when has healthy ever been my priority - Remake Version",
-      "url": "https://open.spotify.com/track/3R2YwDsdxwNwaxVLKbY5Hi"
+      "duration_ms": 178262,
+      "name": "14",
+      "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
     },
     {
       "added_at": null,
@@ -795,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/23UWRHbBgmhCztyn8fzjwc"
+        "name": "pastpresentfuture + instrumentals",
+        "url": "https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3"
       },
       "artists": [
         {
@@ -804,41 +836,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 178262,
-      "name": "14",
-      "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "dissociated fantasy",
-        "url": "https://open.spotify.com/album/5C8AIOpAhAloLoxBfB0w2Y"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 112124,
-      "name": "dissociated fantasy",
-      "url": "https://open.spotify.com/track/3kUnMYg05ughCG68fgMDH1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "butterfly in paradise !!",
-        "url": "https://open.spotify.com/album/5VBkb4aMbtz0duhjNhzLM6"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 104651,
-      "name": "butterfly in paradise !!",
-      "url": "https://open.spotify.com/track/4CFWxSpRpd2czdbeE1fBe4"
+      "duration_ms": 106145,
+      "name": "no reception",
+      "url": "https://open.spotify.com/track/4UMwxOfR9UMHRl6EOVnxBE"
     }
   ],
   "unique_name": "This Is Kittydog",

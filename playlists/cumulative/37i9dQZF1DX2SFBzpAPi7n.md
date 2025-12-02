@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YongYong & Jayci yucca\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,083 songs - 2 day 18 hr 1 min
+1,085 songs - 2 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,13 +193,13 @@
 | [daisy.](https://open.spotify.com/track/4yhP7gATZS2EJfVXEc9wNB) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/5AeOL2dXWWsW1AccDq1Eou) | 3:38 | 2022-04-22 | 2022-07-28 |
 | [daisy.](https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS) | 3:38 | 2023-02-10 | 2023-11-05 |
 | [daisy.](https://open.spotify.com/track/6vBr2tIHZKaMTpK7r99O3g) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/06LUoqFf4VRz193j5GBToN) | 3:38 | 2023-11-10 | 2024-03-22 |
-| [Dancing Bird](https://open.spotify.com/track/2phDPmaRtLzpPrMEPzcFnN) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Dancing Bird](https://open.spotify.com/album/5nPvmaTmt7l6XHd1SJWYGA) | 3:17 | 2025-11-11 |  |
+| [Dancing Bird](https://open.spotify.com/track/2phDPmaRtLzpPrMEPzcFnN) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Dancing Bird](https://open.spotify.com/album/5nPvmaTmt7l6XHd1SJWYGA) | 3:17 | 2025-11-11 | 2025-12-02 |
 | [Dark Cloud](https://open.spotify.com/track/1m6hChgffW1gqFKbpkGQrk) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 4:00 | 2022-04-21 | 2022-07-19 |
 | [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 | 2025-02-04 |  |
 | [Daydream](https://open.spotify.com/track/3jLe3Jb7Ri2Tjcvnn03kZ6) | [EUNICE](https://open.spotify.com/artist/1ptpMZmWJI8ENe5I7TzEqU) | [Daydream](https://open.spotify.com/album/3SyG2CrI1QNdZSwvNONVVI) | 4:03 | 2024-10-27 | 2024-12-14 |
 | [Daylight](https://open.spotify.com/track/3VJSYgrJKUdc22n5GzVaza) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Parole Examiner Lee, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/40SxrE2o08KMsXPiqSIc4g) | 3:48 | 2024-11-21 | 2025-01-15 |
 | [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 | 2025-03-17 | 2025-04-12 |
-| [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-10 |  |
+| [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-10 | 2025-12-02 |
 | [Dear Joy](https://open.spotify.com/track/1HYPRFbjqzhdlZCXkMuoC5) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Dear Nobody](https://open.spotify.com/album/14CUSx8Br1OuPQmsXNnyd6) | 3:54 | 2025-06-10 | 2025-06-17 |
 | [Dear Love](https://open.spotify.com/track/0R4i9qbhgNQjJt5tGFbslP) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rendez\-Vous](https://open.spotify.com/album/6vK3j1RpbI17a2Tn2SqbTQ) | 5:02 | 2022-04-22 | 2022-07-14 |
 | [Dear Me](https://open.spotify.com/track/35Zg9ymD0ytUfRpyAnXv49) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Dear Me](https://open.spotify.com/album/0owjEdpdMRcomZHxqOzITp) | 3:36 | 2025-09-18 | 2025-09-24 |
@@ -433,6 +433,7 @@
 | [I Will Give You Everything](https://open.spotify.com/track/2pW1y2KEOrgSFJyzgU8LvZ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [\[Vol.48\] You Hee yul's Sketchbook : 26th Voice 'Sketchbook X Jannabi'](https://open.spotify.com/album/1mzynYOm6D6r6hAOUEFjIv) | 3:32 | 2022-04-12 | 2022-07-17 |
 | [I Will Remember You](https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 | 2023-01-10 | 2023-01-26 |
 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-09 | 2025-05-20 |
+| [I'll be here](https://open.spotify.com/track/5GDdCurVrBxfN1IkRRzksB) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [I'll be here](https://open.spotify.com/album/6FUOytpOQW7lukkRPPLXLk) | 3:18 | 2025-12-01 |  |
 | [I'll Find You](https://open.spotify.com/track/3GHSrN23rQc5qntnr6PtZO) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snap and Spark \(Original Soundtrack\) Part.1](https://open.spotify.com/album/4xle0IjB9CUNbG9NW8xnWz) | 3:22 | 2024-03-21 | 2024-05-10 |
 | [I'll Love You All The Time](https://open.spotify.com/track/1BOYINiqYpWhrKSbMFen5Q) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [I'll Love You All The Time \(Art by Tae Hyunyoung\)](https://open.spotify.com/album/3mp2QXg2VvlNSflsQbULAQ) | 2:48 | 2024-04-09 | 2024-05-10 |
 | [I'll Never Love Again](https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [I’ll Never Love Again](https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN) | 3:45 | 2025-09-24 |  |
@@ -673,6 +674,7 @@
 | [OVERMAN](https://open.spotify.com/track/4F9HBpY1IL5uNSjJGPT905) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Theme\. 1](https://open.spotify.com/album/1AMxCmk7KLonC7oO33Ii7S) | 3:44 | 2025-01-30 | 2025-03-18 |
 | [Painful truth](https://open.spotify.com/track/1CexlpmbXbUZuaxoNpbFqf) | [OVerdrive Philosophy](https://open.spotify.com/artist/55kBNayNJ3XUBKnp7hsNQa) | [OVerdrive Philosophy](https://open.spotify.com/album/0sCN9t3HHPdhaZNkKtbKs1) | 6:15 | 2022-05-11 | 2022-07-22 |
 | [Panic](https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ) | [BEOMGYU](https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH) | [Panic](https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H) | 3:08 | 2025-03-31 |  |
+| [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 | 2025-12-01 |  |
 | [Paradise](https://open.spotify.com/track/5L9aX5078Wk0qMFvrdI40j) | [LAYBRICKS](https://open.spotify.com/artist/39BxPIVyvmpwNFfyMQS41u) | [Paradise](https://open.spotify.com/album/655I4UTlYsOOr0StbIU36j) | 3:56 | 2022-04-22 | 2022-07-27 |
 | [Paragliding](https://open.spotify.com/track/57XdCKf3Pv6n8qUuYe8W6p) | [Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Paragliding](https://open.spotify.com/album/6YFoJLOuWOrdPqpeOehcX3) | 4:01 | 2023-11-10 | 2024-05-10 |
 | [parallel lines](https://open.spotify.com/track/3i1W0KlF9GmW60cFMGZfAs) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [parallel lines](https://open.spotify.com/album/4hxVMXWDWQL1a4cfFX4R9d) | 3:24 | 2022-05-03 | 2022-07-21 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 577451,
+  "num_followers": 577417,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 203807,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Quiero Decirte",
         "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 222348,
       "name": "Quiero Decirte",
       "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Depende",
-        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Depende",
+        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 221749,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 185486,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 221749,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "La la Love You Bonus",
-        "url": "https://open.spotify.com/album/5RpGs1cIVJHLtn88LEdXjb"
-      },
-      "artists": [
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        },
-        {
-          "name": "Axolotes Mexicanos",
-          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "El Fin del Mundo",
-      "url": "https://open.spotify.com/track/70JnnNNAxPjvZGPwjJfX47"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 256320,
       "name": "Si t\u00fa no estas",
       "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Otras Alas",
+        "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        },
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 187016,
+      "name": "nana triste",
+      "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1183,22 +1183,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Otras Alas",
-        "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
+        "name": "La la Love You Bonus",
+        "url": "https://open.spotify.com/album/5RpGs1cIVJHLtn88LEdXjb"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
         },
         {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+          "name": "Axolotes Mexicanos",
+          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
         }
       ],
-      "duration_ms": 187016,
-      "name": "nana triste",
-      "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
+      "duration_ms": 188093,
+      "name": "El Fin del Mundo",
+      "url": "https://open.spotify.com/track/70JnnNNAxPjvZGPwjJfX47"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 187605,
-      "name": "23",
-      "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Santa Trinidad",
         "url": "https://open.spotify.com/album/2YDFvGYKnaUcB5O84yvsvM"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 214197,
       "name": "Que Merezca la Pena",
       "url": "https://open.spotify.com/track/57YBT0mbIqGTHbTolngDj4"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 187605,
+      "name": "23",
+      "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Mi Nombre",
-        "url": "https://open.spotify.com/album/7jQDWCApvDP7E956bc4qsK"
-      },
-      "artists": [
-        {
-          "name": "Leire Martinez",
-          "url": "https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD"
-        }
-      ],
-      "duration_ms": 172130,
-      "name": "Mi Nombre",
-      "url": "https://open.spotify.com/track/3DmtqxgDnhQw9uPY10TPxk"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Mi Nombre",
+        "url": "https://open.spotify.com/album/7jQDWCApvDP7E956bc4qsK"
+      },
+      "artists": [
+        {
+          "name": "Leire Martinez",
+          "url": "https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD"
+        }
+      ],
+      "duration_ms": 172130,
+      "name": "Mi Nombre",
+      "url": "https://open.spotify.com/track/3DmtqxgDnhQw9uPY10TPxk"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Sin Enchufe",
+        "url": "https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj"
+      },
+      "artists": [
+        {
+          "name": "M-Clan",
+          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+        }
+      ],
+      "duration_ms": 263679,
+      "name": "Carolina - En directo 2000",
+      "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Muero",
         "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 217476,
       "name": "Muero",
       "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Sin Enchufe",
-        "url": "https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj"
-      },
-      "artists": [
-        {
-          "name": "M-Clan",
-          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
-        }
-      ],
-      "duration_ms": 263679,
-      "name": "Carolina - En directo 2000",
-      "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Sintiendonos La Piel",
+        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "Bailar Pegados",
+      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Desamarte",
         "url": "https://open.spotify.com/album/6cje9Av6IKMjGPU0HDw5Rn"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 153040,
       "name": "BAI-LALA",
       "url": "https://open.spotify.com/track/2uaKfM2eY5AsomhPWMh7lP"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Sintiendonos La Piel",
-        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
-      },
-      "artists": [
-        {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "Bailar Pegados",
-      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2379,26 +2379,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Correcaminos",
-        "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Correcaminos",
-      "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/5edB3I7c5aZj1bH2obUXne"
       },
@@ -2419,6 +2399,26 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Correcaminos",
+        "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Correcaminos",
+      "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Canciones para el tiempo y la distancia",
         "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
       },
@@ -2431,38 +2431,6 @@
       "duration_ms": 278333,
       "name": "Turnedo",
       "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 164599,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "UN BESO A LA MITAD",
-        "url": "https://open.spotify.com/album/2SpVXgNVfZryttRU7IREqE"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 152083,
-      "name": "UN BESO A LA MITAD",
-      "url": "https://open.spotify.com/track/0sZqCs8qlLmKNpvP7AbETA"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2499,6 +2467,38 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "UN BESO A LA MITAD",
+        "url": "https://open.spotify.com/album/2SpVXgNVfZryttRU7IREqE"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 152083,
+      "name": "UN BESO A LA MITAD",
+      "url": "https://open.spotify.com/track/0sZqCs8qlLmKNpvP7AbETA"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 164599,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Palabra Prohibida",
         "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
       },
@@ -2531,26 +2531,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Mi Persona Favorita",
-        "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 239972,
-      "name": "Mi Persona Favorita",
-      "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
       },
@@ -2571,6 +2551,26 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Mi Persona Favorita",
+        "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 239972,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/2IAyprsfyoPBGDvbLjgsN5"
       },
@@ -2583,22 +2583,6 @@
       "duration_ms": 213869,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "4 Canciones",
-        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "No Puedo Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2623,22 +2607,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Carne y Hueso",
-        "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 178309,
-      "name": "Carne y Hueso",
-      "url": "https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Atlantic 60th: Soul, Sweat And Strut",
         "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
@@ -2651,6 +2619,22 @@
       "duration_ms": 142186,
       "name": "Respect - 2003 Remaster",
       "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Carne y Hueso",
+        "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 178309,
+      "name": "Carne y Hueso",
+      "url": "https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2671,6 +2655,22 @@
       "duration_ms": 200294,
       "name": "SUPERH\u00c9ROES",
       "url": "https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "4 Canciones",
+        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "No Puedo Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
       "added_at": "2025-07-18 14:13:17",

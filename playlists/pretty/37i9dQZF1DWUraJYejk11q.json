@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 467315,
+  "num_followers": 467323,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -485,10 +485,10 @@
       "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
     },
     {
-      "added_at": "2022-08-03 03:56:04",
+      "added_at": "2024-08-14 17:52:43",
       "album": {
-        "name": "Planta Dance",
-        "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
+        "name": "Sweet Velvet Worm",
+        "url": "https://open.spotify.com/album/2LIpCB7jJ3OefbgGqrvMPd"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Planta Dance",
-      "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
+      "duration_ms": 93000,
+      "name": "Sweet Velvet Worm",
+      "url": "https://open.spotify.com/track/6gI3gXSgxvzObOjRn0urjM"
     },
     {
       "added_at": "2023-04-12 14:46:36",
@@ -565,10 +565,10 @@
       "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
-      "added_at": "2024-08-14 17:52:43",
+      "added_at": "2022-08-03 03:56:04",
       "album": {
-        "name": "Sweet Velvet Worm",
-        "url": "https://open.spotify.com/album/2LIpCB7jJ3OefbgGqrvMPd"
+        "name": "Planta Dance",
+        "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 93000,
-      "name": "Sweet Velvet Worm",
-      "url": "https://open.spotify.com/track/6gI3gXSgxvzObOjRn0urjM"
+      "duration_ms": 186000,
+      "name": "Planta Dance",
+      "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -761,26 +761,6 @@
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
-      "added_at": "2022-02-25 05:12:51",
-      "album": {
-        "name": "April Dub",
-        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
-      },
-      "artists": [
-        {
-          "name": "Sancho Meiso Chaya",
-          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
-        },
-        {
-          "name": "Koyas",
-          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "April Dub (Koyas Mix)",
-      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
       "added_at": "2024-05-08 03:36:12",
       "album": {
         "name": "The Precision of Infinity",
@@ -799,6 +779,26 @@
       "duration_ms": 280200,
       "name": "The Precision Of Infinity",
       "url": "https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD"
+    },
+    {
+      "added_at": "2022-02-25 05:12:51",
+      "album": {
+        "name": "April Dub",
+        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
+      },
+      "artists": [
+        {
+          "name": "Sancho Meiso Chaya",
+          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
+        },
+        {
+          "name": "Koyas",
+          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
+        }
+      ],
+      "duration_ms": 260006,
+      "name": "April Dub (Koyas Mix)",
+      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
       "added_at": "2022-08-19 02:33:31",

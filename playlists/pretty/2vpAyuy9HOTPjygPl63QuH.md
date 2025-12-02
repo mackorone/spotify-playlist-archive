@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 14,667 likes - 55 songs - 2 hr 47 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 14,671 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 42 | [Diva](https://open.spotify.com/track/3QTIyOvn8OPufLrFf7oQDt) | [NO STATIC](https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29) | [Diva](https://open.spotify.com/album/31eM2oG8L7OoV7TU3QZzNd) | 3:10 |
 | 43 | [Hot Off the Press](https://open.spotify.com/track/2NssfmOLDE2UoiJglUY7Za) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Hot Off the Press](https://open.spotify.com/album/6GXurSNtFzMt3VI6KAPq8H) | 3:42 |
 | 44 | [Satisfied](https://open.spotify.com/track/3CQ2QRDzwDsXOVfcgWv8fz) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Satisfied](https://open.spotify.com/album/6GcSYwy2vLagFVDZ5X7zWq) | 3:41 |
-| 45 | [Stick Up \(with DR MAD\)](https://open.spotify.com/track/7IuiNlTTt8jthnExpNBfFD) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1), [DR MAD](https://open.spotify.com/artist/6LQguxTz5ZsPAAdN6eVPuj) | [Stick Up \(with DR MAD\)](https://open.spotify.com/album/4XWUDifkamlHi57EgdQdY4) | 3:02 |
+| 45 | [Stick Up](https://open.spotify.com/track/7IuiNlTTt8jthnExpNBfFD) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1), [DR MAD](https://open.spotify.com/artist/6LQguxTz5ZsPAAdN6eVPuj) | [Stick Up](https://open.spotify.com/album/4XWUDifkamlHi57EgdQdY4) | 3:02 |
 | 46 | [Second Guessing](https://open.spotify.com/track/0vnUYIci7W2JoTY5rYRe6w) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Second Guessing](https://open.spotify.com/album/5V4RJbimCinH8EzkcTgggH) | 2:45 |
 | 47 | [Ecstasy \(Take Your Shirts Off\) \- DJ Licious Remix](https://open.spotify.com/track/3qKz4gYsU8aOJXld0SPawR) | [Johnny Vicious](https://open.spotify.com/artist/0ElFqgRJ2ntCvvdWNyXUBh), [Lula](https://open.spotify.com/artist/6LRf0MemUNpINQO47Fhe7W), [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Ecstasy \(Take Your Shirts Off\) \(DJ Licious Remix\)](https://open.spotify.com/album/1FwIX5kmJMChTv4y18ukPa) | 2:29 |
 | 48 | [Buster Speaker](https://open.spotify.com/track/0sPFIFlnK5xAi86IOmlx35) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn) | [Speaker Buster EP](https://open.spotify.com/album/7LV63BuUYqmiJ4FHYnu50x) | 4:35 |

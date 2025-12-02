@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,455 likes - 340 songs - 19 hr 6 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,473 likes - 348 songs - 19 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -348,5 +348,13 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 338 | [Free To Be Me](https://open.spotify.com/track/2BR7K14jzGCa03JwknWE4o) | [VALORÉ](https://open.spotify.com/artist/2CLXmx11PQ9aUkXfjaSyYo) | [Free To Be Me](https://open.spotify.com/album/2mf6avsFsYtT9FaFDNBuQE) | 3:57 |
 | 339 | [Don't Get Stuck on Yourself, Pt 7](https://open.spotify.com/track/3fqaEbb1OUnsblm0zZEz6v) | [Nada UV](https://open.spotify.com/artist/4musO8DBvt9mUrWmR3PUQc) | [Don't Get Stuck on Yourself](https://open.spotify.com/album/1uB3maO8CKYXhT2WZvHPiW) | 3:43 |
 | 340 | [The Product of Eights](https://open.spotify.com/track/0lO2f2plToa4AOTrff4A4G) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Lamp and Table](https://open.spotify.com/album/6prKFt1sVLA54zP2pnTI7p) | 4:03 |
+| 341 | [How Long ?](https://open.spotify.com/track/2f5gcWen1oos50g2yA5jYI) | [Ketan Shah](https://open.spotify.com/artist/4I3NAsMT2ReFdGiioOYRhn) | [How Long ?](https://open.spotify.com/album/4Om7NEL93XDC5dtqgfr1IM) | 2:50 |
+| 342 | [Make it Shine](https://open.spotify.com/track/5rTVTwxZcjJ4SeYUSsDL3A) | [Nicolás Romero](https://open.spotify.com/artist/1GiJPE1oG26tlT4W28FEp0) | [Make it Shine](https://open.spotify.com/album/4AntAdQPvM6NXiEAAiGwJ3) | 3:24 |
+| 343 | [Can I Have This Dance? \- Single Version](https://open.spotify.com/track/7hGbcTDu19Bwc4jHT0nWxj) | [Alex Gabriel](https://open.spotify.com/artist/42d97fn8MuX8haj1vzuWeH) | [Can I Have This Dance?](https://open.spotify.com/album/79VZiLFDnhYYdm16jtT61k) | 3:20 |
+| 344 | [Temporary Cities \- Acoustic Room Session](https://open.spotify.com/track/3Ttzuxvi6O82n3ZfJFc3MO) | [Low Tide Atlas](https://open.spotify.com/artist/0hFNBhlmkKX8QrJgQFcXdC) | [Temporary Cities Remixes](https://open.spotify.com/album/3sEA2MEowIThWeWz3K59Ck) | 3:01 |
+| 345 | [follow my rhythm](https://open.spotify.com/track/0MiJdUtnv11W5MGNOMxGAB) | [MIRIIEM](https://open.spotify.com/artist/44UwKvv3KL8W83pbxsID5t), [Von Hortix](https://open.spotify.com/artist/5e0Spjepkjnoo1qJIGtcjQ) | [follow my rhythm](https://open.spotify.com/album/74OBwZJzchBJf6fpjrCFm9) | 1:59 |
+| 346 | [Tip of the Allure](https://open.spotify.com/track/2QNDplH02fSm8qkgDaU0KR) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Lamp and Table](https://open.spotify.com/album/6prKFt1sVLA54zP2pnTI7p) | 3:13 |
+| 347 | [Aspiration for Relocation](https://open.spotify.com/track/6OMBqnbAOqrN1USS9IpxPw) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Lamp and Table](https://open.spotify.com/album/6prKFt1sVLA54zP2pnTI7p) | 2:58 |
+| 348 | [Comet](https://open.spotify.com/track/34fvTZ7WedEbhWfbsTZ8Fp) | [Joshua Scarpaci](https://open.spotify.com/artist/0wJ6cH1pehhasDf6q0GRS0) | [Effigy](https://open.spotify.com/album/1NVuDe3ln3ktAQ9toLGYfe) | 5:50 |
 
-Snapshot ID: `AAAyBjUMpGqzaTeNAZ6yv9Z0oxVUhxah`
+Snapshot ID: `AAAyDuF+9B8wUUgQhMv/W+cQhvZk/qZN`

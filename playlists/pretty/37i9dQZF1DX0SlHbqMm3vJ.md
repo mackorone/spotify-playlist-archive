@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > Sweet afro melodies\. Cover:  FAVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,909 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,926 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 70 | [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 2:31 |
 | 71 | [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 |
 | 72 | [Anyway](https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Hard Guy Confessions](https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo) | 3:54 |
-| 73 | [Commitment](https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Commitment](https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd) | 3:11 |
-| 74 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 |
+| 73 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 |
+| 74 | [Commitment](https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Commitment](https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd) | 3:11 |
 | 75 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 |
 | 76 | [Why You Lying](https://open.spotify.com/track/0Xol9bu4ZcAhxbUYZDKKVf) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Why You Lying](https://open.spotify.com/album/1iwiVSNUzS3ylg3XqHcmID) | 2:43 |
 | 77 | [I'm Available](https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [I'm Available](https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8) | 3:16 |

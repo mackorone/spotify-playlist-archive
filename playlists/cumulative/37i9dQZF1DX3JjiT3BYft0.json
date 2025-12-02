@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 252935,
       "name": "flame of hope",
       "url": "https://open.spotify.com/track/6jJpBqyEHynJY4AltSZ6m7"
@@ -4890,7 +4890,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 298700,
       "name": "\u304b\u304f\u308c\u3093\u307c - Cover",
       "url": "https://open.spotify.com/track/74KEa2YphxxbDhOOjCG7O8"
@@ -5910,6 +5910,24 @@
       "duration_ms": 307566,
       "name": "\u30ab\u30ca\u30e6\u30e1",
       "url": "https://open.spotify.com/track/4HnYTgVOCNihjBLzCOv8uQ"
+    },
+    {
+      "album": {
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218833,
+      "name": "\u30ab\u30e9\u30d5\u30eb\u30ea\u30d0\u30c6\u30a3\u30fc",
+      "url": "https://open.spotify.com/track/3R25yGgpbQ92tEvaDBCkD7"
     },
     {
       "album": {
@@ -7472,7 +7490,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 215968,
       "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
       "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"

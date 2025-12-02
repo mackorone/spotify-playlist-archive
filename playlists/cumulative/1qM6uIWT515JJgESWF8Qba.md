@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-70 songs - 4 hr 8 min
+72 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Devil With The Black Dress On](https://open.spotify.com/track/6vYQkUxIR0CpiJk5qg1Uwn) | [Sarah & The Silent Poets](https://open.spotify.com/artist/13K8ORHx1WpF9cCTQwQVcB) | [Devil With The Black Dress On](https://open.spotify.com/album/1McZnjNxg94UudFY94fRzo) | 2:27 | 2025-10-25 |  |
 | [Diane \- Demo Version](https://open.spotify.com/track/5xiZ1UJ3CFjvcXNJNO7plw) | [Ceramic Doves](https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2) | [Diane \(Demo Version\)](https://open.spotify.com/album/6DBiT8SsreCrtgUgTsMxCc) | 4:11 | 2025-10-17 |  |
 | [El Camino](https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [El Camino](https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F) | 4:30 | 2025-11-16 |  |
+| [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 | 2025-12-01 |  |
 | [Eliza](https://open.spotify.com/track/32JjgWkNFsHvnpkTw9HjkJ) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Eliza](https://open.spotify.com/album/1fdfeMzHPdAI4JmFlslw7W) | 3:09 | 2025-09-23 |  |
 | [Espérame](https://open.spotify.com/track/02MC4VLfrsNdMcS4gwjph1) | [Forte](https://open.spotify.com/artist/0KGiPwvoreglthW7aq0R3V) | [Espérame](https://open.spotify.com/album/3FyiS5bBxKl6zhAQi0lVZA) | 3:26 | 2025-10-11 |  |
 | [Eva sin nombre](https://open.spotify.com/track/4o3uIjspoGtA5aTokB9tsT) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 3:09 | 2025-11-04 |  |
@@ -44,6 +45,7 @@
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2025-09-12 |  |
 | [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 | 2025-11-04 |  |
 | [King Tide](https://open.spotify.com/track/0oOfLzw44wpabfgz4GcZhU) | [The Fu King](https://open.spotify.com/artist/35TcrL9g3yu0tOfiTB4rVZ) | [From The Tide](https://open.spotify.com/album/0EQLgTtAsgyeQV9V1OmUPF) | 4:05 | 2025-11-08 |  |
+| [La Muerte No Es El Final](https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [La Muerte No Es El Final](https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2) | 5:01 | 2025-12-01 |  |
 | [Little Flint Lighter \- Single Version](https://open.spotify.com/track/5wKplKbLsM9GT7JnDy9TGh) | [Ceramic Doves](https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2) | [Little Flint Lighter](https://open.spotify.com/album/6VpPtIIYiPZjbDuAWWHfdD) | 3:19 | 2025-09-19 |  |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-11-04 |  |
 | [LOVE ME, KISS ME, KILL ME](https://open.spotify.com/track/2WrOFJ7oNXuhGMfMoTz13y) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 2:42 | 2025-10-31 | 2025-11-21 |

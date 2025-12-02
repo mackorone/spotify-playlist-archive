@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed no hay nostalgia, \u00a1se vino la pachanga!, y el <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM\">Rock S\u00f3nico</a> tambi\u00e9n!",
-  "num_followers": 390078,
+  "num_followers": 390086,
   "original_name": "Los 90 Argentina",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAABs2cyffaHFU/mRPA9cJUnnq1E09",
   "tracks": [
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
-        "name": "El Milagro Argentino",
-        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Loco (Tu Forma De Ser)",
-      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
-    },
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 277653,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "El Milagro Argentino",
+        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Loco (Tu Forma De Ser)",
+      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Honestidad Brutal",
         "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 235560,
       "name": "Te quiero igual",
       "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Peluson Of Milk",
-        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Seguir Viviendo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 234813,
       "name": "Para no olvidar",
       "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Peluson Of Milk",
+        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Seguir Viviendo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "El amor despu\u00e9s del amor",
-      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 161800,
       "name": "La Muralla Verde",
       "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "El amor despu\u00e9s del amor",
+      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 276666,
+      "name": "Aqu\u00ed no podemos hacerlo",
+      "url": "https://open.spotify.com/track/69ag2gM05lwYtR9qlJmTBC"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 194960,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/2KeidigK5po1qoREBuX35Z"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 276666,
-      "name": "Aqu\u00ed no podemos hacerlo",
-      "url": "https://open.spotify.com/track/69ag2gM05lwYtR9qlJmTBC"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Un Poco Loco",
-        "url": "https://open.spotify.com/album/4MgEbkH0Fxs1QZ6bWQswGc"
-      },
-      "artists": [
-        {
-          "name": "Sergio Denis",
-          "url": "https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe"
-        }
-      ],
-      "duration_ms": 256293,
-      "name": "Un Poco Loco",
-      "url": "https://open.spotify.com/track/48NK3TYEBDBCEwoDPIcC5p"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Tiempo De Amor",
         "url": "https://open.spotify.com/album/5OwelDcaYYS0UhTpkugIOO"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 245653,
       "name": "Me Enamor\u00e9 De Una Zamba",
       "url": "https://open.spotify.com/track/3HaGUHpK1zyL3BqbIz2cCO"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Un Poco Loco",
+        "url": "https://open.spotify.com/album/4MgEbkH0Fxs1QZ6bWQswGc"
+      },
+      "artists": [
+        {
+          "name": "Sergio Denis",
+          "url": "https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe"
+        }
+      ],
+      "duration_ms": 256293,
+      "name": "Un Poco Loco",
+      "url": "https://open.spotify.com/track/48NK3TYEBDBCEwoDPIcC5p"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Nunca Supe M\u00e1s De Ti",
-        "url": "https://open.spotify.com/album/2jqxJKn4vvVDcOkdjt1OYg"
-      },
-      "artists": [
-        {
-          "name": "Sergio Denis",
-          "url": "https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe"
-        }
-      ],
-      "duration_ms": 241253,
-      "name": "Nunca Supe M\u00e1s de Ti",
-      "url": "https://open.spotify.com/track/3o9TaOJ5iFjHalmNEgENwj"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Signos",
         "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 203933,
       "name": "Cosa Peligrosa",
       "url": "https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Nunca Supe M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/2jqxJKn4vvVDcOkdjt1OYg"
+      },
+      "artists": [
+        {
+          "name": "Sergio Denis",
+          "url": "https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe"
+        }
+      ],
+      "duration_ms": 241253,
+      "name": "Nunca Supe M\u00e1s de Ti",
+      "url": "https://open.spotify.com/track/3o9TaOJ5iFjHalmNEgENwj"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "La Vida Vale La Pena",
-        "url": "https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B"
+        "name": "Entrelineas",
+        "url": "https://open.spotify.com/album/2iVlCrcrvCOSXBVRUKlPuA"
       },
       "artists": [
         {
-          "name": "Sergio Denis",
-          "url": "https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe"
+          "name": "Alejandro Lerner",
+          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Te Quiero Tanto, No Me Preguntes M\u00e1s",
-      "url": "https://open.spotify.com/track/0sKaMeuhSx79DcDYClZl4s"
+      "duration_ms": 278493,
+      "name": "Algo De Mi En Tu Corazon",
+      "url": "https://open.spotify.com/track/3ceynCx3IvBPu8OnjkpNym"
     }
   ],
   "unique_name": "Los 90 Argentina",

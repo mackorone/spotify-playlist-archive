@@ -4,7 +4,7 @@
 
 > Enjoy the best of acoustic, easy listening pop, and singer\-songwriter music for work, study or relaxing with a cup of coffee or tea\. Warm melodies to create the perfect mood for your lovely day\. Best coffee lounge background music 2025\. Koffie \| Koffiehuis \| Musique de café \| música ambiente de café
 
-369 songs - 20 hr 27 min
+370 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 | 2025-07-18 | 2025-08-23 |
 | [Find Me](https://open.spotify.com/track/601duPbqge25OtknrrS99N) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Find Me](https://open.spotify.com/album/2Bw4yItttk3AbNpgCxecrh) | 4:04 | 2025-10-15 |  |
 | [Find My Love](https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Find My Love](https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m) | 3:41 | 2025-09-26 | 2025-11-01 |
+| [Float](https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Float](https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y) | 2:57 | 2025-12-01 |  |
 | [folding chairs on the moon](https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [folding chairs on the moon](https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc) | 3:20 | 2025-09-19 |  |
 | [Fool's Gold](https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Fool's Gold](https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG) | 3:17 | 2025-11-21 |  |
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2025-07-18 |  |

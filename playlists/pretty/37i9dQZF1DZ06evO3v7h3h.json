@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46084,
+  "num_followers": 46087,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAADzD6ndcAB0t/k0UZfvdVbL",
+  "snapshot_id": "aSuJAAAAAABRGEMOfToX4DBe2w5nonMO",
   "tracks": [
     {
       "added_at": null,
@@ -223,46 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e1diva & D\u00edvida",
-        "url": "https://open.spotify.com/album/69FEbB83gglKjWddcLHRs1"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "Plantar o Bem",
-      "url": "https://open.spotify.com/track/4n1fk1y5Jn0hL8EsrGyIbO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 235740,
-      "name": "V\u00edcio",
-      "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BUNMI",
         "url": "https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX"
       },
@@ -295,22 +255,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guizo de Cascavel",
-        "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 235740,
+      "name": "V\u00edcio",
+      "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e1diva & D\u00edvida",
+        "url": "https://open.spotify.com/album/69FEbB83gglKjWddcLHRs1"
+      },
+      "artists": [
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
         }
       ],
-      "duration_ms": 226026,
-      "name": "Pegapacap\u00e1",
-      "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
+      "duration_ms": 249800,
+      "name": "Plantar o Bem",
+      "url": "https://open.spotify.com/track/4n1fk1y5Jn0hL8EsrGyIbO"
     },
     {
       "added_at": null,
@@ -331,6 +311,26 @@
       "duration_ms": 199418,
       "name": "O Rap \u00e9 Preto",
       "url": "https://open.spotify.com/track/2KEDTRHmAxmuHLaOqfWRL5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guizo de Cascavel",
+        "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 226026,
+      "name": "Pegapacap\u00e1",
+      "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
     },
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Fi\u00f3ti",
-          "url": "https://open.spotify.com/artist/2M89xAvGk4XHPq4C2tkISM"
-        }
-      ],
-      "duration_ms": 264666,
-      "name": "Bilhete",
-      "url": "https://open.spotify.com/track/13bwumEsyE9pgINu4whxaG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 219294,
       "name": "Levante",
       "url": "https://open.spotify.com/track/67rPbbujQNh4XYwtwAowTs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Fi\u00f3ti",
+          "url": "https://open.spotify.com/artist/2M89xAvGk4XHPq4C2tkISM"
+        }
+      ],
+      "duration_ms": 264666,
+      "name": "Bilhete",
+      "url": "https://open.spotify.com/track/13bwumEsyE9pgINu4whxaG"
     },
     {
       "added_at": null,
@@ -987,22 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 255274,
-      "name": "T\u00e3o Real",
-      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus \u00c9 Brasileiro",
         "url": "https://open.spotify.com/album/0kLE6hMfgjBcb0twaLuJh4"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 170261,
       "name": "O Que Se Leva (D\u00f3i)",
       "url": "https://open.spotify.com/track/336MAGcI93mYzYuKDHYOPN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 255274,
+      "name": "T\u00e3o Real",
+      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
     },
     {
       "added_at": null,

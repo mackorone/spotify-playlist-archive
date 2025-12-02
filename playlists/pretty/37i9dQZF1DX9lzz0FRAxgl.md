@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lzz0FRAxgl.md) - [plain]
 
 > The most streamed artists of 2024\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,247 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,197 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

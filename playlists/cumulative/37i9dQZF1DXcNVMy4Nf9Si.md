@@ -4,7 +4,7 @@
 
 > Hear all of TAEYEON's biggest and best hits in one playlist.
 
-97 songs - 5 hr 41 min
+100 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [HORIZON](https://open.spotify.com/track/1r246NLH1h9IJNrlyKG1Db) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [VOICE](https://open.spotify.com/album/0sbwoolm9aZGBPBEqoU3CX) | 3:51 | 2022-02-14 |  |
 | [Hot Mess](https://open.spotify.com/track/1905x5T3TtMOofjc5gokcJ) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Letter To Myself \- The 6th Mini Album](https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM) | 2:28 | 2024-11-18 |  |
 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 | 2022-02-14 |  |
+| [I \- Solo Version](https://open.spotify.com/track/1BeHYpckDSNCaSinsL1srg) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 2:43 | 2025-12-01 |  |
 | [I Blame On You](https://open.spotify.com/track/4jxWO5zC2SiW9aw7nMJHia) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:23 | 2022-02-14 |  |
 | [I Do](https://open.spotify.com/track/61PtA6pqNIxE8ABUTSjpTJ) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [I Do](https://open.spotify.com/album/1YVR7UhMNe2ZdgRWzbH8Ix) | 3:53 | 2022-02-14 |  |
 | [I Found You](https://open.spotify.com/track/22D4S0uS0An4RjEfl9eNFs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [VOICE](https://open.spotify.com/album/0sbwoolm9aZGBPBEqoU3CX) | 3:51 | 2022-02-14 |  |
@@ -75,6 +76,7 @@
 | [No Love Again](https://open.spotify.com/track/2b0RhgCNG1jIU8gc5HoGRM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:14 | 2022-02-14 |  |
 | [One Day](https://open.spotify.com/track/6hjvQTrIkCc8gAX4BfSJjn) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Something New \- The 3rd Mini Album](https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx) | 3:30 | 2022-02-14 |  |
 | [Only one](https://open.spotify.com/track/0V7f8xzZdIrtlNnhEOMAYH) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Baramibunda OST Part 5](https://open.spotify.com/album/6bp7CU0TgsOOhXIyAuejtG) | 4:15 | 2022-02-14 |  |
+| [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 | 2025-12-01 |  |
 | [Rain](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:42 | 2022-02-14 |  |
 | [Rescue Me](https://open.spotify.com/track/0xO4wM6ZRx5OMOSv2RHoMk) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [ファイナルライフ \-明日、君が消えても\- \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/6rhSqYOzLZzDqKLNqnJH0u) | 4:22 | 2022-02-14 |  |
 | [Secret](https://open.spotify.com/track/3Outs0mBJ9APOreUan9xpU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:37 | 2022-02-14 |  |
@@ -89,6 +91,7 @@
 | [Stress](https://open.spotify.com/track/0a0FISfY8ty1xC69xCWf2T) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:20 | 2022-02-14 |  |
 | [Sweet Love](https://open.spotify.com/track/1vCo4BownrOY4nRZbpmrJO) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:04 | 2022-02-14 |  |
 | [Time Lapse](https://open.spotify.com/track/5xHSzEHkbQSc5n4ATBv1du) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 4:14 | 2022-02-14 |  |
+| [Time Lapse \- 2025 Mix](https://open.spotify.com/track/7KE1VYKvj5XIXEis0OfQfv) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 4:16 | 2025-12-01 |  |
 | [Timeless](https://open.spotify.com/track/07jwaA0nfuC2DmZd5n1l7t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:22 | 2022-02-14 |  |
 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2023-11-28 |  |
 | [Toddler](https://open.spotify.com/track/73pehvxZUb87PhgyJJpTlw) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:08 | 2022-02-14 |  |

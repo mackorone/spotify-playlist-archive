@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,505 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,498 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 49 | [Wuare](https://open.spotify.com/track/1neJsVtfemKIgongN9f81B) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Wuare](https://open.spotify.com/album/1rIFTkdKouh3pOlpVPkkCu) | 3:28 |
 | 50 | [No Te Metas](https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te Metas](https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS) | 3:39 |
 
-Snapshot ID: `aSo3gAAAAABudCx5lfMyMHJpNp2+yEKG`
+Snapshot ID: `aSuJAAAAAABtlNmUnTZrcvVCnwMEjH1w`

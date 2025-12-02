@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 733777,
+  "num_followers": 733728,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-10-31 00:00:20",
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "duration_ms": 136406,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
+    },
+    {
+      "added_at": "2025-10-31 00:00:20",
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 184827,
       "name": "On & On",
       "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
-    },
-    {
-      "added_at": "2025-10-31 00:00:20",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
-      },
-      "artists": [
-        {
-          "name": "Lance Savali",
-          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
-        }
-      ],
-      "duration_ms": 136406,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
     },
     {
       "added_at": "2025-10-31 00:00:20",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-10-31 00:00:20",
       "album": {
-        "name": "Push The Tempo",
-        "url": "https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Katy B",
-          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
-        }
-      ],
-      "duration_ms": 161829,
-      "name": "Push The Tempo",
-      "url": "https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih"
-    },
-    {
-      "added_at": "2025-10-31 00:00:20",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 135796,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
+    },
+    {
+      "added_at": "2025-10-31 00:00:20",
+      "album": {
+        "name": "Push The Tempo",
+        "url": "https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "duration_ms": 161829,
+      "name": "Push The Tempo",
+      "url": "https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih"
     },
     {
       "added_at": "2025-10-31 00:00:20",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2025-10-31 00:00:20",
       "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+    },
+    {
+      "added_at": "2025-10-31 00:00:20",
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/1Q4zTa81s8VP7IassEY19p"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 182187,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/42z3F0ZAieWd7RmyOuuqqH"
-    },
-    {
-      "added_at": "2025-10-31 00:00:20",
-      "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2025-10-31 00:00:20",

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Lisa Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,454 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,443 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Omdat Ik Zo Van Je Hou](https://open.spotify.com/track/71ASAZJIhXdaJF0OCIXc4S) | [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F) | [Omdat Ik Zo Van Je Hou](https://open.spotify.com/album/7g8XEtDOkB631Cx7eWFbS8) | 3:33 |
 | 2 | [Puinhoop](https://open.spotify.com/track/5UR6iM7zFdl0JhY4JZ7NIw) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Puinhoop](https://open.spotify.com/album/0HOPa8tTcv1s2K1JbI2UPW) | 2:14 |
-| 3 | [Wilde Haren](https://open.spotify.com/track/43dR27JJXlHXChYAn1GzCU) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL), [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Wilde Haren](https://open.spotify.com/album/1dr8RpVNjeWCoHOl7Ht7G4) | 3:36 |
-| 4 | [Ik Denk Aan Jou](https://open.spotify.com/track/61fynrd8AHMoqxLLdz5RbD) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Ik Denk Aan Jou](https://open.spotify.com/album/3neg2FwR8vVtWc4bBMCoDJ) | 2:45 |
-| 5 | [De Verte](https://open.spotify.com/track/24ilUvYVzOQ3bezUYj2QC1) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [De Verte](https://open.spotify.com/album/6tQJ5JvF9PUMvrhHM9wr88) | 3:18 |
-| 6 | [Mannen Kunnen Niet Alleen Zijn](https://open.spotify.com/track/2IFrrEwJ2RNjVtt0AlxQug) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Eindelijk Mezelf](https://open.spotify.com/album/3m4wxl3CdPKHNaJMMCzFZl) | 3:00 |
+| 3 | [Mannen Kunnen Niet Alleen Zijn](https://open.spotify.com/track/2IFrrEwJ2RNjVtt0AlxQug) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Eindelijk Mezelf](https://open.spotify.com/album/3m4wxl3CdPKHNaJMMCzFZl) | 3:00 |
+| 4 | [Wilde Haren](https://open.spotify.com/track/43dR27JJXlHXChYAn1GzCU) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL), [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Wilde Haren](https://open.spotify.com/album/1dr8RpVNjeWCoHOl7Ht7G4) | 3:36 |
+| 5 | [Ik Denk Aan Jou](https://open.spotify.com/track/61fynrd8AHMoqxLLdz5RbD) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Ik Denk Aan Jou](https://open.spotify.com/album/3neg2FwR8vVtWc4bBMCoDJ) | 2:45 |
+| 6 | [De Verte](https://open.spotify.com/track/24ilUvYVzOQ3bezUYj2QC1) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [De Verte](https://open.spotify.com/album/6tQJ5JvF9PUMvrhHM9wr88) | 3:18 |
 | 7 | [Als We Vallen](https://open.spotify.com/track/1bz0zQFZGNVEVSarOUAv53) | [Kiya](https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9) | [Als We Vallen](https://open.spotify.com/album/5Qf92KQ3yRb5s6f9KKkCzM) | 3:29 |
 | 8 | [Kapot](https://open.spotify.com/track/6a6RwdVkTtsjF15DCfi4Wz) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Kapot](https://open.spotify.com/album/2QAQiSleQ9tMNjchs39yXD) | 2:40 |
 | 9 | [Noorderlicht](https://open.spotify.com/track/2yy0FHQvXgj9tZHceIjZpL) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Noorderlicht](https://open.spotify.com/album/2hWs52poL7yBwoRYNTQ4MP) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 99 | [Hamer op mijn hart](https://open.spotify.com/track/0IH3FMkshOXur7jnTWdbtL) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Hamer op mijn hart](https://open.spotify.com/album/4HooLHxXVxnri1TcS8jZH2) | 2:53 |
 | 100 | [Beste Fout](https://open.spotify.com/track/6vYnml6p32VEStxD8ke7aX) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Beste Fout](https://open.spotify.com/album/7dAUv80dbGXyDebYTU489n) | 2:51 |
 
-Snapshot ID: `AAAAAOW+X2Lxw14mrqjSuqNNSdMvdgUn`
+Snapshot ID: `AAAAABqfP3dY9H+jCFZJ4mQAkyEWgtfd`

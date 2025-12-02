@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Capital Inicial
 
-578 songs - 1 day 8 hr 21 min
+579 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Mina](https://open.spotify.com/track/4YeJk4DpwDJmUIblg5uIMf) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Mina](https://open.spotify.com/album/3b37659m8j3fvRca3zrjAX) | 2:57 | 2022-01-14 | 2022-11-19 |
 | [Minha Essência é Essa](https://open.spotify.com/track/1nfY3lPdBRWKpcUD0IIes8) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN) | [Minha Essência é Essa](https://open.spotify.com/album/7BhRjF9uhRpzx6qgpXVeRm) | 3:49 | 2022-01-14 | 2022-10-01 |
 | [Minha Mulher \(Demo Aa 2002\)](https://open.spotify.com/track/4FF04gTcWUXNme7g5FEEhp) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [Minha Mulher \(Demo Aa 2002\)](https://open.spotify.com/album/3mwUKuY9J1GlhiEMJNwlNw) | 3:20 | 2024-05-31 | 2024-06-08 |
+| [Mistério](https://open.spotify.com/track/2yhT8YIrxrSbExf3hKOjY3) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Thiago Castanho](https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER) | [Movimento](https://open.spotify.com/album/45HaFiQ0qJTgBba3oDTl5K) | 3:19 | 2025-12-01 |  |
 | [Morango](https://open.spotify.com/track/4VbCUGxF5096npjS1q33TM) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Morango](https://open.spotify.com/album/7rvBnOpkHz92Tb6KGhYl5a) | 2:42 | 2024-06-21 | 2025-07-12 |
 | [Muito Além](https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Muito Além](https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo) | 2:48 | 2022-11-04 | 2024-01-27 |
 | [Musica Urbana](https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Capital Inicial 4.0 \(Deluxe\)](https://open.spotify.com/album/2Hd7jdiY7jTatb7DGiQZuv) | 6:10 | 2022-11-11 |  |

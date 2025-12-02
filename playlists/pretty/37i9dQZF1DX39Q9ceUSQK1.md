@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: White Lies
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,115 likes - 92 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,118 likes - 92 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 91 | [The Cheapest Seats](https://open.spotify.com/track/0gFwzYpoS3w2cPibHvy5zw) | [The Radar Station](https://open.spotify.com/artist/3Vp5u3UjIcleE3GSU5DSLs) | [Birds Of Choice](https://open.spotify.com/album/3ZrHnvW9hyrb5QvLa2NPvL) | 4:28 |
 | 92 | [Hinge](https://open.spotify.com/track/115eVVoPwI1MnXrEA0IEYv) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Hinge](https://open.spotify.com/album/07X1z4tHWK9GCMsOWvIcKV) | 2:40 |
 
-Snapshot ID: `AAAAAJ9PcOgE1dmJDDJaDdnqftg+Djo1`
+Snapshot ID: `AAAAANZMuVyIWqd3O/5fieP2oyJpjlPV`

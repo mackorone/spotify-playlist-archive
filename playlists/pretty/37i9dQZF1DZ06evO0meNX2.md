@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,539 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,555 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 4 | [EL R2](https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El R2](https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc) | 2:32 |
 | 5 | [SOY GRACIAS A DIOS](https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [SOY GRACIAS A DIOS](https://open.spotify.com/album/7nCy9Z4VJYjvyObsEwPDL4) | 2:43 |
 | 6 | [No Voy A Cambiar](https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [No Voy A Cambiar](https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf) | 2:45 |
-| 7 | [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:28 |
-| 8 | [Dejame Dormir](https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Dejame Dormir](https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh) | 2:40 |
+| 7 | [Dejame Dormir](https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Dejame Dormir](https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh) | 2:40 |
+| 8 | [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:28 |
 | 9 | [Olvídame Tú](https://open.spotify.com/track/66IMXYjOUbJcImGLpyC2Ka) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Olvídame Tú](https://open.spotify.com/album/2tSsIQp0KZgCOl99gCC5Is) | 3:40 |
 | 10 | [La Que Se Fue](https://open.spotify.com/track/1iYx0oRtpqkM6yMUll6eQY) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [La Que Se Fue](https://open.spotify.com/album/39VyjyZRf9Rctib71z1A0I) | 4:27 |
 | 11 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 49 | [Mimimi](https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Mimimi](https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0) | 2:59 |
 | 50 | [Gabachas](https://open.spotify.com/track/2R0ElsGmqt2dWLHWcRMbeN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [Gabachas](https://open.spotify.com/album/4TOQI9fuLr1WOpJ1GSFrJJ) | 2:07 |
 
-Snapshot ID: `aSo3gAAAAAAm57FZKnvb5Aum7itqgwJ7`
+Snapshot ID: `aSuJAAAAAACFss2HEMCAS1eEAe8/BQuU`

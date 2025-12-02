@@ -4,7 +4,7 @@
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-114 songs - 6 hr 8 min
+115 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Christmas Memories](https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Vivian Buczek](https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 4:58 | 2021-12-21 |  |
 | [Christmas Morning](https://open.spotify.com/track/1F1hIbXmFT3cb6oDv3hoal) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:58 | 2021-12-21 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/5yw9rlqduH5MoLCfGqTGgD) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Christmas Time Is Here](https://open.spotify.com/album/6PPcQRmwhQ4Uo6n2zhPdOT) | 2:44 | 2024-12-12 | 2025-03-14 |
+| [Christmas Time Is Here](https://open.spotify.com/track/1LGpzgmVBF47TBDqOxTHRA) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Christmas Time Is Here](https://open.spotify.com/album/5QKSi5WVcYdS7M7T49JBF5) | 4:38 | 2025-12-01 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/3HLuXYvlzcfAKMddEk73CE) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:58 | 2021-12-21 | 2022-11-13 |
 | [Cradle in Bethlehem](https://open.spotify.com/track/5ggS2BD1ZVTF6gHPGnsG1s) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas Wish](https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon) | 4:13 | 2023-11-10 |  |
 | [Everything’s Not Lost](https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Everything’s Not Lost](https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO) | 4:08 | 2023-09-22 |  |
@@ -103,7 +104,7 @@
 | [The Christmas Waltz](https://open.spotify.com/track/34Ri3Om2B8uVwtH0nINZKh) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:53 | 2021-12-21 | 2022-07-29 |
 | [The First Snowfall](https://open.spotify.com/track/5RIh3Tsq9U7CAvivB2iB7q) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Voice Of Christmas \- The Complete Decca Christmas Songbook](https://open.spotify.com/album/2FQOz20SAkrmTXtce20DFA) | 3:08 | 2022-12-22 | 2024-04-19 |
 | [The First Snowfall \- Single Version](https://open.spotify.com/track/1OwGYy9S2R0lzhoGn7vv6S) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [A Merry Christmas With Bing Crosby & The Andrews Sisters \(Remastered\)](https://open.spotify.com/album/0w8UpAutS4akZSqbvJH4fk) | 3:07 | 2021-12-21 | 2023-04-18 |
-| [The First Snowfall \- Single Version](https://open.spotify.com/track/5g7GS1C3zqW2evPRjqiOjA) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [A Merry Christmas With Bing Crosby & The Andrews Sisters](https://open.spotify.com/album/6gIKhHXyNJzmFO9OQpEL76) | 3:07 | 2021-12-21 |  |
+| [The First Snowfall \- Single Version](https://open.spotify.com/track/5g7GS1C3zqW2evPRjqiOjA) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [A Merry Christmas With Bing Crosby & The Andrews Sisters](https://open.spotify.com/album/6gIKhHXyNJzmFO9OQpEL76) | 3:07 | 2021-12-21 | 2025-12-02 |
 | [The Secret Of Christmas](https://open.spotify.com/track/0zxtIfanKG90yYZadCAjFP) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Jukebox Ella: The Complete Verve Singles \(Vol\. 1\)](https://open.spotify.com/album/5sOz9iMqXQbWonZKSHf4wT) | 2:45 | 2022-11-10 | 2022-11-13 |
 | [The Secret Of Christmas](https://open.spotify.com/track/23e53JCxxqZBTz5AO6SjTS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p) | 2:45 | 2021-12-21 |  |
 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 | 2021-12-21 | 2024-04-19 |

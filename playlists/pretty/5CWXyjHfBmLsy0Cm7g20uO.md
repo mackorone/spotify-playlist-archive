@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 763 likes - 129 songs - 8 hr 1 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 765 likes - 132 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,5 +137,8 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 | 127 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 |
 | 128 | [Paranoid Paradise](https://open.spotify.com/track/3m6xMEquN2cJ2oCghdIeKs) | [The Alternative Project](https://open.spotify.com/artist/68iqN5iGFyGYazmS5Qg3ER) | [Starting 24](https://open.spotify.com/album/0f4RaNF6eFksDXHCbmcpeh) | 4:30 |
 | 129 | [Rabia](https://open.spotify.com/track/2JiBnWtHKIFr9gH8yQTHp0) | [SBC TRINIDAD](https://open.spotify.com/artist/784SSel1L8TGhBlrANzeET) | [Rabia](https://open.spotify.com/album/4qCOtTxrPL2kYbeXH0E4VG) | 2:57 |
+| 130 | [It's Only Rock 'n' Roll \(But I Like It\)](https://open.spotify.com/track/6LgYr4tHifLhHdPS5OXkew) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Ain't Dead Yet](https://open.spotify.com/album/6WgRkxsyY5CNChBN70wGLQ) | 4:28 |
+| 131 | [Женщина](https://open.spotify.com/track/6nMGOXJqekVgIfJWUjyMQt) | [Эрик Шарипов](https://open.spotify.com/artist/4wZEqo5Khk8Dmam8PLe5xq) | [Женщина](https://open.spotify.com/album/1EauWCGwFOiE58e8Gq6Efp) | 3:04 |
+| 132 | [All The Streets Were Empty](https://open.spotify.com/track/2zVQBDD2vKOLpHyCnGiQVk) | [Noxura](https://open.spotify.com/artist/4H1RjP4HLvLn8QMRGsQTaV) | [Afterimages](https://open.spotify.com/album/0KJP6gjrr60y15M8tsPade) | 4:25 |
 
-Snapshot ID: `AAAFzjvgUtYrNoH6j70b7kFxDRptwdP8`
+Snapshot ID: `AAAF0e9/ns+cKtBKBu6WFibq77pX3GN1`

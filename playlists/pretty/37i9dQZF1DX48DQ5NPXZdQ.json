@@ -1,6 +1,6 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 69368,
+  "num_followers": 69382,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
+        "name": "A Mi Amor Con Mi Amor",
+        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
-        "name": "A Mi Amor Con Mi Amor",
-        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK"
     },
     {
       "added_at": "2024-07-05 02:05:16",

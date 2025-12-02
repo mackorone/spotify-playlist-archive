@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 504,
+  "num_followers": 505,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABV8WH/VF13lyTVZF3bWA6xyRStXmm",
+  "snapshot_id": "AAABWSti76KuNblRkPRjcoPvbg1iBMHf",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -7967,6 +7967,38 @@
       "duration_ms": 133666,
       "name": "Starhero",
       "url": "https://open.spotify.com/track/7hX6Maampqji3vHpftrHGV"
+    },
+    {
+      "added_at": "2025-12-01 14:18:29",
+      "album": {
+        "name": "On Display, Pt. 3",
+        "url": "https://open.spotify.com/album/2s8PuynnrQhk13zYrlEJSN"
+      },
+      "artists": [
+        {
+          "name": "Lil Nucleus",
+          "url": "https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ"
+        }
+      ],
+      "duration_ms": 116363,
+      "name": "On Display, Pt. 3",
+      "url": "https://open.spotify.com/track/5wM2zCngggufalq4pnvYI3"
+    },
+    {
+      "added_at": "2025-12-01 14:18:44",
+      "album": {
+        "name": "Tralandia",
+        "url": "https://open.spotify.com/album/0xNYINEGK0TD7Ggw30syAu"
+      },
+      "artists": [
+        {
+          "name": "ARTIN & ROMAN DJ",
+          "url": "https://open.spotify.com/artist/3CgomiE7lP85mKvgn66knC"
+        }
+      ],
+      "duration_ms": 208079,
+      "name": "Tralandia",
+      "url": "https://open.spotify.com/track/3uNmUUM3dmgQmTjxkUcgTw"
     }
   ],
   "unique_name": "New Music Daily",

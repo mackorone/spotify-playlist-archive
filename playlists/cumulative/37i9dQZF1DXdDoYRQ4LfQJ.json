@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 192400,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6"
@@ -4118,6 +4118,10 @@
         {
           "name": "Rutazz",
           "url": "https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh"
+        },
+        {
+          "name": "Sintapia",
+          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
         }
       ],
       "date_added": "2024-12-06",
@@ -7774,10 +7778,6 @@
         {
           "name": "Daniel Garcia",
           "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
-        },
-        {
-          "name": "Sintapia",
-          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
         }
       ],
       "date_added": "2024-02-23",
@@ -8364,7 +8364,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 168172,
       "name": "Que Somos De Guerra",
       "url": "https://open.spotify.com/track/3HC7YpUGk9Q6rq1GLpyRqq"

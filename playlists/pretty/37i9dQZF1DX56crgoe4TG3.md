@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 103 | [Senor \(Tales Of Yankee Power\)](https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43) | [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Red On Blonde](https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj) | 4:02 |
 | 104 | [Hot In Herre](https://open.spotify.com/track/6EmwBRFDI25uukoQ9jCU6J) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [The Take Off All Your Clothes \- EP](https://open.spotify.com/album/1btCWMYWuQSFojQJoGHfHj) | 4:16 |
 | 105 | [Wildwood Flower](https://open.spotify.com/track/3xckzvp58eFYnM7HEHSjMi) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [True Bluegrass Instrumentals](https://open.spotify.com/album/6cwdLgLSa2CgKtRwvKZzDd) | 3:04 |
-| 106 | [Single Ladies \(Put a Ring On It\)](https://open.spotify.com/track/70OBOxYnVHt07Vgv1KgjKu) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [The Cleverlys](https://open.spotify.com/album/5XpJpEeeYJw0s8Q95T3Y6O) | 4:30 |
+| 106 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/70OBOxYnVHt07Vgv1KgjKu) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [The Cleverlys](https://open.spotify.com/album/5XpJpEeeYJw0s8Q95T3Y6O) | 4:30 |
 | 107 | [Little Piece of My Heart](https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Gum Tree Canoe](https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv) | 3:10 |
 
 Snapshot ID: `AAAAAHWTvl+WD8gxWagreXtcZ/tNJFg6`

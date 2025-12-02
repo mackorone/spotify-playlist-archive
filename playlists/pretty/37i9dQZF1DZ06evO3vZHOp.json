@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 372204,
+  "num_followers": 372225,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAADZjLQPdiOiNeyfR+lo8WHU",
+  "snapshot_id": "aSuJAAAAAAAqxJpGWhgGueMEntt+v86+",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "$extape",
-        "url": "https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 244894,
-      "name": "$extape",
-      "url": "https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 217133,
       "name": "THUNDER Y LIGHTNING",
       "url": "https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$extape",
+        "url": "https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 244894,
+      "name": "$extape",
+      "url": "https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn"
     },
     {
       "added_at": null,

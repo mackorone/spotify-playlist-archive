@@ -1,6 +1,6 @@
 {
   "description": "Let's go out out \ud83e\udea9",
-  "num_followers": 82971,
+  "num_followers": 82980,
   "original_name": "Out Out",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-06-29 01:56:48",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
+    },
+    {
+      "added_at": "2024-06-29 01:56:48",
+      "album": {
         "name": "Rain On Me (with Ariana Grande)",
         "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
-    },
-    {
-      "added_at": "2024-06-29 01:56:48",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 198448,
-      "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
     },
     {
       "added_at": "2024-06-29 01:56:48",

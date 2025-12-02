@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 452918,
+  "num_followers": 452931,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "After 8",
-        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
         "name": "SHINE!",
         "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
+        "name": "After 8",
+        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "Global Force",
-        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
-      },
-      "artists": [
-        {
-          "name": "3rd Force",
-          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Big Shot",
-      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
         "name": "Forecast",
         "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 343213,
       "name": "Keep Holding On",
       "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
+        "name": "Global Force",
+        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
+      },
+      "artists": [
+        {
+          "name": "3rd Force",
+          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -691,18 +691,22 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "Lavish",
-        "url": "https://open.spotify.com/album/3dBwv1QVMYxHY9KVMVNeTr"
+        "name": "Full Tank 2.0",
+        "url": "https://open.spotify.com/album/0dHZWw5DjxaAPxvvJUoLfF"
       },
       "artists": [
         {
-          "name": "Special EFX",
-          "url": "https://open.spotify.com/artist/5xUKGtiP4KvMEJWSQ72SyZ"
+          "name": "Ben Tankard",
+          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
+        },
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
         }
       ],
-      "duration_ms": 245163,
-      "name": "Lavish",
-      "url": "https://open.spotify.com/track/2Eg0qKpF9u5C0G71miseoh"
+      "duration_ms": 221186,
+      "name": "Rainy Sunday (feat. Paul Jackson Jr.)",
+      "url": "https://open.spotify.com/track/4Z3doYsQ7L3o0TPHZhk0vF"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -723,22 +727,18 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "Full Tank 2.0",
-        "url": "https://open.spotify.com/album/0dHZWw5DjxaAPxvvJUoLfF"
+        "name": "Lavish",
+        "url": "https://open.spotify.com/album/3dBwv1QVMYxHY9KVMVNeTr"
       },
       "artists": [
         {
-          "name": "Ben Tankard",
-          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
-        },
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+          "name": "Special EFX",
+          "url": "https://open.spotify.com/artist/5xUKGtiP4KvMEJWSQ72SyZ"
         }
       ],
-      "duration_ms": 221186,
-      "name": "Rainy Sunday (feat. Paul Jackson Jr.)",
-      "url": "https://open.spotify.com/track/4Z3doYsQ7L3o0TPHZhk0vF"
+      "duration_ms": 245163,
+      "name": "Lavish",
+      "url": "https://open.spotify.com/track/2Eg0qKpF9u5C0G71miseoh"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "Infinite Love",
-        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
-      },
-      "artists": [
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 257367,
-      "name": "Infinite Love",
-      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
         "name": "Soulmate",
         "url": "https://open.spotify.com/album/3gPvkf0kcggPPcxqXKYmvd"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 245000,
       "name": "Swing City",
       "url": "https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
+        "name": "Infinite Love",
+        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
+      },
+      "artists": [
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 257367,
+      "name": "Infinite Love",
+      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "The Gift Psychobass2",
-        "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
-      },
-      "artists": [
-        {
-          "name": "Byron Miller",
-          "url": "https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y"
-        },
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 299626,
-      "name": "The B Spot",
-      "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
         "name": "Adriatic Flow",
         "url": "https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 247653,
       "name": "Adriatic Flow",
       "url": "https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
+        "name": "The Gift Psychobass2",
+        "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
+      },
+      "artists": [
+        {
+          "name": "Byron Miller",
+          "url": "https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y"
+        },
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 299626,
+      "name": "The B Spot",
+      "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "Sweet Kisses",
-      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
         "name": "Smooth Grooves, Vol. 2",
         "url": "https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 365000,
       "name": "Southern Style",
       "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "Sweet Kisses",
+      "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bradley",
-          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
-        }
-      ],
-      "duration_ms": 272342,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
         "name": "Tranquility",
         "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 241480,
       "name": "Three Dee",
       "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bradley",
+          "url": "https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck"
+        }
+      ],
+      "duration_ms": 272342,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
+        "name": "A Day In The Life",
+        "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
+      },
+      "artists": [
+        {
+          "name": "Thom Rotella",
+          "url": "https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm"
+        }
+      ],
+      "duration_ms": 264600,
+      "name": "Only 4 One Moment",
+      "url": "https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
         "name": "Let's Ride",
         "url": "https://open.spotify.com/album/50NyCk4oDOFJTTuBvxv3fL"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 318977,
       "name": "New Hope",
       "url": "https://open.spotify.com/track/1Sg5r4ji96C4GoKc7koDgz"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
-        "name": "A Day In The Life",
-        "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
-      },
-      "artists": [
-        {
-          "name": "Thom Rotella",
-          "url": "https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "Only 4 One Moment",
-      "url": "https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "Sippin the Yak",
-        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
-      },
-      "artists": [
-        {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
-        }
-      ],
-      "duration_ms": 267913,
-      "name": "Sippin the Yak",
-      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
         "name": "Ready to Go",
         "url": "https://open.spotify.com/album/3lMmhPqyO3M5ECUj0enyJr"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 240300,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
+        "name": "Sippin the Yak",
+        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
+      },
+      "artists": [
+        {
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+        }
+      ],
+      "duration_ms": 267913,
+      "name": "Sippin the Yak",
+      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/1xoFifChEKnySmiYpqNXxy"
-      },
-      "artists": [
-        {
-          "name": "Lowell Hopper",
-          "url": "https://open.spotify.com/artist/6v7OnaHSEAOtY1Ib16Chdk"
-        }
-      ],
-      "duration_ms": 253320,
-      "name": "See the Light",
-      "url": "https://open.spotify.com/track/3m5irvcA3IP1wn8twZnmee"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/1KO2CGLFnWltGv9mRwc22y"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 287640,
       "name": "New Bounce",
       "url": "https://open.spotify.com/track/3AFEIfMWHsjjv89DhFmS8G"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/1xoFifChEKnySmiYpqNXxy"
+      },
+      "artists": [
+        {
+          "name": "Lowell Hopper",
+          "url": "https://open.spotify.com/artist/6v7OnaHSEAOtY1Ib16Chdk"
+        }
+      ],
+      "duration_ms": 253320,
+      "name": "See the Light",
+      "url": "https://open.spotify.com/track/3m5irvcA3IP1wn8twZnmee"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/35w3Ip2wbKcpkDgkFWs3VO"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "BLUE MOON",
-      "url": "https://open.spotify.com/track/0w0MlXKdxvgv5elw50DguP"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
         "name": "Supreme",
         "url": "https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 263106,
       "name": "Afternoon Delight",
       "url": "https://open.spotify.com/track/1TeSdXeVdGb8YbE7YcNTyU"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/35w3Ip2wbKcpkDgkFWs3VO"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "BLUE MOON",
+      "url": "https://open.spotify.com/track/0w0MlXKdxvgv5elw50DguP"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "Retrospect",
-        "url": "https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        }
-      ],
-      "duration_ms": 260886,
-      "name": "Sample That",
-      "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
         "name": "Supreme",
         "url": "https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 271549,
       "name": "Black Dynamite",
       "url": "https://open.spotify.com/track/0Of0fM7dwXt3xQfQ0GKVpu"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
+        "name": "Retrospect",
+        "url": "https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "duration_ms": 260886,
+      "name": "Sample That",
+      "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
+        "name": "Bona Fide",
+        "url": "https://open.spotify.com/album/2DkaeGeOgxo1LcrT0VIRFE"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        }
+      ],
+      "duration_ms": 284805,
+      "name": "18th & Vine",
+      "url": "https://open.spotify.com/track/3Jy2TEyOVfBUwVytWu52NP"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
         "name": "Lavish",
         "url": "https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 257410,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
-        "name": "Bona Fide",
-        "url": "https://open.spotify.com/album/2DkaeGeOgxo1LcrT0VIRFE"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        }
-      ],
-      "duration_ms": 284805,
-      "name": "18th & Vine",
-      "url": "https://open.spotify.com/track/3Jy2TEyOVfBUwVytWu52NP"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
+        "name": "Romance the Rain",
+        "url": "https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        }
+      ],
+      "duration_ms": 289356,
+      "name": "Romance The Rain",
+      "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
         "name": "Magic Hour",
         "url": "https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 255348,
       "name": "Magic Hour",
       "url": "https://open.spotify.com/track/1AbQCUGbvIbO2NUen6tVAg"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
-        "name": "Romance the Rain",
-        "url": "https://open.spotify.com/album/3ooWJYv4fR8z13Qbcv0qXA"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        }
-      ],
-      "duration_ms": 289356,
-      "name": "Romance The Rain",
-      "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
     },
     {
       "added_at": "2025-09-26 11:40:53",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2025-09-26 11:40:53",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
-      },
-      "artists": [
-        {
-          "name": "Sean U",
-          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
-        }
-      ],
-      "duration_ms": 216129,
-      "name": "Business As Usual",
-      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
-    },
-    {
-      "added_at": "2025-09-26 11:40:53",
-      "album": {
         "name": "The Time Is Now",
         "url": "https://open.spotify.com/album/7DRR47Neht8KT2DvnqDlgE"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 226221,
       "name": "Tried and True",
       "url": "https://open.spotify.com/track/2vqG2hLwzZQhTQ3sNs8QY5"
+    },
+    {
+      "added_at": "2025-09-26 11:40:53",
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
+      },
+      "artists": [
+        {
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+        }
+      ],
+      "duration_ms": 216129,
+      "name": "Business As Usual",
+      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
     },
     {
       "added_at": "2025-09-26 11:40:53",

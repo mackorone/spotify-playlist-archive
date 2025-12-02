@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 52692,
+  "num_followers": 52700,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAABDeruLeEbfB9kU0gAgl72b",
+  "snapshot_id": "aSuJAAAAAADQ7WybcMi+TCfQceSv3xPn",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool Velvet: Stan Getz And Strings",
-        "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 246866,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz & Bill Evans",
         "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 304426,
       "name": "Melinda",
       "url": "https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool Velvet: Stan Getz And Strings",
+        "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "West Coast Jazz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 368266,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/52g9vHlua2MBt6PhkZfUrT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 607573,
       "name": "Ballad Medley",
       "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "West Coast Jazz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 368266,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/52g9vHlua2MBt6PhkZfUrT"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Samba Dees Days",
-      "url": "https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 542733,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/1ZO96LBkBu7BCO2xF5twWo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Samba Dees Days",
+      "url": "https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL"
     }
   ],
   "unique_name": "This Is Stan Getz",

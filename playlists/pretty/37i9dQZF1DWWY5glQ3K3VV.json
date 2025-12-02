@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 111878,
+  "num_followers": 111897,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -255,30 +255,6 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "Il mio lato peggiore",
-        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
-      "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
       },
@@ -303,6 +279,30 @@
       "duration_ms": 205524,
       "name": "Calcolatrici",
       "url": "https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
+      "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -367,18 +367,22 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "CHAMPIONS LEAGUE",
-        "url": "https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4"
+        "name": "SANTANA MONEY GANG",
+        "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
       },
       "artists": [
         {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 184560,
-      "name": "CHAMPIONS LEAGUE",
-      "url": "https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB"
+      "duration_ms": 182245,
+      "name": "NON METTERCI BECCO",
+      "url": "https://open.spotify.com/track/0xruiSHt6TaFZvQuGdDlJV"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -403,22 +407,18 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "SANTANA MONEY GANG",
-        "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
+        "name": "CHAMPIONS LEAGUE",
+        "url": "https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
         }
       ],
-      "duration_ms": 182245,
-      "name": "NON METTERCI BECCO",
-      "url": "https://open.spotify.com/track/0xruiSHt6TaFZvQuGdDlJV"
+      "duration_ms": 184560,
+      "name": "CHAMPIONS LEAGUE",
+      "url": "https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1099,18 +1099,26 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "CAFF\u00c8 AMARO",
-        "url": "https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV"
+        "name": "XDVR Reloaded",
+        "url": "https://open.spotify.com/album/45rG8pfk8nga2wfRcAqC9l"
       },
       "artists": [
         {
-          "name": "RRARI DAL TACCO",
-          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
         }
       ],
-      "duration_ms": 119850,
-      "name": "CAFF\u00c8 AMARO",
-      "url": "https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD"
+      "duration_ms": 232000,
+      "name": "Mercedes Nero",
+      "url": "https://open.spotify.com/track/7kck8Amf3NpSGASoFuKIcl"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1143,26 +1151,18 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "XDVR Reloaded",
-        "url": "https://open.spotify.com/album/45rG8pfk8nga2wfRcAqC9l"
+        "name": "CAFF\u00c8 AMARO",
+        "url": "https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Mercedes Nero",
-      "url": "https://open.spotify.com/track/7kck8Amf3NpSGASoFuKIcl"
+      "duration_ms": 119850,
+      "name": "CAFF\u00c8 AMARO",
+      "url": "https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1203,22 +1203,22 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "HARDER (feat. Low-Red)",
-        "url": "https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc"
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
       },
       "artists": [
         {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         },
         {
-          "name": "Low-Red",
-          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 176000,
-      "name": "HARDER (feat. Low-Red)",
-      "url": "https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ"
+      "duration_ms": 217538,
+      "name": "Gol",
+      "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "X2VR",
-        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+        "name": "HARDER (feat. Low-Red)",
+        "url": "https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
         }
       ],
-      "duration_ms": 217538,
-      "name": "Gol",
-      "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
+      "duration_ms": 176000,
+      "name": "HARDER (feat. Low-Red)",
+      "url": "https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1291,6 +1291,38 @@
       "duration_ms": 177576,
       "name": "Freaky (feat. Shiva & Niky Savage)",
       "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a"
+      },
+      "artists": [
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "FASHION (feat. ANNA, Lazza, Tony Effe & Benny Benassi)",
+      "url": "https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1335,34 +1367,22 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a"
+        "name": "Ma Jolie (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
       },
       "artists": [
         {
-          "name": "Drillionaire",
-          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
         },
         {
           "name": "ANNA",
           "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
         }
       ],
-      "duration_ms": 182407,
-      "name": "FASHION (feat. ANNA, Lazza, Tony Effe & Benny Benassi)",
-      "url": "https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt"
+      "duration_ms": 158769,
+      "name": "Ma Jolie (feat. ANNA)",
+      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1391,26 +1411,6 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "Ma Jolie (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Ma Jolie (feat. ANNA)",
-      "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
       },
@@ -1427,6 +1427,26 @@
       "duration_ms": 157168,
       "name": "Fino All'Alba",
       "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
+        "name": "La zone (feat. Shiva)",
+        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "La zone (feat. Shiva)",
+      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1455,26 +1475,6 @@
       "duration_ms": 222968,
       "name": "Blueface (feat. Izi, Tedua)",
       "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
-        "name": "La zone (feat. Shiva)",
-        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "La zone (feat. Shiva)",
-      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1511,22 +1511,6 @@
       "duration_ms": 144930,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 155133,
-      "name": "Mollami Pt.2",
-      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1571,6 +1555,22 @@
       "duration_ms": 174545,
       "name": "Cancelo",
       "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 155133,
+      "name": "Mollami Pt.2",
+      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
         "name": "Petit Fou Fou (feat. ANNA)",
         "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 113737,
       "name": "Petit Fou Fou (feat. ANNA)",
       "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
       "added_at": "2025-11-06 23:01:07",
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2025-11-06 23:01:07",
       "album": {
+        "name": "Pel\u00e9",
+        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "duration_ms": 133858,
+      "name": "Pel\u00e9",
+      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
+    },
+    {
+      "added_at": "2025-11-06 23:01:07",
+      "album": {
         "name": "Non Lo So",
         "url": "https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 142718,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
-    },
-    {
-      "added_at": "2025-11-06 23:01:07",
-      "album": {
-        "name": "Pel\u00e9",
-        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Madfingerz",
-          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
-        }
-      ],
-      "duration_ms": 133858,
-      "name": "Pel\u00e9",
-      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
       "added_at": "2025-11-06 23:01:07",

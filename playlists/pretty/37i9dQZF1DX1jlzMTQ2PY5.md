@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,952 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,989 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 26 | [Exhale](https://open.spotify.com/track/4FJXpPTkaH5GEersVyy2zd) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Exhale](https://open.spotify.com/album/5QhRahKmC2RLWAyst08xJo) | 2:19 |
 | 27 | [White Flag](https://open.spotify.com/track/3UqbLM9NyeJOv57bWXQaOI) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [White Flag](https://open.spotify.com/album/4MOMPp99GoeKzxdx7KhUUk) | 4:04 |
 | 28 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |
-| 29 | [Wicked Game](https://open.spotify.com/track/6ZyOx8u50L5HXf5Oxf22D2) | [LIUFO](https://open.spotify.com/artist/4tvDUOqsB8evdtOM1TJhg0), [ABRO](https://open.spotify.com/artist/2LQh8ykDx0SIEBYHrleBRy) | [Wicked Game](https://open.spotify.com/album/1kkTYpKiX3RUYX5bWxh5ij) | 2:16 |
+| 29 | [Runaway](https://open.spotify.com/track/1RC2jgk8nnxArMGxjt8yEN) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [X\-Ray](https://open.spotify.com/album/0e1sHJqFhzoetj1tPKXEyw) | 3:01 |
 | 30 | [Lakota \- LSB Remix](https://open.spotify.com/track/1cuOFKTqv183kejS7kX1tS) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Lakota \(LSB Remix\)](https://open.spotify.com/album/3lECU226QLGeyEhjhmH83D) | 4:47 |
-| 31 | [Runaway](https://open.spotify.com/track/1RC2jgk8nnxArMGxjt8yEN) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [X\-Ray](https://open.spotify.com/album/0e1sHJqFhzoetj1tPKXEyw) | 3:01 |
+| 31 | [Wicked Game](https://open.spotify.com/track/6ZyOx8u50L5HXf5Oxf22D2) | [LIUFO](https://open.spotify.com/artist/4tvDUOqsB8evdtOM1TJhg0), [ABRO](https://open.spotify.com/artist/2LQh8ykDx0SIEBYHrleBRy) | [Wicked Game](https://open.spotify.com/album/1kkTYpKiX3RUYX5bWxh5ij) | 2:16 |
 | 32 | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/album/5hizQdvILZTWrTLp1AUzIj) | 3:25 |
 | 33 | [Always Golden](https://open.spotify.com/track/4cSSei5eTXf1vo4xEJkCv3) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Always Golden](https://open.spotify.com/album/2AUs6JprsDvr5zu1Rll0vC) | 4:19 |
 | 34 | [Out Of My Mind](https://open.spotify.com/track/47TBxdHokAzwgRF67IjD5D) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Lupole](https://open.spotify.com/artist/2wIt3VbNab71W41xXhZHMl) | [Dopamine](https://open.spotify.com/album/0UvOeLEbK3KmA3KvXiMGdU) | 3:01 |

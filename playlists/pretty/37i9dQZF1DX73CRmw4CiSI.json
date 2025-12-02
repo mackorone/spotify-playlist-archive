@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 111506,
+  "num_followers": 111521,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Furia Latina",
-        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
-      },
-      "artists": [
-        {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Quiero tener tu presencia",
-      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "La taberna del Buda",
         "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 232640,
       "name": "Desde Brasil",
       "url": "https://open.spotify.com/track/7H0PDJwUMTdwQEBb3gXMeI"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Furia Latina",
+        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Quiero tener tu presencia",
+      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 194870,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Cosas Mias",
         "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 224506,
       "name": "Alba",
       "url": "https://open.spotify.com/track/6uojMoKuVkIVEeqH4JCBAr"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 194870,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 El Franc\u00e9s",
-          "url": "https://open.spotify.com/artist/1p2r4UTpZX8aIWktEuvpax"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Fuera de Mi - Ya No Quiero Tu Querer - Version Remix",
-      "url": "https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Cosas Mias",
         "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 217573,
       "name": "Isla de Palma",
       "url": "https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 El Franc\u00e9s",
+          "url": "https://open.spotify.com/artist/1p2r4UTpZX8aIWktEuvpax"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Fuera de Mi - Ya No Quiero Tu Querer - Version Remix",
+      "url": "https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Muchas Flores",
-        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Al Son Del Tambor",
-      "url": "https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Or\u00edgenes",
         "url": "https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 116146,
       "name": "Una Lagrima",
       "url": "https://open.spotify.com/track/0PoUyBBEghT7ufac3soDiB"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Muchas Flores",
+        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Al Son Del Tambor",
+      "url": "https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Esencial Rosario",
-        "url": "https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        }
-      ],
-      "duration_ms": 202706,
-      "name": "Mi Gato",
-      "url": "https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Lobbo",
         "url": "https://open.spotify.com/album/2tUF2G5o5ZpYW1Ano31nDJ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 193573,
       "name": "My skinny flacca",
       "url": "https://open.spotify.com/track/4XLvVcGUmItGqkHXOJMT5r"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Esencial Rosario",
+        "url": "https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "duration_ms": 202706,
+      "name": "Mi Gato",
+      "url": "https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW"
     },
     {
       "added_at": "2022-01-25 22:47:02",

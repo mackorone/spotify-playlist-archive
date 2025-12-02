@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 
 > Legendary blues guitarists\. Cover: Buddy Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,323 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,319 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 21 | [I Ain't Superstitious](https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 3:30 |
 | 22 | [Freeway Jam](https://open.spotify.com/track/55u4NSV62uOjfTySS4Fi6i) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Blow By Blow](https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u) | 4:55 |
 | 23 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 |
-| 24 | [Now That I'm Down](https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke) | 6:02 |
-| 25 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:12 |
+| 24 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:12 |
+| 25 | [Now That I'm Down](https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke) | 6:02 |
 | 26 | [John's Blues](https://open.spotify.com/track/1bpVZUSTlNXqelXHrN1mwI) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Roy Buchanan](https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw) | 5:06 |
 | 27 | [Long Way Home](https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:38 |
 | 28 | [T\-Bone Shuffle](https://open.spotify.com/track/6bl7UHHcx1OY9tbvvnSssc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 2:50 |
-| 29 | [Wild About You, Baby](https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:39 |
-| 30 | [Shake Your Money Maker](https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:30 |
+| 29 | [Shake Your Money Maker](https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:30 |
+| 30 | [Wild About You, Baby](https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:39 |
 | 31 | [Cradle Rock](https://open.spotify.com/track/0mew0kA2gBAqtEleoaDiK8) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 6:15 |
 | 32 | [Albert's Shuffle](https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH) | [Bloomfield\-A Retrospective](https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2) | 6:54 |
 | 33 | [Let Me Love You](https://open.spotify.com/track/7ELwHVSWfMNy4zEq1IIbWu) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 4:44 |

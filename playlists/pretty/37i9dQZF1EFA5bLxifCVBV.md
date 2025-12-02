@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145 likes - 155 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 145 likes - 155 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 38 | [The Money Cat \- Remastered Version](https://open.spotify.com/track/0w4IVn9zI4d9HgRxBbkSLq) | [Gay Purr\-ee \- Paul Frees & The Mellow Men](https://open.spotify.com/artist/4iIEozgOeTVFZKEtvXgaX6) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 2:17 |
 | 39 | [Little Drops of Rain \- Remastered Version](https://open.spotify.com/track/4jgiuuZQTarUsCzffzOmQ3) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 3:29 |
 | 40 | [The Begat](https://open.spotify.com/track/5T8pCYH82M4aoVJ6Exx7CJ) | [Keenan Wynn, Avon Long, Jester Hairston & Roy Glenn](https://open.spotify.com/artist/0GClMY6XiKaXqIjf9ykBo6) | [Finian's Rainbow O.S.T.](https://open.spotify.com/album/0375wsHcEPui3qIEdELcnz) | 2:59 |
-| 41 | [Fun To Be Fooled](https://open.spotify.com/track/00L8X3IhFXxBnGRDPmKoYC) | [Teddi King/John Meyer](https://open.spotify.com/artist/6IhptixFXSsZosa9MWOrYZ) | [Teddi King, Live at The Painted Pony](https://open.spotify.com/album/6sMYdzmRwcCsdYZN3mbPHD) | 2:16 |
+| 41 | [Fun To Be Fooled](https://open.spotify.com/track/0SfMN5K2PRkv4XF4LSPg0p) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Love Is The Thing](https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0) | 3:31 |
 | 42 | [I Knew Him When](https://open.spotify.com/track/2LK0oc64jXwI4gSSjCw9jg) | [Liza Minnelli](https://open.spotify.com/artist/3lQpSzdPxoF1FYk7ilbe37) | [Liza! Liza!](https://open.spotify.com/album/025PqLfRjCiI8ZkmsqTSm2) | 2:44 |
 | 43 | [Necessity](https://open.spotify.com/track/6JQhnxuPYMFUgqshRD9QYd) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN), [Guy Davis](https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW) | [Finian's Rainbow \(New Broadway Cast Recording\)](https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1) | 3:58 |
 | 44 | [Buds Won't Bud \- Single Version](https://open.spotify.com/track/1eX55JlzKMsDM4zfR6Ibrq) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [The Complete Decca Masters \(Plus\)](https://open.spotify.com/album/1FB5UJKvWTEVyFBAbHwIP0) | 3:05 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 59 | [Najla's Song Of Joy](https://open.spotify.com/track/2BRGwFXYgsxRCfC7rNjqly) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:19 |
 | 60 | [Bubbles \- Remastered Version](https://open.spotify.com/track/17Zu3LHy5OCrOU1ffJs0xD) | [Gay Purr\-ee \- Robert Goulet, Red Buttons & The Mellow Men](https://open.spotify.com/artist/2lUvRQVG4WLyNjI0OV7hsS) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 2:48 |
 | 61 | [The Same Boat, Brother](https://open.spotify.com/track/1xxhUCYBJqNaFnkqzwFbJT) | [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [He Walked On](https://open.spotify.com/album/1gXwOtD1sj3fGXROIgtAUa) | 3:39 |
-| 62 | [Here's to Your Illusions](https://open.spotify.com/track/1KwwoClXnNPbpLFDSICTSd) | [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Let's See What Happens](https://open.spotify.com/album/4ogteRE8HANS0KjRv4oujr) | 2:27 |
-| 63 | [Push De Button](https://open.spotify.com/track/5IetPwmlKV0hGhJTwEPGlC) | [The Gil Evans Orchestra](https://open.spotify.com/artist/0NSaDbZ3bVycmiRGhVvjyX), [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [Priceless Jazz: Gil Evans](https://open.spotify.com/album/2Vrg0gyuBxMq1oGkibbRiO) | 5:50 |
+| 62 | [Push De Button](https://open.spotify.com/track/5IetPwmlKV0hGhJTwEPGlC) | [The Gil Evans Orchestra](https://open.spotify.com/artist/0NSaDbZ3bVycmiRGhVvjyX), [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [Priceless Jazz: Gil Evans](https://open.spotify.com/album/2Vrg0gyuBxMq1oGkibbRiO) | 5:50 |
+| 63 | [Here's to Your Illusions](https://open.spotify.com/track/1KwwoClXnNPbpLFDSICTSd) | [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Let's See What Happens](https://open.spotify.com/album/4ogteRE8HANS0KjRv4oujr) | 2:27 |
 | 64 | [Tom, Tom, the Piper's Son \(from "Presenting Lily Mars"\) \- 2022 Remaster](https://open.spotify.com/track/48GRePQCk5Un0bx3OlW3GJ) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Judy Garland: Recordings from the M\-G\-M Films \(Motion Picture Soundtrack Anthology\)](https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh) | 2:42 |
 | 65 | [There's a Great Day Coming, Mañana](https://open.spotify.com/track/3notXi5vdKj2gdUD7QtMfr) | [Phillip Officer](https://open.spotify.com/artist/0brtQbWvSZWzmCZi48wY02) | [Fancy Meeting You: The Lyrics of E.Y\. Harburg](https://open.spotify.com/album/5drwA5NfMBe7PffKWNhHA5) | 2:23 |
 | 66 | [Moanin' in the Mornin'](https://open.spotify.com/track/0r0JilaUrO2Iuj4tPHp81K) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Lee Wiley Sings the Songs of Rodgers & Hart and Arlen](https://open.spotify.com/album/7HuNr6dhCNdTfy1DIbAnjN) | 2:52 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 154 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 155 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcDAZAAAAADrCNFJ1lGm8bo4Gti37W2g`
+Snapshot ID: `AcDFyAAAAABvYznKQR/MVmYa18LBH3m9`

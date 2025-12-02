@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,745 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,747 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 24 | [Feliz De Vez](https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Feliz De Vez](https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO) | 4:39 |
 | 25 | [Vaso de Alabastro](https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 3:25 |
 | 26 | [Jesus, Meu Primeiro Amor](https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 6:56 |
-| 27 | [Deus Está me Construindo](https://open.spotify.com/track/43HJMNRjdq4XHHlWvsWNHd) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:19 |
-| 28 | [Alto Preço \- Ao Vivo](https://open.spotify.com/track/1pwwhwUNlY1EMTNdBfAXIg) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Sóstenes Mendes](https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Rastros de Amor \(Ao Vivo\)](https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS) | 4:22 |
+| 27 | [Alto Preço \- Ao Vivo](https://open.spotify.com/track/1pwwhwUNlY1EMTNdBfAXIg) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Sóstenes Mendes](https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Rastros de Amor \(Ao Vivo\)](https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS) | 4:22 |
+| 28 | [Deus Está me Construindo](https://open.spotify.com/track/43HJMNRjdq4XHHlWvsWNHd) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:19 |
 | 29 | [Faraó ou Deus?](https://open.spotify.com/track/2k6ytNPcfFJfIhEVY3F33T) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/5B1HnQZlDWNvY7OQE1F2uz) | 4:55 |
 | 30 | [O Deserto Vale Ouro \(feat\. Fernanda Brum\)](https://open.spotify.com/track/5kMfmB02ngkeIwfI9FgXxZ) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Pra Me Alegrar](https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l) | 4:01 |
 | 31 | [Alguém](https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 49 | [Preciso de Uma Chance](https://open.spotify.com/track/5wGYqyGUDOA757piVlrJmb) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 3:45 |
 | 50 | [Me Renova Outra Vez](https://open.spotify.com/track/0HsDYSTBMzfOXxox5vpGyF) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Milagre](https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur) | 4:01 |
 
-Snapshot ID: `aSo3gAAAAABOy8mZo6QYpcvh5+bEPbAQ`
+Snapshot ID: `aSuJAAAAAACGPvqPn9rzZpzXgq+jMZ6/`

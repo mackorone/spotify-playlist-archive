@@ -4,7 +4,7 @@
 
 > This is Binomio de Oro de América\. The essential tracks, all in one playlist.
 
-67 songs - 5 hr 17 min
+68 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Grafiti De Amor](https://open.spotify.com/track/2FHxgJPddTyNKFU8UNXEg8) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Vallenato sin Fronteras](https://open.spotify.com/album/6TQF1j65iXgZu90zgTWCnw) | 4:29 | 2022-12-16 | 2023-05-27 |
 | [Hoy Me Di Cuenta](https://open.spotify.com/track/3jz0yIwy75UoCgyNMwlVT9) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 4:54 | 2022-12-16 |  |
 | [Impredecible](https://open.spotify.com/track/0cNy83OqUpNDJ0OfHcoodK) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Impredecible](https://open.spotify.com/album/2SDcMM27B25Z4ZHfkcVqA0) | 4:41 | 2022-12-16 |  |
-| [Jamás Imaginé](https://open.spotify.com/track/421cZGDH9uq3gVNOG8zvm2) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [En Todo Su Esplendor](https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v) | 4:27 | 2024-02-24 |  |
+| [Jamás Imaginé](https://open.spotify.com/track/421cZGDH9uq3gVNOG8zvm2) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [En Todo Su Esplendor](https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v) | 4:27 | 2024-02-24 | 2025-12-02 |
 | [Jamás Te Olvidaré](https://open.spotify.com/track/7DnAvmdF8AxO6jdT1dNRON) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jesús Manuel](https://open.spotify.com/artist/1XLwJzZGjXyXjIz9s11R4Z), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [La Combinacion Vallenata Vol\. 2](https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl) | 4:51 | 2022-12-16 |  |
 | [Lejos De Ti](https://open.spotify.com/track/4RdZtnUWiuSPTsirLtZxIz) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c) | 4:57 | 2022-12-16 |  |
 | [Lejos De Ti](https://open.spotify.com/track/6IsW8iRbvM8esvCgRvsR2Q) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/2fYRNfiFD6ZxvpzF2EykRV) | 4:57 | 2024-06-01 | 2024-07-12 |
@@ -52,6 +52,7 @@
 | [No Te Vayas](https://open.spotify.com/track/235RP8gmp1yl5wWvp9oLh7) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Todo Corazón](https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD) | 4:06 | 2022-12-16 |  |
 | [Olvídala](https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c) | 5:04 | 2022-12-16 |  |
 | [Olvídala](https://open.spotify.com/track/3HRyO1rUpfegp52HN6ZSyw) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/2fYRNfiFD6ZxvpzF2EykRV) | 5:04 | 2024-06-06 | 2024-07-10 |
+| [Que Bonito](https://open.spotify.com/track/0Mwsok9mGp5jpyVWBQqCID) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Todo Corazón](https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD) | 4:53 | 2025-12-02 |  |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:58 | 2022-12-16 |  |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/3oCmlSBfi8soFalJfvijby) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/6j9PHfD1KPVV8ombMkucdF) | 4:59 | 2024-06-06 | 2024-07-13 |
 | [Realízame mis sueños](https://open.spotify.com/track/5uFmiw2BfcTPmjXyLzkmRk) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:40 | 2022-12-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: These New South Whales
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,212 likes - 124 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,216 likes - 124 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-404 songs - 23 hr 26 min
+405 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [超常マイマイン](https://open.spotify.com/track/7yuRlwbz9rgtIZwBPbtDjR) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [ナユタン星からの物体Ｎ](https://open.spotify.com/album/41ZGXbCyhkBOt8lqtQxWBZ) | 2:25 | 2022-11-01 |  |
 | [踊](https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [踊](https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2) | 3:28 | 2023-10-13 |  |
 | [迷い子山中神隠し奇譚](https://open.spotify.com/track/4WuEpuvGm2MNXu9QQ5sZD5) | [浮足立](https://open.spotify.com/artist/3khRVJyfuSQWVudz1bzD3g) | [迷い子山中神隠し奇譚](https://open.spotify.com/album/1m5KWs7oRBKjiW0fScvQ3D) | 3:10 | 2025-04-21 |  |
+| [迷彩](https://open.spotify.com/track/4997ipQH5dYt24YqSp4Cb6) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [斎藤ネコ](https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz) | [平成風俗](https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv) | 3:57 | 2025-12-01 |  |
 | [酔いどれ知らず](https://open.spotify.com/track/1ED6MZZkTum3aGIrZMB3VF) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [酔いどれ知らず](https://open.spotify.com/album/1F9ZzB58lOLwnXUsajOhyC) | 2:13 | 2024-03-10 |  |
 | [錠剤](https://open.spotify.com/track/1NuXCV6xF2iAstBk40Sycw) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:21 | 2024-09-08 |  |
 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 | 2023-10-23 |  |

@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Somewhen
 
-605 songs - 1 day 13 hr 2 min
+606 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [FAF](https://open.spotify.com/track/5HO6Ktb8VhUlRAz8NXsScT) | [Surf 2 Glory](https://open.spotify.com/artist/1GQzSnBwaUlIdqFDiuktN3) | [FAF](https://open.spotify.com/album/5fJBS7Ous2WYOQjrBP77qa) | 2:47 | 2024-08-22 | 2025-01-07 |
 | [Fall In My Arms](https://open.spotify.com/track/44qgj5FoNRHgfTUn6Sm4Ls) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [Fall In My Arms](https://open.spotify.com/album/7nEmMz8VCJBBGpLVq3wtqs) | 3:18 | 2023-11-24 | 2023-12-01 |
 | [Falling](https://open.spotify.com/track/550MXQRuPeAHPWY7S1xG80) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN), [prodbymotsa](https://open.spotify.com/artist/2QxTNoeg78C1rgzZy8xUKQ) | [Falling](https://open.spotify.com/album/3iY1DhHXNKSntT4OhAzPUG) | 4:12 | 2025-05-29 | 2025-06-06 |
+| [Falling](https://open.spotify.com/track/2VpUEPN5OQmYvcvhM68wyS) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Falling](https://open.spotify.com/album/03RsEVWePsLZdk7lTs9jvn) | 2:05 | 2025-11-27 |  |
 | [Faux Fur \(like you like it\)](https://open.spotify.com/track/6yVY5sNFFrpxloDUjwVOHU) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Faux Fur \(like you like it\)](https://open.spotify.com/album/2nD51R8vddPKRGW7el4TPK) | 2:23 | 2025-08-28 | 2025-10-06 |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-06-05 | 2025-11-07 |
 | [Feel You \(Beside Me\)](https://open.spotify.com/track/2Y7TA1fnjoZWHvAhi70TUv) | [LUPA](https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo) | [Feel You \(Beside Me\)](https://open.spotify.com/album/4NvXD68wMwVrgzHSSkhQGC) | 5:29 | 2023-03-10 | 2023-04-28 |
@@ -308,7 +309,7 @@
 | [Let's go](https://open.spotify.com/track/64o22Tm6YLaHqEwXbWYqZp) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP) | 2:26 | 2024-08-12 | 2024-08-23 |
 | [LET'S GO](https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [LET'S GO](https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe) | 3:13 | 2024-12-28 | 2025-06-06 |
 | [Lets go](https://open.spotify.com/track/4vmzFOCbjeV9cIvVqS3DKC) | [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n) | [Brilletje](https://open.spotify.com/album/2xmq2AcsQDHmSMRu6YGGsz) | 2:54 | 2023-10-02 | 2024-05-04 |
-| [Life To Begin](https://open.spotify.com/track/5EpzGCcC2OYB4JqHADdSQy) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Life To Begin](https://open.spotify.com/album/6sy3VL8Syc8XAdGNIPh0kG) | 2:06 | 2025-08-01 |  |
+| [Life To Begin](https://open.spotify.com/track/5EpzGCcC2OYB4JqHADdSQy) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Life To Begin](https://open.spotify.com/album/6sy3VL8Syc8XAdGNIPh0kG) | 2:06 | 2025-08-01 | 2025-12-02 |
 | [LIGHT IT UP](https://open.spotify.com/track/5fDMxAnUvFwVqIUPQjlGcV) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [LIGHT IT UP](https://open.spotify.com/album/3bdwPBIYg2JrDrMvKN5iUH) | 2:20 | 2024-08-12 | 2024-08-23 |
 | [Lights Out](https://open.spotify.com/track/0CtEQErgyA7Jp4Jb3LGC7S) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Lights Out](https://open.spotify.com/album/0VkJvDI13bCS5WJ6zNBp0m) | 2:33 | 2024-07-25 | 2024-08-13 |
 | [Like This](https://open.spotify.com/track/1Ty8EUqUPzUv6nWqqwc9RL) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [STORM](https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Like This](https://open.spotify.com/album/21kaF8OYz66A91XR46Npx0) | 2:22 | 2025-05-22 |  |

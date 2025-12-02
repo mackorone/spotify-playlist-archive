@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 15 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 |
 | 16 | [Tell My Momma](https://open.spotify.com/track/1LlDCKs0Ep6Gmc2HNa7WUI) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [Where To Now? \(Part.1 : Yellow Light\)](https://open.spotify.com/album/31YiGSZjVbycG39MBWVecK) | 3:35 |
 | 17 | [Red](https://open.spotify.com/track/2yZDl0edy9OfH2a8W9ynbK) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Red](https://open.spotify.com/album/5NSzBQyB8v5YpVeePihtP2) | 3:26 |
-| 18 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 |
-| 19 | [Home By Midnight](https://open.spotify.com/track/0CWrpLNlUmSNcUkHnT4EjS) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Home By Midnight](https://open.spotify.com/album/4jcTD2VLLtXgchJdLuxxv3) | 2:37 |
+| 18 | [Home By Midnight](https://open.spotify.com/track/0CWrpLNlUmSNcUkHnT4EjS) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Home By Midnight](https://open.spotify.com/album/4jcTD2VLLtXgchJdLuxxv3) | 2:37 |
+| 19 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 |
 | 20 | [It Isn't Me \(with KSHMR\)](https://open.spotify.com/track/0rwaGvuSd4rCKuCt9w82Nm) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [It Isn't Me \(with KSHMR\)](https://open.spotify.com/album/5at4UMpAW5bTh8d4jLeUmz) | 3:36 |
 | 21 | [LVLY](https://open.spotify.com/track/4245mprsIXRpaSg9U89ow1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD) | 3:19 |
 | 22 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 66 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
 | 67 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 
-Snapshot ID: `AcDAUAAAAABzP+payDHjCi0QdswzyNNh`
+Snapshot ID: `AcDF8AAAAACCI0nWmyOZV2/MfqVBJFIw`

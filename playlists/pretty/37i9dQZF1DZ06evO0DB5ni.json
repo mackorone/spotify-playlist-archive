@@ -1,12 +1,12 @@
 {
   "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
-  "num_followers": 888389,
+  "num_followers": 888624,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACMgdjY74rB1+eEYY1ptUsY",
+  "snapshot_id": "aSuJAAAAAAC8PG4aUh6VyM7tZOsDIHUu",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Lo Intentes",
-        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 150466,
-      "name": "Perd\u00f3n Porque?",
-      "url": "https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "42 18",
         "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 151787,
       "name": "Due\u00f1a De Mis Besos",
       "url": "https://open.spotify.com/track/22SjQwvk02AqkPuwQukDnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Lo Intentes",
+        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 150466,
+      "name": "Perd\u00f3n Porque?",
+      "url": "https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atento Aviso ... Rey Sin Reina",
-        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 138618,
-      "name": "Atento Aviso",
-      "url": "https://open.spotify.com/track/12fQbOeNdkaLTsqnYLTneH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "42 18",
         "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 139759,
       "name": "Safo En El Amor",
       "url": "https://open.spotify.com/track/3nwVXnH87Q9f1RaAODNoyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 138618,
+      "name": "Atento Aviso",
+      "url": "https://open.spotify.com/track/12fQbOeNdkaLTsqnYLTneH"
     }
   ],
   "unique_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",

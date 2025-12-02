@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 209294,
       "name": "akong ako",
       "url": "https://open.spotify.com/track/1Ci8ag9gmsiNhTgSAvQJo2"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 248823,
       "name": "Bahala Na Sila",
       "url": "https://open.spotify.com/track/3Yj7S8OdTdmTk4SYFxRbKC"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 205724,
       "name": "Burning Blue",
       "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 176000,
       "name": "Bye 3x",
       "url": "https://open.spotify.com/track/7q2fWxTVz2g6ZERBlfs5ow"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 200826,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 289637,
       "name": "Ginintuang Tanawin",
       "url": "https://open.spotify.com/track/6LPLKpVc6fISqAVR6qigXZ"
@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 194763,
       "name": "Gotta Go My Own Way",
       "url": "https://open.spotify.com/track/3islVaNbz47dWjT79Kcyqk"
@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "hindi mo alam",
+        "url": "https://open.spotify.com/album/4WGCbBWJ48Bk3BiKoHDu0u"
+      },
+      "artists": [
+        {
+          "name": "Ace Banzuelo",
+          "url": "https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287013,
+      "name": "hindi mo alam",
+      "url": "https://open.spotify.com/track/6JwAm7Zc7em0xcc63CC1Pj"
+    },
+    {
+      "album": {
         "name": "Hirap Aminin",
         "url": "https://open.spotify.com/album/3OKMDzqfbeUCCBtvAwWgTz"
       },
@@ -1996,7 +2014,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 160152,
       "name": "How To Be Human",
       "url": "https://open.spotify.com/track/6TjvDoWlEorGzpgmQetW6j"
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 251666,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 200689,
       "name": "In Her Eyes",
       "url": "https://open.spotify.com/track/6W2EYludfqFY2xo66FUf6y"
@@ -2494,7 +2512,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 178488,
       "name": "Libu-Libong Buwan (Uuwian)",
       "url": "https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez"
@@ -2764,7 +2782,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 267116,
       "name": "Make A Wish",
       "url": "https://open.spotify.com/track/6M3hRDcVEBDgaAaI5aaPKm"
@@ -2898,7 +2916,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 201409,
       "name": "Memory (feat. The Ridleys)",
       "url": "https://open.spotify.com/track/3uO5ZkTrkjrIN4Qj3j0Y9j"
@@ -3060,7 +3078,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 246666,
       "name": "Musika",
       "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 249382,
       "name": "Old Love",
       "url": "https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH"
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 215373,
       "name": "OSA",
       "url": "https://open.spotify.com/track/1rKAz5oWjcoihrFfdhO6cW"
@@ -3600,10 +3618,28 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 181032,
       "name": "Pagitan",
       "url": "https://open.spotify.com/track/09l7DSBPUiqqyDEeQ2au3o"
+    },
+    {
+      "album": {
+        "name": "Balik-tanaw",
+        "url": "https://open.spotify.com/album/4trBemFPhex5qU3515inkl"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304888,
+      "name": "Pakiusap",
+      "url": "https://open.spotify.com/track/3lHvGgtL4OPyfTkmF8fWv7"
     },
     {
       "album": {
@@ -4026,7 +4062,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 231157,
       "name": "Sapat",
       "url": "https://open.spotify.com/track/16DOniUplo7e5jpPuf5Y7q"
@@ -4138,7 +4174,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 257065,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
@@ -4272,7 +4308,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
@@ -4380,7 +4416,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 254013,
       "name": "Someone To Stay",
       "url": "https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN"
@@ -4434,7 +4470,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 183803,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
@@ -4470,7 +4506,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 237583,
       "name": "Sungit",
       "url": "https://open.spotify.com/track/6uYeQtBpCicl3LqnIx5GBm"
@@ -4488,7 +4524,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 284234,
       "name": "Suob - From \"Meet, Greet & Bye\"",
       "url": "https://open.spotify.com/track/2IS8s76UJOTKqE3lPrEj09"
@@ -4560,7 +4596,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 302727,
       "name": "Tahan",
       "url": "https://open.spotify.com/track/4BB6XuY1lffZ3GAyuWBxi3"
@@ -4990,7 +5026,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 335624,
       "name": "Umaasa",
       "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
@@ -5044,7 +5080,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 248135,
       "name": "Usad",
       "url": "https://open.spotify.com/track/2bOxIrFLLniNEsog54cXU9"
@@ -5178,6 +5214,24 @@
       "duration_ms": 136666,
       "name": "Walking Back Home",
       "url": "https://open.spotify.com/track/7lu5yyLdgRTMTnYw8yCWvM"
+    },
+    {
+      "album": {
+        "name": "Was It Just A Dream?",
+        "url": "https://open.spotify.com/album/0M0QHpZfBj3bkqqvlXkjJp"
+      },
+      "artists": [
+        {
+          "name": "Sam Cruz",
+          "url": "https://open.spotify.com/artist/4p91hHPvWouBFg3Fgtw03o"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226849,
+      "name": "Was It Just A Dream?",
+      "url": "https://open.spotify.com/track/203DY4imMNmOI5WAJYRi5A"
     },
     {
       "album": {

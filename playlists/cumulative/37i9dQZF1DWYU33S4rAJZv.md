@@ -4,7 +4,7 @@
 
 > Warm and cozy Christmas Jazz to your hot cup of coffee.
 
-137 songs - 7 hr 7 min
+138 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Caroling, Caroling](https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:01 | 2023-11-28 |  |
 | [Christmas Children](https://open.spotify.com/track/04StngW1Y0GV26sKl59WiW) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Stuart Mindeman](https://open.spotify.com/artist/1uZVVuz5S1UbpAr6zNaSKK) | [The Beautiful Day](https://open.spotify.com/album/3kGxAL9kbsUAkqY9S9mRzI) | 4:32 | 2023-11-28 |  |
 | [Christmas Eve](https://open.spotify.com/track/5sRb0r1wP7nK6dKQBxO197) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Have Yourself A Jazzy Little Christmas](https://open.spotify.com/album/5DBehOkzdmTBJ2m56Dk2sS) | 3:03 | 2023-11-28 |  |
+| [Christmas Is](https://open.spotify.com/track/7w2N65YAK9aEQ8WbWtKunT) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Christmas Is…](https://open.spotify.com/album/4lDNpF4lVOsq1hyrKJN59L) | 3:59 | 2025-12-01 |  |
 | [Christmas Island](https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:17 | 2023-11-28 |  |
 | [Christmas Night In Harlem \- Single Version](https://open.spotify.com/track/5Pobc7EJJUgvJt4xTjhL0t) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Best Of / 20th Century \- Christmas](https://open.spotify.com/album/6ZDopFxyk160WEpKuIuhUq) | 2:39 | 2023-12-19 |  |
 | [Christmas Night In Harlem \- Single Version](https://open.spotify.com/track/7vev9Pk7OHfsrhn4eH6BWF) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:39 | 2023-11-28 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Ease into your day with these beautiful chill songs – Relaxing Morning Music , Relaxing, Chill Music, Lazy Sunday, Cozy morning, Soft morning tunes, Weekend vibes, Sunday brunch playlist, Slow coffee music, Laid\-back, sounds, Morning acoustic
 
-217 songs - 12 hr 21 min
+218 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 | 2025-11-21 |  |
 | [Ain't Got Nothing On You](https://open.spotify.com/track/3rHRwx3G8o6VAfaFAliw5d) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 3:26 | 2025-07-18 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:06 | 2025-07-18 |  |
+| [Alcohol](https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Alcohol](https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt) | 3:19 | 2025-12-01 |  |
 | [Alibi](https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Alibi](https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr) | 3:33 | 2025-09-11 |  |
 | [Alibi](https://open.spotify.com/track/2OVELHMQSXLXpiLkTzXBgO) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [When The Silence Gets Too Loud](https://open.spotify.com/album/3VIz3bnLNbLKgqyTrmdms4) | 3:33 | 2025-09-12 |  |
 | [All I Am](https://open.spotify.com/track/6EC8WKlArPIeWznmf79OMk) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [When I Change My Mind I Don't Mean It \(Deluxe\)](https://open.spotify.com/album/1FJWUHBGshLfJV4NkSvvkm) | 3:08 | 2025-11-21 |  |
@@ -202,7 +203,7 @@
 | [To Be Free](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 | 2025-07-25 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2025-07-18 |  |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-07-18 |  |
-| [twin](https://open.spotify.com/track/5DIZg9QqSdzgHmkZ2k2F1a) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:28 | 2025-07-18 |  |
+| [twin](https://open.spotify.com/track/5DIZg9QqSdzgHmkZ2k2F1a) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:28 | 2025-07-18 | 2025-12-02 |
 | [Two Roads](https://open.spotify.com/track/2LqxUcXsr4c0oc9N47lExD) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Two Roads](https://open.spotify.com/album/5N1HWPxpCPkYSxt5eBwsdi) | 3:34 | 2025-08-15 |  |
 | [Ugly](https://open.spotify.com/track/50vTXRm8DgeuSeFKggVXnG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Ugly](https://open.spotify.com/album/4vyDBDOm0TJbxvTfsMDT9D) | 4:30 | 2025-08-08 |  |
 | [Unbind](https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Unbind](https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO) | 3:27 | 2025-09-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Shirley Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 5852,
+  "num_followers": 5853,
   "original_name": "This Is Shirley Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACW0iSgP/ziR2ISlEdoXLOF",
+  "snapshot_id": "aSuJAAAAAABmMHMW7a31HnMSRs7mOdnT",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "JEKALYN X THE LEGENDS",
+        "url": "https://open.spotify.com/album/5lPKAJVygoWiOy33AZmvfj"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        },
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        },
+        {
+          "name": "Harvey Watkins Jr.",
+          "url": "https://open.spotify.com/artist/7A9VsjiTGQr0nKn2DbBL0s"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 293928,
+      "name": "History (Breakthrough)",
+      "url": "https://open.spotify.com/track/7nX5u3WlmJmD33bnMEMNFI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -211,34 +239,6 @@
       "duration_ms": 235160,
       "name": "Yes Lord, Yes - Live",
       "url": "https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JEKALYN X THE LEGENDS",
-        "url": "https://open.spotify.com/album/5lPKAJVygoWiOy33AZmvfj"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        },
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        },
-        {
-          "name": "Harvey Watkins Jr.",
-          "url": "https://open.spotify.com/artist/7A9VsjiTGQr0nKn2DbBL0s"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 293928,
-      "name": "History (Breakthrough)",
-      "url": "https://open.spotify.com/track/7nX5u3WlmJmD33bnMEMNFI"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fill This House",
-        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 299078,
-      "name": "Prayer Changes Things",
-      "url": "https://open.spotify.com/track/0ZvANWHiYL2knzAqIF4exv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -359,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6N3Dudfv0riTx67MKti6Gg"
+        "name": "Fill This House",
+        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
       },
       "artists": [
         {
@@ -368,9 +352,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 250080,
-      "name": "What A Friend We Have In Jesus (You Are My Friend) [Ult Version]",
-      "url": "https://open.spotify.com/track/3CGcWCtTzdXBjPzdq0PMr9"
+      "duration_ms": 299078,
+      "name": "Prayer Changes Things",
+      "url": "https://open.spotify.com/track/0ZvANWHiYL2knzAqIF4exv"
     },
     {
       "added_at": null,
@@ -391,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns",
-        "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6N3Dudfv0riTx67MKti6Gg"
       },
       "artists": [
         {
@@ -400,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 252666,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/5c993xB4UZFWaTZ8mTBWLl"
+      "duration_ms": 250080,
+      "name": "What A Friend We Have In Jesus (You Are My Friend) [Ult Version]",
+      "url": "https://open.spotify.com/track/3CGcWCtTzdXBjPzdq0PMr9"
     },
     {
       "added_at": null,
@@ -419,6 +403,22 @@
       "duration_ms": 248747,
       "name": "I Am Determined",
       "url": "https://open.spotify.com/track/06lXRkRWOse6IQjVEHdYcr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/5c993xB4UZFWaTZ8mTBWLl"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stand Still",
+        "url": "https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 395973,
+      "name": "Just As I Am",
+      "url": "https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fill This House",
         "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
       },
@@ -487,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand Still",
-        "url": "https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE"
+        "name": "Live... In Chicago",
+        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
       },
       "artists": [
         {
@@ -496,9 +512,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 395973,
-      "name": "Just As I Am",
-      "url": "https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO"
+      "duration_ms": 292706,
+      "name": "Peace In the Midst of the Storm - Live",
+      "url": "https://open.spotify.com/track/0f73golLehVjv0VfF3eUaI"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
       "duration_ms": 293893,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/5Q61xrkSzGTaMinDD7a8Tr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live... In Chicago",
-        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 292706,
-      "name": "Peace In the Midst of the Storm - Live",
-      "url": "https://open.spotify.com/track/0f73golLehVjv0VfF3eUaI"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sailin'",
-        "url": "https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Sailin' On the Sea of Your Love",
-      "url": "https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sailin'",
+        "url": "https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Sailin' On the Sea of Your Love",
+      "url": "https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All of the Glory (Radio Edit)",
-        "url": "https://open.spotify.com/album/3xzkzfAQ95xxY7N0W81Cel"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 236404,
-      "name": "All of the Glory - Radio Edit",
-      "url": "https://open.spotify.com/track/7gzDVXHFZ1IccYjjZFZBNB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good God",
         "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
       },
@@ -791,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart to Yours",
-        "url": "https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS"
+        "name": "All of the Glory (Radio Edit)",
+        "url": "https://open.spotify.com/album/3xzkzfAQ95xxY7N0W81Cel"
       },
       "artists": [
-        {
-          "name": "Michelle Williams",
-          "url": "https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui"
-        },
         {
           "name": "Shirley Caesar",
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 207960,
-      "name": "Steal Away to Jesus",
-      "url": "https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ"
+      "duration_ms": 236404,
+      "name": "All of the Glory - Radio Edit",
+      "url": "https://open.spotify.com/track/7gzDVXHFZ1IccYjjZFZBNB"
     },
     {
       "added_at": null,
@@ -823,6 +803,26 @@
       "duration_ms": 293400,
       "name": "Lord Let Your Spirit Fall On Me",
       "url": "https://open.spotify.com/track/6sUkxHGbYkjOEckag5qrWb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart to Yours",
+        "url": "https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS"
+      },
+      "artists": [
+        {
+          "name": "Michelle Williams",
+          "url": "https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui"
+        },
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Steal Away to Jesus",
+      "url": "https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ"
     },
     {
       "added_at": null,

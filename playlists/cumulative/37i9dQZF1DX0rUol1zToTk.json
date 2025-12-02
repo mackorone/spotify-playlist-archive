@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "So Dark The Con Of Man",
+        "url": "https://open.spotify.com/album/6c4eRgfN8nr9qN1IlXMckp"
+      },
+      "artists": [
+        {
+          "name": "Madcon",
+          "url": "https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216146,
+      "name": "Beggin (original version)",
+      "url": "https://open.spotify.com/track/1XyL3J7eTTKnxRZAM3LqIT"
+    },
+    {
+      "album": {
         "name": "Black & Gold (Radio Edit)",
         "url": "https://open.spotify.com/album/4xqJlHAGzZx6AenXVJt1aS"
       },
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 251266,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK"

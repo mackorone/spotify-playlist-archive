@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2625,
+  "num_followers": 2628,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARG+hJpLpUB5urfT5WJQkO3fXTEsbf",
+  "snapshot_id": "AAARHPrjCuT9a8xDRolexYP3myTBGL2i",
   "tracks": [
+    {
+      "added_at": "2025-12-01 18:35:13",
+      "album": {
+        "name": "SOMEBODY HERE?",
+        "url": "https://open.spotify.com/album/3Bkcjr5mpF6mxqlJL3MDHu"
+      },
+      "artists": [
+        {
+          "name": "KODELEAN DJ",
+          "url": "https://open.spotify.com/artist/2CG8X1NKy4XkOxsUckIrWl"
+        }
+      ],
+      "duration_ms": 241889,
+      "name": "SOMEBODY HERE? - Extended Version",
+      "url": "https://open.spotify.com/track/3pWjNTp2YCT5hVkXZ0JdNB"
+    },
     {
       "added_at": "2025-11-30 18:56:13",
       "album": {

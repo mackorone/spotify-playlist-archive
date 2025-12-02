@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,436 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,429 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 36 | [Nada Se Compara a Ti \- Ao Vivo](https://open.spotify.com/track/7uzJJ3v91TG26zothutvV2) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Baú da Taty 2, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr) | 2:48 |
 | 37 | [Falta Coragem](https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:37 |
 | 38 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 |
-| 39 | [Problema Seu](https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:42 |
-| 40 | [SEREIA](https://open.spotify.com/track/4opMbzrzvBDYyCdph6Slsr) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LIA CLARK](https://open.spotify.com/album/4rrmFsCIpXicqb0UL0ledx) | 2:35 |
+| 39 | [SEREIA](https://open.spotify.com/track/4opMbzrzvBDYyCdph6Slsr) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LIA CLARK](https://open.spotify.com/album/4rrmFsCIpXicqb0UL0ledx) | 2:35 |
+| 40 | [Problema Seu](https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:42 |
 | 41 | [Me Usa](https://open.spotify.com/track/5SlyKJvJOM00wNZ5TdC8sM) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 4:00 |
 | 42 | [A Lua](https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:35 |
-| 43 | [Bandida \(feat\. Mc Mayara\)](https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Mc Mayara](https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:26 |
+| 43 | [Eu Vou](https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:25 |
 | 44 | [BRUXARIA 3000](https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Mc Alleff](https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:54 |
 | 45 | [Parabéns](https://open.spotify.com/track/3mikf8qZaNp6wrrWxHgawH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:16 |
 | 46 | [Paraíso](https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Paraíso](https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt) | 2:43 |
-| 47 | [Eu Vou](https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:25 |
-| 48 | [Ouro \(feat\. Urias\)](https://open.spotify.com/track/7zvGNZu33bC4jZEkXHdDZ6) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:33 |
-| 49 | [Cadeado](https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Priscilla](https://open.spotify.com/artist/785LtGRXUDaT638HvotpSI) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:48 |
+| 47 | [Bandida \(feat\. Mc Mayara\)](https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Mc Mayara](https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:26 |
+| 48 | [Cadeado](https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Priscilla](https://open.spotify.com/artist/785LtGRXUDaT638HvotpSI) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:48 |
+| 49 | [Ouro \(feat\. Urias\)](https://open.spotify.com/track/7zvGNZu33bC4jZEkXHdDZ6) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:33 |
 | 50 | [Bang Bang](https://open.spotify.com/track/0fmoN2m4nuA4qGShcg3TuK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:54 |
 
-Snapshot ID: `aSo3gAAAAADoetDjGvFKyeYZJupU79Va`
+Snapshot ID: `aSuJAAAAAADdbHNmItb5q918rHWpw9gM`

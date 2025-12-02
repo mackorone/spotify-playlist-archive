@@ -5672,7 +5672,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -10766,7 +10766,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 174653,
       "name": "FaSHioN",
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
@@ -14839,6 +14839,24 @@
     },
     {
       "album": {
+        "name": "I Run",
+        "url": "https://open.spotify.com/album/5gERxcBMubbaKGdbs4ngqT"
+      },
+      "artists": [
+        {
+          "name": "Micah's Music",
+          "url": "https://open.spotify.com/artist/4ZclG6kmrHxEHZtGG1r3fs"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129577,
+      "name": "I Run",
+      "url": "https://open.spotify.com/track/7yxEOiB5klVkj9RXfia90C"
+    },
+    {
+      "album": {
         "name": "x (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1upLfaShcnjVjey0FdY7aO"
       },
@@ -17286,7 +17304,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 258613,
       "name": "La Yugular",
       "url": "https://open.spotify.com/track/7JKpS5rKsKWeVPZ0ojBqv9"
@@ -22286,6 +22304,24 @@
     {
       "album": {
         "name": "Ne Spirai",
+        "url": "https://open.spotify.com/album/7LAHdUdGlKx9lfYgiYtg3X"
+      },
+      "artists": [
+        {
+          "name": "murdambt do grob",
+          "url": "https://open.spotify.com/artist/6qhZRbpr6e7Ia6p3Bcflru"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223910,
+      "name": "Ne Spirai",
+      "url": "https://open.spotify.com/track/64RxpnQV47cD9cMFPsCJMJ"
+    },
+    {
+      "album": {
+        "name": "Ne Spirai",
         "url": "https://open.spotify.com/album/3wX0ETUOcHlbtB1yBl9i6K"
       },
       "artists": [
@@ -22606,7 +22642,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 191000,
       "name": "Nighthawk - Reprise",
       "url": "https://open.spotify.com/track/1HadQI0LBZKqF2J6iTRn0t"
@@ -26991,6 +27027,24 @@
     },
     {
       "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "album": {
         "name": "#HeadsUP",
         "url": "https://open.spotify.com/album/1vT6UQMmFNVVdkwiLHLyiB"
       },
@@ -29632,7 +29686,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 172313,
       "name": "SPAGHETTI",
       "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
@@ -33672,7 +33726,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 149449,
       "name": "TVOQTA LUBOV",
       "url": "https://open.spotify.com/track/5UEjI8H2w4yk9XsFMR06ws"
@@ -34934,7 +34988,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 213159,
       "name": "Walk My Walk",
       "url": "https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT"

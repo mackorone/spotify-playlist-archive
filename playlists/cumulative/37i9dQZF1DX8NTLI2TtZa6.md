@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-586 songs - 1 day 1 hr 6 min
+590 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Glendale Walk](https://open.spotify.com/track/30bKGGrB4CdUU1FrhDbjE8) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Glendale Walk](https://open.spotify.com/album/5foJvhdGbJtArvZjVzl7ER) | 3:07 | 2021-12-07 | 2023-01-27 |
 | [Goodbye Beverlywood](https://open.spotify.com/track/4fJjCw4Uhyx9Orpcgao7pk) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Goodbye Beverlywood](https://open.spotify.com/album/4emsJmeHX6e4AZnt9jRgCb) | 2:04 | 2025-11-05 |  |
 | [Gouttes](https://open.spotify.com/track/6FEpVWSgpAadjPVuKNwCcx) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Gouttes](https://open.spotify.com/album/5Fws3ZQPPNC8m9vcR3H2Yx) | 3:14 | 2021-12-07 | 2022-12-24 |
+| [Grasping](https://open.spotify.com/track/3FctpWMhoKzUxTCKdKY48N) | [Dan Huntington](https://open.spotify.com/artist/7fTfO2FpbPAAmPUxzH202u) | [Grasping](https://open.spotify.com/album/2SbYlHjePuu6yBS1EBtMkh) | 2:18 | 2025-12-01 |  |
 | [Gratitude](https://open.spotify.com/track/05RikarvGDzw4HktIAxxKR) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Gratitude](https://open.spotify.com/album/2gZdEJzgzP0PYSso7gILsX) | 2:13 | 2021-12-07 | 2023-01-27 |
 | [Half Of My Soul](https://open.spotify.com/track/5ykVoVdexmabNS0Oi8RFSs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Half Of My Soul](https://open.spotify.com/album/6Ph4IPNvLZZh6kqBxmbZ60) | 3:41 | 2025-01-14 |  |
 | [Hallstatt](https://open.spotify.com/track/03s95WJwNOg7elfFlfG9fF) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Hallstatt](https://open.spotify.com/album/4lliWkRCrXuGWdT9qUi3b6) | 3:04 | 2024-09-24 |  |
@@ -278,7 +279,7 @@
 | [Letter To A Friend](https://open.spotify.com/track/1MoOc8rH7o4TPY5bYKRA7J) | [Robert Gromotka](https://open.spotify.com/artist/3O0m1fz3mncIqJ2JmHIbH6), [Chiharu Bley Violoncello](https://open.spotify.com/artist/0xYJZq8dcOaFvjIGnMvFHT) | [Letter to a Friend](https://open.spotify.com/album/1a7VHDhOVM54tcTsrpsqNM) | 3:04 | 2023-01-09 | 2024-03-20 |
 | [Lever du Soleil](https://open.spotify.com/track/3Ct59fvUQpwTyaAvi4fCEL) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Lever du Soleil](https://open.spotify.com/album/4vuAjANHzQMGIJu9fN4c3q) | 2:36 | 2024-05-29 |  |
 | [Li](https://open.spotify.com/track/3Pfj28ILjwTSgBsIXSxYlo) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Li](https://open.spotify.com/album/1xOxD86o1JwiJ7YHeVxDKc) | 2:40 | 2025-05-30 |  |
-| [Liebchen](https://open.spotify.com/track/79QW41lC878sIbPCfHbUSC) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Liebchen](https://open.spotify.com/album/6ItYT8YF1qNNvbueX0lZKz) | 2:43 | 2023-09-26 |  |
+| [Liebchen](https://open.spotify.com/track/79QW41lC878sIbPCfHbUSC) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Liebchen](https://open.spotify.com/album/6ItYT8YF1qNNvbueX0lZKz) | 2:43 | 2023-09-26 | 2025-12-02 |
 | [Life Unfolding](https://open.spotify.com/track/2Giy2LFS5WAlI092sozZPl) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Life Unfolding](https://open.spotify.com/album/0TgicuXFyvuNHkSbYWR7fU) | 2:18 | 2024-03-04 |  |
 | [Light Beyond the Sea](https://open.spotify.com/track/04NDnHXLfZI2opryvLW2o5) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Light Beyond the Sea](https://open.spotify.com/album/5wyOeH6huy4171uMSekTgw) | 2:06 | 2025-07-16 |  |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2021-12-07 | 2022-04-15 |
@@ -334,6 +335,7 @@
 | [Morning Skyline](https://open.spotify.com/track/0W9zDuwcQaRyxk7Z4peRmM) | [Dale Brenan](https://open.spotify.com/artist/3SZHAoiLC6bI4R1Ih2iD5W) | [Morning Skyline](https://open.spotify.com/album/3a54uonmLjDZ9vH1TnXNvs) | 2:29 | 2021-12-07 | 2022-03-17 |
 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2022-03-01 | 2025-05-31 |
 | [Mornings](https://open.spotify.com/track/0fX0L4RnzpvrOyr4vvQtuS) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [Mornings](https://open.spotify.com/album/6JlPldHRWwO1MXDMznRzBC) | 2:33 | 2025-01-22 |  |
+| [Mountains Remember](https://open.spotify.com/track/2WqinVHDaNDPJJhalg8xxN) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Mountains Remember](https://open.spotify.com/album/3JUpK9eGNktbn0fzygcNpI) | 2:32 | 2025-12-01 |  |
 | [Movement of the Clouds](https://open.spotify.com/track/4tWiogHa4QDJrXk4Ha0h25) | [Saah](https://open.spotify.com/artist/1gu7CrdnoVqZKicUZlyhoa) | [Movement of the Clouds](https://open.spotify.com/album/6wy5uroycQL15o7AgsjiSK) | 2:09 | 2024-01-05 |  |
 | [Moving on](https://open.spotify.com/track/6G8LanLXd3GVoae2jwx4bE) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Moving on](https://open.spotify.com/album/2YbzBN9aTNdoV4g5nj1iB7) | 2:52 | 2024-05-14 |  |
 | [Mursejler](https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa) | 2:58 | 2021-12-07 | 2022-01-19 |
@@ -449,6 +451,7 @@
 | [Rivers Wide](https://open.spotify.com/track/6CKxNZvRKtUSCmumhtmI6r) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Rivers Wide](https://open.spotify.com/album/23SAyFDy3jUqDNArqcJ87k) | 2:57 | 2024-05-29 |  |
 | [Rose](https://open.spotify.com/track/1J4at1zyBzfGjCPjZi7xF8) | [Marcin Starosta](https://open.spotify.com/artist/3zXWrdKJkoFzMsPsw51Nzw) | [Rose](https://open.spotify.com/album/1kjF5lhvENXPVodNLCz4Ba) | 3:06 | 2022-07-19 | 2025-04-10 |
 | [Round Corners](https://open.spotify.com/track/5Xihr5cDsWzZoAXDYXIyQT) | [Gino Carbone](https://open.spotify.com/artist/6GHpZni4assd8ljmgjhMix) | [Round Corners](https://open.spotify.com/album/2nSqjcfvtIkeqzscccMkZr) | 2:26 | 2021-12-07 | 2023-05-04 |
+| [Sabana De La Mar](https://open.spotify.com/track/25Z5Lzg8qsFN8NxZXbdAAC) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Sabana De La Mar](https://open.spotify.com/album/2Qa98iRGtPt9mjbQ2fDmau) | 2:54 | 2025-12-01 |  |
 | [Sailing](https://open.spotify.com/track/3BzjuaHgLpJPbJCSoriHbq) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Sailing](https://open.spotify.com/album/4w1hpzfnRa9pxmxamHwbiP) | 2:32 | 2023-08-14 |  |
 | [Sailing Away](https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Sailing Away](https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7) | 2:23 | 2023-05-03 | 2025-04-10 |
 | [Sainte Marie](https://open.spotify.com/track/46P88nRKUQOKGBBGmzZiVS) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Sainte Marie](https://open.spotify.com/album/0qAJVINmFMLvDcxGZOS0VU) | 2:36 | 2023-06-20 |  |
@@ -574,6 +577,7 @@
 | [Waiting](https://open.spotify.com/track/2Op8mcs875f93h8KjjtBlA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Waiting](https://open.spotify.com/album/7fw4WuMN09PVhrGjcqOLAL) | 2:05 | 2024-12-17 | 2025-09-18 |
 | [Waltz for Lizzy](https://open.spotify.com/track/70xS3AcW7idZcUrvFEzMln) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Waltz for Lizzy](https://open.spotify.com/album/6G7moqFyfKhBbnb5lxvnjF) | 1:49 | 2023-01-26 | 2023-07-19 |
 | [Waltz For Nala](https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Waltz For Nala](https://open.spotify.com/album/0MMm9VMrSYTvSFyyrwD9yQ) | 2:17 | 2021-12-07 | 2023-04-19 |
+| [Warm Embrace](https://open.spotify.com/track/4jD1QL2kqZMzRjOfm0cf1R) | [Lyrius Roy](https://open.spotify.com/artist/6hfGxYTz2BLoQEclMC2UBs) | [Warm Embrace](https://open.spotify.com/album/5NW5Yoc70ytFG8HzOAYgfM) | 2:04 | 2025-12-01 |  |
 | [Wayfarer](https://open.spotify.com/track/6pHZs5zWUpnAp2lsGBqv9g) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Wayfarer](https://open.spotify.com/album/0Xn8a1juC1VWLCOIskDjzm) | 1:53 | 2023-06-20 | 2023-08-22 |
 | [we just keep on going](https://open.spotify.com/track/6X47Ep7oQ6d692X9KWPusw) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [we just keep on going](https://open.spotify.com/album/7mbdKkcux9ZJMD5bgQnWjx) | 2:10 | 2025-06-10 |  |
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 | 2022-06-08 |

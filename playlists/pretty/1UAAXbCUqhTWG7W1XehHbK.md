@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 588 likes - 134 songs - 7 hr 52 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 587 likes - 134 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

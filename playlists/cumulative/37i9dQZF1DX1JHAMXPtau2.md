@@ -4,7 +4,7 @@
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-50 songs - 2 hr 19 min
+54 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,9 @@
 | [A Marshmallow World](https://open.spotify.com/track/26qH2fgQYx3D1pgdhO5Gba) | [John Manson](https://open.spotify.com/artist/7M9AwoeT6YVeqrbK7a0Lsk) | [A Marshmallow World](https://open.spotify.com/album/5kfXeFZLIDaHWRrrS4dbco) | 2:32 | 2023-11-17 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/2ZldA72ZbtvHaQEJFxybtm) | [Diego de Galdeano](https://open.spotify.com/artist/0VN4x01SCzLmIMFzuPzAKU) | [Oh Come, All Ye Faithful](https://open.spotify.com/album/1Wmhjzrbn1EOKzhqgGWfhq) | 3:09 | 2023-11-17 |  |
 | [Aud Lang Syne](https://open.spotify.com/track/6dTnaFiYUyIedK1HruGkd3) | [Elijah Shepherd](https://open.spotify.com/artist/3g1YRMovikK5MHYJJ1KuMh) | [Aud Lang Syne](https://open.spotify.com/album/2T39fk4I0OJW5htvra8Jlw) | 2:34 | 2024-12-05 |  |
+| [Away In A Manger](https://open.spotify.com/track/2H9gKMSeykvvg4G1kVtl7j) | [Jerome Louis](https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ) | [The Sound Of Christmas](https://open.spotify.com/album/3RENSUP6qDzQUpORh0Zz8I) | 1:36 | 2025-12-01 |  |
 | [Blue Christmas](https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:20 | 2023-11-17 |  |
+| [Candlelit Within](https://open.spotify.com/track/4KzPfpoiBHHOX8DYZydShl) | [Joseph Cole](https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l) | [Candlelit Within](https://open.spotify.com/album/3nKPaFrNuWs3go1l4WFS4u) | 2:36 | 2025-12-01 |  |
 | [Candles](https://open.spotify.com/track/4LBOStx3RgmDRT6qo0sAbe) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Candles](https://open.spotify.com/album/6KbPiTD5ECm71o5y9cIbPv) | 3:44 | 2023-11-17 | 2024-11-12 |
 | [Christ Was Born On Christmas Day](https://open.spotify.com/track/1HyKIB8bzYYT6PlosczZj3) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Christ Was Born On Christmas Day](https://open.spotify.com/album/4Av88zEsREUmeIhBwUhWV7) | 2:34 | 2023-11-24 | 2025-09-05 |
 | [Christmas is a\-comin'](https://open.spotify.com/track/0AtyXQ2WXI8ei08zdTDJvV) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [Christmas is a\-comin'](https://open.spotify.com/album/1FQA9vud3qC2AHLIhoN633) | 2:26 | 2023-11-17 |  |
@@ -25,6 +27,7 @@
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/1dnGfAHKObTGRL6FFXI5I2) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [Frosty The Snowman](https://open.spotify.com/album/1I9rcVH3yBxsNGUHb8X5Wk) | 2:24 | 2023-11-17 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6boYat9zHcJseJJKBCKRS6) | [Charles Snyder](https://open.spotify.com/artist/29L67ywhlU9XACCtmJQMSr) | [Christmas Songs](https://open.spotify.com/album/5HbLO8vIITOIGpNGc5q8My) | 3:42 | 2023-11-17 |  |
 | [Here Comes Santa](https://open.spotify.com/track/7dXYFKVoQhAkrY9U2qQzpA) | [Ruth Malton](https://open.spotify.com/artist/2mm0psmPDIsQH3XtQGsl25) | [Here Comes Santa](https://open.spotify.com/album/6ZLd0vpnu2UBLUN7gGUeQk) | 3:28 | 2023-11-17 |  |
+| [Holly Jolly Christmas](https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE) | [Mauro Meira](https://open.spotify.com/artist/5P3e6ZdtW6wdkTG7Fu7WBr) | [Holly Jolly Christmas](https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd) | 2:03 | 2025-12-01 |  |
 | [Home for the Holidays](https://open.spotify.com/track/6M2ZatEcMJNWrhm7dF8h6M) | [Vlad Kotsky](https://open.spotify.com/artist/4dXJTtjTNvhUGdt2j7CU2M) | [Home for the Holidays](https://open.spotify.com/album/3mcRjaxQEF83X8u7PWHqba) | 3:46 | 2023-11-17 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/5DLLYzJ575Fm5nO9JMz1Qb) | [Rebecca McCarthey](https://open.spotify.com/artist/6jwFngKucSiFvC4ZnyNuSq) | [Christmas In New York](https://open.spotify.com/album/2f1Yvqn1ObgJjAZahXKAsW) | 3:38 | 2023-11-17 |  |
 | [I Still Believe in Santa Clause](https://open.spotify.com/track/23SGz7Wz2c5A9830LLUCdH) | [Manfred Flynn](https://open.spotify.com/artist/1zGhQhooGB9J162ncgrR68) | [Merry Jazzmas!](https://open.spotify.com/album/3VycMqU4q8PbpBMVUiGV4i) | 2:50 | 2023-11-17 |  |
@@ -39,6 +42,7 @@
 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 | 2023-11-17 |  |
 | [Oh Christmas Tree](https://open.spotify.com/track/2pYXmds8IjEUvg1hFVYygg) | [Holly Humphries](https://open.spotify.com/artist/1LEm1FrOUeY0mc4QSANWCv) | [Blue Christmas](https://open.spotify.com/album/2OTob7u7QIBN14LmOckwvc) | 2:53 | 2023-11-17 |  |
 | [Oh Holy Night](https://open.spotify.com/track/1sCwaLpoN8VitJIYHgWZei) | [Lucy Christiansen](https://open.spotify.com/artist/7MEdErlyxiA996mSCEy9l0) | [Home For Christmas](https://open.spotify.com/album/2TH7H24oY5NaW44MILtcPK) | 3:30 | 2023-11-17 |  |
+| [Ring in the Season](https://open.spotify.com/track/4GSrxmvhvcW5ngrnDLYx2S) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Ring in the Season](https://open.spotify.com/album/01YBrLsmmRoqzu1r4rZnnB) | 3:32 | 2025-12-01 |  |
 | [Rockin Around the Christmas Tree \- Cover](https://open.spotify.com/track/6Cx34TJ6sWuyaCMbdTtHZc) | [Markus Palm](https://open.spotify.com/artist/3HcuvEP9GIhev84pVvv6hi) | [Rockin Around the Christmas Tree \(Cover\)](https://open.spotify.com/album/047Jsj8cPsf6bwDQzG42QY) | 2:24 | 2024-12-12 | 2025-09-05 |
 | [Rockin’ Around the Christmas Tree](https://open.spotify.com/track/0u3Eibk2FUsdcUzj617Kid) | [Brand Nor](https://open.spotify.com/artist/6K82W353kltBs93MJIf2Qq) | [Rockin’ Around the Christmas Tree](https://open.spotify.com/album/0AdODezaCbUHJGwoFsONcn) | 3:24 | 2025-10-17 |  |
 | [Santa Baby](https://open.spotify.com/track/4t7gSDW8t9Nzoy3z63Q253) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Santa Baby](https://open.spotify.com/album/0oVxHx60zwj8nRiPgkcDGp) | 2:17 | 2023-11-17 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 1827,
+  "num_followers": 1838,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-09-30 15:00:36",
       "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc"
-      },
-      "artists": [
-        {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
-        }
-      ],
-      "duration_ms": 201442,
-      "name": "14",
-      "url": "https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3"
-    },
-    {
-      "added_at": "2025-09-30 15:00:36",
-      "album": {
         "name": "Slow brew morning",
         "url": "https://open.spotify.com/album/6HfItavipVgNp1zCSbpBrv"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 162797,
       "name": "Slow brew morning",
       "url": "https://open.spotify.com/track/3cTHSRJq34IYP3uadM3UGb"
+    },
+    {
+      "added_at": "2025-09-30 15:00:36",
+      "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        }
+      ],
+      "duration_ms": 201442,
+      "name": "14",
+      "url": "https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3"
     },
     {
       "added_at": "2025-09-30 15:00:36",
@@ -819,22 +819,18 @@
     {
       "added_at": "2025-09-30 15:00:36",
       "album": {
-        "name": "KTST",
-        "url": "https://open.spotify.com/album/18Nw6tolNXkQ8s9m4x7d4a"
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc"
       },
       "artists": [
         {
-          "name": "MoMo",
-          "url": "https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW"
-        },
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+          "name": "Double",
+          "url": "https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq"
         }
       ],
-      "duration_ms": 167482,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/26rDgXiR1lkieexQ2hkBXk"
+      "duration_ms": 321400,
+      "name": "BED (DOUBLES)",
+      "url": "https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR"
     }
   ],
   "unique_name": "Kimono R&B",

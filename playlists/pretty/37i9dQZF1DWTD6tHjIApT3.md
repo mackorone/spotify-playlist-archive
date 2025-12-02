@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 家入レオ Leo Ieiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,549 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,540 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 34 | [恋風](https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [恋風](https://open.spotify.com/album/2YnF0m9IK3ZEApvRVb7tqo) | 3:02 |
 | 35 | [ふたりごと](https://open.spotify.com/track/40LZpCt554ozJayGUrQw1P) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [ふたりごと](https://open.spotify.com/album/5ctQQYVDiYBDO0EEfxS5zE) | 4:39 |
 | 36 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 |
-| 37 | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 |
-| 38 | [DARMA GRAND PRIX](https://open.spotify.com/track/3ObSLLg2RNv3vhL2fIB5EK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [DARMA GRAND PRIX](https://open.spotify.com/album/0lfdhZeXQ140S9DmUss843) | 4:19 |
+| 37 | [DARMA GRAND PRIX](https://open.spotify.com/track/3ObSLLg2RNv3vhL2fIB5EK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [DARMA GRAND PRIX](https://open.spotify.com/album/0lfdhZeXQ140S9DmUss843) | 4:19 |
+| 38 | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 |
 | 39 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 |
 | 40 | [a music score](https://open.spotify.com/track/6TcoXIFuITi36A1uLtOx0O) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [a music score](https://open.spotify.com/album/5RgCzUL166JU7tFjmEllWg) | 3:29 |
 | 41 | [Watch me!](https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Watch me!](https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc) | 3:06 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 56 | [1000 days of moments](https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000 days of moments](https://open.spotify.com/album/4kDY1iaK6MdsDsZEZ78Ebk) | 3:23 |
 | 57 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 |
 | 58 | [冬の魔法](https://open.spotify.com/track/7Ez0TwE0PKAkJG9x7mhBEU) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [冬の魔法](https://open.spotify.com/album/5S7Lefial9F6o8iX5OxSpe) | 3:07 |
-| 59 | [Aria](https://open.spotify.com/track/5YqACM8RWUfAIVkOmtB2Mo) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Aria](https://open.spotify.com/album/6v19AL49KRqhe26ChlJH08) | 3:38 |
-| 60 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 59 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 60 | [Aria](https://open.spotify.com/track/5YqACM8RWUfAIVkOmtB2Mo) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Aria](https://open.spotify.com/album/6v19AL49KRqhe26ChlJH08) | 3:38 |
 | 61 | [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 |
-| 62 | [Pastoral](https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Pastoral](https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8) | 4:05 |
-| 63 | [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 |
+| 62 | [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 |
+| 63 | [Pastoral](https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Pastoral](https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8) | 4:05 |
 | 64 | [Voyage](https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Voyage](https://open.spotify.com/album/3qUKioXfUeLyuzPtsYCNnL) | 3:38 |
 | 65 | [最低界隈 \- Saitei Kaiwai](https://open.spotify.com/track/6LQMfHAZYxaX2AyRDnHp4K) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [最低界隈 \- Saitei Kaiwai](https://open.spotify.com/album/5KtONgHCOttcGD4Y1lsXpC) | 3:20 |
 | 66 | [プラットフォーム](https://open.spotify.com/track/5V9LT2rCDDoIv1pB6bzlza) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プラットフォーム](https://open.spotify.com/album/1fiO9LItKQZ6ZKnPnLBh12) | 3:30 |
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 72 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
 | 73 | [Kissing the machine](https://open.spotify.com/track/2lg0TdICLNAii6wdhbyXeF) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Kissing the machine](https://open.spotify.com/album/4dQJhysRhXJHLyVx76Wty1) | 4:03 |
 | 74 | [ギルティ \- Guilty](https://open.spotify.com/track/6T39ocn30lHZqy9PCMGdSc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ギルティ \- Guilty](https://open.spotify.com/album/5b2yWdyyfJhDIFuJjPlsxZ) | 3:29 |
-| 75 | [イオ](https://open.spotify.com/track/39VPDfAqvjOhiA4EmikYeD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [イオ](https://open.spotify.com/album/4xNg6oWMihtDxAg6zttebV) | 3:03 |
-| 76 | [BALALAIKA Acoustic Ver.](https://open.spotify.com/track/6rmJJa2t3CBsqqWOjUzuhw) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BALALAIKA Acoustic Ver.](https://open.spotify.com/album/1v86NbqCrRTOrwotk46lDG) | 3:46 |
+| 75 | [BALALAIKA Acoustic Ver.](https://open.spotify.com/track/6rmJJa2t3CBsqqWOjUzuhw) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BALALAIKA Acoustic Ver.](https://open.spotify.com/album/1v86NbqCrRTOrwotk46lDG) | 3:46 |
+| 76 | [イオ](https://open.spotify.com/track/39VPDfAqvjOhiA4EmikYeD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [イオ](https://open.spotify.com/album/4xNg6oWMihtDxAg6zttebV) | 3:03 |
 | 77 | [Never ends](https://open.spotify.com/track/7N0wLuSlDPe3cEDA6zBhKZ) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Never ends](https://open.spotify.com/album/0olJZDgEjssjTCslrVVK0f) | 4:08 |
 | 78 | [CUBE](https://open.spotify.com/track/0Utf1kTcynD7Fg5u2NXtZC) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [CUBE](https://open.spotify.com/album/0Pjd5SU2gAPoFnwnYj5x9C) | 3:22 |
 | 79 | [クリームで会いにいけますか](https://open.spotify.com/track/3I7nntPbM5cFnq08f9PCxM) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [クリームで会いにいけますか](https://open.spotify.com/album/4E1uEIEcYmDIhR0sThjDL8) | 3:54 |
 | 80 | [ムリムリ進化論](https://open.spotify.com/track/50palGbYA85jbX8y79aqRK) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ムリムリ進化論](https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf) | 3:14 |
-| 81 | [つづく](https://open.spotify.com/track/70ERCHbKifPcFyUhLJPpM2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [つづく](https://open.spotify.com/album/7va0bdMQ39GEglWhgMF2XE) | 4:05 |
-| 82 | [巡ループ](https://open.spotify.com/track/6p8xc2hx0ZXDyFe4CNxSMy) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [巡ループ](https://open.spotify.com/album/1edhuNkoP27i5vOYM4qr35) | 4:12 |
+| 81 | [巡ループ](https://open.spotify.com/track/6p8xc2hx0ZXDyFe4CNxSMy) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [巡ループ](https://open.spotify.com/album/1edhuNkoP27i5vOYM4qr35) | 4:12 |
+| 82 | [つづく](https://open.spotify.com/track/70ERCHbKifPcFyUhLJPpM2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [つづく](https://open.spotify.com/album/7va0bdMQ39GEglWhgMF2XE) | 4:05 |
 | 83 | [グライド](https://open.spotify.com/track/6jg0v1Iy7Y1t2M2bcVrTRf) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [グライド](https://open.spotify.com/album/05RJSqyP55ocLOOyIXaNht) | 3:30 |
 | 84 | [手紙](https://open.spotify.com/track/5d07s3PYSAi9LnEJX5ksTX) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [手紙](https://open.spotify.com/album/2QYkXFaj7DYH2FCVZ7q2Tl) | 4:04 |
 | 85 | [ローズヒップティー](https://open.spotify.com/track/70b4ERyNm85qdsU0gdgc3M) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ローズヒップティー](https://open.spotify.com/album/42rLhEFaJghaRLnmEQv5Fs) | 3:12 |

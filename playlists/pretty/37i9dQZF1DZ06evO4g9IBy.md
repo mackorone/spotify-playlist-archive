@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,683 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,688 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 49 | [The Dealer](https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [24 Karat Gold: Songs from the Vault](https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R) | 4:38 |
 | 50 | [Maybe Love Will Change Your Mind](https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Street Angel](https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS) | 4:19 |
 
-Snapshot ID: `aSo3gAAAAACs9C0TPvuDfmDmB2ORx61+`
+Snapshot ID: `aSuJAAAAAAAnUJp5P9+n2BO6P6fnc4aG`

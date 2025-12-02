@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,043 likes - 267 songs - 17 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,045 likes - 267 songs - 17 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 76 | [Sorrow](https://open.spotify.com/track/6kREzaEnJBhSGeWxeQSe7H) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4vBvnlmaiyoEf04hLe5SLo) | 3:25 |
 | 77 | [Terrible Love](https://open.spotify.com/track/1GQ3tsW4kngoJ0JuU2hJcS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4vBvnlmaiyoEf04hLe5SLo) | 4:39 |
 | 78 | [Day I Die](https://open.spotify.com/track/5tOQgKuJEU01GjoHhVFCjn) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 4:31 |
-| 79 | [England](https://open.spotify.com/track/1z5E84ZZQP5o0k00oqpt13) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4vBvnlmaiyoEf04hLe5SLo) | 5:40 |
-| 80 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/4VDXj2X5I2fOQRN7tiztmq) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 2:57 |
+| 79 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/4VDXj2X5I2fOQRN7tiztmq) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 2:57 |
+| 80 | [England](https://open.spotify.com/track/1z5E84ZZQP5o0k00oqpt13) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4vBvnlmaiyoEf04hLe5SLo) | 5:40 |
 | 81 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 |
 | 82 | [Salt Water](https://open.spotify.com/track/6UIcjH0BzH2MKvToeEYIOZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:59 |
 | 83 | [This is what the drugs are for](https://open.spotify.com/track/6oPDWUwxTIsGejcHd9tLdc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 |
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 141 | [Abel](https://open.spotify.com/track/0XKXeiNCDf9jlK1YmkM1cX) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Alligator](https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs) | 3:37 |
 | 142 | [Latter Days](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 |
 | 143 | [Turtleneck](https://open.spotify.com/track/0Mn1Ku0kJLFbSzLPq0BtIq) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 3:00 |
-| 144 | [This Isn't Helping \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/56QXS0Hk7mKpuLaFJQ3x8F) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:04 |
-| 145 | [The Bend](https://open.spotify.com/track/63pCUZDXRI4Tu6zhj8O4e2) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [The Bend](https://open.spotify.com/album/6seylik7yeqVmowFt5nCF6) | 3:27 |
+| 144 | [The Bend](https://open.spotify.com/track/63pCUZDXRI4Tu6zhj8O4e2) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [The Bend](https://open.spotify.com/album/6seylik7yeqVmowFt5nCF6) | 3:27 |
+| 145 | [This Isn't Helping \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/56QXS0Hk7mKpuLaFJQ3x8F) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:04 |
 | 146 | [Spring](https://open.spotify.com/track/5xlCPBwakaVR2uwJG8Zph3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 2:58 |
 | 147 | [Page](https://open.spotify.com/track/3LP0XwrMJ6ShNSrExi7jYs) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:51 |
 | 148 | [Midnight](https://open.spotify.com/track/2OTISEHIoZio1AKmKpV9BY) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 2:59 |
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 266 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 267 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `AcDAUAAAAAB2JwEyq7AekPtZTc+x6n2/`
+Snapshot ID: `AcDF8AAAAADsoOE3r/g8uOwzauFhW5AR`

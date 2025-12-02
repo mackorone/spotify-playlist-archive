@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15629,
+  "num_followers": 15630,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACZseDFqy6LIiAyTSzCkOb+",
+  "snapshot_id": "aSuJAAAAAABNebCiko6UfX/mRTdfK6fG",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
+        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Beauty Of Grace - Acoustic Version",
+      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
         "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
       },
@@ -535,6 +555,54 @@
       "duration_ms": 133880,
       "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
       "url": "https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna Para Ti (feat. Riccardo Frascari)",
+        "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 212362,
+      "name": "Luna Para Ti (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 178225,
+      "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
     },
     {
       "added_at": null,
@@ -571,74 +639,6 @@
       "duration_ms": 173929,
       "name": "T\u00fa Cuentas Conmigo (feat. Carolina Mestrovic, Fefi Oliveira, Sebasti\u00e1n Silva & Santiago Achaga)",
       "url": "https://open.spotify.com/track/7o1euvvl0ctDsnkvXuPhYF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
-        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Beauty Of Grace - Acoustic Version",
-      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 178225,
-      "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luna Para Ti (feat. Riccardo Frascari)",
-        "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 212362,
-      "name": "Luna Para Ti (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
     },
     {
       "added_at": null,

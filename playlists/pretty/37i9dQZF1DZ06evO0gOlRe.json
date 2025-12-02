@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 35739,
+  "num_followers": 35746,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAADC6O4KPfL+5u9nkdPla3HL",
+  "snapshot_id": "aSuJAAAAAABJxmr36NhYksWPArABGYV+",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "echo",
-        "url": "https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "echo",
-      "url": "https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life at First Sight",
         "url": "https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J"
       },
@@ -275,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm trying",
-        "url": "https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m"
+        "name": "echo",
+        "url": "https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg"
       },
       "artists": [
         {
@@ -284,9 +268,25 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 164933,
-      "name": "I'm trying",
-      "url": "https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt"
+      "duration_ms": 198750,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "he never will",
+        "url": "https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "he never will",
+      "url": "https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "he never will",
-        "url": "https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI"
+        "name": "I'm trying",
+        "url": "https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 171133,
-      "name": "he never will",
-      "url": "https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq"
+      "duration_ms": 164933,
+      "name": "I'm trying",
+      "url": "https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt"
     },
     {
       "added_at": null,

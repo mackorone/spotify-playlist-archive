@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Smoke You Out",
+        "url": "https://open.spotify.com/album/6m6dmpW97xn0wuo0YIcUEh"
+      },
+      "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159049,
+      "name": "Smoke You Out",
+      "url": "https://open.spotify.com/track/7Kg5NuhEE0Lqw0CprnKAYG"
+    },
+    {
+      "album": {
         "name": "Mr. Saturday Night",
         "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
       },

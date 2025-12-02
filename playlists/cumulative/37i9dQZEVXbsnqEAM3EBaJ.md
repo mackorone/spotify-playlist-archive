@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,942 songs - 8 day 6 hr 29 min
+2,943 songs - 8 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Alaska](https://open.spotify.com/track/5BQ5OJkyDq9eS6XypoZjZB) | [ScarLid Vibez](https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq), [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Keeper of Chronos](https://open.spotify.com/album/13JpLlscppTg9tabzKOscz) | 1:19 | 2025-06-27 | 2025-07-01 |
 | [Alaska, You're On Thin Ice Buddy!](https://open.spotify.com/track/6gP6Hh5VC2uwOIPCS6GNf9) | [Ashtray For Aliens](https://open.spotify.com/artist/3dKw0MiQHZ7bsUI6KfcuLI), [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Alaska, You're On Thin Ice Buddy!](https://open.spotify.com/album/44YbGpDd64m0rv5Coh0cjW) | 3:24 | 2025-05-02 | 2025-06-01 |
 | [Alcohol\-Free \(English ver.\)](https://open.spotify.com/track/6rJjT5kPYhtXkUsot7tkjI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 3:30 | 2023-12-01 | 2023-12-09 |
+| [Alfil, Ella No Cambia Nada \- Remasterizado 2025](https://open.spotify.com/track/2FZEEykFbpHD9nZ1VQXYCW) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Privé \(Remasterizado 2025\)](https://open.spotify.com/album/00qj2giiDV2K0LUIJ9o64Y) | 4:10 | 2025-11-28 |  |
 | [Alias \- Live at Metal Church](https://open.spotify.com/track/0iKC8NnDut03sBJe3IjAbB) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Alias \(Live at Metal Church\)](https://open.spotify.com/album/5N9WwSmIA11ku8OIl3fqeZ) | 4:47 | 2023-06-30 | 2023-07-08 |
 | [Alice Through the Looking Glass](https://open.spotify.com/track/7sArXWDg86rMoLG46QE2ac) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Alice Through the Looking Glass](https://open.spotify.com/album/3Er6lsWzZmM4oP8RICZseP) | 4:18 | 2023-08-25 | 2023-09-16 |
 | [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 | 2023-09-01 | 2023-09-13 |
@@ -1369,7 +1370,7 @@
 | [La Hoja del Sol](https://open.spotify.com/track/3WuoYJBaOKZppiMk9bU3g5) | [Ojal De Ajaw](https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ) | [La Hoja del Sol](https://open.spotify.com/album/2hvBltbrGufOoQ4GNPQGk7) | 3:34 | 2024-12-06 | 2024-12-15 |
 | [La Hora del Té](https://open.spotify.com/track/3Bkx0T4grWjuSxRS5ygLNi) | [No Rim](https://open.spotify.com/artist/4tB7s9DwkUHiJD3oXxeKOa), [PelySayon](https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T) | [La Hora del Té](https://open.spotify.com/album/1dH7xGkGqNf4tbQ8Cw5BZQ) | 2:44 | 2023-06-09 | 2023-07-09 |
 | [La Liga de las Sombras](https://open.spotify.com/track/2HQepRWSL1FOUDHmxQVlt2) | [El Sicario](https://open.spotify.com/artist/7oeG2h1xIZxaqF8J4ocFWg), [DJAUDAS](https://open.spotify.com/artist/7nJZSWM6bU6Wcq0N6k29CN), [El Bruto Chr](https://open.spotify.com/artist/6DclygN22D15ndBly02ejl), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F) | [La Liga de las Sombras](https://open.spotify.com/album/3hhRaQUuN4EbIoUuu8Aflf) | 3:19 | 2025-02-21 | 2025-03-16 |
-| [La Mirada De Freud \- Remasterizado 2025](https://open.spotify.com/track/0BrZmCqeLLTz8mbOqPFqnS) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Privé \(Remasterizado 2025\)](https://open.spotify.com/album/00qj2giiDV2K0LUIJ9o64Y) | 2:59 | 2025-11-28 |  |
+| [La Mirada De Freud \- Remasterizado 2025](https://open.spotify.com/track/0BrZmCqeLLTz8mbOqPFqnS) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Privé \(Remasterizado 2025\)](https://open.spotify.com/album/00qj2giiDV2K0LUIJ9o64Y) | 2:59 | 2025-11-28 | 2025-12-02 |
 | [La Niñez \- En Vivo](https://open.spotify.com/track/04h9jCJsT5V8NTrfXiq2RG) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Acústico \(En Vivo\)](https://open.spotify.com/album/3bc0DXravo99FhuX5ocVzR) | 2:57 | 2023-04-14 | 2023-04-21 |
 | [La Pelicana y el Androide](https://open.spotify.com/track/2TBoLwjf3gSWuVa2Bh8Ayv) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 2:43 | 2024-09-13 | 2024-11-09 |
 | [La rueda de la fortuna](https://open.spotify.com/track/28N9Ywd3xPZvYx9LUMyICA) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [La Rueda de la Fortuna](https://open.spotify.com/album/32aDQ92B1uE2ZVaaHMDIbu) | 3:21 | 2025-10-24 | 2025-11-01 |

@@ -4,18 +4,19 @@
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 53 min
+60 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Bad Habits](https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:57 | 2025-03-11 |  |
+| [All I'm Missing](https://open.spotify.com/track/4NCxTroOuhZBC3ZMciQLLT) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [J\. Brown](https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb), [Jaunita Wynn](https://open.spotify.com/artist/3vKi2uBWTFZHOUbBkimu69) | [All I'm Missing](https://open.spotify.com/album/3M7VnecvQM1KkxnjG6SeUD) | 2:40 | 2025-12-02 |  |
 | [Baby](https://open.spotify.com/track/6pdcpkWpFFy41HqvUiMofI) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:50 | 2025-03-11 |  |
 | [Backup Plan](https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Backup Plan](https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz) | 3:26 | 2025-09-11 |  |
 | [Begin Again](https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Dave Hollister](https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 4:03 | 2025-03-11 |  |
 | [Black Magic](https://open.spotify.com/track/0m1gxHaKMyr8cYMNTE9YYF) | [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [A Gangster And A Gentleman](https://open.spotify.com/album/4LmiDfIReR290PQm026KNF) | 4:28 | 2025-08-14 |  |
 | [Bone 2 Pic \(Wit U\)](https://open.spotify.com/track/5CBiUwCW1j6v5ITZYK9khy) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 5:21 | 2025-03-11 |  |
 | [Brotha](https://open.spotify.com/track/2sNAjuCXxyj8jHt93t9IJ9) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:28 | 2025-03-11 |  |
-| [Cinderella Ballin'](https://open.spotify.com/track/2M0g333xXIabXvj0VftV38) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 4:35 | 2025-11-21 |  |
+| [Cinderella Ballin'](https://open.spotify.com/track/2M0g333xXIabXvj0VftV38) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 4:35 | 2025-11-21 | 2025-12-02 |
 | [Come Home \(Live With Me\)](https://open.spotify.com/track/0BwlXwD01OVIMnhKQVlocV) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 3:56 | 2025-03-30 | 2025-06-20 |
 | [Do What U Gotta Do](https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Do What U Gotta Do](https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H) | 3:24 | 2025-03-11 |  |
 | [Dollar Bill](https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:15 | 2025-03-11 |  |

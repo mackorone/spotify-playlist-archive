@@ -1,12 +1,12 @@
 {
   "description": "Las rolas para escuchar mientras trabajas.",
-  "num_followers": 243539,
+  "num_followers": 243563,
   "original_name": "Chambeando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALa3fEuYELyTOWGC1mUkfhvoZi7F",
+  "snapshot_id": "AAAAAKKJfv3SVkOZiGRKFOafuL7BVdaT",
   "tracks": [
     {
       "added_at": "2025-11-21 19:19:23",
@@ -567,6 +567,38 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
+        "name": "As\u00ed Es Esto",
+        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "El Precio De La Soledad",
+      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
+        "name": "Gracias Por Creer",
+        "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
         "name": "PRESIDENTE",
         "url": "https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR"
       },
@@ -591,38 +623,6 @@
       "duration_ms": 181064,
       "name": "PRESIDENTE",
       "url": "https://open.spotify.com/track/4OLT65TRsOx3Iv1TlCcQVb"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
-        "name": "Gracias Por Creer",
-        "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Mi Segunda Vida",
-      "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
-        "name": "As\u00ed Es Esto",
-        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "El Precio De La Soledad",
-      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 188666,
       "name": "Mi Bello Angel",
       "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
+        "name": "SABOR FRESA",
+        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "SABOR FRESA",
+      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
         "name": "Volver Al Futuro",
         "url": "https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 204102,
       "name": "Volver Al Futuro",
       "url": "https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
-        "name": "SABOR FRESA",
-        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "SABOR FRESA",
-      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "El Vals Del Olvido",
-      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
         "name": "111XPANTIA",
         "url": "https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 208696,
       "name": "peliculiando",
       "url": "https://open.spotify.com/track/4st6K8nGBjANh0mKNvOpnt"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "El Vals Del Olvido",
+      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
+        "name": "Ni Lo Intentes",
+        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237640,
+      "name": "Terrenal",
+      "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
         "name": "MALEDUCADO",
         "url": "https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 159548,
       "name": "MALEDUCADO",
       "url": "https://open.spotify.com/track/0VktYX8a8tvlPa3epPNCka"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
-        "name": "Ni Lo Intentes",
-        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237640,
-      "name": "Terrenal",
-      "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -1415,22 +1415,18 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
-        "name": "Que Vuelvas",
-        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 169418,
-      "name": "Que Vuelvas",
-      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+      "duration_ms": 222528,
+      "name": "Como Duele El Amor",
+      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -1451,6 +1447,26 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 169418,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
-        "name": "Como Duele El Amor",
-        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 222528,
-      "name": "Como Duele El Amor",
-      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -1519,42 +1519,6 @@
       "duration_ms": 196864,
       "name": "Fuga Pa Cali 2",
       "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 165848,
-      "name": "EL AMOR DE SU VIDA",
-      "url": "https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -1595,6 +1559,42 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 165848,
+      "name": "EL AMOR DE SU VIDA",
+      "url": "https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
         "name": "La V\u00edctima",
         "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
       },
@@ -1607,22 +1607,6 @@
       "duration_ms": 156345,
       "name": "La V\u00edctima",
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
-        "name": "Seguimos Laborando",
-        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
-      },
-      "artists": [
-        {
-          "name": "Grupo 360",
-          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Seguimos Laborando",
-      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -1643,26 +1627,18 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
-        "name": "El Gavil\u00e1n",
-        "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
+        "name": "Seguimos Laborando",
+        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
         }
       ],
-      "duration_ms": 175295,
-      "name": "El Gavil\u00e1n",
-      "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
+      "duration_ms": 205813,
+      "name": "Seguimos Laborando",
+      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -1707,22 +1683,26 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
-        "name": "TU TU TU",
-        "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
+        "name": "El Gavil\u00e1n",
+        "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
       },
       "artists": [
         {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 151570,
-      "name": "TU TU TU",
-      "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
+      "duration_ms": 175295,
+      "name": "El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -1751,6 +1731,26 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
+        "name": "TU TU TU",
+        "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 151570,
+      "name": "TU TU TU",
+      "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
         "name": "Siempre Pendientes",
         "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 180871,
+      "name": "El Taquicardio",
+      "url": "https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 180871,
-      "name": "El Taquicardio",
-      "url": "https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx"
-      },
-      "artists": [
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Mi Pasado y Mi Presente",
-      "url": "https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 194266,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Mi Pasado y Mi Presente",
+      "url": "https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
-        "name": "Coraz\u00f3n de Piedra",
-        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 193568,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
         "name": "El Del Palenque",
         "url": "https://open.spotify.com/album/68E2POwB230AnjcgLc7ynn"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 192876,
       "name": "El Del Palenque",
       "url": "https://open.spotify.com/track/7y9W0RzHm4UvCRmI2VFrG6"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 193568,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 163341,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
         "name": "Mitad Y Mitad",
         "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
       },
@@ -2375,22 +2359,18 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
-        "name": "YCQVM",
-        "url": "https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz"
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
       },
       "artists": [
         {
-          "name": "Nueva H",
-          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 183253,
-      "name": "YCQVM",
-      "url": "https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1"
+      "duration_ms": 163341,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -2411,6 +2391,26 @@
       "duration_ms": 177062,
       "name": "Como Lo Hice Yo",
       "url": "https://open.spotify.com/track/6YNTL320OEMAg4ORqGYt1v"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
+        "name": "YCQVM",
+        "url": "https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz"
+      },
+      "artists": [
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 183253,
+      "name": "YCQVM",
+      "url": "https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -2591,6 +2591,26 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
+        "name": "El Chore",
+        "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/6MUhWuKMY0Wo0S12d7FAgh"
+        }
+      ],
+      "duration_ms": 170259,
+      "name": "El Chore",
+      "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
+    },
+    {
+      "added_at": "2025-11-21 19:19:23",
+      "album": {
         "name": "Que Se Cuide",
         "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
       },
@@ -2635,22 +2655,18 @@
     {
       "added_at": "2025-11-21 19:19:23",
       "album": {
-        "name": "El Chore",
-        "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Gael Valenzuela",
-          "url": "https://open.spotify.com/artist/6MUhWuKMY0Wo0S12d7FAgh"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 170259,
-      "name": "El Chore",
-      "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
+      "duration_ms": 137323,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
     },
     {
       "added_at": "2025-11-21 19:19:23",
@@ -2671,22 +2687,6 @@
       "duration_ms": 195300,
       "name": "Eres",
       "url": "https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu"
-    },
-    {
-      "added_at": "2025-11-21 19:19:23",
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 137323,
-      "name": "El Circo",
-      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
     },
     {
       "added_at": "2025-11-21 19:19:23",

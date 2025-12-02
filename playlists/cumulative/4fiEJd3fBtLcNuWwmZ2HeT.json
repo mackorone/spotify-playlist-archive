@@ -7571,6 +7571,28 @@
     },
     {
       "album": {
+        "name": "\u5e73\u6210\u98a8\u4fd7",
+        "url": "https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        },
+        {
+          "name": "\u658e\u85e4\u30cd\u30b3",
+          "url": "https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "\u8ff7\u5f69",
+      "url": "https://open.spotify.com/track/4997ipQH5dYt24YqSp4Cb6"
+    },
+    {
+      "album": {
         "name": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
         "url": "https://open.spotify.com/album/1F9ZzB58lOLwnXUsajOhyC"
       },

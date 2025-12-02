@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,191 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,185 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 32 | [Se På Meg](https://open.spotify.com/track/5ZoZDdZUCvSSzMDZYrK9EH) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Se På Meg](https://open.spotify.com/album/5WaoMzn9JLXkxar2AYt656) | 2:39 |
 | 33 | [Zanotti](https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 4:26 |
 | 34 | [Se på meg](https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Se på meg](https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv) | 2:23 |
-| 35 | [Fredagsbarn](https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Fredagsbarn](https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr) | 3:10 |
-| 36 | [Cut the shit](https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Cut the shit](https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC) | 2:33 |
-| 37 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
+| 35 | [Cut the shit](https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Cut the shit](https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC) | 2:33 |
+| 36 | [Fredagsbarn](https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Fredagsbarn](https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr) | 3:10 |
+| 37 | [Trouble](https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 3:13 |
 | 38 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 |
-| 39 | [Trouble](https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 3:13 |
+| 39 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
 | 40 | [Sjonglerer](https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Sjonglerer](https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2) | 2:54 |
 | 41 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
 | 42 | [BIPOLAR](https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Kaja Gunnufsen](https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:50 |

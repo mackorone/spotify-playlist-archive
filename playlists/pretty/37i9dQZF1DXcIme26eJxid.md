@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,703 likes - 40 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,729 likes - 40 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 5 | [Joromi](https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Big Sound](https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV) | 3:07 |
 | 6 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
 | 7 | [Agolo](https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 4:49 |
-| 8 | [Sawale](https://open.spotify.com/track/5WyWNQZr7oiGoResxNSrj0) | [Cardinal Rex Jim Lawson](https://open.spotify.com/artist/61HFskCqHEghNfZ1XYb8RI) | [Rex Lawson's Greatest Hits](https://open.spotify.com/album/7CTFf1WCY4Ay6SOwzkizH0) | 3:00 |
-| 9 | [Vuli Ndlela](https://open.spotify.com/track/04p7jtRJdhQUB1UeQsMGBx) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 4:21 |
+| 8 | [Vuli Ndlela](https://open.spotify.com/track/04p7jtRJdhQUB1UeQsMGBx) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 4:21 |
+| 9 | [Sawale](https://open.spotify.com/track/5WyWNQZr7oiGoResxNSrj0) | [Cardinal Rex Jim Lawson](https://open.spotify.com/artist/61HFskCqHEghNfZ1XYb8RI) | [Rex Lawson's Greatest Hits](https://open.spotify.com/album/7CTFf1WCY4Ay6SOwzkizH0) | 3:00 |
 | 10 | [Happy Birthday](https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN) | [Evi\-Edna Ogholi](https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL) | [Happy Birthday](https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m) | 5:39 |
 | 11 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
 | 12 | [Shinamania, Pt\. 1](https://open.spotify.com/track/3pFVnwh9vK7pUSiA2ZRlub) | [Sir Shina Peters](https://open.spotify.com/artist/774XinAuSJ5UAid0N6BNrV) | [Shinamania](https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk) | 16:42 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 31 | [In Your Eyes](https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Fatteliku \(Live in Athens 1987\)](https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv) | 10:43 |
 | 32 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |
 | 33 | [Come On Home](https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 5:16 |
-| 34 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
-| 35 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 |
-| 36 | [Neria](https://open.spotify.com/track/2WvXv4HvAc3giCyj79UdSt) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Neria](https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2) | 5:57 |
+| 34 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 |
+| 35 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
+| 36 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 |
 | 37 | [Expensive Shit](https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best Of The Black President 2](https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2) | 13:13 |
-| 38 | [Akula Owu Onyeara](https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973\-77 \(Soundway Records\)](https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj) | 7:28 |
-| 39 | [Heaven](https://open.spotify.com/track/6lx5aHjUesS2XEyLxXknLQ) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/5vf9w7uDuKx6FbaC82TlYg) | 6:05 |
-| 40 | [Greetings](https://open.spotify.com/track/7lSNZV9U8D7BnzwTIM8zlG) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf) | 6:13 |
+| 38 | [Neria](https://open.spotify.com/track/2WvXv4HvAc3giCyj79UdSt) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Neria](https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2) | 5:57 |
+| 39 | [Akula Owu Onyeara](https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973\-77 \(Soundway Records\)](https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj) | 7:28 |
+| 40 | [Heaven](https://open.spotify.com/track/6lx5aHjUesS2XEyLxXknLQ) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/5vf9w7uDuKx6FbaC82TlYg) | 6:05 |
 
 Snapshot ID: `AAAAANUJPc9LhO5lFkE03l5ZhdXljHvz`

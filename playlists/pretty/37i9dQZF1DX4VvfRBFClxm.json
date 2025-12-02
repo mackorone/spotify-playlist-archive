@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1468796,
+  "num_followers": 1468725,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/7j7ykLBxerILBLBc8AICJS"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/2hRMHB4ZEYrCBM0d0vVEdq"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Send My Love (To Your New Lover) [Live]",
-        "url": "https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        },
-        {
-          "name": "Paul Kowert",
-          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
-        }
-      ],
-      "duration_ms": 225033,
-      "name": "Send My Love (To Your New Lover) - Live",
-      "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Send My Love (To Your New Lover) [Live]",
+        "url": "https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        },
+        {
+          "name": "Paul Kowert",
+          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
+        }
+      ],
+      "duration_ms": 225033,
+      "name": "Send My Love (To Your New Lover) - Live",
+      "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Same Kind Of Different (Acoustic)",
-        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 234775,
-      "name": "Chemicals - Acoustic",
-      "url": "https://open.spotify.com/track/6VwJchlkgjGbjU1SMyvwBN"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Anaheim",
         "url": "https://open.spotify.com/album/0p6vQipvqvb85ghNzo7Mdp"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 258000,
       "name": "Anaheim",
       "url": "https://open.spotify.com/track/0JhILyKbyQnhAo6FHSSIRA"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Same Kind Of Different (Acoustic)",
+        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 234775,
+      "name": "Chemicals - Acoustic",
+      "url": "https://open.spotify.com/track/6VwJchlkgjGbjU1SMyvwBN"
     },
     {
       "added_at": "2024-07-12 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 124095,
+  "num_followers": 124108,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAC7iPlaKmwuQKvT3Nvnig6K",
+  "snapshot_id": "aSuJAAAAAAC169tnxRCO78xa6vpUF2ip",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Want To Be Hurt Anymore",
-        "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "I Don't Want To See Tomorrow - As Heard on \u201cFallout\u201d (Series)",
-      "url": "https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is The Thing",
         "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 187640,
       "name": "It's All In The Game",
       "url": "https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don't Want To Be Hurt Anymore",
+        "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "I Don't Want To See Tomorrow - As Heard on \u201cFallout\u201d (Series)",
+      "url": "https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC"
     },
     {
       "added_at": null,

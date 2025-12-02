@@ -1,6 +1,6 @@
 {
   "description": "forever hits. Cover: Leon Thomas",
-  "num_followers": 2168916,
+  "num_followers": 2168832,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
     },
     {
-      "added_at": "2023-01-12 08:17:13",
-      "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 216630,
-      "name": "Her Way",
-      "url": "https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb"
-    },
-    {
       "added_at": "2022-07-30 03:46:43",
       "album": {
         "name": "All I Want Is You",
@@ -757,6 +741,22 @@
       "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
     },
     {
+      "added_at": "2023-01-12 08:17:13",
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 216630,
+      "name": "Her Way",
+      "url": "https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb"
+    },
+    {
       "added_at": "2022-09-24 17:12:30",
       "album": {
         "name": "TAKE TIME",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
-      "added_at": "2025-03-28 04:00:41",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231257,
-      "name": "Broken Clocks",
-      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "Late Nights: The Album",
@@ -803,6 +787,22 @@
       "duration_ms": 238320,
       "name": "oui",
       "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
+    },
+    {
+      "added_at": "2025-03-28 04:00:41",
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231257,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
     },
     {
       "added_at": "2023-01-26 12:39:45",
@@ -857,26 +857,6 @@
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
     },
     {
-      "added_at": "2025-04-25 08:26:54",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 278277,
-      "name": "30 For 30 (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
-    },
-    {
       "added_at": "2022-09-24 17:12:30",
       "album": {
         "name": "Trip",
@@ -895,6 +875,26 @@
       "duration_ms": 276960,
       "name": "Sativa",
       "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
+    },
+    {
+      "added_at": "2025-04-25 08:26:54",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
     {
       "added_at": "2022-09-24 17:12:30",
@@ -1181,6 +1181,22 @@
       "url": "https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf"
     },
     {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
+    },
+    {
       "added_at": "2023-05-04 04:41:43",
       "album": {
         "name": "Supernatural (Remastered)",
@@ -1199,22 +1215,6 @@
       "duration_ms": 261973,
       "name": "Maria Maria (feat. The Product G&B)",
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "The Worst",
-      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-08-11 02:37:59",
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
+    },
+    {
+      "added_at": "2023-08-11 02:37:59",
+      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 231497,
       "name": "No Love (with SZA)",
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
-    },
-    {
-      "added_at": "2023-08-11 02:37:59",
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
     },
     {
       "added_at": "2023-09-21 22:42:22",
@@ -1417,26 +1417,6 @@
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
     },
     {
-      "added_at": "2024-05-31 05:44:44",
-      "album": {
-        "name": "act ii: date @ 8 (feat. Drake) [remix]",
-        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 231338,
-      "name": "act ii: date @ 8 (feat. Drake) - remix",
-      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
-    },
-    {
       "added_at": "2022-12-07 18:37:03",
       "album": {
         "name": "Collide (feat. Tyga)",
@@ -1455,6 +1435,26 @@
       "duration_ms": 260169,
       "name": "Collide (feat. Tyga)",
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
+    },
+    {
+      "added_at": "2024-05-31 05:44:44",
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
     },
     {
       "added_at": "2025-03-28 04:00:41",
@@ -2013,26 +2013,6 @@
       "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
     },
     {
-      "added_at": "2024-10-31 22:46:47",
-      "album": {
-        "name": "KEHLANI (REMIX) [feat. Kehlani]",
-        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 179974,
-      "name": "KEHLANI (REMIX) [feat. Kehlani]",
-      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
-    },
-    {
       "added_at": "2022-07-30 03:46:43",
       "album": {
         "name": "An Evening With Silk Sonic",
@@ -2065,6 +2045,26 @@
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
     },
     {
+      "added_at": "2024-10-31 22:46:47",
+      "album": {
+        "name": "KEHLANI (REMIX) [feat. Kehlani]",
+        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 179974,
+      "name": "KEHLANI (REMIX) [feat. Kehlani]",
+      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
+    },
+    {
       "added_at": "2022-07-30 03:34:52",
       "album": {
         "name": "A Seat at the Table",
@@ -2095,30 +2095,6 @@
       "duration_ms": 268373,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
-    },
-    {
-      "added_at": "2024-08-30 03:02:48",
-      "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 147071,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
     },
     {
       "added_at": "2025-07-04 00:09:20",
@@ -2157,6 +2133,30 @@
       "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
     },
     {
+      "added_at": "2024-08-30 03:02:48",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
+    },
+    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "T R A P S O U L (Deluxe)",
@@ -2171,6 +2171,22 @@
       "duration_ms": 241406,
       "name": "Self Righteous",
       "url": "https://open.spotify.com/track/4w9dTbEcJx8uBTxGvUYC0h"
+    },
+    {
+      "added_at": "2022-09-24 17:12:30",
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "DFMU",
+      "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
     },
     {
       "added_at": "2025-03-28 04:00:41",
@@ -2191,22 +2207,6 @@
       "duration_ms": 227000,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
-    },
-    {
-      "added_at": "2022-09-24 17:12:30",
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "DFMU",
-      "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
     },
     {
       "added_at": "2024-02-12 20:12:33",
@@ -2301,6 +2301,22 @@
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "Selfless",
+        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 222386,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
+    },
+    {
       "added_at": "2023-09-29 00:53:25",
       "album": {
         "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
@@ -2319,22 +2335,6 @@
       "duration_ms": 260962,
       "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
-        "name": "Selfless",
-        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 222386,
-      "name": "EX",
-      "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
     },
     {
       "added_at": "2023-09-22 15:15:38",

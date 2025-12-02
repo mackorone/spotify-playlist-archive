@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Olabilir!
 
-333 songs - 16 hr 47 min
+334 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Ankara Ayazı](https://open.spotify.com/track/5no6olRh1NCwdZJIIMId2R) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f), [Zibo](https://open.spotify.com/artist/5N6mauDodGl3hh9xzm7Zwj) | [Ankara Ayazı](https://open.spotify.com/album/0U31turfAphETTOc8k3nQN) | 3:20 | 2024-06-20 |  |
 | [ANLATAMADIM](https://open.spotify.com/track/6wZYEFvxTXs4hdAxwbBrWh) | [Mâi](https://open.spotify.com/artist/3d4FAb7KcuSi6WrVYuIDbk) | [ANLATAMADIM](https://open.spotify.com/album/0XkW2QOD2Mb0aJLx5R2U8V) | 3:06 | 2024-09-19 | 2025-06-04 |
 | [Anlaşılır Tabii](https://open.spotify.com/track/4iHS5earH363cx54IhEExy) | [Merve Çalkan](https://open.spotify.com/artist/40nToqTbZUUXhFhx4zkbD3) | [Anlaşılır Tabii](https://open.spotify.com/album/6M3nG1jRfGDuTWGNeavdOo) | 3:54 | 2024-11-28 | 2024-12-29 |
+| [Anıların Ortasında](https://open.spotify.com/track/0ItZVsMRkkYxPcoYnLoxxt) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Anıların Ortasında](https://open.spotify.com/album/5ISIdr5qgmqBo6YMKCazjh) | 3:41 | 2025-11-14 |  |
 | [Arabesk Parçalar](https://open.spotify.com/track/7vQqKSxS9Ja02vsUXxPMIL) | [Cem Pilevneli](https://open.spotify.com/artist/5cysAsZNRZfLtjqhGEqXtB) | [Arabesk Parçalar](https://open.spotify.com/album/7nDBTGFcpgBJ7pO2oEk96m) | 3:16 | 2024-11-28 | 2025-02-14 |
 | [Asi](https://open.spotify.com/track/2JreBBfR668uVO5ZvOeKjT) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Asi](https://open.spotify.com/album/0yoxluWtV2dTiJ1zUch5k5) | 2:44 | 2024-06-20 | 2024-09-06 |
 | [Aslında](https://open.spotify.com/track/7qFBqAPjhQ4vL53UuRcwT0) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Aslında](https://open.spotify.com/album/2SxYsV38sVmGP4dpmiwK3M) | 2:32 | 2024-07-04 |  |
@@ -61,7 +62,7 @@
 | [Bi' İnansan Güzelim](https://open.spotify.com/track/4EzVfclpptuWdeMSRmNy04) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Bi' İnansan Güzelim](https://open.spotify.com/album/5kGD0QdQpyVjhG3zw0vLU8) | 3:27 | 2024-09-05 | 2024-11-01 |
 | [Bir Aşk Biter](https://open.spotify.com/track/4NobbDtfMdaJP0sxA72K9j) | [Hasan Kutan](https://open.spotify.com/artist/4JANYRn1io9jc8aPjjVpX8) | [Bir Aşk Biter](https://open.spotify.com/album/2S9l8ynEn2rLG60up8vxAK) | 3:09 | 2024-10-24 | 2024-12-15 |
 | [bir başkasında](https://open.spotify.com/track/3yByd49ZtoiZfGe1aoaDHp) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y) | [bir başkasında](https://open.spotify.com/album/18e869NAqMHXY5NYfBSV13) | 2:22 | 2024-11-21 | 2025-01-10 |
-| [Bir Bir](https://open.spotify.com/track/3ICdfm7CAO0vg14gyUFjkG) | [Hakan Kurtaş](https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt) | [Bir Bir](https://open.spotify.com/album/1OEwwB2FESKuziGRR8tqiY) | 2:55 | 2024-08-22 |  |
+| [Bir Bir](https://open.spotify.com/track/3ICdfm7CAO0vg14gyUFjkG) | [Hakan Kurtaş](https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt) | [Bir Bir](https://open.spotify.com/album/1OEwwB2FESKuziGRR8tqiY) | 2:55 | 2024-08-22 | 2025-12-02 |
 | [Bir Daha Kapımı Çalma](https://open.spotify.com/track/0SzChyb7DfyrKxv0WgTptr) | [İpek Özdemir](https://open.spotify.com/artist/0XavlnfrS3L6NxZWiDxW6r) | [Bir Daha Kapımı Çalma](https://open.spotify.com/album/4pK4soqIYCUPdlJvI1wYN6) | 3:32 | 2025-05-15 | 2025-07-11 |
 | [Bir Kişi Bile Değilim Yalnızlıktan](https://open.spotify.com/track/6IMWKyAXOk4ZTi5rqUYVDG) | [Sevda Deniz Karali](https://open.spotify.com/artist/15Z0sgBT1nnrFz5lkxVFmZ) | [Bir Kişi Bile Değilim Yalnızlıktan](https://open.spotify.com/album/1NDPFTLMS13VpfLVaktfPK) | 4:33 | 2025-03-06 | 2025-04-16 |
 | [Bir Parçam Olma](https://open.spotify.com/track/7H2yhCawUuB7ZCAqK6GquS) | [Melis Yelman](https://open.spotify.com/artist/5293MFbMbXTTvCZP8hezDv) | [Bir Parçam Olma](https://open.spotify.com/album/3QO5HDZvxi6YC5ehvhppbf) | 3:11 | 2025-05-08 | 2025-05-16 |

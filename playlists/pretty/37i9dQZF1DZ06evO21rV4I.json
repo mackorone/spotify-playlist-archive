@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 163868,
+  "num_followers": 163911,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAD51Q1Q5GCSNgP1G5OmwnvA",
+  "snapshot_id": "aSuJAAAAAAC0ckjIQTzJldpCIOPjq4GK",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 174253,
       "name": "Bad Girl (feat. Asake)",
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 262976,
-      "name": "Blessed (feat. Damian Marley)",
-      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 205373,
       "name": "Slow (feat. Ana\u00efs Cardot)",
       "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 262976,
+      "name": "Blessed (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 196156,
       "name": "Ginger (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
     },
     {
       "added_at": null,
@@ -555,34 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) [Remix]",
-        "url": "https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Terry Apala",
-          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
-        }
-      ],
-      "duration_ms": 215516,
-      "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) - Remix",
-      "url": "https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -615,6 +587,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) [Remix]",
+        "url": "https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Terry Apala",
+          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
+        }
+      ],
+      "duration_ms": 215516,
+      "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) - Remix",
+      "url": "https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 209735,
       "name": "Mood (feat. BNXN)",
       "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 201520,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/0EI0H7VQ7SNk7cwpuxG1DC"
     },
     {
       "added_at": null,
@@ -659,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
       "artists": [
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 201520,
-      "name": "Break Me Down",
-      "url": "https://open.spotify.com/track/0EI0H7VQ7SNk7cwpuxG1DC"
+      "duration_ms": 187906,
+      "name": "2 Sugar (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
     },
     {
       "added_at": null,
@@ -695,42 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "2 Sugar (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joro",
-        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "Joro",
-      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 170760,
       "name": "Bad For You (feat. Jazmine Sullivan)",
       "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joro",
+        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 262736,
+      "name": "Joro",
+      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
     },
     {
       "added_at": null,

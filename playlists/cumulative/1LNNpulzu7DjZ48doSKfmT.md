@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-436 songs - 22 hr 42 min
+439 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All That](https://open.spotify.com/track/3RzZy2XDR27Z0w1GzDAtIL) | [levi](https://open.spotify.com/artist/3XDgnNW9XAC8nn4m3yyVQa) | [2speeds](https://open.spotify.com/album/3bCzomp86i80fwOWoSVr8O) | 1:07 | 2025-09-17 |  |
 | [Almas Perdidas](https://open.spotify.com/track/5Y2wRrvOqD6sj94cmGhnql) | [Broke Chain](https://open.spotify.com/artist/6qIkQukHyKGHIw9NCjqrlj) | [Almas Perdidas](https://open.spotify.com/album/7JWyjav1I4VdnSK1Y5mKJZ) | 2:45 | 2025-10-09 |  |
 | [Aloha Vibes](https://open.spotify.com/track/5iner6pw593QANnZP3Abgr) | [Faith Rivera](https://open.spotify.com/artist/0OJl9lZP81ON2jhv7QpVYt), [Brittni Paiva](https://open.spotify.com/artist/030ma4QtsnydUwd4M2qXWt) | [Aloha Vibes](https://open.spotify.com/album/3jWHak3tyL2LF3tdozpmrF) | 3:35 | 2025-07-16 |  |
+| [Always Wanting The Other Side](https://open.spotify.com/track/6utchQtApIbNNQPE8rBd8Q) | [Lazel James](https://open.spotify.com/artist/1mYX0nkMGUbQByxSkBDJaW) | [Always Wanting The Other Side](https://open.spotify.com/album/17x1EUsotuZhH5uBUMu7h9) | 3:40 | 2025-12-01 |  |
 | [Amanti](https://open.spotify.com/track/36iNyLpvDTVTyCwmGbrYyb) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 4:02 | 2025-09-17 |  |
 | [America](https://open.spotify.com/track/4VU6m1C00D23C1aqmilNaM) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [America](https://open.spotify.com/album/4AWPgQX7dxGookMdQ7bGDC) | 5:09 | 2025-07-22 |  |
 | [amy](https://open.spotify.com/track/3ZMphlSQ45C1QXzuOijj6s) | [Jay Moussa\-Mann](https://open.spotify.com/artist/2aSlAzC15sb0NojtkwfsYz) | [cupid](https://open.spotify.com/album/6xvrwJBZutz6TZ8J6o7hx8) | 2:45 | 2025-08-06 |  |
@@ -148,6 +149,7 @@
 | [Gélido](https://open.spotify.com/track/4bKbELQHfllBUDB8cFH6ri) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Gélido](https://open.spotify.com/album/0Ws3kH0TFGWPdCXo3cTe9C) | 3:00 | 2025-10-23 |  |
 | [Hang on to you](https://open.spotify.com/track/3WoQciMkt9xMNd4XDAqrat) | [The Liquid](https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp) | [Atlas Interplan Reloaded](https://open.spotify.com/album/4YnXb0rbvxFBQVAey8k9Y7) | 3:54 | 2025-10-11 |  |
 | [HAVE THAT](https://open.spotify.com/track/1RIAeo38xju8ZMeX4lINSy) | [Firozz](https://open.spotify.com/artist/0sMgeacjGTYxLMZjd3uxvy), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR), [Kelvin Momo](https://open.spotify.com/artist/6zkcGM2mvefeY3b9eile5F), [Driemo Mw](https://open.spotify.com/artist/4FcukgYxTk8G55vB9RwU3I), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Afana Ceez](https://open.spotify.com/artist/3QX0QzePm6vJMs0RRpu5ua), [Zeze Kingston](https://open.spotify.com/artist/3cCg8lYVs3rcecDKbdt7TC) | [NO NOTICE 4](https://open.spotify.com/album/6W3fCvxxFSaJrDkLxWONl4) | 1:42 | 2025-10-28 |  |
+| [HAVIN IT](https://open.spotify.com/track/2XBtwbgOZU8rrQecZaUO76) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [HAVIN IT](https://open.spotify.com/album/7JQ62Vw6pjGNYFTRZPFlBv) | 1:52 | 2025-12-01 |  |
 | [High & Dry](https://open.spotify.com/track/5wsbd85L95r7yiuC7XiDip) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [High & Dry](https://open.spotify.com/album/7LBGWWGXIfdXQvUyPTXyUh) | 3:56 | 2025-08-20 |  |
 | [Higher Love](https://open.spotify.com/track/0QUzSHpdiTTh4wrB2bPhE7) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Higher Love](https://open.spotify.com/album/1HsgziXkEaJNjAIpJArkA5) | 2:02 | 2025-10-06 |  |
 | [Higher Talk](https://open.spotify.com/track/45NhVEqI8yCjTlQZbWujp4) | [Drop Syndicate](https://open.spotify.com/artist/6hMqvKz8ie2FZcTd211GSf) | [Syndicate Tapes Vol 1: Motions And Smoke](https://open.spotify.com/album/7MdgR4VT5Agmiy5zbYIN8U) | 3:35 | 2025-09-29 |  |
@@ -195,6 +197,7 @@
 | [LA REINA](https://open.spotify.com/track/4TUPh3zk8hycqslPQC9rgH) | [Xeny Reimúndez](https://open.spotify.com/artist/5Qa4EMPjakpO0GQ5pHX9XB) | [LA REINA](https://open.spotify.com/album/6U67cIrQGkk75jN55NTFTW) | 3:31 | 2025-10-23 |  |
 | [Lantern \- Remix](https://open.spotify.com/track/0ICPiOIxTL4mnicwLL3oML) | [TruthIngram](https://open.spotify.com/artist/6j4EafzlioKiWlm9CyO06c), [ConWay](https://open.spotify.com/artist/1WtzwxnZzI2CqKIRgEUh35) | [Lantern](https://open.spotify.com/album/3EncRWXffG6K81PkgibEL2) | 2:57 | 2025-07-29 |  |
 | [Le moi d'autrefois](https://open.spotify.com/track/5Ahz9MMcUJKgi40U0aVSEY) | [Machteld](https://open.spotify.com/artist/48eLdz267LScWSBrQNaphw) | [Le moi d'autrefois](https://open.spotify.com/album/4RBJIuW9MoQYewURJp0epK) | 5:04 | 2025-08-05 |  |
+| [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2025-12-01 |  |
 | [Lego My Ego](https://open.spotify.com/track/7EC1JLBZKZQbH2lI129miK) | [CMAGIC5](https://open.spotify.com/artist/26QWf3ULVKyi7g32NR3fGs) | [Lego My Ego](https://open.spotify.com/album/3cNxRW592XiITYII9zOUjl) | 2:47 | 2025-10-19 |  |
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2025-09-28 |  |
 | [Life is a Journey](https://open.spotify.com/track/2udbl0QMiH2NPzceOdiHEo) | [The Funky Lawyer](https://open.spotify.com/artist/6WUff7jngnaBPDTAreasjR) | [Life is a Journey](https://open.spotify.com/album/0qYe4V71N1IwWzAs3Ol3c6) | 5:09 | 2025-10-06 |  |

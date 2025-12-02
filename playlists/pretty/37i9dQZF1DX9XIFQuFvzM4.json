@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3624929,
+  "num_followers": 3624753,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Fly Me To The Moon",
+        "url": "https://open.spotify.com/album/1Kw0H84LL5YuP37Kh8lbzY"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/6G7MHIvSDR3ehXPkuDFAlM"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
         "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 190058,
       "name": "It's A Shame",
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Fly Me To The Moon",
-        "url": "https://open.spotify.com/album/1Kw0H84LL5YuP37Kh8lbzY"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/6G7MHIvSDR3ehXPkuDFAlM"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
     },
     {
-      "added_at": "2021-12-13 21:17:46",
-      "album": {
-        "name": "Ultimate Collection: Dobie Gray",
-        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
-      },
-      "artists": [
-        {
-          "name": "Dobie Gray",
-          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Drift Away - Single Version",
-      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
-    },
-    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "Al Green Explores Your Mind",
@@ -767,6 +751,22 @@
       "duration_ms": 225373,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+    },
+    {
+      "added_at": "2021-12-13 21:17:46",
+      "album": {
+        "name": "Ultimate Collection: Dobie Gray",
+        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
+      },
+      "artists": [
+        {
+          "name": "Dobie Gray",
+          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Drift Away - Single Version",
+      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+      "duration_ms": 199266,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "This Girl's in Love with You",
-        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
       "artists": [
         {
@@ -1116,25 +1116,9 @@
           "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 199266,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Dance to the Music",
-      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1151,6 +1135,22 @@
       "duration_ms": 178289,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Dance to the Music",
+      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 291073,
-      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
-      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
         "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 158853,
       "name": "Then He Kissed Me",
       "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 291073,
+      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
+      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
     },
     {
       "added_at": "2024-02-29 20:11:01",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Very Best Of Rufus Featuring Chaka Khan",
-        "url": "https://open.spotify.com/album/3o8GWA6IiUF6V4r26bF0HS"
-      },
-      "artists": [
-        {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/0AECVMjxepWdsjDb49JFRd"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Very Best Of Rufus Featuring Chaka Khan",
+        "url": "https://open.spotify.com/album/3o8GWA6IiUF6V4r26bF0HS"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/0AECVMjxepWdsjDb49JFRd"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
-        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/6eJlEcRmeyQfTlDQBDyqkW"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them",
         "url": "https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 150600,
       "name": "Ain't That A Shame? - Remastered 2002",
       "url": "https://open.spotify.com/track/4U2b99X9hSSDjPbHCpIeJj"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
+        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/6eJlEcRmeyQfTlDQBDyqkW"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -2259,6 +2259,26 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "The Very Best Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "Ain't No Mountain High Enough - Stereo Version",
+      "url": "https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
       },
@@ -2307,26 +2327,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Very Best Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 146160,
-      "name": "Ain't No Mountain High Enough - Stereo Version",
-      "url": "https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
       },
@@ -2339,54 +2339,6 @@
       "duration_ms": 174000,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Too Hot To Handle",
-        "url": "https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "Boogie Nights",
-      "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2407,6 +2359,38 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Too Hot To Handle",
+        "url": "https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "Boogie Nights",
+      "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Favorites",
         "url": "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 165080,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
     },
     {
       "added_at": "2023-08-03 17:52:54",
@@ -2455,18 +2455,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Mad Men: A Musical Companion (1960-1965)",
-        "url": "https://open.spotify.com/album/0bsu7M7VJN8AheepyXeGza"
+        "name": "Number 1's",
+        "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
       },
       "artists": [
         {
-          "name": "Jr. Walker & The All Stars",
-          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 183880,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4Q9ofRX0a0shID2tVgnvoM"
+      "duration_ms": 158040,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2jg4Yc8071puvDRYi22B3a"
     }
   ],
   "unique_name": "Feelin' Good",

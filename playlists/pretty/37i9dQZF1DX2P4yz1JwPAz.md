@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 
 > 808s & Melodies\. Cover: Blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,378 likes - 61 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,377 likes - 61 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 | 56 | [Nebula](https://open.spotify.com/track/4e33Gpk6gvBA78S5RgZLGB) | [Lloyd Luther](https://open.spotify.com/artist/6AtOBnmVBGL5a9hZ4WFi6p) | [Nebula](https://open.spotify.com/album/1DOEJ6QPTu2mum2ZbJnrEn) | 3:02 |
 | 57 | [GET IT TOGETHER](https://open.spotify.com/track/54EGc9OibAphFj1hMFgedw) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [GET IT TOGETHER](https://open.spotify.com/album/4RUxPcYOy8IL3ACwlIXEfu) | 2:20 |
 | 58 | [Out of Time](https://open.spotify.com/track/5HVSXuU4Bn1jD6KNlKTUuG) | [Tidez](https://open.spotify.com/artist/12eUUHfSG9IGizOvLcvuq4) | [Time In Time Out](https://open.spotify.com/album/4rvzK6n79i4QVER1dQdgCd) | 3:37 |
-| 59 | [No Games](https://open.spotify.com/track/5lt4D6YKZ3N80ml8YCkjIQ) | [IamSK](https://open.spotify.com/artist/2NcWgq8JEZRAu1qa2sm2fH), [Dre B](https://open.spotify.com/artist/2z83fyW4WRNNmoirA910RB) | [No Games](https://open.spotify.com/album/69lTn33rlbd6m4cB6tEgUR) | 2:43 |
+| 59 | [No Games](https://open.spotify.com/track/5lt4D6YKZ3N80ml8YCkjIQ) | [IamSK](https://open.spotify.com/artist/1LIv6qyfV2HY44hVxRTtQa), [Dre B](https://open.spotify.com/artist/2z83fyW4WRNNmoirA910RB) | [No Games](https://open.spotify.com/album/69lTn33rlbd6m4cB6tEgUR) | 2:43 |
 | 60 | [Pushin'](https://open.spotify.com/track/0wmwAS9SA6Tg3Qoyqx9dqU) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [XVR BLCK](https://open.spotify.com/artist/7utNm67x1f8kErx7PfWb9U) | [Pushin'](https://open.spotify.com/album/65PJkEX27NgzTI8fBAeOzU) | 3:02 |
 | 61 | [Wait A Minute](https://open.spotify.com/track/1ZI3LhSyksUfxDiHwmZdg8) | [98s](https://open.spotify.com/artist/6IzhPGZlb27v8HuOQvkiQk), [Billy Billions](https://open.spotify.com/artist/69qrun5V2jt5YOitlunPh8), [Kay\-O](https://open.spotify.com/artist/51xvY3ND0pMakkwfNJa3AN), [Alchubbino](https://open.spotify.com/artist/33oHR1Xi4O5sUl3iMo2VI4) | [Class of 98s](https://open.spotify.com/album/3fRRxwfSston1uuBEto129) | 4:01 |
 

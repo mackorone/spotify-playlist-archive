@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Los Gemelos De Sinaloa
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,570 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,548 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 7 | [Culpable](https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Culpable](https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h) | 4:21 |
 | 8 | [Perlas Negras](https://open.spotify.com/track/3piSbt4J3UElNC2d5jhjJr) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Perlas Negras](https://open.spotify.com/album/5IPuOgZp4wLcGprLrfjSy0) | 3:23 |
 | 9 | [LUZ VERDE](https://open.spotify.com/track/7Ji1sx470UGJRw7gx2kr95) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [LUZ VERDE](https://open.spotify.com/album/1tjHX8YzndYoSwLOxtU62f) | 2:50 |
-| 10 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE), [Sintapia](https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
+| 10 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
 | 11 | [Chiquita](https://open.spotify.com/track/07bruo5RoHasGqnun1Z31S) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 2:12 |
 | 12 | [Si Te Vas](https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mixteip](https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS) | 3:18 |
 | 13 | [La Ciudad del Sol](https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [La Ciudad del Sol](https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC) | 3:25 |

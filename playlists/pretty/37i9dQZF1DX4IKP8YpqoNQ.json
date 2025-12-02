@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 32097,
+  "num_followers": 32100,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Gumbo Unplugged (Live)",
-        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
+        "name": "Alive In America",
+        "url": "https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc"
       },
       "artists": [
         {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "The HamilTones",
-          "url": "https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs"
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 452500,
-      "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
-      "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
+      "duration_ms": 259200,
+      "name": "Peg - Live",
+      "url": "https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -503,18 +495,26 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Alive In America",
-        "url": "https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc"
+        "name": "Gumbo Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "The HamilTones",
+          "url": "https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Peg - Live",
-      "url": "https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44"
+      "duration_ms": 452500,
+      "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
+      "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Aretha Live at Fillmore West",
+        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 261533,
+      "name": "Love the One You're With - Live at Fillmore West, San Francisco, February 5, 1971",
+      "url": "https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Horsepower For The Streets (Deluxe Version)",
         "url": "https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 221020,
       "name": "Smile - Live at Paste",
       "url": "https://open.spotify.com/track/4PNcOEOxdTQjGO4gcWW2zB"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Aretha Live at Fillmore West",
-        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 261533,
-      "name": "Love the One You're With - Live at Fillmore West, San Francisco, February 5, 1971",
-      "url": "https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Betty Wright Live",
-        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 348733,
-      "name": "You Can't See for Lookin' - Live",
-      "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "One Nite Alone... The Aftershow: It Ain't Over! (Up Late with Prince & The NPG) [Live]",
         "url": "https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 376973,
       "name": "Dorothy Parker - Live from One Nite Alone Tour...The Aftershow",
       "url": "https://open.spotify.com/track/2PSgQzbGHlv99xv3KGxD4X"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Betty Wright Live",
+        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 348733,
+      "name": "You Can't See for Lookin' - Live",
+      "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 469625,
-      "name": "Black Man In A White World - Live From Spotify London",
-      "url": "https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live From San Francisco",
         "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 295306,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 469625,
+      "name": "Black Man In A White World - Live From Spotify London",
+      "url": "https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Alive (Live At the Jazz Cafe, London)",
+        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 413413,
+      "name": "You're Gonna Miss Your Candy Man - Live",
+      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 236026,
       "name": "Feeling Good - Live",
       "url": "https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Alive (Live At the Jazz Cafe, London)",
-        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
-      },
-      "artists": [
-        {
-          "name": "Terry Callier",
-          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
-        }
-      ],
-      "duration_ms": 413413,
-      "name": "You're Gonna Miss Your Candy Man - Live",
-      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live And In Living Color",
-        "url": "https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 394973,
-      "name": "What Is Hip? - Live Version",
-      "url": "https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Invisible Chains Live from Nyc",
         "url": "https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 572680,
       "name": "Sunshine \"I Can Fly\" (Live)",
       "url": "https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live And In Living Color",
+        "url": "https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 394973,
+      "name": "What Is Hip? - Live Version",
+      "url": "https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1383,8 +1383,8 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/6tkwWZBDub074CUPmsTeFj"
+        "name": "Compact Jazz - Nina Simone",
+        "url": "https://open.spotify.com/album/6uBiIVYMgbrhcgXu7Epm4o"
       },
       "artists": [
         {
@@ -1392,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 191200,
-      "name": "Tell Me More And More And Then Some",
-      "url": "https://open.spotify.com/track/4aErK0HkDKqKBFYXy2bajB"
+      "duration_ms": 213000,
+      "name": "Strange Fruit",
+      "url": "https://open.spotify.com/track/1MgAB0kFSYYCZQ89WSdRWm"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1527,8 +1527,8 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Compact Jazz - Nina Simone",
-        "url": "https://open.spotify.com/album/6uBiIVYMgbrhcgXu7Epm4o"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/6tkwWZBDub074CUPmsTeFj"
       },
       "artists": [
         {
@@ -1536,9 +1536,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Strange Fruit",
-      "url": "https://open.spotify.com/track/1MgAB0kFSYYCZQ89WSdRWm"
+      "duration_ms": 191200,
+      "name": "Tell Me More And More And Then Some",
+      "url": "https://open.spotify.com/track/4aErK0HkDKqKBFYXy2bajB"
     },
     {
       "added_at": "2024-10-25 07:48:43",

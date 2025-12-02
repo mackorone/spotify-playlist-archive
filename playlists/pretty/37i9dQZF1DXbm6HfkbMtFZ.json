@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 829933,
+  "num_followers": 829986,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "A Strange Arrangement",
         "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 190964,
-      "name": "Next to Normal",
-      "url": "https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "The Miraculous Hump Returns From The Moon",
         "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
       },
@@ -987,18 +971,34 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Thrill Seekers",
-        "url": "https://open.spotify.com/album/6csfKFAcsC65fuBDiH6tYx"
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
       },
       "artists": [
         {
-          "name": "Petite League",
-          "url": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 170075,
-      "name": "Pantone Karaoke",
-      "url": "https://open.spotify.com/track/7v753bcr01lFeVLszJaCDK"
+      "duration_ms": 190964,
+      "name": "Next to Normal",
+      "url": "https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+        "name": "Thrill Seekers",
+        "url": "https://open.spotify.com/album/6csfKFAcsC65fuBDiH6tYx"
       },
       "artists": [
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "Petite League",
+          "url": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
         }
       ],
-      "duration_ms": 191037,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
+      "duration_ms": 170075,
+      "name": "Pantone Karaoke",
+      "url": "https://open.spotify.com/track/7v753bcr01lFeVLszJaCDK"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Los Belkings (Ayer y Hoy)",
-        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
-      },
-      "artists": [
-        {
-          "name": "Los Belkings",
-          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Sabor Dulce",
-      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "My Conversation",
         "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 196106,
       "name": "My Conversation",
       "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Los Belkings (Ayer y Hoy)",
+        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
+      },
+      "artists": [
+        {
+          "name": "Los Belkings",
+          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "Sabor Dulce",
+      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Off to the Side",
+      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "I Hope We Get To Love In Time",
         "url": "https://open.spotify.com/album/6Vwss896snaZfuyr351z99"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 279586,
       "name": "You Don't Have to Be a Star (To Be In My Show)",
       "url": "https://open.spotify.com/track/2JurHS80N98Yt3CdIBYz9M"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Off to the Side",
-      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Blossom Dearie Sings (45th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
       },
@@ -1643,22 +1627,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Strange World",
-        "url": "https://open.spotify.com/album/61C4duC2M6Nav2cg6QkIzv"
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
       },
       "artists": [
         {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        },
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
         }
       ],
-      "duration_ms": 187185,
-      "name": "Strange World",
-      "url": "https://open.spotify.com/track/3PoMsuOCkDTFinad2PBlEh"
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1695,6 +1675,26 @@
       "duration_ms": 349026,
       "name": "S.O.L.",
       "url": "https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/61C4duC2M6Nav2cg6QkIzv"
+      },
+      "artists": [
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 187185,
+      "name": "Strange World",
+      "url": "https://open.spotify.com/track/3PoMsuOCkDTFinad2PBlEh"
     },
     {
       "added_at": "2025-10-24 22:16:10",

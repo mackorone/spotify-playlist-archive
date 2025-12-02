@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Los éxitos del Dembow\. Portada: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,592 likes - 50 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,624 likes - 50 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Una Chica Good](https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs) | [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Una Chica Good](https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3) | 2:11 |
-| 2 | [Lo Que Pueda](https://open.spotify.com/track/30nFYRKzWVSRD3On03CbzH) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Herido no muerto](https://open.spotify.com/artist/72d2wiRTQCxoIENVvdb7xc) | [Lo Que Pueda](https://open.spotify.com/album/6CvWEmt3xZ3pweimfJMQpA) | 1:48 |
-| 3 | [MamaZota](https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb) | [Arlene MC](https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET) | [MamaZota](https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3) | 2:02 |
-| 4 | [Que Sensación](https://open.spotify.com/track/6HKM31OYl260uEXGNRdsPz) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [Que Sensación](https://open.spotify.com/album/1RxofSucDGt5IujJ2615cQ) | 2:17 |
-| 5 | [SINSENTI](https://open.spotify.com/track/6YGb9NqR0wp9nFj9n5h3W8) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [NO A LA DELINCUENCIA](https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw) | 2:06 |
-| 6 | [Hagan De To Meno Daño](https://open.spotify.com/track/708q7FVfLLHwipRUYeKTbD) | [Ezzy R](https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX), [KiK1 STW](https://open.spotify.com/artist/2NkusP1gjrUcyOQsfHhx5k), [Ronny GTA](https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu) | [Hagan De To Meno Daño](https://open.spotify.com/album/5gBMwGbeab8zellCdzWi8r) | 1:54 |
-| 7 | [Bing Bong](https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Bing Bong](https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu) | 2:03 |
-| 8 | [Me Gusta](https://open.spotify.com/track/3oN3f5utpgU6XxKTg4MmDs) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Me Gusta](https://open.spotify.com/album/13SsnfFMRGxrPeOQkUeRqP) | 2:18 |
-| 9 | [PIKY](https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [PIKY](https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li) | 1:58 |
+| 1 | [Que Sensación](https://open.spotify.com/track/6HKM31OYl260uEXGNRdsPz) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [Que Sensación](https://open.spotify.com/album/1RxofSucDGt5IujJ2615cQ) | 2:17 |
+| 2 | [MamaZota](https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb) | [Arlene MC](https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET) | [MamaZota](https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3) | 2:02 |
+| 3 | [Me Gusta](https://open.spotify.com/track/3oN3f5utpgU6XxKTg4MmDs) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Me Gusta](https://open.spotify.com/album/13SsnfFMRGxrPeOQkUeRqP) | 2:18 |
+| 4 | [PIKY](https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [PIKY](https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li) | 1:58 |
+| 5 | [Bing Bong](https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Bing Bong](https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu) | 2:03 |
+| 6 | [Una Chica Good](https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs) | [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Una Chica Good](https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3) | 2:11 |
+| 7 | [Lo Que Pueda](https://open.spotify.com/track/30nFYRKzWVSRD3On03CbzH) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Herido no muerto](https://open.spotify.com/artist/72d2wiRTQCxoIENVvdb7xc) | [Lo Que Pueda](https://open.spotify.com/album/6CvWEmt3xZ3pweimfJMQpA) | 1:48 |
+| 8 | [SINSENTI](https://open.spotify.com/track/6YGb9NqR0wp9nFj9n5h3W8) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [NO A LA DELINCUENCIA](https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw) | 2:06 |
+| 9 | [Hagan De To Meno Daño](https://open.spotify.com/track/708q7FVfLLHwipRUYeKTbD) | [Ezzy R](https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX), [KiK1 STW](https://open.spotify.com/artist/2NkusP1gjrUcyOQsfHhx5k), [Ronny GTA](https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu) | [Hagan De To Meno Daño](https://open.spotify.com/album/5gBMwGbeab8zellCdzWi8r) | 1:54 |
 | 10 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 |
 | 11 | [A Guevo A Guevo](https://open.spotify.com/track/1Xs5nP5kv7ld8cSn8dektt) | [La Makulada](https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI), [La Grimita](https://open.spotify.com/artist/08XZwESYiRiL4oIQMIsnQA), [TOLO DESAPARECELO](https://open.spotify.com/artist/3hdC1HhetO3UW1N1RYQIp5) | [A Guevo A Guevo](https://open.spotify.com/album/6cTcZzvkZQyGbMWH64XDMj) | 1:48 |
 | 12 | [4K](https://open.spotify.com/track/1BIXs6CdkPRLytuqoXs6XN) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [4K](https://open.spotify.com/album/4C4pswO5xUzT3S2pN94LNk) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 49 | [EN BLUSA](https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [EN BLUSA](https://open.spotify.com/album/1mUItA6EXfOuuj6a6iR8A9) | 2:38 |
 | 50 | [Me Arregle \- El loco](https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Me Arregle \(El loco\)](https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW) | 2:49 |
 
-Snapshot ID: `AAAAAEhdHsjIZfo2ZiqYNTHDbmMqXM+U`
+Snapshot ID: `AAAAAKChnk/kRWdAvGYreRrZjnhoe0kJ`

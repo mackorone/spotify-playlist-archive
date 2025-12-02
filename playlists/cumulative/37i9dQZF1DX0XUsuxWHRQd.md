@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Lil Baby, Central Cee and Lil Uzi Vert
+> New music from Central Cee,  Lil Baby and Lil Uzi Vert
 
 2,578 songs - 5 day 13 hr 34 min
 

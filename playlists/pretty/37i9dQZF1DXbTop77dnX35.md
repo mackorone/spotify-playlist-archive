@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Flavour, Young Jonn, Zaylevelten, FAVE, Kashcoming and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,776 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,863 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 37 | [LIKE DAT](https://open.spotify.com/track/08Tz0uX792uwDKmEn2SSF3) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [LIKE DAT](https://open.spotify.com/album/6Vlw661Ql7ttf1lellpKOP) | 3:39 |
 | 38 | [No Lele](https://open.spotify.com/track/79xQYfR1QXkwLtSxXDA7yP) | [Izulu](https://open.spotify.com/artist/602Bt3OJHI6yzw85cHoj1S), [Rolih](https://open.spotify.com/artist/5yfuJnrgpx9RtTDsYY9RBj), [Christian Meldal](https://open.spotify.com/artist/3dU4AZYmMeJ64U5eD8gbur), [Anuolu](https://open.spotify.com/artist/2QClfKJomgiVmuUfSAAU9s) | [No Lele](https://open.spotify.com/album/0EJyrlsBqa5elkhT8o7UiG) | 2:33 |
 | 39 | [Connection](https://open.spotify.com/track/1bZrAIp6WAwTOWvfIW9C7a) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Connection](https://open.spotify.com/album/7Cej4o0vauW7sYXQjDGWBh) | 2:05 |
-| 40 | [Hypocrite](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 |
+| 40 | [Hypocrite \(deux visages\)](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite \(deux visages\)](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 |
 | 41 | [VILE NAPENDA](https://open.spotify.com/track/0Vk40kxmCtIMQ8FssrmGF8) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO) | [VILE NAPENDA](https://open.spotify.com/album/3wh9gwEfffqVanEN9bKgUm) | 2:35 |
 | 42 | [S&D \(feat\. Kima\)](https://open.spotify.com/track/2WZqozAsPbsE0SiNegnq5U) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Energy](https://open.spotify.com/album/0szYTRwg7XVBRHnD8ycswr) | 2:38 |
 | 43 | [Forget](https://open.spotify.com/track/4fSZBTepMlI7bqbbpqLpLj) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Final Bo$$](https://open.spotify.com/album/2ThN4SQsDDccLMLRyHES5u) | 3:27 |

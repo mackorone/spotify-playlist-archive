@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,209 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,215 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 27 | [The Water Is Wide \- Live](https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:51 |
 | 28 | [Winds Of The Old Days](https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 3:55 |
 | 29 | [Gracias A La Vida](https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:36 |
-| 30 | [Pajarillo Barranqueno \- Live](https://open.spotify.com/track/2q311tgtjWb7Qno8FuI6Yk) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Tish Hinojosa](https://open.spotify.com/artist/2el0LFz58Jn5ya1Li1LgD6) | [Ring Them Bells \(Collector's Edition / Live\)](https://open.spotify.com/album/5UVNLEgUPc2vhDB30herJN) | 2:12 |
+| 30 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 3:01 |
 | 31 | [Last Night I Had The Strangest Dream \- Live](https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:29 |
 | 32 | [Never Dreamed You'd Leave In Summer](https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 2:45 |
 | 33 | [La Llorona](https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:40 |
-| 34 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 3:01 |
+| 34 | [Boots Of Spanish Leather](https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:33 |
 | 35 | [Joe Hill \- Live](https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 3:01 |
 | 36 | [Hello In There](https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 3:04 |
-| 37 | [Boots Of Spanish Leather](https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:33 |
-| 38 | [If I Were A Carpenter](https://open.spotify.com/track/1GdVGSqGRybjqeHhHhQcPa) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 2:09 |
+| 37 | [If I Were A Carpenter](https://open.spotify.com/track/1GdVGSqGRybjqeHhHhQcPa) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 2:09 |
+| 38 | [Pajarillo Barranqueno \- Live](https://open.spotify.com/track/2q311tgtjWb7Qno8FuI6Yk) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Tish Hinojosa](https://open.spotify.com/artist/2el0LFz58Jn5ya1Li1LgD6) | [Ring Them Bells \(Collector's Edition / Live\)](https://open.spotify.com/album/5UVNLEgUPc2vhDB30herJN) | 2:12 |
 | 39 | [I Am A Poor Wayfaring Stranger](https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Mimi Fariña](https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 4:41 |
 | 40 | [Prison Trilogy \(Billy Rose\)](https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:23 |
 | 41 | [Colours](https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [Satisfied Mind \- Remastered 2025](https://open.spotify.com/track/2JRNGCFgXJCb0ny9JanCGu) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina \(Remastered 2025\)](https://open.spotify.com/album/5iwq6gZ9HslfxC28djd6uH) | 3:27 |
 | 50 | [No Woman No Cry \- Live](https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI) | 3:45 |
 
-Snapshot ID: `aSo3gAAAAAD1vRAdwD1r/Hh2Eneseu9W`
+Snapshot ID: `aSuJAAAAAAB4Xba70RPoGpmXTZyRZMM4`

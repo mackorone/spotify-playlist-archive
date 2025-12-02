@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 
 > This is Kylie Minogue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,818 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,819 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 13 | [Magic](https://open.spotify.com/track/3buAGGo2YxasAhMkXqCiA0) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 4:10 |
 | 14 | [Midnight Ride](https://open.spotify.com/track/6J26td5uctWg0UlzdzCj7Y) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:31 |
 | 15 | [Get Outta My Way](https://open.spotify.com/track/2VZ5Vtjn16RThAvaFz3sJZ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Aphrodite](https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI) | 3:38 |
-| 16 | [I Should Be so Lucky](https://open.spotify.com/track/0RggFSMfsJvAsrI4itTIzr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:24 |
-| 17 | [Come into My World \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/39DW02MW41A8bBIxH7nT1V) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 4:06 |
+| 16 | [Come into My World \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/39DW02MW41A8bBIxH7nT1V) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 4:06 |
+| 17 | [I Should Be so Lucky](https://open.spotify.com/track/0RggFSMfsJvAsrI4itTIzr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:24 |
 | 18 | [Spinning Around](https://open.spotify.com/track/3eXI3pYpiY1nRwhvW0c8Qi) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 3:27 |
 | 19 | [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 |
 | 20 | [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 42 | [What Do I Have to Do? \- Live From The Tension Tour](https://open.spotify.com/track/2AufsFx4AOIuluoIJXHJU6) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 2:51 |
 | 43 | [Miss a Thing](https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:56 |
 | 44 | [Red Blooded Woman](https://open.spotify.com/track/4A62ukubxZNeSQ2bUx2tKn) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 4:20 |
-| 45 | [Vegas High](https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:33 |
+| 45 | [Dancing](https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Golden](https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD) | 2:58 |
 | 46 | [Taboo / On A Night Like This \- Live From The Tension Tour](https://open.spotify.com/track/4G0q4mbG5ELNLaNfyOl1M6) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 3:40 |
-| 47 | [Dancing](https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Golden](https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD) | 2:58 |
+| 47 | [Vegas High](https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:33 |
 | 48 | [Where the Wild Roses Grow](https://open.spotify.com/track/28lQMRZpJmEzCyVMMNTu4H) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Murder Ballads](https://open.spotify.com/album/1wG6L7SUkfnE3koQ7fP9FW) | 4:07 |
 | 49 | [The One](https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:59 |
 | 50 | [Spinning Around \- Live From The Tension Tour](https://open.spotify.com/track/7EaiJEkUiLk9CGtSB11d1F) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 3:14 |
 
-Snapshot ID: `aSo3gAAAAACwCuF/0HqlHyXnUu9jC8Ql`
+Snapshot ID: `aSuJAAAAAADiBt5e+zaZU7BXMHb/8NTM`

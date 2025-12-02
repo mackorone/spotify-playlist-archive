@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 156416,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/41Sl6Lq8H6Ztgw7JgAnJat"
@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 183374,
       "name": "Scary Movie",
       "url": "https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0"
@@ -4329,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "Wanderings",
+        "url": "https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221080,
+      "name": "This Night's Alright",
+      "url": "https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU"
+    },
+    {
+      "album": {
         "name": "Feel Like Going Home",
         "url": "https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now"
       },
@@ -4526,6 +4544,28 @@
       "duration_ms": 208350,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y"
+    },
+    {
+      "album": {
+        "name": "The Ballad Of Too Much Glitter",
+        "url": "https://open.spotify.com/album/6GaF5UhKpuDQdRca2Kk9Rt"
+      },
+      "artists": [
+        {
+          "name": "Timo de Jong",
+          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
+        },
+        {
+          "name": "Leadbeaters",
+          "url": "https://open.spotify.com/artist/0NCAW9dP1JyZg0idsKw8Uf"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Too Much Glitter",
+      "url": "https://open.spotify.com/track/7xouR29oC5HevooWRBCsAq"
     },
     {
       "album": {

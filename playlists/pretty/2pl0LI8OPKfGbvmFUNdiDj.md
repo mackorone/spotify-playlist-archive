@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 429 likes - 94 songs - 5 hr 14 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 429 likes - 96 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 92 | [Unseen](https://open.spotify.com/track/4PNJKxfbMdy8ecH9IfHlm9) | [Dascar](https://open.spotify.com/artist/1iZBGqKBPdZhVYt8O7DkHv) | [Unseen](https://open.spotify.com/album/2p6xnyiunmNlFoqXuJpUyl) | 3:23 |
 | 93 | [Sally Feels Bad](https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Sally Feels Bad](https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa) | 3:01 |
 | 94 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 |
+| 95 | [Gregorian Time](https://open.spotify.com/track/2GLBxwXrIY5P2kHzZDAtek) | [Lily Quinn](https://open.spotify.com/artist/2vDtkusMUDE17BfHasvShX) | [Seraphic Whisper](https://open.spotify.com/album/3uzuuzA6r2Po42yaiqOS0F) | 4:08 |
+| 96 | [In My Lowrider](https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6) | [Willie of Wilshire](https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS) | [A Day in LA](https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1) | 2:52 |
 
-Snapshot ID: `AAACaS+bdkHWgv8VFGR3AISGl8wdSoqJ`
+Snapshot ID: `AAACa8dMjCqUMOAdWTAGSJm3EPTr+u6j`

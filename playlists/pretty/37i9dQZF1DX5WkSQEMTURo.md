@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WkSQEMTURo.md) - [plain]
 
 > Everyone deserves a happy ending\. Listen to the music from the Deadpool series, including Deadpool & Wolverine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,450 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,395 likes - 76 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

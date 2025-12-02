@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: deca joins
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,003 likes - 141 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,002 likes - 141 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [在這裡停一下](https://open.spotify.com/track/5oaA00dgTQLoYW9ZmapoTp) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [在這裡停一下](https://open.spotify.com/album/7g0XbGsZ0w7fANqnkm3ohT) | 4:50 |
 | 2 | [Hackery](https://open.spotify.com/track/50HuO1enoZQANZ7cWYyr4b) | [Flesh Juicer](https://open.spotify.com/artist/78ltY2tUrZpkWJ9CWYGZfl) | [Hackery](https://open.spotify.com/album/7u7NRI7T7L6EoJVv9yLX4b) | 2:44 |
 | 3 | [Let it! Shake it!](https://open.spotify.com/track/2BlbIy2oLGxjtJwpPXuiny) | [The Salitus](https://open.spotify.com/artist/4TR7zNw9uDpmuGVMUKxSFj) | [Let it! Shake it! / Carry On](https://open.spotify.com/album/7uNclugkD9plQsbDBROcuO) | 3:25 |
-| 4 | [Dumplings](https://open.spotify.com/track/5DZuLmb40FUPXKHGg1PhYu) | [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [Dumplings](https://open.spotify.com/album/6Xv2JLjZbLbLsLqEjtGA9K) | 3:09 |
+| 4 | [Dumplings](https://open.spotify.com/track/5DZuLmb40FUPXKHGg1PhYu) | [icyball 冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [Dumplings](https://open.spotify.com/album/6Xv2JLjZbLbLsLqEjtGA9K) | 3:09 |
 | 5 | [Sun Moon Darkness 明日音](https://open.spotify.com/track/2tTO2OFiSkyOXuExTRZSgO) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Sun Moon Darkness 明日音](https://open.spotify.com/album/2EfM5EqV0igQZIZRtii4dg) | 4:43 |
 | 6 | [你留了整個世界給我](https://open.spotify.com/track/2u9xVX2UClZOFlrpBYgfGe) | [百頁與好心人](https://open.spotify.com/artist/2w5KGACKyeQ9o5Q8k0qMjg) | [你留了整個世界給我](https://open.spotify.com/album/07ntik8aCptfj6fm3Q6AXi) | 2:35 |
 | 7 | [不過想做個好人](https://open.spotify.com/track/1hASUisbc9ifF9dvtpfKKe) | [冠妤 Nikko](https://open.spotify.com/artist/4NUexdfszshMuohBRzHANX) | [不過想做個好人](https://open.spotify.com/album/3DhGzWSPsd05jqiCWOUoGp) | 3:57 |

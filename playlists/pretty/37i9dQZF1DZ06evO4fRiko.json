@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 967766,
+  "num_followers": 967880,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAABlSZdwwscNbSPA9aPnTKKG",
+  "snapshot_id": "aSuJAAAAAABJOjokZaO+5quKRDDdPbhb",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easy (Remix)",
         "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 186586,
       "name": "Easy - Remix",
       "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Take You Down",
-      "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortune (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 240173,
-      "name": "Don't Judge Me",
-      "url": "https://open.spotify.com/track/0NG5gJzPHjYeQmqcmqfopN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 266306,
       "name": "Wet The Bed (feat. Ludacris)",
       "url": "https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortune (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 240173,
+      "name": "Don't Judge Me",
+      "url": "https://open.spotify.com/track/0NG5gJzPHjYeQmqcmqfopN"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 179410,
-      "name": "Whatchamacallit (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1YLfaRr3QIW1fF3nvDO0gX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 222586,
       "name": "Look At Me Now (feat. Lil' Wayne & Busta Rhymes)",
       "url": "https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 179410,
+      "name": "Whatchamacallit (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1YLfaRr3QIW1fF3nvDO0gX"
     },
     {
       "added_at": null,

@@ -1,65 +1,13 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: El Alfa",
-  "num_followers": 699592,
+  "num_followers": 699624,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEhdHsjIZfo2ZiqYNTHDbmMqXM+U",
+  "snapshot_id": "AAAAAKChnk/kRWdAvGYreRrZjnhoe0kJ",
   "tracks": [
-    {
-      "added_at": "2025-05-12 13:44:40",
-      "album": {
-        "name": "Una Chica Good",
-        "url": "https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3"
-      },
-      "artists": [
-        {
-          "name": "Chaki Bley",
-          "url": "https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To"
-        }
-      ],
-      "duration_ms": 131081,
-      "name": "Una Chica Good",
-      "url": "https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs"
-    },
-    {
-      "added_at": "2025-10-09 19:40:25",
-      "album": {
-        "name": "Lo Que Pueda",
-        "url": "https://open.spotify.com/album/6CvWEmt3xZ3pweimfJMQpA"
-      },
-      "artists": [
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        },
-        {
-          "name": "Herido no muerto",
-          "url": "https://open.spotify.com/artist/72d2wiRTQCxoIENVvdb7xc"
-        }
-      ],
-      "duration_ms": 108521,
-      "name": "Lo Que Pueda",
-      "url": "https://open.spotify.com/track/30nFYRKzWVSRD3On03CbzH"
-    },
-    {
-      "added_at": "2025-05-29 17:35:57",
-      "album": {
-        "name": "MamaZota",
-        "url": "https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3"
-      },
-      "artists": [
-        {
-          "name": "Arlene MC",
-          "url": "https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET"
-        }
-      ],
-      "duration_ms": 122125,
-      "name": "MamaZota",
-      "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
-    },
     {
       "added_at": "2025-10-09 21:10:05",
       "album": {
@@ -77,64 +25,20 @@
       "url": "https://open.spotify.com/track/6HKM31OYl260uEXGNRdsPz"
     },
     {
-      "added_at": "2025-07-17 21:05:28",
+      "added_at": "2025-05-29 17:35:57",
       "album": {
-        "name": "NO A LA DELINCUENCIA",
-        "url": "https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw"
+        "name": "MamaZota",
+        "url": "https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3"
       },
       "artists": [
         {
-          "name": "Jezzy",
-          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+          "name": "Arlene MC",
+          "url": "https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET"
         }
       ],
-      "duration_ms": 126105,
-      "name": "SINSENTI",
-      "url": "https://open.spotify.com/track/6YGb9NqR0wp9nFj9n5h3W8"
-    },
-    {
-      "added_at": "2025-11-20 23:06:31",
-      "album": {
-        "name": "Hagan De To Meno Da\u00f1o",
-        "url": "https://open.spotify.com/album/5gBMwGbeab8zellCdzWi8r"
-      },
-      "artists": [
-        {
-          "name": "Ezzy R",
-          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
-        },
-        {
-          "name": "KiK1 STW",
-          "url": "https://open.spotify.com/artist/2NkusP1gjrUcyOQsfHhx5k"
-        },
-        {
-          "name": "Ronny GTA",
-          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
-        }
-      ],
-      "duration_ms": 114407,
-      "name": "Hagan De To Meno Da\u00f1o",
-      "url": "https://open.spotify.com/track/708q7FVfLLHwipRUYeKTbD"
-    },
-    {
-      "added_at": "2024-11-14 20:36:26",
-      "album": {
-        "name": "Bing Bong",
-        "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
-      },
-      "artists": [
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        },
-        {
-          "name": "Puyalo Pantera",
-          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
-        }
-      ],
-      "duration_ms": 123591,
-      "name": "Bing Bong",
-      "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
+      "duration_ms": 122125,
+      "name": "MamaZota",
+      "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
     },
     {
       "added_at": "2025-03-06 03:22:31",
@@ -179,6 +83,102 @@
       "duration_ms": 118998,
       "name": "PIKY",
       "url": "https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n"
+    },
+    {
+      "added_at": "2024-11-14 20:36:26",
+      "album": {
+        "name": "Bing Bong",
+        "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "duration_ms": 123591,
+      "name": "Bing Bong",
+      "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
+    },
+    {
+      "added_at": "2025-05-12 13:44:40",
+      "album": {
+        "name": "Una Chica Good",
+        "url": "https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3"
+      },
+      "artists": [
+        {
+          "name": "Chaki Bley",
+          "url": "https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To"
+        }
+      ],
+      "duration_ms": 131081,
+      "name": "Una Chica Good",
+      "url": "https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs"
+    },
+    {
+      "added_at": "2025-10-09 19:40:25",
+      "album": {
+        "name": "Lo Que Pueda",
+        "url": "https://open.spotify.com/album/6CvWEmt3xZ3pweimfJMQpA"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "Herido no muerto",
+          "url": "https://open.spotify.com/artist/72d2wiRTQCxoIENVvdb7xc"
+        }
+      ],
+      "duration_ms": 108521,
+      "name": "Lo Que Pueda",
+      "url": "https://open.spotify.com/track/30nFYRKzWVSRD3On03CbzH"
+    },
+    {
+      "added_at": "2025-07-17 21:05:28",
+      "album": {
+        "name": "NO A LA DELINCUENCIA",
+        "url": "https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        }
+      ],
+      "duration_ms": 126105,
+      "name": "SINSENTI",
+      "url": "https://open.spotify.com/track/6YGb9NqR0wp9nFj9n5h3W8"
+    },
+    {
+      "added_at": "2025-11-20 23:06:31",
+      "album": {
+        "name": "Hagan De To Meno Da\u00f1o",
+        "url": "https://open.spotify.com/album/5gBMwGbeab8zellCdzWi8r"
+      },
+      "artists": [
+        {
+          "name": "Ezzy R",
+          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
+        },
+        {
+          "name": "KiK1 STW",
+          "url": "https://open.spotify.com/artist/2NkusP1gjrUcyOQsfHhx5k"
+        },
+        {
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
+        }
+      ],
+      "duration_ms": 114407,
+      "name": "Hagan De To Meno Da\u00f1o",
+      "url": "https://open.spotify.com/track/708q7FVfLLHwipRUYeKTbD"
     },
     {
       "added_at": "2024-08-23 04:00:00",

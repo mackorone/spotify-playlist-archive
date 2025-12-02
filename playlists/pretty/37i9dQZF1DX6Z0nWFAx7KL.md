@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy music ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,874 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,862 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 43 | [Where Do We Go](https://open.spotify.com/track/5aThtYY9UgRrOlto7TlPts) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Where Do We Go](https://open.spotify.com/album/3lUAZ0WPyJAFf3MWMx0UL7) | 2:42 |
 | 44 | [You Have To Have A Goal](https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [You Have To Have A Goal](https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX) | 2:13 |
 | 45 | [Together](https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Momentum](https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8) | 2:22 |
-| 46 | [Havana](https://open.spotify.com/track/6zhLFfiMx8ulxcVnSlq54T) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Havana](https://open.spotify.com/album/4UggOindubYKHsDlCG8NEj) | 2:12 |
+| 46 | [Blood & Bones](https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blood & Bones](https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW) | 3:12 |
 | 47 | [Wicked Games](https://open.spotify.com/track/0oriUexHwmSx7J5IJaXHDk) | [Dj Youcef](https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ), [Nicole Slack Jones](https://open.spotify.com/artist/7ApsqRn7DyUaNrbknP7XBw) | [Wicked Games](https://open.spotify.com/album/3ZPcDsOHqgiq5DPDgDDyIw) | 2:39 |
-| 48 | [Blood & Bones](https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blood & Bones](https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW) | 3:12 |
-| 49 | [Pink Oasis](https://open.spotify.com/track/37YNRTW6PaAVYN1fM767yL) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [Pink Oasis](https://open.spotify.com/album/4gE0gYLZdOmdYSpnnoIpET) | 2:34 |
-| 50 | [It's Alright \- Original Mix](https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Radiant EP](https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2) | 4:49 |
+| 48 | [Havana](https://open.spotify.com/track/6zhLFfiMx8ulxcVnSlq54T) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Havana](https://open.spotify.com/album/4UggOindubYKHsDlCG8NEj) | 2:12 |
+| 49 | [It's Alright \- Original Mix](https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Radiant EP](https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2) | 4:49 |
+| 50 | [Pink Oasis](https://open.spotify.com/track/37YNRTW6PaAVYN1fM767yL) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [Pink Oasis](https://open.spotify.com/album/4gE0gYLZdOmdYSpnnoIpET) | 2:34 |
 | 51 | [Taking It Slowly](https://open.spotify.com/track/37hjpeTAswbMzp978oGBg5) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Taking It Slowly](https://open.spotify.com/album/5dnZeCPifLReZQrKMtRBbc) | 2:34 |
 | 52 | [Without You](https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Without You](https://open.spotify.com/album/3e6lCMci2JTDEhQYRhFYdp) | 2:57 |
 | 53 | [Take Me Away](https://open.spotify.com/track/7t2Ic3EE3XOkUPlre0xGgm) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Take Me Away](https://open.spotify.com/album/4KV4UQydIms28mOGsIHWDj) | 3:06 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 57 | [Sona](https://open.spotify.com/track/5RiBDqZLOcqsvrmlhfGUzv) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [CassMae](https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS) | [Sona](https://open.spotify.com/album/4Anf0gFqtpKBzBpdtSXEnd) | 2:20 |
 | 58 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 |
 | 59 | [Sandcastles](https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Sandcastles](https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk) | 2:18 |
-| 60 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 |
+| 60 | [Mad World](https://open.spotify.com/track/7v976kIGJsqOaqmK54aZuJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Mad World](https://open.spotify.com/album/3wZDSM5YjFkW4rdT9VCvhT) | 3:24 |
 
 Snapshot ID: `AAAAAIGAjeZZpD5g+nrJ+ZyXDkjd3f9n`

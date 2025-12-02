@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 522636,
+  "num_followers": 522642,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACLb0y1JZS+eo00/KTZmXJL",
+  "snapshot_id": "aSuJAAAAAADtQB63dYuoMcq/+RbNCJPC",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
-        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Luz de Luna (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -583,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Luz de Luna (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
       },
@@ -599,26 +599,6 @@
       "duration_ms": 164453,
       "name": "Remember Me (D\u00fao)",
       "url": "https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
-        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 259586,
-      "name": "Alma M\u00eda (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
     },
     {
       "added_at": null,
@@ -659,6 +639,26 @@
       "duration_ms": 237346,
       "name": "Caminar bonito",
       "url": "https://open.spotify.com/track/6YnvENj0TdekZctNH1LiFQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 259586,
+      "name": "Alma M\u00eda (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
     },
     {
       "added_at": null,

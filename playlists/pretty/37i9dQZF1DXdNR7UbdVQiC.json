@@ -1,6 +1,6 @@
 {
   "description": "because you deserve it. ",
-  "num_followers": 107479,
+  "num_followers": 107485,
   "original_name": "duvet day",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 228459,
-      "name": "The Bug Collector",
-      "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 256687,
       "name": "Be My Mistake",
       "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 228459,
+      "name": "The Bug Collector",
+      "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 210447,
-      "name": "All I Need To Hear",
-      "url": "https://open.spotify.com/track/1RB8jMVr0eSo6ExOOvXavV"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 267052,
       "name": "Breakthespell",
       "url": "https://open.spotify.com/track/3tzuST1enlzD7ttdFgbf0r"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/1RB8jMVr0eSo6ExOOvXavV"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "yeti",
-        "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        },
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 252152,
-      "name": "yeti",
-      "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Teen Dream",
         "url": "https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs"
       },
@@ -1595,6 +1575,26 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
+        "name": "yeti",
+        "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        },
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 252152,
+      "name": "yeti",
+      "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
         "name": "Ring of Past",
         "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "A Good Day",
-        "url": "https://open.spotify.com/album/2y8fiUO036vTYKHM2gNSuW"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Ahn",
-          "url": "https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "coogie",
         "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 189514,
       "name": "coogie",
       "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/2y8fiUO036vTYKHM2gNSuW"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Ahn",
+          "url": "https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02"
     },
     {
       "added_at": "2025-05-06 15:44:34",

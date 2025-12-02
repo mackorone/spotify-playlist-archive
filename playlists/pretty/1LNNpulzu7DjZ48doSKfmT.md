@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 450 likes - 522 songs - 1 day 3 hr 0 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 450 likes - 525 songs - 1 day 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -530,5 +530,8 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 520 | [Boom Bop Bam](https://open.spotify.com/track/3IPqGJuQ4VUMlMfHAjAEEJ) | [JustPierre](https://open.spotify.com/artist/153NVBXEIRJk7EXhvBPUHa), [Testimony](https://open.spotify.com/artist/03LOg8LebGaIdSmADNXG7K) | [Boom Bop Bam](https://open.spotify.com/album/3Vmwokro8m05kB6n7hZsBa) | 2:29 |
 | 521 | [Fantasy](https://open.spotify.com/track/4KIcjICZDgeRmLtJ37Ezyu) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Seeko](https://open.spotify.com/artist/6CE5ddAC32B4XKW6y0bbR3), [Danii Dee](https://open.spotify.com/artist/26hHacionHpjqCqFj8DX43) | [Fantasy](https://open.spotify.com/album/6pOTUKyF8Tvv2FHhJBkPUL) | 2:11 |
 | 522 | [When you talk about me](https://open.spotify.com/track/2jyyTMC8Bcpmon1xtys4gH) | [Van Hoick](https://open.spotify.com/artist/6w2IE77DRioYFTs0nF0Vik) | [When you talk about me](https://open.spotify.com/album/6l2KsVfUJwYheeDkyTrYzh) | 2:10 |
+| 523 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 |
+| 524 | [Always Wanting The Other Side](https://open.spotify.com/track/6utchQtApIbNNQPE8rBd8Q) | [Lazel James](https://open.spotify.com/artist/1mYX0nkMGUbQByxSkBDJaW) | [Always Wanting The Other Side](https://open.spotify.com/album/17x1EUsotuZhH5uBUMu7h9) | 3:40 |
+| 525 | [HAVIN IT](https://open.spotify.com/track/2XBtwbgOZU8rrQecZaUO76) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [HAVIN IT](https://open.spotify.com/album/7JQ62Vw6pjGNYFTRZPFlBv) | 1:52 |
 
-Snapshot ID: `AAAXK6eSsj1gkA1wr45T6JTsBaLlD+dy`
+Snapshot ID: `AAAXLr7wixpUFJCrf5+oQgQhnb9AYu4U`

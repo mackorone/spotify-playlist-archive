@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHnVCldUHNv5uzVmdylO0xithimNSy",
+  "snapshot_id": "AAAHp5ea56mARLvUdujwvOpHJ2A1hVeF",
   "tracks": [
     {
       "added_at": "2025-11-26 23:36:16",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-11-26 23:36:16",
       "album": {
-        "name": "BIRDBRAIN / PIG",
-        "url": "https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq"
-      },
-      "artists": [
-        {
-          "name": "These New South Whales",
-          "url": "https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4"
-        }
-      ],
-      "duration_ms": 118280,
-      "name": "PIG",
-      "url": "https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM"
-    },
-    {
-      "added_at": "2025-11-26 23:36:16",
-      "album": {
         "name": "ALL MY ANGELS",
         "url": "https://open.spotify.com/album/59DduybzCVWmkkWoq8qs2p"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 181012,
       "name": "ALL MY ANGELS",
       "url": "https://open.spotify.com/track/6aKtw75H6AxnofYE4E1The"
+    },
+    {
+      "added_at": "2025-12-01 23:35:07",
+      "album": {
+        "name": "Body Broker",
+        "url": "https://open.spotify.com/album/2qOPFkzeD33AyGvMOblT5u"
+      },
+      "artists": [
+        {
+          "name": "Sex Mask",
+          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
+        }
+      ],
+      "duration_ms": 143502,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/3Uq3THjKQx73juBlWnLFqa"
     },
     {
       "added_at": "2025-11-26 23:36:16",
@@ -89,24 +89,20 @@
       "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
     },
     {
-      "added_at": "2025-11-26 23:36:16",
+      "added_at": "2025-12-01 23:33:32",
       "album": {
-        "name": "Blisters (feat. Noah Learmonth)",
-        "url": "https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b"
+        "name": "GODSPEED",
+        "url": "https://open.spotify.com/album/7CUuQk7lCT1Stgs5bqt9hY"
       },
       "artists": [
         {
-          "name": "Sex Mask",
-          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
-        },
-        {
-          "name": "Noah Learmonth",
-          "url": "https://open.spotify.com/artist/6Q9ndqe5oLP6PbgENxW1Pp"
+          "name": "These New South Whales",
+          "url": "https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4"
         }
       ],
-      "duration_ms": 210946,
-      "name": "Blisters (feat. Noah Learmonth)",
-      "url": "https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR"
+      "duration_ms": 176706,
+      "name": "R.I.P. ME",
+      "url": "https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd"
     },
     {
       "added_at": "2025-11-26 23:36:16",
@@ -171,6 +167,22 @@
       "duration_ms": 217019,
       "name": "A Little Too High",
       "url": "https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ"
+    },
+    {
+      "added_at": "2025-12-02 00:03:10",
+      "album": {
+        "name": "PLAY!",
+        "url": "https://open.spotify.com/album/2PmWuTXfKGX4Tx26VSdUQu"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 196338,
+      "name": "Blood Run Warm",
+      "url": "https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH"
     },
     {
       "added_at": "2025-11-26 23:36:16",
@@ -383,6 +395,26 @@
     {
       "added_at": "2025-11-26 23:36:16",
       "album": {
+        "name": "Blisters (feat. Noah Learmonth)",
+        "url": "https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b"
+      },
+      "artists": [
+        {
+          "name": "Sex Mask",
+          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
+        },
+        {
+          "name": "Noah Learmonth",
+          "url": "https://open.spotify.com/artist/6Q9ndqe5oLP6PbgENxW1Pp"
+        }
+      ],
+      "duration_ms": 210946,
+      "name": "Blisters (feat. Noah Learmonth)",
+      "url": "https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR"
+    },
+    {
+      "added_at": "2025-11-26 23:36:16",
+      "album": {
         "name": "Futique",
         "url": "https://open.spotify.com/album/3Y3nA5ZjMH8PMqV5v9YifF"
       },
@@ -395,6 +427,22 @@
       "duration_ms": 227543,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5klilPxJcv8xnwcFj4zL0U"
+    },
+    {
+      "added_at": "2025-11-26 23:36:16",
+      "album": {
+        "name": "BIRDBRAIN / PIG",
+        "url": "https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq"
+      },
+      "artists": [
+        {
+          "name": "These New South Whales",
+          "url": "https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4"
+        }
+      ],
+      "duration_ms": 118280,
+      "name": "PIG",
+      "url": "https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM"
     },
     {
       "added_at": "2025-11-26 23:36:16",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 2010s. ",
-  "num_followers": 3015371,
+  "num_followers": 3015939,
   "original_name": "Party Hits 2010s",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
+    },
+    {
+      "added_at": "2025-06-25 03:07:32",
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 227266,
       "name": "Outside (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
-    },
-    {
-      "added_at": "2025-06-25 03:07:32",
-      "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "A Sky Full of Stars",
-      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
     },
     {
       "added_at": "2025-06-25 03:07:32",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 230613,
-      "name": "Waiting For Love",
-      "url": "https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"
-    },
-    {
-      "added_at": "2025-06-25 03:07:32",
-      "album": {
         "name": "Born This Way (International Special Edition Version)",
         "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 249066,
       "name": "Judas",
       "url": "https://open.spotify.com/track/7F25roCtYi55JouckaayPC"
+    },
+    {
+      "added_at": "2025-06-25 03:07:32",
+      "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 230613,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"
     },
     {
       "added_at": "2025-06-25 03:07:32",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
+        "name": "When It's Dark Out",
+        "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 251465,
+      "name": "Me, Myself & I",
+      "url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
+    },
+    {
+      "added_at": "2025-06-25 03:07:32",
+      "album": {
         "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 247632,
       "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
-    },
-    {
-      "added_at": "2025-06-25 03:07:32",
-      "album": {
-        "name": "When It's Dark Out",
-        "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 251465,
-      "name": "Me, Myself & I",
-      "url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
     },
     {
       "added_at": "2025-06-25 03:07:32",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "added_at": "2025-06-25 03:07:32",
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 283400,
       "name": "Scream & Shout",
       "url": "https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5"
-    },
-    {
-      "added_at": "2025-06-25 03:07:32",
-      "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
     },
     {
       "added_at": "2025-06-25 03:07:32",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
-        "name": "Get Weird (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
-    },
-    {
-      "added_at": "2025-06-25 03:07:32",
-      "album": {
         "name": "Vente Pa' Ca (feat. Maluma)",
         "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
       },
@@ -2039,6 +2023,22 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
+    },
+    {
+      "added_at": "2025-06-25 03:07:32",
+      "album": {
         "name": "Singular Act II",
         "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
       },
@@ -2051,26 +2051,6 @@
       "duration_ms": 181120,
       "name": "Looking at Me",
       "url": "https://open.spotify.com/track/59tskctgqUmjCWAwhzYAFm"
-    },
-    {
-      "added_at": "2025-06-25 03:07:32",
-      "album": {
-        "name": "679 (feat. Remy Boyz)",
-        "url": "https://open.spotify.com/album/0TyDTzG2zt2tg0wONT9wSU"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        },
-        {
-          "name": "Remy Boyz",
-          "url": "https://open.spotify.com/artist/2s0yxtiHiyGe6CY4mbDYFi"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "679 (feat. Remy Boyz)",
-      "url": "https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ"
     },
     {
       "added_at": "2025-06-25 03:07:32",
@@ -2091,6 +2071,26 @@
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
+    },
+    {
+      "added_at": "2025-06-25 03:07:32",
+      "album": {
+        "name": "679 (feat. Remy Boyz)",
+        "url": "https://open.spotify.com/album/0TyDTzG2zt2tg0wONT9wSU"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Remy Boyz",
+          "url": "https://open.spotify.com/artist/2s0yxtiHiyGe6CY4mbDYFi"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "679 (feat. Remy Boyz)",
+      "url": "https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ"
     },
     {
       "added_at": "2025-06-25 03:07:32",
@@ -2183,26 +2183,6 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
-        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
-        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 214912,
-      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
-    },
-    {
-      "added_at": "2025-06-25 03:07:32",
-      "album": {
         "name": "Finesse (Remix) [feat. Cardi B]",
         "url": "https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p"
       },
@@ -2223,6 +2203,26 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
+        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+    },
+    {
+      "added_at": "2025-06-25 03:07:32",
+      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -2239,26 +2239,6 @@
       "duration_ms": 225226,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
-    },
-    {
-      "added_at": "2025-06-25 03:07:32",
-      "album": {
-        "name": "Andas En Mi Cabeza",
-        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
-      },
-      "artists": [
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Andas En Mi Cabeza",
-      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
     },
     {
       "added_at": "2025-06-25 03:07:32",
@@ -2287,6 +2267,26 @@
       "duration_ms": 212500,
       "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
+    },
+    {
+      "added_at": "2025-06-25 03:07:32",
+      "album": {
+        "name": "Andas En Mi Cabeza",
+        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Andas En Mi Cabeza",
+      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
     },
     {
       "added_at": "2025-06-25 03:07:32",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
-        "name": "Everything Is 4",
-        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 207719,
-      "name": "Want to Want Me",
-      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
-    },
-    {
-      "added_at": "2025-06-25 03:07:32",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 203049,
       "name": "La Gozadera (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+    },
+    {
+      "added_at": "2025-06-25 03:07:32",
+      "album": {
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 207719,
+      "name": "Want to Want Me",
+      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
     },
     {
       "added_at": "2025-06-25 03:07:32",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2025-06-25 03:07:32",
+      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ"
       },
@@ -2439,18 +2455,18 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+      "duration_ms": 215360,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
     },
     {
       "added_at": "2025-06-25 03:07:32",
@@ -2483,22 +2499,6 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
-    },
-    {
-      "added_at": "2025-06-25 03:07:32",
-      "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
     },
     {
       "added_at": "2025-06-25 03:07:32",
@@ -2599,6 +2599,22 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
+    },
+    {
+      "added_at": "2025-06-25 03:07:32",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -2615,22 +2631,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2025-06-25 03:07:32",
-      "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2025-06-25 03:07:32",
@@ -2735,26 +2735,6 @@
     {
       "added_at": "2025-06-25 03:07:32",
       "album": {
-        "name": "Dancing In The Moonlight (feat. NEIMY)",
-        "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 164009,
-      "name": "Dancing in the Moonlight (feat. NEIMY)",
-      "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
-    },
-    {
-      "added_at": "2025-06-25 03:07:32",
-      "album": {
         "name": "Intense",
         "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
       },
@@ -2771,6 +2751,26 @@
       "duration_ms": 204360,
       "name": "This Is What It Feels Like",
       "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2025-06-25 03:07:32",
+      "album": {
+        "name": "Dancing In The Moonlight (feat. NEIMY)",
+        "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 164009,
+      "name": "Dancing in the Moonlight (feat. NEIMY)",
+      "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
     },
     {
       "added_at": "2025-06-25 03:07:32",

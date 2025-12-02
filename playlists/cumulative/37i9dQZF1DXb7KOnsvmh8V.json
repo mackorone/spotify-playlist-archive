@@ -222,6 +222,24 @@
     {
       "album": {
         "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/5Ex45Qpq67TW07vw1fCN2b"
+      },
+      "artists": [
+        {
+          "name": "Iris Faye",
+          "url": "https://open.spotify.com/artist/37Q5rp3LYMmuM5JOTjFcL4"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151855,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/4LoYVomBj9x4eO3vPuq5wZ"
+    },
+    {
+      "album": {
+        "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh"
       },
       "artists": [
@@ -574,7 +592,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 214563,
       "name": "Christmas Was Here (Acoustic)",
       "url": "https://open.spotify.com/track/17ZarY8dLJmPrn21tVirZw"
@@ -3010,6 +3028,24 @@
       "duration_ms": 157898,
       "name": "When A Child Is Born",
       "url": "https://open.spotify.com/track/2UyBIhcJ5KlikoLSaSyG2p"
+    },
+    {
+      "album": {
+        "name": "When You Wish Upon A Star",
+        "url": "https://open.spotify.com/album/71FqQOH6KW7o1PoXxm9Zqo"
+      },
+      "artists": [
+        {
+          "name": "Sun Valley",
+          "url": "https://open.spotify.com/artist/0070pgQUavlZcVICMUDyvL"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197700,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/7tNGPBaSo1mE4qBCdfQTQr"
     },
     {
       "album": {

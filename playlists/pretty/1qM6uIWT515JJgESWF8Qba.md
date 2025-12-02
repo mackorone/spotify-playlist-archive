@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 239 likes - 67 songs - 3 hr 58 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 244 likes - 69 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 65 | [Crazy Horse](https://open.spotify.com/track/638G4U3oabQAQHKi43XbUj) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Crazy Horse](https://open.spotify.com/album/5zgycbyhmN5ROkDD6CXMRZ) | 4:52 |
 | 66 | [Home](https://open.spotify.com/track/2ewAqvToFML0QngPp767r4) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 7:45 |
 | 67 | [Overthrown](https://open.spotify.com/track/4aGCFWNgI4vUq9y9XuoVQA) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 5:27 |
+| 68 | [La Muerte No Es El Final](https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [La Muerte No Es El Final](https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2) | 5:01 |
+| 69 | [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 |
 
-Snapshot ID: `AAAAyZTZnymod8gBEFha7MPbVvJ+IfIL`
+Snapshot ID: `AAAAy4GEBEeZPiYuC15kzRNfxw+CL9rs`

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,827 likes - 162 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,809 likes - 162 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Låt Mig Berätta](https://open.spotify.com/track/6SkvXCOaOERANcAsuJO6ov) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Låt Mig Berätta](https://open.spotify.com/album/6UIi7bFEVJisxiUXx7v8de) | 2:35 |
 | 2 | [låga](https://open.spotify.com/track/7es9iv9YMsxztdD7aja93s) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [nero](https://open.spotify.com/album/1XZSjSMXZkyWSl7le1bS8H) | 2:18 |
-| 3 | [Mina tankar](https://open.spotify.com/track/2Dgtohm7FzXqQP1rptZGt0) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Mina tankar](https://open.spotify.com/album/0b83V8mR7uigzzUrDVniwo) | 2:35 |
+| 3 | [Uppoffringar](https://open.spotify.com/track/6IrDsxJQb7VyYkEooUWrm9) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [Uppoffringar](https://open.spotify.com/album/01n4JFTIjhjyrcoQVDEFEX) | 2:23 |
 | 4 | [2021](https://open.spotify.com/track/36prwkRDv1dXI4ZzPE5Zzq) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [2021](https://open.spotify.com/album/7wWHWdwghVuHaqDBiVveRb) | 3:26 |
-| 5 | [Onormal](https://open.spotify.com/track/3PDLigCHaHNk4fVsQqqJt6) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Onormal](https://open.spotify.com/album/6vltRocttRLb2dnhz4h0A3) | 2:28 |
+| 5 | [Mina tankar](https://open.spotify.com/track/2Dgtohm7FzXqQP1rptZGt0) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Mina tankar](https://open.spotify.com/album/0b83V8mR7uigzzUrDVniwo) | 2:35 |
 | 6 | [One More Time](https://open.spotify.com/track/3cLXwLFoHTyxBYWocaBaqt) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [B2B](https://open.spotify.com/album/1EyTSgWDXJtd7XtliFnVf8) | 3:02 |
-| 7 | [Uppoffringar](https://open.spotify.com/track/6IrDsxJQb7VyYkEooUWrm9) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [Uppoffringar](https://open.spotify.com/album/01n4JFTIjhjyrcoQVDEFEX) | 2:23 |
-| 8 | [Spöke](https://open.spotify.com/track/2FkJGSWSFzMpeXAhJCUArH) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Spöke](https://open.spotify.com/album/0Gr7rCi6szZiTo47nh02CB) | 2:05 |
-| 9 | [En sista gång](https://open.spotify.com/track/57vMYC7CSTajC4yporDijh) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [En sista gång](https://open.spotify.com/album/3a2uEbGhl4uBifg1rdBAbe) | 2:06 |
-| 10 | [HIPHOP](https://open.spotify.com/track/00bc0LQQBwiu9XpF6IfzLQ) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [HIPHOP](https://open.spotify.com/album/6SeUTFu5Cl5R6ZNxGyVYYH) | 2:41 |
-| 11 | [THE BAD GUY](https://open.spotify.com/track/7JL2WLLaHZr9EgHyWfsKJk) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d) | [THE BAD GUY](https://open.spotify.com/album/2tYf8Jkc8Aimg7xs2Czl6A) | 2:14 |
+| 7 | [Onormal](https://open.spotify.com/track/3PDLigCHaHNk4fVsQqqJt6) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Onormal](https://open.spotify.com/album/6vltRocttRLb2dnhz4h0A3) | 2:28 |
+| 8 | [En sista gång](https://open.spotify.com/track/57vMYC7CSTajC4yporDijh) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [En sista gång](https://open.spotify.com/album/3a2uEbGhl4uBifg1rdBAbe) | 2:06 |
+| 9 | [THE BAD GUY](https://open.spotify.com/track/7JL2WLLaHZr9EgHyWfsKJk) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d) | [THE BAD GUY](https://open.spotify.com/album/2tYf8Jkc8Aimg7xs2Czl6A) | 2:14 |
+| 10 | [Spöke](https://open.spotify.com/track/2FkJGSWSFzMpeXAhJCUArH) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Spöke](https://open.spotify.com/album/0Gr7rCi6szZiTo47nh02CB) | 2:05 |
+| 11 | [HIPHOP](https://open.spotify.com/track/00bc0LQQBwiu9XpF6IfzLQ) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [HIPHOP](https://open.spotify.com/album/6SeUTFu5Cl5R6ZNxGyVYYH) | 2:41 |
 | 12 | [RIKARE](https://open.spotify.com/track/0e4TrMdo69LscyRvJxdB7U) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [RIKARE](https://open.spotify.com/album/34oudvTTliAuPylReiSPDM) | 2:26 |
 | 13 | [Claro](https://open.spotify.com/track/2cubNnPImuh0D1FO2VAIpG) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt), [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw) | [Claro](https://open.spotify.com/album/6oYTsUNuicwoDAJ5r3dJGN) | 2:58 |
 | 14 | [DAG 1](https://open.spotify.com/track/41mJC8hN8Sw4ga7Xwr6gOa) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [DAG 1](https://open.spotify.com/album/4PsvTBOJHcl0sM4nPIOfAP) | 2:17 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 161 | [Ge Ej Upp](https://open.spotify.com/track/7Lolw0ToMMBSVxiB0FAUAp) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Ge Ej Upp](https://open.spotify.com/album/5798b1KEUVxrESw0qXBalH) | 2:26 |
 | 162 | [Zizou](https://open.spotify.com/track/04svnAvyB0gCeLzLGlzHkQ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Zizou](https://open.spotify.com/album/2YSsbdos0JCYpsBmt059xU) | 2:30 |
 
-Snapshot ID: `AAAAAPk0SXVEWq4EvI1+VMzEGYLRJgzd`
+Snapshot ID: `AAAAANG3sQQr/WHYt49bmPA2Bvrhg1zS`

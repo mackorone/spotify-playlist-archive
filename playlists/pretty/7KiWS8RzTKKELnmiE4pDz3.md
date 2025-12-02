@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 383 songs - 22 hr 17 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 386 songs - 22 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -391,5 +391,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 381 | [I'm The Man](https://open.spotify.com/track/0lA40BOV8RfhBeyQSCeIqM) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Lil' Dap](https://open.spotify.com/artist/4c6If3ZuEjpTDP0hvrlWC4), [Jeru The Damaja](https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ) | [Daily Operation](https://open.spotify.com/album/74DwNAuirHLDLVLrBQAnVg) | 4:04 |
 | 382 | [Capillary](https://open.spotify.com/track/4XOXyktJSSyepObphQj8Ke) | [Human Bloom](https://open.spotify.com/artist/2bPgXWPfsRSVwpc0SAdgpu) | [Capillary](https://open.spotify.com/album/45WeVaKTDU6Bs9bTr6WcSr) | 3:30 |
 | 383 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 |
+| 384 | [Glass House \(feat\. Curren$y & Wiz Khalifa\)](https://open.spotify.com/track/1c03rrWkCxyvIofWSD5lDG) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [K.R.I.T\. Wuz Here](https://open.spotify.com/album/30ERYJfWavYaaEJ0BLRE88) | 3:17 |
+| 385 | [Stakes Is High](https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 5:30 |
+| 386 | [Can't Go Wrong](https://open.spotify.com/track/78q45vuOe4PhgJn5CAqbf0) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Jewelz](https://open.spotify.com/album/142QQkfbqskQe7uBlmaS9F) | 3:45 |
 
-Snapshot ID: `AAAfSA7fOcKTLNeuOx5j1NrRTX3CxYJC`
+Snapshot ID: `AAAfSzMd/XQKpk3eQxU6WpfPJB8JzLZ3`

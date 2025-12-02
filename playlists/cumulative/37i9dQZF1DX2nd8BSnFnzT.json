@@ -5787,6 +5787,28 @@
     },
     {
       "album": {
+        "name": "Movimento",
+        "url": "https://open.spotify.com/album/45HaFiQ0qJTgBba3oDTl5K"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        },
+        {
+          "name": "Thiago Castanho",
+          "url": "https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199616,
+      "name": "Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2yhT8YIrxrSbExf3hKOjY3"
+    },
+    {
+      "album": {
         "name": "Morango",
         "url": "https://open.spotify.com/album/7rvBnOpkHz92Tb6KGhYl5a"
       },

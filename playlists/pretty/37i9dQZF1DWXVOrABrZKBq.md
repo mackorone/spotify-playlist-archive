@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > La scène rap francophone sans frontières\. Photo: Genezio
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,401 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,404 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OG](https://open.spotify.com/track/3Bu67MTSsLLJNyZ8qg3itI) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [LES DENTS DU BONHEUR](https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00) | 2:44 |
 | 2 | [Carnavoile](https://open.spotify.com/track/2XvidBX68bjkIS5nuEuxqb) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3) | [CO2](https://open.spotify.com/album/40ZUHqyTGLHBiT8Do4oEEx) | 3:10 |
 | 3 | [archive 2001](https://open.spotify.com/track/0jhy3QaIzpDmY0Bq5MPFIa) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [Kheir](https://open.spotify.com/artist/7kaof8rwuCnCp2pWlk9yzh) | [archive 2001](https://open.spotify.com/album/7ItWaVj4eLwNaHAMGVVC0G) | 1:57 |
-| 4 | [Hypocrite](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 |
+| 4 | [Hypocrite \(deux visages\)](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite \(deux visages\)](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 |
 | 5 | [Survivant](https://open.spotify.com/track/58VZurLTMH9szEdaNndfj9) | [Meeko](https://open.spotify.com/artist/6mWepPXB2Ot85jKcT2843H) | [Survivant](https://open.spotify.com/album/1bhXd9glieV8NmK4Fu4UPB) | 3:10 |
 | 6 | [Omerta 19](https://open.spotify.com/track/3BRQQ4IGg4kZPY4EOBwmQj) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Omerta 19](https://open.spotify.com/album/7AsadRpwB5tzCxWWv6uqik) | 4:11 |
 | 7 | [Alicia Ariana](https://open.spotify.com/track/1xIyEVFDMdgetvA9fYxjZL) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [FRANKLIN](https://open.spotify.com/artist/20VhaQlc16VUPbf1xTiTG5) | [Alicia Ariana](https://open.spotify.com/album/4JXSeCWXdrdYLTGqfIs1dx) | 2:08 |

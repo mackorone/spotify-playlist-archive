@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 453 likes - 99 songs - 6 hr 1 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 463 likes - 106 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,12 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 97 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 |
 | 98 | [White Devil](https://open.spotify.com/track/2FOLmxfAX5oQiOYanJccZ0) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [A Carnival of Reveries](https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G) | 4:42 |
 | 99 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 |
+| 100 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 |
+| 101 | [Bored & Jaded](https://open.spotify.com/track/1RW431i46vNeR0tqM1eZj7) | [Rocketmonkey Lovemachine](https://open.spotify.com/artist/2de9uHlJsqASrZoofVPQAh) | [Rmlm](https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa) | 3:15 |
+| 102 | [Rocking Gnossienne'25](https://open.spotify.com/track/1uj9DhkyZSGnYDljWAjWnS) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Gary Hayward](https://open.spotify.com/artist/71W5r0ihrkAoHc19RcmPNW) | [Rocking Gnossienne'25](https://open.spotify.com/album/2uLL5xhvVZXdYaNEJemWl6) | 3:05 |
+| 103 | [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 |
+| 104 | [Coming Home \(UNITED\)](https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:44 |
+| 105 | [Memory Lapse](https://open.spotify.com/track/3vNql4MJZIrxkRAoVI7fSz) | [Nick Wallisch](https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk), [Proteus](https://open.spotify.com/artist/2npdyO8ezTNfRw9vSi8f4K) | [The Lost Jams](https://open.spotify.com/album/6FoybyVEEiMq1kpsiGa5Ni) | 3:56 |
+| 106 | [Black Widow](https://open.spotify.com/track/5bRrgKXYXx0XL6wbNnbBiJ) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Haunted House](https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2) | 3:58 |
 
-Snapshot ID: `AAAEAdot1XSA8t0VAX0wZ/BgeU0rwPiD`
+Snapshot ID: `AAAECHSL5RAVxZBgGPXKNqCjKCwLtA0F`

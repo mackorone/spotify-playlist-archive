@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-439 songs - 21 hr 14 min
+441 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [ODB](https://open.spotify.com/track/39IodGKCKIu95pOW0LtSXM) | [KESHORE](https://open.spotify.com/artist/3UI7oEDwZ4DH8iAciZEoFw), [Jonah Zed](https://open.spotify.com/artist/4mPkv3XVHp9mMeSXp5Ix3D), [Myles Bryant](https://open.spotify.com/artist/6AHhiKSACbQ5ffvY8vwtiz) | [ODB](https://open.spotify.com/album/4Od5rfPZZcLYtaSQVzjDYe) | 3:26 | 2023-07-26 |  |
 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 | 2023-07-26 |  |
 | [ON DECK](https://open.spotify.com/track/1y4wovZnDYu3yBX4kDpQKA) | [winterkhai](https://open.spotify.com/artist/6ziwWKlhLwUFw0oxFHF0MI) | [ON DECK](https://open.spotify.com/album/4dJKClsZAwu2DYT2PwXx2f) | 1:43 | 2024-06-11 |  |
+| [On Display, Pt\. 3](https://open.spotify.com/track/5wM2zCngggufalq4pnvYI3) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [On Display, Pt\. 3](https://open.spotify.com/album/2s8PuynnrQhk13zYrlEJSN) | 1:56 | 2025-12-01 |  |
 | [onmyown](https://open.spotify.com/track/5ISwOIIYblk456ck0M2Y2K) | [onelane](https://open.spotify.com/artist/4lMbBzx4zFXfTjphqaVGyN) | [onmyown](https://open.spotify.com/album/64Y6LDkBVT09ZvgSJ0j3e8) | 4:13 | 2024-10-07 |  |
 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 | 2023-07-26 |  |
 | [Our Only Love Song](https://open.spotify.com/track/0LPYpM6ntZYfiPwUIVjwMl) | [Hunter Magno](https://open.spotify.com/artist/7xwEeTxHw8V7VgTxLVTMFy) | [Our Only Love Song](https://open.spotify.com/album/2jdOSyjSF8qNY7md76iyoR) | 2:15 | 2024-06-20 |  |
@@ -396,6 +397,7 @@
 | [Tonight You Wanna Dance](https://open.spotify.com/track/5bwqo7Kvmo2D6rYDYXIqxw) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [Tonight You Wanna Dance](https://open.spotify.com/album/0MPi0iWra9hmBjoEc7FeiD) | 3:51 | 2024-11-21 |  |
 | [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/0NWMPu3EzbUr0VBi0tIVGB) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 4:37 | 2023-07-26 |  |
 | [TRADE IT ALL](https://open.spotify.com/track/7uI870MyqlvxYoyteoaqSW) | [Kuris Vows](https://open.spotify.com/artist/0tbFHZ0GFZA0OAQLfhy3Yo) | [TRADE IT ALL](https://open.spotify.com/album/3VPQaDKwX0DTsG05TUeiR8) | 2:19 | 2024-07-02 |  |
+| [Tralandia](https://open.spotify.com/track/3uNmUUM3dmgQmTjxkUcgTw) | [ARTIN & ROMAN DJ](https://open.spotify.com/artist/3CgomiE7lP85mKvgn66knC) | [Tralandia](https://open.spotify.com/album/0xNYINEGK0TD7Ggw30syAu) | 3:28 | 2025-12-01 |  |
 | [Trauma](https://open.spotify.com/track/2lQaRMmOog5PJWu3kwD495) | [Dominic LynX](https://open.spotify.com/artist/0PojpHhBszlM2NI5fBaXlr), [El Ch@po](https://open.spotify.com/artist/62bjyttOia8VFfutcyhQ0D) | [To \~ Love \~ or \~ Not \~ to \~ Love](https://open.spotify.com/album/7hayHf42o3poSXWoGSZGxd) | 2:22 | 2024-07-23 |  |
 | [Triple Kill](https://open.spotify.com/track/6jtkDPKdnvboHjwksgyKe3) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N), [Thommy Projectile](https://open.spotify.com/artist/6AGTRJ0DFsbAHWQuYrKhJD), [Niamor](https://open.spotify.com/artist/6VNY31nnIH0UCB4FHRZec0) | [Triple Kill](https://open.spotify.com/album/5bskV80kyPEqRaBNKoym4X) | 2:29 | 2024-06-11 |  |
 | [Triste historia de amor](https://open.spotify.com/track/0Tahk0pEZ8YlvDGBGrppxI) | [Alex Aldana TN](https://open.spotify.com/artist/7FGdRbxkaqebZMdU0G4feA) | [Triste historia de amor](https://open.spotify.com/album/2ppWgi2BkU0ebOdWzmcR7J) | 3:05 | 2024-06-29 |  |

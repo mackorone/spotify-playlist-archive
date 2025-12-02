@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.com
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,739,986 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,739,808 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 26 | [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 |
 | 27 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 |
 | 28 | [Revolú](https://open.spotify.com/track/4lqJsJd7kqWVvamQ4aFHA8) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:35 |
-| 29 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
-| 30 | [CHAPA](https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [CHAPA](https://open.spotify.com/album/0dNtIStGkXFYTSdyfMxC2G) | 2:00 |
+| 29 | [CHAPA](https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [CHAPA](https://open.spotify.com/album/0dNtIStGkXFYTSdyfMxC2G) | 2:00 |
+| 30 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
 | 31 | [Bellakita](https://open.spotify.com/track/4tSrGUb119Qx4sAZBzfFgd) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:39 |
 | 32 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 |
 | 33 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 |

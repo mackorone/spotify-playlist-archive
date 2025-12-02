@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,499 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,477 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 37 | [Où sont les femmes](https://open.spotify.com/track/1QhmS32Uo9BZCznhbYBRyY) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of](https://open.spotify.com/album/0AOw7IUisWy0h8VjcP6CGp) | 6:16 |
 | 38 | [You Got What It Takes](https://open.spotify.com/track/7gLflLqsZlOeLSlkx6XHrW) | [Bobby Thurston](https://open.spotify.com/artist/3iPWVg3McWlor6EUf9Jc7l) | [You Got What It Takes](https://open.spotify.com/album/0uw28qwpfGCHCV4SDCOO7c) | 9:33 |
 | 39 | [She Can't Love You](https://open.spotify.com/track/5m2tbFHvChBEIRGBObZTVz) | [Chemise](https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS) | [Star Funk, Vol\. 1](https://open.spotify.com/album/69MSI2BPQ0bUCOwI8xgC69) | 5:09 |
-| 40 | [Beat the Street](https://open.spotify.com/track/41F97acqBc7aMzwD224kRR) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Beat the Street: The Very Best of Sharon Redd](https://open.spotify.com/album/3EOCA2DlYoeTIYjQauWDXM) | 6:15 |
-| 41 | [I Will Survive \- Extended Version](https://open.spotify.com/track/619REdZwzaCVSkSueKqPS1) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Silver Collection](https://open.spotify.com/album/3t4vQKksE3hxfsYS8Nr6cP) | 7:56 |
+| 40 | [I Will Survive \- Extended Version](https://open.spotify.com/track/619REdZwzaCVSkSueKqPS1) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Silver Collection](https://open.spotify.com/album/3t4vQKksE3hxfsYS8Nr6cP) | 7:56 |
+| 41 | [Beat the Street](https://open.spotify.com/track/41F97acqBc7aMzwD224kRR) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Beat the Street: The Very Best of Sharon Redd](https://open.spotify.com/album/3EOCA2DlYoeTIYjQauWDXM) | 6:15 |
 | 42 | [Do What You Wanna Do](https://open.spotify.com/track/4ADW3HBraqvlFcxRlcRyoK) | [T\-Connection](https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS) | [Something For The Weekend](https://open.spotify.com/album/4dnOon8AzLu1CyBUjXErI5) | 7:17 |
 | 43 | [Love Hangover](https://open.spotify.com/track/4poc2NX2Ap8MnZjOtoiGir) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross](https://open.spotify.com/album/7BHw2NR6r6GRfsaojQL9xk) | 7:48 |
 | 44 | [Brazilian Love Affair](https://open.spotify.com/track/1gN4FXvfrVOqJSWh20BPBK) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Brazilian Love Affair \(Expanded Edition\)](https://open.spotify.com/album/7mVnCwqkT2tYSJBBbD4l4T) | 7:23 |

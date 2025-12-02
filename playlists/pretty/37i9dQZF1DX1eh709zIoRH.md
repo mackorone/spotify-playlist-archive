@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 
 > Certified hits\. Cover: Ceebo
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,444 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,449 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 | 60 | [I'M TRYNA](https://open.spotify.com/track/1ca2jDAcDOT79MYLRoaciZ) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [I'M TRYNA](https://open.spotify.com/album/0qdg9SF90FBXDXxjNgMm6R) | 2:52 |
 | 61 | [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 |
 | 62 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 |
-| 63 | [Wifey Riddim 4](https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Wifey Riddim 4](https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3) | 3:03 |
-| 64 | [DEEP IN THE WATER](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 |
+| 63 | [DEEP IN THE WATER](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 |
+| 64 | [Wifey Riddim 4](https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Wifey Riddim 4](https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3) | 3:03 |
 | 65 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
 | 66 | [Summertime](https://open.spotify.com/track/2uMkradY7AwoycLaupIpNP) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Summertime](https://open.spotify.com/album/2Ne4WxL1YgJMf6r16br4mk) | 1:49 |
 | 67 | [Happy Birthday](https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Happy Birthday](https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg) | 3:04 |

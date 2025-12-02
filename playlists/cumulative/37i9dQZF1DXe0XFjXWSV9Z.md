@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-196 songs - 12 hr 20 min
+197 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cumbia De Los Pajaritos](https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 2:41 | 2021-10-20 |  |
 | [Cumbia del Metrónomo](https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz) | [Las Muiscas](https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige) | [Cumbia del Metrónomo](https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac) | 5:04 | 2022-02-12 |  |
 | [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 | 2021-10-20 | 2024-04-19 |
+| [Cumbia del Paletero](https://open.spotify.com/track/4laare64UJzFrVoFuZOMqP) | [XIXA](https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e) | [Shift and Shadow](https://open.spotify.com/album/68coa3myXyACGNFuHU0OZT) | 4:03 | 2025-05-19 |  |
 | [Cumbia del Pichamán](https://open.spotify.com/track/5WjRThnwydfhzybQStKVaI) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia siglo XXI](https://open.spotify.com/album/6s91YTFJHq3LWDRMC4QOvp) | 3:17 | 2021-10-20 | 2024-01-25 |
 | [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 | 2021-10-20 |  |
 | [Cumbia Disco Energy](https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo), [Polymarchs](https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99) | [Cumbia Disco Energy](https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur) | 3:57 | 2024-03-16 |  |
@@ -77,7 +78,7 @@
 | [El pavo real](https://open.spotify.com/track/7CscQhRVoHs50YioshIbuQ) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Estrella](https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr) | 3:28 | 2022-11-24 | 2024-04-19 |
 | [El Pescador](https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [Dos Santos](https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg) | 3:33 | 2021-10-20 |  |
 | [El Pinochito Saltarin](https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [Legado: Colección Definitiva](https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW) | 2:36 | 2021-10-20 |  |
-| [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 | 2021-10-20 |  |
+| [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 | 2021-10-20 | 2025-12-02 |
 | [Elsa](https://open.spotify.com/track/04ZstZIjwSRoXAGix50GPT) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Mundial....](https://open.spotify.com/album/3gT44BsjTWWgIZvItinJSH) | 3:40 | 2021-10-20 | 2024-04-19 |
 | [Empecemos \(Let's Start\)](https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [Los Kings](https://open.spotify.com/artist/3mkewj7XqZIrYz10FDiymw) | [Color de Trópico Vol 2 \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP) | 2:58 | 2022-01-11 | 2025-05-20 |
 | [Fantasmagoría](https://open.spotify.com/track/1UKdzeFMgUECS6bYGR1Jv6) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Paganismo](https://open.spotify.com/album/6n4OdUAJ1Zr2oPt7VvohAW) | 4:13 | 2021-10-20 | 2024-04-19 |
@@ -117,7 +118,7 @@
 | [Los Olvidados](https://open.spotify.com/track/7HHGXcIR0iUkBmgHrClR47) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropidélico](https://open.spotify.com/album/173jCDoA1pArfdouxi1kZ8) | 3:26 | 2021-10-20 |  |
 | [Los Olvidados \(Cumbia\)](https://open.spotify.com/track/1ENaWkSrM7Ls1TQw7Xu7IW) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e) | [Tropidélico](https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS) | 3:26 | 2021-10-20 | 2024-04-19 |
 | [Lotus](https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul) | [Gia Fu](https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi) | [Lotus](https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ) | 4:57 | 2024-10-04 | 2025-05-20 |
-| [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 | 2023-05-25 |  |
+| [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 | 2023-05-25 | 2025-12-02 |
 | [Mambo Del Fierro Viejo](https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Paganismo \(Deluxe\)](https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2) | 3:09 | 2023-10-10 |  |
 | [Mamita Santa](https://open.spotify.com/track/6NwPLDzVZuoBvCDmipbjCR) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Mamita Santa](https://open.spotify.com/album/619zP71cN2JNAFGGyCgkzg) | 3:13 | 2022-01-14 | 2025-01-21 |
 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-04-01 |  |
@@ -203,6 +204,6 @@
 | [Yo Bailo Sola](https://open.spotify.com/track/7fv20ywu4geYS8LpleMsFE) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Yo Bailo Sola](https://open.spotify.com/album/6M43g9QvBjq0vEPxhOf8q8) | 5:17 | 2021-10-20 |  |
 | [Ángeles y Demonios](https://open.spotify.com/track/2Yr9mWZoQDSjINYpEsoXgA) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Historias de amor y otras mierdas](https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt) | 2:59 | 2022-06-22 | 2024-04-19 |
 | [Ángeles y Demonios](https://open.spotify.com/track/4v4Qrj7MtYl6k0fqOhSOJa) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Ángeles y Demonios](https://open.spotify.com/album/1vfoYVSZLRxvQIHwlYE9EG) | 2:59 | 2022-06-22 | 2023-11-18 |
-| [Ñocoñoco](https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb) | [Rizomagic](https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt) | [Voltaje Raizal](https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw) | 5:16 | 2023-06-30 | 2025-11-30 |
+| [Ñocoñoco](https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb) | [Rizomagic](https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt) | [Voltaje Raizal](https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw) | 5:16 | 2023-06-30 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

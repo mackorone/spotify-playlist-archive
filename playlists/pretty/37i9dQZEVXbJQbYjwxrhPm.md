@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,305 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,309 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Мераклия](https://open.spotify.com/track/0b2D7UMjaaIYJndNYBbdRU) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Мераклия](https://open.spotify.com/album/5VBSe7KYebMlPsrDoETNul) | 3:08 |
 | 50 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
 
-Snapshot ID: `ML+8gAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MMEG+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

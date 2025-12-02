@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Shaboozey",
-  "num_followers": 664777,
+  "num_followers": 664837,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-11-21 05:00:36",
       "album": {
-        "name": "Bad State of Mind",
-        "url": "https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 261006,
-      "name": "Bad State of Mind",
-      "url": "https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX"
-    },
-    {
-      "added_at": "2025-11-21 05:00:36",
-      "album": {
         "name": "you look like you love me (feat. Riley Green)",
         "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 224280,
       "name": "you look like you love me (feat. Riley Green)",
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
+    },
+    {
+      "added_at": "2025-11-21 05:00:36",
+      "album": {
+        "name": "Bad State of Mind",
+        "url": "https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 261006,
+      "name": "Bad State of Mind",
+      "url": "https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX"
     },
     {
       "added_at": "2025-11-21 05:00:36",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-11-21 05:00:36",
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Pray Hard (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/6p6iLtRA7a93kXhkomJUPo"
-    },
-    {
-      "added_at": "2025-11-21 05:00:36",
-      "album": {
         "name": "Hard Fought Hallelujah (with Jelly Roll)",
         "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 192693,
       "name": "DEVIL YOU KNOW",
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+    },
+    {
+      "added_at": "2025-11-21 05:00:36",
+      "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Pray Hard (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/6p6iLtRA7a93kXhkomJUPo"
     },
     {
       "added_at": "2025-11-21 05:00:36",

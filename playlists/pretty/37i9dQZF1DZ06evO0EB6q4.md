@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,251 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,292 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 18 | [Duelo](https://open.spotify.com/track/1QUcUbfPSxwfUY7qM99J7r) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Duelo](https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy) | 2:52 |
 | 19 | [Me Da Lo Mismo](https://open.spotify.com/track/5Gd3xX8XfF0BtJifRndvRK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 4:06 |
 | 20 | [Los No Tan Tristes](https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 |
-| 21 | [A la antigua](https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [A la antigua](https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG) | 2:42 |
-| 22 | [Oro Por Ti](https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:36 |
+| 21 | [Oro Por Ti](https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:36 |
+| 22 | [A la antigua](https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [A la antigua](https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG) | 2:42 |
 | 23 | [Cariñitos Y Flores](https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Cariñitos Y Flores](https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd) | 2:39 |
 | 24 | [Prohibida](https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 3:26 |
 | 25 | [Una Loca Como Tú](https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Una Loca Como Tú](https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 49 | [Mía](https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Compilado, Vol\. 1](https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG) | 3:10 |
 | 50 | [No se me Olvida](https://open.spotify.com/track/06jk6DwI8NYNFKLuKRhNmc) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No se me Olvida](https://open.spotify.com/album/29cuT4ijmzhPIgkg6cUOLd) | 3:07 |
 
-Snapshot ID: `aSo3gAAAAADa/lFydRAivkddzoBAyiIE`
+Snapshot ID: `aSuJAAAAAABQ6f5mRO/WiM+OadbRBrpj`

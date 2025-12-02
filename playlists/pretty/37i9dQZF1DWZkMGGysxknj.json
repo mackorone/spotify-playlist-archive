@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 837113,
+  "num_followers": 837018,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Pumped Up Kicks (Acoustic Version)",
         "url": "https://open.spotify.com/album/5T7d2e1RIlkpU1h8hys6jE"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 174793,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/5Kfbof2USqmBaEgRHd0VTk"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 208568,
-      "name": "Dusk Till Dawn",
-      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
-      },
-      "artists": [
-        {
-          "name": "Treadlights",
-          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
-        }
-      ],
-      "duration_ms": 151119,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Be Here Now",
         "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 219133,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+      },
+      "artists": [
+        {
+          "name": "Treadlights",
+          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+        }
+      ],
+      "duration_ms": 151119,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Songs of Dylan",
-        "url": "https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 158491,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/20VC8UqK5YUBDQZIozqdGV"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Conc\u00e9ntrica Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 162297,
       "name": "Conc\u00e9ntrica Canci\u00f3n",
       "url": "https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Songs of Dylan",
+        "url": "https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 158491,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/20VC8UqK5YUBDQZIozqdGV"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
-      },
-      "artists": [
-        {
-          "name": "LHITNEY",
-          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
-        }
-      ],
-      "duration_ms": 185446,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 204452,
       "name": "Downtown - Acoustic Version",
       "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
+      },
+      "artists": [
+        {
+          "name": "LHITNEY",
+          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
+        }
+      ],
+      "duration_ms": 185446,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
-      },
-      "artists": [
-        {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 275662,
       "name": "Life According To Raechel - Spotify Single",
       "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
+      },
+      "artists": [
+        {
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 125895,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Heather",
         "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 198007,
       "name": "Heather - Acoustic",
       "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 125895,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Hablar de M\u00e1s",
-        "url": "https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 214917,
-      "name": "Hablar de M\u00e1s",
-      "url": "https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Nothing Breaks Like a Heart",
         "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 203261,
       "name": "Nothing Breaks Like a Heart",
       "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Hablar de M\u00e1s",
+        "url": "https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 214917,
+      "name": "Hablar de M\u00e1s",
+      "url": "https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Weird Fishes",
         "url": "https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv"
       },
@@ -2007,18 +1991,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Graveyard",
-        "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
       },
       "artists": [
         {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
         }
       ],
-      "duration_ms": 254296,
-      "name": "Graveyard - Acoustic",
-      "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2035,6 +2019,22 @@
       "duration_ms": 214500,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Graveyard",
+        "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
+      },
+      "artists": [
+        {
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+        }
+      ],
+      "duration_ms": 254296,
+      "name": "Graveyard - Acoustic",
+      "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "The Day I Left Hanoi",
-        "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
-      },
-      "artists": [
-        {
-          "name": "Jokai",
-          "url": "https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz"
-        }
-      ],
-      "duration_ms": 229850,
-      "name": "The Day I Left Hanoi",
-      "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 277674,
       "name": "Ganas - Spotify Singles",
       "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "The Day I Left Hanoi",
+        "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
+      },
+      "artists": [
+        {
+          "name": "Jokai",
+          "url": "https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz"
+        }
+      ],
+      "duration_ms": 229850,
+      "name": "The Day I Left Hanoi",
+      "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 213041,
-      "name": "Ay, Amor \u2665\ufe0e",
-      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80"
       },
@@ -2267,18 +2251,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG"
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
       },
       "artists": [
         {
-          "name": "Jessie Blue and Zach Solomon",
-          "url": "https://open.spotify.com/artist/6DdJ9J6G22rS3lC7VRVZtx"
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
         }
       ],
-      "duration_ms": 253872,
-      "name": "Lose You To Love Me",
-      "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
+      "duration_ms": 213041,
+      "name": "Ay, Amor \u2665\ufe0e",
+      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "x tu amor",
-        "url": "https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN"
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Zavala",
-          "url": "https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2"
+          "name": "Jessie Blue and Zach Solomon",
+          "url": "https://open.spotify.com/artist/6DdJ9J6G22rS3lC7VRVZtx"
         }
       ],
-      "duration_ms": 205000,
-      "name": "x tu amor",
-      "url": "https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR"
+      "duration_ms": 253872,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2327,6 +2311,22 @@
       "duration_ms": 166698,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "x tu amor",
+        "url": "https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Zavala",
+          "url": "https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "x tu amor",
+      "url": "https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Call Out My Name",
         "url": "https://open.spotify.com/album/0yTcV1IFb2qMCK0LvO2LvS"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 213266,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/4XIaUpLlWb1y3YVByVSFla"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2025-06-20 16:07:31",

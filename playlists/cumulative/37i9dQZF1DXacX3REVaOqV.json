@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 165620,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/3mjbTs2Hc1R6F3zSFZyZGn"
@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 202500,
       "name": "Chez B. Untitled",
       "url": "https://open.spotify.com/track/75teqBVtPcW5iQiaHlhuDI"
@@ -3228,7 +3228,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 216093,
       "name": "Don't Know",
       "url": "https://open.spotify.com/track/5yqmpHjXyByiOADHQnD7Mj"
@@ -3527,6 +3527,32 @@
     },
     {
       "album": {
+        "name": "Edge of Desire (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/2STORLqbca4TPym8doxGZk"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179996,
+      "name": "Edge of Desire - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/6w1z9aGsflx9cMHWl8d5eB"
+    },
+    {
+      "album": {
         "name": "Elle",
         "url": "https://open.spotify.com/album/1Pi6vU17WMFQMTVN4fr0k6"
       },
@@ -3741,6 +3767,32 @@
     },
     {
       "album": {
+        "name": "Everything For You",
+        "url": "https://open.spotify.com/album/1a77Gt9vG7vSwy9iueCJqM"
+      },
+      "artists": [
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        },
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167208,
+      "name": "Everything For You",
+      "url": "https://open.spotify.com/track/5XMZSjx1fi2tx2GFTTaPCZ"
+    },
+    {
+      "album": {
         "name": "Retpoid Meetings",
         "url": "https://open.spotify.com/album/3mjm9RkOfMRsILtXtF1glj"
       },
@@ -3870,7 +3922,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 174000,
       "name": "Falling Under",
       "url": "https://open.spotify.com/track/6MGYIlViEQBtZHVKDHUJYB"
@@ -3910,6 +3962,24 @@
       "duration_ms": 223000,
       "name": "Family Business - Radio Edit",
       "url": "https://open.spotify.com/track/4PDUz6h6rzSkf5BmxhhGnC"
+    },
+    {
+      "album": {
+        "name": "Feel Free",
+        "url": "https://open.spotify.com/album/3TRmLjmGQ7XzOcMYmRb42W"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164761,
+      "name": "Feel Free",
+      "url": "https://open.spotify.com/track/4nq4MNzju4UhdmL6Oyf6cT"
     },
     {
       "album": {
@@ -4668,6 +4738,24 @@
       "duration_ms": 193500,
       "name": "Get Down - Club Edit",
       "url": "https://open.spotify.com/track/4WieHYVnGXXeU0ZaofaGAb"
+    },
+    {
+      "album": {
+        "name": "Get It Done EP",
+        "url": "https://open.spotify.com/album/3HmjFTAGUvNIvgrLhyrfT7"
+      },
+      "artists": [
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382008,
+      "name": "Get It Done",
+      "url": "https://open.spotify.com/track/2TGot2prgVJ2KUj3JqxM9e"
     },
     {
       "album": {
@@ -8333,6 +8421,28 @@
     },
     {
       "album": {
+        "name": "Mali Spirit (Folamour Remix)",
+        "url": "https://open.spotify.com/album/5EoHzdPRvD014BrM49icIa"
+      },
+      "artists": [
+        {
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191617,
+      "name": "Mali Spirit - Folamour Remix",
+      "url": "https://open.spotify.com/track/4z0nAGmNM70ygVhxLLOylS"
+    },
+    {
+      "album": {
         "name": "Mama Maria",
         "url": "https://open.spotify.com/album/363XxSoRU849dr3HGjbkR1"
       },
@@ -8738,7 +8848,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 219197,
       "name": "Move",
       "url": "https://open.spotify.com/track/2AADxZdCvvxfiBeaQq4DOV"
@@ -10839,6 +10949,24 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/0Pb5OFqr1LwnpBfQuOMXkd"
+      },
+      "artists": [
+        {
+          "name": "Housequake",
+          "url": "https://open.spotify.com/artist/5WHgifU7J7TBlEygVmAOFi"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203585,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/55khJGEPAx6GmIl3EpXWR8"
+    },
+    {
+      "album": {
         "name": "Rock With Me",
         "url": "https://open.spotify.com/album/41BUkrdl42fJx9qYlhsmi1"
       },
@@ -11782,7 +11910,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 363073,
       "name": "Something",
       "url": "https://open.spotify.com/track/48nnRkutZevBpAqUSzbppl"
@@ -13335,6 +13463,28 @@
     },
     {
       "album": {
+        "name": "Till The Night",
+        "url": "https://open.spotify.com/album/39MAe19599Sjoxy5kFwdNd"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140813,
+      "name": "Till The Night",
+      "url": "https://open.spotify.com/track/0tzeqfKjhhjXcJ0uw8FEIT"
+    },
+    {
+      "album": {
         "name": "To The Beat (Club Mix)",
         "url": "https://open.spotify.com/album/4aopMdUJzLDDj9CgYApKLt"
       },
@@ -13350,7 +13500,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 178560,
       "name": "To The Beat - Club Mix",
       "url": "https://open.spotify.com/track/1lrPaOiy45DbcRFVyd9ZFG"

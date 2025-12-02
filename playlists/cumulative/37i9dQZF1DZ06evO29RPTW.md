@@ -4,7 +4,7 @@
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 21 min
+78 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Blitzkrieg Bop](https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 2:43 | 2022-05-30 |  |
 | [Boom\-Boom\-Boom](https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:20 | 2022-05-30 |  |
 | [Brick House 2003](https://open.spotify.com/track/45s7brWN56HC9xzQz8hHuR) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:48 | 2022-05-30 |  |
-| [Burn MF \(feat Rob Zombie\)](https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey) | 3:37 | 2023-12-13 |  |
+| [Burn MF \(feat Rob Zombie\)](https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey) | 3:37 | 2023-12-13 | 2025-12-02 |
+| [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/1rH3m5jxL3TkznX0owKS39) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Wrong Side of Heaven Volume 1 + 2](https://open.spotify.com/album/2lEUy2FQGa4QchYQRbkN6t) | 3:37 | 2025-12-02 |  |
 | [Call Of The Zombie](https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 0:30 | 2024-06-13 |  |
 | [Crow Killer Blues](https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 5:00 | 2022-05-30 | 2025-10-22 |
 | [Dead City Radio And The New Gods Of Supertown](https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:28 | 2022-05-30 |  |

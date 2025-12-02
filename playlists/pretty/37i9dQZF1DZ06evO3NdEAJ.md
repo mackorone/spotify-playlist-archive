@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 
 > This is La Fiera de Ojinaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,638 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,655 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 19 | [Empezar Desde Cero](https://open.spotify.com/track/3ZO2h0YUr2Uft7G8w4k7Ru) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Empezar Desde Cero](https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh) | 3:20 |
 | 20 | [No Quiero Compartir](https://open.spotify.com/track/7fzMXmWm7vONX6aRq7M1jI) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Quiero Compartir](https://open.spotify.com/album/3D9xpDoODtzajKTq6oqV6k) | 2:45 |
 | 21 | [Cuando Te Amé](https://open.spotify.com/track/6alHQAMsFdfVqKn7eO8nYF) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Cuando Te Amé](https://open.spotify.com/album/2b6qnwUwY9qjrss0YucU1O) | 4:02 |
-| 22 | [Aunque me Dejes en Visto](https://open.spotify.com/track/6cxuRIoRb7unyRQQQwIZqf) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Aunque me Dejes en Visto](https://open.spotify.com/album/2gJas5TpAOdfvEQPRbmsT3) | 2:37 |
-| 23 | [Nuestro Secreto Será](https://open.spotify.com/track/6LC5B96OY8bi4RjYB72wSv) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos, Vol\. 2](https://open.spotify.com/album/7EesU3azH6jPG5osiPex59) | 2:31 |
-| 24 | [A Decir Verdad](https://open.spotify.com/track/6YYroAXcnuMR0PqfRkFTch) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [En Otro Canal](https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90) | 3:48 |
+| 22 | [A Decir Verdad](https://open.spotify.com/track/6YYroAXcnuMR0PqfRkFTch) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [En Otro Canal](https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90) | 3:48 |
+| 23 | [Aunque me Dejes en Visto](https://open.spotify.com/track/6cxuRIoRb7unyRQQQwIZqf) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Aunque me Dejes en Visto](https://open.spotify.com/album/2gJas5TpAOdfvEQPRbmsT3) | 2:37 |
+| 24 | [Nuestro Secreto Será](https://open.spotify.com/track/6LC5B96OY8bi4RjYB72wSv) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos, Vol\. 2](https://open.spotify.com/album/7EesU3azH6jPG5osiPex59) | 2:31 |
 | 25 | [Maldita Soledad](https://open.spotify.com/track/4MuXo5mfMatTI3sImuqjg3) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Como un Meteorito](https://open.spotify.com/album/2NPXznFzShgA3D4bapgYR1) | 3:01 |
-| 26 | [Selfie](https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Directo Al Corazón](https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF) | 2:52 |
-| 27 | [De Ti Enamorado](https://open.spotify.com/track/02MIYH9EHLAHZVu6iIFiNx) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [De Ti Enamorado](https://open.spotify.com/album/1WGsWVwYWDwVSlZJxEHamf) | 3:53 |
-| 28 | [Basta](https://open.spotify.com/track/7G9Z2p9GUo86ssw05dRRYH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [En Otro Canal](https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90) | 3:14 |
+| 26 | [Basta](https://open.spotify.com/track/7G9Z2p9GUo86ssw05dRRYH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [En Otro Canal](https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90) | 3:14 |
+| 27 | [Selfie](https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Directo Al Corazón](https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF) | 2:52 |
+| 28 | [De Ti Enamorado](https://open.spotify.com/track/02MIYH9EHLAHZVu6iIFiNx) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [De Ti Enamorado](https://open.spotify.com/album/1WGsWVwYWDwVSlZJxEHamf) | 3:53 |
 | 29 | [Te Sale Bien](https://open.spotify.com/track/1AOuMm9EJB0S8FviogQcpQ) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Te Sale Bien](https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv) | 2:47 |
 | 30 | [La Leona y El Carcomido](https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Leona y El Carcomido](https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j) | 2:33 |
 | 31 | [Bailando](https://open.spotify.com/track/7u9sBmRyQrKdewaT4YxHtm) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Bailando](https://open.spotify.com/album/69uof5JlfcjKcxNewJVI9P) | 3:23 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 45 | [Qué Bueno](https://open.spotify.com/track/2EzbDeeupuIGDUWb7rB92D) | [La Cultura Norteña](https://open.spotify.com/artist/4dKfcKrl0Q5d9ZpnN6ybZL), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Qué Bueno](https://open.spotify.com/album/7HOt4qsVcjMDIjF01YQsPw) | 3:09 |
 | 46 | [Si Llegan a Enterarse](https://open.spotify.com/track/235uSINaGqneZry2vVXtx0) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7.2](https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB) | 2:40 |
 | 47 | [Dile](https://open.spotify.com/track/0qnpUfpIedBqtJSx6lR0Bh) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Dile](https://open.spotify.com/album/5n32MK19ShFwMXMuZaCdv3) | 2:53 |
-| 48 | [La Novena Maravilla](https://open.spotify.com/track/2FCD94ziDenugcxQ3ROu3e) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Novena Maravilla](https://open.spotify.com/album/6Tfu5rYl1kXCKtTdEKstfO) | 2:46 |
-| 49 | [Si Nos Tenemos](https://open.spotify.com/track/7rTiu4B2mEDq8zFKne2VSG) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Si Nos Tenemos](https://open.spotify.com/album/3rIk3R4uEJPbp4G03m3gJh) | 2:23 |
+| 48 | [Si Nos Tenemos](https://open.spotify.com/track/7rTiu4B2mEDq8zFKne2VSG) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Si Nos Tenemos](https://open.spotify.com/album/3rIk3R4uEJPbp4G03m3gJh) | 2:23 |
+| 49 | [La Novena Maravilla](https://open.spotify.com/track/2FCD94ziDenugcxQ3ROu3e) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Novena Maravilla](https://open.spotify.com/album/6Tfu5rYl1kXCKtTdEKstfO) | 2:46 |
 | 50 | [Como una Fiera](https://open.spotify.com/track/0rFI3guWwBbbiO5BfYnHh6) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Como una Fiera](https://open.spotify.com/album/3y6ZgAAV5YwdyMuFOwpCJf) | 2:47 |
 
-Snapshot ID: `aSo3gAAAAAB202uoMoyMHNP72dqbB0Kh`
+Snapshot ID: `aSuJAAAAAADFHaHE9IlWLEfNpWrZ0wRG`

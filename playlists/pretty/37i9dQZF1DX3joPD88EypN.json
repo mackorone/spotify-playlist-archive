@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 91392,
+  "num_followers": 91441,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -119,30 +119,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "At the Movies",
-        "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
-      },
-      "artists": [
-        {
-          "name": "Nikolaj Hess",
-          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
-        },
-        {
-          "name": "Anders Christensen",
-          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
-        },
-        {
-          "name": "Mikkel Hess",
-          "url": "https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq"
-        }
-      ],
-      "duration_ms": 240903,
-      "name": "End Music",
-      "url": "https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Last Decade",
         "url": "https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj"
       },
@@ -171,18 +147,26 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
+        "name": "At the Movies",
+        "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
       },
       "artists": [
         {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+          "name": "Nikolaj Hess",
+          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        },
+        {
+          "name": "Mikkel Hess",
+          "url": "https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq"
         }
       ],
-      "duration_ms": 319706,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
+      "duration_ms": 240903,
+      "name": "End Music",
+      "url": "https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -203,6 +187,22 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "Contra La Indecisi\u00f3n",
         "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
       },
@@ -215,22 +215,6 @@
       "duration_ms": 352746,
       "name": "Oktoberhavet",
       "url": "https://open.spotify.com/track/3vAJ3gvTKRsXTO6XCbcI6q"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "You Had Me at Goodbye",
-        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "Grinde",
-      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -255,6 +239,22 @@
       "duration_ms": 253973,
       "name": "Remembrance IV",
       "url": "https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "You Had Me at Goodbye",
+        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Grinde",
+      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -883,18 +883,26 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
       },
       "artists": [
         {
-          "name": "Terje Rypdal",
-          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+          "name": "Ketil Bj\u00f8rnstad",
+          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
         }
       ],
-      "duration_ms": 346333,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
+      "duration_ms": 367120,
+      "name": "Remembrance VI",
+      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -927,26 +935,18 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
       },
       "artists": [
         {
-          "name": "Ketil Bj\u00f8rnstad",
-          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
         }
       ],
-      "duration_ms": 367120,
-      "name": "Remembrance VI",
-      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
+      "duration_ms": 346333,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -975,38 +975,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Up in the Sky",
-        "url": "https://open.spotify.com/album/0B9LlcC7hecto7aL1xAqyL"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 273600,
-      "name": "Up in the Sky",
-      "url": "https://open.spotify.com/track/3mNDE8hsMlcrm85ROH5jKv"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "As If The Ghost \u2026 Was Me!?",
-        "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
-      },
-      "artists": [
-        {
-          "name": "Terje Rypdal",
-          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
-        }
-      ],
-      "duration_ms": 343213,
-      "name": "As If The Ghost \u2026 Was Me!?",
-      "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Phantasmagoria or a Different Kind of Journey",
         "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
       },
@@ -1023,18 +991,18 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "A Year From Easter",
-        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
+        "name": "Up in the Sky",
+        "url": "https://open.spotify.com/album/0B9LlcC7hecto7aL1xAqyL"
       },
       "artists": [
         {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Eliasong",
-      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
+      "duration_ms": 273600,
+      "name": "Up in the Sky",
+      "url": "https://open.spotify.com/track/3mNDE8hsMlcrm85ROH5jKv"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1067,6 +1035,38 @@
       "duration_ms": 101175,
       "name": "Few Words",
       "url": "https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "As If The Ghost \u2026 Was Me!?",
+        "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
+      },
+      "artists": [
+        {
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+        }
+      ],
+      "duration_ms": 343213,
+      "name": "As If The Ghost \u2026 Was Me!?",
+      "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "A Year From Easter",
+        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
+      },
+      "artists": [
+        {
+          "name": "Christian Wallumr\u00f8d Ensemble",
+          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Eliasong",
+      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "The Soundtrack of My Home",
+        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Jerve",
+          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+        }
+      ],
+      "duration_ms": 240390,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "Innr\u00f8nt",
         "url": "https://open.spotify.com/album/5XxapXEuQvu4X612Z2k9Ug"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 252986,
       "name": "Innr\u00f8nt",
       "url": "https://open.spotify.com/track/3snqukZaYsLcc1C9wJUftT"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "The Soundtrack of My Home",
-        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Jerve",
-          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
-        }
-      ],
-      "duration_ms": 240390,
-      "name": "Iben",
-      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Touch of Time",
-        "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        },
-        {
-          "name": "Harmen Fraanje",
-          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
-        }
-      ],
-      "duration_ms": 526520,
-      "name": "Redream",
-      "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Tree House",
         "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 449893,
       "name": "Seaweed",
       "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Touch of Time",
+        "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Harmen Fraanje",
+          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
+        }
+      ],
+      "duration_ms": 526520,
+      "name": "Redream",
+      "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
+        }
+      ],
+      "duration_ms": 249386,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "P\u00e5 havets bunn",
         "url": "https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 212600,
       "name": "P\u00e5 havets bunn",
       "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "Point of View",
-        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
-        }
-      ],
-      "duration_ms": 249386,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
-      },
-      "artists": [
-        {
-          "name": "Alexi Tuomarila",
-          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
-        }
-      ],
-      "duration_ms": 380789,
-      "name": "August",
-      "url": "https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "And Then Comes The Night",
         "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
+      },
+      "artists": [
+        {
+          "name": "Alexi Tuomarila",
+          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
+        }
+      ],
+      "duration_ms": 380789,
+      "name": "August",
+      "url": "https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Kinder Call",
-        "url": "https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z"
-      },
-      "artists": [
-        {
-          "name": "The Stoner",
-          "url": "https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Lena",
-      "url": "https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/1ZIyFQ6sS5bnZoY60HqkP4"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 262963,
       "name": "Green Model",
       "url": "https://open.spotify.com/track/6FXibr7oXEtXElSFP8LHES"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Kinder Call",
+        "url": "https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z"
+      },
+      "artists": [
+        {
+          "name": "The Stoner",
+          "url": "https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Lena",
+      "url": "https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX"
     },
     {
       "added_at": "2025-09-26 11:32:08",

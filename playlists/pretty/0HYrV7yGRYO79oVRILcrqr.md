@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,587 likes - 148 songs - 9 hr 7 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,588 likes - 150 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,5 +156,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 146 | [Don't look back](https://open.spotify.com/track/3USP9tP0tX1jVue701swyK) | [Andrius](https://open.spotify.com/artist/2r4P3xB3mTIzuks1cnFOYS) | [The Dark Side Of The Tune](https://open.spotify.com/album/4JcCpQvnmSKs2LYE3ZzX5x) | 3:40 |
 | 147 | [Ninja Rabbit Ate My Weed](https://open.spotify.com/track/54lJlTm5aYdnVY2vASLXEG) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:31 |
 | 148 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 |
+| 149 | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/track/5kGZUGMDh7wUwEHPOjFKsm) | [Daniel Forsius](https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3) | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/album/4ISu9gFv2wlWWAoMHYVV8a) | 3:15 |
+| 150 | [Cansado del amor](https://open.spotify.com/track/12IELCO5NmSEIk6x8CoDHT) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 2:43 |
 
-Snapshot ID: `AAAKHs/CE8PDwd2o6vWQlrJESIaNJgLQ`
+Snapshot ID: `AAAKIDJW2eF53IvEQYvEx+UFzUkrSamY`

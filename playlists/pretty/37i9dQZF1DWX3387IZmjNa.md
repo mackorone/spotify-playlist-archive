@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,114,723 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,114,752 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 74 | [Baddest In The Room](https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Baddest In The Room](https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi) | 2:38 |
 | 75 | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 |
 
-Snapshot ID: `AAAAAJ1ohhMACLDMKr+wb0Z+8siDG1wq`
+Snapshot ID: `AAAAAOFwaMPCe0xADKklCiaEd7GjdduS`

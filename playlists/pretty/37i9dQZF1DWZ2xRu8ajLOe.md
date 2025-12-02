@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2xRu8ajLOe.md) - [plain]
 
 > Your ultimate running soundtrack!
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,888 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,881 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2xRu8ajLOe.md) - [plain]
 | 69 | [The Days](https://open.spotify.com/track/5hdk8xva1LqTDEgs3yLdRH) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [The Days](https://open.spotify.com/album/7qmIKmPBqw8vNYbTaAAJTb) | 2:49 |
 | 70 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 |
 | 71 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 |
-| 72 | [Sunlight \(feat\. Years and Years\)](https://open.spotify.com/track/7w9W20r1IpCDQQMRcLEsQZ) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sunlight \(feat\. Years and Years\)](https://open.spotify.com/album/5leY9QGAzkC3wfsPjatums) | 3:13 |
-| 73 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 |
+| 72 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 |
+| 73 | [Sunlight \(feat\. Years and Years\)](https://open.spotify.com/track/7w9W20r1IpCDQQMRcLEsQZ) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sunlight \(feat\. Years and Years\)](https://open.spotify.com/album/5leY9QGAzkC3wfsPjatums) | 3:13 |
 | 74 | [Misleading](https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Misleading](https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5) | 3:07 |
 | 75 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 |
 | 76 | [Piece of Me](https://open.spotify.com/track/1ZQnV7ePl8yXoLjPfhWE5L) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Piece of Me](https://open.spotify.com/album/64wvW9YtNDyMBWgNjVl3v8) | 3:08 |

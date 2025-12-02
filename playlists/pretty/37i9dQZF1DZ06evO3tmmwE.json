@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1368,
+  "num_followers": 1369,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAABxneW/vgF/L1/9w6MzOxIG",
+  "snapshot_id": "aSuJAAAAAAC1ztfU7/YwGF5GxjH2bSKi",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FTNSWL",
+        "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "FTNSWL",
+      "url": "https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EL RODEO",
         "url": "https://open.spotify.com/album/3L5vvWez1vD04YbEjRc2Hf"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 226528,
       "name": "EL RODEO",
       "url": "https://open.spotify.com/track/13WpF1APbK3c4swe9ifY58"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FTNSWL",
-        "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "FTNSWL",
-      "url": "https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B"
     },
     {
       "added_at": null,
@@ -664,17 +664,13 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         },
         {
-          "name": "HOODLUM",
-          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
-        },
-        {
-          "name": "Le$",
-          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Big Chains",
-      "url": "https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX"
+      "duration_ms": 253714,
+      "name": "Riding On 6's",
+      "url": "https://open.spotify.com/track/4zZAnmtU2XVTrBpn4BPpH4"
     },
     {
       "added_at": null,
@@ -719,42 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Devu\u00e9lveme a Mi Chica",
-        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Riding On 6's",
-      "url": "https://open.spotify.com/track/4zZAnmtU2XVTrBpn4BPpH4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Bailes Asi (Remix)",
         "url": "https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD"
       },
@@ -771,6 +731,46 @@
       "duration_ms": 153600,
       "name": "No Bailes Asi - Remix",
       "url": "https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "HOODLUM",
+          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
+        },
+        {
+          "name": "Le$",
+          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Big Chains",
+      "url": "https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Devu\u00e9lveme a Mi Chica",
+        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,755 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,747 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 35 | [Uzun Uzun \(feat\. Jabbar\)](https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Uzun Uzun \(feat\. Jabbar\)](https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG) | 3:36 |
 | 36 | [Esirinim](https://open.spotify.com/track/2Y0rbMONCI9mU8h8lw1S5A) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Esirinim](https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs) | 3:18 |
 | 37 | [AL SENİN OLSUN DÜNYA](https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Al Senin Olsun Dünya](https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ) | 3:15 |
-| 38 | [Şarkı Söylemek Lazım](https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Şarkı Söylemek Lazım](https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU) | 4:20 |
-| 39 | [Bodrum](https://open.spotify.com/track/33xcUviev85baFUelQYX9y) | [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND) | [Ele Güne Karşı Yapayalnız](https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4) | 3:57 |
+| 38 | [Bodrum](https://open.spotify.com/track/33xcUviev85baFUelQYX9y) | [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND) | [Ele Güne Karşı Yapayalnız](https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4) | 3:57 |
+| 39 | [Leyla & Mecnun](https://open.spotify.com/track/6npz2LNhco8qYAloW7lTMS) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg), [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Leyla & Mecnun](https://open.spotify.com/album/0qYuZyddQa4XOlroSkxkLc) | 3:02 |
 | 40 | [Sana Ne Dedi Zaman](https://open.spotify.com/track/54f1QKc16vMi3enzmChcIy) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW) | [Sana Ne Dedi Zaman](https://open.spotify.com/album/1Y0DAdqgQt6XDjKyXQVuFO) | 3:29 |
-| 41 | [Leyla & Mecnun](https://open.spotify.com/track/6npz2LNhco8qYAloW7lTMS) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg), [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Leyla & Mecnun](https://open.spotify.com/album/0qYuZyddQa4XOlroSkxkLc) | 3:02 |
-| 42 | [BOŞLUK](https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX) | [Büyük Ev Ablukada](https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi) | [FIRTINAYT](https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS) | 3:00 |
-| 43 | [Gördüm Günümü](https://open.spotify.com/track/0EkBcELE7lOOJqvWEDcW8l) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Demos](https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c) | 3:19 |
+| 41 | [BOŞLUK](https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX) | [Büyük Ev Ablukada](https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi) | [FIRTINAYT](https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS) | 3:00 |
+| 42 | [Gördüm Günümü](https://open.spotify.com/track/0EkBcELE7lOOJqvWEDcW8l) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Demos](https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c) | 3:19 |
+| 43 | [Şarkı Söylemek Lazım](https://open.spotify.com/track/3jZTq9IJuhKVbFR3GXtZ8e) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Şarkı Söylemek Lazım](https://open.spotify.com/album/1EslpWF9y4x0g6h8yfZLvU) | 4:20 |
 | 44 | [Kuzu Kuzu \(Akustik Version\)](https://open.spotify.com/track/6dcCXXpoqvumthffl42A4t) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuzu Kuzu](https://open.spotify.com/album/32fmr8WaoHl7XJXnlzyVyX) | 3:38 |
 | 45 | [ultrapop](https://open.spotify.com/track/3SOo2UUK8PxYmR6LdY75kz) | [Birileri](https://open.spotify.com/artist/1JSlQod7y9LeC8hWvQqQtR) | [ultrapop](https://open.spotify.com/album/0thtDIEtYW3boH2VL9M9uw) | 3:58 |
 | 46 | [Güneşe Dokundum \- Deep Mix](https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C), [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe) | [Güneşe Dokundum \(Deep Mix\)](https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o) | 2:30 |

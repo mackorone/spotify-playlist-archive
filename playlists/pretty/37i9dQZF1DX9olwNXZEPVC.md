@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 
 > NSWER! Change up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,957 likes - 81 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,982 likes - 81 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 | 13 | [Blue Valentine \(English Ver.\)](https://open.spotify.com/track/4J2toEhFzQlGomsnJJNia5) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/7kGFCiC7cvWU6OaqUPIF3i) | 3:06 |
 | 14 | [Blue Valentine \(A Cappella Ver.\)](https://open.spotify.com/track/6ZO7KaFkeMbl45q6UpPTBr) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/7kGFCiC7cvWU6OaqUPIF3i) | 3:06 |
 | 15 | [Blue Valentine \(Sped Up Ver.\)](https://open.spotify.com/track/6TuDKfuFwpmYDj3z4OgD6n) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/7kGFCiC7cvWU6OaqUPIF3i) | 2:30 |
-| 16 | [Up & Down](https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn) | [배이 \(NMIXX\)](https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo) | [제4차 사랑혁명 OST Part.1](https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC) | 4:04 |
+| 16 | [Up & Down](https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn) | [배이 \(NMIXX\)](https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo) | [제4차 사랑혁명 \(Original Sound Track\) Pt.1](https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC) | 4:04 |
 | 17 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 |
 | 18 | [MEXE \(feat\. Cobrah & NMIXX\)](https://open.spotify.com/track/3ndTI268AwL7PKYLoED1I2) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE \(Remix\)](https://open.spotify.com/album/0QBSKm7MWMs4zOBR3YkTm3) | 2:10 |
 | 19 | [MEXE \(feat\. NMIXX\) \- Miss Tacacá & LOFIHOUSEBOY Remix](https://open.spotify.com/track/6UZRp8FJsWWznIm8ZNel8h) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Miss Tacacá](https://open.spotify.com/artist/40e73C7eRwuY2FAXCmtKcS), [LOFIHOUSEBOY](https://open.spotify.com/artist/1A7biIyW7QBmOxe0MiYsM9), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE \(Remix\)](https://open.spotify.com/album/0QBSKm7MWMs4zOBR3YkTm3) | 2:39 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2745311,
+  "num_followers": 2745545,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAABpWwQowl+nNwBSf5G/E8MW",
+  "snapshot_id": "aSuJAAAAAABHtQ15ImQ6ZDT+CGHMHCuw",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 180902,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 206722,
       "name": "Paris, Texas (feat. SYML)",
       "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 180902,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 188828,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 264066,
       "name": "Lust For Life (with The Weeknd)",
       "url": "https://open.spotify.com/track/0mt02gJ425Xjm7c3jYkOBn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-251 songs - 14 hr 47 min
+252 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,9 +122,10 @@
 | [It Ain't Easy \(Korean Dream\) \(feat\. Jinbo\)](https://open.spotify.com/track/2w8VYMvlQckDeIBqmWRyM8) | [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [JINBO](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [Korean Dream](https://open.spotify.com/album/1CIUot979SnDkIqZVRkER2) | 4:33 | 2022-06-09 | 2022-07-07 |
 | [I’m fine \(With Sleepy, LOCO, Hoody\)](https://open.spotify.com/track/4pthvdNd1EypeNic7l5ngz) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Sleepy](https://open.spotify.com/artist/5qp3vJC5OdDo1Zsrsl3sIR), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [The hyena on the keyboard](https://open.spotify.com/album/62S9H2fOKaEZzgwQjOByY5) | 3:17 | 2022-05-23 | 2022-07-26 |
 | [Jasmine](https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Jasmine](https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk) | 3:21 | 2024-07-02 |  |
-| [Jenga \(feat\. Gaeko\)](https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:30 | 2024-08-05 |  |
+| [Jenga \(feat\. Gaeko\)](https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:30 | 2024-08-05 | 2025-12-02 |
 | [Joker \(Feat\. JAMIE\)](https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Bucket List](https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB) | 3:19 | 2024-07-02 |  |
 | [Just Like This \(Feat\. george\)](https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Just Like This](https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi) | 3:19 | 2022-05-23 | 2024-07-03 |
+| [just talking to myself](https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Hwa Sa Show Vol.1\] just talking to myself](https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim) | 2:49 | 2025-09-29 |  |
 | [Lee Rohan](https://open.spotify.com/track/3rAxf432sK5BAQFP33hw2t) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Padi](https://open.spotify.com/artist/71RcW8SwTjxaQeFuhZeslk) | [School Rapper2 Final](https://open.spotify.com/album/0ztaWFAYYrIq8bBOvudwuk) | 4:39 | 2022-05-23 | 2022-07-29 |
 | [Lee Rohan \(Prod\. by Padi\)](https://open.spotify.com/track/5MmDbUVKsC7GyFx03PYqUY) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [School Rapper 2 Final](https://open.spotify.com/album/6oX7tP4ac99NLogEHFn0WE) | 4:39 | 2022-07-22 | 2024-04-19 |
 | [Let the Story Begin](https://open.spotify.com/track/1dhNrL1x6pEteCzQj2kZ1j) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Let the Story Begin](https://open.spotify.com/album/3kczCNZComcAJmgDVKV6Xp) | 2:44 | 2022-05-23 | 2022-07-16 |

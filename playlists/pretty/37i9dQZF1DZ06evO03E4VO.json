@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAB0gpqRsU7swN8Ru3PjcJw2",
+  "snapshot_id": "aSuJAAAAAAAK8M7meG6WpmW1XmhYuMxr",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "wishlist",
+        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "last night",
         "url": "https://open.spotify.com/album/0CoGTbkwsNheCdBFtY4qBD"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 185409,
       "name": "papacito",
       "url": "https://open.spotify.com/track/1GNkILpn4KRDLTfgeewXqi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wishlist",
-        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 181480,
-      "name": "stfu (i got u)",
-      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
+      "duration_ms": 205626,
+      "name": "indica",
+      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
     },
     {
       "added_at": null,
@@ -420,25 +420,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 205626,
-      "name": "indica",
-      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "lips (Original Music from The L Word: Generation Q)",
-        "url": "https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "lips - Original Music from The L Word: Generation Q",
-      "url": "https://open.spotify.com/track/461V74msd3fIqrQyy4ZoqC"
+      "duration_ms": 181480,
+      "name": "stfu (i got u)",
+      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
     },
     {
       "added_at": null,
@@ -455,6 +439,22 @@
       "duration_ms": 155017,
       "name": "luna de miel",
       "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "lips (Original Music from The L Word: Generation Q)",
+        "url": "https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "lips - Original Music from The L Word: Generation Q",
+      "url": "https://open.spotify.com/track/461V74msd3fIqrQyy4ZoqC"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "antisocial butterfly",
+        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 87579,
+      "name": "back to you",
+      "url": "https://open.spotify.com/track/2Ir0OrTswTZwU7BUMVV620"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "running water",
         "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "antisocial butterfly",
-        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 87579,
-      "name": "back to you",
-      "url": "https://open.spotify.com/track/2Ir0OrTswTZwU7BUMVV620"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "malos h\u00e1bitos",
         "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
       },
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 173000,
-      "name": "me conquistaste",
-      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
+      "duration_ms": 212937,
+      "name": "saboteo",
+      "url": "https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 212937,
-      "name": "saboteo",
-      "url": "https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv"
+      "duration_ms": 173000,
+      "name": "me conquistaste",
+      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
     },
     {
       "added_at": null,

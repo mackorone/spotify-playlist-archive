@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-172 songs - 8 hr 58 min
+174 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Auld lang syne](https://open.spotify.com/track/0YdgUN2Am0zQzKY4eP6IsA) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Auld lang syne](https://open.spotify.com/album/2IZUszlSkfGgYD9wJRacEM) | 3:19 | 2022-11-24 | 2025-09-05 |
 | [Away in a Manger](https://open.spotify.com/track/0ijoOrD2bDk5O5OOZjZNP9) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [The Christmas EP](https://open.spotify.com/album/1paCT4WfqjlIk8VRfRQHjY) | 4:03 | 2021-12-17 |  |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/7jCljZFQGhUqK1dNPtfvMQ) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Baby, It's Cold Outside](https://open.spotify.com/album/3eSv2kdz0jDZl8Vx9Oiakt) | 2:24 | 2021-12-17 | 2023-10-21 |
+| [Blue Christmas](https://open.spotify.com/track/4LoYVomBj9x4eO3vPuq5wZ) | [Iris Faye](https://open.spotify.com/artist/37Q5rp3LYMmuM5JOTjFcL4) | [Blue Christmas](https://open.spotify.com/album/5Ex45Qpq67TW07vw1fCN2b) | 2:31 | 2025-12-01 |  |
 | [Blue Christmas \- Acoustic Version](https://open.spotify.com/track/4zuUC39UYTGdaCgZqK0HVe) | [Eliza May](https://open.spotify.com/artist/22iqZKWq4isF3MqNMZgCvm) | [Blue Christmas](https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh) | 3:10 | 2022-10-07 | 2025-09-05 |
 | [Carol of the Bells](https://open.spotify.com/track/0mZa0SSpNscGBpmXT5iKk4) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [December Songs](https://open.spotify.com/album/1FA4hRu48DNpVQQiEWmra3) | 1:57 | 2021-12-17 | 2022-07-29 |
 | [Carol of the Bells](https://open.spotify.com/track/0ooZTbadcxB1rWlFjQVMmB) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [December Songs](https://open.spotify.com/album/7IM5ffEXH19ulqrB8k3M8y) | 1:57 | 2021-12-17 | 2023-11-17 |
@@ -39,7 +40,7 @@
 | [Christmas Time](https://open.spotify.com/track/1TRNMWTrpFJMGwDMH9nFFz) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Christmas Time](https://open.spotify.com/album/2iIRXP2wEx1zdWwWHeqOBa) | 2:32 | 2021-12-17 | 2025-09-05 |
 | [Christmas Time Is Here](https://open.spotify.com/track/0mg3yp3E0yRfR8YtxcnAM3) | [Eric Lugosch](https://open.spotify.com/artist/5ZYM9VdgNhpltopFyFVLWc) | [New Tradition](https://open.spotify.com/album/6yKENjFqosRxw5cLw3GO9X) | 3:15 | 2021-12-17 | 2022-10-15 |
 | [Christmas Time Is Here](https://open.spotify.com/track/3rAaVjaPoRvFjhKYN5FGEv) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Christmas Time Is Here](https://open.spotify.com/album/411hIapXValKm4r5aFtJuM) | 2:46 | 2021-12-17 | 2022-10-15 |
-| [Christmas Was Here \(Acoustic\)](https://open.spotify.com/track/17ZarY8dLJmPrn21tVirZw) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Christmas Was Here \(Acoustic\)](https://open.spotify.com/album/6k1wuuV7p5ZNYvZzknYn7y) | 3:34 | 2021-12-17 |  |
+| [Christmas Was Here \(Acoustic\)](https://open.spotify.com/track/17ZarY8dLJmPrn21tVirZw) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Christmas Was Here \(Acoustic\)](https://open.spotify.com/album/6k1wuuV7p5ZNYvZzknYn7y) | 3:34 | 2021-12-17 | 2025-12-02 |
 | [Christmas Was Here \- Acoustic](https://open.spotify.com/track/4gwD6CSw69CzAKS3h9E95K) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Christmas Was Here \(Acoustic\)](https://open.spotify.com/album/7oqCUVREr1pAvBMqvqzQZi) | 3:34 | 2021-12-17 | 2024-04-19 |
 | [Christmas Will Break Your Heart](https://open.spotify.com/track/46HX2QBVsDbKcmphRlgx11) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Christmas Will Break Your Heart](https://open.spotify.com/album/6DVBDO5fk3gtvLF5lhNdvf) | 4:04 | 2022-10-24 | 2024-12-21 |
 | [Christmas With You](https://open.spotify.com/track/2ysxVaEF9ZSbEMPXsmXRlC) | [Ray Malta](https://open.spotify.com/artist/4JJfhrczAyLrZVz8RMn9rt) | [Christmas With You](https://open.spotify.com/album/48ZgIU14VZj0dsXwm5lm36) | 3:25 | 2021-12-17 |  |
@@ -172,6 +173,7 @@
 | [What Are You Doing New Years Eve](https://open.spotify.com/track/5HhcXgRU7kYszL7OQZtNlc) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:53 | 2021-12-17 | 2022-10-08 |
 | [What Child Is This](https://open.spotify.com/track/4vMeO6jafDMycnkrBvizrF) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The Light Came Down](https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl) | 3:52 | 2021-12-17 |  |
 | [When A Child Is Born](https://open.spotify.com/track/2UyBIhcJ5KlikoLSaSyG2p) | [Porcelain Heart](https://open.spotify.com/artist/5T2ff1LGUqwnUUt1J3Q9vg) | [When A Child Is Born](https://open.spotify.com/album/7sFPBfprmUMHIJDLrhZ4v6) | 2:37 | 2023-10-06 |  |
+| [When You Wish Upon A Star](https://open.spotify.com/track/7tNGPBaSo1mE4qBCdfQTQr) | [Sun Valley](https://open.spotify.com/artist/0070pgQUavlZcVICMUDyvL) | [When You Wish Upon A Star](https://open.spotify.com/album/71FqQOH6KW7o1PoXxm9Zqo) | 3:17 | 2025-12-01 |  |
 | [White Christmas](https://open.spotify.com/track/162vGpooHZzhRYDgmVL17b) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [White Christmas](https://open.spotify.com/album/0590p13JeOaXsRCl38lKPO) | 2:40 | 2021-12-17 | 2022-10-08 |
 | [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 | 2022-10-07 | 2023-11-11 |
 | [white christmas](https://open.spotify.com/track/26ivtKYwzmHuUAsQvDx7hh) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [white christmas](https://open.spotify.com/album/1Xw5gJEsHUa1uEVirBA09O) | 2:14 | 2023-11-10 |  |

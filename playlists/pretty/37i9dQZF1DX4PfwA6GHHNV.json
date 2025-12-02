@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22410,
+  "num_followers": 22417,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -211,26 +211,6 @@
     {
       "added_at": "2025-11-30 18:18:50",
       "album": {
-        "name": "Wallah Wallah",
-        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 142830,
-      "name": "Wallah Wallah",
-      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
-    },
-    {
-      "added_at": "2025-11-30 18:18:50",
-      "album": {
         "name": "M\u00e1s Que T\u00fa",
         "url": "https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 197081,
       "name": "M\u00e1s Que T\u00fa",
       "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
+    },
+    {
+      "added_at": "2025-11-30 18:18:50",
+      "album": {
+        "name": "Wallah Wallah",
+        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 142830,
+      "name": "Wallah Wallah",
+      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
     },
     {
       "added_at": "2025-11-30 18:18:50",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-11-30 18:18:50",
       "album": {
+        "name": "Fatal",
+        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 144940,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
+    },
+    {
+      "added_at": "2025-11-30 18:18:50",
+      "album": {
         "name": "Porta Aberta",
         "url": "https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 167853,
       "name": "Porta Aberta",
       "url": "https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5"
-    },
-    {
-      "added_at": "2025-11-30 18:18:50",
-      "album": {
-        "name": "Fatal",
-        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 144940,
-      "name": "Fatal",
-      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
     },
     {
       "added_at": "2025-11-30 18:18:50",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2025-11-30 18:18:50",
       "album": {
-        "name": "Dengo",
-        "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
-      },
-      "artists": [
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        },
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        }
-      ],
-      "duration_ms": 245841,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
-    },
-    {
-      "added_at": "2025-11-30 18:18:50",
-      "album": {
         "name": "Fora do Normal",
         "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 174000,
       "name": "Fora do Normal",
       "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
+    },
+    {
+      "added_at": "2025-11-30 18:18:50",
+      "album": {
+        "name": "Dengo",
+        "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
+      },
+      "artists": [
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        }
+      ],
+      "duration_ms": 245841,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
     },
     {
       "added_at": "2025-11-30 18:18:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 
 > This is Jamiroquai\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,574 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,612 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 49 | [Revolution 1993](https://open.spotify.com/track/2oQLlmcEzbbbwvcHLLKkz1) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 10:17 |
 | 50 | [Break My Heart / Cosmic Girl \(Dimitri From Paris Edit\) \[Mixed\]](https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Club Future Nostalgia \(DJ Mix\)](https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C) | 3:00 |
 
-Snapshot ID: `aSo3gAAAAAC6yYMgktt3cc2C2KFAF0VF`
+Snapshot ID: `aSuJAAAAAADMAR9fpagy+s4Ky3N3DgsD`

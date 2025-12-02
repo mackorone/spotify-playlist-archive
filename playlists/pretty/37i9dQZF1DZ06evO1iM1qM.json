@@ -1,12 +1,12 @@
 {
   "description": "This is John Coltrane. The essential tracks, all in one playlist.",
-  "num_followers": 217929,
+  "num_followers": 217961,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAABZuu/9H9vT3o/UNb22xC7g",
+  "snapshot_id": "aSuJAAAAAAC5zJ+n5nJ7cYW0DNoHc/W+",
   "tracks": [
     {
       "added_at": null,
@@ -423,34 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+        "name": "Coltrane's Sound",
+        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
           "name": "John Coltrane",
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 474626,
-      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
+      "duration_ms": 487279,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/1OtISG0K02k06m1BENey4H"
     },
     {
       "added_at": null,
@@ -483,18 +467,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coltrane's Sound",
-        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
       "artists": [
         {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
           "name": "John Coltrane",
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 487279,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/1OtISG0K02k06m1BENey4H"
+      "duration_ms": 474626,
+      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coltrane Jazz",
-        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 324493,
-      "name": "Village Blues",
-      "url": "https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 329986,
       "name": "The Feeling Of Jazz",
       "url": "https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coltrane Jazz",
+        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 324493,
+      "name": "Village Blues",
+      "url": "https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 267133,
-      "name": "Big Nick",
-      "url": "https://open.spotify.com/track/5PGnB8aUHVm6tvYRHy4i30"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 542400,
       "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "Big Nick",
+      "url": "https://open.spotify.com/track/5PGnB8aUHVm6tvYRHy4i30"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "Take The Coltrane",
-      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tenor Conclave",
         "url": "https://open.spotify.com/album/6jiJtqQZ1fKpxf7IhQ9ZGK"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 904493,
       "name": "How Deep Is The Ocean?",
       "url": "https://open.spotify.com/track/1xhjDUztnjD42UfY72Atg6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "Take The Coltrane",
+      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
     },
     {
       "added_at": null,

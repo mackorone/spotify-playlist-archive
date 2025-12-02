@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 
 > Allerbeste songs van de 90's! Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,407 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,417 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
 | 2 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
 | 3 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
-| 4 | [Stars](https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Collector's Edition\)](https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC) | 4:08 |
+| 4 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 |
 | 5 | [The Road Ahead \(Miles Of The Unknown\)](https://open.spotify.com/track/0MGMHRiLmoAurQLfKRKpcG) | [City To City](https://open.spotify.com/artist/7vDb491yruvfnR8vu2dH4o) | [The Road Ahead](https://open.spotify.com/album/1tUsiiCcTn7pZoa9Ypceak) | 4:06 |
-| 6 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 |
+| 6 | [Stars](https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Collector's Edition\)](https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC) | 4:08 |
 | 7 | [Bed Of Roses](https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq) | 6:34 |
 | 8 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 |
 | 9 | [The Power of Love](https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 5:42 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 92 | [Luv U More](https://open.spotify.com/track/4yW7EvENzT9PbPOJ3rCHzQ) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Super Dance Hits From The Nineties](https://open.spotify.com/album/2uyxV4sFOxo8Ool8FS5V5u) | 3:50 |
 | 93 | [Say What You Want](https://open.spotify.com/track/4MIB4aXVS0M0KNVcbQlyOP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [White On Blonde](https://open.spotify.com/album/6jYkl1sYBLOnqcNCeoEMAw) | 3:53 |
 | 94 | [Run To You](https://open.spotify.com/track/6jFOG89lRSnBD8QDExis0s) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Best Of Me](https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4) | 3:52 |
-| 95 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/10TwZnDyL3tfpwBV85Wevs) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The New Best Of \(All Hits & Remixes\) 2016](https://open.spotify.com/album/39gSR80KryAcX955TARfGg) | 3:53 |
-| 96 | [Would I Lie To You?](https://open.spotify.com/track/1A3iXoekVzV95cq89XiiuX) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Would I Lie To You](https://open.spotify.com/album/0LnItV3dnYTejvxvJsW20n) | 3:24 |
-| 97 | [Jesus He Knows Me](https://open.spotify.com/track/5WjHfw8Y5D947Qk5qw71YY) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Platinum Collection](https://open.spotify.com/album/3we7A7UllAuA6QH6U9jmHs) | 4:17 |
+| 95 | [Jesus He Knows Me](https://open.spotify.com/track/5WjHfw8Y5D947Qk5qw71YY) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Platinum Collection](https://open.spotify.com/album/3we7A7UllAuA6QH6U9jmHs) | 4:17 |
+| 96 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/10TwZnDyL3tfpwBV85Wevs) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The New Best Of \(All Hits & Remixes\) 2016](https://open.spotify.com/album/39gSR80KryAcX955TARfGg) | 3:53 |
+| 97 | [Would I Lie To You?](https://open.spotify.com/track/1A3iXoekVzV95cq89XiiuX) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Would I Lie To You](https://open.spotify.com/album/0LnItV3dnYTejvxvJsW20n) | 3:24 |
 | 98 | ['k Heb Je Lief](https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Lief](https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP) | 4:44 |
 | 99 | [Love Shine a Light](https://open.spotify.com/track/0WdBh2BQOq9U7PMk6sWzMz) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Love Shine a Light \(15th Anniversary Edition\)](https://open.spotify.com/album/29gNuIQQWjYgtsDOeoYkTk) | 3:07 |
 | 100 | [I've Been Thinking About You](https://open.spotify.com/track/3zjZaGqcepRo80Btq4C1x0) | [Londonbeat](https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn) | [Best! The Singles](https://open.spotify.com/album/45fP2Xav7Q8EvOWNXxSHVC) | 3:49 |

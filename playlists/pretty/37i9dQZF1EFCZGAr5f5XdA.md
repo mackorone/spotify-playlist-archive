@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,510 likes - 217 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,514 likes - 217 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,8 +199,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 189 | [DON'T SHOOT](https://open.spotify.com/track/30S2Wy2y1rdFE0pBKWBFJD) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:16 |
 | 190 | [diamonds](https://open.spotify.com/track/4ESFcKe9Dumyh85dwevUWc) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:59 |
 | 191 | [MY BOY](https://open.spotify.com/track/5lMgrOJ4bZdzVF5cuBHmId) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:23 |
-| 192 | [same girl](https://open.spotify.com/track/1Cpqs8mrymxFdFoZpllIf8) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:28 |
-| 193 | [Rocket Scientist](https://open.spotify.com/track/0kkGwRdBgeaZMnJazZr5II) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47) | 3:27 |
+| 192 | [Rocket Scientist](https://open.spotify.com/track/0kkGwRdBgeaZMnJazZr5II) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47) | 3:27 |
+| 193 | [same girl](https://open.spotify.com/track/1Cpqs8mrymxFdFoZpllIf8) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:28 |
 | 194 | [Promotion](https://open.spotify.com/track/35TuNK05rfmLYHsD8iNFOW) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 2:38 |
 | 195 | [DEFENSELESS](https://open.spotify.com/track/6BldH7peblFKnRUxHX0Ms8) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [DEFENSELESS](https://open.spotify.com/album/1iUmL0eYABJ74DcFBx6F7A) | 2:30 |
 | 196 | [Death of Me](https://open.spotify.com/track/0Vr3gBSB1ZXIf5BIBnyy9D) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 4:02 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 216 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 217 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `AcDAUAAAAAAGsDsER0v3foqxtfMqQmDT`
+Snapshot ID: `AcDF8AAAAACejg2F/OVzWLIhkIJqCs41`

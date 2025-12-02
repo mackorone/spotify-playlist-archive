@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,959 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,965 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 89 | [Ramona \(Englische Version\)](https://open.spotify.com/track/5zhoOwKWXYeHEIss16DK65) | [Blue Diamonds](https://open.spotify.com/artist/24Lps8ntSfwOszkZjDKhye) | [Ramona](https://open.spotify.com/album/39D5aGnLcMzH1PGVbh2iVk) | 2:34 |
 | 90 | [Lucy Lucy](https://open.spotify.com/track/1GxuFdqy4sypkNXMisSt6A) | [Amsterdam](https://open.spotify.com/artist/6TTSJIGLyzAX89uosF0Y6C) | [Golden Years Of Dutch Pop Music \- The Seventies Part 1](https://open.spotify.com/album/42oyZSne2OweDvqc6FbbXA) | 3:02 |
 | 91 | [World Of Birds](https://open.spotify.com/track/79BmVIS5V8haqoLTZhufXO) | [Q65](https://open.spotify.com/artist/2gaNCDWEC4FeANd9uJKelZ) | [Revolution](https://open.spotify.com/album/5NFeMu0ww7GFLk1qGWM3NJ) | 3:28 |
-| 92 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
-| 93 | [Meester Prikkebeen \- Live In Paradiso](https://open.spotify.com/track/0uObHr02DToIyUOFtJ0xZF) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Hele Tour \(Live 1669\-1997\)](https://open.spotify.com/album/5OBrTvVskylOXnZfCdLQsI) | 4:02 |
+| 92 | [Meester Prikkebeen \- Live In Paradiso](https://open.spotify.com/track/0uObHr02DToIyUOFtJ0xZF) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Hele Tour \(Live 1669\-1997\)](https://open.spotify.com/album/5OBrTvVskylOXnZfCdLQsI) | 4:02 |
+| 93 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
 | 94 | [Hi Ho Silver Lining \- First Stereo Mix](https://open.spotify.com/track/5l4N58q1RuZlvz6rzhsnmT) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [60s Icons](https://open.spotify.com/album/0Pnr1Qcf2SzEcFz6RnFYMC) | 3:18 |
 | 95 | [Keep On Trying](https://open.spotify.com/track/6VSXC6SvYdypAhGbjAADZa) | [The Outsiders](https://open.spotify.com/artist/0GNQIRU9f9Zf2aQqErkDYu) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/0yU3RDsvuuY2rtfmKUxDR8) | 2:58 |
 | 96 | [Golden Earrings](https://open.spotify.com/track/6Y2fPMHkSeMT3a7ojGIBE6) | [Frans Krassenburg](https://open.spotify.com/artist/29iQXirYC9nAv1M7ZOqcmb) | [Golden Years Of Dutch Pop Music \- The Sixties Part 2](https://open.spotify.com/album/6YX9hisdPCAHXQmF8vh0UW) | 1:59 |

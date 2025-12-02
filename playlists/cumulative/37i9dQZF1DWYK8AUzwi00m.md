@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-329 songs - 12 hr 42 min
+330 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Last Christmas](https://open.spotify.com/track/5nxiA9hklxQ7TOUOcKtDD0) | [Bflynn](https://open.spotify.com/artist/1dqYLAMpwMJc4uFKEzCwfN) | [Hbdj: A Lofi Christmas](https://open.spotify.com/album/4hV6jdo3WofAyY96RoIMe1) | 2:48 | 2021-12-20 | 2022-11-12 |
 | [Last Christmas](https://open.spotify.com/track/7oI18fYvFsZGJ20q1NG05s) | [Kris Kringle](https://open.spotify.com/artist/6MYYrraavGyfyHiV0HMGiU) | [A Lofi Christmas](https://open.spotify.com/album/4V4BG0eK6dGRVTR41PoUZb) | 2:36 | 2022-12-25 | 2023-10-20 |
 | [Last Christmas Lo\-Fi](https://open.spotify.com/track/0T11SuRD1LbPDj0QJZrSjE) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Last Christmas Lo\-Fi](https://open.spotify.com/album/1CoBx7PxXi70TtCustoOcq) | 2:08 | 2022-11-11 |  |
+| [Last Train Home](https://open.spotify.com/track/3nf9nlsB1rQjsrH4NrU9ic) | [reOrder](https://open.spotify.com/artist/1cAsz5HmLWJ2GWwinTnBG2), [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ) | [Last Train Home](https://open.spotify.com/album/1Qi82bk3Id0Je9aVf0BZnh) | 1:58 | 2025-12-01 |  |
 | [latenite](https://open.spotify.com/track/4eaNEchs8ADEH5XfhJlk8K) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 1:58 | 2021-12-20 | 2023-09-29 |
 | [latenite](https://open.spotify.com/track/5vSUFyNKpv64p2oIrcHqb9) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/6WYT84o6iLdOkuYTU6858W) | 1:58 | 2021-12-20 | 2022-07-29 |
 | [Let It Snow](https://open.spotify.com/track/6E8zwx9pDjufnHaldsBRdl) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas, Vol\. 2](https://open.spotify.com/album/0ZspmtfSbC2i4PTGtwZRMP) | 2:00 | 2021-12-20 | 2022-11-12 |
@@ -188,7 +189,7 @@
 | [Make It Slow](https://open.spotify.com/track/4e87lQjqF6Tat06dCc5dPG) | [Am Froggo](https://open.spotify.com/artist/1D9zRD0TQfQhCFDWz8XsAW) | [Make It Slow](https://open.spotify.com/album/1pSLWk5qlrHWZQS7SY0FSo) | 1:51 | 2022-12-16 |  |
 | [Making Christmas](https://open.spotify.com/track/7gitaC1lNa7WDVEMXX0jQF) | [Lenny Lips](https://open.spotify.com/artist/1Un95mJxAKS8tdA65bo5bz) | [Making Christmas](https://open.spotify.com/album/2MaBD3TKSjLY1dDRws9wDX) | 2:18 | 2022-11-11 | 2023-11-17 |
 | [Marshmallow World](https://open.spotify.com/track/0UU2xw7qhzjTrh6Ifr1wm3) | [Rexiphy](https://open.spotify.com/artist/2VBt6bj5gfN2M78KmEXzOK) | [Marshmallow World](https://open.spotify.com/album/27CLPf7kRjBBEcEPmVoE47) | 2:17 | 2022-11-11 | 2025-09-05 |
-| [Mary On A Cross](https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Mary On A Cross](https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM) | 2:24 | 2022-11-11 |  |
+| [Mary On A Cross](https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Mary On A Cross](https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM) | 2:24 | 2022-11-11 | 2025-12-02 |
 | [Mary's Boy Child](https://open.spotify.com/track/1R0mvLnoaalcSUnkmX0HfY) | [Haysway](https://open.spotify.com/artist/1mAXssFEZlSvaPUk8j37Jc) | [Haysway](https://open.spotify.com/album/5ZlR8BTWjgxzTGrjFSV24F) | 2:03 | 2022-11-11 | 2025-09-05 |
 | [Merry 'Lil Christmas](https://open.spotify.com/track/2vNjURpX7uHPUXJYqZbEXD) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 2:23 | 2022-11-11 | 2025-09-05 |
 | [merry christmas](https://open.spotify.com/track/0b68v7CtjEcjTCHUjOnhmD) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [orange blue](https://open.spotify.com/album/3ThHnxWZkHeOUmGNOzPxEW) | 1:36 | 2021-12-20 | 2022-11-12 |

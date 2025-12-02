@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,491 likes - 150 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,532 likes - 150 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 50 | [Hornworm Metamorphosis](https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hornworm Metamorphosis](https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK) | 1:44 |
 | 51 | [Truffles Sprinkles](https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Truffles Sprinkles](https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS) | 4:11 |
 | 52 | [BIPP \- Autechre Mx](https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [BIPP \(Autechre Mx\)](https://open.spotify.com/album/6gbZRfEsgrddPqFXXf0rqk) | 3:33 |
-| 53 | [Kompod](https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii) | 4:10 |
-| 54 | [Moodswing](https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Pure, Impure](https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o) | 5:47 |
+| 53 | [Moodswing](https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Pure, Impure](https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o) | 5:47 |
+| 54 | [Good Places](https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Good Places](https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8) | 4:26 |
 | 55 | [Dragonfly](https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Dragonfly](https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy) | 3:17 |
-| 56 | [Good Places](https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Good Places](https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8) | 4:26 |
-| 57 | [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 |
-| 58 | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0) | 5:04 |
+| 56 | [Kompod](https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii) | 4:10 |
+| 57 | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0) | 5:04 |
+| 58 | [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 |
 | 59 | [I Had Too Much to Dream Last Night](https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI) | [The Space Lady](https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF) | [The Space Lady's Greatest Hits](https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh) | 4:35 |
 | 60 | [She Moves She](https://open.spotify.com/track/4kenHKdPL2geBCAUrhkO5P) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Rounds](https://open.spotify.com/album/2H49BEjjzWluWjmy2k9tdQ) | 4:41 |
 | 61 | [Night And Day](https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX) | [Raymond Scott](https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt) | [Manhattan Research, Inc.](https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D) | 1:45 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 80 | [Delia Derbyshire](https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4) | [King Of Woolworths](https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd) | [L'illustration Musicale](https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1) | 6:10 |
 | 81 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
 | 82 | [Changing Tides](https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW) | [Hypernatural](https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER) | [Hypernatural](https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO) | 4:19 |
-| 83 | [Honsu](https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Candid](https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8) | 5:48 |
-| 84 | [Off\-Piste](https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Onism](https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0) | 4:36 |
+| 83 | [Off\-Piste](https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Onism](https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0) | 4:36 |
+| 84 | [Honsu](https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Candid](https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8) | 5:48 |
 | 85 | [Side Two](https://open.spotify.com/track/3pF1nA7Yman56XhJrVx619) | [Submotion Orchestra](https://open.spotify.com/artist/3ceOFG1q86nQVpJliylpgA) | [Side Two](https://open.spotify.com/album/41tCgU8N21F069SHpUn9CI) | 5:27 |
 | 86 | [Balani](https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq), [Vassilena Serafimova](https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv) | [Sequenza](https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t) | 5:44 |
 | 87 | [The Cheek of Daniel](https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Building Blocks, Pt\. 5](https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq) | 4:40 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 121 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
 | 122 | [Meridians](https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 4:43 |
 | 123 | [Ciutat de sorra \- Instrumental](https://open.spotify.com/track/43mIM61mitnuRzxRgttpek) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Ciutat de sorra](https://open.spotify.com/album/13kC4ZFHI7cl31iBomSpEA) | 11:44 |
-| 124 | [Bubbles](https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8) | [Szymon Burnos](https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu) | [Bubbles](https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb) | 4:26 |
-| 125 | [Z](https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Z](https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN) | 3:55 |
+| 124 | [Z](https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Z](https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN) | 3:55 |
+| 125 | [Bubbles](https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8) | [Szymon Burnos](https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu) | [Bubbles](https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb) | 4:26 |
 | 126 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw) | 4:16 |
 | 127 | [Thurs Jung Yout](https://open.spotify.com/track/0gG7H4snjFftZCReVrdZBj) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Thurs Jung Yout](https://open.spotify.com/album/00wPi6Nswwcpr7oZTcj5gQ) | 3:41 |
 | 128 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 |

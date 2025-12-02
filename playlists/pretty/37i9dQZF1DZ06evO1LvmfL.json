@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 448419,
+  "num_followers": 448581,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAADQDkH2b128Vg4PYMyG9BPb",
+  "snapshot_id": "aSuJAAAAAAA5I8223yV17b66t0CwpD1X",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You've Got Another Thing Coming (From the Netflix Series \"Nobody Wants This\" Season 2)",
-        "url": "https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 179086,
-      "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Stop Believin'",
         "url": "https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 248435,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You've Got Another Thing Coming (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 179086,
+      "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 176225,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/3WyUluIcDGvi2sCAOpiJUH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 216266,
       "name": "Allegedly (with Teddy Swims)",
       "url": "https://open.spotify.com/track/6X6O1AbGQqs7Dewftjpoz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 176225,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3WyUluIcDGvi2sCAOpiJUH"
     },
     {
       "added_at": null,

@@ -8,8 +8,8 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sinner](https://open.spotify.com/track/4qwSHwCU31Of1Bs6vYeMCr) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [Sinner](https://open.spotify.com/album/4axMZXb2TGodLS2WBfTrAP) | 3:57 |
-| 2 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:55 |
+| 1 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:55 |
+| 2 | [Sinner](https://open.spotify.com/track/4qwSHwCU31Of1Bs6vYeMCr) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [Sinner](https://open.spotify.com/album/4axMZXb2TGodLS2WBfTrAP) | 3:57 |
 | 3 | [Nobody's Bored Anymore](https://open.spotify.com/track/5JWrcgIzEcbTfgckcsoDzt) | [Peter The Human Boy](https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw) | [Nobody's Bored Anymore](https://open.spotify.com/album/4BHGL7XcEm50Vey9sEl14H) | 3:54 |
 | 4 | [Unwound](https://open.spotify.com/track/20ER1ZITjn4YAZ5y0vkzmM) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh) | [Happening](https://open.spotify.com/album/1AFBK10RHCuXnHXaTgyonQ) | 3:56 |
 | 5 | [Illusion](https://open.spotify.com/track/7xIn7IVilAeRAgZWMjwYif) | [cistern](https://open.spotify.com/artist/7sM22Nl4JNA6Ct0Egne7TM) | [Rhizome](https://open.spotify.com/album/56SmD1wh8ax8ry0xUq192u) | 2:50 |
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 29 | [New Normal](https://open.spotify.com/track/61jAKccL0Io1TZwHUt5C5W) | [moi Caprice](https://open.spotify.com/artist/4JAyjAoyJVu00gRAII8kF5) | [Vermilion Sands](https://open.spotify.com/album/2rtyEUERjxvOlAmanxp98y) | 4:11 |
 | 30 | [Night Drive](https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Day By Day](https://open.spotify.com/album/5RvCTlW4viz8e0ysvQCD9n) | 4:57 |
 | 31 | [Onto the Ground](https://open.spotify.com/track/6GZq4JRxB03Zv629MuAKUw) | [Adelyn Strei](https://open.spotify.com/artist/5BuqUDWPCLseZe93CMD6VK) | [Onto the Ground](https://open.spotify.com/album/5MOioD69SPVbOCtHAhzHXc) | 3:18 |
-| 32 | [Corner](https://open.spotify.com/track/6fwFZRJI9dh051vw6FZuvY) | [Hank Bee](https://open.spotify.com/artist/5nhxIq9KHK2pnfB4T7URxn) | [Corner](https://open.spotify.com/album/3145QFnV2bzTv6WtljzmZW) | 4:42 |
-| 33 | [Sweet Dreams \(In The Parking Lot\)](https://open.spotify.com/track/4Rs30SPDo33dzxsk5EWCS7) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/5RK1P6CcqLfAeHlgA8I6oH) | 3:29 |
-| 34 | [It's Lovely, Come On In](https://open.spotify.com/track/6vYoqwpLLtvfeRTo3gweoN) | [thredd](https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC) | [It’s Lovely, Come On In](https://open.spotify.com/album/0uung5O3PIXVTcnwzaxV9v) | 3:19 |
-| 35 | [Upstairs](https://open.spotify.com/track/6MqxX7EHryy2GT80oFmcc8) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Upstairs](https://open.spotify.com/album/2ifeSZftoVMNM6guOjo2SG) | 3:39 |
-| 36 | [The Glare](https://open.spotify.com/track/4qkljkzhjaQpcbOiPC1gSy) | [SLEEP CLUB](https://open.spotify.com/artist/0NBe4HGx3FYEnU5fGt1I9L) | [The Glare](https://open.spotify.com/album/05HQMri9UjyZK04WFj9Ck8) | 5:09 |
-| 37 | [Redwood](https://open.spotify.com/track/2WQ76gwKeTx10FmNuALROJ) | [Tiberius](https://open.spotify.com/artist/0q9oSteVaQ1lK7LvYMJCdq) | [Troubadour](https://open.spotify.com/album/6mAjZOk2RimjCuwUqreYDE) | 5:15 |
+| 32 | [Sweet Dreams \(In The Parking Lot\)](https://open.spotify.com/track/4Rs30SPDo33dzxsk5EWCS7) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/5RK1P6CcqLfAeHlgA8I6oH) | 3:29 |
+| 33 | [It's Lovely, Come On In](https://open.spotify.com/track/6vYoqwpLLtvfeRTo3gweoN) | [thredd](https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC) | [It’s Lovely, Come On In](https://open.spotify.com/album/0uung5O3PIXVTcnwzaxV9v) | 3:19 |
+| 34 | [Upstairs](https://open.spotify.com/track/6MqxX7EHryy2GT80oFmcc8) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Upstairs](https://open.spotify.com/album/2ifeSZftoVMNM6guOjo2SG) | 3:39 |
+| 35 | [The Glare](https://open.spotify.com/track/4qkljkzhjaQpcbOiPC1gSy) | [SLEEP CLUB](https://open.spotify.com/artist/0NBe4HGx3FYEnU5fGt1I9L) | [The Glare](https://open.spotify.com/album/05HQMri9UjyZK04WFj9Ck8) | 5:09 |
+| 36 | [Redwood](https://open.spotify.com/track/2WQ76gwKeTx10FmNuALROJ) | [Tiberius](https://open.spotify.com/artist/0q9oSteVaQ1lK7LvYMJCdq) | [Troubadour](https://open.spotify.com/album/6mAjZOk2RimjCuwUqreYDE) | 5:15 |
+| 37 | [Corner](https://open.spotify.com/track/6fwFZRJI9dh051vw6FZuvY) | [Hank Bee](https://open.spotify.com/artist/5nhxIq9KHK2pnfB4T7URxn) | [Corner](https://open.spotify.com/album/3145QFnV2bzTv6WtljzmZW) | 4:42 |
 | 38 | [zero for conduct, pt\. 2](https://open.spotify.com/track/5ecqvmjCH0zj3L370iwsMQ) | [semiwestern](https://open.spotify.com/artist/4hfCqI8H72nfxJXR8Ic55n) | [semiwestern](https://open.spotify.com/album/1EWt0Ia5eRyycdg1Dgv8dP) | 3:33 |
 | 39 | [Holy Roller](https://open.spotify.com/track/0H1CwgfjrKhvico6jnF1gF) | [Hiding Places](https://open.spotify.com/artist/2BljwD6LPxBQow3klxFIIJ) | [Holy Roller](https://open.spotify.com/album/7iawYqJVw8jswzwJHY3Yb2) | 4:38 |
 | 40 | [Spinning Out](https://open.spotify.com/track/7K45g9ZWJfxJhXTxZUIFaw) | [Taraneh](https://open.spotify.com/artist/7IoTiUNmwPOdUCPlNtezaO) | [Spinning Out](https://open.spotify.com/album/43Zwqb1bFUytuUm9sBgQXQ) | 3:47 |
@@ -342,4 +342,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 332 | [greaser \(panda bear version\)](https://open.spotify.com/track/7Dx2ZULFEpBUNU1hlSzNu7) | [The Crying Nudes](https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [greaser \(panda bear version\)](https://open.spotify.com/album/0eoyY6G0EsIzP1cyQ0sDnk) | 2:24 |
 | 333 | [Chasm Keeper](https://open.spotify.com/track/0zccFOS4RVSOpyaoAnkQtG) | [Run It Still](https://open.spotify.com/artist/43CIMMw7qY2b52634bjPOy) | [Chasm Keeper](https://open.spotify.com/album/1wqpOHUP4cA2k7S2LjblyT) | 2:45 |
 
-Snapshot ID: `AAApuT04aBz52A0NQ0Oro4GsliUEl+o5`
+Snapshot ID: `AAApu9e5KRD34G7utgSiJh55kh8QkPs0`

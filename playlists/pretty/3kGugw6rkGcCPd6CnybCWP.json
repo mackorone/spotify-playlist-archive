@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAManRwIOr2AI4VDnjYdH+r2ZfwmbWd",
+  "snapshot_id": "AAAMfXJ9UCdPuwrAJOoF8o2T9MjXxWhx",
   "tracks": [
     {
       "added_at": "2025-10-30 09:11:29",
@@ -23,22 +23,6 @@
       "duration_ms": 210183,
       "name": "Coca Cola",
       "url": "https://open.spotify.com/track/3SZmF1bX0bCw5U0rKZHq8P"
-    },
-    {
-      "added_at": "2025-10-30 11:24:07",
-      "album": {
-        "name": "Murder Parade",
-        "url": "https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw"
-      },
-      "artists": [
-        {
-          "name": "FYNN",
-          "url": "https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "Murder Parade",
-      "url": "https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0"
     },
     {
       "added_at": "2025-10-17 10:25:54",
@@ -71,6 +55,22 @@
       "duration_ms": 255737,
       "name": "Call Your Mama (Don't Call Me)",
       "url": "https://open.spotify.com/track/4b2xYezRYlT9jf6nKxPOwT"
+    },
+    {
+      "added_at": "2025-10-30 11:24:07",
+      "album": {
+        "name": "Murder Parade",
+        "url": "https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw"
+      },
+      "artists": [
+        {
+          "name": "FYNN",
+          "url": "https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf"
+        }
+      ],
+      "duration_ms": 139493,
+      "name": "Murder Parade",
+      "url": "https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0"
     },
     {
       "added_at": "2025-10-30 09:18:40",
@@ -185,106 +185,6 @@
       "url": "https://open.spotify.com/track/5tyaldDDAxuXHfmMbGY6nQ"
     },
     {
-      "added_at": "2025-10-24 11:46:10",
-      "album": {
-        "name": "It Keeps",
-        "url": "https://open.spotify.com/album/7fF7TJmT7Q2CxN9wTmB60J"
-      },
-      "artists": [
-        {
-          "name": "Quarter Short",
-          "url": "https://open.spotify.com/artist/5Bfa4fJtEIH2cZH5uu4xmv"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "It Keeps",
-      "url": "https://open.spotify.com/track/2VJwP0nOIdaIQTTadQY8oF"
-    },
-    {
-      "added_at": "2025-10-23 23:29:08",
-      "album": {
-        "name": "Icarus Waltz",
-        "url": "https://open.spotify.com/album/1wezJ1s8GGRj9dgPHOWJD4"
-      },
-      "artists": [
-        {
-          "name": "FYNN",
-          "url": "https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf"
-        }
-      ],
-      "duration_ms": 168473,
-      "name": "Icarus Waltz",
-      "url": "https://open.spotify.com/track/37qu1BN6eNFBhLQzw5yL6H"
-    },
-    {
-      "added_at": "2025-10-24 10:09:51",
-      "album": {
-        "name": "The Dogwood",
-        "url": "https://open.spotify.com/album/3irhwWwqeNRizO3LaoRoWB"
-      },
-      "artists": [
-        {
-          "name": "The Dogwood",
-          "url": "https://open.spotify.com/artist/4tTo9dVmw8bT7GFAzRNxPv"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/6EDdWIIOStvysXHsMSpIUb"
-    },
-    {
-      "added_at": "2025-10-24 11:46:22",
-      "album": {
-        "name": "What If I?",
-        "url": "https://open.spotify.com/album/1Tm4s3KBW0JPVlX2Rbz2fj"
-      },
-      "artists": [
-        {
-          "name": "Simon Joan",
-          "url": "https://open.spotify.com/artist/0SdTqn4C90rxbSm4GUwGCk"
-        }
-      ],
-      "duration_ms": 170770,
-      "name": "What If I?",
-      "url": "https://open.spotify.com/track/1DP5UjFVGHQsob2fEo55eg"
-    },
-    {
-      "added_at": "2025-10-30 10:35:51",
-      "album": {
-        "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/0ujvM076fa316cZxoI9QLC"
-      },
-      "artists": [
-        {
-          "name": "Burnside",
-          "url": "https://open.spotify.com/artist/5QTKzZAlVEB7bDRbls3Saf"
-        }
-      ],
-      "duration_ms": 218485,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/0AqnRH9UZihcBNyNR2ig0I"
-    },
-    {
-      "added_at": "2025-10-24 10:08:35",
-      "album": {
-        "name": "ghosts",
-        "url": "https://open.spotify.com/album/4tW9xXJfd8clfBULDOWUvR"
-      },
-      "artists": [
-        {
-          "name": "Lorelai Paige",
-          "url": "https://open.spotify.com/artist/3HVWZoxdlflhNpe04Np1tD"
-        },
-        {
-          "name": "Darcy Saint",
-          "url": "https://open.spotify.com/artist/5mUgRZ7Xvd0tgIL7miDJl6"
-        }
-      ],
-      "duration_ms": 237687,
-      "name": "ghosts",
-      "url": "https://open.spotify.com/track/27ynxg5Ze6q2zWFl1fJPfh"
-    },
-    {
       "added_at": "2025-11-04 14:47:32",
       "album": {
         "name": "Hamster Wheel",
@@ -301,164 +201,20 @@
       "url": "https://open.spotify.com/track/1HVZRpGwLyDY4VmNCGTaqY"
     },
     {
-      "added_at": "2025-10-24 11:45:46",
+      "added_at": "2025-10-23 23:29:08",
       "album": {
-        "name": "Strange Addiction",
-        "url": "https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R"
+        "name": "Icarus Waltz",
+        "url": "https://open.spotify.com/album/1wezJ1s8GGRj9dgPHOWJD4"
       },
       "artists": [
         {
-          "name": "Taylor D",
-          "url": "https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg"
+          "name": "FYNN",
+          "url": "https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Strange Addiction",
-      "url": "https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W"
-    },
-    {
-      "added_at": "2025-10-24 10:10:01",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/1RpsbQ26lwGS3tWYCRsB1q"
-      },
-      "artists": [
-        {
-          "name": "Holly Wild",
-          "url": "https://open.spotify.com/artist/1gwRWwDueKmMcxHLX5ttmC"
-        }
-      ],
-      "duration_ms": 204938,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6AYMMXHitROsSNE6KxQz9I"
-    },
-    {
-      "added_at": "2025-10-27 22:44:01",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/6yjxqvOUnOQRiIpi4MtEHN"
-      },
-      "artists": [
-        {
-          "name": "Cold Equations",
-          "url": "https://open.spotify.com/artist/2axEJPob8hT3XbjX72Npii"
-        }
-      ],
-      "duration_ms": 251381,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/0DubPnJ1rX0O1dIBiAihPZ"
-    },
-    {
-      "added_at": "2025-10-24 11:47:16",
-      "album": {
-        "name": "Demons Move In Shadows",
-        "url": "https://open.spotify.com/album/4E41VvlBG39lwOv13sCdPw"
-      },
-      "artists": [
-        {
-          "name": "Numsig",
-          "url": "https://open.spotify.com/artist/1Ws1YsRvDtL3gqKgrbY0Ju"
-        }
-      ],
-      "duration_ms": 181043,
-      "name": "Demons Move In Shadows",
-      "url": "https://open.spotify.com/track/4zqdjaBlB7Ob2bo1MiAPXu"
-    },
-    {
-      "added_at": "2025-10-30 09:53:51",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2FlV7b52TOFYQvZQidpA5e"
-      },
-      "artists": [
-        {
-          "name": "Barranquismo",
-          "url": "https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4hifOPhb7I7Lqk1QxzTViF"
-    },
-    {
-      "added_at": "2025-10-24 10:10:51",
-      "album": {
-        "name": "MASKARA",
-        "url": "https://open.spotify.com/album/4Lxs8ix1Y1kGX3UO7sOfMp"
-      },
-      "artists": [
-        {
-          "name": "Se7enth Fret",
-          "url": "https://open.spotify.com/artist/1RHTImcBpYt4lt58OJp938"
-        }
-      ],
-      "duration_ms": 219019,
-      "name": "MASKARA",
-      "url": "https://open.spotify.com/track/5o9Gq3MdlkkMYamhtnLigy"
-    },
-    {
-      "added_at": "2025-10-24 10:11:42",
-      "album": {
-        "name": "nowhere",
-        "url": "https://open.spotify.com/album/00jJdhjPWVtce0Uiygt6AB"
-      },
-      "artists": [
-        {
-          "name": "PUNKFICTION",
-          "url": "https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "nowhere",
-      "url": "https://open.spotify.com/track/52acR4SFKkSmmZX0vIJsUG"
-    },
-    {
-      "added_at": "2025-10-24 11:45:36",
-      "album": {
-        "name": "aftermath",
-        "url": "https://open.spotify.com/album/3YF6DBphL3fpTWSVrIj2Og"
-      },
-      "artists": [
-        {
-          "name": "North Shy",
-          "url": "https://open.spotify.com/artist/2A3nZ5WhiMaBI2NgsXa4aV"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "i've",
-      "url": "https://open.spotify.com/track/46CHFOn4ayNjzKQ31B7sbM"
-    },
-    {
-      "added_at": "2025-10-27 09:17:19",
-      "album": {
-        "name": "Days, Years & Months",
-        "url": "https://open.spotify.com/album/1U63ykUIU3haPpDKQtNvZB"
-      },
-      "artists": [
-        {
-          "name": "Elandra",
-          "url": "https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK"
-        }
-      ],
-      "duration_ms": 319000,
-      "name": "Days, Years & Months",
-      "url": "https://open.spotify.com/track/45nZXh0QNDfot6DifudLZe"
-    },
-    {
-      "added_at": "2025-10-24 14:02:11",
-      "album": {
-        "name": "Yes I Hope",
-        "url": "https://open.spotify.com/album/6vGfjWBItGXGUcbGpOAuft"
-      },
-      "artists": [
-        {
-          "name": "Roots Habits",
-          "url": "https://open.spotify.com/artist/6jCRadZaIZtiXstamJAyJX"
-        }
-      ],
-      "duration_ms": 219636,
-      "name": "Yes I Hope",
-      "url": "https://open.spotify.com/track/4nYjSNumkVBOWJl7xbImKq"
+      "duration_ms": 168473,
+      "name": "Icarus Waltz",
+      "url": "https://open.spotify.com/track/37qu1BN6eNFBhLQzw5yL6H"
     },
     {
       "added_at": "2025-10-24 14:02:49",
@@ -831,22 +587,6 @@
       "duration_ms": 207786,
       "name": "Emily's Song",
       "url": "https://open.spotify.com/track/5x8AB0H9SrB2BDY05o8iqv"
-    },
-    {
-      "added_at": "2025-11-03 15:39:38",
-      "album": {
-        "name": "Friday Night",
-        "url": "https://open.spotify.com/album/4xy9aR4N9jINMWqrGDoxty"
-      },
-      "artists": [
-        {
-          "name": "Up Too Late",
-          "url": "https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/1iLAJCSGufM6kFwQmEsAsy"
     },
     {
       "added_at": "2025-11-04 12:52:03",

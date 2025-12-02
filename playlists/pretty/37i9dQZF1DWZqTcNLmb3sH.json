@@ -1,13 +1,37 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : 45",
-  "num_followers": 66000,
+  "num_followers": 66010,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMSlJsISFuitFvQeZMRlqNQNbj/H",
+  "snapshot_id": "AAAAALebS+hHb8GNf4XWajCxPow+p+g1",
   "tracks": [
+    {
+      "added_at": "2025-12-01 06:47:42",
+      "album": {
+        "name": "Patho Song (From \"Cult\")",
+        "url": "https://open.spotify.com/album/3JoDohl3KkexZMbWuLLcML"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Anilkumar T M",
+          "url": "https://open.spotify.com/artist/4jkXKqxpj1Wfsf0rggCIM4"
+        },
+        {
+          "name": "Nishan Rai",
+          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
+        }
+      ],
+      "duration_ms": 321600,
+      "name": "Patho Song (From \"Cult\")",
+      "url": "https://open.spotify.com/track/2FIgdFwhhemmcOLdQoRLY8"
+    },
     {
       "added_at": "2025-11-03 10:55:48",
       "album": {
@@ -59,6 +83,82 @@
       "duration_ms": 220909,
       "name": "Madana Mana Mohini",
       "url": "https://open.spotify.com/track/5bb0ZYVXHqc2KMRMoGlXka"
+    },
+    {
+      "added_at": "2025-12-01 06:51:37",
+      "album": {
+        "name": "Miracle (From \"Bank Of Bhagyalakshmi\")",
+        "url": "https://open.spotify.com/album/1GLzX2OIp5pA7BPg0XmChJ"
+      },
+      "artists": [
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        },
+        {
+          "name": "Varun Ramachandra",
+          "url": "https://open.spotify.com/artist/5UayLxcBFJpD03u2qihj84"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Miracle (From \"Bank Of Bhagyalakshmi\")",
+      "url": "https://open.spotify.com/track/0NI2MqJM8zwlmtUSmh3oT5"
+    },
+    {
+      "added_at": "2025-12-01 06:49:10",
+      "album": {
+        "name": "Nanna Ninna Preeti Saakara (From \"GST - GhostS In Trouble\")",
+        "url": "https://open.spotify.com/album/0XO1pytuVgcCzATYZlKJU2"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Srujan Lokesh",
+          "url": "https://open.spotify.com/artist/3wSV94HTc49XYhVAAJxiWQ"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Sneha Hegde",
+          "url": "https://open.spotify.com/artist/07MKY39asvporUMtVctKLQ"
+        }
+      ],
+      "duration_ms": 198139,
+      "name": "Nanna Ninna Preeti Saakara (From \"GST - GhostS In Trouble\")",
+      "url": "https://open.spotify.com/track/7aJfj9SltyZAcyKrcL0LWY"
+    },
+    {
+      "added_at": "2025-12-01 06:46:11",
+      "album": {
+        "name": "Konane (From \"Lo Naveena\")",
+        "url": "https://open.spotify.com/album/6ulx2vvlTfrNZTPkhI33V6"
+      },
+      "artists": [
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        },
+        {
+          "name": "Lakshamamma",
+          "url": "https://open.spotify.com/artist/3yenfm1hcAvsqYsv7VBhs5"
+        },
+        {
+          "name": "Chaamamma",
+          "url": "https://open.spotify.com/artist/60I6DriVWaha4f7GSmy3SI"
+        }
+      ],
+      "duration_ms": 211455,
+      "name": "Konane (From \"Lo Naveena\")",
+      "url": "https://open.spotify.com/track/2HRV8RXeUwP2afJVEvoBX7"
     },
     {
       "added_at": "2025-11-24 07:57:05",
@@ -1581,30 +1681,6 @@
       "url": "https://open.spotify.com/track/3VkPUqq3SlTPMSutA7kpLQ"
     },
     {
-      "added_at": "2025-10-23 10:20:40",
-      "album": {
-        "name": "Eduralli Neenu",
-        "url": "https://open.spotify.com/album/4khrp8pvpQqQjQjcmQH4Up"
-      },
-      "artists": [
-        {
-          "name": "Keshav Anand",
-          "url": "https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K"
-        },
-        {
-          "name": "Veer Samarth",
-          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
-        },
-        {
-          "name": "Sai Sarvesh",
-          "url": "https://open.spotify.com/artist/0kJH0vVsNOyRSISjHfszWf"
-        }
-      ],
-      "duration_ms": 205782,
-      "name": "Eduralli Neenu",
-      "url": "https://open.spotify.com/track/3MiD5s6E09yxgZfv09ayT0"
-    },
-    {
       "added_at": "2025-08-27 04:34:29",
       "album": {
         "name": "Nanna Putta Loka (From \"I Am God\")",
@@ -1675,62 +1751,6 @@
       "duration_ms": 273060,
       "name": "Ye Maaraya (From \"Maarnami\")",
       "url": "https://open.spotify.com/track/6ecSweaP66csLutu7jQzjo"
-    },
-    {
-      "added_at": "2025-09-15 06:39:45",
-      "album": {
-        "name": "Adu Chandada Kaala (From \"Andondittu Kaala\")",
-        "url": "https://open.spotify.com/album/64d889pmV4GpoMSO9SjIAy"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
-        },
-        {
-          "name": "Raghavendra V.",
-          "url": "https://open.spotify.com/artist/2qHM0nk3k1cTu0u3VcgGrQ"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Adu Chandada Kaala - From \"Andondittu Kaala\"",
-      "url": "https://open.spotify.com/track/2MotObicUvqXxECGoP37KF"
-    },
-    {
-      "added_at": "2025-09-29 09:36:48",
-      "album": {
-        "name": "Mungundada Madeshwara (From \"Suri Anna\")",
-        "url": "https://open.spotify.com/album/20EeAeZrhcP6rq5YWnIrY4"
-      },
-      "artists": [
-        {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        },
-        {
-          "name": "K M Indra",
-          "url": "https://open.spotify.com/artist/1HRov4LMMUOKlNdHvvbVHi"
-        },
-        {
-          "name": "Dinesh Kumar D",
-          "url": "https://open.spotify.com/artist/5WI1GqDyd9zX3MFQcWCGM5"
-        },
-        {
-          "name": "Rapper Vishwaji",
-          "url": "https://open.spotify.com/artist/1twAMi5qaxeLkXPq1otE8e"
-        },
-        {
-          "name": "Patho Prajju",
-          "url": "https://open.spotify.com/artist/57Q98zoVSVKiOmRkdUTX8a"
-        }
-      ],
-      "duration_ms": 264492,
-      "name": "Mungundada Madeshwara (From \"Suri Anna\")",
-      "url": "https://open.spotify.com/track/0YOIv2Cnu2gSOWj4FCka7j"
     },
     {
       "added_at": "2025-10-23 10:34:24",
@@ -1823,34 +1843,6 @@
       "duration_ms": 230442,
       "name": "Suddi Ellade Modala Preethi (From \"Rashi\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/3o1Cf2sqYvzerhtWybo9T2"
-    },
-    {
-      "added_at": "2025-09-19 07:21:51",
-      "album": {
-        "name": "Veera Naaga (From \"Lokah - Chapter 1: Chandra\")",
-        "url": "https://open.spotify.com/album/6EPjHpSnjcbWwlEMdUfpud"
-      },
-      "artists": [
-        {
-          "name": "JK",
-          "url": "https://open.spotify.com/artist/0CS2KzsuCXswXNnu7Up7b9"
-        },
-        {
-          "name": "Anirudh Suswaram",
-          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
-        },
-        {
-          "name": "Anila Rajeev",
-          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
-        },
-        {
-          "name": "Hridaya Shiva",
-          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
-        }
-      ],
-      "duration_ms": 253228,
-      "name": "Veera Naaga (From \"Lokah - Chapter 1: Chandra\")",
-      "url": "https://open.spotify.com/track/5qJkL2KbVhJPVTYiTxc5A3"
     },
     {
       "added_at": "2025-09-15 06:43:59",

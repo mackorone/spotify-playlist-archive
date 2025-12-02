@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,149 likes - 48 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,143 likes - 48 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 30 | [Que Bueno Baila Usted](https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [The Most From Beny More](https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy) | 3:16 |
 | 31 | [Esto te pone la cabeza mala](https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Te pone la cabeza mala](https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v) | 4:08 |
 | 32 | [La Gozadera](https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ) | [Yoruba Andabo](https://open.spotify.com/artist/3oh2Q089hI70VBBGnIz76m) | [El Espíritu de la Rumba](https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc) | 6:47 |
-| 33 | [El Paso de la Bailerina](https://open.spotify.com/track/6RO3JijdGFvGbIyw1HknsK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Pasaporte](https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv) | 5:53 |
-| 34 | [Agua Pa'yemayá](https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z) | [¿De Qué Estamos Hablando?](https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy) | 5:23 |
+| 33 | [Agua Pa'yemayá](https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z) | [¿De Qué Estamos Hablando?](https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy) | 5:23 |
+| 34 | [El Paso de la Bailerina](https://open.spotify.com/track/6RO3JijdGFvGbIyw1HknsK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Pasaporte](https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv) | 5:53 |
 | 35 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 |
 | 36 | [Señora](https://open.spotify.com/track/7jaeXpnMexADJXoIsMfS21) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [El Charanguero Mayor](https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4) | 6:32 |
 | 37 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 43 | [Soy Cubana](https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F) | [Son Damas](https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM) | [Bailables de Cuba, Vol\. 2](https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX) | 5:09 |
 | 44 | [Esa Soy Yo](https://open.spotify.com/track/0M447oJEDm0pE8QDqbQlfi) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z) | [La Aplanadora de Cuba](https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG) | 5:03 |
 | 45 | [Que Tiene Que Te Mueve](https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:32 |
-| 46 | [La Preferencia](https://open.spotify.com/track/2qzE1R69r7RatHTEj5zRR9) | [El Noro y Primera Clase](https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf) | [Sin Escala](https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9) | 5:58 |
-| 47 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
+| 46 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
+| 47 | [La Preferencia](https://open.spotify.com/track/2qzE1R69r7RatHTEj5zRR9) | [El Noro y Primera Clase](https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf) | [Sin Escala](https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9) | 5:58 |
 | 48 | [Prohibido](https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu) | [Prohibido](https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM) | 4:25 |
 
 Snapshot ID: `AAAAAME7JTm/rRxN4AIzxxlRW06DzwzE`

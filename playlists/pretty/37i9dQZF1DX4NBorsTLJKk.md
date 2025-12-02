@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,577 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,581 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 13 | [藍雨](https://open.spotify.com/track/6xJggWssdiq6VaFK13MXYB) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [真愛 新曲 + 真正精選](https://open.spotify.com/album/2yt1DMuGmxNqy1D5uuwmwW) | 4:16 |
 | 14 | [雨下一整晚](https://open.spotify.com/track/4p4hiHUJCGKvHTGEFu0ruS) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/7oz7WhrdSfsC3GkAUPOzgL) | 4:16 |
 | 15 | [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 |
-| 16 | [雨櫻花](https://open.spotify.com/track/3ZxKUt8nudvrJbUvX0haHJ) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛行部落](https://open.spotify.com/album/4QUDMVhCj9fDvJSyiXzZNy) | 4:31 |
-| 17 | [雨沒停過](https://open.spotify.com/track/4CjsfB0jDEgLcAXrlOyFmR) | [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [你所不知道的杜振熙之內部整修](https://open.spotify.com/album/5bQhqKf8GVKyOj7Py0SoIS) | 4:45 |
+| 16 | [雨沒停過](https://open.spotify.com/track/4CjsfB0jDEgLcAXrlOyFmR) | [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [你所不知道的杜振熙之內部整修](https://open.spotify.com/album/5bQhqKf8GVKyOj7Py0SoIS) | 4:45 |
+| 17 | [雨櫻花](https://open.spotify.com/track/3ZxKUt8nudvrJbUvX0haHJ) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛行部落](https://open.spotify.com/album/4QUDMVhCj9fDvJSyiXzZNy) | 4:31 |
 | 18 | [困在你的雨季](https://open.spotify.com/track/55FH2IppgtrkshTrP5nylB) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [困在你的雨季](https://open.spotify.com/album/5rS5GxnBfGh0FvxFzhviRC) | 4:32 |
 | 19 | [分手總要在雨天](https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [等你等到我心痛精選](https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f) | 4:48 |
 | 20 | [藍色雨](https://open.spotify.com/track/7nS59WO3gYTDOMM0l4p6sf) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj) | [藍色雨](https://open.spotify.com/album/0rxL1PxAXQ5bG4ay0V1viU) | 4:55 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 62 | [怎麼又是下雨天](https://open.spotify.com/track/4ytwN2vT5kMdki4LmmHpKS) | [Ken Deng 肯鄧](https://open.spotify.com/artist/67WEyeIvKyJEX30EzqrXoC), [NaiXin](https://open.spotify.com/artist/77FgzteLtghErXTnE6l1PS) | [Montagne D'amour 愛情山](https://open.spotify.com/album/6GqTOdNqk78tx5LJo3v5Tg) | 4:04 |
 | 63 | [等雨](https://open.spotify.com/track/6ZFbVCOCfticaZjBQ0dLDA) | [Hu Xia](https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR) | [拾](https://open.spotify.com/album/5AgltDdpS6cBwYNsctFypI) | 4:09 |
 | 64 | [雨下得真好](https://open.spotify.com/track/6CoS4JNpTyILwqD8zMu4jw) | [Harlem Yu](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) | [靠近](https://open.spotify.com/album/6FPVhgOuGhengkAf916BRs) | 4:48 |
-| 65 | [愛在雨季](https://open.spotify.com/track/0RxnzlWHkeUsAVV1oGLwsU) | [吳映香Lúcia](https://open.spotify.com/artist/10NHcL1mfDHxzcWm7aFOKH) | [愛在雨季](https://open.spotify.com/album/1ZsDL6I0mkMaafkE0c5JLL) | 2:46 |
-| 66 | [雨天](https://open.spotify.com/track/7lpua9fF4OOuYoQity6uRA) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [淳.佳\. \(新歌+精選\)](https://open.spotify.com/album/6EAVkUzyCZmAxu1jETZLAt) | 4:57 |
+| 65 | [雨天](https://open.spotify.com/track/7lpua9fF4OOuYoQity6uRA) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [淳.佳\. \(新歌+精選\)](https://open.spotify.com/album/6EAVkUzyCZmAxu1jETZLAt) | 4:57 |
+| 66 | [愛在雨季](https://open.spotify.com/track/0RxnzlWHkeUsAVV1oGLwsU) | [吳映香Lúcia](https://open.spotify.com/artist/10NHcL1mfDHxzcWm7aFOKH) | [愛在雨季](https://open.spotify.com/album/1ZsDL6I0mkMaafkE0c5JLL) | 2:46 |
 | 67 | [追雨](https://open.spotify.com/track/27glpEFVip10SzfxZ1aCky) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u) | [親愛的世界](https://open.spotify.com/album/6GvKzjitgx5uE7o3b14QAb) | 4:21 |
-| 68 | [下雨](https://open.spotify.com/track/0s4c9AqQIrpmm5MWAnXb5i) | [HANA](https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf) | [忘記我自己](https://open.spotify.com/album/3kEItXCa7gZFnHsVHtzRAV) | 4:14 |
+| 68 | [週末下雨](https://open.spotify.com/track/5iYoWmLl00G3DRufnvzCGN) | [熊天平](https://open.spotify.com/artist/3tRKt5aIEIJqlHYnePOgc0) | [愛情多惱河](https://open.spotify.com/album/3Xme6uZQDSAC2YprsffzLB) | 5:56 |
 | 69 | [雨](https://open.spotify.com/track/6LagCTmPN43dbbTvfiGwLz) | [脫拉庫](https://open.spotify.com/artist/0pt4nJkyLo7QGErUoqSREx) | [歡迎脫拉庫](https://open.spotify.com/album/6DxtTS5klLqGAl68AzouEk) | 4:18 |
-| 70 | [週末下雨](https://open.spotify.com/track/5iYoWmLl00G3DRufnvzCGN) | [熊天平](https://open.spotify.com/artist/3tRKt5aIEIJqlHYnePOgc0) | [愛情多惱河](https://open.spotify.com/album/3Xme6uZQDSAC2YprsffzLB) | 5:56 |
-| 71 | [多雨的城市 \- 2020](https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU) | [Mary See the Future 先知瑪莉](https://open.spotify.com/artist/745LWpqzCzNy04MJC431lP) | [多雨的城市 \(2020\)](https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx) | 5:26 |
-| 72 | [黑雨](https://open.spotify.com/track/27UwokRpBnCYqDsNDr9DZ1) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [超級金曲精選](https://open.spotify.com/album/40pCAFEe7nt7pprKfsmAbd) | 4:10 |
-| 73 | [你的世界是否也下著雨](https://open.spotify.com/track/0raZgzeB8nEuXu4U7qHSac) | [碧欣](https://open.spotify.com/artist/7iuYotfVYhsyvM48zP31k3) | [你的世界是否也下著雨](https://open.spotify.com/album/1vq7JNI5tfp4haCH0xQmLj) | 4:34 |
-| 74 | [下雨夜](https://open.spotify.com/track/2oAVwxd6a7sG6VYulTMBVA) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [下雨夜](https://open.spotify.com/album/7jYeBkdsESmTuI34GofAVi) | 3:52 |
+| 70 | [下雨](https://open.spotify.com/track/0s4c9AqQIrpmm5MWAnXb5i) | [HANA](https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf) | [忘記我自己](https://open.spotify.com/album/3kEItXCa7gZFnHsVHtzRAV) | 4:14 |
+| 71 | [黑雨](https://open.spotify.com/track/27UwokRpBnCYqDsNDr9DZ1) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [超級金曲精選](https://open.spotify.com/album/40pCAFEe7nt7pprKfsmAbd) | 4:10 |
+| 72 | [多雨的城市 \- 2020](https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU) | [Mary See the Future 先知瑪莉](https://open.spotify.com/artist/745LWpqzCzNy04MJC431lP) | [多雨的城市 \(2020\)](https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx) | 5:26 |
+| 73 | [下雨夜](https://open.spotify.com/track/2oAVwxd6a7sG6VYulTMBVA) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [下雨夜](https://open.spotify.com/album/7jYeBkdsESmTuI34GofAVi) | 3:52 |
+| 74 | [你的世界是否也下著雨](https://open.spotify.com/track/0raZgzeB8nEuXu4U7qHSac) | [碧欣](https://open.spotify.com/artist/7iuYotfVYhsyvM48zP31k3) | [你的世界是否也下著雨](https://open.spotify.com/album/1vq7JNI5tfp4haCH0xQmLj) | 4:34 |
 | 75 | [雨天小情歌](https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk) | [時光街樂隊](https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D) | [雨天小情歌](https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM) | 4:24 |
 
 Snapshot ID: `AAAAALPbBazbDYJ6tuzsSVX2CiuWQsl+`

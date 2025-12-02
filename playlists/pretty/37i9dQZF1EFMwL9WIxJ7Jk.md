@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,396 likes - 103 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,394 likes - 103 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 48 | [Rollin'](https://open.spotify.com/track/3Q1eEtOuXMGdqsddQzx3Br) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
 | 49 | [Marry Me](https://open.spotify.com/track/6NrWdxWR0sj4gPAOU2w2tu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Love Train](https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd) | 3:35 |
 | 50 | [Sensitive \(feat\. Scott Hoying\)](https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:58 |
-| 51 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 |
-| 52 | [Your Turn](https://open.spotify.com/track/4aG41nJ7tfC1Z4yuVyhjRr) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Summer Anthems](https://open.spotify.com/album/5sFwkNJZg9vxc9YhiGtxZk) | 3:21 |
+| 51 | [Your Turn](https://open.spotify.com/track/4aG41nJ7tfC1Z4yuVyhjRr) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Summer Anthems](https://open.spotify.com/album/5sFwkNJZg9vxc9YhiGtxZk) | 3:21 |
+| 52 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 |
 | 53 | [Blink](https://open.spotify.com/track/0HvGGQEgVtEamhhc2JgcP1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:47 |
 | 54 | [Rainbow](https://open.spotify.com/track/6e8gCUfJm6RYtOOLBtLbFa) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:21 |
 | 55 | [Make A Move](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:35 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 69 | [Special Delivery \(feat\. MAX\)](https://open.spotify.com/track/1nYERUIQ42uJjsvCbDPKlU) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 3:04 |
 | 70 | [Timeless](https://open.spotify.com/track/5VwoyOFisHUeHxUMsh96Jk) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:13 |
 | 71 | [Naughty List](https://open.spotify.com/track/5iGw5PJKukFN1YMj3Ls2rm) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:37 |
-| 72 | [Color of My Lips \(feat\. Busy Signal\)](https://open.spotify.com/track/6MrrKe8ewhFykqBz1QDB8q) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:10 |
-| 73 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 |
+| 72 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 |
+| 73 | [Color of My Lips \(feat\. Busy Signal\)](https://open.spotify.com/track/6MrrKe8ewhFykqBz1QDB8q) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:10 |
 | 74 | [Sugar Daddy](https://open.spotify.com/track/44ROJAxh2jBDQpxgMMIiCC) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:38 |
 | 75 | [Christmas Got Me Blue](https://open.spotify.com/track/29kJi1YtkZi4uyyDdvakib) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 3:33 |
 | 76 | [I Get It](https://open.spotify.com/track/6Uj10GHUgJ7D8QVwx9BpKI) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:05 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 102 | [Painkiller](https://open.spotify.com/track/2q60LHPspsHW8Bct7f6c42) | [The Potsdam Pitches](https://open.spotify.com/artist/1JHUAYhBvMGmvrNLLukLP9) | [Echoes](https://open.spotify.com/album/7FLzk92ZO6d1ZehKmsWn9P) | 3:11 |
 | 103 | [nice to meet ya](https://open.spotify.com/track/2JPXij4tkRfMpOqc9YnjRb) | [Edovann](https://open.spotify.com/artist/6UB4cj61Qyr2uI6j12AmbC), [Aleri](https://open.spotify.com/artist/0JOXL3w9yvATW3MM42cYQM) | [nice to meet ya](https://open.spotify.com/album/1xMewPd8OsoI8MKjud3DKh) | 3:16 |
 
-Snapshot ID: `AcDAUAAAAAC0BwP3vlA6zzk27Mo3fVDu`
+Snapshot ID: `AcDF8AAAAADUWqOO3xm67MEicGTfEiLO`

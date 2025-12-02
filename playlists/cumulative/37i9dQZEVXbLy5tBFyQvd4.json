@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 177333,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI"
@@ -6198,7 +6198,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -6220,7 +6220,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -6976,7 +6976,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 250640,
       "name": "Eres M\u00eda",
       "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
@@ -7012,7 +7012,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -7066,7 +7066,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -8729,6 +8729,24 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234828,
+      "name": "Imitadora",
+      "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
+    },
+    {
+      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -10280,7 +10298,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -10706,7 +10724,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 226298,
       "name": "LAS NOCHES",
       "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
@@ -11304,7 +11322,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 164386,
       "name": "Lo Tienes Todo",
       "url": "https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA"
@@ -12676,7 +12694,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 187640,
       "name": "Mi Segunda Vida",
       "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
@@ -15374,7 +15392,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 183846,
       "name": "PERO NO TE ENAMORES",
       "url": "https://open.spotify.com/track/3w1h7uNU1Dfk2tOaHiIGat"
@@ -17322,7 +17340,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 150523,
       "name": "Rey Sin Reina",
       "url": "https://open.spotify.com/track/4VWKUO1My9MfRecR5ftRkr"
@@ -17384,7 +17402,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 168677,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW"
@@ -19946,7 +19964,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
@@ -20270,7 +20288,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 162648,
       "name": "TRES BOTELLAS",
       "url": "https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5"
@@ -20478,7 +20496,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 110495,
       "name": "TU VAS SIN (fav)",
       "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
@@ -21612,7 +21630,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 184743,
       "name": "Vita Fer",
       "url": "https://open.spotify.com/track/3jS9G4KmuOwuawj3k4Smpc"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,769 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,835 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 39 | [Chinuku Taake..](https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u) | [Amritavarshini KC](https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ) | [Pelli Choopulu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28IIZL1NzZXe8XiUnAEkdN) | 4:51 |
 | 40 | [Preminche Premava](https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Ayar](https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl) | [Nuvvu Nenu Prema](https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP) | 5:54 |
 | 41 | [Chali Gaali Chuudduu](https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Malavika \(U.S\)](https://open.spotify.com/artist/3sGIKvw53mzsyXuhjxkKTC) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 4:27 |
-| 42 | [Dhim Thana](https://open.spotify.com/track/6bbSwo7GyM7DWjzicUerR9) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Kick](https://open.spotify.com/album/0AWdfmWDjXwMbeGI0so1dR) | 5:01 |
-| 43 | [Sirivennela \(From "Shyam Singha Roy"\)](https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \(From "Shyam Singha Roy"\) \- Single](https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8) | 4:13 |
+| 42 | [Sirivennela \(From "Shyam Singha Roy"\)](https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \(From "Shyam Singha Roy"\) \- Single](https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8) | 4:13 |
+| 43 | [Dhim Thana](https://open.spotify.com/track/6bbSwo7GyM7DWjzicUerR9) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Kick](https://open.spotify.com/album/0AWdfmWDjXwMbeGI0so1dR) | 5:01 |
 | 44 | [Waiting For You](https://open.spotify.com/track/42XgH6kQAvTOiKODWMuD9p) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 5:54 |
 | 45 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Mallik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
 | 46 | [New York Nagarama](https://open.spotify.com/track/3WqTLAB7u84IHk91AQZXHa) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Nuvvu Nenu Prema](https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP) | 6:17 |

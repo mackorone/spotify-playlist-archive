@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,739 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,767 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 39 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
 | 40 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 | 41 | [Motions](https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH) | 3:28 |
-| 42 | [Tension](https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Tension](https://open.spotify.com/album/0mNkjg8bqk5QdiIiDcHXcC) | 2:28 |
-| 43 | [FREAK IN THE SHEETS](https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [FREAK IN THE SHEETS](https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi) | 3:13 |
+| 42 | [FREAK IN THE SHEETS](https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [FREAK IN THE SHEETS](https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi) | 3:13 |
+| 43 | [Tension](https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Tension](https://open.spotify.com/album/0mNkjg8bqk5QdiIiDcHXcC) | 2:28 |
 | 44 | [Raw Control](https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Raw Control](https://open.spotify.com/album/1DwqsGfeJWh4P4cbd0AywD) | 2:30 |
 | 45 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |
 | 46 | [Lippy](https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Lippy](https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P) | 2:55 |

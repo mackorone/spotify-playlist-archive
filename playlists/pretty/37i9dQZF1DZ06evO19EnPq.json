@@ -1,12 +1,12 @@
 {
   "description": "This is Benson Boone. The essential tracks, all in one playlist.",
-  "num_followers": 366034,
+  "num_followers": 366176,
   "original_name": "This Is Benson Boone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACrHahTOlGE+/Xogd6r0cX8",
+  "snapshot_id": "aSuJAAAAAADnZrH3yehCDSimk7QYRQtv",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Was",
-        "url": "https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 215217,
-      "name": "What Was",
-      "url": "https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Better Alone",
         "url": "https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 209895,
       "name": "Better Alone",
       "url": "https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Was",
+        "url": "https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 215217,
+      "name": "What Was",
+      "url": "https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6"
     },
     {
       "added_at": null,

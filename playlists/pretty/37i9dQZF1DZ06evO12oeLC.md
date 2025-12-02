@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,871 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,873 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 18 | [Heart Of Glass](https://open.spotify.com/track/0tDPlvgAIkH0AydVq67v4p) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Heart Of Glass](https://open.spotify.com/album/6RY3XViPC0YObUvX4Y0GyH) | 3:15 |
 | 19 | [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 |
 | 20 | [MTV](https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:34 |
-| 21 | [Vivre \- Acoustic](https://open.spotify.com/track/7wOC5R4KJkpVCSY1SoaKdX) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La même](https://open.spotify.com/album/1kLts4mLi2U0H238Lbox0I) | 3:52 |
-| 22 | [SEXE](https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 6:55 |
-| 23 | [Alibi Pt\. 3](https://open.spotify.com/track/6hMU7eUsEX5HWVRLTIGw6Y) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Alibi Pt\. 3](https://open.spotify.com/album/1Ha2M1Be1iDXtWOfAPBxhp) | 3:07 |
+| 21 | [Alibi Pt\. 3](https://open.spotify.com/track/6hMU7eUsEX5HWVRLTIGw6Y) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Alibi Pt\. 3](https://open.spotify.com/album/1Ha2M1Be1iDXtWOfAPBxhp) | 3:07 |
+| 22 | [Vivre \- Acoustic](https://open.spotify.com/track/7wOC5R4KJkpVCSY1SoaKdX) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La même](https://open.spotify.com/album/1kLts4mLi2U0H238Lbox0I) | 3:52 |
+| 23 | [Blanche](https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 2:36 |
 | 24 | [TUNING](https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:42 |
-| 25 | [Blanche](https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 2:36 |
+| 25 | [SEXE](https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 6:55 |
 | 26 | [Rien à prouver](https://open.spotify.com/track/1cdlIbmkHBpQpOEQRHLlKT) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rien à prouver](https://open.spotify.com/album/0obywN6ixOQ0z4yaNWCPPR) | 4:02 |
 | 27 | [5H](https://open.spotify.com/track/141nlMCqr45W3DJ7B6QyyH) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 3:46 |
 | 28 | [SUICIDE](https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 49 | [Te Amo](https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 3:02 |
 | 50 | [Pour l’impossible](https://open.spotify.com/track/3bvFb6eMmoyrAgTZEu5bym) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 2:30 |
 
-Snapshot ID: `aSo3gAAAAADO7GOhARgjPYfGTmUtKrMH`
+Snapshot ID: `aSuJAAAAAAAhYw0xxWMszwx7AngLjvKY`

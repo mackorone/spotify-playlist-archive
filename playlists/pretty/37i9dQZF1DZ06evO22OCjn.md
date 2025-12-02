@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,162 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,183 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 19 | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC) | 3:27 |
 | 20 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:30 |
 | 21 | [Dem Dey](https://open.spotify.com/track/27N2fW3NXw9cvzTHtRSgKR) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 3:12 |
-| 22 | [Common Person](https://open.spotify.com/track/52oDXfdKV4faAFLnNyf0bl) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:30 |
-| 23 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/1F2K8y7e7STRGCySkEpBtT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 2:59 |
+| 22 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/1F2K8y7e7STRGCySkEpBtT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 2:59 |
+| 23 | [Common Person](https://open.spotify.com/track/52oDXfdKV4faAFLnNyf0bl) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:30 |
 | 24 | [Own It \(feat\. Ed Sheeran & Burna Boy\)](https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:36 |
 | 25 | [Buy You Life](https://open.spotify.com/track/5gL6LKibckV3dDAEkiNnZv) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 3:20 |
 | 26 | [Way Too Big](https://open.spotify.com/track/3bOBWIdkRyN9yaGJ7uSOTf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:20 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 29 | [Want It All](https://open.spotify.com/track/0tHvVjzxytG1BzfAJTJPtX) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All](https://open.spotify.com/album/6ggFYFT8Jiq3qw43SqYHQj) | 3:52 |
 | 30 | [Dangote](https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:45 |
 | 31 | [4 Kampé II](https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [4 Kampé II](https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk) | 3:31 |
-| 32 | [No Panic](https://open.spotify.com/track/679lDJUvGZrhtocsB26ON4) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 2:39 |
-| 33 | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2) | 3:23 |
+| 32 | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2) | 3:23 |
+| 33 | [No Panic](https://open.spotify.com/track/679lDJUvGZrhtocsB26ON4) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 2:39 |
 | 34 | [Gbona](https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:07 |
 | 35 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 |
 | 36 | [Donne\-moi l’accord](https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 3:06 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 46 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:15 |
 | 47 | [Normal](https://open.spotify.com/track/2KiqSjEDFFOyf4yCQwSOud) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:04 |
 
-Snapshot ID: `aSo3gAAAAACRcjuzqivDknaSX5FOgmfB`
+Snapshot ID: `aSuJAAAAAABHq4D36plLaIDFv7Q31KVp`

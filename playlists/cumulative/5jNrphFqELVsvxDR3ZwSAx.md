@@ -4,7 +4,7 @@
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-377 songs - 1 day 0 hr 16 min
+378 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Feeling Alive](https://open.spotify.com/track/3WUiiqaOUI1K6ttDLS2dJ1) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [My Name Is Earl](https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz) | 3:11 | 2025-02-21 |  |
 | [Feeling Alright](https://open.spotify.com/track/3Zi9nEujWMGfRkbOfT6LF7) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [If I Were Your Woman](https://open.spotify.com/album/72mmtgKkXD2G3HzGHAXduF) | 3:42 | 2025-09-05 |  |
 | [Fergalicious](https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:52 | 2025-08-02 |  |
+| [Fernando](https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:12 | 2025-12-01 |  |
 | [Fever](https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [All Aglow Again!](https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP) | 3:22 | 2025-05-23 |  |
 | [Fever Dog](https://open.spotify.com/track/5TGHd1XiwkNSBIMWmhNQ6v) | [Still Water](https://open.spotify.com/artist/3MmozgkNHOs1TPPnGAgkj9) | [Almost Famous \(Music From The Motion Picture\)](https://open.spotify.com/album/3oNY3UpmcQQ4TAicUcKkdf) | 3:09 | 2022-05-18 | 2024-05-02 |
 | [Fields Of Gold](https://open.spotify.com/track/5Y9Hqg5Z3EHUDDwd54FDQb) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/4Bi4yzmfOupSFm2gl2jeaQ) | 3:42 | 2022-05-18 | 2024-05-02 |

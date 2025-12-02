@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Naïka
 
-275 songs - 16 hr 25 min
+276 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Ayizan](https://open.spotify.com/track/7Dy2z4DuyXOcwFBcSY42aX) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/0RahduaPCp3gU0jRK3zZHy) | 6:40 | 2021-12-06 | 2022-11-02 |
 | [Ayyy](https://open.spotify.com/track/4VYw7E6sI15Y5wvGN36Cx5) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Ayyy](https://open.spotify.com/album/0ZiHsWkTYNhkuBJ5VWLt2T) | 2:46 | 2021-12-06 | 2023-02-18 |
 | [Ba L on Bye \(Remix\)](https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD) | [Enposib](https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn), [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Ba L on Bye \(Remix\)](https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH) | 3:36 | 2021-12-06 | 2023-02-18 |
+| [Baby](https://open.spotify.com/track/7znsK36lKtdk0nU032XxZW) | [ITSWOULI](https://open.spotify.com/artist/2CdYhTrgAhmuhey0EBltR7) | [Veye Kè’n](https://open.spotify.com/album/5KakDT8YFslRythzqgFLzH) | 2:26 | 2025-07-25 |  |
 | [Baby Who](https://open.spotify.com/track/0BNZpLxBQFNgJTXhGmZEbs) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Melanin](https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp) | 3:07 | 2021-12-06 | 2022-10-12 |
 | [Baby Who](https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp) | 3:07 | 2022-09-30 | 2023-02-18 |
 | [BACK IT UP](https://open.spotify.com/track/2MzJTGFe2gZgvDwN6K93y2) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [BACK IT UP](https://open.spotify.com/album/67WgqCQifCPVMw6ltMY2mP) | 2:17 | 2023-09-24 | 2024-01-03 |
@@ -280,7 +281,7 @@
 | [When Haiti Meets Angola](https://open.spotify.com/track/6OKVRdFO70FQBg377bmkCJ) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA) | [When Haiti Meets Angola](https://open.spotify.com/album/5qVWjHd4ONWIJD3WRqBQK3) | 2:44 | 2023-09-24 | 2024-01-03 |
 | [White Flower](https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [White Flower](https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW) | 2:24 | 2023-05-08 |  |
 | [Wine Pon Me \- Remix](https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [Spectrum the Originator](https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm) | [Flavors](https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo) | 2:46 | 2023-07-21 |  |
-| [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 | 2021-12-06 |  |
+| [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 | 2021-12-06 | 2025-12-02 |
 | [Yo Mele Raboday](https://open.spotify.com/track/0qtBENOC0lD0BY6Hew47gA) | [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [Afriken An](https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4), [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Yo Mele Raboday](https://open.spotify.com/album/2BNKzOLRHyDQBtP87YzE6P) | 3:37 | 2021-12-06 | 2024-01-03 |
 | [Zeptima](https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk) | [Ayiiti](https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz) | [Zeptima](https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a) | 4:01 | 2021-12-06 | 2023-02-18 |
 

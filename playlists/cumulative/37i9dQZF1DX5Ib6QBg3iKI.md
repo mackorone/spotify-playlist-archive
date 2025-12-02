@@ -4,7 +4,7 @@
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-197 songs - 10 hr 44 min
+198 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-17 | 2024-04-19 |
 | [Jingle Bell Rock](https://open.spotify.com/track/2wCPMWR3y4xclijuCcLJv7) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Four Christmases](https://open.spotify.com/album/7mBYONx7aIDvzevYOfsXJT) | 2:11 | 2021-12-17 | 2024-11-17 |
 | [Jingle Bell Rock \- Single Version](https://open.spotify.com/track/0t97lL3ZMyuxbABB0dgYhf) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Natale 2020](https://open.spotify.com/album/000t7Ge3vazfHDgDwYV8dZ) | 2:10 | 2022-10-28 | 2022-11-14 |
+| [Joy To The World](https://open.spotify.com/track/2TyrQS9gC73SSPlu2IEQjP) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Joy To The World](https://open.spotify.com/album/6CEUCfBMzOnnzVcRDd9CCZ) | 5:25 | 2025-12-01 |  |
 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 | 2022-11-18 | 2024-04-19 |
 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 | 2021-12-17 |  |
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2021-12-17 | 2023-10-28 |
@@ -198,7 +199,7 @@
 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 | 2023-10-27 |  |
 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 | 2023-10-27 |  |
 | [Winter Wonderland](https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall: The Tony Bennett Christmas Album](https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC) | 2:13 | 2022-11-18 | 2024-04-19 |
-| [Winter Wonderland](https://open.spotify.com/track/4ricyQVd20UQde1jpXCSuJ) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall \- The Tony Bennett Christmas Album](https://open.spotify.com/album/2sw2JVdzZ4lcn2cxh3Nxdc) | 2:13 | 2023-11-28 |  |
+| [Winter Wonderland](https://open.spotify.com/track/4ricyQVd20UQde1jpXCSuJ) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall \- The Tony Bennett Christmas Album](https://open.spotify.com/album/2sw2JVdzZ4lcn2cxh3Nxdc) | 2:13 | 2023-11-28 | 2025-12-02 |
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2023-11-14 |  |
 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 | 2021-12-17 | 2023-10-28 |
 | [Wonderful Christmastime](https://open.spotify.com/track/5aj4UEKeW7T3eI4ETaN7Me) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Are Coming](https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB) | 3:45 | 2022-10-28 | 2022-11-13 |

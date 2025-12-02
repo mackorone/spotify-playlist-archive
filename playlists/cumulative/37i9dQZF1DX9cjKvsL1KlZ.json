@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "100k On A Coupe",
+        "url": "https://open.spotify.com/album/1RUkOaQD5teWHg7JmrVBGB"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117093,
+      "name": "100k On A Coupe (feat. Calboy)",
+      "url": "https://open.spotify.com/track/4wVuGccjXDNf9sWWVajkpk"
+    },
+    {
+      "album": {
         "name": "13 Going On 30",
         "url": "https://open.spotify.com/album/3uiRxBPxofovB9Idhm0z9G"
       },
@@ -736,7 +758,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 243000,
       "name": "Back Door (feat. Quavo & Kodak Black)",
       "url": "https://open.spotify.com/track/6f84PrgxSWSv4EBRweHXZJ"
@@ -830,7 +852,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 120784,
       "name": "Baddie Baddie",
       "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
@@ -1337,6 +1359,32 @@
     },
     {
       "album": {
+        "name": "Huncho Jack, Jack Huncho",
+        "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
+      },
+      "artists": [
+        {
+          "name": "Huncho Jack",
+          "url": "https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172016,
+      "name": "Black & Chinese",
+      "url": "https://open.spotify.com/track/628Ueb4sRiXApObhcU9iPU"
+    },
+    {
+      "album": {
         "name": "Black Mask (feat. Pop Smoke)",
         "url": "https://open.spotify.com/album/4Q7RqehwwDMkB5spP7nxFA"
       },
@@ -1738,7 +1786,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 150449,
       "name": "Brush Em (feat. Rah Swish)",
       "url": "https://open.spotify.com/track/3MmvQKMKdN3UhVS3eGzJIW"
@@ -2884,7 +2932,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 222987,
       "name": "Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)",
       "url": "https://open.spotify.com/track/5oady7OSE7dH7LHiqmb3Cr"
@@ -3134,7 +3182,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 146553,
       "name": "ErrTime (feat. Latto) [Remix]",
       "url": "https://open.spotify.com/track/4hcQDZwYcx3qXTzfegb45N"
@@ -4476,7 +4524,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 212598,
       "name": "HBA",
       "url": "https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb"
@@ -4798,6 +4846,28 @@
       "duration_ms": 258092,
       "name": "Houston Old Head",
       "url": "https://open.spotify.com/track/6lmMjq57ysbPyknJZjKuWI"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206626,
+      "name": "HYFR (Hell Ya Fucking Right)",
+      "url": "https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4"
     },
     {
       "album": {
@@ -5432,6 +5502,28 @@
       "duration_ms": 236240,
       "name": "JIGGY",
       "url": "https://open.spotify.com/track/3PXje6fQc2DaCDmjwJX7wB"
+    },
+    {
+      "album": {
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286973,
+      "name": "John",
+      "url": "https://open.spotify.com/track/0dpok9LbD1eATa5XPMardF"
     },
     {
       "album": {
@@ -6122,7 +6214,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 179449,
       "name": "Look Back at It",
       "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
@@ -6446,7 +6538,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 160560,
       "name": "Mannequin (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/4ogUNsrAiv68W9LnD6mJJm"
@@ -6494,7 +6586,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 249230,
       "name": "Manslaughter (feat. Rick Ross & The-Dream)",
       "url": "https://open.spotify.com/track/5EVzgDPaM0LCM3M5exl3z8"
@@ -7158,7 +7250,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 195680,
       "name": "Need It (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/1cMMVJ4FDqhCci9efd1BU6"
@@ -8708,7 +8800,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 112941,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/7I0xSFuQqo3jtg3Qd6TIW4"
@@ -9882,7 +9974,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 96040,
       "name": "Showin Off Pt.1 (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/7kFMvM2gUzVeW2ZlkKRhzu"
@@ -9904,7 +9996,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 192000,
       "name": "Showin Off Pt.2 (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/6JzyJgeHSRS4aYiK5gt02M"
@@ -10688,7 +10780,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 244197,
       "name": "TEMPTATION",
       "url": "https://open.spotify.com/track/3gJDgenxLephg09x86IxPs"
@@ -11269,6 +11361,24 @@
     },
     {
       "album": {
+        "name": "Levon James",
+        "url": "https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196179,
+      "name": "Took Her To The O",
+      "url": "https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW"
+    },
+    {
+      "album": {
         "name": "Top Floor",
         "url": "https://open.spotify.com/album/15k3bQaCmCxyoNyNB6YErv"
       },
@@ -11332,6 +11442,24 @@
       "duration_ms": 244160,
       "name": "Trilla (feat. A$AP Nast & A$AP Twelvyy)",
       "url": "https://open.spotify.com/track/3DtOW3gzNTy5SgLWhwOdFW"
+    },
+    {
+      "album": {
+        "name": "Trunks (From \"Highest 2 Lowest\")",
+        "url": "https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223566,
+      "name": "Trunks (From \"Highest 2 Lowest\")",
+      "url": "https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe"
     },
     {
       "album": {

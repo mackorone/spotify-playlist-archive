@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 
 > <a href="spotify:artist:69zPIMRgsZieOHFtHtvnj0">Yu Su</a>'s favorite tracks\. Updated regularly\. Curated by Yu Su\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,925 likes - 20 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,944 likes - 20 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 | 19 | [Mango Solo & Elmanix \- QER REMIX](https://open.spotify.com/track/2oXQoe2mCWWLoekIwWeziL) | [DJ NOBU](https://open.spotify.com/artist/7kk7pkh2yLgdjE1fF4zzlx) | [Zero Set II Reconstruct](https://open.spotify.com/album/3orfIOFSZsD8oFUL89Pqvx) | 9:54 |
 | 20 | [Foundry](https://open.spotify.com/track/3tf6Dx9dRpBIRPAX0NL3aT) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Foundry](https://open.spotify.com/album/4zZ8wBNx6BJTZR16TcqGWF) | 4:59 |
 
-Snapshot ID: `AAAAAOwu1Kz36N572xfcbX0yYEx1zgNR`
+Snapshot ID: `AAAAAPYzZcFtl7KvIqX1ErXNKdlTO58x`

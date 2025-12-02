@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 913120,
+  "num_followers": 913321,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAACaimfv6OFF/iCm2txLzl1Q",
+  "snapshot_id": "aSuJAAAAAADRaPqTzIx6G+xLqANbnNSO",
   "tracks": [
     {
       "added_at": null,
@@ -279,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culpable",
-        "url": "https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h"
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY"
       },
       "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
         {
           "name": "Junior H",
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 261071,
-      "name": "Culpable",
-      "url": "https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc"
+      "duration_ms": 166570,
+      "name": "EN ALTAVOZ",
+      "url": "https://open.spotify.com/track/7GRBoiZ3aXbjIn4rML7GQE"
     },
     {
       "added_at": null,
@@ -311,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY"
+        "name": "Culpable",
+        "url": "https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h"
       },
       "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
         {
           "name": "Junior H",
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 166570,
-      "name": "EN ALTAVOZ",
-      "url": "https://open.spotify.com/track/7GRBoiZ3aXbjIn4rML7GQE"
+      "duration_ms": 261071,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc"
     },
     {
       "added_at": null,

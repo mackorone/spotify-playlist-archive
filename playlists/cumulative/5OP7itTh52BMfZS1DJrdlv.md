@@ -4,7 +4,7 @@
 
 > Christmas Songs 🎅 Classic Christmas Playlist 🎄 2025 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-191 songs - 10 hr 7 min
+192 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Give Love This Year](https://open.spotify.com/track/6SLl91xkvg78d5Lpyfj8gU) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 3:06 | 2023-12-09 | 2024-12-11 |
 | [Good All Year](https://open.spotify.com/track/7tpZbY9001r2p5ehkaYYmb) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good All Year](https://open.spotify.com/album/4iu3ExKSjlArExmwzp0Si7) | 2:13 | 2024-11-29 |  |
 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 | 2025-07-01 |  |
-| [Happy Holiday / The Holiday Season](https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:41 | 2025-07-01 |  |
+| [Happy Holiday / The Holiday Season](https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:41 | 2025-07-01 | 2025-12-02 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Power To The People \- The Hits](https://open.spotify.com/album/7mXg4fLJHmmnjAahH15Wsj) | 3:33 | 2023-12-09 | 2025-07-02 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2025-07-01 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/2D3DNfnwhsT6M1TyZmdlwe) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/1l4DfcI1lGAmnDGDIWgiNA) | 3:50 | 2023-12-09 | 2025-07-02 |
@@ -176,6 +176,7 @@
 | [This Christmas](https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 3:51 | 2025-07-01 | 2025-09-20 |
 | [This Christmas](https://open.spotify.com/track/4xEUfPbamZ3tlwNxLUo2nr) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:51 | 2023-12-09 |  |
 | [This Christmas](https://open.spotify.com/track/4dmllVoANTAb2jDuieDo22) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [This Christmas](https://open.spotify.com/album/20TOto2tIkD8b9OK04yLil) | 2:59 | 2023-12-09 | 2024-11-19 |
+| [This Time of Year](https://open.spotify.com/track/2tCGDKeCHstaxK8315wvR9) | [Gasolina](https://open.spotify.com/artist/4ECFqzUWZY2MqptmijvgBU) | [Christmas with...](https://open.spotify.com/album/77E9wLlLiOuayk696M4p2u) | 3:10 | 2025-12-01 |  |
 | [Together This Christmas](https://open.spotify.com/track/4HFjy6OPBSzZdm1b0xBM3D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Together This Christmas \(From The Original Motion Picture Soundtrack “Your Christmas or Mine”\)](https://open.spotify.com/album/1WfPnzuSUwBboYdXynt8Yq) | 3:13 | 2023-12-09 |  |
 | [Twelve Nights of Christmas](https://open.spotify.com/track/7ldZwZnZ9FTpmb07SgqN2M) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [not so xmas xmas](https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g) | 2:03 | 2023-12-09 | 2025-07-02 |
 | [Under the Mistletoe](https://open.spotify.com/track/0OciKTNrWHda78cixRGJdq) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:45 | 2023-12-09 | 2025-07-02 |

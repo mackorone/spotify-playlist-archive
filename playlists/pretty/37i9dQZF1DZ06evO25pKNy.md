@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,906 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,909 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 49 | [Recordando Al Chavalon](https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Recordando Al Chavalon](https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8) | 2:12 |
 | 50 | [Por Buen Camino](https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:15 |
 
-Snapshot ID: `aSo3gAAAAADiYVVkd1a95UC4d0vavgTn`
+Snapshot ID: `aSuJAAAAAACdFO2NU5Em54VNOE73cvFh`

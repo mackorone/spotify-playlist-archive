@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1906297,
+  "num_followers": 1906345,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAD3AO07MtRq8W5Co6Q6a4Tk",
+  "snapshot_id": "aSuJAAAAAADWvigaG7pRqKwamiaUNPZG",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 248613,
+      "name": "DUCKWORTH.",
+      "url": "https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 231360,
       "name": "Sidewalks",
       "url": "https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "DUCKWORTH.",
-      "url": "https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMBLE. (SKRILLEX REMIX)",
-        "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "HUMBLE. - SKRILLEX REMIX",
-      "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 216933,
       "name": "Hair Down",
       "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HUMBLE. (SKRILLEX REMIX)",
+        "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "HUMBLE. - SKRILLEX REMIX",
+      "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
     },
     {
       "added_at": null,

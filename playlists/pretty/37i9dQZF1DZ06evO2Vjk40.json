@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 705869,
+  "num_followers": 705945,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAAMWDQc1Ys2KVM347nMau1j",
+  "snapshot_id": "aSuJAAAAAADcNY377ei8mYTeXexT379/",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 244146,
+      "name": "Nobody To Blame",
+      "url": "https://open.spotify.com/track/4WRRCuJYRq7gUKiupxVH9W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 278895,
       "name": "Say Something (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 244146,
-      "name": "Nobody To Blame",
-      "url": "https://open.spotify.com/track/4WRRCuJYRq7gUKiupxVH9W"
     },
     {
       "added_at": null,

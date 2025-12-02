@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Drake Milligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,983 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,964 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 62 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
 | 63 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
 | 64 | [My Love](https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [My Love](https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ) | 4:01 |
-| 65 | [Fort Worth](https://open.spotify.com/track/4fsfmBOOxwMOJ7DzibpfU5) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4), [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Fort Worth](https://open.spotify.com/album/6UoQs8c0c0F9uiJ73jkYd8) | 3:36 |
-| 66 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 |
+| 65 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 |
+| 66 | [Fort Worth](https://open.spotify.com/track/4fsfmBOOxwMOJ7DzibpfU5) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4), [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Fort Worth](https://open.spotify.com/album/6UoQs8c0c0F9uiJ73jkYd8) | 3:36 |
 | 67 | [The Little Things](https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [The Little Things](https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO) | 3:38 |
 | 68 | [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 |
 | 69 | [Pontiac \(So Tell Me Momma\)](https://open.spotify.com/track/5z8WoQwsdV0ci7GuE4TQND) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Pontiac \(So Tell Me Momma\)](https://open.spotify.com/album/5jvRzaDo39gKBZG8b7Xzsh) | 3:45 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 91 | [The Greys Between](https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [The Greys Between](https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg) | 4:15 |
 | 92 | [Country Round Here Tonight \(feat\. Justin Moore\)](https://open.spotify.com/track/0MbTyGD6yYiYL45DhNljoQ) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Country Round Here Tonight \(feat\. Justin Moore\)](https://open.spotify.com/album/4Rv54VNYpnod5egRBkP20a) | 3:43 |
 | 93 | [Kick A Little](https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Rodney Carrington](https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO), [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Kick A Little](https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb) | 3:47 |
-| 94 | [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 |
-| 95 | [A Few Years Back](https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [A Few Years Back](https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4) | 3:40 |
+| 94 | [A Few Years Back](https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [A Few Years Back](https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4) | 3:40 |
+| 95 | [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 |
 | 96 | [Never Again One More Time](https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl), [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv) | [Never Again One More Time](https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR) | 2:58 |
 | 97 | [Nothin But Texas](https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Flyin](https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU) | 4:34 |
 | 98 | [Your Kinda Guy](https://open.spotify.com/track/1kHcWTgsMNwduZzS8K8RTt) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Your Kinda Guy](https://open.spotify.com/album/2u0yPFMd8n3qlIupYUPNun) | 3:17 |
 | 99 | [Horseback](https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Horseback](https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP) | 3:32 |
-| 100 | [Broke Umbrella](https://open.spotify.com/track/4GY7J4ecSUU3wkyIU5GZbs) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Broke Umbrella](https://open.spotify.com/album/6zCrDjTnw73WVSCmpkrCoO) | 4:05 |
+| 100 | [Clover On The Hillside](https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Clover On The Hillside](https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976) | 2:21 |
 
 Snapshot ID: `AAAAAIt3Zx1fs/y95d0ByJ8/uyRwcYry`

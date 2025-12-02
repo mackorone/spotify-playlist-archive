@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,586,570 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,586,803 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 12 | [Sleepwalker \- Slowed](https://open.spotify.com/track/5cjRF0yXxYvqzmJfUbq9AW) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Sleepwalker \(Slowed\)](https://open.spotify.com/album/2EAUAqdIVckKAPCCT0hAQg) | 4:18 |
 | 13 | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/track/1ExDyvuvYw8aDaqpPqsVZh) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/album/0aqGz4Uth6nswnJifY4Cdv) | 2:06 |
 | 14 | [3 am walk \- Slowed & Reverb Version](https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am walk](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:19 |
-| 15 | [Heat Waves \- Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh) | 4:22 |
-| 16 | [chess \- slowed](https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l) | [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [chess](https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou) | 2:22 |
+| 15 | [chess \- slowed](https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l) | [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [chess](https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou) | 2:22 |
+| 16 | [Heat Waves \- Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh) | 4:22 |
 | 17 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 |
 | 18 | [i was only temporary \(Slowed + Reverb\)](https://open.spotify.com/track/4XAilWzhZM0uyR4vtERfHi) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary \(Remixes\)](https://open.spotify.com/album/4eFB3zNX35w1029DW0XxRm) | 1:42 |
 | 19 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6cii6vbf1gITzGEpDrc5BP) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/1UtDjgbJnpqtAhfeMrb4Qm) | 4:28 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 35 | [coldshade \- Slowed](https://open.spotify.com/track/6kazHgRY42IvErUxsSInVV) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [neytles](https://open.spotify.com/artist/22ext9Do0WP94crY5FZxli) | [coldshade](https://open.spotify.com/album/7stzTSqo40hosxvqvrUFZx) | 3:24 |
 | 36 | [drowning \(slowed + reverb\)](https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning \(remixes\)](https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd) | 2:12 |
 | 37 | [LOVELY BASTARDS \- Slowed](https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS \(Slowed\)](https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ) | 2:32 |
-| 38 | [WASTE \- Slowed Version](https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 2:14 |
-| 39 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 |
+| 38 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 |
+| 39 | [WASTE \- Slowed Version](https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 2:14 |
 | 40 | [Vision \- Slowed](https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh) | 4:59 |
 | 41 | [Love Game \- Slowed](https://open.spotify.com/track/2PUKF7oK4yIONZfu5XQ14t) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Love Game \(Slowed\)](https://open.spotify.com/album/0Vh1m0GMK9olIO1DmYC3I4) | 2:37 |
 | 42 | [Never Let Go \(Of Me\) \- Slowed](https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 1:34 |

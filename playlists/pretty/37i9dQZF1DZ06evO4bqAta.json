@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 585563,
+  "num_followers": 585578,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAD9I7Yp/so2gc9ZVOqFSf9g",
+  "snapshot_id": "aSuJAAAAAACHS7wFcUOulUbQYdOFSATb",
   "tracks": [
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 145307,
+      "name": "Winterlude",
+      "url": "https://open.spotify.com/track/6h8laPks98zPizQ5qahy40"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 203259,
       "name": "Tonight I'll Be Staying Here with You",
       "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 164031,
-      "name": "Corrina, Corrina",
-      "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
     }
   ],
   "unique_name": "This Is Bob Dylan",

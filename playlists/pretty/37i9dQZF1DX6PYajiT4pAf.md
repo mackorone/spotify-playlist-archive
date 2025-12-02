@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Marta Santos, Romeo Santos & Prince Royce, Lucho RK x La Pantera, Walls & Dani Fernández, La La Love You y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,030 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,035 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

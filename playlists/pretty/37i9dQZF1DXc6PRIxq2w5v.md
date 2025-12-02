@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,558 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,597 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

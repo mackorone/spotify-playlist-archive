@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "indie & indiepop in het Nederlands. Cover: De Zweefclub",
+  "description": "indie & indiepop in het Nederlands. Cover: Elmer",
   "name": "indie.nl",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 202000,
       "name": "Aardbei en Vanille",
       "url": "https://open.spotify.com/track/4TZjJSHcExsyHgHlgvOmwQ"
+    },
+    {
+      "album": {
+        "name": "Abrikoos",
+        "url": "https://open.spotify.com/album/1jsfvYCbmoHGgO6HYToDMp"
+      },
+      "artists": [
+        {
+          "name": "Dave Budha",
+          "url": "https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Abrikoos",
+      "url": "https://open.spotify.com/track/12iqaBDMEkAdaUgBmxqGJO"
     },
     {
       "album": {
@@ -413,6 +431,28 @@
     },
     {
       "album": {
+        "name": "Bang Dat Ik Spring",
+        "url": "https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2"
+      },
+      "artists": [
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        },
+        {
+          "name": "Saartje Van Camp",
+          "url": "https://open.spotify.com/artist/4F6ezMqheQX1B8dBFnuJ1s"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "Bang Dat Ik Spring",
+      "url": "https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R"
+    },
+    {
+      "album": {
         "name": "Alleen Bij Mij",
         "url": "https://open.spotify.com/album/169JAJ4TYcBRDSw86oGa2B"
       },
@@ -741,6 +781,24 @@
     },
     {
       "album": {
+        "name": "De zon",
+        "url": "https://open.spotify.com/album/0p9R6TOrMBUzlzDkulEEFs"
+      },
+      "artists": [
+        {
+          "name": "Willem Ardui",
+          "url": "https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163630,
+      "name": "De zon",
+      "url": "https://open.spotify.com/track/7GA05wHXs1jgfQCHA327Zf"
+    },
+    {
+      "album": {
         "name": "Deze Stilte",
         "url": "https://open.spotify.com/album/4xnHlfWEjxBAdrtgfl1eEV"
       },
@@ -918,7 +976,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 190059,
       "name": "Doe Het Voor Het Geld",
       "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
@@ -1084,7 +1142,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 144374,
       "name": "Evenwicht",
       "url": "https://open.spotify.com/track/4YCIKgw9G0YNaN5vOzmxhI"
@@ -1124,6 +1182,24 @@
       "duration_ms": 235704,
       "name": "Filmster",
       "url": "https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj"
+    },
+    {
+      "album": {
+        "name": "Niemand Gaat Het Voor Je Doen",
+        "url": "https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148159,
+      "name": "Fuck Je Gucci Shirt",
+      "url": "https://open.spotify.com/track/1hD3B1IiFU84te2aOOvNrr"
     },
     {
       "album": {
@@ -1997,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "In De Steek",
+        "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168224,
+      "name": "In De Steek",
+      "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
+    },
+    {
+      "album": {
         "name": "In Dit Huis",
         "url": "https://open.spotify.com/album/5wbhjYGbfNoXI36vX7MYkX"
       },
@@ -2102,7 +2196,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 244625,
       "name": "Jochie",
       "url": "https://open.spotify.com/track/5tNpYAk3ZYwStWmTgwmiuY"
@@ -2980,7 +3074,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 214029,
       "name": "niet meer zo",
       "url": "https://open.spotify.com/track/06UGKVuYJtcipahuh6tsDU"
@@ -3262,7 +3356,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 182769,
       "name": "Opgeruimd Staat Netjes",
       "url": "https://open.spotify.com/track/6TNGnPsH8yxgPKQ8U4LeBV"
@@ -3614,6 +3708,42 @@
       "duration_ms": 207813,
       "name": "Shirt Uit (feat. Sef)",
       "url": "https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g"
+    },
+    {
+      "album": {
+        "name": "Skinroutine Bikinilijn",
+        "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Skinroutine Bikinilijn",
+      "url": "https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2"
+    },
+    {
+      "album": {
+        "name": "slecht idee (let\u2019s do it)",
+        "url": "https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191998,
+      "name": "slecht idee (let\u2019s do it)",
+      "url": "https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu"
     },
     {
       "album": {
@@ -4003,6 +4133,24 @@
     },
     {
       "album": {
+        "name": "troubadour",
+        "url": "https://open.spotify.com/album/0BlyYPekEGbCv5RKp4Jwhi"
+      },
+      "artists": [
+        {
+          "name": "damy",
+          "url": "https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "troubadour",
+      "url": "https://open.spotify.com/track/1fL4Tv0ntJcRwLpYnJL67V"
+    },
+    {
+      "album": {
         "name": "Tr\u00e8s Heureux",
         "url": "https://open.spotify.com/album/5lqubazpQwzdSX35eebdFm"
       },
@@ -4090,10 +4238,28 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 132727,
       "name": "Vager!",
       "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
+    },
+    {
+      "album": {
+        "name": "Vallen In De Nacht",
+        "url": "https://open.spotify.com/album/67C43vh6qxWU7UKX211RH3"
+      },
+      "artists": [
+        {
+          "name": "Igor",
+          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226678,
+      "name": "Vallen In De Nacht",
+      "url": "https://open.spotify.com/track/4z4892mGhwhtBQUrCrp7BR"
     },
     {
       "album": {
@@ -4376,7 +4542,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 120833,
       "name": "Waarom Ik Zo Ben",
       "url": "https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR"
@@ -4506,7 +4672,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 166663,
       "name": "WijTwee",
       "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
@@ -4860,7 +5026,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 152368,
       "name": "Zweef Hier",
       "url": "https://open.spotify.com/track/0WOO50jMuMIYUSpZb9bXTs"

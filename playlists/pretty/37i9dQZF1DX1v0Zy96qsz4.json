@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/skylardigginssmith/\">Skylar Diggins-Smith</a>",
-  "num_followers": 12297,
+  "num_followers": 12299,
   "original_name": "Skylar Diggins' Taste",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 366733,
+      "name": "You Don't Know My Name",
+      "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 366733,
-      "name": "You Don't Know My Name",
-      "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
     },
     {
       "added_at": "2022-10-02 02:05:19",

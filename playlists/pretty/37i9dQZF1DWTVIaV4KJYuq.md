@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,428 likes - 110 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,416 likes - 110 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 74 | [What's Going On \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:35 |
 | 75 | [California Dreamin \- Acoustic Mix](https://open.spotify.com/track/4FmVtdjLVhzHpNuBhMF8Wj) | [Freischwimmer](https://open.spotify.com/artist/185m2EJWTIm36MdqguiU8T) | [California Dreamin](https://open.spotify.com/album/561Ly3AThHF8GOSY0tm0Al) | 3:28 |
 | 76 | [Home](https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Home](https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc) | 3:32 |
-| 77 | [Never Surrender](https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW) | [Dante Hart](https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6) | [Never Surrender](https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9) | 3:48 |
-| 78 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl) | 3:10 |
+| 77 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl) | 3:10 |
+| 78 | [Never Surrender](https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW) | [Dante Hart](https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6) | [Never Surrender](https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9) | 3:48 |
 | 79 | [My Valentine \(with Paul McCartney\)](https://open.spotify.com/track/5ieWsEv2u9vMHWB3uV3R5Z) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [My Valentine \(with Paul McCartney\)](https://open.spotify.com/album/7opVxBLRbaAq1q7aMSLeHo) | 4:18 |
 | 80 | [Slip Slidin' Away](https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Rita Wilson Now & Forever: Duets](https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0) | 4:53 |
 | 81 | [Everybody Hurts](https://open.spotify.com/track/2sH21Xbvh4rbOJeNQzr8yY) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Liz Vice](https://open.spotify.com/artist/6kY5bg7eFoD8SnPvZdzen2) | [Everybody Hurts](https://open.spotify.com/album/6hmmWaGSqZQTkKRReMgeDe) | 4:53 |
@@ -114,9 +114,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 104 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
 | 105 | [Always On My Mind](https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 3:26 |
 | 106 | [You'll Never Walk Alone](https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [You'll Never Walk Alone](https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM) | 1:58 |
-| 107 | [A Case of You](https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [A Case of You](https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna) | 3:10 |
-| 108 | [With A Little Help From My Friends](https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N) | 5:12 |
-| 109 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
-| 110 | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV) | 4:50 |
+| 107 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
+| 108 | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV) | 4:50 |
+| 109 | [A Case of You](https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [A Case of You](https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna) | 3:10 |
+| 110 | [With A Little Help From My Friends](https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N) | 5:12 |
 
 Snapshot ID: `AAAAALDPeFQpxOmIGfJHziXsE56a0nuJ`

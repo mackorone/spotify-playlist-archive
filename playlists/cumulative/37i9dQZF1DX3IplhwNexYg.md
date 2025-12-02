@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Phantastic Ferniture
 
-797 songs - 1 day 21 hr 18 min
+798 songs - 1 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Diva](https://open.spotify.com/track/3TRftl5G4bhM74bwq1Q6qx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Diva](https://open.spotify.com/album/3bk5oW9x91uHCJZHsodGwf) | 4:16 | 2025-05-01 | 2025-06-28 |
 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-09-01 | 2022-10-14 |
 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 | 2022-09-22 | 2023-08-31 |
-| [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 | 2024-05-16 |  |
+| [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 | 2024-05-16 | 2025-12-02 |
 | [Dogs In Heaven](https://open.spotify.com/track/14aI471gbVhilXXhaV5vww) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [Dogs In Heaven](https://open.spotify.com/album/3bhQKuDSclCvuunld6lR4g) | 2:08 | 2025-07-25 | 2025-08-09 |
 | [Don't Press Me](https://open.spotify.com/track/1kjV1x2jSTA6g4RoPm3HdY) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Anna Calls From The Arctic](https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva) | 1:50 | 2022-08-18 | 2022-09-23 |
 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 | 2023-05-18 | 2023-08-05 |
@@ -240,6 +240,7 @@
 | [Falling on my Sword](https://open.spotify.com/track/3t6xrRUy8FmhH7XH86RO1O) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Falling on my Sword](https://open.spotify.com/album/6hNodCtj6sGpBT3a0VxF6c) | 2:27 | 2025-07-04 | 2025-09-21 |
 | [Famous](https://open.spotify.com/track/5yqJYw5xgVn46fc0IZ55Mz) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Guitar Music](https://open.spotify.com/album/6aYwIBompOG7x0c2BukbgI) | 3:19 | 2022-09-22 | 2023-05-19 |
 | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn) | 3:21 | 2024-01-12 | 2024-04-19 |
+| [Fashion](https://open.spotify.com/track/1aoFQBQrclXuxUTCldGNYh) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fashion](https://open.spotify.com/album/5inSPDl3eQnBxY1nJhZatm) | 2:53 | 2025-10-03 |  |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-07-12 | 2025-05-02 |
 | [Feel for Me](https://open.spotify.com/track/1RLPKYPsBtuOnrSAXAILae) | [Lissy Taylor](https://open.spotify.com/artist/15ZEwlfPIbAiAR20HklpR4) | [Feel for Me](https://open.spotify.com/album/1hPsPaR9azk6Yc7whUkSQP) | 3:22 | 2023-07-21 | 2023-08-05 |
 | [Feel It Coming](https://open.spotify.com/track/1388AD5R9YhE6ClacuHP7r) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Feel It Coming](https://open.spotify.com/album/4GaYU7DtWCWtRM3FCNPG9s) | 2:30 | 2023-06-30 | 2023-07-14 |

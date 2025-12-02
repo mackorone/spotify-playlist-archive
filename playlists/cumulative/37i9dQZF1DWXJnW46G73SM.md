@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: احمد كامل
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: حمزة نمرة
 
-1,606 songs - 3 day 17 hr 34 min
+1,607 songs - 3 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [baet wahdak](https://open.spotify.com/track/15DNX2g87vP8AgvNxF5yDa) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [baet wahdak](https://open.spotify.com/album/2KJYV0GfkiCEIHQMtkukUL) | 3:44 | 2023-01-19 | 2023-02-24 |
 | [Baftekrek Beleil](https://open.spotify.com/track/4Yzk6Ph1BGGjlXuA3id81i) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk) | [Baftekrek Beleil](https://open.spotify.com/album/7oPA18Mt8l9SXJsU8tKaMO) | 2:40 | 2024-11-07 | 2024-12-06 |
 | [Bagheeb Bmzagy](https://open.spotify.com/track/6pC4o086d8fwArcIVdlyJT) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Bagheeb Bmzagy](https://open.spotify.com/album/4WL5gL4OulnpsFDXzba3ZT) | 3:20 | 2023-07-24 | 2023-08-18 |
-| [Baheb Elly Yehaybk](https://open.spotify.com/track/1gl7s2qFAfaY9ae3IWrITt) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Esseily Summer 2025](https://open.spotify.com/album/1yIsLU4hhXpgH29SqpvtAZ) | 3:04 | 2025-08-07 |  |
+| [Baheb Elly Yehaybk](https://open.spotify.com/track/1gl7s2qFAfaY9ae3IWrITt) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Esseily Summer 2025](https://open.spotify.com/album/1yIsLU4hhXpgH29SqpvtAZ) | 3:04 | 2025-08-07 | 2025-12-02 |
 | [Bahebak](https://open.spotify.com/track/3H4aKXzXM8UrgcueXfGSLV) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Bahebak](https://open.spotify.com/album/6lGfM6xAHxoqCCthpYMsk0) | 3:02 | 2023-10-12 | 2023-10-15 |
 | [Bahebak](https://open.spotify.com/track/4NCbUpDhOeCLjyBXNpSAcW) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Fiha Eh](https://open.spotify.com/album/2UdD6ElFXoz4VmVg5SLgrk) | 3:02 | 2023-10-12 | 2024-01-12 |
 | [Bahebek Tab3an](https://open.spotify.com/track/7LFeJfAOjhKsCs3UwxkH2R) | [Esaf](https://open.spotify.com/artist/0nwERAZbDOU5tAEW9QdbVl) | [Bahebek Tab3an](https://open.spotify.com/album/4XXCpiUuZwHdDdf4i1GAgZ) | 4:06 | 2023-12-14 | 2024-01-26 |
@@ -1131,6 +1131,7 @@
 | [انتي اعظم اختيار](https://open.spotify.com/track/0IsnB2bkWr1OYyvfVsseLs) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [انتي اعظم اختيار](https://open.spotify.com/album/17EepIsYf9bOZkyFzgZpdO) | 3:04 | 2025-06-12 | 2025-06-27 |
 | [انتي الترند \(لفيت العالم\)](https://open.spotify.com/track/2ao1kZ8oROe0y6HtdDN6OO) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk) | [انتي الترند \(لفيت العالم\)](https://open.spotify.com/album/45ntcfARG4ULK6k5zLuaMC) | 3:01 | 2023-08-01 | 2023-09-23 |
 | [انسي يأسك](https://open.spotify.com/track/67ELl3i4PFwL2Yc53ANsvE) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [انسي يأسك](https://open.spotify.com/album/5Y9UEFxBi8Yye2e5OvpAWn) | 3:01 | 2023-12-29 | 2024-02-06 |
+| [اهدى](https://open.spotify.com/track/5JlTukGLAu97KMeIz9EdCM) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [احكي \(الوجه الأول\)](https://open.spotify.com/album/4Uu12iDqBd2oruxXKXnmMi) | 3:32 | 2025-12-01 |  |
 | [اهي مشيت](https://open.spotify.com/track/55AsAf4UgULhtMrr50SBRH) | [farid](https://open.spotify.com/artist/1gSaqK4ZkM1P44SeOi3ay9), [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [اهي مشيت](https://open.spotify.com/album/4EvxoILg3a3IZrqwevxXTc) | 3:44 | 2023-12-29 | 2024-02-08 |
 | [اورنچ فري ماكس عيش كله فري \- روبي](https://open.spotify.com/track/3S8O0CO5D6XXzFgiNWTHTW) | [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [اورنچ فري ماكس عيش كله فري \- روبي](https://open.spotify.com/album/0F0jClmLdwOpedhnnxfWiB) | 1:24 | 2024-09-12 | 2024-11-08 |
 | [اورنچ وأحمد سعد \- يا حليلة](https://open.spotify.com/track/7hyipDCX8rlOjDvzdUk2M1) | [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اورنچ وأحمد سعد \- يا حليلة](https://open.spotify.com/album/2qaBLpBlSt9MvFm0r0Nx9I) | 3:11 | 2025-11-21 |  |

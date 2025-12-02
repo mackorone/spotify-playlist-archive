@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\.  Kapak: Şam x Laçin
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,903 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,084 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 29 | [HAİNSİN](https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [HAİNSİN](https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx) | 1:57 |
 | 30 | [Bende Katilime Aşıktım](https://open.spotify.com/track/5dOsHFII8HF05Cq6BoZDOa) | [Yıldırım Elmas](https://open.spotify.com/artist/464lu5xDniFcO7vYC5K8Ox) | [Bende Katilime Aşıktım](https://open.spotify.com/album/51iuFHmvwb5h5E4oMhzmHu) | 2:41 |
 | 31 | [Aldanırım](https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Aldanırım](https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt) | 3:21 |
-| 32 | [ELA MANA](https://open.spotify.com/track/4uxsrixGArx2vuhjssHDVP) | [Yüksel Baltacı](https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw) | [ELA MANA](https://open.spotify.com/album/5NDghfuOVIJN3n90cNnBfx) | 4:24 |
-| 33 | [Sigara](https://open.spotify.com/track/2Vo0kGsnu44Nmfuh3r5aJv) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Perdeler](https://open.spotify.com/album/5cx3XHwc4WNml8uhO7LM3y) | 4:54 |
+| 32 | [Sigara](https://open.spotify.com/track/2Vo0kGsnu44Nmfuh3r5aJv) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Perdeler](https://open.spotify.com/album/5cx3XHwc4WNml8uhO7LM3y) | 4:54 |
+| 33 | [ELA MANA](https://open.spotify.com/track/4uxsrixGArx2vuhjssHDVP) | [Yüksel Baltacı](https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw) | [ELA MANA](https://open.spotify.com/album/5NDghfuOVIJN3n90cNnBfx) | 4:24 |
 | 34 | [Zehir \- Motive Remix](https://open.spotify.com/track/2OCqhgRAssguuVopUMfGL8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [manifestival \(deluxe\)](https://open.spotify.com/album/0MpedZcfZuHSMgIHacjRFL) | 3:52 |
 | 35 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 |
 | 36 | [SALINA SALINA](https://open.spotify.com/track/1Ka5a3r3oYJzCfXl5Uq2CA) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [SALINA SALINA](https://open.spotify.com/album/2eOg7JmgrIgAEpX4SBr6L8) | 2:08 |
 | 37 | [Kendine Dünya](https://open.spotify.com/track/5eGbBcz7DKfV0uIl7jX8Dr) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Kendine Dünya](https://open.spotify.com/album/6ifpbsUnG5sthrxVyYFHdp) | 3:21 |
 | 38 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 |
-| 39 | [Çık Artık Aklımdan](https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Çık Artık Aklımdan](https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt) | 3:44 |
-| 40 | [Senin Olsun](https://open.spotify.com/track/6IRuWQvn6p0ite4H4s7J2n) | [Ceylin Arslan](https://open.spotify.com/artist/1WQSj0aNrCPWRw7zf1PYcw) | [Senin Olsun](https://open.spotify.com/album/25erIZ2spmY3cH5TgwMJUp) | 2:18 |
-| 41 | [HALLETTİM](https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [MI AMOR](https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y) | 1:58 |
+| 39 | [HALLETTİM](https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [MI AMOR](https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y) | 1:58 |
+| 40 | [Çık Artık Aklımdan](https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Çık Artık Aklımdan](https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt) | 3:44 |
+| 41 | [Senin Olsun](https://open.spotify.com/track/6IRuWQvn6p0ite4H4s7J2n) | [Ceylin Arslan](https://open.spotify.com/artist/1WQSj0aNrCPWRw7zf1PYcw) | [Senin Olsun](https://open.spotify.com/album/25erIZ2spmY3cH5TgwMJUp) | 2:18 |
 | 42 | [Sen Ağla](https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:06 |
 | 43 | [cümlelerim](https://open.spotify.com/track/3GQm1FfMFmpoPyOwlo4bqL) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [cümlelerim](https://open.spotify.com/album/2GGvDWqti6JlsrRTKWsrLF) | 3:29 |
 | 44 | [Yok Başka Hayalim](https://open.spotify.com/track/6VDMOQPxx7JTv82AAZ83RZ) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Yok Başka Hayalim](https://open.spotify.com/album/2pZkhpw70j61o5uAkDnaBn) | 5:11 |

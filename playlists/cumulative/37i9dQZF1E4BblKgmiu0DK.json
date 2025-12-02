@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With blazingfairis, Orion Cross, real silent bloom and more",
+  "description": "With Orion Cross, real silent bloom, Cherri Bomb and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 227085,
       "name": "Animals - Female Version",
       "url": "https://open.spotify.com/track/6hhOHsYwwID5R2i8dRo51y"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 219973,
       "name": "Another Thin Line",
       "url": "https://open.spotify.com/track/5DxkMDVufdj00qiVgBdWiF"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/2HDo9PLQ66EOVESfVjydro"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 130290,
       "name": "Blazetrap Anthem",
       "url": "https://open.spotify.com/track/19WwfaQrv9Ofhce1PP3GRN"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 195520,
       "name": "Burn the Crown",
       "url": "https://open.spotify.com/track/5ZczBv5X58ZDUHgHOFlUBo"
@@ -470,6 +470,24 @@
       "duration_ms": 144004,
       "name": "Clout Crash Anthem",
       "url": "https://open.spotify.com/track/0wjnbpIAVAxT2OGsUwjI8X"
+    },
+    {
+      "album": {
+        "name": "Echo Chamber",
+        "url": "https://open.spotify.com/album/38YkAPOt9xiNtG2gzAA0mf"
+      },
+      "artists": [
+        {
+          "name": "Ministry of Dark",
+          "url": "https://open.spotify.com/artist/1rE5lFciclbNo2P4WGvKAp"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245919,
+      "name": "CTRL ALT DEL",
+      "url": "https://open.spotify.com/track/0zuoQl5ug77ciHXKNdLnXO"
     },
     {
       "album": {
@@ -664,7 +682,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 202631,
       "name": "Engine of Will",
       "url": "https://open.spotify.com/track/28DwI2iiIKziTbaQdBabMd"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 111433,
       "name": "Flexrage Circuit",
       "url": "https://open.spotify.com/track/5EsC9FA5hQTxBsDk6uDI9f"
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 214759,
       "name": "Halloween Boogie",
       "url": "https://open.spotify.com/track/7lCS8qx8J8syVgYZN63BAi"
@@ -1078,10 +1096,32 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 209386,
       "name": "Hey School Boy",
       "url": "https://open.spotify.com/track/6nuLMQ9g3NAObKgdZ9YLbu"
+    },
+    {
+      "album": {
+        "name": "uh oh I got happier",
+        "url": "https://open.spotify.com/album/4cnsj3bzlYTXC7Dxr2knKf"
+      },
+      "artists": [
+        {
+          "name": "Addie Addie Addie",
+          "url": "https://open.spotify.com/artist/1CJiNCZe3d5Hl14oLvTija"
+        },
+        {
+          "name": "Mitch the Devil",
+          "url": "https://open.spotify.com/artist/4GRxwd1FxPnOzl2MNxCtYx"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203781,
+      "name": "honor roll",
+      "url": "https://open.spotify.com/track/0V8DcN8zxbNc25PGKC5d01"
     },
     {
       "album": {
@@ -1150,7 +1190,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 188906,
       "name": "I Can't Think",
       "url": "https://open.spotify.com/track/0hNg30jiOpfWQiOkkEvbSx"
@@ -1402,7 +1442,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 211448,
       "name": "Join the Infestation",
       "url": "https://open.spotify.com/track/57KIpZZRR6uqDtwAK1uDs3"
@@ -1420,7 +1460,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -1528,7 +1568,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 201120,
       "name": "Light It Again",
       "url": "https://open.spotify.com/track/3fI7JwGGDUlXQoV5BChkQ0"
@@ -1708,7 +1748,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 198559,
       "name": "Mommosas at Noon",
       "url": "https://open.spotify.com/track/6kCkzPznYyb7qtMHaOUVwD"
@@ -1726,7 +1766,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -1766,6 +1806,42 @@
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
+    },
+    {
+      "album": {
+        "name": "nunca ando deciado",
+        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
+      },
+      "artists": [
+        {
+          "name": "blazingfairis",
+          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159433,
+      "name": "Neon Blaze Riot",
+      "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
+    },
+    {
+      "album": {
+        "name": "nunca ando deciado",
+        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
+      },
+      "artists": [
+        {
+          "name": "blazingfairis",
+          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157718,
+      "name": "Neon Thrash",
+      "url": "https://open.spotify.com/track/4HwI7j6Bo9Hqwy5wvdsnav"
     },
     {
       "album": {
@@ -1870,7 +1946,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 203167,
       "name": "Part Of You",
       "url": "https://open.spotify.com/track/6Bs4jja3M3kRObQMwWIVtV"
@@ -1924,7 +2000,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 191440,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
@@ -2014,7 +2090,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 257664,
       "name": "Salvation Of Fire",
       "url": "https://open.spotify.com/track/2RTzwftYB54C2Jya5VasZC"
@@ -2032,7 +2108,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 70290,
       "name": "Savage Flex Riot",
       "url": "https://open.spotify.com/track/3xBH0Wkv5uNBiJrA9bbHCq"
@@ -2158,7 +2234,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 202160,
       "name": "Think Like A Man",
       "url": "https://open.spotify.com/track/6AaBX9BWwQTjDtuqjoHELM"
@@ -2176,7 +2252,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 106110,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/7IiwWCfZ4tzymtKnfG4RL3"
@@ -2212,7 +2288,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 214285,
       "name": "Unspoken Expectations",
       "url": "https://open.spotify.com/track/4y6mqXn34jGfWprloqjx9Y"
@@ -2248,7 +2324,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 198570,
       "name": "Welcome To The Badlands",
       "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"
@@ -2284,7 +2360,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-02",
       "duration_ms": 234720,
       "name": "What I Didn't Say",
       "url": "https://open.spotify.com/track/4CNO4lnM6yZ8GCiCOBoplr"

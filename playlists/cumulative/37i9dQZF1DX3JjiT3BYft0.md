@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-461 songs - 1 day 8 hr 54 min
+462 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [FIRE BIRD](https://open.spotify.com/track/5YT7dwVt5HIm8PuXvXOS4s) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/2rkv0Q1Yn6raeCuk9U4ta5) | 5:25 | 2022-05-17 | 2022-07-28 |
 | [Five Letters](https://open.spotify.com/track/4vzVHL13WVQwDlUXmeqOrQ) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:09 | 2024-03-23 | 2025-02-26 |
 | [flame of hope](https://open.spotify.com/track/5gVM0EJQqP5dOc3fnIpHSb) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4xkv0qao5AVfWmeiIF6Zqk) | 4:12 | 2022-09-20 | 2023-03-18 |
-| [flame of hope](https://open.spotify.com/track/6jJpBqyEHynJY4AltSZ6m7) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:12 | 2023-03-14 |  |
+| [flame of hope](https://open.spotify.com/track/6jJpBqyEHynJY4AltSZ6m7) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:12 | 2023-03-14 | 2025-12-02 |
 | [flame of hope](https://open.spotify.com/track/33uMSExcz6590qktXXRXD2) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ブルームブルーム](https://open.spotify.com/album/4bDKZvWxDa4b2U5f6HxkqD) | 4:13 | 2022-06-23 | 2022-07-10 |
 | [flame of hope](https://open.spotify.com/track/5uszBzVvtvw29ZTYmpyE6U) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Bloom Bloom](https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf) | 4:13 | 2022-06-23 | 2022-10-02 |
 | [Floral Haven](https://open.spotify.com/track/25CbX0dHAeQq8HUwSSLyfC) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Für immer](https://open.spotify.com/album/6DBKnBAljASaAUGB9Cqxt9) | 4:41 | 2024-06-25 | 2025-03-19 |
@@ -271,7 +271,7 @@
 | [えがお・シング・あ・ソング](https://open.spotify.com/track/7tjr6flf3J84xAWMVioGPX) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [えがお・シング・あ・ソング](https://open.spotify.com/album/3Wv3E9CGqGqSCIf4Fpn6jf) | 4:09 | 2022-05-17 | 2022-07-22 |
 | [えがお･シング･あ･ソング](https://open.spotify.com/track/19ejmhBUzhgVoX8W9bMK8S) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK) | 4:09 | 2022-09-20 | 2024-04-19 |
 | [おもいでイルミネーション](https://open.spotify.com/track/7qwcN9x7L6ZhkqstCXIpjK) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこ×にこ=ハイパースマイルパワー!](https://open.spotify.com/album/5UenLEIt08bBiAFzwL9Yk3) | 4:14 | 2022-06-23 | 2024-10-05 |
-| [かくれんぼ \- Cover](https://open.spotify.com/track/74KEa2YphxxbDhOOjCG7O8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [かくれんぼ \(Cover\)](https://open.spotify.com/album/2sOL3Skidcw9TXJeM3chRi) | 4:58 | 2024-03-23 |  |
+| [かくれんぼ \- Cover](https://open.spotify.com/track/74KEa2YphxxbDhOOjCG7O8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [かくれんぼ \(Cover\)](https://open.spotify.com/album/2sOL3Skidcw9TXJeM3chRi) | 4:58 | 2024-03-23 | 2025-12-02 |
 | [きゅ\~まい\*flower](https://open.spotify.com/track/659EbdMtrJVXdQN13bgVRt) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 3:39 | 2022-08-30 | 2022-10-02 |
 | [きゅ〜まい\*flower](https://open.spotify.com/track/09VlBUV2bN1Hk8KtXD59HS) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [きゅ〜まい\*flower](https://open.spotify.com/album/0hHVUOsumXqR5YJ9ueTcgx) | 3:39 | 2022-06-23 | 2022-07-28 |
 | [きゅうくらりん \- Cover](https://open.spotify.com/track/5a1c3xsbunuS8ybfIdu1Io) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きゅうくらりん \(Cover\)](https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV) | 3:34 | 2024-03-23 |  |
@@ -326,6 +326,7 @@
 | [カサブタ \- Cover](https://open.spotify.com/track/59Pe5PRQEFrLVj9G4Bvp13) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:16 | 2024-03-23 |  |
 | [カナユメ](https://open.spotify.com/track/5n63vjAwKJy4GN9B6vu4cd) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [カナユメ](https://open.spotify.com/album/3BwWZNxUTv3qJXKkrygSC3) | 5:07 | 2022-06-23 | 2022-07-29 |
 | [カナユメ](https://open.spotify.com/track/4HnYTgVOCNihjBLzCOv8uQ) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [カナユメ](https://open.spotify.com/album/0Vyl70ePAyl55k88d6QbkU) | 5:07 | 2022-09-20 | 2022-11-13 |
+| [カラフルリバティー](https://open.spotify.com/track/3R25yGgpbQ92tEvaDBCkD7) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:38 | 2025-10-02 |  |
 | [ガールズコード](https://open.spotify.com/track/58mrO1dvtekoHTilgvu7CD) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [ガールズコード](https://open.spotify.com/album/5aQYjcS94D6obHNC1S2x8I) | 5:24 | 2022-05-17 | 2022-07-22 |
 | [キズナミュージック♪](https://open.spotify.com/track/6NGOZPVfWGnUNsiQ9Jhdtt) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3) | 5:15 | 2022-09-20 | 2024-04-19 |
 | [キズナミュージック♪](https://open.spotify.com/track/4zq1vsR7fPqbP4YfDomFSI) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [キズナミュージック♪](https://open.spotify.com/album/4mYniR7vYFUoalkROKInK8) | 5:17 | 2022-05-17 | 2022-07-27 |
@@ -406,7 +407,7 @@
 | [天球\(そら\)のMúsica](https://open.spotify.com/track/2X3zHvUVqnMX081GIXpnMi) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [天球\(そら\)のMúsica](https://open.spotify.com/album/1ypTFEY0nlC2nSl74hPNM3) | 4:39 | 2025-04-03 |  |
 | [孤壊牢](https://open.spotify.com/track/6I0pZ1MEPDWzxGlJKlKzTo) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [端程山](https://open.spotify.com/album/3YY96YJ5wYvHR7eNQLHbM6) | 3:34 | 2024-07-23 | 2025-01-13 |
 | [寄る辺のSunny, Sunny](https://open.spotify.com/track/0PUwA4Cjz4LE5rUzCqQPpJ) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [寄る辺のSunny, Sunny](https://open.spotify.com/album/6VWXDvHRhzJ5ylROdK18W2) | 3:35 | 2023-03-14 | 2023-03-16 |
-| [寄る辺のSunny, Sunny](https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:35 | 2023-06-29 | 2025-11-11 |
+| [寄る辺のSunny, Sunny](https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:35 | 2023-06-29 |  |
 | [影色舞](https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 3:29 | 2023-04-11 | 2024-07-10 |
 | [影色舞](https://open.spotify.com/track/4caYPoCfxiIzrxjIm0nr4y) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [影色舞](https://open.spotify.com/album/2FjnF7hRrVMzUKnqaWRDf4) | 3:29 | 2023-04-11 | 2023-04-13 |
 | [新しい季節に](https://open.spotify.com/track/6I0lBT6H0orSJc3Rdvfbvs) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [新しい季節に](https://open.spotify.com/album/1Byc010p3AiGice9K4oNTy) | 3:31 | 2024-01-23 | 2024-01-25 |

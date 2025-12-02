@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1796,
+  "num_followers": 1798,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAAX4b3KXKUKKiEF2PsslHRa",
+  "snapshot_id": "aSuJAAAAAAC+rjqfZf7U47rUiZJkE+dl",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Franck & Chopin: Cello Sonatas",
+        "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
+      "url": "https://open.spotify.com/track/07G1fEN9kYXOb4D5iKdKf3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destination Paris - Un homme et une femme",
         "url": "https://open.spotify.com/album/6a2KMUwOkWgVPFJDcmgHve"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 180706,
       "name": "Un homme et une femme",
       "url": "https://open.spotify.com/track/1fNawoarma7dusg6ch2wlV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Franck & Chopin: Cello Sonatas",
-        "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
-      },
-      "artists": [
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
-      "url": "https://open.spotify.com/track/07G1fEN9kYXOb4D5iKdKf3"
     },
     {
       "added_at": null,
@@ -447,22 +447,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Einaudi: Air",
-        "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
+        "name": "Dunckel: Wake",
+        "url": "https://open.spotify.com/album/2zeTlmZZd3oGnJTDq2FgsZ"
       },
       "artists": [
         {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+          "name": "JB Dunckel",
+          "url": "https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
         }
       ],
-      "duration_ms": 249346,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
+      "duration_ms": 252866,
+      "name": "Wake",
+      "url": "https://open.spotify.com/track/1dQURFJy6aduSwPhK5wMbg"
     },
     {
       "added_at": null,
@@ -499,26 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dunckel: Wake",
-        "url": "https://open.spotify.com/album/2zeTlmZZd3oGnJTDq2FgsZ"
+        "name": "Einaudi: Air",
+        "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
       },
       "artists": [
         {
-          "name": "JB Dunckel",
-          "url": "https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm"
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Capucelli",
-          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
         }
       ],
-      "duration_ms": 252866,
-      "name": "Wake",
-      "url": "https://open.spotify.com/track/1dQURFJy6aduSwPhK5wMbg"
+      "duration_ms": 249346,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
     },
     {
       "added_at": null,
@@ -583,38 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/15Tm3klxsizQAnp0vkRjZE"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        },
-        {
-          "name": "Adrien Perruchon",
-          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 214408,
-      "name": "Richter: The Leftovers: She Remembers",
-      "url": "https://open.spotify.com/track/2t3FchceIZnHEbLzssgBTc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saint-Sa\u00ebns: Le carnaval des animaux, Septuor & Fantaisie",
         "url": "https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1"
       },
@@ -643,13 +611,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
       "artists": [
         {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/15Tm3klxsizQAnp0vkRjZE"
         },
         {
           "name": "Gautier Capu\u00e7on",
@@ -658,11 +626,19 @@
         {
           "name": "Jerome Ducros",
           "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Adrien Perruchon",
+          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Towards the Light",
-      "url": "https://open.spotify.com/track/4SG9kgdc4zEjSl0qMcobUb"
+      "duration_ms": 214408,
+      "name": "Richter: The Leftovers: She Remembers",
+      "url": "https://open.spotify.com/track/2t3FchceIZnHEbLzssgBTc"
     },
     {
       "added_at": null,
@@ -703,6 +679,30 @@
       "duration_ms": 370013,
       "name": "Souvenir de Florence, Op. 70, TH 118: III. Allegro moderato - Live from Verbier Festival / 2013",
       "url": "https://open.spotify.com/track/6flZV70cwZLQE1XsPBz1NF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Towards the Light",
+      "url": "https://open.spotify.com/track/4SG9kgdc4zEjSl0qMcobUb"
     },
     {
       "added_at": null,
@@ -792,8 +792,8 @@
       },
       "artists": [
         {
-          "name": "Nico Muhly",
-          "url": "https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc"
+          "name": "Gabriela Montero",
+          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
         },
         {
           "name": "Gautier Capu\u00e7on",
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
         }
       ],
-      "duration_ms": 205280,
-      "name": "Side Piece",
-      "url": "https://open.spotify.com/track/0Kh8QH6UKrLCXwTL7zQ4yA"
+      "duration_ms": 277106,
+      "name": "Sur le lac du Bourget",
+      "url": "https://open.spotify.com/track/74jW9U0xz7KWj7CLe4JONb"
     },
     {
       "added_at": null,
@@ -867,6 +867,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Schubert: String Quintet, Op. 163 & Lieder",
+        "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 913335,
+      "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
+      "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Nico Muhly",
+          "url": "https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Side Piece",
+      "url": "https://open.spotify.com/track/0Kh8QH6UKrLCXwTL7zQ4yA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Haydn: Cello Concertos",
         "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
       },
@@ -891,54 +939,6 @@
       "duration_ms": 273826,
       "name": "Haydn: Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",
       "url": "https://open.spotify.com/track/20SEyo1jCgiYxgAabS9W7U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Quenton Blache",
-          "url": "https://open.spotify.com/artist/00F2v2jg4UKg5t0tT0RV5T"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Capucelli",
-          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Of Wind and Rain",
-      "url": "https://open.spotify.com/track/1UMVBR4O1BhZSRkgzFZPAM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Schubert: String Quintet, Op. 163 & Lieder",
-        "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Quatuor \u00c9b\u00e8ne",
-          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 913335,
-      "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
-      "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"
     },
     {
       "added_at": null,
@@ -996,21 +996,21 @@
       },
       "artists": [
         {
-          "name": "Gabriela Montero",
-          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
+          "name": "Quenton Blache",
+          "url": "https://open.spotify.com/artist/00F2v2jg4UKg5t0tT0RV5T"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
         }
       ],
-      "duration_ms": 277106,
-      "name": "Sur le lac du Bourget",
-      "url": "https://open.spotify.com/track/74jW9U0xz7KWj7CLe4JONb"
+      "duration_ms": 230880,
+      "name": "Of Wind and Rain",
+      "url": "https://open.spotify.com/track/1UMVBR4O1BhZSRkgzFZPAM"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Sainté
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,045 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,036 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 17 | [mate in five](https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [Jöetry](https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N) | 4:04 |
 | 18 | [SS Interlude](https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Rise Above Hate](https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg) | 1:52 |
 | 19 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
-| 20 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
+| 20 | [FVN 07: Afraid I'll Change](https://open.spotify.com/track/1Yu2BiCWTNznlk36CkRvCJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Failed Voice Notes](https://open.spotify.com/album/0ECdefTy0wLvhGK2ctYtGe) | 3:13 |
 | 21 | [Deja Vu](https://open.spotify.com/track/68eGwObayYWZu9RZMYbUte) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Deja Vu](https://open.spotify.com/album/34uPcK97UMz8BClljHmJkL) | 2:09 |
-| 22 | [Hairclips](https://open.spotify.com/track/3PYNyyyvqbiLbjBj5SNzBI) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Hairclips](https://open.spotify.com/album/4YzrFnPfeFs63RrQXOThyx) | 3:04 |
-| 23 | [FVN 07: Afraid I'll Change](https://open.spotify.com/track/1Yu2BiCWTNznlk36CkRvCJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Failed Voice Notes](https://open.spotify.com/album/0ECdefTy0wLvhGK2ctYtGe) | 3:13 |
+| 22 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
+| 23 | [Hairclips](https://open.spotify.com/track/3PYNyyyvqbiLbjBj5SNzBI) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Hairclips](https://open.spotify.com/album/4YzrFnPfeFs63RrQXOThyx) | 3:04 |
 | 24 | [Love Me](https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj) | [ArtistRD](https://open.spotify.com/artist/3cdy10Sdneled46d13A74S) | [Love Me](https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe) | 3:10 |
 | 25 | [Pain Interlude](https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7) | [Tskinz](https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap) | [Pain Interlude](https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF) | 1:08 |
 | 26 | [DTB](https://open.spotify.com/track/37y4PsK6A7HJ6ao9wsiuBh) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 2:15 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 94 | [Deeper Than Drill](https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Deeper Than Drill](https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG) | 2:54 |
 | 95 | [Day and Night \(Prodbyjak\)](https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night \(Prodbyjak\)](https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap) | 3:12 |
 | 96 | [No Pain](https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [No Pain](https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb) | 2:45 |
-| 97 | [She Comes & Goes](https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [She Comes & Goes](https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp) | 3:19 |
+| 97 | [Drowning](https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Drowning](https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf) | 2:13 |
 | 98 | [Broken Hearted Crook](https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Broken Hearted Crook](https://open.spotify.com/album/6wIT6xsXQj5gP2rGq4auPS) | 2:47 |
 | 99 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |
 | 100 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |

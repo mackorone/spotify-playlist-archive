@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,470 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,473 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [NaNaNa](https://open.spotify.com/track/0ETjTLIst5iwZJlt661giq) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [SLAANG](https://open.spotify.com/album/6WJ9stbIbxOojiHk73oL8q) | 2:55 |
 | 50 | [Беспечный рыцарь тьмы](https://open.spotify.com/track/2FSfCJu8tac61GwgjGLDZK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [PAYCHECK](https://open.spotify.com/album/6ZZtoqsZlMQKf1EooeK9RA) | 3:53 |
 
-Snapshot ID: `ML+8gAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MMEG+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298873,
+  "num_followers": 298841,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2025-11-27 23:00:13",
       "album": {
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 201766,
+      "name": "how do you dance?",
+      "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
+    },
+    {
+      "added_at": "2025-11-27 23:00:13",
+      "album": {
         "name": "Cry about it! (feat. Ravyn Lenae)",
         "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 171507,
       "name": "Cry about it! (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
-    },
-    {
-      "added_at": "2025-11-27 23:00:13",
-      "album": {
-        "name": "stay with the ocean, i'll find you",
-        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 201766,
-      "name": "how do you dance?",
-      "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
     },
     {
       "added_at": "2025-11-27 23:00:13",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-11-27 23:00:13",
       "album": {
+        "name": "Chronologic",
+        "url": "https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh"
+    },
+    {
+      "added_at": "2025-11-27 23:00:13",
+      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/4THNExkJ80NtafCGJADvar"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 151926,
       "name": "Nuit sauvage",
       "url": "https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai"
-    },
-    {
-      "added_at": "2025-11-27 23:00:13",
-      "album": {
-        "name": "Chronologic",
-        "url": "https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 216213,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh"
     },
     {
       "added_at": "2025-11-27 23:00:13",

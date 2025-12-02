@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,580 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,581 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 4 | [Nalonda Nemala](https://open.spotify.com/track/1MgMK2l4zjRKl56tvdqXih) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Nalonda Nemala](https://open.spotify.com/album/5I9F9BPPANye5vrYjahOIG) | 3:02 |
 | 5 | [Kyoyina Omanya \(Remix\)](https://open.spotify.com/track/1JZvvNFskJttTabmaJA2ji) | [Crysto Panda](https://open.spotify.com/artist/3z5uVPKm4ddcD43sK0dxAX), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kyoyina Omanya \(Remix\)](https://open.spotify.com/album/3tbEc4SFKe31ayuw09YmLD) | 3:00 |
 | 6 | [Izulu](https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Geosteady1](https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu) | [King Kong](https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R) | 3:37 |
-| 7 | [Tumbiza Sound](https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu) | [Eezzy](https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg) | [Tumbiza Sound](https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx) | 3:10 |
-| 8 | [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 |
+| 7 | [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 |
+| 8 | [Tumbiza Sound](https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu) | [Eezzy](https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg) | [Tumbiza Sound](https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx) | 3:10 |
 | 9 | [Teacher](https://open.spotify.com/track/31onESW2T3d0A9KcITQeQK) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Teacher](https://open.spotify.com/album/0iYizww1zmBgvN4rW34nQb) | 2:44 |
 | 10 | [Welcome](https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO) | [Ivanka](https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy) | [Welcome](https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU) | 3:13 |
 | 11 | [Go Down](https://open.spotify.com/track/5oWb51bWAgCsxBOlWKZ7IS) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ), [Kent & flosso](https://open.spotify.com/artist/5YBqx5BwozQFujEQLgQWYD), [Coco Finger](https://open.spotify.com/artist/4ybgdjopQNxL1SiwC1P0ib) | [Go Down](https://open.spotify.com/album/0uN5rQ90SWWH083CkSHI3T) | 3:27 |

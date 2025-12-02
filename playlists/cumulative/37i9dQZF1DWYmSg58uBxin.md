@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-329 songs - 14 hr 56 min
+332 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Adventure In The Forest](https://open.spotify.com/track/1xx8YA238460AuNaGp9txW) | [Bella Wilkinsson](https://open.spotify.com/artist/5u3pk5iGYX6qKIIVcyohZp) | [Adventure In The Forest](https://open.spotify.com/album/6cUUEztc7cPMtOYVgGUT7h) | 2:04 | 2023-11-13 |  |
 | [After The Rain](https://open.spotify.com/track/5XYAieIJYukSs5yscEgu9w) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [After The Rain](https://open.spotify.com/album/7tsPRVM0KZQrV7txpBoa4R) | 2:38 | 2022-07-22 | 2023-09-09 |
 | [Almost April](https://open.spotify.com/track/5Q3Ap0awH9ziePtPXhxWEB) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [Almost April](https://open.spotify.com/album/7carHLnG8dnfTtFik3eqhb) | 2:53 | 2024-05-07 |  |
+| [Always Near](https://open.spotify.com/track/5XvcvUJf7fusfqLk7peZ4k) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [Always Near](https://open.spotify.com/album/7czK4CJMuSL98IjzU725wl) | 2:34 | 2025-12-01 |  |
 | [Always Shining Bright](https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Always Shining Bright](https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A) | 2:16 | 2023-10-10 |  |
 | [Angustifolia](https://open.spotify.com/track/0wXoceSodypn4BlHQRUYLA) | [Dagmar Sheernan](https://open.spotify.com/artist/3sQmwQXoOcmGEc20ZM1zG9) | [Angustifolia](https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF) | 2:13 | 2020-10-20\* | 2023-09-09 |
 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 | 2023-09-26 |  |
@@ -34,6 +35,7 @@
 | [Barcarolle](https://open.spotify.com/track/5BHPZXzyqpVDsUhzzf7nTS) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Continuo](https://open.spotify.com/album/6J9zqyjrncN68DgTubHoGr) | 2:20 | 2020-10-20\* | 2021-10-21 |
 | [Beaten Paths](https://open.spotify.com/track/6qZSqd0f69P0Rgu7QNkVyr) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Beaten Paths](https://open.spotify.com/album/1P2EE6grDABLYOioo7VP5w) | 2:23 | 2025-09-17 |  |
 | [Before Leaving](https://open.spotify.com/track/0ulkiXChe3pH4UMxuTvXje) | [Gradient Layer](https://open.spotify.com/artist/5ySNkmwfljYELipELJjQyl) | [A Lonesome Place](https://open.spotify.com/album/7hEdNZe2UtuKl1rzBwSq9R) | 1:55 | 2020-10-20\* | 2023-09-09 |
+| [Before We Knew](https://open.spotify.com/track/6U20TztvUrp7ccU75MAvIX) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Before We Knew](https://open.spotify.com/album/5Gt05duxvTbV2BIsNCGxgY) | 2:46 | 2025-12-01 |  |
 | [Believe](https://open.spotify.com/track/3F58fYdt8S9jHUUPnziTpC) | [Pederosa Calafiori](https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq) | [Believe](https://open.spotify.com/album/5Q2CIcPYsX3hI0EpVMFXGb) | 2:36 | 2025-04-09 |  |
 | [Benevolent](https://open.spotify.com/track/6PySB4GoTTMKXhH4Ksaugj) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 3:08 | 2020-10-20\* | 2023-09-09 |
 | [Berceuse Andalouse](https://open.spotify.com/track/0iEaYbbs0Py0s8TgwZLpSd) | [Marcel Leblanc](https://open.spotify.com/artist/4pZL5hrGaaGSVfFOCtYxz7) | [Thérapie Acoustique](https://open.spotify.com/album/5XNtYndkZcj7HNUxtOSP6X) | 2:11 | 2020-10-20\* | 2023-09-09 |
@@ -303,6 +305,7 @@
 | [Tia](https://open.spotify.com/track/2kWVfdLPztoMrIwwwSapdC) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3), [Carlos Britez](https://open.spotify.com/artist/2cgmZKQUmtnBs9XSfnfXax) | [Sueño](https://open.spotify.com/album/1uW5yFeZO4V0W14SDxG61w) | 3:03 | 2023-10-10 | 2025-03-19 |
 | [Til Mathilde](https://open.spotify.com/track/74hynqEUgqRntXOfiqAkd9) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Til Mathilde](https://open.spotify.com/album/3VgStQpHt6x0AfiBI1t92P) | 4:15 | 2020-10-20\* | 2021-09-03 |
 | [Time Freezes](https://open.spotify.com/track/7A7WJn6zZ1RNoM6FWIffq1) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Winter Solstice](https://open.spotify.com/album/5GWU9xzKbfbKHXneotKD7f) | 3:15 | 2020-10-20\* | 2022-05-20 |
+| [Time Is a River](https://open.spotify.com/track/6V2bLU0kshksarML59YS4U) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Time Is a River](https://open.spotify.com/album/35yjbZXzQHCSflB1ocHKub) | 2:42 | 2025-12-01 |  |
 | [Time Passed](https://open.spotify.com/track/1y3dPuREeSHPKvpkrWyMbq) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Time Passed](https://open.spotify.com/album/19Ui6lsluQ6ZMb3tkkaJeN) | 3:05 | 2024-04-17 |  |
 | [Time Will Heal](https://open.spotify.com/track/0pmb6g76rV00adDf5xpLIJ) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Time Will Heal](https://open.spotify.com/album/2DrVkyMIctHhYWz0WU7Vfj) | 2:27 | 2025-05-20 | 2025-08-06 |
 | [To Be Loved](https://open.spotify.com/track/2FpiWWQDFnTXWF1Ltt7hgE) | [Ana Miaton](https://open.spotify.com/artist/4SXuJITXxFLY1nfNBeRt9Y) | [To Be Loved](https://open.spotify.com/album/6PaDNwaeFCp7ZI2opeGX8Q) | 2:11 | 2025-03-05 |  |

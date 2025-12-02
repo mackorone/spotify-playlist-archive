@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,503 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,523 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 32 | [California Sun](https://open.spotify.com/track/6VZZx248WTQ4mligzYLILP) | [Ricardo Ray Orchestra](https://open.spotify.com/artist/3UmPZOpOL6veEtZ0g0J1jo) | [Let's Get Down To The Real Nitty Gritty](https://open.spotify.com/album/269lCCNvG2Nc91rXWh2ICp) | 2:40 |
 | 33 | [El Borracho](https://open.spotify.com/track/5rbhgXOL4AkkMr7A4GU9mJ) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [La Moderna De Siempre](https://open.spotify.com/album/5yuDeyPDVTKLQHtRXa24z7) | 2:38 |
 | 34 | [En Puerta de Tierra](https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g) | [Joe Quijano](https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4) | [Exitos de Oro \(Golden Hits\)](https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH) | 2:27 |
-| 35 | [I Like It Like That](https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like it Like That](https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ) | 4:25 |
-| 36 | [Gypsy Woman](https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Joe Bataan Anthology](https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv) | 4:06 |
+| 35 | [Gypsy Woman](https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Joe Bataan Anthology](https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv) | 4:06 |
+| 36 | [I Like It Like That](https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like it Like That](https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ) | 4:25 |
 | 37 | [I'll Be A Happy Man](https://open.spotify.com/track/2P5nMi24nyYcd7roZt5HDK) | [The Latin Blues Band Featuring Luis Aviles](https://open.spotify.com/artist/5QnFEYXvvMgy6Skex2yNdM), [The Latin Blues Band](https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W) | [Take A Trip Pussycat \(feat\. Luis Aviles\)](https://open.spotify.com/album/6MlF1GxkWZWvqxiz5QrdDJ) | 3:34 |
 | 38 | [Guararé](https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Barretto](https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ) | 5:38 |
 | 39 | [A la la E](https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6) | [Pete Terrace](https://open.spotify.com/artist/1WzIuVArOislB6oLlBkxMP) | [Pachanguerisimo, Vol\. 1](https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq) | 2:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40TymUMoWoqMrIV7VBRRAn">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464 likes - 52 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 52 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 51 | [Promessas](https://open.spotify.com/track/0DG8rlv4qfOU2YbdttWHLy) | [Lais Souza](https://open.spotify.com/artist/1gbps42EklltqqNRUb88gx) | [Promessas](https://open.spotify.com/album/7od6KkiUWFK2Qx3iHTRunC) | 4:45 |
 | 52 | [O Protagonista](https://open.spotify.com/track/5FrLfHABHDRUvqNP8hWGCr) | [Cris Alves](https://open.spotify.com/artist/2W4yNmbDdeKdCuQSlP9H8o) | [O Protagonista](https://open.spotify.com/album/3ww6ExGunZagBV8FJRzyw4) | 2:49 |
 
-Snapshot ID: `AcDAZAAAAAD6kWcNeutUldIg/cby8LQL`
+Snapshot ID: `AcDFyAAAAABOysoS76Ns8dKNgo6s+TVp`

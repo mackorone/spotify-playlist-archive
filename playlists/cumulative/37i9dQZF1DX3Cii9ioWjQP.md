@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: SM JAZZ TRIO\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: Hyelyn Joo\(주혜린\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-274 songs - 19 hr 7 min
+275 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Home](https://open.spotify.com/track/0HfVfNfoK8ZpZ6EvKUgQLg) | [Ann Kim](https://open.spotify.com/artist/6G6kuN81r2blIeoah5kf9t) | [Home](https://open.spotify.com/album/5KwCT0VjBxXqGJFbrF88l5) | 4:10 | 2022-05-18 | 2024-09-20 |
 | [Honeymoon](https://open.spotify.com/track/5fFhTTd6pmgBpysk2ozGtg) | [ZXQ](https://open.spotify.com/artist/7x9SoabYD4wuOML2PQ6onB) | [Honeymoon](https://open.spotify.com/album/6SFC5vD6tvizIL3ghFJOQe) | 2:24 | 2023-02-07 | 2024-11-07 |
 | [How do i fall in love with you](https://open.spotify.com/track/6xYYN4ttq1SxwEdNMNgME8) | [Jeong young ji](https://open.spotify.com/artist/5l16AiioJMUHIhC65zPLDh) | [How do i fall in love with you](https://open.spotify.com/album/4t6jNHHCEgkgtQPmK24qEw) | 2:51 | 2025-05-27 |  |
+| [I Can't Sleep](https://open.spotify.com/track/0c5D3qXQ1WfyDspBrS8SRV) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj) | [I Can't Sleep](https://open.spotify.com/album/3yg5h8iww29SsQwjUCl7P9) | 3:05 | 2025-12-01 |  |
 | [I Will Never Fall In Love](https://open.spotify.com/track/3q0ASOCaqKj4ESgjx8wucp) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [I Will Never Fall In Love](https://open.spotify.com/album/3UXU5KaF2nWski3HG5SyBb) | 3:02 | 2023-12-12 | 2024-08-11 |
 | [I Wished On The Moon](https://open.spotify.com/track/608er1MSoN0BFXdvEP6X1C) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:15 | 2023-10-11 | 2024-11-07 |
 | [I'm Not a Butterfly](https://open.spotify.com/track/4RcuqGcL9G95s6qdZzKoqb) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Who Stole the Skies](https://open.spotify.com/album/3vBepxBq8Ik2Tsn5Yu1uML) | 5:13 | 2022-09-26 | 2023-02-08 |

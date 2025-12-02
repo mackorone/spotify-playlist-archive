@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,945 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,978 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 32 | [Raggae Down Babylon](https://open.spotify.com/track/37qZu3pX5kEslguZYdzM4e) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Hanging Fire](https://open.spotify.com/album/3f2XkrjIF5F5c1JPfcOl5n) | 4:25 |
 | 33 | [Miss Jamaica](https://open.spotify.com/track/7LsFKGyHBuBUyczlkuNk02) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rebel Light](https://open.spotify.com/album/3516ELRm8YLYO18q9ePzUI) | 2:24 |
 | 34 | [Rub\-A\-Dub Partners](https://open.spotify.com/track/4LAz7d1hYELgs0PQvEkkym) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 2:57 |
-| 35 | [Samba Reggae](https://open.spotify.com/track/5AEgVBPGMpx4jojTTSKEtJ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [War a Africa](https://open.spotify.com/album/58gv9p5fC4xs1N5ckoxPLX) | 3:56 |
-| 36 | [Brown Eyes](https://open.spotify.com/track/6TJxXzueYaZ3ZsDfXO3jWB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 3:39 |
+| 35 | [Brown Eyes](https://open.spotify.com/track/6TJxXzueYaZ3ZsDfXO3jWB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 3:39 |
+| 36 | [Samba Reggae](https://open.spotify.com/track/5AEgVBPGMpx4jojTTSKEtJ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [War a Africa](https://open.spotify.com/album/58gv9p5fC4xs1N5ckoxPLX) | 3:56 |
 | 37 | [John Crow](https://open.spotify.com/track/63CePn4RnA7iH6I2OoW82w) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Oneness Band](https://open.spotify.com/artist/48p7x7OPQCyMlI7JWx3b3i), [Steven Seagal](https://open.spotify.com/artist/1jgRWeREJTbx96zhcn8vgx) | [Marked For Death \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vWg5H7yPW7oYfosL0AFil) | 3:47 |
 | 38 | [Hakuna Matata](https://open.spotify.com/track/1VdQkGrUNJTqMkWlROP8mS) | [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rhythm Of The Pride Lands](https://open.spotify.com/album/38WcqhsXCL0TE86lTK2FHj) | 4:24 |
 | 39 | [Under the Sun, Moon and Stars](https://open.spotify.com/track/3gKNtPzCO5XCuKnrlvxU7B) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 49 | [Ska All Over the World](https://open.spotify.com/track/3vCRIsTY3iqBmovMktdsny) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Real Jamaica Ska](https://open.spotify.com/album/2rLogZR8BID2aRzwpymnhg) | 2:39 |
 | 50 | [Better Days Are Coming](https://open.spotify.com/track/7KrFKOGBY7J7ewu7ckCcHC) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Universal Masters Collection](https://open.spotify.com/album/47E8XMszHalHIxLdk7D49n) | 3:14 |
 
-Snapshot ID: `aSo3gAAAAADIUF3vHs9lSKpCWj7/SlIs`
+Snapshot ID: `aSuJAAAAAAB2CLsRC90fjqYSGCxsUiKG`

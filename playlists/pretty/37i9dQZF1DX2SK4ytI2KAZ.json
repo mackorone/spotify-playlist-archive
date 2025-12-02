@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1488743,
+  "num_followers": 1488688,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "Can We Please Have Fun",
-        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 220584,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
         "name": "Call Me What You Like",
         "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
+        "name": "Can We Please Have Fun",
+        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 220584,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
     },
     {
       "added_at": "2025-10-31 04:00:32",

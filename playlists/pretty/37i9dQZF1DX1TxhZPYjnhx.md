@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: JAIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,628 likes - 124 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,629 likes - 124 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [tropical downpour](https://open.spotify.com/track/5RKkfrz1twRhu7nDuYCAcJ) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [tropical downpour](https://open.spotify.com/album/59E30iPJI2jYozB70t4bPb) | 3:08 |
+| 1 | [Tropical Downpour](https://open.spotify.com/track/5RKkfrz1twRhu7nDuYCAcJ) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Tropical Downpour](https://open.spotify.com/album/59E30iPJI2jYozB70t4bPb) | 3:08 |
 | 2 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
 | 3 | [..FEISTY](https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ICEY..FEISTY](https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL) | 2:51 |
 | 4 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 |

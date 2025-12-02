@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 176,
+  "num_followers": 177,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAABp7NhBfUsUIKxJFp4eTVKV",
+  "snapshot_id": "aSuJAAAAAAD/PERg9obDEJ+FkbcLo4cu",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Sophie Gray",
+          "url": "https://open.spotify.com/artist/7rWhuhHP5WNIhzek4JVVfS"
+        }
+      ],
+      "duration_ms": 154213,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Float (feat. BAYLI)",
         "url": "https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 174193,
       "name": "Float (feat. BAYLI)",
       "url": "https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BOTH",
-        "url": "https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "Sophie Gray",
-          "url": "https://open.spotify.com/artist/7rWhuhHP5WNIhzek4JVVfS"
-        }
-      ],
-      "duration_ms": 154213,
-      "name": "BOTH",
-      "url": "https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 142142,
-      "name": "into me",
-      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "think of drugs",
         "url": "https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 185365,
       "name": "think of drugs",
       "url": "https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 142142,
+      "name": "into me",
+      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push N Pull",
-        "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
-      },
-      "artists": [
-        {
-          "name": "Runyu Qian",
-          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Push N Pull",
-      "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 130057,
       "name": "demon time (with BAYLI)",
       "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Push N Pull",
+        "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
+      },
+      "artists": [
+        {
+          "name": "Runyu Qian",
+          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Push N Pull",
+      "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
     },
     {
       "added_at": null,

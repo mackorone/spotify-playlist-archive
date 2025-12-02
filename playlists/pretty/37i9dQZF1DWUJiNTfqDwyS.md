@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Frayle
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,256 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,296 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 37 | [Shape of You](https://open.spotify.com/track/54SMw8TnDcuieolVRXBmni) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Shape of You](https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq) | 3:56 |
 | 38 | [Hallelujah](https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR) | [No Resolve](https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp) | [Hallelujah](https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE) | 2:36 |
 | 39 | [Shout 2000](https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:18 |
-| 40 | [Don’t Let Me Down](https://open.spotify.com/track/4H1JIMTpgDtwo1Ln876RlK) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Don’t Let Me Down](https://open.spotify.com/album/2knuzEl2xSGhUOPtuigl4R) | 3:30 |
-| 41 | [Gangsters Paradise](https://open.spotify.com/track/6xPD22JavtFYbyHl2AMVsn) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [Awaken the Fire](https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk) | 3:27 |
+| 40 | [Gangsters Paradise](https://open.spotify.com/track/6xPD22JavtFYbyHl2AMVsn) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [Awaken the Fire](https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk) | 3:27 |
+| 41 | [Don’t Let Me Down](https://open.spotify.com/track/4H1JIMTpgDtwo1Ln876RlK) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Don’t Let Me Down](https://open.spotify.com/album/2knuzEl2xSGhUOPtuigl4R) | 3:30 |
 | 42 | [SHATTERED DREAMS](https://open.spotify.com/track/5dOfJ0XfW7hTt6VsvUKc4s) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [SHATTERED DREAMS](https://open.spotify.com/album/3etzv8GvwFdVG4ijCk7EFo) | 4:09 |
 | 43 | [Toxic](https://open.spotify.com/track/34ccBqL3xNaCzPxr0UqoEw) | [A Static Lullaby](https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb) | [Rattlesnake!](https://open.spotify.com/album/2V2ZDvSY1DCgoTDWz9SIsu) | 3:20 |
 | 44 | [Simple Man \- 2005 Remaster](https://open.spotify.com/track/0OKl4ySuPS2VCuB0gby2pj) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Covers](https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli) | 6:20 |
 | 45 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:20 |
 | 46 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
-| 47 | [...Baby One More Time](https://open.spotify.com/track/6F2Qy5aNU2e03xh8EvLPNz) | [Bad Loverz](https://open.spotify.com/artist/3Z4scvNZyLu70b20EEKEw1), [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Greatest Hits](https://open.spotify.com/album/6Z31zeu4JTXXzmKhrAMBmm) | 3:18 |
-| 48 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
-| 49 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
+| 47 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
+| 48 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
+| 49 | [...Baby One More Time](https://open.spotify.com/track/6F2Qy5aNU2e03xh8EvLPNz) | [Bad Loverz](https://open.spotify.com/artist/3Z4scvNZyLu70b20EEKEw1), [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Greatest Hits](https://open.spotify.com/album/6Z31zeu4JTXXzmKhrAMBmm) | 3:18 |
 | 50 | [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 |
 
-Snapshot ID: `AAAAAJ2iNj4kbSsNBlKxNJsKshgqzfOF`
+Snapshot ID: `AAAAANv1Aimabz5zR5/vLZS8gfmTdn/u`

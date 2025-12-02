@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,392 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,428 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 47 | [5 More Days 'Til Summer](https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 4:02 |
 | 48 | [Ride \(Edit\)](https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo) | 3:40 |
 | 49 | [Little Girl's Eyes](https://open.spotify.com/track/3JvKhMWM71THA9WIX6x8o6) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 7:44 |
-| 50 | [Is It Me, Is It You](https://open.spotify.com/track/69IRcCUIKG2CecXMGJd057) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus \(Deluxe\)](https://open.spotify.com/album/1V4I2ePRIjgcxuGDJ3YF9G) | 3:51 |
+| 50 | [Circus](https://open.spotify.com/track/773RId8EM5wexAlZMlVMeL) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:48 |
 
-Snapshot ID: `aSo3gAAAAABZfnFMsOPsHRKdmOQCogu9`
+Snapshot ID: `aSuJAAAAAAAAdD9MEWt4v/toCyKcKw6o`

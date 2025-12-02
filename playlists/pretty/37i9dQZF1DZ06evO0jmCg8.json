@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 79841,
+  "num_followers": 79850,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSo3gAAAAAAPyAk2NGTKCozuDLU5ujFr",
+  "snapshot_id": "aSuJAAAAAADVw3MrzBdk995ZXPKc9BYD",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 288853,
-      "name": "Illuminate the Path",
-      "url": "https://open.spotify.com/track/5Wo7Z56JrHk7noeiQ8EAb0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
       },
@@ -91,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Break the Spell",
-        "url": "https://open.spotify.com/album/3Fjjxc5rAZr8xw0gl25crI"
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
       "artists": [
         {
@@ -100,9 +84,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 267666,
-      "name": "Break the Spell",
-      "url": "https://open.spotify.com/track/2XLfNFUKxi1er33lMTa34m"
+      "duration_ms": 288853,
+      "name": "Illuminate the Path",
+      "url": "https://open.spotify.com/track/5Wo7Z56JrHk7noeiQ8EAb0"
     },
     {
       "added_at": null,
@@ -119,6 +103,22 @@
       "duration_ms": 338960,
       "name": "Handshake with Hell",
       "url": "https://open.spotify.com/track/4jPU94aF0U2PMNN0aBnhgX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Break the Spell",
+        "url": "https://open.spotify.com/album/3Fjjxc5rAZr8xw0gl25crI"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Break the Spell",
+      "url": "https://open.spotify.com/track/2XLfNFUKxi1er33lMTa34m"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 269853,
-      "name": "Dream Stealer",
-      "url": "https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 220426,
       "name": "House of Mirrors",
       "url": "https://open.spotify.com/track/4mdop8Jx5BwspAQzvjF8pu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 269853,
+      "name": "Dream Stealer",
+      "url": "https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 231186,
-      "name": "Blood Dynasty",
-      "url": "https://open.spotify.com/track/6QO8o6bGA3bR056Rsm3bVk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 231773,
       "name": "Deceiver, Deceiver",
       "url": "https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 231186,
+      "name": "Blood Dynasty",
+      "url": "https://open.spotify.com/track/6QO8o6bGA3bR056Rsm3bVk"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Paper Tiger",
-      "url": "https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 298000,
       "name": "The Watcher",
       "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Paper Tiger",
+      "url": "https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 231186,
+      "name": "Poisoned Arrow",
+      "url": "https://open.spotify.com/track/0mO1FN8MXytVZfZYpC5i56"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blood Dynasty",
         "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 225840,
       "name": "A Million Suns",
       "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deceivers",
-        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 243080,
-      "name": "Sunset over the Empire",
-      "url": "https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 243080,
+      "name": "Sunset over the Empire",
+      "url": "https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blood Dynasty",
         "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 260680,
       "name": "Liars & Thieves",
       "url": "https://open.spotify.com/track/0ddMkwKUpd2ExFOLJlDoze"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deceivers",
-        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 231186,
-      "name": "Poisoned Arrow",
-      "url": "https://open.spotify.com/track/0mO1FN8MXytVZfZYpC5i56"
     },
     {
       "added_at": null,

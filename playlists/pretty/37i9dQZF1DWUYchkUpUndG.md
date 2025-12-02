@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Team Eternity Ghana
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,400 likes - 100 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,421 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 53 | [Your Love ! \- Stage Version](https://open.spotify.com/track/3FRaoyHE5eqgw2KPwfoXY6) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j) | [Your Love ! \(Stage Version\)](https://open.spotify.com/album/35rkwdjm85xvnoQdAnfuy6) | 2:36 |
 | 54 | [A Million Dollar Christmas](https://open.spotify.com/track/3Ev3xPgYf57G6l627TRQFh) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [A Million Dollar Christmas](https://open.spotify.com/album/3Y7LMt9CgdFbIOXY6QZixG) | 2:20 |
 | 55 | [Yahweh](https://open.spotify.com/track/1ZnVzPc8bWPq9GYx7x1rvm) | [Queeneth](https://open.spotify.com/artist/4W1nrydMUYV0Z1kPs3wi5p), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [Sunny Smith](https://open.spotify.com/artist/6Tyo3f69n9yKAaEBZNa4Fg) | [Yahweh](https://open.spotify.com/album/77UZuGvQMJHacwggW0Rtc9) | 6:57 |
-| 56 | [GLORY \(It belongs to You\)](https://open.spotify.com/track/0iBuV7UiQN9fJM8YWy9a3A) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [GLORY \(It belongs to You\)](https://open.spotify.com/album/0jvSPTpNzU1pwER0llsYMA) | 3:12 |
+| 56 | [GLORY \(It belongs to You\)](https://open.spotify.com/track/0iBuV7UiQN9fJM8YWy9a3A) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [GLORY \(It belongs to You\)](https://open.spotify.com/album/0jvSPTpNzU1pwER0llsYMA) | 3:14 |
 | 57 | [Alwaze Medley \- Live](https://open.spotify.com/track/7eM0OA1BeAynU1FjeaEt9A) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Alwaze Medley \(Live\)](https://open.spotify.com/album/5pdQ80OEokSSKDrxpPKSyJ) | 7:48 |
 | 58 | [Elite Levels](https://open.spotify.com/track/6iymwe6XeUeM57LpGkl0lX) | [Steve Elite](https://open.spotify.com/artist/47VkiDb1iXeoDfDrebngyk), [Jessica monday](https://open.spotify.com/artist/7LnoP2GdqJRRoWuWKVsS3X) | [December Elite Levels](https://open.spotify.com/album/7wMkOSZe8AX1WLu897KN70) | 2:12 |
 | 59 | [Eden](https://open.spotify.com/track/3mKEsNfkQFu5c0XdkGQnjW) | [Shime Ahua](https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5) | [BLOOM](https://open.spotify.com/album/6c729cR8S1TpL7lAOzKJAk) | 2:50 |

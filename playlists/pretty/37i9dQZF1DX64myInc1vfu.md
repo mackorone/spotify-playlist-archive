@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: iLe
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,800 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,817 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 25 | [Somos Algo](https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Somos Algo](https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k) | 3:54 |
 | 26 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
 | 27 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
-| 28 | [Noche No Te Vayas](https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Noche No Te Vayas](https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8) | 2:50 |
-| 29 | [Odio Gitano](https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Juntos Otra Vez](https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr) | 2:37 |
+| 28 | [Odio Gitano](https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Juntos Otra Vez](https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr) | 2:37 |
+| 29 | [Noche No Te Vayas](https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Noche No Te Vayas](https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8) | 2:50 |
 | 30 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
 | 31 | [Bonito](https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 4:00 |
 | 32 | [Me Vas a Hacer Falta](https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 4:00 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 56 | [Disfruto](https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q) | [Sindicato Del Ritmo](https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Sindicato Del Ritmo](https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX) | 4:10 |
 | 57 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
 | 58 | [Duele](https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Duele](https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx) | 3:33 |
-| 59 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 |
-| 60 | [Del Cielo Te Cuido](https://open.spotify.com/track/2ViPveuFTv06DjhGRDYFjo) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Del Cielo Te Cuido](https://open.spotify.com/album/0DLaniVrUGNKtJxYoREfjb) | 3:28 |
+| 59 | [Del Cielo Te Cuido](https://open.spotify.com/track/2ViPveuFTv06DjhGRDYFjo) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Del Cielo Te Cuido](https://open.spotify.com/album/0DLaniVrUGNKtJxYoREfjb) | 3:28 |
+| 60 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 |
 | 61 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
 | 62 | [Los mismos](https://open.spotify.com/track/6LnWzTjHrsrv57lVATmnZR) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Los mismos](https://open.spotify.com/album/5FOyz0vBUeOoj49M9loFTg) | 2:54 |
 | 63 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |

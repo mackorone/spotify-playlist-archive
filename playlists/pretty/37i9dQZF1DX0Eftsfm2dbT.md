@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Awich
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,480 likes - 96 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,481 likes - 96 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 54 | [BAKI \(feat\. Senninsho\)](https://open.spotify.com/track/0VRo9UAOxGs4B0iMw1dNdG) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD) | [BAKI \(feat\. Senninsho\)](https://open.spotify.com/album/3rRUpyt169DWFC9OlmCFvS) | 3:16 |
 | 55 | [DAMN](https://open.spotify.com/track/6P1ScoGPwtBgN1W7aV3Crf) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4) | [DAMN](https://open.spotify.com/album/7iVxJhbFiNiGKSMy0GQX34) | 3:03 |
 | 56 | [KEY POINT](https://open.spotify.com/track/5MovouvrcoXbsQOCOgluOr) | [KEYTOTHECITY](https://open.spotify.com/artist/50jQk3uTNzSzv4Ep4xA174) | [KEY POINT](https://open.spotify.com/album/6t5tNG2vsFEvxgZDiFbiWP) | 2:33 |
-| 57 | [儚い \(feat\. JUMADIBA\)](https://open.spotify.com/track/2fkSgFVdcwNN2bJZd9Gl7n) | [Ivy](https://open.spotify.com/artist/4BCbRVdereGR4KrSMV4Sps), [Nyture](https://open.spotify.com/artist/21WTkPiS6pwSvpdwhzXyUJ), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [マケナイ 裏](https://open.spotify.com/album/5slQTC30OsK2XuWTUgxm9x) | 1:44 |
+| 57 | [儚い \(feat\. JUMADIBA\)](https://open.spotify.com/track/2fkSgFVdcwNN2bJZd9Gl7n) | [Ivy](https://open.spotify.com/artist/4EHdePPMGEucsGsVSbFlMH), [Nyture](https://open.spotify.com/artist/21WTkPiS6pwSvpdwhzXyUJ), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [マケナイ 裏](https://open.spotify.com/album/5slQTC30OsK2XuWTUgxm9x) | 1:44 |
 | 58 | [LNB Cypher](https://open.spotify.com/track/6UwDLc0EQXl8OTiO5L1qIg) | [Legal nerd boyz](https://open.spotify.com/artist/25ggylVPSvLtgpAZK66OVn) | [Excuse me!Hello!](https://open.spotify.com/album/3lK05MegXSCvV6t6pD3jKO) | 2:58 |
 | 59 | [BABY](https://open.spotify.com/track/7k9SOTCuKQA0vPaQxh22OX) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [BABY](https://open.spotify.com/album/7uOzobU8DHxUSglFZPscFf) | 2:51 |
 | 60 | [nightmare](https://open.spotify.com/track/2cVb8UcVdZ8MH1XJ0gmenj) | [SZK](https://open.spotify.com/artist/4RPWTmkbkOnlNYNXNYltmy) | [Nerd core tape 1](https://open.spotify.com/album/2TCWVcQd281RjWgkl8fVZN) | 1:59 |
