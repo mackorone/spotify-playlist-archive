@@ -2,7 +2,7 @@
 
 ### [Coffee house \| Café Lounge \| Chill Vibes](https://open.spotify.com/playlist/0PzTB0SzhsYdmq3lvb0zgv)
 
-> Enjoy the best of acoustic, easy listening pop, and singer\-songwriter music for work, study or relaxing with a cup of coffee or tea\. Warm melodies to create the perfect mood for your lovely day\. Best coffee lounge background music 2025\. Koffie \| Koffiehuis \| Musique de café \| música ambiente de café
+> Chill acoustic, mellow pop en singer\-songwriter muziek voor focus, ontspanning, studeren en werken\. Coffeehouse vibes, lounge sfeer en rustige achtergrondmuziek\. Musique de café, ambiance relax, musique acoustique, café lounge, musique de fond pour travail et étude.
 
 370 songs - 20 hr 30 min
 

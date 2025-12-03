@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-584 songs - 1 day 10 hr 43 min
+585 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 | 2024-12-27 |  |
 | [I Am Machine](https://open.spotify.com/track/2UDumaw7osnyjH7RZ2DLpB) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Human](https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W) | 3:20 | 2020-06-29 | 2022-02-26 |
 | [I Am the Fire](https://open.spotify.com/track/5MapUlM1un2Kh4aZ3IyWcL) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:37 | 2020-06-29 | 2022-11-30 |
+| [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 | 2025-12-02 |  |
 | [I Hate Everything About You](https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace \(Expanded Edition\)](https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5) | 3:51 | 2020-06-29 | 2022-02-26 |
 | [I Hate You](https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [I Hate You](https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX) | 2:42 | 2022-05-20 | 2022-07-29 |
 | [I Wanna Know Your Name](https://open.spotify.com/track/19tXItIUKllqyQZSda7XWc) | [The Mock\-Ups](https://open.spotify.com/artist/4Wq4lfGxNIb0mhNNnL4ECh) | [I Wanna Know Your Name](https://open.spotify.com/album/6BZC4x2kAFdTiBdFLwal78) | 2:26 | 2025-09-19 | 2025-10-19 |
@@ -542,7 +543,7 @@
 | [Trip Switch](https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:01 | 2020-06-29 |  |
 | [Trojans](https://open.spotify.com/track/4AyoAGuhE8gydBPrczuhbl) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now \(Deluxe Edition\)](https://open.spotify.com/album/5Ix8zXCxsX8YCGAThyBVE8) | 3:37 | 2020-06-29 | 2022-04-21 |
 | [Twisted Tongues](https://open.spotify.com/track/5x1Shc6k7r3hBYyjNaaddy) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 4:01 | 2022-04-22 | 2022-05-21 |
-| [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 | 2024-11-15 |  |
+| [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 | 2024-11-15 | 2025-12-03 |
 | [Typhoons](https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn) | 3:56 | 2021-02-10 | 2022-11-13 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 | 2024-06-21 | 2025-01-02 |
 | [Ugly Friends](https://open.spotify.com/track/6oEvSyE1h0ts0Nyg0cOIMU) | [poolfire](https://open.spotify.com/artist/4xaaY8ydLThGntcJWmdJEc) | [Ugly Friends](https://open.spotify.com/album/3qV5QnrnH3XJhciHobdRxm) | 3:35 | 2021-12-16 | 2022-07-28 |

@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19B5f5.md) - [plain]
 | 4 | [Time To Say Goodbye](https://open.spotify.com/track/7afNGpGU4kfwKYG5RBqaFy) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Time To Say Goodbye](https://open.spotify.com/album/7A84WRvV1EJzbcGAQkmanY) | 3:08 |
 | 5 | [Fools](https://open.spotify.com/track/5EebKfMu8tX94Vm4ohQAwA) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Fools](https://open.spotify.com/album/4UTVF9k92LuO1Uow4XrHiH) | 3:33 |
 | 6 | [Psycho](https://open.spotify.com/track/3AfcCZtlstI2rIorom3CbD) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:37 |
-| 7 | [Talk to Me](https://open.spotify.com/track/3ZL2ee9L5Mq6QgUcnlnmgj) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 3:28 |
+| 7 | [Irrelevant](https://open.spotify.com/track/5kDJFMwa5mfvpAZW85bNxd) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 4:32 |
 | 8 | [Echoes \- Edeema Remix](https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Echoes \(Remixes\)](https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv) | 4:02 |
 | 9 | [Wonder](https://open.spotify.com/track/2njUiGb7riXONG8HEOVQqu) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Fools](https://open.spotify.com/album/4UTVF9k92LuO1Uow4XrHiH) | 3:58 |
 | 10 | [Latest Ghost](https://open.spotify.com/track/1eH3x83ILpL75tdfPBQqq0) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:13 |
-| 11 | [Irrelevant](https://open.spotify.com/track/5kDJFMwa5mfvpAZW85bNxd) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 4:32 |
+| 11 | [Talk to Me](https://open.spotify.com/track/3ZL2ee9L5Mq6QgUcnlnmgj) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 3:28 |
 | 12 | [Empathy \- MUNA Remix](https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Empathy \(MUNA Remix\)](https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG) | 3:08 |
 | 13 | [Lilo](https://open.spotify.com/track/1Kqd8jFne2x03rOjzlq648) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Fools](https://open.spotify.com/album/4UTVF9k92LuO1Uow4XrHiH) | 3:41 |
 | 14 | [Kicks](https://open.spotify.com/track/4AeL5jqJOg30DBEEqTmdTD) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:36 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19B5f5.md) - [plain]
 | 33 | [Out Of Our Depth](https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ocean](https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0) | 3:58 |
 | 34 | [Ocean](https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 4:18 |
 
-Snapshot ID: `aSuJAAAAAACOUOICzU/Lp+zQW9XvWtsV`
+Snapshot ID: `aSzagAAAAAAkXwHuuEdRy3OW05YLyItn`

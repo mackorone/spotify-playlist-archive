@@ -4,7 +4,7 @@
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-812 songs - 1 day 14 hr 45 min
+813 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [Stop Right Now](https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Good House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1) | 2:05 | 2022-09-30 | 2024-10-12 |
 | [Storytime](https://open.spotify.com/track/3OBQU47488PoTbFCBdCmHA) | [Zilgi](https://open.spotify.com/artist/2Yq70ty1jCfaFfeRAAakiz) | [Longlegs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01IZyXcyYtm7zhHBEOCCIF) | 2:54 | 2024-07-12 | 2025-03-22 |
 | [Strange \(feat\. Hillary Smith\)](https://open.spotify.com/track/2bPWLtJe3v33z1j40sWB8a) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Hillary Smith](https://open.spotify.com/artist/1Yy8TYDcutF60eKqdmaYv0) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:18 | 2021-12-20 | 2022-07-09 |
+| [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 | 2025-12-02 |  |
 | [Strength And Honor](https://open.spotify.com/track/0ZQaBlh43TG4X9Pr5NcALS) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Strength And Honor](https://open.spotify.com/album/34NEsQ9jea9FQQWfxtZoas) | 3:21 | 2024-10-04 | 2025-06-28 |
 | [Subiendo \- Strings Version](https://open.spotify.com/track/274aI8ahcsjmqnwLaKYuvU) | [Clément Ducol](https://open.spotify.com/artist/1HK9vHM4F8WtwiGfj5F9FB) | [Emilia Pérez \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU) | 1:05 | 2024-11-15 | 2025-07-26 |
 | [Succession \(Main Title Theme\)](https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 1 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj) | 1:42 | 2023-04-21 | 2024-04-19 |

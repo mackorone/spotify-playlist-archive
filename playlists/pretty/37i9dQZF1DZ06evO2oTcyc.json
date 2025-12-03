@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 225706,
+  "num_followers": 225733,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAAKlsfZn26FuCrbEuoVM4UD",
+  "snapshot_id": "aSzagAAAAACTw2rYRpyfHOtGzY9qpYiG",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Getting Started",
-        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 229861,
-      "name": "Who You Seeing Tonight (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/02hwmwDf2tWe6sM9Ms9Hlr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Institution",
         "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
       },
@@ -339,34 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+        "name": "Just Getting Started",
+        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
       },
       "artists": [
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Calling My Spirit",
-      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
+        },
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 196672,
-      "name": "Don't Wanna Breathe",
-      "url": "https://open.spotify.com/track/567CrVjCl2p3qmZqMKfOD9"
+      "duration_ms": 229861,
+      "name": "Who You Seeing Tonight (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/02hwmwDf2tWe6sM9Ms9Hlr"
     },
     {
       "added_at": null,
@@ -395,6 +363,54 @@
       "duration_ms": 163155,
       "name": "FIELD TRIP",
       "url": "https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 196672,
+      "name": "Don't Wanna Breathe",
+      "url": "https://open.spotify.com/track/567CrVjCl2p3qmZqMKfOD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 196113,
+      "name": "There He Go",
+      "url": "https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Calling My Spirit",
+      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
       "duration_ms": 175802,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 196113,
-      "name": "There He Go",
-      "url": "https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 183562,
+      "name": "Shake Back",
+      "url": "https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just Getting Started",
         "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 158986,
       "name": "Endless Nights (feat. Gunna)",
       "url": "https://open.spotify.com/track/6k8pPJi8jbFSopEQA0rffn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Institution",
-        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 183562,
-      "name": "Shake Back",
-      "url": "https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc"
     },
     {
       "added_at": null,
@@ -691,42 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Get Chanel (feat. Chance The Rapper)",
-        "url": "https://open.spotify.com/album/0eVHBtiX6G7wMWErRoa9cW"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 199431,
-      "name": "Still Get Chanel (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/6saKboIoQgXKIHfQJVwv5i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Getting Started",
-        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Project Blue",
-      "url": "https://open.spotify.com/track/1i1ulBbyeZF4vxO4vmHoiq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LYFESTYLE",
         "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
       },
@@ -743,6 +707,22 @@
       "duration_ms": 174837,
       "name": "B\u00cb QUIET (FEAT. KODAK BLACK)",
       "url": "https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Getting Started",
+        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 176158,
+      "name": "Time To Be Free",
+      "url": "https://open.spotify.com/track/24n0qB5aWEqRztvfh4SVWE"
     },
     {
       "added_at": null,
@@ -767,6 +747,26 @@
       "duration_ms": 170413,
       "name": "hibachi (feat. Kodak Black & 21 Savage)",
       "url": "https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Get Chanel (feat. Chance The Rapper)",
+        "url": "https://open.spotify.com/album/0eVHBtiX6G7wMWErRoa9cW"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 199431,
+      "name": "Still Get Chanel (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/6saKboIoQgXKIHfQJVwv5i"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 176158,
-      "name": "Time To Be Free",
-      "url": "https://open.spotify.com/track/24n0qB5aWEqRztvfh4SVWE"
+      "duration_ms": 135529,
+      "name": "Project Blue",
+      "url": "https://open.spotify.com/track/1i1ulBbyeZF4vxO4vmHoiq"
     },
     {
       "added_at": null,

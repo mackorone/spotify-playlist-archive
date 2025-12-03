@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-54 songs - 3 hr 24 min
+56 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Beyond Reach](https://open.spotify.com/track/0hbF6ks1K7QReqX5MDQUsz) | [A Walking Miracle](https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM) | [Beyond Reach](https://open.spotify.com/album/5j30B79NqODEF1OeFgiTdd) | 2:48 | 2025-10-13 |  |
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2021-03-29 |  |
 | [Blood Orange](https://open.spotify.com/track/37ezRYgGPhn8c04W6v6Oyv) | [Zoe Wynns](https://open.spotify.com/artist/7wQ8IMTKvyGSOqjrGnAnit) | [Blood Orange](https://open.spotify.com/album/71vwafT0yr1239fkxRhIy1) | 3:45 | 2025-11-04 | 2025-11-22 |
-| [Breakfast in Bathrobes](https://open.spotify.com/track/6gCRIrbRoj4jEqIDFP2IXe) | [Flying Earrings](https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy) | [Dreams](https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L) | 6:13 | 2025-11-14 |  |
+| [Breakfast in Bathrobes](https://open.spotify.com/track/6gCRIrbRoj4jEqIDFP2IXe) | [Flying Earrings](https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy) | [Dreams](https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L) | 6:13 | 2025-11-14 | 2025-12-03 |
 | [Broken Trust](https://open.spotify.com/track/2KhIeTdnN8IebU3nXdiXqK) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Broken Trust](https://open.spotify.com/album/33PUel7sBH1AQsxQmFciKH) | 2:52 | 2025-11-11 |  |
 | [Cherry Lipgloss](https://open.spotify.com/track/2RFrSB9j4Bijrz4YWiZWM3) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [SHY2K](https://open.spotify.com/album/5idFFAYK8aZ15scmZFtk9n) | 2:03 | 2025-11-17 |  |
 | [Collide](https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV) | [Moni Blue](https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5) | [Collide](https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h) | 3:08 | 2025-11-19 |  |
@@ -21,7 +21,7 @@
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2021-07-26 |  |
 | [Don't Speak](https://open.spotify.com/track/6JGQ98So2ik5GVI9ydQ2Yh) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 4:22 | 2021-03-29 |  |
 | [Dreams](https://open.spotify.com/track/2A94cKnGgmODcH9cQzoDoX) | [souhl](https://open.spotify.com/artist/4Ee5YS1tbDJz20cJocxN6y) | [Dreams](https://open.spotify.com/album/3h8Jt6ybUgccyBY0rSTC8J) | 3:28 | 2025-11-10 | 2025-11-27 |
-| [Endless Time](https://open.spotify.com/track/7iboyR2F62rpNt6hX4Z8Dq) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [Endless and Free](https://open.spotify.com/album/1pXbNpKvgqUtX924js0vhx) | 2:43 | 2025-11-13 |  |
+| [Endless Time](https://open.spotify.com/track/7iboyR2F62rpNt6hX4Z8Dq) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [Endless and Free](https://open.spotify.com/album/1pXbNpKvgqUtX924js0vhx) | 2:43 | 2025-11-13 | 2025-12-03 |
 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2021-03-29 |  |
 | [F.E.A.R.](https://open.spotify.com/track/5YeYIVwxXC2NHyBHSz8zOy) | [Ian Brown](https://open.spotify.com/artist/3s398TKZNahAURRacx7oIT) | [Music Of The Spheres](https://open.spotify.com/album/2EB1HKXeOOB4CqMGoSon1L) | 4:28 | 2021-03-29 |  |
 | [Friends](https://open.spotify.com/track/1ngp4VERvcgXeBrzd0oGyh) | [Rení](https://open.spotify.com/artist/1vignVBMw8ZuYkG7QOIbOd) | [Friends](https://open.spotify.com/album/71DCqpJrZdisp5gYcJeo5H) | 2:32 | 2025-11-07 | 2025-11-22 |
@@ -29,6 +29,7 @@
 | [Heading Home](https://open.spotify.com/track/0f8GYw2QMENtiJcGKnqsbq) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 2:10 | 2021-10-30 |  |
 | [I Told You She's Mental](https://open.spotify.com/track/5gTEjXDkpMHIZwPatbmzx9) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/5fVZjOtZae0991fzloTglF) | 2:51 | 2025-10-13 |  |
 | [I WON'T BE HERE FOREVER](https://open.spotify.com/track/2d4on1kn0sHj94lAF3IKlY) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [BLURRY](https://open.spotify.com/album/58mFWI4ZlgDeQLleTCZ3do) | 3:47 | 2025-11-17 |  |
+| [Initium Concentus](https://open.spotify.com/track/4VNYxI40qpkawwl9acl7ni) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Initium Concentus](https://open.spotify.com/album/4cPut66O77JkNsoYPi1I3E) | 2:42 | 2025-12-02 |  |
 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 | 2021-03-29 |  |
 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 | 2021-03-29 |  |
 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 | 2021-07-26 |  |
@@ -42,8 +43,9 @@
 | [Permanent Record](https://open.spotify.com/track/3wP0TrbEyiedBDOdOUkDKT) | [GG Fearn](https://open.spotify.com/artist/1IBnZK5Ccb90mmCETbnWBx) | [Permanent Record](https://open.spotify.com/album/0c2SFBNduNDGXeEd99nT1U) | 3:26 | 2024-07-31 |  |
 | [Powder](https://open.spotify.com/track/3OMF3Eq99pNyj7rC4JLsw0) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 2:58 | 2021-11-21 |  |
 | [Reason](https://open.spotify.com/track/2Dj0xj2L1oYGiiANCfXHao) | [Maliuha](https://open.spotify.com/artist/3t5EqB9jJnmv9F5OlYH3Yk) | [Molly19](https://open.spotify.com/album/2h8A8KwGkeNxcznsicyj2I) | 4:21 | 2025-11-06 | 2025-11-22 |
-| [Roses](https://open.spotify.com/track/247MRY3Cbust5YB0Py5gxz) | [Lian](https://open.spotify.com/artist/2sOcUxLnqrruZJRN6m0GzE) | [Roses](https://open.spotify.com/album/0NjovRnD5unUBDJ7U8QH3G) | 4:10 | 2025-10-22 |  |
+| [Roses](https://open.spotify.com/track/247MRY3Cbust5YB0Py5gxz) | [Lian](https://open.spotify.com/artist/2sOcUxLnqrruZJRN6m0GzE) | [Roses](https://open.spotify.com/album/0NjovRnD5unUBDJ7U8QH3G) | 4:10 | 2025-10-22 | 2025-12-03 |
 | [Sandcastle](https://open.spotify.com/track/0N2d2I8iFfz6ExzJeVQ5gU) | [Draig](https://open.spotify.com/artist/3bPNs4WxtWGGaWGY9HSFLR) | [Barefoot](https://open.spotify.com/album/2z2LWb5kJqtUASMgmnAbAv) | 3:02 | 2025-10-13 |  |
+| [Save Yourself](https://open.spotify.com/track/0zmBrqMD9u1wZUqJLNynUi) | [Maxine](https://open.spotify.com/artist/3m7b61n7lAtR554KpBx5y9) | [Save Yourself](https://open.spotify.com/album/7CUbS7kwBPOQPDBvWS5yET) | 2:49 | 2025-12-02 |  |
 | [Stop Crying Your Heart Out](https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 5:03 | 2021-03-29 |  |
 | [Strangelove](https://open.spotify.com/track/6cKwFiMyBwqCMvHjC5mIXe) | [Positronic](https://open.spotify.com/artist/6rDrqNMSUbW114j0HBKK6t) | [Strangelove](https://open.spotify.com/album/2Q10PgEpeyBRDY642hYsuO) | 3:56 | 2025-11-07 | 2025-11-22 |
 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 | 2021-03-29 |  |

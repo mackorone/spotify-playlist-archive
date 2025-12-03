@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 103 | [Easy on Me](https://open.spotify.com/track/4U35K9PqSqC28vhsEYCYru) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/2fTcxmyd15YE0SvnGfwGGY) | 2:56 |
 | 104 | [The Truth](https://open.spotify.com/track/1iEBtGIwux7Z91TkCzbDV7) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [The Truth](https://open.spotify.com/album/7uTgWHct2uQraEWN3IXLuv) | 3:03 |
 | 105 | [Where Do We Go \- The Voice Performance](https://open.spotify.com/track/5a7QUeuh2OXw0SI4go5shg) | [John Holiday](https://open.spotify.com/artist/1t7W0bPXdarbjiCuEeFv2y) | [The Season 19 Collection \(The Voice Performance\)](https://open.spotify.com/album/2V28iwMeICBbv2Qqsi9gd1) | 2:27 |
-| 106 | [Personal](https://open.spotify.com/track/3DCu17yxNOj44wpNg9h3YT) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Personal](https://open.spotify.com/album/5PSkXaHWqp6xQZMQvDJ74b) | 2:54 |
-| 107 | [Cowboy Outta You](https://open.spotify.com/track/7HE2PTsOzi5v5b4A2qhXck) | [Payton Sullivan](https://open.spotify.com/artist/7ri5Tp1crD2xvVkzrkU6r4) | [Cowboy Outta You](https://open.spotify.com/album/1jQcqjlFyUKabQupybp1QL) | 3:30 |
+| 106 | [Cowboy Outta You](https://open.spotify.com/track/7HE2PTsOzi5v5b4A2qhXck) | [Payton Sullivan](https://open.spotify.com/artist/7ri5Tp1crD2xvVkzrkU6r4) | [Cowboy Outta You](https://open.spotify.com/album/1jQcqjlFyUKabQupybp1QL) | 3:30 |
+| 107 | [Personal](https://open.spotify.com/track/3DCu17yxNOj44wpNg9h3YT) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Personal](https://open.spotify.com/album/5PSkXaHWqp6xQZMQvDJ74b) | 2:54 |
 | 108 | [Head in the Clouds](https://open.spotify.com/track/0NSb1a5SxMTzYbKhwIgvdY) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Head in the Clouds](https://open.spotify.com/album/7K9ok645oF4PJJSLzhLNPs) | 2:27 |
 | 109 | [Euphoria](https://open.spotify.com/track/2vzUVBdfbzFtfIqhgM0tDA) | [ØSAS ØHM](https://open.spotify.com/artist/3hnjTkOixhsMrlPlPcrdF2), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Euphoria](https://open.spotify.com/album/6ToeKKnL3eHDjtkyFxtsVF) | 3:50 |
 | 110 | [Rooted](https://open.spotify.com/track/73PQ1kdahi6WKkL8z39QQH) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Rooted](https://open.spotify.com/album/3tjdOyyLWIQeX6S79YjWbL) | 3:11 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 124 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 125 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `AcDF8AAAAADjWo6a0qPhIktna41/ownv`
+Snapshot ID: `AcDLfAAAAABkEF46Zt7miSUfE24Mq72Q`

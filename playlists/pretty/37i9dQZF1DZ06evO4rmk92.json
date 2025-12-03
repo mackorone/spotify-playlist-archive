@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 124108,
+  "num_followers": 124123,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAC169tnxRCO78xa6vpUF2ip",
+  "snapshot_id": "aSzagAAAAADKt4FTgUwIkGKeMGkzgr7I",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Fly Me To The Moon (In Other Words)",
+      "url": "https://open.spotify.com/track/2waiAcLQiqlX5bzvLtNUA0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Is The Thing",
         "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
       },
@@ -223,22 +243,6 @@
       "duration_ms": 166160,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
     },
     {
       "added_at": null,
@@ -275,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 113293,
+      "name": "Almost Like Being In Love - Remastered",
+      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -288,25 +308,9 @@
           "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 211173,
-      "name": "Fly Me To The Moon (In Other Words)",
-      "url": "https://open.spotify.com/track/2waiAcLQiqlX5bzvLtNUA0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 113293,
-      "name": "Almost Like Being In Love - Remastered",
-      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
+      "duration_ms": 222866,
+      "name": "I Got It Bad (And That Ain't Good)",
+      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
     },
     {
       "added_at": null,
@@ -343,28 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "I Got It Bad (And That Ain't Good)",
-      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just One Of Those Things",
-        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
       "artists": [
         {
@@ -372,41 +356,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 164800,
-      "name": "The Party's Over",
-      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "Straighten Up And Fly Right",
-      "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Very Thought Of You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp"
+      "duration_ms": 218066,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
     },
     {
       "added_at": null,
@@ -427,6 +379,54 @@
       "duration_ms": 209933,
       "name": "I'm Lost",
       "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "Straighten Up And Fly Right",
+      "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just One Of Those Things",
+        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "The Party's Over",
+      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Thought Of You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thank You, Pretty Baby",
         "url": "https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 172040,
       "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
       "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
     },
     {
       "added_at": null,

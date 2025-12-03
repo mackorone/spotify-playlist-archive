@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Sky Ferreira, Cocteau Twins, Labyrinth Ear and more
+> With Phantogram, Labyrinth Ear, Eartheater and more
 
 1,833 songs - 4 day 16 hr 56 min
 

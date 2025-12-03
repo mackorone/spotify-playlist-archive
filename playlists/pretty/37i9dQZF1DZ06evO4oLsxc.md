@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088 likes - 38 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094 likes - 38 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 22 | [Numero Uno](https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:12 |
 | 23 | [Hizuki](https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 4:10 |
 | 24 | [Aroma](https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 2:24 |
-| 25 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 |
-| 26 | [Tam Tam](https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Tam Tam](https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx) | 3:32 |
+| 25 | [Tam Tam](https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Tam Tam](https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx) | 3:32 |
+| 26 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 |
 | 27 | [Artist of the Century](https://open.spotify.com/track/0IRtsYqlZrATSdxuRS90Ip) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Showbiz!](https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs) | 2:53 |
 | 28 | [The Last Poets](https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:14 |
 | 29 | [so simple](https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj) | 2:52 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 37 | [Perfect Peace](https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg) | [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [King Kay](https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ambrosia](https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj) | 3:01 |
 | 38 | [Deeper One](https://open.spotify.com/track/3uNCnf0Ha0Cf6JNzs7W59j) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Lost, This Winter](https://open.spotify.com/album/79fVV5zDmHcJhOuuxdmAZ2) | 3:26 |
 
-Snapshot ID: `aSuJAAAAAACMkAU84UgdZj3Qqzjbxhbe`
+Snapshot ID: `aSzagAAAAABQvq1oRi4YKMzWsPy8K1y9`

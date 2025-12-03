@@ -2,7 +2,7 @@
 
 ### [Bhojpuriya Maati](https://open.spotify.com/playlist/37i9dQZF1DX1KKclrVPfDr)
 
-> भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं\. Cover: Surabhi Kashyap, Stuti Sinha, Nikita Rai
+> भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं.
 
 53 songs - 3 hr 17 min
 

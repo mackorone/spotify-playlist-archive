@@ -4,7 +4,7 @@
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 40 min
+107 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Love & Destruction](https://open.spotify.com/track/2S9kwb2VoCxX8jY5SuLNiX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:37 | 2023-06-06 | 2024-04-02 |
 | [Make Yourself Mad](https://open.spotify.com/track/575WHTkmnohs1agEfIoRGS) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Make Yourself Mad](https://open.spotify.com/album/7gRumG1rTgiTrHuH6S7Fxe) | 2:40 | 2022-09-16 | 2025-06-20 |
 | [Make Yourself Mad](https://open.spotify.com/track/5HOALerGMK1EqQpnWHPKwZ) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \(Pt\. 2/ Deluxe\)](https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU) | 2:40 | 2025-06-20 | 2025-08-22 |
-| [Make Yourself Mad](https://open.spotify.com/track/7D5dyKbK1Vjo3ffu2AdtyD) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:40 | 2025-07-16 |  |
+| [Make Yourself Mad](https://open.spotify.com/track/7D5dyKbK1Vjo3ffu2AdtyD) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:40 | 2025-07-16 | 2025-12-03 |
 | [Modest Salary](https://open.spotify.com/track/2WEpdc89yJXRNHooNcYrUD) | [Trim Reaper](https://open.spotify.com/artist/3uoZqnx4ljAAylcIFRCcGv), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Modest Salary](https://open.spotify.com/album/6eV9XYlKojqzT2axDWeA8x) | 3:32 | 2024-08-24 | 2024-10-11 |
 | [MURDER ME \- DZ Deathrays Remix](https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [MURDER ME \(DZ Deathrays Remix\)](https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl) | 4:05 | 2023-06-24 |  |
 | [My Mind is Eating Me Alive](https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:38 | 2023-06-03 |  |
@@ -82,6 +82,7 @@
 | [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-11-24 |  |
 | [Paranoid](https://open.spotify.com/track/6nX2HXWLt2I5AM6kHm64zI) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:19 | 2023-07-12 | 2024-09-11 |
 | [Paranoid \- NERVE Remix](https://open.spotify.com/track/2n9EcqhwgDO5cgGIMMCHHb) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Paranoid \(NERVE Remix\)](https://open.spotify.com/album/31WrHIA3RqdOrJMV7whBHA) | 3:58 | 2023-09-25 | 2024-06-10 |
+| [Pissing In The Breeze](https://open.spotify.com/track/4qivfptC7pzRbkrn4TbmSW) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Pissing In The Breeze](https://open.spotify.com/album/3PpWo34YDvu2juzCCdAqac) | 3:11 | 2025-12-03 |  |
 | [Play Dead Until You're Dead](https://open.spotify.com/track/1n8eG2CaqtEIrxPj2ijG6l) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX) | 4:02 | 2025-04-17 | 2025-11-21 |
 | [Play Dead Until You're Dead](https://open.spotify.com/track/44pxIxvtCEQDFAnQ8Mmoje) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:02 | 2022-09-16 | 2023-02-25 |
 | [Pollyanna](https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Pollyanna](https://open.spotify.com/album/4kQSRFsF773glePY10mDpr) | 2:41 | 2022-09-16 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Azymuth",
-  "num_followers": 163400,
+  "num_followers": 163399,
   "original_name": "Jazz BR",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Or\u00edn, a L\u00edngua dos Anjos",
-        "url": "https://open.spotify.com/album/592rNszuxHVYJAiRbpQAbF"
-      },
-      "artists": [
-        {
-          "name": "Ubiratan Marques",
-          "url": "https://open.spotify.com/artist/7jzGFxFL1yCyD7lB8e245d"
-        },
-        {
-          "name": "Orquestra Afrosinf\u00f4nica",
-          "url": "https://open.spotify.com/artist/5L28JP0Fiegz0AJe2Cy2ly"
-        }
-      ],
-      "duration_ms": 240492,
-      "name": "Or\u00edn",
-      "url": "https://open.spotify.com/track/3eMveNQF1lc0y1iksVM2Jt"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "April Child",
         "url": "https://open.spotify.com/album/1DnGzEZtXWhtgBF4rFwlLc"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 424404,
       "name": "April Child",
       "url": "https://open.spotify.com/track/2Pr9tkPMbPA7D3E0SoL7Jz"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Or\u00edn, a L\u00edngua dos Anjos",
+        "url": "https://open.spotify.com/album/592rNszuxHVYJAiRbpQAbF"
+      },
+      "artists": [
+        {
+          "name": "Ubiratan Marques",
+          "url": "https://open.spotify.com/artist/7jzGFxFL1yCyD7lB8e245d"
+        },
+        {
+          "name": "Orquestra Afrosinf\u00f4nica",
+          "url": "https://open.spotify.com/artist/5L28JP0Fiegz0AJe2Cy2ly"
+        }
+      ],
+      "duration_ms": 240492,
+      "name": "Or\u00edn",
+      "url": "https://open.spotify.com/track/3eMveNQF1lc0y1iksVM2Jt"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -935,34 +935,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Harmonize",
-        "url": "https://open.spotify.com/album/6NFkTdPsZ5rs7otLuVTG0i"
-      },
-      "artists": [
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Daniel Santiago",
-          "url": "https://open.spotify.com/artist/6JZugDfOOstJ1GDwZ4md5g"
-        },
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Thiago Espirito Santo",
-          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
-        }
-      ],
-      "duration_ms": 402929,
-      "name": "Nasceu o Amor",
-      "url": "https://open.spotify.com/track/2D7B9s6wpCSlMMzroUXTlR"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Chico Macedo 4teto",
         "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
       },
@@ -1003,6 +975,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "From Rio",
+        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
+      },
+      "artists": [
+        {
+          "name": "Marcio Riscado",
+          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
+        }
+      ],
+      "duration_ms": 126647,
+      "name": "From Rio",
+      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "In The Still Of The Night",
         "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
       },
@@ -1019,18 +1007,30 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "From Rio",
-        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
+        "name": "Harmonize",
+        "url": "https://open.spotify.com/album/6NFkTdPsZ5rs7otLuVTG0i"
       },
       "artists": [
         {
-          "name": "Marcio Riscado",
-          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Daniel Santiago",
+          "url": "https://open.spotify.com/artist/6JZugDfOOstJ1GDwZ4md5g"
+        },
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Thiago Espirito Santo",
+          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
         }
       ],
-      "duration_ms": 126647,
-      "name": "From Rio",
-      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
+      "duration_ms": 402929,
+      "name": "Nasceu o Amor",
+      "url": "https://open.spotify.com/track/2D7B9s6wpCSlMMzroUXTlR"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1087,6 +1087,46 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Someone To Watch Over Me (Meet Tetel)",
+        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
+      },
+      "artists": [
+        {
+          "name": "Tetel Di Babuya",
+          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
+        },
+        {
+          "name": "Daniel Grajew",
+          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Someone To Watch Over Me - Meet Tetel",
+      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Reviravolta",
+        "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9li Silva",
+          "url": "https://open.spotify.com/artist/4jio39DG0XFxnaScND06to"
+        },
+        {
+          "name": "Z\u00e9li Silva Quarteto",
+          "url": "https://open.spotify.com/artist/5X8d8k9Va0BBjVTRUFAn3E"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Novidade",
+      "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "EIN 002 \u2013 Debora Gurgel, Vanessa Ferreira, Vera Figueiredo",
         "url": "https://open.spotify.com/album/2DmxRJXJkrxeX5Mon0hcJO"
       },
@@ -1115,26 +1155,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Someone To Watch Over Me (Meet Tetel)",
-        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
-      },
-      "artists": [
-        {
-          "name": "Tetel Di Babuya",
-          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
-        },
-        {
-          "name": "Daniel Grajew",
-          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Someone To Watch Over Me - Meet Tetel",
-      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Experimento 1",
         "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
       },
@@ -1159,6 +1179,34 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "When the Answer Is a Question",
+        "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Rodrigo Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
+        },
+        {
+          "name": "Sergio Reze",
+          "url": "https://open.spotify.com/artist/2lhvaGqyRI693ex3hNNW6E"
+        },
+        {
+          "name": "Z\u00e9 Godoy",
+          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
+        }
+      ],
+      "duration_ms": 457386,
+      "name": "When the Answer Is a Question",
+      "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Um",
         "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
       },
@@ -1171,42 +1219,6 @@
       "duration_ms": 271656,
       "name": "Canto de Aruanda",
       "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/5v9ejdE6VaWwJ3rlCLC0lo"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Maldonado Quintet",
-          "url": "https://open.spotify.com/artist/5UgTMuuGDGG2TOCmMIPzzy"
-        }
-      ],
-      "duration_ms": 270012,
-      "name": "With Ernesto",
-      "url": "https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Reviravolta",
-        "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9li Silva",
-          "url": "https://open.spotify.com/artist/4jio39DG0XFxnaScND06to"
-        },
-        {
-          "name": "Z\u00e9li Silva Quarteto",
-          "url": "https://open.spotify.com/artist/5X8d8k9Va0BBjVTRUFAn3E"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Novidade",
-      "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1247,30 +1259,18 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "When the Answer Is a Question",
-        "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/5v9ejdE6VaWwJ3rlCLC0lo"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Rodrigo Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
-        },
-        {
-          "name": "Sergio Reze",
-          "url": "https://open.spotify.com/artist/2lhvaGqyRI693ex3hNNW6E"
-        },
-        {
-          "name": "Z\u00e9 Godoy",
-          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
+          "name": "Jo\u00e3o Maldonado Quintet",
+          "url": "https://open.spotify.com/artist/5UgTMuuGDGG2TOCmMIPzzy"
         }
       ],
-      "duration_ms": 457386,
-      "name": "When the Answer Is a Question",
-      "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
+      "duration_ms": 270012,
+      "name": "With Ernesto",
+      "url": "https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "AMF",
-        "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
-      },
-      "artists": [
-        {
-          "name": "Ana Azevedo",
-          "url": "https://open.spotify.com/artist/2frZmyP2Y7Hx6le3nOVlHn"
-        },
-        {
-          "name": "Augusto Mattoso",
-          "url": "https://open.spotify.com/artist/0luiQsbwEuJHz0MjyajJ4Y"
-        },
-        {
-          "name": "Andr\u00e9 Fr\u00f3es",
-          "url": "https://open.spotify.com/artist/0WYPjKev7drYwzpy8GuRje"
-        }
-      ],
-      "duration_ms": 334890,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "M\u00fasica Disfar\u00e7ada de Gente",
         "url": "https://open.spotify.com/album/7E0MGmfOTV3l0UOSnYib5r"
       },
@@ -1471,6 +1447,30 @@
       "duration_ms": 313880,
       "name": "Francamente",
       "url": "https://open.spotify.com/track/07eg0ksM1tEVextuGzUfd8"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "AMF",
+        "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
+      },
+      "artists": [
+        {
+          "name": "Ana Azevedo",
+          "url": "https://open.spotify.com/artist/2frZmyP2Y7Hx6le3nOVlHn"
+        },
+        {
+          "name": "Augusto Mattoso",
+          "url": "https://open.spotify.com/artist/0luiQsbwEuJHz0MjyajJ4Y"
+        },
+        {
+          "name": "Andr\u00e9 Fr\u00f3es",
+          "url": "https://open.spotify.com/artist/0WYPjKev7drYwzpy8GuRje"
+        }
+      ],
+      "duration_ms": 334890,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1535,22 +1535,26 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Plural",
-        "url": "https://open.spotify.com/album/7yhJD2xhtcfAterNjKzUI5"
+        "name": "Factotum",
+        "url": "https://open.spotify.com/album/1KgnJrYa8yeHxILCZT8xS0"
       },
       "artists": [
         {
-          "name": "Gabriel Grossi",
-          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
+          "name": "Gabriel Ballest\u00e9",
+          "url": "https://open.spotify.com/artist/5Mpgro8TiHUY9WAkHuSUOC"
         },
         {
-          "name": "Anat Cohen",
-          "url": "https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH"
+          "name": "Emile Saubole",
+          "url": "https://open.spotify.com/artist/0ECgND59XbeVYWNwkBuYTx"
+        },
+        {
+          "name": "Pablo Arruda",
+          "url": "https://open.spotify.com/artist/4MQMAQPoIxPt8HAQGFCWGS"
         }
       ],
-      "duration_ms": 492946,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/2Q7LRFy26mBMhpMNjV3u31"
+      "duration_ms": 396106,
+      "name": "Factotum",
+      "url": "https://open.spotify.com/track/0u59iLhNCn8r6lKuENwSVz"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1579,26 +1583,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Factotum",
-        "url": "https://open.spotify.com/album/1KgnJrYa8yeHxILCZT8xS0"
+        "name": "Plural",
+        "url": "https://open.spotify.com/album/7yhJD2xhtcfAterNjKzUI5"
       },
       "artists": [
         {
-          "name": "Gabriel Ballest\u00e9",
-          "url": "https://open.spotify.com/artist/5Mpgro8TiHUY9WAkHuSUOC"
+          "name": "Gabriel Grossi",
+          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
         },
         {
-          "name": "Emile Saubole",
-          "url": "https://open.spotify.com/artist/0ECgND59XbeVYWNwkBuYTx"
-        },
-        {
-          "name": "Pablo Arruda",
-          "url": "https://open.spotify.com/artist/4MQMAQPoIxPt8HAQGFCWGS"
+          "name": "Anat Cohen",
+          "url": "https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH"
         }
       ],
-      "duration_ms": 396106,
-      "name": "Factotum",
-      "url": "https://open.spotify.com/track/0u59iLhNCn8r6lKuENwSVz"
+      "duration_ms": 492946,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/2Q7LRFy26mBMhpMNjV3u31"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Sidiel Vieira Quinteto",
-        "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
-      },
-      "artists": [
-        {
-          "name": "Sidiel Vieira Quinteto",
-          "url": "https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
-        }
-      ],
-      "duration_ms": 506440,
-      "name": "Atrevido",
-      "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "MOA",
         "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 259320,
       "name": "Sete Coisas",
       "url": "https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Sidiel Vieira Quinteto",
+        "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
+      },
+      "artists": [
+        {
+          "name": "Sidiel Vieira Quinteto",
+          "url": "https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+        }
+      ],
+      "duration_ms": 506440,
+      "name": "Atrevido",
+      "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1719,38 +1719,6 @@
       "duration_ms": 322602,
       "name": "Reluzente",
       "url": "https://open.spotify.com/track/0tGm68QkTE0ridWhHZkQoo"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Trio Baru: Dez Anos (Live)",
-        "url": "https://open.spotify.com/album/5AzuLOIMaMqp6IKbdJ6CfV"
-      },
-      "artists": [
-        {
-          "name": "Nelson Latif",
-          "url": "https://open.spotify.com/artist/0zaH41rdJncnNnh6MDLG51"
-        },
-        {
-          "name": "Bosco Oliveira",
-          "url": "https://open.spotify.com/artist/7cJ1B3f1xY6ggGQWJQJnji"
-        },
-        {
-          "name": "Rafael dos Santos",
-          "url": "https://open.spotify.com/artist/0w1aOKEeIXokSRJoUj7SXl"
-        },
-        {
-          "name": "Rodrigo Galv\u00e3o",
-          "url": "https://open.spotify.com/artist/6BeF400b0SMOKR403lNhkz"
-        },
-        {
-          "name": "Sidney Sheikor",
-          "url": "https://open.spotify.com/artist/5yhJahb9NJuuvToEyyIvKh"
-        }
-      ],
-      "duration_ms": 221354,
-      "name": "Ponteio - Live",
-      "url": "https://open.spotify.com/track/6WQ5M4CSmlwQPLQ4TQeye1"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1807,22 +1775,34 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Domingo 27/09",
-        "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
+        "name": "Trio Baru: Dez Anos (Live)",
+        "url": "https://open.spotify.com/album/5AzuLOIMaMqp6IKbdJ6CfV"
       },
       "artists": [
         {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+          "name": "Nelson Latif",
+          "url": "https://open.spotify.com/artist/0zaH41rdJncnNnh6MDLG51"
         },
         {
-          "name": "Edu Ribeiro Trio",
-          "url": "https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp"
+          "name": "Bosco Oliveira",
+          "url": "https://open.spotify.com/artist/7cJ1B3f1xY6ggGQWJQJnji"
+        },
+        {
+          "name": "Rafael dos Santos",
+          "url": "https://open.spotify.com/artist/0w1aOKEeIXokSRJoUj7SXl"
+        },
+        {
+          "name": "Rodrigo Galv\u00e3o",
+          "url": "https://open.spotify.com/artist/6BeF400b0SMOKR403lNhkz"
+        },
+        {
+          "name": "Sidney Sheikor",
+          "url": "https://open.spotify.com/artist/5yhJahb9NJuuvToEyyIvKh"
         }
       ],
-      "duration_ms": 502746,
-      "name": "Domingo 27/09",
-      "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
+      "duration_ms": 221354,
+      "name": "Ponteio - Live",
+      "url": "https://open.spotify.com/track/6WQ5M4CSmlwQPLQ4TQeye1"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1847,6 +1827,26 @@
       "duration_ms": 239992,
       "name": "Rosi",
       "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Domingo 27/09",
+        "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
+      },
+      "artists": [
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Edu Ribeiro Trio",
+          "url": "https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp"
+        }
+      ],
+      "duration_ms": 502746,
+      "name": "Domingo 27/09",
+      "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
     },
     {
       "added_at": "2025-09-19 14:12:16",

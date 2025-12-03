@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107622,
+  "num_followers": 107633,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACmunLEPg7syn3sCV/Vc8HM",
+  "snapshot_id": "aSzagAAAAAApv8Rtyzv64P72hDWNqKy4",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Met Liefde",
+        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Amor, Amor, Amor",
+      "url": "https://open.spotify.com/track/4j8nikxlbjLnJPT7dvxTYs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Met Liefde",
-        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Amor, Amor, Amor",
-      "url": "https://open.spotify.com/track/4j8nikxlbjLnJPT7dvxTYs"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Met Liefde",
-        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Diep In Mijn Hart",
-      "url": "https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N Vriend",
         "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 297333,
       "name": "'n Vriend",
       "url": "https://open.spotify.com/track/08uynYGHmW0iPtuiQkrQM5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Met Liefde",
+        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Diep In Mijn Hart",
+      "url": "https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jij En Ik",
         "url": "https://open.spotify.com/album/5Ibu92sALcWMs5IY7NwYFQ"
       },
@@ -723,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Op De Schoorsteen Staat Een Foto",
-        "url": "https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF"
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
       },
       "artists": [
         {
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 190853,
-      "name": "Op De Schoorsteen Staat Een Foto",
-      "url": "https://open.spotify.com/track/5ewmVlEnJYVa0iNGQ522vn"
+      "duration_ms": 220093,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Op De Schoorsteen Staat Een Foto",
+        "url": "https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "Op De Schoorsteen Staat Een Foto",
+      "url": "https://open.spotify.com/track/5ewmVlEnJYVa0iNGQ522vn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zonder Zorgen",
         "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Ja Dat Ben Jij",
-      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Hazes 100",
         "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 267360,
       "name": "Buona Sera / Oh Marie - Live",
       "url": "https://open.spotify.com/track/4TuIZQYLVAQMUorEEH0FOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Ja Dat Ben Jij",
+      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Amanda Bergman, Ed Sheeran och Otto Knows med flera\. Happy New Music Friday!
 
-21,945 songs - 47 day 8 hr 29 min
+21,946 songs - 47 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8332,6 +8332,7 @@
 | [High on My Phone](https://open.spotify.com/track/5r5LCOw61vriQ6liL0bsXD) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n) | [High on My Phone](https://open.spotify.com/album/5rZJw3Q8nK5ag8pfBWFguj) | 2:40 | 2023-02-23 | 2023-03-03 |
 | [High On The Internet](https://open.spotify.com/track/06FGo1WHf20zKD7eF7veM6) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [High On The Internet](https://open.spotify.com/album/3GARsxwPT6bbyik0yn6NGu) | 3:22 | 2025-05-08 | 2025-05-16 |
 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-23 | 2023-03-03 |
+| [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 | 2025-11-27 |  |
 | [High Road](https://open.spotify.com/track/0t1EXVIGlFV6CWfakRZbeT) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [High Road](https://open.spotify.com/album/2LzVuBAtONnm3d1kCZ4Vly) | 4:19 | 2024-09-19 | 2024-09-27 |
 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 | 2022-08-05 | 2022-08-12 |
 | [High Time](https://open.spotify.com/track/2RAaI9h95On0Z1h4wq0Qbj) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [High Time](https://open.spotify.com/album/7A7g9DyaTInJ7cRuq53K9a) | 2:29 | 2025-07-03 | 2025-07-11 |

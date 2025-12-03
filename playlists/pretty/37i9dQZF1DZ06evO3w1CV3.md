@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,185 likes - 35 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,193 likes - 35 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 34 | [For a Minute \(feat\. KarimThaPeasant\)](https://open.spotify.com/track/4JSlPG9DkRuhyXNdLxhI5a) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [KarimThaPeasant](https://open.spotify.com/artist/1tDOv0KCi6XAF3aXsn559F) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:12 |
 | 35 | [New Manhattan](https://open.spotify.com/track/6B0VAfh8UCCEMNvgmGYEGX) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:11 |
 
-Snapshot ID: `aSuJAAAAAAB2V066dzEigS2B0rQgWL2y`
+Snapshot ID: `aSzagAAAAACOrD0LDpHNaFK+O30WD2x1`

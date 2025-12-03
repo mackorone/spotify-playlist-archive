@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-457 songs - 20 hr 13 min
+458 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Depending on who?](https://open.spotify.com/track/6HdiridEw4dd3ry3YIi8bW) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Depending on who?](https://open.spotify.com/album/0Qd0NaMIJwAdJcjLFpEBCX) | 2:35 | 2021-12-10 | 2023-03-31 |
 | [Desencontros](https://open.spotify.com/track/6vbpxDK5U8xRv73qgGOnj4) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Desencontros](https://open.spotify.com/album/5Ysc8jx2jpcgbuB5U5Azp9) | 2:41 | 2024-02-23 |  |
 | [Devotion](https://open.spotify.com/track/6jEZ4J76ZXnj49JZrMCTIM) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Devotion](https://open.spotify.com/album/6ygOd5rPLlHFTzQS2CMpmk) | 2:45 | 2023-08-11 |  |
+| [Dew and Fog](https://open.spotify.com/track/4o3jNPoMH5wzUdC4KEqycK) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Dew and Fog](https://open.spotify.com/album/3tb8d58jsdMb1cfSegaGc2) | 2:52 | 2025-12-02 |  |
 | [Diamante](https://open.spotify.com/track/5fW1NupjNhGjwoEQwlh9FU) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Diamante](https://open.spotify.com/album/12SQTw5KsmzIa8BENXP98Y) | 2:30 | 2022-05-27 | 2022-07-08 |
 | [Die Donau](https://open.spotify.com/track/2cZMVymCXBcY4KDr0Qag2f) | [Sylvia Warren](https://open.spotify.com/artist/0Jvjt5h5TJPxU0hsoTljL7) | [Die Donau](https://open.spotify.com/album/1hcqmGoCbBo79hyTfMLnl9) | 2:42 | 2021-12-10 | 2022-07-22 |
 | [die Tulpe](https://open.spotify.com/track/2lxdP9tH5uCkKXJi8MfxpK) | [Frederick Fried](https://open.spotify.com/artist/4c38lToOvTzqQJCfS1uNtx) | [Kona](https://open.spotify.com/album/2qaqZMgv6yVLC6XOO5hka9) | 4:01 | 2021-12-10 | 2023-03-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,027 songs - 20 day 9 hr 40 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,030 songs - 20 day 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8035,5 +8035,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8025 | [ゴーカ！ごーかい！？ファントムシーフ！](https://open.spotify.com/track/1OZloGtqs3sX7Yb4QknVXZ) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/107eLkxRaPZLPtE5yrUahS) | 3:39 |
 | 8026 | [えがおのオーケストラっ！](https://open.spotify.com/track/7iIp2v0Jr9E7ZCpYwP7oZs) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/107eLkxRaPZLPtE5yrUahS) | 3:50 |
 | 8027 | [キミがいなくちゃっ！](https://open.spotify.com/track/4VEL6WYtulopS1j9m1EHU5) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/107eLkxRaPZLPtE5yrUahS) | 4:03 |
+| 8028 | [Cherish \(My Love\)](https://open.spotify.com/track/21LtZQQMQYwVIxc9O9Ygq8) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 2:56 |
+| 8029 | [乙女解剖](https://open.spotify.com/track/47wASAe9g2O1iRhZJMhDdf) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:42 |
+| 8030 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 |
 
-Snapshot ID: `AAAJpzWhCULuDTmyESKoTYzz01t3WYAX`
+Snapshot ID: `AAAJqobpefCjMI0a3fLGW+5TRlTsl522`

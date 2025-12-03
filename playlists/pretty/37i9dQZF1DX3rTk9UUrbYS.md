@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,239 likes - 100 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,258 likes - 100 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In The Dark](https://open.spotify.com/track/317ZymuYyBkuoFZcLjkOF1) | [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L), [Henry Threadgill](https://open.spotify.com/artist/0bSP8obSwEpc8XEOE7qc63) | [Around You Is A Forest](https://open.spotify.com/album/4StVdvXvF5DSy5WJ7qVR2i) | 4:47 |
-| 2 | [Too Lost to Care](https://open.spotify.com/track/3X6SiZpVTyelmzCRdnlWRR) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV), [Gene Coye](https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb), [Jermaine Paul](https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21) | [Too Lost to Care](https://open.spotify.com/album/6EbBImBLb563RTdAbqzizU) | 2:12 |
+| 2 | [Too Lost to Care](https://open.spotify.com/track/3X6SiZpVTyelmzCRdnlWRR) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV), [Gene Coye](https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb), [Jermaine Paul](https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21), [Jose Miguel Perez](https://open.spotify.com/artist/5GX31EnMcvTzsIJ0SSXlzR) | [Too Lost to Care](https://open.spotify.com/album/6EbBImBLb563RTdAbqzizU) | 2:12 |
 | 3 | [Paternoster](https://open.spotify.com/track/1L1ZKH2hcdCIOSKbEWZBII) | [OVERSÁEZ](https://open.spotify.com/artist/5rUZUacnS7ZE0IXustbxyN), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO), [Jonas Westergaard](https://open.spotify.com/artist/367P7Sb8eJw6mRwH9wBG9P), [Nathan Ott](https://open.spotify.com/artist/76wzsAW48HynNLEf180nGg) | [Paternoster](https://open.spotify.com/album/36cQ4dqTtfptZC4seRp7MZ) | 8:55 |
 | 4 | [Homage](https://open.spotify.com/track/06pig4VFnQNUsJ1C8TjkEP) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [Homage](https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D) | 8:00 |
 | 5 | [VI](https://open.spotify.com/track/0Hqe86kEj0B7L3MoBBUvvT) | [Evan Shornstein](https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv), [Will Epstein](https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I) | [Frog Raag](https://open.spotify.com/album/5DZOpRRkXYMU7CAodzg8Pn) | 4:46 |

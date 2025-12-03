@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: Jeff Satur
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,572 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,578 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 99 | [Walk My Walk \(feat\. Réjizz\)](https://open.spotify.com/track/7gtIgNnBwFn0RW5xMYQGqm) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [Réjizz](https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY) | [Hypnosis](https://open.spotify.com/album/0jXmg8cvVkS45W8FPiByYK) | 3:53 |
 | 100 | [not yet](https://open.spotify.com/track/7ebZWt2Cgc4dEvxpnQlvbG) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [not yet](https://open.spotify.com/album/7oN9Yuc8Y0s03o3gK1QRbp) | 4:21 |
 
-Snapshot ID: `AAAAANf29fgJ4UaVGn2axuwTK5yqV8OS`
+Snapshot ID: `AAAAAAN7fs3xGHP5so4kfZvnr9tJgeNK`

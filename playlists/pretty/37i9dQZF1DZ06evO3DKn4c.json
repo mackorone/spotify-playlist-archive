@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 40840,
+  "num_followers": 40841,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADFWPls1fBFCCNFkX/bM2Uz",
+  "snapshot_id": "aSzagAAAAADHk319ixvh4qzXVHP1Zn7G",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
-        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
-      },
-      "artists": [
-        {
-          "name": "Gabriel O Pensador",
-          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 265088,
-      "name": "Nunca Tenha Medo",
-      "url": "https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hip Hop Rare",
         "url": "https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 217444,
       "name": "Motivos",
       "url": "https://open.spotify.com/track/4rjn5DygwQQXo1m24GqRM6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
+        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
+      },
+      "artists": [
+        {
+          "name": "Gabriel O Pensador",
+          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 265088,
+      "name": "Nunca Tenha Medo",
+      "url": "https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pique Peaky Blinders",
+        "url": "https://open.spotify.com/album/7lVZtOG3hxfh408sFeSO6x"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 185604,
+      "name": "Pique Peaky Blinders",
+      "url": "https://open.spotify.com/track/4xYsv5qcjZ1uJga9n20QSn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como Eu Te Quero (Remix)",
         "url": "https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 190476,
       "name": "Como Eu Te Quero - Remix",
       "url": "https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pique Peaky Blinders",
-        "url": "https://open.spotify.com/album/7lVZtOG3hxfh408sFeSO6x"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 185604,
-      "name": "Pique Peaky Blinders",
-      "url": "https://open.spotify.com/track/4xYsv5qcjZ1uJga9n20QSn"
     },
     {
       "added_at": null,
@@ -603,22 +603,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00c3O VAMOS DESISTIR",
-        "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
+        "name": "Gord\u00e3o Chefe",
+        "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
       },
       "artists": [
         {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+          "name": "DBS Gord\u00e3o Chefe",
+          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
         }
       ],
-      "duration_ms": 245920,
-      "name": "N\u00c3O VAMOS DESISTIR",
-      "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
+      "duration_ms": 331775,
+      "name": "Sinto Muito Baby",
+      "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
     },
     {
       "added_at": null,
@@ -659,26 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gord\u00e3o Chefe",
-        "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
+        "name": "N\u00c3O VAMOS DESISTIR",
+        "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
       },
       "artists": [
         {
-          "name": "DBS Gord\u00e3o Chefe",
-          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Edi Rock",
-          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
         }
       ],
-      "duration_ms": 331775,
-      "name": "Sinto Muito Baby",
-      "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
+      "duration_ms": 245920,
+      "name": "N\u00c3O VAMOS DESISTIR",
+      "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
     },
     {
       "added_at": null,

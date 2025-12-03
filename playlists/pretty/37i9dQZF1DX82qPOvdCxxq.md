@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: James Bakian
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,588 likes - 112 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,603 likes - 112 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 2 | [Mad for Me](https://open.spotify.com/track/0jVKGpZTr7AGhjxNH3OoZt) | [McKenna Faith](https://open.spotify.com/artist/2J5ZG3xD6VTCBOXnpn8r2B) | [Mad for Me](https://open.spotify.com/album/2VaCUhVcb71igNGAVywnAa) | 3:30 |
 | 3 | [My Defender](https://open.spotify.com/track/0X3tMVYaQV5UPosSvzF31b) | [Tate Butts](https://open.spotify.com/artist/32BHM1azoYgb5hwKBDiOm3) | [My Defender](https://open.spotify.com/album/5HY4W0xrjownk4EQ76qYQE) | 3:34 |
 | 4 | [Rescue](https://open.spotify.com/track/6qj23ytqYEl3U8N7vnvHQS) | [Nevada](https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT) | [Rescue](https://open.spotify.com/album/6YIZ91Vdj3boGPBLo0DtUI) | 3:07 |
-| 5 | [As the Deer](https://open.spotify.com/track/256Kf6lHeJ1i0gtP4CSjT7) | [MAYIA](https://open.spotify.com/artist/5ulxfM3qYKEmj8J9J8tLPc) | [As the Deer](https://open.spotify.com/album/6cZQQbpyGiRe1dkPTNUsmV) | 3:52 |
+| 5 | [As the Deer](https://open.spotify.com/track/256Kf6lHeJ1i0gtP4CSjT7) | [MAYIA WARREN](https://open.spotify.com/artist/6jwSYdglftKLb8vhvAfNag) | [As the Deer](https://open.spotify.com/album/6cZQQbpyGiRe1dkPTNUsmV) | 3:52 |
 | 6 | [Lover](https://open.spotify.com/track/3jl37PnwV8mGKHF5zNT6ak) | [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [Lover](https://open.spotify.com/album/5OeEAXfl74Gozm1P0CCpkx) | 2:48 |
 | 7 | [Spend Time](https://open.spotify.com/track/1Cqh7oxndFlDaM7GAVp1e4) | [Will Ngonga](https://open.spotify.com/artist/6IRwmt9e2PKz2uTmCOzme7), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [Spend Time](https://open.spotify.com/album/2FRbr8pbmIE9b79sUdCtva) | 3:00 |
 | 8 | [Father Please \(no drums\)](https://open.spotify.com/track/4EUrYA3THGHteLmzEWtK3G) | [numbrs](https://open.spotify.com/artist/0kjkNag1JhAW0BmgaHV1Il) | [am i unequally yoked? \(alternate\)](https://open.spotify.com/album/63gqYHZSvuGowOE3LPZ3tm) | 3:30 |

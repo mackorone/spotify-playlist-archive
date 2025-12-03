@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-248 songs - 12 hr 9 min
+249 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bleu Entrecote](https://open.spotify.com/track/7usy3DT4MSywVCC8MkCk69) | [Menilmuche](https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8) | [Bleu Entrecote](https://open.spotify.com/album/5KOOlRfVVHuNHQAartkRog) | 1:54 | 2025-05-05 |  |
 | [Bohemienne](https://open.spotify.com/track/24B4JQh1WaoVllHGQzjRMr) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 4:22 | 2022-11-25 | 2023-08-19 |
 | [bol et rot](https://open.spotify.com/track/0o41kkPhY0if5o8mdXUgKl) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 2:54 | 2023-06-15 | 2024-04-03 |
-| [Boléro de Montreuil](https://open.spotify.com/track/3b3QhADYnHzlMBrL2k98XS) | [Menilmuche](https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8) | [Boléro de Montreuil](https://open.spotify.com/album/2HLAcaelv4V9MRIUMSzYxl) | 4:13 | 2024-02-23 |  |
+| [Boléro de Montreuil](https://open.spotify.com/track/3b3QhADYnHzlMBrL2k98XS) | [Menilmuche](https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8) | [Boléro de Montreuil](https://open.spotify.com/album/2HLAcaelv4V9MRIUMSzYxl) | 4:13 | 2024-02-23 | 2025-12-03 |
 | [bossa pour un jour](https://open.spotify.com/track/1T813N4CjUtU1lGrHBPRtl) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [bossa pour un jour](https://open.spotify.com/album/37kFqUqKV9JNigWhIX9mSj) | 4:08 | 2025-05-05 | 2025-08-20 |
 | [Boum musette](https://open.spotify.com/track/5o21zzrmo3ppnruabrr1Fa) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [La foule \(Collection "Les archives de l'accordéon"\)](https://open.spotify.com/album/00Q6aSetTUHYYFZygpEdv7) | 2:24 | 2022-02-18 |  |
 | [Boum Musette](https://open.spotify.com/track/7wBDJL7T1pSzwpfm5fzqjt) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [Presenting Joss Baselli](https://open.spotify.com/album/2ztegz9DBfyvvD1ArFsOwe) | 2:25 | 2023-08-03 | 2024-04-19 |
@@ -184,6 +184,7 @@
 | [Petite Musette](https://open.spotify.com/track/5DxwUiJ9Fcmdz0aHPL5Vtr) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:06 | 2022-02-18 | 2023-04-14 |
 | [Petite Musette](https://open.spotify.com/track/33x847YFwz6rusGFsfXgg1) | [Jose Fermin Gurbindo](https://open.spotify.com/artist/5y5y5xtgZX3rECXXmT81JJ), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 3:06 | 2022-02-18 | 2022-07-29 |
 | [Pierrine](https://open.spotify.com/track/1YEI60yKVmC4qeCXL5GMj2) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 3:22 | 2023-03-07 | 2023-08-19 |
+| [Pochette Surprise](https://open.spotify.com/track/73asDqz9rGSCNEB1BJsaHt) | [Menilmuche](https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8) | [Pochette Surprise](https://open.spotify.com/album/2g4I1EiuLKpevoi39uM9hz) | 3:04 | 2025-12-02 |  |
 | [Pour Chopin](https://open.spotify.com/track/2ZEIj6XsMcGqNMct7cn9f9) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/1dojDdiTR2HzTutReEQRiu) | 3:19 | 2022-02-18 | 2025-08-20 |
 | [Pour Chopin](https://open.spotify.com/track/6icE3aCpAje1b6BP03Qa7E) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH) | 3:19 | 2022-08-05 | 2022-11-13 |
 | [Pour Michele](https://open.spotify.com/track/74rD7WHLAShBWZaOoajaYZ) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Café Musette](https://open.spotify.com/album/3c2mBv9KMW32g86USHwYwM) | 3:19 | 2022-02-18 | 2024-04-19 |

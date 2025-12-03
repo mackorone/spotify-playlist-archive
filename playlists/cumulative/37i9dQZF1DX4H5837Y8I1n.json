@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0AC0O74oBjVfCp0SHr3kQ6"
+    },
+    {
+      "album": {
         "name": "Aavesam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/275uWzLObSrwiYe0zJJMSj"
       },
@@ -20,7 +38,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 258119,
       "name": "Aaluma Doluma",
       "url": "https://open.spotify.com/track/1vMxXImRI5yzXxeoHSCX13"
@@ -42,7 +60,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 189880,
       "name": "Agni Skalana",
       "url": "https://open.spotify.com/track/2taLvowLiIjMuwXTvaJN0T"
@@ -126,7 +144,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 175677,
       "name": "Bhaga Bhaga",
       "url": "https://open.spotify.com/track/3KpBJtSOZdWTNk48O2b4m9"
@@ -144,7 +162,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 324917,
       "name": "Bharat Ane Nenu (The Song Of Bharat)",
       "url": "https://open.spotify.com/track/3bydTwhtFIdescvPHQuLW6"
@@ -162,7 +180,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 123636,
       "name": "Bheemla's Shivathandavam Part - 1",
       "url": "https://open.spotify.com/track/1dtybof3F8HSkHAZfW1Mhf"
@@ -192,11 +210,19 @@
         {
           "name": "Deepu",
           "url": "https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
         }
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 304987,
       "name": "Blockbuster",
       "url": "https://open.spotify.com/track/37S2kL71k5LOmGxzJ7JLzE"
@@ -254,7 +280,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 165592,
       "name": "Chalore Chalore(Telugu)",
       "url": "https://open.spotify.com/track/71fCqjqfJz23Bjodiqt4GY"
@@ -284,6 +310,24 @@
       "duration_ms": 250971,
       "name": "Choolenge Aasma",
       "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
+    },
+    {
+      "album": {
+        "name": "Son Of Satyamurthy",
+        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240923,
+      "name": "Come To The Party",
+      "url": "https://open.spotify.com/track/573LKvxZqtuD009eUcG1BR"
     },
     {
       "album": {
@@ -324,7 +368,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 325891,
       "name": "Dhivara",
       "url": "https://open.spotify.com/track/0hFZn71Eyc8ajuQ2ax6bZW"
@@ -398,7 +442,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 279126,
       "name": "Don Bosco",
       "url": "https://open.spotify.com/track/05j8OBtR02Y6w0DUY5sbTT"
@@ -468,14 +512,14 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 228000,
       "name": "Dorikithe Chastavu",
       "url": "https://open.spotify.com/track/1YxOiTuveJM4seiw0p6NeS"
     },
     {
       "album": {
-        "name": "Vinaya Vidheya Rama",
+        "name": "Vinaya Vidheya Rama [TELUGU]",
         "url": "https://open.spotify.com/album/6LgFMvJH3ChdcFHgpCYCkF"
       },
       "artists": [
@@ -486,11 +530,19 @@
         {
           "name": "Ranina Reddy",
           "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Shreemani",
+          "url": "https://open.spotify.com/artist/2wkgtrTLaIP37n6UI1fUW5"
         }
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 259951,
       "name": "Ek Baar",
       "url": "https://open.spotify.com/track/7KWksSySkwqGS3vo59yygt"
@@ -516,7 +568,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 236057,
       "name": "Eyy Bidda Idhi Naa Adda (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/7e6J0HgooHYVi4SwdOB2OM"
@@ -556,7 +608,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 198834,
       "name": "Gangu Leader",
       "url": "https://open.spotify.com/track/05dYneZZZ2mytSmnsvzFoW"
@@ -582,7 +634,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 250761,
       "name": "Garam Garam (From \"Saripodhaa Sanivaaram\")",
       "url": "https://open.spotify.com/track/0qdiNx11tQtjFCqbko9i2k"
@@ -612,7 +664,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 246140,
       "name": "Ghani Anthem",
       "url": "https://open.spotify.com/track/4Ek9XbP8FHnjjuOXQ5kLAh"
@@ -634,7 +686,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 270113,
       "name": "Gili Giligas",
       "url": "https://open.spotify.com/track/6BQ8arQgffLVGyJdajQSXK"
@@ -664,7 +716,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 215178,
       "name": "GlobeTrotter (From \"Varanasi\")",
       "url": "https://open.spotify.com/track/1yamFTTVl9UymBBKeVRewV"
@@ -712,7 +764,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 207647,
       "name": "Hukum - Telugu (From \"Jailer\")",
       "url": "https://open.spotify.com/track/1VhFZ2cCflcwp74w5Vzv7y"
@@ -734,7 +786,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 119052,
       "name": "Hungry Cheetah (From \"They Call Him OG\")",
       "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
@@ -746,13 +798,17 @@
       },
       "artists": [
         {
-          "name": "Vijay Prakash, Anitha",
-          "url": "https://open.spotify.com/artist/5mYYuZMloL3PebJsXYzAuQ"
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Anitha",
+          "url": "https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc"
         }
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 266760,
       "name": "Idhedho Bagundhe",
       "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
@@ -774,7 +830,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 258161,
       "name": "Jayaho Janatha",
       "url": "https://open.spotify.com/track/4fo2Q4iPc9DDI1eS7sIHIh"
@@ -804,10 +860,32 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 258161,
       "name": "Jayaho Janatha",
       "url": "https://open.spotify.com/track/07uXiSzem7E1dt5L157ceG"
+    },
+    {
+      "album": {
+        "name": "Rangasthalam",
+        "url": "https://open.spotify.com/album/5XPaQZJdvu6IDQgf1zzmhP"
+      },
+      "artists": [
+        {
+          "name": "Rela Kumar",
+          "url": "https://open.spotify.com/artist/62oOhStk8pQGEafnScrUP6"
+        },
+        {
+          "name": "Ganta Venkata Lakshmi",
+          "url": "https://open.spotify.com/artist/3Gz4xvWhNyxN5W2DO6CMMj"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305377,
+      "name": "Jigelu Rani",
+      "url": "https://open.spotify.com/track/5o0we0zcu0rhgpW5nFL0yG"
     },
     {
       "album": {
@@ -826,7 +904,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 228597,
       "name": "KICK",
       "url": "https://open.spotify.com/track/0nS3ySUkNRW51tabOIjZYT"
@@ -885,6 +963,28 @@
     },
     {
       "album": {
+        "name": "Devadas",
+        "url": "https://open.spotify.com/album/0xcDSSJZtVGNIOFch0L99D"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293571,
+      "name": "Laka Laka Lakumikara",
+      "url": "https://open.spotify.com/track/4fQAx0uXs80xfNop7YDIpg"
+    },
+    {
+      "album": {
         "name": "Leo (Telugu) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/5J1XhEG5CrCThq6bL9pzoY"
       },
@@ -896,7 +996,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 114193,
       "name": "Lokiverse 2.0",
       "url": "https://open.spotify.com/track/3gVv4MxLGitgDIyDKx3pa0"
@@ -914,7 +1014,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 236533,
       "name": "Lover Also Fighter Also",
       "url": "https://open.spotify.com/track/1bIcKBql2FriNbkbdzD5Zl"
@@ -954,7 +1054,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 214517,
       "name": "Manohari",
       "url": "https://open.spotify.com/track/68rSALJuiiiJSOgL7DXdNg"
@@ -980,7 +1080,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 275666,
       "name": "Merupaisagara",
       "url": "https://open.spotify.com/track/3vLxIayJZo1tIPDUmyo1jt"
@@ -1072,7 +1172,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 237232,
       "name": "My Name Is Billa (From \"Billa\")",
       "url": "https://open.spotify.com/track/1KE8R4uTm0IzwAzkBufKkK"
@@ -1092,13 +1192,17 @@
           "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
         },
         {
-          "name": "M. M. Keeravani",
+          "name": "M. M. Keeravaani",
           "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
         }
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 214399,
       "name": "Naatu Naatu (From \"Rrr\")",
       "url": "https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP"
@@ -1120,7 +1224,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 250665,
       "name": "Nadh Nadh",
       "url": "https://open.spotify.com/track/3dM6QAiyWLwxnDSkLwn6F5"
@@ -1150,13 +1254,17 @@
       },
       "artists": [
         {
-          "name": "Shankar Mahadevan, Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/4GDqaMGNXxB3b5lX2MLk7J"
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         }
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 228318,
       "name": "Neneppudaina",
       "url": "https://open.spotify.com/track/2NOTi5LCnVtftncWP9nXiG"
@@ -1192,7 +1300,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 77895,
       "name": "Never Lost a Fight",
       "url": "https://open.spotify.com/track/6r5DTR4IKZgNcNS4IBdlry"
@@ -1214,7 +1322,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 218666,
       "name": "Nippu Ra",
       "url": "https://open.spotify.com/track/5zGHViDOEuNaZySWpLgPw6"
@@ -1244,7 +1352,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 299560,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/5ZpzFCRJcksgEcBPEvPUdk"
@@ -1266,7 +1374,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 283447,
       "name": "O Sayonara",
       "url": "https://open.spotify.com/track/2O0gfUalCw8AM1KE3Tru2e"
@@ -1284,7 +1392,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 149982,
       "name": "Oosaravelli",
       "url": "https://open.spotify.com/track/0TB62hiEi1kcrW2TWeRcvV"
@@ -1302,7 +1410,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 214741,
       "name": "Panjaa",
       "url": "https://open.spotify.com/track/0DqxP3SqU9OqVtYUpTRKST"
@@ -1386,7 +1494,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 340093,
       "name": "Pistha Pistha",
       "url": "https://open.spotify.com/track/4Dw9HKl82LsGZCkYkdxKGS"
@@ -1438,7 +1546,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 250000,
       "name": "Ra Ra (Roar of the Revengers) (From \"Gang Leader\")",
       "url": "https://open.spotify.com/track/5eFtLCI7lyvIxSm6YlY33X"
@@ -1496,11 +1604,19 @@
         {
           "name": "Divya Kumar",
           "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
         }
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 258122,
       "name": "Raavana",
       "url": "https://open.spotify.com/track/2JnZ5Q6YjESfLil5hg7WUT"
@@ -1577,6 +1693,28 @@
     },
     {
       "album": {
+        "name": "Raja Garu Bayatakosthe - Raja Vikramarka",
+        "url": "https://open.spotify.com/album/3EJu3OsXaJFj10L3KHcJPS"
+      },
+      "artists": [
+        {
+          "name": "David Simon",
+          "url": "https://open.spotify.com/artist/1C7kjT2jleM2qNGK97amtW"
+        },
+        {
+          "name": "Prashanth R Vihari",
+          "url": "https://open.spotify.com/artist/1advv7h9JDw0JqezZiVAN1"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242678,
+      "name": "Raja Garu Bayatakosthe",
+      "url": "https://open.spotify.com/track/4e5R4RjV1CB7405MzFd0sx"
+    },
+    {
+      "album": {
         "name": "Red Sea (From \"Devara Part 1\")",
         "url": "https://open.spotify.com/album/5FqTXCya4oO6is24rhWDBg"
       },
@@ -1588,10 +1726,32 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 162043,
       "name": "Red Sea (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/75IywzsrO67PjCrFHnA9tb"
+    },
+    {
+      "album": {
+        "name": "Varudu",
+        "url": "https://open.spotify.com/album/52X0wJf2TD17VhMP8OPcvH"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Geetha Madhuri",
+          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261279,
+      "name": "Relaare Relaare",
+      "url": "https://open.spotify.com/track/7zeMJn8kFBGd5P0sI9cNHr"
     },
     {
       "album": {
@@ -1614,6 +1774,32 @@
       "duration_ms": 314373,
       "name": "Rooba Rooba",
       "url": "https://open.spotify.com/track/1rJmySqUrHQP0O4l1JX8E9"
+    },
+    {
+      "album": {
+        "name": "Baahubali 2 - The Conclusion",
+        "url": "https://open.spotify.com/album/7B0qsVSWw3Cn8pngsHYNVQ"
+      },
+      "artists": [
+        {
+          "name": "Daler Mehndi",
+          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
+        },
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Mounima C.H.",
+          "url": "https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202378,
+      "name": "Saahore Baahubali",
+      "url": "https://open.spotify.com/track/09GP9mSbw1fQ6xmVlGQ8MU"
     },
     {
       "album": {
@@ -1644,36 +1830,10 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 202378,
       "name": "Saahore Baahubali",
       "url": "https://open.spotify.com/track/4v3RS3BB2xY4LTw0r7zK4Y"
-    },
-    {
-      "album": {
-        "name": "Baahubali 2 - The Conclusion",
-        "url": "https://open.spotify.com/album/7B0qsVSWw3Cn8pngsHYNVQ"
-      },
-      "artists": [
-        {
-          "name": "Daler Mehndi",
-          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
-        },
-        {
-          "name": "M. M. Keeravani",
-          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
-        },
-        {
-          "name": "Mounima",
-          "url": "https://open.spotify.com/artist/0hsr1jMeS62WhIhV8wiNmo"
-        }
-      ],
-      "date_added": "2022-01-05",
-      "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
-      "duration_ms": 202378,
-      "name": "Saahore Baahubali",
-      "url": "https://open.spotify.com/track/09GP9mSbw1fQ6xmVlGQ8MU"
     },
     {
       "album": {
@@ -1713,6 +1873,28 @@
     },
     {
       "album": {
+        "name": "Sarileru Neekevvaru",
+        "url": "https://open.spotify.com/album/6vi0HnekV5nuzXB96NOAEL"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266843,
+      "name": "Sarileru Neekevvaru Anthem",
+      "url": "https://open.spotify.com/track/7uCaf4UgDNu011w0EzGWvU"
+    },
+    {
+      "album": {
         "name": "Savyasachi",
         "url": "https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3"
       },
@@ -1740,11 +1922,23 @@
         {
           "name": "Mohana",
           "url": "https://open.spotify.com/artist/1YzrFqVn8uajGVqExSaZkf"
+        },
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "K Shivadatta",
+          "url": "https://open.spotify.com/artist/2UmJCayRsk6YvVb6D5ISKh"
+        },
+        {
+          "name": "Ramakrishna Koduri",
+          "url": "https://open.spotify.com/artist/1WSLQSrGz8Phd3FArKSppq"
         }
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 189707,
       "name": "Savyasachi",
       "url": "https://open.spotify.com/track/3qj06yYj5GfdK3O5aoteru"
@@ -1773,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Damarukam",
+        "url": "https://open.spotify.com/album/2clc3aZYwJcXmStbfYS0E3"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294973,
+      "name": "Shiva Shiva Shankara",
+      "url": "https://open.spotify.com/track/4gtLJww6QLeIrFujN8glJg"
+    },
+    {
+      "album": {
         "name": "Saripodhaa Sanivaaram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q"
       },
@@ -1788,7 +2000,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 190000,
       "name": "Shiva Thandavame",
       "url": "https://open.spotify.com/track/6vSmTXxpkhcYGfApCWH16j"
@@ -1832,7 +2044,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 265283,
       "name": "Sweety",
       "url": "https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW"
@@ -1873,7 +2085,7 @@
     },
     {
       "album": {
-        "name": "Vinaya Vidheya Rama",
+        "name": "Vinaya Vidheya Rama [TELUGU]",
         "url": "https://open.spotify.com/album/6LgFMvJH3ChdcFHgpCYCkF"
       },
       "artists": [
@@ -1884,11 +2096,19 @@
         {
           "name": "M.M.Manasi",
           "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Shreemani",
+          "url": "https://open.spotify.com/artist/2wkgtrTLaIP37n6UI1fUW5"
         }
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 265963,
       "name": "Thassadiyya",
       "url": "https://open.spotify.com/track/5HVuVRgtLFrACoiB8vv4Ah"
@@ -2020,7 +2240,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 285652,
       "name": "Theme Of BRO (From \"BRO\")",
       "url": "https://open.spotify.com/track/6zpANi4RRtyijGYhV2gXJL"
@@ -2038,7 +2258,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 183500,
       "name": "Tillu Anna DJ Pedithe",
       "url": "https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn"
@@ -2078,7 +2298,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 268251,
       "name": "Travelling Soldier",
       "url": "https://open.spotify.com/track/36DJWpE4Qt82zBdxT2MzHM"
@@ -2136,7 +2356,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 325217,
       "name": "Vachaadayyo Saami",
       "url": "https://open.spotify.com/track/3VS9W9i3GjcIUJf6Zen7yv"
@@ -2154,7 +2374,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 245666,
       "name": "Veera Dheera",
       "url": "https://open.spotify.com/track/1oyA1gaiHOj7HtDWo35K25"
@@ -2208,7 +2428,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 283359,
       "name": "Voilance Is Fashion",
       "url": "https://open.spotify.com/track/5zEk2CVzQlIYrdhVxOA2Ya"
@@ -2230,7 +2450,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 207488,
       "name": "Waka Waka - Telugu",
       "url": "https://open.spotify.com/track/12QqgQPqe6xMJf0EFgxcCP"
@@ -2242,13 +2462,13 @@
       },
       "artists": [
         {
-          "name": "Puyush Kapoor (English Lyrics Dsp)",
-          "url": "https://open.spotify.com/artist/3O5GBivBKxMf4uSRR8og0o"
+          "name": "Piyush Kapoor",
+          "url": "https://open.spotify.com/artist/3QSkMsj71gq33qVAGpXNp8"
         }
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 273587,
       "name": "You\u2019Re My Love",
       "url": "https://open.spotify.com/track/0EV7Iol5TYTzVufJTT6ZSX"

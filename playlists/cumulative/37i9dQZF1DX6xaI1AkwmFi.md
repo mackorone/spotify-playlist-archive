@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-507 songs - 1 day 5 hr 23 min
+509 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [cheers](https://open.spotify.com/track/3abasVZR9LCHo7V6gmdr2s) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [cheers](https://open.spotify.com/album/37baTLzPm1Sxcshl59gNat) | 2:58 | 2025-03-11 | 2025-03-19 |
 | [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-01-30 | 2024-02-07 |
 | [Color of our destiny](https://open.spotify.com/track/7b6BdnzuckZVite9Bfd1k5) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Color of our destiny](https://open.spotify.com/album/472ls5csvcogUFt9zKIMzi) | 2:58 | 2024-11-06 | 2024-12-11 |
+| [COMICAL](https://open.spotify.com/track/0LLVHyAaMQcfntcoWY6pAC) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [](https://open.spotify.com/album/null) | 3:46 | 2025-12-03 |  |
 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 | 2025-01-15 | 2025-02-12 |
 | [Coming\-of\-age Story](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 3:36 | 2025-07-16 |  |
 | [Control](https://open.spotify.com/track/5mTS9pCJGg8LKBAWJU5jW6) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Logic 2](https://open.spotify.com/album/5gq6hLXuSFahqLyqCsuJ0r) | 3:01 | 2024-07-30 | 2024-08-29 |
@@ -193,6 +194,7 @@
 | [rhythm 64](https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [rhythm 64](https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp) | 4:28 | 2024-02-01 | 2024-04-03 |
 | [RUN](https://open.spotify.com/track/46RQJRbjYT8MqcLDJHM0iX) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [RUN](https://open.spotify.com/album/202o5K14gZ0UQpAHgfPIe8) | 3:09 | 2023-12-21 | 2024-02-07 |
 | [rundown](https://open.spotify.com/track/5uzBqoiKKn4aYDzhf25yxY) | [yubiori](https://open.spotify.com/artist/5oZhNJP1zUPqUW6RLwneNo) | [yubiori2](https://open.spotify.com/album/2pjf8qgJIIhi6lgbgMSujz) | 3:45 | 2025-07-02 | 2025-07-16 |
+| [Sanitizer](https://open.spotify.com/track/4eCYeVfzGsS6jq8aX43yDr) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Sanitizer](https://open.spotify.com/album/0GjrgVnOjXqHxy7KtHQYnY) | 5:04 | 2025-12-03 |  |
 | [SANKAIME](https://open.spotify.com/track/3MaM44adPzgRF9zRoNDqjl) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [ケンチンミン](https://open.spotify.com/artist/50FwwdpHJIyYhoYfmd3tSL), [hasama](https://open.spotify.com/artist/12hcmN1FJRg9gU5tXuSpKS) | [SANKAIME](https://open.spotify.com/album/7wMWAunR0VoyHZ5vSJeqo9) | 2:18 | 2024-07-24 | 2024-07-31 |
 | [Sapporo Tokyo](https://open.spotify.com/track/5UfEvgUgUUK7bFg3pgG2WT) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Sapporo Tokyo](https://open.spotify.com/album/2qRreb6X5DMn1NXr7efii8) | 3:21 | 2024-03-05 | 2024-04-03 |
 | [SAPPORO TOKYO](https://open.spotify.com/track/61mRQIRRPGxuMUuEra2vFN) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [SAPPORO TOKYO](https://open.spotify.com/album/1LgMEwqdLiFeScDqcaGP40) | 3:21 | 2024-03-05 | 2024-03-07 |
@@ -238,7 +240,7 @@
 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-12 | 2024-05-09 |
 | [Thru the night](https://open.spotify.com/track/6PXwCHwKYa6XBmuejjLQgD) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [Thru the night](https://open.spotify.com/album/05rUpCEtFf6U1vt2rt4aQM) | 2:18 | 2025-01-15 | 2025-01-22 |
 | [THUNDA](https://open.spotify.com/track/1BEyOBT9L7Sl9oXJiJgryS) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [THUNDA](https://open.spotify.com/album/7Lw4duprv7ZTxEBm1Hj87H) | 2:41 | 2025-09-04 | 2025-11-27 |
-| [Toki Yo Tomare](https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Toki Yo Tomare](https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP) | 3:08 | 2025-11-05 |  |
+| [Toki Yo Tomare](https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Toki Yo Tomare](https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP) | 3:08 | 2025-11-05 | 2025-12-03 |
 | [TOKYO JOURNEY](https://open.spotify.com/track/3eVvBU4nUV2GoVoF4iHo12) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [TOKYO JOURNEY](https://open.spotify.com/album/2f6d38S4UgGAF66V7DTwzs) | 4:18 | 2023-11-29 | 2024-01-10 |
 | [Tomorrow!](https://open.spotify.com/track/1c6g0m9UCX9IHPLSy20MEF) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [Tomorrow!](https://open.spotify.com/album/73aLbNZmva7CV9Q2yDTmWU) | 3:17 | 2024-01-11 | 2024-02-07 |
 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 | 2024-01-25 | 2024-02-07 |
@@ -329,7 +331,7 @@
 | [シャラランデヴー](https://open.spotify.com/track/3SCd7CySMBfyE1ZhJLtiOH) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [シャラランデヴー](https://open.spotify.com/album/0vpcPQ7Rveh5iDEZvAe3Xt) | 3:10 | 2024-10-23 | 2024-11-20 |
 | [ショコラカタブラ](https://open.spotify.com/track/5tDluNOXu6r7z7u9NKjPCt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ショコラカタブラ](https://open.spotify.com/album/0bHJgay2GTCHvSgaq6xtYM) | 3:03 | 2024-01-30 | 2024-02-01 |
 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 | 2024-04-17 |  |
-| [スノーサプライズ](https://open.spotify.com/track/72qunBPdbUqFptpgGyRAKM) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [スノーサプライズ](https://open.spotify.com/album/6LwbdG6PgFVjvdt6IzEMkc) | 3:11 | 2025-11-26 |  |
+| [スノーサプライズ](https://open.spotify.com/track/72qunBPdbUqFptpgGyRAKM) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [スノーサプライズ](https://open.spotify.com/album/6LwbdG6PgFVjvdt6IzEMkc) | 3:11 | 2025-11-26 | 2025-12-03 |
 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 | 2024-01-09 | 2025-07-29 |
 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 | 2023-11-23 | 2025-07-24 |
 | [ダンス・デカダンス](https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ダンス・デカダンス](https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37) | 3:14 | 2024-01-23 | 2024-02-07 |

@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 368867,
+  "num_followers": 368994,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-11-20 23:01:37",
       "album": {
-        "name": "Vado al massimo (Remastered)",
-        "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Splendida giornata",
-      "url": "https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk"
-    },
-    {
-      "added_at": "2025-11-20 23:01:37",
-      "album": {
         "name": "Hypnotic Tango",
         "url": "https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 369084,
       "name": "Hypnotic Tango - Original 12\" Version",
       "url": "https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID"
+    },
+    {
+      "added_at": "2025-11-20 23:01:37",
+      "album": {
+        "name": "Vado al massimo (Remastered)",
+        "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Splendida giornata",
+      "url": "https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk"
     },
     {
       "added_at": "2025-11-20 23:01:37",
@@ -483,26 +483,6 @@
     {
       "added_at": "2025-11-20 23:01:37",
       "album": {
-        "name": "Mediterranea (Dumar Remix)",
-        "url": "https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4"
-      },
-      "artists": [
-        {
-          "name": "Giuni Russo",
-          "url": "https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3"
-        },
-        {
-          "name": "Dumar",
-          "url": "https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba"
-        }
-      ],
-      "duration_ms": 184672,
-      "name": "Mediterranea - Dumar Remix",
-      "url": "https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx"
-    },
-    {
-      "added_at": "2025-11-20 23:01:37",
-      "album": {
         "name": "The Glow of Love (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 373240,
       "name": "The Glow of Love",
       "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
+    },
+    {
+      "added_at": "2025-11-20 23:01:37",
+      "album": {
+        "name": "Mediterranea (Dumar Remix)",
+        "url": "https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4"
+      },
+      "artists": [
+        {
+          "name": "Giuni Russo",
+          "url": "https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3"
+        },
+        {
+          "name": "Dumar",
+          "url": "https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba"
+        }
+      ],
+      "duration_ms": 184672,
+      "name": "Mediterranea - Dumar Remix",
+      "url": "https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx"
     },
     {
       "added_at": "2025-11-20 23:01:37",
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-11-20 23:01:37",
       "album": {
-        "name": "I Need You Tonite / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+        "name": "Dancing in the Dark",
+        "url": "https://open.spotify.com/album/5iBOXEbZ0c3O0XdbMvdbcd"
       },
       "artists": [
         {
-          "name": "Suzy Q",
-          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
         }
       ],
-      "duration_ms": 390127,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+      "duration_ms": 213207,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/7MhVjxjoDH5AJV5NdL1Bs7"
     },
     {
       "added_at": "2025-11-20 23:01:37",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-11-20 23:01:37",
       "album": {
+        "name": "I Need You Tonite / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+      },
+      "artists": [
+        {
+          "name": "Suzy Q",
+          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
+        }
+      ],
+      "duration_ms": 390127,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+    },
+    {
+      "added_at": "2025-11-20 23:01:37",
+      "album": {
         "name": "The Division",
         "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 396435,
       "name": "Neutron Dance",
       "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
-    },
-    {
-      "added_at": "2025-11-20 23:01:37",
-      "album": {
-        "name": "Dancing in the Dark",
-        "url": "https://open.spotify.com/album/5iBOXEbZ0c3O0XdbMvdbcd"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
-        }
-      ],
-      "duration_ms": 213207,
-      "name": "Dancing in the Dark",
-      "url": "https://open.spotify.com/track/7MhVjxjoDH5AJV5NdL1Bs7"
     },
     {
       "added_at": "2025-11-20 23:01:37",
@@ -843,18 +843,18 @@
     {
       "added_at": "2025-11-20 23:01:37",
       "album": {
-        "name": "Tac..!",
-        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
+        "name": "Gary Low: The Best of",
+        "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
       },
       "artists": [
         {
-          "name": "Franco Califano",
-          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
+          "name": "Gary Low",
+          "url": "https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b"
         }
       ],
-      "duration_ms": 236333,
-      "name": "Balla Ba",
-      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
+      "duration_ms": 509240,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
     },
     {
       "added_at": "2025-11-20 23:01:37",
@@ -879,18 +879,18 @@
     {
       "added_at": "2025-11-20 23:01:37",
       "album": {
-        "name": "Gary Low: The Best of",
-        "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
+        "name": "Tac..!",
+        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
       },
       "artists": [
         {
-          "name": "Gary Low",
-          "url": "https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b"
+          "name": "Franco Califano",
+          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
         }
       ],
-      "duration_ms": 509240,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
+      "duration_ms": 236333,
+      "name": "Balla Ba",
+      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
     },
     {
       "added_at": "2025-11-20 23:01:37",

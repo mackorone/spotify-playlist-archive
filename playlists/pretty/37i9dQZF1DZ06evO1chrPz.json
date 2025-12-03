@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 206478,
+  "num_followers": 206490,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAAHXsmK4DS0yTLOJjkvw5S8",
+  "snapshot_id": "aSzagAAAAACW9UtcD+sVL6hAkxzjIARJ",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 292226,
+      "name": "Only Jesus (Instrumental)",
+      "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Touch of Heaven / Alabaster Heart (Live)",
         "url": "https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 630228,
       "name": "Touch of Heaven / Alabaster Heart (Live)",
       "url": "https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 292226,
-      "name": "Only Jesus (Instrumental)",
-      "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
     },
     {
       "added_at": null,
@@ -751,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For the Sake of the World",
+        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 408826,
+      "name": "Our Father",
+      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elohim (Live)",
         "url": "https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 434745,
       "name": "Holy Hands - Live",
       "url": "https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For the Sake of the World",
-        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 408826,
-      "name": "Our Father",
-      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 315767,
-      "name": "My King Forever (Live)",
-      "url": "https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Up Here",
         "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 318115,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 315767,
+      "name": "My King Forever (Live)",
+      "url": "https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg"
     },
     {
       "added_at": null,
@@ -999,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
       "artists": [
         {
@@ -1008,13 +1008,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 317789,
-      "name": "By the Grace of God",
-      "url": "https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH"
+      "duration_ms": 339870,
+      "name": "Pieces (Live)",
+      "url": "https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz"
     },
     {
       "added_at": null,

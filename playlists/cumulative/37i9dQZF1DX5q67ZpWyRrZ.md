@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Tsumyoki & Gini
 
-275 songs - 15 hr 38 min
+277 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,8 @@
 | [Baatein](https://open.spotify.com/track/3q5Ur1rIlB8NuOY6FbzxJs) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK) | [Baatein](https://open.spotify.com/album/0SwjECRoO3tjUhX3rYaqJf) | 4:06 | 2022-01-05 | 2022-10-21 |
 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 | 2023-02-06 |  |
 | [Baawra](https://open.spotify.com/track/2Repz4eP8qEqOVz8CltLZ0) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Akash Rajput](https://open.spotify.com/artist/3PedLNTFVPKy2wUQbiq0gk) | [Baawra](https://open.spotify.com/album/58CpJdSRp7B0Hg96V45ch1) | 4:28 | 2024-09-04 |  |
+| [Banda Kaam Ka](https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Banda Kaam Ka](https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t) | 4:08 | 2025-12-02 |  |
+| [bargad](https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl) | [sufr](https://open.spotify.com/artist/0H2Xt7XJQyDItXNN3j7F1F), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [bargad](https://open.spotify.com/album/5BnxT8zqiWLJTzSPouJd1n) | 2:55 | 2025-12-02 |  |
 | [Beh Jaana](https://open.spotify.com/track/4EO3U6Ip5sVJZGTQuemMev) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Jugaadistan \(Original Series Soundtrack\)](https://open.spotify.com/album/0tPs35OLKpMmnxzWJXoyze) | 2:41 | 2022-03-16 | 2022-04-23 |
 | [Betahasha](https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV) | [Betahasha](https://open.spotify.com/album/56DhJ2JIMfgT8mEI5VczxT) | 3:16 | 2022-06-20 | 2023-04-18 |
 | [Blush](https://open.spotify.com/track/6IjeHG6oLIkZeSq2SMEAtd) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Blush](https://open.spotify.com/album/5XLBXjciXLRxhhRI99zaOP) | 3:19 | 2021-12-06 | 2022-11-19 |
@@ -160,7 +162,7 @@
 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 | 2022-05-23 | 2023-05-18 |
 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 | 2023-05-22 |  |
 | [Lamhey](https://open.spotify.com/track/6iEHCMrU5HN5CCFppq27Yi) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/7xVbSmKMvGY6dcEie2OAn0) | 2:29 | 2023-05-17 | 2023-05-23 |
-| [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 | 2024-03-19 |  |
+| [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 | 2024-03-19 | 2025-12-03 |
 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 | 2022-07-13 | 2024-04-20 |
 | [Leftovers](https://open.spotify.com/track/514yEEVqyRwV90BSezTLtU) | [Kalumé](https://open.spotify.com/artist/5p9hcmZfvnNdDLLWt5NzxZ) | [Leftovers](https://open.spotify.com/album/2ahNr4xlqGaK106um9nayR) | 3:16 | 2021-12-06 | 2022-01-06 |
 | [Liggi](https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Liggi](https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa) | 3:01 | 2021-12-06 | 2022-01-06 |
@@ -249,7 +251,7 @@
 | [Tara](https://open.spotify.com/track/3DTmTgyV1iEzTbeboZTyJ7) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tara](https://open.spotify.com/album/7kMrXWaklEB4rhfq7pOwdG) | 4:32 | 2021-12-06 | 2022-07-14 |
 | [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-03-08 | 2024-03-20 |
 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 | 2022-08-09 | 2023-09-19 |
-| [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 | 2023-03-21 |  |
+| [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 | 2023-03-21 | 2025-12-03 |
 | [Tere Bina](https://open.spotify.com/track/6vp8XQXRrZT2Df4DbOD8Bf) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Tere Bina](https://open.spotify.com/album/3i5Smt37ADBsOoS593ELHQ) | 2:30 | 2024-03-20 | 2024-10-06 |
 | [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 | 2022-01-05 | 2025-01-15 |
 | [Thing About the Colour Blue](https://open.spotify.com/track/09XtL9fgoolH8jNRlX2AkD) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Bring Back the Sound](https://open.spotify.com/album/1KosGhCYNNvwy0f1n4EPEZ) | 2:35 | 2022-01-05 | 2022-02-26 |

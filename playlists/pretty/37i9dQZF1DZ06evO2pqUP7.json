@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69579,
+  "num_followers": 69584,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAABZxHhUEGCEWH7EtfdGRiWd",
+  "snapshot_id": "aSzagAAAAABbTpZSB2qA6V3FRylTuOW4",
   "tracks": [
     {
       "added_at": null,
@@ -295,34 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUCATI (feat. Hades66)",
-        "url": "https://open.spotify.com/album/3p85cVmq4LXmVyVwjV8Ymt"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 246290,
-      "name": "DUCATI (feat. Hades66)",
-      "url": "https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -375,6 +347,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "DUCATI (feat. Hades66)",
+        "url": "https://open.spotify.com/album/3p85cVmq4LXmVyVwjV8Ymt"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 246290,
+      "name": "DUCATI (feat. Hades66)",
+      "url": "https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
         "url": "https://open.spotify.com/album/28561uZztshyZSVG6ElL62"
       },
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuevo",
-        "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 139350,
-      "name": "Nuevo",
-      "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 231765,
       "name": "VUD\u00da",
       "url": "https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuevo",
+        "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 139350,
+      "name": "Nuevo",
+      "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
     },
     {
       "added_at": null,

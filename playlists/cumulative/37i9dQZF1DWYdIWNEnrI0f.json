@@ -289,6 +289,32 @@
     },
     {
       "album": {
+        "name": "Early Hours",
+        "url": "https://open.spotify.com/album/3NwPKrQtGsMZBfEZZy4F6O"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132694,
+      "name": "Empty Streets",
+      "url": "https://open.spotify.com/track/0x7HABmP1yFASTR6WPBYhn"
+    },
+    {
+      "album": {
         "name": "FLIP & DRAW II",
         "url": "https://open.spotify.com/album/3bOb4olmZMw8jigZrZVCtd"
       },
@@ -780,7 +806,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 173367,
       "name": "Scintillate",
       "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"

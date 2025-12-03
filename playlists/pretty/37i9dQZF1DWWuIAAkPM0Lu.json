@@ -567,6 +567,22 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 206143,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
         "name": "Eatlanta (Remix)",
         "url": "https://open.spotify.com/album/55qabjAw20UiMQ7mYvHgqQ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>! Featuring Alison Wonderland
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,313 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,299 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 92 | [wish you the best](https://open.spotify.com/track/2qbwO0CRPggvohMtVNJWCA) | [Conrad.](https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC), [soleil](https://open.spotify.com/artist/7ETxY27poBqP3kbCYJEXlN) | [restart](https://open.spotify.com/album/4crQVQEtgZpbESkCxapShg) | 3:04 |
 | 93 | [Want Me](https://open.spotify.com/track/4JzWZpuYvxpRUiLpnwL2dB) | [Distant Matter](https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Want Me](https://open.spotify.com/album/70vbgCHbe3TCjK7bfMP6sM) | 3:18 |
 | 94 | [Sunglasses At Night](https://open.spotify.com/track/14tKvbr12aZpKkXFwcDCJw) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Zyntherius](https://open.spotify.com/artist/5OOeDUipuqJcBKJFEVvrSM) | [Sunglasses At Night](https://open.spotify.com/album/50c9BrqsbHSj0iwoA7FDRl) | 2:59 |
-| 95 | [LOOK4MYLOVE](https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [LOOK4MYLOVE](https://open.spotify.com/album/3aEwbI3IgFsljshX9Gk9ZD) | 3:40 |
-| 96 | [ONANON](https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [ONANON](https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP) | 3:15 |
+| 95 | [ONANON](https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [ONANON](https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP) | 3:15 |
+| 96 | [LOOK4MYLOVE](https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [LOOK4MYLOVE](https://open.spotify.com/album/3aEwbI3IgFsljshX9Gk9ZD) | 3:40 |
 | 97 | [LOUDER](https://open.spotify.com/track/3tUl81O1ilB0U3H63kcNiy) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [LOUDER](https://open.spotify.com/album/5klX6dXCGsRln0N4t6pHEr) | 2:12 |
 | 98 | [Nobody Else But U](https://open.spotify.com/track/3iagcHosUvxs9876pJwZKI) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Nobody Else But U](https://open.spotify.com/album/6vNxyOKtUI4bpLKOtYlIkY) | 3:20 |
-| 99 | [Monsoon](https://open.spotify.com/track/5pVySA9qkHt5qsh8oVUDma) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Monsoon](https://open.spotify.com/album/34FbsM0FQZpATKLGKaw4c5) | 2:50 |
-| 100 | [IYKYK](https://open.spotify.com/track/2VfsWUM63pXOHrPwHqrIfC) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Amanda Joy](https://open.spotify.com/artist/0nWFxqxClqiIvjQvjyi4Gi) | [IYKYK](https://open.spotify.com/album/0iZav5xhaGkYCRijYyxfG9) | 3:56 |
+| 99 | [Dance Without You](https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Dance Without You](https://open.spotify.com/album/5OpKlmpZ98jUQMeoVuNYAF) | 2:45 |
+| 100 | [Monsoon](https://open.spotify.com/track/5pVySA9qkHt5qsh8oVUDma) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Monsoon](https://open.spotify.com/album/34FbsM0FQZpATKLGKaw4c5) | 2:50 |
 
 Snapshot ID: `AAAAAFXZBugKng/rfPAaA7Rcd0/xHxou`

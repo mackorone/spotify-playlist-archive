@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 53317,
+  "num_followers": 53327,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAD1sQ2wgrcAg9gNDiqW0z+X",
+  "snapshot_id": "aSzagAAAAAAl/aGfNXUT65psm3K877PF",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Brownprint",
-        "url": "https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Bora Bora (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/3lZ6QxJ6LH8HGWov58drvj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Brownprint",
+        "url": "https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Bora Bora (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/3lZ6QxJ6LH8HGWov58drvj"
     },
     {
       "added_at": null,

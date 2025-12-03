@@ -4,13 +4,14 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-355 songs - 22 hr 52 min
+356 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 4:40 | 2022-01-13 |  |
 | [1121](https://open.spotify.com/track/0O6SiaA3cBp24ZYnPX2GVQ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:42 | 2021-09-19 |  |
 | [16 CARRIAGES](https://open.spotify.com/track/6XXxKsu3RJeN3ZvbMYrgQW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:47 | 2024-03-29 |  |
+| [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 | 2025-12-02 |  |
 | [1AM FREESTYLE](https://open.spotify.com/track/0FqBNLXlTNimxmVRdDMj6b) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 1:53 | 2023-11-26 |  |
 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2019-02-18 |  |
 | [3005](https://open.spotify.com/track/3Z2sglqDj1rDRMF5x0Sz2R) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because The Internet](https://open.spotify.com/album/0zi2TaQkYxfXIBvl2yTjQJ) | 3:54 | 2019-02-12 |  |

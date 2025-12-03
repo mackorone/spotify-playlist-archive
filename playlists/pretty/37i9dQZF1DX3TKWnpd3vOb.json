@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Beto Cuevas",
-  "num_followers": 187499,
+  "num_followers": 187491,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -119,18 +119,26 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn"
+        "name": "LA WE\u00c1",
+        "url": "https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv"
       },
       "artists": [
         {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        },
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
         }
       ],
-      "duration_ms": 197225,
-      "name": "Claroscuro",
-      "url": "https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J"
+      "duration_ms": 170328,
+      "name": "LA WE\u00c1",
+      "url": "https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk"
     },
     {
       "added_at": "2025-11-14 03:00:05",
@@ -167,26 +175,18 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
-        "name": "LA WE\u00c1",
-        "url": "https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv"
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        },
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
         }
       ],
-      "duration_ms": 170328,
-      "name": "LA WE\u00c1",
-      "url": "https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk"
+      "duration_ms": 197225,
+      "name": "Claroscuro",
+      "url": "https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J"
     },
     {
       "added_at": "2025-11-14 03:00:05",
@@ -675,18 +675,22 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
-        "name": "T\u00f3tem",
-        "url": "https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
       },
       "artists": [
         {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+          "name": "Cler Canifr\u00fa",
+          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
         }
       ],
-      "duration_ms": 147000,
-      "name": "T\u00f3tem",
-      "url": "https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9"
+      "duration_ms": 219000,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
     },
     {
       "added_at": "2025-11-14 03:00:05",
@@ -707,6 +711,22 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
+        "name": "T\u00f3tem",
+        "url": "https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "T\u00f3tem",
+      "url": "https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9"
+    },
+    {
+      "added_at": "2025-11-14 03:00:05",
+      "album": {
         "name": "Refugio",
         "url": "https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 249126,
       "name": "Refugio",
       "url": "https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z"
-    },
-    {
-      "added_at": "2025-11-14 03:00:05",
-      "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
-      },
-      "artists": [
-        {
-          "name": "Cler Canifr\u00fa",
-          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
-        },
-        {
-          "name": "Lula Bertoldi",
-          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
     },
     {
       "added_at": "2025-11-14 03:00:05",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
-        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 236084,
-      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
-    },
-    {
-      "added_at": "2025-11-14 03:00:05",
-      "album": {
         "name": "La Pelea",
         "url": "https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 205434,
       "name": "La Pelea",
       "url": "https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs"
+    },
+    {
+      "added_at": "2025-11-14 03:00:05",
+      "album": {
+        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 236084,
+      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
     },
     {
       "added_at": "2025-11-14 03:00:05",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
-        "name": "Coraz\u00f3n Negro",
-        "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 242166,
-      "name": "Coraz\u00f3n Negro",
-      "url": "https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO"
-    },
-    {
-      "added_at": "2025-11-14 03:00:05",
-      "album": {
         "name": "Un D\u00eda por Concepci\u00f3n",
         "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 183484,
       "name": "Un D\u00eda por Concepci\u00f3n",
       "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
+    },
+    {
+      "added_at": "2025-11-14 03:00:05",
+      "album": {
+        "name": "Coraz\u00f3n Negro",
+        "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 242166,
+      "name": "Coraz\u00f3n Negro",
+      "url": "https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO"
     },
     {
       "added_at": "2025-11-14 03:00:05",
@@ -927,6 +927,38 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
+        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
+        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        }
+      ],
+      "duration_ms": 174683,
+      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
+      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
+    },
+    {
+      "added_at": "2025-11-14 03:00:05",
+      "album": {
+        "name": "Blue Dalom",
+        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
+      },
+      "artists": [
+        {
+          "name": "Cigarbox Man",
+          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Let Me Fly",
+      "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
+    },
+    {
+      "added_at": "2025-11-14 03:00:05",
+      "album": {
         "name": "La Cuenta",
         "url": "https://open.spotify.com/album/2TGDNCjdZS6w4oGFzuQMfc"
       },
@@ -947,22 +979,6 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
-        "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
-        "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
-      },
-      "artists": [
-        {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
-        }
-      ],
-      "duration_ms": 174683,
-      "name": "La vida mi vida se vive as\u00ed - Radio Edit",
-      "url": "https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB"
-    },
-    {
-      "added_at": "2025-11-14 03:00:05",
-      "album": {
         "name": "Eternos",
         "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 205765,
       "name": "Eternos",
       "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
-    },
-    {
-      "added_at": "2025-11-14 03:00:05",
-      "album": {
-        "name": "Blue Dalom",
-        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
-      },
-      "artists": [
-        {
-          "name": "Cigarbox Man",
-          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "Let Me Fly",
-      "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
     },
     {
       "added_at": "2025-11-14 03:00:05",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-11-14 03:00:05",
       "album": {
-        "name": "Hacia Ti",
-        "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 225967,
-      "name": "Hacia Ti",
-      "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
-    },
-    {
-      "added_at": "2025-11-14 03:00:05",
-      "album": {
         "name": "Lo Que Dicen",
         "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 243566,
       "name": "Lo Que Dicen",
       "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
+    },
+    {
+      "added_at": "2025-11-14 03:00:05",
+      "album": {
+        "name": "Hacia Ti",
+        "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 225967,
+      "name": "Hacia Ti",
+      "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
     },
     {
       "added_at": "2025-11-14 03:00:05",

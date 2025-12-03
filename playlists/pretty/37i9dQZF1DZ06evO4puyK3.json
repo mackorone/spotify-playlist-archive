@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 166235,
+  "num_followers": 166232,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAA/iEznYrX/LaXotKi3+2oE",
+  "snapshot_id": "aSzagAAAAABG5kdsv+75cAu1XEmpnfvp",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bumbum de Ouro",
+        "url": "https://open.spotify.com/album/1qzzcAss8mqBG005C6qMDl"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 167234,
+      "name": "Bumbum de Ouro",
+      "url": "https://open.spotify.com/track/1DgHVOq15mmso5RY0YQy6l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "QVVJFA?",
         "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 266250,
       "name": "Samba in Paris",
       "url": "https://open.spotify.com/track/3nlhqZHMXG2A5UkW633wwx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bumbum de Ouro",
-        "url": "https://open.spotify.com/album/1qzzcAss8mqBG005C6qMDl"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 167234,
-      "name": "Bumbum de Ouro",
-      "url": "https://open.spotify.com/track/1DgHVOq15mmso5RY0YQy6l"
     },
     {
       "added_at": null,

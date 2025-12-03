@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,108 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,142 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 18 | [3AYM](https://open.spotify.com/track/6IUI26Z6MzLJZTUA3qAz4O) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [3AYM](https://open.spotify.com/album/64uxz01ZKoZ5qgmRbWqQ52) | 4:40 |
 | 19 | [Bent Nass](https://open.spotify.com/track/6tT4CGnggGURBUMkDrE52k) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 4:10 |
 | 20 | [Ah Bon](https://open.spotify.com/track/0yYoSGrzF15p22ow5wbcSJ) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Ah Bon](https://open.spotify.com/album/0qSLkM5OH8bhCkyxPwEGxC) | 3:42 |
-| 21 | [Douwi Douwi](https://open.spotify.com/track/2SQF7fpgxcJEFucbJQJxPz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:02 |
-| 22 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 |
+| 21 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 |
+| 22 | [Douwi Douwi](https://open.spotify.com/track/2SQF7fpgxcJEFucbJQJxPz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:02 |
 | 23 | [Moral](https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Moral](https://open.spotify.com/album/7HLi5EsiOyBzQWaQzZUnYY) | 3:22 |
 | 24 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 |
 | 25 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 37 | [PSYCHO](https://open.spotify.com/track/7xd3yfmMFrbgNWCcazYOeG) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [A9RASS x PSYCHO](https://open.spotify.com/album/1SzqinDG9Pfvg59qYnwJHs) | 3:40 |
 | 38 | [Iceburg](https://open.spotify.com/track/3BuKmbS7uuXaAmU19xgT5j) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:11 |
 | 39 | [Kelma](https://open.spotify.com/track/4vtD50wmruYW80fnTOWplJ) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kelma](https://open.spotify.com/album/05C5ZLaQkfgFDWKFwRRNtH) | 3:05 |
-| 40 | [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 |
+| 40 | [Porsche](https://open.spotify.com/track/5ROnVXz0rGkPlDmJ8oltUX) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf), [Dracofeuu](https://open.spotify.com/artist/1DS4sBigDOqhq0lbsa9PiB) | [Chapter 2 : Band Of Msaww](https://open.spotify.com/album/0dfytM4hEkDPs0bU8xGu0O) | 2:57 |
 
 Snapshot ID: `AAAAAHCHr7/q/yFSQ7S6qjQKyhicx6jD`

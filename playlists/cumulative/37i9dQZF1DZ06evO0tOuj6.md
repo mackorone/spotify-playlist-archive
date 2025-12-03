@@ -4,7 +4,7 @@
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-105 songs - 6 hr 57 min
+106 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [君にサチアレ](https://open.spotify.com/track/2G58KvDX7VmM7069VlHWdR) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [君にサチアレ](https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ) | 4:10 | 2023-01-14 | 2025-09-18 |
 | [国境の北、オーロラの果て](https://open.spotify.com/track/4liRNu88ctwbWMPRMq4iJw) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Dear My Sister](https://open.spotify.com/album/34uEG1RJN5mB375Y6jDnM2) | 4:50 | 2025-11-12 | 2025-11-17 |
 | [多重露光 \- feat.川上洋平](https://open.spotify.com/track/1S29G9NDzS6CTjPeQpyWCd) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yoohei Kawakami](https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 3:13 | 2023-01-14 | 2024-11-04 |
-| [天空橋](https://open.spotify.com/track/5bOYQWLp9r94uILGt8p9B2) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Paradise Has NO BORDER](https://open.spotify.com/album/3rASmhW1SB849NFZzsHmIZ) | 3:57 | 2025-11-09 |  |
+| [天空橋](https://open.spotify.com/track/5bOYQWLp9r94uILGt8p9B2) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Paradise Has NO BORDER](https://open.spotify.com/album/3rASmhW1SB849NFZzsHmIZ) | 3:57 | 2025-11-09 | 2025-12-03 |
 | [太陽と心臓](https://open.spotify.com/track/15jVFXYhmWejl922GsMRO2) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [欲望](https://open.spotify.com/album/4PYr4vs7P4lqnSBxV3znHi) | 4:27 | 2023-01-14 | 2023-12-14 |
 | [快哉を叫ぶとき](https://open.spotify.com/track/3Grbp1AzBvGAZt8meIoJ4Z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [君にサチアレ](https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ) | 4:27 | 2023-01-14 | 2025-11-09 |
 | [愛の讃歌 with strings](https://open.spotify.com/track/04v0jBklO4I1n5DppyqNDT) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WORLD SKA SYMPHONY](https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL) | 3:48 | 2023-01-14 | 2024-02-23 |
@@ -112,6 +112,7 @@
 | [青い春のエチュード \- feat\. 長屋晴子 \(緑黄色社会\)](https://open.spotify.com/track/3bAobLtFa0QXOlo9KWYJpD) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [長屋晴子](https://open.spotify.com/artist/4KCnJygLmUpT4KETlDFz3K) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 4:33 | 2023-03-07 |  |
 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 | 2024-06-04 |  |
 | [風のプロフィール \- feat.習志野高校吹奏楽部](https://open.spotify.com/track/0xK5Yd81zI9ZHL21cSm3jF) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [習志野高校吹奏楽部](https://open.spotify.com/artist/5xbDPS7E7ywnv4av18XEd6) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 4:16 | 2024-04-11 | 2024-04-12 |
+| [驟雨の街〜哀愁のテーマ〜2](https://open.spotify.com/track/7HWDf6g596qneuQZrV3fkD) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [新 仁義なき戦い/謀殺 オリジナルサウンドトラック](https://open.spotify.com/album/7y0gkVpSJXEyHTrtTqEtpg) | 1:24 | 2025-12-03 |  |
 | [黄昏を遊ぶ猫](https://open.spotify.com/track/3kvySsFmIKAM3tWacJ883D) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [欲望](https://open.spotify.com/album/4PYr4vs7P4lqnSBxV3znHi) | 3:25 | 2023-01-14 | 2024-10-31 |
 
 \*This playlist was first scraped on 2023-01-14. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 573681,
+  "num_followers": 573774,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -694,6 +694,10 @@
         {
           "name": "Daymaan",
           "url": "https://open.spotify.com/artist/35yPguBuaPXsOSIUVzJ0Zd"
+        },
+        {
+          "name": "Sparrow (CH)",
+          "url": "https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO"
         }
       ],
       "duration_ms": 244374,
@@ -1215,66 +1219,6 @@
     {
       "added_at": "2025-11-28 05:00:13",
       "album": {
-        "name": "Contesto",
-        "url": "https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA"
-      },
-      "artists": [
-        {
-          "name": "Massuma",
-          "url": "https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF"
-        },
-        {
-          "name": "DOSAMIS",
-          "url": "https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Contesto",
-      "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
-    },
-    {
-      "added_at": "2025-11-28 05:00:13",
-      "album": {
-        "name": "Tanko (feat. Terry G)",
-        "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Terry G",
-          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "Tanko (feat. Terry G)",
-      "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
-    },
-    {
-      "added_at": "2025-11-28 05:00:13",
-      "album": {
-        "name": "Wherever You Are",
-        "url": "https://open.spotify.com/album/6HdG5nd0R0cQRKYrIVKlZG"
-      },
-      "artists": [
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "Vidojean X Oliver Loenn",
-          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/4FspiRiJy5dtV2jaqsBMS5"
-    },
-    {
-      "added_at": "2025-11-28 05:00:13",
-      "album": {
         "name": "Vele Uyena (Risk It All) (feat. JAZZWRLD, Thukuthela, Elaine & Solaariss)",
         "url": "https://open.spotify.com/album/7weLnc8ITNXPCwG2tVxUXs"
       },
@@ -1307,6 +1251,66 @@
     {
       "added_at": "2025-11-28 05:00:13",
       "album": {
+        "name": "Contesto",
+        "url": "https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA"
+      },
+      "artists": [
+        {
+          "name": "Massuma",
+          "url": "https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF"
+        },
+        {
+          "name": "DOSAMIS",
+          "url": "https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K"
+        }
+      ],
+      "duration_ms": 206829,
+      "name": "Contesto",
+      "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
+    },
+    {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/6HdG5nd0R0cQRKYrIVKlZG"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Vidojean X Oliver Loenn",
+          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/4FspiRiJy5dtV2jaqsBMS5"
+    },
+    {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
+        "name": "Tanko (feat. Terry G)",
+        "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "Tanko (feat. Terry G)",
+      "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
+    },
+    {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
         "name": "Love\u2019s A Game",
         "url": "https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd"
       },
@@ -1327,26 +1331,22 @@
     {
       "added_at": "2025-11-28 05:00:13",
       "album": {
-        "name": "LOW",
-        "url": "https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7BqoBqQfo0DQiYgZ6dNXWv"
       },
       "artists": [
         {
-          "name": "Serve Cold",
-          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
         },
         {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        },
-        {
-          "name": "Jaguar Jaguar",
-          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
         }
       ],
-      "duration_ms": 185000,
-      "name": "LOW",
-      "url": "https://open.spotify.com/track/6haDUN6avkD3hgIalNJkyt"
+      "duration_ms": 210297,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6kH58ciITQKhQ6x5kYQjPD"
     },
     {
       "added_at": "2025-11-28 05:00:13",
@@ -1375,22 +1375,46 @@
     {
       "added_at": "2025-11-28 05:00:13",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7BqoBqQfo0DQiYgZ6dNXWv"
+        "name": "LOW",
+        "url": "https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43"
       },
       "artists": [
         {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+          "name": "Serve Cold",
+          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
         },
         {
-          "name": "Dinia",
-          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        },
+        {
+          "name": "Jaguar Jaguar",
+          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
         }
       ],
-      "duration_ms": 210297,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6kH58ciITQKhQ6x5kYQjPD"
+      "duration_ms": 185000,
+      "name": "LOW",
+      "url": "https://open.spotify.com/track/6haDUN6avkD3hgIalNJkyt"
+    },
+    {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
+        "name": "take me (to the sunrise)",
+        "url": "https://open.spotify.com/album/1ePQDyfS4ajFsU8zv1HQcF"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 226829,
+      "name": "take me (to the sunrise)",
+      "url": "https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3"
     },
     {
       "added_at": "2025-11-28 05:00:13",
@@ -1431,26 +1455,6 @@
       "duration_ms": 197000,
       "name": "Keep Me Close",
       "url": "https://open.spotify.com/track/1xUNcHDeD5yl2RpVS85q0a"
-    },
-    {
-      "added_at": "2025-11-28 05:00:13",
-      "album": {
-        "name": "take me (to the sunrise)",
-        "url": "https://open.spotify.com/album/1ePQDyfS4ajFsU8zv1HQcF"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 226829,
-      "name": "take me (to the sunrise)",
-      "url": "https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3"
     },
     {
       "added_at": "2025-11-28 05:00:13",

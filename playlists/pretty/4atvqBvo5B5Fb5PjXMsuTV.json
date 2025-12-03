@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Dec 14:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Dec 23:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWd8yEgUmeIMuXbJLnguBD1RZhR7rC",
+  "snapshot_id": "AAAWe7lOA0IMLpwKIKhiFVaZsGOZ6/vA",
   "tracks": [
+    {
+      "added_at": "2025-12-02 23:04:49",
+      "album": {
+        "name": "Mr. Worldwide",
+        "url": "https://open.spotify.com/album/35a0R2bZjEze2QCk6VCePh"
+      },
+      "artists": [
+        {
+          "name": "Luca Maxim",
+          "url": "https://open.spotify.com/artist/4srTg3mp6K9FuZK91G2yeC"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "Mr. Worldwide",
+      "url": "https://open.spotify.com/track/6C5eAcyGCnx4kcHUDWMwl6"
+    },
     {
       "added_at": "2025-11-29 23:04:35",
       "album": {
@@ -107,6 +123,22 @@
       "duration_ms": 216377,
       "name": "Goat Stamp",
       "url": "https://open.spotify.com/track/4H6OFCJ5GHuM3NzuCHjvsc"
+    },
+    {
+      "added_at": "2025-12-02 19:04:42",
+      "album": {
+        "name": "BFF",
+        "url": "https://open.spotify.com/album/33mnXGN1236HTRpTaGUE7p"
+      },
+      "artists": [
+        {
+          "name": "MGNA Crrrta",
+          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+        }
+      ],
+      "duration_ms": 145025,
+      "name": "BFF",
+      "url": "https://open.spotify.com/track/3wGlth38MGe6Rwuix0wROh"
     },
     {
       "added_at": "2025-11-28 19:04:06",
@@ -811,38 +843,6 @@
       "duration_ms": 192173,
       "name": "Say My Name In Your Sleep",
       "url": "https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7"
-    },
-    {
-      "added_at": "2025-11-19 09:04:27",
-      "album": {
-        "name": "Love Is Not Enough",
-        "url": "https://open.spotify.com/album/4Xk05QlbDNsLavcAVfOZBV"
-      },
-      "artists": [
-        {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
-        }
-      ],
-      "duration_ms": 142181,
-      "name": "Love Is Not Enough",
-      "url": "https://open.spotify.com/track/4AJJNga5DTEH9AAe8DcLD1"
-    },
-    {
-      "added_at": "2025-11-19 19:03:59",
-      "album": {
-        "name": "KPOP B!TCH",
-        "url": "https://open.spotify.com/album/7EOFfxjYvlOmhJT0U3Uwxk"
-      },
-      "artists": [
-        {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
-        }
-      ],
-      "duration_ms": 172554,
-      "name": "KPOP B!TCH",
-      "url": "https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f"
     }
   ],
   "unique_name": "New Singles Now",

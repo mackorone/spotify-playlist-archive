@@ -1,12 +1,12 @@
 {
   "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
-  "num_followers": 3292,
+  "num_followers": 3293,
   "original_name": "This Is Jon Hassell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACMXLFaMdnuTqyCvIFPSiKo",
+  "snapshot_id": "aSzagAAAAACU5HuSUQBAYCB1RnykZWRk",
   "tracks": [
     {
       "added_at": null,
@@ -443,38 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Power Spot",
-        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 409693,
-      "name": "Solaire",
-      "url": "https://open.spotify.com/track/7Le2FN7uEVuHdbaxvxMTH4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seeing Through Sound (Pentimento Volume Two)",
-        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 105533,
-      "name": "Cool Down Coda",
-      "url": "https://open.spotify.com/track/5WVkNw9y3FH9lxjjPjfoka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Utopies",
         "url": "https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7"
       },
@@ -503,6 +471,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 105533,
+      "name": "Cool Down Coda",
+      "url": "https://open.spotify.com/track/5WVkNw9y3FH9lxjjPjfoka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 409693,
+      "name": "Solaire",
+      "url": "https://open.spotify.com/track/7Le2FN7uEVuHdbaxvxMTH4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listening To Pictures (Pentimento Volume One)",
         "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
       },
@@ -515,38 +515,6 @@
       "duration_ms": 239706,
       "name": "Pastorale Vassant",
       "url": "https://open.spotify.com/track/7FLZV65L6y99GmidDfjnn1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 384256,
-      "name": "Hex",
-      "url": "https://open.spotify.com/track/4JMozDRCLvmpEPI7s84zX5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seeing Through Sound (Pentimento Volume Two)",
-        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 177480,
-      "name": "Unknown Wish",
-      "url": "https://open.spotify.com/track/2HPoZ2u0s3mYTBNmV0sVey"
     },
     {
       "added_at": null,
@@ -571,6 +539,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 177480,
+      "name": "Unknown Wish",
+      "url": "https://open.spotify.com/track/2HPoZ2u0s3mYTBNmV0sVey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 384256,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/4JMozDRCLvmpEPI7s84zX5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maarifa Street",
         "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
       },
@@ -583,6 +583,38 @@
       "duration_ms": 429160,
       "name": "Maarifa Street",
       "url": "https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 344653,
+      "name": "Manga Scene",
+      "url": "https://open.spotify.com/track/4H1mGSeiayRkwB08vaJAfI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 392933,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/3MOYk5IIuNMbqa7Npk1OKE"
     },
     {
       "added_at": null,
@@ -619,38 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seeing Through Sound (Pentimento Volume Two)",
-        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 392933,
-      "name": "Lunar",
-      "url": "https://open.spotify.com/track/3MOYk5IIuNMbqa7Npk1OKE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listening To Pictures (Pentimento Volume One)",
-        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 344653,
-      "name": "Manga Scene",
-      "url": "https://open.spotify.com/track/4H1mGSeiayRkwB08vaJAfI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Utopies",
         "url": "https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7"
       },
@@ -675,6 +675,38 @@
       "duration_ms": 213253,
       "name": "Parasol Blanc, pt. 2",
       "url": "https://open.spotify.com/track/1VeMQPvEgDpbmszWba9vIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 312666,
+      "name": "Al Kongo Udu",
+      "url": "https://open.spotify.com/track/6ShYYoQkpI5wmGl8jKGudv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "Reykjavik",
+      "url": "https://open.spotify.com/track/0A4uK12VvfptV5QTJinuV6"
     },
     {
       "added_at": null,
@@ -711,38 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seeing Through Sound (Pentimento Volume Two)",
-        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 136826,
-      "name": "Reykjavik",
-      "url": "https://open.spotify.com/track/0A4uK12VvfptV5QTJinuV6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listening To Pictures (Pentimento Volume One)",
-        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 312666,
-      "name": "Al Kongo Udu",
-      "url": "https://open.spotify.com/track/6ShYYoQkpI5wmGl8jKGudv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vernal Equinox (Remastered)",
         "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
       },
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 261173,
-      "name": "Miracle Steps",
-      "url": "https://open.spotify.com/track/2q6MuQKOrsSwGwGViknzLy"
+      "duration_ms": 325786,
+      "name": "Passage D.E.",
+      "url": "https://open.spotify.com/track/20CaaX6tsB7XeuThOZjNgk"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 325786,
-      "name": "Passage D.E.",
-      "url": "https://open.spotify.com/track/20CaaX6tsB7XeuThOZjNgk"
+      "duration_ms": 261173,
+      "name": "Miracle Steps",
+      "url": "https://open.spotify.com/track/2q6MuQKOrsSwGwGViknzLy"
     },
     {
       "added_at": null,
@@ -932,15 +932,15 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 427533,
-      "name": "Power Spot",
-      "url": "https://open.spotify.com/track/2W01MVAo5hFT1ybtruRc5c"
+      "duration_ms": 320266,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Aka / Darbari / Java",
-        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Empire V",
-      "url": "https://open.spotify.com/track/0KB13CC3lwVUmO8B324xBF"
+      "duration_ms": 117266,
+      "name": "Adios Saturn",
+      "url": "https://open.spotify.com/track/7HmsqYHRq6RJ9Ecfodc42J"
     }
   ],
   "unique_name": "This Is Jon Hassell",

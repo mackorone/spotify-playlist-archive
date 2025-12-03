@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,982 likes - 172 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,984 likes - 172 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 129 | [feel U luv Me](https://open.spotify.com/track/7C46d7mrdoSsgd3rNOa4A7) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 3:54 |
 | 130 | [Sex In The Porsche](https://open.spotify.com/track/7bHft9FWtH4KKjFe3qetJM) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Love Album: Off The Grid \(Extended\)](https://open.spotify.com/album/3WLWqmiyt0appVWYwm2mK2) | 3:33 |
 | 131 | [Never Played Me](https://open.spotify.com/track/4GjUOTIHuiEVHC1kZraZ0H) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:09 |
-| 132 | [Breather \(feat\. Ty Dolla $ign & PARTYNEXTDOOR\)](https://open.spotify.com/track/3Xvw3dLZUjnOxgLmgd1q3y) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Just Cause Y'all Waited](https://open.spotify.com/album/1R8YtoBYJgC2ue7eq9Xa8d) | 4:36 |
-| 133 | [Nothing Easy to Please](https://open.spotify.com/track/14NUhdjQHbAVesSRmK2n7M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/7wuiHCscUN4WZV4jdLEFHt) | 4:23 |
+| 132 | [Nothing Easy to Please](https://open.spotify.com/track/14NUhdjQHbAVesSRmK2n7M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/7wuiHCscUN4WZV4jdLEFHt) | 4:23 |
+| 133 | [Breather \(feat\. Ty Dolla $ign & PARTYNEXTDOOR\)](https://open.spotify.com/track/3Xvw3dLZUjnOxgLmgd1q3y) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Just Cause Y'all Waited](https://open.spotify.com/album/1R8YtoBYJgC2ue7eq9Xa8d) | 4:36 |
 | 134 | [Better Man \(feat\. Rick Ross\)](https://open.spotify.com/track/6Oj8Uf2qnCNDEIJNOuQbLc) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:37 |
 | 135 | [Can't Hang](https://open.spotify.com/track/1VycJxkDtBSEClyVPrIlWT) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Light Of Day](https://open.spotify.com/album/5jp7IiLD8lRVVmf8gfeHOV) | 2:59 |
 | 136 | [Transparency](https://open.spotify.com/track/0cNL9i4KDaMsbiSExRVorU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:50 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 171 | [Elevate](https://open.spotify.com/track/3HEe35p5i97KcFoBra4pIn) | [Siedd](https://open.spotify.com/artist/0BjgliR7fzJazTNUaaal14) | [Elevate](https://open.spotify.com/album/01Abn8AtQ1psk6jwqqHPta) | 2:12 |
 | 172 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 
-Snapshot ID: `AcDFyAAAAABN0kuSvXb1ebU17KzTaJbx`
+Snapshot ID: `AcDLaAAAAAAoPRhxSxHsRqx2uZ8DyBDA`

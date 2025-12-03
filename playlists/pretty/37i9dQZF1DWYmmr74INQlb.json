@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the '00s. Cover: D'Angelo",
-  "num_followers": 4801610,
+  "num_followers": 4801666,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
@@ -705,6 +705,22 @@
       "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
     },
     {
+      "added_at": "2023-11-09 23:03:46",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 238760,
+      "name": "1 Thing",
+      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
+    },
+    {
       "added_at": "2023-06-20 16:00:00",
       "album": {
         "name": "Dangerously In Love",
@@ -723,22 +739,6 @@
       "duration_ms": 244826,
       "name": "Baby Boy (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe"
-    },
-    {
-      "added_at": "2023-11-09 23:03:46",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 238760,
-      "name": "1 Thing",
-      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Bluestars",
-        "url": "https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE"
-      },
-      "artists": [
-        {
-          "name": "Pretty Ricky",
-          "url": "https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju"
-        }
-      ],
-      "duration_ms": 237733,
-      "name": "Grind With Me",
-      "url": "https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Trey Day",
         "url": "https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 206413,
       "name": "Can't Help but Wait",
       "url": "https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Bluestars",
+        "url": "https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE"
+      },
+      "artists": [
+        {
+          "name": "Pretty Ricky",
+          "url": "https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Grind With Me",
+      "url": "https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y"
     },
     {
       "added_at": "2023-09-14 14:32:45",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Peaches & Cream",
-      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
-    },
-    {
       "added_at": "2022-08-21 20:37:58",
       "album": {
         "name": "FutureSex/LoveSounds Deluxe Edition",
@@ -1239,6 +1223,22 @@
       "duration_ms": 322093,
       "name": "Until The End Of Time (with Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Peaches & Cream",
+      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1653,6 +1653,22 @@
       "url": "https://open.spotify.com/track/3bsoEOP4NHEoeVbAAYdbaU"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 280973,
+      "name": "A Long Walk",
+      "url": "https://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Southern Hummingbird",
@@ -1671,22 +1687,6 @@
       "duration_ms": 237800,
       "name": "Oops (Oh My) [feat. Missy Elliott]",
       "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
-        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 280973,
-      "name": "A Long Walk",
-      "url": "https://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL"
     },
     {
       "added_at": "2022-08-21 11:22:08",

@@ -3223,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "Stay Awake",
+        "url": "https://open.spotify.com/album/5Ev62f2XpQUWw9XdSsYuDL"
+      },
+      "artists": [
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208107,
+      "name": "Stay Awake",
+      "url": "https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi"
+    },
+    {
+      "album": {
         "name": "Stephanie (HNTR Remix)",
         "url": "https://open.spotify.com/album/36ugkxRl0vThlv2ytPo1ZD"
       },

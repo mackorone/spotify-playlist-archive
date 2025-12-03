@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Submerged",
+        "url": "https://open.spotify.com/album/2ZA3eD7FmCox6gtHE7gFAo"
+      },
+      "artists": [
+        {
+          "name": "SANCHEZ BY THE SEA*",
+          "url": "https://open.spotify.com/artist/5bSnJtfoIBMee5zGgUcMwO"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "constant headache",
+      "url": "https://open.spotify.com/track/1vD1cFbR2aI1h5pEDSRREQ"
+    },
+    {
+      "album": {
         "name": "Coping",
         "url": "https://open.spotify.com/album/5oWwyfSLZVbtxJ6lGquURw"
       },

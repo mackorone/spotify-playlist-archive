@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,004 likes - 38 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,005 likes - 38 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 7 | [El Encarguito](https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 3:43 |
 | 8 | [Otro Amor Llego](https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Va Cañon!](https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe) | 3:58 |
 | 9 | [Tickita Tickita](https://open.spotify.com/track/0FELqIlEc43GwHNp5RjldW) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc) | [15 Exitos](https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr) | 5:25 |
-| 10 | [Hablo Español](https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 3:06 |
+| 10 | [Mira Honduras](https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 2:46 |
 | 11 | [Banana](https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 6:41 |
 | 12 | [Kazzabe Si Sabe](https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Batalla de las Puntas, Vol\. 8](https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX) | 5:25 |
 | 13 | [Baila Baila](https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl) | [Garifuna Kids](https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo) | [Baila Baila](https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W) | 6:36 |
 | 14 | [En Mi Pais](https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Pobre Marinero](https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj) | 3:39 |
-| 15 | [Mira Honduras](https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 2:46 |
+| 15 | [Hablo Español](https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 3:06 |
 | 16 | [Punta Silver](https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD) | 4:42 |
 | 17 | [Laluda Bellu](https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 3:33 |
 | 18 | [Bunabou Live \- Live](https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF) | [Xcstacy](https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi) | [Bunabou Live](https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc) | 7:29 |

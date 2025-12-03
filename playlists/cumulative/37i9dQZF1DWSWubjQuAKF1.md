@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: FANKA
 
-661 songs - 1 day 8 hr 16 min
+662 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Pretty Woman](https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Pretty Woman](https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW) | 2:46 | 2025-04-03 | 2025-08-04 |
 | [Priorytety](https://open.spotify.com/track/3Q3U0azD3REhtU7nLrhabj) | [Alan Cyprysiak](https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig) | [Priorytety](https://open.spotify.com/album/2B46Wx88prs5gPWMnvFMVO) | 4:27 | 2024-06-28 | 2024-08-23 |
 | [Prosto krętą drogą](https://open.spotify.com/track/5HnnxyZMp4Dhl4pRVz7TUn) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [kiedyś mi przejdzie](https://open.spotify.com/album/76wanX1S3b4QOck6kdbStc) | 3:40 | 2025-10-14 | 2025-11-29 |
+| [przed czym uciekasz?](https://open.spotify.com/track/6RSDTIt7XLuCX0BhntMm82) | [Maks Łapiński](https://open.spotify.com/artist/3GtP61OWBcEBJTZvxmPbke) | [przed czym uciekasz?](https://open.spotify.com/album/7FpfaixvX0BznPv9OkOjF7) | 2:24 | 2025-11-28 |  |
 | [Przy Tobie](https://open.spotify.com/track/5UUqrTg952hhIB2OQCy8RL) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Przy Tobie](https://open.spotify.com/album/1SeBK7WmzEHSwPyA0paTEz) | 2:40 | 2024-11-21 | 2025-03-14 |
 | [Przy Tobie to...](https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [MINT](https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y) | 2:44 | 2024-08-30 | 2025-01-24 |
 | [Przyjaźń](https://open.spotify.com/track/6ys4heK7VjrWc6dhUJvjsW) | [GENZIE](https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t) | [Przyjaźń](https://open.spotify.com/album/4yrwH3d7zRE21a2MKGiyyy) | 2:49 | 2024-08-01 | 2024-09-07 |
@@ -481,7 +482,7 @@
 | [Rebecca](https://open.spotify.com/track/6CP6LUVijAZYts1n8F3y6r) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Rebecca](https://open.spotify.com/album/5GuldxGIudIorKuknPw6kj) | 3:05 | 2025-09-30 | 2025-10-15 |
 | [Running From Myself](https://open.spotify.com/track/2oWQin3JziO4aw4IrEkAmF) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Running From Myself](https://open.spotify.com/album/2UeR4nyka780fWnwgabZLe) | 2:36 | 2025-04-03 | 2025-07-04 |
 | [rychło](https://open.spotify.com/track/7MelYNEVwd91gVDJFpu6it) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [rychło](https://open.spotify.com/album/45wHP18JKaFAEMuUQHoKmm) | 3:37 | 2024-06-28 | 2024-08-02 |
-| [Rzeka](https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC) | [Clayknot](https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7) | [Rzeka](https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao) | 3:52 | 2025-08-19 |  |
+| [Rzeka](https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC) | [Clayknot](https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7) | [Rzeka](https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao) | 3:52 | 2025-08-19 | 2025-12-03 |
 | [Rzeka](https://open.spotify.com/track/3tjABLsXoFCxoGmj2O6L6S) | [LUNARIA](https://open.spotify.com/artist/1XsO4JN3QWw3kliCrrKXaP), [W\. Krajewski](https://open.spotify.com/artist/7lEVFDOUQeA7Zw7DqUvO9F) | [Rzeka](https://open.spotify.com/album/2Qt3FgzD4N0WeQJquEwXFh) | 3:00 | 2025-11-04 |  |
 | [Róże](https://open.spotify.com/track/7KwoToBk5yZ3sDTOuFEI9F) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Róże](https://open.spotify.com/album/1OFjjOlwaioMt9YqGZHNRb) | 2:31 | 2025-05-15 | 2025-10-01 |
 | [różowa kurtka](https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [różowa kurtka](https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB) | 2:21 | 2025-05-01 | 2025-08-03 |

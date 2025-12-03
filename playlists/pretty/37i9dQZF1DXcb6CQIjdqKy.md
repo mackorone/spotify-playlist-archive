@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,628,879 likes - 101 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,628,905 likes - 101 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

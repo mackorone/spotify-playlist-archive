@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Amiel Sol
 
-652 songs - 1 day 16 hr 30 min
+656 songs - 1 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Cake](https://open.spotify.com/track/3gw2lEKB2hlaOHDwJJx5gn) | [Any Name's Okay](https://open.spotify.com/artist/1CZ6BqSNNDTbyne4SltF0e) | [Cake](https://open.spotify.com/album/4ghNBLqhyuIOAlldSzmt5k) | 4:36 | 2025-02-28 | 2025-05-12 |
 | [Chemistry](https://open.spotify.com/track/529drn8X80TyoPS3GdL3Le) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Chemistry](https://open.spotify.com/album/2hjrQmqKGiD2S69mTkNVR8) | 3:17 | 2025-11-05 |  |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-12 | 2024-11-09 |
+| [Clingy](https://open.spotify.com/track/6TTt3qfJjMsQWzARMRCNzq) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP), [Kate Lucero](https://open.spotify.com/artist/1SdZxFV68TbpSkcXCSfvYF) | [Clingy](https://open.spotify.com/album/5LDcYO9XbhB07Ul929cY6B) | 3:18 | 2025-12-02 |  |
 | [Close To You](https://open.spotify.com/track/0AMDUYytQTD9pyyZBNDsI6) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Close To You](https://open.spotify.com/album/1YFcJp3QzuuQDzoxYXECv4) | 3:33 | 2025-02-14 | 2025-05-20 |
 | [Closer to Your Heart](https://open.spotify.com/track/7KRc40Yw9QmzKYcjTWkm92) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Closer to Your Heart](https://open.spotify.com/album/2BpCwXEN71Ma3oYGOEohef) | 2:40 | 2024-09-26 | 2024-12-17 |
 | [Clue](https://open.spotify.com/track/0R0xWFl985bNVIaiClLdL1) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Clue](https://open.spotify.com/album/4lMySm4UlZmdnawXJCC2AO) | 2:27 | 2025-11-07 |  |
@@ -136,6 +137,7 @@
 | [Dito Ka Lang Wag Kang Lalayo](https://open.spotify.com/track/2GjTvT9x3XYnngU7JyKQZZ) | [Klarisse](https://open.spotify.com/artist/1Imlf2KHeVnyY2bkZe1bNC) | [Dito Ka Lang, Wag Kang Lalayo](https://open.spotify.com/album/4kl5U1j3VxkjcXCpHxzgz7) | 3:52 | 2025-08-29 | 2025-11-22 |
 | [Divine](https://open.spotify.com/track/3PKQwa7S5IHhstiTAxWNyL) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [BGYO](https://open.spotify.com/album/6991pQ2aa8RWzSCobBxGf4) | 2:20 | 2025-03-14 | 2025-05-20 |
 | [Diving](https://open.spotify.com/track/0f5KjkiImInkEJAqL76Aem) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Diving](https://open.spotify.com/album/7mWFFXiXvFGMWMe9WRtfMr) | 3:28 | 2025-02-24 | 2025-05-24 |
+| [Diwa](https://open.spotify.com/track/6amh8Fbb7OU1soIt5u4IAJ) | [NaÏV](https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF) | [Diwa](https://open.spotify.com/album/0ooCc2OFGobyXWxRMnTQ5G) | 4:10 | 2025-12-02 |  |
 | [Diwa](https://open.spotify.com/track/1gbrKuaixnhfgy9ZiAxlyd) | [Solace Out The Door](https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c) | [Diwa](https://open.spotify.com/album/3vz2skJN2kk5DUrjpVVZLN) | 3:11 | 2025-11-07 |  |
 | [Don’t Forget Me](https://open.spotify.com/track/2qfoi0U2ab4ZsdoxXRWNkZ) | [eda](https://open.spotify.com/artist/6GV7n7CYZreVNKXNSF1mMI) | [Meet Me There](https://open.spotify.com/album/4TfJneYLsoxAiuGlAZuG2b) | 1:20 | 2025-03-21 | 2025-05-24 |
 | [Dulo](https://open.spotify.com/track/5bLhybTqcGXyZezDi5sIB9) | [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [Dulo](https://open.spotify.com/album/23gnt8zwEep6WVewjk5FW9) | 3:32 | 2025-03-21 | 2025-05-31 |
@@ -226,6 +228,7 @@
 | [Hunyo '97](https://open.spotify.com/track/3D4qbZwiUGkWP4GayyvQ0t) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Hunyo '97](https://open.spotify.com/album/3ha1EK7hAQbQlGHow0HgQe) | 5:45 | 2025-01-01 | 2025-04-17 |
 | [I can be the one](https://open.spotify.com/track/4rgexTquOBLYzQWusUsLyb) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [I can be the one](https://open.spotify.com/album/1A8lPVdz7nGht81w9PrwKo) | 3:45 | 2025-07-18 | 2025-11-22 |
 | [I hope you're doing well](https://open.spotify.com/track/6RxfdQPBpHHrPokap0mzzq) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T), [Lois](https://open.spotify.com/artist/4MyPYzhADI4RiGagihAxYV), [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [I hope you're doing well](https://open.spotify.com/album/4zwOMvKkBEqE4vZZ22yx8m) | 3:31 | 2024-09-06 | 2024-11-30 |
+| [i love you, too](https://open.spotify.com/track/70t6LYwnGLkAIQlHSpqMWR) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [true orange](https://open.spotify.com/album/1eWaVsgQhg4BXn2UowMT9O) | 3:12 | 2025-12-02 |  |
 | [I'll Be Somebody You Want](https://open.spotify.com/track/7xCg44FlaaWMkyfAWhoSL1) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [I'll Be Somebody You Want](https://open.spotify.com/album/5J0PdxyEV1WClHdHpm2PEV) | 3:14 | 2024-07-02 | 2024-09-25 |
 | [I'm Kidding](https://open.spotify.com/track/5gASNtwuwErUyI3G20EL5Y) | [SOS](https://open.spotify.com/artist/6sYQTuRBvPAaQ9Ba5ca1Yc) | [It Was A Moment](https://open.spotify.com/album/37w9dERhnNWBP4DdTtp3Wd) | 3:29 | 2025-04-10 | 2025-05-31 |
 | [I.N.A.S.](https://open.spotify.com/track/7BbfSKMsq6NTQqeNtGs9lt) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Superpower](https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8) | 2:28 | 2024-08-09 | 2024-11-21 |
@@ -640,6 +643,7 @@
 | [Walang Humpay](https://open.spotify.com/track/1ViEbFEyP4VLQ9cBGOeGuj) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Walang Humpay](https://open.spotify.com/album/5vucmfHLuYtE44OtczpUwz) | 3:24 | 2024-07-26 | 2024-11-09 |
 | [Walang Makakapigil](https://open.spotify.com/track/6oRmtR7rTj2Q1iBUznWAC6) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs) | [Walang Makakapigil](https://open.spotify.com/album/5Z0VcH5lbFKdi5YXISNa2u) | 3:09 | 2025-11-14 |  |
 | [wanted you](https://open.spotify.com/track/3PPnxfNm0KIcP0vmTHklLi) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [wanted you](https://open.spotify.com/album/0ckTkTRmAJ2RTka6bybDGW) | 2:44 | 2024-07-19 | 2024-11-05 |
+| [Was It Just A Dream?](https://open.spotify.com/track/203DY4imMNmOI5WAJYRi5A) | [Sam Cruz](https://open.spotify.com/artist/4p91hHPvWouBFg3Fgtw03o) | [Was It Just A Dream?](https://open.spotify.com/album/0M0QHpZfBj3bkqqvlXkjJp) | 3:46 | 2025-12-02 |  |
 | [Wasabi](https://open.spotify.com/track/1hk8R3dc6pJsyZcngDWa3i) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Wasabi](https://open.spotify.com/album/3n6ghEbNvbPQvJskAGcLHB) | 3:13 | 2025-08-08 | 2025-11-22 |
 | [Wasabi \(halmanataki\)](https://open.spotify.com/track/5JivJ0sYRyNXOkqGbcVUAM) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs) | [Wasabi \(halmanataki\)](https://open.spotify.com/album/5q6QiBDJcfeQOFRVheI2Fm) | 3:25 | 2025-09-19 | 2025-11-29 |
 | [Waters](https://open.spotify.com/track/5SPZ1OEGQDATZ2DvJ24Ofp) | [KREY](https://open.spotify.com/artist/2qsKmvV47a1XIRQizWZUzy) | [Waters](https://open.spotify.com/album/753AxIHX0QpH1WdRvuFxPF) | 3:44 | 2025-07-21 | 2025-11-22 |

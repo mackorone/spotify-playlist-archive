@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 3968806,
+  "num_followers": 3968604,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "It Will Rain",
-        "url": "https://open.spotify.com/album/4A0vJtV9ok7vmr9ursSKj8"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 257720,
-      "name": "It Will Rain",
-      "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "It Will Rain",
+        "url": "https://open.spotify.com/album/4A0vJtV9ok7vmr9ursSKj8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 257720,
+      "name": "It Will Rain",
+      "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "Supermarket Flowers",
-      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 193546,
       "name": "Unsteady",
       "url": "https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Supermarket Flowers",
+      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "B'Day Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 227853,
-      "name": "Irreplaceable",
-      "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Not About Angels",
         "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "B'Day Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 227853,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -1155,38 +1155,6 @@
       "duration_ms": 168880,
       "name": "Wish You Were Sober",
       "url": "https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Mansion",
-        "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 270453,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1207,6 +1175,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 270453,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 202340,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 190642,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3T9CfDxFYqZWSKxd0BhZrb"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 202340,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Violent",
+        "url": "https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 135877,
+      "name": "Violent",
+      "url": "https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 163905,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Violent",
-        "url": "https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1"
-      },
-      "artists": [
-        {
-          "name": "carolesdaughter",
-          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
-        }
-      ],
-      "duration_ms": 135877,
-      "name": "Violent",
-      "url": "https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "blame's on me",
+        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 138374,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "blame's on me",
-        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 138374,
-      "name": "blame's on me",
-      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Something's Gotta Give",
-      "url": "https://open.spotify.com/track/7IL3UOlcJ6nmcCMwpnlfcA"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "5AM (Expanded Edition)",
         "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 257906,
       "name": "5AM",
       "url": "https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/7IL3UOlcJ6nmcCMwpnlfcA"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2955,22 +2955,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/13bRrqlPDErhpXDUxYQCUU"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sinking Ship",
-      "url": "https://open.spotify.com/track/7orUPsozJ19Cyxv5ozoREr"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "mama's boy (deluxe)",
         "url": "https://open.spotify.com/album/6ZsCg58PZj6jFALfiB5ZtX"
       },
@@ -2983,6 +2967,22 @@
       "duration_ms": 197596,
       "name": "heart won't let me - stripped",
       "url": "https://open.spotify.com/track/7uANMVttqDIdNySaMvVOhh"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/13bRrqlPDErhpXDUxYQCUU"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/7orUPsozJ19Cyxv5ozoREr"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3271,22 +3271,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "OFF",
-        "url": "https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf"
-      },
-      "artists": [
-        {
-          "name": "Saint clara",
-          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
-        }
-      ],
-      "duration_ms": 159885,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Beautiful Lies",
         "url": "https://open.spotify.com/album/1UVggFtdVPqHy5WamYFu6w"
       },
@@ -3299,6 +3283,22 @@
       "duration_ms": 251960,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/57l9l0BtYWoFCDyZE1ug6Z"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "OFF",
+        "url": "https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf"
+      },
+      "artists": [
+        {
+          "name": "Saint clara",
+          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+        }
+      ],
+      "duration_ms": 159885,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW"
     }
   ],
   "unique_name": "Life Sucks",

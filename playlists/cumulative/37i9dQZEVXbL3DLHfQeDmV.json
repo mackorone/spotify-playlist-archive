@@ -314,7 +314,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 100746,
       "name": "Bless the Telephone",
       "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
@@ -397,6 +397,24 @@
     },
     {
       "album": {
+        "name": "cheap talks",
+        "url": "https://open.spotify.com/album/3K5nmo2BWqNsFGoYdnmoZN"
+      },
+      "artists": [
+        {
+          "name": "PET3RPUNX",
+          "url": "https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151555,
+      "name": "cheap talks",
+      "url": "https://open.spotify.com/track/3lYvI38cjz2EuENIFPvwZf"
+    },
+    {
+      "album": {
         "name": "Choosin' Texas",
         "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
       },
@@ -408,7 +426,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
@@ -602,7 +620,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 97324,
       "name": "Don't You Forget",
       "url": "https://open.spotify.com/track/6XYSYV2avqhOl9BRexar7S"
@@ -709,6 +727,40 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105569,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1p7K0GCeGcRexeVApuIKnN"
+    },
+    {
+      "album": {
         "name": "EsDeeKid Black Beatles",
         "url": "https://open.spotify.com/album/1w8IgT52rrNUyrTH0iwNx3"
       },
@@ -720,7 +772,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 155109,
       "name": "EsDeeKid Black Beatles",
       "url": "https://open.spotify.com/track/2NWIM96jHqnE59V8BXKGRL"
@@ -818,6 +870,24 @@
       "duration_ms": 174653,
       "name": "FaSHioN",
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
+    },
+    {
+      "album": {
+        "name": "FEAR",
+        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268519,
+      "name": "FEAR",
+      "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
     },
     {
       "album": {
@@ -1020,6 +1090,24 @@
       "duration_ms": 142959,
       "name": "Gangsta's Paradise - Blues Cover",
       "url": "https://open.spotify.com/track/1KOycm3BH4V0HVe1ZR4cQF"
+    },
+    {
+      "album": {
+        "name": "Below the Salt (2009 Remaster)",
+        "url": "https://open.spotify.com/album/58I9Fb3aGBCcWQl0tReiTo"
+      },
+      "artists": [
+        {
+          "name": "Steeleye Span",
+          "url": "https://open.spotify.com/artist/4OrrjMGltjy6ojX6034f8u"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147106,
+      "name": "Gaudete - 2009 Remaster",
+      "url": "https://open.spotify.com/track/2ovqJyhnomAPM7ENf2oXFU"
     },
     {
       "album": {
@@ -1770,7 +1858,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 129577,
       "name": "I Run",
       "url": "https://open.spotify.com/track/7yxEOiB5klVkj9RXfia90C"
@@ -1882,6 +1970,46 @@
       "duration_ms": 153218,
       "name": "If You Don't Want This",
       "url": "https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT"
+    },
+    {
+      "album": {
+        "name": "Insomnia (Disclosure's 2025 Edit)",
+        "url": "https://open.spotify.com/album/4YfEXbb3DjWKLFiW67pDqx"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260807,
+      "name": "Insomnia - Disclosure's 2025 Edit",
+      "url": "https://open.spotify.com/track/4cgoqLcfYRBesDEmSVR1Ek"
+    },
+    {
+      "album": {
+        "name": "Inventing",
+        "url": "https://open.spotify.com/album/6Ueeq9CJhTfh1FBdSmuKmk"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201942,
+      "name": "Inventing",
+      "url": "https://open.spotify.com/track/7J9yJOa21b55I5GGUwFgfL"
     },
     {
       "album": {
@@ -2034,10 +2162,40 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 204959,
       "name": "Livin\u2019 on Borrowed Time",
       "url": "https://open.spotify.com/track/3fBLo7dnG5CSepoXgu3B53"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109128,
+      "name": "Losin' Streak",
+      "url": "https://open.spotify.com/track/6ly0Zc4mrK1W0XLeuAk5Dv"
     },
     {
       "album": {
@@ -2059,6 +2217,48 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        },
+        {
+          "name": "Lilli Cooper",
+          "url": "https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        },
+        {
+          "name": "Krystina Alabado",
+          "url": "https://open.spotify.com/artist/4xL2eFX2i8uGTzi2tT3b3u"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124462,
+      "name": "Love In A Bottle",
+      "url": "https://open.spotify.com/track/7u3BVQ9DG1KA9c3Q8W3BLr"
+    },
+    {
+      "album": {
         "name": "Soft Spot",
         "url": "https://open.spotify.com/album/1q60X7MvRXKggMB3h2xJof"
       },
@@ -2074,6 +2274,24 @@
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4"
+    },
+    {
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198386,
+      "name": "Love Takes Miles",
+      "url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
     },
     {
       "album": {
@@ -2200,7 +2418,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 164066,
       "name": "Many Rivers To Cross",
       "url": "https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq"
@@ -2498,7 +2716,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 107933,
       "name": "NO BATID\u00c3O - Slowed",
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
@@ -2917,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/2SX0qBoYe3jmkpFP6L8QBu"
+      },
+      "artists": [
+        {
+          "name": "MIND",
+          "url": "https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153722,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M"
+    },
+    {
+      "album": {
         "name": "West End Girl",
         "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
       },
@@ -2972,6 +3208,24 @@
     {
       "album": {
         "name": "Radio",
+        "url": "https://open.spotify.com/album/6LhMCZ3grywqUzh5LH2CND"
+      },
+      "artists": [
+        {
+          "name": "Bershy",
+          "url": "https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201853,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/6jppHdy8EW9ghHlOCpGBEr"
+    },
+    {
+      "album": {
+        "name": "Radio",
         "url": "https://open.spotify.com/album/31vE4XyMAWFJFF8JxbJ4FJ"
       },
       "artists": [
@@ -2982,7 +3236,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 201853,
       "name": "Radio",
       "url": "https://open.spotify.com/track/7i6II9P0ZbZegC4nvMzGLz"
@@ -3066,7 +3320,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 230240,
       "name": "Reliquia",
       "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
@@ -3262,7 +3516,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 120541,
       "name": "Sera's Confession",
       "url": "https://open.spotify.com/track/3SEVc1OeCtFmVVJPtWzq3P"
@@ -3360,6 +3614,28 @@
       "duration_ms": 198028,
       "name": "Something In The Heavens",
       "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
+    },
+    {
+      "album": {
+        "name": "SORRY",
+        "url": "https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191519,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ"
     },
     {
       "album": {
@@ -3560,6 +3836,24 @@
       "duration_ms": 176363,
       "name": "Supa Smoov",
       "url": "https://open.spotify.com/track/5J5OO9bRbTzfJf8WS58cMA"
+    },
+    {
+      "album": {
+        "name": "Take It Back EP",
+        "url": "https://open.spotify.com/album/0q5t0VjN1hEOEjF0dz87g1"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213664,
+      "name": "Take It Back (To The Old School)",
+      "url": "https://open.spotify.com/track/63ECwoYcmpAiY57qTZGLtO"
     },
     {
       "album": {
@@ -3770,7 +4064,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 219906,
       "name": "The Harder They Come",
       "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
@@ -4038,7 +4332,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 124590,
       "name": "use me!!!!!!!",
       "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
@@ -4082,6 +4376,70 @@
       "duration_ms": 220534,
       "name": "viscus (feat. FKA twigs)",
       "url": "https://open.spotify.com/track/5ksAnx6NyYbHMQhEI7Y07B"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73909,
+      "name": "VOX DEI",
+      "url": "https://open.spotify.com/track/5XpCZoQBmYk3APbuAJqL3D"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225404,
+      "name": "VOX POPULI",
+      "url": "https://open.spotify.com/track/7KWeKiDy7GqFjQ5e7xiPxy"
     },
     {
       "album": {
@@ -4220,7 +4578,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 177111,
       "name": "WILDFIRE",
       "url": "https://open.spotify.com/track/1dpB1jrziyaczTQvvz8du1"
@@ -4354,7 +4712,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 271583,
       "name": "You got time and I got money",
       "url": "https://open.spotify.com/track/0il7LJ828XyPqyvNx9cF5S"

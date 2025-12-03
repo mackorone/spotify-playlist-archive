@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > Music around the world ✈️
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,949 likes - 62 songs - 3 hr 44 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,948 likes - 62 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cloudy Eyes \(Dance Tonight\)](https://open.spotify.com/track/1NkhNXHEv33NZgMF4W4SeB) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Cloudy Eyes \(Dance Tonight\)](https://open.spotify.com/album/4l5eC0UIf7x6jKuxaFNUUr) | 4:24 |
-| 2 | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/track/7qFeh9S1Noq5NORl3o4AYI) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [koshi](https://open.spotify.com/artist/2ACc5CrWeHwnK5WYuBt915), [Daymaan](https://open.spotify.com/artist/35yPguBuaPXsOSIUVzJ0Zd) | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/album/01bWLamm6GjBmyN1bo5vZI) | 4:04 |
+| 2 | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/track/7qFeh9S1Noq5NORl3o4AYI) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [koshi](https://open.spotify.com/artist/2ACc5CrWeHwnK5WYuBt915), [Daymaan](https://open.spotify.com/artist/35yPguBuaPXsOSIUVzJ0Zd), [Sparrow \(CH\)](https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO) | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/album/01bWLamm6GjBmyN1bo5vZI) | 4:04 |
 | 3 | [Moon](https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Moon](https://open.spotify.com/album/1Gs4CfY1YfYLYolnyCd4lX) | 3:22 |
 | 4 | [Falling](https://open.spotify.com/track/6HMrZn76vPSiKl3u6Z6RsC) | [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [Falling](https://open.spotify.com/album/5FRpukRgaN2kZxiji63fn0) | 4:39 |
 | 5 | [GET LOST](https://open.spotify.com/track/3lOH1zjcMl32bwnaCi8VHK) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [GET LOST](https://open.spotify.com/album/55xkAVaINyTwteO7nsBnWp) | 3:05 |

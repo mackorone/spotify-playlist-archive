@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55455,
+  "num_followers": 55450,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAD55T521kP1MHcwFJXvYXTu",
+  "snapshot_id": "aSzagAAAAAByYwydmpW56yUK0v5o9ntG",
   "tracks": [
     {
       "added_at": null,
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 178722,
-      "name": "Big Time Nothing",
-      "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
+      "duration_ms": 201533,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb"
     },
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 201533,
-      "name": "Broken Man",
-      "url": "https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb"
+      "duration_ms": 178722,
+      "name": "Big Time Nothing",
+      "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "Strange Mercy",
-      "url": "https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love This Giant",
         "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 188653,
       "name": "I Should Watch TV",
       "url": "https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "Strange Mercy",
+      "url": "https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Nowhere Inn",
+        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 33453,
+      "name": "Carrie Voicemail",
+      "url": "https://open.spotify.com/track/7I3vnN7JkrJEiTtuoXGKoo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strange Mercy",
         "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
@@ -599,86 +615,6 @@
       "duration_ms": 265053,
       "name": "Surgeon",
       "url": "https://open.spotify.com/track/7HwB14f2cAVqbvIZNQS4oK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Saves, I Spend",
-        "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 115373,
-      "name": "Candy Darling",
-      "url": "https://open.spotify.com/track/0aQQxOqgeD9Yk4BhxIhNzz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 179920,
-      "name": "Bad Believer",
-      "url": "https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "Dilettante",
-      "url": "https://open.spotify.com/track/2V0Na3gPSckTReRoU0gQCp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg"
     },
     {
       "added_at": null,
@@ -708,9 +644,73 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
+      "duration_ms": 179920,
+      "name": "Bad Believer",
+      "url": "https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Saves, I Spend",
+        "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "Dilettante",
+      "url": "https://open.spotify.com/track/2V0Na3gPSckTReRoU0gQCp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 115373,
+      "name": "Candy Darling",
+      "url": "https://open.spotify.com/track/0aQQxOqgeD9Yk4BhxIhNzz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
       "artists": [
         {
@@ -744,25 +744,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 135040,
-      "name": "Actor Out of Work",
-      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Nowhere Inn",
-        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 33453,
-      "name": "Carrie Voicemail",
-      "url": "https://open.spotify.com/track/7I3vnN7JkrJEiTtuoXGKoo"
+      "duration_ms": 214653,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 175786,
       "name": "Chloe In The Afternoon",
       "url": "https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 135040,
+      "name": "Actor Out of Work",
+      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 244840,
-      "name": "The Strangers",
-      "url": "https://open.spotify.com/track/4OJZdAOrWKD4ZJXqfClIUR"
+      "duration_ms": 227826,
+      "name": "All My Stars Aligned",
+      "url": "https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 201760,
-      "name": "Regret",
-      "url": "https://open.spotify.com/track/2OCus0BsjJFo7E2TSAGnIe"
+      "duration_ms": 244840,
+      "name": "The Strangers",
+      "url": "https://open.spotify.com/track/4OJZdAOrWKD4ZJXqfClIUR"
     }
   ],
   "unique_name": "This Is St. Vincent",

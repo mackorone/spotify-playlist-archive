@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain](/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN)
 
-### [Lista de LOS40 \(Oficial\) \| 🇪🇸](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
+### [Lista de LOS40 \(Oficial\) \- Taylor Swift en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
 
-> ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
+> ¡Los 40 principales éxitos de la radio musical en la única e inimitable lista de LOS40! Actualizamos cada sábado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar\. Escucha a Taylor Swift, Rosalía, Rels B, HUNTR/X, y muchos más
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 153,934 likes - 40 songs - 2 hr 1 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 153,933 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [UN BESO A LA MITAD](https://open.spotify.com/track/0sZqCs8qlLmKNpvP7AbETA) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [UN BESO A LA MITAD](https://open.spotify.com/album/2SpVXgNVfZryttRU7IREqE) | 2:32 |
 | 40 | [BAI\-LALA](https://open.spotify.com/track/2uaKfM2eY5AsomhPWMh7lP) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [BAI\-LALA](https://open.spotify.com/album/72iBprQcMjpvvC7op8Zk68) | 2:33 |
 
-Snapshot ID: `AAArPeugHh4rSbl1wFK/mkGY7aSjHWjw`
+Snapshot ID: `AAArQLxX4vrC2FQUqS6X85m8hEjGpIPo`

@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-439 songs - 22 hr 51 min
+443 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Chance to Breathe](https://open.spotify.com/track/1oN1hb4xLhqdlVMsKJ4xAX) | [Holly Wild](https://open.spotify.com/artist/1gwRWwDueKmMcxHLX5ttmC) | [Chance to Breathe](https://open.spotify.com/album/2ERWhLswtNq97McbdTrvf2) | 2:44 | 2025-10-23 |  |
 | [Che male c'è?](https://open.spotify.com/track/2PzGrPN33vhpV1TNbGZwdQ) | [Mia Maria Pia](https://open.spotify.com/artist/2ke7xYz9M1zhR0p3L16RPa) | [Che male c'è?](https://open.spotify.com/album/6NdGhElH0ocmBafK3g8BVN) | 2:59 | 2025-11-06 |  |
 | [Chill](https://open.spotify.com/track/7sDGYfqApSWsDa18tDfSc1) | [DSM Cire](https://open.spotify.com/artist/61CccO35kodboa2kLR9bw1) | [Chill](https://open.spotify.com/album/6aK9PMPt3BH6H2fDwiSNFe) | 2:27 | 2025-11-04 |  |
+| [Christmas in the Islands](https://open.spotify.com/track/0LxDXf95Mx9c1vZxEFqTFR) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Christmas in the Islands](https://open.spotify.com/album/3aHAeBe9ZjWw3wduUdNC1u) | 3:01 | 2025-12-02 |  |
 | [Cloud 9](https://open.spotify.com/track/0rVVkbkh83YFQL7i7rvtcF) | [Angelina Rose](https://open.spotify.com/artist/3vZlH2IjyBBjNgmKwkTFWc) | [Cloud 9](https://open.spotify.com/album/7Lc6KfQanXwmorJ1JVbf8Z) | 2:24 | 2025-11-14 |  |
 | [Clouds](https://open.spotify.com/track/6wpO6a3EMy0KyNkiDrhBeS) | [Jonas Magnus](https://open.spotify.com/artist/3oEJRI3vBzmOaqUVC8lnPf) | [Clouds](https://open.spotify.com/album/3ZqHRljeA5IRbABdwiQAtB) | 4:24 | 2025-07-22 |  |
 | [Colonialismo](https://open.spotify.com/track/4Wa6k6EZBdcS8B9pWuMg5L) | [Rasec Pajé](https://open.spotify.com/artist/6602spITjhFUyih7tFjzSP) | [Ep Boombap Vive](https://open.spotify.com/album/07GjLDJm2DahfPdRIKzfbk) | 2:58 | 2025-11-10 |  |
@@ -255,6 +256,7 @@
 | [Never Say Goodbye](https://open.spotify.com/track/6q4FcFNldI6kpZ0QL7eSyw) | [BAD HABIT](https://open.spotify.com/artist/0mq26FgUK8onK4RLiXk48g) | [Never Say Goodbye](https://open.spotify.com/album/3GvvHk0LT1Yez5hGr48Oxz) | 3:29 | 2025-09-23 |  |
 | [Next Time](https://open.spotify.com/track/4CdXObKFs8UqnfSwoOAuIN) | [Fryenation](https://open.spotify.com/artist/5W9PYRF4EAvz9AihmikdCq) | [Next Time](https://open.spotify.com/album/1ViZ6YADUEUwUDrxqFPnJe) | 2:58 | 2025-10-09 |  |
 | [No God Beside You](https://open.spotify.com/track/3z0nNNI73sVkKJMZyzzJjR) | [Honey Ribar](https://open.spotify.com/artist/1O72lyfUkS9GlDtqgavp9c) | [No God Beside You](https://open.spotify.com/album/4Dp4l7dvGfcDMJl6UPel8y) | 3:36 | 2025-11-26 |  |
+| [No Meio Termo](https://open.spotify.com/track/6FaZX8fiSihP2gvWs42f0K) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:58 | 2025-12-02 |  |
 | [No More Lies](https://open.spotify.com/track/4AGflhfh5RPzKlVydgG6TQ) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [No More Lies](https://open.spotify.com/album/7vQkexwSNeZJQ9X7RLwUTE) | 4:13 | 2025-09-23 |  |
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2025-10-23 |  |
 | [No Way, No How.](https://open.spotify.com/track/2DOIBpZ3WbyCLGcWAB2h7K) | [Taylor Youngbauer](https://open.spotify.com/artist/4UeB4cZPyYIaC0VYRsaFiZ) | [No Way, No How.](https://open.spotify.com/album/5Uq5g0fs9BQzIssJzb8K5R) | 2:40 | 2025-07-15 |  |
@@ -270,6 +272,7 @@
 | [On S'est Perdu](https://open.spotify.com/track/2TmlhNyiTpJE8expr5Auok) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Moi Qui a Mal](https://open.spotify.com/album/0iQHWtIwT46b3Rj97T2Zb4) | 3:36 | 2025-11-06 |  |
 | [On Your Mind Again](https://open.spotify.com/track/0B9A2nKDB03G9GomPdRe2N) | [Jimmy Hazelwood](https://open.spotify.com/artist/1F27YY4TGG6BJ42kUAHcHw) | [On Your Mind Again](https://open.spotify.com/album/0yTLFSFRnUrRf2yfe106TZ) | 3:14 | 2025-07-31 |  |
 | [One Battle After Another Freestyle \(Bonus Track\)](https://open.spotify.com/track/4N7GSM5mhV4S4A2D5mFzcn) | [Schino B](https://open.spotify.com/artist/7HTvfaoiDmOiGqg66nZC2B), [2 Late](https://open.spotify.com/artist/6owOgQeL12R2Lq8kQRM3aN) | [He Cries Wolf \(Deluxe\)](https://open.spotify.com/album/2szYYLI3z0zr9ICi2kR431) | 3:08 | 2025-11-06 |  |
+| [One Life in a Second](https://open.spotify.com/track/3ejiegnz0P0wCBmDiVt6DS) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [One Life in a Second](https://open.spotify.com/album/31tJrwZLvVxTmiDHo7I5es) | 4:41 | 2025-12-02 |  |
 | [One Way Road](https://open.spotify.com/track/3gpPiz0MCAfeq25uMTfBRl) | [Empress Linoleum](https://open.spotify.com/artist/4FuR22rpxsrFeXd1VrimbB) | [One Way Road](https://open.spotify.com/album/6BDbhOeZBBfwq1iHeFhPaM) | 3:12 | 2025-11-16 |  |
 | [Only Tonight](https://open.spotify.com/track/5d9SYa0iKepZHTGf1Z8N2F) | [Stoloboy](https://open.spotify.com/artist/1TiYz6Ir6NF0IzoItwCJXE) | [Only Tonight](https://open.spotify.com/album/7ljUUhnGw7GHVPfyvXFa0W) | 3:20 | 2025-10-25 |  |
 | [Otra Vez](https://open.spotify.com/track/5rwUs97FbADrR9rDJmSSYw) | [invitro](https://open.spotify.com/artist/6v9l6q6Dbj7wjztHEIVsaM) | [Sueño Artificial](https://open.spotify.com/album/3ojaiSsI1EvSkZUKqlyef8) | 3:34 | 2025-10-30 |  |
@@ -370,6 +373,7 @@
 | [The Right Time](https://open.spotify.com/track/7zuMFlO0gFcRctfOYf261V) | [Axel Kowalski](https://open.spotify.com/artist/6xGO06JNc0X7vnXxkJJggQ) | [The Right Time](https://open.spotify.com/album/6rXf2T0Yc7H29s34WPzDdx) | 2:42 | 2025-10-30 |  |
 | [The Same Side](https://open.spotify.com/track/0jAw1sB0zYmjQMYyptDQtF) | [Echoes of Dublin](https://open.spotify.com/artist/1ZxR0w6dLwCfJxmlrCHOFe) | [Echoes of Dublin, Vol\. 1](https://open.spotify.com/album/2LpkEocsKS28TwAyaxqIgC) | 2:39 | 2025-09-29 |  |
 | [The Storm of Our Lives 2](https://open.spotify.com/track/26I4W75HgzLnkD2LGm1Q4u) | [Tim Soucy](https://open.spotify.com/artist/6fSvixjQmpfsf0nKFA4MNa) | [Instrumental Universe Vol\. 2](https://open.spotify.com/album/2WZnQez2YNMCsOQEPCo1Qj) | 2:03 | 2025-06-26 |  |
+| [THE UNRAVELING](https://open.spotify.com/track/20jxpjgdcIEwqYf3w2aVOU) | [fred0](https://open.spotify.com/artist/4U4KH3IhPkIIlGgfQffEZ9) | [THE UNRAVELING](https://open.spotify.com/album/70JyYPvljig5pYCGazHkRY) | 2:52 | 2025-12-02 |  |
 | [The Wall Won](https://open.spotify.com/track/2GR38gPKioxcv8Gy1W1XfB) | [冉明阳](https://open.spotify.com/artist/7gn8b6PSGLSivahI4fq0Cl) | [The Wall Won](https://open.spotify.com/album/2MXLUgMROcEkrAf7rF6Eoh) | 3:00 | 2025-09-12 |  |
 | [The Way It Makes Me Feel](https://open.spotify.com/track/3oBUdNLtPspoHjr4mMlQkk) | [Penelope](https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN) | [The Way It Makes Me Feel](https://open.spotify.com/album/6LxSvGxZ6Csn5ijB3QtVcZ) | 3:33 | 2025-11-28 |  |
 | [there is no ship to say goodbye](https://open.spotify.com/track/5IaHTxZiEFw5pLUHvsup8r) | [SOLO THIEF](https://open.spotify.com/artist/67hrGusXpfFjHwmAtNbRy2) | [there is no ship to say goodbye](https://open.spotify.com/album/7g3vnXV1vuBaHSEDQ0zpTx) | 1:58 | 2025-09-23 |  |

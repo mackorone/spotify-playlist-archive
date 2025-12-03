@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from These New South Whales, Ed Sheeran, Central Cee, Jordan Rakei, Jalen Ngonda, Drax Project + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,422 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,395 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 6 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 |
 | 7 | [Claws](https://open.spotify.com/track/4lOAlq0GpCLH7VqlFOmCVJ) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Claws](https://open.spotify.com/album/0w7WFXa2rHkGhXcfyCFSlc) | 2:47 |
 | 8 | [XTC](https://open.spotify.com/track/5LPJ9swDvm6EKh8cW52I4A) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV) | [Melomaniac 003](https://open.spotify.com/album/5EzpGctzHsFSKTRUU1bvOD) | 2:37 |
-| 9 | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/track/6yeGECrisgtHSWaYDZBA7h) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Stone II](https://open.spotify.com/artist/4WIa7bwGO6UbJGOa3dYy9H) | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/album/15NNhrMTBtpPI9hSSa3TFV) | 2:18 |
+| 9 | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/track/6yeGECrisgtHSWaYDZBA7h) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [Stone II](https://open.spotify.com/artist/4WIa7bwGO6UbJGOa3dYy9H) | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/album/15NNhrMTBtpPI9hSSa3TFV) | 2:18 |
 | 10 | [Hold You Close](https://open.spotify.com/track/3oAkenLgVAQNhZMYPr2xQx) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hold You Close](https://open.spotify.com/album/5kUj5N8dkfn9PMX35xX4oC) | 4:01 |
 | 11 | [Rot](https://open.spotify.com/track/7kZzn2dgVaU0itU7CpIBYL) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [LIVE LAUGH COOL STAR](https://open.spotify.com/album/2cXKr33dR0o2MrbVKpV8C9) | 2:34 |
 | 12 | [Curse](https://open.spotify.com/track/3Uq3THjKQx73juBlWnLFqa) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Body Broker](https://open.spotify.com/album/2qOPFkzeD33AyGvMOblT5u) | 2:23 |

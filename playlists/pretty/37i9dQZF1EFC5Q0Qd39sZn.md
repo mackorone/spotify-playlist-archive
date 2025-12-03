@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,471 likes - 579 songs - 1 day 16 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,473 likes - 579 songs - 1 day 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 108 | [Inescapable \- Youngboyz Mix](https://open.spotify.com/track/23fecagpmaDqzJzf0nDWRS) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Get 'Em Girls](https://open.spotify.com/album/7t6s6NWaLUEkRQEDqp8yNN) | 3:35 |
 | 109 | [Soul of My Soul](https://open.spotify.com/track/0uikANAtgIQOI4U3LjpSV9) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:42 |
 | 110 | [Forward Motion \- From The Original Motion Picture “Late Night”](https://open.spotify.com/track/6nsBFtGvc9R5ZuUAhbxxIG) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Forward Motion \(From The Original Motion Picture “Late Night”\)](https://open.spotify.com/album/5EEfa7yCUXXJkaNcLQcZoV) | 3:56 |
-| 111 | [We're Not Makin' Love Anymore](https://open.spotify.com/track/3hGGHB4mdm620E1x89i72n) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Burnin'](https://open.spotify.com/album/7IAaeP93y9SgYQ6MKWA0hL) | 4:42 |
-| 112 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 111 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 112 | [We're Not Makin' Love Anymore](https://open.spotify.com/track/3hGGHB4mdm620E1x89i72n) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Burnin'](https://open.spotify.com/album/7IAaeP93y9SgYQ6MKWA0hL) | 4:42 |
 | 113 | [Water From The Moon](https://open.spotify.com/track/2kpXktIVu9aoHPnIyXAtoc) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 4:39 |
 | 114 | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/track/27dYgu9SoZY5t3EzC2hSue) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/album/5OYTmotVhUzSxheuRa6CrV) | 3:53 |
 | 115 | [Some Kind of Miracle](https://open.spotify.com/track/5JeXyH905IWoIuRhTtaNQN) | [Puff Johnson](https://open.spotify.com/artist/4tZuiycQazMlEVhiPXuKLk) | [Miracle](https://open.spotify.com/album/7IMT7fNx7q3gqfecqKjF50) | 6:18 |
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 157 | [We All Fall Down](https://open.spotify.com/track/6eckoL4HX101w6fFqSSaRM) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 5:14 |
 | 158 | [You Were Loved](https://open.spotify.com/track/5NGVnEhrimV9vYwPRxsM3i) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:10 |
 | 159 | [You Knew Me When](https://open.spotify.com/track/0pW7lNBM7and8vGVQ6jMxo) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [I Am \(Deluxe\)](https://open.spotify.com/album/6rhUimbVJnPEmsmOBa5i2Y) | 3:40 |
-| 160 | [Wrap U Around Me](https://open.spotify.com/track/7yaSV1A46vEcTM27dpd8EC) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Tomorrow](https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi) | 3:22 |
-| 161 | [La Luna Hizo Esto](https://open.spotify.com/track/7gYRMOKThN8mxf18dR7vTO) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:28 |
+| 160 | [La Luna Hizo Esto](https://open.spotify.com/track/7gYRMOKThN8mxf18dR7vTO) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:28 |
+| 161 | [Wrap U Around Me](https://open.spotify.com/track/7yaSV1A46vEcTM27dpd8EC) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Tomorrow](https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi) | 3:22 |
 | 162 | [Takin' Back My Heart](https://open.spotify.com/track/2ROJCBdOLQNp01eRXjsPG8) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 4:32 |
 | 163 | [Nothing Broken But My Heart](https://open.spotify.com/track/03xpqxQ2tCUuDAKNLThmGO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 5:55 |
 | 164 | [Your Letter](https://open.spotify.com/track/1NSCBsrYgjkmNiNSgiMLzK) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 5:20 |
@@ -241,8 +241,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 231 | [Delete You](https://open.spotify.com/track/5LXEgus3zxYYBruGDy14tx) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Guilty Pleasure](https://open.spotify.com/album/4iKfmBKXuzPROAXBuZKAVM) | 3:33 |
 | 232 | [All My Tomorrows](https://open.spotify.com/track/5XZtY0wYBt5Hi5fY9I00Dy) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [From The Soul Of Man](https://open.spotify.com/album/01KHEEunv9YbTODeMUUT83) | 4:46 |
 | 233 | [Still Here](https://open.spotify.com/track/5hyHIDjxCGP0efNx6qwmu0) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/73xzYfVVYvkwYrhb5iUvjH) | 3:41 |
-| 234 | [The Change](https://open.spotify.com/track/2buUEhuN8I6tZ27kaWfqyh) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Change](https://open.spotify.com/album/1bZb08UfxnPsbz8MN2hhbF) | 3:35 |
-| 235 | [If I Don't Tell You Now](https://open.spotify.com/track/1eFZF1b1AW24Dp1ELQ53WX) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 3:19 |
+| 234 | [If I Don't Tell You Now](https://open.spotify.com/track/1eFZF1b1AW24Dp1ELQ53WX) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 3:19 |
+| 235 | [The Change](https://open.spotify.com/track/2buUEhuN8I6tZ27kaWfqyh) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Change](https://open.spotify.com/album/1bZb08UfxnPsbz8MN2hhbF) | 3:35 |
 | 236 | [I Did It for You](https://open.spotify.com/track/1Km0EwfnZXSgNEZXphorwg) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:31 |
 | 237 | [Taken](https://open.spotify.com/track/758x5c6DtwpX1RuoRhr39i) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 2:48 |
 | 238 | [\(We Are All\) Looking for Home](https://open.spotify.com/track/3wBl37DTfhitJpXfCXDGJt) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [\(We Are All\) Looking for Home](https://open.spotify.com/album/5XKMXzwRFAtOsJk1ChPce6) | 2:52 |
@@ -588,4 +588,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 578 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 
-Snapshot ID: `AcDFyAAAAABllwJ5zokf2Tey5g1mlx5k`
+Snapshot ID: `AcDLaAAAAAAv33C8HMinWL4jxNNZwQYq`

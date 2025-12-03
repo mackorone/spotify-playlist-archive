@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-385 songs - 22 hr 27 min
+386 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6ROvyTNjYgIM7UmBdFwW74) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4cwPn3HcOg2Xil0QFInOFu) | 3:22 | 2024-10-27 |  |
 | [Harken](https://open.spotify.com/track/4NCRqYuH1M19b3cDiRgcs9) | [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap), [Chris Beland](https://open.spotify.com/artist/589onAR28YIA48jFpfyEMT) | [Harken](https://open.spotify.com/album/2h48qsKQiHFc5mTn6vMBoX) | 3:54 | 2022-12-11 | 2025-04-03 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0QqnU2evpS37pFD4tkWk1D) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4dlf23mMkc4VpJvor27YiA) | 4:03 | 2022-11-26 |  |
+| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/56DElTLvI7peDl0xwNWkKD) | [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [First Christmas](https://open.spotify.com/album/23LrVKy384fPOxmf8sII9j) | 2:37 | 2025-11-28 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1cXTOc2xKSg4whKKhDD7Va) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0XgTFzpaVhSq7D4xQTic0g) | 2:29 | 2021-12-24 | 2025-11-28 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/2TQ5LnGMe1vbzSeqLBDfSk) | [Megan Kerr](https://open.spotify.com/artist/0g6AH8bqlfFMqSqnMXScjG), [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7fHOTqGVhhvILUzs5KHZGL) | 3:33 | 2025-11-22 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5XBBLp2quztPBIPeAH6Cjg) | [Rebecca Hart](https://open.spotify.com/artist/3eb9mDPsoRYnafWldTwz96), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/11HlNo4BzgDoPyK4zEVWMC) | 4:42 | 2024-10-27 |  |
@@ -321,7 +322,7 @@
 | [The Christmas Waltz](https://open.spotify.com/track/7Fkoq2pfSTpN6Slh05dYYN) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Christmas Waltz](https://open.spotify.com/album/6naVRYaRVpdsD9IUJDJcGF) | 3:16 | 2022-12-11 | 2024-09-13 |
 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 | 2022-12-11 |  |
 | [The First Noel](https://open.spotify.com/track/3OB4YP9W1TVGdShdRKKaba) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [The First Noel](https://open.spotify.com/album/5Hgm1Azgur0Q98EWKry8VB) | 2:47 | 2024-12-08 |  |
-| [The First Noel](https://open.spotify.com/track/1jKORq0awoj9ZLvP7z8R5j) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [The First Noel](https://open.spotify.com/album/0gwUzsFLnpWbXBXPuSVJ6z) | 4:08 | 2023-12-15 |  |
+| [The First Noel](https://open.spotify.com/track/1jKORq0awoj9ZLvP7z8R5j) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [The First Noel](https://open.spotify.com/album/0gwUzsFLnpWbXBXPuSVJ6z) | 4:08 | 2023-12-15 | 2025-12-03 |
 | [The First Noel](https://open.spotify.com/track/2GRgDkptG53UQ91lwukxYv) | [Nonoy Peña](https://open.spotify.com/artist/1dSMhdi4YmecHoyFcSzpaA) | [The First Noel](https://open.spotify.com/album/3czRYtaKj5ogLBo6hND5UV) | 3:08 | 2022-11-26 | 2023-10-25 |
 | [The First Noel](https://open.spotify.com/track/6LKNeprjWU0oP4TcrdNl1s) | [Nonoy Peña](https://open.spotify.com/artist/1dSMhdi4YmecHoyFcSzpaA) | [The First Noel](https://open.spotify.com/album/4SIaHnyHIfpeBqHnMT23vh) | 3:08 | 2022-12-11 | 2024-04-19 |
 | [The First Noel](https://open.spotify.com/track/2MQYkvXbOoqnym1nRSLBRa) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [The First Noel](https://open.spotify.com/album/0a4mMQCuG7be9wNRgbtuZl) | 3:30 | 2023-12-15 | 2023-12-27 |

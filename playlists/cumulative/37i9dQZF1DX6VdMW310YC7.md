@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,833 songs - 5 day 4 hr 36 min
+1,834 songs - 5 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,7 +774,7 @@
 | [i think you're cool](https://open.spotify.com/track/6tkHWTety7Wd4Fv4oyGAcz) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jenna Pemkowski](https://open.spotify.com/artist/29eVvwQJ6dwSiykc8RtlpG) | [Catching Z's](https://open.spotify.com/album/2Tkn1vJF1Fb5fdw2pm4Fz1) | 3:33 | 2021-03-27 | 2022-09-24 |
 | [I Wanna Know](https://open.spotify.com/track/4XgIfTSrjbyLTa71j8HRva) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [I Wanna Know](https://open.spotify.com/album/6mJWG8zHzWVAegZGOaWpto) | 3:04 | 2020-05-19 | 2020-07-03 |
 | [i want you](https://open.spotify.com/track/6lzhQZlu2c0CZ947BmHJhP) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [CLASS XIX](https://open.spotify.com/album/59If0lqH0DczyoHVOU0Ctg) | 3:06 | 2020-03-17 | 2020-06-12 |
-| [I Want You](https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Want You](https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL) | 3:27 | 2025-03-07 |  |
+| [I Want You](https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Want You](https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL) | 3:27 | 2025-03-07 | 2025-12-03 |
 | [I Want You \(feat\. Braev\)](https://open.spotify.com/track/31kN6sakkWj7SxVjm0d0gd) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [I Want You \(feat\. Braev\)](https://open.spotify.com/album/2PBu4Kc89jFrsNZqt4ISSx) | 4:18 | 2022-09-09 | 2022-12-29 |
 | [I Want You \(feat\. braev\)](https://open.spotify.com/track/4erSEnRWE2diyHCfEjzW5Z) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [I Want You \(feat\. braev\)](https://open.spotify.com/album/5tsdkY0jtsruBtZ27vVU8a) | 4:18 | 2021-02-19 | 2022-12-01 |
 | [I Will Leave a Light On](https://open.spotify.com/track/2xlSM0k9SCoG6UMaZWWRiC) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [I Will Leave a Light On](https://open.spotify.com/album/2KSD7hHUDnXcgTO56Zhwi2) | 4:00 | 2023-08-11 | 2024-10-02 |
@@ -839,6 +839,7 @@
 | [Ivy](https://open.spotify.com/track/05fOOZZ8M2RVlHAUSwj1l5) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 2:23 | 2021-10-01 | 2022-12-02 |
 | [iwaly](https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [iwaly](https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC) | 3:21 | 2024-04-05 | 2024-08-25 |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2021-09-10 | 2024-06-22 |
+| [JADED](https://open.spotify.com/track/5XWTqhkU9fLenlOkOrPa7I) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [JADED](https://open.spotify.com/album/10Yl1eszSwWygwQU4DyAkX) | 3:05 | 2025-11-21 |  |
 | [Japan \- Satin Jackets Remix](https://open.spotify.com/track/4H33DONRzLH1dfbCXoFgbq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Japan \(Satin Jackets Remix\)](https://open.spotify.com/album/2T986R8R8ftbIEKIs1WWv1) | 3:57 | 2020-11-13 | 2022-07-29 |
 | [Jetty](https://open.spotify.com/track/71CRvX5TW0CsiCxGZ00IfA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Ninjawerks \(Vol.1\)](https://open.spotify.com/album/2ndLlrpXSt6w43yBnFuelU) | 3:53 | 2020-03-20 | 2022-04-20 |
 | [Jol](https://open.spotify.com/track/39rbdZk7P5ACNrQLcvodv7) | [Dena Amy](https://open.spotify.com/artist/6A1M7uYGABvWsuIPrMaGLM) | [Jol](https://open.spotify.com/album/6LMxJ3I8frV0R3CqdDm3Hc) | 5:56 | 2020-02-29\* | 2020-03-16 |

@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 64422,
+  "num_followers": 64433,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Pavel Loaria Big Band, Vol. 1",
-        "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
-      },
-      "artists": [
-        {
-          "name": "Pavel Loaria Big Band",
-          "url": "https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "The Pink Panther",
-      "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Jazz Mariachi",
         "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 211026,
       "name": "Luna Taxque\u00f1a - Jazz Mariachi",
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Pavel Loaria Big Band, Vol. 1",
+        "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
+      },
+      "artists": [
+        {
+          "name": "Pavel Loaria Big Band",
+          "url": "https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "The Pink Panther",
+      "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -515,6 +515,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 179511,
       "name": "Caminos de Ayer - Remastered",
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -767,30 +767,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Amaneceres",
-        "url": "https://open.spotify.com/album/6IbnxAPwtYL8uJtgiYgJVG"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
-        },
-        {
-          "name": "Manuel Rocheman",
-          "url": "https://open.spotify.com/artist/6rm1OjMfQtUeULm4gOFOXi"
-        },
-        {
-          "name": "Agust\u00edn Bernal",
-          "url": "https://open.spotify.com/artist/3kc6Vsc4vlEubpthM5towL"
-        }
-      ],
-      "duration_ms": 273880,
-      "name": "Amaneceres",
-      "url": "https://open.spotify.com/track/21lSntIcuSdGdV0m4LesLz"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Orquesta Moderna",
         "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
       },
@@ -819,6 +795,30 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Amaneceres",
+        "url": "https://open.spotify.com/album/6IbnxAPwtYL8uJtgiYgJVG"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+        },
+        {
+          "name": "Manuel Rocheman",
+          "url": "https://open.spotify.com/artist/6rm1OjMfQtUeULm4gOFOXi"
+        },
+        {
+          "name": "Agust\u00edn Bernal",
+          "url": "https://open.spotify.com/artist/3kc6Vsc4vlEubpthM5towL"
+        }
+      ],
+      "duration_ms": 273880,
+      "name": "Amaneceres",
+      "url": "https://open.spotify.com/track/21lSntIcuSdGdV0m4LesLz"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "What's The Rush? (Remastered)",
         "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cruz Tr\u00edo",
-          "url": "https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL"
-        }
-      ],
-      "duration_ms": 378493,
-      "name": "A la Ventana Carolina",
-      "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 384415,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cruz Tr\u00edo",
+          "url": "https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL"
+        }
+      ],
+      "duration_ms": 378493,
+      "name": "A la Ventana Carolina",
+      "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"
     },
     {
       "added_at": "2024-08-29 03:09:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,800 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,810 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Disguise](https://open.spotify.com/track/0x3l5qTKFn7vaL5VnjhgC1) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ) | [Rebirth](https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d) | 3:13 |
 | 50 | [Nwa Baby](https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [W.E.E.D.](https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY) | 3:30 |
 
-Snapshot ID: `aSuJAAAAAABVf1lEzjIT9nNMA3LXDesf`
+Snapshot ID: `aSzagAAAAABCdz7OeqFDg6O0c4/upXMO`

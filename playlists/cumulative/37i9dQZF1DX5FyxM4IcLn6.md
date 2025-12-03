@@ -4,7 +4,7 @@
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-881 songs - 2 day 11 hr 6 min
+882 songs - 2 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/track/2ghjBzkF9XwqBt9nw1GjlO) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/album/1cx9p0adZ9GVMOsWs1UIhC) | 3:25 | 2023-11-10 | 2024-11-09 |
 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 | 2021-03-10 | 2022-03-30 |
 | [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:04 | 2021-03-10 | 2022-03-30 |
+| [La Del Proceso](https://open.spotify.com/track/1HHbWpX1n9JCbAWu4h4zHJ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Y Lo Que Viene](https://open.spotify.com/album/2aTxD6We9GbBFXi3oKoPat) | 3:04 | 2025-11-12 |  |
 | [La Flor de la Canela](https://open.spotify.com/track/1D5B2vI479oCGtvd3RHMrG) | [Afro\-Peruvian Jazz Orchestra](https://open.spotify.com/artist/0kaMzfrj9wlJYAr6VwzkAL), [Lorenzo Ferrero](https://open.spotify.com/artist/6br0HOs1Qp9CKJngm28FyG) | [Tradiciones](https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm) | 6:19 | 2021-03-10 | 2022-03-30 |
 | [LA PATRULLA](https://open.spotify.com/track/2aYZaN5SmkRDLsrrV8GkBQ) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:10 | 2024-11-08 | 2025-11-08 |
 | [Lachryma](https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev) | 4:36 | 2025-11-07 |  |
@@ -579,7 +580,7 @@
 | [Oceans](https://open.spotify.com/track/3BhRzFtTQ9nQbEtvsPWLi9) | [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Iceland Symphony Orchestra](https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b), [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon) | [Concurrence](https://open.spotify.com/album/2kJCk4JHadPeV7hmSSK5EI) | 9:35 | 2021-03-10 | 2022-03-30 |
 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 | 2024-11-08 | 2025-11-08 |
 | [Oh Babe It Ain't No Lie](https://open.spotify.com/track/4LjmcpUWSqEbKiEbdsSMLS) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [All The Good Times](https://open.spotify.com/album/0JgpOuuz9D8eH50iZomnvD) | 4:24 | 2021-03-10 | 2022-03-30 |
-| [Oh What A Beautiful World \- feat\. Rodney Crowell](https://open.spotify.com/track/7ml1acXUTiwSm2WjtXYFbZ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Oh What A Beautiful World](https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV) | 4:00 | 2025-11-07 |  |
+| [Oh What A Beautiful World \- feat\. Rodney Crowell](https://open.spotify.com/track/7ml1acXUTiwSm2WjtXYFbZ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Oh What A Beautiful World](https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV) | 4:00 | 2025-11-07 | 2025-12-03 |
 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2022-11-24 | 2023-11-11 |
 | [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 | 2023-11-10 | 2024-11-09 |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-11-10 | 2024-02-06 |

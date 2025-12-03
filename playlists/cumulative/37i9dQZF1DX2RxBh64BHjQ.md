@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3qdQnBjEBHrk5nZYxXdV1U">Skrilla</a>
 
-2,624 songs - 4 day 20 hr 2 min
+2,625 songs - 4 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -975,7 +975,7 @@
 | [Hadju](https://open.spotify.com/track/67boR1qcg0tmLQDcWntTqX) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Hadju](https://open.spotify.com/album/0H91S2e4amzMxtmqBo2YcR) | 2:26 | 2025-08-19 | 2025-08-30 |
 | [HAHA](https://open.spotify.com/track/6QKsXlPrbg39EHLGoXGRsr) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [HAHA](https://open.spotify.com/album/0nLPy1MZOTSsDaY76gdMJI) | 3:09 | 2024-10-25 | 2024-11-09 |
 | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/album/01dfvcwL8PhZ9IDlzjBO4M) | 2:09 | 2022-06-17 | 2022-08-06 |
-| [HALF COURT SHOTS](https://open.spotify.com/track/0Kap5m8tN2yTwmK8AJeJmx) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [HALF COURT SHOTS](https://open.spotify.com/album/6n1cEcwP70DHbnK1GzVNNf) | 2:41 | 2025-08-08 |  |
+| [HALF COURT SHOTS](https://open.spotify.com/track/0Kap5m8tN2yTwmK8AJeJmx) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [HALF COURT SHOTS](https://open.spotify.com/album/6n1cEcwP70DHbnK1GzVNNf) | 2:41 | 2025-08-08 | 2025-12-03 |
 | [Han Solo](https://open.spotify.com/track/7Fl6CFzsNVjnxYBAG2YfD7) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Han Solo](https://open.spotify.com/album/4SAWZ46pT9XJnQYtUW9UdS) | 2:22 | 2023-12-15 | 2024-02-17 |
 | [HANDS UP!](https://open.spotify.com/track/4yyrqAE18WygbNJhVW91g7) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [HANDS UP!](https://open.spotify.com/album/0sewRJupZ1zkzYo6h3X388) | 1:29 | 2023-07-07 | 2023-07-29 |
 | [Handsome Hustler](https://open.spotify.com/track/3J7pYoOjDF2x8YDTFaezxm) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [CASH RULES](https://open.spotify.com/album/2aiukIV0Qlw8RI9yCVhwJq) | 2:40 | 2025-04-25 | 2025-06-18 |
@@ -1134,6 +1134,7 @@
 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 | 2025-05-16 |  |
 | [IM YEAT](https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [IM YEAT](https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae) | 2:48 | 2025-07-18 | 2025-11-22 |
 | [Immaculate](https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Immaculate](https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg) | 3:00 | 2022-08-05 | 2022-08-20 |
+| [Impact \(with xaviersobased\)](https://open.spotify.com/track/2xTk9wtJ6mWf7YV6ppmdCK) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [Impact \(with xaviersobased\)](https://open.spotify.com/album/6arkOvLfIMLsXr5dEE1Idr) | 1:55 | 2025-12-02 |  |
 | [Imposters](https://open.spotify.com/track/0Jgi0ZkopEY0nZM7z2uWDg) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Imposters](https://open.spotify.com/album/0xHkV5JYSRR40P5rSr8z2s) | 1:56 | 2022-10-28 | 2022-11-19 |
 | [In & Out](https://open.spotify.com/track/3Z5wZZvyvfaAKyUO7KYd7Q) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [In & Out](https://open.spotify.com/album/0ifJzok52AVKVixKEw4lDI) | 1:52 | 2025-09-05 | 2025-10-11 |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-01-06 | 2023-05-20 |

@@ -4365,6 +4365,24 @@
     },
     {
       "album": {
+        "name": "Efeu",
+        "url": "https://open.spotify.com/album/75rqo70A07zXqdWwKEaotv"
+      },
+      "artists": [
+        {
+          "name": "Gillirium",
+          "url": "https://open.spotify.com/artist/4dfUUvHsq6FLLkA0Qy7wqu"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172166,
+      "name": "Efeu",
+      "url": "https://open.spotify.com/track/6BwD8TE6eWKasH11uh6vU4"
+    },
+    {
+      "album": {
         "name": "Ein neuer Tag",
         "url": "https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD"
       },
@@ -7425,6 +7443,24 @@
     },
     {
       "album": {
+        "name": "iuvenale",
+        "url": "https://open.spotify.com/album/5BlOFXwiKGBZjJbXdkZSTO"
+      },
+      "artists": [
+        {
+          "name": "Benjin Blund",
+          "url": "https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "iuvenale",
+      "url": "https://open.spotify.com/track/4zj0hyTj3fA6DVbAm391Nw"
+    },
+    {
+      "album": {
         "name": "Joys",
         "url": "https://open.spotify.com/album/3NWkkOHzbGUFecxZyIbBeB"
       },
@@ -8894,7 +8930,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 185418,
       "name": "Mist",
       "url": "https://open.spotify.com/track/7oUxWZteexoZDiFXxnPfrm"
@@ -9434,7 +9470,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 145983,
       "name": "Neverending",
       "url": "https://open.spotify.com/track/6eEgSIblmuXFXlb6A2tjvp"

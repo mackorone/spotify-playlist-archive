@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 245 likes - 1,695 songs - 4 day 7 hr 4 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 245 likes - 1,699 songs - 4 day 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1703,5 +1703,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1693 | [Country Christmas Line Dance \(Jingle Bells\)](https://open.spotify.com/track/3dLbmwtsvZWabodAty7T6F) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:49 |
 | 1694 | [Dear Summer](https://open.spotify.com/track/4GK6QSZ7hxOw13sNjEuc04) | [Urban Grizzly](https://open.spotify.com/artist/7KHXAGYNMTcZkyvMrQwCOj) | [Dear Summer](https://open.spotify.com/album/5dWifVlsFXOqeB0E5438BY) | 4:12 |
 | 1695 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 |
+| 1696 | [Baila Mi Navidad](https://open.spotify.com/track/3Xdx0W8H8nTBetAFR5Ia7J) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Mi Navidad](https://open.spotify.com/album/7ykfc5zIGkaCsdF6rXk2Nj) | 3:30 |
+| 1697 | [cALYPSO cRAB](https://open.spotify.com/track/6HISIzKtm64qArW8y0ltCm) | [Summer in the Attic](https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq) | [Queso](https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD) | 2:54 |
+| 1698 | [Ruin You](https://open.spotify.com/track/5DGEFddKdHhqdBQzc33gsy) | [Maddie Hogan](https://open.spotify.com/artist/6quyQgHYbx0Hiv7sz5PPxk) | [Ruin You](https://open.spotify.com/album/7tsnbxX5EpgDphSwgxA5jR) | 3:37 |
+| 1699 | [Worst Universe](https://open.spotify.com/track/0jdnGukKtJsvQ3EfvB5m3F) | [Marcy Daydream](https://open.spotify.com/artist/6NkpRJhd9in8Syp4gT3ka9) | [Worst Universe](https://open.spotify.com/album/3ts13EAFlZY3xcN9jmN19L) | 4:07 |
 
-Snapshot ID: `AAAHeIxEY1ydtVmbcvCztwIE5IyuPOfQ`
+Snapshot ID: `AAAHfH1ewd/ikOafaD75dpigitFuwLjB`

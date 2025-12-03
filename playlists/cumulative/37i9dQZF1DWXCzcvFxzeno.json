@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 239580,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/5nHaB4kZ5QT8cH4Ie31ssY"
@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 211139,
       "name": "Hey Yo DJ",
       "url": "https://open.spotify.com/track/39Tvy5bwILfNREZal822Yo"
@@ -4590,7 +4590,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 210011,
       "name": "Post Punk",
       "url": "https://open.spotify.com/track/0ENwCtcM4AMJMacQRSUjGl"
@@ -5058,6 +5058,28 @@
       "duration_ms": 250145,
       "name": "Romantika",
       "url": "https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD"
+    },
+    {
+      "album": {
+        "name": "Rotterdam",
+        "url": "https://open.spotify.com/album/0IKm5XwwNPH05sDSDtoR7D"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Egbert",
+          "url": "https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168014,
+      "name": "Rotterdam",
+      "url": "https://open.spotify.com/track/79PGpAOomJOzoUDGdq3haH"
     },
     {
       "album": {

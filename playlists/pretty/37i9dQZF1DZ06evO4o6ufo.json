@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 90996,
+  "num_followers": 91024,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACUliTueQb7+DcPful+qwZW",
+  "snapshot_id": "aSzagAAAAAC2l6RYt/Gk0kEJA4uJpxx0",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3 Doritos Despues (En Vivo)",
-        "url": "https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "3 Doritos Despues (En Vivo)",
-      "url": "https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solitario (En Vivo)",
         "url": "https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 208966,
       "name": "Solitario - En Vivo",
       "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3 Doritos Despues (En Vivo)",
+        "url": "https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "3 Doritos Despues (En Vivo)",
+      "url": "https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ"
     },
     {
       "added_at": null,
@@ -751,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Se\u00f1or De La Monta\u00f1a (Live)",
-        "url": "https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97"
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
       },
       "artists": [
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 240292,
-      "name": "El Se\u00f1or De La Monta\u00f1a - Live",
-      "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
+      "duration_ms": 198144,
+      "name": "Tus Videos Virales",
+      "url": "https://open.spotify.com/track/1DvapZBB0AjOOMUbFkoj0Z"
     },
     {
       "added_at": null,
@@ -791,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+        "name": "El Se\u00f1or De La Monta\u00f1a (Live)",
+        "url": "https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97"
       },
       "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 198144,
-      "name": "Tus Videos Virales",
-      "url": "https://open.spotify.com/track/1DvapZBB0AjOOMUbFkoj0Z"
+      "duration_ms": 240292,
+      "name": "El Se\u00f1or De La Monta\u00f1a - Live",
+      "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 164616,
-      "name": "Porque Te Portaste Mal (En Vivo)",
-      "url": "https://open.spotify.com/track/2W5W8VkZ6VtGMpQGfn4nFT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORAZ\u00d3N ERRANTE",
         "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 170794,
       "name": "El Hijo De Pancho",
       "url": "https://open.spotify.com/track/6fUq6pdFM6h5vQAQCowPQE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 164616,
+      "name": "Porque Te Portaste Mal (En Vivo)",
+      "url": "https://open.spotify.com/track/2W5W8VkZ6VtGMpQGfn4nFT"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 154318,
+      "name": "Como No Quererte",
+      "url": "https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Tostada CH",
         "url": "https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 243562,
       "name": "La Tostada CH",
       "url": "https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 154318,
-      "name": "Como No Quererte",
-      "url": "https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

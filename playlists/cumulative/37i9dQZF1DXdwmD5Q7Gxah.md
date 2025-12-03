@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/smerz\-daniel\-caesar\-and\-the\-dawn">November newsletter w/ Daniel Caesar & Smerz is live 📿</a> Cover: The Hellp
 
-3,636 songs - 8 day 6 hr 57 min
+3,637 songs - 8 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2356,6 +2356,7 @@
 | [Pack a Punch](https://open.spotify.com/track/2YmHg6zdtaGNYI31CkjN5p) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Pack a Punch](https://open.spotify.com/album/4Anv5S75ByF5yZlbh6Lgc8) | 3:42 | 2021-10-26 | 2022-02-12 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-07-04 | 2023-07-06 |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-08-05 | 2021-11-13 |
+| [pains of falling in love](https://open.spotify.com/track/6JVl0PrnA0cT45eXHAGQBP) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [camogirl3000](https://open.spotify.com/artist/28jJdp3i6BntofRp7t8N31) | [pains of falling in love](https://open.spotify.com/album/62NXg5kjzD9TzjdylSvkd2) | 2:08 | 2025-12-02 |  |
 | [Painting \(Masterpiece\)](https://open.spotify.com/track/7kmSIKAk4VHP4QUjpBPbGg) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Painting \(Masterpiece\)](https://open.spotify.com/album/7jMTaMVtCLUU0jFtASijhC) | 4:03 | 2019-07-30\* | 2019-08-02 |
 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 | 2025-02-28 | 2025-09-24 |
 | [pale horse](https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse](https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq) | 2:35 | 2024-10-18 | 2025-03-29 |

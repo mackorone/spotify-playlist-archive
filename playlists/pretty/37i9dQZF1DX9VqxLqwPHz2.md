@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 
 > Spotify & Nike present Make Moves: inspiring girls to get moving through music\. What song will you move to today?
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,176 likes - 66 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,198 likes - 66 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 | 18 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 |
 | 19 | [Illusion](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:08 |
 | 20 | [Ain't Your Mama](https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Ain't Your Mama](https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp) | 3:38 |
-| 21 | [Hurricane](https://open.spotify.com/track/7gQ5c5HY6zMsIck6QLY9dJ) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 4:03 |
-| 22 | [Lush Life](https://open.spotify.com/track/2kvgmr5CFhSvleQqTjB3eP) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/3ciEcHv8axaPC5YHTJ72Bg) | 3:20 |
+| 21 | [Lush Life](https://open.spotify.com/track/2kvgmr5CFhSvleQqTjB3eP) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/3ciEcHv8axaPC5YHTJ72Bg) | 3:20 |
+| 22 | [Hurricane](https://open.spotify.com/track/7gQ5c5HY6zMsIck6QLY9dJ) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 4:03 |
 | 23 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 |
 | 24 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
 | 25 | [ZENZELE \(feat\. Royal MusiQ, Uncool MC, Xduppy, & CowBoii\)](https://open.spotify.com/track/5wYyy08pvNomxBKFa3Bfj6) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [4 Da Ho's](https://open.spotify.com/album/3t6qF1HL758mQiMjVHi7m6) | 4:33 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 | 35 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 |
 | 36 | [Revolving door](https://open.spotify.com/track/3RLmaYstZc7CyQJJboES46) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:00 |
 | 37 | [Me Sabe Mal](https://open.spotify.com/track/5hcPfsdrll5xNkY8W2kxhn) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [1000 Primeras Veces](https://open.spotify.com/album/1DC8WFurhkoIjzxtSwNvDa) | 3:16 |
-| 38 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |
-| 39 | [Try Everything](https://open.spotify.com/track/67Yfu97e4fbf2jKmRzaB6I) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootropolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ei8Va8GUIXDNEPb2BEB8M) | 3:16 |
+| 38 | [Try Everything](https://open.spotify.com/track/67Yfu97e4fbf2jKmRzaB6I) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootropolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ei8Va8GUIXDNEPb2BEB8M) | 3:16 |
+| 39 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |
 | 40 | [Illegal + Nia Archives](https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Illegal + Nia Archives](https://open.spotify.com/album/57V3Ec9fpJEUZkFyW2axtx) | 2:40 |
 | 41 | [Manchild](https://open.spotify.com/track/0oGfvgVyjhvNCWuQAO4Nwn) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/3YUwSEib2ljtCTvqHj1dMI) | 3:33 |
 | 42 | [La Sandunguera](https://open.spotify.com/track/3xQ254OSkFQBk1F69d3Gwc) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [La Sandunguera](https://open.spotify.com/album/0wJRHjnCyxwKkeY2zFRMUQ) | 3:25 |

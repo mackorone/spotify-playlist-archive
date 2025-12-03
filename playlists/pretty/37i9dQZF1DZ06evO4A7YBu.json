@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 41701,
+  "num_followers": 41710,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAAyDmIqxJM0yD3JvvoZXVTS",
+  "snapshot_id": "aSzagAAAAACAQe95FdLbhDEMbQ9aBhnS",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Start a War",
-        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 148560,
-      "name": "The Enemy",
-      "url": "https://open.spotify.com/track/0Y2LxcRzgFFHWzoGBTlius"
+      "duration_ms": 260306,
+      "name": "Otsego Placebo",
+      "url": "https://open.spotify.com/track/4N0Nj84Jnnu5BngBU5IuT6"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+        "name": "Start a War",
+        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 260306,
-      "name": "Otsego Placebo",
-      "url": "https://open.spotify.com/track/4N0Nj84Jnnu5BngBU5IuT6"
+      "duration_ms": 148560,
+      "name": "The Enemy",
+      "url": "https://open.spotify.com/track/0Y2LxcRzgFFHWzoGBTlius"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 226734,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Project Regeneration, Vol. 1",
         "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 236066,
       "name": "All These Years",
       "url": "https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Regeneration, Vol. 2",
-        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 240304,
-      "name": "Black Star",
-      "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 240304,
+      "name": "Black Star",
+      "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 164346,
       "name": "Chroma-Matic",
       "url": "https://open.spotify.com/track/6kI9g6skgFFrKdmEeATr6c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Regeneration, Vol. 2",
-        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 226734,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Jic Boi",
+      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loud Rocks",
         "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 232200,
       "name": "Hip Hop",
       "url": "https://open.spotify.com/track/1UCVgSDDlH4vJ0jI4txWXP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Regeneration, Vol. 2",
-        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Jic Boi",
-      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
     },
     {
       "added_at": null,

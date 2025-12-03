@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 236,
+  "num_followers": 237,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGLHwyy5TfjrB/YcvlGF64ux4BV25K",
+  "snapshot_id": "AAAGLmpAXhCeKPRnnnXjRt6GRe8N1jgQ",
   "tracks": [
     {
       "added_at": "2025-11-28 15:41:12",
@@ -7189,7 +7189,7 @@
         }
       ],
       "duration_ms": 247154,
-      "name": "Idol (feat. Tech N9ne)",
+      "name": "Idol - feat. Tech N9ne",
       "url": "https://open.spotify.com/track/6q1F8dDPA8z2iaTE4XW2gG"
     },
     {
@@ -59575,6 +59575,38 @@
       "duration_ms": 308769,
       "name": "My town",
       "url": "https://open.spotify.com/track/2lsTmZMHngRUOzoH39adM9"
+    },
+    {
+      "added_at": "2025-12-02 23:56:34",
+      "album": {
+        "name": "Vino El Amor",
+        "url": "https://open.spotify.com/album/5z8uzZz2T9FM1uPDUWBocD"
+      },
+      "artists": [
+        {
+          "name": "Evan Rodz",
+          "url": "https://open.spotify.com/artist/11b5iup6dk8QDzFH2sQ0bw"
+        }
+      ],
+      "duration_ms": 223190,
+      "name": "Vino El Amor",
+      "url": "https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc"
+    },
+    {
+      "added_at": "2025-12-02 23:56:52",
+      "album": {
+        "name": "Two Souls",
+        "url": "https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Two Souls",
+      "url": "https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -7241,6 +7241,24 @@
     },
     {
       "album": {
+        "name": "Montagem Miau",
+        "url": "https://open.spotify.com/album/5xuRynu6hXiqcyThDDsosi"
+      },
+      "artists": [
+        {
+          "name": "Lenar",
+          "url": "https://open.spotify.com/artist/2QHpjaiPhG7uvtvjqEpU4E"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72727,
+      "name": "Montagem Miau",
+      "url": "https://open.spotify.com/track/4hfzUjG7A5fsr0xoMfdxMA"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
       },
@@ -9138,6 +9156,10 @@
         {
           "name": "Peipper",
           "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
         }
       ],
       "date_added": "2025-11-17",

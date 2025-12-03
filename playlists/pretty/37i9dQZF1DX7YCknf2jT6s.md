@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Snarky Puppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,113 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,099 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 31 | [My Life Matters](https://open.spotify.com/track/399lk3KeNdL1DUOpGF1Lky) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [My Life Matters](https://open.spotify.com/album/2xBXyOee7dECjSo657sXeL) | 6:23 |
 | 32 | [Yèkèrmo Sèw](https://open.spotify.com/track/0oFChZRso5GydtIoSCv9Kz) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Mulatu Plays Mulatu](https://open.spotify.com/album/7p6BngLDdLeAeY38yptAjc) | 8:03 |
 | 33 | [Take Off Your Cool](https://open.spotify.com/track/0Ysimq1w9pwerOtGekE76i) | [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Take Off Your Cool](https://open.spotify.com/album/4cIqn29NG2sXYtANxx5LSJ) | 7:27 |
-| 34 | [Form Before Meaning](https://open.spotify.com/track/5DKtPVzFRrmsVolwXZDhXL) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV), [Gene Coye](https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb), [Jermaine Paul](https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21) | [Form Before Meaning](https://open.spotify.com/album/0NE3QVSyVw1gV1z5BwWK2j) | 3:44 |
+| 34 | [Form Before Meaning](https://open.spotify.com/track/5DKtPVzFRrmsVolwXZDhXL) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV), [Gene Coye](https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb), [Jermaine Paul](https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21), [Jose Miguel Perez](https://open.spotify.com/artist/5GX31EnMcvTzsIJ0SSXlzR) | [Form Before Meaning](https://open.spotify.com/album/0NE3QVSyVw1gV1z5BwWK2j) | 3:44 |
 | 35 | [UNDEFEATED](https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [LIVE\-ACTION](https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3) | 3:22 |
 | 36 | [La Ceiba](https://open.spotify.com/track/5rAMwNK5oJZcKqqu0BULfw) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [La Ceiba](https://open.spotify.com/album/6RKS8cbzRc6h6mTcso9FQI) | 6:06 |
 | 37 | [The Lamb of Funk](https://open.spotify.com/track/3nAQuS0nT4yJKM801NhFjv) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Horn House](https://open.spotify.com/artist/5HMo9VXm5R91AzkQBqNrlu) | [The Lamb of Funk](https://open.spotify.com/album/4NWSHJOuVlCcjjHAgpcLRd) | 5:00 |

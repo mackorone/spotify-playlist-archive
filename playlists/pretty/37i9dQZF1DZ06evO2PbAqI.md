@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PbAqI.md) - [plain]
 
 > This is Lacuna Coil\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,575 likes - 48 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,578 likes - 48 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PbAqI.md) - [plain]
 | 29 | [Falling Again](https://open.spotify.com/track/1M3h1uXXNSG5wAjErb1Y15) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [In a Reverie](https://open.spotify.com/album/3OGMfNOHgqT5KQeOrESXbG) | 5:07 |
 | 30 | [Apocalypse](https://open.spotify.com/track/49aRzdu6ITEHbWbLQaXTzi) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 4:17 |
 | 31 | [Daylight Dancer](https://open.spotify.com/track/4EnbEcYpoGQAIGNLaZa4Nn) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies](https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN) | 3:50 |
-| 32 | [Within Me](https://open.spotify.com/track/23iFER67b8UKCW67hQTJOs) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 3:38 |
-| 33 | [Downfall](https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Delirium](https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs) | 4:21 |
+| 32 | [Downfall](https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Delirium](https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs) | 4:21 |
+| 33 | [Within Me](https://open.spotify.com/track/23iFER67b8UKCW67hQTJOs) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 3:38 |
 | 34 | [Save Me](https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 4:36 |
 | 35 | [Unspoken](https://open.spotify.com/track/3RaxN3FA8bvtjHPBEaDnID) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies](https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN) | 3:37 |
 | 36 | [Heaven's a Lie XX](https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 4:07 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PbAqI.md) - [plain]
 | 47 | [Entwined XX](https://open.spotify.com/track/5OpNtpewQJsLhyM11ZiyfC) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 3:51 |
 | 48 | [Stars](https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [The Eps\- Lacuna Coil/halflife](https://open.spotify.com/album/4pPjBhZFubAGdhIVTSj8VG) | 4:41 |
 
-Snapshot ID: `aSuJAAAAAACywVsR1OG0cwWTbnCJ7S2L`
+Snapshot ID: `aSzagAAAAACDPNP75FfTtQnnF618AP7J`

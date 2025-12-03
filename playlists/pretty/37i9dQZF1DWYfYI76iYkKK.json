@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130437,
+  "num_followers": 130446,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -419,38 +419,6 @@
     {
       "added_at": "2025-11-27 16:00:18",
       "album": {
-        "name": "If Only...",
-        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
-      },
-      "artists": [
-        {
-          "name": "\u00d8ZI",
-          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
-        }
-      ],
-      "duration_ms": 187369,
-      "name": "If Only...",
-      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
-    },
-    {
-      "added_at": "2025-11-27 16:00:18",
-      "album": {
-        "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
-        "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 349541,
-      "name": "\u82ac\u862d\u8ddd\u96e2",
-      "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
-    },
-    {
-      "added_at": "2025-11-27 16:00:18",
-      "album": {
         "name": "\u4e00\u8d77\u6d6a\u8cbb\u6642\u5149\u7684\u5b89\u5168\u611f",
         "url": "https://open.spotify.com/album/1ekFKiOOaXT1za6Ef7HYJS"
       },
@@ -463,6 +431,38 @@
       "duration_ms": 208000,
       "name": "\u4e00\u8d77\u6d6a\u8cbb\u6642\u5149\u7684\u5b89\u5168\u611f",
       "url": "https://open.spotify.com/track/5yS3QUbj5ukfTVETtGmyGJ"
+    },
+    {
+      "added_at": "2025-11-27 16:00:18",
+      "album": {
+        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
+        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 260958,
+      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
+      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
+    },
+    {
+      "added_at": "2025-11-27 16:00:18",
+      "album": {
+        "name": "If Only...",
+        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "duration_ms": 187369,
+      "name": "If Only...",
+      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
     },
     {
       "added_at": "2025-11-27 16:00:18",
@@ -519,8 +519,8 @@
     {
       "added_at": "2025-11-27 16:00:18",
       "album": {
-        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
-        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
+        "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
+        "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
       },
       "artists": [
         {
@@ -528,25 +528,25 @@
           "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
         }
       ],
-      "duration_ms": 260958,
-      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
-      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
+      "duration_ms": 349541,
+      "name": "\u82ac\u862d\u8ddd\u96e2",
+      "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
     },
     {
       "added_at": "2025-11-27 16:00:18",
       "album": {
-        "name": "Miserable",
-        "url": "https://open.spotify.com/album/4207P6ZEsU5nqCCHRhBUcA"
+        "name": "\u611b\u7684\u5c0d\u767d",
+        "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
       },
       "artists": [
         {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
         }
       ],
-      "duration_ms": 193693,
-      "name": "Miserable",
-      "url": "https://open.spotify.com/track/2hRVNcJYwOHEXZJPMJUuEz"
+      "duration_ms": 185077,
+      "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
+      "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
     },
     {
       "added_at": "2025-11-27 16:00:18",
@@ -567,18 +567,18 @@
     {
       "added_at": "2025-11-27 16:00:18",
       "album": {
-        "name": "\u611b\u7684\u5c0d\u767d",
-        "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
+        "name": "Miserable",
+        "url": "https://open.spotify.com/album/4207P6ZEsU5nqCCHRhBUcA"
       },
       "artists": [
         {
-          "name": "The Chairs",
-          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
         }
       ],
-      "duration_ms": 185077,
-      "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
-      "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
+      "duration_ms": 193693,
+      "name": "Miserable",
+      "url": "https://open.spotify.com/track/2hRVNcJYwOHEXZJPMJUuEz"
     },
     {
       "added_at": "2025-11-27 16:00:18",

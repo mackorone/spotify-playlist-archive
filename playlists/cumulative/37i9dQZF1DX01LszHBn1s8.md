@@ -4,7 +4,7 @@
 
 > Julia you are an absolute ICON
 
-1,649 songs - 3 day 14 hr 56 min
+1,650 songs - 3 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-04-17 | 2025-01-08 |
 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 | 2022-07-04 | 2025-01-08 |
 | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc) | 3:10 | 2024-04-04 | 2025-01-08 |
+| [Fernando](https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:12 | 2025-12-02 |  |
 | [Ferrari Horses](https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Blue Print – Us Vs\. Them](https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX) | 3:45 | 2023-07-21 | 2025-01-08 |
 | [FIESTA](https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [FIESTA](https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog) | 2:07 | 2025-01-20 |  |
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-05-19 | 2025-01-08 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Elsy Wameyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,162 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,160 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/track/6yeGECrisgtHSWaYDZBA7h) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Stone II](https://open.spotify.com/artist/4WIa7bwGO6UbJGOa3dYy9H) | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/album/15NNhrMTBtpPI9hSSa3TFV) | 2:18 |
+| 1 | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/track/6yeGECrisgtHSWaYDZBA7h) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [Stone II](https://open.spotify.com/artist/4WIa7bwGO6UbJGOa3dYy9H) | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/album/15NNhrMTBtpPI9hSSa3TFV) | 2:18 |
 | 2 | [She Will \(with Day1\)](https://open.spotify.com/track/17CgN1wfpepyTOyVviHS6L) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [She Will \(with Day1\)](https://open.spotify.com/album/4s3oBsSVqaIkNLvSrts2Ob) | 3:44 |
 | 3 | [CRASH OUT](https://open.spotify.com/track/5g0joA89W8BZMNNOeZQo57) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [WAMEYO](https://open.spotify.com/album/50PbsZcJA7h3IvcpTDVRTU) | 2:23 |
 | 4 | [Nights Like This](https://open.spotify.com/track/21bkT5EFIpmYajZKygqbya) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Nights Like This](https://open.spotify.com/album/2utoJLRx2rzYOmoYjXf8fi) | 2:09 |

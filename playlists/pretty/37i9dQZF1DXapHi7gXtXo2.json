@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 92173,
+  "num_followers": 92184,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "La Mexicana - Single",
         "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 193206,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -503,22 +503,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+        "name": "El Momento Perfecto",
+        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
       },
       "artists": [
         {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 183813,
-      "name": "Nagano",
-      "url": "https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW"
+      "duration_ms": 201661,
+      "name": "El Momento Perfecto",
+      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -543,6 +539,26 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Nagano",
+      "url": "https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "c\u00f3mo acaba",
         "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 224337,
       "name": "c\u00f3mo acaba",
       "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "El Momento Perfecto",
-        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 201661,
-      "name": "El Momento Perfecto",
-      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 264250,
+      "name": "Bandido - En Vivo",
+      "url": "https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Todo Estaba Bien",
         "url": "https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 227375,
       "name": "Hasta Que Llegue El Verano",
       "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "En Vivo en el Gran Rex",
-        "url": "https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 264250,
-      "name": "Bandido - En Vivo",
-      "url": "https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+        "name": "Pura Casualidad",
+        "url": "https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
+      "duration_ms": 277573,
+      "name": "La Declaraci\u00f3n",
+      "url": "https://open.spotify.com/track/0iTBcOPQPO2K49vnmZYZe6"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Pura Casualidad",
-        "url": "https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a"
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
         }
       ],
-      "duration_ms": 277573,
-      "name": "La Declaraci\u00f3n",
-      "url": "https://open.spotify.com/track/0iTBcOPQPO2K49vnmZYZe6"
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -891,22 +891,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Musikita del Cielo",
-        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
+        "name": "Quiero Que Me Llames - Single",
+        "url": "https://open.spotify.com/album/4v6mDMydcXb3vp69Jw6yta"
       },
       "artists": [
         {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Musikita del Cielo",
-      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+      "duration_ms": 257567,
+      "name": "Quiero Que Me Llames",
+      "url": "https://open.spotify.com/track/0iSKxxyKD0Qig0xXMNLDfF"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -927,18 +923,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Quiero Que Me Llames - Single",
-        "url": "https://open.spotify.com/album/4v6mDMydcXb3vp69Jw6yta"
+        "name": "Musikita del Cielo",
+        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
       "artists": [
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
         }
       ],
-      "duration_ms": 257567,
-      "name": "Quiero Que Me Llames",
-      "url": "https://open.spotify.com/track/0iSKxxyKD0Qig0xXMNLDfF"
+      "duration_ms": 180500,
+      "name": "Musikita del Cielo",
+      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "T\u00c1",
-        "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Ana Mar\u00eda",
-      "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/0EeRsz6rD97ujvUvtvdCF6"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 234113,
       "name": "You",
       "url": "https://open.spotify.com/track/76p149xwpgu1LkSmYKfqeI"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "T\u00c1",
+        "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Ana Mar\u00eda",
+      "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Me da igual",
+        "url": "https://open.spotify.com/album/3HIPYDTugzWUO0IIJ2lRzV"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        },
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "duration_ms": 145882,
+      "name": "Me da igual",
+      "url": "https://open.spotify.com/track/5tKX6GZWGhMomV6H4xLIQf"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Lo que fuera",
         "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Me da igual",
-        "url": "https://open.spotify.com/album/3HIPYDTugzWUO0IIJ2lRzV"
-      },
-      "artists": [
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        },
-        {
-          "name": "Jaze",
-          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
-        }
-      ],
-      "duration_ms": 145882,
-      "name": "Me da igual",
-      "url": "https://open.spotify.com/track/5tKX6GZWGhMomV6H4xLIQf"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Historia de un Amor",
-        "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        },
-        {
-          "name": "Denas & Miut",
-          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 187514,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Historia de un Amor",
+        "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        },
+        {
+          "name": "Denas & Miut",
+          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/4Gf0hePwvQJ6WfesWheCDv"
+      },
+      "artists": [
+        {
+          "name": "J\u00fapiter en Casa",
+          "url": "https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/3uFUFTdWpuBDyHV8PpL6aV"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Primer Recreo",
         "url": "https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 235682,
       "name": "Primer Recreo",
       "url": "https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Casi Algo",
-        "url": "https://open.spotify.com/album/4Gf0hePwvQJ6WfesWheCDv"
-      },
-      "artists": [
-        {
-          "name": "J\u00fapiter en Casa",
-          "url": "https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd"
-        }
-      ],
-      "duration_ms": 201187,
-      "name": "Casi Algo",
-      "url": "https://open.spotify.com/track/3uFUFTdWpuBDyHV8PpL6aV"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Oler A Ti",
-        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Oler A Ti",
-      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Piel",
         "url": "https://open.spotify.com/album/22zFtS2ipuNixDofMq176B"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 243560,
       "name": "Llueve Sobre Mojado",
       "url": "https://open.spotify.com/track/7AbXvFA3CC6sA7t1wlwApo"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Oler A Ti",
+        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "Oler A Ti",
+      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
     },
     {
       "added_at": "2024-09-20 03:00:00",

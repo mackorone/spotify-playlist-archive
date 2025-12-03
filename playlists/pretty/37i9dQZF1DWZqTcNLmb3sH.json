@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : 45",
-  "num_followers": 66010,
+  "num_followers": 66016,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALebS+hHb8GNf4XWajCxPow+p+g1",
+  "snapshot_id": "AAAAAKg4aPxzJFS5eAAUr24Q8tvCop1F",
   "tracks": [
     {
       "added_at": "2025-12-01 06:47:42",
@@ -83,6 +83,30 @@
       "duration_ms": 220909,
       "name": "Madana Mana Mohini",
       "url": "https://open.spotify.com/track/5bb0ZYVXHqc2KMRMoGlXka"
+    },
+    {
+      "added_at": "2025-12-02 07:09:25",
+      "album": {
+        "name": "Shringara Siriye (From \"Draupathi - 2\") - Kannada",
+        "url": "https://open.spotify.com/album/2LMaq08TQPxUNme3KL6kCR"
+      },
+      "artists": [
+        {
+          "name": "Padmalatha",
+          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
+        },
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Thanmay S Anandkumar",
+          "url": "https://open.spotify.com/artist/3Yk5o4cXuaffN26Ms51pwD"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Shringara Siriye (From \"Draupathi - 2\")",
+      "url": "https://open.spotify.com/track/2tivCBqGYuf8dTtw2b2ZVd"
     },
     {
       "added_at": "2025-12-01 06:51:37",
@@ -1599,30 +1623,6 @@
       "duration_ms": 253999,
       "name": "Yede Olagade (From \"Bili Chukki Halli Hakki\")",
       "url": "https://open.spotify.com/track/0QxS7R1ZnWrJHZU4vN6Lc7"
-    },
-    {
-      "added_at": "2025-10-23 10:20:40",
-      "album": {
-        "name": "Barutide Aluvu (From \"Love You Muddu\")",
-        "url": "https://open.spotify.com/album/4HfUGJVS8I1tT8cPKuk0y7"
-      },
-      "artists": [
-        {
-          "name": "Jaskaran Singh",
-          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
-        },
-        {
-          "name": "Arav Rishik",
-          "url": "https://open.spotify.com/artist/2pptUL6I2TefhaXsMGwTQr"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 294570,
-      "name": "Barutide Aluvu (From \"Love You Muddu\")",
-      "url": "https://open.spotify.com/track/0K8WsQeduXHCATGLl9sht9"
     },
     {
       "added_at": "2025-10-06 12:06:29",

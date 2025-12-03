@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 625354,
+  "num_followers": 625575,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAC5i1Teu6NDxc/LGGm77Jrx",
+  "snapshot_id": "aSzagAAAAABR/qqAW8jhIZnK6qraMgTv",
   "tracks": [
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 161799,
-      "name": "Motorcycle Drive By",
-      "url": "https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x"
+      "duration_ms": 211739,
+      "name": "Oklahoma Smokeshow",
+      "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 211739,
-      "name": "Oklahoma Smokeshow",
-      "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
+      "duration_ms": 161799,
+      "name": "Motorcycle Drive By",
+      "url": "https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 185520,
-      "name": "The Way Back",
-      "url": "https://open.spotify.com/track/6aPY5G8JEQJtgpaIMyElNX"
+      "duration_ms": 239761,
+      "name": "Letting Someone Go",
+      "url": "https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj"
     },
     {
       "added_at": null,
@@ -571,6 +571,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 185520,
+      "name": "The Way Back",
+      "url": "https://open.spotify.com/track/6aPY5G8JEQJtgpaIMyElNX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DeAnn",
         "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
       },
@@ -580,9 +612,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 239761,
-      "name": "Letting Someone Go",
-      "url": "https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj"
+      "duration_ms": 174673,
+      "name": "Condemned",
+      "url": "https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p"
     },
     {
       "added_at": null,
@@ -623,38 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Road",
-        "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "High Road",
-      "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DeAnn",
-        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 174673,
-      "name": "Condemned",
-      "url": "https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Heartbreak",
         "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
       },
@@ -671,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're Onto Something (feat. Zach Bryan)",
-        "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
       },
       "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        },
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 222721,
-      "name": "We're Onto Something (feat. Zach Bryan)",
-      "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
+      "duration_ms": 253359,
+      "name": "God Speed",
+      "url": "https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f"
     },
     {
       "added_at": null,
@@ -707,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DeAnn",
-        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+        "name": "We're Onto Something (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
       },
       "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        },
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 253359,
-      "name": "God Speed",
-      "url": "https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f"
+      "duration_ms": 222721,
+      "name": "We're Onto Something (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
     },
     {
       "added_at": null,

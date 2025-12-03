@@ -4,7 +4,7 @@
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 3 min
+63 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,9 @@
 | [Mirror Talk](https://open.spotify.com/track/6VBoEu64cDeRDE6f60XPts) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 4:07 | 2022-09-16 | 2023-12-26 |
 | [New Emotion](https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:26 | 2022-09-25 |  |
 | [Outside of Love](https://open.spotify.com/track/1igt3E8ffAckDkdREZ12HB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8) | 4:06 | 2023-12-23 | 2025-05-26 |
-| [Outside of Love](https://open.spotify.com/track/3pjKdEZS8xho0ywMko6NpS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS) | 4:06 | 2025-05-26 |  |
+| [Outside of Love](https://open.spotify.com/track/3pjKdEZS8xho0ywMko6NpS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS) | 4:06 | 2025-05-26 | 2025-12-03 |
 | [Outside of Love](https://open.spotify.com/track/4pvuxa2b2V6ArNi8qBHRKH) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 4:06 | 2022-09-16 | 2023-12-24 |
+| [Outside of Love \(Remastered\)](https://open.spotify.com/track/1rBuKBRo2euDWbzv6JBnrd) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed \(2025 Remaster\)](https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH) | 4:06 | 2025-12-03 |  |
 | [Paloma a.k.a\. Ketamine](https://open.spotify.com/track/5w5M2EGtS9F4yqdpNWiWTS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love \(Deluxe\)](https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7) | 5:28 | 2024-11-01 | 2025-05-15 |
 | [Silverspoon](https://open.spotify.com/track/16hoFpn4UinRTtqCD0iSIt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:42 | 2022-09-16 |  |
 | [Slide Away](https://open.spotify.com/track/1hhkgFC178vWe1xBS23tj9) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 4:07 | 2023-04-21 | 2023-12-23 |

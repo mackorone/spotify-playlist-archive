@@ -1,12 +1,12 @@
 {
   "description": "This is John Rutter. The essential tracks, all in one playlist.",
-  "num_followers": 4592,
+  "num_followers": 4594,
   "original_name": "This Is John Rutter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAAl87saeSvW/0JbPLYI4Okp",
+  "snapshot_id": "aSzagAAAAACBLpuwiE6wIu7sXx2WrIFh",
   "tracks": [
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "John Rutter: Magnificat",
-        "url": "https://open.spotify.com/album/4iKRav6EeD8tJ5WVuCtTVj"
+        "name": "I Sing of a Maiden: 5 New Carols by John Rutter",
+        "url": "https://open.spotify.com/album/42XUcHpltMppDT9wHBcHZh"
       },
       "artists": [
         {
@@ -320,21 +320,17 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         },
         {
-          "name": "Patricia Forbes",
-          "url": "https://open.spotify.com/artist/5LopB2Pull3ZlzrVrKzzzS"
-        },
-        {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        },
-        {
           "name": "The Cambridge Singers",
           "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
-      "duration_ms": 382000,
-      "name": "Magnificat: VI. Esurientes",
-      "url": "https://open.spotify.com/track/5xKwXfP8ZDt6uBR13HAfTw"
+      "duration_ms": 281413,
+      "name": "Christ Our Emmanuel",
+      "url": "https://open.spotify.com/track/6TqPdqRtI6HVpwP3bflEQm"
     },
     {
       "added_at": null,
@@ -363,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Sing of a Maiden: 5 New Carols by John Rutter",
-        "url": "https://open.spotify.com/album/42XUcHpltMppDT9wHBcHZh"
+        "name": "John Rutter: Magnificat",
+        "url": "https://open.spotify.com/album/4iKRav6EeD8tJ5WVuCtTVj"
       },
       "artists": [
         {
@@ -372,17 +368,21 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         },
         {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+          "name": "Patricia Forbes",
+          "url": "https://open.spotify.com/artist/5LopB2Pull3ZlzrVrKzzzS"
         },
         {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
         }
       ],
-      "duration_ms": 281413,
-      "name": "Christ Our Emmanuel",
-      "url": "https://open.spotify.com/track/6TqPdqRtI6HVpwP3bflEQm"
+      "duration_ms": 382000,
+      "name": "Magnificat: VI. Esurientes",
+      "url": "https://open.spotify.com/track/5xKwXfP8ZDt6uBR13HAfTw"
     },
     {
       "added_at": null,
@@ -519,6 +519,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rutter: The Gift of Life",
+        "url": "https://open.spotify.com/album/3V0GhcBuBbhGFAuSOEGM0E"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "duration_ms": 379680,
+      "name": "The Gift of Life: No. 2, The Tree of Life",
+      "url": "https://open.spotify.com/track/0lQptRsY9U4asQGeIx8Nps"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sacred Flame",
         "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
       },
@@ -543,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rutter: The Gift of Life",
-        "url": "https://open.spotify.com/album/3V0GhcBuBbhGFAuSOEGM0E"
+        "name": "Uplifting and Motivational Music from John Rutter & The Cambridge Singers (Compilation)",
+        "url": "https://open.spotify.com/album/0uvtifK8oaiRoGTdCAxWzJ"
       },
       "artists": [
         {
@@ -552,17 +576,33 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         },
         {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+          "name": "Manchester Camerata",
+          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
+        }
+      ],
+      "duration_ms": 200320,
+      "name": "II. Mouvement de menuet",
+      "url": "https://open.spotify.com/track/33fP9Xj4n83YSagrCufBBN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Thou My Vision: Sacred Music by John Rutter",
+        "url": "https://open.spotify.com/album/32wnph2659J6VtOnw1eRUb"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         },
         {
           "name": "The Cambridge Singers",
           "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
         }
       ],
-      "duration_ms": 379680,
-      "name": "The Gift of Life: No. 2, The Tree of Life",
-      "url": "https://open.spotify.com/track/0lQptRsY9U4asQGeIx8Nps"
+      "duration_ms": 93813,
+      "name": "God Be in My Head",
+      "url": "https://open.spotify.com/track/6zqkc655uSaFQ0yXLERvdN"
     },
     {
       "added_at": null,
@@ -591,46 +631,6 @@
       "duration_ms": 187173,
       "name": "III. Aria",
       "url": "https://open.spotify.com/track/2E4XGXmyO40a3SJGLWX8f7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Thou My Vision: Sacred Music by John Rutter",
-        "url": "https://open.spotify.com/album/32wnph2659J6VtOnw1eRUb"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        }
-      ],
-      "duration_ms": 93813,
-      "name": "God Be in My Head",
-      "url": "https://open.spotify.com/track/6zqkc655uSaFQ0yXLERvdN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uplifting and Motivational Music from John Rutter & The Cambridge Singers (Compilation)",
-        "url": "https://open.spotify.com/album/0uvtifK8oaiRoGTdCAxWzJ"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Manchester Camerata",
-          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
-        }
-      ],
-      "duration_ms": 200320,
-      "name": "II. Mouvement de menuet",
-      "url": "https://open.spotify.com/track/33fP9Xj4n83YSagrCufBBN"
     },
     {
       "added_at": null,
@@ -667,30 +667,6 @@
       "duration_ms": 188426,
       "name": "Requiem in D Minor, Op. 48: III. Sanctus",
       "url": "https://open.spotify.com/track/69Vv9R3pQUli6Blios34An"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/79lSyMEsDaVh0FAYVd3zaU"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Catrin Finch",
-          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
-        },
-        {
-          "name": "Sinfonia Cymru",
-          "url": "https://open.spotify.com/artist/4fjDHPOfJUzvIULX45w1ph"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Suite Lyrique: 5. Chanson",
-      "url": "https://open.spotify.com/track/4E9E8asqYXAqQRHsZHRk5H"
     },
     {
       "added_at": null,
@@ -743,6 +719,30 @@
       "duration_ms": 203268,
       "name": "Es ist ein Ros' entsprungen (Arr. J. Rutter for Oboe & Choir)",
       "url": "https://open.spotify.com/track/79laV7Zw4MjW0N5xatLytE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/79lSyMEsDaVh0FAYVd3zaU"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Catrin Finch",
+          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
+        },
+        {
+          "name": "Sinfonia Cymru",
+          "url": "https://open.spotify.com/artist/4fjDHPOfJUzvIULX45w1ph"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Suite Lyrique: 5. Chanson",
+      "url": "https://open.spotify.com/track/4E9E8asqYXAqQRHsZHRk5H"
     },
     {
       "added_at": null,
@@ -836,8 +836,8 @@
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
           "name": "John Rutter",
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Semele, HWV 58: Where'er You Walk (Arr. for Oboe & Orchestra by John Rutter)",
-      "url": "https://open.spotify.com/track/2uCRmii1YTP4RFfxPOLsyn"
+      "duration_ms": 228000,
+      "name": "Symphonic Dances, Op. 64: II. Allegretto grazioso (Arr. for Orchestra by John Rutter)",
+      "url": "https://open.spotify.com/track/04i7RcVg5iYUvLqwl9Ochx"
     },
     {
       "added_at": null,
@@ -932,8 +932,8 @@
       },
       "artists": [
         {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
           "name": "John Rutter",
@@ -944,29 +944,33 @@
           "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Symphonic Dances, Op. 64: II. Allegretto grazioso (Arr. for Orchestra by John Rutter)",
-      "url": "https://open.spotify.com/track/04i7RcVg5iYUvLqwl9Ochx"
+      "duration_ms": 253920,
+      "name": "Semele, HWV 58: Where'er You Walk (Arr. for Oboe & Orchestra by John Rutter)",
+      "url": "https://open.spotify.com/track/2uCRmii1YTP4RFfxPOLsyn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5FWja8h4pTS53gFlGbdNKj"
+        "name": "Hail! Queen of Heaven: Music in Honour of the Virgin Mary",
+        "url": "https://open.spotify.com/album/275TNJ2mHteWAbajjhvPQl"
       },
       "artists": [
         {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+          "name": "Tom\u00e1s Luis de Victoria",
+          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
         },
         {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         }
       ],
-      "duration_ms": 222746,
-      "name": "4 Miniatures for Orchestra: No. 1, Introduction \u2013 No. 2, Chanson Triste",
-      "url": "https://open.spotify.com/track/0CSq1sWh7AVvlDcBRygG6i"
+      "duration_ms": 112640,
+      "name": "Ave Maria for 4 Voices",
+      "url": "https://open.spotify.com/track/6H5eEQ5x8vmLUFGew1bFCn"
     },
     {
       "added_at": null,
@@ -995,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Praise the Lord of Heaven",
-        "url": "https://open.spotify.com/album/38RUFzsBXmE6PtkEm1hS3Q"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5FWja8h4pTS53gFlGbdNKj"
       },
       "artists": [
         {
@@ -1004,17 +1008,13 @@
           "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         },
         {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
-      "duration_ms": 186373,
-      "name": "The Peace of God",
-      "url": "https://open.spotify.com/track/18anoHiEknIEcN7KYydspy"
+      "duration_ms": 222746,
+      "name": "4 Miniatures for Orchestra: No. 1, Introduction \u2013 No. 2, Chanson Triste",
+      "url": "https://open.spotify.com/track/0CSq1sWh7AVvlDcBRygG6i"
     },
     {
       "added_at": null,
@@ -1043,26 +1043,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hail! Queen of Heaven: Music in Honour of the Virgin Mary",
-        "url": "https://open.spotify.com/album/275TNJ2mHteWAbajjhvPQl"
+        "name": "O Praise the Lord of Heaven",
+        "url": "https://open.spotify.com/album/38RUFzsBXmE6PtkEm1hS3Q"
       },
       "artists": [
         {
-          "name": "Tom\u00e1s Luis de Victoria",
-          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
         },
         {
           "name": "The Cambridge Singers",
           "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         }
       ],
-      "duration_ms": 112640,
-      "name": "Ave Maria for 4 Voices",
-      "url": "https://open.spotify.com/track/6H5eEQ5x8vmLUFGew1bFCn"
+      "duration_ms": 186373,
+      "name": "The Peace of God",
+      "url": "https://open.spotify.com/track/18anoHiEknIEcN7KYydspy"
     },
     {
       "added_at": null,
@@ -1147,30 +1147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is the Day: Music on Royal Occasions",
-        "url": "https://open.spotify.com/album/4wx1IdItffFBbmt7oCIFl8"
-      },
-      "artists": [
-        {
-          "name": "Maurice Durufl\u00e9",
-          "url": "https://open.spotify.com/artist/7Fph7U6qidZ2E97xKKsD4m"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        }
-      ],
-      "duration_ms": 150640,
-      "name": "4 Motets on Gregorian Themes, Op. 10: Ubi caritas",
-      "url": "https://open.spotify.com/track/4EoZ9BfM2C3sTXH7GzXcYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "John Rutter: Visions & Requiem",
         "url": "https://open.spotify.com/album/0kalIMUvEWtUkWBWuEN9Qc"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 310800,
       "name": "Requiem: VI. The Lord Is My Shepherd",
       "url": "https://open.spotify.com/track/45Dylmep9VwbqohpruPuJZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is the Day: Music on Royal Occasions",
+        "url": "https://open.spotify.com/album/4wx1IdItffFBbmt7oCIFl8"
+      },
+      "artists": [
+        {
+          "name": "Maurice Durufl\u00e9",
+          "url": "https://open.spotify.com/artist/7Fph7U6qidZ2E97xKKsD4m"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "duration_ms": 150640,
+      "name": "4 Motets on Gregorian Themes, Op. 10: Ubi caritas",
+      "url": "https://open.spotify.com/track/4EoZ9BfM2C3sTXH7GzXcYQ"
     },
     {
       "added_at": null,
@@ -1247,30 +1247,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is the Day: Music on Royal Occasions",
-        "url": "https://open.spotify.com/album/4wx1IdItffFBbmt7oCIFl8"
+        "name": "The Sacred Flame",
+        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
       },
       "artists": [
         {
-          "name": "Paul Mealor",
-          "url": "https://open.spotify.com/artist/18B9HFuIuZ5LOk8vWtaxsG"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
           "name": "The Cambridge Singers",
           "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
         },
         {
-          "name": "Alison Hill",
-          "url": "https://open.spotify.com/artist/6quJcoz9954ehm9CfHPaRA"
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         }
       ],
-      "duration_ms": 234413,
-      "name": "Ubi caritas",
-      "url": "https://open.spotify.com/track/1yo1OzdpMhpeLTbc9WpmoF"
+      "duration_ms": 116093,
+      "name": "Jesu dulcis memoria",
+      "url": "https://open.spotify.com/track/2uBGuyW7hmrwZNNTMFFhDS"
     }
   ],
   "unique_name": "This Is John Rutter",

@@ -4,7 +4,7 @@
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Tenth Sky
 
-915 songs - 1 day 18 hr 23 min
+919 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Estraneo](https://open.spotify.com/track/13Wmt3VHXrShqgB4uMlEjO) | [GrenBaud](https://open.spotify.com/artist/1WPIzvlZTvCY0A1LmN0LvS) | [Estraneo](https://open.spotify.com/album/4hL9eA22EURbXWfHXGdqvD) | 2:43 | 2023-03-30 | 2023-05-05 |
 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 | 2025-05-05 |  |
 | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 | 2023-10-12 | 2024-06-14 |
+| [FAHRENHEIT](https://open.spotify.com/track/110darbCtshA0nsu3eFjMD) | [opi](https://open.spotify.com/artist/2dApd5nlMJKpHGNUqWT1L2) | [FAHRENHEIT](https://open.spotify.com/album/14VRUcwKCDNdOfjNE3IhNG) | 2:28 | 2025-12-02 |  |
 | [Fammi capire](https://open.spotify.com/track/2vGTPYu3T8lrkcA2pCBRQ6) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [Fammi capire](https://open.spotify.com/album/4kRNlOJ8ZDQv43ec2QPFwm) | 2:18 | 2023-04-20 | 2023-06-09 |
 | [Fammi morire](https://open.spotify.com/track/1mqMoMzSTXzCFcJiCj1aPs) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Fammi morire](https://open.spotify.com/album/3Cg3jbGc848IssQcMO1Isy) | 2:08 | 2023-03-23 | 2023-06-30 |
 | [FANTASMA](https://open.spotify.com/track/1c0XKg0gts8BOyvwYcH3wa) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [MILLENNIUM BUG](https://open.spotify.com/album/4wHhG6HrDfmZGUQFezaWKn) | 2:47 | 2023-03-23 | 2023-04-07 |
@@ -478,6 +479,7 @@
 | [mayday](https://open.spotify.com/track/1rxBdwJnt5pZHXqzB4ssEH) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [mayday](https://open.spotify.com/album/3WtlhNKnPhYPpMdeEILB6H) | 2:18 | 2025-01-23 | 2025-05-30 |
 | [MEA CULPA](https://open.spotify.com/track/1kosPefIICGK418z9QvNCU) | [CLOUD](https://open.spotify.com/artist/48LmQaKF6ayCv2uuiOOZtn) | [MEA CULPA](https://open.spotify.com/album/5gCJLdIcmanjb8VhVbq5ad) | 2:37 | 2025-11-27 |  |
 | [Megapixel \- URANO](https://open.spotify.com/track/1lA9F7QGuekEPyZlPZbAo7) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Megapixel \- URANO](https://open.spotify.com/album/4nvmZ5EqjvSBiurFRFOSOl) | 2:50 | 2024-10-24 | 2024-11-29 |
+| [meglio](https://open.spotify.com/track/73Y49QNia7nGECpKs9OGt3) | [Valentina Pesaresi](https://open.spotify.com/artist/6v4Rakxd3SfpdMi578hedT) | [meglio](https://open.spotify.com/album/3vT4URB5DjgFzLO4iTVHXr) | 3:20 | 2025-12-02 |  |
 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 | 2024-05-23 | 2024-10-25 |
 | [Memoria](https://open.spotify.com/track/0t7ma0KT51EsaCOn9FsvdQ) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [Memoria](https://open.spotify.com/album/0UPio0CLycMesRHc81bl1t) | 2:42 | 2024-04-18 | 2024-05-10 |
 | [Menomale che c'è il mare](https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Gira, il mondo gira](https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap) | 2:53 | 2024-08-01 | 2024-10-25 |
@@ -623,6 +625,7 @@
 | [Per starci in due](https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Per starci in due](https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T) | 3:36 | 2023-03-23 | 2023-04-14 |
 | [PER UN ATTIMO CON TE](https://open.spotify.com/track/3sJ2hrFBrN63flykM0tmcI) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [illumina](https://open.spotify.com/album/6C4Z55VD6HIrw3xJoskfoa) | 2:36 | 2024-10-03 | 2025-01-10 |
 | [Perché?](https://open.spotify.com/track/5mQgkvtfhFCfmCaBf7q0t4) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Perché?](https://open.spotify.com/album/4Hmy4uGcFPhvlwyvXXvLGf) | 3:39 | 2024-11-14 | 2025-05-30 |
+| [Perdere Te](https://open.spotify.com/track/5rMMUDP7MAQd1hm4sC3a3o) | [plasma](https://open.spotify.com/artist/4ct6fFxYrQCgyveC8ILww4) | [Perdere Te](https://open.spotify.com/album/2ywmWJZJvo6zvwdyeauIjx) | 3:21 | 2025-12-02 |  |
 | [PERDONIAMOCI LO STESSO](https://open.spotify.com/track/47IkpRhL9DgMsDEvQ8Q8sF) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [PERDONIAMOCI LO STESSO](https://open.spotify.com/album/2EYUDEWk8OPvYVkojUQy08) | 3:11 | 2024-08-01 | 2024-10-08 |
 | [PERICOLOSA](https://open.spotify.com/track/7BRuJv2TVuoLynLYrZiixt) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [PERICOLOSA](https://open.spotify.com/album/6J6gRXvkikfaFRkASex0MG) | 2:40 | 2024-11-21 | 2025-06-20 |
 | [PERIFERIA](https://open.spotify.com/track/2A2hnGyNL6XAPzQdfB7BBY) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [PERIFERIA](https://open.spotify.com/album/47a1bfygUymRWWw3G7gdHF) | 2:44 | 2025-01-14 | 2025-03-07 |
@@ -654,6 +657,7 @@
 | [Poteva piovere](https://open.spotify.com/track/5V8uyik5T6uzBEuVfqsAPc) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Poteva piovere](https://open.spotify.com/album/1Yp5jcutprfBdOqqSoddV4) | 3:16 | 2024-10-10 | 2024-10-25 |
 | [POV](https://open.spotify.com/track/5mQFiACRHdBVugZX0QXwfS) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U), [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [POV](https://open.spotify.com/album/6QUuzX73hnDFPNXtsmoAAh) | 2:40 | 2023-09-21 | 2023-10-20 |
 | [PRENDIMI SUL SERIO](https://open.spotify.com/track/2YlLUCCb81p0ni1GMkgCxu) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [PRENDIMI SUL SERIO](https://open.spotify.com/album/78nO6ACHfr4wUeQ7CWTZM2) | 2:46 | 2025-01-09 | 2025-04-25 |
+| [PRIMA DI ADESSO](https://open.spotify.com/track/7hxQVhYkWekP3a0BtOGQtc) | [Riccardo Stimolo](https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW) | [PRIMA DI ADESSO](https://open.spotify.com/album/1PdQp7paqB1N11vt7Vw0yS) | 2:58 | 2025-12-02 |  |
 | [Primavera](https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Foglio rosa](https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7) | 2:19 | 2023-11-09 | 2023-11-24 |
 | [PRIMO AL MONDO](https://open.spotify.com/track/2mo05Hp6Vym4rLhwisNAh4) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [PRIMO AL MONDO](https://open.spotify.com/album/4x7hMG2FWRHEvI8bWnURB2) | 3:06 | 2024-03-28 | 2024-07-12 |
 | [primo caffè](https://open.spotify.com/track/7wTrLE2ltUPkSYJjCGSsQ4) | [Alessio Bernabei](https://open.spotify.com/artist/5h3q1B0hEjnq3BL8WYh9GE) | [primo caffè](https://open.spotify.com/album/2Z395ZTsq5vytTe74eSwsi) | 3:32 | 2025-10-23 |  |

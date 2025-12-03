@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,040 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,084 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 28 | [Battle](https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Lain](https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:00 |
 | 29 | [Just In Case \- Dub\-A\-Holics Roller's Revival Mix Edit](https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Summer Heat](https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH) | 3:39 |
 | 30 | [R U Sleeping \- Bump 'N' Flex Remix](https://open.spotify.com/track/1iNeRmlqIPPcxyCAuCOi3m) | [Indo](https://open.spotify.com/artist/4gt3u2InsxUukBFlEpri1l), [Bump N Flex](https://open.spotify.com/artist/0LvmNTiOy87XfAsYd1ubZp) | [R U Sleeping](https://open.spotify.com/album/2nRTDFUgW236bepQTOA5ST) | 5:04 |
-| 31 | [Love Shy \- Club Asylum Remix](https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 3:41 |
-| 32 | [Freak Like Me \- Dome's Peak Freak Remix](https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2) | [Dub Conspiracy](https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r), [Tru Faith](https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9), [Dome](https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe) | [Freak Like Me](https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE) | 4:52 |
+| 31 | [Freak Like Me \- Dome's Peak Freak Remix](https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2) | [Dub Conspiracy](https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r), [Tru Faith](https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9), [Dome](https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe) | [Freak Like Me](https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE) | 4:52 |
+| 32 | [Love Shy \- Club Asylum Remix](https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 3:41 |
 | 33 | [Poision](https://open.spotify.com/track/03vwrapDLyriXEYpM1GJPj) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [Scott Garcia](https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b), [Shy Cookie](https://open.spotify.com/artist/65wWCNrpeb8t3A6707RG5B) | [Poision](https://open.spotify.com/album/5hZRHbGRokvmSvRFsEdLGL) | 5:05 |
 | 34 | [I Don't Smoke \- Original Mix](https://open.spotify.com/track/1DQTqy12WHN9drwf0X8YK8) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7) | [I Don't Smoke \('09 Mixes\)](https://open.spotify.com/album/6UGLROryBo6NVifmOHbMJ7) | 6:02 |
 | 35 | [Sometimes It Snows in April \- Dreem House Dub Radio Edit](https://open.spotify.com/track/3nIWuSwR8iIyew22d6mICJ) | [Amar](https://open.spotify.com/artist/6QdjZOuApe5DjregmD5BLj) | [Sometimes It Snows In April](https://open.spotify.com/album/5b7XYJnXatCeqBBRNlBPuO) | 3:52 |

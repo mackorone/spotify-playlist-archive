@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Ambré
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,622 likes - 200 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,629 likes - 200 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 44 | [Sticky Situation](https://open.spotify.com/track/7qlcQJxJHg9qC1Trq93rPA) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY) | [Sticky Situation](https://open.spotify.com/album/3ctrcjfWHqOwznaFMW2VsM) | 3:00 |
 | 45 | [to see thru closed eyes](https://open.spotify.com/track/5zXBf7bGyDM4TnWNTjMCfi) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [to see thru closed eyes](https://open.spotify.com/album/2r1gIPuzPCvtd4sURMPYS9) | 2:15 |
 | 46 | [Hold You](https://open.spotify.com/track/0X5obnBCTtXdhJgTwuJ1L5) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Hold You](https://open.spotify.com/album/7spbRt9SqbU9ixAhhTGMyW) | 3:05 |
-| 47 | [Feels Like Love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Feels Like Love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
+| 47 | [feels like love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [feels like love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
 | 48 | [HELP!](https://open.spotify.com/track/1BZ2dzj1jFu9BWeXvCkZqu) | [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [HELP!](https://open.spotify.com/album/7FZjGkrGPiNbVtcjN7Homm) | 2:14 |
 | 49 | [Selfish](https://open.spotify.com/track/3atiB68n62bmcq0fnlbdmm) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Selfish](https://open.spotify.com/album/3lyA3MranKUKjR0v8ZgW8O) | 3:46 |
 | 50 | [AGLM](https://open.spotify.com/track/4bkcRS9NDHpuq62ADQ8QKC) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [A Girl Like Me](https://open.spotify.com/album/2ZliVIQ7bqON4tAM5KdcqZ) | 2:17 |

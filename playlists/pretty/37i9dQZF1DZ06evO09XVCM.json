@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34790,
+  "num_followers": 34792,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAAQ+l1AjoK/YQYs5M+J18Zs",
+  "snapshot_id": "aSzagAAAAADBlzxlI+VPFcvu0LjBNnFM",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surfers Paradise (Expanded)",
-        "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "#7DJ (7 D\u00edas En Jamaica)",
         "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
       },
@@ -283,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+        "name": "Surfers Paradise (Expanded)",
+        "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
       },
       "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Looking",
-      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
+      "duration_ms": 190586,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe"
     },
     {
       "added_at": null,
@@ -319,6 +303,22 @@
       "duration_ms": 261556,
       "name": "Am\u00e9rica Vibra",
       "url": "https://open.spotify.com/track/3RZtzSdjGLrETsnm2JVqMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Looking",
+      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "Good Ol' Days (featuring Cedella Marley)",
-      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jake & Friends",
         "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Good Ol' Days (featuring Cedella Marley)",
+      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
         "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
       },
@@ -407,6 +407,30 @@
       "duration_ms": 359923,
       "name": "Top Rankin'/We And Dem - Live",
       "url": "https://open.spotify.com/track/1r9uYdbKiB4MGTa5AoOK6p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
+        "url": "https://open.spotify.com/album/2uKjJJ1dRu5ovo9PajxnPf"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        }
+      ],
+      "duration_ms": 270386,
+      "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
+      "url": "https://open.spotify.com/track/1sCfYZLKuW5OJ5AZQxIgj8"
     },
     {
       "added_at": null,
@@ -447,30 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
-        "url": "https://open.spotify.com/album/2uKjJJ1dRu5ovo9PajxnPf"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        }
-      ],
-      "duration_ms": 270386,
-      "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
-      "url": "https://open.spotify.com/track/1sCfYZLKuW5OJ5AZQxIgj8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
         "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "Never Deny You",
-      "url": "https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild and Free",
         "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 294106,
       "name": "Personal Revolution",
       "url": "https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "Never Deny You",
+      "url": "https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S"
     },
     {
       "added_at": null,

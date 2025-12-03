@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACnMgUzCyTmqBuSrwPjuAkP",
+  "snapshot_id": "aSzagAAAAACT8gDXLMb1SdAJ90lRDIbK",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "(No Existen) T\u00e9cnicas para Olvidar",
-        "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Cu\u00e9ntame",
-      "url": "https://open.spotify.com/track/76KLnsqCiFEFTEQp2Vaf8R"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 275826,
       "name": "Un Vino, Una Cerveza",
       "url": "https://open.spotify.com/track/5Q2J37xbIR60z6ifswoGKe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(No Existen) T\u00e9cnicas para Olvidar",
+        "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/76KLnsqCiFEFTEQp2Vaf8R"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(No Existen) T\u00e9cnicas para Olvidar",
-        "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 233040,
-      "name": "No Pens\u00e9 Que Era Amor",
-      "url": "https://open.spotify.com/track/7jXYUkQiz302VHuZjmMuyI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Degeneracion Actual",
         "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 316026,
       "name": "Degeneraci\u00f3n Actual",
       "url": "https://open.spotify.com/track/58t9Q8VqXGhaqtilMkIkRx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(No Existen) T\u00e9cnicas para Olvidar",
+        "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 233040,
+      "name": "No Pens\u00e9 Que Era Amor",
+      "url": "https://open.spotify.com/track/7jXYUkQiz302VHuZjmMuyI"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(No Existen) T\u00e9cnicas para Olvidar",
-        "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Si Escuchas a un Angel",
-      "url": "https://open.spotify.com/track/4OZN1r8FyvLXnaZhdZH4f6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Degeneracion Actual",
         "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
       },
@@ -171,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "(No Existen) T\u00e9cnicas para Olvidar",
+        "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Si Escuchas a un Angel",
+      "url": "https://open.spotify.com/track/4OZN1r8FyvLXnaZhdZH4f6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00f3ntelo en la Lengua",
         "url": "https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1"
       },
@@ -183,6 +183,22 @@
       "duration_ms": 202906,
       "name": "Te Siento de S\u00f3lo Pensar",
       "url": "https://open.spotify.com/track/2w1rwzelNTt9VKdh9tHGO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 354600,
+      "name": "Talk Show",
+      "url": "https://open.spotify.com/track/44eOyzLMYOFF7v3Uv9Hcc9"
     },
     {
       "added_at": null,
@@ -223,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 354600,
-      "name": "Talk Show",
-      "url": "https://open.spotify.com/track/44eOyzLMYOFF7v3Uv9Hcc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00f3ntelo en la Lengua",
         "url": "https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 209600,
       "name": "S\u00e9 Que Todo Ha Acabado Ya",
       "url": "https://open.spotify.com/track/2KmjzHrv8GUIqEJRydovEq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "No Llores M\u00e1s Morena",
+      "url": "https://open.spotify.com/track/4SboPJcd0PeJ6afuTC72Wy"
     },
     {
       "added_at": null,
@@ -287,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 211413,
-      "name": "No Llores M\u00e1s Morena",
-      "url": "https://open.spotify.com/track/4SboPJcd0PeJ6afuTC72Wy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00f3ntelo en la Lengua",
         "url": "https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1"
       },
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(No Existen) T\u00e9cnicas para Olvidar",
-        "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 188880,
-      "name": "Globo de Gas",
-      "url": "https://open.spotify.com/track/50Fne0saOe26pnm0waxN4r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amazonas",
         "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 283440,
       "name": "Ponerme a volar",
       "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(No Existen) T\u00e9cnicas para Olvidar",
+        "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "Globo de Gas",
+      "url": "https://open.spotify.com/track/50Fne0saOe26pnm0waxN4r"
     },
     {
       "added_at": null,
@@ -463,58 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rarezas",
-        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
-      },
-      "artists": [
-        {
-          "name": "Libido",
-          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
-        },
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 260760,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Hay un modo",
-      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Degeneracion Actual",
-        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 248346,
-      "name": "Tren Sexual",
-      "url": "https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Pienses en Volver (Versi\u00f3n Cumbia- Salsa)",
         "url": "https://open.spotify.com/album/3fk92m0deWHsUlkDeySzTa"
       },
@@ -567,6 +515,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Hay un modo",
+      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Degeneracion Actual",
+        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 248346,
+      "name": "Tren Sexual",
+      "url": "https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 268266,
       "name": "Qu\u00e9 Oscuridad",
       "url": "https://open.spotify.com/track/6dxz8sm7n7tQhHqwolLdWs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
+      },
+      "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        },
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 136946,
-      "name": "Rara Soledad",
-      "url": "https://open.spotify.com/track/2WNlzawBfFAf0iTrlkt9E1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 259252,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/52YFzji6kJVzC4UqZrsPKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 136946,
+      "name": "Rara Soledad",
+      "url": "https://open.spotify.com/track/2WNlzawBfFAf0iTrlkt9E1"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
       "duration_ms": 204480,
       "name": "Los Ni\u00f1os Se Enamoran",
       "url": "https://open.spotify.com/track/24dMkYdYG9B1sYgvUW9osX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 262773,
+      "name": "El Triunfo Tan So\u00f1ado",
+      "url": "https://open.spotify.com/track/0sY6nOI7cfuMlmm1z8PY6j"
     }
   ],
   "unique_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-02",
-  "description": "Just good energy. ",
+  "description": "Just good energy",
   "name": "Vibe Check",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
@@ -188,6 +188,24 @@
       "duration_ms": 182099,
       "name": "All I Am",
       "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
+    },
+    {
+      "album": {
+        "name": "Best I've Found",
+        "url": "https://open.spotify.com/album/0ahn66Llwp3h9JVXoNaT9k"
+      },
+      "artists": [
+        {
+          "name": "Yes Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193901,
+      "name": "All I Really Want",
+      "url": "https://open.spotify.com/track/35LMgmCIWurx3hyC2U8NgG"
     },
     {
       "album": {
@@ -754,7 +772,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 151410,
       "name": "Cross Your Mind",
       "url": "https://open.spotify.com/track/5GbsM9xps85Q3ZyHHGdHvX"
@@ -1709,6 +1727,28 @@
     },
     {
       "album": {
+        "name": "gossip",
+        "url": "https://open.spotify.com/album/4pJ8Wb8NLmDvFnAhjgRBtA"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199691,
+      "name": "gossip",
+      "url": "https://open.spotify.com/track/2XSYE9iLNTZDCRG7FgOuBM"
+    },
+    {
+      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/0Bqr786p9m8z05tc6HYyKk"
       },
@@ -2207,6 +2247,32 @@
     },
     {
       "album": {
+        "name": "If U Want My Heart (Ft. KLP)",
+        "url": "https://open.spotify.com/album/1MW85rBJDHzpDIu4rtKPez"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203150,
+      "name": "If U Want My Heart (Ft. KLP)",
+      "url": "https://open.spotify.com/track/6xLcLWmWW2Kle7zacIIT5A"
+    },
+    {
+      "album": {
         "name": "If You Really Love Me (How Will I Know)",
         "url": "https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY"
       },
@@ -2518,7 +2584,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
@@ -4456,7 +4522,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
@@ -4574,7 +4640,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -4968,7 +5034,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
@@ -5322,6 +5388,32 @@
       "duration_ms": 194426,
       "name": "wish you would",
       "url": "https://open.spotify.com/track/1LFrlYjezwFadKoL6UESMd"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t Be Possible",
+        "url": "https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Won\u2019t Be Possible",
+      "url": "https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 195937,
+  "num_followers": 195955,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAByzvAZIEbS8m3LxgaC8wrl",
+  "snapshot_id": "aSzagAAAAACjuoHcye1SmXD96KvEmpyF",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "It's Been A Long, Long Time",
+      "url": "https://open.spotify.com/track/14TmAdCnF2aR5OoguGZ2JA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheek To Cheek: The Complete Duet Recordings",
         "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 191053,
       "name": "Oops!",
       "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "It's Been A Long, Long Time",
-      "url": "https://open.spotify.com/track/14TmAdCnF2aR5OoguGZ2JA"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volume 1: Rhythm Saved The World (1935-1936)",
-        "url": "https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Thanks A Million - Single Version",
-      "url": "https://open.spotify.com/track/5YC4L8ovbwq4iwzk3Ng0hm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On Her Majesty's Secret Service (Expanded Edition)",
         "url": "https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 195560,
       "name": "We Have All The Time In The World - From \u201cOn Her Majesty\u2019s Secret Service\u201d Soundtrack / Remastered 2003",
       "url": "https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volume 1: Rhythm Saved The World (1935-1936)",
+        "url": "https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 164066,
+      "name": "Thanks A Million - Single Version",
+      "url": "https://open.spotify.com/track/5YC4L8ovbwq4iwzk3Ng0hm"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 163106,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella And Louis Again",
         "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 456493,
       "name": "These Foolish Things (Remind Me Of You)",
       "url": "https://open.spotify.com/track/5s9tKuZkMiDxY1b6WIzHtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Satch Plays Fats",
+        "url": "https://open.spotify.com/album/1CQAiDPmHs7reitQkz4P7E"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 319293,
+      "name": "All That Meat And No Potatoes",
+      "url": "https://open.spotify.com/track/4rfxu3vOUWRaOx8YwUEpbi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 385706,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Satch Plays Fats",
-        "url": "https://open.spotify.com/album/1CQAiDPmHs7reitQkz4P7E"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 319293,
-      "name": "All That Meat And No Potatoes",
-      "url": "https://open.spotify.com/track/4rfxu3vOUWRaOx8YwUEpbi"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello, Dolly! (Remastered)",
         "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
@@ -571,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis Under The Stars",
-        "url": "https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM"
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 256026,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/77Aqjy8Kcd5GK1ZORCTNnF"
+      "duration_ms": 236240,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Louis Under The Stars",
+        "url": "https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/77Aqjy8Kcd5GK1ZORCTNnF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -619,26 +619,6 @@
       "duration_ms": 178333,
       "name": "Fantastic, That's You",
       "url": "https://open.spotify.com/track/0SyYvxTKhF3fMxYBz3Zmdm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Sy Oliver & His Orchestra",
-          "url": "https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Cold Cold Heart",
-      "url": "https://open.spotify.com/track/1BH2rbqoikRKIZxjMPoqs8"
     },
     {
       "added_at": null,
@@ -683,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sy Oliver & His Orchestra",
+          "url": "https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Cold Cold Heart",
+      "url": "https://open.spotify.com/track/1BH2rbqoikRKIZxjMPoqs8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 211306,
       "name": "Hello Brother - Single Version",
       "url": "https://open.spotify.com/track/0bhczlo67Yc6LqMWYqDHyo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "(When We Are Dancin') I Get Ideas - Single Version",
-      "url": "https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
       "duration_ms": 190640,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "(When We Are Dancin') I Get Ideas - Single Version",
+      "url": "https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Sings",
-        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Kiss Of Fire",
-      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Reunion",
         "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
@@ -884,9 +868,25 @@
           "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 297640,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/3dtBmo7lvR8FVeWybUX7su"
+      "duration_ms": 303173,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satchmo Sings",
+        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Kiss Of Fire",
+      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
     },
     {
       "added_at": null,

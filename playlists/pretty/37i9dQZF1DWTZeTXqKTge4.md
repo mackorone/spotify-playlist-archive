@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Découvrez le rap québécois, servi tout frais\. Photo: Koriass
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,971 likes - 101 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,970 likes - 101 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

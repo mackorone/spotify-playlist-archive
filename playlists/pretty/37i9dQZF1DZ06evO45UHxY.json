@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2781,
+  "num_followers": 2782,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAABOtfNVYKf62pbT0cAnRIcs",
+  "snapshot_id": "aSzagAAAAAArpfq/bCzOpTAH6Tgb4fji",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Estas Corazon",
-        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 196291,
-      "name": "Donde Estas Corazon",
-      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
         "url": "https://open.spotify.com/album/4AAxr6YcB2n3yn7VAyozMI"
       },
@@ -319,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pal Bailador (Pasito Tun Tun)",
-        "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
+        "name": "Donde Estas Corazon",
+        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
       },
       "artists": [
         {
@@ -328,9 +312,25 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 185233,
-      "name": "Pal Bailador (Pasito Tun Tun)",
-      "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
+      "duration_ms": 196291,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grupero Hits",
+        "url": "https://open.spotify.com/album/5dVfZriigZIsjQrK9veAlV"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 167320,
+      "name": "Aerobics de se\u00f1oritas",
+      "url": "https://open.spotify.com/track/5peoeFKvBESDFc7Ej2G3Bp"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grupero Hits",
-        "url": "https://open.spotify.com/album/5dVfZriigZIsjQrK9veAlV"
+        "name": "Pal Bailador (Pasito Tun Tun)",
+        "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 167320,
-      "name": "Aerobics de se\u00f1oritas",
-      "url": "https://open.spotify.com/track/5peoeFKvBESDFc7Ej2G3Bp"
+      "duration_ms": 185233,
+      "name": "Pal Bailador (Pasito Tun Tun)",
+      "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Tropical, Vol. 8",
-        "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Cumbiando Con Zeta",
-      "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes Bandas",
         "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 171720,
       "name": "Zapatos viejos",
       "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100% Tropical, Vol. 8",
+        "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Cumbiando Con Zeta",
+      "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-163 songs - 9 hr 9 min
+164 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,10 +120,11 @@
 | [Obscurité \(feat\. Hamza\)](https://open.spotify.com/track/2kcQZtB9Ea7jbacoWhjXKJ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 4:45 | 2024-02-29 | 2024-04-19 |
 | [Obscurité \(feat\. Hamza\)](https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 4:45 | 2024-02-29 | 2025-08-08 |
 | [Omri](https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Omri](https://open.spotify.com/album/0SugmLl21ELoSvkZN3v3rp) | 3:45 | 2024-02-29 | 2025-08-08 |
-| [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 | 2024-11-08 |  |
+| [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 | 2024-11-08 | 2025-12-03 |
 | [Paroles](https://open.spotify.com/track/6uh1U3KqmmhPWtgskdKH4h) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Paroles](https://open.spotify.com/album/5XUXJPa45A8pegZHEPFQyZ) | 3:39 | 2024-10-17 | 2025-01-26 |
 | [Pay No Mind](https://open.spotify.com/track/0pi2GFDC2vil6vNBnrAfIs) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Pay No Mind](https://open.spotify.com/album/1ifgTPxQGemh21M0crASb2) | 3:28 | 2024-02-29 | 2024-07-23 |
 | [Pique](https://open.spotify.com/track/5Vjltk6vzyv7TIy7efAYUe) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Pique](https://open.spotify.com/album/1qbpzPEsfyjdAdpvK1hEbm) | 2:24 | 2024-02-29 | 2024-07-23 |
+| [Porsche](https://open.spotify.com/track/5ROnVXz0rGkPlDmJ8oltUX) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf), [Dracofeuu](https://open.spotify.com/artist/1DS4sBigDOqhq0lbsa9PiB) | [Chapter 2 : Band Of Msaww](https://open.spotify.com/album/0dfytM4hEkDPs0bU8xGu0O) | 2:57 | 2025-11-03 |  |
 | [Potion Mystère](https://open.spotify.com/track/10re1QtJMJsN11jqBemWk8) | [Namak](https://open.spotify.com/artist/7vWqf60gZHRBi9D66Uak2y), [Shr](https://open.spotify.com/artist/31G6pp1Vk8pLxASeTsGRCp) | [2024](https://open.spotify.com/album/1IM59QiW2IUmoSn0Fm77Io) | 2:38 | 2024-11-10 | 2024-11-20 |
 | [PSYCHO](https://open.spotify.com/track/7xd3yfmMFrbgNWCcazYOeG) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [A9RASS x PSYCHO](https://open.spotify.com/album/1SzqinDG9Pfvg59qYnwJHs) | 3:40 | 2025-04-25 |  |
 | [RABAT CITY JAZZ](https://open.spotify.com/track/766cFs4xFfSYwQrd8mL9qR) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RABAT CITY JAZZ](https://open.spotify.com/album/7ETrE6QoExiN4sBkfW429E) | 3:29 | 2024-06-02 | 2024-07-23 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 85591,
+  "num_followers": 85599,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACvNq0DtHzD38crl4F74tV7",
+  "snapshot_id": "aSzagAAAAACb20EIsWKfoahd/nBohvA7",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 229011,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eterna e Inolvidable",
         "url": "https://open.spotify.com/album/3Mq3GqLLtZbkP6L6u4icY6"
       },
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
+        "name": "Extrav\u00edate",
+        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 229011,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
+      "duration_ms": 262933,
+      "name": "Mi nombre",
+      "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extrav\u00edate",
-        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Mi nombre",
-      "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
       },
@@ -803,26 +803,6 @@
       "duration_ms": 189400,
       "name": "Extrav\u00edate",
       "url": "https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
-        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "El Nido (with Edith M\u00e1rquez)",
-      "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
     },
     {
       "added_at": null,
@@ -843,6 +823,26 @@
       "duration_ms": 314947,
       "name": "Y Nos Dieron Las Diez",
       "url": "https://open.spotify.com/track/1JsxBaKdAavIvcbUrUISgG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
+        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "El Nido (with Edith M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
     },
     {
       "added_at": null,

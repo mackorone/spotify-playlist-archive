@@ -665,6 +665,54 @@
     },
     {
       "album": {
+        "name": "Banda Kaam Ka",
+        "url": "https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t"
+      },
+      "artists": [
+        {
+          "name": "Chaar Diwaari",
+          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248947,
+      "name": "Banda Kaam Ka",
+      "url": "https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8"
+    },
+    {
+      "album": {
+        "name": "bargad",
+        "url": "https://open.spotify.com/album/5BnxT8zqiWLJTzSPouJd1n"
+      },
+      "artists": [
+        {
+          "name": "sufr",
+          "url": "https://open.spotify.com/artist/0H2Xt7XJQyDItXNN3j7F1F"
+        },
+        {
+          "name": "Arpit Bala",
+          "url": "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+        },
+        {
+          "name": "toorjo dey",
+          "url": "https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "bargad",
+      "url": "https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl"
+    },
+    {
+      "album": {
         "name": "Jugaadistan (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0tPs35OLKpMmnxzWJXoyze"
       },
@@ -3060,7 +3108,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 227000,
       "name": "Laut Aao Na",
       "url": "https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu"
@@ -4790,7 +4838,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 172823,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ"

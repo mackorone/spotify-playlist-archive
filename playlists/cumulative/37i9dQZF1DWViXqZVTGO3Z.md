@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
 
-503 songs - 1 day 8 hr 41 min
+504 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [I Have Finished The Race](https://open.spotify.com/track/4iOycRDZBb0mkKy6EGqiEr) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s), [Francesca LaRosa](https://open.spotify.com/artist/2XaFV5Bz4k3oEFBfZSGVoQ) | [Wrapped In Peace](https://open.spotify.com/album/6b7u6tlbjgaS5AqG0jPCkN) | 4:08 | 2023-11-27 | 2024-08-01 |
 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/0wYCpHsrhPxrcpW3uSHqWv) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/2asbMuYvCs4qkQHIDuXAew) | 3:32 | 2024-11-23 | 2025-04-08 |
 | [I Need Christmas \- Single Version](https://open.spotify.com/track/53vrHASNj6lk2i5JZcs1UK) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [I Need Christmas](https://open.spotify.com/album/3UCEH768QemPCXRhQ6xfeL) | 3:30 | 2021-12-11 | 2022-07-29 |
-| [I Pray On Christmas](https://open.spotify.com/track/4P8Yj01dzka6OaevNCZuF7) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Christmas](https://open.spotify.com/album/7Epml2RwrQpKsszL0NeqUw) | 3:32 | 2023-11-03 |  |
+| [I Pray On Christmas](https://open.spotify.com/track/4P8Yj01dzka6OaevNCZuF7) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Christmas](https://open.spotify.com/album/7Epml2RwrQpKsszL0NeqUw) | 3:32 | 2023-11-03 | 2025-12-03 |
 | [I Saw Three Ships](https://open.spotify.com/track/4DJGAJKzUvnoRes5aiv3Ji) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [I Saw Three Ships](https://open.spotify.com/album/7b68CXUUCfcrygq4dkCaOh) | 2:53 | 2021-12-11 | 2025-11-21 |
 | [I Still Believe In Christmas](https://open.spotify.com/track/61m5ozWPHO2TgxNCdqizvl) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [I Still Believe In Christmas](https://open.spotify.com/album/6G85UPaNcCZ1bELHNzOEIF) | 3:48 | 2021-12-11 |  |
 | [I Wonder As I Wander](https://open.spotify.com/track/5kycZFxvvLXk6tKKuczzMC) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Warmer In The Winter \(Deluxe Edition\)](https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g) | 4:26 | 2021-12-24 | 2023-12-16 |
@@ -290,6 +290,7 @@
 | [Love Has Come](https://open.spotify.com/track/2st2J3B3PqCPnOrOpIm3BJ) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Love Has Come](https://open.spotify.com/album/4lZ1sKFGdyp3Uu5Ux3uSyC) | 4:34 | 2023-12-15 | 2024-11-08 |
 | [lowest of lows](https://open.spotify.com/track/1tLxn21A4MTuRdH2qWf9sK) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [lowest of lows](https://open.spotify.com/album/4bgp6NgtB9aXIIe5xKHyl3) | 3:19 | 2024-11-29 |  |
 | [Make Room](https://open.spotify.com/track/0lEWsFKKwItsH88Lv2QwB3) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [The Last Christmas On Earth..\. Again!](https://open.spotify.com/album/0nMovNBGG59zb0XmniBhAF) | 4:16 | 2021-12-24 | 2022-07-28 |
+| [Manger In Me](https://open.spotify.com/track/36Rm7GJvHfd3jbNT4l8dlZ) | [Seth Carpenter](https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt) | [Manger In Me](https://open.spotify.com/album/3AN2w2byEjjyblTYFxGEsT) | 3:41 | 2025-11-28 |  |
 | [MANGER OF MY HEART](https://open.spotify.com/track/0Vga9TGN4Xt6JDWSUNlhM7) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [MANGER OF MY HEART](https://open.spotify.com/album/7FCAJR4cTdqMG7hoTKNbsl) | 4:09 | 2024-07-31 |  |
 | [Manger Throne](https://open.spotify.com/track/1Z0IdyRLTGeUQDincfC5DI) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Manger Throne](https://open.spotify.com/album/6hHBbeDEOg6y1N4OGgcMop) | 4:20 | 2023-11-03 | 2024-04-19 |
 | [Manger Throne](https://open.spotify.com/track/6MoWXK8zQTT0cwTpBuVklQ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Manger Throne](https://open.spotify.com/album/6uotKRaIiLLx6f3nJ1Ap4a) | 4:20 | 2023-12-15 | 2024-09-13 |
@@ -385,7 +386,7 @@
 | [Old Fashioned Christmas](https://open.spotify.com/track/4b5jMKaV2uu4XtcPrRxdXM) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Old Fashioned Christmas](https://open.spotify.com/album/54zoj8Yivcp8lNJhLUUFk0) | 2:39 | 2021-12-11 | 2024-08-01 |
 | [Our Christ Is Here](https://open.spotify.com/track/41EuLbjLuudEUdU2fdMFIB) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Our Christ Is Here](https://open.spotify.com/album/2pTLYg2HU0Yaaw8UcTr6Po) | 3:36 | 2024-11-17 |  |
 | [Our God With Us](https://open.spotify.com/track/5eDmojxVjggEA2OGlvXzJN) | [Mariners Worship](https://open.spotify.com/artist/4SfGaFiH2xoqKnRtGP5l9p), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Our God With Us](https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK) | 4:13 | 2021-12-11 | 2025-11-09 |
-| [Our King Has Come](https://open.spotify.com/track/55qWotxqUod4d6T4SjatSk) | [Katy Nichole & Matt Maher](https://open.spotify.com/artist/16yzBCoWG9wuKwJCXHbNM1) | [The Hope Of Christmas](https://open.spotify.com/album/1Zq89ub3yfNs4bMCMNy4gm) | 3:37 | 2025-11-05 |  |
+| [Our King Has Come](https://open.spotify.com/track/55qWotxqUod4d6T4SjatSk) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Hope Of Christmas](https://open.spotify.com/album/1Zq89ub3yfNs4bMCMNy4gm) | 3:37 | 2025-11-05 |  |
 | [Our King Has Come \(Live\)](https://open.spotify.com/track/2fNd8uZp9GvyxJKHa6bOo0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [For The Honor](https://open.spotify.com/album/7AF8bOSZOINrMfLOhZVydc) | 3:40 | 2021-12-24 | 2024-08-01 |
 | [Peace On Earth](https://open.spotify.com/track/5B2JNOIvKJgVAZleSsPO7q) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Peace On Earth](https://open.spotify.com/album/6ngtu2qz98gPt8FlJKYKQa) | 3:20 | 2021-12-24 | 2023-12-16 |
 | [Peace On Earth](https://open.spotify.com/track/5FmegwNKKLzoqYGVg7Utop) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Peace on Earth](https://open.spotify.com/album/2e9z3BubbfAcc1OkIlvuEQ) | 3:20 | 2021-12-11 | 2022-07-29 |

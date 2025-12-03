@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "7 Dias",
+        "url": "https://open.spotify.com/album/1IAgMjZ6sm4k1W9Pcab4eR"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Florian Rus",
+          "url": "https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "7 Dias",
+      "url": "https://open.spotify.com/track/4399pdqfywDAeHJ2YKv4ja"
+    },
+    {
+      "album": {
         "name": "7 zile",
         "url": "https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE"
       },
@@ -96,7 +118,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 158332,
       "name": "7 zile",
       "url": "https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711"
@@ -842,7 +864,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 141333,
       "name": "Azucar",
       "url": "https://open.spotify.com/track/7C8OBP3RyIy9458F2T0FFe"
@@ -1700,6 +1722,28 @@
       "duration_ms": 155528,
       "name": "Claw Marks",
       "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
+    },
+    {
+      "album": {
+        "name": "Fundamentals (Extended Mixes)",
+        "url": "https://open.spotify.com/album/6859XSWJmkF1nU3HDPWNpY"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Kes Kross",
+          "url": "https://open.spotify.com/artist/6ZRMGboylqH7muIgydrpGW"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278787,
+      "name": "Coffee Shop - Extended Mix",
+      "url": "https://open.spotify.com/track/6PUqhvuSRdK2ysj8mXR4dW"
     },
     {
       "album": {
@@ -2708,7 +2752,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 186470,
       "name": "Drum bun",
       "url": "https://open.spotify.com/track/3vPSLCx6yNqT9ulfrja2PH"
@@ -3552,7 +3596,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 139008,
       "name": "Hai tu Maria",
       "url": "https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7"
@@ -4178,6 +4222,28 @@
       "duration_ms": 149647,
       "name": "Iubire in Rate",
       "url": "https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP"
+    },
+    {
+      "album": {
+        "name": "Iubirea vie\u021bii tale",
+        "url": "https://open.spotify.com/album/7AF04kRkAEBCHQ0rFeXq5a"
+      },
+      "artists": [
+        {
+          "name": "Arkanian",
+          "url": "https://open.spotify.com/artist/1LdNutYy0xoGpKCDCj2k1p"
+        },
+        {
+          "name": "Adrian Norocel",
+          "url": "https://open.spotify.com/artist/3f9Hi0GeiHT8XF7OCBGPpU"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Iubirea vie\u021bii tale",
+      "url": "https://open.spotify.com/track/174SeiNukafKIzBYsqxo61"
     },
     {
       "album": {
@@ -5201,6 +5267,24 @@
     },
     {
       "album": {
+        "name": "M\u00e2inile",
+        "url": "https://open.spotify.com/album/2DF4lqHTnPUQl2C0bEQXnl"
+      },
+      "artists": [
+        {
+          "name": "Feli",
+          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198073,
+      "name": "M\u00e2inile",
+      "url": "https://open.spotify.com/track/3800i4uUPQ0TousOW9Kw9f"
+    },
+    {
+      "album": {
         "name": "N-a Fost Sa Fie",
         "url": "https://open.spotify.com/album/7xkkpxo4ICoEGzMns1LzyR"
       },
@@ -5994,7 +6078,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 169714,
       "name": "Pic\u0103tura De Cerneal\u0103",
       "url": "https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG"
@@ -6610,7 +6694,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 157974,
       "name": "SHE WANNA DANCE",
       "url": "https://open.spotify.com/track/017lLMCoXyiJrwhu9DfqiQ"

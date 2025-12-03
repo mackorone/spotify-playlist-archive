@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Yellowcard
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,053 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,071 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 46 | [sleepwalking](https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [sleepwalking](https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt) | 2:00 |
 | 47 | [A Part Is Better Than Zero](https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0) | [Lessons That We Swear to Keep](https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt) | 2:51 |
 | 48 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 |
-| 49 | [Someone You Need](https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Someone You Need](https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy) | 3:03 |
-| 50 | [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 |
+| 49 | [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 |
+| 50 | [Someone You Need](https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Someone You Need](https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy) | 3:03 |
 | 51 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:06 |
 | 52 | [cross my heart](https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [these things happen](https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P) | 1:30 |
 | 53 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 |

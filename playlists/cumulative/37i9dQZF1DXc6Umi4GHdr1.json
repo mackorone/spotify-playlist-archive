@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Dew and Fog",
+        "url": "https://open.spotify.com/album/3tb8d58jsdMb1cfSegaGc2"
+      },
+      "artists": [
+        {
+          "name": "Sam Stone",
+          "url": "https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172056,
+      "name": "Dew and Fog",
+      "url": "https://open.spotify.com/track/4o3jNPoMH5wzUdC4KEqycK"
+    },
+    {
+      "album": {
         "name": "Diamante",
         "url": "https://open.spotify.com/album/12SQTw5KsmzIa8BENXP98Y"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,654 likes - 84 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,642 likes - 84 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 15 | [Metal Heart](https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:02 |
 | 16 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
 | 17 | [Empty Words](https://open.spotify.com/track/330w7iBKrHxlJwx3WMdHVr) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 3:45 |
-| 18 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 |
-| 19 | [Nothing Left to Say](https://open.spotify.com/track/0MZmVxSYtBphmi5mrgTLXp) | [Tram](https://open.spotify.com/artist/5koTBxO31TIzxRzBvsxzwH) | [Heavy Black Frame](https://open.spotify.com/album/4iEJq1LRPTy6q2kNUDKV3o) | 4:31 |
+| 18 | [Nothing Left to Say](https://open.spotify.com/track/0MZmVxSYtBphmi5mrgTLXp) | [Tram](https://open.spotify.com/artist/5koTBxO31TIzxRzBvsxzwH) | [Heavy Black Frame](https://open.spotify.com/album/4iEJq1LRPTy6q2kNUDKV3o) | 4:31 |
+| 19 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 |
 | 20 | [Untitled \#1](https://open.spotify.com/track/1b3VDOKsOZLRBkp6JhkBmP) | [Spain](https://open.spotify.com/artist/1XW5L5zIBqMw7sqkkuIi5n) | [The Blue Moods Of Spain](https://open.spotify.com/album/47FyvCCghOqYY6VQyyixNC) | 6:38 |
 | 21 | [Putting The Dog To Sleep](https://open.spotify.com/track/3pUoLeK4j2XHIuuqU8FECt) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Burst Apart](https://open.spotify.com/album/1VQq6vAHE5jKzvrRpizdx2) | 5:47 |
 | 22 | [Grave Filled with Books](https://open.spotify.com/track/7sYOXMXgA34jo9WkXZLEOG) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 4:01 |
@@ -36,24 +36,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 26 | [Absent Friend](https://open.spotify.com/track/6CqmencKN0UsB67DzZAP8f) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 8:20 |
 | 27 | [Sunflower](https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius) | 4:39 |
 | 28 | [Today Is the Day](https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Summer Sun](https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf) | 5:34 |
-| 29 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 |
-| 30 | [Flowers](https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 4:29 |
+| 29 | [Flowers](https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 4:29 |
+| 30 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 |
 | 31 | [Wop\-A\-Din\-Din](https://open.spotify.com/track/15XoeDfUqg2Q8rp2eOjAFe) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Old Ramon](https://open.spotify.com/album/4rL0RzmHMQyHiZqJVdt7A8) | 5:37 |
 | 32 | [The Loom](https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 5:15 |
 | 33 | [Lighthouse](https://open.spotify.com/track/10dTTsgL5hPujRahg22tan) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 5:44 |
-| 34 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 |
-| 35 | [Options](https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Control \(Remastered\)](https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr) | 3:56 |
-| 36 | [No Sense](https://open.spotify.com/track/7hqgpJchv39sfIWLTXkMMe) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:50 |
-| 37 | [Snowstorm](https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 5:14 |
+| 34 | [Snowstorm](https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 5:14 |
+| 35 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 |
+| 36 | [Options](https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Control \(Remastered\)](https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr) | 3:56 |
+| 37 | [No Sense](https://open.spotify.com/track/7hqgpJchv39sfIWLTXkMMe) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:50 |
 | 38 | [Autoluminescent](https://open.spotify.com/track/3Sl2z4TkK0lYJiMB7kXnz6) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [No Depression In Heaven](https://open.spotify.com/album/5MLdgEFXND3EClVF1he9nn) | 4:41 |
-| 39 | [Dinosaur Act](https://open.spotify.com/track/2WIbRYwd9pu45IHaQuWVnN) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/71I6DvVoUfYmszlwb6is18) | 4:13 |
-| 40 | [D](https://open.spotify.com/track/2bMMG4vn7pHC20gj8Yb34m) | [Codeine](https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U) | [Frigid Stars](https://open.spotify.com/album/3a7G9BVcIu4T3kf3jQFrk9) | 4:27 |
+| 39 | [D](https://open.spotify.com/track/2bMMG4vn7pHC20gj8Yb34m) | [Codeine](https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U) | [Frigid Stars](https://open.spotify.com/album/3a7G9BVcIu4T3kf3jQFrk9) | 4:27 |
+| 40 | [Dinosaur Act](https://open.spotify.com/track/2WIbRYwd9pu45IHaQuWVnN) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/71I6DvVoUfYmszlwb6is18) | 4:13 |
 | 41 | [Consolation Prize](https://open.spotify.com/track/1rvsWurvB8VkqYT63XmJLD) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Because I Was In Love](https://open.spotify.com/album/3r8mKxg4RO934B6fksLCqN) | 4:03 |
 | 42 | [Black Fly](https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Reaching For Indigo](https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg) | 7:26 |
 | 43 | [Sun Drawing](https://open.spotify.com/track/6AtRvRFkhSiP9518S48WBj) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Day And Night](https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf) | 3:57 |
 | 44 | [glowing hands](https://open.spotify.com/track/4R5bWuBSkvxFLOc3SDjq3Z) | [forlorn](https://open.spotify.com/artist/10URY9GmoJErCHAzo6jFyT), [friendly to crows](https://open.spotify.com/artist/1KOecUxfQdUJA8mNaRaiAR) | [i hope everything goes well](https://open.spotify.com/album/747L9aHFJZ6tN7rwnyNC4c) | 2:10 |
-| 45 | [talking to flowers](https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [talking to flowers](https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi) | 2:03 |
-| 46 | [I Never Did Get That Call](https://open.spotify.com/track/2u4YAeYmJPcFU9OlDyPKja) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [I Never Did Get That Call](https://open.spotify.com/album/3EP72o1hUz4jHUUjeZrMk3) | 1:39 |
+| 45 | [I Never Did Get That Call](https://open.spotify.com/track/2u4YAeYmJPcFU9OlDyPKja) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [I Never Did Get That Call](https://open.spotify.com/album/3EP72o1hUz4jHUUjeZrMk3) | 1:39 |
+| 46 | [talking to flowers](https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [talking to flowers](https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi) | 2:03 |
 | 47 | [Save Yourself](https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE) | [Rachel Goswell](https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se) | [Waves Are Universal](https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY) | 3:58 |
 | 48 | [Two Wrongs Won't Make Things Right](https://open.spotify.com/track/0cE2SGmO5eaatzBsCpYPKI) | [Tarnation](https://open.spotify.com/artist/5cVphcm0FP2N0GXVl9csxh) | [Gentle Creatures](https://open.spotify.com/album/2HXMG5PMDO4stERgmNORdx) | 4:09 |
 | 49 | [Sloth](https://open.spotify.com/track/5u02Kr3YXTSbNO19hSeEK2) | [Brendan Perry](https://open.spotify.com/artist/448GEwyUiojEHd8vsFheaB) | [Eye of the Hunter](https://open.spotify.com/album/5Cx1d1H2EqaOs3OrYP64bR) | 3:32 |

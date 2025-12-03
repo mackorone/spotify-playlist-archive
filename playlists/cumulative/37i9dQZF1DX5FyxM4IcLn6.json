@@ -8883,6 +8883,28 @@
     },
     {
       "album": {
+        "name": "Y Lo Que Viene",
+        "url": "https://open.spotify.com/album/2aTxD6We9GbBFXi3oKoPat"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184050,
+      "name": "La Del Proceso",
+      "url": "https://open.spotify.com/track/1HHbWpX1n9JCbAWu4h4zHJ"
+    },
+    {
+      "album": {
         "name": "Tradiciones",
         "url": "https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm"
       },
@@ -11566,7 +11588,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 240053,
       "name": "Oh What A Beautiful World - feat. Rodney Crowell",
       "url": "https://open.spotify.com/track/7ml1acXUTiwSm2WjtXYFbZ"

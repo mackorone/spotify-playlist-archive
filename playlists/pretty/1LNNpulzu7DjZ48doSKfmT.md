@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 450 likes - 525 songs - 1 day 3 hr 9 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 450 likes - 529 songs - 1 day 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -533,5 +533,9 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 523 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 |
 | 524 | [Always Wanting The Other Side](https://open.spotify.com/track/6utchQtApIbNNQPE8rBd8Q) | [Lazel James](https://open.spotify.com/artist/1mYX0nkMGUbQByxSkBDJaW) | [Always Wanting The Other Side](https://open.spotify.com/album/17x1EUsotuZhH5uBUMu7h9) | 3:40 |
 | 525 | [HAVIN IT](https://open.spotify.com/track/2XBtwbgOZU8rrQecZaUO76) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [HAVIN IT](https://open.spotify.com/album/7JQ62Vw6pjGNYFTRZPFlBv) | 1:52 |
+| 526 | [THE UNRAVELING](https://open.spotify.com/track/20jxpjgdcIEwqYf3w2aVOU) | [fred0](https://open.spotify.com/artist/4U4KH3IhPkIIlGgfQffEZ9) | [THE UNRAVELING](https://open.spotify.com/album/70JyYPvljig5pYCGazHkRY) | 2:52 |
+| 527 | [One Life in a Second](https://open.spotify.com/track/3ejiegnz0P0wCBmDiVt6DS) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [One Life in a Second](https://open.spotify.com/album/31tJrwZLvVxTmiDHo7I5es) | 4:41 |
+| 528 | [No Meio Termo](https://open.spotify.com/track/6FaZX8fiSihP2gvWs42f0K) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:58 |
+| 529 | [Christmas in the Islands](https://open.spotify.com/track/0LxDXf95Mx9c1vZxEFqTFR) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Christmas in the Islands](https://open.spotify.com/album/3aHAeBe9ZjWw3wduUdNC1u) | 3:01 |
 
-Snapshot ID: `AAAXLr7wixpUFJCrf5+oQgQhnb9AYu4U`
+Snapshot ID: `AAAXMjifZOJO2L8Y6A9CQTIv/mQ6naYW`

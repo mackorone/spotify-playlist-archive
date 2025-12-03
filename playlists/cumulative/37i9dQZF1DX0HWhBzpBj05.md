@@ -4,7 +4,7 @@
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-185 songs - 10 hr 21 min
+186 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2021-12-20 | 2022-12-06 |
 | [Frosty The Snowman](https://open.spotify.com/track/76nIlhb7sx9W9ceQKVKreg) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p) | 2:11 | 2021-12-20 | 2022-07-29 |
 | [Give Love This Year](https://open.spotify.com/track/3h7LxHg3iDpwxOhqgDgZTd) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Perfect Holiday](https://open.spotify.com/album/4ud1Hq1ipI8D2xBcuS9Ipj) | 3:06 | 2023-12-08 | 2024-04-19 |
-| [Give Love This Year](https://open.spotify.com/track/6YSVLKG1tGk5GSxg9xJUZr) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Give Love This Year](https://open.spotify.com/album/2WmlIpKBZULY8LIdfHasK5) | 3:06 | 2023-12-08 |  |
+| [Give Love This Year](https://open.spotify.com/track/6YSVLKG1tGk5GSxg9xJUZr) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Give Love This Year](https://open.spotify.com/album/2WmlIpKBZULY8LIdfHasK5) | 3:06 | 2023-12-08 | 2025-12-03 |
 | [Glow](https://open.spotify.com/track/4OXGEoNa7xh1MdDGf5xGC7) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 3:29 | 2021-12-20 | 2022-12-06 |
 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 | 2022-12-05 |  |
 | [Glow](https://open.spotify.com/track/1mFwsE8rLoLibx19s8bXac) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Christmas Record](https://open.spotify.com/album/5Zsa3FJk4cjhuvUbtOZzmD) | 3:21 | 2024-10-18 |  |
@@ -103,6 +103,7 @@
 | [Last Christmas](https://open.spotify.com/track/64D0upB6qvXDZs6b8X1XRE) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Chilled Christmas](https://open.spotify.com/album/68fVTZVjYOIzZIsHB4pJ7N) | 3:32 | 2022-10-23 | 2022-11-13 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-12-20 |  |
 | [Let It Snow](https://open.spotify.com/track/3KlE3KONZwdK4rXxzlCD7i) | [Coro e solisti di Offegna](https://open.spotify.com/artist/6F4jR8Izn97hzu2Vk8su88) | [Christmas Hits \(Le più belle melodie di Natale\)](https://open.spotify.com/album/2nqEvAeRRLZo8GZHG6M0Ta) | 2:36 | 2022-10-23 | 2022-11-13 |
+| [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2025-12-02 |  |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2021-12-20 | 2023-10-21 |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/7inXu0Eaeg02VsM8kHNvzM) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs By Sinatra](https://open.spotify.com/album/2QRrrjJcbfHSx79HbXLpdl) | 2:35 | 2021-12-20 | 2022-07-29 |
 | [Linus & Lucy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0NZqj0STahY0l4UR81wQj4) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Spotify Singles \- Christmas](https://open.spotify.com/album/5nA6MO0zRVvdPSrIV7GCod) | 3:41 | 2021-12-20 | 2023-10-21 |

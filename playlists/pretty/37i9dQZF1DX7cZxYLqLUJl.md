@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 
 > Wake up at your own pace with gentle piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,431 likes - 84 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,450 likes - 84 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 | 83 | [Badzura: Muse d'eau](https://open.spotify.com/track/2X32IY314Mt7NRi2taldLX) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 3 / RWKS](https://open.spotify.com/album/4lKjOi9WFEBvafMP8IXToY) | 3:33 |
 | 84 | [Scenery](https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [Scenery](https://open.spotify.com/album/0o6KH6EIH4O1DrgBuad1N3) | 2:17 |
 
-Snapshot ID: `AAAAAIF2UhaV3UnnFXPyutQMYFjv9P5j`
+Snapshot ID: `AAAAAGkOP11TW1SRtH8+uz83xWuElN5d`

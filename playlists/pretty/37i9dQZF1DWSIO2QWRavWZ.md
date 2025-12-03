@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,630 likes - 116 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,665 likes - 116 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 63 | [Still Ridin](https://open.spotify.com/track/2Vi6SudcKitRYgfM9JUtek) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl) | [Still Ridin](https://open.spotify.com/album/2hYe3Yo3b6SNOSfFWj7hFJ) | 2:27 |
 | 64 | [How I Feel](https://open.spotify.com/track/1C4k35TYf3CZIClUno0w9z) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [How I Feel](https://open.spotify.com/album/3KKqCaSclRCPC94FaCywTD) | 3:14 |
 | 65 | [10%](https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [This One Is Personal](https://open.spotify.com/album/55VroRmh4MCv27zw275clO) | 2:49 |
-| 66 | [Feels Like Love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Feels Like Love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
+| 66 | [feels like love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [feels like love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
 | 67 | [Toot Toot](https://open.spotify.com/track/4nd047fTPL3XfSpD8Y0b2o) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo) | [Toot Toot](https://open.spotify.com/album/6xnkILTaILSmlkZPW7gVtu) | 3:46 |
 | 68 | [Trying](https://open.spotify.com/track/0ZyRqzVfrqqGt4XbTzKOVx) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Trying](https://open.spotify.com/album/0VvYgptccj6sVwbTJbSCwY) | 3:34 |
 | 69 | [Pum Pum Jump \(feat\. Jill Scott & Tyla\)](https://open.spotify.com/track/6slFpFRzS8WJPbr25ega3p) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 |

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 46,502 likes - 100 songs - 6 hr 16 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 46,500 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [One](https://open.spotify.com/track/5WWAsENrvGXGb06IyToYA4) | [Planet Of Souls](https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [One](https://open.spotify.com/album/3MQVX7noO0RlYMxE53TxIj) | 3:32 |
 | 2 | [Moments](https://open.spotify.com/track/3XlM4poGU9OeljXr8PH2DV) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Moments EP](https://open.spotify.com/album/5hTPUaaoJX2PnTdTMZ0EVt) | 3:40 |
-| 3 | [searching](https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [searching](https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK) | 4:39 |
+| 3 | [prayers](https://open.spotify.com/track/5sfAgXA73MPNkgXfLMHWOt) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [a liturgy for grief](https://open.spotify.com/album/3NJ6tjPObrYxycf1iQOGGl) | 4:39 |
 | 4 | [Receive](https://open.spotify.com/track/1Kkz7Kis4VvSHwp8kxr2Ov) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2), [Saro](https://open.spotify.com/artist/39kjdm4oUJo40vZgcetOGV) | [Crystallized EP](https://open.spotify.com/album/4SYwuZIpQZtvykYu2emppx) | 4:25 |
 | 5 | [I Know](https://open.spotify.com/track/2qDGpWyOnEjZYRK9neyHng) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [I Know](https://open.spotify.com/album/0cIav6iczg2OLcILPI8LNQ) | 2:20 |
-| 6 | [Lullaby](https://open.spotify.com/track/42JAAxcC3JsDy432WmE20Q) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Bigger Than All Of Us](https://open.spotify.com/album/1yXsFzEZ5amp2ocSjGQhkm) | 5:48 |
-| 7 | [Like I Used To \- Steven Weston Revisit](https://open.spotify.com/track/3xZLRzqumdhYhWjnhu4Pud) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Like I Used To \(Steven Weston Revisit\)](https://open.spotify.com/album/6FPX05WEzjO21ZteyYxGq8) | 4:43 |
-| 8 | [you're gonna be okay](https://open.spotify.com/track/79YLHDzRnXNDexhFWkDMSn) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [you're gonna be okay](https://open.spotify.com/album/0A3G3Bb36tw8yOM11NybF6) | 4:44 |
-| 9 | [Piha Lounging](https://open.spotify.com/track/0PYC777EjWywXUnojj0SEB) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Piha Lounging](https://open.spotify.com/album/2LxtFbVFwCkI9z8vFtRb4q) | 3:50 |
+| 6 | [searching](https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [searching](https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK) | 4:39 |
+| 7 | [Lullaby](https://open.spotify.com/track/42JAAxcC3JsDy432WmE20Q) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Bigger Than All Of Us](https://open.spotify.com/album/1yXsFzEZ5amp2ocSjGQhkm) | 5:48 |
+| 8 | [Like I Used To \- Steven Weston Revisit](https://open.spotify.com/track/3xZLRzqumdhYhWjnhu4Pud) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Like I Used To \(Steven Weston Revisit\)](https://open.spotify.com/album/6FPX05WEzjO21ZteyYxGq8) | 4:43 |
+| 9 | [you're gonna be okay](https://open.spotify.com/track/79YLHDzRnXNDexhFWkDMSn) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [you're gonna be okay](https://open.spotify.com/album/0A3G3Bb36tw8yOM11NybF6) | 4:44 |
 | 10 | [I Am The Sun, You Are The Moon](https://open.spotify.com/track/7yuQmav8NNW2kSnIJR1oMs) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5), [Leo Taylor](https://open.spotify.com/artist/0aKK09xxiofsez7RurVoZS) | [I Am The Sun, You Are The Moon EP](https://open.spotify.com/album/5Ek4EWDLfuedrFMfcgXpcp) | 7:07 |
 | 11 | [Home \- Tor Remix](https://open.spotify.com/track/74FajRibgktzO015HGH69M) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6), [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Home \(Tor Remix\)](https://open.spotify.com/album/75NhZLjgPNrPUJMnKCAGwt) | 4:09 |
 | 12 | [Get It Over](https://open.spotify.com/track/5EjJxrhzH4jJwseVOmKHuY) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Yume](https://open.spotify.com/album/1jwaDkTXk5HQOcWCmFFXZX) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 99 | [Being In Love](https://open.spotify.com/track/3ENYeb7501VXnI4pNfD12F) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Being In Love](https://open.spotify.com/album/0jxsoM4q6jxVUm9qJglV3B) | 2:30 |
 | 100 | [Blush](https://open.spotify.com/track/21Xax3xNWXhRMtgiQa1PKM) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 3:28 |
 
-Snapshot ID: `AAALBBdcteNkz0hNFTmWsO2vPtHuPxl3`
+Snapshot ID: `AAALCG2qm8mv4nOHUwuHLhfuIcReuBWE`

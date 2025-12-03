@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 
 > Piesele potrivite pentru zilele și nopțile tale chill de iarnă
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,704 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,703 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 | 49 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
 | 50 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
 | 51 | [You’re Gonna Go Far](https://open.spotify.com/track/6rlI2QIaVw5DmmQKp2mkhB) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:46 |
-| 52 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
-| 53 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
+| 52 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
+| 53 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
 | 54 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 |
 | 55 | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs) | 3:10 |
 | 56 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/58pTPJPBjw1xL9OcLcQczU) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/6iiQFr91jK794wZRDMSXkp) | 3:47 |
 | 57 | [Ancora](https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Ancora](https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan) | 3:25 |
 | 58 | [Să Fii Tu](https://open.spotify.com/track/4lDQR1LAHAx0wGR2VlgP0A) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Să Fii Tu](https://open.spotify.com/album/6I4zfBx882UTwS6OtuC64X) | 3:20 |
 | 59 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 |
-| 60 | [Multe veri](https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Multe veri](https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4) | 2:32 |
+| 60 | [Gura ta](https://open.spotify.com/track/48wTHlWCJjJwgYWyjAFaqg) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Gura ta](https://open.spotify.com/album/17lqp453x6qa1MBfipsn4s) | 2:45 |
 
 Snapshot ID: `AAAAAFXU72IRKvBDb1+R46qUV9entJWz`

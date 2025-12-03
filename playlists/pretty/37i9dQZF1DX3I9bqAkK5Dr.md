@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath Kiran Goparaaju
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,996 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,002 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Premey](https://open.spotify.com/track/1ji8IVa3DutxiWbyixwj2i) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU), [Eknaath Kiran Goparaaju](https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf) | [Premey](https://open.spotify.com/album/2IBdSJj5qnyc6a0g0th2Qk) | 4:45 |
-| 2 | [Angana](https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Angana](https://open.spotify.com/album/4cd0KliADTNGuHrdLXiOgv) | 3:40 |
-| 3 | [Cheliya](https://open.spotify.com/track/5lhfZHPPPvgHsvlEoQIEZC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Cheliya](https://open.spotify.com/album/3hqJlxtPFccOcBIVlqHKTk) | 3:03 |
-| 4 | [Koyila](https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Koyila](https://open.spotify.com/album/1H0CDlteGaiXgj4ReSka7Z) | 3:52 |
-| 5 | [Naa Praanama](https://open.spotify.com/track/4aWHaOhVZohcuId23MxVFC) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Naa Praanama](https://open.spotify.com/album/2vCR1uAaMVJUh3VOVgp8v4) | 3:17 |
-| 6 | [No Hook Freeverse](https://open.spotify.com/track/5QwBnFrOOUA1Ko0RliK81x) | [C Shor](https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR) | [No Hook Freeverse](https://open.spotify.com/album/16aIU9o18bx2hhiDa5crRR) | 2:13 |
-| 7 | [Shiva Tatvam \- The Essence of Shiva](https://open.spotify.com/track/66qGo3BOnP7OjhIKkOHBmr) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS) | [Shiva Tatvam \- The Essence of Shiva](https://open.spotify.com/album/24pAZUXMHmM3C1Z8h0RzZT) | 2:28 |
-| 8 | [Chusa Chusa](https://open.spotify.com/track/63r17MDwPquKTBIjhC47tu) | [Rohit Boddapati](https://open.spotify.com/artist/3uMBcVVwdo2AlBH1GMfAie), [Sunitha Upadrasta](https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE) | [Chusa Chusa](https://open.spotify.com/album/7AphFYJdbcS8VUrML5qUbL) | 4:46 |
+| 2 | [Em Tech Ra B Tech](https://open.spotify.com/track/6SA8q9gHqnO0352sPHz8cP) | [Prem](https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l) | [Em Tech Ra B Tech](https://open.spotify.com/album/7aR1rjE3DjkdAgd34MPj6z) | 3:53 |
+| 3 | [Angana](https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Angana](https://open.spotify.com/album/4cd0KliADTNGuHrdLXiOgv) | 3:40 |
+| 4 | [Cheliya](https://open.spotify.com/track/5lhfZHPPPvgHsvlEoQIEZC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Cheliya](https://open.spotify.com/album/3hqJlxtPFccOcBIVlqHKTk) | 3:03 |
+| 5 | [Koyila](https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Koyila](https://open.spotify.com/album/1H0CDlteGaiXgj4ReSka7Z) | 3:52 |
+| 6 | [Naa Praanama](https://open.spotify.com/track/4aWHaOhVZohcuId23MxVFC) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Naa Praanama](https://open.spotify.com/album/2vCR1uAaMVJUh3VOVgp8v4) | 3:17 |
+| 7 | [No Hook Freeverse](https://open.spotify.com/track/5QwBnFrOOUA1Ko0RliK81x) | [C Shor](https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR) | [No Hook Freeverse](https://open.spotify.com/album/16aIU9o18bx2hhiDa5crRR) | 2:13 |
+| 8 | [Shiva Tatvam \- The Essence of Shiva](https://open.spotify.com/track/66qGo3BOnP7OjhIKkOHBmr) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS) | [Shiva Tatvam \- The Essence of Shiva](https://open.spotify.com/album/24pAZUXMHmM3C1Z8h0RzZT) | 2:28 |
 | 9 | [Jabilamma](https://open.spotify.com/track/0kFJWqJ07QeiKr9trZ4fri) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Jabilamma](https://open.spotify.com/album/6KFwKXtiOMtiz6GNR0qFj7) | 3:38 |
 | 10 | [Nene Ila](https://open.spotify.com/track/4Pu8BNqEffuLFDvnpyIdbD) | [Ayaan](https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Shravan Pakalapati](https://open.spotify.com/artist/0BWC5EnVELcjkDBbsI2mtZ) | [Nene Ila](https://open.spotify.com/album/4or2dpWYU3XqNEbssjOZQN) | 5:54 |
 | 11 | [Merise Merupa](https://open.spotify.com/track/1QGpnQE7C3Wt3SYiVY8obx) | [Palan](https://open.spotify.com/artist/3h3nSNpwp9zppXybRDEKdA) | [Merise Merupa](https://open.spotify.com/album/0nN9l0aPtowhV4H8GKCha5) | 3:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [O Seliya](https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c) | [Ganesh Krovvidi](https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [O Seliya](https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h) | 3:29 |
 | 75 | [Maya](https://open.spotify.com/track/0y5EJMV1PE3YPDUWMN314E) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Maya](https://open.spotify.com/album/39qvG5SrtnJO2gBpl9m2mf) | 4:42 |
 
-Snapshot ID: `AAAAAFIYpbbm4qdFq3to6/yvhj64EgA2`
+Snapshot ID: `AAAAAAthjvKs/ap4q/iPb8raa9erQDwz`

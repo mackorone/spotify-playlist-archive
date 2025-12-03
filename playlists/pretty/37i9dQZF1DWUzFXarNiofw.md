@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,644 likes - 307 songs - 15 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,607 likes - 307 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,7 +211,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 201 | [Take Our Time](https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Take Our Time](https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg) | 2:25 |
 | 202 | [Alright](https://open.spotify.com/track/2IBeAHumOwj6gN0Ws3QyN6) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Alright](https://open.spotify.com/album/42sV9yX0hOAGickkrH77WS) | 2:24 |
 | 203 | [baby](https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [baby](https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr) | 3:03 |
-| 204 | [Feels Like Love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Feels Like Love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
+| 204 | [feels like love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [feels like love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
 | 205 | [Lost In U](https://open.spotify.com/track/2WBt5qQvylZxLi8C6nI72w) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Lost In U](https://open.spotify.com/album/5le4htJmmUjUSi7preBJyE) | 4:38 |
 | 206 | [TemporaryLuv](https://open.spotify.com/track/2shjDrf0QwJywZ3EwERQuF) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [TemporaryLuv](https://open.spotify.com/album/40uLchGNfEeLr6ZaPhfYZc) | 3:47 |
 | 207 | [Can't Leave Alone \(feat\. Avenoir & Maz B\)](https://open.spotify.com/track/3bGfuGWywg85koHG8nturm) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [86](https://open.spotify.com/artist/2o89WDAOoTqUO7AA9hvh1Q) | ['02](https://open.spotify.com/album/4G1Bike7xA2biArlI5WNzO) | 3:33 |

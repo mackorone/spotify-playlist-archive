@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 579398,
+  "num_followers": 579367,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACnNYZAX+B2W02nR5YKFMjn",
+  "snapshot_id": "aSzagAAAAAA4OzbOPhEgRSHrXh6LoW+D",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musicas para Churrasco, Vol.1 (Ao Vivo) [Delux Edition]",
-        "url": "https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah"
+        "name": "Guerreiro, Guerreira",
+        "url": "https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo"
       },
       "artists": [
         {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "Heli\u00e3o",
+          "url": "https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV"
+        },
+        {
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
         },
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
         }
       ],
-      "duration_ms": 493373,
-      "name": "Di\u00e1rio de um Detento - Ao Vivo",
-      "url": "https://open.spotify.com/track/4W3OLec9sTB37yegHQVxOq"
+      "duration_ms": 267053,
+      "name": "Periferia / Sample: Fim De Semana No Parque",
+      "url": "https://open.spotify.com/track/7hXQTTsfyeIiT7TB1ilBel"
     },
     {
       "added_at": null,
@@ -335,30 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerreiro, Guerreira",
-        "url": "https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo"
+        "name": "Musicas para Churrasco, Vol.1 (Ao Vivo) [Delux Edition]",
+        "url": "https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah"
       },
       "artists": [
         {
-          "name": "Heli\u00e3o",
-          "url": "https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV"
-        },
-        {
-          "name": "Negra Li",
-          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
         },
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
         }
       ],
-      "duration_ms": 267053,
-      "name": "Periferia / Sample: Fim De Semana No Parque",
-      "url": "https://open.spotify.com/track/7hXQTTsfyeIiT7TB1ilBel"
+      "duration_ms": 493373,
+      "name": "Di\u00e1rio de um Detento - Ao Vivo",
+      "url": "https://open.spotify.com/track/4W3OLec9sTB37yegHQVxOq"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 165366,
-      "name": "Intro - People Get Up And Drive Your Funky Soul - Ao Vivo",
-      "url": "https://open.spotify.com/track/0mxcW0LJMBXHVT8PXaD8H0"
+      "duration_ms": 214366,
+      "name": "Beco Sem Sa\u00edda - Ao Vivo",
+      "url": "https://open.spotify.com/track/1X8ADi0LT3YU72H7QMBj4z"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 214366,
-      "name": "Beco Sem Sa\u00edda - Ao Vivo",
-      "url": "https://open.spotify.com/track/1X8ADi0LT3YU72H7QMBj4z"
+      "duration_ms": 165366,
+      "name": "Intro - People Get Up And Drive Your Funky Soul - Ao Vivo",
+      "url": "https://open.spotify.com/track/0mxcW0LJMBXHVT8PXaD8H0"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 823936,
+  "num_followers": 823989,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACKRrlSIZurpS5lahbQo/MH",
+  "snapshot_id": "aSzagAAAAABg5c7mU1uk5dGNBpK4CGMK",
   "tracks": [
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 178617,
-      "name": "Looking For Somebody (To Love)",
-      "url": "https://open.spotify.com/track/6hVJ1HAba6UjTeqvLQ9RXk"
+      "duration_ms": 165457,
+      "name": "Wintering",
+      "url": "https://open.spotify.com/track/2bDcAgInBIJilki3Y9RpHl"
     },
     {
       "added_at": null,
@@ -599,46 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        },
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 250603,
-      "name": "I might say something stupid featuring the 1975 & jon hopkins",
-      "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 285833,
-      "name": "The Birthday Party",
-      "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spinning (with Charli XCX & The 1975)",
         "url": "https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii"
       },
@@ -659,6 +619,46 @@
       "duration_ms": 172559,
       "name": "Spinning (with Charli XCX & The 1975)",
       "url": "https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 285833,
+      "name": "The Birthday Party",
+      "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 250603,
+      "name": "I might say something stupid featuring the 1975 & jon hopkins",
+      "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 283970,
-      "name": "Antichrist",
-      "url": "https://open.spotify.com/track/5pmGhj5ToTK2kSinMCS0LJ"
+      "duration_ms": 240109,
+      "name": "So Far (It's Alright)",
+      "url": "https://open.spotify.com/track/0iFktIoaM3qNeguIibIEyB"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 240109,
-      "name": "So Far (It's Alright)",
-      "url": "https://open.spotify.com/track/0iFktIoaM3qNeguIibIEyB"
+      "duration_ms": 283970,
+      "name": "Antichrist",
+      "url": "https://open.spotify.com/track/5pmGhj5ToTK2kSinMCS0LJ"
     },
     {
       "added_at": null,

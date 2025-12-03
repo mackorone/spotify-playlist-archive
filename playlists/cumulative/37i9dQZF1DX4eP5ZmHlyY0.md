@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: RIIZE
 
-815 songs - 1 day 20 hr 39 min
+817 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [BFX](https://open.spotify.com/track/5Pp1hO78VmkTenjTtmRryl) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [BFX](https://open.spotify.com/album/6jkV59Memx1CaFLE7dd1vQ) | 3:50 | 2025-08-28 | 2025-09-16 |
 | [BIG BANDS \(狂想曲\)](https://open.spotify.com/track/1wPgCPMdqb1YA7tyE079xd) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [BIG BANDS \- The 7th Mini Album](https://open.spotify.com/album/7bznUQPHdmQnEPx0AjC9qI) | 2:58 | 2025-07-17 | 2025-10-25 |
 | [Birthday](https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 2:44 | 2024-10-01 | 2025-03-07 |
-| [Black Flame](https://open.spotify.com/track/15xZH2mWpiJuUfdyKzmfN5) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Black Flame](https://open.spotify.com/album/5KPZPRjJgWTCAUgE8b4EkL) | 3:29 | 2025-10-10 |  |
+| [Black Flame](https://open.spotify.com/track/15xZH2mWpiJuUfdyKzmfN5) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Black Flame](https://open.spotify.com/album/5KPZPRjJgWTCAUgE8b4EkL) | 3:29 | 2025-10-10 | 2025-12-03 |
+| [Black Flame](https://open.spotify.com/track/5tYboephXEgc81bBkRCxQt) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Black Flame](https://open.spotify.com/album/0Psbws3S4t92KPAWD61TGC) | 3:31 | 2025-12-02 |  |
 | [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 | 2023-12-12 | 2024-01-17 |
 | [BLAST](https://open.spotify.com/track/7CIaSfRtvvFZw7W8x4PqBl) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [BLAST](https://open.spotify.com/album/4F8jUoMpJyqtpqZI4atNHQ) | 2:37 | 2025-06-17 | 2025-06-20 |
 | [Blast Off](https://open.spotify.com/track/0vvOYAukZ2VD49ey01FJHY) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [lIve](https://open.spotify.com/album/0E9mMgD3URkyjhP0UHBChk) | 3:37 | 2024-09-03 | 2024-09-25 |
@@ -683,10 +684,11 @@
 | [Wait On Me](https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Wait On Me \- The 4th Mini Album](https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj) | 3:13 | 2025-04-21 | 2025-09-17 |
 | [Walkie Talkie](https://open.spotify.com/track/20mxgOiIMVXhwnDSwfCplt) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE FRAME](https://open.spotify.com/album/31T8IEaTjhKw9ziMXisaPe) | 3:04 | 2024-06-25 | 2024-07-03 |
 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 | 2025-03-06 | 2025-04-18 |
-| [Wall Flowers](https://open.spotify.com/track/7hH6xRAqH9yCkPfRVDGHrt) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [Wall Flowers](https://open.spotify.com/album/6JNlu1MYZPrJTU7KC3wJj8) | 3:00 | 2025-10-07 |  |
+| [Wall Flowers](https://open.spotify.com/track/7hH6xRAqH9yCkPfRVDGHrt) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [Wall Flowers](https://open.spotify.com/album/6JNlu1MYZPrJTU7KC3wJj8) | 3:00 | 2025-10-07 | 2025-12-03 |
 | [Waterfall](https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Waterfall](https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt) | 2:53 | 2024-01-31 | 2024-04-11 |
 | [WE ARE](https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7) | [STARTO for you](https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz) | [WE ARE](https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa) | 5:21 | 2024-04-09 | 2025-01-04 |
 | [We are the best](https://open.spotify.com/track/2ZH5inwjqHJ1ByyhKEZrE7) | [EXILE THE SECOND](https://open.spotify.com/artist/5l7Uyt1IiYk8l93ohXiQd6) | [THE FAR EAST COWBOYZ \(E.P.\)](https://open.spotify.com/album/0UJIgWc7sdJZ8VhxEnzLhT) | 3:26 | 2024-02-29 | 2024-03-06 |
+| [Welcome To Our Show Tonight](https://open.spotify.com/track/0bqPmSjWUysmjTwEuYnV7u) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [’s travelers](https://open.spotify.com/album/1RNh6f6HMQ2woD5KHr0Rbo) | 3:57 | 2025-12-02 |  |
 | [What is done \- feat\. BOOM BOOM CASH](https://open.spotify.com/track/7CgAIw3V4wocPaH5Kt4a4K) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW), [Boom Boom Cash](https://open.spotify.com/artist/2Q6XC0dzJl7VbE678w82Vf) | [What is done \(feat\. BOOM BOOM CASH\)](https://open.spotify.com/album/7DZpUkMThxkXuZBzb2rxTO) | 4:18 | 2023-11-24 | 2023-12-20 |
 | [What Is Your Secret?](https://open.spotify.com/track/7GSDi90nphdPZfkieyuZGe) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [What Is Your Secret?](https://open.spotify.com/album/3X0CLXVrz3teE9SQQShyeS) | 3:36 | 2025-02-25 | 2025-04-21 |
 | [What Time Is It?](https://open.spotify.com/track/1j98eCtsVtPdxilHndXcsv) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [What Time Is It?](https://open.spotify.com/album/0EwMZukqVpTkfii1Oz0WFY) | 2:31 | 2024-07-23 | 2024-09-25 |

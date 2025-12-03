@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49",
-  "num_followers": 123025,
+  "num_followers": 123039,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-11-21 12:14:13",
       "album": {
-        "name": "clean",
-        "url": "https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2"
-      },
-      "artists": [
-        {
-          "name": "SCRUBB",
-          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
-        }
-      ],
-      "duration_ms": 258401,
-      "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21",
-      "url": "https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX"
-    },
-    {
-      "added_at": "2025-11-21 12:14:13",
-      "album": {
         "name": "\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e2b\u0e21\u0e38\u0e19\u0e44\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e19",
         "url": "https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 223000,
       "name": "\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e2b\u0e21\u0e38\u0e19\u0e44\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e19",
       "url": "https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j"
+    },
+    {
+      "added_at": "2025-11-21 12:14:13",
+      "album": {
+        "name": "clean",
+        "url": "https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "duration_ms": 258401,
+      "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21",
+      "url": "https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX"
     },
     {
       "added_at": "2025-11-21 12:14:13",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-11-21 12:14:13",
       "album": {
-        "name": "\u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35 (OST. The Red Envelope Album)",
-        "url": "https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2"
-      },
-      "artists": [
-        {
-          "name": "BILLKIN",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e1e\u0e1a (Knock Knock) - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
-      "url": "https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq"
-    },
-    {
-      "added_at": "2025-11-21 12:14:13",
-      "album": {
         "name": "rain",
         "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 196896,
       "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19",
       "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
+    },
+    {
+      "added_at": "2025-11-21 12:14:13",
+      "album": {
+        "name": "\u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35 (OST. The Red Envelope Album)",
+        "url": "https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2"
+      },
+      "artists": [
+        {
+          "name": "BILLKIN",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e1e\u0e1a (Knock Knock) - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
+      "url": "https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq"
     },
     {
       "added_at": "2025-11-21 12:14:13",
@@ -791,22 +791,18 @@
     {
       "added_at": "2025-11-21 12:14:13",
       "album": {
-        "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
-        "url": "https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV"
+        "name": "nerd eye view",
+        "url": "https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN"
       },
       "artists": [
         {
-          "name": "Kinkaworn",
-          "url": "https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg"
-        },
-        {
-          "name": "BELL WARISARA",
-          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
         }
       ],
-      "duration_ms": 198787,
-      "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
-      "url": "https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ"
+      "duration_ms": 207480,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
+      "url": "https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ"
     },
     {
       "added_at": "2025-11-21 12:14:13",
@@ -827,18 +823,22 @@
     {
       "added_at": "2025-11-21 12:14:13",
       "album": {
-        "name": "nerd eye view",
-        "url": "https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN"
+        "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
+        "url": "https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV"
       },
       "artists": [
         {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+          "name": "Kinkaworn",
+          "url": "https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg"
+        },
+        {
+          "name": "BELL WARISARA",
+          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
         }
       ],
-      "duration_ms": 207480,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
-      "url": "https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ"
+      "duration_ms": 198787,
+      "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
+      "url": "https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ"
     },
     {
       "added_at": "2025-11-21 12:14:13",
@@ -1403,18 +1403,22 @@
     {
       "added_at": "2025-11-21 12:14:13",
       "album": {
-        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
+        "name": "This City Won\u2019t Be Lonely Anymore",
+        "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
       },
       "artists": [
         {
-          "name": "THEMOONWILLALWAYSBEWITHME",
-          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        },
+        {
+          "name": "feat. \u0e2d\u0e2d\u0e21 TELExTELEXs",
+          "url": "https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ"
         }
       ],
-      "duration_ms": 225714,
-      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
+      "duration_ms": 296000,
+      "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
+      "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
     },
     {
       "added_at": "2025-11-21 12:14:13",
@@ -1435,22 +1439,18 @@
     {
       "added_at": "2025-11-21 12:14:13",
       "album": {
-        "name": "This City Won\u2019t Be Lonely Anymore",
-        "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
+        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
       },
       "artists": [
         {
-          "name": "Three Man Down",
-          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
-        },
-        {
-          "name": "feat. \u0e2d\u0e2d\u0e21 TELExTELEXs",
-          "url": "https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ"
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
         }
       ],
-      "duration_ms": 296000,
-      "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
-      "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
+      "duration_ms": 225714,
+      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
     },
     {
       "added_at": "2025-11-21 12:14:13",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2025-11-21 12:14:13",
       "album": {
-        "name": "begins",
-        "url": "https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR"
+        "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21 - Single",
+        "url": "https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj"
       },
       "artists": [
         {
-          "name": "Big Ass",
-          "url": "https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv"
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
         }
       ],
-      "duration_ms": 231946,
-      "name": "\u0e02\u0e49\u0e32\u0e19\u0e49\u0e2d\u0e22\u0e2a\u0e21\u0e04\u0e27\u0e23\u0e15\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI"
+      "duration_ms": 261250,
+      "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4"
     },
     {
       "added_at": "2025-11-21 12:14:13",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2025-11-21 12:14:13",
       "album": {
-        "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21 - Single",
-        "url": "https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj"
+        "name": "begins",
+        "url": "https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR"
       },
       "artists": [
         {
-          "name": "Three Man Down",
-          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+          "name": "Big Ass",
+          "url": "https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv"
         }
       ],
-      "duration_ms": 261250,
-      "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
-      "url": "https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4"
+      "duration_ms": 231946,
+      "name": "\u0e02\u0e49\u0e32\u0e19\u0e49\u0e2d\u0e22\u0e2a\u0e21\u0e04\u0e27\u0e23\u0e15\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI"
     },
     {
       "added_at": "2025-11-21 12:14:13",
@@ -1555,6 +1555,22 @@
       "duration_ms": 280779,
       "name": "\u0e01\u0e30\u0e17\u0e31\u0e19\u0e2b\u0e31\u0e19",
       "url": "https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu"
+    },
+    {
+      "added_at": "2025-11-21 12:14:13",
+      "album": {
+        "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 (From \u201c\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d\u201d)",
+        "url": "https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p"
+      },
+      "artists": [
+        {
+          "name": "BILLKIN",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 238651,
+      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - (From \u201c\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d\u201d)",
+      "url": "https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1"
     },
     {
       "added_at": "2025-11-21 12:14:13",
@@ -1619,22 +1635,6 @@
       "duration_ms": 246904,
       "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
-    },
-    {
-      "added_at": "2025-11-21 12:14:13",
-      "album": {
-        "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 (From \u201c\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d\u201d)",
-        "url": "https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p"
-      },
-      "artists": [
-        {
-          "name": "BILLKIN",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 238651,
-      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - (From \u201c\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d\u201d)",
-      "url": "https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1"
     },
     {
       "added_at": "2025-11-21 12:14:13",

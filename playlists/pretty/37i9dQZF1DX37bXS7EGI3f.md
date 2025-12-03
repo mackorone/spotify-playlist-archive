@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Beyond The Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,898 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,983 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 45 | [Saints and Sinners](https://open.spotify.com/track/2uRNqiZTbAJih8VnfyAIWb) | [Wings of Steel](https://open.spotify.com/artist/0y43lCvntQtyFlhCABGb0T) | [Winds of Time](https://open.spotify.com/album/2xZIU1PggMA6Pu9bpNfICG) | 2:46 |
 | 46 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 |
 | 47 | [Field of Swords](https://open.spotify.com/track/2ULATnbyvbvqH1IZey2xb3) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Field of Swords](https://open.spotify.com/album/7Emw3aKs6NFzesCtjH4qbr) | 4:11 |
-| 48 | [Twilight Cabaret](https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry) | 3:55 |
-| 49 | [BRAVE NEW WORLD](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [BRAVE NEW WORLD](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 |
+| 48 | [BRAVE NEW WORLD](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [BRAVE NEW WORLD](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 |
+| 49 | [Twilight Cabaret](https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry) | 3:55 |
 | 50 | [Fly Away](https://open.spotify.com/track/0KRMfSzkY5G4ORX2jJDX9E) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Fly Away](https://open.spotify.com/album/4zidxVLC7krzVWGJQWHFnV) | 3:59 |
 | 51 | [Abyss of Time \- Countdown to Singularity \-](https://open.spotify.com/track/627pEZNVSQ3iUyvOoxXVUw) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:20 |
 | 52 | [Raveyard \(feat\. Käärijä\)](https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Raveyard](https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ) | 3:45 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 71 | [Break The Silence](https://open.spotify.com/track/0HsVlWPK8eZ8ig3NMZC5zP) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Break The Silence](https://open.spotify.com/album/3V6YPXL4wfUaO2rr5YoAfH) | 4:23 |
 | 72 | [A New Beginning](https://open.spotify.com/track/7C9nqo62jehSZ1AVLxU4Jn) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [A New Beginning](https://open.spotify.com/album/2B6JE5slhWMLNe7yPmBxYY) | 4:12 |
 | 73 | [Re\-Vision](https://open.spotify.com/track/450nTCIFJLFG6M9bxDohJP) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:04 |
-| 74 | [I'll Be Thunder](https://open.spotify.com/track/7wwcdLz4PNnROgGn58VL1k) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [I'll Be Thunder](https://open.spotify.com/album/4GSNqQd7vKmVDCqfhGDS3y) | 3:20 |
-| 75 | [In the Name of Love](https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Vultures Die Alone](https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN) | 4:12 |
+| 74 | [In the Name of Love](https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Vultures Die Alone](https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN) | 4:12 |
+| 75 | [I'll Be Thunder](https://open.spotify.com/track/7wwcdLz4PNnROgGn58VL1k) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [I'll Be Thunder](https://open.spotify.com/album/4GSNqQd7vKmVDCqfhGDS3y) | 3:20 |
 | 76 | [Venerate Me](https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Venerate Me](https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7) | 4:43 |
 | 77 | [Eternal Rains](https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter III \- Downfall](https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st) | 3:54 |
 | 78 | [I Will Die In It](https://open.spotify.com/track/5g7cfmC3jg0eBeruKiGwmY) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [I Will Die In It](https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV) | 3:44 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 96 | [Fairy of the Bog](https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Fairy of the Bog](https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1) | 4:36 |
 | 97 | [Heroes](https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Heroes](https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN) | 3:45 |
 | 98 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |
-| 99 | [Helldiver](https://open.spotify.com/track/6yxiUlPSK6oq1HFkepBh8Z) | [Invasion](https://open.spotify.com/artist/0UVhdgxNalIFFYqUoLeREd) | [Helldiver](https://open.spotify.com/album/59U6vhesTkJjbJAba5ZSKv) | 3:32 |
-| 100 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
+| 99 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 |
+| 100 | [Helldiver](https://open.spotify.com/track/6yxiUlPSK6oq1HFkepBh8Z) | [Invasion](https://open.spotify.com/artist/0UVhdgxNalIFFYqUoLeREd) | [Helldiver](https://open.spotify.com/album/59U6vhesTkJjbJAba5ZSKv) | 3:32 |
 
 Snapshot ID: `AAAAALXPooL3q7HH43hVcDmGID0GlwJs`

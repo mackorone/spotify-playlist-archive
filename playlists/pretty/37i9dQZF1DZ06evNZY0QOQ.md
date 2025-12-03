@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,464 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,465 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 16 | [Skoin Skoin \(feat\. Bianca Costa\)](https://open.spotify.com/track/55Rnsl2V2IjPf7wiwCyEFq) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:53 |
 | 17 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/7q82Rs7vQn8bJcwj8uE0Af) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 2:17 |
 | 18 | [IT’S TRUE \(feat\. Nora Fatehi\)](https://open.spotify.com/track/18TFbCHdZbnnyNIsJHcyGe) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:49 |
-| 19 | [nothing spoil](https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 3:58 |
+| 19 | [tey tey](https://open.spotify.com/track/2rnfU3akycNpzV0hSXdkGG) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:52 |
 | 20 | [dtf](https://open.spotify.com/track/4RAuM2qWLBDrNtzfz3bBKs) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 3:31 |
 | 21 | [Shakara](https://open.spotify.com/track/5XeMITYsLdefeCB0Q1RVOU) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:20 |
 | 22 | [DORIME \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/154GtlyXeS8mEwNytNJyI4) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:34 |
-| 23 | [tey tey](https://open.spotify.com/track/2rnfU3akycNpzV0hSXdkGG) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:52 |
+| 23 | [nothing spoil](https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 3:58 |
 | 24 | [Wetin Be Love](https://open.spotify.com/track/0IRuh90YBK9a99cW3R9skS) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:35 |
 | 25 | [Kiss Me Like You Miss Me](https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:53 |
 | 26 | [love nwantiti x dumebi \- Midé Naike Remix](https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Midé Naike](https://open.spotify.com/artist/7qYDPQS76PSE3OzJZ48JCc) | [love nwantiti x dumebi \(Midé Naike Remix\)](https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [Maria](https://open.spotify.com/track/6cgPG5VRHJvoXZ8NY8MmOR) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Forward](https://open.spotify.com/album/5caurEEX04czGkrjHcARHu) | 2:33 |
 | 50 | [FANTASY](https://open.spotify.com/track/6ylNT9nQLTOglCEHqvFnGo) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:42 |
 
-Snapshot ID: `aSuJAAAAAAApPyoP5axoVMQ9JAdg48nf`
+Snapshot ID: `aSzagAAAAADIIsKpehAYe4oyQ70K86ar`

@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 10498,
+  "num_followers": 10499,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAAyr+GizzKLooq10kJXOqCJ",
+  "snapshot_id": "aSzagAAAAADbccFqP5vA5k1G2pb1awyI",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos El Vallenato",
+        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "Ac\u00e9ptame Como Soy",
+      "url": "https://open.spotify.com/track/4erN5dF9fvpx3r9NrE3rpT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fuera De Serie",
         "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
       },
@@ -743,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos El Vallenato",
-        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
+        "name": "Tercer Concierto Vallenato",
+        "url": "https://open.spotify.com/album/12q2Qwfg2anbrlPafinMPv"
       },
       "artists": [
         {
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 266866,
-      "name": "Ac\u00e9ptame Como Soy",
-      "url": "https://open.spotify.com/track/4erN5dF9fvpx3r9NrE3rpT"
+      "duration_ms": 231173,
+      "name": "Bonita, Bonita",
+      "url": "https://open.spotify.com/track/5N4jofByz3u9VsIHRNG1mR"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tercer Concierto Vallenato",
-        "url": "https://open.spotify.com/album/12q2Qwfg2anbrlPafinMPv"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Bonita, Bonita",
-      "url": "https://open.spotify.com/track/5N4jofByz3u9VsIHRNG1mR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clase Aparte",
         "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
       },
@@ -823,18 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Elegidos",
-        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
+        "name": "Los 30 Mejores",
+        "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
       },
       "artists": [
+        {
+          "name": "Rafael Orozco",
+          "url": "https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8"
+        },
         {
           "name": "Binomio de Oro",
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 223293,
-      "name": "Campana",
-      "url": "https://open.spotify.com/track/1lgSdPP75qkN4CUZvbZILI"
+      "duration_ms": 250533,
+      "name": "Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/79c4saLiw95dwN0D8UHgoW"
     }
   ],
   "unique_name": "This Is Binomio de Oro",

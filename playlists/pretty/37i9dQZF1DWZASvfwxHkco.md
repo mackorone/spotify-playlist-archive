@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 
 > 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,018 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,014 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 | 55 | [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 |
 | 56 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 |
 | 57 | [Our Time](https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Our Time](https://open.spotify.com/album/1R0CAZwCU6rRvMsmaerCjz) | 2:41 |
-| 58 | [Heartbreak Melody](https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Heartbreak Melody](https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4) | 3:11 |
+| 58 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 |
 | 59 | [Focus \(feat\. CLOVES\)](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Focus \(feat\. CLOVES\)](https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF) | 3:58 |
-| 60 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 |
-| 61 | [boom](https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [boom](https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X) | 2:43 |
-| 62 | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bomfunk MC's](https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS) | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc) | 2:54 |
+| 60 | [Heartbreak Melody](https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Heartbreak Melody](https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4) | 3:11 |
+| 61 | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bomfunk MC's](https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS) | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc) | 2:54 |
+| 62 | [boom](https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [boom](https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X) | 2:43 |
 | 63 | [The Way I Are](https://open.spotify.com/track/5osKlPBtBF4rC9o7PyCWm1) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [The Way I Are](https://open.spotify.com/album/5zWSMWktWUZq2crOfyWuxW) | 3:06 |
 | 64 | [Feeling Good](https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Feeling Good](https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk) | 3:23 |
 | 65 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 |

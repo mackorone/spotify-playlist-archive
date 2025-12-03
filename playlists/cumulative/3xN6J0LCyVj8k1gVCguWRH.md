@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,480 songs - 12 day 18 hr 10 min
+5,481 songs - 12 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1020,7 +1020,7 @@
 | [Counsel](https://open.spotify.com/track/160gwcRtxWXJHbbo7EAwQr) | [Gut Czech](https://open.spotify.com/artist/5nYRJ0CNgY1eQviK4QuX7F) | [Counsel](https://open.spotify.com/album/2kDTDLtF67NEOkY2XLvje1) | 3:05 | 2022-03-17 | 2022-04-06 |
 | [Counting the Stars](https://open.spotify.com/track/1ibf1Oha521lxFepe9eZAq) | [Clint Chandler](https://open.spotify.com/artist/5AphVxyhxyorR80pXXF5Mj), [Young Griff](https://open.spotify.com/artist/28hXcniIxGceK87DAOjHlb) | [Bad Bad News](https://open.spotify.com/album/5jDAA2redW0JxKjvWUrWet) | 4:13 | 2022-08-05 | 2022-08-22 |
 | [Country Boy](https://open.spotify.com/track/2nAMmvM6gfnEc5wfvQd3MK) | [Chris Detroit](https://open.spotify.com/artist/6bpIYD98BubYgmduuGN4xA), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Country Boy](https://open.spotify.com/album/6x0QgK7jzGMyN0DX4UWlJm) | 3:10 | 2024-10-18 | 2024-10-30 |
-| [Country Couture](https://open.spotify.com/track/3GGuzrItqbNteGf7ncWfoo) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Country Couture](https://open.spotify.com/album/0WExxYdniG73u2ODYW2ZGR) | 3:14 | 2024-12-19 | 2025-07-15 |
+| [Country Couture](https://open.spotify.com/track/3GGuzrItqbNteGf7ncWfoo) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Country Couture](https://open.spotify.com/album/0WExxYdniG73u2ODYW2ZGR) | 3:14 | 2024-12-19 |  |
 | [Country in Me](https://open.spotify.com/track/47bagsKLte7yclBHemNdHb) | [Catt McCreary](https://open.spotify.com/artist/3kazNNxWucsWpONl39pc8H) | [Country in Me](https://open.spotify.com/album/4WEzBL2dKaXmRWxQFRGPxP) | 2:33 | 2025-06-11 | 2025-06-23 |
 | [Country Life Is All Right](https://open.spotify.com/track/0GdIdoTSBRE1xcDxwfs99l) | [Colt Rivers Band](https://open.spotify.com/artist/6CI5i9IgYbPfL1E5BCkeXP) | [Country Life Is All Right](https://open.spotify.com/album/32t6ZEPk3daIsWeWGj8wJi) | 3:51 | 2025-05-30 | 2025-06-11 |
 | [CoverGirl](https://open.spotify.com/track/5wuYBnpMwkC6CQ82CZIm7J) | [Aubryanna](https://open.spotify.com/artist/7IbcqlUfWrhO2EW2J1yFWV) | [CoverGirl](https://open.spotify.com/album/2kvLKtjZopxg1yFi6FkE5a) | 3:49 | 2024-04-20 | 2024-05-03 |
@@ -2332,6 +2332,7 @@
 | [Ice Slippin](https://open.spotify.com/track/5qI6auTKKneDNe4u06reaC) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 4:15 | 2023-11-08 | 2023-12-30 |
 | [Identical Days](https://open.spotify.com/track/1erxoNVizevx60yQYWzVrS) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Identical Days](https://open.spotify.com/album/0U5QHJO3k5EeLp0bXFizbZ) | 2:03 | 2024-01-12 | 2024-01-25 |
 | [Idk](https://open.spotify.com/track/366NUG73Ueh1wBafNVgE83) | [Heyhmann](https://open.spotify.com/artist/6iQICOTmuhVXfMhz4oQPDA) | [Idk](https://open.spotify.com/album/5Y4Z6Z0T1syOKLytMCba32) | 2:45 | 2024-08-10 | 2024-08-23 |
+| [idk why](https://open.spotify.com/track/3TWZ8ApkolbHbOu4pjPQQf) | [Christian James](https://open.spotify.com/artist/2cl5NOs4eJ5SKfjweJlHMB), [P\. C\. Murahari](https://open.spotify.com/artist/12PL4fKleVESVTglSfUruo) | [idk why](https://open.spotify.com/album/2AZEgo4MZrlCfp4NDIM1aX) | 2:21 | 2025-12-02 |  |
 | [if i call](https://open.spotify.com/track/4gCwv7vX8hauieznKooNfl) | [Ry August](https://open.spotify.com/artist/2fHjBnaMn8d67tfMZSGIpC) | [if i call](https://open.spotify.com/album/25Db84D2CFggsagc8TPIuY) | 2:25 | 2020-11-13 | 2021-01-23 |
 | [If I Ever](https://open.spotify.com/track/4KCyhL2UbGFrL0rgKbbFYI) | [VDO](https://open.spotify.com/artist/6hypoWswEp1IwqNUdergI0) | [Right There and Then](https://open.spotify.com/album/1mctQHy6cgPoz1JPw89EVI) | 2:43 | 2023-07-27 | 2023-08-06 |
 | [If It Wasn't For You...](https://open.spotify.com/track/7jeoLM4HHzTivLzsbD7D3F) | [MÃI XƯỚNG](https://open.spotify.com/artist/1JdIAuQ0bBqdMiRHHQExqG) | [If It Wasn't For You...](https://open.spotify.com/album/3W9RtDWcVF0iTrx0aCA7KZ) | 5:24 | 2024-12-27 | 2025-01-08 |

@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 365360,
+  "num_followers": 365362,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-11-18 05:29:26",
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 151307,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
+    },
+    {
+      "added_at": "2025-11-18 05:29:26",
+      "album": {
         "name": "Thanks For Nothing, See You Never",
         "url": "https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 163125,
       "name": "Ain't Just a Game",
       "url": "https://open.spotify.com/track/767X07pxPQM1N9mtjzEdbQ"
-    },
-    {
-      "added_at": "2025-11-18 05:29:26",
-      "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 151307,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
     },
     {
       "added_at": "2025-11-18 05:29:26",

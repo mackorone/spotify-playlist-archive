@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> <a href="https://www.instagram.com/p/DRrWQNJDGWz/? =img\_index=1">Il re della trap torna sul trono\. XDVR Reloaded compie 10 anni</a>, venerdì esce <a href="spotify:prerelease:2obZ4UZwQgDnSvT6lb6cAK">XDVR ANNIVERSAR10</a>.
+> <a href="https://www.instagram.com/p/DRuZ7pdDNAY/?img\_index=1">Il re della trap torna sul trono\. XDVR Reloaded compie 10 anni</a>, venerdì esce <a href="spotify:prerelease:2obZ4UZwQgDnSvT6lb6cAK">XDVR ANNIVERSAR10</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,082 likes - 58 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,059 likes - 58 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 57 | [IL MIO DEAL \(feat\. Young Hash\)](https://open.spotify.com/track/7egBWl4HwkQ80GYjX63DI5) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX) | [IL MIO DEAL \(feat\. Young Hash\)](https://open.spotify.com/album/2Fz4X6urACFPLMHX5NeNaY) | 1:58 |
 | 58 | [Felicità 2](https://open.spotify.com/track/0RIUPuefusjS3MWDLvhP8c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Felicità 2](https://open.spotify.com/album/3AH2rrreD1bv10NB7pSbx9) | 2:52 |
 
-Snapshot ID: `AAAAAOWU4p2SFBr23VD5KfIb4jmHsUGr`
+Snapshot ID: `AAAAAAuu1fibNu1QiYnJneeZqk0LJJSH`

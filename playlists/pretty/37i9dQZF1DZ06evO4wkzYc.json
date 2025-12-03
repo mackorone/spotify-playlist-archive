@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 181585,
+  "num_followers": 181700,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAABr0lktkMt6qkEGyvCXaYLy",
+  "snapshot_id": "aSzagAAAAADAN8T+69A9xtQn/YDyeELH",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chavo (En Vivo)",
-        "url": "https://open.spotify.com/album/5dEUxpQSGwvUtcSvtO4tG6"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 245098,
-      "name": "El Chavo - En Vivo",
-      "url": "https://open.spotify.com/track/4Wr7lrIjNOUeOtmPLZK4uz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Amor Por Ti (En Vivo)",
         "url": "https://open.spotify.com/album/1948hF6tu8CHLjz7RbTA0H"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 239695,
       "name": "Mi Amor Por Ti (En Vivo)",
       "url": "https://open.spotify.com/track/4s2fRub8kyh1hD2m8xZ9cv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chavo (En Vivo)",
+        "url": "https://open.spotify.com/album/5dEUxpQSGwvUtcSvtO4tG6"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 245098,
+      "name": "El Chavo - En Vivo",
+      "url": "https://open.spotify.com/track/4Wr7lrIjNOUeOtmPLZK4uz"
     },
     {
       "added_at": null,

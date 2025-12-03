@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: ヤバイTシャツ屋さん
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Arakezuri
 
-861 songs - 1 day 21 hr 36 min
+863 songs - 1 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [Laugh at life](https://open.spotify.com/track/6yvvbqMXxUlcP39fI0oUZA) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [LAUGH AT LIFE](https://open.spotify.com/album/3Z3pABiK1AJkaVtaAV37P7) | 3:16 | 2022-05-17 | 2022-07-28 |
 | [Lazy](https://open.spotify.com/track/4u05WMv0zg3Wya55tFvxyu) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/6kVvpVvLHWXcAWth37cDv1) | 3:43 | 2023-05-16 | 2023-06-10 |
 | [Lazy](https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT) | 3:43 | 2023-06-09 | 2023-06-14 |
-| [Let It Burn](https://open.spotify.com/track/0GAUTkC5RbnqoJ3HJ7IoRD) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Let It Burn](https://open.spotify.com/album/3WJehw5mVS7ZNU688Q7eeZ) | 3:29 | 2025-09-02 |  |
+| [Let It Burn](https://open.spotify.com/track/0GAUTkC5RbnqoJ3HJ7IoRD) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Let It Burn](https://open.spotify.com/album/3WJehw5mVS7ZNU688Q7eeZ) | 3:29 | 2025-09-02 | 2025-12-03 |
 | [LET IT FLOW](https://open.spotify.com/track/3rCM5OLI4PPGPkIX4wPTWj) | [FIRE ON FIRE](https://open.spotify.com/artist/3xg0MBPvDDkWB4s05UmbCC) | [SPARK](https://open.spotify.com/album/0bcNMV8tvrg8hMvDoDBBJ1) | 2:53 | 2025-11-04 |  |
 | [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-20 | 2023-12-06 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/5nYDTlAxgE89ehPq2Y5bGC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/5j8BrYGrJ25p57zQhj5IEW) | 2:42 | 2023-12-07 | 2023-12-20 |
@@ -319,7 +319,7 @@
 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 | 2023-12-19 | 2024-04-26 |
 | [medicine](https://open.spotify.com/track/6mddG5wTM56n3P6UKVdUrb) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [FLAKES](https://open.spotify.com/album/59Bqe2aDWUFBTBVDpOl4TM) | 2:45 | 2022-05-12 | 2022-07-28 |
 | [MEMENTO MORI](https://open.spotify.com/track/00SROMpQqY9J5tsZyEVrR3) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [LUCKY CHARMS](https://open.spotify.com/album/2QdmuLUR6anfHrH7kX5xt2) | 2:25 | 2022-05-12 | 2022-07-29 |
-| [Metamorphose](https://open.spotify.com/track/6M87GvTGFoy3Foo2duOZNu) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [Metamorphose](https://open.spotify.com/album/40BiBHKivD2uvHsAnNPfDH) | 4:15 | 2025-07-22 |  |
+| [Metamorphose](https://open.spotify.com/track/6M87GvTGFoy3Foo2duOZNu) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [Metamorphose](https://open.spotify.com/album/40BiBHKivD2uvHsAnNPfDH) | 4:15 | 2025-07-22 | 2025-12-03 |
 | [Midnight Grow](https://open.spotify.com/track/1A2MlEvCue0EWDvPP2aJL0) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Midnight Grow](https://open.spotify.com/album/3HXAGw0DEIjZrLg3b1D9IL) | 2:43 | 2024-01-30 |  |
 | [Midnight Grow](https://open.spotify.com/track/4mhOSuIUlsmxjlfNwHTzRe) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Midnight Grow](https://open.spotify.com/album/6eeEuEu6WkeVpfR5jwMVZs) | 2:43 | 2024-01-30 | 2024-04-19 |
 | [Mind Games](https://open.spotify.com/track/6uY9CPRGav62zsZWgtAt5W) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Mind Games](https://open.spotify.com/album/3ht93iIInLepm5SvDChKX1) | 2:43 | 2022-05-12 | 2022-07-29 |
@@ -428,6 +428,7 @@
 | [Rain](https://open.spotify.com/track/5LXh3ZNhWUwfX30YZc6VO4) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W) | 5:21 | 2023-09-20 | 2024-04-19 |
 | [rainy day](https://open.spotify.com/track/5NEtRE4ehYHg6uJ8lrbNTh) | [EiHilE](https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED) | [rainy day](https://open.spotify.com/album/0KhN1AYoTQF7z0WugJMW9Z) | 0:38 | 2024-05-30 | 2024-09-04 |
 | [RAY \- Single ver.](https://open.spotify.com/track/7D0XjmATk1Qer8WPhCBPIl) | [Ace ON Dawn](https://open.spotify.com/artist/3QGeIj8jFm6QzZFoM9rhVi) | [RAY](https://open.spotify.com/album/4hU8CinlsVyZLS5LRLJ2mr) | 4:13 | 2022-05-12 | 2022-07-25 |
+| [Red](https://open.spotify.com/track/639Uuzbmh3jh2lRvxZ2xHD) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [](https://open.spotify.com/album/null) | 1:13 | 2025-12-02 |  |
 | [RED](https://open.spotify.com/track/0YBIcDTmYZP3jxcO3L2AYv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:54 | 2023-09-28 | 2023-11-07 |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-07-13 | 2023-09-30 |
 | [Rest in Punk](https://open.spotify.com/track/45fdY5d6sQWanxK8VH1LzA) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 2:32 | 2023-10-31 | 2024-04-19 |
@@ -567,6 +568,7 @@
 | [Tonight](https://open.spotify.com/track/10A9VcbEIc3AH3C2rfu1tD) | [SUNSET BUS](https://open.spotify.com/artist/1sboP5R9cxXEH5UCMToC5r) | [BEER GARDEN](https://open.spotify.com/album/4DzmtfY7YnsOu6IifJxkTI) | 3:16 | 2022-05-17 | 2022-07-18 |
 | [Too Late](https://open.spotify.com/track/73F4rkF5y8GTEGpJMmoJOt) | [NO KIDDING](https://open.spotify.com/artist/1KLgpMiigMC3V2ojGCRsJX) | [LOOK OUT](https://open.spotify.com/album/1JgbKOpCmZb7MgexcWUZp6) | 2:29 | 2022-06-07 | 2022-07-14 |
 | [Toy Box](https://open.spotify.com/track/5nLEnUwxoVzpj7PX6VZtFl) | [Crazy Hitman](https://open.spotify.com/artist/3Xw9Mz2zXi9GYCcE2hqP0d) | [Riddim Jamboree](https://open.spotify.com/album/4SJCTlmddUO9LYPqmANnTS) | 3:18 | 2022-05-12 | 2022-07-27 |
+| [Track 1](https://open.spotify.com/track/166Fh9ya9Ni7jl8ogomOJu) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-02 |  |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI) | 3:53 | 2023-02-14 |  |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/5PUNRSIFNxWimFJ1r9vgkl) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/4c3iop1ngWgS6LZNcMYpI5) | 3:53 | 2023-02-14 | 2023-03-25 |
 | [Tropical Days](https://open.spotify.com/track/3wIQFCAQ3oWx8ggPBGlvi4) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv) | [HYPE](https://open.spotify.com/album/3OP8h5RjyE4v2hazWAmaLa) | 3:05 | 2022-05-24 | 2022-07-18 |

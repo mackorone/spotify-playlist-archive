@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-531 songs - 1 day 18 hr 36 min
+532 songs - 1 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,7 @@
 | [Street Talk](https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT) | 3:49 | 2021-10-06 | 2024-04-19 |
 | [Street Talk](https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv) | 3:49 | 2021-10-06 | 2025-07-17 |
 | [Stung](https://open.spotify.com/track/1RUlIvRcoQqhOsErO4PsW7) | [Long Island Sound](https://open.spotify.com/artist/3pjD8ZnuS0MDfx5nVGDDws) | [Stung](https://open.spotify.com/album/7fqyhQdLXspvhd2DQjbabG) | 4:22 | 2025-11-21 |  |
-| [Sugar and Lemon](https://open.spotify.com/track/2o7u0gFMIwJfCGSzSH4OrA) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Friedrich](https://open.spotify.com/album/0KOjqoFo6VbskY0gwkC282) | 3:42 | 2025-04-25 |  |
+| [Sugar and Lemon](https://open.spotify.com/track/2o7u0gFMIwJfCGSzSH4OrA) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Friedrich](https://open.spotify.com/album/0KOjqoFo6VbskY0gwkC282) | 3:42 | 2025-04-25 | 2025-12-03 |
 | [Summer Lawns](https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Summering \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aNN72v2ecOv6BamVhhWp4) | 1:28 | 2022-08-13 | 2025-07-17 |
 | [Summer Places](https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 3:43 | 2021-10-06 | 2025-07-17 |
 | [Sunset Park \- Club Mix](https://open.spotify.com/track/7sA9LdnJ8ukXKeW4mykEOE) | [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Sunset Park \(Club Mix\)](https://open.spotify.com/album/6dB1Xgn407MWaxgKnQYJt2) | 4:00 | 2025-08-20 |  |
@@ -444,6 +444,7 @@
 | [The Psychedelic One](https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Between Voids](https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE) | 4:28 | 2022-03-30 | 2025-06-07 |
 | [The Return](https://open.spotify.com/track/6ps1O9rWnwEUysLca3H4aV) | [Benyayer](https://open.spotify.com/artist/62kspOSigHDVlzg2R7UMaO), [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Morpho](https://open.spotify.com/album/6eIK93yfirsAXm42cpx1aH) | 4:05 | 2025-11-21 |  |
 | [The Star Compass](https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:49 | 2021-10-06 | 2025-07-17 |
+| [The Transmission](https://open.spotify.com/track/0L8WK3gP0SWb7ZSFf6I3o6) | [Introspekt](https://open.spotify.com/artist/31ykDn30Wy1xVAZJesUwgn) | [Moving The Center](https://open.spotify.com/album/0w1AdhVZIcrNkhq2SaU0Q2) | 4:43 | 2025-12-03 |  |
 | [The Trembling of Glass](https://open.spotify.com/track/2qxSI6WgvlUYjKNVH9pdf0) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [The Trembling of Glass](https://open.spotify.com/album/0TE1ALYdYkclAsNZYunqg5) | 3:28 | 2021-10-06 | 2025-07-17 |
 | [The Trembling of Glass](https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 3:28 | 2021-10-06 | 2024-04-19 |
 | [The Truth \- Edit](https://open.spotify.com/track/4yonDFTtjygYjF0INMHhpc) | [Designer Music](https://open.spotify.com/artist/0WrAHb2ULSwmwPig9ZOg9v), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Truth \(Edit\)](https://open.spotify.com/album/1AckFqlTl0MrhfHsJrIYtm) | 5:27 | 2025-05-30 | 2025-10-11 |

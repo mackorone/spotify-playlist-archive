@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Wale
 
-1,850 songs - 3 day 11 hr 47 min
+1,851 songs - 3 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Ballin](https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ballin](https://open.spotify.com/album/0dzZgJ3jzWe2WD7rG6nPaE) | 2:56 | 2022-11-04 | 2022-12-17 |
 | [Ballin \(Play\-In Remix\)](https://open.spotify.com/track/227dZXkrNPdg4Yhbe0glfp) | [Paris Bryant](https://open.spotify.com/artist/4Ng21p92TPTkeAcXJlSB2u) | [Ballin \(Play\-In Remix\)](https://open.spotify.com/album/0hBGBlsuNGnHlKI112Il9W) | 2:06 | 2022-04-01 | 2022-04-09 |
 | [BANG BANG](https://open.spotify.com/track/4bjAZhQQAsanXd6VGMmydN) | [Yus Gz](https://open.spotify.com/artist/3RMAZkh3T3IO2EUMuZMlOE) | [BANG BANG](https://open.spotify.com/album/0zLRoKXdLm5VzbBy9DdXAF) | 2:06 | 2023-02-17 | 2023-03-11 |
-| [Bar 4 Bar Freestyle](https://open.spotify.com/track/3UGWApcs8t4h0vYMDSncJr) | [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N) | [Enjoy The Ride \(Deluxe\)](https://open.spotify.com/album/1eij4HEN2WwHvxXvX9Qo3e) | 2:00 | 2025-10-10 |  |
+| [Bar 4 Bar Freestyle](https://open.spotify.com/track/3UGWApcs8t4h0vYMDSncJr) | [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N) | [Enjoy The Ride \(Deluxe\)](https://open.spotify.com/album/1eij4HEN2WwHvxXvX9Qo3e) | 2:00 | 2025-10-10 | 2025-12-03 |
 | [Barbie Dangerous](https://open.spotify.com/track/1fZhfh94jCYssOEd9ywrYY) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2 \(Gag City PLUTO Edition\)](https://open.spotify.com/album/2lbQSK3qnWtWVYwjZiyvbM) | 2:12 | 2024-04-12 | 2024-05-11 |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-06-23 | 2023-10-07 |
 | [Barcelona \(feat\. Samm Henshaw\)](https://open.spotify.com/track/04hxf6171aKFM67gNkOfKt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Barcelona \(feat\. Samm Henshaw\)](https://open.spotify.com/album/0ey2p9BD1wTRBICOSewhnJ) | 3:20 | 2023-06-16 | 2023-07-15 |
@@ -1565,6 +1565,7 @@
 | [Str8 Drop \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/4dnX774DVkxrFNO3iZgJre) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Nightmare on E Street 2](https://open.spotify.com/album/0VvPZhfpxTn8kVgIRrAokd) | 3:09 | 2023-06-09 | 2023-08-12 |
 | [Stressed \(feat\. Summer Walker\)](https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:24 | 2023-07-14 | 2024-07-06 |
 | [Stressed Out](https://open.spotify.com/track/5ZT3hjMMoYkgF0fLCZid4l) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Stressed Out](https://open.spotify.com/album/3gqR4LL4P10OOeybQPdzaM) | 2:52 | 2023-09-15 | 2023-09-30 |
+| [Strut](https://open.spotify.com/track/0KpIXnC0uUnlGZDhwISGzc) | [Ayanna Ife](https://open.spotify.com/artist/06RpzoM1Ww2pvhWLMeRRe1), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Strut](https://open.spotify.com/album/6gOk1NGn6qk3ONCSO42fRL) | 2:53 | 2025-12-02 |  |
 | [Stuck In My Ways](https://open.spotify.com/track/52K77MKrAormrzJHhL7fYr) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [Stuck In My Ways](https://open.spotify.com/album/0tLpo1x2gVMIgoHpRYvtNw) | 2:14 | 2023-05-12 | 2023-07-15 |
 | [Studio Junkie](https://open.spotify.com/track/2hnijnBaiR6v7NmvYB3me2) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Studio Junkie](https://open.spotify.com/album/7dgC3SvEf9lxsYhbc27Lwm) | 2:26 | 2023-03-24 | 2023-04-15 |
 | [Sucka Free](https://open.spotify.com/track/4hB6fEzYSvamHVQtUQXNoK) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Sucka Free](https://open.spotify.com/album/2lLJMezQ0uAvmAlXwoghKl) | 2:37 | 2022-01-21 | 2022-03-26 |

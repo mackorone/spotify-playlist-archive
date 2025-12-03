@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9274,
+  "num_followers": 9276,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAA8tuhJoZP+hSrSjyH1Zpq1",
+  "snapshot_id": "aSzagAAAAAB1lUZ3QV7PBWhpCCOWynv8",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE, MUSIC AND DANCE",
-        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u6885\u7530\u30b5\u30a4\u30d5\u30a1\u30fc",
-          "url": "https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "FEELIN' GOOD",
-      "url": "https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUSIC WORLD",
         "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 221200,
       "name": "TEENAGE CITY RIOT",
       "url": "https://open.spotify.com/track/5OZGr81O9jLzE5vk8CHUJB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE, MUSIC AND DANCE",
+        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u6885\u7530\u30b5\u30a4\u30d5\u30a1\u30fc",
+          "url": "https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "FEELIN' GOOD",
+      "url": "https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH"
     },
     {
       "added_at": null,

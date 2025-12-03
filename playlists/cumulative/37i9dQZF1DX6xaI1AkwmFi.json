@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "\u307c\u3063\u3061\u307c\u308d\u307e\u308b",
+          "url": "https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226759,
+      "name": "COMICAL",
+      "url": "https://open.spotify.com/track/0LLVHyAaMQcfntcoWY6pAC"
+    },
+    {
+      "album": {
         "name": "\u60aa\u5922\u306e\u3088\u3046\u306a1\u9031\u9593",
         "url": "https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9"
       },
@@ -3451,6 +3469,24 @@
     },
     {
       "album": {
+        "name": "Sanitizer",
+        "url": "https://open.spotify.com/album/0GjrgVnOjXqHxy7KtHQYnY"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304144,
+      "name": "Sanitizer",
+      "url": "https://open.spotify.com/track/4eCYeVfzGsS6jq8aX43yDr"
+    },
+    {
+      "album": {
         "name": "SANKAIME",
         "url": "https://open.spotify.com/album/7wMWAunR0VoyHZ5vSJeqo9"
       },
@@ -4312,7 +4348,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 188120,
       "name": "Toki Yo Tomare",
       "url": "https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg"
@@ -6054,7 +6090,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 191694,
       "name": "\u30b9\u30ce\u30fc\u30b5\u30d7\u30e9\u30a4\u30ba",
       "url": "https://open.spotify.com/track/72qunBPdbUqFptpgGyRAKM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q2RwtiYXlg.md) - [plain]
 
 > Listen to the songs of the whole category winners!
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,492 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,256 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-130 songs - 8 hr 7 min
+131 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Loose Change](https://open.spotify.com/track/5DJqXml2pvbfThLNduxlAj) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Loose Change](https://open.spotify.com/album/6bgi9118jYzGvzk1TSFXMp) | 3:20 | 2025-11-04 |  |
 | [lovelife](https://open.spotify.com/track/5l12MQIoDUwkb7B69oFKF7) | [s.t.a.c.y](https://open.spotify.com/artist/1f0P5n7x00QjYby5ysBywk), [Dema](https://open.spotify.com/artist/6I5GF0PoqK63VIsmjr21DG) | [lovelife](https://open.spotify.com/album/26OaUgulMXljVL5G8F1k0q) | 2:54 | 2025-11-13 |  |
 | [Malos Hábitos](https://open.spotify.com/track/6mCkTFUrsM4gPcdx0tQnuF) | [TELÉGRAFO](https://open.spotify.com/artist/5OLCL8YcQwAMXPZBfY2d61) | [Codificado](https://open.spotify.com/album/55vJ7XNkjGqxAwRvDdfEub) | 3:33 | 2025-11-11 |  |
+| [Marionettes](https://open.spotify.com/track/2xGSnhB3VhyfMtHD7JlgqS) | [Bunar LifT](https://open.spotify.com/artist/7hMuXhNZMfLVRrnbsvhdbg) | [Marionettes](https://open.spotify.com/album/3eWKIo5H9ekwM7fk79V005) | 4:34 | 2025-12-02 |  |
 | [MAYDAY](https://open.spotify.com/track/5xWsnPctjnUuHJ1UwBiRor) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [MAYDAY](https://open.spotify.com/album/5h76yRMMzTY1LI64nPGoHV) | 3:45 | 2025-11-18 |  |
 | [Meta](https://open.spotify.com/track/6bkUhClIp0aid5XGt3dA1e) | [HIRUNDO](https://open.spotify.com/artist/07ZBrNvM8jzpBrKNV7F5jk) | [Meta](https://open.spotify.com/album/5NkecLhbahD5w3xgFxYoH1) | 3:24 | 2025-10-10 |  |
 | [Mismatched](https://open.spotify.com/track/3INScj56u4EXG2zkE4pIw9) | [Lettoman](https://open.spotify.com/artist/0UlswUuMz8CllNtwhen2ao) | [Mismatched](https://open.spotify.com/album/17TIDHpp0bnxYyL6hvbwT7) | 2:10 | 2025-10-30 |  |

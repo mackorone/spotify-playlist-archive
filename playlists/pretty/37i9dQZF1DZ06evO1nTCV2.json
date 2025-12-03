@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 45061,
+  "num_followers": 45060,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADkH5WU+tI2xhTJrFecmz2i",
+  "snapshot_id": "aSzagAAAAAAMz91CADjqvjgK/TLhSrzo",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 115416,
+      "name": "Bye Bye Balloons",
+      "url": "https://open.spotify.com/track/7g3kyS8muMEdA4AfqNw3OG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Nuclear",
-      "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
       },
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
       },
       "artists": [
         {
@@ -456,9 +456,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 238333,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
+      "duration_ms": 203333,
+      "name": "Saturday Night Forever",
+      "url": "https://open.spotify.com/track/0tkHXjNXfoBs6GQAySVUvb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "Nuclear",
+      "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 226036,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesdays",
-        "url": "https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek"
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
       },
       "artists": [
         {
@@ -520,9 +520,41 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 214586,
-      "name": "I'm Sorry And I Love You",
-      "url": "https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M"
+      "duration_ms": 144408,
+      "name": "Someone On my Mind",
+      "url": "https://open.spotify.com/track/3V123jeAM3oXRebk3YL93u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 226036,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
     },
     {
       "added_at": null,
@@ -543,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
       },
       "artists": [
         {
@@ -552,9 +584,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 151960,
-      "name": "Oh My God, Whatever, Etc.",
-      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
+      "duration_ms": 194666,
+      "name": "Virginia In The Rain",
+      "url": "https://open.spotify.com/track/60p5ukyTsVeDnwDp51HAad"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wednesdays",
+        "url": "https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "I'm Sorry And I Love You",
+      "url": "https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M"
     },
     {
       "added_at": null,
@@ -575,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5qD8CvtAwVaQR5bhADos2U"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 267261,
-      "name": "In My Time of Need",
-      "url": "https://open.spotify.com/track/0APv17oLwplLLc376ipFH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -607,6 +639,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 158199,
+      "name": "I Am Dracula",
+      "url": "https://open.spotify.com/track/1tBVKNy12thGdbDXlZy7eU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Oh My God, Whatever, Etc.",
+      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Colors",
         "url": "https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y"
       },
@@ -619,6 +683,38 @@
       "duration_ms": 213946,
       "name": "Fuck The Rain",
       "url": "https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5qD8CvtAwVaQR5bhADos2U"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 267261,
+      "name": "In My Time of Need",
+      "url": "https://open.spotify.com/track/0APv17oLwplLLc376ipFH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 236254,
+      "name": "Please, Shut The Fuck Up",
+      "url": "https://open.spotify.com/track/2yHsfeMrKZoSYcwnDl9Khu"
     },
     {
       "added_at": null,
@@ -671,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5qD8CvtAwVaQR5bhADos2U"
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
       },
       "artists": [
         {
@@ -680,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 151612,
-      "name": "Damn Sam (I Love a Woman That Rains)",
-      "url": "https://open.spotify.com/track/22bir6fzpThOF6BHXXCJG0"
+      "duration_ms": 252075,
+      "name": "Burning Photographs",
+      "url": "https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4"
     },
     {
       "added_at": null,
@@ -715,102 +811,6 @@
       "duration_ms": 162306,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 252075,
-      "name": "Burning Photographs",
-      "url": "https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ashes & Fire",
-        "url": "https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 290520,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ryan Adams",
-        "url": "https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "Gimme Something Good",
-      "url": "https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Romeo & Juliet",
-        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 174120,
-      "name": "Doylestown Girl",
-      "url": "https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "The Shadowlands",
-      "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ashes & Fire",
-        "url": "https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Dirty Rain",
-      "url": "https://open.spotify.com/track/4mOX3BzpPi3T2q1FM5Ycbj"
     }
   ],
   "unique_name": "This Is Ryan Adams",

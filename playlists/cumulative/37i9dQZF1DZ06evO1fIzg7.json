@@ -462,7 +462,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 203999,
       "name": "Layers",
       "url": "https://open.spotify.com/track/5D3gVhO3DZDZbvAZ2F9Mnl"
@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187557,
+      "name": "Stay On Me",
+      "url": "https://open.spotify.com/track/2PtLFjdYbFdbXn4qYX5Y0L"
+    },
+    {
+      "album": {
         "name": "Stay On Me",
         "url": "https://open.spotify.com/album/3070rfYDNRp8Ij3DkfJGzC"
       },
@@ -792,7 +810,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 187557,
       "name": "Stay On Me",
       "url": "https://open.spotify.com/track/6h7cY2Dgk4JGGzFSIutPYC"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 183266,
       "name": "While You're Still Young - From ''Everybody's Talking About Jamie''",
       "url": "https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf"

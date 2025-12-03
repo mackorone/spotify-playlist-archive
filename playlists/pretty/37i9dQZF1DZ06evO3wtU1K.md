@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,969 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,972 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 20 | [Do It Anyway](https://open.spotify.com/track/7K5ANVeHIzH73bI9WMBpeN) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 2:57 |
 | 21 | [Fear is Not My Future \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/2zUFgBx6OWmz4JfRcrDvTd) | [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Encounter](https://open.spotify.com/album/71LAwwrE9j6BamiEqWT4B2) | 8:33 |
 | 22 | [Burdens Down \- Live](https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 4:22 |
-| 23 | [Forever At Your Feet](https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:23 |
-| 24 | [Holy Water \- Church Sessions](https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Holy Water \(Church Sessions\)](https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC) | 7:44 |
+| 23 | [Holy Water \- Church Sessions](https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Holy Water \(Church Sessions\)](https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC) | 7:44 |
+| 24 | [Forever At Your Feet](https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:23 |
 | 25 | [Already Good \(Tasha Slide\)](https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Already Good \(Tasha Slide\)](https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF) | 3:42 |
 | 26 | [One Hallelujah](https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Hallelujah](https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn) | 5:45 |
 | 27 | [Happy \- Live](https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 5:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:34 |
 | 50 | [Grace \- Live](https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:09 |
 
-Snapshot ID: `aSuJAAAAAAC5vf3qZh62wjNgAiHfTi0B`
+Snapshot ID: `aSzagAAAAACRbJ6YBEQRRHBly4PqP1nZ`

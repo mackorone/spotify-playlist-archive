@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 71218,
+  "num_followers": 71273,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACBSOjjrYRJio1d4Op1r63c",
+  "snapshot_id": "aSzagAAAAABtSVcVwab0pkrM+Dar6ReI",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Hope You're Happy (Deluxe)",
+        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 122266,
+      "name": "From The Bottom",
+      "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boy",
         "url": "https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 132537,
       "name": "Boy",
       "url": "https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Hope You're Happy (Deluxe)",
-        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 122266,
-      "name": "From The Bottom",
-      "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 143266,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy",
         "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 181333,
       "name": "Long Nights (feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 143266,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1"
     },
     {
       "added_at": null,

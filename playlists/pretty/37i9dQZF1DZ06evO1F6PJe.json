@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 109044,
+  "num_followers": 109050,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACeizRDbhQZ8SrI2kVKWd+S",
+  "snapshot_id": "aSzagAAAAACkoISy36XPQ429oWW3pwLL",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "You Upset Me Baby",
+      "url": "https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chains And Things",
         "url": "https://open.spotify.com/album/1JGZNt476A3wZ0YUwtI3Js"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 303773,
       "name": "Chains And Things",
       "url": "https://open.spotify.com/track/2uK43c3VurRJmePMQKle84"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "You Upset Me Baby",
-      "url": "https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 377360,
-      "name": "Mind\u2019s Eye",
-      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
+      "duration_ms": 232933,
+      "name": "Long Distance Blues",
+      "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time Clocks",
+        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 377360,
+      "name": "Mind\u2019s Eye",
+      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ballad of John Henry",
         "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 400333,
       "name": "Happier Times",
       "url": "https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Long Distance Blues",
-      "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 343906,
+      "name": "Mountain Climbing",
+      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Night Life",
         "url": "https://open.spotify.com/album/131ESyuAiA1Gk90WPTGSex"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 343906,
-      "name": "Mountain Climbing",
-      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at Radio City Music Hall",
         "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Well, I Done Got Over It",
-        "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Well, I Done Got Over It",
-      "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 409720,
       "name": "Slow Train",
       "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Well, I Done Got Over It",
+        "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Well, I Done Got Over It",
+      "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
     },
     {
       "added_at": null,

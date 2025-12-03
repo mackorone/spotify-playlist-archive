@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 779 likes - 16 songs - 34 min 5 sec
+[Spotify](https://open.spotify.com/user/spotify) - 780 likes - 16 songs - 34 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 15 | [Sygrayem \(Let's Play\)](https://open.spotify.com/track/4OuuChRBdM8QPEl9yDIrSX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 2:11 |
 | 16 | [Mcnue Leaves](https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 3:04 |
 
-Snapshot ID: `aSuJAAAAAABOSglgA0urgnd60cYO5Qb9`
+Snapshot ID: `aSzagAAAAAA1PcQW4V0bDnNW+PuuEBPy`

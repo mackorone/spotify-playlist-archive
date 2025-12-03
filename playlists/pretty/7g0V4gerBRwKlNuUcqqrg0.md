@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7g0V4gerBRwKlNuUcqqrg0.md) - [plain]
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 159,462 likes - 106 songs - 6 hr 5 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 159,447 likes - 106 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/7g0V4gerBRwKlNuUcqqrg0.md) - [plain]
 | 105 | [Hurt Somebody](https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 2:47 |
 | 106 | [Always Remember Us This Way](https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:30 |
 
-Snapshot ID: `AAAveoC4cKYiKOsU9mcG5hYmn7ZqqHht`
+Snapshot ID: `AAAvfOJ2BMXYkHwHHpr7P+lOqt3yzr47`

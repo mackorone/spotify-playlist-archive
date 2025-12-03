@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Jon Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,770 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,804 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 24 | [Intentional](https://open.spotify.com/track/1xGC1OwWQ74z7wHth9BQ0Z) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Full Bloom](https://open.spotify.com/album/6SUTVZzodxA2aRcAnMwfY9) | 2:28 |
 | 25 | [Truth](https://open.spotify.com/track/6Jdt3PWi3tYqJjFSPigfLn) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Paint The Sky](https://open.spotify.com/album/1cEg7qO1LhE8Uap9Recnil) | 3:06 |
 | 26 | [We Rise And Fall](https://open.spotify.com/track/7wgOJAyT89i2WOcT4a7Z67) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Northstar](https://open.spotify.com/album/33AEQGTj1GoEb5KeCFWb8L) | 3:11 |
-| 27 | [Pass Me Not](https://open.spotify.com/track/7Jh5uEB1ehvXU1cTec3OoL) | [MAYIA](https://open.spotify.com/artist/5ulxfM3qYKEmj8J9J8tLPc) | [Pass Me Not](https://open.spotify.com/album/7rWbJwsjZx6TgoPqyuUwTw) | 3:53 |
+| 27 | [Pass Me Not](https://open.spotify.com/track/7Jh5uEB1ehvXU1cTec3OoL) | [MAYIA WARREN](https://open.spotify.com/artist/6jwSYdglftKLb8vhvAfNag) | [Pass Me Not](https://open.spotify.com/album/7rWbJwsjZx6TgoPqyuUwTw) | 3:53 |
 | 28 | [Search Me \(O God\)](https://open.spotify.com/track/6AxPtxFimCBADTC8x13nlm) | [Katy Reynolds](https://open.spotify.com/artist/1nHH1fSKcZRecxaNFwjaFy), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3), [Tapestry Worship](https://open.spotify.com/artist/5vSRguAsGm92WB4exbS87g) | [Search Me \(O God\)](https://open.spotify.com/album/1gKeE7QNpBCpurXdqhUPLO) | 2:23 |
 | 29 | [Limit](https://open.spotify.com/track/7JkTIzb10hjitn1ZE0HXI2) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Limit](https://open.spotify.com/album/61KdorQzEOrPO6x910bE0k) | 2:53 |
 | 30 | [He Still Is...](https://open.spotify.com/track/5x7WmEQZuR0n6rF6Wo1hmX) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [He Still Is...](https://open.spotify.com/album/0YOQjWzn4OwpXCgdR8i0jD) | 2:43 |

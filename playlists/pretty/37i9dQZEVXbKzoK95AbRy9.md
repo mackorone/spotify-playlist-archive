@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,842 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,879 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 27 | [Talvez você precise de mim](https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:06 |
 | 28 | [Vai Cair Água \- Ao Vivo](https://open.spotify.com/track/0qZwqMsGSClyrKzbVbRto9) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [RESENHA NATORA \(Ao Vivo\)](https://open.spotify.com/album/4Vg8dStAaHhiE25pIIWHIv) | 2:30 |
 | 29 | [Escondendo o Ouro \- Ao Vivo](https://open.spotify.com/track/0IBCX7PC9NcfFLuyoHxTNt) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Magia das Estrelas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc) | 2:51 |
-| 30 | [Diário de um Cafajeste](https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p) | [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP) | [Diário de um Cafajeste](https://open.spotify.com/album/3KcnMYtFSEkkHfNsy6KwuA) | 5:57 |
+| 30 | [Diário de um Cafajeste](https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP) | [Diário de um Cafajeste](https://open.spotify.com/album/3KcnMYtFSEkkHfNsy6KwuA) | 5:57 |
 | 31 | [Vagabundo](https://open.spotify.com/track/1mnMkTvrPi4iTblXaRvOoi) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Vagabundo](https://open.spotify.com/album/2DsQiOZyalrytAD9Xi0IO8) | 3:27 |
 | 32 | [Homem É Homem, Moleque É Moleque](https://open.spotify.com/track/5cGieTJ0FQC2JXqSH4OJpg) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Homem É Homem, Moleque É Moleque](https://open.spotify.com/album/0szJT51Wsr88AhBpL7Q2ss) | 2:24 |
 | 33 | [12 Horas / Pra Você Acreditar \- Ao Vivo](https://open.spotify.com/track/2j7IPPMZt5nE5R4r2AbKZ8) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Cê Tá Doido \(São José Do Rio Preto\) \[Ao Vivo\]](https://open.spotify.com/album/0gbJAL2rZwc77ra11uiHDu) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Cópia Proibida](https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:39 |
 | 50 | [Dois Gumes \- Ao Vivo](https://open.spotify.com/track/39KwMv89TaEdaBrvk28AMC) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Dois Gumes \(Ao Vivo\)](https://open.spotify.com/album/4o1PjHRaJZI1FqRRsb8Oz4) | 3:11 |
 
-Snapshot ID: `MMEG+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MMJYeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

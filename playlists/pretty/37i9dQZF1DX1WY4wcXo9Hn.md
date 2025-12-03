@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WY4wcXo9Hn.md) - [plain]
 
 > autumn leaves falling down like pieces into place
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,902 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,021 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

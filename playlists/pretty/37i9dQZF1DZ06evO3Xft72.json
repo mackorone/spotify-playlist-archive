@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 287634,
+  "num_followers": 287639,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAA991ZME6ojmgwWF9VMfr9d",
+  "snapshot_id": "aSzagAAAAABSU4WrSahnUZ0tey3pAU0A",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seagull",
-        "url": "https://open.spotify.com/album/1EiFdEhdWVC3QdLrT1tig4"
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
       },
       "artists": [
         {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        },
-        {
           "name": "Def Leppard",
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        },
-        {
-          "name": "Paul Rodgers",
-          "url": "https://open.spotify.com/artist/2gaWNB3YrlTc0KRlHNqhol"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Seagull",
-      "url": "https://open.spotify.com/track/7CytSpgno2zLlSDIqpsGv9"
+      "duration_ms": 423016,
+      "name": "White Lightning",
+      "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"
     },
     {
       "added_at": null,
@@ -623,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalize",
-        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 423016,
-      "name": "White Lightning",
-      "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slang (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 327250,
       "name": "Paper Sun",
       "url": "https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seagull",
+        "url": "https://open.spotify.com/album/1EiFdEhdWVC3QdLrT1tig4"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        },
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Paul Rodgers",
+          "url": "https://open.spotify.com/artist/2gaWNB3YrlTc0KRlHNqhol"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Seagull",
+      "url": "https://open.spotify.com/track/7CytSpgno2zLlSDIqpsGv9"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slang (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 157841,
+      "name": "Slang",
+      "url": "https://open.spotify.com/track/3hmvOZ03dCWNTX1bB9k2gI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drastic Symphonies",
         "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 355972,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slang (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 157841,
-      "name": "Slang",
-      "url": "https://open.spotify.com/track/3hmvOZ03dCWNTX1bB9k2gI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,428 likes - 105 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,427 likes - 105 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

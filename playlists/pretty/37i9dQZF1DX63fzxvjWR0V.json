@@ -1,6 +1,6 @@
 {
   "description": "\u00a1VGLY y todo el crew est\u00e1n de regreso!  Disponible en HBO Max ",
-  "num_followers": 17308,
+  "num_followers": 17315,
   "original_name": "VGLY Playlist Oficial ",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-10-09 06:00:09",
       "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
+    },
+    {
+      "added_at": "2025-10-09 06:00:09",
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 169418,
       "name": "QUE VUELVAS",
       "url": "https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ"
-    },
-    {
-      "added_at": "2025-10-09 06:00:09",
-      "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 237908,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
     }
   ],
   "unique_name": "VGLY Playlist Oficial ",

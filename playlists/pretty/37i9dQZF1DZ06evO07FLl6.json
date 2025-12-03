@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 244680,
+  "num_followers": 244696,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAAWaKNmdPhoANumlSiU2m7X",
+  "snapshot_id": "aSzagAAAAAAbYYI++uxeFByQb0FNmJmJ",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "duration_ms": 355333,
+      "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Milestones",
         "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
       },
@@ -163,38 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
-        }
-      ],
-      "duration_ms": 355333,
-      "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kind Of Blue",
         "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
       },
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue Note And Capitol Recordings",
-        "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/4ZX7fXhm6iwP7nABz1tcFB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Birth Of The Cool",
         "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 181988,
       "name": "Boplicity",
       "url": "https://open.spotify.com/track/0Wz6DLq8NBoi1viEqrdH9B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue Note And Capitol Recordings",
+        "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/4ZX7fXhm6iwP7nABz1tcFB"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 200296,
+      "name": "Moon Dreams",
+      "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 474626,
       "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 200296,
-      "name": "Moon Dreams",
-      "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
     },
     {
       "added_at": null,
@@ -391,38 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
-        }
-      ],
-      "duration_ms": 420693,
-      "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Birth Of The Cool",
         "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
@@ -451,6 +419,38 @@
       "duration_ms": 230690,
       "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "duration_ms": 420693,
+      "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "Venus De Milo",
-      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 314160,
       "name": "Old Folks (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 192992,
+      "name": "Venus De Milo",
+      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 403826,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 292106,
       "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 403826,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Embraceable",
+        "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/5cA3pwT15ubAZeJR0gRppU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conception",
         "url": "https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 199533,
       "name": "Intoit",
       "url": "https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Embraceable",
-        "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 243600,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/5cA3pwT15ubAZeJR0gRppU"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Complete Columbia Studio Recordings",
+        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "duration_ms": 30693,
+      "name": "Studio Discussion - One",
+      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Complete Savoy & Dial Master Takes",
         "url": "https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 372332,
       "name": "Blue Haze - Remastered 2024",
       "url": "https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Columbia Studio Recordings",
-        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        }
-      ],
-      "duration_ms": 30693,
-      "name": "Studio Discussion - One",
-      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
     },
     {
       "added_at": null,
@@ -991,6 +991,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zu & Co.",
+        "url": "https://open.spotify.com/album/0akSxAQhZEZ0zicFaYKGpt"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 344506,
+      "name": "Dune Mosse",
+      "url": "https://open.spotify.com/track/60K0AWXWecDmbmQgCjz7y6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bags' Groove (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 299680,
       "name": "Airegin - RVG Remaster",
       "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zu & Co.",
-        "url": "https://open.spotify.com/album/0akSxAQhZEZ0zicFaYKGpt"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 344506,
-      "name": "Dune Mosse",
-      "url": "https://open.spotify.com/track/60K0AWXWecDmbmQgCjz7y6"
     },
     {
       "added_at": null,

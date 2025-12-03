@@ -4,7 +4,7 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-134 songs - 6 hr 48 min
+135 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Caballo De La Cordada](https://open.spotify.com/track/7JCKRnM6Sb7wTUeYWlhNT5) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 2:37 | 2022-07-16 | 2022-09-29 |
 | [Cariño Santo](https://open.spotify.com/track/6nt93dU2QlPMrVrEWfKKlj) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [12 Éxitos Con Sax al Estilo De: Lalo Mora](https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS) | 3:37 | 2022-06-01 | 2024-01-09 |
 | [Cielo](https://open.spotify.com/track/3FnIgHwe3tD6LyAlW1CYlz) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Una Historia Más](https://open.spotify.com/album/4Bmn8tRWto8DrTaCFfOjSc) | 2:45 | 2022-06-01 |  |
-| [Con el Brazo Derecho](https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:42 | 2022-06-02 |  |
+| [Con el Brazo Derecho](https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:42 | 2022-06-02 | 2025-12-03 |
 | [Con Tu Imagen \(EN VIVO DESDE EL DOMO CARE\)](https://open.spotify.com/track/1VLdYIeUG6fWsoWFNVY7uP) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [PALOMAZO NORTEÑO VOL\. 2 \(EN VIVO DESDE EL DOMO CARE\)](https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3) | 2:49 | 2024-08-08 |  |
 | [Corazón de Oro \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/1z23S5YZhteXztItJpblPV) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 3:49 | 2024-08-03 |  |
 | [Corrido De Los Pérez](https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:41 | 2022-06-01 |  |
@@ -128,6 +128,7 @@
 | [Se Vale Llorar](https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [X Aniversario](https://open.spotify.com/album/10KZI5H0ZTDzM69n8gYUe9) | 3:16 | 2022-06-01 | 2024-12-21 |
 | [Si Llego a Viejo](https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Amo del Imperio](https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo) | 4:02 | 2022-06-01 |  |
 | [Si Me Vas A Dejar](https://open.spotify.com/track/2b10msu5ZMtRJTsuNaCjWv) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 2:28 | 2022-06-01 |  |
+| [Sin Recompensa Ni Esperanza \(En Vivo\)](https://open.spotify.com/track/0GsGXQ9E6jjlfs3FIn6F9h) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Borrachera Perfecta \(En Vivo\)](https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5) | 2:58 | 2025-12-03 |  |
 | [Somebodyz](https://open.spotify.com/track/7yNVL3HRGUSJD2QXjZ4JxP) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Somebodyz](https://open.spotify.com/album/4TyiVN0uGAl3dqhkhQSnA0) | 3:16 | 2023-01-03 | 2023-01-05 |
 | [Topofthe](https://open.spotify.com/track/49JH98Lzv1rSP8gWOLvYGY) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [MC Rahell](https://open.spotify.com/artist/3A1pTNTVgpjpO39ORulNs2) | [Topofthe](https://open.spotify.com/album/6B5MltaFnxT82cyLKiKyLk) | 1:41 | 2022-06-11 | 2022-06-16 |
 | [Tres Vueltas](https://open.spotify.com/track/136eFsPOpnzkxzQ9xldnkx) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 2:49 | 2022-06-28 | 2022-07-07 |

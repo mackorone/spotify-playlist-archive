@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,001 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,013 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 57 | [Flexing On My Ex](https://open.spotify.com/track/44iPFLk5ZdXu8wivdlTcJB) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 3:04 |
 | 58 | [SHE'S FINE](https://open.spotify.com/track/7LbK25YpQpA44NVfJEC1EA) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [She's Fine](https://open.spotify.com/album/51k1opN4HpJph3cxAbuSah) | 2:31 |
 | 59 | [Eat Sleep Live Repeat](https://open.spotify.com/track/5ZnlLC9fhvw7MAlfa82XLH) | [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Eat Sleep Live Repeat](https://open.spotify.com/album/3gIC8C4Ont83DTnC9sxaYd) | 3:23 |
-| 60 | [나 홀로 집에 Home Alone](https://open.spotify.com/track/1Hp7T2xCx2AAfWejmJEdsP) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/5iolZ8XVFQP8lxZVBMXESZ) | 3:22 |
+| 60 | [But I](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [COLOURS](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) | 2:40 |
 
 Snapshot ID: `AAAAAKed2sQIHljp33QbVqI7gLboruVq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Sarah Klang
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,437 likes - 226 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,436 likes - 226 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

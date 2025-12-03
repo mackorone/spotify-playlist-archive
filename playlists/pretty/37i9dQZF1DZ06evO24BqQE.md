@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 
 > This is BNXN\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,019 likes - 42 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,059 likes - 42 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 41 | [Hustle](https://open.spotify.com/track/1IcnpAY3JjK8b0dkpCZjdS) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [ATSG, Vol\. 1](https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn) | 3:09 |
 | 42 | [No Spoil My Steeze](https://open.spotify.com/track/7vT1tAmx5F8P2Fat7gqsZz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [No Spoil My Steeze](https://open.spotify.com/album/7keuk7sJUYxoVCDaZTeve6) | 3:31 |
 
-Snapshot ID: `aSuJAAAAAAD7l9eSo06sL8vvIGep1dfT`
+Snapshot ID: `aSzagAAAAAABbG9ILtuv5kM3WSx8VPHl`

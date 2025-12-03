@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,006 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,002 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 36 | [Your Name \(Psalm 40\) \- Live](https://open.spotify.com/track/7Dmap2QHdFFuoweoQxNrNm) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Worship in the Word, Vol\. 3 \(Live\)](https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n) | 4:50 |
 | 37 | [Awesome God](https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Worship For Your Family \(Yellow\)](https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA) | 3:14 |
 | 38 | [Wherever Whatever](https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb) | [I Count on You](https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY) | 2:30 |
-| 39 | [Books of the Bible \(New Testament\)](https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:14 |
-| 40 | [Let It Rise](https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 25 Kids' Praise Songs 2012](https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ) | 3:33 |
+| 39 | [Let It Rise](https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 25 Kids' Praise Songs 2012](https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ) | 3:33 |
+| 40 | [Books of the Bible \(New Testament\)](https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:14 |
 | 41 | [You're Worthy Of My Praise](https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ) | [I Could Sing Kids Performers](https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02) | [I Could Sing Of Your Love Forever Kids](https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj) | 4:17 |
-| 42 | [Best Day of My Life](https://open.spotify.com/track/1A6or9Pbj0RDBKHyiujChc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Best Day of My Life](https://open.spotify.com/album/7dBJvgDpKP4aF9DzkRdz7u) | 3:16 |
-| 43 | [I've Got Peace Like A River](https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [100 Singalong Songs For Kids](https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F) | 1:34 |
-| 44 | [Forever](https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:52 |
+| 42 | [Forever](https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:52 |
+| 43 | [Best Day of My Life](https://open.spotify.com/track/1A6or9Pbj0RDBKHyiujChc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Best Day of My Life](https://open.spotify.com/album/7dBJvgDpKP4aF9DzkRdz7u) | 3:16 |
+| 44 | [I've Got Peace Like A River](https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [100 Singalong Songs For Kids](https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F) | 1:34 |
 | 45 | [What a Friend We Have in Jesus](https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3) | [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Just as I Am](https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92) | 3:11 |
 | 46 | [Don't Forget \(Psalm 103\) \- Live](https://open.spotify.com/track/0vby1DkoToYD05zGRLeoWA) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Worship in the Word, Vol\. 3 \(Live\)](https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n) | 4:23 |
 | 47 | [Bible Verses](https://open.spotify.com/track/4vGcw8KkaT7Kku6XiQkJPG) | [Jesus Loves Me This I Know](https://open.spotify.com/artist/1UZbrri7CXJ15wMZbLczgU), [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Bible Verses](https://open.spotify.com/album/5MaTb83UTPVSSD1KYqBVIL) | 2:11 |

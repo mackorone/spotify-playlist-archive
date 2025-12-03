@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-815 songs - 2 day 0 hr 0 min
+818 songs - 2 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Cross Purposes](https://open.spotify.com/track/1LWNGV4aU7nLCnfIgO2xuJ) | [Novak](https://open.spotify.com/artist/2fb1zlAyUxXYuZnrtLw90x) | [Novak](https://open.spotify.com/album/7wJpbPDD3MhcxblMVKjdg1) | 4:54 | 2024-10-08 | 2024-11-14 |
 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 | 2024-10-10 | 2024-11-14 |
 | [Crushing](https://open.spotify.com/track/0qS8CNO9bZlCJoGk6jyGXo) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [1992\-1998](https://open.spotify.com/album/2WwcPCIKcAoVlYmIKjd8PO) | 3:51 | 2025-01-18 | 2025-03-02 |
+| [Céu Azul](https://open.spotify.com/track/5Ly7IBANByS001ZInlG4C8) | [George Sauma Jr.](https://open.spotify.com/artist/4L4HRYMFxFZN78sOhoPEGI) | [George Sauma Jr.](https://open.spotify.com/album/2H2XuOZWql7j6r9GCt9H8K) | 3:31 | 2025-12-03 |  |
 | [D'un vieux jardin](https://open.spotify.com/track/4Rxl45SddL0oWaocVtDAOt) | [Lili Boulanger](https://open.spotify.com/artist/2ryY5UTorD1MXmnOcC7jCi), [Emile Naoumoff](https://open.spotify.com/artist/0fRrSOwkvXX4fixN9cdQu2) | [Boulanger, Lili and Nadia: In Memoriam Lili Boulanger](https://open.spotify.com/album/22q9NJ4ph5sqiwjZK6SFoh) | 3:30 | 2025-10-29 | 2025-11-15 |
 | [Daisy Cutter](https://open.spotify.com/track/2ed6AGgJmYoie95RS1zkTs) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Daisy Cutter](https://open.spotify.com/album/2BGk4RtNgJ10Zh1XqDgsYp) | 3:32 | 2025-09-14 | 2025-11-15 |
 | [Dancing with your eyes closed](https://open.spotify.com/track/1QkeomwCeKgXOEWoMHzrXr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Dancing with your eyes closed](https://open.spotify.com/album/56bYgJoNy2rzmrjJQnmoJy) | 3:50 | 2025-03-01 | 2025-05-09 |
@@ -322,6 +323,7 @@
 | [I Could've Cried](https://open.spotify.com/track/04RMfZ6XzUChBkeOM5AAWC) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Cardinal](https://open.spotify.com/album/5j2btF2YP9WdNBo7ZKPEtH) | 1:36 | 2024-04-01 | 2024-05-16 |
 | [I Dream of Jeannie \(With Light Brown Hair\)](https://open.spotify.com/track/7xuXlp2iDqMXRFKnOBtWdZ) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [People Are Strange](https://open.spotify.com/album/1GrGMcQD3qljqkGMNx7ZV9) | 3:56 | 2025-02-19 | 2025-03-02 |
 | [I Feel It Starts Again](https://open.spotify.com/track/5BRBSRdSHRbq5E9GmdZ6ye) | [Suzanne Menzel](https://open.spotify.com/artist/6As3O7Fndk3au4CcOSYT3H) | [Goodbyes And Beginnings](https://open.spotify.com/album/0NehyKBbhDRF123SuqLe4c) | 3:28 | 2025-04-20 | 2025-05-09 |
+| [I Gave Up All I Had](https://open.spotify.com/track/1hTl6P4cObJLDJEMS6Saif) | [Ted Hawkins](https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU) | [Watch Your Step](https://open.spotify.com/album/3XnHTwogsnLUFhC7nZ983d) | 2:56 | 2025-12-02 |  |
 | [I Guess I Got My Answer](https://open.spotify.com/track/5TFUU8NZXb8h5evhyiCGBp) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Scenic Route \- Road Less Travelled, Vol​​​.​​​ 2](https://open.spotify.com/album/1qMuvJRu4Rc7RmZPdafYU8) | 2:52 | 2024-06-20 | 2024-07-12 |
 | [I Hope You Like Me Too](https://open.spotify.com/track/3tx60M0Bvhzlk2y4bqoZew) | [The Maybellines](https://open.spotify.com/artist/1JvhzOsfMYwQHRB9cSYaBu) | [The Maybellines](https://open.spotify.com/album/43KuGKCsf99Oq5G8WtJEOA) | 1:43 | 2024-08-12 | 2024-09-08 |
 | [I Hope You Really Love Me](https://open.spotify.com/track/1LBvNIbA5kd4W3aOIKVrI1) | [The Family Circle](https://open.spotify.com/artist/3hrkdQYKnihdWrvt66YNM3) | [Family Circle](https://open.spotify.com/album/5l3yLjP4MtAPtVbO1G4PPm) | 2:25 | 2025-09-10 | 2025-11-15 |
@@ -799,6 +801,7 @@
 | [Winter in America](https://open.spotify.com/track/06taFelNWknt8fhZ2jQey1) | [Doug Ashdown](https://open.spotify.com/artist/0Vy1HzvSfJ3bjbxZQxR2eZ) | [No Cheap Grace](https://open.spotify.com/album/09ZOx9IwXvXAjeiLMYK6dl) | 4:16 | 2025-02-06 | 2025-03-02 |
 | [Wishing Well](https://open.spotify.com/track/64w8GIJRkm6zejGjxLVN3K) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Paint a Room](https://open.spotify.com/album/3sZZlLS1JY1MPWOGWe8mtQ) | 2:38 | 2024-10-23 | 2024-11-14 |
 | [With You \- Demo](https://open.spotify.com/track/0fxf9dkUc8r8AHWPx7Cdkn) | [NumbDome](https://open.spotify.com/artist/2dt0CUEEL1u22uqRoocBQP) | [Pretty Place Demos](https://open.spotify.com/album/2aSMfYhkI2RwV6ucurrWV2) | 2:03 | 2024-07-16 | 2024-09-08 |
+| [Woman You're Gonna Pay For This](https://open.spotify.com/track/5lLJQZOGf9MvgxFTGmJSzz) | [Wicked Lester](https://open.spotify.com/artist/4mnC6BVhObGZnXtQm4hjzH) | [Local Customs: Burned At Boddie](https://open.spotify.com/album/0JbT7bYKpJ1ESB9Y5z0aCC) | 3:24 | 2025-12-02 |  |
 | [Wood Cabin](https://open.spotify.com/track/2DvjHHtTjwlrMXyFKxPvXr) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Good Humor](https://open.spotify.com/album/35hVWd3uQFdosmj27cQIdZ) | 4:07 | 2025-03-20 | 2025-05-09 |
 | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP) | 3:28 | 2025-07-25 | 2025-08-08 |
 | [Wristwatch](https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:42 | 2024-09-07 | 2024-11-14 |

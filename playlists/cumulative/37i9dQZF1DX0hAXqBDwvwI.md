@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-821 songs - 2 day 5 hr 7 min
+822 songs - 2 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [unravel](https://open.spotify.com/track/5orAKrVdrk1kPtTa7zNvYL) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 3:58 | 2022-06-14 | 2022-07-16 |
 | [unravel \(n\-buna from ヨルシカ Remix\) \- Exhibition edit](https://open.spotify.com/track/5gEEcgxnyagVvAZlQ43dfn) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [n\-buna](https://open.spotify.com/artist/01aGTLJAOJhZOWwMrZcoQk) | [unravel \(n\-buna from ヨルシカ Remix\) \- Exhibition edit](https://open.spotify.com/album/3IMpUt3E18n261kF9Kpejg) | 3:25 | 2022-06-03 | 2022-07-29 |
 | [Unti\-L](https://open.spotify.com/track/0Ipq8yJTVZgmDtjSrJvpga) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [R∃/MEMBER](https://open.spotify.com/album/77GtJJcdtbg254QMEvQfNr) | 4:03 | 2022-06-03 | 2022-07-02 |
-| [veil](https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [porte](https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI) | 3:29 | 2022-06-03 |  |
+| [veil](https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [porte](https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI) | 3:29 | 2022-06-03 | 2025-12-03 |
 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 | 2024-07-02 | 2024-10-02 |
 | [Venus Line](https://open.spotify.com/track/5OPIulr7qagiGtCthBkqxr) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [Venus Line](https://open.spotify.com/album/1mJo7rsbEzsFGIeVzuume4) | 4:37 | 2022-07-07 | 2022-07-10 |
 | [Viewtiful Days!](https://open.spotify.com/track/5A6Kb2VW9EHfYUFleCxQLf) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [Viewtiful Days!](https://open.spotify.com/album/2XdpeZdn9mdD7UNMmdiUNV) | 4:04 | 2022-06-21 | 2022-07-20 |
@@ -708,6 +708,7 @@
 | [次回予告](https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [次回予告](https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3) | 3:08 | 2024-07-09 | 2025-03-30 |
 | [歌よ](https://open.spotify.com/track/5dy1QO156l2ct1MVPzc8px) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [歌よ](https://open.spotify.com/album/2cbkTAOwaD1L8vmbWdIfzU) | 3:58 | 2022-06-03 | 2022-07-29 |
 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 | 2022-12-04 |  |
+| [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 | 2025-12-03 |  |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 | 2022-06-03 |  |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 | 2022-07-28 | 2022-10-19 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-06-03 |  |

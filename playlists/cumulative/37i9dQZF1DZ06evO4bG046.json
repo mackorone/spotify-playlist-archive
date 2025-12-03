@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586893,
+      "name": "Corre Que Te Pillo",
+      "url": "https://open.spotify.com/track/7ynwdIuc9g4jjw0blnVnVB"
+    },
+    {
+      "album": {
         "name": "Palomita Blanca",
         "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
       },
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 181573,
       "name": "Huairuro",
       "url": "https://open.spotify.com/track/4CW1pkbEJgEESNxpPWnl5I"

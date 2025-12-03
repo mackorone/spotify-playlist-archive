@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576,514 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,576,432 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 34 | [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 |
 | 35 | [Lalala](https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Muddy Waters Too](https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi) | 3:18 |
 | 36 | [Laraaji](https://open.spotify.com/track/16FAYkEsOXF3RXJWhkSrx0) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Mercy](https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi) | 2:23 |
-| 37 | [Doing My Best](https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 2:44 |
-| 38 | [SOS](https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SOS](https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp) | 3:56 |
+| 37 | [SOS](https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SOS](https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp) | 3:56 |
+| 38 | [Doing My Best](https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 2:44 |
 | 39 | [The Package](https://open.spotify.com/track/3xI6Rzk8MVtHuIXeM9TIPD) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Package](https://open.spotify.com/album/5aqA250weVqDn8kmnk1MdD) | 3:13 |
 | 40 | [jamal crawford](https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [jamal crawford](https://open.spotify.com/album/5jLv5IezOqyq26Vt4UFL6W) | 2:53 |
 | 41 | [The Louvre](https://open.spotify.com/track/54blTc3AnAVPehzb7u3TDs) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [The Louvre](https://open.spotify.com/album/6190G0Qx9vwR0gINCGumqH) | 4:09 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 47 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
 | 48 | [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 |
 | 49 | [Letters \(feat\. Rachel Robinson\)](https://open.spotify.com/track/0xg25m2SiZJkAXEXAcURNb) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Rachel Robinson](https://open.spotify.com/artist/2dFERzp3MC4j4iOT8iqmHw) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:11 |
-| 50 | [Business Merger](https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Business Merger](https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ) | 3:37 |
+| 50 | [The Omerta](https://open.spotify.com/track/0LI7gvHXbBvt6e8EORDzA1) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Emperor's New Clothes](https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck) | 3:18 |
 
 Snapshot ID: `AAAAAHiBBKAEzMXGCsFz94rJt8qvC0j0`

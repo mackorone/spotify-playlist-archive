@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Nazan Öncel
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,902 likes - 94 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,894 likes - 94 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

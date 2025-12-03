@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Junior Zamora
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,539 likes - 200 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,469 likes - 200 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

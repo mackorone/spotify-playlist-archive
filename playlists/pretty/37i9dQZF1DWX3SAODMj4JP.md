@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,506 likes - 69 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,530 likes - 69 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 20 | [O Que Se Faz Aqui pra Ser Feliz \- Acústico](https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [O Que Se Faz Aqui pra Ser Feliz \(Acústico\)](https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v) | 5:02 |
 | 21 | [Meu Repouso](https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn) | [Fabio Sampaio](https://open.spotify.com/artist/32grGWeFFc1cgsrGIV5j7N), [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Meu Repouso](https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx) | 4:18 |
 | 22 | [Eu Quero Voltar](https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB) | [Lancellote](https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K) | [Eu Quero Voltar](https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW) | 3:33 |
-| 23 | [Olhar de Longe](https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Olhar de Longe](https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ) | 3:32 |
-| 24 | [Não Mereço Esse Amor \- Live Acoustic](https://open.spotify.com/track/19jIJ3F5SuqWSGr3FO0ZTy) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Não Mereço Esse Amor \(Live Acoustic\)](https://open.spotify.com/album/3RSzzPCHmpqYIzJm1J77bn) | 2:47 |
+| 23 | [Não Mereço Esse Amor \- Live Acoustic](https://open.spotify.com/track/19jIJ3F5SuqWSGr3FO0ZTy) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Não Mereço Esse Amor \(Live Acoustic\)](https://open.spotify.com/album/3RSzzPCHmpqYIzJm1J77bn) | 2:47 |
+| 24 | [Olhar de Longe](https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Olhar de Longe](https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ) | 3:32 |
 | 25 | [Botas Velhas](https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Não Sou Tão Forte](https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv) | 3:55 |
 | 26 | [Eu, Poema: Releitura](https://open.spotify.com/track/16Bum18plc6ET7bEvEOq3Z) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 4:39 |
 | 27 | [Deserto](https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Rastros e Trilha](https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA) | 5:02 |

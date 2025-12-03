@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 3Li\u00a5en",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: ziproom",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -460,7 +460,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 199642,
       "name": "203",
       "url": "https://open.spotify.com/track/3KUjROBAJE3PjvgeUAfGWi"
@@ -6034,7 +6034,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 172467,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4QAj2kwTjqOaVe5IETiOQ6"
@@ -8871,6 +8871,24 @@
     },
     {
       "album": {
+        "name": "Hate Christmas",
+        "url": "https://open.spotify.com/album/5gJ1NJoeK9rNRmH95V2uno"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u4e16\u754c",
+          "url": "https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221570,
+      "name": "Hate Christmas",
+      "url": "https://open.spotify.com/track/4ZLHygP9MGHwXr3DpEgOty"
+    },
+    {
+      "album": {
         "name": "Hate Goodbyes",
         "url": "https://open.spotify.com/album/7rjieC5S7NvAPC5416zhnj"
       },
@@ -9116,7 +9134,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 123535,
       "name": "hey now",
       "url": "https://open.spotify.com/track/4EUGHVQjnubTUTIexDo1F6"
@@ -9700,6 +9718,24 @@
       "duration_ms": 191031,
       "name": "I Need",
       "url": "https://open.spotify.com/track/6lKQNarXqmhzlHQIFrpgTO"
+    },
+    {
+      "album": {
+        "name": "I OWN MY ROLE",
+        "url": "https://open.spotify.com/album/0UG0X1vfl9JTfYkFwv8YXV"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "I OWN MY ROLE",
+      "url": "https://open.spotify.com/track/2KS2rawRcjyUj2NuqGWNWz"
     },
     {
       "album": {
@@ -11170,7 +11206,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 133315,
       "name": "KID FRESINO",
       "url": "https://open.spotify.com/track/1R3he92KY93TdSvMl5pwwX"
@@ -13058,7 +13094,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 141145,
       "name": "MINT",
       "url": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
@@ -15012,7 +15048,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 172806,
       "name": "On The Island (feat. AKLO)",
       "url": "https://open.spotify.com/track/7ygc0VnKRRRaUW7KeH7tWM"
@@ -17538,7 +17574,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 150870,
       "name": "Sad Kid Yaz Type Beat",
       "url": "https://open.spotify.com/track/3aou3wXkwdFdhnkHrwVgef"
@@ -20446,7 +20482,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 81538,
       "name": "Tokio BASE",
       "url": "https://open.spotify.com/track/18LHzwjRlU4IUvk2wzkSOT"
@@ -20706,6 +20742,28 @@
       "duration_ms": 140998,
       "name": "Travel case",
       "url": "https://open.spotify.com/track/5StNIZXMs75JlYOVOS83Mp"
+    },
+    {
+      "album": {
+        "name": "TRAVELING (feat. GamBall)",
+        "url": "https://open.spotify.com/album/3fc7gERDqqcKmMR5j4wVdh"
+      },
+      "artists": [
+        {
+          "name": "DJ JAM",
+          "url": "https://open.spotify.com/artist/429uK9aePbJMBV2siIj2u8"
+        },
+        {
+          "name": "GamBall",
+          "url": "https://open.spotify.com/artist/1jGj3rxYOEXXD6QfmWDi0U"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115411,
+      "name": "TRAVELING (feat. GamBall)",
+      "url": "https://open.spotify.com/track/5Koz3ppFpXzObRuNm7O9dL"
     },
     {
       "album": {
@@ -22015,6 +22073,24 @@
     },
     {
       "album": {
+        "name": "why not",
+        "url": "https://open.spotify.com/album/4iY6mVhvwlbMH4FbkrYSc1"
+      },
+      "artists": [
+        {
+          "name": "It-Works",
+          "url": "https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159198,
+      "name": "why not",
+      "url": "https://open.spotify.com/track/5LZ2QmkL6FqezVdtpubkDC"
+    },
+    {
+      "album": {
         "name": "Why'd i?",
         "url": "https://open.spotify.com/album/4u9JcsuBKWKWEcLycDm3Ge"
       },
@@ -22713,6 +22789,24 @@
     },
     {
       "album": {
+        "name": "YURARI",
+        "url": "https://open.spotify.com/album/246iMfvhwWDy7qRFLKMSJL"
+      },
+      "artists": [
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146996,
+      "name": "YURARI",
+      "url": "https://open.spotify.com/track/3LCQs7a5ImmtqC4RhZV3mY"
+    },
+    {
+      "album": {
         "name": "YUTAKA",
         "url": "https://open.spotify.com/album/0lAp8PyIJCZWdoIqg4MF6a"
       },
@@ -22746,6 +22840,28 @@
       "duration_ms": 134769,
       "name": "Yutta",
       "url": "https://open.spotify.com/track/5dplmBHVIEn5qIhVujSd6I"
+    },
+    {
+      "album": {
+        "name": "ZEN ZEN (feat. Lisa lil vinci)",
+        "url": "https://open.spotify.com/album/2YbHTYvFep9q1uxseXbFi0"
+      },
+      "artists": [
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        },
+        {
+          "name": "Lisa lil vinci",
+          "url": "https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "ZEN ZEN (feat. Lisa lil vinci)",
+      "url": "https://open.spotify.com/track/61Zhs5BtNLlrjJOzmQL6EC"
     },
     {
       "album": {

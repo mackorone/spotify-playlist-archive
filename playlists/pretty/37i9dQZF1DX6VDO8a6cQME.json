@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the '90s. Cover: D'Angelo",
-  "num_followers": 3810568,
+  "num_followers": 3810799,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
     },
     {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
+    },
+    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "This Is How We Do It",
@@ -555,22 +571,6 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -669,20 +669,20 @@
       "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
+      "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Groove Theory",
-        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
       },
       "artists": [
         {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 236066,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
+      "duration_ms": 267440,
+      "name": "You're Makin' Me High",
+      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -701,20 +701,20 @@
       "url": "https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
+      "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
+        "name": "Groove Theory",
+        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
       },
       "artists": [
         {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
         }
       ],
-      "duration_ms": 267440,
-      "name": "You're Makin' Me High",
-      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
+      "duration_ms": 236066,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
     },
     {
       "added_at": "2023-05-04 04:40:51",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
     },
     {
-      "added_at": "2023-06-09 16:00:00",
-      "album": {
-        "name": "Never Say Never",
-        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 273440,
-      "name": "Have You Ever",
-      "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "100% Ginuwine",
@@ -847,6 +831,22 @@
       "duration_ms": 365800,
       "name": "None Of Ur Friends Business",
       "url": "https://open.spotify.com/track/6t8JpJtI0PgVRSuMDGWZlH"
+    },
+    {
+      "added_at": "2023-06-09 16:00:00",
+      "album": {
+        "name": "Never Say Never",
+        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 273440,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
     },
     {
       "added_at": "2023-08-25 07:08:29",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Candy Rain",
-        "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
-      },
-      "artists": [
-        {
-          "name": "Soul For Real",
-          "url": "https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "Every Little Thing I Do",
-      "url": "https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "Ginuwine... The Bachelor",
@@ -935,6 +919,22 @@
       "duration_ms": 324800,
       "name": "Pony",
       "url": "https://open.spotify.com/track/5FR54UnizyI8pE5E9Zb0Dt"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Candy Rain",
+        "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
+      },
+      "artists": [
+        {
+          "name": "Soul For Real",
+          "url": "https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "Every Little Thing I Do",
+      "url": "https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Fortunate",
-        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 301160,
-      "name": "Fortunate",
-      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
-    },
-    {
       "added_at": "2022-10-27 04:00:00",
       "album": {
         "name": "Love Deluxe",
@@ -1047,6 +1031,22 @@
       "duration_ms": 228293,
       "name": "I Couldn't Love You More",
       "url": "https://open.spotify.com/track/104gvc1JDyW1PXCW9GCP17"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Fortunate",
+        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 301160,
+      "name": "Fortunate",
+      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
     },
     {
       "added_at": "2021-08-20 04:02:00",

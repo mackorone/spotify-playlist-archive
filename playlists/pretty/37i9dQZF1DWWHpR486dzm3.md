@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Aksel Kankaanranta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,372 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,373 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Sail Away](https://open.spotify.com/track/5EOSnoLAZ2lhhkyYpljMCG) | [Free Carmen](https://open.spotify.com/artist/6P4zkYj5jjhOHdlob4OUYx) | [Sail Away](https://open.spotify.com/album/4WMg1aYxn4y65SFkUn4QUW) | 3:56 |
 | 80 | [Kuiskaus](https://open.spotify.com/track/06B18ox0YbchjWBO7mxLgc) | [Janne Huu](https://open.spotify.com/artist/2IpVLD7OTKAdzV2kSQkVgl) | [Kuiskaus](https://open.spotify.com/album/4bsLb7ZmK1XwQN7HT09BWv) | 3:28 |
 
-Snapshot ID: `AAAAAJ0TTPmkNqt9+6Dk1o2a/GEQBPIL`
+Snapshot ID: `AAAAANkiVgTmz8HdrMpK7QHNWSwgq6ma`

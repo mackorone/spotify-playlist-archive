@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Discover the intensity and emotion resonating through Japan\u2019s hard rock. / \u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Paledusk",
+  "description": "Discover the intensity and emotion resonating through Japan\u2019s hard rock. / \u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: CVLTE",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 239866,
       "name": "Baigaeshi (feat. RAPPAGARIYA)",
       "url": "https://open.spotify.com/track/24lD1cOoBUjvOLjtDMDh5c"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 221089,
       "name": "bloodYhell.",
       "url": "https://open.spotify.com/track/3hK0jJVeMYsie1nnQhvy2N"
@@ -2214,6 +2214,28 @@
       "duration_ms": 237080,
       "name": "GROUNDSWELL",
       "url": "https://open.spotify.com/track/4REYshNixTxWSmDaEmA3aC"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        },
+        {
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236523,
+      "name": "h2o.wav",
+      "url": "https://open.spotify.com/track/5WmpPBp1c2fcT5fdpFizBW"
     },
     {
       "album": {
@@ -5320,6 +5342,24 @@
       "duration_ms": 207006,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235800,
+      "name": "shibuya phobia.",
+      "url": "https://open.spotify.com/track/1K8jf2rYGgPkhUlLpvNbTZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 🇮🇹  cover: eroCaddeo
 
-981 songs - 1 day 22 hr 22 min
+983 songs - 1 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Mattone](https://open.spotify.com/track/46yBh1rkQjidNATQ7YeqTa) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Mattone](https://open.spotify.com/album/2g5pToFqMIpwYNyFlOPU6N) | 3:22 | 2025-11-20 |  |
 | [mayday](https://open.spotify.com/track/1rxBdwJnt5pZHXqzB4ssEH) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [mayday](https://open.spotify.com/album/3WtlhNKnPhYPpMdeEILB6H) | 2:18 | 2025-01-23 | 2025-04-18 |
 | [Me and My Skate](https://open.spotify.com/track/1ftt2IjW5wAngFwzE66wfz) | [Selton](https://open.spotify.com/artist/3MR638pug3LlFmzFGAzjTl) | [Me And My Skate / Vado Fuori](https://open.spotify.com/album/1M51916EsqWUcU3KdiBe7C) | 2:07 | 2025-10-02 | 2025-10-31 |
+| [meglio](https://open.spotify.com/track/73Y49QNia7nGECpKs9OGt3) | [Valentina Pesaresi](https://open.spotify.com/artist/6v4Rakxd3SfpdMi578hedT) | [meglio](https://open.spotify.com/album/3vT4URB5DjgFzLO4iTVHXr) | 3:20 | 2025-12-02 |  |
 | [MELODIA A MEZZANOTTE](https://open.spotify.com/track/45OP4nYKqulGEwWJoH40pO) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH) | [MELODIA A MEZZANOTTE](https://open.spotify.com/album/6CFU2OyVJRfhgotoZKbYDi) | 2:41 | 2025-11-20 |  |
 | [Menomale che c'è il mare](https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Gira, il mondo gira](https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap) | 2:53 | 2024-07-25 | 2024-11-13 |
 | [Mercante](https://open.spotify.com/track/5kNzj2wKiSlUdLwodYZ4lf) | [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH) | [Mercante](https://open.spotify.com/album/4SUj7lMAZ8PAl6udfpN6gO) | 3:08 | 2024-07-25 | 2024-08-02 |
@@ -727,6 +728,7 @@
 | [Pretty Girl](https://open.spotify.com/track/3YeRgjA4ECkbmpCbVJGLJc) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Pretty Girl](https://open.spotify.com/album/7iAHmVwut5poPWisZw8ZZD) | 2:38 | 2025-07-24 | 2025-10-17 |
 | [prima dell'alba](https://open.spotify.com/track/2NsSeFDGxErU743AqkBdIP) | [Ottobre](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [prima dell'alba](https://open.spotify.com/album/6wcSGeGRc4jntrQg419uHK) | 2:52 | 2024-10-24 | 2024-11-15 |
 | [PRIMA DELLA SETE](https://open.spotify.com/track/3fkEO0XzyMXtOqlsSm1HXx) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [COYOTE!](https://open.spotify.com/album/1EKmOhH9z1WorXwncExBOO) | 2:51 | 2025-11-13 |  |
+| [PRIMA DI ADESSO](https://open.spotify.com/track/7hxQVhYkWekP3a0BtOGQtc) | [Riccardo Stimolo](https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW) | [PRIMA DI ADESSO](https://open.spotify.com/album/1PdQp7paqB1N11vt7Vw0yS) | 2:58 | 2025-12-02 |  |
 | [Primavera](https://open.spotify.com/track/4iMGxCfP53otDdDqP1zLVx) | [PIÑACOLADA](https://open.spotify.com/artist/4LfIb06g3s3uQkkz2QW84i), [micol](https://open.spotify.com/artist/14XfK2OCx8cd8XSYlRmgtB), [mezzocammello](https://open.spotify.com/artist/5sQgIRNEUGevhQzxZk6leD) | [Primavera](https://open.spotify.com/album/1QA16UbB7vuMTS26PIcMac) | 2:12 | 2025-06-19 | 2025-07-25 |
 | [principio](https://open.spotify.com/track/6cq9sfMJP7K5MuoOXQq3Np) | [nora lang](https://open.spotify.com/artist/1dl2ZT5IwLGsyKrOf2SSkh) | [principio](https://open.spotify.com/album/2aTMtJ3F2OJFsWlclqMC9N) | 2:30 | 2025-01-30 | 2025-03-21 |
 | [Privilegio stupendo](https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Opopomoz](https://open.spotify.com/album/04ksIoeQeBBL9zHasEoyBd) | 3:05 | 2025-11-13 |  |

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Pabst
 
-1,762 songs - 4 day 5 hr 55 min
+1,764 songs - 4 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Charlie Brown](https://open.spotify.com/track/7Lyiudgr7LN36UQyeKWjMO) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Charlie Brown](https://open.spotify.com/album/0SvYyrNBJLoTcXcNixJ4g0) | 2:49 | 2023-06-15 | 2023-06-23 |
 | [Charlotte](https://open.spotify.com/track/6XeBfuGi37ApfsA3R7rW74) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [B\-Real](https://open.spotify.com/album/6N9Xi9kM9MudaNG9NBntFh) | 3:26 | 2024-01-11 | 2024-01-19 |
 | [CHASING SHADOWS](https://open.spotify.com/track/2KzPlIJdel4ObXJBDqcFOk) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Chasing Shadows](https://open.spotify.com/album/3DU6iVhXE99QOPKpmTW4RQ) | 3:47 | 2025-08-08 | 2025-10-10 |
+| [CHASING SHADOWS](https://open.spotify.com/track/4sb2DpH2pMeSuAK9x04fON) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [CHASING SHADOWS](https://open.spotify.com/album/74CUUOQcJqtAVFO0U8zRQT) | 3:42 | 2025-11-27 |  |
 | [cheerleader \(ft\. Waterparks\)](https://open.spotify.com/track/2malYWL8GiAyoAqvLOeSrX) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [cheerleader \(ft\. Waterparks\)](https://open.spotify.com/album/2tWR94g7epMrZx7UAWeIsw) | 2:39 | 2024-02-29 | 2024-03-08 |
 | [Chemical \- Sick Viral Version](https://open.spotify.com/track/1xNnlcY6ok6o4KPMlRlcCx) | [MOLA BLUE](https://open.spotify.com/artist/1SBUZIyPfhVKkE8F7PlOmJ), [Sick Viral](https://open.spotify.com/artist/0HWjBjFaNg6YHozzC1gicb) | [Chemical \(Sick Viral Version\)](https://open.spotify.com/album/0HvFizXfoymrQSywT8mw25) | 2:44 | 2023-10-26 | 2023-11-03 |
 | [Chemicals](https://open.spotify.com/track/0CqxXGyujgwmX0Bfyy7an4) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Chemicals](https://open.spotify.com/album/1YT1X4pHlcMZbHuYrgLuRj) | 2:13 | 2023-12-28 | 2024-01-05 |
@@ -428,7 +429,7 @@
 | [Digital Forest](https://open.spotify.com/track/49dxw4snvfZ9DBCceJXPo3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Digital Forest / Sugar Pill](https://open.spotify.com/album/2Ze7DZYjC1b4qNt9ajoXd9) | 2:48 | 2023-05-04 | 2023-05-12 |
 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 | 2023-12-07 | 2024-02-09 |
 | [Dilemma Us from Evil](https://open.spotify.com/track/7oI2AurJePKUTuTJn74jYZ) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Dilemma Us from Evil](https://open.spotify.com/album/6DTlM5mdnp1IUnhdb4gnV5) | 3:02 | 2023-10-12 | 2023-10-20 |
-| [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [King Of Terrors](https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t) | 3:02 | 2025-09-25 |  |
+| [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [King Of Terrors](https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t) | 3:02 | 2025-09-25 | 2025-12-03 |
 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 | 2024-01-11 | 2024-01-19 |
 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 | 2023-10-19 | 2023-11-24 |
 | [Diving in After You](https://open.spotify.com/track/3EDpOGFvsriOrCQ9P8DJbj) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Diving in After You](https://open.spotify.com/album/4IMHZKSN6dXybcaaw7Wzzm) | 3:00 | 2024-02-29 | 2024-04-26 |
@@ -1204,7 +1205,7 @@
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-10-19 | 2023-11-03 |
 | [Prison of Flesh](https://open.spotify.com/track/3cg3s4m9gQkV1Aqp0yBP56) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Prison of Flesh](https://open.spotify.com/album/2nyNqY9t8kn8m1nwLSxEtC) | 7:00 | 2025-08-21 | 2025-09-29 |
 | [Private](https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Private](https://open.spotify.com/album/3ZHB2EDswWPDigqKXI59CL) | 3:49 | 2025-10-23 |  |
-| [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 | 2025-11-27 |  |
+| [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 | 2025-11-27 | 2025-12-03 |
 | [Prizefighter](https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Prizefighter](https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq) | 3:20 | 2025-04-03 | 2025-05-30 |
 | [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 | 2023-05-25 | 2023-06-02 |
 | [Prove It To You](https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Prove It To You](https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J) | 3:20 | 2024-01-25 | 2024-02-02 |
@@ -1369,6 +1370,7 @@
 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 | 2023-03-16 | 2023-05-19 |
 | [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-29 | 2025-06-17 |
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-22 | 2024-03-01 |
+| [Songs I'd Rather Not Sing](https://open.spotify.com/track/0sdDCmGW4QomnHcLvd3KCh) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Songs I'd Rather Not Sing](https://open.spotify.com/album/1g2lIajRkoTuD6NuEYp11X) | 2:44 | 2025-11-27 |  |
 | [Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 2:54 | 2023-03-16 | 2023-04-14 |
 | [Sorry](https://open.spotify.com/track/3GE4nEO4GiELDyiE3gtkNH) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Sorry](https://open.spotify.com/album/5VeQYezyQidkmtJhzog4SF) | 3:01 | 2024-01-04 | 2024-01-26 |
 | [Sorry Not Sorry \(with Slash\) \- Rock Version](https://open.spotify.com/track/3sxeoitzj07ONdF2akJ62y) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [Sorry Not Sorry \(with Slash\) \[Rock Version\]](https://open.spotify.com/album/17YnG9TORmVa3NWHwQKQHA) | 3:34 | 2023-07-13 | 2023-08-18 |

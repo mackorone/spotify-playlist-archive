@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87740,
+  "num_followers": 87734,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "No Hay Tiempo Que Perder",
+        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
+      },
+      "artists": [
+        {
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "\u00bfQu\u00e9 se yo?",
+      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Perro Come Perro",
         "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 197334,
       "name": "Perro Come Perro",
       "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "No Hay Tiempo Que Perder",
-        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
-      },
-      "artists": [
-        {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "\u00bfQu\u00e9 se yo?",
-      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "M\u00e1s All\u00e1 del Tiempo",
-        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
-      },
-      "artists": [
-        {
-          "name": "Los Rolling Ruanas",
-          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "M\u00e1s All\u00e1 del Tiempo",
-      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "INFECTOS",
         "url": "https://open.spotify.com/album/7n0NxieCFnU2SkHVBiAlIr"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 263449,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "M\u00e1s All\u00e1 del Tiempo",
+        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
+      },
+      "artists": [
+        {
+          "name": "Los Rolling Ruanas",
+          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "M\u00e1s All\u00e1 del Tiempo",
+      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Sed",
-        "url": "https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn"
-      },
-      "artists": [
-        {
-          "name": "Lucio Feuillet",
-          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
-        }
-      ],
-      "duration_ms": 299116,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 276000,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Sed",
+        "url": "https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn"
+      },
+      "artists": [
+        {
+          "name": "Lucio Feuillet",
+          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
+        }
+      ],
+      "duration_ms": 299116,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Solo t\u00fa",
+        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
+      },
+      "artists": [
+        {
+          "name": "APOLO 7",
+          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
+        }
+      ],
+      "duration_ms": 247392,
+      "name": "Solo t\u00fa",
+      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Madre Tierra",
         "url": "https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Solo t\u00fa",
-        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
-      },
-      "artists": [
-        {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
-        }
-      ],
-      "duration_ms": 247392,
-      "name": "Solo t\u00fa",
-      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Dallas",
         "url": "https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 226451,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Texas",
-        "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        }
-      ],
-      "duration_ms": 258946,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -927,18 +911,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE"
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
       },
       "artists": [
         {
-          "name": "Encarta 98",
-          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
         }
       ],
-      "duration_ms": 340017,
-      "name": "El Silencio",
-      "url": "https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo"
+      "duration_ms": 258946,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -955,6 +939,22 @@
       "duration_ms": 187500,
       "name": "La Clase Que Trabaja",
       "url": "https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE"
+      },
+      "artists": [
+        {
+          "name": "Encarta 98",
+          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+        }
+      ],
+      "duration_ms": 340017,
+      "name": "El Silencio",
+      "url": "https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo"
     },
     {
       "added_at": "2024-09-20 08:27:00",

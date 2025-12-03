@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 765 likes - 132 songs - 8 hr 13 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 765 likes - 133 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,5 +140,6 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 | 130 | [It's Only Rock 'n' Roll \(But I Like It\)](https://open.spotify.com/track/6LgYr4tHifLhHdPS5OXkew) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Ain't Dead Yet](https://open.spotify.com/album/6WgRkxsyY5CNChBN70wGLQ) | 4:28 |
 | 131 | [Женщина](https://open.spotify.com/track/6nMGOXJqekVgIfJWUjyMQt) | [Эрик Шарипов](https://open.spotify.com/artist/4wZEqo5Khk8Dmam8PLe5xq) | [Женщина](https://open.spotify.com/album/1EauWCGwFOiE58e8Gq6Efp) | 3:04 |
 | 132 | [All The Streets Were Empty](https://open.spotify.com/track/2zVQBDD2vKOLpHyCnGiQVk) | [Noxura](https://open.spotify.com/artist/4H1RjP4HLvLn8QMRGsQTaV) | [Afterimages](https://open.spotify.com/album/0KJP6gjrr60y15M8tsPade) | 4:25 |
+| 133 | [Marionettes](https://open.spotify.com/track/2xGSnhB3VhyfMtHD7JlgqS) | [Bunar LifT](https://open.spotify.com/artist/7hMuXhNZMfLVRrnbsvhdbg) | [Marionettes](https://open.spotify.com/album/3eWKIo5H9ekwM7fk79V005) | 4:34 |
 
-Snapshot ID: `AAAF0e9/ns+cKtBKBu6WFibq77pX3GN1`
+Snapshot ID: `AAAF0uEEHxgMW3VhyqMi+DGPvz5JPTs1`

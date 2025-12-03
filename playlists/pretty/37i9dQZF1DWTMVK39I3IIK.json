@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  144hz",
-  "num_followers": 47116,
+  "num_followers": 47112,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
+        "name": "Anna",
+        "url": "https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O"
+      },
+      "artists": [
+        {
+          "name": "ABSURD",
+          "url": "https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv"
+        }
+      ],
+      "duration_ms": 192314,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
         "name": "BARATO",
         "url": "https://open.spotify.com/album/3k2jX8she6s2NzgpAKWMpT"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 149771,
       "name": "BARATO",
       "url": "https://open.spotify.com/track/3iy4yl1YHHRlgZJbIKTnn0"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
-        "name": "Anna",
-        "url": "https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O"
-      },
-      "artists": [
-        {
-          "name": "ABSURD",
-          "url": "https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv"
-        }
-      ],
-      "duration_ms": 192314,
-      "name": "Anna",
-      "url": "https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -507,22 +507,18 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Jeg h\u00e5ber (feat. Mekdes)",
-        "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
+        "name": "Folk Forsvinder",
+        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
       },
       "artists": [
         {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        },
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+          "name": "Chris Burton",
+          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
         }
       ],
-      "duration_ms": 168469,
-      "name": "Jeg h\u00e5ber (feat. Mekdes)",
-      "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
+      "duration_ms": 173041,
+      "name": "Folk Forsvinder",
+      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -543,18 +539,22 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Folk Forsvinder",
-        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
+        "name": "Jeg h\u00e5ber (feat. Mekdes)",
+        "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
       },
       "artists": [
         {
-          "name": "Chris Burton",
-          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        },
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
         }
       ],
-      "duration_ms": 173041,
-      "name": "Folk Forsvinder",
-      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
+      "duration_ms": 168469,
+      "name": "Jeg h\u00e5ber (feat. Mekdes)",
+      "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Scandalous",
-        "url": "https://open.spotify.com/album/6UritbdE08G7xkNzR34SyJ"
-      },
-      "artists": [
-        {
-          "name": "Karoline Mousing",
-          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
-        }
-      ],
-      "duration_ms": 160914,
-      "name": "Scandalous",
-      "url": "https://open.spotify.com/track/26MFKVVewVd2pEWlWIroNK"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
         "name": "Ekkoer",
         "url": "https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 161195,
       "name": "Ekkoer",
       "url": "https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
+        "name": "Scandalous",
+        "url": "https://open.spotify.com/album/6UritbdE08G7xkNzR34SyJ"
+      },
+      "artists": [
+        {
+          "name": "Karoline Mousing",
+          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+        }
+      ],
+      "duration_ms": 160914,
+      "name": "Scandalous",
+      "url": "https://open.spotify.com/track/26MFKVVewVd2pEWlWIroNK"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
+        "name": "SIDDER FAST",
+        "url": "https://open.spotify.com/album/1AzZUHmbgs54ifcIe6muYe"
+      },
+      "artists": [
+        {
+          "name": "BL\u00c5",
+          "url": "https://open.spotify.com/artist/0Cuk5kJqUBt9humq6ryL5N"
+        }
+      ],
+      "duration_ms": 171744,
+      "name": "SIDDER FAST",
+      "url": "https://open.spotify.com/track/6Wrf5C5mxvkLIoFjlszAVK"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
         "name": "Lyst til",
         "url": "https://open.spotify.com/album/3HCmazvMAX88CGB1ZngnHS"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 168348,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
-        "name": "SIDDER FAST",
-        "url": "https://open.spotify.com/album/1AzZUHmbgs54ifcIe6muYe"
-      },
-      "artists": [
-        {
-          "name": "BL\u00c5",
-          "url": "https://open.spotify.com/artist/0Cuk5kJqUBt9humq6ryL5N"
-        }
-      ],
-      "duration_ms": 171744,
-      "name": "SIDDER FAST",
-      "url": "https://open.spotify.com/track/6Wrf5C5mxvkLIoFjlszAVK"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -1015,22 +1015,18 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "OLIVER!",
-        "url": "https://open.spotify.com/album/4ytPA0zpbAip5PphgdRIZ5"
+        "name": "Stuck in Traffic",
+        "url": "https://open.spotify.com/album/14VcWo1zOmyts2Md2OrJ2F"
       },
       "artists": [
         {
-          "name": "CEVIL",
-          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
-        },
-        {
-          "name": "Vilma Crow",
-          "url": "https://open.spotify.com/artist/4icj46kOysWSwY501WX8Ww"
+          "name": "Anna Frank",
+          "url": "https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg"
         }
       ],
-      "duration_ms": 163443,
-      "name": "OLIVER!",
-      "url": "https://open.spotify.com/track/2LneG51NHSyyGtHHz9mQ7S"
+      "duration_ms": 195667,
+      "name": "Stuck in Traffic",
+      "url": "https://open.spotify.com/track/5kesuNK5cwGT8wXdxSI4E0"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -1051,6 +1047,26 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
+        "name": "OLIVER!",
+        "url": "https://open.spotify.com/album/4ytPA0zpbAip5PphgdRIZ5"
+      },
+      "artists": [
+        {
+          "name": "CEVIL",
+          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
+        },
+        {
+          "name": "Vilma Crow",
+          "url": "https://open.spotify.com/artist/4icj46kOysWSwY501WX8Ww"
+        }
+      ],
+      "duration_ms": 163443,
+      "name": "OLIVER!",
+      "url": "https://open.spotify.com/track/2LneG51NHSyyGtHHz9mQ7S"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
         "name": "fisk i havet",
         "url": "https://open.spotify.com/album/46sdf3VHh7fN08af6blbI3"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 185821,
       "name": "fisk i havet",
       "url": "https://open.spotify.com/track/4Tb2FQOqTmsGHuOdN2hKDH"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
-        "name": "Stuck in Traffic",
-        "url": "https://open.spotify.com/album/14VcWo1zOmyts2Md2OrJ2F"
-      },
-      "artists": [
-        {
-          "name": "Anna Frank",
-          "url": "https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg"
-        }
-      ],
-      "duration_ms": 195667,
-      "name": "Stuck in Traffic",
-      "url": "https://open.spotify.com/track/5kesuNK5cwGT8wXdxSI4E0"
     },
     {
       "added_at": "2025-11-27 23:00:20",

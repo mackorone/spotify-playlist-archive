@@ -4072,7 +4072,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 212885,
       "name": "I Pray On Christmas",
       "url": "https://open.spotify.com/track/4P8Yj01dzka6OaevNCZuF7"
@@ -5562,6 +5562,24 @@
       "duration_ms": 256200,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/0lEWsFKKwItsH88Lv2QwB3"
+    },
+    {
+      "album": {
+        "name": "Manger In Me",
+        "url": "https://open.spotify.com/album/3AN2w2byEjjyblTYFxGEsT"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221335,
+      "name": "Manger In Me",
+      "url": "https://open.spotify.com/track/36Rm7GJvHfd3jbNT4l8dlZ"
     },
     {
       "album": {
@@ -7436,8 +7454,12 @@
       },
       "artists": [
         {
-          "name": "Katy Nichole & Matt Maher",
-          "url": "https://open.spotify.com/artist/16yzBCoWG9wuKwJCXHbNM1"
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
       "date_added": "2025-11-05",

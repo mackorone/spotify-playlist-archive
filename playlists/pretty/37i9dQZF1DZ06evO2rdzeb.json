@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 18031,
+  "num_followers": 18039,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAABPU4widr5P+Qs3vKTgxrjv",
+  "snapshot_id": "aSzagAAAAABftNmmKfDsO/SgI9rGCYE3",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "a-sides",
-        "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 171453,
-      "name": "Kerina",
-      "url": "https://open.spotify.com/track/57qpL2xmsydc04uBmiH2DC"
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/1okJLT3cqXnzLnpthlxqkz"
     },
     {
       "added_at": null,
@@ -331,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "b-sides",
-        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
+        "name": "a-sides",
+        "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
       },
       "artists": [
         {
@@ -344,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 188666,
-      "name": "A Better Time to Meet",
-      "url": "https://open.spotify.com/track/5qBdd2l8sQZe2270342ap7"
+      "duration_ms": 171453,
+      "name": "Kerina",
+      "url": "https://open.spotify.com/track/57qpL2xmsydc04uBmiH2DC"
     },
     {
       "added_at": null,
@@ -383,8 +379,28 @@
     {
       "added_at": null,
       "album": {
+        "name": "b-sides",
+        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "A Better Time to Meet",
+      "url": "https://open.spotify.com/track/5qBdd2l8sQZe2270342ap7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
       },
       "artists": [
         {
@@ -392,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Snow Song",
-      "url": "https://open.spotify.com/track/1okJLT3cqXnzLnpthlxqkz"
+      "duration_ms": 173253,
+      "name": "A Love of Some Kind",
+      "url": "https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny"
     },
     {
       "added_at": null,
@@ -456,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 173253,
-      "name": "A Love of Some Kind",
-      "url": "https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny"
+      "duration_ms": 161133,
+      "name": "Steamboat",
+      "url": "https://open.spotify.com/track/6LSkjULcHSSfzVe7NY5iZJ"
     },
     {
       "added_at": null,
@@ -528,9 +544,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 161133,
-      "name": "Steamboat",
-      "url": "https://open.spotify.com/track/6LSkjULcHSSfzVe7NY5iZJ"
+      "duration_ms": 231880,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/4T0d6S1Moe4x25pxBUcqeP"
     },
     {
       "added_at": null,
@@ -600,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 231880,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/4T0d6S1Moe4x25pxBUcqeP"
+      "duration_ms": 191000,
+      "name": "Hours Were the Birds",
+      "url": "https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j"
     },
     {
       "added_at": null,
@@ -672,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Hours Were the Birds",
-      "url": "https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j"
+      "duration_ms": 209960,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/0UyXrymHlgh92dmiqgHyz5"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 229373,
       "name": "Ringing Bells",
       "url": "https://open.spotify.com/track/5xjqIJjjrLgTD2GBHkDQtJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/0UyXrymHlgh92dmiqgHyz5"
     },
     {
       "added_at": null,

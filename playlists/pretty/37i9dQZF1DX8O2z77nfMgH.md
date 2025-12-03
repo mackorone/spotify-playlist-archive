@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Romeo Santos & Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,900 likes - 57 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,715 likes - 57 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 48 | [HABIBI](https://open.spotify.com/track/5OOlhSafWh15uh5mRVicSx) | [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [EL RM](https://open.spotify.com/artist/3iTAQxRGntO3VhpGLt2C3P), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [HABIBI](https://open.spotify.com/album/3RVa6rtmFlgePi1mPaAaGP) | 2:46 |
 | 49 | [MUSA](https://open.spotify.com/track/0QuHK1VvIZ1Kt2GfqRrdVo) | [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [MUSA](https://open.spotify.com/album/6SC8IjAaG1Pg9QAh6Oar59) | 2:14 |
 | 50 | [Inevitable](https://open.spotify.com/track/3h8Nhjw1A1KBKX6yBajCKP) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Inevitable](https://open.spotify.com/album/5XBxqbtg076V29qMoqfCOY) | 3:50 |
-| 51 | [BAJO CERO \- con Ka\-b & Saak ft\. FABRO](https://open.spotify.com/track/6p8xjoBgSjBmOdKM8HzfgR) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B), [Ka\-b](https://open.spotify.com/artist/24TlxSIxRtBSV8ylX65Hvb), [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU), [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [BAJO CERO \- con Ka\-b & Saak ft\. FABRO](https://open.spotify.com/album/0N7ntIozywj8PRx4PucRyL) | 4:21 |
+| 51 | [BAJO CERO \- con Ka\-b & Saak ft\. FABRO](https://open.spotify.com/track/6p8xjoBgSjBmOdKM8HzfgR) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B), [Ka\-b](https://open.spotify.com/artist/68glq48CmjixyDfcKMuk8g), [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU), [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [BAJO CERO \- con Ka\-b & Saak ft\. FABRO](https://open.spotify.com/album/0N7ntIozywj8PRx4PucRyL) | 4:21 |
 | 52 | [CRV](https://open.spotify.com/track/7rlSLTOwuIzhfMdADN0Wnq) | [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg) | [CRV](https://open.spotify.com/album/2XzXHGb0wJLQ7h4FWz7Hqv) | 2:33 |
 | 53 | [No Te Superé](https://open.spotify.com/track/4EvnhAyjDalZuUNZG4CADh) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [No Te Superé](https://open.spotify.com/album/2pedot79rr7qy5yRmJih1O) | 3:18 |
 | 54 | [Solo tú y yo](https://open.spotify.com/track/6leHSBzlrhq5R0oH4OGW9b) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Solo tú y yo](https://open.spotify.com/album/4MhVq7AI0Do2h8682Sbarc) | 3:46 |

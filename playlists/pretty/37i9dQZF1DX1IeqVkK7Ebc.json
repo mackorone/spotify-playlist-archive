@@ -1,6 +1,6 @@
 {
   "description": "Sweater weather softer pop with that chill vibe you're searching for",
-  "num_followers": 370449,
+  "num_followers": 370422,
   "original_name": "Chilled Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-10-09 15:12:20",
       "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "added_at": "2025-10-09 15:12:20",
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2025-10-09 15:12:20",
-      "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
       "added_at": "2025-10-09 15:12:20",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-10-09 15:12:20",
       "album": {
-        "name": "Vie",
-        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 266021,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
-    },
-    {
-      "added_at": "2025-10-09 15:12:20",
-      "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "added_at": "2025-10-09 15:12:20",
+      "album": {
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 266021,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
     },
     {
       "added_at": "2025-10-09 15:12:20",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-10-09 15:12:20",
       "album": {
-        "name": "Claw Marks",
-        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 155528,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
-    },
-    {
-      "added_at": "2025-10-09 15:12:20",
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 302408,
       "name": "canal street",
       "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
+    },
+    {
+      "added_at": "2025-10-09 15:12:20",
+      "album": {
+        "name": "Claw Marks",
+        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 155528,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
     },
     {
       "added_at": "2025-10-09 15:12:20",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-10-09 15:12:20",
       "album": {
-        "name": "Fleeting",
-        "url": "https://open.spotify.com/album/7s4OI9VpYZaaDjwujZTWDJ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 219257,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef"
-    },
-    {
-      "added_at": "2025-10-09 15:12:20",
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 236012,
       "name": "My Fault (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
+    },
+    {
+      "added_at": "2025-10-09 15:12:20",
+      "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/7s4OI9VpYZaaDjwujZTWDJ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 219257,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef"
     },
     {
       "added_at": "2025-10-09 15:12:20",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-10-09 15:12:20",
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
+    },
+    {
+      "added_at": "2025-10-09 15:12:20",
+      "album": {
         "name": "21st Century Cool Girl",
         "url": "https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 136925,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
-    },
-    {
-      "added_at": "2025-10-09 15:12:20",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
     },
     {
       "added_at": "2025-10-09 15:12:20",

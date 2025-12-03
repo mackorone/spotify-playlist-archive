@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, Shordie Shordie, Money Man, Peezy &amp; Blxst.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,641 likes - 101 songs - 4 hr 46 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,631 likes - 101 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

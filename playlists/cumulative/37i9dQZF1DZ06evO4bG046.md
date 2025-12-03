@@ -4,7 +4,7 @@
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-129 songs - 11 hr 37 min
+130 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Como Tus Ríos Te Recorren \(En Vivo\) \- 2024 Remasterizado](https://open.spotify.com/track/6bmUW30tjqsBbWJAVaezuH) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas En Vivo: Gira Chile '88 \(2024 Remasterizado\)](https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9) | 5:37 | 2024-07-30 | 2024-08-30 |
 | [Como Tus Ríos Te Recorren \- En Vivo 2014](https://open.spotify.com/track/3kuHkjG1G7Zqzu9Onb9gmS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Concierto Acústico \(En Vivo 2014\)](https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq) | 5:03 | 2024-12-15 | 2025-05-07 |
 | [Corre Que Te Pillo](https://open.spotify.com/track/1tqU1TAZpCp5WqLMI1yHpL) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 9:46 | 2022-09-16 | 2025-11-27 |
+| [Corre Que Te Pillo](https://open.spotify.com/track/7ynwdIuc9g4jjw0blnVnVB) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 9:46 | 2025-12-03 |  |
 | [Cueca de los Refranes](https://open.spotify.com/track/34J7onsu6NhsBLDasTzjnv) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp) | 2:01 | 2025-11-26 | 2025-11-27 |
 | [Danzas](https://open.spotify.com/track/1g5kVDd0YvwDG7XUpkDuSc) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 8:44 | 2022-09-18 | 2025-11-23 |
 | [Debajo de las Higueras](https://open.spotify.com/track/2yXSCqW7fZURhD2Uo0sOrL) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 3:29 | 2022-09-16 | 2025-11-29 |
@@ -69,7 +70,7 @@
 | [Hijos de la Tierra](https://open.spotify.com/track/32NczfSMSbB340CEvtwYhq) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0) | 4:56 | 2025-11-30 |  |
 | [Hijos de la Tierra \- En Vivo](https://open.spotify.com/track/5UkY5OcXJEBmxtwgIbtwgO) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Ankatu Alquinta](https://open.spotify.com/artist/589TezEaFGuNyZkaiq97Es), [Eloy Alquinta](https://open.spotify.com/artist/0KIMeyA9BADCcGD15YeOS0), [Aurora Alquinta Monsalve](https://open.spotify.com/artist/0YVr9RHlXx2emUtkjzeczI) | [Hijos de la Tierra \(En Vivo\)](https://open.spotify.com/album/2EOP4MmPOOAXYtXHuHSZC3) | 4:49 | 2023-08-19 | 2023-09-22 |
 | [Huairuro](https://open.spotify.com/track/3wbeSi0qMixFGzb1LSFYHg) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 3:01 | 2022-09-20 | 2025-11-29 |
-| [Huairuro](https://open.spotify.com/track/4CW1pkbEJgEESNxpPWnl5I) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 3:01 | 2025-11-29 |  |
+| [Huairuro](https://open.spotify.com/track/4CW1pkbEJgEESNxpPWnl5I) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 3:01 | 2025-11-29 | 2025-12-03 |
 | [Huaynito de la Mañana](https://open.spotify.com/track/1mdt5Jh5wSHicq7y6jvmuj) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp) | 1:36 | 2025-10-08 | 2025-11-29 |
 | [Indio Hermano \- Versión 1996](https://open.spotify.com/track/2qvdu1d8aO0TvT3jRoxSZ6) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 6:01 | 2025-11-29 |  |
 | [Indio Hermano \- Versión 1996](https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 6:01 | 2022-09-16 | 2025-11-29 |

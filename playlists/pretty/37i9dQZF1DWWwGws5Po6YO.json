@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Malibu",
-  "num_followers": 133918,
+  "num_followers": 133946,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,18 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
+        "name": "Analemma",
+        "url": "https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
         }
       ],
-      "duration_ms": 218773,
-      "name": "Suosan",
-      "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -839,18 +835,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Analemma",
-        "url": "https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq"
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
       },
       "artists": [
         {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
+      "duration_ms": 218773,
+      "name": "Suosan",
+      "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -907,6 +907,26 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "Big Majestic",
+        "url": "https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb"
+      },
+      "artists": [
+        {
+          "name": "Ellen Reid",
+          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "duration_ms": 162230,
+      "name": "Strawberry Hill Ascent",
+      "url": "https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Frozen Passages",
         "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 400248,
       "name": "Falling Water Lullaby",
       "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "Big Majestic",
-        "url": "https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb"
-      },
-      "artists": [
-        {
-          "name": "Ellen Reid",
-          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
-        },
-        {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
-        }
-      ],
-      "duration_ms": 162230,
-      "name": "Strawberry Hill Ascent",
-      "url": "https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "Big Majestic",
+        "url": "https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq"
+      },
+      "artists": [
+        {
+          "name": "Ellen Reid",
+          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
+        }
+      ],
+      "duration_ms": 290250,
+      "name": "Big Majestic",
+      "url": "https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "Big Majestic",
-        "url": "https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq"
-      },
-      "artists": [
-        {
-          "name": "Ellen Reid",
-          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
-        }
-      ],
-      "duration_ms": 290250,
-      "name": "Big Majestic",
-      "url": "https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "until all are free",
-        "url": "https://open.spotify.com/album/6xCbR0Jj7Sv99FELiluFHw"
-      },
-      "artists": [
-        {
-          "name": "Jessica Moss",
-          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "until all are free",
-      "url": "https://open.spotify.com/track/0UrZM7tm4R6F4Kl9yfzEFp"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "CHU / \u8655",
         "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
       },
@@ -1483,6 +1467,38 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "until all are free",
+        "url": "https://open.spotify.com/album/6xCbR0Jj7Sv99FELiluFHw"
+      },
+      "artists": [
+        {
+          "name": "Jessica Moss",
+          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "until all are free",
+      "url": "https://open.spotify.com/track/0UrZM7tm4R6F4Kl9yfzEFp"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/5PWPXuYf4tFbW09yLqzJed"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 229521,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/1TnEVTlFobaQCRYIXr1Ctc"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Lovegaze",
         "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/5PWPXuYf4tFbW09yLqzJed"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 229521,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/1TnEVTlFobaQCRYIXr1Ctc"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 460000,
       "name": "Frost",
       "url": "https://open.spotify.com/track/4Kzd3EGu9rGa2bydZ2J8XM"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "I'll Look For You In Others",
-        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 393479,
-      "name": "I'll Look for You in Others",
-      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Keep the Ocean Inside",
         "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 291026,
       "name": "Divining (naming of the Lost)",
       "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "I'll Look For You In Others",
+        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 393479,
+      "name": "I'll Look for You in Others",
+      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
     }
   ],
   "unique_name": "Women of Ambient",

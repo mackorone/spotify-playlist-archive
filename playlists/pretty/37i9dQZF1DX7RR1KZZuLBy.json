@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 64515,
+  "num_followers": 64525,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV"
     },
     {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170521,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
-    },
-    {
       "added_at": "2024-08-16 00:01:00",
       "album": {
         "name": "Chandler Moore: Live in Los Angeles",
@@ -375,6 +359,22 @@
       "duration_ms": 685340,
       "name": "Omemma - Live",
       "url": "https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59"
+    },
+    {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -801,30 +801,6 @@
       "url": "https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Spirit Of Praise, Vol. 9 (Live)",
-        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Spirit of Praise Choir",
-          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
-        },
-        {
-          "name": "Pastor M Tshabalala",
-          "url": "https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ"
-        }
-      ],
-      "duration_ms": 556346,
-      "name": "Bamba Mzalwane (Live)",
-      "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "The Hill",
@@ -861,6 +837,30 @@
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Spirit Of Praise, Vol. 9 (Live)",
+        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Spirit of Praise Choir",
+          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
+        },
+        {
+          "name": "Pastor M Tshabalala",
+          "url": "https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ"
+        }
+      ],
+      "duration_ms": 556346,
+      "name": "Bamba Mzalwane (Live)",
+      "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
+    },
+    {
       "added_at": "2024-08-16 00:01:00",
       "album": {
         "name": "Nara",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Joyous Celebration 23 - Live at the CTICC Cape Town",
+        "url": "https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 349973,
+      "name": "Yesu Wena UnguMhlobo - Live",
+      "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Kulungile Baba",
         "url": "https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb"
       },
@@ -895,6 +911,22 @@
       "duration_ms": 284853,
       "name": "Kulungile Baba",
       "url": "https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -919,38 +951,6 @@
       "duration_ms": 406600,
       "name": "Xa Ndiyekelelwa (Live)",
       "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Joyous Celebration 23 - Live at the CTICC Cape Town",
-        "url": "https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 349973,
-      "name": "Yesu Wena UnguMhlobo - Live",
-      "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK"
     },
     {
       "added_at": "2023-12-01 00:01:00",

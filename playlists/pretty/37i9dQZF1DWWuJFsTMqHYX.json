@@ -1,6 +1,6 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 453741,
+  "num_followers": 453826,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-11-13 17:27:56",
       "album": {
+        "name": "Tartit: Amankor / The Exile",
+        "url": "https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw"
+      },
+      "artists": [
+        {
+          "name": "Tartit",
+          "url": "https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Afous Dafous",
+      "url": "https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1"
+    },
+    {
+      "added_at": "2025-11-13 17:27:56",
+      "album": {
         "name": "The Routes of Slavery",
         "url": "https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 281093,
       "name": "Manden Mandinkadenou (Chant de griot)",
       "url": "https://open.spotify.com/track/0irBIwMyqnB2MtUww6P6iY"
-    },
-    {
-      "added_at": "2025-11-13 17:27:56",
-      "album": {
-        "name": "Tartit: Amankor / The Exile",
-        "url": "https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw"
-      },
-      "artists": [
-        {
-          "name": "Tartit",
-          "url": "https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Afous Dafous",
-      "url": "https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1"
     },
     {
       "added_at": "2025-11-13 17:27:56",

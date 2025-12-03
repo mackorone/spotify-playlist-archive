@@ -4,7 +4,7 @@
 
 > This is Kate Bush\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 29 min
+54 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,10 +38,11 @@
 | [Prelude \- 2018 Remaster](https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 1:25 | 2025-10-28 |  |
 | [Prologue \- 2018 Remaster](https://open.spotify.com/track/1xcKLHQ4KcI5rtFOsZusTv) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 5:41 | 2025-10-28 |  |
 | [Rocket Man](https://open.spotify.com/track/2DYOj01jENtD95hQzQywHI) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 4:59 | 2025-10-28 |  |
-| [Rocket's Tail \- 2018 Remaster](https://open.spotify.com/track/3e28PghAqr6vlfIckqsKcJ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:07 | 2025-10-28 |  |
+| [Rocket's Tail \- 2018 Remaster](https://open.spotify.com/track/3e28PghAqr6vlfIckqsKcJ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:07 | 2025-10-28 | 2025-12-03 |
 | [Rubberband Girl \- 2018 Remaster](https://open.spotify.com/track/0BYdxsa0Ct2GH83cNaEkq1) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes \(2018 Remaster\)](https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6) | 4:43 | 2025-10-28 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2025-10-28 |  |
 | [Sat In Your Lap](https://open.spotify.com/track/1PV9UUMqvIFD5uMWyWer3T) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming](https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo) | 3:29 | 2025-10-28 |  |
+| [Snowflake](https://open.spotify.com/track/7o53vC5HqQpTBDzGTMNMzW) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/0CnpU8D00V1mfJeOt7tsqB) | 9:46 | 2025-12-03 |  |
 | [Somewhere In Between \- 2018 Remaster](https://open.spotify.com/track/49nRB16eio3crw2VprMRHG) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 5:04 | 2025-10-28 |  |
 | [Sunset \- 2018 Remaster](https://open.spotify.com/track/2996WS18xvEgYAyaMPpglz) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 5:58 | 2025-10-28 |  |
 | [Suspended In Gaffa \- 2018 Remaster](https://open.spotify.com/track/6RMOZruWKO7gt7rd2K438m) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming \(2018 Remaster\)](https://open.spotify.com/album/2cRwYvvGigsHqk63ZGfuI2) | 3:54 | 2025-10-28 |  |

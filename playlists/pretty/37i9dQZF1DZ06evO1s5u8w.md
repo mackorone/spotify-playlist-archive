@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,163 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,204 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 9 | [Road to Nowhere \- 2005 Remaster](https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:20 |
 | 10 | [Burning Down the House \- 2005 Remaster](https://open.spotify.com/track/3yO1OjqT59JyjHaQZcCYDX) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:01 |
 | 11 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
-| 12 | [Crosseyed and Painless \- 2005 Remaster](https://open.spotify.com/track/0yhwdmbgkKdE1plV8xWdrd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:45 |
-| 13 | [Heaven \- 2005 Remaster](https://open.spotify.com/track/5IpKduzyTWSCebGXkfJ2Mm) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 4:01 |
+| 12 | [Heaven \- 2005 Remaster](https://open.spotify.com/track/5IpKduzyTWSCebGXkfJ2Mm) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 4:01 |
+| 13 | [Crosseyed and Painless \- 2005 Remaster](https://open.spotify.com/track/0yhwdmbgkKdE1plV8xWdrd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:45 |
 | 14 | [Girlfriend Is Better \- 2005 Remaster](https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:43 |
 | 15 | [Sugar on My Tongue \- 2024 Remaster](https://open.spotify.com/track/7kGecZXX5u2DZ68RSnbdYR) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads: 77 \(Super Deluxe Edition\) \[2024 Remaster\]](https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan) | 2:36 |
 | 16 | [Wild Wild Life](https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [True Stories](https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO) | 3:39 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 21 | [Swamp \- 2005 Remaster](https://open.spotify.com/track/43AZqEOln2jAIvuYYUBy2l) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:13 |
 | 22 | [Houses in Motion \- 2005 Remaster](https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:33 |
 | 23 | [Stay up Late \- 2005 Remaster](https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures \(Deluxe Version\)](https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw) | 3:42 |
-| 24 | [Cities \- 2005 Remaster](https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 4:14 |
+| 24 | [Uh\-Oh, Love Comes to Town](https://open.spotify.com/track/06JKOTOoHXuuKkiSBDdU6n) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77](https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S) | 2:49 |
 | 25 | [Moon Rocks \- 2005 Remaster](https://open.spotify.com/track/1jDit1o3MxkQxFDVNdYX9v) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:45 |
-| 26 | [Uh\-Oh, Love Comes to Town](https://open.spotify.com/track/06JKOTOoHXuuKkiSBDdU6n) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77](https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S) | 2:49 |
+| 26 | [Cities \- 2005 Remaster](https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 4:14 |
 | 27 | [Thank You for Sending Me an Angel \- Live](https://open.spotify.com/track/0E3gdEF4z9cBFfFqA7i72k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 2:09 |
 | 28 | [The Great Curve \- 2005 Remaster](https://open.spotify.com/track/35ljOibZSLEjOEPGrbaJsH) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 6:27 |
 | 29 | [Making Flippy Floppy \- 2005 Remaster](https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 49 | [Paper](https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 2:39 |
 | 50 | [A Clean Break \(Let's Work\) \- Live at WCOZ, Massachusetts; 2004 Remaster](https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [The Name of This Band Is Talking Heads \(Expanded 2004 Remaster\)](https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY) | 5:05 |
 
-Snapshot ID: `aSuJAAAAAAB3mnamvRktJtu9T77EOwX5`
+Snapshot ID: `aSzagAAAAAANcMD58IxRYk8yVxnv7Caq`

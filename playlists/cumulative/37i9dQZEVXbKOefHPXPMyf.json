@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/5iBpXBEBA7548DsoMbgmQr"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145156,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/7GOpb8E87DxMTS7JvJDMpU"
+    },
+    {
+      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 195413,
       "name": "Abreme Paso",
       "url": "https://open.spotify.com/track/51OKtGMRrNYmgrFBZj6RJZ"
@@ -5173,6 +5191,24 @@
     },
     {
       "album": {
+        "name": "Aqui Estoy Yo",
+        "url": "https://open.spotify.com/album/6haItNoRjiMUrBEmmu5Lnl"
+      },
+      "artists": [
+        {
+          "name": "Cezar rios Prod.",
+          "url": "https://open.spotify.com/artist/0vr9d62bJWAC7eVBPTL8Pf"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138187,
+      "name": "Aqui Estoy Yo",
+      "url": "https://open.spotify.com/track/32Rz14KL6nKni2eF4rXpwg"
+    },
+    {
+      "album": {
         "name": "My Mom's Playlist",
         "url": "https://open.spotify.com/album/3U1RezYvtPCorpOyABY92q"
       },
@@ -5926,6 +5962,36 @@
       "duration_ms": 132922,
       "name": "Automotivo da Turbulencia",
       "url": "https://open.spotify.com/track/1D9xlpo9gGhLWrHz0APRlJ"
+    },
+    {
+      "album": {
+        "name": "Veneremur Et Adoremus",
+        "url": "https://open.spotify.com/album/5ynRBZdDGOBMskC1rLmTzP"
+      },
+      "artists": [
+        {
+          "name": "Padre Guilherme",
+          "url": "https://open.spotify.com/artist/7Gl7M2tjlIWsDWYa061TWh"
+        },
+        {
+          "name": "Ebmath",
+          "url": "https://open.spotify.com/artist/3NFKWhstN9hCqjnWJULb7d"
+        },
+        {
+          "name": "Liliana Sofia Coelho",
+          "url": "https://open.spotify.com/artist/1Muj4f3J1c5vPAKTic4J9n"
+        },
+        {
+          "name": "Pequenos Cantores de Amorim e La\u00fandos",
+          "url": "https://open.spotify.com/artist/429z6UyPtwcUkcffNkjXh0"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169429,
+      "name": "Ave Maria - Radio edit",
+      "url": "https://open.spotify.com/track/2eGjnnBr1MNFbIa6aH031h"
     },
     {
       "album": {
@@ -10488,7 +10554,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 295458,
       "name": "BUENOS DIAS (feat. Tury, GeezyDee, CARABIN3)",
       "url": "https://open.spotify.com/track/10B0cONtHL7b8hdMRE2Du6"
@@ -17200,7 +17266,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 151805,
       "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
       "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
@@ -19550,7 +19616,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 130506,
       "name": "Dios Es Un Stalker",
       "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
@@ -20348,6 +20414,24 @@
       "duration_ms": 153928,
       "name": "DOS D\u00cdAS",
       "url": "https://open.spotify.com/track/5lKFO0PrOC9jmOlPEdjHsL"
+    },
+    {
+      "album": {
+        "name": "Dos Locos",
+        "url": "https://open.spotify.com/album/0xFLtA3A8OwJ5Wqgx17DO6"
+      },
+      "artists": [
+        {
+          "name": "OnMusic",
+          "url": "https://open.spotify.com/artist/5DlbOBe9kXAA8o1RXFAuBJ"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190833,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/2rIw5oE9MjacQgsWjks1dy"
     },
     {
       "album": {
@@ -25837,6 +25921,24 @@
     },
     {
       "album": {
+        "name": "FEAR",
+        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268519,
+      "name": "FEAR",
+      "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
+    },
+    {
+      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
@@ -26560,6 +26662,44 @@
       "duration_ms": 295533,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "album": {
+        "name": "Flaka",
+        "url": "https://open.spotify.com/album/3rjGjvLB8Kb3H2NGgZ3CrY"
+      },
+      "artists": [
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217059,
+      "name": "Flaka",
+      "url": "https://open.spotify.com/track/12iY3g6aGopgjMoDo0hb8H"
     },
     {
       "album": {
@@ -27728,7 +27868,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 215251,
       "name": "Gallo de Raza",
       "url": "https://open.spotify.com/track/2K1569RwQXI8A3HGEIiCZS"
@@ -29362,7 +29502,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 113230,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/0myPb7rgTdf5dTHnfwdvO9"
@@ -32578,7 +32718,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 197613,
       "name": "I Can See Clearly Now",
       "url": "https://open.spotify.com/track/2p21JKTsAM4KrJt9z2tGWQ"
@@ -32960,7 +33100,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 129577,
       "name": "I Run",
       "url": "https://open.spotify.com/track/7yxEOiB5klVkj9RXfia90C"
@@ -34260,7 +34400,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 811228,
       "name": "Intro: MEIN LEBEN (feat. \u00d1engo Flow, iZaak, Juanka, Mvchoo23, Omy de Oro, Noriel, Jouseph Yadiel, La Momia, Baby Johnny, Kendo Kaponi)",
       "url": "https://open.spotify.com/track/6sp1YvGyECPvORZ63i2DIY"
@@ -38203,6 +38343,28 @@
     },
     {
       "album": {
+        "name": "LE PED\u00cd A DIOS",
+        "url": "https://open.spotify.com/album/21YunxamBw6fwTRzuDx3Ik"
+      },
+      "artists": [
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214668,
+      "name": "LE PED\u00cd A DIOS",
+      "url": "https://open.spotify.com/track/0u5j4aF91HDisFFExlgtdi"
+    },
+    {
+      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -40457,6 +40619,36 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109128,
+      "name": "Losin' Streak",
+      "url": "https://open.spotify.com/track/6ly0Zc4mrK1W0XLeuAk5Dv"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
       },
@@ -40606,6 +40798,48 @@
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        },
+        {
+          "name": "Lilli Cooper",
+          "url": "https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        },
+        {
+          "name": "Krystina Alabado",
+          "url": "https://open.spotify.com/artist/4xL2eFX2i8uGTzi2tT3b3u"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124462,
+      "name": "Love In A Bottle",
+      "url": "https://open.spotify.com/track/7u3BVQ9DG1KA9c3Q8W3BLr"
     },
     {
       "album": {
@@ -41718,7 +41952,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 194813,
       "name": "Magnolias",
       "url": "https://open.spotify.com/track/7GF92haKwJg9WUdnkTxRtr"
@@ -46865,6 +47099,24 @@
     },
     {
       "album": {
+        "name": "Morfina",
+        "url": "https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350488,
+      "name": "Morfina",
+      "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
+    },
+    {
+      "album": {
         "name": "MORNING",
         "url": "https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q"
       },
@@ -47082,6 +47334,24 @@
       "duration_ms": 302647,
       "name": "Mr. Crowley",
       "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
+    },
+    {
+      "album": {
+        "name": "The Chordettes' Best",
+        "url": "https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN"
+      },
+      "artists": [
+        {
+          "name": "The Chordettes",
+          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143613,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/5VbwM8nvvQLXcwsZUwgm9K"
     },
     {
       "album": {
@@ -49110,7 +49380,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 107933,
       "name": "NO BATID\u00c3O - Slowed",
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
@@ -54266,7 +54536,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 166106,
       "name": "Past Won't Leave My Bed",
       "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv"
@@ -58035,6 +58305,28 @@
     },
     {
       "album": {
+        "name": "Que Te Quieran Bonito",
+        "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162211,
+      "name": "Que Te Quieran Bonito",
+      "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
+    },
+    {
+      "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
@@ -58746,6 +59038,24 @@
       "duration_ms": 176481,
       "name": "qu\u00e9date",
       "url": "https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR"
+    },
+    {
+      "album": {
+        "name": "BORONDO (5020 RCRDS Sessions)",
+        "url": "https://open.spotify.com/album/5U5bjE68QqIQbArnGvditP"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218133,
+      "name": "qu\u00e9date - 5020 RCRDS Sessions",
+      "url": "https://open.spotify.com/track/6OxAfOA7upecHKTlSA8NbJ"
     },
     {
       "album": {
@@ -63438,7 +63748,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 179552,
       "name": "Si me topas",
       "url": "https://open.spotify.com/track/44E5BwyvCPnFxAH9Y8Gov2"
@@ -70042,7 +70352,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 212648,
       "name": "The Door (Tiago PZK Version)",
       "url": "https://open.spotify.com/track/4yq8Oc51K2mgLfo9BjU3Rr"
@@ -74180,6 +74490,40 @@
       "duration_ms": 147692,
       "name": "Un Dia en Mi Barrio",
       "url": "https://open.spotify.com/track/3G5E96MgweWL5SvL3GAwZ9"
+    },
+    {
+      "album": {
+        "name": "Un Dia En Mi Barrio (Remix)",
+        "url": "https://open.spotify.com/album/2wA2nVsgjQYMKWSlraEQLi"
+      },
+      "artists": [
+        {
+          "name": "Tony Monta",
+          "url": "https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435000,
+      "name": "Un Dia En Mi Barrio - Remix",
+      "url": "https://open.spotify.com/track/1KiI7qXgmqlX0KzK4f985q"
     },
     {
       "album": {

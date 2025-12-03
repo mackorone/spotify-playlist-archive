@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Victoria Orenze
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,956 likes - 80 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,993 likes - 80 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 70 | [D2D](https://open.spotify.com/track/3OZy7WilXMYvEkLoFrMiOq) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [OCTAGON](https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf) | 2:37 |
 | 71 | [Ebenezeri](https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE), [APEX CHOIR](https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Ebenezeri](https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03) | 4:53 |
 | 72 | [Emmanuel](https://open.spotify.com/track/466dosccGHgyox0Wr3hdea) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [NWANDO OMOSEBI](https://open.spotify.com/artist/5ftf7GXanOTLGnGgTZTzkT), [IFIOK EZENWA](https://open.spotify.com/artist/1VzNx9xyunmQBsCP1d8xPz) | [The King Is Coming](https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG) | 7:46 |
-| 73 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 |
-| 74 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
+| 73 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
+| 74 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 |
 | 75 | [Blessed Assurance](https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Only King Forever](https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h) | 7:18 |
 | 76 | [Pray For Me](https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT) | [Pray For Me](https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH) | 2:46 |
 | 77 | [Praise The Lord](https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson Qozan](https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN) | [Praise The Lord](https://open.spotify.com/album/0q2F3gGEsvczdPqHpC1SHt) | 2:56 |

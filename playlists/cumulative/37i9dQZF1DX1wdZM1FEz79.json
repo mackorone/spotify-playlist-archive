@@ -2761,6 +2761,24 @@
     },
     {
       "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/31wQ8LKIBv4YGM10scKFUq"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "firefly",
+      "url": "https://open.spotify.com/track/0Yl0RQL6YAbZvAZMBuRlfG"
+    },
+    {
+      "album": {
         "name": "First Confession",
         "url": "https://open.spotify.com/album/13AOgIWiuBJCMvAyBWW9SU"
       },
@@ -3062,7 +3080,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 226853,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C"
@@ -6397,6 +6415,24 @@
     },
     {
       "album": {
+        "name": "Night, Star, You",
+        "url": "https://open.spotify.com/album/49wFjGGRTp4pzYDgNkMaWv"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Night, Star, You",
+      "url": "https://open.spotify.com/track/4PulV0p7Jaqpq4YEVGQYTK"
+    },
+    {
+      "album": {
         "name": "No More Us (feat. Lovey)",
         "url": "https://open.spotify.com/album/0AFSqDbXMvWwJ0gavf7kSI"
       },
@@ -6989,6 +7025,24 @@
     },
     {
       "album": {
+        "name": "Over?",
+        "url": "https://open.spotify.com/album/4UcHiWbOjZE5DFucEI6dwo"
+      },
+      "artists": [
+        {
+          "name": "Kim Siwon",
+          "url": "https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Over?",
+      "url": "https://open.spotify.com/track/3XkAF5FGkTaSVuaPBmp78v"
+    },
+    {
+      "album": {
         "name": "Paint",
         "url": "https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A"
       },
@@ -7502,7 +7556,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 224189,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP"
@@ -8134,7 +8188,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 222784,
       "name": "Someday, With You Again",
       "url": "https://open.spotify.com/track/3zCpxJLcDmmfklrBvfk5Bn"
@@ -8777,6 +8831,24 @@
     },
     {
       "album": {
+        "name": "SUNFLOWER",
+        "url": "https://open.spotify.com/album/6KTIN8L80MmmH6hCTDn9WI"
+      },
+      "artists": [
+        {
+          "name": "PL",
+          "url": "https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "SUNFLOWER",
+      "url": "https://open.spotify.com/track/4XR7aLFGYuQhKz64ADIxhm"
+    },
+    {
+      "album": {
         "name": "Sun And Moon",
         "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
       },
@@ -9322,7 +9394,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 306331,
       "name": "These memories are like a movie (2025)",
       "url": "https://open.spotify.com/track/18igOz3pxDmwz9TPRkTNeG"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Perreo del bueno! twerk that \ud83c\udf51 Cover: \u00d1engo Flow",
-  "num_followers": 1349375,
+  "num_followers": 1349436,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
     {
       "added_at": "2025-11-18 03:48:33",
       "album": {
+        "name": "The Bad Boy",
+        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "El Tel\u00e9fono",
+      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
+    },
+    {
+      "added_at": "2025-11-18 03:48:33",
+      "album": {
         "name": "COMO OREO",
         "url": "https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 195261,
       "name": "COMO OREO",
       "url": "https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs"
-    },
-    {
-      "added_at": "2025-11-18 03:48:33",
-      "album": {
-        "name": "The Bad Boy",
-        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "El Tel\u00e9fono",
-      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
     },
     {
       "added_at": "2025-11-18 03:48:33",
@@ -659,22 +659,22 @@
     {
       "added_at": "2025-11-18 03:48:33",
       "album": {
-        "name": "NUBES",
-        "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
+        "name": "Te Quer\u00eda Ver",
+        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
       },
       "artists": [
         {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 271801,
-      "name": "NUBES",
-      "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
+      "duration_ms": 176129,
+      "name": "Te Quer\u00eda Ver",
+      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
     },
     {
       "added_at": "2025-11-18 03:48:33",
@@ -695,22 +695,22 @@
     {
       "added_at": "2025-11-18 03:48:33",
       "album": {
-        "name": "Te Quer\u00eda Ver",
-        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
+        "name": "NUBES",
+        "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
         },
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 176129,
-      "name": "Te Quer\u00eda Ver",
-      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+      "duration_ms": 271801,
+      "name": "NUBES",
+      "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
     },
     {
       "added_at": "2025-11-18 03:48:33",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-11-18 03:48:33",
       "album": {
-        "name": "SE LO JURO MOR",
-        "url": "https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 170654,
-      "name": "SE LO JURO MOR",
-      "url": "https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM"
-    },
-    {
-      "added_at": "2025-11-18 03:48:33",
-      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+    },
+    {
+      "added_at": "2025-11-18 03:48:33",
+      "album": {
+        "name": "SE LO JURO MOR",
+        "url": "https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 170654,
+      "name": "SE LO JURO MOR",
+      "url": "https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM"
     },
     {
       "added_at": "2025-11-18 03:48:33",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2025-11-18 03:48:33",
       "album": {
-        "name": "AMISTA",
-        "url": "https://open.spotify.com/album/12kivfRERofKpsDpcinrmE"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "AMISTA",
-      "url": "https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0"
-    },
-    {
-      "added_at": "2025-11-18 03:48:33",
-      "album": {
         "name": "BONNIE AND CLYDE (REMIX)",
         "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 286265,
       "name": "BONNIE AND CLYDE - REMIX",
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
+    },
+    {
+      "added_at": "2025-11-18 03:48:33",
+      "album": {
+        "name": "AMISTA",
+        "url": "https://open.spotify.com/album/12kivfRERofKpsDpcinrmE"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "AMISTA",
+      "url": "https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0"
     },
     {
       "added_at": "2025-11-18 03:48:33",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2025-11-18 03:48:33",
       "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 226106,
+      "name": "Si No Te Quiere",
+      "url": "https://open.spotify.com/track/5BHd0eLqg3c58QwyohoYga"
+    },
+    {
+      "added_at": "2025-11-18 03:48:33",
+      "album": {
         "name": "Welcome To The Jungle",
         "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 218506,
       "name": "Sexo Seguro",
       "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
-    },
-    {
-      "added_at": "2025-11-18 03:48:33",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 226106,
-      "name": "Si No Te Quiere",
-      "url": "https://open.spotify.com/track/5BHd0eLqg3c58QwyohoYga"
     },
     {
       "added_at": "2025-11-18 03:48:33",

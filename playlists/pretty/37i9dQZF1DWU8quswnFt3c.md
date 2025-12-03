@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Awich \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,048,756 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,048,594 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 41 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 |
 | 42 | [doll](https://open.spotify.com/track/6tM3TfDXxXWxb6ZACxO897) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [doll](https://open.spotify.com/album/1Do3N6dQQH4vcRpRoSIjnI) | 3:29 |
 | 43 | [Görmeyeli](https://open.spotify.com/track/4klyY7n8Pt8MPod6nNRcc3) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Görmeyeli](https://open.spotify.com/album/3XSotZOi5XBsnjgS5iQ4Uw) | 3:00 |
-| 44 | [Messiah](https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Testament](https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG) | 4:36 |
-| 45 | [Cry For You](https://open.spotify.com/track/45d42op5b8Lec8TlxLFnVX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:23 |
-| 46 | [X Te](https://open.spotify.com/track/7erp5QvErykwQ9QHCZTvJz) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 2:22 |
-| 47 | [h4rdr0ck3r](https://open.spotify.com/track/3fwdPRanZOzbYtsbiyhh9t) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [h4rdr0ck3r](https://open.spotify.com/album/43ZC0qFxjsQlbyS0IDgMnE) | 2:40 |
+| 44 | [Cry For You](https://open.spotify.com/track/45d42op5b8Lec8TlxLFnVX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:23 |
+| 45 | [Messiah](https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Testament](https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG) | 4:36 |
+| 46 | [h4rdr0ck3r](https://open.spotify.com/track/3fwdPRanZOzbYtsbiyhh9t) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [h4rdr0ck3r](https://open.spotify.com/album/43ZC0qFxjsQlbyS0IDgMnE) | 2:40 |
+| 47 | [X Te](https://open.spotify.com/track/7erp5QvErykwQ9QHCZTvJz) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 2:22 |
 | 48 | [Тисяча пісень](https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [Тисяча пісень](https://open.spotify.com/album/0PFAI5uq4WBUqkVnZ8YDUV) | 3:51 |
 | 49 | [Everything Anything](https://open.spotify.com/track/7xwNAdQd4CBZegpwoyCEZc) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Everything Anything](https://open.spotify.com/album/2zqeDLjSfDLw69sM9VPnsk) | 3:21 |
 | 50 | [Doctor's Orders](https://open.spotify.com/track/6TlkRvPjRQo5VZqIfM0MjA) | [Carol Douglas](https://open.spotify.com/artist/7xcXR8rEj6eRPVMFjUNtBe) | [The Carol Douglas Album](https://open.spotify.com/album/1mByrI0D24jYEOU6tGcPNH) | 4:30 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 54 | [Come Get Dis](https://open.spotify.com/track/4iF65xGx3R3WJLAwr2HGrQ) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Come Get Dis](https://open.spotify.com/album/3HZwaISTcIUB8WFaRVZSfG) | 2:25 |
 | 55 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
 | 56 | [Баштани](https://open.spotify.com/track/1ultuLDrrteVddIQe1GnwY) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z), [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [Баштани](https://open.spotify.com/album/4GNX4WqQs3G7P7ZDexopow) | 3:10 |
-| 57 | [Fatata](https://open.spotify.com/track/7EHtqFzAw7QVk9SBwYbRah) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Fatata](https://open.spotify.com/album/3pBMLWsNfFApr2pvoCbQJS) | 3:09 |
-| 58 | [Noutra Vida](https://open.spotify.com/track/0kJXz31nxbsfwQT5IPvYZY) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm) | [Noutra Vida](https://open.spotify.com/album/5GpaLygIn24UXpH36imoZk) | 3:10 |
+| 57 | [Noutra Vida](https://open.spotify.com/track/0kJXz31nxbsfwQT5IPvYZY) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm) | [Noutra Vida](https://open.spotify.com/album/5GpaLygIn24UXpH36imoZk) | 3:10 |
+| 58 | [Fatata](https://open.spotify.com/track/7EHtqFzAw7QVk9SBwYbRah) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Fatata](https://open.spotify.com/album/3pBMLWsNfFApr2pvoCbQJS) | 3:09 |
 | 59 | [黑白照](https://open.spotify.com/track/6H7VRaejhgwj3yfhW3vpe9) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [Coloring Stephy](https://open.spotify.com/album/0koAhG5VnQrCGajwz0RNkn) | 3:56 |
 | 60 | [Porch Light \(Valley Version\)](https://open.spotify.com/track/0XpadPENnHNnUUA0sTqPe2) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Porch Light \(Valley Version\)](https://open.spotify.com/album/6wlSTQlPPQjly70oSZraPn) | 3:33 |
 | 61 | [Multe veri](https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Multe veri](https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4) | 2:32 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 69 | [Glückssträhne](https://open.spotify.com/track/2dwFT3ep5vjTmieRLJUlt1) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Glückssträhne](https://open.spotify.com/album/0rw9j3JpihgYfnKXZVKXjs) | 2:55 |
 | 70 | [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 |
 | 71 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
-| 72 | [Dzisiaj przychodzi on](https://open.spotify.com/track/6oxRENLxHBG8wjObGx3YIk) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM) | [Dzisiaj przychodzi on](https://open.spotify.com/album/62UFJKU6L8intdjOf1BFG7) | 5:29 |
-| 73 | [Thought You'd Know By Now](https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO), [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Thought You'd Know By Now](https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ) | 2:57 |
+| 72 | [Thought You'd Know By Now](https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO), [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Thought You'd Know By Now](https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ) | 2:57 |
+| 73 | [Dzisiaj przychodzi on](https://open.spotify.com/track/6oxRENLxHBG8wjObGx3YIk) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM) | [Dzisiaj przychodzi on](https://open.spotify.com/album/62UFJKU6L8intdjOf1BFG7) | 5:29 |
 | 74 | [Pyar Ni Sarya](https://open.spotify.com/track/5JaGHHCV76DAgyLfo75GNy) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Pyar Ni Sarya](https://open.spotify.com/album/4IhUHMHvSoKOKnaleWpCAm) | 3:19 |
 | 75 | [立斷](https://open.spotify.com/track/59hbCeKUhHgu1osZjzqbqK) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [立斷](https://open.spotify.com/album/6BJZvDMveWcYsTYVEB7cLE) | 3:56 |
 

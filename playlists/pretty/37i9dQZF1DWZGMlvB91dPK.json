@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3472,
+  "num_followers": 3476,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Un chant d'amour",
-        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 168027,
-      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
-      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Hugh Greene & the Lucies Made Me",
         "url": "https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "ROOM",
-        "url": "https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC"
+        "name": "Un chant d'amour",
+        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
       },
       "artists": [
         {
-          "name": "marta",
-          "url": "https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt"
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
         }
       ],
-      "duration_ms": 306128,
-      "name": "GROUND",
-      "url": "https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp"
+      "duration_ms": 168027,
+      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
+      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -471,6 +455,22 @@
       "duration_ms": 224687,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/1oYlRlMq5njbUH7Pmx06Sg"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "ROOM",
+        "url": "https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC"
+      },
+      "artists": [
+        {
+          "name": "marta",
+          "url": "https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt"
+        }
+      ],
+      "duration_ms": 306128,
+      "name": "GROUND",
+      "url": "https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Head Out",
-        "url": "https://open.spotify.com/album/5OtP813E52dTO5fiakbt87"
-      },
-      "artists": [
-        {
-          "name": "The Chainsaw Motel",
-          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
-        }
-      ],
-      "duration_ms": 197264,
-      "name": "Head Out",
-      "url": "https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "INSURGENCIA",
         "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 132600,
       "name": "INSURGENCIA",
       "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Head Out",
+        "url": "https://open.spotify.com/album/5OtP813E52dTO5fiakbt87"
+      },
+      "artists": [
+        {
+          "name": "The Chainsaw Motel",
+          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
+        }
+      ],
+      "duration_ms": 197264,
+      "name": "Head Out",
+      "url": "https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527"
     },
     {
       "added_at": "2025-11-20 17:00:08",

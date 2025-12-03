@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAA/8kvIUpBSL2SR4t3hwExf",
+  "snapshot_id": "aSzagAAAAACcjRFQcW1Pe9iJmb4tHwQo",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 151053,
-      "name": "same squad",
-      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It Ain't Nothin",
         "url": "https://open.spotify.com/album/2CSm8CtXCnwr3d3hQpWsQF"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 147169,
       "name": "It Ain't Nothin",
       "url": "https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 151053,
+      "name": "same squad",
+      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
     },
     {
       "added_at": null,
@@ -823,54 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Mike Sherm",
-          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
-        }
-      ],
-      "duration_ms": 144459,
-      "name": "House",
-      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
-      },
-      "artists": [
-        {
-          "name": "Dame D.O.L.L.A",
-          "url": "https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "OG DAYV",
-          "url": "https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
-      "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
         "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
       },
@@ -911,6 +863,54 @@
       "duration_ms": 225906,
       "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
       "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
+      },
+      "artists": [
+        {
+          "name": "Dame D.O.L.L.A",
+          "url": "https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "OG DAYV",
+          "url": "https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
+      "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
+        }
+      ],
+      "duration_ms": 144459,
+      "name": "House",
+      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
     },
     {
       "added_at": null,
@@ -963,22 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Type Beat",
-      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STUNNA",
         "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 158693,
       "name": "Lightswitch",
       "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Type Beat",
+      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     },
     {
       "added_at": null,
@@ -1043,6 +1043,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 175354,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 142654,
       "name": "LEMONADE FREESTYLE - Remix",
       "url": "https://open.spotify.com/track/0XyaOS7RzOSqvcdRmpa7em"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
-      },
-      "artists": [
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 175354,
-      "name": "Level",
-      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
     },
     {
       "added_at": null,

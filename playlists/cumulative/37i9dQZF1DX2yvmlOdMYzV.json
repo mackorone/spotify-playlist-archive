@@ -5313,7 +5313,7 @@
     },
     {
       "album": {
-        "name": "Feels Like Love",
+        "name": "feels like love",
         "url": "https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq"
       },
       "artists": [
@@ -5326,7 +5326,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 275333,
-      "name": "Feels Like Love",
+      "name": "feels like love",
       "url": "https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO"
     },
     {
@@ -8982,7 +8982,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 173869,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/79caefVm1doZCBxjGeb6Xi"
@@ -12370,7 +12370,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 189441,
       "name": "Natural",
       "url": "https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0"

@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-181 songs - 9 hr 25 min
+182 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:55 | 2025-10-03 | 2025-10-25 |
 | [Tranquilo](https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA) | 3:20 | 2025-08-15 | 2025-10-11 |
 | [Tranquilo](https://open.spotify.com/track/4C9S8Lzi0Gh4o1qszWNTwQ) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/6p6EYTPW6HdTF507b5S9CI) | 3:20 | 2025-07-18 | 2025-08-16 |
-| [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2025-11-28 |  |
+| [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 | 2025-11-28 |  |
+| [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2025-11-28 | 2025-12-03 |
 | [undressed](https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:02 | 2025-08-29 |  |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-08-01 | 2025-08-30 |
 | [Vader & zoon \- Remix](https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Jack](https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC), [Milo ter Reegen](https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Vader & zoon \(Remix\)](https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8) | 2:20 | 2025-10-24 | 2025-11-01 |

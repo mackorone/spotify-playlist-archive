@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Come Out",
+        "url": "https://open.spotify.com/album/1pJioJgZeEVjsuuJvNVbyv"
+      },
+      "artists": [
+        {
+          "name": "This Is Love",
+          "url": "https://open.spotify.com/artist/3T0I2xTHjHXFnGJJmvrkQw"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204531,
+      "name": "Come Out",
+      "url": "https://open.spotify.com/track/4MePv6tLO4aFyFjkm1m1dc"
+    },
+    {
+      "album": {
         "name": "Digital Edition (Game Over)",
         "url": "https://open.spotify.com/album/6FxCeenvcf2fMyyusfzP4G"
       },
@@ -1554,6 +1572,24 @@
       "duration_ms": 200533,
       "name": "Picture",
       "url": "https://open.spotify.com/track/3ZgFdfKBrD643K2BrKNsEH"
+    },
+    {
+      "album": {
+        "name": "Pygmalion",
+        "url": "https://open.spotify.com/album/4XRfovNWHvvqmBc8O3uXiI"
+      },
+      "artists": [
+        {
+          "name": "SoliAres",
+          "url": "https://open.spotify.com/artist/2y5fGjgsbruMPGTfrh2S7B"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198208,
+      "name": "Pygmalion",
+      "url": "https://open.spotify.com/track/3q5iE5DGjm52i3KawsnbNe"
     },
     {
       "album": {

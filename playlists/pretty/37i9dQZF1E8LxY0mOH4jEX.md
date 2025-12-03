@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain]
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Maroon 5, Dua Lipa and more
+> With Bruno Mars, Justin Bieber, Dua Lipa and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,135 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,145 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

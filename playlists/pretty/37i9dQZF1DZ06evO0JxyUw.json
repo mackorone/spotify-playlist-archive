@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 275943,
+  "num_followers": 275956,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAABZ7by6aTww3NdjKNnKxKeB",
+  "snapshot_id": "aSzagAAAAAD3yQnkk34s+oDOLLps6KkF",
   "tracks": [
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall In Line (feat. Demi Lovato)",
-        "url": "https://open.spotify.com/album/323CkC5IKF9IakoJFSE8Yy"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 248544,
-      "name": "Fall In Line (feat. Demi Lovato)",
-      "url": "https://open.spotify.com/track/25qfFpoGhk9Njgu5nl36sS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santo",
         "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 183414,
       "name": "Santo",
       "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fall In Line (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/323CkC5IKF9IakoJFSE8Yy"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 248544,
+      "name": "Fall In Line (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/25qfFpoGhk9Njgu5nl36sS"
     },
     {
       "added_at": null,

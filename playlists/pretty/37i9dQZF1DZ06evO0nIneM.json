@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92855,
+  "num_followers": 92868,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACF9gTFPR9sqfvguMFAHJe/",
+  "snapshot_id": "aSzagAAAAADb8UEtfkAMgeiIIlNReBpx",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm Me",
-        "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
+        "name": "Bitterzoet",
+        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
       },
       "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 232425,
-      "name": "Omarm Me",
-      "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
+      "duration_ms": 227840,
+      "name": "Bitterzoet",
+      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
     },
     {
       "added_at": null,
@@ -623,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitterzoet",
-        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
+        "name": "Omarm Me",
+        "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
       },
       "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 227840,
-      "name": "Bitterzoet",
-      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
+      "duration_ms": 232425,
+      "name": "Omarm Me",
+      "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We doen wat we kunnen (feat. Geike)",
-        "url": "https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Geike",
-          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
-        }
-      ],
-      "duration_ms": 240562,
-      "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
-      "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Francis",
         "url": "https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 206391,
       "name": "Regen",
       "url": "https://open.spotify.com/track/46V1YQy4dwmVG9zB5PkawO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We doen wat we kunnen (feat. Geike)",
+        "url": "https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Geike",
+          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
+        }
+      ],
+      "duration_ms": 240562,
+      "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
+      "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
     },
     {
       "added_at": null,

@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Backseat Romance",
+        "url": "https://open.spotify.com/album/2rQHi14GepxBeBkB1l9jMp"
+      },
+      "artists": [
+        {
+          "name": "Wellington Groove",
+          "url": "https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150155,
+      "name": "Backseat Romance",
+      "url": "https://open.spotify.com/track/7EqnDxQXOpCxTGyPvB0P3G"
+    },
+    {
+      "album": {
         "name": "Above The Clouds",
         "url": "https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv"
       },
@@ -832,7 +850,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 259360,
       "name": "Dry Your Eyes",
       "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
@@ -1662,7 +1680,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 145064,
       "name": "Kiss of Spring",
       "url": "https://open.spotify.com/track/3KHDOcuN7E3zzFaak3CvSq"
@@ -2845,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "Southend Sunset",
+        "url": "https://open.spotify.com/album/3kXRiCDIHhTcyi4f28qrap"
+      },
+      "artists": [
+        {
+          "name": "Afterglow Society",
+          "url": "https://open.spotify.com/artist/5NgMXPrQAug1kltFTG9c8g"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261838,
+      "name": "Southend Sunset",
+      "url": "https://open.spotify.com/track/25FsBrIzkGn3lRPQRKyWa1"
+    },
+    {
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
       },
@@ -2888,6 +2924,10 @@
         {
           "name": "Club 1600",
           "url": "https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn"
+        },
+        {
+          "name": "David Mann",
+          "url": "https://open.spotify.com/artist/2UTzELEmZE65dDKRmzj7S6"
         }
       ],
       "date_added": "2022-05-06",

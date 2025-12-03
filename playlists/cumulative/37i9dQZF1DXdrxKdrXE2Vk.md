@@ -2,7 +2,7 @@
 
 ### [Best of Live Worship](https://open.spotify.com/playlist/37i9dQZF1DXdrxKdrXE2Vk)
 
-> Experience the best of live worship here\. Cover: Melissa Hesler of Cageless Birds
+> Experience the best of live worship here\. Cover: Melissa Helser of Cageless Birds
 
 474 songs - 2 day 2 hr 12 min
 

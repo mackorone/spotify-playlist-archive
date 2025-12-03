@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 49,785 likes - 115 songs - 5 hr 48 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 49,805 likes - 115 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 23 | [Smoov](https://open.spotify.com/track/5Yj6xkBg6LQ6zOWrpjIPUO) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Smoov](https://open.spotify.com/album/25nS0vLEH890SRtn0ziKIL) | 3:03 |
 | 24 | [where there's smoke there's fire](https://open.spotify.com/track/7KU1qH02NapOQbU6AXRTpn) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [where there's smoke there's fire](https://open.spotify.com/album/6pFGVxUhQbg84x3VhopyT5) | 3:01 |
 | 25 | [NO MORE](https://open.spotify.com/track/3hGpy57T8V9sq08GpuA0cc) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [SALTY](https://open.spotify.com/album/4w04FX3x2th7nOS77tYdlw) | 2:21 |
-| 26 | [Ghanta](https://open.spotify.com/track/1lAIGz2LzFBMbXUGyJZTeF) | [Jind Dhillon](https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Ghanta](https://open.spotify.com/album/0JDIDdJeKCuvXPMd9xc2nc) | 3:11 |
+| 26 | [Ghanta \(Rap version\)](https://open.spotify.com/track/1lAIGz2LzFBMbXUGyJZTeF) | [Jind Dhillon](https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Ghanta \(Rap version\)](https://open.spotify.com/album/0JDIDdJeKCuvXPMd9xc2nc) | 3:11 |
 | 27 | [THE FOOL'S ERRAND](https://open.spotify.com/track/7yneILPTYvY25gWG5DWUOx) | [Kweku Collins](https://open.spotify.com/artist/2SPt3i9sJKS1qiMQQQr9LS) | [Ridgewood Sessions, Vol\. 1](https://open.spotify.com/album/0zS8dyDkmm96zDdUMYtGLF) | 4:24 |
 | 28 | [Selfish](https://open.spotify.com/track/1bWDepPIFdhj8b6FN6enRt) | [KYANTII](https://open.spotify.com/artist/3ATkLfCbfC4Hx4EdtkZbVl) | [Selfish](https://open.spotify.com/album/1nqOPr7Rfd1P75Ai1zyhpT) | 2:03 |
 | 29 | [Let Them Shine](https://open.spotify.com/track/3ZnZjXG9ywV0gOVb4ajONV) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [UNICEF Ghana](https://open.spotify.com/artist/32ieepecBAsTj145PBjZBI) | [Let Them Shine](https://open.spotify.com/album/0KPNBzHQ5Z1htSmT7nyvMt) | 3:08 |

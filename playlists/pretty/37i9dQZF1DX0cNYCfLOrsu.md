@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,773 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,904 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 72 | [Walk Out](https://open.spotify.com/track/5oQ90gRbe4rqJDkeqhPHIQ) | [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Walk Out](https://open.spotify.com/album/4n6NxquEZC0FMt1zH12iOS) | 3:10 |
 | 73 | [Heavy! \(Vybz Kartel Remix\)](https://open.spotify.com/track/07XcuVPoyMogdiV4nBeCPt) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Heavy! \(Vybz Kartel Remix\)](https://open.spotify.com/album/3pjBdUQ3B9zLWc4y7GmDSE) | 2:45 |
 | 74 | [Do That \(feat\. Tony Matterhorn\)](https://open.spotify.com/track/2l36ZNtoL7LxW93xU8EJyv) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:04 |
-| 75 | [Insecure](https://open.spotify.com/track/7kFrtjToVEFgUWvOJdDigU) | [Lisa Mercedez](https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p), [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv) | [Insecure](https://open.spotify.com/album/0kHRg6FA7Ql5gNGYTr1iKH) | 3:24 |
+| 75 | [Hard & Done](https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Hard & Done](https://open.spotify.com/album/2mdQ5xNL2QOBniNeHrhIDY) | 2:40 |
 
 Snapshot ID: `AAAAAEbmXsDxykPDo358S4nMXmf/rp7r`

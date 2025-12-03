@@ -2,7 +2,7 @@
 
 ### [Arsenico ](https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r)
 
-> Alcuni amori bruciano più di altri\. Cover: Lazza
+> Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
 239 songs - 12 hr 10 min
 

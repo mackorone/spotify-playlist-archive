@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 210059,
+  "num_followers": 210050,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADQY0x3OQyHXxffycNBbIDX",
+  "snapshot_id": "aSzagAAAAACIfimYhhNxC4StXiP4ZicW",
   "tracks": [
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pior M\u00fasica do Ano",
-        "url": "https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 219103,
-      "name": "A Pior M\u00fasica do Ano",
-      "url": "https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 236523,
       "name": "D\u00e1 pra ser?",
       "url": "https://open.spotify.com/track/6L6LQzw0NB6OARDUnecjMl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Pior M\u00fasica do Ano",
+        "url": "https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 219103,
+      "name": "A Pior M\u00fasica do Ano",
+      "url": "https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG"
     },
     {
       "added_at": null,
@@ -752,13 +752,13 @@
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
         }
       ],
-      "duration_ms": 203480,
-      "name": "LIVRE",
-      "url": "https://open.spotify.com/track/0ANlcIDjiRRQkjxbRNvBi1"
+      "duration_ms": 173099,
+      "name": "QQ C\u00ca QUER AQUI ?",
+      "url": "https://open.spotify.com/track/4tOb014LgTxMvkm6cHXkXK"
     },
     {
       "added_at": null,
@@ -1079,26 +1079,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Dono do Lugar",
-        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 209114,
-      "name": "bala fini",
-      "url": "https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
       },
@@ -1123,6 +1103,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Dono do Lugar",
+        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 209114,
+      "name": "bala fini",
+      "url": "https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heresia",
         "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
       },
@@ -1143,6 +1143,30 @@
       "duration_ms": 279253,
       "name": "Santa Ceia",
       "url": "https://open.spotify.com/track/5vCzUWgHCURn3jN8dvdDTP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hist\u00f3rias da Minha \u00c1rea",
+        "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Bia Nogueira",
+          "url": "https://open.spotify.com/artist/7aOLFuqkyvr4VA70c4dMCl"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/22dWso8I5iiPRJfU8WC0g4"
+        }
+      ],
+      "duration_ms": 250016,
+      "name": "O Cara de \u00d3culos",
+      "url": "https://open.spotify.com/track/6qL5zqdwgWjZZV6qmqbWzF"
     },
     {
       "added_at": null,
@@ -1191,30 +1215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hist\u00f3rias da Minha \u00c1rea",
-        "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Bia Nogueira",
-          "url": "https://open.spotify.com/artist/7aOLFuqkyvr4VA70c4dMCl"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/22dWso8I5iiPRJfU8WC0g4"
-        }
-      ],
-      "duration_ms": 250016,
-      "name": "O Cara de \u00d3culos",
-      "url": "https://open.spotify.com/track/6qL5zqdwgWjZZV6qmqbWzF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heresia",
         "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
       },
@@ -1231,6 +1231,26 @@
       "duration_ms": 175317,
       "name": "Geminiano",
       "url": "https://open.spotify.com/track/3EBnCczKBkV03uMqNtDMW1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 310375,
+      "name": "Eu",
+      "url": "https://open.spotify.com/track/5laoKYySUeCOSwpuhFG5yV"
     },
     {
       "added_at": null,
@@ -1263,26 +1283,6 @@
       "duration_ms": 499570,
       "name": "Favela Vive 3",
       "url": "https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 310375,
-      "name": "Eu",
-      "url": "https://open.spotify.com/track/5laoKYySUeCOSwpuhFG5yV"
     },
     {
       "added_at": null,

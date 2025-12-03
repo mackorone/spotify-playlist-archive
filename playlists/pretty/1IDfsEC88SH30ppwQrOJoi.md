@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,207 likes - 90 songs - 4 hr 30 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,203 likes - 91 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 88 | [Cold Fresh Air](https://open.spotify.com/track/0qBCGXtX9RXypyFyDMZDP6) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Alec Monopoly](https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9) | [Cold Fresh Air](https://open.spotify.com/album/54KtnLwk1M9iXn8wDKVBFJ) | 2:30 |
 | 89 | [Lé Fire](https://open.spotify.com/track/7INBnZULBmeSOC7Ipbep9X) | [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Lé Fire](https://open.spotify.com/album/4QDLG9KFqihLdPAt7dYkQz) | 3:25 |
 | 90 | [Oye Mami](https://open.spotify.com/track/33ZccZTSHr3BNhswjoaZGI) | [Drop The Cheese](https://open.spotify.com/artist/4DPCpJ3C1nIqEFVs37tiOJ) | [Oye Mami](https://open.spotify.com/album/2dEee6Uhg736LB7vJTVHPH) | 3:08 |
+| 91 | [More](https://open.spotify.com/track/0lxaE62v5sW1FtSfN3qFGd) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Zans](https://open.spotify.com/artist/6D7wW45mKNEFhf4vkXv79x) | [More](https://open.spotify.com/album/3UA4zhPsqRHungaY4m9hp3) | 2:38 |
 
-Snapshot ID: `AAAK+HbT7YIiGVFUESeK+nxiTqVHm/eC`
+Snapshot ID: `AAAK+dwmxIVlQO4W93p94Xq3tN364mRV`

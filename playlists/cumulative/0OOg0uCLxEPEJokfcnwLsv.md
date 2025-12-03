@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-131 songs - 7 hr 54 min
+132 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Coming Home \(UNITED\)](https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:44 | 2025-12-01 |  |
 | [Coming Stars](https://open.spotify.com/track/7EsFMWgc1EVf6NUepID6gd) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Coming Stars](https://open.spotify.com/album/5nRfA7DrRB7FEYswNXIUMy) | 3:10 | 2025-11-11 |  |
 | [Constant Disregard](https://open.spotify.com/track/6aFrhZqBnTwtvlxjgpYtmv) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:17 | 2025-11-26 |  |
+| [constant headache](https://open.spotify.com/track/1vD1cFbR2aI1h5pEDSRREQ) | [SANCHEZ BY THE SEA\*](https://open.spotify.com/artist/5bSnJtfoIBMee5zGgUcMwO) | [Submerged](https://open.spotify.com/album/2ZA3eD7FmCox6gtHE7gFAo) | 3:00 | 2025-12-02 |  |
 | [Coping](https://open.spotify.com/track/0OzYP6QaMX7DIQaBkaIHv6) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Coping](https://open.spotify.com/album/5oWwyfSLZVbtxJ6lGquURw) | 3:50 | 2025-11-07 |  |
 | [Count On Me](https://open.spotify.com/track/4sFKSeU0gZQGF0vc0eKZLN) | [Gregg Lindor](https://open.spotify.com/artist/6objSyYBvfA8DCERGN7ukc) | [Sex, Drugs & A Breakfast Burrito](https://open.spotify.com/album/5xhpifoklmF0iZJqdNvvbF) | 3:42 | 2025-09-05 |  |
 | [Crazy Dance of Death](https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Crazy Dance of Death](https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS) | 3:11 | 2025-11-11 |  |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,129 songs - 2 day 15 hr 9 min
+1,130 songs - 2 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Blossom](https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g) | [Blossom](https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE) | 4:09 | 2022-03-18 | 2022-05-31 |
 | [Blue](https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Blue](https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab) | 2:57 | 2022-05-31 | 2022-08-11 |
 | [Blue](https://open.spotify.com/track/7amTNi6wRWUzvAh5aC9fmd) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Blue](https://open.spotify.com/album/2Go4wSvMagoNKseAj2UGp3) | 3:05 | 2025-10-22 |  |
+| [Blue Planet \- Qrion Remix](https://open.spotify.com/track/4X3pXPqpLT0h36L0aIjPyy) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Blue Planet \(Qrion Remix\)](https://open.spotify.com/album/26I0CeXrVRzpknDqyKZ3vr) | 2:37 | 2025-12-02 |  |
 | [BLUSH](https://open.spotify.com/track/5NUhNHjkyThQGAjm2M6gni) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [BLUSH](https://open.spotify.com/album/7AuAvWclZMbjuvnNv3hGR5) | 2:52 | 2025-04-10 | 2025-07-09 |
 | [Bones](https://open.spotify.com/track/1OfVQ5LYzgpTahnGlLoZti) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Ellika](https://open.spotify.com/artist/1GStVlUvAf7VkKbQ616ht0) | [Bones](https://open.spotify.com/album/10xKXdt2akO3PWSAaaQ9mb) | 4:26 | 2024-01-22 | 2024-04-11 |
 | [bones](https://open.spotify.com/track/0zfVNW3Uh0tNgZY2YEKhYB) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [bones](https://open.spotify.com/album/035rVrXDB5G9Lv2isRtqeT) | 2:32 | 2025-08-12 | 2025-11-01 |

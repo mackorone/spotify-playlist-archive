@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo más random, lo más 🔥
 
-599 songs - 1 day 7 hr 44 min
+600 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 | 2024-04-09 | 2024-04-27 |
 | [Minina](https://open.spotify.com/track/43XCNXaZvoi3MbvzFRL3pl) | [Carre](https://open.spotify.com/artist/5ZOdzCtZqx5FLdjpxFfXkO), [Spreen](https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ) | [Minina](https://open.spotify.com/album/7lLRdLzvL8y4ayCR7sJ1uR) | 1:41 | 2023-09-29 | 2023-12-20 |
 | [Mojada](https://open.spotify.com/track/2MLABbUiQOLX5hKJdkLwOn) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Mojada](https://open.spotify.com/album/63hH5RB9HXREOGUH5FZKOh) | 3:57 | 2024-01-16 | 2025-05-17 |
+| [Montagem Miau](https://open.spotify.com/track/4hfzUjG7A5fsr0xoMfdxMA) | [Lenar](https://open.spotify.com/artist/2QHpjaiPhG7uvtvjqEpU4E) | [Montagem Miau](https://open.spotify.com/album/5xuRynu6hXiqcyThDDsosi) | 1:12 | 2025-12-02 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-12-19 | 2024-01-17 |
 | [MORIR DE AMOR](https://open.spotify.com/track/58zTbbfZehscQ2JbJaplhE) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA I](https://open.spotify.com/album/56BPpEYgadIVVXYLabO5Je) | 3:37 | 2025-05-29 |  |
 | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I) | 1:58 | 2025-05-29 |  |
@@ -435,7 +436,7 @@
 | [PRINCESITA DE ...](https://open.spotify.com/track/7pNzulQGBP6v2g4A2KnAJ6) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:42 | 2023-12-19 | 2024-05-21 |
 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 | 2025-05-29 |  |
 | [PUSH4FUN](https://open.spotify.com/track/7BYgwR65lD2iL2eAiuU4GS) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [PUSH4FUN](https://open.spotify.com/album/1OOqUyG6p5wmXH5RfnOHRE) | 3:22 | 2025-07-14 |  |
-| [PUTERÍ4](https://open.spotify.com/track/1IgrATr9zMmRjtFVFY6O7s) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [PUTERÍ4](https://open.spotify.com/album/1lkzZ6bQyw3lWsviJs8HAD) | 2:24 | 2025-11-17 |  |
+| [PUTERÍ4](https://open.spotify.com/track/1IgrATr9zMmRjtFVFY6O7s) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [PUTERÍ4](https://open.spotify.com/album/1lkzZ6bQyw3lWsviJs8HAD) | 2:24 | 2025-11-17 |  |
 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 | 2024-10-17 | 2025-05-30 |
 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 | 2025-08-19 |  |
 | [Que a Pasao](https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao](https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo) | 2:05 | 2023-12-19 | 2024-01-27 |

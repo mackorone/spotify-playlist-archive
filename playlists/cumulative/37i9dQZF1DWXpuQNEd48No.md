@@ -2,9 +2,9 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: Sumit Parta & Panther
+> Best of Haryanvi Hip\-Hop! Cover: KD DESIROCK
 
-512 songs - 1 day 1 hr 59 min
+513 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Leher](https://open.spotify.com/track/1j5lgTjndlBJ0AxFFXBW2v) | [R Cruze](https://open.spotify.com/artist/3KvTpIp5PcyoMTKRmi2H4s), [AN1K8T](https://open.spotify.com/artist/5l6xz8pt97llr2djkMdPc6) | [Always On](https://open.spotify.com/album/4o33a4tRo3BC2L5g7dfuKa) | 3:19 | 2025-08-05 |  |
 | [Lemme Know](https://open.spotify.com/track/4YU9SN7GT4cAZPjSdhjnKo) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Lemme Know](https://open.spotify.com/album/1JJKTzJOd3yIBobyq2ktLJ) | 3:41 | 2024-04-24 | 2025-01-11 |
 | [LET IT BE](https://open.spotify.com/track/4WYgeBtwBOhhFHtQHvAKkW) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FEROZI: THE ARRIVAL](https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l) | 3:36 | 2025-01-31 | 2025-03-01 |
-| [LET'S GO](https://open.spotify.com/track/7npWm76hGrT7T1XbB5pHNz) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [CHILL MODE](https://open.spotify.com/album/2uTPI54D3ApV52k0PsxDQe) | 2:54 | 2025-11-18 |  |
+| [LET'S GO](https://open.spotify.com/track/7npWm76hGrT7T1XbB5pHNz) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [CHILL MODE](https://open.spotify.com/album/2uTPI54D3ApV52k0PsxDQe) | 2:54 | 2025-11-18 | 2025-12-03 |
 | [Letter To God](https://open.spotify.com/track/24lhL7yGYVRUckf6SfabtQ) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Letter To God](https://open.spotify.com/album/3Lbqb1wzBbpcEd7TJtcPQx) | 1:46 | 2025-06-20 | 2025-08-02 |
 | [LIFESTYLE](https://open.spotify.com/track/0VxSoMKlai2TZVtHdhT9iC) | [Nawab Kamboj](https://open.spotify.com/artist/5vTPEHGXs91NRMy3vKwds7), [Mann](https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh) | [LIFESTYLE](https://open.spotify.com/album/4McYqgTzzblYTmjSrFeut7) | 2:41 | 2025-07-11 | 2025-08-06 |
 | [Link](https://open.spotify.com/track/6TbJba7ArLh7MVzZap3pf7) | [Nitish Gujjar](https://open.spotify.com/artist/6WnGrje592Fo8FQUhlGJB9), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Link](https://open.spotify.com/album/5Gtws3uG9PpDDbemKwUIRO) | 3:22 | 2024-11-26 | 2025-01-11 |
@@ -492,6 +492,7 @@
 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 | 2023-07-24 | 2025-02-01 |
 | [Time](https://open.spotify.com/track/15mTMlItAclXCqXXhbCqhS) | [Ashu Morkhi](https://open.spotify.com/artist/7sBANqUtlylPQjOXt4XHR6), [Govind Bhana](https://open.spotify.com/artist/1NeFOovBejPz8FN6MrFqfO) | [Time](https://open.spotify.com/album/3xwbxOcqROtALRfUtNRyTc) | 2:52 | 2024-02-06 | 2024-03-19 |
 | [Tool](https://open.spotify.com/track/5HmcQoM06urojODrgEpEiV) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Tool](https://open.spotify.com/album/3BP7BDO3yOVjkd7UEzC7ik) | 2:56 | 2024-04-18 | 2024-05-06 |
+| [TORSION](https://open.spotify.com/track/1giRNoUCag2UZV5r466wC6) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0), [ANSHBuzz](https://open.spotify.com/artist/0EIuc4EpZPox8OgB9Ys4c9) | [CHILL MODE](https://open.spotify.com/album/2uTPI54D3ApV52k0PsxDQe) | 3:40 | 2025-12-02 |  |
 | [Trap\-Aloch](https://open.spotify.com/track/4MrxNSv3MP8A07qsjpsklW) | [Aman Mangali Aala](https://open.spotify.com/artist/07jPFpLcuorUFXQ8UIHrDR), [Manish Gaat](https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L) | [Scooby Doo!](https://open.spotify.com/album/4FcIRH0FzWsZwjiF19AOog) | 3:37 | 2025-05-09 | 2025-05-17 |
 | [TRIALS](https://open.spotify.com/track/4WMo5cT5iaEJ4uMh6clLmJ) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FEROZI: THE ARRIVAL](https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l) | 4:25 | 2025-01-31 | 2025-04-16 |
 | [True](https://open.spotify.com/track/2R7KeXRqnkjHfH66B1kn9A) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [True](https://open.spotify.com/album/1aGNh4zrzF6CAv69OtAK7D) | 4:05 | 2023-03-28 | 2023-10-10 |

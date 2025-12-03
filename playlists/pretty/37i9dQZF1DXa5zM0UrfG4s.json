@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116595,
+  "num_followers": 116592,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -775,18 +775,22 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "En gammal Amazon",
-        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
+        "name": "De g\u00e6rne har det godt",
+        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
       },
       "artists": [
         {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
         }
       ],
-      "duration_ms": 166297,
-      "name": "En gammal Amazon",
-      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
+      "duration_ms": 128653,
+      "name": "De g\u00e6rne har det godt",
+      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -807,22 +811,18 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "De g\u00e6rne har det godt",
-        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
+        "name": "En gammal Amazon",
+        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
       },
       "artists": [
         {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
         }
       ],
-      "duration_ms": 128653,
-      "name": "De g\u00e6rne har det godt",
-      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
+      "duration_ms": 166297,
+      "name": "En gammal Amazon",
+      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Velkommen til \u00d8stfold",
-        "url": "https://open.spotify.com/album/77bx4BwFo76C57mYqDnHtt"
-      },
-      "artists": [
-        {
-          "name": "ZadeKing",
-          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 143861,
-      "name": "Velkommen til \u00d8stfold",
-      "url": "https://open.spotify.com/track/2DwItGwSNTYI4E8RtmJwUX"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "Hopp inn i kjerra",
         "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 173986,
       "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
       "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "Velkommen til \u00d8stfold",
+        "url": "https://open.spotify.com/album/77bx4BwFo76C57mYqDnHtt"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 143861,
+      "name": "Velkommen til \u00d8stfold",
+      "url": "https://open.spotify.com/track/2DwItGwSNTYI4E8RtmJwUX"
     },
     {
       "added_at": "2025-11-06 23:00:18",

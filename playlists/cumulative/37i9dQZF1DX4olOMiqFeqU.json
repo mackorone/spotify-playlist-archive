@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318867,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ"
+    },
+    {
+      "album": {
         "name": "Aya",
         "url": "https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR"
       },
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 317693,
       "name": "Nahanap Kita",
       "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 120581,
       "name": "Nicotine",
       "url": "https://open.spotify.com/track/1kGJlesBPme1OI4gdjivqv"
@@ -2844,6 +2862,24 @@
       "duration_ms": 277098,
       "name": "Sana - Single Version",
       "url": "https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m"
+    },
+    {
+      "album": {
+        "name": "Saranggola",
+        "url": "https://open.spotify.com/album/36gNzsCUsMd3CoD9zGyMUp"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Saranggola",
+      "url": "https://open.spotify.com/track/2V3HVXu25O5xCAjmmptYCo"
     },
     {
       "album": {

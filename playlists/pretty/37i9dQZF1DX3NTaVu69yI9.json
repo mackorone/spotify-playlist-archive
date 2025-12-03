@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc98",
-  "num_followers": 58984,
+  "num_followers": 58973,
   "original_name": "ily x",
   "owner": {
     "name": "Spotify",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-02-06 21:26:48",
       "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "Paper Mache World",
+      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
+    },
+    {
+      "added_at": "2024-02-06 21:26:48",
+      "album": {
         "name": "Want U Around (feat. Ruel)",
         "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
-    },
-    {
-      "added_at": "2024-02-06 21:26:48",
-      "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 179083,
-      "name": "Paper Mache World",
-      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
     },
     {
       "added_at": "2024-02-06 21:26:48",

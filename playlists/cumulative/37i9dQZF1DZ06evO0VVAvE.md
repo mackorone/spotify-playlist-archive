@@ -4,7 +4,7 @@
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 33 min
+57 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Pay Me](https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI) | [Panaache](https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Pay Me](https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll) | 2:07 | 2025-07-12 |  |
 | [Play \(feat\. Fave\)](https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:44 | 2025-07-12 |  |
 | [Popori](https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:15 | 2025-07-12 |  |
-| [Porsche](https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Porsche](https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5) | 2:52 | 2025-09-10 |  |
+| [Porsche](https://open.spotify.com/track/6sSKIXaucNYEKH3dmcixm8) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 2:52 | 2025-12-03 |  |
+| [Porsche](https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Porsche](https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5) | 2:52 | 2025-09-10 | 2025-12-03 |
 | [Run from God](https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:21 | 2025-10-05 |  |
 | [S.O.T.P \( Sauce of the Party \)](https://open.spotify.com/track/1FCIG90E4Oz19ogY2sXBxp) | [G.O.E](https://open.spotify.com/artist/4MVPDEBLiF4b01hDW6Qzo9), [Temadey](https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [S.O.T.P \( Sauce of the Party \)](https://open.spotify.com/album/5Je5R1uBy6QFNgPonxEi0M) | 2:50 | 2025-07-12 |  |
 | [Sometimes](https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sometimes](https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip) | 3:04 | 2025-09-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11725,
+  "num_followers": 11727,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADSE7IkZok9aLGVG94TPGS6",
+  "snapshot_id": "aSzagAAAAADbkOZF4Fv//U5UT8b4j3j5",
   "tracks": [
     {
       "added_at": null,
@@ -79,18 +79,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
         }
       ],
-      "duration_ms": 192986,
-      "name": "Barricades And Brickwalls",
-      "url": "https://open.spotify.com/track/0LxWErAb5oxhdSO8wTJE1u"
+      "duration_ms": 240320,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9"
     },
     {
       "added_at": null,
@@ -111,22 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj"
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Bernard Fanning",
-          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
         }
       ],
-      "duration_ms": 240320,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9"
+      "duration_ms": 192986,
+      "name": "Barricades And Brickwalls",
+      "url": "https://open.spotify.com/track/0LxWErAb5oxhdSO8wTJE1u"
     },
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 221306,
       "name": "Matilda No More",
       "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 175053,
-      "name": "Sleeping Cold",
-      "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
+      "duration_ms": 235600,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 235600,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
+      "duration_ms": 175053,
+      "name": "Sleeping Cold",
+      "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 86416,
+  "num_followers": 86432,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -1295,6 +1295,30 @@
     {
       "added_at": "2025-09-15 14:00:14",
       "album": {
+        "name": "Verdi: La forza del destino",
+        "url": "https://open.spotify.com/album/7dOAuusf4Bvmj33E7BL3z1"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 431133,
+      "name": "Verdi: La forza del destino: Overture",
+      "url": "https://open.spotify.com/track/3K5TAZ192q52fTDQjz52av"
+    },
+    {
+      "added_at": "2025-09-15 14:00:14",
+      "album": {
         "name": "Verdi: Messa da Requiem",
         "url": "https://open.spotify.com/album/1Svvhsb1rnRmPMxo1h0jY6"
       },
@@ -1331,30 +1355,6 @@
       "duration_ms": 143133,
       "name": "Verdi: Messa da Requiem: XIX. Dies ir\u00e6",
       "url": "https://open.spotify.com/track/71EdUh8dE27ufo78UKB5Ti"
-    },
-    {
-      "added_at": "2025-09-15 14:00:14",
-      "album": {
-        "name": "Verdi: La forza del destino",
-        "url": "https://open.spotify.com/album/7dOAuusf4Bvmj33E7BL3z1"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 431133,
-      "name": "Verdi: La forza del destino: Overture",
-      "url": "https://open.spotify.com/track/3K5TAZ192q52fTDQjz52av"
     },
     {
       "added_at": "2025-09-15 14:00:14",

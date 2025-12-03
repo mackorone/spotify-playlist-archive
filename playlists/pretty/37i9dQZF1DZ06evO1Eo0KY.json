@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAC9fL6InZFSqdm3hbWMu0kr",
+  "snapshot_id": "aSzagAAAAAAVRkEcgyCQEWLKPo1HJp6W",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 209655,
-      "name": "Murderous Tendencies",
-      "url": "https://open.spotify.com/track/7e2dyHP03pkwPpHF9EEaTJ"
+      "duration_ms": 196923,
+      "name": "Speedy Recovery",
+      "url": "https://open.spotify.com/track/6M8zu9ivSmUA0vhiQVfUY4"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 196923,
-      "name": "Speedy Recovery",
-      "url": "https://open.spotify.com/track/6M8zu9ivSmUA0vhiQVfUY4"
+      "duration_ms": 209655,
+      "name": "Murderous Tendencies",
+      "url": "https://open.spotify.com/track/7e2dyHP03pkwPpHF9EEaTJ"
     },
     {
       "added_at": null,
@@ -442,11 +442,19 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "50 Gwuap Taj",
+          "url": "https://open.spotify.com/artist/1DjvSIzNs1pQz80UuwbFGW"
+        },
+        {
+          "name": "Dave Hill",
+          "url": "https://open.spotify.com/artist/66Vcz9MZB6FA5fJQuIiB2z"
         }
       ],
-      "duration_ms": 166956,
-      "name": "No Blemishes",
-      "url": "https://open.spotify.com/track/0qOhA2UqDcgRL3GUEhneeN"
+      "duration_ms": 153750,
+      "name": "Trifecta",
+      "url": "https://open.spotify.com/track/06ErfiRnhepfsQNsn1bY76"
     },
     {
       "added_at": null,
@@ -555,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 188414,
-      "name": "Final Destination",
-      "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ultimate Dump Gawd",
         "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
       },
@@ -591,6 +579,26 @@
       "duration_ms": 160000,
       "name": "Otha World",
       "url": "https://open.spotify.com/track/1iatfY3poPxuYbvWLh8Gua"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 188414,
+      "name": "Final Destination",
+      "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
     },
     {
       "added_at": null,
@@ -615,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N",
-        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
+        "name": "Craven N 3",
+        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
       "artists": [
         {
@@ -624,13 +632,33 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
         }
       ],
-      "duration_ms": 135384,
-      "name": "Wolfing Down",
-      "url": "https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3"
+      "duration_ms": 222040,
+      "name": "Opulence",
+      "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Dump Gawd",
+        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 179256,
+      "name": "Mad Life Menace",
+      "url": "https://open.spotify.com/track/7zrEnMTCDQITYQwavB1lfT"
     },
     {
       "added_at": null,
@@ -655,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Dump Gawd",
-        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 139989,
-      "name": "Hyperbolic Time Chamber Rap 3",
-      "url": "https://open.spotify.com/track/1bxorwwnZ6GSWPrTJUGYaY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Penalty of Leadership",
         "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
       },
@@ -695,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N 3",
-        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+        "name": "Craven N",
+        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
       },
       "artists": [
         {
@@ -704,13 +712,33 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
         }
       ],
-      "duration_ms": 222040,
-      "name": "Opulence",
-      "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
+      "duration_ms": 135384,
+      "name": "Wolfing Down",
+      "url": "https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Dump Gawd",
+        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 139989,
+      "name": "Hyperbolic Time Chamber Rap 3",
+      "url": "https://open.spotify.com/track/1bxorwwnZ6GSWPrTJUGYaY"
     },
     {
       "added_at": null,
@@ -731,26 +759,6 @@
       "duration_ms": 143627,
       "name": "American Made",
       "url": "https://open.spotify.com/track/0InAsDsfTZ12eovy8l1itp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ultimate Dump Gawd",
-        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 179256,
-      "name": "Mad Life Menace",
-      "url": "https://open.spotify.com/track/7zrEnMTCDQITYQwavB1lfT"
     },
     {
       "added_at": null,
@@ -807,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N 3",
-        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 162909,
-      "name": "Yzerman",
-      "url": "https://open.spotify.com/track/1OJk0PW55ZEAmmmxn370ka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ultimate Dump Gawd",
         "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
       },
@@ -843,6 +831,26 @@
       "duration_ms": 138083,
       "name": "Tha Riddle of Steel",
       "url": "https://open.spotify.com/track/54Ok7I4CgsfiMQ7NgtHUHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Craven N 3",
+        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 162909,
+      "name": "Yzerman",
+      "url": "https://open.spotify.com/track/1OJk0PW55ZEAmmmxn370ka"
     },
     {
       "added_at": null,

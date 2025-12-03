@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 
 > This is Panic! At The Disco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,516 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,510 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 38 | [She Had the World](https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:47 |
 | 39 | [Trade Mistakes](https://open.spotify.com/track/62lc21zAcKWs11pbSOabO9) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:36 |
 | 40 | [Don't Let The Light Go Out](https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:49 |
-| 41 | [I Write Sins Not Tragedies \- Live In Denver](https://open.spotify.com/track/67w5xyfy0rOTbrlbbhnjc8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 3:20 |
-| 42 | [One of the Drunks](https://open.spotify.com/track/5trCWbYtza0QUxdmF9HAPX) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:18 |
+| 41 | [One of the Drunks](https://open.spotify.com/track/5trCWbYtza0QUxdmF9HAPX) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:18 |
+| 42 | [I Write Sins Not Tragedies \- Live In Denver](https://open.spotify.com/track/67w5xyfy0rOTbrlbbhnjc8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 3:20 |
 | 43 | [Ready to Go \(Get Me Out of My Mind\)](https://open.spotify.com/track/7m4HUtdXRUHEitLIqbVWxf) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:37 |
 | 44 | [Viva Las Vengeance](https://open.spotify.com/track/5TshTIGten6gMBMf8lgbf0) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:27 |
 | 45 | [Do You Know What I'm Seeing?](https://open.spotify.com/track/1ac22sFSlj3iaQV2qAsFkK) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:14 |
 | 46 | [When the Day Met the Night](https://open.spotify.com/track/7v1b3qExlTFrpFWrtcnUpE) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:53 |
 
-Snapshot ID: `aSuJAAAAAACfCB62jg/6NM8Fo2w4BSvP`
+Snapshot ID: `aSzagAAAAADT4U5VpM7uZJ6GiH2UMO7d`

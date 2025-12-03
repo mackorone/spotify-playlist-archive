@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2261,
+  "num_followers": 2263,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADVnnudCLFsO/yDdISI5kAA",
+  "snapshot_id": "aSzagAAAAACsHlkOVwJ8RigeJ5aVrjUR",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "Cyclist Waltz",
-      "url": "https://open.spotify.com/track/3bfTfRxO7ksp4EjYWF6LDn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solon Islandus (Deluxe)",
         "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 110151,
       "name": "Kyndir",
       "url": "https://open.spotify.com/track/2UMSHmV0qdCg2W3eJK9saL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "Cyclist Waltz",
+      "url": "https://open.spotify.com/track/3bfTfRxO7ksp4EjYWF6LDn"
     },
     {
       "added_at": null,
@@ -630,11 +630,15 @@
         {
           "name": "Gabr\u00edel \u00d3lafs",
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 212415,
-      "name": "Draumheimar",
-      "url": "https://open.spotify.com/track/0dAPZAKj30bBP1dx9OPaXC"
+      "duration_ms": 173730,
+      "name": "S\u00e1lmur",
+      "url": "https://open.spotify.com/track/4JVn0lzH3nc7lp9pVRVfaf"
     },
     {
       "added_at": null,
@@ -694,15 +698,11 @@
         {
           "name": "Gabr\u00edel \u00d3lafs",
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        },
-        {
-          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
-          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 173730,
-      "name": "S\u00e1lmur",
-      "url": "https://open.spotify.com/track/4JVn0lzH3nc7lp9pVRVfaf"
+      "duration_ms": 212415,
+      "name": "Draumheimar",
+      "url": "https://open.spotify.com/track/0dAPZAKj30bBP1dx9OPaXC"
     },
     {
       "added_at": null,

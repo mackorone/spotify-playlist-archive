@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 15009,
+  "num_followers": 15021,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAAdiwNSEUMAsh1nt4xZeM5f",
+  "snapshot_id": "aSzagAAAAAAuC53pmAbtDQ5o/SkoPBu5",
   "tracks": [
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 144592,
-      "name": "Gangsta Cry",
-      "url": "https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs"
+      "duration_ms": 136585,
+      "name": "V.S. Freestyle",
+      "url": "https://open.spotify.com/track/0WEjE529QbSQsEGrPr686Q"
     },
     {
       "added_at": null,
@@ -314,11 +314,15 @@
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shorae Moore",
+          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
         }
       ],
-      "duration_ms": 136585,
-      "name": "V.S. Freestyle",
-      "url": "https://open.spotify.com/track/0WEjE529QbSQsEGrPr686Q"
+      "duration_ms": 217302,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d"
     },
     {
       "added_at": null,
@@ -386,15 +390,11 @@
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shorae Moore",
-          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
         }
       ],
-      "duration_ms": 217302,
-      "name": "Way Home",
-      "url": "https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d"
+      "duration_ms": 144592,
+      "name": "Gangsta Cry",
+      "url": "https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs"
     },
     {
       "added_at": null,

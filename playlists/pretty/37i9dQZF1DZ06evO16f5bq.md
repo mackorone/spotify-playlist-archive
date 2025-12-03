@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,853 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,855 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 39 | [BEM MELHOR](https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 5:17 |
 | 40 | [carta aberta](https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [carta aberta](https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq) | 4:22 |
 | 41 | [FUI](https://open.spotify.com/track/0F0bSpQoHvA2UmbbT2VRGL) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [ÊXTASE](https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF) | 3:58 |
-| 42 | [EU SOU O TREM](https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:45 |
-| 43 | [ciúme bobo \- bônus track](https://open.spotify.com/track/5GSfUru7qGr2sr3lvaUcJN) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vinho](https://open.spotify.com/album/5isez0graYpGdX8l0Zyqra) | 2:52 |
+| 42 | [ciúme bobo \- bônus track](https://open.spotify.com/track/5GSfUru7qGr2sr3lvaUcJN) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vinho](https://open.spotify.com/album/5isez0graYpGdX8l0Zyqra) | 2:52 |
+| 43 | [EU SOU O TREM](https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:45 |
 | 44 | [Sem convite \(feat\. MODÉ$TIA, MC Cabelinho e Yoka\)](https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MODE$TIA](https://open.spotify.com/artist/5VDo7VvWUs9J8N3VEoFpRR), [Yoka](https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC) | [Rio](https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s) | 4:07 |
 | 45 | [AK de Bipé](https://open.spotify.com/track/45AGZPv5djNJj0CH6sEjjp) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Liberdade](https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi) | 3:45 |
 | 46 | [Sinceridade](https://open.spotify.com/track/6ONkuPoFaWjSgnq3hoOfD1) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Eh Noiz Ki Tá](https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 49 | [VOCÊ&EU](https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 3:18 |
 | 50 | [Anjo](https://open.spotify.com/track/1UQhXpOKXJeNu1HNolwbZy) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 2:50 |
 
-Snapshot ID: `aSuJAAAAAADaNrDCJ8PxWUY56+Vo0xCR`
+Snapshot ID: `aSzagAAAAADRV7DzUVm/1JHqqsHvnZEU`

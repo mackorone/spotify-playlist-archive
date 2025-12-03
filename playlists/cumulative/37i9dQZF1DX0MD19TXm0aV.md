@@ -4,7 +4,7 @@
 
 > Switzerland's biggest hits right now\. Cover: RAYE
 
-323 songs - 16 hr 5 min
+324 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 | 2025-08-06 | 2025-11-07 |
 | [CIEL](https://open.spotify.com/track/1RiCNSkK4AfT1j8ZM4JnVs) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d) | 3:06 | 2025-01-14 | 2025-04-03 |
 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2024-07-19 | 2024-10-10 |
-| [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 | 2025-10-15 |  |
+| [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 | 2025-10-15 | 2025-12-03 |
 | [CONNECTED](https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [CONNECTED](https://open.spotify.com/album/2g4OdxufIvT7n1QyJhosWC) | 2:38 | 2025-05-21 | 2025-06-14 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-04 | 2025-02-19 |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-23 |  |
@@ -169,6 +169,7 @@
 | [Lot](https://open.spotify.com/track/7dmVC5jVFeizqQ3Y40yVpp) | [Butrint Imeri](https://open.spotify.com/artist/3oo88ul6DPnYZwZG4CZBTY), [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Lot](https://open.spotify.com/album/3tTEtplC63jkTWCfswmu3b) | 2:33 | 2025-05-15 | 2025-07-10 |
 | [Love all night](https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Love all night](https://open.spotify.com/album/2U8inedtU0YX3Von3qAsiU) | 2:49 | 2025-08-19 | 2025-10-16 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-04-02 |  |
+| [LOVE YOU](https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [LOVE YOU](https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq) | 2:27 | 2025-12-02 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-27 | 2025-03-05 |
 | [Ma Baby](https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Ma Baby](https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA) | 2:18 | 2024-11-12 | 2025-01-08 |
 | [Ma Baby 2](https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Ma Baby 2](https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY) | 2:30 | 2025-03-12 | 2025-03-26 |

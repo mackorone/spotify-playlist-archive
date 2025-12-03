@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: KC\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,012 likes - 120 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,939 likes - 120 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

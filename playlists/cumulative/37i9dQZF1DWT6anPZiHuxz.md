@@ -4,7 +4,7 @@
 
 > Chasing that runner's high!
 
-382 songs - 20 hr 45 min
+383 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [I'm Good \(Blue\) \- Tiësto Remix](https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [I'm Good \(Blue\) \[Remixes\]](https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd) | 2:58 | 2022-10-06 | 2024-03-26 |
 | [I'm Not Alone \- MPH Remix](https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [I'm Not Alone \(MPH Remix\)](https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5) | 3:33 | 2025-08-22 |  |
 | [Illegal + Nia Archives](https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Illegal + Nia Archives](https://open.spotify.com/album/57V3Ec9fpJEUZkFyW2axtx) | 2:40 | 2025-07-18 |  |
+| [In It](https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [In It](https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w) | 3:10 | 2025-12-02 |  |
 | [In My Head](https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [In My Head](https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr) | 3:35 | 2025-01-31 | 2025-07-20 |
 | [In My Room](https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [In My Room](https://open.spotify.com/album/4EslqDlOgXkIhbEQHHjl3g) | 2:39 | 2025-05-23 | 2025-05-26 |
 | [In The Dark](https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Aldae](https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO) | [In The Dark](https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO) | 2:28 | 2024-07-12 | 2024-11-02 |
@@ -267,7 +268,7 @@
 | [pressure](https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [all my exes live in brooklyn](https://open.spotify.com/album/7ogj05xh3Hjh5A6cwtQXK9) | 2:41 | 2025-10-17 |  |
 | [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2024-10-25 |  |
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-05-24 | 2025-02-17 |
-| [Queen Of The Crazy](https://open.spotify.com/track/0ZxYCj3dTnQeeodOBm2fVh) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb) | [Queen Of The Crazy](https://open.spotify.com/album/5w0Rvnu7ZpmbSgp05qqJEu) | 2:59 | 2025-10-31 |  |
+| [Queen Of The Crazy](https://open.spotify.com/track/0ZxYCj3dTnQeeodOBm2fVh) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb) | [Queen Of The Crazy](https://open.spotify.com/album/5w0Rvnu7ZpmbSgp05qqJEu) | 2:59 | 2025-10-31 | 2025-12-03 |
 | [R U DOWN?](https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [R U DOWN?](https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd) | 2:19 | 2025-07-25 |  |
 | [Rain On Me \- Purple Disco Machine Remix \- Edit](https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Rain On Me \(Purple Disco Machine Remix\)](https://open.spotify.com/album/42hbqXgvZ1dI3gQ1ZDnHA5) | 3:58 | 2022-08-12 | 2024-01-20 |
 | [Red Lights](https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:22 | 2024-01-19 | 2024-10-05 |

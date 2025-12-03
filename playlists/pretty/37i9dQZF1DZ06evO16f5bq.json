@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 155853,
+  "num_followers": 155855,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADaNrDCJ8PxWUY56+Vo0xCR",
+  "snapshot_id": "aSzagAAAAADRV7DzUVm/1JHqqsHvnZEU",
   "tracks": [
     {
       "added_at": null,
@@ -1191,6 +1191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/5isez0graYpGdX8l0Zyqra"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "ci\u00fame bobo - b\u00f4nus track",
+      "url": "https://open.spotify.com/track/5GSfUru7qGr2sr3lvaUcJN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 225600,
       "name": "EU SOU O TREM",
       "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/5isez0graYpGdX8l0Zyqra"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "ci\u00fame bobo - b\u00f4nus track",
-      "url": "https://open.spotify.com/track/5GSfUru7qGr2sr3lvaUcJN"
     },
     {
       "added_at": null,

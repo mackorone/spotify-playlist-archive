@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "The Crux",
+        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158106,
+      "name": "Basic Being Basic",
+      "url": "https://open.spotify.com/track/2jjwQENSoGnYbQEK4acuC6"
+    },
+    {
+      "album": {
         "name": "be cool",
         "url": "https://open.spotify.com/album/3aDhMq947HZuufg7tsJCPo"
       },
@@ -4804,7 +4822,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 234857,
       "name": "Free",
       "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"

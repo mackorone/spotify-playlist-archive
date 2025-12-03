@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-265 songs - 15 hr 6 min
+267 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Shape Shifter](https://open.spotify.com/track/7sD50e8OpxIo2p66mIyucQ) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:36 | 2025-09-16 |  |
 | [Shortchanged Even Shorter](https://open.spotify.com/track/3yUpbRXgwt0yftpRTlfeRK) | [FILIBUSTER](https://open.spotify.com/artist/67XEaD84geoRWd6v4kno3L) | [Shortchanged Even Shorter](https://open.spotify.com/album/4imrwR8PREQhfAsQKkfIeE) | 3:03 | 2025-12-01 |  |
 | [Shutters + Stutters](https://open.spotify.com/track/3dJDRmonHnUfgdrjYKhFIs) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Threats](https://open.spotify.com/album/44Z7Gf8lHHBUq66SaDDYIT) | 4:20 | 2025-10-31 |  |
+| [Silhouette Dans Le Désert](https://open.spotify.com/track/1nYPDlyYuMLqMFrIUOSDhG) | [Pixel In A Box](https://open.spotify.com/artist/3cBTA11xDzx4RJH9ST1U2s) | [Silhouette Dans Le Désert](https://open.spotify.com/album/1zApmSAcMWqHzUtSLPecmG) | 3:42 | 2025-12-02 |  |
 | [Simon Dice](https://open.spotify.com/track/0I24rhHVXYGYgJyG2L8Vu2) | [Jardin Animal](https://open.spotify.com/artist/38QAh40vAt0RRB7V5KxOJN) | [Simon Dice](https://open.spotify.com/album/0PAOV8XpwnoeLCFHT3GzL4) | 3:37 | 2025-11-16 |  |
 | [Simply Fabulous](https://open.spotify.com/track/7fMn70HEPQngTwPtla6K6R) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 4:09 | 2025-08-03 |  |
 | [Slip Away](https://open.spotify.com/track/0B2IIvwzlNX85RhlmqxZai) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:53 | 2025-09-16 |  |
@@ -271,6 +272,7 @@
 | [You're Not Alone](https://open.spotify.com/track/0eeVeWfoy34vDgMxNeJeNR) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [You're Not Alone](https://open.spotify.com/album/5fAbzRhgwUL4lQnmG2ylE7) | 3:28 | 2025-10-30 |  |
 | [You're Not Alone](https://open.spotify.com/track/693FjxAhFeP2NYIEJBUNQX) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [Vampire Cover Party](https://open.spotify.com/album/4TIGIiJ37utsM5evw2mv5O) | 3:38 | 2025-11-12 |  |
 | [Your Web Of Lies](https://open.spotify.com/track/5oac3BCTHhfNKWKIzpxef8) | [Frallzone](https://open.spotify.com/artist/1WehD5r0hUWYOK6AK7nsHr) | [Your Web Of Lies](https://open.spotify.com/album/36DSRyHOuCSbIRf9dUpXsP) | 3:26 | 2025-11-03 |  |
+| [Zero Bullshit](https://open.spotify.com/track/1o0CgT5iLjXXhaQ7IcYHl6) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Zero Bullshit](https://open.spotify.com/album/5BGxbWMYET1qi1aNQ0esDz) | 4:02 | 2025-12-02 |  |
 | [社畜 Shachiku](https://open.spotify.com/track/0N4EbvbxeRYTrfROmbGIPD) | [ASK I FALL](https://open.spotify.com/artist/4uMaST3Kqi6sKwECsMoTKp) | [社畜 Shachiku](https://open.spotify.com/album/51KVyM9mGolhRVVDnAzre9) | 3:38 | 2025-11-30 |  |
 | [裂缝 • The Rift](https://open.spotify.com/track/4SrLap7bK9tE8CbGsDgsEM) | [彭俐客](https://open.spotify.com/artist/3h1LgXnjamZJ2YBk36REGe) | [献给 AI 的思考 • Thoughts for AI](https://open.spotify.com/album/4K4lChy5piyec9S6EN9gLj) | 3:29 | 2025-10-27 |  |
 

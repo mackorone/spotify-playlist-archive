@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 313707,
+  "num_followers": 313765,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAD5YTwUZ1YCbWwhuHnTu4gl",
+  "snapshot_id": "aSzagAAAAACeRyhar79QurmDYwmGLOsF",
   "tracks": [
     {
       "added_at": null,
@@ -235,42 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Har\u00e1s Otra Vez",
-        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 377306,
-      "name": "Lo Har\u00e1s Otra Vez (Do It Again)",
-      "url": "https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 452499,
-      "name": "Graves Into Gardens (Live)",
-      "url": "https://open.spotify.com/track/4wc8FpW9XCUaoxtii3CiCf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -295,6 +259,42 @@
       "duration_ms": 598994,
       "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 452499,
+      "name": "Graves Into Gardens (Live)",
+      "url": "https://open.spotify.com/track/4wc8FpW9XCUaoxtii3CiCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Har\u00e1s Otra Vez",
+        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 377306,
+      "name": "Lo Har\u00e1s Otra Vez (Do It Again)",
+      "url": "https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg"
     },
     {
       "added_at": null,
@@ -584,13 +584,17 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 376416,
-      "name": "Runnin (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/60s7QyO42V4QGRp6Ewzwds"
+      "duration_ms": 598622,
+      "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/4vVKQV8ZHk4uUjEkkydLLl"
     },
     {
       "added_at": null,
@@ -664,17 +668,13 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 598622,
-      "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/4vVKQV8ZHk4uUjEkkydLLl"
+      "duration_ms": 376416,
+      "name": "Runnin (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/60s7QyO42V4QGRp6Ewzwds"
     },
     {
       "added_at": null,

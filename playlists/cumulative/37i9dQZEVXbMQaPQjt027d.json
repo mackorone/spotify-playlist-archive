@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "1 Dag",
+        "url": "https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Re-Play",
+          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204474,
+      "name": "1 Dag",
+      "url": "https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x"
+    },
+    {
+      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -918,7 +940,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 177451,
       "name": "Bang Zijn In Het Donker",
       "url": "https://open.spotify.com/track/356E1rD0ZV9BVa3ErACR7R"
@@ -1002,10 +1024,28 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 160588,
       "name": "Ben Je Verliefd?",
       "url": "https://open.spotify.com/track/0cvs1LuaTEAHmyayUg06Fy"
+    },
+    {
+      "album": {
+        "name": "Beneath My Skin",
+        "url": "https://open.spotify.com/album/3MEWg3OP2ZgV3hrDiMgQi1"
+      },
+      "artists": [
+        {
+          "name": "JERRY'S SOUND ROOM",
+          "url": "https://open.spotify.com/artist/0tuO2DDZTKEQ6t6RT47WKH"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199879,
+      "name": "Beneath My Skin",
+      "url": "https://open.spotify.com/track/6FO0Pzjv38H1TpVBKnwG4l"
     },
     {
       "album": {
@@ -1278,7 +1318,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 171727,
       "name": "Bones",
       "url": "https://open.spotify.com/track/2iy3Qsydsu8slAoZV2BGOu"
@@ -3217,6 +3257,24 @@
     },
     {
       "album": {
+        "name": "FEAR",
+        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268519,
+      "name": "FEAR",
+      "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
+    },
+    {
+      "album": {
         "name": "Fearful Thing",
         "url": "https://open.spotify.com/album/4iNEMiPAdu3vjpKok86CgD"
       },
@@ -3308,6 +3366,24 @@
       "duration_ms": 182400,
       "name": "Feel The Ground Shake",
       "url": "https://open.spotify.com/track/4WKuPFcr0JtO9RCwkfvQeY"
+    },
+    {
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/6ah7HsIfLFVtBC4Qyk4JoG"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143746,
+      "name": "Finally Over It",
+      "url": "https://open.spotify.com/track/010a0zLOkBAMJvuscNdVxi"
     },
     {
       "album": {
@@ -3746,7 +3822,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 215585,
       "name": "Glas",
       "url": "https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b"
@@ -3990,7 +4066,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 124543,
       "name": "Had Ik Maar",
       "url": "https://open.spotify.com/track/2DDNjoAssaFfxX8XzKTyNn"
@@ -4052,7 +4128,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 154029,
       "name": "HDP",
       "url": "https://open.spotify.com/track/3t85nUPCmSq3O4bJXK0qhT"
@@ -4172,7 +4248,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 165878,
       "name": "Hey Macarena",
       "url": "https://open.spotify.com/track/2RYuapffXKoJGQaH0uNxLa"
@@ -4754,7 +4830,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 129577,
       "name": "I Run",
       "url": "https://open.spotify.com/track/7yxEOiB5klVkj9RXfia90C"
@@ -4956,7 +5032,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 152520,
       "name": "Ik Beloof",
       "url": "https://open.spotify.com/track/67YuQx4arDc8eHg7WbY8fC"
@@ -5274,7 +5350,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
@@ -5446,6 +5522,32 @@
       "duration_ms": 161880,
       "name": "Keep On Boogiin'",
       "url": "https://open.spotify.com/track/6ex416TNMpk4GwcOTd71Ys"
+    },
+    {
+      "album": {
+        "name": "Ketaklaas Kapoentje",
+        "url": "https://open.spotify.com/album/7sUGSgtDN2sqFXCrD1hYWX"
+      },
+      "artists": [
+        {
+          "name": "Offensief",
+          "url": "https://open.spotify.com/artist/5och3wqTbvZpmyYX8bPimR"
+        },
+        {
+          "name": "Opgekonkerd",
+          "url": "https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN"
+        },
+        {
+          "name": "HET POMPSTATION",
+          "url": "https://open.spotify.com/artist/6TQQsMsMKQBHjZrFv63d90"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164574,
+      "name": "Ketaklaas Kapoentje",
+      "url": "https://open.spotify.com/track/0o6pTMGK3ZjIyxfkkGpMQW"
     },
     {
       "album": {
@@ -5862,7 +5964,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 191533,
       "name": "Links, Rechts, Voor, Achteren",
       "url": "https://open.spotify.com/track/675137bcOKLTipkXqKQzpq"
@@ -5909,6 +6011,24 @@
     },
     {
       "album": {
+        "name": "GO BESTFRIEND",
+        "url": "https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163520,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J"
+    },
+    {
+      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
       },
@@ -5924,6 +6044,36 @@
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109128,
+      "name": "Losin' Streak",
+      "url": "https://open.spotify.com/track/6ly0Zc4mrK1W0XLeuAk5Dv"
     },
     {
       "album": {
@@ -6012,6 +6162,48 @@
       "duration_ms": 176159,
       "name": "Love",
       "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        },
+        {
+          "name": "Lilli Cooper",
+          "url": "https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        },
+        {
+          "name": "Krystina Alabado",
+          "url": "https://open.spotify.com/artist/4xL2eFX2i8uGTzi2tT3b3u"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124462,
+      "name": "Love In A Bottle",
+      "url": "https://open.spotify.com/track/7u3BVQ9DG1KA9c3Q8W3BLr"
     },
     {
       "album": {
@@ -6386,7 +6578,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -6506,6 +6698,28 @@
       "duration_ms": 248840,
       "name": "milk of the madonna",
       "url": "https://open.spotify.com/track/2463q6UN8BIDfeVI379qFz"
+    },
+    {
+      "album": {
+        "name": "Millionaire",
+        "url": "https://open.spotify.com/album/3GtXinuaQVhgEnrFVnGfmW"
+      },
+      "artists": [
+        {
+          "name": "LILO",
+          "url": "https://open.spotify.com/artist/4bpz1DmU9tB2FDq2tPgAFC"
+        },
+        {
+          "name": "Highguest",
+          "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156992,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/19q5YMgBKrM8DuWuJoFEey"
     },
     {
       "album": {
@@ -6883,6 +7097,28 @@
     },
     {
       "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
+        "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
+      },
+      "artists": [
+        {
+          "name": "Gaten Matarazzo",
+          "url": "https://open.spotify.com/artist/5TLldRzO16khcP3zwBsBB6"
+        },
+        {
+          "name": "Gabriella Pizzolo",
+          "url": "https://open.spotify.com/artist/7FZcgLmT7hkZWlODqmOFNo"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125480,
+      "name": "Never Ending Story",
+      "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
+    },
+    {
+      "album": {
         "name": "Niemand",
         "url": "https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ"
       },
@@ -7000,7 +7236,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -7482,7 +7718,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 148363,
       "name": "Onkruid",
       "url": "https://open.spotify.com/track/0CWZsPcj4enL4f5x1vh72Q"
@@ -7678,6 +7914,24 @@
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+    },
+    {
+      "album": {
+        "name": "Paris, Texas",
+        "url": "https://open.spotify.com/album/1oBS2LLFZDo9eKnb66jffn"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230526,
+      "name": "Paris, Texas",
+      "url": "https://open.spotify.com/track/6wckDJ8EqudZePpq6jk9rB"
     },
     {
       "album": {
@@ -8144,7 +8398,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -8873,6 +9127,28 @@
     },
     {
       "album": {
+        "name": "SORRY",
+        "url": "https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191519,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ"
+    },
+    {
+      "album": {
         "name": "LOVED",
         "url": "https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl"
       },
@@ -9207,6 +9483,24 @@
     },
     {
       "album": {
+        "name": "Take It Back EP",
+        "url": "https://open.spotify.com/album/0q5t0VjN1hEOEjF0dz87g1"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213664,
+      "name": "Take It Back (To The Old School)",
+      "url": "https://open.spotify.com/track/63ECwoYcmpAiY57qTZGLtO"
+    },
+    {
+      "album": {
         "name": "Take My Mind",
         "url": "https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP"
       },
@@ -9418,7 +9712,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 181666,
       "name": "The Final Boosterz",
       "url": "https://open.spotify.com/track/2gVT5qNDbo1Qzt0GHMbw0A"
@@ -9884,6 +10178,24 @@
       "duration_ms": 255466,
       "name": "Travelin' Soldier",
       "url": "https://open.spotify.com/track/4ThbwJaIWVxXZ1qJaHQBCz"
+    },
+    {
+      "album": {
+        "name": "Trouwen Met Patricia",
+        "url": "https://open.spotify.com/album/66bwcbIesYdyohS3v0ZMRz"
+      },
+      "artists": [
+        {
+          "name": "Mocro Media Crew",
+          "url": "https://open.spotify.com/artist/6wfXjm0zi61OwJwjRqbJAm"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119919,
+      "name": "Trouwen Met Patricia",
+      "url": "https://open.spotify.com/track/4qvG4qZEPTwlYDgASTAF28"
     },
     {
       "album": {
@@ -10474,6 +10786,40 @@
       "duration_ms": 178577,
       "name": "Voorbestemd",
       "url": "https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225404,
+      "name": "VOX POPULI",
+      "url": "https://open.spotify.com/track/7KWeKiDy7GqFjQ5e7xiPxy"
     },
     {
       "album": {
@@ -11157,6 +11503,24 @@
     },
     {
       "album": {
+        "name": "Wij zeggen Nee, Nee, Nee, tegen een A-Z-C! (Hardcore Mix)",
+        "url": "https://open.spotify.com/album/0p2QRnqRG85AUZ7SwGUtT2"
+      },
+      "artists": [
+        {
+          "name": "JW \"Broken Veteran\"",
+          "url": "https://open.spotify.com/artist/7vpoGzvUHw31dnQlyd5YSW"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211999,
+      "name": "Wij zeggen Nee, Nee, Nee, tegen een A-Z-C! - Hardcore Mix",
+      "url": "https://open.spotify.com/track/1hPxhJSI15tAQWbJyocv85"
+    },
+    {
+      "album": {
         "name": "Wij zeggen nee, nee, nee, tegen een AZC",
         "url": "https://open.spotify.com/album/64tMaHZZvQcU2173dhWmUS"
       },
@@ -11222,7 +11586,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 244919,
       "name": "Wij zeggen nee, nee, nee, tegen een AZC - SkaffaWilly Hardstyle Remake",
       "url": "https://open.spotify.com/track/3GLOMDxWVn88pfYnfFfMh2"
@@ -11730,6 +12094,28 @@
       "duration_ms": 189000,
       "name": "zeg minder",
       "url": "https://open.spotify.com/track/2qdj9PwjhStrQPgYVIlLJs"
+    },
+    {
+      "album": {
+        "name": "Zie De Maan Schijnt Door De Bomen",
+        "url": "https://open.spotify.com/album/5Tmqel0Xs5toFGA5uW3Ikt"
+      },
+      "artists": [
+        {
+          "name": "De Magische Familie Sintshow",
+          "url": "https://open.spotify.com/artist/5sBPpmLuizYWP0bVBIGvTN"
+        },
+        {
+          "name": "Zangpiet Emilio",
+          "url": "https://open.spotify.com/artist/06ozFvSRyQGMn8gFARAHWM"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141494,
+      "name": "Zie De Maan Schijnt Door De Bomen",
+      "url": "https://open.spotify.com/track/3FDhVCkzAihurjgkAknd4E"
     },
     {
       "album": {

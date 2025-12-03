@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: PA Sports, Kauta
 
-304 songs - 13 hr 46 min
+305 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [luft holen](https://open.spotify.com/track/4LOGPJg8TsT0RC5xyvLN30) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [nur liebe, immer.](https://open.spotify.com/album/5Smkfw2oCHkVJeGWgo0ylD) | 2:26 | 2024-06-28 | 2024-07-31 |
 | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r) | 2:09 | 2024-06-28 |  |
 | [Lüg mich nicht an](https://open.spotify.com/track/4QOcHsWgyt5be1NqIw5iH6) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy) | [Lüg mich nicht an](https://open.spotify.com/album/0i5bmeRJeIQpNQwqFaEWnM) | 2:29 | 2024-11-18 | 2025-01-17 |
-| [Ma Baby 2](https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Ma Baby 2](https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY) | 2:30 | 2025-03-24 |  |
+| [Ma Baby 2](https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Ma Baby 2](https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY) | 2:30 | 2025-03-24 | 2025-12-03 |
 | [Ma Shawty](https://open.spotify.com/track/56DjIeqZidDufg6H3yoTr5) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Ma Shawty](https://open.spotify.com/album/5JSNMtTqZNLIp0ro62PvLQ) | 2:57 | 2025-10-16 |  |
 | [Mach die Augen auf](https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Mach die Augen auf](https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH) | 1:51 | 2024-06-28 |  |
 | [Malediven](https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Ich lieb mich, ich lieb mich nicht](https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf) | 2:03 | 2025-09-18 |  |
@@ -245,6 +245,7 @@
 | [Schöne Dinge](https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schöne Dinge](https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl) | 2:39 | 2025-09-18 |  |
 | [Sehnsucht](https://open.spotify.com/track/5PFZFkJScGwK1mmyFtjBqK) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Sehnsucht](https://open.spotify.com/album/0raPoCRve4riLbX1ctCjv3) | 3:03 | 2024-08-26 | 2025-08-07 |
 | [Selber Schuld](https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Selber Schuld](https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg) | 2:21 | 2024-08-01 | 2025-02-08 |
+| [Shawty](https://open.spotify.com/track/0epOvY19U7PF0d96EB3bkl) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Shawty](https://open.spotify.com/album/4Qjtz9UiZQybB6Y5TZa5Ck) | 2:24 | 2025-11-27 |  |
 | [Siehst du's auch so](https://open.spotify.com/track/6GFGIBvEfBama5eAcjvfyi) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Siehst du's auch so](https://open.spotify.com/album/4GSPITkPHjJjEMVmHZWjGW) | 2:44 | 2025-04-24 | 2025-10-17 |
 | [Simpel](https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Simpel](https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL) | 2:43 | 2025-08-28 |  |
 | [SMS](https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [SMS](https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx) | 2:38 | 2024-06-28 | 2024-11-11 |

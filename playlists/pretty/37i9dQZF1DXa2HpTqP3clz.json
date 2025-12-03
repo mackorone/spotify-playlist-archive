@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 167351,
+  "num_followers": 167350,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
+        "name": "Small Towns",
+        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
+      },
+      "artists": [
+        {
+          "name": "Stillhouse Junkies",
+          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Colorado Bound",
+      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 258393,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Small Towns",
-        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
-      },
-      "artists": [
-        {
-          "name": "Stillhouse Junkies",
-          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Colorado Bound",
-      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -779,22 +779,26 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
       "artists": [
         {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
         },
         {
-          "name": "Jake Workman",
-          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Jeff White",
+          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
         }
       ],
-      "duration_ms": 267954,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+      "duration_ms": 306440,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -819,26 +823,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
       "artists": [
         {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
         },
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Jeff White",
-          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
+          "name": "Jake Workman",
+          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
         }
       ],
-      "duration_ms": 306440,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
+      "duration_ms": 267954,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Wanderers Like Me",
-        "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
-      },
-      "artists": [
-        {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
-        }
-      ],
-      "duration_ms": 189887,
-      "name": "Wanderers Like Me",
-      "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Work Song (I Can Still Sing)",
         "url": "https://open.spotify.com/album/2deofjFoM5Rwugpm0iF3Yj"
       },
@@ -979,6 +963,30 @@
       "duration_ms": 209603,
       "name": "Work Song (I Can Still Sing)",
       "url": "https://open.spotify.com/track/3VDvqw41vBUXaqK9FPzkYz"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Living In A Song",
+        "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
+      },
+      "artists": [
+        {
+          "name": "Rob Ickes & Trey Hensley",
+          "url": "https://open.spotify.com/artist/1N33O43FnAJtlHh8Nna68C"
+        },
+        {
+          "name": "Rob Ickes",
+          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
+        },
+        {
+          "name": "Trey Hensley",
+          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
+        }
+      ],
+      "duration_ms": 236213,
+      "name": "Living In A Song",
+      "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1019,26 +1027,18 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Living In A Song",
-        "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
+        "name": "Wanderers Like Me",
+        "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
       },
       "artists": [
         {
-          "name": "Rob Ickes & Trey Hensley",
-          "url": "https://open.spotify.com/artist/1N33O43FnAJtlHh8Nna68C"
-        },
-        {
-          "name": "Rob Ickes",
-          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
-        },
-        {
-          "name": "Trey Hensley",
-          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
         }
       ],
-      "duration_ms": 236213,
-      "name": "Living In A Song",
-      "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
+      "duration_ms": 189887,
+      "name": "Wanderers Like Me",
+      "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Last Road Going Home",
-        "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "Last Road Going Home",
-      "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Blue Night",
         "url": "https://open.spotify.com/album/4zuvesfsRy11qUXy9RyAJM"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 174000,
       "name": "Blue Night",
       "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Last Road Going Home",
+        "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "Last Road Going Home",
+      "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
+        "name": "BBQ Chips",
+        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
+      },
+      "artists": [
+        {
+          "name": "Abby Webster",
+          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
+        }
+      ],
+      "duration_ms": 248364,
+      "name": "BBQ Chips",
+      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
         "name": "Into the Wild",
         "url": "https://open.spotify.com/album/058OYbS7WY1vMt77wgSbo6"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 261333,
       "name": "Runnin' from the Weather",
       "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "BBQ Chips",
-        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
-      },
-      "artists": [
-        {
-          "name": "Abby Webster",
-          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
-        }
-      ],
-      "duration_ms": 248364,
-      "name": "BBQ Chips",
-      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Keepers of the Flame",
-        "url": "https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w"
-      },
-      "artists": [
-        {
-          "name": "Lorraine Jordan & Carolina Road",
-          "url": "https://open.spotify.com/artist/6dxPXJaSKfiMQktSMb0ihw"
-        }
-      ],
-      "duration_ms": 175835,
-      "name": "Keepers of the Flame",
-      "url": "https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 216950,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Keepers of the Flame",
+        "url": "https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w"
+      },
+      "artists": [
+        {
+          "name": "Lorraine Jordan & Carolina Road",
+          "url": "https://open.spotify.com/artist/6dxPXJaSKfiMQktSMb0ihw"
+        }
+      ],
+      "duration_ms": 175835,
+      "name": "Keepers of the Flame",
+      "url": "https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
+      },
+      "artists": [
+        {
+          "name": "Wood Box Heroes",
+          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
+        }
+      ],
+      "duration_ms": 235786,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
         "name": "Lifetime To Go",
         "url": "https://open.spotify.com/album/7fPKHS5uBtUv5hxb8eIMqX"
       },
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
-      },
-      "artists": [
-        {
-          "name": "Wood Box Heroes",
-          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
-        }
-      ],
-      "duration_ms": 235786,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Hang Around for the Heartbreak",
         "url": "https://open.spotify.com/album/5CSL7Qy9qIxwAefETqmUy6"
       },
@@ -1711,6 +1711,38 @@
       "duration_ms": 170000,
       "name": "Hang Around for the Heartbreak",
       "url": "https://open.spotify.com/track/5AdjLQJAOvXsdInkY1nuPD"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Looking Past the Pain (The Cowboy Song)",
+        "url": "https://open.spotify.com/album/5Im9SOujSPyg7XAWUvQShY"
+      },
+      "artists": [
+        {
+          "name": "Seth Mulder & Midnight Run",
+          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
+        }
+      ],
+      "duration_ms": 237905,
+      "name": "Looking Past the Pain (The Cowboy Song)",
+      "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Let It Fall",
+        "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
+      },
+      "artists": [
+        {
+          "name": "Tina Adair",
+          "url": "https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Let It Fall",
+      "url": "https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1763,38 +1795,6 @@
       "duration_ms": 255178,
       "name": "These Ole Blues",
       "url": "https://open.spotify.com/track/7v773znNvjE1Gx6cIgcmYA"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Let It Fall",
-        "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
-      },
-      "artists": [
-        {
-          "name": "Tina Adair",
-          "url": "https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Let It Fall",
-      "url": "https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Looking Past the Pain (The Cowboy Song)",
-        "url": "https://open.spotify.com/album/5Im9SOujSPyg7XAWUvQShY"
-      },
-      "artists": [
-        {
-          "name": "Seth Mulder & Midnight Run",
-          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
-        }
-      ],
-      "duration_ms": 237905,
-      "name": "Looking Past the Pain (The Cowboy Song)",
-      "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
     }
   ],
   "unique_name": "Grass Roots",

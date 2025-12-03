@@ -1079,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "MASQ",
+        "url": "https://open.spotify.com/album/5HGfZ4ql6AfciNleiUr1Kq"
+      },
+      "artists": [
+        {
+          "name": "MINO-U",
+          "url": "https://open.spotify.com/artist/71Y3Ll2Yp2CUVtgo3FitWi"
+        },
+        {
+          "name": "\u30d5\u30ea\u30e2\u30e1\u30f3",
+          "url": "https://open.spotify.com/artist/4pLhclkqDIa5iBW0EtTKmr"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199980,
+      "name": "MASQ (feat. \u30d5\u30ea\u30e2\u30e1\u30f3)",
+      "url": "https://open.spotify.com/track/2qledqaSiczubmSyxvlm8i"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u53ef\u601d\u8b70\u3068\u65c5\u4eba",
         "url": "https://open.spotify.com/album/7tNilnEAu70DOTQj6DbJ23"
       },
@@ -1258,6 +1280,28 @@
       "duration_ms": 226363,
       "name": "PASSAGE (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/3CBz8B8mKSS461Hqk121km"
+    },
+    {
+      "album": {
+        "name": "\u3072\u307f\u3064\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/6EOStnNCeIbtXPgtt47vB7"
+      },
+      "artists": [
+        {
+          "name": "\u6797\u7530\u5320",
+          "url": "https://open.spotify.com/artist/3FxzoRlmUKSHHfZGd9JoVE"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219027,
+      "name": "Penguin's Detour (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2sWXjNycfK37VTWO0CTAhM"
     },
     {
       "album": {
@@ -1556,7 +1600,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 210238,
       "name": "showdown",
       "url": "https://open.spotify.com/track/0hxXGGuLs5d6uVVMmvHR6r"
@@ -3512,7 +3556,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 232250,
       "name": "\u30b5\u30fc\u30d3\u30b9\u30c8\u30fc\u30af (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6tAqLDWrNdgf9PU03cqvqt"
@@ -4384,7 +4428,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 248095,
       "name": "\u30de\u30a4\u30e9\u30a4\u30d5\u30ed\u30ac\u30fc (feat. \u5f69\u6f84\u3057\u3085\u304a)",
       "url": "https://open.spotify.com/track/1dU7VNNBEchKNduTtQw8n9"
@@ -4574,7 +4618,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 93698,
       "name": "\u30ea\u30d9\u30e9\u30fb\u30e1 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/61nqKILmEbduouO7x6EGaM"
@@ -4771,6 +4815,24 @@
     },
     {
       "album": {
+        "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30fb\u30aa\u30fc\u30eb\u30fb\u30b6\u30c3\u30c8\u30fb\u30b8\u30e3\u30ba",
+        "url": "https://open.spotify.com/album/7LFzHaCd9sz0gkYvOonxUv"
+      },
+      "artists": [
+        {
+          "name": "DATEKEN",
+          "url": "https://open.spotify.com/artist/7y2lgi4wRHvlwczrW5ucal"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183050,
+      "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30fb\u30aa\u30fc\u30eb\u30fb\u30b6\u30c3\u30c8\u30fb\u30b8\u30e3\u30ba",
+      "url": "https://open.spotify.com/track/4XclB9qUKnQH0uWY9w7HBf"
+    },
+    {
+      "album": {
         "name": "\u8133\u5185\u5091\u4f5c\u9078",
         "url": "https://open.spotify.com/album/3uC1Myr90eWult3hg3a3C8"
       },
@@ -4826,7 +4888,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 224347,
       "name": "\u4e94\u6708\u96e8 (feat. \u82b1\u9688\u5343\u51ac)",
       "url": "https://open.spotify.com/track/1rfKUaBY93Y5U2wVYPMYtO"
@@ -5622,7 +5684,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 153913,
       "name": "\u5f15\u304d\u3053\u3082\u308a\u9769\u547d (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2rpee0OEpyuYnHCsAtoIvZ"
@@ -6188,7 +6250,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 154736,
       "name": "\u6c38\u4e45\u5fc3\u81d3\u8ad6 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5AU1AOG8xxNG8r3NMSo81g"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > The Latin soundtrack of the 60s! Cover: Armando Manzanero
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,970 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,975 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 37 | [El Malquerido](https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Romance](https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP) | 2:43 |
 | 38 | [Más Allá](https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Trios de Oro, Vol\. 1](https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR) | 2:37 |
 | 39 | [Adoro](https://open.spotify.com/track/0hE2ejWHfg5OpdoOnMjePG) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:24 |
-| 40 | [Para Cuando Regreses](https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Para Mi Siempre Amor...](https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj) | 1:55 |
-| 41 | [Tengo Diecisiete Años \- Remastered](https://open.spotify.com/track/2b0dpNwJbqjf5BF8D5FHh3) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De \(Remastered\)](https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom) | 3:01 |
+| 40 | [Tengo Diecisiete Años \- Remastered](https://open.spotify.com/track/2b0dpNwJbqjf5BF8D5FHh3) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De \(Remastered\)](https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom) | 3:01 |
+| 41 | [Para Cuando Regreses](https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Para Mi Siempre Amor...](https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj) | 1:55 |
 | 42 | [El Rock de la Cárcel \- Jailhouse Rock](https://open.spotify.com/track/378st4sJlIIFz9IqA2uJJz) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Personalidad](https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ) | 2:10 |
 | 43 | [Me Siento Loco](https://open.spotify.com/track/2brVDUF6cn2b8451RSEbVz) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Olvidate](https://open.spotify.com/album/7HmWSi8jOb40voxwoxranW) | 3:12 |
 | 44 | [Somos Novios](https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:37 |

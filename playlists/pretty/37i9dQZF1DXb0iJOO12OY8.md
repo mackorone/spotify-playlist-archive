@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,185 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,175 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 46 | [Sunshine Baby](https://open.spotify.com/track/7pzsqAe78VUADwaO1rdKBQ) | [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Sunshine Baby](https://open.spotify.com/album/2k7CDnBJQw4sajD2h53o1E) | 2:59 |
 | 47 | [Sjarmør \(Beepolar\)](https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Sjarmør \(Beepolar\)](https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD) | 2:43 |
 | 48 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 |
-| 49 | [FaceTime](https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B) | 2:24 |
+| 49 | [Normandie](https://open.spotify.com/track/66efVUD3ziUs3mPLZWysJ6) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [BERGREM](https://open.spotify.com/artist/3xw4Fyy4UUWDSVfScqt2BH) | [Normandie](https://open.spotify.com/album/77n1CfO0adsKZVHCGrZMnH) | 2:13 |
 | 50 | [En Vakker Dag](https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [En Vakker Dag](https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB) | 2:30 |
 
 Snapshot ID: `AAAAAMwpcoTaot9FvPrPigVeQzGMoThG`

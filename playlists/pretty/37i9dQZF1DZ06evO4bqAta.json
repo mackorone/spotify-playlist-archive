@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 585578,
+  "num_followers": 585595,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACHS7wFcUOulUbQYdOFSATb",
+  "snapshot_id": "aSzagAAAAAAqHq66jI6s9nur02DMnQvA",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Waves",
-        "url": "https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 297103,
-      "name": "Forever Young - Slow Version",
-      "url": "https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 202805,
       "name": "Buckets of Rain",
       "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Waves",
+        "url": "https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 297103,
+      "name": "Forever Young - Slow Version",
+      "url": "https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 145307,
+      "name": "Winterlude",
+      "url": "https://open.spotify.com/track/6h8laPks98zPizQ5qahy40"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rocks And Gravel (Solid Road)",
         "url": "https://open.spotify.com/album/4epjyxCSD9OV7SONWXecL6"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blonde On Blonde",
-        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 454005,
-      "name": "Visions of Johanna",
-      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Morning",
-        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 145307,
-      "name": "Winterlude",
-      "url": "https://open.spotify.com/track/6h8laPks98zPizQ5qahy40"
+      "duration_ms": 454005,
+      "name": "Visions of Johanna",
+      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
     },
     {
       "added_at": null,

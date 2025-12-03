@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4403,
+  "num_followers": 4405,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAA+/+K+8y6KkaNlK3O9oHXu",
+  "snapshot_id": "aSzagAAAAAC0DqvHjk7WbtYEwdTrNU1F",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pouco Assunto",
+        "url": "https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx"
+      },
+      "artists": [
+        {
+          "name": "ANAJU",
+          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 166491,
+      "name": "Pouco Assunto",
+      "url": "https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 160000,
       "name": "ONDE C\u00ca T\u00c1?",
       "url": "https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pouco Assunto",
-        "url": "https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx"
-      },
-      "artists": [
-        {
-          "name": "ANAJU",
-          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 166491,
-      "name": "Pouco Assunto",
-      "url": "https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF"
     },
     {
       "added_at": null,
@@ -763,6 +763,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 206197,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terror das Faixa Rosa",
         "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
       },
@@ -791,30 +815,6 @@
       "duration_ms": 201600,
       "name": "Terror das Faixa Rosa",
       "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 206197,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
     },
     {
       "added_at": null,
@@ -959,30 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailean",
-        "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/76cadDGwcJerxd4gl7NaHp"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Bailean",
-      "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Na Onda do Boldo",
         "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
       },
@@ -1003,6 +979,34 @@
       "duration_ms": 186000,
       "name": "Na Onda do Boldo",
       "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Momento (feat. Luccas Carlos)",
+        "url": "https://open.spotify.com/album/7w1FWmH0xbFko0el1LP7tr"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "Momento (feat. Luccas Carlos)",
+      "url": "https://open.spotify.com/track/2ia5PzDqdzgJ6EGLItWzCL"
     },
     {
       "added_at": null,
@@ -1039,50 +1043,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momento (feat. Luccas Carlos)",
-        "url": "https://open.spotify.com/album/7w1FWmH0xbFko0el1LP7tr"
+        "name": "Bailean",
+        "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
       },
       "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
         },
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/76cadDGwcJerxd4gl7NaHp"
         }
       ],
-      "duration_ms": 202218,
-      "name": "Momento (feat. Luccas Carlos)",
-      "url": "https://open.spotify.com/track/2ia5PzDqdzgJ6EGLItWzCL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "TO PRONTA!",
-      "url": "https://open.spotify.com/track/25BCBAxBSpJ8evRp7pI3QA"
+      "duration_ms": 218181,
+      "name": "Bailean",
+      "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
     },
     {
       "added_at": null,
@@ -1103,30 +1083,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festa na Piscina",
-        "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
       },
       "artists": [
         {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        },
+        {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
         }
       ],
-      "duration_ms": 268085,
-      "name": "Festa na Piscina",
-      "url": "https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv"
+      "duration_ms": 163636,
+      "name": "TO PRONTA!",
+      "url": "https://open.spotify.com/track/25BCBAxBSpJ8evRp7pI3QA"
     },
     {
       "added_at": null,
@@ -1199,6 +1171,34 @@
       "duration_ms": 387692,
       "name": "Set Dj Br da Tijuca 4",
       "url": "https://open.spotify.com/track/5lKlFz2BGYmW0Aw0oVws6J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Festa na Piscina",
+        "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        }
+      ],
+      "duration_ms": 268085,
+      "name": "Festa na Piscina",
+      "url": "https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv"
     },
     {
       "added_at": null,

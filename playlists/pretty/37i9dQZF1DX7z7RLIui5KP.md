@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Fena Gitu
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,957 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,971 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

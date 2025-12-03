@@ -2815,36 +2815,6 @@
     },
     {
       "album": {
-        "name": "Dhurandhar",
-        "url": "https://open.spotify.com/album/2aWjBAXX37Wxwfw9cbAXSb"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Raj Ranjodh",
-          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
-        }
-      ],
-      "date_added": "2025-12-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182916,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/01NtURBFkQikqQVIXvIOSo"
-    },
-    {
-      "album": {
         "name": "Ek Baar Phir",
         "url": "https://open.spotify.com/album/6BuWVwQ9YbWlumt1YNGWmn"
       },
@@ -2938,6 +2908,36 @@
       "duration_ms": 160039,
       "name": "Ek Mulaqaat",
       "url": "https://open.spotify.com/track/69CIBgYgyhxRGzQK1ewVXv"
+    },
+    {
+      "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2aWjBAXX37Wxwfw9cbAXSb"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182916,
+      "name": "Ez-Ez",
+      "url": "https://open.spotify.com/track/01NtURBFkQikqQVIXvIOSo"
     },
     {
       "album": {
@@ -5067,6 +5067,32 @@
     },
     {
       "album": {
+        "name": "Kehna Chahun",
+        "url": "https://open.spotify.com/album/1zXNfh5hgLCJ0q4GULDpSm"
+      },
+      "artists": [
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212046,
+      "name": "Kehna Chahun",
+      "url": "https://open.spotify.com/track/362zHvEKn8Wd0u8JgsNiYS"
+    },
+    {
+      "album": {
         "name": "Rangeen (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/6UoKIcd7WhB83XcSGQhMXz"
       },
@@ -5122,7 +5148,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 257172,
       "name": "Khoobsurat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/3ZoXWKCwp2r603Z5bYWhtt"
@@ -7869,7 +7895,7 @@
         },
         {
           "name": "Asad Khan",
-          "url": "https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7"
+          "url": "https://open.spotify.com/artist/0iAplPrZAsR6t5TTDru4JS"
         }
       ],
       "date_added": "2025-11-28",

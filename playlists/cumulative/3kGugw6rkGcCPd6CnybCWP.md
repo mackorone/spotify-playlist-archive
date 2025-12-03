@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-84 songs - 4 hr 46 min
+85 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Dead in a Ditch \(Reloaded\)](https://open.spotify.com/track/3wjMvlboeH5EQofd0XNfWL) | [Tiny Banshee](https://open.spotify.com/artist/4TjpNiCPSovZ6SSIYrQeoN) | [Small\. Loud\. and Haunted.](https://open.spotify.com/album/5NTWQ6aTCeWkG7OzNiU2gb) | 2:23 | 2025-11-01 |  |
 | [Demons Move In Shadows](https://open.spotify.com/track/4zqdjaBlB7Ob2bo1MiAPXu) | [Numsig](https://open.spotify.com/artist/1Ws1YsRvDtL3gqKgrbY0Ju) | [Demons Move In Shadows](https://open.spotify.com/album/4E41VvlBG39lwOv13sCdPw) | 3:01 | 2025-10-24 | 2025-12-02 |
 | [Don't Be The Victim](https://open.spotify.com/track/3GfM3bTP0qnoD43WPBBeqD) | [Elli Hart](https://open.spotify.com/artist/6TeYsug4ZJPQF4FdFm2Cc0) | [Don't Be The Victim](https://open.spotify.com/album/7JDzrgzkJcP4O53rugLCCZ) | 3:44 | 2025-11-09 |  |
+| [don't know better](https://open.spotify.com/track/6OPNg2fvD1f2HIPj4Tfh7x) | [Nathan Etes](https://open.spotify.com/artist/11WVY9LG4XWkOptquaXJ71) | [juniper](https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw) | 2:45 | 2025-12-02 |  |
 | [Don't Look Down](https://open.spotify.com/track/2rChoCLrXcHGrLW5l4lya6) | [Beth Seymour & The Lizzies](https://open.spotify.com/artist/04kwM7mgN8lfQPfnwukpUX) | [Don't Look Down](https://open.spotify.com/album/2LD7xfQB1uIHkluQfz7mJH) | 3:42 | 2025-11-21 |  |
 | [Dreaming of Injured Popstars '25](https://open.spotify.com/track/2JquSuR6JlfaCulVG9HGkV) | [Intoxicated Pigeon](https://open.spotify.com/artist/6fbh8Dv01mwKXuD9AkPTgx), [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e), [Oxygen Thief](https://open.spotify.com/artist/0lSgqe7J1XKN7hZhaPHBs5) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 4:53 | 2025-11-09 |  |
 | [Easy](https://open.spotify.com/track/4hifOPhb7I7Lqk1QxzTViF) | [Barranquismo](https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF) | [Easy](https://open.spotify.com/album/2FlV7b52TOFYQvZQidpA5e) | 2:52 | 2025-10-30 | 2025-12-02 |

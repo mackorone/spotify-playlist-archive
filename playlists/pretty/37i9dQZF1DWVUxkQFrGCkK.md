@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Ankhoï & Luch hypes us up for Tulum 26'!
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,760 likes - 365 songs - 23 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,771 likes - 365 songs - 23 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 13 | [Wonder](https://open.spotify.com/track/632Wb6lTL9lbMLkTCrfrid) | [DUSST](https://open.spotify.com/artist/6XgK7qOSV4FBngw1SjL1yr) | [Wonder](https://open.spotify.com/album/23bA5kGKZyc14IpXKwVZM3) | 2:35 |
 | 14 | [Maabola](https://open.spotify.com/track/35AyOC5a43OPT79kZU4jKz) | [DOSAMIS](https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K) | [Maabola](https://open.spotify.com/album/68OPe7aNPyxL0hJqzsnEtb) | 3:48 |
 | 15 | [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 |
-| 16 | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/track/7qFeh9S1Noq5NORl3o4AYI) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [koshi](https://open.spotify.com/artist/2ACc5CrWeHwnK5WYuBt915), [Daymaan](https://open.spotify.com/artist/35yPguBuaPXsOSIUVzJ0Zd) | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/album/01bWLamm6GjBmyN1bo5vZI) | 4:04 |
+| 16 | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/track/7qFeh9S1Noq5NORl3o4AYI) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [koshi](https://open.spotify.com/artist/2ACc5CrWeHwnK5WYuBt915), [Daymaan](https://open.spotify.com/artist/35yPguBuaPXsOSIUVzJ0Zd), [Sparrow \(CH\)](https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO) | [Lady \(Hear Me Tonight\) \- Remix](https://open.spotify.com/album/01bWLamm6GjBmyN1bo5vZI) | 4:04 |
 | 17 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 |
 | 18 | [Moon](https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Moon](https://open.spotify.com/album/1Gs4CfY1YfYLYolnyCd4lX) | 3:22 |
 | 19 | [Candy Cloud](https://open.spotify.com/track/6WlqLgm2PVS4CzuDN3NCdC) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Candy Cloud](https://open.spotify.com/album/41oaqPl9tzYx9GMswupkhe) | 3:58 |

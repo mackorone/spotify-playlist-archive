@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: Awich",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: Skaai",
   "name": "+81 Connect: J-HipHop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -5508,7 +5508,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 137037,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/0lSt2PbfbHWcf7R22RgBCH"
@@ -6890,7 +6890,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 142494,
       "name": "CAP",
       "url": "https://open.spotify.com/track/6SUhheFCVYV6TaOxZEYCnu"
@@ -10965,6 +10965,24 @@
     },
     {
       "album": {
+        "name": "DWMT",
+        "url": "https://open.spotify.com/album/1aBncIjVTCLyNDNmFqqVJ6"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98591,
+      "name": "DWMT",
+      "url": "https://open.spotify.com/track/5CpgyvVgF68vhdoGA2NeIs"
+    },
+    {
+      "album": {
         "name": "E:motion",
         "url": "https://open.spotify.com/album/2ex59EgMP9ixDw9gwEN7A6"
       },
@@ -11204,7 +11222,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 154503,
       "name": "En",
       "url": "https://open.spotify.com/track/5SSdq2MbNNRj2y9ARtJy39"
@@ -17147,6 +17165,24 @@
     },
     {
       "album": {
+        "name": "I OWN MY ROLE",
+        "url": "https://open.spotify.com/album/0UG0X1vfl9JTfYkFwv8YXV"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "I OWN MY ROLE",
+      "url": "https://open.spotify.com/track/2KS2rawRcjyUj2NuqGWNWz"
+    },
+    {
+      "album": {
         "name": "CONCRETE GREEN",
         "url": "https://open.spotify.com/album/1okV6Gf5eTlHEvrZOmccyv"
       },
@@ -20616,7 +20652,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 187912,
       "name": "Life Is Shine (feat. ISSUGI)",
       "url": "https://open.spotify.com/track/3yRWhN7ON3mI8oJpXndmN2"
@@ -25010,7 +25046,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 205013,
       "name": "NEET",
       "url": "https://open.spotify.com/track/0tBjllFPkDG9CZudRWLeSP"
@@ -26740,7 +26776,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 190255,
       "name": "Not Your Mama",
       "url": "https://open.spotify.com/track/3WxH7aG8DmX0ADK2DSOlsz"
@@ -29203,6 +29239,32 @@
     },
     {
       "album": {
+        "name": "MO' BETTER TRUTH SPECIAL REMIXES",
+        "url": "https://open.spotify.com/album/3SAT6WzJkklsdlbh04wqmW"
+      },
+      "artists": [
+        {
+          "name": "SPIN MASTER A-1",
+          "url": "https://open.spotify.com/artist/5BVvHcThZG3cYfRTmA483M"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "PLAYER (feat. Daichi Yamamoto & Shing02) - Remix",
+      "url": "https://open.spotify.com/track/3VEY35VwEKaZLbY133Tp2O"
+    },
+    {
+      "album": {
         "name": "Playground feat. (sic)boy, HIYADAM",
         "url": "https://open.spotify.com/album/4EUdDcEs1klHCudQrikdYx"
       },
@@ -29668,7 +29730,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 121523,
       "name": "PTSD (feat. FLARE FLEX FLYDAY)",
       "url": "https://open.spotify.com/track/6bQjeZqFXIqmKPZ4noBRiI"
@@ -31544,7 +31606,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 166857,
       "name": "Roots&Leaves (feat. Shuto & in-d)",
       "url": "https://open.spotify.com/track/3nZj3HLHCQskqsWKNAnHML"
@@ -33486,7 +33548,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 143595,
       "name": "Sir Vibe",
       "url": "https://open.spotify.com/track/4OBXv9MVaEQ60UtuJe88PQ"
@@ -33682,7 +33744,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 174264,
       "name": "Sky's The Limit",
       "url": "https://open.spotify.com/track/2REWlu3OySHcWr3o7vXMDe"
@@ -34600,7 +34662,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 185927,
       "name": "SPEEDY",
       "url": "https://open.spotify.com/track/1JI4JA7l6zU1Nt4lume1xO"
@@ -35706,7 +35768,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 220808,
       "name": "Summertime Freestyle \u201925 (feat. Campanella) - Remix",
       "url": "https://open.spotify.com/track/3f6V7L0cQ285G8r7hivwqu"
@@ -38171,6 +38233,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/5QDdLCGbthqLgXt4Vr3UBF"
+    },
+    {
+      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -38260,6 +38340,28 @@
       "duration_ms": 174948,
       "name": "TRAUMA (feat. ralph)",
       "url": "https://open.spotify.com/track/49MTwYpaPShEqqn4amf0AE"
+    },
+    {
+      "album": {
+        "name": "TRAVELING (feat. GamBall)",
+        "url": "https://open.spotify.com/album/3fc7gERDqqcKmMR5j4wVdh"
+      },
+      "artists": [
+        {
+          "name": "DJ JAM",
+          "url": "https://open.spotify.com/artist/429uK9aePbJMBV2siIj2u8"
+        },
+        {
+          "name": "GamBall",
+          "url": "https://open.spotify.com/artist/1jGj3rxYOEXXD6QfmWDi0U"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115411,
+      "name": "TRAVELING (feat. GamBall)",
+      "url": "https://open.spotify.com/track/5Koz3ppFpXzObRuNm7O9dL"
     },
     {
       "album": {
@@ -41125,6 +41227,24 @@
     },
     {
       "album": {
+        "name": "why not",
+        "url": "https://open.spotify.com/album/4iY6mVhvwlbMH4FbkrYSc1"
+      },
+      "artists": [
+        {
+          "name": "It-Works",
+          "url": "https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159198,
+      "name": "why not",
+      "url": "https://open.spotify.com/track/5LZ2QmkL6FqezVdtpubkDC"
+    },
+    {
+      "album": {
         "name": "Speed Tape",
         "url": "https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD"
       },
@@ -42297,6 +42417,24 @@
     },
     {
       "album": {
+        "name": "YURARI",
+        "url": "https://open.spotify.com/album/246iMfvhwWDy7qRFLKMSJL"
+      },
+      "artists": [
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146996,
+      "name": "YURARI",
+      "url": "https://open.spotify.com/track/3LCQs7a5ImmtqC4RhZV3mY"
+    },
+    {
+      "album": {
         "name": "YUUTEMOSYAANAI",
         "url": "https://open.spotify.com/album/5NI86DahynUBZGquFOzKdD"
       },
@@ -42360,6 +42498,28 @@
       "duration_ms": 144000,
       "name": "ZAZAMARU",
       "url": "https://open.spotify.com/track/65P6jjxIjVQrenzr5oO4eN"
+    },
+    {
+      "album": {
+        "name": "ZEN ZEN (feat. Lisa lil vinci)",
+        "url": "https://open.spotify.com/album/2YbHTYvFep9q1uxseXbFi0"
+      },
+      "artists": [
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        },
+        {
+          "name": "Lisa lil vinci",
+          "url": "https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "ZEN ZEN (feat. Lisa lil vinci)",
+      "url": "https://open.spotify.com/track/61Zhs5BtNLlrjJOzmQL6EC"
     },
     {
       "album": {
@@ -43436,6 +43596,28 @@
       "duration_ms": 260021,
       "name": "\u30aa\u30ef\u30ea",
       "url": "https://open.spotify.com/track/2qUEiCahiWmFQ7JZeIC2FV"
+    },
+    {
+      "album": {
+        "name": "ALXVE",
+        "url": "https://open.spotify.com/album/5ZiuSExC5yyLO8hX6Tqzef"
+      },
+      "artists": [
+        {
+          "name": "Jinmenusagi",
+          "url": "https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE"
+        },
+        {
+          "name": "ANARCHY",
+          "url": "https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184262,
+      "name": "\u30aa\u30fc\u30d3\u30b9 (feat. ANARCHY)",
+      "url": "https://open.spotify.com/track/30renGL0hyUfHWywmzkQ8i"
     },
     {
       "album": {
@@ -44644,7 +44826,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 260318,
       "name": "\u508d\u306b\u54b2\u304f\u82b1 (feat. 43K) - KOYANMUSIC REMIX",
       "url": "https://open.spotify.com/track/23L55xfQxoq1UEcbZlS5GB"
@@ -44736,6 +44918,28 @@
       "duration_ms": 191428,
       "name": "\u518d\u751f",
       "url": "https://open.spotify.com/track/69FGuX0qRbjZhN4guCQhrg"
+    },
+    {
+      "album": {
+        "name": "ALXVE",
+        "url": "https://open.spotify.com/album/5ZiuSExC5yyLO8hX6Tqzef"
+      },
+      "artists": [
+        {
+          "name": "Jinmenusagi",
+          "url": "https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE"
+        },
+        {
+          "name": "ACE COOL",
+          "url": "https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212324,
+      "name": "\u51a8\u5c71\u3068\u5c71\u672c (feat. ACE COOL)",
+      "url": "https://open.spotify.com/track/1VbI6Ihw1nTjAWQRh193vj"
     },
     {
       "album": {
@@ -45666,7 +45870,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 168000,
       "name": "\u6771\u4eac\u9006\u8d70",
       "url": "https://open.spotify.com/track/66w0Y7OgItnOxr5H0dvkwa"

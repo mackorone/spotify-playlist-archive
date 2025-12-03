@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: Floyd Lavine
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,313 likes - 70 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,369 likes - 70 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 69 | [Vala](https://open.spotify.com/track/11AKJLtaX6gCdV6xV3ZNpd) | [Dankie Boi](https://open.spotify.com/artist/2GuftRtL7ZIB4dRuJx644M), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt), [Black CaTz](https://open.spotify.com/artist/0qjQsZ4GrZ03Ct5UYovy1b) | [Vala](https://open.spotify.com/album/7JeOMhTfjK5C8MBGtmB5Pl) | 5:13 |
 | 70 | [Vathela](https://open.spotify.com/track/157SGWWZlhUctkhWYp4PDA) | [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [Ezase Afro](https://open.spotify.com/artist/2Pq1y5jYYOC4Si7kY6qjBB), [We Dem Boyz](https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq) | [Ezase Afro Summer Banger](https://open.spotify.com/album/2aoN0uDKenMFzEfnEKWJhk) | 5:46 |
 
-Snapshot ID: `AAAAAHex0eTkZbuIlTglobdTQIauBgCx`
+Snapshot ID: `AAAAAArTv2QdIKI4tCdxzXpAYi/XfG7p`

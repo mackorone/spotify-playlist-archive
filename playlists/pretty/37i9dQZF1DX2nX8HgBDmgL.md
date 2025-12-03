@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Faheem Abdullah
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,220 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,275 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 74 | [Ehsaas](https://open.spotify.com/track/5PetOhEX9N0oyBB0Keqobv) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Duha Shah](https://open.spotify.com/artist/3l1qBa4ZTuNfYOap9WGbDQ), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB), [Hyder Dar](https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt) | [Ehsaas](https://open.spotify.com/album/12ShvJkszHFeRxDuZz2OYk) | 3:53 |
 | 75 | [Rich & Famous](https://open.spotify.com/track/2yvvfqZh98OuOA62Y33IwN) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv) | [Rich & Famous](https://open.spotify.com/album/22aqHFHsGdiLWkcyGj2fxK) | 2:14 |
 
-Snapshot ID: `AAAAAHn1uDivqnIzzgW0A5E6Q1uBsuvO`
+Snapshot ID: `AAAAAAjQ438Ta37WRlbSkXcwolvZF7z7`

@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 907072,
+  "num_followers": 907177,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAAldPmttrZYkwsbyEsULoUp",
+  "snapshot_id": "aSzagAAAAACIjTVgyXqHcEhyOa/HXwGx",
   "tracks": [
     {
       "added_at": null,
@@ -562,15 +562,11 @@
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        },
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 223760,
-      "name": "Does To Me (feat. Eric Church)",
-      "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
+      "duration_ms": 195093,
+      "name": "Lovin' On You",
+      "url": "https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp"
     },
     {
       "added_at": null,
@@ -634,11 +630,15 @@
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 195093,
-      "name": "Lovin' On You",
-      "url": "https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp"
+      "duration_ms": 223760,
+      "name": "Does To Me (feat. Eric Church)",
+      "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,055 likes - 268 songs - 15 hr 15 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,055 likes - 271 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -276,5 +276,8 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 266 | [Is This Love](https://open.spotify.com/track/3qkIQpy37KifoBtajiiTYN) | [Stoned Waves](https://open.spotify.com/artist/6C2X50bk3vmp75os3ZQNPs) | [Until the Planets Crash](https://open.spotify.com/album/7jzDqWgpugP45YLUb24gtN) | 5:11 |
 | 267 | [Shortchanged Even Shorter](https://open.spotify.com/track/3yUpbRXgwt0yftpRTlfeRK) | [FILIBUSTER](https://open.spotify.com/artist/67XEaD84geoRWd6v4kno3L) | [Shortchanged Even Shorter](https://open.spotify.com/album/4imrwR8PREQhfAsQKkfIeE) | 3:03 |
 | 268 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 |
+| 269 | [Piras](https://open.spotify.com/track/1zfvzrHSoyScG5H9tWhpY9) | [No Drop For Us](https://open.spotify.com/artist/4miQtink0mV5twP3iWXFlw) | [Antesis, Pt\. 2](https://open.spotify.com/album/2VsJwTv5rzrQ4jMAdlesz0) | 2:58 |
+| 270 | [Zero Bullshit](https://open.spotify.com/track/1o0CgT5iLjXXhaQ7IcYHl6) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Zero Bullshit](https://open.spotify.com/album/5BGxbWMYET1qi1aNQ0esDz) | 4:02 |
+| 271 | [Silhouette Dans Le Désert](https://open.spotify.com/track/1nYPDlyYuMLqMFrIUOSDhG) | [Pixel In A Box](https://open.spotify.com/artist/3cBTA11xDzx4RJH9ST1U2s) | [Silhouette Dans Le Désert](https://open.spotify.com/album/1zApmSAcMWqHzUtSLPecmG) | 3:42 |
 
-Snapshot ID: `AAAH6BRv23Tx7mmDS83osv0AMSidCEm7`
+Snapshot ID: `AAAH6/LDGERfEZhdbR0DEmnVJWnhLhxr`

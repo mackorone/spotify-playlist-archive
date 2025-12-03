@@ -5145,6 +5145,28 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/3UA4zhPsqRHungaY4m9hp3"
+      },
+      "artists": [
+        {
+          "name": "Boris Way",
+          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+        },
+        {
+          "name": "Zans",
+          "url": "https://open.spotify.com/artist/6D7wW45mKNEFhf4vkXv79x"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158570,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0lxaE62v5sW1FtSfN3qFGd"
+    },
+    {
+      "album": {
         "name": "More Amor Por Favor",
         "url": "https://open.spotify.com/album/3mus1ZKMKim10fbXVXyXvO"
       },

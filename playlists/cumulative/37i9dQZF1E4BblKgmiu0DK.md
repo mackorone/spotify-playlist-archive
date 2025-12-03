@@ -2,7 +2,7 @@
 
 ### [Renee Cassar Radio](https://open.spotify.com/playlist/37i9dQZF1E4BblKgmiu0DK)
 
-> With Orion Cross, real silent bloom, Cherri Bomb and more
+> With blazingfairis, Orion Cross, Die Mannequin and more
 
 136 songs - 7 hr 6 min
 

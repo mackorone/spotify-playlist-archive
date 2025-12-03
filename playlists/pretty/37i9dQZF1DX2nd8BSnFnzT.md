@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Capital Inicial
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,179 likes - 76 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,115 likes - 76 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

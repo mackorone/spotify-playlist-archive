@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "FX De La Rose",
+        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235613,
+      "name": "1204",
+      "url": "https://open.spotify.com/track/1CT5RvstERTDnM12h89mMN"
+    },
+    {
+      "album": {
         "name": "Pitcher",
         "url": "https://open.spotify.com/album/2k98cU83ZXIFQpAikP1xyU"
       },
@@ -4061,6 +4083,24 @@
     },
     {
       "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+    },
+    {
+      "album": {
         "name": "BUENAS NOCHES",
         "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
       },
@@ -5196,7 +5236,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
@@ -5859,6 +5899,32 @@
     },
     {
       "album": {
+        "name": "VIVIR PA' QUEDARSE",
+        "url": "https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245217,
+      "name": "DESDE 0",
+      "url": "https://open.spotify.com/track/3IfAANbZ6YqkEF009VukMB"
+    },
+    {
+      "album": {
         "name": "Natti Natasha en Amargue",
         "url": "https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9"
       },
@@ -6242,7 +6308,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 130506,
       "name": "Dios Es Un Stalker",
       "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
@@ -7806,7 +7872,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 199399,
       "name": "En Privado",
       "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
@@ -8614,6 +8680,24 @@
       "duration_ms": 183157,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww"
+    },
+    {
+      "album": {
+        "name": "Eye Of The Tiger",
+        "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243773,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
     },
     {
       "album": {
@@ -11144,7 +11228,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "IA",
       "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
@@ -14318,7 +14402,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 187160,
       "name": "M U S A E L E V \u00c1",
       "url": "https://open.spotify.com/track/7vPsviPvbWsFd9VuftF5JT"
@@ -15040,7 +15124,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 168209,
       "name": "Me Mareo",
       "url": "https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr"
@@ -18363,6 +18447,32 @@
     },
     {
       "album": {
+        "name": "PINKY PROMISE 2",
+        "url": "https://open.spotify.com/album/5D9814ry3IMoiArNV7dwng"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "Pana YMB",
+          "url": "https://open.spotify.com/artist/2e2yLgFeLOTjYE7sa15SEb"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181374,
+      "name": "PINKY PROMISE 2",
+      "url": "https://open.spotify.com/track/6hFzA2zbArwtGpmTQEsxnn"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -19006,7 +19116,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 171813,
       "name": "QUE HACES",
       "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
@@ -19086,7 +19196,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 154090,
       "name": "Que Sensaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz"
@@ -22016,7 +22126,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
@@ -22034,7 +22144,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 237146,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G"
@@ -23090,7 +23200,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 239920,
       "name": "Te entiendo",
       "url": "https://open.spotify.com/track/6uSIn5SVmUwile8TXoYMe6"
@@ -23742,7 +23852,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -24214,6 +24324,24 @@
       "duration_ms": 165527,
       "name": "Todo Contigo",
       "url": "https://open.spotify.com/track/0FLh1ZDsjnoACzBrAVjXT2"
+    },
+    {
+      "album": {
+        "name": "Santa Trinidad",
+        "url": "https://open.spotify.com/album/2YDFvGYKnaUcB5O84yvsvM"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267300,
+      "name": "Todos los Besos",
+      "url": "https://open.spotify.com/track/2vSJKKmOEJQA5tr082p5XX"
     },
     {
       "album": {
@@ -24816,7 +24944,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 110495,
       "name": "TU VAS SIN (fav)",
       "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
@@ -25422,7 +25550,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

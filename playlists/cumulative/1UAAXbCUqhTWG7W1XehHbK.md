@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-132 songs - 7 hr 45 min
+134 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cat](https://open.spotify.com/track/3F13JAmJpksrb4b6Yn9afI) | [Hz](https://open.spotify.com/artist/48r2ayMpyZLDfTEcOP1SDH) | [Cat](https://open.spotify.com/album/53NqTLQtljXFYJZlpgedwo) | 4:08 | 2025-11-25 |  |
 | [Cellar Door](https://open.spotify.com/track/21EAEMxSiiC8R9U4GMpN7I) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY) | 2:43 | 2025-11-14 |  |
 | [Collage Extraordinaire](https://open.spotify.com/track/6764C8IjGOlNRn3bM2UTea) | [Dustin Morris](https://open.spotify.com/artist/7HbQJe2NOklqhq93AhCfKO) | [Collage Extraordinaire](https://open.spotify.com/album/3atlAT05mjqVrtNoE0BkPx) | 3:53 | 2025-10-10 |  |
+| [Come Out](https://open.spotify.com/track/4MePv6tLO4aFyFjkm1m1dc) | [This Is Love](https://open.spotify.com/artist/3T0I2xTHjHXFnGJJmvrkQw) | [Come Out](https://open.spotify.com/album/1pJioJgZeEVjsuuJvNVbyv) | 3:24 | 2025-12-02 |  |
 | [Digital Edition \(Game Over\)](https://open.spotify.com/track/1xGcg2b4FEezQzt2wROeLx) | [EsumMusic](https://open.spotify.com/artist/4URGAY6N1o1FdhvpqETIk0) | [Digital Edition \(Game Over\)](https://open.spotify.com/album/6FxCeenvcf2fMyyusfzP4G) | 3:30 | 2025-11-18 |  |
 | [Don't You Hear The Thunder?](https://open.spotify.com/track/06HkYDEsJfMNdcmckSUKB6) | [T\. Priestly](https://open.spotify.com/artist/3gize5K5bvjew2P9BpIMgx) | [Don't You Hear The Thunder?](https://open.spotify.com/album/7oYE5hXoMiwpcNs54TqobZ) | 2:56 | 2025-11-14 |  |
 | [Double Trouble](https://open.spotify.com/track/35gpDSDqmXHN3tJMhpyDpU) | [AYU](https://open.spotify.com/artist/1sjcTXZESni2B5F8LERoSw) | [Double Trouble](https://open.spotify.com/album/2z7YuskJOQOLrT3DJIjyxF) | 3:32 | 2025-10-15 |  |
@@ -92,6 +93,7 @@
 | [Pain Without A Cause \- Remix](https://open.spotify.com/track/1pFzM8ZrizfvpaHZlpEFJT) | [Daniel Joseph Chiasson](https://open.spotify.com/artist/75rcoZN43VsmGiFeqewZnK) | [Pain Without A Cause \(Remix\)](https://open.spotify.com/album/5rc0VPZofD3SIz7xOrPXfU) | 3:04 | 2025-11-13 |  |
 | [Pale Ghost in a Chrome Bed,](https://open.spotify.com/track/1ZBWzJEHU22ABK1ykSaASn) | [Vincent Coomans](https://open.spotify.com/artist/2Cyheo9UBds3X4lHvL3kUg) | [Pale Ghost in a Chrome Bed](https://open.spotify.com/album/02c7ijM3Alx3w7NKcYBUAu) | 3:59 | 2025-11-18 |  |
 | [Picture](https://open.spotify.com/track/3ZgFdfKBrD643K2BrKNsEH) | [Alla Igityan](https://open.spotify.com/artist/3LPpadMH7fmELWrIbagKon) | [Picture](https://open.spotify.com/album/4i6l5QvEXRRaof4SQFfWmH) | 3:20 | 2024-09-09 |  |
+| [Pygmalion](https://open.spotify.com/track/3q5iE5DGjm52i3KawsnbNe) | [SoliAres](https://open.spotify.com/artist/2y5fGjgsbruMPGTfrh2S7B) | [Pygmalion](https://open.spotify.com/album/4XRfovNWHvvqmBc8O3uXiI) | 3:18 | 2025-12-02 |  |
 | [Qué](https://open.spotify.com/track/0lUqFiMk0tBvz4RpWnvC1V) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto I](https://open.spotify.com/album/07e5UtPSZL1Mq5FT9kUqvS) | 4:02 | 2025-08-27 |  |
 | [Rainbow Eyes](https://open.spotify.com/track/0MfSlR26pT9XLhfOCopd6Q) | [WUHA](https://open.spotify.com/artist/2Xa5A0dIwmZt8OBZrTv4qQ) | [Rainbow Eyes](https://open.spotify.com/album/0CkBTvg99uxGiUUSiNbb2h) | 3:42 | 2025-11-11 |  |
 | [Rapapa Papam](https://open.spotify.com/track/31eiGVDcWVncSpj5cAkpFF) | [Glad](https://open.spotify.com/artist/02JizfSPTHzoiZUJDRXjIf) | [Rapapa Papam](https://open.spotify.com/album/2rdM5JfJHkeGI6rNHr17ah) | 2:36 | 2025-11-24 |  |

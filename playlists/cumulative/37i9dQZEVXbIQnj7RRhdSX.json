@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 127499,
       "name": "7ELEVEN",
       "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
@@ -2982,7 +2982,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 213800,
       "name": "Amaro",
       "url": "https://open.spotify.com/track/15ZWSMDQMfBKVn4zurLX7k"
@@ -4730,7 +4730,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 158029,
       "name": "BACK AGAIN",
       "url": "https://open.spotify.com/track/7yKUEpeGG8pgpSVTV45KGQ"
@@ -5226,7 +5226,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 180302,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/4J2Kj3VyYt6OYwQg7AN6G2"
@@ -6728,7 +6728,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 242062,
       "name": "BLOODYMARY (feat. Jake La Furia & Conway The Machine)",
       "url": "https://open.spotify.com/track/6L82zFTVpgaIDuN7S8z6jL"
@@ -15832,7 +15832,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 171891,
       "name": "DRUGSTORE (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/7eMFQsiZPEm4i42mhNdE0X"
@@ -16136,7 +16136,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 224666,
       "name": "DUOMO",
       "url": "https://open.spotify.com/track/4vamBYGnZNodN7lp2Ma6iL"
@@ -16626,7 +16626,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -16866,6 +16866,24 @@
       "duration_ms": 179640,
       "name": "Escort Lover (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/25VE5f1ackN7KMoiuIEgQA"
+    },
+    {
+      "album": {
+        "name": "MA IO SONO FUOCO",
+        "url": "https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Esibizionista",
+      "url": "https://open.spotify.com/track/16mdISuTFms1vnxc8gXyQu"
     },
     {
       "album": {
@@ -17184,7 +17202,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 184981,
       "name": "Ex (feat. Elodie)",
       "url": "https://open.spotify.com/track/4FzATCTq4TYeQfUsoCjxh6"
@@ -18116,7 +18134,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 181794,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -20586,7 +20604,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 146545,
       "name": "GIORNATA STORTA",
       "url": "https://open.spotify.com/track/0qdThMxcAjDHQGHxuvVrhp"
@@ -22614,7 +22632,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
@@ -25410,7 +25428,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -25454,7 +25472,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -26436,7 +26454,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 189275,
       "name": "Kriminal - Prod. by Roberto Ferrante",
       "url": "https://open.spotify.com/track/0pxwzHAlnK86CIfDbbJLr4"
@@ -29350,7 +29368,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -39406,7 +39424,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 303032,
       "name": "Ora che non ho pi\u00f9 te",
       "url": "https://open.spotify.com/track/25idOmfSOCGGdgPhw9iCRm"
@@ -40866,7 +40884,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 170571,
       "name": "PAZZA IDEA (feat. Achille Lauro)",
       "url": "https://open.spotify.com/track/3dykyedkNzBu5VpfAFBCgp"
@@ -46102,7 +46120,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -46396,7 +46414,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 180137,
       "name": "Scarabocchi",
       "url": "https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO"
@@ -48138,7 +48156,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -48340,7 +48358,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -52318,7 +52336,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 163541,
       "name": "Tocco Pitocco",
       "url": "https://open.spotify.com/track/0gYffd4envdyCft10iF45g"
@@ -54088,7 +54106,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 113793,
       "name": "ULTIMO BANCO",
       "url": "https://open.spotify.com/track/1fxpnCsLaCs3SNYtl3wGNk"
@@ -54676,7 +54694,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"

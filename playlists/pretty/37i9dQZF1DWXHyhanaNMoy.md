@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: GIMS✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,764 likes - 77 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,737 likes - 77 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

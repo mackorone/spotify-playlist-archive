@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-387 songs - 21 hr 38 min
+388 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Awash](https://open.spotify.com/track/4vU5TfGGHeIwKVzWSov8TM) | [Manual](https://open.spotify.com/artist/57OTTQNo2lt78ydJsxwOLm) | [Awash](https://open.spotify.com/album/5G1QrK23ZwsQrKDjpbVNo7) | 5:39 | 2020-12-08\* | 2021-05-27 |
 | [Back to the Start](https://open.spotify.com/track/10yIs9zsN0BNnXJpejnZ2v) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Back to the Start \- Single](https://open.spotify.com/album/5nIpv7xaUzcjTyp3V1jgd9) | 4:46 | 2021-01-15 | 2022-07-29 |
 | [Back to the Start](https://open.spotify.com/track/4Pdnt4VOAv26b1ILvtAoRj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves \(Deluxe Version\)](https://open.spotify.com/album/3u63zDEJeJaxwSixfMCGRD) | 4:47 | 2022-07-22 | 2023-02-27 |
+| [Balance in Bloom](https://open.spotify.com/track/2PTZ2mIRsL4yKY0nsn1AJN) | [Ursae Minoris](https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo) | [Balance in Bloom](https://open.spotify.com/album/1xhhGOCmwut1qth5LOusjH) | 2:58 | 2025-10-01 |  |
 | [Beautiful Design](https://open.spotify.com/track/1Vnqd9ySFHFnXUuOeflQqr) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Beautiful Design](https://open.spotify.com/album/49owziR1u29dhr8009A3ey) | 3:18 | 2025-05-14 |  |
 | [Becoming](https://open.spotify.com/track/03UL1scBVN2RB1ZcRaVAPE) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for Dying Earth](https://open.spotify.com/album/3kRQEsk9IVeoHmgN9kGReU) | 1:25 | 2020-12-08\* | 2021-09-22 |
 | [believer](https://open.spotify.com/track/1wt1hh3O4qKFvANKQWd3HE) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [believer](https://open.spotify.com/album/2SkOFDz5z5d9Hrm9pwkQ6h) | 2:16 | 2025-05-14 |  |
@@ -114,7 +115,7 @@
 | [Doorways](https://open.spotify.com/track/1XY8MZaDrG873CbAlwrQSd) | [lucen](https://open.spotify.com/artist/6UlxeucXP4ODooKUwGZUNj) | [Doorways](https://open.spotify.com/album/2VdwWQREipL22ZfWYhCX7m) | 1:49 | 2025-07-15 |  |
 | [Dormio](https://open.spotify.com/track/5KrtsbUaDBPE0aFpxw4I0T) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Dormio](https://open.spotify.com/album/3yYe7uQZsi7NsACNFzItNh) | 2:39 | 2021-10-14 | 2024-09-29 |
 | [Dream Traveler](https://open.spotify.com/track/4qq5zkuRXq17ycXLBiFqC5) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Dream Traveler](https://open.spotify.com/album/1pF8o1asO5oWDoCG0DZZdZ) | 2:20 | 2024-05-10 |  |
-| [Dreamsurf](https://open.spotify.com/track/0zUsN77HWaBujNAcMD4GUW) | [DIYFi](https://open.spotify.com/artist/1X177snoetl4cpyQ34snta) | [Dreamsurf](https://open.spotify.com/album/5moBUjTC86nclsprlXZRf8) | 2:56 | 2025-10-01 |  |
+| [Dreamsurf](https://open.spotify.com/track/0zUsN77HWaBujNAcMD4GUW) | [DIYFi](https://open.spotify.com/artist/1X177snoetl4cpyQ34snta) | [Dreamsurf](https://open.spotify.com/album/5moBUjTC86nclsprlXZRf8) | 2:56 | 2025-10-01 | 2025-12-03 |
 | [Dreamswept EMDR](https://open.spotify.com/track/1pm2NByStw6o5v0nSGxHDz) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Dreamswept EMDR](https://open.spotify.com/album/3Tka75HuqaHbF12ZCkfoF7) | 3:32 | 2025-05-14 |  |
 | [Dreamt](https://open.spotify.com/track/5oseLW3JhRqLLyTmqmyghU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3) | 3:59 | 2022-07-22 | 2024-04-19 |
 | [Dreamt](https://open.spotify.com/track/7yzWKf2adZoNKsLu3UxXjv) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T) | 3:59 | 2020-12-08\* | 2022-07-29 |

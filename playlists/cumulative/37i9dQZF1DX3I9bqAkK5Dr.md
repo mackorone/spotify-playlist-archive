@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath Kiran Goparaaju
 
-435 songs - 1 day 2 hr 4 min
+436 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Choopultho](https://open.spotify.com/track/37G3Mabw6o250OpJX24vTp) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Choopultho](https://open.spotify.com/album/55Ik0PjSYOhVnb7yfyV1Rk) | 2:13 | 2024-02-14 | 2024-04-02 |
 | [Choosthunna Choosthunna](https://open.spotify.com/track/1KSM8nh7qcMk9DC9BxyMKt) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [From The Bottom of My Heart](https://open.spotify.com/album/5uLM5Pxs42aenO0tcqoYNP) | 3:17 | 2023-03-01 | 2023-06-20 |
 | [Chukkalalo Chandruni Laga](https://open.spotify.com/track/2gLUUpbfzTYj2tQrXN7DID) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Chukkalalo Chandruni Laga](https://open.spotify.com/album/2yk4ThTqDGHqCW9qT9s4cf) | 2:55 | 2024-05-27 | 2024-07-20 |
-| [Chusa Chusa](https://open.spotify.com/track/63r17MDwPquKTBIjhC47tu) | [Rohit Boddapati](https://open.spotify.com/artist/3uMBcVVwdo2AlBH1GMfAie), [Sunitha Upadrasta](https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE) | [Chusa Chusa](https://open.spotify.com/album/7AphFYJdbcS8VUrML5qUbL) | 4:46 | 2025-09-22 |  |
+| [Chusa Chusa](https://open.spotify.com/track/63r17MDwPquKTBIjhC47tu) | [Rohit Boddapati](https://open.spotify.com/artist/3uMBcVVwdo2AlBH1GMfAie), [Sunitha Upadrasta](https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE) | [Chusa Chusa](https://open.spotify.com/album/7AphFYJdbcS8VUrML5qUbL) | 4:46 | 2025-09-22 | 2025-12-03 |
 | [Chusaane Eevele](https://open.spotify.com/track/46Um0yvfG4sTaqZMGZdVq6) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Chusaane Eevele](https://open.spotify.com/album/5khSYBDWpdAiglRtrMCIba) | 3:07 | 2023-05-08 | 2024-01-04 |
 | [Chusaane Eevele](https://open.spotify.com/track/5xB8uAKjvql9Hfz84G4z2E) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Chusaane Eevele](https://open.spotify.com/album/2Tg3MXvSWCkJ4tFf40fdLQ) | 3:07 | 2023-05-08 | 2024-03-27 |
 | [Chusuko](https://open.spotify.com/track/0Naz1VxWjkVV5qcLrtiDGy) | [Anvesh Rao Kagitala](https://open.spotify.com/artist/3D6RCMROowyiD8tHKdKpOn), [Yasaswi Kondepudi](https://open.spotify.com/artist/3ceCS03lkWe0Zlxe2r22mj), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Chusuko](https://open.spotify.com/album/6d2U54GVNlx9Utip7qyE7F) | 3:59 | 2024-02-26 | 2024-04-09 |
@@ -87,6 +87,7 @@
 | [Eeroje](https://open.spotify.com/track/3bVDOouNAzL5tHsISeCbgw) | [Fleep & Arin](https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl) | [Eeroje](https://open.spotify.com/album/1wfq34tbWY4qN4ojUJJ81F) | 3:08 | 2024-11-29 | 2025-04-24 |
 | [Em Mantramo](https://open.spotify.com/track/5bPh0qRKt19LMSz3YN6G1V) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf), [Sherni](https://open.spotify.com/artist/4Zw7oOYwz6P9NHJP5NGnWS) | [Em Mantramo](https://open.spotify.com/album/4TcOrl0eAyJTtCMqHIcxFh) | 2:53 | 2023-12-19 | 2024-05-11 |
 | [Em Ra Balraju Heavy Dose](https://open.spotify.com/track/4mmmsCgcZ6OQi5s0pyK9Ey) | [Sharwan Swain](https://open.spotify.com/artist/1RgodyRIVuzKzKY5fNfrwB) | [Em Ra Balraju Heavy Dose](https://open.spotify.com/album/1WQbnAg3CvQV7DADCoZ19R) | 2:36 | 2025-04-23 | 2025-06-13 |
+| [Em Tech Ra B Tech](https://open.spotify.com/track/6SA8q9gHqnO0352sPHz8cP) | [Prem](https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l) | [Em Tech Ra B Tech](https://open.spotify.com/album/7aR1rjE3DjkdAgd34MPj6z) | 3:53 | 2025-12-02 |  |
 | [Emone](https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Emone](https://open.spotify.com/album/2WcXXGGJiY1ID6JsVx2c1f) | 5:28 | 2023-02-02 | 2025-10-04 |
 | [Endukala \(Lovers No More\)](https://open.spotify.com/track/6WavcWZXgeh0cvGvkh5tS6) | [Alluri](https://open.spotify.com/artist/1MJd59IWbIWtj6CdlJhWG8) | [O Katha](https://open.spotify.com/album/4mj1O1w8H5TjhoYWzyKxYC) | 3:25 | 2024-02-02 | 2024-04-06 |
 | [Ennenni Chitralu Chesave](https://open.spotify.com/track/5W4Wm1O3ShKn6uBzskh4TE) | [BG Shirdi](https://open.spotify.com/artist/1JeCUmcHMT3B8PUndozsMt), [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2) | [Ennenni Chitralu Chesave](https://open.spotify.com/album/6PsFOsPksHBSGE17dkDVSU) | 3:40 | 2024-07-29 | 2024-08-24 |

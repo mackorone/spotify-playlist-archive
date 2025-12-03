@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-373 songs - 19 hr 10 min
+374 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 | 2021-12-18 | 2025-02-26 |
 | [Majha Malwa](https://open.spotify.com/track/3SJTSI4YYcAqHPxwoTzuPc) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Majha Malwa](https://open.spotify.com/album/3VBpU3AUhN2OLsuGBmuLNp) | 2:53 | 2024-10-04 | 2024-11-05 |
 | [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2022-01-10 | 2024-10-02 |
-| [Makhni Wargi](https://open.spotify.com/track/3Xt0pDOVFTYOrNN2ozxfmp) | [Masha Ali](https://open.spotify.com/artist/3xPUYrDgDJb1lQ17YYwcfd), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X) | [Makhni Wargi](https://open.spotify.com/album/16qN57oMFBly1c3hw7pGPn) | 4:12 | 2025-04-08 |  |
+| [Makhni Wargi](https://open.spotify.com/track/3Xt0pDOVFTYOrNN2ozxfmp) | [Masha Ali](https://open.spotify.com/artist/3xPUYrDgDJb1lQ17YYwcfd), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X) | [Makhni Wargi](https://open.spotify.com/album/16qN57oMFBly1c3hw7pGPn) | 4:12 | 2025-04-08 | 2025-12-03 |
 | [MALAYI WARGI](https://open.spotify.com/track/04f2KFYjBARqShVTvG4htv) | [Deep Bajwa](https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Prithvi Missile](https://open.spotify.com/album/2OS2Tw88npn817gUub8Qxx) | 3:03 | 2025-01-08 |  |
 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 | 2021-12-18 | 2025-02-26 |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2021-12-18 | 2025-02-20 |
@@ -345,6 +345,7 @@
 | [Teesi](https://open.spotify.com/track/6HBZnstI3gzT5gFvCHUkF0) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Jaadugar](https://open.spotify.com/album/3eWBtoZp2c2skkiEuz4YSQ) | 3:13 | 2025-05-02 |  |
 | [Tell Me Honestly](https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Tell Me Honestly](https://open.spotify.com/album/3JpW1WY2iNxgVGUNQFw37S) | 3:45 | 2025-02-06 |  |
 | [Tera Canada](https://open.spotify.com/track/7ghypi2mLGlUPzwbcfPTNe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Tera Canada](https://open.spotify.com/album/01bK2JE8QRNyNA6Tb79j3Z) | 3:20 | 2023-09-01 | 2024-02-01 |
+| [Tere Naal](https://open.spotify.com/track/2ZtwIHxwBuC0DqnupyHmQY) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k) | [Tere Naal](https://open.spotify.com/album/17gV2EL0aOUi8BFCZ1iCyC) | 3:33 | 2025-12-01 |  |
 | [Teri Jatti](https://open.spotify.com/track/4z2tsk5xr3lgk9oMOHqixc) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Teri Jatti](https://open.spotify.com/album/0Zk3kP2aRCnklHxq9Gs4q1) | 2:35 | 2025-01-08 |  |
 | [The Bull Walk 2](https://open.spotify.com/track/2NZOEgSzJxXGmzltOt8c7y) | [Kabir Sandhu](https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3), [Raja Kang](https://open.spotify.com/artist/5KCHRPbzx9DQHpCv9i4PFs) | [The Bull Walk 2](https://open.spotify.com/album/1ToKW8En2i6lKeOoLeXCO3) | 2:58 | 2025-01-31 | 2025-03-18 |
 | [The Power](https://open.spotify.com/track/6eMV39PSv1N55Ncab1hxrw) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Momentum](https://open.spotify.com/album/4mUiFIvBPUPNI8bedILhpt) | 3:00 | 2025-03-19 | 2025-03-23 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
-  "num_followers": 888624,
+  "num_followers": 888866,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAC8PG4aUh6VyM7tZOsDIHUu",
+  "snapshot_id": "aSzagAAAAABXjMG5bQ70VLOpI1gGFy8b",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Decisi\u00f3n",
-        "url": "https://open.spotify.com/album/1oLoLphydD0kRsMnTvP8NM"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 183456,
-      "name": "Mi Decisi\u00f3n",
-      "url": "https://open.spotify.com/track/7sh3XoqpbDU62VcWHD7mNP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Diablo Ni Santo",
         "url": "https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 220333,
       "name": "La Sonrisa Obligatoria",
       "url": "https://open.spotify.com/track/1nBOAbDuCryfokrS40T6w2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/1oLoLphydD0kRsMnTvP8NM"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 183456,
+      "name": "Mi Decisi\u00f3n",
+      "url": "https://open.spotify.com/track/7sh3XoqpbDU62VcWHD7mNP"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Este Soy Yo",
-        "url": "https://open.spotify.com/album/3IXBzEwmjXkg6mIUdGNlUn"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "Cuando Te Ame",
-      "url": "https://open.spotify.com/track/0yO1khcEJBMqEuW9dyVLKS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Diablo Ni Santo",
         "url": "https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 179106,
       "name": "Afuera Est\u00e1 Lloviendo",
       "url": "https://open.spotify.com/track/3z6s6qPDYCpW44Zfpy4HWS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Este Soy Yo",
+        "url": "https://open.spotify.com/album/3IXBzEwmjXkg6mIUdGNlUn"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Cuando Te Ame",
+      "url": "https://open.spotify.com/track/0yO1khcEJBMqEuW9dyVLKS"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/2AXbpqGa1iELh2NhmewQKn"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "7 Vidas",
-      "url": "https://open.spotify.com/track/7xdVoNuJ67iuEhMFi6pDzo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coraz\u00f3n M\u00e1gico",
         "url": "https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI"
       },
@@ -395,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/2AXbpqGa1iELh2NhmewQKn"
       },
       "artists": [
         {
@@ -404,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 166200,
-      "name": "Y As\u00ed Fue",
-      "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
+      "duration_ms": 177160,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7xdVoNuJ67iuEhMFi6pDzo"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 128177,
       "name": "Coraz\u00f3n Malo",
       "url": "https://open.spotify.com/track/4ta6IEXPLgo20X6HzicCee"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Y As\u00ed Fue",
+      "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoro",
-        "url": "https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 144945,
-      "name": "Tesoro",
-      "url": "https://open.spotify.com/track/31P3j9wpYX6e7eB2P95dyL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfQui\u00e9n?",
         "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 167103,
       "name": "Noches Amargas",
       "url": "https://open.spotify.com/track/3RdIoywt4oDQgMf3L5rsDc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tesoro",
+        "url": "https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 144945,
+      "name": "Tesoro",
+      "url": "https://open.spotify.com/track/31P3j9wpYX6e7eB2P95dyL"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atento Aviso ... Rey Sin Reina",
-        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 154918,
-      "name": "Ya No",
-      "url": "https://open.spotify.com/track/3AnmzU0AFDi4XkAk7aGJD3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "42 18",
         "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 151787,
       "name": "Due\u00f1a De Mis Besos",
       "url": "https://open.spotify.com/track/22SjQwvk02AqkPuwQukDnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 154918,
+      "name": "Ya No",
+      "url": "https://open.spotify.com/track/3AnmzU0AFDi4XkAk7aGJD3"
     },
     {
       "added_at": null,

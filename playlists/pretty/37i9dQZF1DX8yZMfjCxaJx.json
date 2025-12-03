@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Panter B\u00e9lico en portada.",
-  "num_followers": 226770,
+  "num_followers": 226929,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Si Estuviera el G\u00fcero",
-        "url": "https://open.spotify.com/album/1nlJJxuK9NlGUVwOCvLkee"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 245632,
-      "name": "Si Estuviera el G\u00fcero",
-      "url": "https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "NO QUE NO",
         "url": "https://open.spotify.com/album/26GjwBUtY7YmULJpMuiWoN"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 149655,
       "name": "NO QUE NO",
       "url": "https://open.spotify.com/track/4jcRduigE9cWdQ4i8TLAy4"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "Si Estuviera el G\u00fcero",
+        "url": "https://open.spotify.com/album/1nlJJxuK9NlGUVwOCvLkee"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 245632,
+      "name": "Si Estuviera el G\u00fcero",
+      "url": "https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "DINERAL",
-        "url": "https://open.spotify.com/album/68mbDIj6DitHfWWAQnleWK"
-      },
-      "artists": [
-        {
-          "name": "Jasson Arellano",
-          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
-        }
-      ],
-      "duration_ms": 222743,
-      "name": "EL AGUACATE",
-      "url": "https://open.spotify.com/track/55mYirvdiqvqyqqyoN2u5s"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "Le Apodan El Fresa",
         "url": "https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 175466,
       "name": "Toca Batear",
       "url": "https://open.spotify.com/track/0EL55H47sEoiuwaRoOC68O"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "DINERAL",
+        "url": "https://open.spotify.com/album/68mbDIj6DitHfWWAQnleWK"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        }
+      ],
+      "duration_ms": 222743,
+      "name": "EL AGUACATE",
+      "url": "https://open.spotify.com/track/55mYirvdiqvqyqqyoN2u5s"
     },
     {
       "added_at": "2025-11-07 18:00:12",

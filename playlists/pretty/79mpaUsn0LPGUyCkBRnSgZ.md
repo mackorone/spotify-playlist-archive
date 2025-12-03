@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 614 songs - 1 day 16 hr 8 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 613 songs - 1 day 16 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -617,10 +617,9 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 607 | [Stuck Up](https://open.spotify.com/track/4Uks2w1MDbQ5My5sX7aEbc) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 2:31 |
 | 608 | [WTF](https://open.spotify.com/track/0ypCWHU4s5A994P2wOAyCw) | [Wnc Whopbezzy](https://open.spotify.com/artist/0JW2Wt06NncqOxA905C7Z3), [70th Street Carlos](https://open.spotify.com/artist/04snbKLIDFOfonc9j12eBz) | [Out The Blue](https://open.spotify.com/album/3KKMvgqLmT7jkgkOCduqQp) | 2:28 |
 | 609 | [Route 9 Falls](https://open.spotify.com/track/3W3pQ9x7vrash9u6HdJsmD) | [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m), [D.S.](https://open.spotify.com/artist/2QvOUTt74YgZZ8yGX5zcth) | [A Shaw Deal](https://open.spotify.com/album/0LTgLf33O37dyR6FQX3kaP) | 4:06 |
-| 610 | [Coast](https://open.spotify.com/track/51qSkFx8D2dyWERxGQ44My) | [Snocaps](https://open.spotify.com/artist/6kYyxNv4xNafn6AMAt6qTE), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Allison Crutchfield](https://open.spotify.com/artist/1zIiCQLbCV0la5eLdT0FIj) | [Snocaps](https://open.spotify.com/album/1fevi1JMVt1PVIMh5Z80ad) | 2:23 |
-| 611 | [Agnus Dei](https://open.spotify.com/track/22iFfneMU95dpTN8g0y1Rb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/3xxkjx6Hgl8sWpNfuqhHtD) | 5:33 |
-| 612 | [Fine Line](https://open.spotify.com/track/4PyGMMfh9MiiFOPVyAikar) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Chaos And Creation In The Backyard](https://open.spotify.com/album/0XcNHzWiVE1RAQrQ4tvtOZ) | 3:05 |
-| 613 | [Gone Under Sea](https://open.spotify.com/track/0s2fkGnkRf7uWaRiK4TrnW) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:12 |
-| 614 | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/track/6ZwdMyNfYEejW0ADt7pZy8) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 2:54 |
+| 610 | [Agnus Dei](https://open.spotify.com/track/22iFfneMU95dpTN8g0y1Rb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/3xxkjx6Hgl8sWpNfuqhHtD) | 5:33 |
+| 611 | [Fine Line](https://open.spotify.com/track/4PyGMMfh9MiiFOPVyAikar) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Chaos And Creation In The Backyard](https://open.spotify.com/album/0XcNHzWiVE1RAQrQ4tvtOZ) | 3:05 |
+| 612 | [Gone Under Sea](https://open.spotify.com/track/0s2fkGnkRf7uWaRiK4TrnW) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:12 |
+| 613 | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/track/6ZwdMyNfYEejW0ADt7pZy8) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 2:54 |
 
-Snapshot ID: `AAAIFXP7QNfenZLc8ZCsf5tyK6cxG2As`
+Snapshot ID: `AAAIFhSmT6SwkLdZc4Yu9SX4koehm7la`

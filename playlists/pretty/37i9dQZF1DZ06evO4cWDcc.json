@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 323749,
+  "num_followers": 323771,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACdwH1smrYLAgkpwte/tC41",
+  "snapshot_id": "aSzagAAAAAAK3B+gBHC88akBJtTMFS5h",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
+        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 35906,
+      "name": "Play That Riff - Anthology Version",
+      "url": "https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rainbow Bridge",
         "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Groovy Children: The Fillmore East Concerts",
-        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 533672,
-      "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
-      "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
-        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
+        "name": "Songs For Groovy Children: The Fillmore East Concerts",
+        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
       },
       "artists": [
         {
@@ -724,25 +724,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 35906,
-      "name": "Play That Riff - Anthology Version",
-      "url": "https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
-        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Valleys of Neptune",
-      "url": "https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2"
+      "duration_ms": 533672,
+      "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
+      "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
       "duration_ms": 576360,
       "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
       "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
+        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Valleys of Neptune",
+      "url": "https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
-        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 372560,
-      "name": "Straight Ahead - Takes 1 & 2",
-      "url": "https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg"
+      "duration_ms": 232506,
+      "name": "Night Bird Flying",
+      "url": "https://open.spotify.com/track/6qKlw6TyxVkaUZrlJYP8xD"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

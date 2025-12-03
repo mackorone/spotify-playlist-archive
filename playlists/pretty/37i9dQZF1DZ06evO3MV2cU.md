@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,301 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,304 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 19 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 |
 | 20 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 |
 | 21 | [How Great Is Our God](https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 5:49 |
-| 22 | [Forever](https://open.spotify.com/track/6ChFsa3xElTTIJAo460out) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:26 |
-| 23 | [I Lift My Hands](https://open.spotify.com/track/4qGwoTBvRhJ7YGeoQGytJV) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:38 |
+| 22 | [I Lift My Hands](https://open.spotify.com/track/4qGwoTBvRhJ7YGeoQGytJV) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:38 |
+| 23 | [Forever](https://open.spotify.com/track/6ChFsa3xElTTIJAo460out) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:26 |
 | 24 | [Thank You Lord \(feat\. Thomas Rhett & Florida Georgia Line\)](https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:48 |
 | 25 | [10,000 Reasons \(Bless The Lord\)](https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:51 |
-| 26 | [We Fall Down](https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:40 |
-| 27 | [Our God \- Live](https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Awakening \(Live\)](https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54) | 5:28 |
+| 26 | [Our God \- Live](https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Awakening \(Live\)](https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54) | 5:28 |
+| 27 | [We Fall Down](https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:40 |
 | 28 | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:50 |
 | 29 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/7HB2ekhcwwsyZ9Vta4s7LP) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:58 |
 | 30 | [Nobody Loves Me Like You](https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 49 | [Rivers Of Joy](https://open.spotify.com/track/1s4n443aDlakmnobxjJ146) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:01 |
 | 50 | [Power \(feat\. Bear Rinehart of NEEDTOBREATHE\)](https://open.spotify.com/track/0AGM3L1E346dTkLcGMaEdv) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:13 |
 
-Snapshot ID: `aSuJAAAAAABAgqRhU7fLdmbwVTpObvc+`
+Snapshot ID: `aSzagAAAAACJH1XKuUPJ/phN+tFjjw/L`

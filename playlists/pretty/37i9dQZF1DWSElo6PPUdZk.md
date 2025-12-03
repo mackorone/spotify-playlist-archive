@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,096 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,108 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [All Of You](https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [All Of You](https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR) | 2:19 |
 | 50 | [Taur](https://open.spotify.com/track/7wk74Tjsm5TrWfiL2FMIWZ) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Life Mere Wargi](https://open.spotify.com/album/0dvqdE6NfoZB7FTFOpXReJ) | 2:23 |
 
-Snapshot ID: `AAAAADMYW+MYJUDV+S0qjw1ke91yDC8U`
+Snapshot ID: `AAAAAA+K5X0BQX5rUNNFtC4P7ekLBlB4`

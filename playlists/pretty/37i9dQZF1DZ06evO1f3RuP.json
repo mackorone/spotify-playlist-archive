@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAD/PERg9obDEJ+FkbcLo4cu",
+  "snapshot_id": "aSzagAAAAAASCXibY235YjFo5FWSjdKo",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "act up",
-        "url": "https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 128793,
-      "name": "act up",
-      "url": "https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SuperGood",
         "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 231118,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "act up",
+        "url": "https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 128793,
+      "name": "act up",
+      "url": "https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8"
     },
     {
       "added_at": null,
@@ -423,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 130057,
+      "name": "demon time (with BAYLI)",
+      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whirlwind Of Malevolence",
         "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 114484,
       "name": "TELLY BAG",
       "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "demon time",
-        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 130057,
-      "name": "demon time (with BAYLI)",
-      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
     },
     {
       "added_at": null,

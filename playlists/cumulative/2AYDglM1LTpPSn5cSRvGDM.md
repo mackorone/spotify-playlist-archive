@@ -4,7 +4,7 @@
 
 > The best Progressive House for your late night running, cardio, lifting spinning, HIIT, workout experience\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-181 songs - 10 hr 8 min
+182 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [So Hï \(VIP Mix\)](https://open.spotify.com/track/2E4ducuUkzT3utPrfElnUc) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [So Hï \(VIP Mix\)](https://open.spotify.com/album/2BgEBlTxbBl7H1sgqRH5Ae) | 4:20 | 2025-10-09 | 2025-11-15 |
 | [Starry Eyed Surprise](https://open.spotify.com/track/3aWmrNmz5vn2qj864CpFkm) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO) | [Starry Eyed Surprise](https://open.spotify.com/album/6LxeSyeNHN43FcXrI2P0P1) | 2:19 | 2025-10-10 |  |
 | [States Of Flux](https://open.spotify.com/track/5OA1CKlkuzizhwDbhFmdCT) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [States Of Flux](https://open.spotify.com/album/2TdJvoiztJcCR6dhDJSVcd) | 3:54 | 2025-07-11 |  |
+| [Stay Awake](https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stay Awake](https://open.spotify.com/album/5Ev62f2XpQUWw9XdSsYuDL) | 3:28 | 2025-12-02 |  |
 | [Stephanie \- HNTR Remix](https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Stephanie \(HNTR Remix\)](https://open.spotify.com/album/36ugkxRl0vThlv2ytPo1ZD) | 2:25 | 2025-07-11 |  |
 | [Subelo](https://open.spotify.com/track/5szq4GnsvihuuxYrKsdsP2) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Subelo](https://open.spotify.com/album/0DzYWmWK0lBB7RoPmPMvxU) | 3:18 | 2025-08-29 | 2025-10-10 |
 | [Sudden Moves](https://open.spotify.com/track/66trCXtyRcN9izYO6v4jhw) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Embrace](https://open.spotify.com/album/1j3gqj3dvXIrUPTxIk7tqg) | 3:53 | 2025-07-11 |  |

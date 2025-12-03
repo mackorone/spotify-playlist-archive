@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewFzkrJBAo.md) - [plain]
 
 > Spotify×サザンのムードプレイリストシリーズ第2弾。おもわずにやっとするハッピーなサザンのエロティカ・ソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,978 likes - 45 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,980 likes - 45 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

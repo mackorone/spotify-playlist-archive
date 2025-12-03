@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 177316,
+  "num_followers": 177341,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACZhkhbMylvL6RehyDuneI8",
+  "snapshot_id": "aSzagAAAAAAwB+CMl/rM4qc64IoOaqgD",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amarre",
-        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Amarre",
-      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 202000,
       "name": "Tipo Gatsby",
       "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amarre",
+        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Amarre",
+      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
     },
     {
       "added_at": null,
@@ -903,6 +903,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -927,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 203206,
-      "name": "GTA VI",
-      "url": "https://open.spotify.com/track/331SxBmmuoKzQmx8op7Lw5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "E$ENCIA",
         "url": "https://open.spotify.com/album/5LNnHcNU0pQPjCPxRCbKMm"
       },
@@ -959,6 +963,22 @@
       "duration_ms": 222000,
       "name": "Cuando Me Veas Con Alguien",
       "url": "https://open.spotify.com/track/0s7JOp1ffdjxquSyMuNW0v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 203206,
+      "name": "GTA VI",
+      "url": "https://open.spotify.com/track/331SxBmmuoKzQmx8op7Lw5"
     },
     {
       "added_at": null,
@@ -995,22 +1015,6 @@
       "duration_ms": 216525,
       "name": "PICASSO",
       "url": "https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 172241,
-      "name": "NO QUE NO",
-      "url": "https://open.spotify.com/track/7uafvZZJunfhiZFdcFWtc5"
     },
     {
       "added_at": null,

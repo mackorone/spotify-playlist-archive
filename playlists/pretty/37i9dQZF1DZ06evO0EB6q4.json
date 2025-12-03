@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 258292,
+  "num_followers": 258313,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAABQ6f5mRO/WiM+OadbRBrpj",
+  "snapshot_id": "aSzagAAAAABqu0u9fdVQlIWRiRYdkQZh",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contra Todo Pron\u00f3stico",
         "url": "https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 189098,
       "name": "Volvernos a Amar",
       "url": "https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-        "url": "https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 244802,
-      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-      "url": "https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desarmados",
         "url": "https://open.spotify.com/album/6QQSmerojNi78RbZxlyKMW"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 215115,
       "name": "Desarmados",
       "url": "https://open.spotify.com/track/7Mcf8uGggfDxoW2XWVlGns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+        "url": "https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+      "url": "https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB"
     },
     {
       "added_at": null,

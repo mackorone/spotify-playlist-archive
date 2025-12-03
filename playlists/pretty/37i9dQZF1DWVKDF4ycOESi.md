@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Noyz Narcos,  Shiva, Tommaso Pradiso, Ed Sheeran, Venerus con Angelina Mango e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,113 likes - 90 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,112 likes - 90 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

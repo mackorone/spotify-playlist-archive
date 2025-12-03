@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 
 > lost in a haze
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,557 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,559 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 27 | [NIGHT OFF](https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [NIGHT OFF](https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB) | 2:53 |
 | 28 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
 | 29 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
-| 30 | [Someday](https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Someday](https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8) | 2:41 |
-| 31 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 |
-| 32 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
-| 33 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 |
+| 30 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 |
+| 31 | [Someday](https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Someday](https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8) | 2:41 |
+| 32 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 |
+| 33 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
 | 34 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
 | 35 | [Jezebel](https://open.spotify.com/track/5qehd5xIsEaifMFy3jcoYr) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 5:29 |
 | 36 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 54 | [Adore You \(feat\. Abhi Dijon\)](https://open.spotify.com/track/25isxLhIKV8lNSecmvY700) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Abhi//Dijon](https://open.spotify.com/artist/1crlEwxm5dcQjCcgCJEyqg) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 3:31 |
 | 55 | [Take Our Time](https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Take Our Time](https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg) | 2:25 |
 | 56 | [Dear Fren](https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 3:02 |
-| 57 | [HDYK](https://open.spotify.com/track/2Qzu2Ox4Zxtgv8GTlkcI6s) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [HDYK](https://open.spotify.com/album/5lAWjLJ5Lp1jNc3UXWKFPD) | 4:05 |
+| 57 | [Speak](https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Speak](https://open.spotify.com/album/6zL3up9B2Mo7krayRj0KBJ) | 3:46 |
 | 58 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 |
-| 59 | [Speak](https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Speak](https://open.spotify.com/album/6zL3up9B2Mo7krayRj0KBJ) | 3:46 |
+| 59 | [HDYK](https://open.spotify.com/track/2Qzu2Ox4Zxtgv8GTlkcI6s) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [HDYK](https://open.spotify.com/album/5lAWjLJ5Lp1jNc3UXWKFPD) | 4:05 |
 | 60 | [Don't Cry Mama](https://open.spotify.com/track/6FRR67NLpX4lUjnCVhwfe4) | [Saskia](https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB) | [Don't Cry Mama](https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77) | 3:37 |
 
 Snapshot ID: `AAAAADNs115VNZcaRIEDRVx3srXe62Ao`

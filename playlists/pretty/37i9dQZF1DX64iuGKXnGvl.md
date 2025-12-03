@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 80.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,274 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,481 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 42 | [De Mi Enamórate](https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Celebridades\- Daniela Romo](https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR) | 3:38 |
 | 43 | [Déjame Vivir \(with Juan Gabriel\)](https://open.spotify.com/track/0voqOa0RHLxuo5mNQ1PTaj) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Duetos](https://open.spotify.com/album/4PCfCY3SQkDFq2DkF6zYLt) | 3:43 |
 | 44 | [Como Tú](https://open.spotify.com/track/6bNcR3QFsPdEtXWJGvLMeA) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose 25 Años Vol\. 2](https://open.spotify.com/album/7KLOEgOw44kFYeVFBwm064) | 4:13 |
-| 45 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/6sXmREN5oJXB0rZqSjMNXV) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:27 |
-| 46 | [No Te Olvidaré](https://open.spotify.com/track/6qQyG6BLQi0hvqdmMxOrlG) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Exitos de gloria estefan](https://open.spotify.com/album/5wd5UKNNwGZF78zdxFvabY) | 4:02 |
+| 45 | [No Te Olvidaré](https://open.spotify.com/track/6qQyG6BLQi0hvqdmMxOrlG) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Exitos de gloria estefan](https://open.spotify.com/album/5wd5UKNNwGZF78zdxFvabY) | 4:02 |
+| 46 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/6sXmREN5oJXB0rZqSjMNXV) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:27 |
 | 47 | [Mi Banda Toca Rock](https://open.spotify.com/track/3PuFdc2dkvuVuu4pvbKwyP) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [La Historia](https://open.spotify.com/album/5FHm6zZVloarR6inVsAjIs) | 2:56 |
 | 48 | [Tengo Mucho Que Aprender de Ti](https://open.spotify.com/track/1NBBMEhFjhzCMokhv0mJRd) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Serie Platino](https://open.spotify.com/album/2l4VfuJE77hCUPBtUmA92W) | 3:44 |
 | 49 | [Símbolo Sexual \- Versão Remasterizada](https://open.spotify.com/track/24c5K7vB2ZGJ6JqC2xCciJ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Roberto Carlos \(1985 Remasterizado\)](https://open.spotify.com/album/0Q1CavPzrjhyUedyl5xnhJ) | 4:38 |

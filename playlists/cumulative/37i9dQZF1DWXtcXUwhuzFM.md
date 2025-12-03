@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat Robin Packalen, VIIVI, Ed Sheeran, HUGO..\. ja moni muu  🎶
 
-8,982 songs - 19 day 18 hr 42 min
+8,983 songs - 19 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2861,6 +2861,7 @@
 | [high note](https://open.spotify.com/track/68zYA1qlIAY9QnvBAWsCh6) | [NOA LONE](https://open.spotify.com/artist/4wPKvnsueREFg2eOoUH6Gq), [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [high note](https://open.spotify.com/album/22lTtiZYcxpwzNNmGDDWyz) | 2:25 | 2025-03-27 | 2025-04-04 |
 | [High On Love](https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [High On Love](https://open.spotify.com/album/1RS0vAX4YynNRKyxl7DoAw) | 2:56 | 2024-05-16 | 2024-05-24 |
 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-06-19 | 2025-06-27 |
+| [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 | 2025-11-27 |  |
 | [High School](https://open.spotify.com/track/4rBU33pTvlyCVSTD2VKv0O) | [Just Wondering](https://open.spotify.com/artist/3cYJRMfmmDpWgSolJyNVwV), [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [High School](https://open.spotify.com/album/2hCRvRrIOm4kwwIUbXxcwM) | 2:45 | 2025-05-01 | 2025-05-09 |
 | [high school sweetheart](https://open.spotify.com/track/3hDghOzqXg4laYs41HhN2Z) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [high school sweetheart](https://open.spotify.com/album/6IcgmTVuYU4RfrYhVCQLNR) | 2:51 | 2024-12-05 | 2024-12-13 |
 | [High Tolerance](https://open.spotify.com/track/19PdOaQgCjuZy0kSL3aIr0) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [High Tolerance](https://open.spotify.com/album/0y2zbatXy9YPZnMDD9vRxN) | 2:25 | 2025-11-20 | 2025-11-28 |

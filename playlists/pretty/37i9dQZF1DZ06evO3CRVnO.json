@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 319287,
+  "num_followers": 319347,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAABRGILaGMfO9Y1oMZBopNZS",
+  "snapshot_id": "aSzagAAAAAAhPnzQASbmfnN5TxUtDLrd",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUSIC - SORRY 4 DA WAIT",
+        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "2024",
+      "url": "https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "CRANK",
+      "url": "https://open.spotify.com/track/7xAvtuHf8nGi5OtXVPYgb3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
@@ -455,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },
       "artists": [
         {
@@ -464,9 +496,9 @@
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 147692,
-      "name": "CRANK",
-      "url": "https://open.spotify.com/track/7xAvtuHf8nGi5OtXVPYgb3"
+      "duration_ms": 124093,
+      "name": "Vamp Anthem",
+      "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
     },
     {
       "added_at": null,
@@ -480,25 +512,9 @@
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 209413,
-      "name": "2024",
-      "url": "https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 124093,
-      "name": "Vamp Anthem",
-      "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
+      "duration_ms": 200253,
+      "name": "FOMDJ",
+      "url": "https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ"
     },
     {
       "added_at": null,
@@ -539,54 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC - SORRY 4 DA WAIT",
-        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 200253,
-      "name": "FOMDJ",
-      "url": "https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 89741,
-      "name": "New Tank",
-      "url": "https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "Yah Mean",
-      "url": "https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALL RED",
         "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
       },
@@ -623,6 +591,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "Yah Mean",
+      "url": "https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 89741,
+      "name": "New Tank",
+      "url": "https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FIELD TRIP",
         "url": "https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 163155,
       "name": "FIELD TRIP",
       "url": "https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 117239,
-      "name": "Place",
-      "url": "https://open.spotify.com/track/1Bg2CNZw6S4e9cGWPmi0uI"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 150409,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 117239,
+      "name": "Place",
+      "url": "https://open.spotify.com/track/1Bg2CNZw6S4e9cGWPmi0uI"
     },
     {
       "added_at": null,

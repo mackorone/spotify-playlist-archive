@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-199 songs - 14 hr 41 min
+201 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Anytime](https://open.spotify.com/track/29EWQFBFg70fC4rIbknyrI) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [For You](https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ) | 5:18 | 2022-05-06 | 2023-02-16 |
 | [astro turf](https://open.spotify.com/track/1dqdp3to5A8HVYU9yYxe1n) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [astro turf](https://open.spotify.com/album/0JhHKbPRXA27WAv0zdsiMC) | 3:40 | 2024-05-23 |  |
 | [Autumn Day](https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:34 | 2022-05-06 |  |
+| [Backseat Romance](https://open.spotify.com/track/7EqnDxQXOpCxTGyPvB0P3G) | [Wellington Groove](https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8) | [Backseat Romance](https://open.spotify.com/album/2rQHi14GepxBeBkB1l9jMp) | 2:30 | 2025-12-02 |  |
 | [Bali](https://open.spotify.com/track/2aaFllN8vPdII7Qz3Byarf) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:35 | 2022-05-06 | 2022-10-05 |
 | [Battery Park](https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp) | [Zacky Yazz](https://open.spotify.com/artist/3qZwUpVBI4DWCRHrAc9sLv) | [Battery Park](https://open.spotify.com/album/1Lh2EnOd11OTV64zqIUAlq) | 2:24 | 2023-04-20 | 2025-07-02 |
 | [Beaches](https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Beaches](https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5) | 3:47 | 2024-04-10 |  |
@@ -52,7 +53,7 @@
 | [Down Time](https://open.spotify.com/track/7N01vA5PQ3iAyfcGuV3yqB) | [Fattburger](https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi) | [Work to Do](https://open.spotify.com/album/6THuvzMAocj3aImePgicNH) | 4:10 | 2022-05-06 | 2022-10-05 |
 | [Dressed To Chill](https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Dressed To Chill](https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg) | 4:01 | 2022-05-06 |  |
 | [Driving West](https://open.spotify.com/track/7voJqXn9Ee7Iaw7Wr0qarI) | [Melrose Avenue](https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1) | [Driving West](https://open.spotify.com/album/1raCakTNJ9bGvnN42gRnjd) | 3:10 | 2024-02-07 | 2025-11-11 |
-| [Dry Your Eyes](https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Pleasure Seeker](https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA) | 4:19 | 2022-05-06 |  |
+| [Dry Your Eyes](https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Pleasure Seeker](https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA) | 4:19 | 2022-05-06 | 2025-12-03 |
 | [Déjà Vu](https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Playin' Favorites](https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH) | 4:29 | 2022-05-06 |  |
 | [Echoes Of Hollywood](https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY) | [Duke Washington](https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq) | [Echoes Of Hollywood](https://open.spotify.com/album/2YkjVrSM6KqrSwx5IjqujZ) | 3:04 | 2024-08-26 |  |
 | [Edelweiss](https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Edelweiss](https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb) | 3:27 | 2023-10-13 | 2024-03-20 |
@@ -97,7 +98,7 @@
 | [Just One Wish](https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:13 | 2022-08-16 |  |
 | [Kicks](https://open.spotify.com/track/2DRXRN3kBgwGYZtLc5yFcM) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO) | 4:05 | 2022-05-06 | 2022-10-05 |
 | [Kimi Trick](https://open.spotify.com/track/1ouzK9gIxLEADwHlL97nPv) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Jonathan Fritzen](https://open.spotify.com/artist/0z0HE95gGMzsYOFD1EpnBD) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:05 | 2022-08-16 |  |
-| [Kiss of Spring](https://open.spotify.com/track/3KHDOcuN7E3zzFaak3CvSq) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [Kiss of Spring](https://open.spotify.com/album/1Len8HiDVGztdLhl1QYzgk) | 2:25 | 2025-11-10 |  |
+| [Kiss of Spring](https://open.spotify.com/track/3KHDOcuN7E3zzFaak3CvSq) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [Kiss of Spring](https://open.spotify.com/album/1Len8HiDVGztdLhl1QYzgk) | 2:25 | 2025-11-10 | 2025-12-03 |
 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 | 2022-05-06 | 2022-08-11 |
 | [last of the leather jackets](https://open.spotify.com/track/5h7gFuZYOB6vlUkhraNDJ2) | [Bloomsbury Boys](https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c) | [last of the leather jackets](https://open.spotify.com/album/5miUYG6kDcPOTCwGJqvRHJ) | 4:45 | 2023-11-21 | 2025-07-02 |
 | [Le Marais](https://open.spotify.com/track/61VdFwwPfRbgvPiVe1gQjJ) | [Rollin Hand](https://open.spotify.com/artist/7oKCQiTL5z1a63V76WyDtw) | [Le Marais](https://open.spotify.com/album/22sl7yPsMf22tDnbRwijjT) | 3:27 | 2023-04-03 | 2023-06-21 |
@@ -162,9 +163,10 @@
 | [Smooth Lines](https://open.spotify.com/track/37wOzVfpUxcs7yf2OdxE1R) | [Irvine](https://open.spotify.com/artist/3AXCBCm78dD72ONT759Msq) | [Smooth Lines](https://open.spotify.com/album/46cSsCZNSPKDCuDXtLvGZJ) | 2:42 | 2024-07-22 | 2025-11-11 |
 | [So Beautiful](https://open.spotify.com/track/4ffJ3kxKr4XP5pjfFm6uZR) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Ride](https://open.spotify.com/album/5x5eUg69ezurxlTfSriyjv) | 4:21 | 2022-05-06 | 2023-02-08 |
 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 | 2022-05-06 | 2022-08-11 |
+| [Southend Sunset](https://open.spotify.com/track/25FsBrIzkGn3lRPQRKyWa1) | [Afterglow Society](https://open.spotify.com/artist/5NgMXPrQAug1kltFTG9c8g) | [Southend Sunset](https://open.spotify.com/album/3kXRiCDIHhTcyi4f28qrap) | 4:21 | 2025-12-02 |  |
 | [Squeeze Me](https://open.spotify.com/track/01XCanusQyKKtuhfMq5c0C) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 6:54 | 2022-06-28 | 2023-10-22 |
 | [Squeeze Me](https://open.spotify.com/track/6dSzZ1ll6LwJ7OG5U1w7RG) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 6:54 | 2022-05-06 |  |
-| [Stay](https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x) | [Club 1600](https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn) | [Club 1600](https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z) | 4:43 | 2022-05-06 |  |
+| [Stay](https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x) | [Club 1600](https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn), [David Mann](https://open.spotify.com/artist/2UTzELEmZE65dDKRmzj7S6) | [Club 1600](https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z) | 4:43 | 2022-05-06 |  |
 | [Stay Sharp](https://open.spotify.com/track/5sjRxBquao2bRqbUO5AWlf) | [Elastic Union](https://open.spotify.com/artist/3y5BwMggFMVWZkUDGXWAYr) | [Stay Sharp](https://open.spotify.com/album/02k936MVT6wGk4EHdNEkyC) | 2:09 | 2024-10-08 |  |
 | [Straight to the Heart](https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Secrets](https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc) | 3:53 | 2022-05-06 |  |
 | [Summer Groove](https://open.spotify.com/track/2oXfaASoAr4XVmubahCw08) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [This Is What I Hear](https://open.spotify.com/album/3wKbSf1poINjnQB7A1tLkl) | 4:39 | 2022-05-06 |  |

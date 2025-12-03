@@ -1,6 +1,6 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 116086,
+  "num_followers": 116103,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "DESIRE : UNLEASH",
-        "url": "https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B"
+        "name": "FOCUS - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 141885,
-      "name": "Bad Desire (With or Without You)",
-      "url": "https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM"
+      "duration_ms": 177052,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
+        "name": "DESIRE : UNLEASH",
+        "url": "https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 141885,
+      "name": "Bad Desire (With or Without You)",
+      "url": "https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
         "name": "STRATEGY",
         "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
-        "name": "FOCUS - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 177052,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "BURNING UP",
-        "url": "https://open.spotify.com/album/5zwhhh45Fd78xSX7JWjmF5"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "BURNING UP",
-      "url": "https://open.spotify.com/track/3uqgFeHo4Jr1D3gVIHQlD7"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "ONE MORE TIME",
         "url": "https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 195259,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "BURNING UP",
+        "url": "https://open.spotify.com/album/5zwhhh45Fd78xSX7JWjmF5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 169546,
+      "name": "BURNING UP",
+      "url": "https://open.spotify.com/track/3uqgFeHo4Jr1D3gVIHQlD7"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 131786,
-      "name": "Igloo",
-      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 193593,
       "name": "Yet To Come",
       "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+        "name": "SYNK : PARALLEL LINE - Special Digital Single",
+        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 228000,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+      "duration_ms": 166640,
+      "name": "UP - KARINA Solo",
+      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1043,18 +1039,22 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "SYNK : PARALLEL LINE - Special Digital Single",
-        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 166640,
-      "name": "UP - KARINA Solo",
-      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
+      "duration_ms": 228000,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "HOT SAUCE",
-        "url": "https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 147807,
-      "name": "HOT SAUCE",
-      "url": "https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "HOT SAUCE",
+        "url": "https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 147807,
+      "name": "HOT SAUCE",
+      "url": "https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "gonna love me, right?",
-        "url": "https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb"
-      },
-      "artists": [
-        {
-          "name": "DAYOUNG",
-          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "body",
-      "url": "https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 176973,
       "name": "After LIKE",
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "gonna love me, right?",
+        "url": "https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "body",
+      "url": "https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
+        "name": "\u2018The ReVe Festival\u2019 Finale",
+        "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
       },
       "artists": [
         {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 192441,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
+      "duration_ms": 210560,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1467,18 +1463,22 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "\u2018The ReVe Festival\u2019 Finale",
-        "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
+        "name": "Guardian (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
+      "duration_ms": 192441,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "ABCD",
-      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "SEVENTEEN 4th Album 'Face the Sun'",
         "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 197586,
       "name": "HOT",
       "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "SEVENTEEN 9th Mini Album 'Attacca'",
         "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 180360,
       "name": "Rock with you",
       "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 221573,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
         "name": "JENNIE Special Single [You & Me]",
         "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
-        "name": "HOW?",
-        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Earth, Wind & Fire",
-      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1835,34 +1835,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
       },
       "artists": [
         {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
         }
       ],
-      "duration_ms": 199026,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 164040,
-      "name": "THUNDER",
-      "url": "https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ"
+      "duration_ms": 179040,
+      "name": "Earth, Wind & Fire",
+      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1899,22 +1883,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "No Genre",
-        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
       },
@@ -1927,6 +1895,38 @@
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 164040,
+      "name": "THUNDER",
+      "url": "https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "No Genre",
+        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'",
-        "url": "https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "MAESTRO",
-      "url": "https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "NEVER SAY NEVER",
         "url": "https://open.spotify.com/album/6zfGu7WflAzOzsC2Dxgu5I"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 193000,
       "name": "ICONIK",
       "url": "https://open.spotify.com/track/7srZ5Feiz5S4R4O9jL1Dx4"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'",
+        "url": "https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "MAESTRO",
+      "url": "https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Chaotic & Confused",
-        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 158917,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "minisode1 : Blue Hour",
         "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 123739,
       "name": "BODY",
       "url": "https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "Chaotic & Confused",
+        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 158917,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
+        "name": "IF I SAY, I LOVE YOU",
+        "url": "https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 161693,
+      "name": "IF I SAY, I LOVE YOU",
+      "url": "https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
         "name": "Savage Love (Laxed - Siren Beat) [BTS Remix]",
         "url": "https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o"
       },
@@ -2263,22 +2279,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "IF I SAY, I LOVE YOU",
-        "url": "https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 161693,
-      "name": "IF I SAY, I LOVE YOU",
-      "url": "https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "DUH!",
         "url": "https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p"
       },
@@ -2291,22 +2291,6 @@
       "duration_ms": 185440,
       "name": "DUH!",
       "url": "https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
-        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
-        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "_WORLD",
-      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2331,6 +2315,22 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
+        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "_WORLD",
+      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Girls Will Be Girls",
-        "url": "https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "Girls Will Be Girls",
-      "url": "https://open.spotify.com/track/373C7aTyGRJw7sVT4UG6Fh"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "GREAT!",
         "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
       },
@@ -2431,18 +2415,34 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "3rd MINI ALBUM [LOVE PULSE]",
-        "url": "https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3"
+        "name": "Girls Will Be Girls",
+        "url": "https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J"
       },
       "artists": [
         {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 170699,
-      "name": "PARADISE",
-      "url": "https://open.spotify.com/track/20pXBnV8q1xnWzSijxq6QM"
+      "duration_ms": 168013,
+      "name": "Girls Will Be Girls",
+      "url": "https://open.spotify.com/track/373C7aTyGRJw7sVT4UG6Fh"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "MY EYES OPEN VVIDE",
+        "url": "https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 195835,
+      "name": "DROP TOP",
+      "url": "https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2463,18 +2463,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "MY EYES OPEN VVIDE",
-        "url": "https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8"
+        "name": "3rd MINI ALBUM [LOVE PULSE]",
+        "url": "https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3"
       },
       "artists": [
         {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 195835,
-      "name": "DROP TOP",
-      "url": "https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB"
+      "duration_ms": 170699,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/20pXBnV8q1xnWzSijxq6QM"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "Perfect Velvet - The 2nd Album",
         "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
       },
@@ -2555,6 +2539,22 @@
       "duration_ms": 189049,
       "name": "Peek-A-Boo",
       "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2607,6 +2607,22 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
+        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
+        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Feel My Rhythm",
+      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
         "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R"
       },
@@ -2627,22 +2643,6 @@
       "duration_ms": 196549,
       "name": "For You",
       "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
-        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
-        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Feel My Rhythm",
-      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2831,22 +2831,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "The Firstfruit - The 1st Album",
-        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
-      },
-      "artists": [
-        {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -2863,6 +2847,38 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "The Firstfruit - The 1st Album",
+        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "ELSE",
+        "url": "https://open.spotify.com/album/3Xf88Z2tDQeLdzBxa7naSL"
+      },
+      "artists": [
+        {
+          "name": "Cha Eun-Woo",
+          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+        }
+      ],
+      "duration_ms": 187929,
+      "name": "SATURDAY PREACHER",
+      "url": "https://open.spotify.com/track/0orrrJ5FdLQNrMJCRz9lyF"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2899,22 +2915,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "Bye, Summer",
-        "url": "https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Bye, Summer",
-      "url": "https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "<ASSEMBLE25>",
         "url": "https://open.spotify.com/album/4MGXby5GGnly4aVwdZuwak"
       },
@@ -2931,18 +2931,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "ELSE",
-        "url": "https://open.spotify.com/album/3Xf88Z2tDQeLdzBxa7naSL"
+        "name": "Bye, Summer",
+        "url": "https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl"
       },
       "artists": [
         {
-          "name": "Cha Eun-Woo",
-          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 187929,
-      "name": "SATURDAY PREACHER",
-      "url": "https://open.spotify.com/track/0orrrJ5FdLQNrMJCRz9lyF"
+      "duration_ms": 219000,
+      "name": "Bye, Summer",
+      "url": "https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -2979,22 +2979,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "ODYSSEY - The 1st Album",
-        "url": "https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 178175,
-      "name": "Fly Up",
-      "url": "https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "Midnight Guest",
         "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
       },
@@ -3007,6 +2991,22 @@
       "duration_ms": 204293,
       "name": "DM",
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+      },
+      "artists": [
+        {
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+        }
+      ],
+      "duration_ms": 189355,
+      "name": "Energetic",
+      "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -3027,18 +3027,18 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ"
       },
       "artists": [
         {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         }
       ],
-      "duration_ms": 189355,
-      "name": "Energetic",
-      "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
+      "duration_ms": 178175,
+      "name": "Fly Up",
+      "url": "https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -3155,22 +3155,6 @@
     {
       "added_at": "2025-11-21 07:23:18",
       "album": {
-        "name": "\uc228\ubc14\uaf2d\uc9c8 (Hide and Seek)",
-        "url": "https://open.spotify.com/album/0zWJsGW7LN6rg1PwsEHPWc"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "\uc228\ubc14\uaf2d\uc9c8 (Hide and Seek)",
-      "url": "https://open.spotify.com/track/50KEW5h9sVUOVOvOB9ZABe"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
         "name": "From Our 20's",
         "url": "https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V"
       },
@@ -3183,6 +3167,22 @@
       "duration_ms": 185026,
       "name": "LIKE YOU BETTER",
       "url": "https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "\uc228\ubc14\uaf2d\uc9c8 (Hide and Seek)",
+        "url": "https://open.spotify.com/album/0zWJsGW7LN6rg1PwsEHPWc"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "\uc228\ubc14\uaf2d\uc9c8 (Hide and Seek)",
+      "url": "https://open.spotify.com/track/50KEW5h9sVUOVOvOB9ZABe"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -3219,26 +3219,6 @@
       "duration_ms": 210641,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix"
-    },
-    {
-      "added_at": "2025-11-21 07:23:18",
-      "album": {
-        "name": "Don\u2019t Need Your Love",
-        "url": "https://open.spotify.com/album/2e3TvxplnFh1HcFUcSe39u"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "Don\u2019t Need Your Love",
-      "url": "https://open.spotify.com/track/7oEm5Q1virEUB9H0XjWZzF"
     },
     {
       "added_at": "2025-11-21 07:23:18",
@@ -3287,6 +3267,26 @@
       "duration_ms": 191695,
       "name": "STEREOTYPE",
       "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+    },
+    {
+      "added_at": "2025-11-21 07:23:18",
+      "album": {
+        "name": "Don\u2019t Need Your Love",
+        "url": "https://open.spotify.com/album/2e3TvxplnFh1HcFUcSe39u"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "Don\u2019t Need Your Love",
+      "url": "https://open.spotify.com/track/7oEm5Q1virEUB9H0XjWZzF"
     },
     {
       "added_at": "2025-11-21 07:23:18",

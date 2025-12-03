@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Sunday morning whenever you like
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,662 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,574 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Old Recliners](https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:41 |
 | 2 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 |
 | 3 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 |
-| 4 | [Nostalgia](https://open.spotify.com/track/3Mk7IafwNuQdFQda1XI5PE) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 |
+| 4 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 |
 | 5 | [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 |
 | 6 | [missing everything](https://open.spotify.com/track/6vALwkIUxaGmXvV7DuXtb8) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [missing everything](https://open.spotify.com/album/7fU4363JFr3dxRGua9eZfT) | 3:06 |
 | 7 | [me without you](https://open.spotify.com/track/71kFzVuZATF4HXpK8DH11F) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [me without you](https://open.spotify.com/album/06TnNAtIbzRUfLdZX35D4Z) | 3:52 |
-| 8 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 |
+| 8 | [Nostalgia](https://open.spotify.com/track/3Mk7IafwNuQdFQda1XI5PE) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 |
 | 9 | [Horses](https://open.spotify.com/track/3l9qqtfWLOkFvvLB570maZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK) | 3:32 |
 | 10 | [Cherish](https://open.spotify.com/track/2eh3xk8BufBNoW9gnnMgAM) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Gramarye](https://open.spotify.com/album/4pb1CggtOYd2EAko22VJ6C) | 2:31 |
 | 11 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 55 | [Ama said](https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [it's like I never left](https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56) | 2:55 |
 | 56 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |
 | 57 | [Where Were You](https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Where Were You](https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs) | 3:25 |
-| 58 | [Let's Try Love](https://open.spotify.com/track/5jRrOieyEnmCCmN6YOa9Qy) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Let's Try Love](https://open.spotify.com/album/3kpWWrdHtwYKnrhL2Wt4nM) | 2:19 |
-| 59 | [Lie To Yourself](https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 1\)](https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9) | 2:32 |
+| 58 | [Andromeda](https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:15 |
+| 59 | [Let's Try Love](https://open.spotify.com/track/5jRrOieyEnmCCmN6YOa9Qy) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Let's Try Love](https://open.spotify.com/album/3kpWWrdHtwYKnrhL2Wt4nM) | 2:19 |
 | 60 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/3AvuMVDQU1JyZ8McJumqpY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 3:20 |
-| 61 | [Andromeda](https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:15 |
+| 61 | [Lie To Yourself](https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 1\)](https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9) | 2:32 |
 | 62 | [My Blood](https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
 | 63 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 |
 | 64 | [The Boy Who Can't Be Named](https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [The Boy Who Can't Be Named](https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z) | 3:31 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 89 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
 | 90 | [Little Miss Sunshine](https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Little Miss Sunshine](https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v) | 5:15 |
 | 91 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
-| 92 | [All Is Well](https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [All Is Well](https://open.spotify.com/album/3fvSbGLtvLXfClvz8UTwka) | 3:15 |
-| 93 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
-| 94 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 |
-| 95 | [collarbone](https://open.spotify.com/track/4lLpORG43iVNYzgQRmYS2G) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [collarbone](https://open.spotify.com/album/3ILfK12zJwCkJCc1zls5qP) | 3:09 |
+| 92 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
+| 93 | [All Is Well](https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [All Is Well](https://open.spotify.com/album/3fvSbGLtvLXfClvz8UTwka) | 3:15 |
+| 94 | [collarbone](https://open.spotify.com/track/4lLpORG43iVNYzgQRmYS2G) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [collarbone](https://open.spotify.com/album/3ILfK12zJwCkJCc1zls5qP) | 3:09 |
+| 95 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 |
 | 96 | [steal my soul](https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [steal my soul](https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH) | 2:21 |
 | 97 | [Don't Fall Asleep](https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Don't Fall Asleep](https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu) | 4:29 |
-| 98 | [In This Room](https://open.spotify.com/track/0iugfm61MXlEQvYmFhgWtp) | [Ryan McMullan](https://open.spotify.com/artist/4tqPTKknmeQK1uDEFVfX4G) | [In This Room \- EP](https://open.spotify.com/album/02nRWWSavnbiiUjRJ3M5Cr) | 3:51 |
-| 99 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
-| 100 | [almost killed me](https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:11 |
+| 98 | [almost killed me](https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:11 |
+| 99 | [In This Room](https://open.spotify.com/track/0iugfm61MXlEQvYmFhgWtp) | [Ryan McMullan](https://open.spotify.com/artist/4tqPTKknmeQK1uDEFVfX4G) | [In This Room \- EP](https://open.spotify.com/album/02nRWWSavnbiiUjRJ3M5Cr) | 3:51 |
+| 100 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
 
 Snapshot ID: `AAAAAJs2+SlN3W30ltOkpn8G9IBvr8r9`

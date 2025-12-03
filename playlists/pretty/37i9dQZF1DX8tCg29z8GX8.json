@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 18303,
+  "num_followers": 18315,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -523,18 +523,22 @@
     {
       "added_at": "2025-11-28 00:01:23",
       "album": {
-        "name": "Pancake",
-        "url": "https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK"
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
       "artists": [
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 149543,
-      "name": "Pancake",
-      "url": "https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j"
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2025-11-28 00:01:23",
@@ -563,22 +567,18 @@
     {
       "added_at": "2025-11-28 00:01:23",
       "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+        "name": "Pancake",
+        "url": "https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+      "duration_ms": 149543,
+      "name": "Pancake",
+      "url": "https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j"
     },
     {
       "added_at": "2025-11-28 00:01:23",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-11-28 00:01:23",
       "album": {
-        "name": "SAME TIMBS",
-        "url": "https://open.spotify.com/album/0AjcqAkU6McINORVRb5bZV"
-      },
-      "artists": [
-        {
-          "name": "Gonaboy",
-          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "SAME TIMBS",
-      "url": "https://open.spotify.com/track/6kSFCS2GbbctaZ4KbWTqrA"
-    },
-    {
-      "added_at": "2025-11-28 00:01:23",
-      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/40gTIoaMmvc21n7Q1jPZ69"
       },
@@ -1343,22 +1327,38 @@
     {
       "added_at": "2025-11-28 00:01:23",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O"
+        "name": "SAME TIMBS",
+        "url": "https://open.spotify.com/album/0AjcqAkU6McINORVRb5bZV"
       },
       "artists": [
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Gonaboy",
+          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
         }
       ],
-      "duration_ms": 238555,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn"
+      "duration_ms": 141176,
+      "name": "SAME TIMBS",
+      "url": "https://open.spotify.com/track/6kSFCS2GbbctaZ4KbWTqrA"
+    },
+    {
+      "added_at": "2025-11-28 00:01:23",
+      "album": {
+        "name": "BALANCE (with Lasmid)",
+        "url": "https://open.spotify.com/album/7pSHlYExOSYZf0g67YUmED"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 166291,
+      "name": "BALANCE (with Lasmid)",
+      "url": "https://open.spotify.com/track/4yVprPvNUGc840gsCWcvOq"
     },
     {
       "added_at": "2025-11-28 00:01:23",
@@ -1379,6 +1379,26 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/4hqCqVze2sJqskEQmK2Mb7"
+    },
+    {
+      "added_at": "2025-11-28 00:01:23",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 238555,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn"
     },
     {
       "added_at": "2025-11-28 00:01:23",
@@ -1495,26 +1515,6 @@
       "duration_ms": 159292,
       "name": "Lavida Loca (feat. Lasmid)",
       "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
-    },
-    {
-      "added_at": "2025-11-28 00:01:23",
-      "album": {
-        "name": "Disturbation 2",
-        "url": "https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P"
     }
   ],
   "unique_name": "Troski Rhythms",

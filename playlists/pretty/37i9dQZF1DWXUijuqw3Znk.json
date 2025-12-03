@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 104,
+  "num_followers": 106,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -1267,6 +1267,30 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "IT\u2032S YOUR WAY",
+        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "Ck",
+          "url": "https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy"
+        }
+      ],
+      "duration_ms": 189834,
+      "name": "Double Up (Feat. skinny brown, CK)",
+      "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -1307,30 +1331,6 @@
       "duration_ms": 140411,
       "name": "dreamin'",
       "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "IT\u2032S YOUR WAY",
-        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
-      },
-      "artists": [
-        {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "Ck",
-          "url": "https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy"
-        }
-      ],
-      "duration_ms": 189834,
-      "name": "Double Up (Feat. skinny brown, CK)",
-      "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "natural high",
-        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 147225,
-      "name": "karma",
-      "url": "https://open.spotify.com/track/1VLWDblUFbA3XzeCxu2ylb"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Commercial Art",
         "url": "https://open.spotify.com/album/0fsalpLBbxunxEGLuxw7kJ"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "natural high",
+        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 147225,
+      "name": "karma",
+      "url": "https://open.spotify.com/track/1VLWDblUFbA3XzeCxu2ylb"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "GAROSAWK",
         "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
       },
@@ -1459,6 +1459,26 @@
       "duration_ms": 184024,
       "name": "BLACKBOX",
       "url": "https://open.spotify.com/track/2LMrUWb6bnyM8bWWcppwXL"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "BLAZE",
+        "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
+      },
+      "artists": [
+        {
+          "name": "DOHANSE",
+          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
+        },
+        {
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
+        }
+      ],
+      "duration_ms": 131493,
+      "name": "SLASH (Feat. BIGONE)",
+      "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1483,26 +1503,6 @@
       "duration_ms": 223178,
       "name": "\uc9c4\uc800\ub9ac (Feat. \ub9b4\ub7ec\ub9d0\uc988 (Leellamarz), \uc81c\ub124 \ub354 \uc9c8\ub77c(ZENE THE ZILLA))",
       "url": "https://open.spotify.com/track/1XezSpf7NiagncEJPzypsH"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "BLAZE",
-        "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
-      },
-      "artists": [
-        {
-          "name": "DOHANSE",
-          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
-        },
-        {
-          "name": "BIGONE",
-          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
-        }
-      ],
-      "duration_ms": 131493,
-      "name": "SLASH (Feat. BIGONE)",
-      "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 205857,
-      "name": "OWL",
-      "url": "https://open.spotify.com/track/7h9gz8EKmkBdTOU4WFkkQu"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 194252,
       "name": "GNGB",
       "url": "https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 205857,
+      "name": "OWL",
+      "url": "https://open.spotify.com/track/7h9gz8EKmkBdTOU4WFkkQu"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
-        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        }
-      ],
-      "duration_ms": 148983,
-      "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
-      "url": "https://open.spotify.com/track/5IEz46ferHq5IuyZH0WJtj"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 177220,
       "name": "Ride it like",
       "url": "https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
+        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        }
+      ],
+      "duration_ms": 148983,
+      "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
+      "url": "https://open.spotify.com/track/5IEz46ferHq5IuyZH0WJtj"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1727,38 +1727,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 188232,
-      "name": "FEELING",
-      "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "END OF PUBERTY",
-        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
-      },
-      "artists": [
-        {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
-        }
-      ],
-      "duration_ms": 224613,
-      "name": "DEAR MOM",
-      "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "FAKE RAPPERS KILLER",
         "url": "https://open.spotify.com/album/52Htfn8fvmMajlxTlVtP4b"
       },
@@ -1783,6 +1751,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 188232,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "MANTA BIPOLAR, Pt. 2",
         "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 120502,
       "name": "GANGSHIN",
       "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "END OF PUBERTY",
+        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
+      },
+      "artists": [
+        {
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+        }
+      ],
+      "duration_ms": 224613,
+      "name": "DEAR MOM",
+      "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1846,27 +1846,11 @@
         {
           "name": "Dok2",
           "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Keem Hyo-Eun",
-          "url": "https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "Hash Swan",
-          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
         }
       ],
-      "duration_ms": 263505,
-      "name": "1llusion Remix - Bonus Track",
-      "url": "https://open.spotify.com/track/7h8KGENglYCGD6MD6PfeRu"
+      "duration_ms": 199456,
+      "name": "Hiphop Lover",
+      "url": "https://open.spotify.com/track/7hV1vaZ28WhjzfaMHUvKju"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -2035,22 +2019,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/6zRk67AeZus6zzIxU9kJAb"
+        "name": "A SOLITARY MAN",
+        "url": "https://open.spotify.com/album/1qFLsgIIgQ46hwoCnutc3P"
       },
       "artists": [
         {
-          "name": "Pinodyne",
-          "url": "https://open.spotify.com/artist/15KKvag6UK4hwsNCJmFY09"
-        },
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
         }
       ],
-      "duration_ms": 227941,
-      "name": "Universe (feat. Lee Juck)",
-      "url": "https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc"
+      "duration_ms": 187045,
+      "name": "A SOLITARY MAN",
+      "url": "https://open.spotify.com/track/3kCnWwL7H4HNxSOV2CwBCa"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

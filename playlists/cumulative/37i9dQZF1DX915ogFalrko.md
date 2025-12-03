@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-159 songs - 9 hr 33 min
+160 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Jazz et thé vert](https://open.spotify.com/track/2WqcyORimSvaAniUP81WNf) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD) | [La Boulangerie, Vol\. 3 \(La Fine Équipe & Friends\)](https://open.spotify.com/album/31oCgGwCgtJZIvS4ERobSJ) | 3:32 | 2025-08-28 |  |
 | [JET LAGGED](https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [JET LAGGED](https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV) | 3:15 | 2025-11-14 |  |
 | [Just Around the Corner](https://open.spotify.com/track/5Mxmje3T8MAEGBnIEl0k1b) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN) | 3:13 | 2025-07-18 | 2025-08-22 |
+| [Keyring](https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [Keyring](https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl) | 3:18 | 2025-11-28 |  |
 | [l.o.v.e](https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [l.o.v.e](https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL) | 2:59 | 2025-10-02 |  |
 | [La Californie](https://open.spotify.com/track/1g7tqO5lzjQIQxdVZapBwf) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD) | [La Beat Tape](https://open.spotify.com/album/78QxpVLxXgG7rvYQUXDOfe) | 2:56 | 2025-07-18 | 2025-09-13 |
 | [La prima estate](https://open.spotify.com/track/6vtG5IMWKidt5K54DCSUo6) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [La prima estate](https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB) | 4:00 | 2025-07-18 |  |
@@ -136,7 +137,7 @@
 | [Summerinlove](https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Summerinlove](https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4) | 4:31 | 2025-08-01 | 2025-10-17 |
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-07-18 | 2025-08-08 |
 | [Sunny](https://open.spotify.com/track/42AsgO0005lineLVc1aSOL) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Sunny](https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh) | 2:37 | 2025-07-18 |  |
-| [Swear](https://open.spotify.com/track/0AXK5URrriXUx3gf8PtQB9) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Swear](https://open.spotify.com/album/0sACc500qALRTNO2l0yvUS) | 2:28 | 2025-11-06 |  |
+| [Swear](https://open.spotify.com/track/0AXK5URrriXUx3gf8PtQB9) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Swear](https://open.spotify.com/album/0sACc500qALRTNO2l0yvUS) | 2:28 | 2025-11-06 | 2025-12-03 |
 | [Taking Over](https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Taking Over](https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa) | 5:36 | 2025-07-18 |  |
 | [Tarmac](https://open.spotify.com/track/32huCokKPXpkhz38ZTibVs) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Tarmac](https://open.spotify.com/album/0e7c94lt6lbMDffB2LtfdU) | 3:10 | 2025-10-10 |  |
 | [Tennis Bracelet](https://open.spotify.com/track/0ZCmVf5BIgmWNj1vcqAjJo) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Tennis Bracelet](https://open.spotify.com/album/0Jy6YjC6L3BdWKU3GIKSKV) | 3:28 | 2025-07-18 | 2025-09-28 |

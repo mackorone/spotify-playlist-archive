@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Marvin Winans, Kurt Carr & The Kurt Carr Singers, Chicago Mass Choir and more
+> With Tramaine Hawkins, Chicago Mass Choir, Gods Property and more
 
 1,939 songs - 6 day 4 hr 32 min
 

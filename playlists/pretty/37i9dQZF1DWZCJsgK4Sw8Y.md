@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,332 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,310 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 32 | [To Hell with the Devil](https://open.spotify.com/track/4t8OmZERfkdkRr4aoYa2h1) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [To Hell With The Devil](https://open.spotify.com/album/4LAVjeUmJl3h3U44sMRrfm) | 4:04 |
 | 33 | [Kings & Queens](https://open.spotify.com/track/3N8L7MZktWeZquTAWQ2oY8) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Kings & Queens](https://open.spotify.com/album/1NcSOkBUqSXxFiRZxSL24d) | 3:49 |
 | 34 | [Deeper Waters](https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB) | 2:36 |
-| 35 | [Never Alone](https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [BarlowGirl](https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr) | 4:30 |
-| 36 | [Take the Bullets Away \(feat\. Lacey Sturm\)](https://open.spotify.com/track/1FgFXxPsmUmiJMoJNi8idR) | [We As Human](https://open.spotify.com/artist/6FFTGpuvFDztqTz4t1Hqy9), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [We As Human](https://open.spotify.com/album/79dn7GARLrAgKx28cwvLea) | 3:31 |
+| 35 | [Take the Bullets Away \(feat\. Lacey Sturm\)](https://open.spotify.com/track/1FgFXxPsmUmiJMoJNi8idR) | [We As Human](https://open.spotify.com/artist/6FFTGpuvFDztqTz4t1Hqy9), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [We As Human](https://open.spotify.com/album/79dn7GARLrAgKx28cwvLea) | 3:31 |
+| 36 | [Never Alone](https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [BarlowGirl](https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr) | 4:30 |
 | 37 | [Broken Heart](https://open.spotify.com/track/2YD9ge4vpiztCSCLfRWzMn) | [Falling Up](https://open.spotify.com/artist/0qJxsH9kWhslWau4Ork4Zm) | [Crashings](https://open.spotify.com/album/11IdVYUil7tSZcx3x8AH81) | 3:07 |
 | 38 | [Suspension](https://open.spotify.com/track/2F2BqlVi9YWOSrCeHGSCOX) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [The Everglow](https://open.spotify.com/album/2p44huLsquBxzop7L8e5kk) | 4:00 |
 | 39 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 |
 | 40 | [Yours Truly](https://open.spotify.com/track/0LfSlWOS4TXJHOBZ7fPiNy) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5), [Magdalene Rose](https://open.spotify.com/artist/2FeTFqLD7rngYYCh2V4RyX) | [Fractured Paradise](https://open.spotify.com/album/4D78Ji3nKTl66eqgvWfNck) | 3:34 |
 | 41 | [Glitch In The Matrix](https://open.spotify.com/track/4bxBCX9Iw9IMeQe1vsujqt) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Learning How To Be Human](https://open.spotify.com/album/3VeyUPjz688xgL01XFUSjt) | 2:42 |
-| 42 | [Jonah \- Flying Album Version](https://open.spotify.com/track/3dPZqflDdEbIzs9GGWHXxV) | [Grammatrain](https://open.spotify.com/artist/5xFgYvWejLOS3wTdMoJjCn) | [Flying](https://open.spotify.com/album/69Ww8L7uMR6JxnmmIaly5P) | 2:41 |
-| 43 | [Horizon](https://open.spotify.com/track/78nsDXdPdsSEgQ7uE8o1JU) | [38th Parallel](https://open.spotify.com/artist/7iKsdIqgy2s5xMbKiVafjv) | [Turn The Tides](https://open.spotify.com/album/1gTvrOuCP6SjwS8aCFiFBo) | 3:53 |
+| 42 | [Horizon](https://open.spotify.com/track/78nsDXdPdsSEgQ7uE8o1JU) | [38th Parallel](https://open.spotify.com/artist/7iKsdIqgy2s5xMbKiVafjv) | [Turn The Tides](https://open.spotify.com/album/1gTvrOuCP6SjwS8aCFiFBo) | 3:53 |
+| 43 | [Jonah \- Flying Album Version](https://open.spotify.com/track/3dPZqflDdEbIzs9GGWHXxV) | [Grammatrain](https://open.spotify.com/artist/5xFgYvWejLOS3wTdMoJjCn) | [Flying](https://open.spotify.com/album/69Ww8L7uMR6JxnmmIaly5P) | 2:41 |
 | 44 | [Super Good Feeling \- Static Album Version](https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI) | [Bleach](https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y) | [Static](https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU) | 3:19 |
 | 45 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |
 | 46 | [DARKNESS BEFORE THE DAWN!](https://open.spotify.com/track/7fYPGeh5sIKyH2LXTZBTP6) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap), [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [DARKNESS BEFORE THE DAWN!](https://open.spotify.com/album/2ZwtqxX23LK900g6vu1p3H) | 3:11 |

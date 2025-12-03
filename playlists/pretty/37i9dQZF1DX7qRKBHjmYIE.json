@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con CA7RIEL y Paco Amoroso.",
-  "num_followers": 747929,
+  "num_followers": 747914,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
+        "name": "N2STAL5IA",
+        "url": "https://open.spotify.com/album/7HspaFYvdDnUitaW4KS2iF"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 161984,
+      "name": "SABES QU\u00c9???",
+      "url": "https://open.spotify.com/track/2lmm2IkjMRbZPnsDBb4WMd"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
         "name": "PIRRI",
         "url": "https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB"
       },
@@ -527,26 +543,6 @@
       "duration_ms": 192214,
       "name": "PIRRI",
       "url": "https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
-        "name": "PA K",
-        "url": "https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 221856,
-      "name": "PA K",
-      "url": "https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -567,18 +563,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "N2STAL5IA",
-        "url": "https://open.spotify.com/album/7HspaFYvdDnUitaW4KS2iF"
+        "name": "PA K",
+        "url": "https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 161984,
-      "name": "SABES QU\u00c9???",
-      "url": "https://open.spotify.com/track/2lmm2IkjMRbZPnsDBb4WMd"
+      "duration_ms": 221856,
+      "name": "PA K",
+      "url": "https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -851,26 +851,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "no voy a estar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX"
-      },
-      "artists": [
-        {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "no voy a estar ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "aunquetelopida",
         "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 180631,
       "name": "aunquetelopida",
       "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "no voy a estar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "no voy a estar ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
+        "name": "tqm <3",
+        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "duration_ms": 156426,
+      "name": "tqm <3",
+      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
         "name": "Un Castigo",
         "url": "https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 189580,
       "name": "Un Castigo",
       "url": "https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
-        "name": "tqm <3",
-        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
-      },
-      "artists": [
-        {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
-        }
-      ],
-      "duration_ms": 156426,
-      "name": "tqm <3",
-      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "DE NOTA EN NOTA",
         "url": "https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
         "name": "Tierra",
         "url": "https://open.spotify.com/album/32J5NblDzVXpvTMuEFtyUA"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 204000,
       "name": "Durmiendo",
       "url": "https://open.spotify.com/track/4owkQ4569f24b5CmVdr3jt"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "Vida Nueva",
+        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 169375,
+      "name": "Vida Nueva",
+      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Bien Bien",
-        "url": "https://open.spotify.com/album/4XZScJixPo8QOp3G5RrCNR"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
-        }
-      ],
-      "duration_ms": 122400,
-      "name": "Bien Bien",
-      "url": "https://open.spotify.com/track/3CeetJ3dioCxE9qNaAvXHO"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j"
       },
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Vida Nueva",
-        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
+        "name": "Bien Bien",
+        "url": "https://open.spotify.com/album/4XZScJixPo8QOp3G5RrCNR"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
         }
       ],
-      "duration_ms": 169375,
-      "name": "Vida Nueva",
-      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
+      "duration_ms": 122400,
+      "name": "Bien Bien",
+      "url": "https://open.spotify.com/track/3CeetJ3dioCxE9qNaAvXHO"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Si Es Verdad",
-        "url": "https://open.spotify.com/album/4PmJkc7tLBzrQt2dBfdWHr"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 169313,
-      "name": "Si Es Verdad",
-      "url": "https://open.spotify.com/track/64FLKmzgsDYXIj0S37de7W"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "BLANCOMEZCLILLA",
         "url": "https://open.spotify.com/album/51KnHsifhTBkSyhuRXexBQ"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 187903,
       "name": "a veces casi siempre",
       "url": "https://open.spotify.com/track/3IV0SbTSu2JhBIeGfesPeJ"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "Si Es Verdad",
+        "url": "https://open.spotify.com/album/4PmJkc7tLBzrQt2dBfdWHr"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "duration_ms": 169313,
+      "name": "Si Es Verdad",
+      "url": "https://open.spotify.com/track/64FLKmzgsDYXIj0S37de7W"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Only A Dream",
-        "url": "https://open.spotify.com/album/5dcXpnLc2tOZCIgUBsMHMu"
+        "name": "NI\u00d1O BUENO",
+        "url": "https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e"
       },
       "artists": [
         {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
         }
       ],
-      "duration_ms": 241290,
-      "name": "Only A Dream",
-      "url": "https://open.spotify.com/track/28Z2OxIisSLEPQqpPwOXRU"
+      "duration_ms": 191375,
+      "name": "contraste",
+      "url": "https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt"
     }
   ],
   "unique_name": "Mixto",

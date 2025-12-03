@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280429,
+  "num_followers": 280415,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADdbHNmItb5q918rHWpw9gM",
+  "snapshot_id": "aSzagAAAAAB0pyjnD2th1UzBgUvhDOJV",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 173136,
+      "name": "Disk Me",
+      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantas\u00eda",
         "url": "https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 149826,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 173136,
-      "name": "Disk Me",
-      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
     },
     {
       "added_at": null,
@@ -375,30 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
-        "url": "https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1"
-      },
-      "artists": [
-        {
-          "name": "Victoria",
-          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
-        },
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 125520,
-      "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
-      "url": "https://open.spotify.com/track/0Bnw9rIQ9C3DKqhmLHTARf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -419,6 +395,30 @@
       "duration_ms": 173265,
       "name": "Derretida - Brunoso Remix",
       "url": "https://open.spotify.com/track/7CzUp49fXwsYP4CgQNfDSh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
+        "url": "https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1"
+      },
+      "artists": [
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 125520,
+      "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
+      "url": "https://open.spotify.com/track/0Bnw9rIQ9C3DKqhmLHTARf"
     },
     {
       "added_at": null,
@@ -758,15 +758,11 @@
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Taty Girl",
-          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
         }
       ],
-      "duration_ms": 157492,
-      "name": "Falta Coragem",
-      "url": "https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy"
+      "duration_ms": 240400,
+      "name": "Me Usa",
+      "url": "https://open.spotify.com/track/5SlyKJvJOM00wNZ5TdC8sM"
     },
     {
       "added_at": null,
@@ -830,11 +826,15 @@
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Taty Girl",
+          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Me Usa",
-      "url": "https://open.spotify.com/track/5SlyKJvJOM00wNZ5TdC8sM"
+      "duration_ms": 157492,
+      "name": "Falta Coragem",
+      "url": "https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy"
     },
     {
       "added_at": null,

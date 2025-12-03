@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Leozin
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,299 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,293 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 5 | [CHAMPAGNE & BAUNILHA](https://open.spotify.com/track/1bxzOedscREbvW1fluFp1w) | [AREN](https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [ISSO É AREN!](https://open.spotify.com/album/0piJA5RMDtb6hP527gOYRK) | 3:05 |
 | 6 | [A Milhão](https://open.spotify.com/track/6qjmz662TFp9FWquPzRgwB) | [M0RÔ](https://open.spotify.com/artist/3AiypG7qdJLl0S2o0QMMvn), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [A Milhão](https://open.spotify.com/album/5JNGIXo6A9lNuJl4TVCSXU) | 2:06 |
 | 7 | [GANA](https://open.spotify.com/track/3RZGqZDuEBMQWbIjCnuB62) | [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp) | [GANA](https://open.spotify.com/album/7inohy3tgV0UYfHR9mLSJV) | 2:16 |
-| 8 | [SETE VIDAS](https://open.spotify.com/track/4CZMRCFvV9OZQ1VwNm1xGH) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Trxntin](https://open.spotify.com/artist/0fTGSnfNzshCCWK6tFnsbW) | [SETE VIDAS](https://open.spotify.com/album/56LAsj9F2BdjZSJqUVuspJ) | 2:17 |
+| 8 | [SETE VIDAS](https://open.spotify.com/track/4CZMRCFvV9OZQ1VwNm1xGH) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Trxntin](https://open.spotify.com/artist/0fTGSnfNzshCCWK6tFnsbW), [Apollo 808](https://open.spotify.com/artist/0VIZEcBAw3FJnGFNl5VsSZ) | [SETE VIDAS](https://open.spotify.com/album/56LAsj9F2BdjZSJqUVuspJ) | 2:17 |
 | 9 | [Bala](https://open.spotify.com/track/6cuVMT669LLP4AfocnkZMQ) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Bala](https://open.spotify.com/album/22iyjQK3XfR0zudflmq6XO) | 3:15 |
 | 10 | [FALA FALADOR](https://open.spotify.com/track/5OyVnoRln3KyZrLiTJx1Li) | [Baby T](https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf), [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [bJayy](https://open.spotify.com/artist/0BcULbutPzHpgeQrC1fzxs), [Yiohomega](https://open.spotify.com/artist/30itzVJAUcTwjYCTaBaTpe), [137 Records](https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb) | [FALA FALADOR](https://open.spotify.com/album/2IGkeOI1fussARtlqCQYmn) | 3:30 |
 | 11 | [Movimentando](https://open.spotify.com/track/0gXMumUCRPtlOV23kaT4p6) | [Chase](https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Movimentando](https://open.spotify.com/album/2EqeIQiSoomjrLg1wf8WGc) | 2:37 |

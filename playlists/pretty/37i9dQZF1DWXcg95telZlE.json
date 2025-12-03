@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 431824,
+  "num_followers": 431926,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -43,8 +43,8 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
+        "name": "Love, Ella",
+        "url": "https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA"
       },
       "artists": [
         {
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 298133,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
+      "duration_ms": 185160,
+      "name": "Dream A Little Dream Of Me - Single Version",
+      "url": "https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Love Is Here To Stay - Remastered 1998",
+      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -115,24 +131,8 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Love Is Here To Stay - Remastered 1998",
-      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Love, Ella",
-        "url": "https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA"
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 185160,
-      "name": "Dream A Little Dream Of Me - Single Version",
-      "url": "https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe"
+      "duration_ms": 298133,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Flying Platters Around The World",
-        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "Twilight Time - Single Version",
-      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Songs For Young Lovers",
         "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 150666,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Flying Platters Around The World",
+        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "Twilight Time - Single Version",
+      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "In The Wee Small Hours",
         "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 180933,
       "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
       "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 167493,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 150893,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Remember When?",
-        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 174893,
-      "name": "I'll Never Smile Again",
-      "url": "https://open.spotify.com/track/3q5sp47cS6OAebFsystUB7"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 197200,
       "name": "Red Sails In The Sunset",
       "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Remember When?",
+        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/3q5sp47cS6OAebFsystUB7"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Remember When?",
-        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 184373,
-      "name": "Prisoner Of Love",
-      "url": "https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Essential Johnny Mathis 3.0",
         "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 181400,
       "name": "Chances Are - Single Version",
       "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Remember When?",
+        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 184373,
+      "name": "Prisoner Of Love",
+      "url": "https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Pat Boone's Greatest Hits (Reissue)",
-        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "April Love",
-      "url": "https://open.spotify.com/track/5ax1MN2MGW0ZJXquCkpuLM"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 168288,
       "name": "A Certain Smile - From the 20th Century Fox Film \"A Certain Smile\"",
       "url": "https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Pat Boone's Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "April Love",
+      "url": "https://open.spotify.com/track/5ax1MN2MGW0ZJXquCkpuLM"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Gold Collection",
-        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 137320,
-      "name": "Don't Forbid Me",
-      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Presenting Don Cornell",
         "url": "https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 169200,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Gold Collection",
+        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 137320,
+      "name": "Don't Forbid Me",
+      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
     },
     {
       "added_at": "2022-05-30 12:59:00",

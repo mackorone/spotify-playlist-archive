@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 463 likes - 106 songs - 6 hr 23 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 465 likes - 107 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 104 | [Coming Home \(UNITED\)](https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:44 |
 | 105 | [Memory Lapse](https://open.spotify.com/track/3vNql4MJZIrxkRAoVI7fSz) | [Nick Wallisch](https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk), [Proteus](https://open.spotify.com/artist/2npdyO8ezTNfRw9vSi8f4K) | [The Lost Jams](https://open.spotify.com/album/6FoybyVEEiMq1kpsiGa5Ni) | 3:56 |
 | 106 | [Black Widow](https://open.spotify.com/track/5bRrgKXYXx0XL6wbNnbBiJ) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Haunted House](https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2) | 3:58 |
+| 107 | [constant headache](https://open.spotify.com/track/1vD1cFbR2aI1h5pEDSRREQ) | [SANCHEZ BY THE SEA\*](https://open.spotify.com/artist/5bSnJtfoIBMee5zGgUcMwO) | [Submerged](https://open.spotify.com/album/2ZA3eD7FmCox6gtHE7gFAo) | 3:00 |
 
-Snapshot ID: `AAAECHSL5RAVxZBgGPXKNqCjKCwLtA0F`
+Snapshot ID: `AAAECYq+ZWN3YhVTw04bDSDWVxkp34tx`

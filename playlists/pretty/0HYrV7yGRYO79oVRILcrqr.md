@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,588 likes - 150 songs - 9 hr 13 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,590 likes - 152 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,5 +158,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 148 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 |
 | 149 | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/track/5kGZUGMDh7wUwEHPOjFKsm) | [Daniel Forsius](https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3) | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/album/4ISu9gFv2wlWWAoMHYVV8a) | 3:15 |
 | 150 | [Cansado del amor](https://open.spotify.com/track/12IELCO5NmSEIk6x8CoDHT) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 2:43 |
+| 151 | [Shadows of the night](https://open.spotify.com/track/30dDQL8uqJ9qPMvSdpNPUG) | [ilhan akkaya](https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV) | [I am not the one](https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk) | 4:00 |
+| 152 | [Her inne er det varmt](https://open.spotify.com/track/1V90d44Q6zjSn5EhbJdT1O) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Bilder i mitt hode](https://open.spotify.com/album/0hydPfH9Vk7RSwauEMYYpX) | 3:39 |
 
-Snapshot ID: `AAAKIDJW2eF53IvEQYvEx+UFzUkrSamY`
+Snapshot ID: `AAAKIubTV6Nm7AuutZ4bjRjyH+FAH4Sr`

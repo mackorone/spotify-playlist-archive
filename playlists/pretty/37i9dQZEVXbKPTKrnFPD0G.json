@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Argentina.",
-  "num_followers": 92431,
+  "num_followers": 92450,
   "original_name": "Top Songs - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MMEG+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MMJYeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-11-28 14:08:49",
@@ -842,6 +842,10 @@
         {
           "name": "Peipper",
           "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
         }
       ],
       "duration_ms": 144468,

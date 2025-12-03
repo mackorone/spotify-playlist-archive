@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 538837,
+  "num_followers": 539095,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAB5au/t3TyNxNqXgpwo2Gb9",
+  "snapshot_id": "aSzagAAAAACKeYO5KgA1P/KF2e8005Ah",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Capea",
-        "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194605,
-      "name": "No Capea",
-      "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/34vXRJ2bCSFiZKQzVUYVOb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Capea",
+        "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194605,
+      "name": "No Capea",
+      "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
     },
     {
       "added_at": null,
@@ -111,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modo Dif\u00edcil",
-        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 201461,
-      "name": "Modo Dif\u00edcil",
-      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 169418,
       "name": "QUE VUELVAS",
       "url": "https://open.spotify.com/track/44vHtuBiZz2phwEwv1Rabu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Modo Dif\u00edcil",
+        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 201461,
+      "name": "Modo Dif\u00edcil",
+      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
     },
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hecha Pa' Mi",
+        "url": "https://open.spotify.com/album/0Nlac12HchvCla00JkCnls"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 195845,
+      "name": "Hecha Pa' M\u00ed",
+      "url": "https://open.spotify.com/track/3AIVCSqTfDX9NxStqhi80S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hecha Pa' Mi",
-        "url": "https://open.spotify.com/album/0Nlac12HchvCla00JkCnls"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Hecha Pa' M\u00ed",
-      "url": "https://open.spotify.com/track/3AIVCSqTfDX9NxStqhi80S"
     },
     {
       "added_at": null,
@@ -663,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfQu\u00e9 Te Parece?",
+        "url": "https://open.spotify.com/album/4Z0r33fYkC9RjbJApkzrPX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 182323,
+      "name": "\u00bfQu\u00e9 Te Parece?",
+      "url": "https://open.spotify.com/track/2XmxgRT3HEhK5OvX1sNxi1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LO QUE ME FALTA POR LLORAR",
         "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 205044,
       "name": "tu favorito",
       "url": "https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfQu\u00e9 Te Parece?",
-        "url": "https://open.spotify.com/album/4Z0r33fYkC9RjbJApkzrPX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "\u00bfQu\u00e9 Te Parece?",
-      "url": "https://open.spotify.com/track/2XmxgRT3HEhK5OvX1sNxi1"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LO QUE ME FALTA POR LLORAR",
-        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 146442,
-      "name": "se me sale",
-      "url": "https://open.spotify.com/track/0ot4EnQroudoSofYXOfgsU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 163407,
       "name": "NUNCA LA OLVID\u00c9",
       "url": "https://open.spotify.com/track/73y7RIbg70KCgtW6vbVKSC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 146442,
+      "name": "se me sale",
+      "url": "https://open.spotify.com/track/0ot4EnQroudoSofYXOfgsU"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LO QUE ME FALTA POR LLORAR",
-        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 170981,
-      "name": "triste pero bien c*br\u00f3n",
-      "url": "https://open.spotify.com/track/5kfK2FSTC6hqWco5BEZ2f0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 191284,
       "name": "YA PEDO QUI\u00c9N SABE",
       "url": "https://open.spotify.com/track/2psxw9j1vNkgIe3BcNOXVc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 170981,
+      "name": "triste pero bien c*br\u00f3n",
+      "url": "https://open.spotify.com/track/5kfK2FSTC6hqWco5BEZ2f0"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193258,
+      "name": "QU\u00c9DATE BEB\u00c9",
+      "url": "https://open.spotify.com/track/6VMpSP88kS8Rxc68BAgwAd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Retiro",
         "url": "https://open.spotify.com/album/4e54zPQ8pqXkFHTKL7xLVj"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 248875,
       "name": "Me Retiro",
       "url": "https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193258,
-      "name": "QU\u00c9DATE BEB\u00c9",
-      "url": "https://open.spotify.com/track/6VMpSP88kS8Rxc68BAgwAd"
     },
     {
       "added_at": null,

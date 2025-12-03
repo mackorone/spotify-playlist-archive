@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Zuco OMG, Romeo Santos & Prince Royce, Yami Safdie and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,098 likes - 42 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,096 likes - 42 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

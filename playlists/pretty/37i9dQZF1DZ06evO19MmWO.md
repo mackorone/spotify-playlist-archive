@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,104 likes - 41 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,106 likes - 41 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 26 | [That's All Right \- Remastered](https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Anthology: His Early Years \(Remastered\)](https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR) | 2:46 |
 | 27 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KAAyjgvTwhAF1ejtLhkEw) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Saga Blues: Blowing With a Feeling](https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB) | 2:52 |
 | 28 | [Hate To See You Go \- Extended](https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:03 |
-| 29 | [Crazy For My Baby](https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 3:01 |
+| 29 | [I Got To Go](https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 2:40 |
 | 30 | [You're the One \- Remastered](https://open.spotify.com/track/6Q3U1AMs32pVUD4FcbuShH) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Anthology: His Early Years \(Remastered\)](https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR) | 2:28 |
-| 31 | [I Got To Go](https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 2:40 |
+| 31 | [Crazy For My Baby](https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 3:01 |
 | 32 | [You Don't Love Me](https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:10 |
 | 33 | [Driftin'](https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:08 |
 | 34 | [Blue Light \- Single Version](https://open.spotify.com/track/5KR5hJ3y1evtGt5MeEHU8l) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Best Of Little Walter](https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx) | 3:16 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 40 | [I'm A Man](https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 5:41 |
 | 41 | [You Can't Judge A Book By Its Cover](https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 3:29 |
 
-Snapshot ID: `aSuJAAAAAACMKdooLnfQ9DgoYUdc1Oqh`
+Snapshot ID: `aSzagAAAAABeQa7epRsmsEUlfrm6Zt8W`

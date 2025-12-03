@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,840 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,845 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 22 | [FREE PICK](https://open.spotify.com/track/4UUlVqWOcN68QgLd1GnWVp) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 1:28 |
 | 23 | [Silk & Cologne \(EI8HT & Offset\) \- Spider\-Verse Remix](https://open.spotify.com/track/5Lv5L45PQmp5CTjs5PlQ6e) | [EI8HT](https://open.spotify.com/artist/70rSvlI9SRspEr0C84bJ5Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 2:42 |
 | 24 | [Swing My Way](https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Swing My Way](https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z) | 2:59 |
-| 25 | [Climate \(feat\. Offset\)](https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 2:50 |
+| 25 | [No Complaints \(feat\. Offset & Drake\) \(Bonus\)](https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 4:25 |
 | 26 | [HAUNTED BY FAME](https://open.spotify.com/track/2pHnTA5XactfK9TvlHBKsu) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 2:31 |
-| 27 | [No Complaints \(feat\. Offset & Drake\) \(Bonus\)](https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 4:25 |
+| 27 | [Climate \(feat\. Offset\)](https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 2:50 |
 | 28 | [Celebrate \(with Offset\)](https://open.spotify.com/track/6hEzT3fE6ecwWvhlqiFCLF) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 3:00 |
 | 29 | [Mad Stalkers](https://open.spotify.com/track/6HR1z11h0ROUlWP4Kx8Z7G) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 3:22 |
 | 30 | [ON THE RIVER](https://open.spotify.com/track/1aLpfH1M7Y4ZngOmSiHk0l) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 1:36 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 47 | [Came A Long Way](https://open.spotify.com/track/1X5F8qFnvUe4sYmIqowEkB) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 2:52 |
 | 48 | [Disrespectful](https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:40 |
 | 49 | [N.A.M.E \(FT\. NOCAP\)](https://open.spotify.com/track/357QfYSnF1ktaVDvhF1Q9y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 2:47 |
-| 50 | [Met Gala \(feat\. Offset\)](https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Droptopwop](https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn) | 3:29 |
+| 50 | [Guwop \(feat\. Quavo, Offset and Young Scooter\)](https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 5:15 |
 
-Snapshot ID: `aSuJAAAAAADZeoegN4+GvkJu6y7H789G`
+Snapshot ID: `aSzagAAAAABleCOqiT2VphTqgCbfiGVR`

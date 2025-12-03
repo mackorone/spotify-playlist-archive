@@ -5376,7 +5376,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 138187,
       "name": "Aqui Estoy Yo",
       "url": "https://open.spotify.com/track/32Rz14KL6nKni2eF4rXpwg"
@@ -5832,7 +5832,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 132170,
       "name": "At\u00e9 Quebrar a Cama 2.0",
       "url": "https://open.spotify.com/track/7aOv4uSAmiB9XKnkibqSdo"
@@ -14912,7 +14912,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 163199,
       "name": "corte certero",
       "url": "https://open.spotify.com/track/5fqrhkZBgN2TQMU450fV39"
@@ -19090,6 +19090,24 @@
       "duration_ms": 149083,
       "name": "Dos Besitos",
       "url": "https://open.spotify.com/track/4qXWX3OmEKp0YCnnxJqTMO"
+    },
+    {
+      "album": {
+        "name": "Dos Locos",
+        "url": "https://open.spotify.com/album/0xFLtA3A8OwJ5Wqgx17DO6"
+      },
+      "artists": [
+        {
+          "name": "OnMusic",
+          "url": "https://open.spotify.com/artist/5DlbOBe9kXAA8o1RXFAuBJ"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190833,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/2rIw5oE9MjacQgsWjks1dy"
     },
     {
       "album": {
@@ -24477,6 +24495,44 @@
     },
     {
       "album": {
+        "name": "Flaka",
+        "url": "https://open.spotify.com/album/3rjGjvLB8Kb3H2NGgZ3CrY"
+      },
+      "artists": [
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217059,
+      "name": "Flaka",
+      "url": "https://open.spotify.com/track/12iY3g6aGopgjMoDo0hb8H"
+    },
+    {
+      "album": {
         "name": "Flashbacks",
         "url": "https://open.spotify.com/album/0b16ekeB67exivDLk5xj2u"
       },
@@ -26280,7 +26336,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 233653,
       "name": "Gil",
       "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
@@ -26820,7 +26876,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -30184,7 +30240,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
@@ -31582,6 +31638,28 @@
       "duration_ms": 222633,
       "name": "I\u2019m Just Ken (From Barbie The Album)",
       "url": "https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T"
+    },
+    {
+      "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
     },
     {
       "album": {
@@ -34358,7 +34436,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 258613,
       "name": "La Yugular",
       "url": "https://open.spotify.com/track/7JKpS5rKsKWeVPZ0ojBqv9"
@@ -34899,6 +34977,28 @@
     },
     {
       "album": {
+        "name": "LE PED\u00cd A DIOS",
+        "url": "https://open.spotify.com/album/21YunxamBw6fwTRzuDx3Ik"
+      },
+      "artists": [
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214668,
+      "name": "LE PED\u00cd A DIOS",
+      "url": "https://open.spotify.com/track/0u5j4aF91HDisFFExlgtdi"
+    },
+    {
+      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -35038,7 +35138,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 154053,
       "name": "Let Me Tell You (feat. Daniela of KATSEYE)",
       "url": "https://open.spotify.com/track/2Hg6JQr80HfDgb8T9s28g1"
@@ -36799,6 +36899,36 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109128,
+      "name": "Losin' Streak",
+      "url": "https://open.spotify.com/track/6ly0Zc4mrK1W0XLeuAk5Dv"
+    },
+    {
+      "album": {
         "name": "Right Place, Wrong Person",
         "url": "https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I"
       },
@@ -36946,6 +37076,48 @@
       "duration_ms": 237066,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/5JTgqOeHWg4bxMZYMRTE4H"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        },
+        {
+          "name": "Lilli Cooper",
+          "url": "https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        },
+        {
+          "name": "Krystina Alabado",
+          "url": "https://open.spotify.com/artist/4xL2eFX2i8uGTzi2tT3b3u"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124462,
+      "name": "Love In A Bottle",
+      "url": "https://open.spotify.com/track/7u3BVQ9DG1KA9c3Q8W3BLr"
     },
     {
       "album": {
@@ -49921,6 +50093,36 @@
     },
     {
       "album": {
+        "name": "Pasajero",
+        "url": "https://open.spotify.com/album/3P5a4yDyIT6q8ZsX7z2Qid"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Lyon la f",
+          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210576,
+      "name": "Pasajero",
+      "url": "https://open.spotify.com/track/5wPTk2TCDDuQRfqkZukWnk"
+    },
+    {
+      "album": {
         "name": "Pase Lo Que Pase",
         "url": "https://open.spotify.com/album/2yswQjKTvrSvXnIJI40jYI"
       },
@@ -50096,7 +50298,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 166106,
       "name": "Past Won't Leave My Bed",
       "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv"
@@ -52224,7 +52426,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 254333,
       "name": "Por Ese Hombre",
       "url": "https://open.spotify.com/track/4LLM1vflM6qCdFVsJPiq1p"
@@ -54028,7 +54230,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 100403,
       "name": "Quiero saber",
       "url": "https://open.spotify.com/track/6Bxm78zlNnrDGbyCUnCzek"
@@ -56916,7 +57118,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 162533,
       "name": "Sauvignon Blanc",
       "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
@@ -59026,7 +59228,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 249157,
       "name": "SI, SI",
       "url": "https://open.spotify.com/track/4pfBkz1XiRqGZ0ksjJ4YrA"

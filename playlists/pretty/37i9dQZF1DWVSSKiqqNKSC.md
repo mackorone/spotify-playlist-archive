@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,143 likes - 48 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,160 likes - 48 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 41 | [Puro Teatro](https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Laberinto de Pasiones](https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv) | 2:57 |
 | 42 | [Un Poquito al Revés \- Remasterizado](https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 4:33 |
 | 43 | [Soy Cubana](https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F) | [Son Damas](https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM) | [Bailables de Cuba, Vol\. 2](https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX) | 5:09 |
-| 44 | [Esa Soy Yo](https://open.spotify.com/track/0M447oJEDm0pE8QDqbQlfi) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z) | [La Aplanadora de Cuba](https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG) | 5:03 |
+| 44 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
 | 45 | [Que Tiene Que Te Mueve](https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:32 |
-| 46 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
+| 46 | [Esa Soy Yo](https://open.spotify.com/track/0M447oJEDm0pE8QDqbQlfi) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z) | [La Aplanadora de Cuba](https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG) | 5:03 |
 | 47 | [La Preferencia](https://open.spotify.com/track/2qzE1R69r7RatHTEj5zRR9) | [El Noro y Primera Clase](https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf) | [Sin Escala](https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9) | 5:58 |
 | 48 | [Prohibido](https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu) | [Prohibido](https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM) | 4:25 |
 

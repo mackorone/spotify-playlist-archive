@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: lovehead
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,024 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,019 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [erdnussallergie](https://open.spotify.com/track/4eBDKj52bjWGqmxiEYkQTp) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [erdnussallergie](https://open.spotify.com/album/0durMZegCQh5kZ9S3gVtg5) | 1:53 |
 | 8 | [Das schönste Mädchen der Welt](https://open.spotify.com/track/54h7GhGTN7expLX1qYVe8P) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Das schönste Mädchen der Welt](https://open.spotify.com/album/2fuitv9wX2nfqTOLrPvoQh) | 3:00 |
 | 9 | [IHR MÖCHTEGERN](https://open.spotify.com/track/6M1SZZHz3FRPFQlrCotp7G) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Schwesta Ewa](https://open.spotify.com/artist/7jDSMakHqXFe8kIaXfz8jD) | [IHR MÖCHTEGERN](https://open.spotify.com/album/6ygqkJXeFxSTMM1FXK15CA) | 2:23 |
-| 10 | [Erst wenn die Sterne](https://open.spotify.com/track/4eY0kOz83lO8PtQqtTn9SV) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Erst wenn die Sterne](https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe) | 2:15 |
-| 11 | [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 |
+| 10 | [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 |
+| 11 | [Erst wenn die Sterne](https://open.spotify.com/track/4eY0kOz83lO8PtQqtTn9SV) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Erst wenn die Sterne](https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe) | 2:15 |
 | 12 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
 | 13 | [NEIN](https://open.spotify.com/track/6k9RYn3QeRUuJHAzek3KwS) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [NEIN](https://open.spotify.com/album/2VBSthzJ393V6wnQyjYSQT) | 2:10 |
 | 14 | [ausnahmsweise](https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [ausnahmsweise](https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ) | 2:31 |
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [denkst du an mich?](https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [denkst du an mich?](https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs) | 3:17 |
 | 33 | [Ghetto Angel](https://open.spotify.com/track/08C3BRXGvUQ3N819fcaEa7) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Ghetto Angel](https://open.spotify.com/album/5MDSnPsUd3sqklnBIJV7KX) | 2:02 |
 | 34 | [WELT RETTEN](https://open.spotify.com/track/209DNyPbNlLtXeTiunoL1f) | [Luna Antonia](https://open.spotify.com/artist/5wql7oielCnJBx098O8Thc) | [WELT RETTEN](https://open.spotify.com/album/4T5NEVTeXPguLpvmsx6Ca7) | 2:41 |
-| 35 | [Woran liegts?](https://open.spotify.com/track/3DqHHnYGVHWqwRDue9COax) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Woran liegts?](https://open.spotify.com/album/6fO8xpodayYBAUW0W6B0MB) | 3:09 |
-| 36 | [Caffeine](https://open.spotify.com/track/1MlhwzvVVopiMiLuwjR0WG) | [Paula Dalla Corte](https://open.spotify.com/artist/7p86QI1NsaOsdFPBMVyn0I) | [Circus](https://open.spotify.com/album/5yLXtzX6LsBINIz9W0JhTG) | 3:45 |
-| 37 | [Everybody Loves](https://open.spotify.com/track/13a32fcZFJQjd2XS8rZrTf) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Everybody Loves](https://open.spotify.com/album/2Vte0y9lguR8Az4NJ4tTXm) | 2:33 |
-| 38 | [Keine Phase](https://open.spotify.com/track/6Nc9L93jJti8cKh99hHmii) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keine Phase](https://open.spotify.com/album/3QejjRx6pOQlAJDvnCKqJu) | 2:30 |
+| 35 | [Caffeine](https://open.spotify.com/track/1MlhwzvVVopiMiLuwjR0WG) | [Paula Dalla Corte](https://open.spotify.com/artist/7p86QI1NsaOsdFPBMVyn0I) | [Circus](https://open.spotify.com/album/5yLXtzX6LsBINIz9W0JhTG) | 3:45 |
+| 36 | [Woran liegts?](https://open.spotify.com/track/3DqHHnYGVHWqwRDue9COax) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Woran liegts?](https://open.spotify.com/album/6fO8xpodayYBAUW0W6B0MB) | 3:09 |
+| 37 | [Keine Phase](https://open.spotify.com/track/6Nc9L93jJti8cKh99hHmii) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keine Phase](https://open.spotify.com/album/3QejjRx6pOQlAJDvnCKqJu) | 2:30 |
+| 38 | [Everybody Loves](https://open.spotify.com/track/13a32fcZFJQjd2XS8rZrTf) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Everybody Loves](https://open.spotify.com/album/2Vte0y9lguR8Az4NJ4tTXm) | 2:33 |
 | 39 | [Moi pour Toi](https://open.spotify.com/track/2m7aoo6fTqIiztM7V6BxC6) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ), [Sainte Nicole](https://open.spotify.com/artist/3CUCwpcTC3QHXCilDsw51Q) | [Moi pour Toi](https://open.spotify.com/album/3bBaApQ6EvrT8zZAn0ykLp) | 2:37 |
 | 40 | [In Love](https://open.spotify.com/track/3tubh3KCdMP3B7M5veSSYn) | [Mathilde Nordberg](https://open.spotify.com/artist/2xgNUcY5i1gnyeJX0t8Nc0) | [In Love](https://open.spotify.com/album/5QusaiQKE58ARj8jXlFQxJ) | 3:42 |
 | 41 | [Keep Talking](https://open.spotify.com/track/44jfB9HKuDpXn8RjzSxh5Y) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Keep Talking](https://open.spotify.com/album/6G6vBapM0ttf4Z8JPgXD2u) | 3:27 |

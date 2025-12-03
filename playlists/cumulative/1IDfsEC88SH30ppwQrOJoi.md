@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-450 songs - 23 hr 11 min
+451 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Moet](https://open.spotify.com/track/4zyujtPuW01tsF8e4ia6x6) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Artichokes](https://open.spotify.com/artist/2MOGVTGXHBAetfTkyXgraD) | [Moet](https://open.spotify.com/album/0S38tmYY8ANm1U74cmZ0yw) | 2:31 | 2024-10-18 | 2025-10-15 |
 | [MONEY ON THE DASH \- SPED UP](https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 1:56 | 2023-06-13 | 2024-03-14 |
 | [Moonlight \(feat\. Antrex\)](https://open.spotify.com/track/08VzBbaIZe2jbB7nqPJWgK) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Antrex](https://open.spotify.com/artist/5hOuIXHYebxxydOAEtHVbm) | [Moonlight \(feat\. Antrex\)](https://open.spotify.com/album/5OLbKkQKpJWxk81jq5taCt) | 2:39 | 2023-08-09 | 2024-05-01 |
+| [More](https://open.spotify.com/track/0lxaE62v5sW1FtSfN3qFGd) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Zans](https://open.spotify.com/artist/6D7wW45mKNEFhf4vkXv79x) | [More](https://open.spotify.com/album/3UA4zhPsqRHungaY4m9hp3) | 2:38 | 2025-12-02 |  |
 | [More Amor Por Favor](https://open.spotify.com/track/60udDsJRykIoU3NEkIxQhR) | [Dylan Linde](https://open.spotify.com/artist/46TgAyti9rSypJlfwUYOso) | [More Amor Por Favor](https://open.spotify.com/album/3mus1ZKMKim10fbXVXyXvO) | 3:52 | 2024-01-08 | 2024-05-01 |
 | [More Love \- Rampa &ME Remix](https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [More Love \(Rampa &ME Remix\)](https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC) | 6:11 | 2023-12-08 | 2024-03-14 |
 | [Movin' Up](https://open.spotify.com/track/4OWZvuXRQR53BndxTUH2Cg) | [Richard Vission](https://open.spotify.com/artist/3EBdhh05GoAX3lIqJSPVXt) | [Movin' Up](https://open.spotify.com/album/2wURP9XTdWVRKd4PdRC8yS) | 2:12 | 2025-10-27 |  |

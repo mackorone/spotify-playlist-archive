@@ -1,6 +1,6 @@
 {
   "description": "On October 3rd he asked me what day it was",
-  "num_followers": 588326,
+  "num_followers": 588458,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 214440,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "So Yesterday",
-      "url": "https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Greetings From Imrie House (U.S. Version)",
         "url": "https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 234146,
       "name": "Just the Girl",
       "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "So Yesterday",
+      "url": "https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX"
     },
     {
       "added_at": "2024-07-12 21:13:59",

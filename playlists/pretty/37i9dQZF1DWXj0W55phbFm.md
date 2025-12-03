@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,105 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,140 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 62 | [I Lost My Gal from Memphis](https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK) | [Bubber Miley](https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT) | [Thumpin' & Bumpin' \- New York, Vol\. 2](https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv) | 2:59 |
 | 63 | [Response \- Live](https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [A Rift In Decorum: Live At The Village Vanguard](https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb) | 5:37 |
 | 64 | [Instigator](https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL) | [Jon Faddis](https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX) | [Legacy](https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV) | 4:45 |
-| 65 | [Dear Old Stockholm](https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Simply Stated](https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK) | 10:00 |
-| 66 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 |
+| 65 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 |
+| 66 | [Dear Old Stockholm](https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Simply Stated](https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK) | 10:00 |
 | 67 | [Tranquillity \- Remastered 1998](https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93) | [Howard McGhee: Volume 2 / Tal Farlow Quartet](https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg) | 4:10 |
 | 68 | [Apple House](https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Moving Picture](https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh) | 5:12 |
 | 69 | [El Sino](https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd's Eye View](https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF) | 10:03 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 93 | [Weather Bird](https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Louis Armstrong: Portrait Of The Artist As A Young Man 1923\-1934](https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm) | 2:41 |
 | 94 | [Aneba](https://open.spotify.com/track/1Kn4OVpZkkhBvaHky7PLY8) | [Kenny Wheeler](https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs) | [One Of Many](https://open.spotify.com/album/5TI8dGwbWmGyWyY5NCIhwj) | 5:59 |
 | 95 | [Life's A Little Blue](https://open.spotify.com/track/6STw2TK2sYu8V6pPNT9Sl3) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Complete Quartet Recordings](https://open.spotify.com/album/7af3OeScFJ73L8CNp6uzbA) | 6:51 |
-| 96 | [Children's Waltz](https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Philip Catherine](https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn) | [Late Night Jazz \(Deluxe Edition\)](https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64) | 2:59 |
+| 96 | [Solar](https://open.spotify.com/track/0inE6nSUt8DmS8WzIQ8B9g) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [In New York \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ) | 5:52 |
 | 97 | [So What \- Live at Festival Mondial Du Jazz Antibes/Juan\-Les\-Pins, France \- July 26, 1963](https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [So What \(Live at Festival Mondial Du Jazz Antibes/Juan\-Les\-Pins, France \- July 26, 1963\)](https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2) | 9:46 |
 | 98 | [Sweet Sue, Just You](https://open.spotify.com/track/6u5C5IyKw0tFHv281NxBJh) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [Swingin' on the Town](https://open.spotify.com/album/7MDAycdJ4ygiGIjxYHTg8F) | 2:24 |
 | 99 | [Loneliness](https://open.spotify.com/track/1EaR5KcQamWE8X8z07wZMf) | [John Carter](https://open.spotify.com/artist/29bSP1G67IixkZAv6VhlaT), [Bobby Bradford](https://open.spotify.com/artist/3iysE3N9e6nZZ6kHUoiOCl) | [Self Determination Music](https://open.spotify.com/album/3n892nCuaQxDO0fiuoYV7W) | 9:10 |
-| 100 | [Solar](https://open.spotify.com/track/0inE6nSUt8DmS8WzIQ8B9g) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [In New York \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ) | 5:52 |
+| 100 | [Children's Waltz](https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Philip Catherine](https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn) | [Late Night Jazz \(Deluxe Edition\)](https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64) | 2:59 |
 
 Snapshot ID: `AAAAAFvQ/Qn4ehY02dwpQ/hypOLDKT24`

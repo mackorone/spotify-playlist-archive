@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,183 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,204 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 49 | [Zaahen, the Unsundered](https://open.spotify.com/track/40Hsk65T7AycaUT5GYu0pB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Trials of Twilight \(Original Soundtrack from League of Legends\)](https://open.spotify.com/album/7mpX4l9M8bFRZOQb73qEbd) | 4:08 |
 | 50 | [Piercing Light](https://open.spotify.com/track/4kVME8P0uGX7TS6hYtrZ4A) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/4y78CCwB5zEjxnEDi8a6lM) | 4:51 |
 
-Snapshot ID: `aSuJAAAAAACGhlCStohR4RyQwbuaSFfe`
+Snapshot ID: `aSzagAAAAAAr6KYbn34SxINlFFJvTYk+`

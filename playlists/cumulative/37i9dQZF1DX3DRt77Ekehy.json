@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 181416,
       "name": "432",
       "url": "https://open.spotify.com/track/3ZpykRilpbgKjlKwqvI9fk"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 145549,
       "name": "432 Deep Sleep Delta Waves (2.53)",
       "url": "https://open.spotify.com/track/3Ye3b0gsgKW70PpHpj9xC6"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 151200,
       "name": "432 Horizons: Ethereal Journeys in Harmonic Flow",
       "url": "https://open.spotify.com/track/6Oy80rmyhnngjwv5hPMtie"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 205363,
       "name": "432 Hz A Journey Within",
       "url": "https://open.spotify.com/track/3KBFl5r14HX70R1lAq9zNI"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 165000,
       "name": "432 Hz Bliss of Nature",
       "url": "https://open.spotify.com/track/2W7V8CAAJchRCdSCEKUbwW"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 176667,
       "name": "432 Hz Calm",
       "url": "https://open.spotify.com/track/2fKKLKOdbvoENYG2UG92vB"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 194400,
       "name": "432 Hz Deep Relaxation",
       "url": "https://open.spotify.com/track/2lMT3fDC5ehQaajU5rOips"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 148800,
       "name": "432 Hz Deep Sleep",
       "url": "https://open.spotify.com/track/0VFoV0zUeRr2q3N0CCP3O6"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 144271,
       "name": "432 Hz Dreamers",
       "url": "https://open.spotify.com/track/7jRF5JKsOFaM52gxT4uiLZ"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 162381,
       "name": "432 Hz Flying Drones",
       "url": "https://open.spotify.com/track/1PEkbigEZ2F83twJqxzYJT"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 144012,
       "name": "432 Hz Freeflow",
       "url": "https://open.spotify.com/track/3qOHsHsf6psxEYRhd1D0fu"
@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "432 Hz Lightness",
+        "url": "https://open.spotify.com/album/7Ckay15B5pR46WeRePxgIY"
+      },
+      "artists": [
+        {
+          "name": "Ecos del Reposo",
+          "url": "https://open.spotify.com/artist/1JMxQ95ZvQ3wjwN5Rv2QNP"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "432 Hz Lightness",
+      "url": "https://open.spotify.com/track/3tEJALSWG70rOGjDpbCSFa"
+    },
+    {
+      "album": {
         "name": "432 Hz Lunarium",
         "url": "https://open.spotify.com/album/4YrkXeTV28Xs8icpHnw1kU"
       },
@@ -900,7 +918,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 149265,
       "name": "432 Hz Lunarium",
       "url": "https://open.spotify.com/track/75f4ro1O7jhW6qnpd2nfA3"
@@ -918,7 +936,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 152000,
       "name": "432 Hz Manifestation",
       "url": "https://open.spotify.com/track/1ExBx6Btx2LgeHFXYlOLm6"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 147000,
       "name": "432 Hz Miracle Frequency",
       "url": "https://open.spotify.com/track/2TCZ8lRKi8TQ8AN7B9ZB8b"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 182846,
       "name": "432 Hz Peace",
       "url": "https://open.spotify.com/track/1rvNHLKHW5wPioF6nBdqy4"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 143634,
       "name": "432 Hz Peaceful Sanctuary",
       "url": "https://open.spotify.com/track/3UK4Z4cf5bvKHGwVi5i8Vt"
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 171600,
       "name": "432 Hz Predominant",
       "url": "https://open.spotify.com/track/12Ut3agAmQlz46gJiomTwS"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 212459,
       "name": "432 Hz Pulses of the Earth",
       "url": "https://open.spotify.com/track/3HTZZm8FmC7TtBPwWjN2cF"
@@ -1195,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "432 Hz Refresh",
+        "url": "https://open.spotify.com/album/2dewio8FgJ5AciXuxLZ8qW"
+      },
+      "artists": [
+        {
+          "name": "Calma",
+          "url": "https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164371,
+      "name": "432 Hz Refresh",
+      "url": "https://open.spotify.com/track/2NO5aJz7d9XrWpmFK9zqYo"
+    },
+    {
+      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/1AjaVNgylLuRhsBZptlwKH"
       },
@@ -1206,7 +1242,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 201000,
       "name": "432 Hz Resonating With Life",
       "url": "https://open.spotify.com/track/606hd9g4lSRvvw2vphx6H2"
@@ -1224,7 +1260,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 216013,
       "name": "432 Hz Rest",
       "url": "https://open.spotify.com/track/7jCyl5d1BEYXDgfX6m5lB3"
@@ -1332,7 +1368,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 156000,
       "name": "432 Hz Solfeggio Reset",
       "url": "https://open.spotify.com/track/3hzTLp11Cdl5y4BNnlO1bk"
@@ -1368,7 +1404,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 180637,
       "name": "432 Hz Somnia",
       "url": "https://open.spotify.com/track/5t3ius4mn4PnEP5jkio4QO"
@@ -1458,7 +1494,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 156934,
       "name": "432 Hz Tranquility",
       "url": "https://open.spotify.com/track/4Gnc5PPMd8FOaOUJAt8FRo"
@@ -1512,7 +1548,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 154000,
       "name": "432 Hz Tuning",
       "url": "https://open.spotify.com/track/39Um4YsLcRuEz9Ht4BtS8z"
@@ -1566,7 +1602,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 158400,
       "name": "432 Hz Vega Sleep",
       "url": "https://open.spotify.com/track/3VQNBefg41rZVnmsyvFJ4T"
@@ -1638,7 +1674,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 193993,
       "name": "432Hz - Asteroid Lullaby",
       "url": "https://open.spotify.com/track/0rifZEkCPWjrjTPfdkWT2X"
@@ -1656,7 +1692,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 191881,
       "name": "432Hz - Galactic Echoes",
       "url": "https://open.spotify.com/track/5t9cp6fHEKdTMtEmuZLQSN"
@@ -1674,7 +1710,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 146404,
       "name": "432Hz - Lunar Reverberations",
       "url": "https://open.spotify.com/track/3f7B2KkJgjhc39bEHFNMjR"
@@ -1844,7 +1880,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 181124,
       "name": "Aephoris 432Hz",
       "url": "https://open.spotify.com/track/4qJHZujab4bvUNKJqhllby"
@@ -2013,6 +2049,24 @@
     },
     {
       "album": {
+        "name": "Aranya (432 Hz)",
+        "url": "https://open.spotify.com/album/1RAJVSCBuef6RqPgFvnRyD"
+      },
+      "artists": [
+        {
+          "name": "L\u00f3ni Alma",
+          "url": "https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Aranya (432 Hz)",
+      "url": "https://open.spotify.com/track/3Lo7JNM7p2XRvjF99rmHHa"
+    },
+    {
+      "album": {
         "name": "Archipelago",
         "url": "https://open.spotify.com/album/5WSFpBbwZiS1BVXyO6eU21"
       },
@@ -2042,7 +2096,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 194100,
       "name": "Ascending 432hz",
       "url": "https://open.spotify.com/track/0bqNhWbn04cBLu6Rv22Iuu"
@@ -2060,7 +2114,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 227083,
       "name": "Ashkira - Place of Light (432 Hz)",
       "url": "https://open.spotify.com/track/6zBGhyeARtvODnnn6G59lo"
@@ -2096,7 +2150,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 168000,
       "name": "Astral Sanctity",
       "url": "https://open.spotify.com/track/1yBeiVQAmn0ZjThnNf7dGo"
@@ -2114,7 +2168,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 164252,
       "name": "Astral Wonders 432 Hz",
       "url": "https://open.spotify.com/track/2rK5KFSaoUNXeKV7JyPH9k"
@@ -2204,7 +2258,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 158562,
       "name": "Beginning 432Hz",
       "url": "https://open.spotify.com/track/5fnv00wDpjBGWwO3NHN7MN"
@@ -2240,7 +2294,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 194181,
       "name": "Bellatrix Dhyana",
       "url": "https://open.spotify.com/track/6ONYA9KkpNZzDsEjVN6rG6"
@@ -2312,7 +2366,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 141250,
       "name": "Borobudur",
       "url": "https://open.spotify.com/track/01tPWVf2QA5lchGfVtHvFI"
@@ -2330,7 +2384,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 169307,
       "name": "Brisa (432 Hz)",
       "url": "https://open.spotify.com/track/5uEoiPYWBRxb4Q6mo9amOz"
@@ -2672,7 +2726,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 165957,
       "name": "Cosmos 432Hz",
       "url": "https://open.spotify.com/track/48LQGAwjbBWY6MvLnpA3Xn"
@@ -2744,7 +2798,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 205895,
       "name": "Deep Rest 432 Hz",
       "url": "https://open.spotify.com/track/5CIskweV3RzJJM7BITR4GF"
@@ -2834,7 +2888,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 182933,
       "name": "Dreaming 432 Hz",
       "url": "https://open.spotify.com/track/5bNcyhyKCE5fx8RzGYEsgI"
@@ -2870,7 +2924,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 175000,
       "name": "Ecalibrate (432 Hz)",
       "url": "https://open.spotify.com/track/7p55uw8TtdyZtNzKCmg7RV"
@@ -2960,7 +3014,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 157704,
       "name": "Electric Stars (432 Hz)",
       "url": "https://open.spotify.com/track/4ERZtUyaElZ98qB67c6ULR"
@@ -3140,7 +3194,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 150870,
       "name": "Equilibrio 432Hz",
       "url": "https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF"
@@ -3212,7 +3266,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 172000,
       "name": "Evolution 432 Hz",
       "url": "https://open.spotify.com/track/4cmAtPYgq5QFwWy5DAZwI4"
@@ -3230,7 +3284,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 189000,
       "name": "Expansion 432 Hz",
       "url": "https://open.spotify.com/track/3nPpV6AFJIUqfwgDQ2lt0t"
@@ -3266,7 +3320,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 192249,
       "name": "Floating Dream (432 Hz)",
       "url": "https://open.spotify.com/track/0BuO5gAcmEMZ5ApEzp8ca9"
@@ -3284,7 +3338,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 147199,
       "name": "Free 432 Hz",
       "url": "https://open.spotify.com/track/2acJx8dQ4RiTdm7BOgVCqr"
@@ -3302,7 +3356,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 151614,
       "name": "Full Body Calm 432 Hz",
       "url": "https://open.spotify.com/track/3bAApf1GXT82jcKq4TETK6"
@@ -3345,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "Gentle Flow 432 Hz",
+        "url": "https://open.spotify.com/album/5k0BL2EJyayOWPje3qY5gz"
+      },
+      "artists": [
+        {
+          "name": "Magnapinna",
+          "url": "https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138281,
+      "name": "Gentle Flow 432 Hz",
+      "url": "https://open.spotify.com/track/4YmiE3SX3IdjmrRnpvHdac"
+    },
+    {
+      "album": {
         "name": "Giving In Solfeggio 432hz",
         "url": "https://open.spotify.com/album/5AyiPVPBnQHuHisnqpPzhe"
       },
@@ -3374,7 +3446,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 165295,
       "name": "Gliding (432 Hz)",
       "url": "https://open.spotify.com/track/3rzxwzDHfFVSFLFi2AoIjS"
@@ -3482,7 +3554,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 184040,
       "name": "Harmony 432 Hz",
       "url": "https://open.spotify.com/track/2meZZa9BoV9sYyId6UcuCr"
@@ -3518,7 +3590,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 129910,
       "name": "Healing Reload 432",
       "url": "https://open.spotify.com/track/2QsGlYUKkNKqk28WFJdsxu"
@@ -3536,7 +3608,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 164264,
       "name": "Heim",
       "url": "https://open.spotify.com/track/6sMmwXXRgv4asxC3KOCvyb"
@@ -3590,7 +3662,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 191068,
       "name": "Horizon 432 Hz",
       "url": "https://open.spotify.com/track/1Bx7lYFiELwI8z2jQOTfwm"
@@ -3644,7 +3716,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 157025,
       "name": "In Bloom 432 Hz",
       "url": "https://open.spotify.com/track/2AwyNdkxsokNv056gSNOpE"
@@ -3788,7 +3860,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 166000,
       "name": "Intimate 432Hz",
       "url": "https://open.spotify.com/track/64KngKKcOhtuiR7BdAxs78"
@@ -3806,7 +3878,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 162873,
       "name": "Inward - 432Hz",
       "url": "https://open.spotify.com/track/7zeekKVjyyZBQYm0ie3CiR"
@@ -3950,7 +4022,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 151196,
       "name": "Lift Off 432Hz",
       "url": "https://open.spotify.com/track/0gCCqcIS0Rhbf5zqp2gAsT"
@@ -3986,7 +4058,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 193981,
       "name": "Like The Wind (432 Hz)",
       "url": "https://open.spotify.com/track/2pdEKpNfKoobGQigS3OJoQ"
@@ -4058,7 +4130,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 167142,
       "name": "Majestic Moment 432hz - Studio Edit",
       "url": "https://open.spotify.com/track/7LqVPIJgSDRdZkB2nV3obH"
@@ -4112,7 +4184,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 152051,
       "name": "Moon Attraction (432 Hz)",
       "url": "https://open.spotify.com/track/2ZElMcc6WmB8pkGyeEJ58o"
@@ -4166,7 +4238,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 155876,
       "name": "Nature's Drone 432Hz",
       "url": "https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm"
@@ -4184,7 +4256,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 176107,
       "name": "Nature's Path 432 Hz",
       "url": "https://open.spotify.com/track/6rpxhxT1FNSEwkSgBONMSZ"
@@ -4292,7 +4364,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 152538,
       "name": "Om Shanti (432 Hz)",
       "url": "https://open.spotify.com/track/4ypEOe9cpgDX8SY1zM6coc"
@@ -4310,7 +4382,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 173205,
       "name": "Onthou 432 Hz",
       "url": "https://open.spotify.com/track/7COlRpwJZKvioLFQNTDoJr"
@@ -4508,10 +4580,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 164500,
       "name": "Puste 432Hz",
       "url": "https://open.spotify.com/track/5QopDD6crrYIvVZ66EEjoG"
+    },
+    {
+      "album": {
+        "name": "Rainlight Over Glass Lakes 432 Hz",
+        "url": "https://open.spotify.com/album/5iF0tLhMpdl06tLBcLFOkv"
+      },
+      "artists": [
+        {
+          "name": "Elysian Path",
+          "url": "https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172741,
+      "name": "Rainlight Over Glass Lakes 432 Hz",
+      "url": "https://open.spotify.com/track/2dtL9eQ9yRw7rDSbjlK7XT"
     },
     {
       "album": {
@@ -4688,7 +4778,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 151359,
       "name": "Sacred Resonance - 432Hz",
       "url": "https://open.spotify.com/track/1br0iDLwWID5X0PJzuKKAH"
@@ -4886,7 +4976,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 154634,
       "name": "Serenidad (432 Hz)",
       "url": "https://open.spotify.com/track/1uWABzZH9fLadImifcnOTL"
@@ -4994,7 +5084,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 166147,
       "name": "Slow Down 432 Hz",
       "url": "https://open.spotify.com/track/215sxp8f2g6XTpOyX2ga6j"
@@ -5156,7 +5246,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 133784,
       "name": "Suave 432Hz",
       "url": "https://open.spotify.com/track/77JePQLKbLkZ44rLLcYa1G"
@@ -5282,7 +5372,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 195576,
       "name": "Through Clouds (432 Hz)",
       "url": "https://open.spotify.com/track/7z92CzQTlFhqHbGkvT6arJ"
@@ -5336,7 +5426,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 202105,
       "name": "Transitions 432 Hz",
       "url": "https://open.spotify.com/track/5RWycEYAUhOpVGoett7wts"
@@ -5390,7 +5480,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 155714,
       "name": "Vibration Cleanse 432 Hz",
       "url": "https://open.spotify.com/track/2qidIZo2uVjMhg4qOPxGu1"
@@ -5408,7 +5498,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 191773,
       "name": "Warm Winds 432 Hz",
       "url": "https://open.spotify.com/track/5S6ndFms2N6gJjyvjnLehA"

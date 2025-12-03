@@ -27992,7 +27992,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 247154,
-      "name": "Idol (feat. Tech N9ne)",
+      "name": "Idol - feat. Tech N9ne",
       "url": "https://open.spotify.com/track/6q1F8dDPA8z2iaTE4XW2gG"
     },
     {
@@ -59553,6 +59553,24 @@
     },
     {
       "album": {
+        "name": "Two Souls",
+        "url": "https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Two Souls",
+      "url": "https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j"
+    },
+    {
+      "album": {
         "name": "BAD ASS F*CKING KID",
         "url": "https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm"
       },
@@ -61352,6 +61370,24 @@
       "duration_ms": 204029,
       "name": "Viernes Impar",
       "url": "https://open.spotify.com/track/6nIzS0eniRxxQBw3QynDlm"
+    },
+    {
+      "album": {
+        "name": "Vino El Amor",
+        "url": "https://open.spotify.com/album/5z8uzZz2T9FM1uPDUWBocD"
+      },
+      "artists": [
+        {
+          "name": "Evan Rodz",
+          "url": "https://open.spotify.com/artist/11b5iup6dk8QDzFH2sQ0bw"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223190,
+      "name": "Vino El Amor",
+      "url": "https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc"
     },
     {
       "album": {

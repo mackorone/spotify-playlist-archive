@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 
 > This is Libido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,888 likes - 46 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,891 likes - 46 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 | 22 | [La Casa de los Gritos](https://open.spotify.com/track/2gBZSYQytrXqaLnznHuadp) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/1LA8tJh592GVJhZfpUsczU) | 2:36 |
 | 23 | [Mabel](https://open.spotify.com/track/2T7WlGitcpfNIX63s3yrlD) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5hGB6av695f2Z7dihL9aCs) | 4:00 |
 | 24 | [Esther Fe](https://open.spotify.com/track/275dUFyX58dpunskQhi6JY) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/6TgwJxSTeSBQBSPYJrLsfE) | 3:52 |
-| 25 | [Mariposas](https://open.spotify.com/track/6hRo9OaEvtE7fhxB6Bw9md) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:10 |
+| 25 | [Llévame](https://open.spotify.com/track/4qr3HrKbAVrGRpVgbsmWbI) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:36 |
 | 26 | [Por Si Tratas de Volver](https://open.spotify.com/track/23dmsItzqhsXLssh6bquTZ) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Por Si Tratas de Volver](https://open.spotify.com/album/3o4o40CkLE2l3QtuILhAWn) | 4:38 |
 | 27 | [Culpable](https://open.spotify.com/track/24dCrnCWI8elHQpW1iqsB6) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5hGB6av695f2Z7dihL9aCs) | 2:37 |
 | 28 | [Salvaciones](https://open.spotify.com/track/0lmDOqtXSdwW3JqlDEA84S) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/178tFgYGKsuGVf1Wqx3uKy) | 4:02 |
-| 29 | [Llévame](https://open.spotify.com/track/4qr3HrKbAVrGRpVgbsmWbI) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:36 |
+| 29 | [Mariposas](https://open.spotify.com/track/6hRo9OaEvtE7fhxB6Bw9md) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:10 |
 | 30 | [Nadie Sabe Lo Que Vendrá](https://open.spotify.com/track/5m6iB7o9iwfVTaNSpBXG3M) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 3:11 |
 | 31 | [Nicotina](https://open.spotify.com/track/7y3LLgF5f8aaQoTP13sIyk) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5hGB6av695f2Z7dihL9aCs) | 2:40 |
 | 32 | [Hambre \- En Vivo](https://open.spotify.com/track/0ImBI5NqL7mWgLCJhXdk4l) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido en Vivo Coliseo Dibós \(En Vivo\)](https://open.spotify.com/album/2XZbsEeI6vKVCdoEJ6pEKp) | 3:57 |
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 | 37 | [Igual Que Ayer](https://open.spotify.com/track/4hkZKqqskYe2KzV9n8TOaT) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:27 |
 | 38 | [Un Día Nuevo](https://open.spotify.com/track/3mQLsMADrQL9cCpKVbnpYa) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 4:03 |
 | 39 | [Fantasma \- En Vivo](https://open.spotify.com/track/4cHItL6lggofWDDPVg4AUO) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5hGB6av695f2Z7dihL9aCs) | 3:46 |
-| 40 | [Vientos y Amarguras](https://open.spotify.com/track/38gqUUznAWsu8K55zfFfdx) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/178tFgYGKsuGVf1Wqx3uKy) | 2:36 |
-| 41 | [Hablar No Es Necesario](https://open.spotify.com/track/7mQx2pOfRyGLCOO8umcjb9) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/62xgGgRQT5NrAfsWEoeTyt) | 2:16 |
+| 40 | [Hablar No Es Necesario](https://open.spotify.com/track/7mQx2pOfRyGLCOO8umcjb9) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/62xgGgRQT5NrAfsWEoeTyt) | 2:16 |
+| 41 | [Vientos y Amarguras](https://open.spotify.com/track/38gqUUznAWsu8K55zfFfdx) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/178tFgYGKsuGVf1Wqx3uKy) | 2:36 |
 | 42 | [Sentir Que Hoy](https://open.spotify.com/track/5f8aphPeEriZf6qNZXBNTc) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 3:30 |
 | 43 | [Criatura Misteriosa \- En Vivo](https://open.spotify.com/track/6iEZ8FQwD73BGBskoR7E1R) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido en Vivo Coliseo Dibós \(En Vivo\)](https://open.spotify.com/album/2XZbsEeI6vKVCdoEJ6pEKp) | 4:39 |
-| 44 | [La Mujer](https://open.spotify.com/track/1aI5v8VXseEIohlEZoOti6) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/178tFgYGKsuGVf1Wqx3uKy) | 3:16 |
-| 45 | [Mundo Perfecto](https://open.spotify.com/track/4LTxmiksWSUtuHzg2S7PXO) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/62xgGgRQT5NrAfsWEoeTyt) | 2:41 |
+| 44 | [Mundo Perfecto](https://open.spotify.com/track/4LTxmiksWSUtuHzg2S7PXO) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/62xgGgRQT5NrAfsWEoeTyt) | 2:41 |
+| 45 | [La Mujer](https://open.spotify.com/track/1aI5v8VXseEIohlEZoOti6) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/178tFgYGKsuGVf1Wqx3uKy) | 3:16 |
 | 46 | [Something](https://open.spotify.com/track/7mC7r1jLqnsIgRdJNJ8q9l) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 2:46 |
 
-Snapshot ID: `aSuJAAAAAABIfNjgX67dbisN9iA0lYBU`
+Snapshot ID: `aSzagAAAAAAoZZJaeAIXi3GthsYYNVsw`

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZLhUfNQOQ1p.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZLhUfNQOQ1p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZLhUfNQOQ1p)
 
-### [Aperitivo Time](https://open.spotify.com/playlist/37i9dQZF1DWZLhUfNQOQ1p)
+### [ape time](https://open.spotify.com/playlist/37i9dQZF1DWZLhUfNQOQ1p)
 
-> Musica da ascoltare con un drink in mano 🍹
+> ti devo raccontare di persona, facciamo ape? 🫒
 
-442 songs - 1 day 5 hr 47 min
+443 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Dreams Away](https://open.spotify.com/track/0R9WmKhiwdJjRBOkGK1XQ4) | [Albin Nordh](https://open.spotify.com/artist/487I47oTYPGiqAwO6yuved) | [Dreams Away](https://open.spotify.com/album/04iUPOlqZk4toyXcRKaite) | 3:57 | 2021-08-05 | 2023-05-31 |
 | [Drift](https://open.spotify.com/track/17k5mzHtzXaYvXxOGiEuQp) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Drift](https://open.spotify.com/album/3O8ijxTJgSN2CnPKqVuna7) | 3:05 | 2021-08-05 | 2022-07-15 |
 | [Drin Drin](https://open.spotify.com/track/720oSVKY1dyo53P0NhCz40) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Le Più Belle Canzoni](https://open.spotify.com/album/0yS4KqzSVnHRuFfZkLkHzu) | 3:33 | 2023-05-14 | 2023-05-30 |
+| [Drowned in Blue](https://open.spotify.com/track/3Oi6tPZNQizEDBfXVtyzn2) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Drowned in Blue](https://open.spotify.com/album/716cHuoRhH3rDq34HaTBE9) | 2:58 | 2025-12-02 |  |
 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 | 2023-05-30 |  |
 | [Dusty Sundays](https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Dusty Sundays](https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod) | 5:58 | 2023-05-30 | 2025-03-21 |
 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 | 2025-03-21 |  |
@@ -162,7 +163,7 @@
 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 | 2023-05-30 | 2024-04-19 |
 | [Half\-time Dreams](https://open.spotify.com/track/7LKPoZj6pjbpykI0ZKYPxR) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [INIT](https://open.spotify.com/artist/3k6lezqoh9ESd5A4Ebdo5Q) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 4:25 | 2023-07-13 |  |
 | [Happiness \- Eternal Moment Mix](https://open.spotify.com/track/23eieUqlZtoCmziKZAKUXF) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Happiness \(Eternal Moment Mix\)](https://open.spotify.com/album/15Ur2tyY5TVmSRyXSRw4GA) | 3:11 | 2021-08-05 | 2022-07-29 |
-| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2023-05-30 |  |
+| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2023-05-30 | 2025-12-03 |
 | [Heartbeat](https://open.spotify.com/track/5R6YdiE4n2U1SVQ2UgIcqK) | [Tom Garrick](https://open.spotify.com/artist/6pornfCIACcxUzhUcbDBFc) | [Heartbeat](https://open.spotify.com/album/2C5N1RcQcaY3Fx5Q3kiWkk) | 2:56 | 2021-08-05 | 2023-05-31 |
 | [Hold On](https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Hold On](https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC) | 3:44 | 2021-08-05 | 2023-05-31 |
 | [Horizon](https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Horizon](https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK) | 3:34 | 2021-08-05 | 2023-05-31 |

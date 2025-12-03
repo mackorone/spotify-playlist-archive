@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving those vibes\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,449 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,429 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
 | 2 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
-| 3 | [WITH THAT](https://open.spotify.com/track/0j61UsAExNEJUx6VBn5okq) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [TWÉÉ](https://open.spotify.com/album/4nBlPxoAWW98IxdivKIwEI) | 3:08 |
+| 3 | [WITH THAT](https://open.spotify.com/track/0j61UsAExNEJUx6VBn5okq) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [EP – TWÉÉ](https://open.spotify.com/album/4nBlPxoAWW98IxdivKIwEI) | 3:08 |
 | 4 | [Thug Love](https://open.spotify.com/track/4rXsUyPPLzVPjmzexHBUjS) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn) | [Thug Love](https://open.spotify.com/album/7vvH5Z2FuK9hJiEda2ivfQ) | 2:15 |
 | 5 | [VANAVOND](https://open.spotify.com/track/3jG8uhJ40CZernF9nHveqq) | [Furagain](https://open.spotify.com/artist/4JciQkf0ScmAMzUWJnHMOC), [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk) | [VANAVOND](https://open.spotify.com/album/0jjeqbkOEZShK1Ob4AdAbW) | 2:30 |
 | 6 | [Canvas](https://open.spotify.com/track/32pZXiV8O9r7WNFhjDj9Tm) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM) | [Canvas](https://open.spotify.com/album/0DRfxdlqVB54AZX35SK3pC) | 2:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,841 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,805 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 32 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 |
 | 33 | [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 |
 | 34 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 |
-| 35 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
-| 36 | [Miracle](https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7) | 3:36 |
+| 35 | [Miracle](https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7) | 3:36 |
+| 36 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
 | 37 | [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 |
 | 38 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 |
 | 39 | [Lonestar](https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations \(Outtakes Edition\)](https://open.spotify.com/album/0H7Ygy8UZ1FBz5N2LKRpjq) | 2:53 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 43 | [Mr\. Plastic](https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Mr\. Plastic](https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ) | 2:11 |
 | 44 | [Love That Girl](https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP) | 3:04 |
 | 45 | [Dodged A Bullet](https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Dodged A Bullet](https://open.spotify.com/album/6kLLJQFrfLqvl71WdqQLz9) | 2:38 |
-| 46 | [All There Is To Know](https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All There Is To Know](https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC) | 3:16 |
-| 47 | [End Zone](https://open.spotify.com/track/2wCllylUpVkRPKrMKUuaVD) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [ROM COM](https://open.spotify.com/artist/2MrqzR7wCXVQ0r6PPDIQTg) | [End Zone](https://open.spotify.com/album/6nE416MMt0BOKa0e696X7J) | 2:43 |
+| 46 | [End Zone](https://open.spotify.com/track/2wCllylUpVkRPKrMKUuaVD) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [ROM COM](https://open.spotify.com/artist/2MrqzR7wCXVQ0r6PPDIQTg) | [End Zone](https://open.spotify.com/album/6nE416MMt0BOKa0e696X7J) | 2:43 |
+| 47 | [All There Is To Know](https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All There Is To Know](https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC) | 3:16 |
 | 48 | [Kick Out of You](https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Kick Out of You](https://open.spotify.com/album/0jEYKbsEzz4s3xK65hBhq5) | 3:19 |
 | 49 | [Wait For Me](https://open.spotify.com/track/7cMg5vrTt97hgKvKC6Ju7s) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Wait For Me](https://open.spotify.com/album/72eW4GfBdULIVENa700Fah) | 2:39 |
 | 50 | [Wasted Time](https://open.spotify.com/track/4zuis8Tg4TrhoQfRaKtCJ0) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Wasted Time](https://open.spotify.com/album/2Yx8F5G25DlYYh6CbAJLUj) | 3:44 |

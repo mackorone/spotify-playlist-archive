@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B hits. Cover: Leon Thomas",
-  "num_followers": 62413,
+  "num_followers": 62418,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2025-11-14 00:00:21",
       "album": {
-        "name": "Favourite Girl",
-        "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Dess Dior",
-          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Favourite Girl",
-      "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
-    },
-    {
-      "added_at": "2025-11-14 00:00:21",
-      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 147046,
       "name": "No.1 (feat. Tems)",
       "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+    },
+    {
+      "added_at": "2025-11-14 00:00:21",
+      "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
     },
     {
       "added_at": "2025-11-14 00:00:21",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-11-14 00:00:21",
       "album": {
+        "name": "For The Streets",
+        "url": "https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 145605,
+      "name": "For The Streets",
+      "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
+    },
+    {
+      "added_at": "2025-11-14 00:00:21",
+      "album": {
         "name": "COMING HOME",
         "url": "https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 181646,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/6qltYwOOeBPILmT9qYuAYd"
-    },
-    {
-      "added_at": "2025-11-14 00:00:21",
-      "album": {
-        "name": "For The Streets",
-        "url": "https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2"
-      },
-      "artists": [
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
-        }
-      ],
-      "duration_ms": 145605,
-      "name": "For The Streets",
-      "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
     }
   ],
   "unique_name": "Certi: R&B",

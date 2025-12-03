@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With BIRRD, Leblanc, After Cooking and more
+> With After Cooking, winterburn, Leblanc and more
 
 202 songs - 15 hr 5 min
 

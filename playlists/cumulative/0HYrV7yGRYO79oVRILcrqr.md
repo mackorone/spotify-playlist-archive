@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-196 songs - 12 hr 3 min
+198 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Hangover](https://open.spotify.com/track/1AAetcgV5lmgLM07i3gxDW) | [Rollin Bee](https://open.spotify.com/artist/1SzjCvXYlJ3gW3WsivnYFR) | [First Sting](https://open.spotify.com/album/2KtYi2vu5RqNIhU50G9bMm) | 3:14 | 2025-09-26 |  |
 | [Headspin](https://open.spotify.com/track/2liyNPgBSB69fWJRaTL8ra) | [Mays Hounds](https://open.spotify.com/artist/0uyaofsOLmzcYezAAKtYkj) | [Deliverance](https://open.spotify.com/album/4JWS6dUdADr2OTwQucLVh6) | 5:01 | 2025-10-22 | 2025-11-28 |
 | [Heartsick](https://open.spotify.com/track/76VK3MYmRGRvka2LYLVhHM) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Heartsick](https://open.spotify.com/album/0aRmKh5U45fxdSzkRwrjYS) | 1:03 | 2025-10-22 | 2025-11-28 |
+| [Her inne er det varmt](https://open.spotify.com/track/1V90d44Q6zjSn5EhbJdT1O) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Bilder i mitt hode](https://open.spotify.com/album/0hydPfH9Vk7RSwauEMYYpX) | 3:39 | 2025-12-02 |  |
 | [High Above It All](https://open.spotify.com/track/4FjhfRrrORgaP854fQG9q3) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:56 | 2025-11-14 |  |
 | [Hilang](https://open.spotify.com/track/566IzROY1CbEswbjNpuuoD) | [Satu](https://open.spotify.com/artist/3fMssBRfsHoa6nskqry2mI) | [Persembahan](https://open.spotify.com/album/6RTcLu0zcvBPaVViWgiaMD) | 4:26 | 2025-10-30 |  |
 | [I Can't Find a Way](https://open.spotify.com/track/47XI0FoVyWu5SQsTaKBjSF) | [Raised by Clowns](https://open.spotify.com/artist/4VT6GVYiJ0EiXL3QY8vReC) | [I Can't Find a Way](https://open.spotify.com/album/0TUynZPzeAZq2s2nnpDQ7y) | 3:38 | 2025-10-14 | 2025-11-28 |
@@ -153,6 +154,7 @@
 | [Schwarzer Tag](https://open.spotify.com/track/4g9TF07neCl7oZf50PGsQ6) | [Onexx](https://open.spotify.com/artist/5VauwpnaW66TvC0HrJ8ISv) | [Schwarzer Tag](https://open.spotify.com/album/0yWvmpUZP2IoZhNdR9K5Ql) | 3:01 | 2025-10-30 |  |
 | [Selling Marilyn](https://open.spotify.com/track/2YK61LSjiXDFmggC3TwVWG) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [Selling Marilyn](https://open.spotify.com/album/4q8tEkFrhMyaET5LA0vKuy) | 3:23 | 2025-10-04 |  |
 | [Selva Oscura](https://open.spotify.com/track/76vzLTBnrWijI7kB0tqcdK) | [Delirio](https://open.spotify.com/artist/3Fpq6dElb8GooXoecLKM7G) | [Selva Oscura](https://open.spotify.com/album/0tx5Mr8vi0N8XN5hK7LQjr) | 4:35 | 2025-10-14 | 2025-11-28 |
+| [Shadows of the night](https://open.spotify.com/track/30dDQL8uqJ9qPMvSdpNPUG) | [ilhan akkaya](https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV) | [I am not the one](https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk) | 4:00 | 2025-12-02 |  |
 | [Shake That Thing](https://open.spotify.com/track/36eCRqqm1Xac8b6fockewa) | [The Blue Mules](https://open.spotify.com/artist/07uYlW7XK9oTaN2itp1M6e) | [The Blues Ain't That Bad](https://open.spotify.com/album/7Az7QkvAHEfACkzyDw1G1Y) | 3:33 | 2025-11-26 |  |
 | [smth in the way](https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [smth in the way](https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z) | 4:10 | 2025-11-19 |  |
 | [Snap](https://open.spotify.com/track/5bpmmQWr0xW9XrAWIiXl2K) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Snap](https://open.spotify.com/album/03VNzdrX0AUpaogdpHwm7F) | 3:23 | 2025-11-22 |  |

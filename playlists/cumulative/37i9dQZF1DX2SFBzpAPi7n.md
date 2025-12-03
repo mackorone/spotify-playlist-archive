@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YongYong & Jayci yucca\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,085 songs - 2 day 18 hr 7 min
+1,087 songs - 2 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Dear Me](https://open.spotify.com/track/35Zg9ymD0ytUfRpyAnXv49) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Dear Me](https://open.spotify.com/album/0owjEdpdMRcomZHxqOzITp) | 3:36 | 2025-09-18 | 2025-09-24 |
 | [Dear Me](https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 3:42 | 2022-06-23 | 2022-06-30 |
 | [Deja Vu](https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:44 | 2023-08-17 | 2024-03-22 |
-| [Delphinium](https://open.spotify.com/track/2gIsvJiWoNaPQB8wOYfheq) | [Kim Ahyun](https://open.spotify.com/artist/6esTEzOF6SNHgbeSRr5hdy) | [Delphinium](https://open.spotify.com/album/2kFzT61GpDF05G6TflIQOW) | 3:50 | 2025-11-27 |  |
+| [Delphinium](https://open.spotify.com/track/2gIsvJiWoNaPQB8wOYfheq) | [Kim Ahyun](https://open.spotify.com/artist/6esTEzOF6SNHgbeSRr5hdy) | [Delphinium](https://open.spotify.com/album/2kFzT61GpDF05G6TflIQOW) | 3:50 | 2025-11-27 | 2025-12-03 |
 | [Demian](https://open.spotify.com/track/5xEivEruhmJTAHgBpP0U3V) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Synopsis](https://open.spotify.com/album/3TsPGtAg9IG6hHQoXamU8L) | 5:25 | 2024-12-02 | 2025-01-31 |
 | [Demons](https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Demons \[The Seasons: Cantabile of Park Bo Gum\]](https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa) | 2:56 | 2025-06-16 |  |
 | [Demons My Darling](https://open.spotify.com/track/7BlPetJykI8OtOilT4TXLx) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Demons My Darling](https://open.spotify.com/album/6Ga4ZK5le3b2w92a5OWd4t) | 3:08 | 2024-08-07 | 2024-08-15 |
@@ -810,7 +810,7 @@
 | [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth, Part\. 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 | 2022-04-22 | 2023-06-08 |
 | [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 | 2023-06-01 |  |
 | [shootamoviewithu](https://open.spotify.com/track/3sP256v3klKnTETcRXuIwq) | [TOMYO](https://open.spotify.com/artist/4jQggyF869vBQbQl2Tewuj) | [shootamoviewithu](https://open.spotify.com/album/1pX2UnSqVlnu1EMebplZPy) | 3:21 | 2023-07-11 | 2023-07-18 |
-| [Shooting Star](https://open.spotify.com/track/0RfNTMF3DHQ3cwtHsnsrkH) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop4](https://open.spotify.com/album/1BOkPFJimZBcb1Cx4p78FD) | 3:07 | 2025-11-06 |  |
+| [Shooting Star](https://open.spotify.com/track/0RfNTMF3DHQ3cwtHsnsrkH) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop4](https://open.spotify.com/album/1BOkPFJimZBcb1Cx4p78FD) | 3:07 | 2025-11-06 | 2025-12-03 |
 | [Shooting Star](https://open.spotify.com/track/134KU6G8TmOm0OQnJfmgO9) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Sh\*\*ting Stars \(Original Television Soundtrack\)](https://open.spotify.com/album/6gcG8b4AJKxxHnaB5G5tVj) | 3:27 | 2022-06-18 | 2022-07-02 |
 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-22 | 2023-03-04 |
 | [Shoulda Loved You Less \(with LEE HONG GI of FTISLAND\)](https://open.spotify.com/track/1HDEDQDYnWBwyD8ynf4Uux) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Shoulda Loved You Less](https://open.spotify.com/album/5TFPshhDOxqLtkx5TKDZB7) | 3:30 | 2025-06-23 | 2025-06-26 |
@@ -830,6 +830,7 @@
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-14 | 2025-04-26 |
 | [Smokenshot \(feat\. Jang il hyun\)](https://open.spotify.com/track/4M6bgUTUp2JxLdZMLtoTBr) | [SAMUK](https://open.spotify.com/artist/7oXwjmqKXdkQDs6HP2k77H), [Moonshot](https://open.spotify.com/artist/6RJHpycsLTaI6lAtDmVzQ6), [장일현](https://open.spotify.com/artist/256o8MkuNTMMFG2CwJ89Er) | [29:30](https://open.spotify.com/album/74ThytV3fLNHlu6byyAedJ) | 3:29 | 2023-02-14 | 2023-02-24 |
 | [Snooze](https://open.spotify.com/track/46gDDSAfLO6u6bJZokt5ka) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snooze](https://open.spotify.com/album/3VUJRB3DuYAdrubSXwzH7e) | 4:52 | 2022-04-12 | 2022-07-28 |
+| [Snow Flower](https://open.spotify.com/track/0OnIo6sEMX6k0ibi8QyjuZ) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Snow Flower](https://open.spotify.com/album/4QlnrSMi4DgTxqYVNsR8gL) | 4:05 | 2025-12-02 |  |
 | [snow8](https://open.spotify.com/track/2pfU9lw8L3BdOd1yV4V5xt) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [snow8](https://open.spotify.com/album/10bb8sXKqGV8ycEHeTsLEp) | 3:40 | 2025-01-07 | 2025-03-18 |
 | [So Nice \- GMF2025 ver.](https://open.spotify.com/track/4VNzaSSuErC65Lo9ktpcoG) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [So Nice \(GMF2025 ver.\)](https://open.spotify.com/album/1YyapFRjI81bZUy1K99uRE) | 3:07 | 2025-10-17 | 2025-10-22 |
 | [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2022-04-21 | 2025-04-12 |
@@ -961,6 +962,7 @@
 | [Upon A Smile](https://open.spotify.com/track/6hNfvDFIX77sXBAF737Vhl) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Upon A Smile](https://open.spotify.com/album/5MLPvQjADRbRSzAOXpIxKA) | 3:22 | 2022-12-01 | 2022-12-22 |
 | [Vampire](https://open.spotify.com/track/0Vid0ssKi58EMLmVtJv13s) | [Park Kang Hyun](https://open.spotify.com/artist/1zbvx9v36agvfy9HbZQAez) | [Heartbeat \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/0HNqpYK0eGdYs9Tay0I0zZ) | 3:11 | 2023-07-25 | 2023-08-18 |
 | [Vandalism](https://open.spotify.com/track/6WYdikTHOUcmiUzMVWyqwR) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 3:59 | 2022-12-12 | 2022-12-22 |
+| [Velvet Trigger](https://open.spotify.com/track/2i4LJJX4YhL0OtNyarinUg) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [EXchange4, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/7p7PMm5qs3dpQrIhyxFcbr) | 2:51 | 2025-12-02 |  |
 | [Victory](https://open.spotify.com/track/0Vx0Clxg4f1HrRmVXNMySi) | [Rolling Quartz](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) | [Victory](https://open.spotify.com/album/3OpuTRVgAaQwX8031Y0uMS) | 3:25 | 2024-06-19 | 2024-07-31 |
 | [Villain](https://open.spotify.com/track/5k5npy7HGpTbzKHhu958ZJ) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [FROM.](https://open.spotify.com/album/1lKM9Jx2NchU15TTLqTbMt) | 3:51 | 2024-08-14 | 2024-09-29 |
 | [Violet](https://open.spotify.com/track/3vwtmExA3wwbr4GI5KvLkC) | [Minhye J](https://open.spotify.com/artist/2E2b8xg4MmesEDv6QKZRiy) | [Violet](https://open.spotify.com/album/5sVqYLGmHA96l13kAUEVYv) | 4:20 | 2022-04-22 | 2022-06-08 |

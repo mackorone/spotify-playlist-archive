@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,417 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,425 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 24 | [Tão Bonito](https://open.spotify.com/track/69td3hK5bXy0HklQhgrbQn) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Caos e Sal / Tão Bonito](https://open.spotify.com/album/77Y4xJC9iuWj6RncoNSPHD) | 3:20 |
 | 25 | [Comme Avant](https://open.spotify.com/track/00qSqRqxO8ht5KAfylLqMh) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Comme Avant](https://open.spotify.com/album/03VKPUdiQKZkV1Gzv74jIi) | 3:39 |
 | 26 | [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 |
-| 27 | [Chakra](https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Chakra](https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul) | 2:24 |
-| 28 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
+| 27 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
+| 28 | [Chakra](https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Chakra](https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul) | 2:24 |
 | 29 | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/track/7LMIWqg2QKLqGYRExvPBTC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M) | 2:28 |
 | 30 | [PILLOW](https://open.spotify.com/track/73oScKWDZaioc8674JUjRO) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [PILLOW](https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu) | 2:05 |
 | 31 | [Baile Em Chamas](https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [DJ 2L da Rocinha](https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP) | [Baile Em Chamas](https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV) | 2:53 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 66 | [Quem Me Guia](https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq) | [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Quem Me Guia](https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq) | 2:29 |
 | 67 | [1 a 1.](https://open.spotify.com/track/4NgTv7ivT6mXUFw8Q8IVtU) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [1 a 1.](https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB) | 3:17 |
 | 68 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
-| 69 | [Tobogã](https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl) | [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f), [PMM](https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J) | [Tobogã](https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD) | 2:46 |
-| 70 | [Gingado](https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv), [DIMELLABS](https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9) | [Gingado](https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI) | 2:27 |
+| 69 | [Gingado](https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv), [DIMELLABS](https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9) | [Gingado](https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI) | 2:27 |
+| 70 | [Tobogã](https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl) | [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f), [PMM](https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J) | [Tobogã](https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD) | 2:46 |
 
 Snapshot ID: `AAAAAEGZNw5OzesFBm8BcKfh38XP7/9W`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,281 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,281 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 47 | [きゅうくらりん \- Cover](https://open.spotify.com/track/5a1c3xsbunuS8ybfIdu1Io) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きゅうくらりん \(Cover\)](https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV) | 3:34 |
 | 48 | [Butter\-Fly \- Cover](https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:10 |
 | 49 | [そばかす \- Cover](https://open.spotify.com/track/2daUZPAd5e8QdN2bOzC9js) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 4:10 |
-| 50 | [chAngE](https://open.spotify.com/track/1aEeR6DqwyvgSwDLUxKjnl) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection \(2\)](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:10 |
+| 50 | [The Circle Of Butterflies](https://open.spotify.com/track/3QGbmPWTxPei2GDTEl7UsN) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:18 |
 | 51 | [See you! 〜それぞれの明日へ〜](https://open.spotify.com/track/5TZyQjaLF7C6mCHn7auFhr) | [日菜](https://open.spotify.com/artist/5IRX41YDPyIvlKBhfWQFjI), [千聖](https://open.spotify.com/artist/2HPjNk8xJr6y3lk8TzUcDj), [麻弥](https://open.spotify.com/artist/0roduHEfBOh5Dw6KIYlA7G), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [リサ](https://open.spotify.com/artist/7ols3PswTwnpdvbqHG2fav), [燐子](https://open.spotify.com/artist/3rsjfLbwzDOmns55hKDzS9), [薫](https://open.spotify.com/artist/2ZJwCjTnSnr2V7a91pBvoJ), [花音](https://open.spotify.com/artist/0QXuZrXpnPAvr7JpGaDPt8) | [See you! 〜それぞれの明日へ〜](https://open.spotify.com/album/28jD62i4cZTV3y9hh6aj0l) | 5:11 |
 | 52 | [GO! GO! MANIAC](https://open.spotify.com/track/789UN0IFmblfGjNPaiJoqb) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:07 |
 | 53 | [アイのシナリオ \- Cover](https://open.spotify.com/track/0s0vCO5OkaM99xHLYUaeYG) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:19 |
 | 54 | [気まぐれロマンティック \- Cover](https://open.spotify.com/track/0S93wlmiORbpfPjG4lsPKC) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 4:03 |
-| 55 | [カラフルリバティー](https://open.spotify.com/track/3R25yGgpbQ92tEvaDBCkD7) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:38 |
+| 55 | [chAngE](https://open.spotify.com/track/1aEeR6DqwyvgSwDLUxKjnl) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection \(2\)](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:10 |
 | 56 | [どきどきSING OUT!](https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [どきどきSING OUT!](https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm) | 4:09 |
 | 57 | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/track/6Mfr5EHIrMhZefeWuOPuiO) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU) | 3:38 |
 | 58 | [Listen!! \- Cover](https://open.spotify.com/track/7fPdIuNqu222MRU3LUQIHH) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:47 |

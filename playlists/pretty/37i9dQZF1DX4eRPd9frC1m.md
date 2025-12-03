@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a> 💪💥
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,577,847 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,577,796 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 38 | [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 |
 | 39 | [Griztronics II \(Another Level\)](https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Griztronics II \(Another Level\)](https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw) | 2:45 |
 | 40 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 |
-| 41 | [Ground Shake](https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Ground Shake](https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud) | 3:05 |
-| 42 | [Doomsday](https://open.spotify.com/track/3Vk3AcdGJRwzgtjnRQUcqQ) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Doomsday](https://open.spotify.com/album/4CaivjK6B36PMmfcBZxklC) | 3:32 |
+| 41 | [Doomsday](https://open.spotify.com/track/3Vk3AcdGJRwzgtjnRQUcqQ) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Doomsday](https://open.spotify.com/album/4CaivjK6B36PMmfcBZxklC) | 3:32 |
+| 42 | [Ground Shake](https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Ground Shake](https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud) | 3:05 |
 | 43 | [LOUDER](https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [LOUDER](https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364) | 2:15 |
 | 44 | [Duel of the Fates](https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Duel of the Fates](https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa) | 3:22 |
 | 45 | [Burial \(feat\. Pusha T, Moody Good, TrollPhace\)](https://open.spotify.com/track/7DHX1Ng0V186U2idfFfjGi) | [Yogi](https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Trollphace](https://open.spotify.com/artist/0OJ5ViZQUFL6ileg5HvKKy) | [Burial \(feat\. Pusha T, Moody Good, TrollPhace\)](https://open.spotify.com/album/3rOzXYxXqBUcw3u131mrjE) | 3:46 |

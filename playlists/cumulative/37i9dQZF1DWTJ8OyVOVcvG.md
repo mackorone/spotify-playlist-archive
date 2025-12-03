@@ -4,7 +4,7 @@
 
 > Piesele potrivite pentru zilele și nopțile tale chill de iarnă
 
-178 songs - 10 hr 6 min
+179 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [For Cryin' Out Loud!](https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:37 | 2025-01-21 | 2025-02-15 |
 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 | 2025-07-10 | 2025-08-02 |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-26 | 2024-08-10 |
+| [Gura ta](https://open.spotify.com/track/48wTHlWCJjJwgYWyjAFaqg) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Gura ta](https://open.spotify.com/album/17lqp453x6qa1MBfipsn4s) | 2:45 | 2025-11-25 |  |
 | [Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest Moon](https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q) | 5:03 | 2025-08-31 | 2025-10-04 |
 | [Hazy](https://open.spotify.com/track/7DpRyhc5dbAYAiWalOu237) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Hazy](https://open.spotify.com/album/69HmW1adrp17cediFfhRtK) | 2:18 | 2025-03-14 | 2025-05-03 |
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-09-20 |  |
@@ -101,7 +102,7 @@
 | [Mona Lisa](https://open.spotify.com/track/6tVY3jAEAUn7F3ltw1F0FI) | [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx), [MALINDA](https://open.spotify.com/artist/4gKo3LXoxHriLS6CBKThAU) | [Mona Lisa](https://open.spotify.com/album/39BoJYBTShklb8pSJSp8JX) | 5:02 | 2024-09-20 | 2024-11-28 |
 | [mona melody](https://open.spotify.com/track/7gKrwB4MBdOtuYMpwNLOke) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [mona melody](https://open.spotify.com/album/5JFWinUnEErAsE1x1fDFdC) | 3:26 | 2025-05-16 | 2025-06-21 |
 | [Motion Picture Soundtrack](https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Motion Picture Soundtrack](https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh) | 4:59 | 2024-06-21 | 2024-11-28 |
-| [Multe veri](https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Multe veri](https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4) | 2:32 | 2025-08-31 |  |
+| [Multe veri](https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Multe veri](https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4) | 2:32 | 2025-08-31 | 2025-12-03 |
 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 | 2024-06-21 | 2024-09-28 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2024-06-21 |  |
 | [Neintenționat](https://open.spotify.com/track/3K5VZfyDi1SvgTjhma4eq2) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Neintenționat](https://open.spotify.com/album/4W4P0MLEzgp1aHyP8l2dRv) | 3:00 | 2025-05-02 | 2025-11-26 |

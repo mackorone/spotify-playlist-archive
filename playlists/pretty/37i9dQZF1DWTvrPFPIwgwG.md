@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Maria Marçal
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,604 likes - 80 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,638 likes - 80 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 42 | [Eu Não Era Nada](https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Não Era Nada](https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9) | 5:43 |
 | 43 | [Prioridade \(Ao Vivo\)](https://open.spotify.com/track/42xqD1YxWBXgU9ND55MqXE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Prioridade \(Ao Vivo\)](https://open.spotify.com/album/4EO1KlcmvHxJGG37PzYmDw) | 4:15 |
 | 44 | [Majestoso \(Ao Vivo\)](https://open.spotify.com/track/5ZCpz2wtswpyKMoFblb91y) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Majestoso \(Ao Vivo\)](https://open.spotify.com/album/48XqZGHMs2p9iBYiNevkWL) | 5:35 |
-| 45 | [Eu Cuido de Tudo \- Ao vivo](https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Eu Cuido de Tudo](https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ) | 7:27 |
-| 46 | [Contando os Dias \- Ao Vivo](https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Contando os Dias \(Ao Vivo\)](https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X) | 6:43 |
+| 45 | [Contando os Dias \- Ao Vivo](https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Contando os Dias \(Ao Vivo\)](https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X) | 6:43 |
+| 46 | [Eu Cuido de Tudo \- Ao vivo](https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Eu Cuido de Tudo](https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ) | 7:27 |
 | 47 | [Eu e Deus \- Ao Vivo em São Paulo](https://open.spotify.com/track/32CjL3PNGzdf6cEdZ8bMs2) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo) | [Eu e Deus \- Ao Vivo em São Paulo](https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj) | 4:42 |
 | 48 | [A Tenda \(Ao Vivo\)](https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Tenda \(Ao Vivo\)](https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9) | 7:50 |
 | 49 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 |

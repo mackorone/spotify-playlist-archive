@@ -4,7 +4,7 @@
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
 
-258 songs - 15 hr 51 min
+259 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [One Man Band](https://open.spotify.com/track/0FDQH6KTR00yu047uhHCfS) | [Sione Liti](https://open.spotify.com/artist/5c0jLNILQAaxBObwOUghei), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [One Man Band](https://open.spotify.com/album/3FCzAUUB9Ldz6kdrKx52OV) | 3:14 | 2025-05-22 | 2025-11-09 |
 | [One Night](https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [One Night](https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ) | 3:33 | 2023-11-28 |  |
 | [One Night Dance](https://open.spotify.com/track/4AxBpENBK3iT3uLiKTkm8D) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [One Night Dance](https://open.spotify.com/album/4ChcRmEy1d7Nq0OOEDM0hP) | 3:14 | 2025-09-09 |  |
-| [One Way](https://open.spotify.com/track/3NEXN45dcu8xBrjRvSgKon) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [One Way](https://open.spotify.com/album/424aV8BFksWTncxaEKmGD5) | 3:08 | 2025-07-24 |  |
+| [One Way](https://open.spotify.com/track/3NEXN45dcu8xBrjRvSgKon) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [One Way](https://open.spotify.com/album/424aV8BFksWTncxaEKmGD5) | 3:08 | 2025-07-24 | 2025-12-03 |
 | [Otherside](https://open.spotify.com/track/55vUueIJ1D5zgMqQzAUxjw) | [Valley Kids](https://open.spotify.com/artist/2ICjmWYEED30C1Wc7Et53T) | [Otherside](https://open.spotify.com/album/7c3HBSx949vQO3jnFQgbCf) | 3:44 | 2023-11-28 | 2025-09-10 |
 | [Our Story](https://open.spotify.com/track/5M31TJVrPHCdFzMxY1O9Se) | [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [Our Story](https://open.spotify.com/album/6YddQuj8IlnWVpSb6vaat3) | 3:59 | 2024-03-21 | 2025-09-10 |
 | [Overthinking](https://open.spotify.com/track/6LD2ci6kqsJGNRuTHKwCHp) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Overthinking](https://open.spotify.com/album/6nFzKTyOYyjxFmyzONBmSX) | 3:01 | 2023-12-21 | 2024-04-19 |
@@ -200,6 +200,7 @@
 | [Rooftop Party](https://open.spotify.com/track/5DPMbnzyYeATCfuwuyAv2X) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Rooftop Party](https://open.spotify.com/album/4wUrSdPQZNtXj1sYSNu80G) | 3:43 | 2024-03-21 | 2025-09-10 |
 | [SAY SO](https://open.spotify.com/track/4beyQ4toeI45Xgo6KIDSkd) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [EDY](https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ) | [SAY SO](https://open.spotify.com/album/23dYo4K3khN872DHmF2uny) | 3:15 | 2023-11-28 | 2024-04-19 |
 | [SAY SO](https://open.spotify.com/track/6Tx6mQ1bHraVxgDrROE5Z4) | [Swiss111111111111](https://open.spotify.com/artist/4DWsPympquHv8xC4V9RJGR), [EDY](https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ) | [SAY SO](https://open.spotify.com/album/2ubAzZ3vBkwV6NFNW7aTNB) | 3:15 | 2024-03-21 | 2024-11-08 |
+| [Screems from Da Old Plantation](https://open.spotify.com/track/1DPMqbabMHKm8bN04arwK8) | [King Kapisi](https://open.spotify.com/artist/4f3x4YITcuzveAflxCB8Hd) | [Savage Thoughts](https://open.spotify.com/album/6CmbniAwT57Wrg51lAzXL1) | 4:46 | 2025-09-09 |  |
 | [She Loves Me](https://open.spotify.com/track/2E7jxBIZGfiadCvP4wTXWZ) | [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [She Loves Me](https://open.spotify.com/album/4H13DyamJgStLtd6kqXZ2y) | 3:56 | 2023-11-28 | 2025-09-10 |
 | [Sincerely](https://open.spotify.com/track/6bFIWWGwURuzElPalBlXQG) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [Tree](https://open.spotify.com/artist/37wo7mJE2RpFgNSFhyvhqp) | [Indigo](https://open.spotify.com/album/4ox48Ht5G3Au7TTs13irYE) | 4:06 | 2023-11-28 | 2025-09-10 |
 | [Skank To This](https://open.spotify.com/track/3JKhhU70cLTlAQrYg7INdB) | [Teina Mamaori](https://open.spotify.com/artist/5p0JHW1CkPxEqkbcz59rrp) | [Skank To This](https://open.spotify.com/album/6sD53zTnNZqbU2UW0YraHd) | 4:25 | 2024-03-21 | 2024-11-08 |

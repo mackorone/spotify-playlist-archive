@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549 likes - 342 songs - 20 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 548 likes - 342 songs - 20 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 63 | [Medicine \(feat\. Blake Shelton\)](https://open.spotify.com/track/7vvqns9A9v9CuC8MlUDPnC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:18 |
 | 64 | [Withdrawals](https://open.spotify.com/track/1gRh1UnU44zyiOvZgMD4qR) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:45 |
 | 65 | [The Girl You Think I Am](https://open.spotify.com/track/4MuTmMBnXVAoYK5YZWkfOL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:38 |
-| 66 | [That Song That We Used To Make Love To](https://open.spotify.com/track/3vkyyOw92iKKIV5Io2fBdk) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:35 |
-| 67 | [Unapologetic](https://open.spotify.com/track/2P4PAaEKtIjqW5tLFcWB8G) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Guilty](https://open.spotify.com/album/5coEOP2NFVBU7rhPcPlutT) | 3:52 |
+| 66 | [Unapologetic](https://open.spotify.com/track/2P4PAaEKtIjqW5tLFcWB8G) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Guilty](https://open.spotify.com/album/5coEOP2NFVBU7rhPcPlutT) | 3:52 |
+| 67 | [That Song That We Used To Make Love To](https://open.spotify.com/track/3vkyyOw92iKKIV5Io2fBdk) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:35 |
 | 68 | [Sorry Mom](https://open.spotify.com/track/0IfDwgb4tyUyQcahEAnyeW) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:35 |
 | 69 | [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/25PvNqoIB43O5BfxdvUj1g) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:11 |
 | 70 | [Somebody's Got Me](https://open.spotify.com/track/71XuRpRuXmlqgjXapnPNA5) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 3:24 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 90 | [Denim & Rhinestones](https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 2:48 |
 | 91 | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi) | 3:20 |
 | 92 | [WildHorse](https://open.spotify.com/track/3jA2ZjqyX7JuQ0Z8IwVxEw) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:20 |
-| 93 | [Patterns](https://open.spotify.com/track/2LEQiEchYXOfllBduPpnAn) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:40 |
-| 94 | [Stretchy Pants](https://open.spotify.com/track/4nEo5fRitrMAf8VBfRBAWQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Stretchy Pants](https://open.spotify.com/album/6yMUbq6Ij65DrdAApMDgvD) | 3:07 |
+| 93 | [Stretchy Pants](https://open.spotify.com/track/4nEo5fRitrMAf8VBfRBAWQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Stretchy Pants](https://open.spotify.com/album/6yMUbq6Ij65DrdAApMDgvD) | 3:07 |
+| 94 | [Patterns](https://open.spotify.com/track/2LEQiEchYXOfllBduPpnAn) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:40 |
 | 95 | [End of the World](https://open.spotify.com/track/60myXm48xMbtq52nQRgEWc) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 3:28 |
 | 96 | [Blessed](https://open.spotify.com/track/5gTuRkjPru8nt2wH2xToG4) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Greatest Hits](https://open.spotify.com/album/6oYPDF3t8SJ8zjWva4CRAL) | 4:36 |
 | 97 | [Over Drinking](https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:10 |
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 158 | [Too Soon For Goodbye](https://open.spotify.com/track/6qRsqsnh3HrkUq0SLWvdie) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Too Soon For Goodbye](https://open.spotify.com/album/2ulEJ1F3LiQZlQ6mQFmdwv) | 3:35 |
 | 159 | [Mansion](https://open.spotify.com/track/4anMp1snWhpCRzxWObDzRZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:12 |
 | 160 | [Do It Like This \(Bonus Track\)](https://open.spotify.com/track/33LpnkcKKvgIAxEgYEYbbS) | [Johnny T](https://open.spotify.com/artist/7m0hBssYWrmf3CFVwY1xjg) | [That's What's Up](https://open.spotify.com/album/2Xk6cTdL78FvtXoXt5wQQs) | 3:11 |
-| 161 | [Backseat of a Greyhound Bus](https://open.spotify.com/track/6ukJN2JCXpYkdL0W63YNf7) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 5:33 |
-| 162 | [Dig A Hole](https://open.spotify.com/track/5hBTLtFdMIEcv0MB5fOPPY) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Dig A Hole](https://open.spotify.com/album/6VobrGcLu5Sz4RfMKaiqHR) | 2:51 |
+| 161 | [Dig A Hole](https://open.spotify.com/track/5hBTLtFdMIEcv0MB5fOPPY) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Dig A Hole](https://open.spotify.com/album/6VobrGcLu5Sz4RfMKaiqHR) | 2:51 |
+| 162 | [Backseat of a Greyhound Bus](https://open.spotify.com/track/6ukJN2JCXpYkdL0W63YNf7) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 5:33 |
 | 163 | [You're My Texas](https://open.spotify.com/track/4RbS3BlzjK9JMqF6VyaAB5) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 3:19 |
 | 164 | [Good Fight](https://open.spotify.com/track/0zWEXxAbRfBFkHe0aY1ny2) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:18 |
 | 165 | [Heavyweight](https://open.spotify.com/track/4VjFgo853p4of6maSkmjfB) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Heavyweight](https://open.spotify.com/album/1llat1Rc2C5UKq6G6bSU51) | 3:37 |
@@ -351,4 +351,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 341 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
 | 342 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcDFyAAAAADWYr6Cx3GBhQTrbRLCXgeA`
+Snapshot ID: `AcDLXgAAAABMvd+SZqLILFoY350fuPB8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,818 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,825 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 9 | [Dey Your Dey](https://open.spotify.com/track/1zUxNj07FZ7wJOLQax3aU3) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:35 |
 | 10 | [Buru](https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:38 |
 | 11 | [I Can't Kill Myself](https://open.spotify.com/track/20MyQk60qEzkGVML0VMaCq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 |
-| 12 | [Mașe](https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mașe](https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I) | 2:52 |
-| 13 | [Dance](https://open.spotify.com/track/7nNrIS6JuS2YEhmfmZwEuf) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Dance](https://open.spotify.com/album/3LH7ME7Kjs9x6qDkbF5mWS) | 3:23 |
+| 12 | [Dance](https://open.spotify.com/track/7nNrIS6JuS2YEhmfmZwEuf) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Dance](https://open.spotify.com/album/3LH7ME7Kjs9x6qDkbF5mWS) | 3:23 |
+| 13 | [Mașe](https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mașe](https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I) | 2:52 |
 | 14 | [A Night to Remember \(ANTR\)](https://open.spotify.com/track/05fLKOI2bdNcVbCXWgBrjZ) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [SABALI](https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs) | 2:41 |
 | 15 | [Pull Up](https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 |
 | 16 | [IN MY HEAD](https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [IN MY HEAD](https://open.spotify.com/album/5dI959e51lkReZI50si0ef) | 2:57 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 30 | [Kolapiano Vol\. 2 \(Isakaba\) \[Remix\]](https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM) | [Kolaboy](https://open.spotify.com/artist/6RY4M12pquQEV6wgI6yAeR), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Kolapiano Vol\. 2 \(Isakaba\) \[Remix\]](https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa) | 3:14 |
 | 31 | [Dem Mama Anthem](https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [2Solo](https://open.spotify.com/artist/1VEt0NXNZxUhoEZLL0kVte), [Recoba](https://open.spotify.com/artist/2dkzyXeRSorqR2dJmwYZVa) | [Gift And Grace](https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb) | 4:32 |
 | 32 | [Chulo Bother Nobody](https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:34 |
-| 33 | [SWEET US](https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:37 |
-| 34 | [M.O.N.E.Y](https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [M.O.N.E.Y](https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt) | 3:51 |
-| 35 | [To U](https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [To U](https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9) | 3:44 |
+| 33 | [M.O.N.E.Y](https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [M.O.N.E.Y](https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt) | 3:51 |
+| 34 | [To U](https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [To U](https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9) | 3:44 |
+| 35 | [SWEET US](https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:37 |
 | 36 | [Iberibe](https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:19 |
 | 37 | [Ukwu \(Bonus\)](https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:10 |
 | 38 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 49 | [Better Than Them](https://open.spotify.com/track/3D1F34SW7EHoSPbcQAxlUA) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Better Than Them](https://open.spotify.com/album/4QCjmhboNpSAyzkVwniGkl) | 3:33 |
 | 50 | [God You Are 2 Much](https://open.spotify.com/track/7o2BmnHlqzawV5z1DOyYlm) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gift And Grace](https://open.spotify.com/album/6rM9FXS15QeSFgYi6BQiCE) | 4:32 |
 
-Snapshot ID: `aSuJAAAAAAAgr+3gJTzp74XPGnloHq23`
+Snapshot ID: `aSzagAAAAAC+kfwS7zuV556ZhHkX0AzN`

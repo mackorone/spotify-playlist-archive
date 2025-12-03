@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر\. غلاف: كريم كريستيانو
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,579 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,805 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 4 | [فارس عدي حدود الموت](https://open.spotify.com/track/4dFl3wR4D52ce1MsqQ7XHo) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [ميسو ميسره](https://open.spotify.com/artist/0QpJBmVA3GcAX8NgPlrrMW) | [فارس عدي حدود الموت](https://open.spotify.com/album/7gc3SVUvnxtD3OTZ99e2Ci) | 5:24 |
 | 5 | [احلي باي باي من غير ازاي \( قدم السبت هتلاقي الاحد \)](https://open.spotify.com/track/4W8CMUKfcGze5XD4ZGdo6p) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [احلي باي باي من غير ازاي \( قدم السبت هتلاقي الاحد \)](https://open.spotify.com/album/1vVDhmTMbRun68fXimcLAa) | 3:36 |
 | 6 | [طب طمنيني لو حتى برنه](https://open.spotify.com/track/7dWPHHTBF1q81MU3IE0pHM) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [طب طمنيني لو حتى برنه](https://open.spotify.com/album/3rh4kdpxXQeCmZ77l5DXHh) | 3:52 |
-| 7 | [بعبع دايرتى](https://open.spotify.com/track/10xPGi2k2sVqeUEH10iNso) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [بعبع دايرتى](https://open.spotify.com/album/67fejejPtGJzNO2i8LKYpI) | 3:20 |
+| 7 | [بعبع دايرتى \- اخرك حالة واتس قولتها](https://open.spotify.com/track/10xPGi2k2sVqeUEH10iNso) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [بعبع دايرتى \(اخرك حالة واتس قولتها\)](https://open.spotify.com/album/67fejejPtGJzNO2i8LKYpI) | 3:20 |
 | 8 | [انا لبسي اوفر سايز](https://open.spotify.com/track/05z8Dj4bvVvFPgFzO09zb0) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Figo El Dakhlawy](https://open.spotify.com/artist/3cMLokGPkA77QbLJglCk6y) | [انا لبسي اوفر سايز](https://open.spotify.com/album/4tKxe8RW9HYLlLSMSBMRt5) | 4:04 |
 | 9 | [من يوم ما سيرتي سمعت](https://open.spotify.com/track/4dT3AHcAllEX8aNoft3IPO) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl), [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [من يوم ما سيرتي سمعت](https://open.spotify.com/album/0hu1fLi8RJojTZPk95L8nC) | 2:50 |
 | 10 | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/track/4iRzMFqyNbX0xAY9iAtTic) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Za3balawy](https://open.spotify.com/artist/0LNuyfLPfLYwbMvwXXqh1V) | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/album/1WGEKcC8jwAFoXGANK9DQn) | 4:34 |

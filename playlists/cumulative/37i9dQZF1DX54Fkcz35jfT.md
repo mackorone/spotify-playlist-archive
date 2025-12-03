@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> Discover the intensity and emotion resonating through Japan’s hard rock\. / 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: Paledusk
+> Discover the intensity and emotion resonating through Japan’s hard rock\. / 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: CVLTE
 
-443 songs - 1 day 1 hr 27 min
+445 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Are You There?](https://open.spotify.com/track/1BEqi1rbNREiLHlfbF6pMu) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt), [凪希](https://open.spotify.com/artist/6PfiboIDR2gjgNfELBqRMQ) | [Are You There?](https://open.spotify.com/album/7gaI544WAwOI4RadQSK05y) | 2:17 | 2025-06-10 | 2025-07-18 |
 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 | 2023-07-20 | 2023-11-22 |
 | [Atmosphere](https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [The Unforgettables E.P.](https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM) | 2:48 | 2024-09-03 |  |
-| [Baigaeshi \(feat\. RAPPAGARIYA\)](https://open.spotify.com/track/24lD1cOoBUjvOLjtDMDh5c) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT), [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [HYPERBEAT](https://open.spotify.com/album/1a9JgHD0ZcwHSZ35wQ7v14) | 3:59 | 2025-09-16 |  |
+| [Baigaeshi \(feat\. RAPPAGARIYA\)](https://open.spotify.com/track/24lD1cOoBUjvOLjtDMDh5c) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT), [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [HYPERBEAT](https://open.spotify.com/album/1a9JgHD0ZcwHSZ35wQ7v14) | 3:59 | 2025-09-16 | 2025-12-03 |
 | [BANG!!!](https://open.spotify.com/track/0GbTk360zzHOkQqyS6hvUz) | [Are Square](https://open.spotify.com/artist/57YbNDKxQBIRzIjsLSfhCY) | [BANG!!!](https://open.spotify.com/album/6QMQPmyX3VFs6SLhEFA7JU) | 3:39 | 2023-10-05 | 2024-07-31 |
 | [BANG!!!](https://open.spotify.com/track/68syBLj2N0IUSzItDP4cnU) | [Are Square](https://open.spotify.com/artist/57YbNDKxQBIRzIjsLSfhCY) | [We Are Square](https://open.spotify.com/album/0YzdiGzb6X9UmVeSv45HQQ) | 3:39 | 2024-01-09 | 2024-04-19 |
 | [Baseball Boys](https://open.spotify.com/track/77tcPNCVlARy4PGSIn5ZfZ) | [Sinker](https://open.spotify.com/artist/5ssYTZaF3nmIR7PLJOxJ6f) | [Gutless](https://open.spotify.com/album/3BjN8m2MWcPAWet9PIxBCE) | 3:11 | 2023-10-24 | 2023-11-01 |
@@ -46,7 +46,7 @@
 | [Black Jean Boogie](https://open.spotify.com/track/6ooCR2BIdsMSzddhiElEnp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/5iEulwmiFqO7uZMeYNiVZT) | 3:47 | 2023-07-25 | 2023-07-27 |
 | [Blood in blue](https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Blood in blue](https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx) | 2:45 | 2023-10-17 | 2024-05-09 |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2023-07-20 | 2023-11-22 |
-| [bloodYhell.](https://open.spotify.com/track/3hK0jJVeMYsie1nnQhvy2N) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [bloodYhell.](https://open.spotify.com/album/5TVZ4thQkBJS3fFAKt11Su) | 3:41 | 2025-04-03 |  |
+| [bloodYhell.](https://open.spotify.com/track/3hK0jJVeMYsie1nnQhvy2N) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [bloodYhell.](https://open.spotify.com/album/5TVZ4thQkBJS3fFAKt11Su) | 3:41 | 2025-04-03 | 2025-12-03 |
 | [Bloom](https://open.spotify.com/track/360qOFQEAvNatJD65tMehi) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:50 | 2023-07-20 | 2023-12-08 |
 | [Bloom](https://open.spotify.com/track/6zg3qFNuaEbl5pxKquLu7a) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/09gk3EbwFcSfMvXupZRUXS) | 3:50 | 2023-12-19 | 2024-04-19 |
 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 | 2023-07-20 |  |
@@ -126,6 +126,7 @@
 | [GLORY](https://open.spotify.com/track/2ElIOMmJFVGE2l4rZsRjsy) | [Are Square](https://open.spotify.com/artist/57YbNDKxQBIRzIjsLSfhCY) | [GLORY](https://open.spotify.com/album/2yF7hXYwvJiV27KWSUUcMl) | 3:48 | 2024-07-30 | 2024-10-16 |
 | [God Speed \(feat\. WARGASM \(UK\)\)](https://open.spotify.com/track/7CqdptwGjeskv3rim4Spvi) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [God Speed \(feat\. WARGASM \(UK\)\)](https://open.spotify.com/album/0mu1GjpR57D8aStHJyyboQ) | 3:16 | 2024-05-14 | 2024-11-13 |
 | [GROUNDSWELL](https://open.spotify.com/track/4REYshNixTxWSmDaEmA3aC) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [GROUNDSWELL ep.](https://open.spotify.com/album/0N44vXI4msINfTkRBt38qH) | 3:57 | 2023-07-20 | 2023-11-22 |
+| [h2o.wav](https://open.spotify.com/track/5WmpPBp1c2fcT5fdpFizBW) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [](https://open.spotify.com/album/null) | 3:56 | 2025-12-02 |  |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/5NqAeabxsFbgyRxJGfdKM0) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 2:44 | 2023-10-24 | 2023-11-01 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 | 2023-10-24 | 2025-02-10 |
 | [happy children](https://open.spotify.com/track/4h39SSDzbmP5T4AQg98SPF) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [the bercedes menz's happy children](https://open.spotify.com/album/2XRC5SjtH8mS9LhnAAtX0z) | 3:42 | 2023-11-21 | 2023-12-20 |
@@ -293,6 +294,7 @@
 | [SCUM DOGS FART](https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ) | 3:17 | 2024-03-26 | 2025-06-25 |
 | [SCUM DOGS FART](https://open.spotify.com/track/6dlfbY8ImWjJbYGwuLLiV2) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/5NE8yd43s8gZJ3mp0flYvq) | 3:17 | 2024-03-26 | 2024-04-19 |
 | [Seaside](https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b) | [THE NOVEMBERS](https://open.spotify.com/artist/06qEHODsluMWTP4MrQC9RF) | [The Novembers](https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO) | 3:27 | 2023-12-05 | 2024-05-15 |
+| [shibuya phobia.](https://open.spotify.com/track/1K8jf2rYGgPkhUlLpvNbTZ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [](https://open.spotify.com/album/null) | 3:55 | 2025-12-02 |  |
 | [shinjuku syndrome.](https://open.spotify.com/track/5szvkCZlpECXo5DK47mCAV) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [shinjuku syndrome.](https://open.spotify.com/album/2vRX55p0d7fXj1i43DADTU) | 3:58 | 2025-10-14 |  |
 | [Shousatsu](https://open.spotify.com/track/74Xrlu3BM1srb9vMBpCe9E) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [Shousatsu](https://open.spotify.com/album/4koW2ALo5eDjXlAOSR6als) | 3:05 | 2023-11-14 | 2023-12-20 |
 | [Shussou](https://open.spotify.com/track/05cArZuv1f0fErj6aAkuhe) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Shussou](https://open.spotify.com/album/6u0mRNp8OUxHtGjyZA4ik2) | 3:55 | 2024-10-15 | 2024-12-10 |

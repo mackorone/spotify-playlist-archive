@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,921 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,922 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 37 | [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 |
 | 38 | [Make Me \- Franky Rizardo Remix](https://open.spotify.com/track/57508shL0obX0KUOUL8CJk) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Make Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0) | 3:15 |
 | 39 | [WTF](https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [WTF](https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo) | 3:13 |
-| 40 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 |
-| 41 | [Slow Burner](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
+| 40 | [Slow Burner](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
+| 41 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 |
 | 42 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 |
 | 43 | [Make Believe](https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Make Believe](https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy) | 3:05 |
 | 44 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |

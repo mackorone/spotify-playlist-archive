@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,443 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,450 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 47 | [Very Very Rare](https://open.spotify.com/track/6bJZtj9x7G9VNVB2VslkQJ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [New Stars Swag](https://open.spotify.com/album/78MusSj7gCs8daCm2CRfS1) | 3:16 |
 | 48 | [Mind](https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mind](https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK) | 3:35 |
 | 49 | [Money Trees \(feat\. eyden & Kohjiya\)](https://open.spotify.com/track/2JaEYhyKiufEazcC51QhWC) | [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Money Trees \(feat\. eyden & Kohjiya\)](https://open.spotify.com/album/4HZHWJbiZt59LEGbBKPoph) | 3:23 |
-| 50 | [Red Bull 64 Bars](https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Red Bull 64 Bars](https://open.spotify.com/album/2buaIfo9ZtnKuK0K8QuRKF) | 2:10 |
+| 50 | [RAKURAI](https://open.spotify.com/track/1w062ZFlKViaWMFkbxJRF3) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6) | 2:44 |
 
 Snapshot ID: `AAAAAGKdFwaAd1PErlAOQTKPGuJiwyDX`

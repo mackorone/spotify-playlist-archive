@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,316 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,317 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 28 | [Stayed On You \- Live In LA](https://open.spotify.com/track/4o0NZqA1ZTWZv11LUuzCXN) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 2:48 |
 | 29 | [Most High](https://open.spotify.com/track/6QA4FqB7HkiYoeJ5RvhfWq) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Christian Spaulding](https://open.spotify.com/artist/4srBhABKWh0DCGDbGpMQaW), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Thy Kingdom Come](https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon) | 4:38 |
 | 30 | [Chasing Me Down \(feat\. Tye Tribbett\)](https://open.spotify.com/track/5x0LXV0sijGPCcsewl2v6S) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 6:12 |
-| 31 | [I Made It \(feat\. Tye Tribbett\)](https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 5:40 |
+| 31 | [Anyhow](https://open.spotify.com/track/3hxVFmZe4KEwJUyfqE2YI1) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Anyhow](https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6) | 5:24 |
 | 32 | [Every Time I Turn Around \- Live In Houston](https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 2:10 |
-| 33 | [Anyhow](https://open.spotify.com/track/3hxVFmZe4KEwJUyfqE2YI1) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Anyhow](https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6) | 5:24 |
+| 33 | [I Made It \(feat\. Tye Tribbett\)](https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 5:40 |
 | 34 | [Chasing After You \(The Morning Song\)](https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 6:46 |
 | 35 | [Goodness Of God \- Live](https://open.spotify.com/track/2vpzga018mYLVXkE77wEds) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:41 |
 | 36 | [All Hail \- Live In Dallas](https://open.spotify.com/track/6s9vCBhhXtz6G9BRQ4YnVa) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 2:51 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 46 | [I Need You](https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:36 |
 | 47 | [Champion](https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:52 |
 | 48 | [I Give You Glory](https://open.spotify.com/track/6FuvrUof9KtgkIuFAta53C) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/0VSrwhH3oHazxgrn5It4u3) | 8:25 |
-| 49 | [1\-2 \(Victory Check\) \- Live](https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 3:18 |
-| 50 | [Out Of Hiding / How He Loves / Good Good Father \- Medley/Live](https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 8:29 |
+| 49 | [Out Of Hiding / How He Loves / Good Good Father \- Medley/Live](https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 8:29 |
+| 50 | [1\-2 \(Victory Check\) \- Live](https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 3:18 |
 
-Snapshot ID: `aSuJAAAAAACh0ht+Ldx/Ja11bNiDR1g3`
+Snapshot ID: `aSzagAAAAABABKe3aGDOBys/9tpA/r8w`

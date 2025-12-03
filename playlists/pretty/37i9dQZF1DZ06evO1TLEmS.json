@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4205,
+  "num_followers": 4206,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADpXvBwkX0Gk46rcaexXmw3",
+  "snapshot_id": "aSzagAAAAABckLfK9IlUqzgybsb4XZFN",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 247013,
-      "name": "Take Two",
-      "url": "https://open.spotify.com/track/5i3Oa3qPuNzcx8j8txKuBR"
+      "duration_ms": 298920,
+      "name": "Skeletree",
+      "url": "https://open.spotify.com/track/3rGu21P8XTUi1PhqvKCTe1"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 298920,
-      "name": "Skeletree",
-      "url": "https://open.spotify.com/track/3rGu21P8XTUi1PhqvKCTe1"
+      "duration_ms": 247013,
+      "name": "Take Two",
+      "url": "https://open.spotify.com/track/5i3Oa3qPuNzcx8j8txKuBR"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 262934,
+      "name": "In From Japan",
+      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ups & Downs",
         "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 202895,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 262934,
-      "name": "In From Japan",
-      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
     },
     {
       "added_at": null,

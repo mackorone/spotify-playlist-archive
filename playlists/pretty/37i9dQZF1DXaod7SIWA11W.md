@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Joe L Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,252 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,277 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 3 | [God Has Done](https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [God Has Done](https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg) | 2:59 |
 | 4 | [Secret Place](https://open.spotify.com/track/6a68O9k5Zf9ki9A2Bzj6CQ) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe) | [Secret Place](https://open.spotify.com/album/3H9YJkanHPyKuI8Jxe9GcR) | 5:29 |
 | 5 | [I Ain't Worried](https://open.spotify.com/track/73t0NQMn7cB9maJ4ydNnGS) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0) | [Blameless](https://open.spotify.com/album/71y5aQ69P6j4bltUNwCOQb) | 3:42 |
-| 6 | [Pass Me Not](https://open.spotify.com/track/7Jh5uEB1ehvXU1cTec3OoL) | [MAYIA](https://open.spotify.com/artist/5ulxfM3qYKEmj8J9J8tLPc) | [Pass Me Not](https://open.spotify.com/album/7rWbJwsjZx6TgoPqyuUwTw) | 3:53 |
+| 6 | [Pass Me Not](https://open.spotify.com/track/7Jh5uEB1ehvXU1cTec3OoL) | [MAYIA WARREN](https://open.spotify.com/artist/6jwSYdglftKLb8vhvAfNag) | [Pass Me Not](https://open.spotify.com/album/7rWbJwsjZx6TgoPqyuUwTw) | 3:53 |
 | 7 | [History \(Breakthrough\)](https://open.spotify.com/track/7nX5u3WlmJmD33bnMEMNFI) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Harvey Watkins Jr.](https://open.spotify.com/artist/7A9VsjiTGQr0nKn2DbBL0s), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [JEKALYN X THE LEGENDS](https://open.spotify.com/album/5lPKAJVygoWiOy33AZmvfj) | 4:53 |
 | 8 | [Sunday Prayer](https://open.spotify.com/track/0QPQRZ7E729E6IqmSdIQGj) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Sunday Prayer](https://open.spotify.com/album/0NxPkzXdu69FShASmeWzQP) | 3:03 |
 | 9 | [Wade](https://open.spotify.com/track/0nLL5geExfqitGFZTgh3kD) | [Shime Ahua](https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Wade](https://open.spotify.com/album/1YFyvSlylM5oc8OF7oZtTn) | 3:54 |

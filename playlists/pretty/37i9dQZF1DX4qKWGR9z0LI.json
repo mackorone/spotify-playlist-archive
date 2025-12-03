@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Vazquez",
-  "num_followers": 1886974,
+  "num_followers": 1886852,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 291946,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 262641,
       "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 291946,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 191260,
+      "name": "The Reason - Latin Version",
+      "url": "https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
         "name": "Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Moly",
-          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
-        },
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 191260,
-      "name": "The Reason - Latin Version",
-      "url": "https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
+        "name": "Empezando Otra Vez",
+        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 248325,
+      "name": "Te Equivocaste Conmigo",
+      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 296240,
       "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
       "url": "https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
-        "name": "Empezando Otra Vez",
-        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 248325,
-      "name": "Te Equivocaste Conmigo",
-      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Tesoro M\u00edo",
-        "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
-      },
-      "artists": [
-        {
-          "name": "Yan Collazo",
-          "url": "https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW"
-        },
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 242932,
-      "name": "Tesoro M\u00edo",
-      "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Como Olvidarte",
         "url": "https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 188078,
       "name": "Como Olvidarte",
       "url": "https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Tesoro M\u00edo",
+        "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
+      },
+      "artists": [
+        {
+          "name": "Yan Collazo",
+          "url": "https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 242932,
+      "name": "Tesoro M\u00edo",
+      "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
     },
     {
       "added_at": "2025-08-22 04:00:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Awich
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,309 likes - 49 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,308 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 45 | [FLAG](https://open.spotify.com/track/20oj6Cd5kS3ULhCUGtaxql) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/4rjsPDeHyY19vV6MZ2zHLt) | 4:36 |
 | 46 | [Cruel Odds](https://open.spotify.com/track/0YP1ZPdqjqfVxHRUvzquwz) | [mmm](https://open.spotify.com/artist/7BjQGqH1dc7CcKhwLtQLec) | [Burnt](https://open.spotify.com/album/39cHTNTRQ1ESIkV3fBnDCE) | 3:29 |
 | 47 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 |
-| 48 | [バナナボート \(feat\. Elle Teresa\)](https://open.spotify.com/track/4QixHRVeMuE10nZ42DyzPD) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:42 |
-| 49 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 |
+| 48 | [難波ナンバーワン](https://open.spotify.com/track/01Xeg0hovUCxlE9qAoqiry) | [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [難波ナンバーワン](https://open.spotify.com/album/0ChCQibaMr0gYv3YFz4p3o) | 2:48 |
+| 49 | [バナナボート \(feat\. Elle Teresa\)](https://open.spotify.com/track/4QixHRVeMuE10nZ42DyzPD) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:42 |
+| 50 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 |
 
 Snapshot ID: `AAAAAKUkRRmxRy+NlFSuzHL6ObADQH2B`

@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2790476,
+  "num_followers": 2790445,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADVbltNbiRXNBLQySPUZTGU",
+  "snapshot_id": "aSzagAAAAAAQXxDYNqBJFcXkR60G0SZG",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+        "name": "I Hope You're Happy (Deluxe)",
+        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 221440,
-      "name": "Psycho (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C"
+      "duration_ms": 188800,
+      "name": "Cold (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Deluxe)",
-        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Cold (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -434,11 +414,15 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 227533,
-      "name": "Candy Paint",
-      "url": "https://open.spotify.com/track/32lItqlMi4LBhb4k0BaSaC"
+      "duration_ms": 221440,
+      "name": "Psycho (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C"
     },
     {
       "added_at": null,
@@ -463,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Go Flex",
-      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -499,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Go Flex",
+      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -508,9 +492,9 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 204426,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
+      "duration_ms": 227533,
+      "name": "Candy Paint",
+      "url": "https://open.spotify.com/track/32lItqlMi4LBhb4k0BaSaC"
     },
     {
       "added_at": null,
@@ -539,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 257265,
-      "name": "Feeling Whitney",
-      "url": "https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -575,6 +543,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 257265,
+      "name": "Feeling Whitney",
+      "url": "https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 204426,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 193565,
       "name": "Wrapped Around Your Finger",
       "url": "https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 207176,
+      "name": "What Don't Belong To Me",
+      "url": "https://open.spotify.com/track/0lJNSfWnwJMIh94Dv9jQUt"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
       "duration_ms": 196986,
       "name": "Waiting For Never",
       "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 207176,
-      "name": "What Don't Belong To Me",
-      "url": "https://open.spotify.com/track/0lJNSfWnwJMIh94Dv9jQUt"
     },
     {
       "added_at": null,

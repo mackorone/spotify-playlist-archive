@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 7330,
+  "num_followers": 7332,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAA40lA55B1t0c4tQoeGqS1L",
+  "snapshot_id": "aSzagAAAAACGyd4QpjwejRiHSsHsID4T",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Boy",
-        "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
+        "name": "Enko Den",
+        "url": "https://open.spotify.com/album/1ZapwPfnuJ8U2o8dwlHVC7"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 355133,
-      "name": "Mensei Da (Harry)",
-      "url": "https://open.spotify.com/track/73rn8UZBXBh4SYbeMxUMX1"
+      "duration_ms": 294680,
+      "name": "Enko Den",
+      "url": "https://open.spotify.com/track/0LBECuTjYgvP3jwdv07Yet"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enko Den",
-        "url": "https://open.spotify.com/album/1ZapwPfnuJ8U2o8dwlHVC7"
+        "name": "Play Boy",
+        "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 294680,
-      "name": "Enko Den",
-      "url": "https://open.spotify.com/track/0LBECuTjYgvP3jwdv07Yet"
+      "duration_ms": 355133,
+      "name": "Mensei Da (Harry)",
+      "url": "https://open.spotify.com/track/73rn8UZBXBh4SYbeMxUMX1"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Peace a Chance",
-        "url": "https://open.spotify.com/album/4pvFaTxAx6Xa4fUeHEU6bO"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 342047,
-      "name": "Gold Digger",
-      "url": "https://open.spotify.com/track/787dNEhIWhS6Ur2OIVscP7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahenfo Kyiniye",
         "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 276560,
       "name": "Emere Pa Beba",
       "url": "https://open.spotify.com/track/4MvzOnaUIoQp28H9BAZMLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Peace a Chance",
+        "url": "https://open.spotify.com/album/4pvFaTxAx6Xa4fUeHEU6bO"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 342047,
+      "name": "Gold Digger",
+      "url": "https://open.spotify.com/track/787dNEhIWhS6Ur2OIVscP7"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back for Good",
-        "url": "https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 355840,
-      "name": "Back For Good",
-      "url": "https://open.spotify.com/track/5MyI2UKJhYFJsWMjjjUuuk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahenfo Kyiniye",
         "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 265186,
       "name": "Gyabi Wu a Gyabi Te Ase",
       "url": "https://open.spotify.com/track/6TRfndi3AmlRhkU3k5jsXG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back for Good",
+        "url": "https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 355840,
+      "name": "Back For Good",
+      "url": "https://open.spotify.com/track/5MyI2UKJhYFJsWMjjjUuuk"
     },
     {
       "added_at": null,

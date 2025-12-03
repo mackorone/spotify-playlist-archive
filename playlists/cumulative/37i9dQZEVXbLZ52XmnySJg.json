@@ -461,6 +461,32 @@
     },
     {
       "album": {
+        "name": "Aakh Ye Taalibaani",
+        "url": "https://open.spotify.com/album/43hLoE8lHZXafTwgbq38gQ"
+      },
+      "artists": [
+        {
+          "name": "Manish Sonipat Aala",
+          "url": "https://open.spotify.com/artist/5qOMhLYGpLWkX4yvBDfAxw"
+        },
+        {
+          "name": "Bali Sharma",
+          "url": "https://open.spotify.com/artist/3lNCYjWO527Kii9tkqg7Wc"
+        },
+        {
+          "name": "Vampire",
+          "url": "https://open.spotify.com/artist/12QL6cy6qvkF2olxJ6GcL2"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Aakh Ye Taalibaani",
+      "url": "https://open.spotify.com/track/5yS0pxhp7gRtTke8YSg8q1"
+    },
+    {
+      "album": {
         "name": "Aam Jahe Munde",
         "url": "https://open.spotify.com/album/0VtFj2jJ3PosFrLHbE7TJX"
       },
@@ -5942,7 +5968,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt"
@@ -6074,7 +6100,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 260536,
       "name": "Dil Diyan Gallan",
       "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
@@ -15502,7 +15528,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 280161,
       "name": "Mast Magan (From \"2 States)",
       "url": "https://open.spotify.com/track/5bVmOD7UKfP2iLFUGMtdnS"
@@ -18626,7 +18652,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 328480,
       "name": "Pal Pal Dil Ke Paas - From \"Blackmail\"",
       "url": "https://open.spotify.com/track/71j40GUuIgwpEGmoupat2O"
@@ -20008,7 +20034,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 148666,
       "name": "Raat Ke Shikari",
       "url": "https://open.spotify.com/track/7oFrQLTu7Bi1xmTYLbBxHf"
@@ -20506,7 +20532,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 278474,
       "name": "Ranjheya Ve",
       "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
@@ -21172,7 +21198,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 195515,
       "name": "Saibo",
       "url": "https://open.spotify.com/track/5pPyvA03RKSJrAnnDcq0nh"
@@ -23382,8 +23408,8 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
-      "duration_ms": 178244,
+      "date_removed": null,
+      "duration_ms": 178311,
       "name": "Supreme",
       "url": "https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob"
     },
@@ -23916,7 +23942,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/37j9F77SglsxJruWdGUxIY"
@@ -23946,7 +23972,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
@@ -25606,7 +25632,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 261974,
       "name": "Tum Hi Ho",
       "url": "https://open.spotify.com/track/56zZ48jdyY2oDXHVnwg5Di"

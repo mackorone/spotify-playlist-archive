@@ -1,6 +1,6 @@
 {
   "description": "Take a trip down memory lane with these noughties classics...",
-  "num_followers": 1102001,
+  "num_followers": 1102017,
   "original_name": "Easy 00s",
   "owner": {
     "name": "Spotify",
@@ -175,26 +175,6 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "My Boo",
-      "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2024-06-03 14:44:19",
-      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
       },
@@ -215,18 +195,22 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 208306,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp"
+      "duration_ms": 223440,
+      "name": "My Boo",
+      "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -243,6 +227,22 @@
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+    },
+    {
+      "added_at": "2024-06-03 14:44:19",
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -519,18 +519,22 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+        "name": "Lazarus",
+        "url": "https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Travie McCoy",
+          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
+      "duration_ms": 211160,
+      "name": "Billionaire (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -551,6 +555,22 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
+    },
+    {
+      "added_at": "2024-06-03 14:44:19",
+      "album": {
         "name": "A Day Without Rain",
         "url": "https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 218546,
       "name": "Only Time",
       "url": "https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO"
-    },
-    {
-      "added_at": "2024-06-03 14:44:19",
-      "album": {
-        "name": "Lazarus",
-        "url": "https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg"
-      },
-      "artists": [
-        {
-          "name": "Travie McCoy",
-          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Billionaire (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "The Man Who Can't Be Moved",
-      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
-    },
-    {
-      "added_at": "2024-06-03 14:44:19",
-      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/676W2PECpK9UJuuqyjXRjk"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 202066,
       "name": "Patience",
       "url": "https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN"
+    },
+    {
+      "added_at": "2024-06-03 14:44:19",
+      "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "Peaceful, The World Lays Me Down",
-        "url": "https://open.spotify.com/album/2Ugw5XIyyp0cKLMsgUaOh4"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "5 Years Time",
-      "url": "https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL"
-    },
-    {
-      "added_at": "2024-06-03 14:44:19",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2024-06-03 14:44:19",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+        "name": "Peaceful, The World Lays Me Down",
+        "url": "https://open.spotify.com/album/2Ugw5XIyyp0cKLMsgUaOh4"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
         }
       ],
-      "duration_ms": 183720,
-      "name": "Sitting, Waiting, Wishing",
-      "url": "https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL"
+      "duration_ms": 214933,
+      "name": "5 Years Time",
+      "url": "https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL"
     },
     {
       "added_at": "2024-06-03 14:44:19",
@@ -1143,6 +1127,22 @@
       "duration_ms": 311291,
       "name": "Talk",
       "url": "https://open.spotify.com/track/4wzt5Rrk3W98pHXAqutuJw"
+    },
+    {
+      "added_at": "2024-06-03 14:44:19",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Sitting, Waiting, Wishing",
+      "url": "https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL"
     },
     {
       "added_at": "2024-06-03 14:44:19",

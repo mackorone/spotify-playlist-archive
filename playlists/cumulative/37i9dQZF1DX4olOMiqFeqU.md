@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists!
 
-193 songs - 13 hr 41 min
+195 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n) | 5:04 | 2023-01-04 | 2025-03-26 |
 | [Araw\-Araw Love](https://open.spotify.com/track/1x7DysraeqSgVgj95hHc3U) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Araw\-Araw Love](https://open.spotify.com/album/4h5wKpTXHfEeYYZIIVOC8g) | 3:31 | 2023-04-03 | 2023-08-02 |
 | [Asan Ka Na Ba](https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Asan Ka Na Ba](https://open.spotify.com/album/0MK93ibEen72O8dosu3WXE) | 4:01 | 2023-03-09 | 2023-12-12 |
+| [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 | 2025-12-03 |  |
 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 | 2025-03-25 | 2025-08-24 |
 | [Bagyo](https://open.spotify.com/track/0I2ugiLWhuMPSxpmEeRpZA) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 3:47 | 2025-05-28 | 2025-08-24 |
 | [Bahala Na](https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Bahala Na](https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U) | 3:48 | 2023-04-03 | 2024-01-10 |
@@ -117,7 +118,7 @@
 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 | 2023-09-13 |  |
 | [Nadarang](https://open.spotify.com/track/6LJ1p1h5EcMK4VPeCLDSoF) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/7MCYCgE6fQHYkhj29FHRcY) | 3:52 | 2022-06-13 | 2023-01-09 |
 | [Nadarang](https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx) | 3:54 | 2023-01-04 | 2024-04-19 |
-| [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 | 2025-10-06 |  |
+| [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 | 2025-10-06 | 2025-12-03 |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2024-04-17 | 2025-01-29 |
 | [Nahuhulog Na Sa'yo](https://open.spotify.com/track/0EFa7HXaZUAzu9q1UdVPBR) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Nahuhulog Na Sa'yo](https://open.spotify.com/album/3QPcdcXJZ4uophss504wCg) | 3:37 | 2023-09-13 | 2024-01-10 |
 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 | 2025-07-23 | 2025-10-11 |
@@ -125,7 +126,7 @@
 | [Nang Dumating Ka](https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Nang Dumating Ka](https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9) | 6:19 | 2022-05-11 | 2023-01-28 |
 | [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 | 2022-06-13 | 2025-08-08 |
 | [Ngiti](https://open.spotify.com/track/1YY6iA00Q58TvDEh6rYaWf) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Songs of Love](https://open.spotify.com/album/386MjtGdyMGEqjldwGVfFd) | 3:30 | 2022-04-19 | 2022-07-29 |
-| [Nicotine](https://open.spotify.com/track/1kGJlesBPme1OI4gdjivqv) | [SAJKA](https://open.spotify.com/artist/4oGMjYFfUBJlMIhrDdJhyL) | [Weed&Melodies](https://open.spotify.com/album/7ynRrAp1PEZ2OWmWnJ6aXY) | 2:00 | 2025-09-17 |  |
+| [Nicotine](https://open.spotify.com/track/1kGJlesBPme1OI4gdjivqv) | [SAJKA](https://open.spotify.com/artist/4oGMjYFfUBJlMIhrDdJhyL) | [Weed&Melodies](https://open.spotify.com/album/7ynRrAp1PEZ2OWmWnJ6aXY) | 2:00 | 2025-09-17 | 2025-12-03 |
 | [Nobela](https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC) | [Join The Club](https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT) | [Nobela](https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV) | 4:51 | 2022-04-19 |  |
 | [Nothing's Gonna Stop Us Now \(Theme from Crazy Beautiful You\)](https://open.spotify.com/track/0bN5xQD1krvZNn8bsiWfVb) | [Daniel Padilla](https://open.spotify.com/artist/5yVM85m9yNcHO6o0vaaVxW), [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Nothing's Gonna Stop Us Now \(Theme from Crazy Beautiful You\) \- Single](https://open.spotify.com/album/3lfOcun9UzVA8x0JLrOicl) | 4:19 | 2022-04-19 | 2022-07-29 |
 | [Oksihina](https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Oksihina](https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29) | 3:24 | 2025-07-30 |  |
@@ -161,6 +162,7 @@
 | [Same Ground](https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:27 | 2022-04-19 |  |
 | [Sana \- Single Version](https://open.spotify.com/track/1X4l4i472kW5ofFP8Xo0x0) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Sana](https://open.spotify.com/album/4njOhY51h2CBqdAX4o41U1) | 4:37 | 2022-04-19 | 2022-11-01 |
 | [Sana \- Single Version](https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Sana](https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl) | 4:37 | 2022-09-20 | 2024-03-07 |
+| [Saranggola](https://open.spotify.com/track/2V3HVXu25O5xCAjmmptYCo) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Saranggola](https://open.spotify.com/album/36gNzsCUsMd3CoD9zGyMUp) | 4:26 | 2025-12-03 |  |
 | [Sila](https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Sila](https://open.spotify.com/album/0qwujayb77utSpftsXjdP3) | 5:26 | 2024-04-17 | 2025-11-29 |
 | [Simpleng Tao](https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3) | [Gloc 9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD) | [G9](https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG) | 4:04 | 2022-06-13 | 2023-06-04 |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2025-06-25 |  |

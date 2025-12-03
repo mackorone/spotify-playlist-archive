@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk fra bla\. Aden Foyer, Kakkmaddafakka, Ed Sheeran og mange fler!🎵
 
-8,625 songs - 18 day 14 hr 55 min
+8,626 songs - 18 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3345,6 +3345,7 @@
 | [High On Love](https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [High On Love](https://open.spotify.com/album/1RS0vAX4YynNRKyxl7DoAw) | 2:56 | 2024-05-16 | 2024-05-24 |
 | [High On Loving You \(Talk\)](https://open.spotify.com/track/2e9iFRN92N8t9FGBj0dhV8) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [This is how I remember it.](https://open.spotify.com/album/7E4vbLNA0l8RTXjVXkycuR) | 3:26 | 2024-11-28 | 2024-12-06 |
 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-06-19 | 2025-06-27 |
+| [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 | 2025-11-27 |  |
 | [HIGH STAKES 2026](https://open.spotify.com/track/11KM0ZgVaUhZkQ1dHd2YJH) | [Prells](https://open.spotify.com/artist/50Kop00cliTuhn1vCBNVkH), [Lille Saus](https://open.spotify.com/artist/15saPvefLxxtw3nvTOCUg0) | [HIGH STAKES 2026](https://open.spotify.com/album/5x3q1YjcYkaPHNh2egJDZ4) | 2:43 | 2025-10-09 | 2025-10-17 |
 | [High tech kis](https://open.spotify.com/track/2l62k3Mv6pNLMKcYko4dMg) | [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc) | [High tech kis](https://open.spotify.com/album/4cSdx5fuELTLhmX8ZQ4wXb) | 2:21 | 2025-02-20 | 2025-02-28 |
 | [High Time](https://open.spotify.com/track/2RAaI9h95On0Z1h4wq0Qbj) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [High Time](https://open.spotify.com/album/7A7g9DyaTInJ7cRuq53K9a) | 2:29 | 2025-07-03 | 2025-07-11 |

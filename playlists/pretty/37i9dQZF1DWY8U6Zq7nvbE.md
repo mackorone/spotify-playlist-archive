@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,438,839 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,438,849 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 5 | [The Best](https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf) | [Von Allen](https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG) | [The Best](https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr) | 3:37 |
 | 6 | [Hands To Myself](https://open.spotify.com/track/3pZmWRdZfUMGgxQrEhTRKG) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Hands To Myself](https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI) | 3:09 |
 | 7 | [Die with A Smile](https://open.spotify.com/track/0WsTGH8uDMHneoTbnluW87) | [little fictions](https://open.spotify.com/artist/6KYtoDiXQBtuF3cO2sj0EO) | [Die with A Smile](https://open.spotify.com/album/3U2ym9CkgHLImVUUkAXZ7d) | 3:49 |
-| 8 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 |
-| 9 | [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 |
+| 8 | [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 |
+| 9 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 |
 | 10 | [all night long](https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [all night long](https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO) | 3:14 |
 | 11 | [APT.](https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs) | [SƎLFISH](https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP) | [APT.](https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7) | 2:12 |
 | 12 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 15 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 |
 | 16 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 |
 | 17 | [Closer](https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH) | [Eric Serenade](https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda) | [Closer](https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih) | 3:08 |
-| 18 | [what if](https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [what if](https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq) | 3:21 |
-| 19 | [Pink Pony Club](https://open.spotify.com/track/79ketFeLc2HSIYqLge8hb9) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Pink Pony Club](https://open.spotify.com/album/2pQ0Ls61JrqtTY4ZTZkQiw) | 3:16 |
+| 18 | [Pink Pony Club](https://open.spotify.com/track/79ketFeLc2HSIYqLge8hb9) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Pink Pony Club](https://open.spotify.com/album/2pQ0Ls61JrqtTY4ZTZkQiw) | 3:16 |
+| 19 | [what if](https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [what if](https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq) | 3:21 |
 | 20 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 |
 | 21 | [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 |
 | 22 | [Latch](https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [Latch](https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU) | 3:17 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 62 | [Breathless](https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Breathless](https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn) | 2:46 |
 | 63 | [Just the Two of Us \- Acoustic](https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Just The Two Of Us \- Acoustic](https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz) | 3:06 |
 | 64 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
-| 65 | [Hell N Back](https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7) | [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Hell N Back](https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6) | 3:21 |
-| 66 | [Birds of a Feather](https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Birds of a Feather](https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt) | 3:39 |
+| 65 | [Birds of a Feather](https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Birds of a Feather](https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt) | 3:39 |
+| 66 | [Hell N Back](https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7) | [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Hell N Back](https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6) | 3:21 |
 | 67 | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 |
 | 68 | [All of me \- Acoustic](https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [All of me \- Acoustic](https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd) | 4:28 |
 | 69 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 72 | [Behind Blue Eyes](https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Behind Blue Eyes](https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm) | 2:44 |
 | 73 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 |
 | 74 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 |
-| 75 | [Because the Night](https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Because the Night](https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD) | 3:10 |
-| 76 | [Cold Heart](https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Cold Heart](https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl) | 3:08 |
+| 75 | [Cold Heart](https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Cold Heart](https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl) | 3:08 |
+| 76 | [Because the Night](https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Because the Night](https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD) | 3:10 |
 | 77 | [In The Meantime](https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [In The Meantime](https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk) | 2:58 |
 | 78 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Out Of My Head And Back In My Bed](https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M) | 3:10 |
 | 79 | [I Ain't Worried](https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I Ain't Worried](https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb) | 2:44 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 95 | [Sure Thing](https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL) | [since always](https://open.spotify.com/artist/0Yht4tZIX0zd3RSrvDaZuV), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Sure Thing](https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c) | 3:59 |
 | 96 | [Eyes Closed](https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl) | [Theresa Chase](https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P) | [Eyes Closed](https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe) | 3:23 |
 | 97 | [Flowers](https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Flowers](https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh) | 3:34 |
-| 98 | [People](https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [People](https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW) | 2:52 |
-| 99 | [Stay](https://open.spotify.com/track/33E9TgNo6gEFCA91s5GPOn) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Stay](https://open.spotify.com/album/5eW7UCMMuW9NlfaOgQSXsn) | 3:28 |
+| 98 | [Stay](https://open.spotify.com/track/33E9TgNo6gEFCA91s5GPOn) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Stay](https://open.spotify.com/album/5eW7UCMMuW9NlfaOgQSXsn) | 3:28 |
+| 99 | [People](https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [People](https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW) | 2:52 |
 | 100 | [Love Song](https://open.spotify.com/track/3fGDYm9IW5OhqmJ7juHDM4) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Love Song](https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn) | 3:31 |
 
 Snapshot ID: `AAAAALAxKmBaM3g2/MA2+lXJ4kspTibE`

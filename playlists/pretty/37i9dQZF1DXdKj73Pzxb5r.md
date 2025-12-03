@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Manjakani
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,921 likes - 89 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,929 likes - 89 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

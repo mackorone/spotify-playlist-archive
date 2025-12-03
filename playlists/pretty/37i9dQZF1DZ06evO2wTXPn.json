@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAACpMIvFPjVrGxDcjwK5vxXd",
+  "snapshot_id": "aSzagAAAAABGV4isZjutP6+XQgNdj8pI",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Suerte",
-        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Qu\u00e9 Suerte",
-      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 216973,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/2vP1AAw7D6pybjllO8EZBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Suerte",
+        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Qu\u00e9 Suerte",
+      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Un Pedacito de Ti",
-      "url": "https://open.spotify.com/track/65rNTveNX91Df29bbplB09"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Un Pedacito de Ti",
+      "url": "https://open.spotify.com/track/65rNTveNX91Df29bbplB09"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Mujer Perfecta",
         "url": "https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p"
       },
@@ -627,26 +627,6 @@
       "duration_ms": 218573,
       "name": "La Mujer Perfecta",
       "url": "https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hecho Para Ti",
-        "url": "https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Prometo",
-      "url": "https://open.spotify.com/track/2FZFAdvkA8T47FP36wFIoJ"
     },
     {
       "added_at": null,
@@ -683,6 +663,26 @@
       "duration_ms": 174106,
       "name": "Amanec\u00ed Nublado",
       "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hecho Para Ti",
+        "url": "https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Prometo",
+      "url": "https://open.spotify.com/track/2FZFAdvkA8T47FP36wFIoJ"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
         "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 173720,
       "name": "S\u00f3lo Muere Si Se Olvida",
       "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
     },
     {
       "added_at": null,

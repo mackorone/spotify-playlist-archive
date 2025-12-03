@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,265 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,284 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 14 | [Seihor \(feat\. Dblack\)](https://open.spotify.com/track/5iv7WkYexGay1BNXXLWYI1) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e), [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB) | [Seihor \(feat\. Dblack\)](https://open.spotify.com/album/7os1p9cKa1Mt78qAs1GUeg) | 3:57 |
 | 15 | [Wo Onane No](https://open.spotify.com/track/2dguh4zWtrZK6VIJsEsXhe) | [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [DeYaaa](https://open.spotify.com/album/5sJDwsKEbIfoNwIT3sJ9bp) | 3:29 |
 | 16 | [Densu](https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:16 |
-| 17 | [Odwo](https://open.spotify.com/track/1F3o99FyY2k2YpBUtc7Zr7) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Odwo](https://open.spotify.com/album/6HcOIbMSbKYjec6gzIctbs) | 5:43 |
-| 18 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
+| 17 | [Kolom](https://open.spotify.com/track/2oiMs23DJaCEj0KSj6ZOjv) | [BukBak](https://open.spotify.com/artist/1E0CW7edfYKv66MrCVSnmV) | [Kolom](https://open.spotify.com/album/1DQxZQNQLJbL4Pd6XhL9aj) | 4:40 |
+| 18 | [Odwo](https://open.spotify.com/track/1F3o99FyY2k2YpBUtc7Zr7) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Odwo](https://open.spotify.com/album/6HcOIbMSbKYjec6gzIctbs) | 5:43 |
 | 19 | [Boneshaker](https://open.spotify.com/track/2W93d3UVhKkCf6YgZ6ywBD) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Toffee](https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0) | 6:46 |
 | 20 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 |
 | 21 | [Away](https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Progress](https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT) | 5:04 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 30 | [I Think I Like Am \(Radio Edit\)](https://open.spotify.com/track/1des1aVesUVx42QDkrMkYK) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Progress](https://open.spotify.com/album/0xqUYNcjJFagQmOfPYNvzP) | 3:36 |
 | 31 | [Odo](https://open.spotify.com/track/4kbszKEvLCtJ020xd0OVDX) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Odo](https://open.spotify.com/album/2zqYXrJGUYjaB3RxkfFH4O) | 3:53 |
 | 32 | [Kangaroo \- feat\. Batman](https://open.spotify.com/track/7CMHjhDTiJbvMkomXUodis) | [Tic Tac](https://open.spotify.com/artist/7xtmj62gTz59CEBTSDOiML), [Batman](https://open.spotify.com/artist/3PTvxYMFgNGE9bQdlDT9Wx) | [Black Stars – Ghana’s Hiplife Generation](https://open.spotify.com/album/6jdTD8R5rYp5Gs3WRuZyR9) | 3:31 |
-| 33 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
-| 34 | [Baba God \(feat\. Sk\)](https://open.spotify.com/track/2DFOj2Uu3q3MQ2l4z5fQaS) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [S.K](https://open.spotify.com/artist/1XSI8OJNq5sTxe3WYp0fCc) | [Baba God \(feat\. Sk\)](https://open.spotify.com/album/23HN2hlDmjkLYRhBM1y4zF) | 4:14 |
+| 33 | [Baba God \(feat\. Sk\)](https://open.spotify.com/track/2DFOj2Uu3q3MQ2l4z5fQaS) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [S.K](https://open.spotify.com/artist/1XSI8OJNq5sTxe3WYp0fCc) | [Baba God \(feat\. Sk\)](https://open.spotify.com/album/23HN2hlDmjkLYRhBM1y4zF) | 4:14 |
+| 34 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
 | 35 | [Wadi Mi Sika](https://open.spotify.com/track/24QOYBHFbneNWWmZLcDLGS) | [Vibe Squad](https://open.spotify.com/artist/2R0aMpj0PzJr86oWENCRDV), [DeeVS](https://open.spotify.com/artist/2HPEFGX2Lt2sLPsABvxsgD), [Mista Silva](https://open.spotify.com/artist/2h3gbLjsYV1bTFr0qGYNb5), [Kwamz & Flava](https://open.spotify.com/artist/3RdldZQW8cYFLEDEH7haJe) | [Wadi Mi Sika \- EP](https://open.spotify.com/album/14jKUJ46QFu7a10JAzrYYT) | 4:20 |
 | 36 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
 | 37 | [Baby \(Chop Kiss\)](https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Baby \(Chop Kiss\)](https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW) | 3:18 |

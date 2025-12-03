@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 94845,
+  "num_followers": 94935,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADxSvntxX/GtS2YpsKlParg",
+  "snapshot_id": "aSzagAAAAAB/KMRrLcpk7nS1yqxoO16S",
   "tracks": [
     {
       "added_at": null,
@@ -947,22 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um",
-        "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq"
       },
       "artists": [
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
         }
       ],
-      "duration_ms": 225877,
-      "name": "O Que Quiser Fazer",
-      "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
+      "duration_ms": 217044,
+      "name": "Pessoas",
+      "url": "https://open.spotify.com/track/5Iqv9gAh4aAyLFi9vUDLi0"
     },
     {
       "added_at": null,
@@ -987,22 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq"
+        "name": "Um",
+        "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
       },
       "artists": [
         {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 217044,
-      "name": "Pessoas",
-      "url": "https://open.spotify.com/track/5Iqv9gAh4aAyLFi9vUDLi0"
+      "duration_ms": 225877,
+      "name": "O Que Quiser Fazer",
+      "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,30 @@
       "duration_ms": 249490,
       "name": "Castelos & Ru\u00ednas",
       "url": "https://open.spotify.com/track/5gfsiobWJXdalFzHPoM3x5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cidade do Pecado",
+        "url": "https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7hBUpxgSBA5ai8o6vW1Mew"
+        }
+      ],
+      "duration_ms": 217647,
+      "name": "Para\u00edso Que Me Cerca",
+      "url": "https://open.spotify.com/track/5UeZjPBEi6NW5HvHl4OTYW"
     },
     {
       "added_at": null,
@@ -1091,30 +1115,6 @@
       "duration_ms": 249813,
       "name": "Vivos",
       "url": "https://open.spotify.com/track/2xL2K3GgaY8Af0gxwTntcn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cidade do Pecado",
-        "url": "https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7hBUpxgSBA5ai8o6vW1Mew"
-        }
-      ],
-      "duration_ms": 217647,
-      "name": "Para\u00edso Que Me Cerca",
-      "url": "https://open.spotify.com/track/5UeZjPBEi6NW5HvHl4OTYW"
     },
     {
       "added_at": null,

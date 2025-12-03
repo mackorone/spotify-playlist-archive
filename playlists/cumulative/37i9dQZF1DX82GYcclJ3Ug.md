@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: WesGhost
 
-3,198 songs - 7 day 7 hr 19 min
+3,199 songs - 7 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [2001](https://open.spotify.com/track/18mdHJIozzktPJ93oXk39A) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 4:26 | 2022-07-29 | 2022-10-08 |
 | [2022](https://open.spotify.com/track/2bsMTraNEMpu6Z25bjWz2q) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [2022](https://open.spotify.com/album/02mqlcxY1kqOBOtvtPBzXF) | 2:54 | 2025-09-26 | 2025-11-29 |
 | [2030 Revolution](https://open.spotify.com/track/0Ik7qkvgSz25oZgZ6T0pIs) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [2030 Revolution](https://open.spotify.com/album/5MVQziYxk5ejRzKcLveWpa) | 3:48 | 2022-08-26 | 2022-10-29 |
+| [20teens](https://open.spotify.com/track/5F6Rxh3fkwU2NIdVttFUlY) | [Blessing Jolie](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [20teens](https://open.spotify.com/album/72fuMXmu5lrxWmMytH7gKE) | 3:11 | 2025-12-02 |  |
 | [23's A Baby](https://open.spotify.com/track/4cgBgQLBPFpxkdt0ZEa8VK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [23's A Baby](https://open.spotify.com/album/61YuzrhatyhsGuFD97qpPt) | 4:13 | 2025-04-04 | 2025-05-10 |
 | [26](https://open.spotify.com/track/5g9l6lC7v2Z7OpXIztsJII) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF) | [hara\-kiri \(Deluxe\)](https://open.spotify.com/album/67BXbMRq618ZlEqgcoZeAT) | 2:11 | 2025-05-16 | 2025-07-05 |
 | [29](https://open.spotify.com/track/0REv856zadB0e8IM1brlwr) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 2:43 | 2022-08-19 | 2022-10-01 |

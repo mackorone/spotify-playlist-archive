@@ -4,7 +4,7 @@
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-256 songs - 14 hr 28 min
+259 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,12 +48,14 @@
 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 | 2025-01-13 | 2025-03-22 |
 | [CYM](https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA) | 4:09 | 2025-04-04 | 2025-07-12 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-10-12 |  |
+| [Dancing in my bad life \- feat.CLAN QUEEN](https://open.spotify.com/track/4AEw2WCrbdjvYw6AVCksGg) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t), [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [Dancing in my bad life \(feat.CLAN QUEEN\)](https://open.spotify.com/album/3nEakkMSAOhDPIz7Bt4EQJ) | 4:08 | 2025-12-02 |  |
 | [DANCING IN THE ROOM](https://open.spotify.com/track/3LJ8gioNFggBg6zoGhz1tx) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [DANCING IN THE ROOM](https://open.spotify.com/album/6DmyL9pVA56Ssp5AxGrNrI) | 3:54 | 2024-02-08 | 2024-12-01 |
 | [Dear](https://open.spotify.com/track/33qTER0xTXBQPDMSYR1hGX) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Dear](https://open.spotify.com/album/6vMKpUwuJVC0sukrtZo0zL) | 5:11 | 2024-06-07 | 2025-06-26 |
 | [Death Of Me](https://open.spotify.com/track/4dFDlhbIi1x9BY7rO52cID) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [Death Of Me](https://open.spotify.com/album/0uA0oMjbuhSoNqdfjpbKQD) | 3:34 | 2024-06-03 | 2024-08-25 |
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-26 | 2025-01-14 |
 | [DIFFERENT](https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v) | 2:21 | 2025-06-12 |  |
 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 | 2023-12-07 | 2024-01-19 |
+| [DISTORTED世界](https://open.spotify.com/track/6cDVtEO1xexzJRvKXQiUmX) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [DOUKE](https://open.spotify.com/album/3btLEMRkoVoo5tdSG7E0kz) | 2:24 | 2025-12-02 |  |
 | [Do One](https://open.spotify.com/track/6uM4d5YuVQZzlZkfBb1g4N) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Do One](https://open.spotify.com/album/7A7iMGBEB5KY5ZfUV40usr) | 2:21 | 2024-01-25 | 2024-02-02 |
 | [Do Ya Think I'm Sexy](https://open.spotify.com/track/2wUnbvxF5a25JuZp6Tzbpu) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 4:16 | 2024-01-11 | 2024-07-27 |
 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 | 2024-02-29 | 2024-10-27 |
@@ -209,7 +211,7 @@
 | [Young Man](https://open.spotify.com/track/2iF0v1qgFjCFBhHTdscbVA) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Young Man](https://open.spotify.com/album/40MzrJn2KzZbShzPiqxZ4r) | 4:17 | 2024-07-04 | 2024-07-27 |
 | [ZERO](https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ZERO](https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3) | 3:52 | 2023-10-12 | 2023-12-08 |
 | [さすらい](https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [さすらい](https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2) | 3:26 | 2023-12-03 | 2024-01-12 |
-| [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 | 2025-07-11 |  |
+| [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 | 2025-07-11 | 2025-12-03 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-10-12 |  |
 | [アポロドロス](https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [アポロドロス](https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6) | 4:44 | 2024-12-14 | 2025-02-21 |
 | [ウィスパー](https://open.spotify.com/track/3Pn8IhJ6tulPS4cmGEGZBs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ウィスパー](https://open.spotify.com/album/4cdpSmfFF2bkD4BlS8V7k6) | 4:10 | 2024-11-30 | 2025-01-14 |
@@ -236,11 +238,11 @@
 | [夜的平成浪漫](https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [夜的平成浪漫](https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y) | 3:27 | 2024-09-06 | 2024-12-15 |
 | [後光](https://open.spotify.com/track/0rk1EARKenr7L7neBv3SQX) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [後光](https://open.spotify.com/album/1EXCMLzeMlfD6RvMDbn5Rg) | 3:24 | 2023-10-12 | 2024-01-26 |
 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 | 2025-02-21 |  |
-| [悪夢のような](https://open.spotify.com/track/57tkpJBjbHMdCD9BCA7vxL) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 4:19 | 2025-07-11 |  |
+| [悪夢のような](https://open.spotify.com/track/57tkpJBjbHMdCD9BCA7vxL) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 4:19 | 2025-07-11 | 2025-12-03 |
 | [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 | 2024-09-27 | 2025-01-14 |
 | [憂、燦々](https://open.spotify.com/track/38K9JUzPaZrzqIhrTUm6nR) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [もしも生まれ変わったならそっとこんな声になって](https://open.spotify.com/album/3wdZ4kOQIdR0ppsj6oVG7R) | 4:09 | 2024-09-06 | 2024-12-15 |
 | [拡散シテ](https://open.spotify.com/track/38N8inClTPvoyCE8umRT18) | [cherie](https://open.spotify.com/artist/1nNlKcJf1h43ksIjVFKF7e) | [拡散シテ](https://open.spotify.com/album/2S7SndsKJZObVPmYvj9miT) | 3:07 | 2024-10-09 | 2024-10-27 |
-| [旋律と結晶](https://open.spotify.com/track/6yaaXhAy87Y3QByODBRv4H) | [TENBLANK](https://open.spotify.com/artist/7oOEez2der8GAv2uDddxbr) | [旋律と結晶](https://open.spotify.com/album/1GLupMKqFB0NUlndJgZSK0) | 2:58 | 2025-08-20 |  |
+| [旋律と結晶](https://open.spotify.com/track/6yaaXhAy87Y3QByODBRv4H) | [TENBLANK](https://open.spotify.com/artist/7oOEez2der8GAv2uDddxbr) | [旋律と結晶](https://open.spotify.com/album/1GLupMKqFB0NUlndJgZSK0) | 2:58 | 2025-08-20 | 2025-12-03 |
 | [月へ行こう](https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [月へ行こう](https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w) | 3:18 | 2024-03-07 | 2024-07-05 |
 | [月面着陸計画](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 | 2025-01-13 | 2025-03-22 |
 | [未確認領域](https://open.spotify.com/track/14KZzCx6mbOCeM0e5iFt3N) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [未確認領域](https://open.spotify.com/album/0PWlfMnADAMGN7SIpvN4LO) | 2:53 | 2025-08-20 | 2025-10-19 |
@@ -258,6 +260,7 @@
 | [言焉](https://open.spotify.com/track/6sgFQ5GNkyvmdNlULIlzRA) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:07 | 2024-01-10 | 2024-12-15 |
 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 | 2025-01-24 | 2025-05-30 |
 | [逆光 \- replica \-](https://open.spotify.com/track/3LZwKI90sFbwjJMMSfyPp7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:57 | 2023-11-16 | 2024-06-08 |
+| [連れてって](https://open.spotify.com/track/2ucRLbSLvhc5KYkrtg1vG7) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [連れてって](https://open.spotify.com/album/2VxQTWaRsEjABKfrc4PkgD) | 4:04 | 2025-12-02 |  |
 | [鎌倉STYLE](https://open.spotify.com/track/7uuGRrAHErHkzp51tFzcd7) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [鎌倉STYLE](https://open.spotify.com/album/0hJnHL8N0cRUKPSLeEWS6W) | 3:20 | 2024-08-08 | 2024-09-06 |
 | [青と夏](https://open.spotify.com/track/5BC6kr6etk2Y9J62AyI4i3) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 4:30 | 2024-04-12 |  |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-10-12 |  |

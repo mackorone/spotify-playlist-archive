@@ -4,7 +4,7 @@
 
 > 
 
-8,147 songs - 20 day 16 hr 40 min
+8,150 songs - 20 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1154,6 +1154,7 @@
 | [Chemical Reaction](https://open.spotify.com/track/6GuyfWHLeQAezV3POp3uiv) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Secrets](https://open.spotify.com/album/3ok2as0GNHEgHvwRe8YZz8) | 4:17 | 2025-01-15 |  |
 | [Chemistry](https://open.spotify.com/track/6Gp5KgUbpWHQPKKSYHXGzY) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 3:04 | 2025-04-19 |  |
 | [Cherish](https://open.spotify.com/track/3cw6T3OEgqLiqEDLDQPSnE) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:14 | 2025-03-17 |  |
+| [Cherish \(My Love\)](https://open.spotify.com/track/21LtZQQMQYwVIxc9O9Ygq8) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 2:56 | 2025-12-02 |  |
 | [Cherries Jubiles](https://open.spotify.com/track/1NiriEqpk9oOcL4QGzBDmU) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 4:05 | 2025-05-26 |  |
 | [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 | 2025-01-03 |  |
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 3:20 | 2025-06-01 |  |
@@ -7231,6 +7232,7 @@
 | [ないものねだり](https://open.spotify.com/track/0ETHzNAlFNjIjIoaVLy8o5) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [KANA\-BOON THE BEST](https://open.spotify.com/album/6LiaBhg3xMU1XEHmlZdhye) | 4:22 | 2024-12-16 |  |
 | [ないものねだり](https://open.spotify.com/track/1dsh4buvcBs2u7YtHy29c7) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [僕がCDを出したら](https://open.spotify.com/album/3SKxJng83DxoCi3CuHfaLU) | 4:22 | 2025-01-03 |  |
 | [なんでもないよ、](https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [なんでもないよ、](https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S) | 3:38 | 2025-01-04 |  |
+| [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 | 2025-12-03 |  |
 | [のびしろ](https://open.spotify.com/track/3bbIIVIwBoLqVcLebiEJFo) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Case](https://open.spotify.com/album/0IvA5XFjp5QAxBPgfPaEYG) | 3:56 | 2025-05-26 |  |
 | [はしゃぎすぎた街の中で僕は一人遠回りした](https://open.spotify.com/track/7glIl1Qe3E69MZV5mRJkbl) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [好きなら問わない](https://open.spotify.com/album/3E8UR7IY19ANypJEQWdW4X) | 3:48 | 2025-01-03 |  |
 | [はじまりの速度](https://open.spotify.com/track/2aEPTUyTkFBUzmOmpE4yzQ) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [あのときの歌が聴こえる](https://open.spotify.com/album/3FgEwaqwZHbEoIQXTlaJi4) | 4:47 | 2025-01-15 |  |
@@ -7476,6 +7478,7 @@
 | [世界中の誰よりきっと \[WANDS 第5期ver.\]](https://open.spotify.com/track/7vvdk7B2gYiwyyeTNxq9QV) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [BURN THE SECRET](https://open.spotify.com/album/25K7JKbVPHXnNrqXwRXOib) | 4:00 | 2025-02-27 |  |
 | [丸の内サディスティック](https://open.spotify.com/track/5ZZbg1wID5TK0ffKS6GrhB) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [Love & Groove Delivery](https://open.spotify.com/album/5ZOalcB1UP3dpfFAl1DWT6) | 4:03 | 2025-01-15 |  |
 | [乙女解剖](https://open.spotify.com/track/1tqmdA898RzkQpCUK1wFMm) | [暁山瑞希](https://open.spotify.com/artist/55KskxVnv2cAWebKf331ug) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:42 | 2025-11-27 |  |
+| [乙女解剖](https://open.spotify.com/track/47wASAe9g2O1iRhZJMhDdf) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:42 | 2025-12-03 |  |
 | [乱舞のメロディ](https://open.spotify.com/track/5S8j78C6AeKlTGUFmkFxHy) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [SID Anime Best 2008\-2017](https://open.spotify.com/album/2gADClNc5zxSo9au2EPBqK) | 3:53 | 2025-01-15 |  |
 | [二人の時間\(2012 Version\)](https://open.spotify.com/track/4QmCv89tlMQmoOlMA8XOWM) | [James Harris](https://open.spotify.com/artist/1ZBnCfsXaG6RXRbStIbRSt) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:13 | 2025-08-10 |  |
 | [二十歳の恋](https://open.spotify.com/track/1EA40FX9aBaKIXwIp83WzL) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 3:13 | 2025-01-03 |  |

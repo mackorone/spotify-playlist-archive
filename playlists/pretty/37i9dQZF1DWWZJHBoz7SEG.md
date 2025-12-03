@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Noviembre se aleja, el cielo esta gris 🎶 Julieta Venegas 🌹 en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,190 likes - 95 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,241 likes - 95 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 38 | [Con Dinero Y Sin Dinero \(El Pipiripau\)](https://open.spotify.com/track/7rG3li3gclPkvgL5Zr9aPV) | [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh), [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Con Dinero Y Sin Dinero \(El Pipiripau\)](https://open.spotify.com/album/2fb5h3NetdPS2Rsn1CKI3m) | 2:50 |
 | 39 | [No me veas así](https://open.spotify.com/track/4cBQQHyBxnKqKnUWnZqfFm) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [No me veas así](https://open.spotify.com/album/3AYLv5UWmFW4rAb1ld407Z) | 2:48 |
 | 40 | [esas veces](https://open.spotify.com/track/4zdtcW9lWRKhUAtUPJs4IS) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [NAITRØ](https://open.spotify.com/artist/7rGNk9dPOrzcEuiaE4HlPy) | [esas veces](https://open.spotify.com/album/3AIwH42S8Dt3KWmMYg8r7T) | 3:27 |
-| 41 | [BAJO CERO \- con Ka\-b & Saak ft\. FABRO](https://open.spotify.com/track/6p8xjoBgSjBmOdKM8HzfgR) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B), [Ka\-b](https://open.spotify.com/artist/24TlxSIxRtBSV8ylX65Hvb), [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU), [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [BAJO CERO \- con Ka\-b & Saak ft\. FABRO](https://open.spotify.com/album/0N7ntIozywj8PRx4PucRyL) | 4:21 |
+| 41 | [BAJO CERO \- con Ka\-b & Saak ft\. FABRO](https://open.spotify.com/track/6p8xjoBgSjBmOdKM8HzfgR) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B), [Ka\-b](https://open.spotify.com/artist/68glq48CmjixyDfcKMuk8g), [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU), [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [BAJO CERO \- con Ka\-b & Saak ft\. FABRO](https://open.spotify.com/album/0N7ntIozywj8PRx4PucRyL) | 4:21 |
 | 42 | [Me Retiré](https://open.spotify.com/track/2VtmkxL1Fif90UxVdFIxI7) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Me Retiré](https://open.spotify.com/album/1CkOACOSImxTfVch4xj1mx) | 2:04 |
 | 43 | [Yo Sé](https://open.spotify.com/track/5rw5Xk2cZGB5tBDlDIWL7o) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Pablito Calavera](https://open.spotify.com/artist/2TH4NXRgjM7vIW76o7pbas) | [Yo Sé](https://open.spotify.com/album/4oxzJFH6kbI12zsmGOJn9f) | 4:50 |
 | 44 | [Santa Claus Llegó a la Ciudad](https://open.spotify.com/track/6DyQ2rNUhXcc9QmbN8MMYE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Santa Claus Llegó a la Ciudad](https://open.spotify.com/album/7tidQQiffnh4lPUzM0AtOl) | 2:26 |

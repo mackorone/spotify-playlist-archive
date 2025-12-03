@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Marvin Winans, Kurt Carr & The Kurt Carr Singers, Chicago Mass Choir and more
+> With Tramaine Hawkins, Chicago Mass Choir, Gods Property and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 264 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 263 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

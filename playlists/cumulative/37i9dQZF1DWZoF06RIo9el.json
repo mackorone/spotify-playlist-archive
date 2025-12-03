@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Lo mejor de noviembre 2025. Cover: ROSAL\u00cdA",
+  "description": "Lo mejor de diciembre 2025. Cover: Romeo Santos & Prince Royce",
   "name": "Lo mejor del mes",
   "tracks": [
     {
@@ -1863,6 +1863,28 @@
     },
     {
       "album": {
+        "name": "aunquetelopida",
+        "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180631,
+      "name": "aunquetelopida",
+      "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/5wGvRJ6ZFgRJcVtbs3K663"
       },
@@ -2800,6 +2822,50 @@
       "duration_ms": 229064,
       "name": "Besos Moja2",
       "url": "https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz"
+    },
+    {
+      "album": {
+        "name": "Beto's Horns",
+        "url": "https://open.spotify.com/album/2TRLrNiG7UR2CjnGs2GI8T"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226222,
+      "name": "Beto\u2019s Horns - fred remix",
+      "url": "https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn"
+    },
+    {
+      "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248217,
+      "name": "Better Late Than Never",
+      "url": "https://open.spotify.com/track/6E16aoeOwaph7iNqiw38Mo"
     },
     {
       "album": {
@@ -3850,7 +3916,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 235136,
       "name": "Camas Separadas - ft. Disco Bah\u00eda",
       "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
@@ -4068,7 +4134,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 186494,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
@@ -5274,7 +5340,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 193448,
       "name": "Coronel",
       "url": "https://open.spotify.com/track/4O1PkdMNUAT53EMuv4PEmr"
@@ -10514,7 +10580,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 152734,
       "name": "Hecho para ti",
       "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
@@ -11282,6 +11348,24 @@
       "duration_ms": 199058,
       "name": "Imprudencia",
       "url": "https://open.spotify.com/track/3Cd4tTkxEGTnxWddyxWgDK"
+    },
+    {
+      "album": {
+        "name": "IND 2 JFK",
+        "url": "https://open.spotify.com/album/0FqTf8CVWS4j9qfXryaqS7"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153836,
+      "name": "IND 2 JFK",
+      "url": "https://open.spotify.com/track/6lEAEa2rLSDMyw2I2wUek3"
     },
     {
       "album": {
@@ -13142,7 +13226,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 217168,
       "name": "Las Cosas Simples",
       "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
@@ -17105,6 +17189,46 @@
     },
     {
       "album": {
+        "name": "no es para mi",
+        "url": "https://open.spotify.com/album/76zdNkULNzy28LgNKoEkdS"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        },
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205258,
+      "name": "no es para mi",
+      "url": "https://open.spotify.com/track/6YSEC506b56RI5jpVPR9Wi"
+    },
+    {
+      "album": {
+        "name": "Las Que Faltan de Amor",
+        "url": "https://open.spotify.com/album/6WCRvcrf5EUxVeuZ1RUt9v"
+      },
+      "artists": [
+        {
+          "name": "ZUCO OMG",
+          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "No Hay Airbags",
+      "url": "https://open.spotify.com/track/4eWnceAsi7bssLDbfupkhE"
+    },
+    {
+      "album": {
         "name": "NO HAY AMOR",
         "url": "https://open.spotify.com/album/28yrmTeEqYWhZ8OfFB43j0"
       },
@@ -18584,7 +18708,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 156794,
       "name": "OK.",
       "url": "https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj"
@@ -19766,7 +19890,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 259867,
       "name": "PIKI",
       "url": "https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP"
@@ -20936,6 +21060,24 @@
       "duration_ms": 173708,
       "name": "Quiero Foh",
       "url": "https://open.spotify.com/track/2DBn2qyeuOZstctxdrWDOV"
+    },
+    {
+      "album": {
+        "name": "EL QUE NO LLORA NO MAMA",
+        "url": "https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8"
+      },
+      "artists": [
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208003,
+      "name": "QUIERO QUERERTE",
+      "url": "https://open.spotify.com/track/6ZBeo7yt5smSdrM3KtQxiA"
     },
     {
       "album": {
@@ -23469,6 +23611,24 @@
     },
     {
       "album": {
+        "name": "Vida es una",
+        "url": "https://open.spotify.com/album/7KXMNXkFjbOpArNgfS3zHr"
+      },
+      "artists": [
+        {
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248928,
+      "name": "Soy un avi\u00f3n",
+      "url": "https://open.spotify.com/track/6XLxln0kfnaGkJpB8tsDkm"
+    },
+    {
+      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp"
       },
@@ -24730,7 +24890,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 171340,
       "name": "Toda una vida",
       "url": "https://open.spotify.com/track/2Blydh05Xl0U0LST9beyR7"

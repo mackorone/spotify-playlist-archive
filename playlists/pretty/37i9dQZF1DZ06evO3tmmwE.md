@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369 likes - 46 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,368 likes - 46 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 37 | [Cuerno De Chivo](https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG) | [Young Tapz](https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Cuerno De Chivo](https://open.spotify.com/album/095rXozHEwtskDElFmJC2m) | 2:35 |
 | 38 | [No Bailes Asi \- Remix](https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe) | [Santos Jaguar](https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [No Bailes Asi \(Remix\)](https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD) | 2:33 |
 | 39 | [Big Chains](https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [HOODLUM](https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ), [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:40 |
-| 40 | [Devuélveme a Mi Chica](https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Devuélveme a Mi Chica](https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8) | 3:08 |
-| 41 | [Bo Bundy In Japan](https://open.spotify.com/track/3MQCDOv07b0Kg5PP9mfdVZ) | [TheWaterBoyz710](https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Terp Wars DELUXE](https://open.spotify.com/album/5Go5g0fiuc1y5QflfPkpIJ) | 2:26 |
+| 40 | [Bo Bundy In Japan](https://open.spotify.com/track/3MQCDOv07b0Kg5PP9mfdVZ) | [TheWaterBoyz710](https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Terp Wars DELUXE](https://open.spotify.com/album/5Go5g0fiuc1y5QflfPkpIJ) | 2:26 |
+| 41 | [Devuélveme a Mi Chica](https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Devuélveme a Mi Chica](https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8) | 3:08 |
 | 42 | [135](https://open.spotify.com/track/1FaOmKrjEERabl63Kcr3NU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:15 |
 | 43 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
 | 44 | [Slumped Freestyle](https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 4:16 |
 | 45 | [RESERVADO](https://open.spotify.com/track/4xmrsmRxtk81NCD4vNT2rX) | [JR Reyes](https://open.spotify.com/artist/7h7UDjLtEniodFyDaoUFJN), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [RESERVADO](https://open.spotify.com/album/0Mz8FhQzjW1H3rjmVjKBWh) | 2:31 |
 | 46 | [25 Lighters](https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:22 |
 
-Snapshot ID: `aSuJAAAAAAC1ztfU7/YwGF5GxjH2bSKi`
+Snapshot ID: `aSzagAAAAAAZJYntNsQq/lcR0zC4A64L`

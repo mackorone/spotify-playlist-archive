@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 
 > 📸 ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,468,436 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,468,721 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 | 37 | [MEJOR QUE VOS](https://open.spotify.com/track/2flrBZ6lxgk68ghaWBAfnt) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [MEJOR QUE VOS](https://open.spotify.com/album/5fvyO2WV94GZhB7NfTLNW2) | 2:46 |
 | 38 | [The Fate of Ophelia](https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 3:46 |
 | 39 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 |
-| 40 | [PUTERÍ4](https://open.spotify.com/track/1IgrATr9zMmRjtFVFY6O7s) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [PUTERÍ4](https://open.spotify.com/album/1lkzZ6bQyw3lWsviJs8HAD) | 2:24 |
+| 40 | [PUTERÍ4](https://open.spotify.com/track/1IgrATr9zMmRjtFVFY6O7s) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [PUTERÍ4](https://open.spotify.com/album/1lkzZ6bQyw3lWsviJs8HAD) | 2:24 |
 | 41 | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I) | 1:58 |
 | 42 | [UWAIE \- versión cumbia](https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [UWAIE \(versión cumbia\)](https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7) | 2:42 |
 | 43 | [Reliquia](https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:50 |

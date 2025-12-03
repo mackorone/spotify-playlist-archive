@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "El-Chapo",
+        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "Porsche",
+      "url": "https://open.spotify.com/track/6sSKIXaucNYEKH3dmcixm8"
+    },
+    {
+      "album": {
         "name": "Porsche",
         "url": "https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5"
       },
@@ -922,7 +940,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 172035,
       "name": "Porsche",
       "url": "https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG"

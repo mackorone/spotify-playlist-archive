@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 372225,
+  "num_followers": 372252,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAAqxJpGWhgGueMEntt+v86+",
+  "snapshot_id": "aSzagAAAAADzOwXKgt5abtwZEj0SoIXV",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40/66",
-        "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 164895,
-      "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40/66",
-      "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Not Disturb",
         "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 240000,
       "name": "Traviesa (feat. Eladio Carrion)",
       "url": "https://open.spotify.com/track/7E6bhcHhU5LwXjiAITtBkZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40/66",
+        "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 164895,
+      "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40/66",
+      "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
     },
     {
       "added_at": null,
@@ -991,26 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinsertado",
-        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+        "name": "Felony",
+        "url": "https://open.spotify.com/album/2CHYs0x7a81GMr74MFSiLY"
       },
       "artists": [
         {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
         },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
         }
       ],
-      "duration_ms": 261713,
-      "name": "Andando",
-      "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
+      "duration_ms": 176000,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/3IPDFQ4IjFtTdyDgJb67xN"
     },
     {
       "added_at": null,
@@ -1039,22 +1035,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triste Verano",
-        "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
       "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
         }
       ],
-      "duration_ms": 212375,
-      "name": "Triste Verano",
-      "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
+      "duration_ms": 261713,
+      "name": "Andando",
+      "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

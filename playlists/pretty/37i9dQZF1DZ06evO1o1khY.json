@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 42320,
+  "num_followers": 42329,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAA3EbugGC2KI7vojmjOyI1d",
+  "snapshot_id": "aSzagAAAAADZ+D6MpodAfAgwKdUDQ45n",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ILBB2 (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R"
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
       "artists": [
         {
-          "name": "Jorjiana",
-          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 133589,
-      "name": "ILBB2 (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C"
+      "duration_ms": 132000,
+      "name": "Redbone (with GloRilla)",
+      "url": "https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo"
     },
     {
       "added_at": null,
@@ -439,22 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAM (Extended Version)",
-        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+        "name": "ILBB2 (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Jorjiana",
+          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Redbone (with GloRilla)",
-      "url": "https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo"
+      "duration_ms": 133589,
+      "name": "ILBB2 (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 159720,
-      "name": "On Wat U On (with GloRilla)",
-      "url": "https://open.spotify.com/track/6eHksHmETBULwFo0N3k562"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lay Down (feat. GloRilla) [Remix]",
         "url": "https://open.spotify.com/album/1o6b0z1PJwMSPcPXfQQHir"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 213608,
       "name": "Lay Down (feat. GloRilla) - Remix",
       "url": "https://open.spotify.com/track/65XnjGELsYIUOLsEYZKwKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Wat U On (with GloRilla)",
+        "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 159720,
+      "name": "On Wat U On (with GloRilla)",
+      "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
     },
     {
       "added_at": null,

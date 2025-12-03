@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 561157,
+  "num_followers": 561343,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Coronamos",
+        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Coronamos",
+      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 184405,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/3A4mcukwxLsaD5Q4J5Iixr"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Coronamos",
-        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
-      },
-      "artists": [
-        {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Coronamos",
-      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Mente Gitana",
-        "url": "https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "Mente Gitana",
-      "url": "https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "La Movie",
         "url": "https://open.spotify.com/album/4C8ptlfZoKQfEWQrjr1GZh"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 329186,
       "name": "La Movie",
       "url": "https://open.spotify.com/track/4n6utGnsc8sxoRl1SIOPv7"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Mente Gitana",
+        "url": "https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Mente Gitana",
+      "url": "https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2203,6 +2203,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "duration_ms": 220147,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Jacaranda",
         "url": "https://open.spotify.com/album/1COowOCt7cVvoduGgX5cuu"
       },
@@ -2219,22 +2235,6 @@
       "duration_ms": 184800,
       "name": "Jacaranda",
       "url": "https://open.spotify.com/track/0k5kd8IQULAW4hJBwndWs5"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG"
-      },
-      "artists": [
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        }
-      ],
-      "duration_ms": 220147,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6"
     },
     {
       "added_at": "2024-03-08 16:14:30",

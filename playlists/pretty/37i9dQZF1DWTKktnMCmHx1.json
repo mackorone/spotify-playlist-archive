@@ -1,6 +1,6 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 93423,
+  "num_followers": 93410,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 189124,
+      "name": "UHLALA",
+      "url": "https://open.spotify.com/track/1D7sdScaOxtmb0lInM90SN"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 155862,
       "name": "PIOVE (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 189124,
-      "name": "UHLALA",
-      "url": "https://open.spotify.com/track/1D7sdScaOxtmb0lInM90SN"
     },
     {
       "added_at": "2024-12-06 12:53:49",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
-        "name": "ELO",
-        "url": "https://open.spotify.com/album/0vp8LbPMJ0tAlqz2wjWRJa"
-      },
-      "artists": [
-        {
-          "name": "DrefGold",
-          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 220896,
-      "name": "ELEGANTE (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/7qADAhkEs9vv3ll4hP8ybC"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
         "name": "Only You Freestyle",
         "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 248936,
       "name": "Only You Freestyle",
       "url": "https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
+        "name": "ELO",
+        "url": "https://open.spotify.com/album/0vp8LbPMJ0tAlqz2wjWRJa"
+      },
+      "artists": [
+        {
+          "name": "DrefGold",
+          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 220896,
+      "name": "ELEGANTE (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/7qADAhkEs9vv3ll4hP8ybC"
     },
     {
       "added_at": "2024-12-06 12:53:49",

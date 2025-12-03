@@ -4,7 +4,7 @@
 
 > An eclectic mix of past & current indie favourites\. Cover: Saya Gray
 
-814 songs - 2 day 1 hr 0 min
+815 songs - 2 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-09-23 |  |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2021-01-15 | 2022-08-24 |
 | [Ball \- Remix](https://open.spotify.com/track/75OdgLMaGSRFItGE0Qsh8C) | [Eryn Martin](https://open.spotify.com/artist/58nhaWrZa0dN2OxZ1Pr2Ph), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Still Ballin'](https://open.spotify.com/album/6EZQvh0u3Vd5PqwNNlFqcs) | 3:40 | 2021-09-26 | 2022-07-28 |
+| [Basic Being Basic](https://open.spotify.com/track/2jjwQENSoGnYbQEK4acuC6) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 2:38 | 2025-11-28 |  |
 | [be cool](https://open.spotify.com/track/6AzPHXMvAtBmzISu4NhOIm) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [be cool](https://open.spotify.com/album/3aDhMq947HZuufg7tsJCPo) | 2:23 | 2021-01-25 | 2022-07-29 |
 | [be free.](https://open.spotify.com/track/0qTvCYCKnLjEjm2rXatkKb) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [be free.](https://open.spotify.com/album/72fu4gDnku0bNft0bfY7nt) | 4:20 | 2021-12-13 | 2022-07-29 |
 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 | 2022-08-23 | 2025-11-29 |
@@ -262,7 +263,7 @@
 | [Forgotten Souls](https://open.spotify.com/track/2HXlntIqqIgu4ibdVYk4I3) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Forgotten Souls](https://open.spotify.com/album/6FsbKlxfpfinK7PUxKTQPD) | 2:55 | 2021-08-19 | 2022-07-15 |
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-07-05 | 2022-08-24 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2023-02-10 |  |
-| [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2022-11-11 |  |
+| [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2022-11-11 | 2025-12-03 |
 | [Free Animal](https://open.spotify.com/track/6mbg2IS3Lak9kp8qD8O3d6) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [For the Light](https://open.spotify.com/album/6qO0Vs8Mbx35dZiGkZGXjM) | 3:00 | 2021-03-06 | 2022-04-12 |
 | [French Riviera](https://open.spotify.com/track/78Pn6NfbmrgRLKCnxCPZ66) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [RESONANCE](https://open.spotify.com/album/75bzjoYDBOHkkAfd7hwQ57) | 3:50 | 2021-02-25 | 2022-04-07 |
 | [Friend of a Friend](https://open.spotify.com/track/31ETL8gxaIFLhPWdtZ5god) | [Teen Ravine](https://open.spotify.com/artist/47r9votioiOOvwB9n6grXp) | [Teen Ravine](https://open.spotify.com/album/4nE73Z9RIOYrKLicCmVmYh) | 3:48 | 2021-01-16 | 2022-05-23 |

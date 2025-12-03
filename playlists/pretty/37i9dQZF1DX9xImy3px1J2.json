@@ -1,6 +1,6 @@
 {
   "description": "L'unica party playlist di cui hai bisogno, sempre aggiornata \ud83c\udf7e Top hit italiane e internazionali! ",
-  "num_followers": 339024,
+  "num_followers": 339012,
   "original_name": "Party 2025",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "El Farsante",
+      "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
         "name": "It's Not Right But It's Okay",
         "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "El Farsante",
-      "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
         "name": "No Bad Vibes",
         "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
       },
@@ -491,30 +491,6 @@
       "duration_ms": 162100,
       "name": "No Bad Vibes",
       "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
-        "name": "Baby Don't Hurt Me",
-        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
-      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -547,6 +523,30 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "Love Tonight (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Love Tonight (David Guetta Remix Edit)",
-      "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 151589,
       "name": "Boyz In Paris (with VINAI)",
       "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
+        "name": "Love Tonight (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Love Tonight (David Guetta Remix Edit)",
+      "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
         "name": "Kriminal (Prod. by Roberto Ferrante)",
         "url": "https://open.spotify.com/album/64mzxfRIXYCm6NVj0NTefe"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 189275,
       "name": "Kriminal - Prod. by Roberto Ferrante",
       "url": "https://open.spotify.com/track/0pxwzHAlnK86CIfDbbJLr4"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "All Around The World (La La La)",
-        "url": "https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "A Touch Of Class",
-          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "All Around The World (La La La)",
-      "url": "https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 190487,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
         "name": "SERENATA",
         "url": "https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 188373,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
-        "name": "Lovefool",
-        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "Iko Iko (My Bestie)",
-        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
-      },
-      "artists": [
-        {
-          "name": "Justin Wellington",
-          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
-        },
-        {
-          "name": "Small Jam",
-          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Iko Iko (My Bestie)",
-      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
         "name": "Get Busy (Odd Mob Club Mix)",
         "url": "https://open.spotify.com/album/7BPFEggYyxdKc33fjXFCxy"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 165909,
       "name": "Get Busy - Odd Mob Club Mix",
       "url": "https://open.spotify.com/track/76UVi3tz2rpTOPtvstIoK2"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
+        "name": "Iko Iko (My Bestie)",
+        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
+      },
+      "artists": [
+        {
+          "name": "Justin Wellington",
+          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
+        },
+        {
+          "name": "Small Jam",
+          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Iko Iko (My Bestie)",
+      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
         "name": "Pump It Louder",
         "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 158571,
       "name": "Pump It Louder",
       "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "SEXY RAVE (feat. Baby Gang)",
-        "url": "https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1"
-      },
-      "artists": [
-        {
-          "name": "Fred De Palma",
-          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "SEXY RAVE (feat. Baby Gang)",
-      "url": "https://open.spotify.com/track/7ue5uvozLbamg0rjS65FeT"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 153303,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
+        "name": "SEXY RAVE (feat. Baby Gang)",
+        "url": "https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "SEXY RAVE (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/7ue5uvozLbamg0rjS65FeT"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -2015,26 +2015,6 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "Non so chi ha creato il mondo ma so che era innamorato (Deluxe)",
-        "url": "https://open.spotify.com/album/3JfkXgTLhmdaikTlkHRFEV"
-      },
-      "artists": [
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 140816,
-      "name": "a me mi piace (feat. Manu Chao)",
-      "url": "https://open.spotify.com/track/7oJtUqvumujVKarcXa1SPj"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
         "name": "Turn Me On (feat. Vula)",
         "url": "https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 208473,
       "name": "Turn Me On (feat. Vula)",
       "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
+        "name": "Non so chi ha creato il mondo ma so che era innamorato (Deluxe)",
+        "url": "https://open.spotify.com/album/3JfkXgTLhmdaikTlkHRFEV"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 140816,
+      "name": "a me mi piace (feat. Manu Chao)",
+      "url": "https://open.spotify.com/track/7oJtUqvumujVKarcXa1SPj"
     },
     {
       "added_at": "2025-09-12 13:56:10",

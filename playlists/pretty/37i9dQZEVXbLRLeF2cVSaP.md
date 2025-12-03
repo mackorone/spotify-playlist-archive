@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,473 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,481 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 2 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
 | 3 | [овердоз](https://open.spotify.com/track/6oQ3B198ElQsJD2YZDIRkX) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [овердоз](https://open.spotify.com/album/0VsjlZ2HDquI2h2DB0XcGe) | 1:28 |
 | 4 | [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 |
-| 5 | [Do It](https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k) | 2:39 |
+| 5 | [Do It](https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 2:39 |
 | 6 | [СВЕТЛАНА!](https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj) | [NEXTIME](https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk) | [СВЕТЛАНА!](https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n) | 1:36 |
 | 7 | [ты че обиделась](https://open.spotify.com/track/36DnMjOyWBOZLgWYm2KWFz) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 1:30 |
 | 8 | [Шёлк](https://open.spotify.com/track/3chb0SAouU1FtBPR5NPHWX) | [Ваня Дмитриенко](https://open.spotify.com/artist/1kxqshyCqWuOQJNCTgHKzM) | [Шёлк](https://open.spotify.com/album/4k9gEkLvJHBzTIkw7L1Qep) | 2:26 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 14 | [MARTINE ROSE](https://open.spotify.com/track/5AVrwT3q2nFWHDwuPILwrf) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [greyrock](https://open.spotify.com/artist/3Z2TLso4pM7QrgMgkKVPZB), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L) | [MARTINE ROSE](https://open.spotify.com/album/7Je8rk60eM7LPvvZj9FiDy) | 3:06 |
 | 15 | [NOBODY](https://open.spotify.com/track/6l9rm6oaHmFO46bTtIr1ip) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [SLAANG](https://open.spotify.com/album/6WJ9stbIbxOojiHk73oL8q) | 3:00 |
 | 16 | [ПАПА](https://open.spotify.com/track/5b6awK2tOZ6thRJIkE9Pbh) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L), [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [ПАПА](https://open.spotify.com/album/1bIRpktyLvf7jvPZyfmEFP) | 1:42 |
-| 17 | [DIVINE](https://open.spotify.com/track/15nElWknZsgnSIfVihVCQf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k) | 3:07 |
+| 17 | [DIVINE](https://open.spotify.com/track/7tvHcZM7GcXJQ1rKWuwRgp) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 3:07 |
 | 18 | [Наследство](https://open.spotify.com/track/5XIoRdNKbhG3uFDB0UXWuw) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r), [SKY RAE](https://open.spotify.com/artist/2hRppUIkq50zRtcqHzubfC) | [Наследство](https://open.spotify.com/album/5C1zzkzaOByykAk3Hj6jYz) | 2:10 |
 | 19 | [Супермаркет](https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:34 |
 | 20 | [священная война](https://open.spotify.com/track/51hYk2CuUoZPd003ENH5lO) | [урал гайсин](https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm) | [саундклауд пак](https://open.spotify.com/album/3vvHeN07ySuHHcubVvhgyw) | 1:42 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 37 | [KM](https://open.spotify.com/track/4PSTr263ihY1pEhbjwhxRQ) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [SLAANG](https://open.spotify.com/album/6WJ9stbIbxOojiHk73oL8q) | 1:51 |
 | 38 | [Casino](https://open.spotify.com/track/15AvaqwdQNlozX2RTVk9yx) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Ave](https://open.spotify.com/album/75aK5xBLi3LqXuUrHU0RCr) | 1:57 |
 | 39 | [Последняя Любовь](https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Последняя Любовь](https://open.spotify.com/album/59CC4ZIo1kH4AG9WsXLoJY) | 2:42 |
-| 40 | [Holiday](https://open.spotify.com/track/7FXKNJyVAbN3l72GHePFqu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k) | 3:07 |
+| 40 | [Holiday](https://open.spotify.com/track/3eCAjm6CtCVMU2v6dUNM4r) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 3:07 |
 | 41 | [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 |
 | 42 | [мило материшься](https://open.spotify.com/track/4clWtg8OzmLO0TFBY7FGRm) | [volhey](https://open.spotify.com/artist/6BHwpXJsWpRi3aIzmAgGu8) | [мило материшься](https://open.spotify.com/album/3IpbEXtKfc8REXAFwKN642) | 2:00 |
 | 43 | [Жить в кайф](https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [NaNaNa](https://open.spotify.com/track/0ETjTLIst5iwZJlt661giq) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [SLAANG](https://open.spotify.com/album/6WJ9stbIbxOojiHk73oL8q) | 2:55 |
 | 50 | [Беспечный рыцарь тьмы](https://open.spotify.com/track/2FSfCJu8tac61GwgjGLDZK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [PAYCHECK](https://open.spotify.com/album/6ZZtoqsZlMQKf1EooeK9RA) | 3:53 |
 
-Snapshot ID: `MMEG+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MMJYeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

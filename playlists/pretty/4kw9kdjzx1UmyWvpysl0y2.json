@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124714,
+  "num_followers": 124706,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU4uz90M7sYsinI7LYFJ0BAXh2H9dg",
+  "snapshot_id": "AAAU4yBsJFpj0xPavQQIx5WeI7pgyxLj",
   "tracks": [
+    {
+      "added_at": "2025-12-02 15:45:56",
+      "album": {
+        "name": "Blue Planet (Qrion Remix)",
+        "url": "https://open.spotify.com/album/26I0CeXrVRzpknDqyKZ3vr"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Blue Planet - Qrion Remix",
+      "url": "https://open.spotify.com/track/4X3pXPqpLT0h36L0aIjPyy"
+    },
     {
       "added_at": "2025-12-01 14:54:04",
       "album": {

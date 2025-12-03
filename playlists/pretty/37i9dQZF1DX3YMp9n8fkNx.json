@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1473101,
+  "num_followers": 1473245,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -443,38 +443,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Sparkle And Fade",
-        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "Santa Monica",
-      "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
-        "name": "14:59",
-        "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Blur: The Best Of",
         "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
@@ -491,6 +459,22 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
+        "name": "Sparkle And Fade",
+        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 257373,
       "name": "Breakfast At Tiffany's",
       "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "14:59",
+        "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Travelogue: Blues Traveler Classics",
-        "url": "https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I"
+        "name": "The Best of Fuel",
+        "url": "https://open.spotify.com/album/5CmgNXCwdGuqn6EPzfb4Tq"
       },
       "artists": [
         {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+          "name": "Fuel",
+          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
         }
       ],
-      "duration_ms": 280093,
-      "name": "Run-Around",
-      "url": "https://open.spotify.com/track/3y8rEUEUdmAcPCpPoLotnO"
+      "duration_ms": 214040,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/6DzbmjkVZpz1mrDobAoJI8"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "The Best of Fuel",
-        "url": "https://open.spotify.com/album/5CmgNXCwdGuqn6EPzfb4Tq"
+        "name": "Travelogue: Blues Traveler Classics",
+        "url": "https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I"
       },
       "artists": [
         {
-          "name": "Fuel",
-          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
         }
       ],
-      "duration_ms": 214040,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/6DzbmjkVZpz1mrDobAoJI8"
+      "duration_ms": 280093,
+      "name": "Run-Around",
+      "url": "https://open.spotify.com/track/3y8rEUEUdmAcPCpPoLotnO"
     },
     {
       "added_at": "2024-06-26 02:07:58",

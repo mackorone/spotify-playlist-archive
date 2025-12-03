@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,173 likes - 68 songs - 3 hr 47 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,173 likes - 69 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 66 | [Nie wieder denken](https://open.spotify.com/track/19u4Ep9u8L5BsCgiZEDzXN) | [Endstation Sanifair](https://open.spotify.com/artist/2qBfpEPXX7Wunr7so7DGNc) | [Nie wieder denken](https://open.spotify.com/album/31WtAgZUTznoy3qd5FbyIo) | 3:54 |
 | 67 | [Stay Wild, Have Fun](https://open.spotify.com/track/6DddkfQvmpV5HqSlUFDcKo) | [Jo LaRue](https://open.spotify.com/artist/4SSaR5cm4dnhPDkWNv1nZb) | [Stay Wild, Have Fun](https://open.spotify.com/album/59mv3Pteq8TgH1ode0UnBm) | 3:42 |
 | 68 | [Time Machine](https://open.spotify.com/track/6MYZWeZrIpeeJZHjc2fRCJ) | [MYLO BYBEE](https://open.spotify.com/artist/6NWYao9Kq1OZi1mki3yhwS) | [Time Machine](https://open.spotify.com/album/1hJzdSv338nXvopDvcgj3q) | 3:44 |
+| 69 | [don't know better](https://open.spotify.com/track/6OPNg2fvD1f2HIPj4Tfh7x) | [Nathan Etes](https://open.spotify.com/artist/11WVY9LG4XWkOptquaXJ71) | [juniper](https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw) | 2:45 |
 
-Snapshot ID: `AAAMfXJ9UCdPuwrAJOoF8o2T9MjXxWhx`
+Snapshot ID: `AAAMfrZ4Dn+guJ+/ibSX54+1EI1+tBM2`

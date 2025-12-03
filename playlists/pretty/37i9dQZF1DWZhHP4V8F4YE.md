@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,936 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,006 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Taya](https://open.spotify.com/track/0FTkyNOOMb8b1sh81r5vJT) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Healing](https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC) | 3:59 |
 | 50 | [Ewo](https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 3:00 |
 
-Snapshot ID: `AAAAAEk/EmLQs6y9vLStxnG8nIVXxORr`
+Snapshot ID: `AAAAAFJ82BBMrkmUp2Sa3998Z6DydgU2`

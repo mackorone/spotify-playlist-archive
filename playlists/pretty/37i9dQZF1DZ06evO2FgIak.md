@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,454 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,463 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 42 | [She Moves Me](https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:57 |
 | 43 | [Walkin' Thru The Park](https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:44 |
 | 44 | [Crawlin' Kingsnake](https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [You Shook Me \- The Chess Masters, Vol\. 3, 1958 To 1963](https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol) | 2:29 |
-| 45 | [I Want To Be Loved](https://open.spotify.com/track/348vMftVTCp10l8C90s2kE) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Saga Blues: Natural Born Lover 1954\-1958](https://open.spotify.com/album/7MDOsIzQ653hvBoBY19KGP) | 2:45 |
-| 46 | [Ooh, Baby / Wrecking My Love Life \- Medley](https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 6:34 |
-| 47 | [Back to the Chicken Shack \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/3losOKYp0VStjuhL9t4XGi) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 6:28 |
+| 45 | [Ooh, Baby / Wrecking My Love Life \- Medley](https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 6:34 |
+| 46 | [Back to the Chicken Shack \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/3losOKYp0VStjuhL9t4XGi) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 6:28 |
+| 47 | [I Want To Be Loved](https://open.spotify.com/track/348vMftVTCp10l8C90s2kE) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Saga Blues: Natural Born Lover 1954\-1958](https://open.spotify.com/album/7MDOsIzQ653hvBoBY19KGP) | 2:45 |
 | 48 | [My Babe](https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 3:56 |
 | 49 | [Walkin' Blues](https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:58 |
 | 50 | [I Want to Be Loved \#2](https://open.spotify.com/track/5Q5GJBCmWJo7z7K8g223K1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Hard Again](https://open.spotify.com/album/11pwCi0JWNahMuu9ViIx3Q) | 2:21 |
 
-Snapshot ID: `aSuJAAAAAABctKFiQpL9K+EYEo4e4G+9`
+Snapshot ID: `aSzagAAAAAC7ZXYEzjZCVnDUzC/K9rmE`

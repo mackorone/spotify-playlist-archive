@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SVXaM.md) - [plain]
 
 > This is Michael Jackson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,022,864 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,023,261 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SVXaM.md) - [plain]
 | 49 | [One Day In Your Life](https://open.spotify.com/track/77fMGCDb1e3KEd060YEpyS) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Forever Michael](https://open.spotify.com/album/3dZ91ooVpNEdukDWuNzbpZ) | 4:15 |
 | 50 | [Speed Demon \- 2012 Remaster](https://open.spotify.com/track/5SpHSOne318K5q7EBYndT6) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad \(Remastered\)](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) | 4:02 |
 
-Snapshot ID: `aSuJAAAAAADqa+vqR5G3lisbFi/im6eR`
+Snapshot ID: `aSzagAAAAADumA1y6wA9EvSFLaqfzt8A`

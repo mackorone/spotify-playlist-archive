@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,567 likes - 50 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,568 likes - 50 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 28 | [Detalles \- Live](https://open.spotify.com/track/65lf9GOGo5pjHUqImIGwPv) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 4:41 |
 | 29 | [Idilio \- Live](https://open.spotify.com/track/4ykdGFQlWaLMYfvx40DgbY) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideno Live! Puerto Rico 1993](https://open.spotify.com/album/6f7TM6QbJtF94E4vnchGle) | 7:03 |
 | 30 | [Guantanamera \- Live](https://open.spotify.com/track/17m5ZCpxMEC1MyAeuu6u5L) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Jorge Santana](https://open.spotify.com/artist/68GKwB0h4qEbbEWfpT25Vm) | [Live In Africa](https://open.spotify.com/album/5YUlti1Sao9vMmKIinSTR1) | 4:53 |
-| 31 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |
-| 32 | [Quimbara \- Live](https://open.spotify.com/track/1o88biFSFaZ3khg7bENuz9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 6:01 |
-| 33 | [Tito Nieves Medley \(Sonambulo / El Amor Más Bonito / Almohada\) \- Live](https://open.spotify.com/track/2kSv1nvmn6OLDaUlvsryYp) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 8:05 |
+| 31 | [Quimbara \- Live](https://open.spotify.com/track/1o88biFSFaZ3khg7bENuz9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 6:01 |
+| 32 | [Tito Nieves Medley \(Sonambulo / El Amor Más Bonito / Almohada\) \- Live](https://open.spotify.com/track/2kSv1nvmn6OLDaUlvsryYp) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 8:05 |
+| 33 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |
 | 34 | [Boranda](https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [45 Aniversario](https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR) | 13:32 |
 | 35 | [Descarga Fania \- Live](https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 9:17 |
 | 36 | [Nuestro Sueño \- En Vivo](https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Grupo Niche \(En Vivo\)](https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3) | 5:35 |

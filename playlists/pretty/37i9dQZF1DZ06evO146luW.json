@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 49931,
+  "num_followers": 49935,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAABAhTcowNefDBN5CvIghmig",
+  "snapshot_id": "aSzagAAAAAApoDDvaFueOcY62hAZ+iwI",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 238211,
-      "name": "Drunk Driving",
-      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
@@ -163,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Werewolf",
-        "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
       "artists": [
         {
@@ -172,9 +156,25 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 222578,
-      "name": "Werewolf",
-      "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
+      "duration_ms": 238211,
+      "name": "Drunk Driving",
+      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
     },
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Werewolf",
+        "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 222578,
+      "name": "Werewolf",
+      "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sellout",
         "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 165699,
       "name": "Good Die Young",
       "url": "https://open.spotify.com/track/6vBbirJ0n9L0j1XPtWlG6T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 274716,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 Lives",
-        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 194621,
-      "name": "Casamigos",
-      "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 389972,
       "name": "Too High to Cry",
       "url": "https://open.spotify.com/track/3MntWcPyUZDILLsMCSrqTD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 194621,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 260664,
-      "name": "FGA",
-      "url": "https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 209849,
       "name": "L.T.W.Y.H.M.",
       "url": "https://open.spotify.com/track/503lQzTuf0tF8cAcilXZkz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 260664,
+      "name": "FGA",
+      "url": "https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 232326,
-      "name": "Sundy or Mundy",
-      "url": "https://open.spotify.com/track/1Fbnj7x5ZRMGHayTMc4wrN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 180558,
       "name": "Nothing Left to Say",
       "url": "https://open.spotify.com/track/0dEb2eHFM31FkTLWwLRtRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 232326,
+      "name": "Sundy or Mundy",
+      "url": "https://open.spotify.com/track/1Fbnj7x5ZRMGHayTMc4wrN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨DJ Suzy ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,009 likes - 286 songs - 15 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,013 likes - 286 songs - 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 11 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
 | 12 | [Think About U Lots](https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Think About U Lots](https://open.spotify.com/album/6iAhu9llD9clQtdAbc4v6m) | 3:34 |
 | 13 | [High Like The Sky](https://open.spotify.com/track/29VlrhOYEm3gowUKINZU6Q) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [High Like The Sky](https://open.spotify.com/album/6ooNDxGpXpFhithnfnyH1l) | 3:02 |
-| 14 | [Mom & Dad](https://open.spotify.com/track/3s3DGbw88GhQsFFobf8Jsp) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Mom & Dad](https://open.spotify.com/album/2l1AkZ39WjZO3V2TrP4Pdy) | 2:36 |
-| 15 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 |
-| 16 | [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 |
-| 17 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
-| 18 | [GIRL FIGHT](https://open.spotify.com/track/0PES33JUQt97Ua3IPPfIrI) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [GIRL FIGHT](https://open.spotify.com/album/77UHlVMgHm1KFQXDhnK8fo) | 2:45 |
+| 14 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 |
+| 15 | [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 |
+| 16 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
+| 17 | [GIRL FIGHT](https://open.spotify.com/track/0PES33JUQt97Ua3IPPfIrI) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [GIRL FIGHT](https://open.spotify.com/album/77UHlVMgHm1KFQXDhnK8fo) | 2:45 |
+| 18 | [Mom & Dad](https://open.spotify.com/track/3s3DGbw88GhQsFFobf8Jsp) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Mom & Dad](https://open.spotify.com/album/2l1AkZ39WjZO3V2TrP4Pdy) | 2:36 |
 | 19 | [Tell Me You're Fighting](https://open.spotify.com/track/4nU1ozanQhBheKqiC2ooef) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Tell Me You're Fighting](https://open.spotify.com/album/20nQR4HuCHAfHt3kBNsNRh) | 2:16 |
 | 20 | [if u only knew](https://open.spotify.com/track/2Q2pfG1ysMeeMNo851x389) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [if u only knew](https://open.spotify.com/album/2ujMIf2a5j3sBSUcncF42O) | 2:03 |
 | 21 | [Moment](https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Moment](https://open.spotify.com/album/74tiJMeAD7XYcQFDjqXp2k) | 2:14 |
@@ -295,4 +295,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 285 | [t\-shirt](https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [t\-shirt](https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD) | 2:32 |
 | 286 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 |
 
-Snapshot ID: `AAAAAEcl6774GgpWCdQjYsHZSK3xLClB`
+Snapshot ID: `AAAAADdAL1QxkFN+uuvPTWCHZSHnxc9i`

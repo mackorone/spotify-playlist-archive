@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,762 likes - 194 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,255 likes - 194 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,7 +175,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 165 | [We Three Kings](https://open.spotify.com/track/4tHAnscFMkMQL36f2dVBXx) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [We Three Kings](https://open.spotify.com/album/0qO46uL8GslPfSj1aZwvPD) | 3:00 |
 | 166 | [Santa Baby](https://open.spotify.com/track/3wcbh6MMRb0fsjv5zKJ9gT) | [Syamali](https://open.spotify.com/artist/17kHwTPo7kOMb7DTEyySs4) | [A QC Christmas](https://open.spotify.com/album/02t9inWwAGovhOYDzMctaN) | 2:36 |
 | 167 | [Let The Season Come To Life](https://open.spotify.com/track/0IpucwqU10JSFkxY16ykJH) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Let The Season Come To Life](https://open.spotify.com/album/0V4OY6zQUcv6PzhjWLexyp) | 3:55 |
-| 168 | [Our King Has Come](https://open.spotify.com/track/55qWotxqUod4d6T4SjatSk) | [Katy Nichole & Matt Maher](https://open.spotify.com/artist/16yzBCoWG9wuKwJCXHbNM1) | [The Hope Of Christmas](https://open.spotify.com/album/1Zq89ub3yfNs4bMCMNy4gm) | 3:37 |
+| 168 | [Our King Has Come](https://open.spotify.com/track/55qWotxqUod4d6T4SjatSk) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Hope Of Christmas](https://open.spotify.com/album/1Zq89ub3yfNs4bMCMNy4gm) | 3:37 |
 | 169 | [SANTA \- Tengo Un Crush Contigo](https://open.spotify.com/track/1grwk2p5zMi6WLzJdO0Som) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [SANTA](https://open.spotify.com/album/77cjih204WgiFVdQFRIdsA) | 3:30 |
 | 170 | [Carol Of The Bells](https://open.spotify.com/track/1PNR79ktAPOVaruu9ckVrp) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [XMAS](https://open.spotify.com/album/55JHtihI5bIXq3G3S6EKSk) | 2:39 |
 | 171 | [Let Me Carry You This Christmas \(feat\. Matthew Whitaker\)](https://open.spotify.com/track/2zGmg8i1xPZYgkt9FlAxlD) | [Darius de Haas](https://open.spotify.com/artist/4yYe2kXNFtGFEExk6Py57R), [Matthew Whitaker](https://open.spotify.com/artist/4TCiA0yvZXv8Kf4AZhr0rG) | [Let Me Carry You This Christmas](https://open.spotify.com/album/08Cno8HYU5nQVkgLVDhYvg) | 4:22 |

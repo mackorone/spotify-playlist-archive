@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1047679,
+  "num_followers": 1047544,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Greetings From Your Hometown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "This Song",
         "url": "https://open.spotify.com/album/5PawlLnqcZnrqiAEDLwH2G"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 213895,
       "name": "This Song",
       "url": "https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "Greetings From Your Hometown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "French Girls",
-        "url": "https://open.spotify.com/album/0zNVm3xZratOorJpLbglfN"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 172166,
-      "name": "French Girls",
-      "url": "https://open.spotify.com/track/1IG0AHtVCjjgpND5iRDC6j"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Almost, So Close, Maybe",
         "url": "https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Living My Best Life",
-        "url": "https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn"
+        "name": "French Girls",
+        "url": "https://open.spotify.com/album/0zNVm3xZratOorJpLbglfN"
       },
       "artists": [
         {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
         }
       ],
-      "duration_ms": 177273,
-      "name": "Living My Best Life",
-      "url": "https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog"
+      "duration_ms": 172166,
+      "name": "French Girls",
+      "url": "https://open.spotify.com/track/1IG0AHtVCjjgpND5iRDC6j"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1411,6 +1395,22 @@
       "duration_ms": 206800,
       "name": "My First Heartbreak",
       "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "Living My Best Life",
+        "url": "https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 177273,
+      "name": "Living My Best Life",
+      "url": "https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Suburbs",
-        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Suburbs",
-      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Heart By Heart",
         "url": "https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 190754,
       "name": "Heart By Heart",
       "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "Suburbs",
+        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "Suburbs",
+      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 188952,
-      "name": "Zombie Lady",
-      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 190522,
       "name": "Real To Me",
       "url": "https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 188952,
+      "name": "Zombie Lady",
+      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
     },
     {
       "added_at": "2025-08-14 22:00:28",

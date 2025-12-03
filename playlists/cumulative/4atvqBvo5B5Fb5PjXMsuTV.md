@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 01 Dec 14:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 03 Dec 23:04 UTC.
 
-5,893 songs - 13 day 15 hr 28 min
+5,895 songs - 13 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,6 +566,7 @@
 | [Beyond the Raindrops](https://open.spotify.com/track/3hnDvAqMLJkyT3UP52WMEC) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Beyond the Raindrops](https://open.spotify.com/album/3THRUCUoif0D9Ru6bBFqYu) | 5:21 | 2024-07-22 | 2024-07-27 |
 | [Beyond the way \(feat\. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク\)](https://open.spotify.com/track/4kSdiGRE4xWz8V557oekyD) | [Vivid BAD SQUAD](https://open.spotify.com/artist/6mEgpqXA4yzhhncW4cBHlh) | [Beyond the way/blender](https://open.spotify.com/album/0Oz2FhHwp3WLqyCqJUPJlM) | 3:02 | 2024-10-02 | 2024-10-05 |
 | [BEYOND US](https://open.spotify.com/track/0a0xOf6HiihJobrCVwojpT) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [BEYOND US](https://open.spotify.com/album/3Mhz2BryVFgAhvqwvgIohP) | 1:11 | 2024-09-06 | 2024-09-10 |
+| [BFF](https://open.spotify.com/track/3wGlth38MGe6Rwuix0wROh) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [BFF](https://open.spotify.com/album/33mnXGN1236HTRpTaGUE7p) | 2:25 | 2025-12-02 |  |
 | [Bi Polar](https://open.spotify.com/track/3ZXucsYAxBRUgG7XftxxLE) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Bi Polar](https://open.spotify.com/album/4av9zmQcpcbMsewBcZnDKa) | 3:12 | 2024-07-07 | 2024-07-10 |
 | [Big Black X](https://open.spotify.com/track/3RsXpoUjM75M2tsiunmqMQ) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Big Black X](https://open.spotify.com/album/7gD1uFkXuGufNdq34F5Pa0) | 3:34 | 2024-06-25 | 2024-06-27 |
 | [Big Cat Tattoos](https://open.spotify.com/track/4bra2iYM2um2eYNZUHXFiV) | [Hamish Hawk](https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8) | [Big Cat Tattoos](https://open.spotify.com/album/14jGpYUFZ5lNXoJKVdhbOU) | 3:11 | 2024-05-01 | 2024-05-03 |
@@ -2847,7 +2848,7 @@
 | [Know You Naked](https://open.spotify.com/track/4XBkny5RwYFxETjyMU8dwE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Know You Naked](https://open.spotify.com/album/0RHlF72mPRiLux1omiKIxe) | 3:25 | 2025-08-05 | 2025-08-16 |
 | [KO](https://open.spotify.com/track/1erl58kCgZtjZIsXqaBaL5) | [NLE The Great](https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [KO](https://open.spotify.com/album/3xgTFQpbgsnyHRaL1JXs9F) | 3:34 | 2025-10-31 | 2025-11-10 |
 | [koto](https://open.spotify.com/track/70e4YH5gnT9rawbo4L1Ifh) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [koto](https://open.spotify.com/album/69cDLgZcgkVRTR5SvUa166) | 2:35 | 2024-12-12 | 2024-12-14 |
-| [KPOP B!TCH](https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [KPOP B!TCH](https://open.spotify.com/album/7EOFfxjYvlOmhJT0U3Uwxk) | 2:52 | 2025-11-19 |  |
+| [KPOP B!TCH](https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [KPOP B!TCH](https://open.spotify.com/album/7EOFfxjYvlOmhJT0U3Uwxk) | 2:52 | 2025-11-19 | 2025-12-03 |
 | [Kravitz](https://open.spotify.com/track/3ydiQXwguW4FTjZYCpWDLE) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Kravitz](https://open.spotify.com/album/58gxd7R2ovmIDehM0oslBt) | 4:33 | 2024-04-29 | 2024-05-02 |
 | [Krueger](https://open.spotify.com/track/0yWn9ASmnEnVZVMmutBTkj) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Krueger](https://open.spotify.com/album/47neLZxbh8NgETFGNP2DRr) | 2:07 | 2024-09-24 | 2024-09-27 |
 | [Kubrick Stare](https://open.spotify.com/track/78XlxZ40ogIPZq1dYMmu2Y) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Kubrick Stare](https://open.spotify.com/album/4ZIsPCJgM1GqaMxGSqsKWd) | 3:18 | 2025-02-06 | 2025-02-13 |
@@ -3081,7 +3082,7 @@
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-14 | 2025-02-26 |
 | [Love Is Blind \- Spotify Singles](https://open.spotify.com/track/4f22oWm76LYThaa1FpDuUw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 2:44 | 2024-05-22 | 2024-05-25 |
 | [Love Is Blu](https://open.spotify.com/track/4cpd7sqW4Q7yypR7XWu004) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Love Is Blu](https://open.spotify.com/album/3GqfqdMsUvNofIab6fSbim) | 4:18 | 2024-08-16 | 2024-08-20 |
-| [Love Is Not Enough](https://open.spotify.com/track/4AJJNga5DTEH9AAe8DcLD1) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Love Is Not Enough](https://open.spotify.com/album/4Xk05QlbDNsLavcAVfOZBV) | 2:22 | 2025-11-19 |  |
+| [Love Is Not Enough](https://open.spotify.com/track/4AJJNga5DTEH9AAe8DcLD1) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Love Is Not Enough](https://open.spotify.com/album/4Xk05QlbDNsLavcAVfOZBV) | 2:22 | 2025-11-19 | 2025-12-03 |
 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-11-08 | 2024-11-14 |
 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 | 2025-01-17 | 2025-01-28 |
 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 | 2025-05-02 | 2025-05-15 |
@@ -3411,6 +3412,7 @@
 | [Mr\. Fantastic](https://open.spotify.com/track/18010jwsQxFeLsZN3HMzHb) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Mr\. Fantastic](https://open.spotify.com/album/6La1pgJHSJrnpRhQn9Awag) | 2:50 | 2024-11-07 | 2024-11-09 |
 | [Mr\. Miracle](https://open.spotify.com/track/0c3l6nw0FC2UfhzJPpEOMK) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Mr\. Miracle](https://open.spotify.com/album/33PM56Ebm1noVM1px0GL9Q) | 3:12 | 2025-08-18 | 2025-08-30 |
 | [Mr\. Sunflower](https://open.spotify.com/track/5Ugq5YiS8M3joxGY8a37zS) | [The Rifles](https://open.spotify.com/artist/3Sr1muUE6DYihFufoHpnfc) | [Mr\. Sunflower](https://open.spotify.com/album/1rygOQuWThvfbpDmXad2mM) | 3:18 | 2024-05-09 | 2024-05-11 |
+| [Mr\. Worldwide](https://open.spotify.com/track/6C5eAcyGCnx4kcHUDWMwl6) | [Luca Maxim](https://open.spotify.com/artist/4srTg3mp6K9FuZK91G2yeC) | [Mr\. Worldwide](https://open.spotify.com/album/35a0R2bZjEze2QCk6VCePh) | 2:27 | 2025-12-02 |  |
 | [Mrs Dior](https://open.spotify.com/track/2rtUDwDS4didOMYoCqPJ1E) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Mrs Dior](https://open.spotify.com/album/7kypXLN1ED1BzGwvhaXN2D) | 3:12 | 2024-09-06 | 2024-09-08 |
 | [Mrs\. Nail](https://open.spotify.com/track/4Vpl8DJahXjdFHpEoZ8W11) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Mrs\. Nail](https://open.spotify.com/album/2o8lTmzLhENLWHobwzWPDP) | 2:35 | 2025-05-02 | 2025-05-10 |
 | [MS\. PAC MAN](https://open.spotify.com/track/77znSEH8JaxMlgBN48NKBC) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [MS\. PAC MAN](https://open.spotify.com/album/27PoIYUgfm5iGDimPMwSEK) | 3:04 | 2025-08-12 | 2025-08-21 |

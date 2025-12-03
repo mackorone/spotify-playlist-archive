@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437538,
+  "num_followers": 437518,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
-      },
-      "artists": [
-        {
-          "name": "Rafael Pond\u00e9",
-          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
-        },
-        {
-          "name": "Melo G\u00eda",
-          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
-        }
-      ],
-      "duration_ms": 221111,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 180648,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
+      },
+      "artists": [
+        {
+          "name": "Rafael Pond\u00e9",
+          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
+        },
+        {
+          "name": "Melo G\u00eda",
+          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
+        }
+      ],
+      "duration_ms": 221111,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 261696,
-      "name": "Mariposas Blancas",
-      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Para Llevar",
         "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 172411,
       "name": "Para Llevar",
       "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 261696,
+      "name": "Mariposas Blancas",
+      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Guapachosa",
-        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Eric Chac\u00f3n",
-          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Guapachosa",
-      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Ay\u00fadame Inspiraci\u00f3n",
         "url": "https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO"
       },
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Guapachosa",
+        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Guapachosa",
+      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "The Music of Brazil / Elizeth Cardoso, Vol. 1 / Recordings 1955 - 1957",
         "url": "https://open.spotify.com/album/2jtHEWxRT5QVF2p872riFt"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 249170,
-      "name": "Dancin' Days",
-      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Caminando por Quisqueya",
         "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 360000,
       "name": "Caminando por Quisqueya",
       "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 249170,
+      "name": "Dancin' Days",
+      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "American Boy",
+        "url": "https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW"
+      },
+      "artists": [
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "duration_ms": 225109,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Pelear",
         "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "American Boy",
-        "url": "https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW"
+        "name": "Los Palos",
+        "url": "https://open.spotify.com/album/3fTYIIkdPaTguCnNvT7BkY"
       },
       "artists": [
         {
-          "name": "Daym\u00e9 Arocena",
-          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
         }
       ],
-      "duration_ms": 225109,
-      "name": "American Boy",
-      "url": "https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO"
+      "duration_ms": 199271,
+      "name": "Los Palos",
+      "url": "https://open.spotify.com/track/52NTNT8dND7VzOF9jaHJyz"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Los Palos",
-        "url": "https://open.spotify.com/album/3fTYIIkdPaTguCnNvT7BkY"
-      },
-      "artists": [
-        {
-          "name": "PAM\u00c9",
-          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
-        }
-      ],
-      "duration_ms": 199271,
-      "name": "Los Palos",
-      "url": "https://open.spotify.com/track/52NTNT8dND7VzOF9jaHJyz"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Grietas",
         "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Game On",
-        "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 301925,
-      "name": "Game On",
-      "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Refresco, Vol.1: Cheo Goes Latin",
         "url": "https://open.spotify.com/album/4Siqpa4ZeRsU8lCuCkr1yf"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+        "name": "Game On",
+        "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
       },
       "artists": [
         {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
+      "duration_ms": 301925,
+      "name": "Game On",
+      "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Atacama!",
-        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
       },
       "artists": [
         {
-          "name": "Alessio Arena",
-          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         }
       ],
-      "duration_ms": 251830,
-      "name": "El hombre que quiso ser canci\u00f3n",
-      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1595,6 +1579,22 @@
       "duration_ms": 153208,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Atacama!",
+        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
+      },
+      "artists": [
+        {
+          "name": "Alessio Arena",
+          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
+        }
+      ],
+      "duration_ms": 251830,
+      "name": "El hombre que quiso ser canci\u00f3n",
+      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Malo Para M\u00ed",
-        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
-      },
-      "artists": [
-        {
-          "name": "Banana Leaf Boy",
-          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
-        }
-      ],
-      "duration_ms": 282415,
-      "name": "Malo Para M\u00ed",
-      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Canta Mundo",
         "url": "https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 231075,
       "name": "Canta Mundo",
       "url": "https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Malo Para M\u00ed",
+        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
+      },
+      "artists": [
+        {
+          "name": "Banana Leaf Boy",
+          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
+        }
+      ],
+      "duration_ms": 282415,
+      "name": "Malo Para M\u00ed",
+      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
     },
     {
       "added_at": "2025-10-10 04:00:26",

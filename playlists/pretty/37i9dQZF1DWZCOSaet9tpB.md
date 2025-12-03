@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,365 likes - 53 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,564 likes - 53 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

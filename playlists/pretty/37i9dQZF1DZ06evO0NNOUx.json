@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 170191,
+  "num_followers": 170320,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADA2F03Gm+8HLsaOoDmiwEI",
+  "snapshot_id": "aSzagAAAAACkgWFwcEmvFrHrZtZ/0b22",
   "tracks": [
     {
       "added_at": null,
@@ -843,22 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nostalgia Pack",
-        "url": "https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX"
+        "name": "THE PRESENT",
+        "url": "https://open.spotify.com/album/1KVOQw2QpKnP1tTNDXsL51"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Your Soul",
-      "url": "https://open.spotify.com/track/4g6ZNtgFm7pOvinj2IvLCy"
+      "duration_ms": 183031,
+      "name": "THE PRESENT",
+      "url": "https://open.spotify.com/track/2nNP5SBmelGS7G59JjGHBQ"
     },
     {
       "added_at": null,
@@ -875,6 +871,26 @@
       "duration_ms": 146613,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nostalgia Pack",
+        "url": "https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Your Soul",
+      "url": "https://open.spotify.com/track/4g6ZNtgFm7pOvinj2IvLCy"
     }
   ],
   "unique_name": "This Is Forrest Frank",

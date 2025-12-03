@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 ### [Best of Live Worship](https://open.spotify.com/playlist/37i9dQZF1DXdrxKdrXE2Vk)
 
-> Experience the best of live worship here\. Cover: Melissa Hesler of Cageless Birds
+> Experience the best of live worship here\. Cover: Melissa Helser of Cageless Birds
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,693 likes - 75 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,718 likes - 75 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 74 | [Sustain \- Live](https://open.spotify.com/track/0hZsa8BIVtLAzlMVZ2Hv6f) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Sustain \(Live\)](https://open.spotify.com/album/5TwOCjWrjcu0q3PF5w1exA) | 12:06 |
 | 75 | [The Commission \- Live](https://open.spotify.com/track/3ss1iIaEN29yujcQf48ujO) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [The Commission \(Live\)](https://open.spotify.com/album/2KUoF56KCelukYtMprpuex) | 6:59 |
 
-Snapshot ID: `AAAAANpW5uRAR0mH5UIB9E/UxY/xGHQo`
+Snapshot ID: `AAAAAGR6OaDbopI60yWyhvq+YBZDwAgK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,548 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,553 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 49 | [I Ain't No Quitter \- Greatest Hits Version](https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Rock This Country](https://open.spotify.com/album/50U6VmuhDLN5s3bOWnkdU9) | 3:30 |
 | 50 | [Last Day of Summer](https://open.spotify.com/track/2PSEWm8PyOFrl0DFRxJFCJ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Last Day of Summer](https://open.spotify.com/album/3Y5TMxrMsPK5DtsD0A2ABo) | 3:10 |
 
-Snapshot ID: `aSuJAAAAAADoNPGGMtF3uWpgGaJubcYo`
+Snapshot ID: `aSzagAAAAAAL2jO8h/aEi5YDCCgj4mpp`

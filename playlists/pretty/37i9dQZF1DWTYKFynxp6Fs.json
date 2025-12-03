@@ -1,12 +1,12 @@
 {
-  "description": "Every song that's Trending NOW from Malayalam! \nCover: Lokah",
-  "num_followers": 575214,
+  "description": "Every song that's Trending NOW from Malayalam! \nCover: Aashaan",
+  "num_followers": 575526,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJzh8Lh8+F4U/eAcf4pNFGkWa+L4",
+  "snapshot_id": "AAAAAMjEWYnF2WCKI9d4yRlp5xyrSSvg",
   "tracks": [
     {
       "added_at": "2025-12-01 06:53:26",
@@ -31,6 +31,30 @@
       "duration_ms": 284210,
       "name": "Kunjikkavil Meghame (From \"Aashaan\")",
       "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
+    },
+    {
+      "added_at": "2025-12-02 07:18:59",
+      "album": {
+        "name": "Premavathi (From \"Athi Bheekara Kaamukan\")",
+        "url": "https://open.spotify.com/album/4plpmnVB80U7b3s8GEfXh1"
+      },
+      "artists": [
+        {
+          "name": "Bibin Ashok",
+          "url": "https://open.spotify.com/artist/2r4835RasDrA3mvrZqYv1S"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Heykarthii",
+          "url": "https://open.spotify.com/artist/63kT97v7dkMndQKpF3KUmX"
+        }
+      ],
+      "duration_ms": 193793,
+      "name": "Premavathi (From \"Athi Bheekara Kaamukan\")",
+      "url": "https://open.spotify.com/track/0Jlmr7efWQohCXskgCCHZl"
     },
     {
       "added_at": "2025-05-26 06:55:48",
@@ -587,26 +611,6 @@
       "duration_ms": 206482,
       "name": "Pularaan Neram",
       "url": "https://open.spotify.com/track/3EPHaxloBVjAiCSW235Zh5"
-    },
-    {
-      "added_at": "2025-07-14 08:44:00",
-      "album": {
-        "name": "MAUNA LOA",
-        "url": "https://open.spotify.com/album/4ERE2IVowRMYYtNFnlAeBV"
-      },
-      "artists": [
-        {
-          "name": "Vedan",
-          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
-        },
-        {
-          "name": "AZWIN",
-          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
-        }
-      ],
-      "duration_ms": 147750,
-      "name": "MAUNA LOA",
-      "url": "https://open.spotify.com/track/7gqmoEWBvt6srOCDgTMEHM"
     },
     {
       "added_at": "2025-07-14 08:44:00",

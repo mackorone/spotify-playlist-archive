@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Dec 14:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Dec 23:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -10650,6 +10650,24 @@
       "duration_ms": 71067,
       "name": "BEYOND US",
       "url": "https://open.spotify.com/track/0a0xOf6HiihJobrCVwojpT"
+    },
+    {
+      "album": {
+        "name": "BFF",
+        "url": "https://open.spotify.com/album/33mnXGN1236HTRpTaGUE7p"
+      },
+      "artists": [
+        {
+          "name": "MGNA Crrrta",
+          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145025,
+      "name": "BFF",
+      "url": "https://open.spotify.com/track/3wGlth38MGe6Rwuix0wROh"
     },
     {
       "album": {
@@ -54190,7 +54208,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 172554,
       "name": "KPOP B!TCH",
       "url": "https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f"
@@ -58634,7 +58652,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 142181,
       "name": "Love Is Not Enough",
       "url": "https://open.spotify.com/track/4AJJNga5DTEH9AAe8DcLD1"
@@ -64920,6 +64938,24 @@
       "duration_ms": 198728,
       "name": "Mr. Sunflower",
       "url": "https://open.spotify.com/track/5Ugq5YiS8M3joxGY8a37zS"
+    },
+    {
+      "album": {
+        "name": "Mr. Worldwide",
+        "url": "https://open.spotify.com/album/35a0R2bZjEze2QCk6VCePh"
+      },
+      "artists": [
+        {
+          "name": "Luca Maxim",
+          "url": "https://open.spotify.com/artist/4srTg3mp6K9FuZK91G2yeC"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147580,
+      "name": "Mr. Worldwide",
+      "url": "https://open.spotify.com/track/6C5eAcyGCnx4kcHUDWMwl6"
     },
     {
       "album": {

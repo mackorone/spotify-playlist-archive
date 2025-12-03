@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 218437,
       "name": "LiFE",
       "url": "https://open.spotify.com/track/4jZyC6VCAurHqWqgdhPOQI"
@@ -2969,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "Sora",
+        "url": "https://open.spotify.com/album/7KmEwZi2mYc3avyvU4VwtU"
+      },
+      "artists": [
+        {
+          "name": "CielP",
+          "url": "https://open.spotify.com/artist/3RoTy575y9jJA8dI7kX2KL"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257500,
+      "name": "Sora",
+      "url": "https://open.spotify.com/track/301TUjprOHzWQuNjKCefa1"
+    },
+    {
+      "album": {
         "name": "SOS / \u30c0\u30f3\u30b7\u30f3\u30b0\u30fb\u30ad\u30de\u30a4\u30e9 feat. \u5de1\u97f3\u30eb\u30ab",
         "url": "https://open.spotify.com/album/3yqhGzmGOClcGHiBF6toQq"
       },
@@ -3400,7 +3418,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 200666,
       "name": "The Baton of Playful Colors (feat. Hatsune Miku)",
       "url": "https://open.spotify.com/track/4uFEuIJh8kXCJKO5xibeGu"
@@ -3466,6 +3484,28 @@
       "duration_ms": 496000,
       "name": "Time and space",
       "url": "https://open.spotify.com/track/19QTCGAexj5fTiIp0XGPp1"
+    },
+    {
+      "album": {
+        "name": "Lovelism",
+        "url": "https://open.spotify.com/album/5SEePtCGlDAsxV0UwnJmOr"
+      },
+      "artists": [
+        {
+          "name": "tekalu",
+          "url": "https://open.spotify.com/artist/15kivPrbU8SkQsiSkNXqFN"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180839,
+      "name": "toxic (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/0a0kxWZ5UQNs9blntfAonG"
     },
     {
       "album": {
@@ -5173,6 +5213,46 @@
     },
     {
       "album": {
+        "name": "EMPATHY FROM NOWHERE",
+        "url": "https://open.spotify.com/album/1cokAJU9elCCnWF0u3xyJr"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30b0",
+          "url": "https://open.spotify.com/artist/6e869zTslT6ZAJowpXGAMM"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "\u30b9\u30c6\u30e9\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/5afS0k57KsBzcaGsQ2dbJ1"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c7\u30e5\u30e1\u30eb\u30ea\u3001\u30c6\u30e5\u3002",
+        "url": "https://open.spotify.com/album/16ZzixghqQ8QMr7NBvjj8W"
+      },
+      "artists": [
+        {
+          "name": "IMO",
+          "url": "https://open.spotify.com/artist/0bWsyEtBnc8Nb75emigipg"
+        },
+        {
+          "name": "v4 flower",
+          "url": "https://open.spotify.com/artist/00cIZbjCgo4DfJzJoaZRT6"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171111,
+      "name": "\u30b9\u30c7\u30e5\u30e1\u30eb\u30ea\u3001\u30c6\u30e5\u3002 (feat. v4 flower)",
+      "url": "https://open.spotify.com/track/5T7np0IYcP8LxkSgqN6NdE"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30c8\u30a5\u30fc\u30d4\u30c3\u30c9\u30fb\u30ea\u30ad\u30c3\u30c9",
         "url": "https://open.spotify.com/album/52uMpqW9PTCM7PtvMm6l8H"
       },
@@ -5232,7 +5312,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 179538,
       "name": "\u30bf\u30ca\u30c8\u30d5\u30a3\u30ea\u30a2 (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/0ACOY6nVpWPLs3GGZ2CIlJ"
@@ -5730,7 +5810,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 174206,
       "name": "\u30d2\u30fc\u30c8\u30fb\u30aa\u30f3\u30fb\u30d3\u30fc\u30c8 (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
       "url": "https://open.spotify.com/track/2P6N7VIGmmQXNCaeMlzYr4"
@@ -6720,7 +6800,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 177850,
       "name": "\u4e0d\u5728\u306e\u8a69 (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/1UzIbK9liAYXUqoMAGS828"
@@ -7962,7 +8042,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 200500,
       "name": "\u96fb\u5149\u5239\u6b4c (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7fAb4w5YqpHgTBGjCmJpVH"

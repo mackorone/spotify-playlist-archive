@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 23233,
+  "num_followers": 23242,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAANjT1bZtquv7aFlTfxh8v4",
+  "snapshot_id": "aSzagAAAAAC2g8LM7KAsbDskDoIPJJBw",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny (with Sauce Walka)",
-        "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
+        "name": "Powderhorn Suites",
+        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
-      "duration_ms": 195412,
-      "name": "Destiny (with Sauce Walka)",
-      "url": "https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ"
+      "duration_ms": 155146,
+      "name": "Dead Man Shuffle",
+      "url": "https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F"
     },
     {
       "added_at": null,
@@ -183,18 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powderhorn Suites",
-        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
+        "name": "Destiny (with Sauce Walka)",
+        "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
-      "duration_ms": 155146,
-      "name": "Dead Man Shuffle",
-      "url": "https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F"
+      "duration_ms": 195412,
+      "name": "Destiny (with Sauce Walka)",
+      "url": "https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powderhorn Suites",
-        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Cashinova",
-          "url": "https://open.spotify.com/artist/7esS6SDpFk34861XWk17kn"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Cousins",
-      "url": "https://open.spotify.com/track/5GgieBASQgXvkaAJhk2XOi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Headphone Concerto",
         "url": "https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 232483,
       "name": "Penny Nickel Dime",
       "url": "https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Powderhorn Suites",
+        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Cashinova",
+          "url": "https://open.spotify.com/artist/7esS6SDpFk34861XWk17kn"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Cousins",
+      "url": "https://open.spotify.com/track/5GgieBASQgXvkaAJhk2XOi"
     },
     {
       "added_at": null,
@@ -827,30 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chitty Bang",
-        "url": "https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Devin The Dude",
-          "url": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
-        },
-        {
-          "name": "Jarren Benton",
-          "url": "https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Chitty Bang",
-      "url": "https://open.spotify.com/track/14EUifm44d6gODebTIEDSn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Butter (with Baby Tate)",
         "url": "https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 227555,
       "name": "Butter (with Baby Tate)",
       "url": "https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chitty Bang",
+        "url": "https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Devin The Dude",
+          "url": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "name": "Jarren Benton",
+          "url": "https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Chitty Bang",
+      "url": "https://open.spotify.com/track/14EUifm44d6gODebTIEDSn"
     },
     {
       "added_at": null,

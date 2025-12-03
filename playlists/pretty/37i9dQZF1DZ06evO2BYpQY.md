@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,265 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,267 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 42 | [Heroine](https://open.spotify.com/track/4i0bvDu2J8KOOxTzPs5qpc) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP), [Steve Lillywhite](https://open.spotify.com/artist/7fGW0xHsS8qa4W9KeHOQqN) | [Captive Original Soundtrack](https://open.spotify.com/album/1QOrpKGCLYMPfXT2mTaEeT) | 4:27 |
 | 43 | [Famine](https://open.spotify.com/track/361298vj6RdofeKjHCiD7I) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 4:56 |
 | 44 | [A New Born Child](https://open.spotify.com/track/4gH669pWOPQMVlTnUV0PnA) | [Armand Amar](https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Le premier cri](https://open.spotify.com/album/7w6VcRLFzLLmlLUQrol4OF) | 3:29 |
-| 45 | [Daddy I'm Fine](https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 2:59 |
-| 46 | [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 |
+| 45 | [I Believe In You](https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 5:38 |
+| 46 | [Daddy I'm Fine](https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 2:59 |
 | 47 | [Scorn Not His Simplicity](https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 4:26 |
-| 48 | [I Believe In You](https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 5:38 |
+| 48 | [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 |
 | 49 | [Outlander \- The Skye Boat Song \(Revolutionary Version\)](https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Outlander: Season 7 \(Highlights from the Original Television Soundtrack\)](https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn) | 3:35 |
 | 50 | [I Guess the Lord Must Be in New York City](https://open.spotify.com/track/1jZnJWqzYmuCztcdefyZyQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 3:07 |
 
-Snapshot ID: `aSuJAAAAAABmVpyjUWAxUhNVL887vs+C`
+Snapshot ID: `aSzagAAAAADhNPatdo0kNCSNATywTKaB`

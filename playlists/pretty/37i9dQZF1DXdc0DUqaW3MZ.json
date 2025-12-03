@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 372817,
+  "num_followers": 372834,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,26 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
         "name": "All that Glitters is not Gold",
         "url": "https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn"
       },
@@ -991,22 +1011,22 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
+        "name": "North",
+        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
       "artists": [
         {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
         },
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 218973,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+      "duration_ms": 222000,
+      "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
+      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1027,26 +1047,6 @@
       "duration_ms": 211590,
       "name": "Morning Light (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
-        "name": "North",
-        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
-      },
-      "artists": [
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
-      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Sa\u00efna",
-          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
-        }
-      ],
-      "duration_ms": 154735,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 139680,
       "name": "Excuse Me",
       "url": "https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Sa\u00efna",
+          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
+        }
+      ],
+      "duration_ms": 154735,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5luPtrBhOvzPdaGt9PhoM9"
+        "name": "Ma Jo Lo",
+        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
       },
       "artists": [
         {
-          "name": "NATE08",
-          "url": "https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl"
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
         }
       ],
-      "duration_ms": 202005,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/5yKq9qYTmED7z26BQ7tRdU"
+      "duration_ms": 147169,
+      "name": "Ma Jo Lo",
+      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
     }
   ],
   "unique_name": "Soultronic",

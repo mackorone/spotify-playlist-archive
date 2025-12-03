@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-885 songs - 1 day 18 hr 43 min
+887 songs - 1 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Eclipse](https://open.spotify.com/track/7GMKqJAsTVs5EB1mGhGxZz) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Eclipse](https://open.spotify.com/album/4NN6SfzljIm5dqqkCXARPY) | 2:55 | 2025-01-08 | 2025-04-28 |
 | [Eclipse](https://open.spotify.com/track/01VGmfU4QvSYaYA0TvWaL4) | [Foramina Nigra](https://open.spotify.com/artist/60DvyJ9hOPSC7lBgeSMb2T) | [Eclipse](https://open.spotify.com/album/2wlxAZhAdQXkDLRmuZk4G6) | 2:26 | 2025-05-27 | 2025-09-25 |
 | [Edenora](https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Edenora](https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9) | 2:57 | 2024-09-13 | 2025-10-02 |
+| [Efeu](https://open.spotify.com/track/6BwD8TE6eWKasH11uh6vU4) | [Gillirium](https://open.spotify.com/artist/4dfUUvHsq6FLLkA0Qy7wqu) | [Efeu](https://open.spotify.com/album/75rqo70A07zXqdWwKEaotv) | 2:52 | 2025-12-02 |  |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2023-03-23 | 2024-01-18 |
 | [Elevation](https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Elevation](https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP) | 2:50 | 2024-07-09 | 2025-03-06 |
 | [Ella](https://open.spotify.com/track/5g5GzjSjGD4UoA1vOemVLu) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Ella](https://open.spotify.com/album/470XfNnFrJcwGRcz2d7vP7) | 2:32 | 2024-05-20 | 2025-01-03 |
@@ -420,6 +421,7 @@
 | [Invisible](https://open.spotify.com/track/6aQ6sWhgfxfVOEL1wIsLFA) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Invisible](https://open.spotify.com/album/2Wwk3drx26O3zV0B9rr7RK) | 3:11 | 2024-05-04 | 2025-02-17 |
 | [Irenic Tone](https://open.spotify.com/track/7l6TgOi4LjuVMPOvSeHuyw) | [Siri Belle](https://open.spotify.com/artist/2xvYo3Aa78eMFyFgrkNgTq) | [Irenic Tone](https://open.spotify.com/album/5BkShagjCMM9xVAI1uWVWq) | 2:28 | 2023-03-23 | 2024-05-05 |
 | [Iridescent](https://open.spotify.com/track/4oFJxQJJJjcEY1jD7H7JsH) | [Lori Dulac](https://open.spotify.com/artist/2DnmwSjyOzafsYaKylL4St) | [Iridescent](https://open.spotify.com/album/3r6Qh29VeZ9SNLuiCcBv9G) | 3:12 | 2023-03-23 | 2023-09-01 |
+| [iuvenale](https://open.spotify.com/track/4zj0hyTj3fA6DVbAm391Nw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [iuvenale](https://open.spotify.com/album/5BlOFXwiKGBZjJbXdkZSTO) | 2:24 | 2025-12-02 |  |
 | [Joys](https://open.spotify.com/track/2O2qcDFG5UHfwPdlzlU5Ez) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Joys](https://open.spotify.com/album/3NWkkOHzbGUFecxZyIbBeB) | 2:40 | 2024-11-05 | 2025-05-28 |
 | [Just In View](https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Just In View](https://open.spotify.com/album/4e52GFe6T8POxpBMXqbTG7) | 3:29 | 2023-03-23 | 2024-03-21 |
 | [Kalon Senses](https://open.spotify.com/track/4IpQ5t4mDLJ4U4RleDMrs0) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Kalon Senses](https://open.spotify.com/album/0Lz8iiwECM6TBOCdStDQDY) | 2:49 | 2023-03-23 | 2024-02-09 |
@@ -501,7 +503,7 @@
 | [Miravar](https://open.spotify.com/track/5iEcnvMT4iEPjDihzlq4Ns) | [Malluma Nokto](https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg) | [Miravar](https://open.spotify.com/album/0ExUh2Y2QlemMCiEtXTwDt) | 2:51 | 2025-02-04 | 2025-05-25 |
 | [Mirno](https://open.spotify.com/track/21YSyRy6GIFkbzIoWHLbhD) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Mirno](https://open.spotify.com/album/4RAtKiZLrOx2b2PjBQjXKb) | 2:57 | 2023-03-23 | 2024-05-05 |
 | [Mist](https://open.spotify.com/track/1cDxN422npw3wU2ZfY6Qb9) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [Mist](https://open.spotify.com/album/2U7MoXvOHyKZorf993LEDt) | 2:58 | 2023-03-23 | 2024-03-21 |
-| [Mist](https://open.spotify.com/track/7oUxWZteexoZDiFXxnPfrm) | [Melanitta Perspicillata](https://open.spotify.com/artist/3wFCsw8ioaujwxcRwbEFi4) | [Mist](https://open.spotify.com/album/7C5hApE1qc1BDNFekhDbPt) | 3:05 | 2024-11-05 |  |
+| [Mist](https://open.spotify.com/track/7oUxWZteexoZDiFXxnPfrm) | [Melanitta Perspicillata](https://open.spotify.com/artist/3wFCsw8ioaujwxcRwbEFi4) | [Mist](https://open.spotify.com/album/7C5hApE1qc1BDNFekhDbPt) | 3:05 | 2024-11-05 | 2025-12-03 |
 | [Mit hjerte i dine hænder](https://open.spotify.com/track/1Mbf1MT7A0FSYUVs9Az24Z) | [Silas Mathiasen](https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5) | [Mit hjerte i dine hænder](https://open.spotify.com/album/3pmX9LCkx89Ysu8kHg4Uzn) | 2:48 | 2023-03-23 | 2024-01-18 |
 | [Mitigation](https://open.spotify.com/track/7CTMv3eJZ3mQ618kZWAb6f) | [Lorne Kroos](https://open.spotify.com/artist/6Wk6weno4MPG3dutdTNbDD) | [Mitigation](https://open.spotify.com/album/6CqhHR1DRyQHasTVtE7aHN) | 3:31 | 2023-03-23 | 2024-02-09 |
 | [Mo Chroidhe](https://open.spotify.com/track/01yqm6MIIlCdOXCtrYJpRx) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Mo Chroidhe](https://open.spotify.com/album/4d0cCBHVGlmqCqqW3dffzg) | 3:02 | 2023-03-23 | 2024-03-21 |
@@ -531,7 +533,7 @@
 | [Neith](https://open.spotify.com/track/2NYLBdcIqIOtS0Osf9xAXl) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Neith](https://open.spotify.com/album/34DdXfiK2sDtF3g5mis03P) | 2:42 | 2025-11-12 |  |
 | [Neptune](https://open.spotify.com/track/3Gk3htA0t07SKqHAE6Ky7b) | [Indigo Moon](https://open.spotify.com/artist/6BRHav71vLlNp0l4uBXHkj) | [Neptune](https://open.spotify.com/album/3f9yCCW2sAaqlQ7otsX7kv) | 2:38 | 2025-01-08 | 2025-06-13 |
 | [Neutrino](https://open.spotify.com/track/0ToCRAE0hwR8OVwIJgWBN0) | [Alsephina](https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6) | [Neutrino](https://open.spotify.com/album/6gv12Fyx8nZV85zuJK57BA) | 2:48 | 2025-06-25 | 2025-10-31 |
-| [Neverending](https://open.spotify.com/track/6eEgSIblmuXFXlb6A2tjvp) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Neverending](https://open.spotify.com/album/1prRlJUt0UmOZC3UD52J6v) | 2:25 | 2025-02-04 |  |
+| [Neverending](https://open.spotify.com/track/6eEgSIblmuXFXlb6A2tjvp) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Neverending](https://open.spotify.com/album/1prRlJUt0UmOZC3UD52J6v) | 2:25 | 2025-02-04 | 2025-12-03 |
 | [New Centering](https://open.spotify.com/track/6Rl1hrBWmelAm4rRMVIHYG) | [Aurora's Aria](https://open.spotify.com/artist/3G4TjSBZdfsLwI6MGocARj) | [New Centering](https://open.spotify.com/album/4T5dqPRP8Ke4o5aI3k04yv) | 3:13 | 2025-06-17 | 2025-06-26 |
 | [Night Air](https://open.spotify.com/track/3Lj2UdxfsJbQNl1f05f9fP) | [Through Quiet Tides](https://open.spotify.com/artist/2eHOuxkLbI8rJGWwAN41Gi) | [Night Air](https://open.spotify.com/album/48kclPVfAq9YV9JJdVUDYu) | 2:59 | 2025-09-23 |  |
 | [Nightbound](https://open.spotify.com/track/1eyJETJbXOdk21bCuN3hlH) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Nightbound](https://open.spotify.com/album/1ScU3u4CEFByPcPa7Cb0CS) | 2:15 | 2024-03-20 | 2024-07-12 |

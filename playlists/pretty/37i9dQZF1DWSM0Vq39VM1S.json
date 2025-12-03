@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388558,
+  "num_followers": 388528,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -199,26 +199,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Anticipate",
-        "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 189284,
-      "name": "Anticipate",
-      "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "End of Time",
         "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 161164,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Anticipate",
+        "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 189284,
+      "name": "Anticipate",
+      "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 215594,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
         "name": "BIG MONEY",
         "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 251502,
       "name": "LEAN ON MY LOVE (feat. Andra Day)",
       "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 215594,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
     },
     {
       "added_at": "2025-11-13 23:00:19",

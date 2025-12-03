@@ -2,7 +2,7 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> <a href="https://www.instagram.com/p/DRrWQNJDGWz/? =img\_index=1">Il re della trap torna sul trono\. XDVR Reloaded compie 10 anni</a>, venerdì esce <a href="spotify:prerelease:2obZ4UZwQgDnSvT6lb6cAK">XDVR ANNIVERSAR10</a>.
+> <a href="https://www.instagram.com/p/DRuZ7pdDNAY/?img\_index=1">Il re della trap torna sul trono\. XDVR Reloaded compie 10 anni</a>, venerdì esce <a href="spotify:prerelease:2obZ4UZwQgDnSvT6lb6cAK">XDVR ANNIVERSAR10</a>.
 
 935 songs - 1 day 18 hr 42 min
 

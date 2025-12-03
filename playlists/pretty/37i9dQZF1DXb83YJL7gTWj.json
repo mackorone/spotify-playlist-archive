@@ -1,6 +1,6 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 256765,
+  "num_followers": 256750,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
-        "name": "The Dock of the Bay (Mono)",
-        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 163755,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
     },
     {
       "added_at": "2024-07-15 19:31:50",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 284305,
       "name": "This Is How It Feels (with Laufey)",
       "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
     },
     {
       "added_at": "2024-07-15 19:31:50",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
         "name": "Queen of Silver Linings",
         "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 212964,
       "name": "Queen of Silver Linings",
       "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
     },
     {
       "added_at": "2024-07-15 19:31:50",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
-        "name": "Thunderclouds",
-        "url": "https://open.spotify.com/album/5Ms2Gpc7e4cKJjBh8Gh0CJ"
-      },
-      "artists": [
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        },
-        {
-          "name": "Kris Allen",
-          "url": "https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Thunderclouds",
-      "url": "https://open.spotify.com/track/3dFLOHljbnOZ9sFo6SjcVd"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
         "name": "Hold It Together",
         "url": "https://open.spotify.com/album/2gO1pyq1nVTs7PdIMlX0r9"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 211626,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/02WKfyVrzC4AMKvPRokJra"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
+        "name": "Thunderclouds",
+        "url": "https://open.spotify.com/album/5Ms2Gpc7e4cKJjBh8Gh0CJ"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        },
+        {
+          "name": "Kris Allen",
+          "url": "https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Thunderclouds",
+      "url": "https://open.spotify.com/track/3dFLOHljbnOZ9sFo6SjcVd"
     },
     {
       "added_at": "2024-07-15 19:31:50",

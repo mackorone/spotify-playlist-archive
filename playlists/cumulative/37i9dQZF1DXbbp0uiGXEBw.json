@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh c\u00e1c t\u00e1c ph\u1ea9m c\u1ee7a n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t . \u1ea2nh b\u00eca: Ph\u00f9ng Kh\u00e1nh Linh",
+  "description": "C\u00f9ng th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh c\u00e1c t\u00e1c ph\u1ea9m c\u1ee7a n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t . \u1ea2nh b\u00eca: VSTRA",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -2753,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Internet Love",
+        "url": "https://open.spotify.com/album/1V76mjI7xIMc7w78IoyCV3"
+      },
+      "artists": [
+        {
+          "name": "VSTRA",
+          "url": "https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219082,
+      "name": "Internet Love",
+      "url": "https://open.spotify.com/track/77RvUHyV6dKacfOGDR8A75"
+    },
+    {
+      "album": {
         "name": "Khi Em L\u1edbn",
         "url": "https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU"
       },
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 242857,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/7D5hQQZXK33EpJdn1zdLch"
@@ -5236,7 +5254,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 186535,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/2gP1CDcPJ8hJTwFGEpnRgw"
@@ -5546,7 +5564,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 187428,
       "name": "Tin Nh\u1eafn Sau C\u00f9ng",
       "url": "https://open.spotify.com/track/4P05WuzPnCN2vqH50RyrLt"

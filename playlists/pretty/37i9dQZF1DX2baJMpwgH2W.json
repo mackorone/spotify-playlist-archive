@@ -555,22 +555,6 @@
     {
       "added_at": "2024-11-26 16:17:17",
       "album": {
-        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
-        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
-      },
-      "artists": [
-        {
-          "name": "Samuel E. Wright",
-          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
-        }
-      ],
-      "duration_ms": 160880,
-      "name": "Kiss the Girl - Remastered 2014",
-      "url": "https://open.spotify.com/track/75VAFZAhvPSw1euEHg1fQU"
-    },
-    {
-      "added_at": "2024-11-26 16:17:17",
-      "album": {
         "name": "Hadestown (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
       },
@@ -599,22 +583,18 @@
     {
       "added_at": "2024-11-26 16:17:17",
       "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/43KUczsSjyfpXlWuylA62Y"
+        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
       },
       "artists": [
         {
-          "name": "Elaine Paige",
-          "url": "https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA"
-        },
-        {
-          "name": "Barbara Dickson",
-          "url": "https://open.spotify.com/artist/5pi8sj5ExnwL73KjHR2lFR"
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
         }
       ],
-      "duration_ms": 257106,
-      "name": "I Know Him So Well",
-      "url": "https://open.spotify.com/track/2M3E9wbFtqdkSGkhfHikFh"
+      "duration_ms": 160880,
+      "name": "Kiss the Girl - Remastered 2014",
+      "url": "https://open.spotify.com/track/75VAFZAhvPSw1euEHg1fQU"
     },
     {
       "added_at": "2024-11-26 16:17:17",
@@ -631,6 +611,26 @@
       "duration_ms": 200293,
       "name": "Roxie",
       "url": "https://open.spotify.com/track/7nOhijGWNbwBpzmQ6XqLRG"
+    },
+    {
+      "added_at": "2024-11-26 16:17:17",
+      "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/43KUczsSjyfpXlWuylA62Y"
+      },
+      "artists": [
+        {
+          "name": "Elaine Paige",
+          "url": "https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA"
+        },
+        {
+          "name": "Barbara Dickson",
+          "url": "https://open.spotify.com/artist/5pi8sj5ExnwL73KjHR2lFR"
+        }
+      ],
+      "duration_ms": 257106,
+      "name": "I Know Him So Well",
+      "url": "https://open.spotify.com/track/2M3E9wbFtqdkSGkhfHikFh"
     },
     {
       "added_at": "2024-11-26 16:17:17",

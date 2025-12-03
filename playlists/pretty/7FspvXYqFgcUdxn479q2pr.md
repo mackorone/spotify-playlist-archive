@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,834 likes - 266 songs - 13 hr 30 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,833 likes - 266 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 31 | [Feel The Ocean](https://open.spotify.com/track/1Z4F82S4TEIQJAWd3O2h68) | [ISVEL](https://open.spotify.com/artist/3KkGPfyrPFkO9LcImUPhus), [Valodja](https://open.spotify.com/artist/5CKxUitdSZaXuHCMOTaJGl) | [Feel The Ocean](https://open.spotify.com/album/3aFZmc3KrShtnv4uzBQV9E) | 3:15 |
 | 32 | [No Broke Boys \- Speed Garage](https://open.spotify.com/track/2M00epEjwMJYXSlLIxS09H) | [Blura](https://open.spotify.com/artist/6ooDhfVbWKuHNGt9lj3dws) | [No Broke Boys \(Speed Garage\)](https://open.spotify.com/album/0UFSA9gzgg83Bf2RutVazT) | 2:11 |
 | 33 | [Secretos](https://open.spotify.com/track/0e5NDUTeTDmftk1neePRsc) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [The M](https://open.spotify.com/artist/5meu2FI3cmtZ8XXAeJT7q7) | [Secretos](https://open.spotify.com/album/3vScU9bKJtkqdg3saDBTLO) | 2:53 |
-| 34 | [Won't Let You Go](https://open.spotify.com/track/54BKG1duwSJ2xRopTIeVYD) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Won't Let You Go \(feat\. Jaden Michaels & Nick Furlong\)](https://open.spotify.com/album/1bMlcz3PxuWDw2HT4tlkBo) | 3:25 |
+| 34 | [Won't Let You Go](https://open.spotify.com/track/54BKG1duwSJ2xRopTIeVYD) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs), [Nick Furlong](https://open.spotify.com/artist/46wd0NReq1e9x2oBO2FlHK) | [Won't Let You Go \(feat\. Jaden Michaels & Nick Furlong\)](https://open.spotify.com/album/1bMlcz3PxuWDw2HT4tlkBo) | 3:25 |
 | 35 | [Sakura](https://open.spotify.com/track/4exVPaaGvdRhCFP6MYXXrU) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Collapse](https://open.spotify.com/album/7zhMkHxVdq5vQd8MA3He4O) | 4:06 |
 | 36 | [Better Off Alone \- Techno Mix](https://open.spotify.com/track/4SpE0qy22XFNV4LgZ1LAxC) | [Anika](https://open.spotify.com/artist/0ByXP3asBR2dISiGEl2Mcx), [Samarth Goel](https://open.spotify.com/artist/6fpyTDEyavvKXOx0mxS3a3), [A\-SIX](https://open.spotify.com/artist/6ArqtcKGEc3oYpZMHqDbUh), [Alexia](https://open.spotify.com/artist/4FaQ3InfdDQoNEW75Bn5Eh) | [Better Off Alone \(Techno Mix\)](https://open.spotify.com/album/5KSuBTYQ1LJJqjV2I6ElFM) | 2:05 |
 | 37 | [Oye Mami](https://open.spotify.com/track/33ZccZTSHr3BNhswjoaZGI) | [Drop The Cheese](https://open.spotify.com/artist/4DPCpJ3C1nIqEFVs37tiOJ) | [Oye Mami](https://open.spotify.com/album/2dEee6Uhg736LB7vJTVHPH) | 3:08 |

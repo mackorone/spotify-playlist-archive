@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19329,
+  "num_followers": 19330,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADQLXfrwvu5e0dfRk4HOdTZ",
+  "snapshot_id": "aSzagAAAAAAnugCTSwCTU7hT2TGtWcei",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 478520,
-      "name": "Lovesong from the Mountains",
-      "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
+      "duration_ms": 500333,
+      "name": "Escape from Gravity",
+      "url": "https://open.spotify.com/track/7MiXBG25ozczXh5e472Hia"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 500333,
-      "name": "Escape from Gravity",
-      "url": "https://open.spotify.com/track/7MiXBG25ozczXh5e472Hia"
+      "duration_ms": 478520,
+      "name": "Lovesong from the Mountains",
+      "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
     },
     {
       "added_at": null,
@@ -371,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garden of the Gods",
-        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+        "name": "Sea and Silence",
+        "url": "https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH"
       },
       "artists": [
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        },
-        {
-          "name": "Annette Cantor",
-          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 464360,
-      "name": "Gaia Dreaming Herself Awake",
-      "url": "https://open.spotify.com/track/7lQ6P6agn49OUCedmJSw5q"
+      "duration_ms": 807853,
+      "name": "Sea and Silence",
+      "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
     },
     {
       "added_at": null,
@@ -407,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sea and Silence",
-        "url": "https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH"
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
       "artists": [
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 807853,
-      "name": "Sea and Silence",
-      "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
+      "duration_ms": 464360,
+      "name": "Gaia Dreaming Herself Awake",
+      "url": "https://open.spotify.com/track/7lQ6P6agn49OUCedmJSw5q"
     },
     {
       "added_at": null,
@@ -435,26 +435,6 @@
       "duration_ms": 486893,
       "name": "Still Stones of Silence",
       "url": "https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Garden of the Gods",
-        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        },
-        {
-          "name": "Annette Cantor",
-          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
-        }
-      ],
-      "duration_ms": 625760,
-      "name": "Seashell",
-      "url": "https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A"
     },
     {
       "added_at": null,
@@ -491,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "duration_ms": 625760,
+      "name": "Seashell",
+      "url": "https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reiki Hands of Light",
         "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "East of the Full Moon",
-        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 420160,
-      "name": "Black Velvet Flirt",
-      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Illumination of the Heart",
         "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 458373,
       "name": "Tonglen",
       "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 420160,
+      "name": "Black Velvet Flirt",
+      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "East of the Full Moon",
-        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 406586,
-      "name": "Moon-Silvered Clouds",
-      "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Illumination of the Heart",
         "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 566813,
       "name": "Schein und Widerschein",
       "url": "https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 406586,
+      "name": "Moon-Silvered Clouds",
+      "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 410266,
-      "name": "Stern an Stern",
-      "url": "https://open.spotify.com/track/3PlSjESvsU50fg4cajMBmg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Immortelle",
         "url": "https://open.spotify.com/album/1VJfgOdQJUp4shVpYcIThy"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 332946,
       "name": "Monarda",
       "url": "https://open.spotify.com/track/0at96syawo9G6QQ3cVGNCx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 410266,
+      "name": "Stern an Stern",
+      "url": "https://open.spotify.com/track/3PlSjESvsU50fg4cajMBmg"
     },
     {
       "added_at": null,

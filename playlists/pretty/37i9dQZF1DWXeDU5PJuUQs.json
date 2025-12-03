@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 244271,
+  "num_followers": 244359,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
+        "name": "Amiga Traidora (En Vivo)",
+        "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 236736,
+      "name": "Amiga Traidora - En Vivo",
+      "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
         "name": "Intento (En Vivo)",
         "url": "https://open.spotify.com/album/3UUuCRlQaX3HWZ1HkVuKpb"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 227103,
       "name": "Intento - En Vivo",
       "url": "https://open.spotify.com/track/0YI5vG7XmhB7IAcMJZjvS2"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
-        "name": "Amiga Traidora (En Vivo)",
-        "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 236736,
-      "name": "Amiga Traidora - En Vivo",
-      "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Tu Sin Mi - En Vivo",
-      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
         "name": "Recordando / Dudas (En Vivo)",
         "url": "https://open.spotify.com/album/3cSt8iKh3bROdkyrcksFi8"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 307375,
       "name": "Recordando / Dudas - En Vivo",
       "url": "https://open.spotify.com/track/0Eo5FcB5bHGjmisR8WtUQk"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Tu Sin Mi - En Vivo",
+      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "En Vivo Movistar Arena, Sesi\u00f3n 1",
-        "url": "https://open.spotify.com/album/46VBUMLDQnPoR33QuXVJM7"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/28OBVQHbRD3faNpl4jW4U8"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 145124,
-      "name": "Yo tomo licor - En Vivo",
-      "url": "https://open.spotify.com/track/4cJTVWpkGJa5G18egTwu2W"
+      "duration_ms": 106272,
+      "name": "Enamorado de ti - Live",
+      "url": "https://open.spotify.com/track/2XlREDMzVX02dEcrv9qyeQ"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/28OBVQHbRD3faNpl4jW4U8"
+        "name": "En Vivo Movistar Arena, Sesi\u00f3n 1",
+        "url": "https://open.spotify.com/album/46VBUMLDQnPoR33QuXVJM7"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 106272,
-      "name": "Enamorado de ti - Live",
-      "url": "https://open.spotify.com/track/2XlREDMzVX02dEcrv9qyeQ"
+      "duration_ms": 145124,
+      "name": "Yo tomo licor - En Vivo",
+      "url": "https://open.spotify.com/track/4cJTVWpkGJa5G18egTwu2W"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 312032,
+      "name": "Hoy Te Vi / El Paredon - En Vivo",
+      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
         "name": "Antonio Rios Y Sus Amigos - Teatro Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2czLBfZ0QMfMrlovKJDUcv"
       },
@@ -1339,38 +1355,6 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 312032,
-      "name": "Hoy Te Vi / El Paredon - En Vivo",
-      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
-        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
-        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
-      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
         "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
         "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 208613,
       "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
       "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
+        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
+      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "En Vivo Movistar Arena, Sesi\u00f3n 6",
-        "url": "https://open.spotify.com/album/3UOFdd8nRoCnDXDD733Mcf"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 157750,
-      "name": "Cumbia Dile - En Vivo",
-      "url": "https://open.spotify.com/track/6OkKSac9tED1Pnxo16G9Ng"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
         "name": "Repiola (En Vivo)",
         "url": "https://open.spotify.com/album/2ISeQ9tbK98OIp6FtiPzQT"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 231898,
       "name": "El Viejo De Arriba",
       "url": "https://open.spotify.com/track/1D7yEw7RHGGhGnKQOTUaLh"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
+        "name": "En Vivo Movistar Arena, Sesi\u00f3n 6",
+        "url": "https://open.spotify.com/album/3UOFdd8nRoCnDXDD733Mcf"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 157750,
+      "name": "Cumbia Dile - En Vivo",
+      "url": "https://open.spotify.com/track/6OkKSac9tED1Pnxo16G9Ng"
     },
     {
       "added_at": "2025-10-24 13:22:23",

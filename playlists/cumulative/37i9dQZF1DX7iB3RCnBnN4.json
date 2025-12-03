@@ -14039,6 +14039,24 @@
     },
     {
       "album": {
+        "name": "More Than Just a Dream",
+        "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209386,
+      "name": "Out of My League",
+      "url": "https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -21174,7 +21192,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 121973,
       "name": "We Will Rock You",
       "url": "https://open.spotify.com/track/0a9sd6MEXZXIPHk0fAxpZ4"

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 428861,
+  "num_followers": 428863,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
-        "name": "GP",
-        "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 174173,
-      "name": "Fruta y T\u00e9",
-      "url": "https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9"
-    },
-    {
-      "added_at": "2025-11-07 03:00:09",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 261815,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
+    },
+    {
+      "added_at": "2025-11-07 03:00:09",
+      "album": {
+        "name": "GP",
+        "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 174173,
+      "name": "Fruta y T\u00e9",
+      "url": "https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9"
     },
     {
       "added_at": "2025-11-07 03:00:09",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
-        "name": "Lo Primero",
-        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 188928,
-      "name": "De Haber Sabido",
-      "url": "https://open.spotify.com/track/1Z88J2aTfSa1JzYUq7HoFu"
-    },
-    {
-      "added_at": "2025-11-07 03:00:09",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "added_at": "2025-11-07 03:00:09",
+      "album": {
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 188928,
+      "name": "De Haber Sabido",
+      "url": "https://open.spotify.com/track/1Z88J2aTfSa1JzYUq7HoFu"
     },
     {
       "added_at": "2025-11-07 03:00:09",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 291008,
+      "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
+      "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
+    },
+    {
+      "added_at": "2025-11-07 03:00:09",
+      "album": {
         "name": "Un Amor Que Se Termina",
         "url": "https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 156056,
       "name": "Un Amor Que Se Termina",
       "url": "https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm"
-    },
-    {
-      "added_at": "2025-11-07 03:00:09",
-      "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 291008,
-      "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
-      "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
     },
     {
       "added_at": "2025-11-07 03:00:09",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
-        "name": "Berrinche",
-        "url": "https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Suerte y Hasta Pronto",
-      "url": "https://open.spotify.com/track/4XPpPrjOBGOyifH8D4IOrU"
-    },
-    {
-      "added_at": "2025-11-07 03:00:09",
-      "album": {
         "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
         "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
-        "name": "Modelo Para Armar",
-        "url": "https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age"
+        "name": "Berrinche",
+        "url": "https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb"
       },
       "artists": [
         {
-          "name": "Juan Carlos Baglietto",
-          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
         }
       ],
-      "duration_ms": 260906,
-      "name": "Las Cosas Tienen Movimiento",
-      "url": "https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um"
+      "duration_ms": 211000,
+      "name": "Suerte y Hasta Pronto",
+      "url": "https://open.spotify.com/track/4XPpPrjOBGOyifH8D4IOrU"
     },
     {
       "added_at": "2025-11-07 03:00:09",
@@ -1287,6 +1271,22 @@
       "duration_ms": 235044,
       "name": "Mar de Coral",
       "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
+    },
+    {
+      "added_at": "2025-11-07 03:00:09",
+      "album": {
+        "name": "Modelo Para Armar",
+        "url": "https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Baglietto",
+          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
+        }
+      ],
+      "duration_ms": 260906,
+      "name": "Las Cosas Tienen Movimiento",
+      "url": "https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um"
     },
     {
       "added_at": "2025-11-07 03:00:09",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
-        "name": "Musikita del Cielo",
-        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Musikita del Cielo",
-      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
-    },
-    {
-      "added_at": "2025-11-07 03:00:09",
-      "album": {
         "name": "Puedo Imaginar",
         "url": "https://open.spotify.com/album/0oq5McpgKrsCtqtTXqkhsZ"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 288341,
       "name": "Puedo Imaginar",
       "url": "https://open.spotify.com/track/2unJSS010j51d6dIaTsSrw"
+    },
+    {
+      "added_at": "2025-11-07 03:00:09",
+      "album": {
+        "name": "Musikita del Cielo",
+        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Musikita del Cielo",
+      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
     }
   ],
   "unique_name": "T\u00e9 Para Tres",

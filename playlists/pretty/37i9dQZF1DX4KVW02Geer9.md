@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Yussef Dayes, Minami Kizuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,479 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,490 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 75 | [Groove Delight \(feat.Ovall\)](https://open.spotify.com/track/4TgNRA05pRMz0oBaQYMyS3) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Groove Delight \(feat.Ovall\)](https://open.spotify.com/album/7dCw1GWPdLc8exWpsmn1vn) | 3:37 |
 | 76 | [Two Steps](https://open.spotify.com/track/5VG10DAXruz3BpPCBSjr2y) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Two Steps](https://open.spotify.com/album/1AiVydBPEu6DBHmOKXrRKK) | 2:04 |
 | 77 | [Never Gonna Run Away](https://open.spotify.com/track/6RaMCZqzgc9QIZdUJEwdu5) | [Brandon Woody](https://open.spotify.com/artist/64f5OrVcRZ4A23TjV3SE4t) | [For The Love Of It All](https://open.spotify.com/album/6Ug4LyNXrVc7W1B4qZlKG4) | 6:51 |
-| 78 | [Everything That Isn’t](https://open.spotify.com/track/3lgI03Ylx19zL2TLjDJbBf) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV), [Gene Coye](https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb), [Jermaine Paul](https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21) | [Everything That Isn’t](https://open.spotify.com/album/152HIZKJspSoDCqZfqglop) | 4:13 |
+| 78 | [Everything That Isn’t](https://open.spotify.com/track/3lgI03Ylx19zL2TLjDJbBf) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV), [Gene Coye](https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb), [Jermaine Paul](https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21), [Jose Miguel Perez](https://open.spotify.com/artist/5GX31EnMcvTzsIJ0SSXlzR) | [Everything That Isn’t](https://open.spotify.com/album/152HIZKJspSoDCqZfqglop) | 4:13 |
 | 79 | [WeMaj \(feat\. Rapsody\)](https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Come As You Are](https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ) | 2:21 |
 | 80 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
 

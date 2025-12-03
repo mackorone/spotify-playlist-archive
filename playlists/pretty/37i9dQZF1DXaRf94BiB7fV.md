@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- 'Chakor' by Ashwin Iyer, Mayank Saini and Aaditya Laddha
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,208 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,221 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 22 | [Dreams](https://open.spotify.com/track/1JpNxI6Ixk2TBX9ga2LFSb) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Dreams](https://open.spotify.com/album/3g10SOyubtnVChkm1Rysyy) | 2:51 |
 | 23 | [Aashiyana](https://open.spotify.com/track/0BxkXcROpgPWJhcRFytKhd) | [Swapniil](https://open.spotify.com/artist/4nzUESDemXI1wJKPUqy0io) | [Aashiyana](https://open.spotify.com/album/03oWgNUA4p5taO8CftudUi) | 3:47 |
 | 24 | [Marz](https://open.spotify.com/track/5snmOSMT761hHpVZ4Eovol) | [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO) | [Marz](https://open.spotify.com/album/3NXP4Jn5gEeTi2WF2ngd02) | 2:44 |
-| 25 | [Laazmi Nahi](https://open.spotify.com/track/2Ldztc3xl2TjHAxjQMCDHy) | [Nikhil Chandel](https://open.spotify.com/artist/5hNwJiSjMx50Q1x2goFM6r) | [Laazmi Nahi](https://open.spotify.com/album/7bPTyrFWucKyO1qGZMELfb) | 3:04 |
+| 25 | [Laazmi Nahi](https://open.spotify.com/track/2Ldztc3xl2TjHAxjQMCDHy) | [Nikhil Chandel](https://open.spotify.com/artist/5hNwJiSjMx50Q1x2goFM6r), [Shivain](https://open.spotify.com/artist/6H0lO8Ylbq5KFYZ9qEE7ic), [Devkaran](https://open.spotify.com/artist/5VCYKg7AN4kx3VcXh4WW6c) | [Laazmi Nahi](https://open.spotify.com/album/7bPTyrFWucKyO1qGZMELfb) | 3:04 |
 | 26 | [Back To You](https://open.spotify.com/track/5CbkazSsbSoPUb5cmAUrty) | [Yanger Toshi](https://open.spotify.com/artist/1vPz9WhEMCzLYl57yPQEJh) | [Back To You](https://open.spotify.com/album/0EQ2yQyDiX2ORBjOZd70ca) | 3:23 |
 | 27 | [Subah Ke Jaisa Tu](https://open.spotify.com/track/1AAzdDRWqDJlxkcWSHOveN) | [Anirudh Addanki](https://open.spotify.com/artist/0oJrKTc99Q4G5ypZ6y8aBt) | [Subah Ke Jaisa Tu](https://open.spotify.com/album/7KEzac5WtmsjbAjO085eA1) | 3:29 |
 | 28 | [Ehsaas](https://open.spotify.com/track/6tYkm0OVhzS1QvbcADVyLM) | [Musilozy](https://open.spotify.com/artist/0tbDeOqQRayqshpcR5TaWT) | [Ehsaas](https://open.spotify.com/album/2B0prbB18kgEceSOaceluh) | 3:04 |

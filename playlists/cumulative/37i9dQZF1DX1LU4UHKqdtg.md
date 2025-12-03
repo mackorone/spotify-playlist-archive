@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: ILLIT
 
-1,624 songs - 3 day 14 hr 1 min
+1,625 songs - 3 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,7 +767,7 @@
 | [LIKE U 100](https://open.spotify.com/track/25ujeTA1Ma2rYzxr7ozdrP) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Flowering](https://open.spotify.com/album/2UUsZyRmggGvLJTnp0ZKcE) | 2:46 | 2025-02-25 | 2025-07-30 |
 | [Like Yesterday](https://open.spotify.com/track/5YTsiCrfRiIxxqUnpcqe39) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Like Yesterday](https://open.spotify.com/album/4yaIevy3AvY5g1k7SkejSK) | 3:40 | 2024-10-21 | 2024-11-23 |
 | [Like You](https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Like You](https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P) | 2:04 | 2025-05-13 | 2025-06-11 |
-| [LIKE YOU BETTER](https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From Our 20's](https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V) | 3:05 | 2025-06-24 |  |
+| [LIKE YOU BETTER](https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From Our 20's](https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V) | 3:05 | 2025-06-24 | 2025-12-03 |
 | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA) | 3:00 | 2023-06-06 | 2023-08-11 |
 | [Lime & Lemon](https://open.spotify.com/track/53Jy1OGka6wXUuE11Vj6jR) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Lime & Lemon](https://open.spotify.com/album/7c0C835UWVrAkQYjnBrwcT) | 3:08 | 2023-06-13 | 2023-08-01 |
 | [Lime & Lemon](https://open.spotify.com/track/0rkZ6uluEtLlYegJE9juej) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Lime & Lemon](https://open.spotify.com/album/1VeMx6yfm2e6nuemMfUuNF) | 3:10 | 2023-06-27 | 2023-07-12 |
@@ -1505,6 +1505,7 @@
 | [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-16 | 2022-11-25 |
 | [White cat](https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [White cat](https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ) | 3:22 | 2025-07-23 | 2025-08-07 |
 | [White Christmas \(with V of BTS\)](https://open.spotify.com/track/7134tEHq45eL6am9oVazZU) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas \(with V of BTS\)](https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L) | 2:53 | 2024-12-06 | 2024-12-25 |
+| [White Memories](https://open.spotify.com/track/7hCdtQsaKCBXrITaPNK2iE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [White Memories](https://open.spotify.com/album/4vnA4ZWgxrhxy5doVCGv9u) | 3:01 | 2025-12-02 |  |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-19 | 2024-10-16 |
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-15 | 2022-06-08 |
 | [WHO WE ARE](https://open.spotify.com/track/1pffMzj3YtanzjAJrlrKym) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [WHO WE ARE](https://open.spotify.com/album/6MPzEK36QIcH3bVcko4Lf4) | 3:03 | 2022-05-10 | 2022-06-29 |

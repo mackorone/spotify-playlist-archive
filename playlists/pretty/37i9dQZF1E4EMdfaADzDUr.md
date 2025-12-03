@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4EMdfaADzDUr.md) - [plain]
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With BIRRD, Leblanc, After Cooking and more
+> With After Cooking, winterburn, Leblanc and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,184 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,186 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Amelie Lens, Central Cee, GIMS, Laura Tesoro and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,910 likes - 88 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,909 likes - 88 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

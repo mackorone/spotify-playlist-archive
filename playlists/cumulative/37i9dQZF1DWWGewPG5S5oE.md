@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 来海
 
-470 songs - 1 day 14 hr 10 min
+471 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Beat Birds](https://open.spotify.com/track/0sxlNLZDWHudUyRlDfABEl) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [Beat Birds](https://open.spotify.com/album/5J8mMgH6qydlLfmgTwgAgS) | 2:46 | 2025-09-24 | 2025-11-05 |
 | [Benin](https://open.spotify.com/track/4CLPUPtBXIWK5xR9RPfEd4) | [acustica](https://open.spotify.com/artist/5f9fTWwcoFS4t01CP957Nr), [Ryo Miyachi](https://open.spotify.com/artist/4cMPr1gwTGk0gAkfZlvE13), [Yosuke Onuma](https://open.spotify.com/artist/55o4KmhWGRSELoSHN91BHV), [Kan](https://open.spotify.com/artist/6rGXCmbx9d04eRWSbvZB37) | [acustica](https://open.spotify.com/album/2FsAMezxqzYKG7jZFWLaO0) | 7:42 | 2025-01-07 | 2025-02-15 |
 | [Beyond the Redemption](https://open.spotify.com/track/0NzOmzRINNMlZsIs2a7zni) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [A STORY ABOUT YOU](https://open.spotify.com/album/6YB2R3p6K2X6Slkiq1w4t2) | 4:52 | 2023-12-19 | 2025-01-08 |
+| [Big Saaac\. \- Cleanup 10th Anniversary](https://open.spotify.com/track/3TmdJHfnGjZ56G1lMJn3nP) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [高橋佑成](https://open.spotify.com/artist/3G2zdYCaGsctXWxSZjchZv), [マーティ・ホロベック](https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj) | [Big Saaac\. \(Cleanup 10th Anniversary\)](https://open.spotify.com/album/3SJo9hEkE2q3l42jjd1Hwg) | 7:58 | 2025-12-02 |  |
 | [Bird Of Beauty](https://open.spotify.com/track/5OmSzWSzMLHpTK1tp4zm95) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Bird Of Beauty](https://open.spotify.com/album/0qvKH6LujY8DPBZXRzeVAI) | 6:02 | 2023-03-07 | 2025-11-05 |
 | [Birth](https://open.spotify.com/track/0hUEm1BwD8R4Z1BebTKjOM) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Birth](https://open.spotify.com/album/3f7Hyu4Ll25UKKb3NkdHuh) | 7:30 | 2023-03-07 | 2023-04-05 |
 | [Black Nile](https://open.spotify.com/track/7jM01vnA3IbskNLZF23lyV) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Black Nile](https://open.spotify.com/album/6xaT3uAYw8VBtcI3hshU5V) | 3:33 | 2023-08-08 | 2023-10-25 |
@@ -389,7 +390,7 @@
 | [Vortex](https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Vortex](https://open.spotify.com/album/2OQ9XYdCoTsjcSrieOQfEI) | 2:53 | 2024-11-27 | 2025-01-13 |
 | [WAKABA](https://open.spotify.com/track/4bTr3UbZjM8inclL0gPq2r) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [WAKABA](https://open.spotify.com/album/1J09jgpvTOR0djVbAOHlmy) | 2:50 | 2025-09-30 | 2025-11-05 |
 | [Wander from place to place](https://open.spotify.com/track/23XzSHqcxpAjh0VFQ4Dmea) | [Morphine Desert \-trio acoustic\-](https://open.spotify.com/artist/4qNCHyjKwuZwKJucdokJ33) | [Tales Of the Desert](https://open.spotify.com/album/3JN76A0m4MiRxZexsmUDbQ) | 5:45 | 2022-12-06 | 2023-03-08 |
-| [Wanted](https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/56y2AKjPkkMxCLGurbRco3) | 7:12 | 2023-09-05 |  |
+| [Wanted](https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/56y2AKjPkkMxCLGurbRco3) | 7:12 | 2023-09-05 | 2025-12-03 |
 | [Wanted](https://open.spotify.com/track/5v0Nftz5zbMK2CZhpJWiND) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/4AwRYl2kRyCYaAkxHAklZ8) | 7:12 | 2023-10-03 | 2024-01-31 |
 | [water melon](https://open.spotify.com/track/1MoCrRPl7VmLqkuVPBuc8n) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [water melon](https://open.spotify.com/album/17xOXntWM5dpQPmNCl5y9A) | 3:51 | 2022-11-15 | 2023-01-11 |
 | [water of goddess](https://open.spotify.com/track/6yoA5AMvxjNd1RoykmbnAZ) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [water of goddess](https://open.spotify.com/album/6xN8qW4onF9aYvqZTx2XDt) | 3:38 | 2023-01-10 | 2023-02-28 |

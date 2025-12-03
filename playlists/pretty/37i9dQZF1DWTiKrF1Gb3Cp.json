@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 238328,
+  "num_followers": 238381,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 171322,
-      "name": "CDN",
-      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59/66",
         "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
       },
@@ -315,38 +295,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
       },
       "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
         {
           "name": "Luis R Conriquez",
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 183797,
-      "name": "El Menos Visto",
-      "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "Jacobo Grinberg",
-        "url": "https://open.spotify.com/album/3mOUbKSVDw0RBD8zx9cF5t"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 281739,
-      "name": "Jacobo Grinberg",
-      "url": "https://open.spotify.com/track/3Iy1j4bzpaFhAb4Jh63R7q"
+      "duration_ms": 171322,
+      "name": "CDN",
+      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -371,6 +335,42 @@
       "duration_ms": 202000,
       "name": "Tipo Gatsby",
       "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Jacobo Grinberg",
+        "url": "https://open.spotify.com/album/3mOUbKSVDw0RBD8zx9cF5t"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 281739,
+      "name": "Jacobo Grinberg",
+      "url": "https://open.spotify.com/track/3Iy1j4bzpaFhAb4Jh63R7q"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 183797,
+      "name": "El Menos Visto",
+      "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "DELTAS",
-        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DELTAS",
-      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Qui\u00faboles Que!",
         "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 221541,
       "name": "Qui\u00faboles Que",
       "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "DELTAS",
+        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "DELTAS",
+      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1115,78 +1115,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "NO SON KLLE",
-        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "NO SON KLLE",
-      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "hARAkiRi",
-        "url": "https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 169258,
-      "name": "hARAkiRi",
-      "url": "https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "TUY",
-        "url": "https://open.spotify.com/album/0NDnj55CvMmYgEAA2ei3JA"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 270575,
-      "name": "TUY",
-      "url": "https://open.spotify.com/track/7IQB5Jkkf8bKW6BDdEu97N"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
       },
@@ -1223,6 +1151,78 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
+        "name": "NO SON KLLE",
+        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "NO SON KLLE",
+      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "TUY",
+        "url": "https://open.spotify.com/album/0NDnj55CvMmYgEAA2ei3JA"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 270575,
+      "name": "TUY",
+      "url": "https://open.spotify.com/track/7IQB5Jkkf8bKW6BDdEu97N"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "hARAkiRi",
+        "url": "https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 169258,
+      "name": "hARAkiRi",
+      "url": "https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
         "name": "En La Nube",
         "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
       },
@@ -1235,26 +1235,6 @@
       "duration_ms": 212519,
       "name": "En La Nube",
       "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "A LA ORDEN",
-        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "A LA ORDEN",
-      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1283,6 +1263,26 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
+        "name": "A LA ORDEN",
+        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "A LA ORDEN",
+      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 237760,
       "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
       "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Estilo Malandro",
-      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 200754,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
+      "duration_ms": 212666,
+      "name": "Estilo Malandro",
+      "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 200754,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
         "name": "141",
         "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
       },
@@ -1383,6 +1383,26 @@
       "duration_ms": 175102,
       "name": "141",
       "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "100% Mayo",
+        "url": "https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 214655,
+      "name": "100% Mayo",
+      "url": "https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1423,26 +1443,6 @@
       "duration_ms": 153557,
       "name": "BELIKON",
       "url": "https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "100% Mayo",
-        "url": "https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV"
-      },
-      "artists": [
-        {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 214655,
-      "name": "100% Mayo",
-      "url": "https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Ni Miedo Ni Piedad",
-        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 278181,
-      "name": "Ni Miedo Ni Piedad",
-      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Disfrutando El Proceso",
         "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 177230,
       "name": "Una Ruedita",
       "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Ni Miedo Ni Piedad",
+        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 278181,
+      "name": "Ni Miedo Ni Piedad",
+      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Rappi",
-        "url": "https://open.spotify.com/album/3D0qcdTcQ7AzooH0nexNnv"
-      },
-      "artists": [
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        },
-        {
-          "name": "Russo",
-          "url": "https://open.spotify.com/artist/4yzuWxT9FcCZUuzdKh1Fc4"
-        }
-      ],
-      "duration_ms": 145982,
-      "name": "Rappi",
-      "url": "https://open.spotify.com/track/7v9tS338RSDVxMpW1H7QKv"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "BELICONTENTO",
         "url": "https://open.spotify.com/album/1Oo4iemjn5zgW9ah4p1gp7"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 151680,
       "name": "BELICONTENTO",
       "url": "https://open.spotify.com/track/5WoQIn0VwI7h4D5QWMDBx2"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Rappi",
+        "url": "https://open.spotify.com/album/3D0qcdTcQ7AzooH0nexNnv"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/4yzuWxT9FcCZUuzdKh1Fc4"
+        }
+      ],
+      "duration_ms": 145982,
+      "name": "Rappi",
+      "url": "https://open.spotify.com/track/7v9tS338RSDVxMpW1H7QKv"
     },
     {
       "added_at": "2025-10-31 06:00:15",

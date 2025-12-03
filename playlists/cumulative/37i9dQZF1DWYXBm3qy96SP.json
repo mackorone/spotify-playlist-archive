@@ -5955,6 +5955,24 @@
     },
     {
       "album": {
+        "name": "CHASING SHADOWS",
+        "url": "https://open.spotify.com/album/74CUUOQcJqtAVFO0U8zRQT"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222785,
+      "name": "CHASING SHADOWS",
+      "url": "https://open.spotify.com/track/4sb2DpH2pMeSuAK9x04fON"
+    },
+    {
+      "album": {
         "name": "cheerleader (ft. Waterparks)",
         "url": "https://open.spotify.com/album/2tWR94g7epMrZx7UAWeIsw"
       },
@@ -7956,7 +7974,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 182571,
       "name": "Dionysus",
       "url": "https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1"
@@ -22352,7 +22370,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 229813,
       "name": "Prize Fighter",
       "url": "https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w"
@@ -25372,6 +25390,24 @@
       "duration_ms": 167000,
       "name": "SONGS",
       "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
+    },
+    {
+      "album": {
+        "name": "Songs I'd Rather Not Sing",
+        "url": "https://open.spotify.com/album/1g2lIajRkoTuD6NuEYp11X"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Songs I'd Rather Not Sing",
+      "url": "https://open.spotify.com/track/0sdDCmGW4QomnHcLvd3KCh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 
 > Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 129,882 likes - 103 songs - 5 hr 47 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 129,860 likes - 103 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 | 102 | [Shot In The Dark](https://open.spotify.com/track/2TyMvV89TGLv8Xc38rohrO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Shot In The Dark](https://open.spotify.com/album/0DPhuVtTIJDz3V6OXcbyQ0) | 2:36 |
 | 103 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 
-Snapshot ID: `AAA6y3DSZFEHxsIfEB1WFHsT0R+N+sDn`
+Snapshot ID: `AAA6zXlhqd3+nnKGH/0EZ1srAlHV2Wau`

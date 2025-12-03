@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: South Arcade
 
-3,614 songs - 8 day 1 hr 22 min
+3,616 songs - 8 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [2001](https://open.spotify.com/track/6yoKdvR0kq1P1uGoS4zoGA) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2001](https://open.spotify.com/album/1VN9mwlc5OtDvAtlt2PC4i) | 4:26 | 2022-05-20 | 2022-06-18 |
 | [2005](https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [2005](https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE) | 3:23 | 2024-12-13 | 2025-03-01 |
 | [2016 CAVALIERS \(Ohio\) \(feat\. Knox\)](https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [2016 CAVALIERS \(Ohio\) \(feat\. Knox\)](https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno) | 3:34 | 2024-06-21 | 2024-08-03 |
+| [20teens](https://open.spotify.com/track/5F6Rxh3fkwU2NIdVttFUlY) | [Blessing Jolie](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [20teens](https://open.spotify.com/album/72fuMXmu5lrxWmMytH7gKE) | 3:11 | 2025-12-02 |  |
 | [21](https://open.spotify.com/track/5Xe7XIUNNyS0Z2ppgPdXYu) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [21](https://open.spotify.com/album/0wLlRIF7IzWJVnOCM5mifc) | 3:14 | 2024-04-26 | 2024-06-01 |
 | [21ST CENTURY BITCH](https://open.spotify.com/track/6b4gtrHODf0L93GxIKEotN) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [21ST CENTURY BITCH](https://open.spotify.com/album/3Kj5vTVyzOGBwp71lO6pYo) | 2:45 | 2022-02-25 | 2022-05-14 |
 | [23's A Baby](https://open.spotify.com/track/4cgBgQLBPFpxkdt0ZEa8VK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [23's A Baby](https://open.spotify.com/album/61YuzrhatyhsGuFD97qpPt) | 4:13 | 2025-04-04 | 2025-04-19 |
@@ -1999,6 +2000,7 @@
 | [Me, Myself & Your Eyes](https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Me, Myself & Your Eyes](https://open.spotify.com/album/3dkh3H211HMotBuF2vMqVk) | 2:42 | 2024-02-23 | 2024-04-06 |
 | [MEAN](https://open.spotify.com/track/2chUwJ0OfRFtOLbKuIUpTZ) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [MEAN](https://open.spotify.com/album/0A6z8JM3YdXnqbdK5snV3o) | 3:19 | 2025-05-09 | 2025-08-02 |
 | [Meant For Livin'](https://open.spotify.com/track/0VclAvo7XrudE1FZfaHPMw) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Meant For Livin'](https://open.spotify.com/album/0RbK6rHwbqKgkGYDjad6cu) | 2:34 | 2022-01-21 | 2022-03-26 |
+| [Measly Means](https://open.spotify.com/track/0vtRXEqmLyIlbEhqnPIXX3) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Measly Means](https://open.spotify.com/album/39XEYzp5W10qC16dwPekg4) | 3:29 | 2025-12-02 |  |
 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 | 2023-03-03 | 2023-04-09 |
 | [Medicine](https://open.spotify.com/track/0whcb6RBBEj0Dn38yUMK6X) | [Royal Sugar](https://open.spotify.com/artist/6PqsHQyBt6M0QoJIGQfVV0) | [Medicine](https://open.spotify.com/album/1RCRZHhF50uvmzd3l3SJIB) | 3:24 | 2021-12-03 | 2022-03-12 |
 | [Meet You There 2.0](https://open.spotify.com/track/2VXnCZzPB9lOm19D1TDX0S) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Meet You There 2.0](https://open.spotify.com/album/0jKCIVawS2LS6yUl24YNdb) | 3:22 | 2023-05-05 | 2023-06-10 |

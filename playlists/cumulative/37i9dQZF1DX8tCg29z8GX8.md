@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-717 songs - 1 day 13 hr 11 min
+718 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Bad Feeling](https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Bad Friends](https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme) | 2:41 | 2024-04-03 | 2025-09-26 |
 | [Bad Girl \(feat\. Wande Coal & Victony\)](https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bad Girl \(feat\. Wande Coal & Victony\)](https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq) | 3:24 | 2022-07-28 | 2023-02-24 |
 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-19 | 2023-02-24 |
+| [BALANCE \(with Lasmid\)](https://open.spotify.com/track/4yVprPvNUGc840gsCWcvOq) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [BALANCE \(with Lasmid\)](https://open.spotify.com/album/7pSHlYExOSYZf0g67YUmED) | 2:46 | 2025-11-28 |  |
 | [Balance It](https://open.spotify.com/track/5lSAVaWdDWebYm6np4QAIk) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/76gTwaKCqPjsjwmJMuxjA1) | 3:07 | 2022-06-09 | 2022-08-21 |
 | [Balance It \(Remix\)](https://open.spotify.com/track/3ImDVrkj2jO7QjR2Xw86w3) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Balance It \(Remix\)](https://open.spotify.com/album/1QUOtrtXpyLwLEqshG8b6m) | 2:53 | 2022-10-30 | 2023-02-17 |
 | [BALENCIAGA](https://open.spotify.com/track/1v50F7vK31Czts54YID73W) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [BALENCIAGA](https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9) | 2:20 | 2025-09-19 |  |
@@ -647,7 +648,7 @@
 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 | 2023-10-20 | 2024-07-12 |
 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/5h5fI8fZG0BGiUqyuR3BYZ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/album/0XBN8hQFaFIVmTJCj6Yix5) | 3:31 | 2023-10-20 | 2023-10-21 |
 | [Tontonte](https://open.spotify.com/track/2joZgmbvHfeypuPFBysocT) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Tontonte](https://open.spotify.com/album/5njbyZ86SDLuOJoHJekpsV) | 4:20 | 2025-09-26 | 2025-11-08 |
-| [Too Bad](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:03 | 2025-10-10 |  |
+| [Too Bad](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:03 | 2025-10-10 | 2025-12-03 |
 | [Too Late](https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Too Late](https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR) | 3:14 | 2025-09-01 |  |
 | [Top Speed](https://open.spotify.com/track/5uMtLvgPkHjclh5zIgYSOO) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Top Speed](https://open.spotify.com/album/5QTnDhXpzwXkhzqHcyhxYp) | 3:01 | 2025-09-26 | 2025-10-25 |
 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 | 2023-05-12 |

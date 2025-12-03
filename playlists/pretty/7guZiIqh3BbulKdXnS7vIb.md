@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7guZiIqh3BbulKdXnS7vIb.md) - [plain]
 
 > Hit the road with over 5 hours of classics from The Rolling Stones and many more! Cover: The Tragically Hip
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 7,781 likes - 91 songs - 6 hr 18 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 7,780 likes - 91 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

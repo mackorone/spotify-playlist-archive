@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-938 songs - 2 day 13 hr 51 min
+939 songs - 2 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Koi ha jealousy](https://open.spotify.com/track/381vdLFYEwBI1JYzIT9GME) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [Koi ha jealousy](https://open.spotify.com/album/7K2SHuNbsnIZ1EwGjuR2Qf) | 4:06 | 2023-01-24 | 2023-03-01 |
 | [KOUKIATSU GIRL \- Cover](https://open.spotify.com/track/5QlxHMreTskkE83iRbCcc6) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [KOUKIATSU GIRL \(Cover\)](https://open.spotify.com/album/1YfgGk0q0Lwvf0L0pybRbH) | 4:28 | 2022-11-01 | 2022-11-09 |
 | [Lady Free \- 2023 Remaster](https://open.spotify.com/track/4enJEjxir3vwNtNUphkMjM) | [1986 OMEGA TRIBE](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [Crystal Night +5](https://open.spotify.com/album/7DVKXQhytcv6VkUqogsP9W) | 4:36 | 2023-11-21 | 2023-12-14 |
-| [LADY PINK PANTHER](https://open.spotify.com/track/4OcTPxDLWpuzgVSk5U6rX9) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38), [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [LADY PINK PANTHER](https://open.spotify.com/album/4eMh6ItvKHx0QuhL8I2qHC) | 2:56 | 2025-10-14 |  |
+| [LADY PINK PANTHER](https://open.spotify.com/track/4OcTPxDLWpuzgVSk5U6rX9) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38), [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [LADY PINK PANTHER](https://open.spotify.com/album/4eMh6ItvKHx0QuhL8I2qHC) | 2:56 | 2025-10-14 | 2025-12-03 |
 | [Last Summer Whisper](https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Heaven Beach](https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS) | 4:59 | 2023-07-18 | 2023-11-11 |
 | [Last Summer Whisper](https://open.spotify.com/track/5xAOWLiF60oEmFuqKlQpsK) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [Last Summer Whisper](https://open.spotify.com/album/3cPaTLAt97j6XbmIL3z6Nf) | 4:30 | 2022-08-02 | 2022-08-17 |
 | [Last Train](https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train](https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G) | 3:37 | 2022-07-27 | 2023-07-09 |
@@ -610,6 +610,7 @@
 | [Wave](https://open.spotify.com/track/13PXd4wMUClL9J2uNSgmZh) | [ynkmr.](https://open.spotify.com/artist/0zWJ8seaNkOrZYzmO0twXU), [YELIKK](https://open.spotify.com/artist/0VpOZTcCUCHMj5RMrEwwVp) | [MIDVILLAGE](https://open.spotify.com/album/1Zr7OgLfgJn70uNwtWXOTv) | 3:54 | 2022-07-26 | 2022-07-29 |
 | [Wave](https://open.spotify.com/track/2ZRFVRgQwYKViuStRrVKHH) | [ynkmr.](https://open.spotify.com/artist/0zWJ8seaNkOrZYzmO0twXU), [YELIKK](https://open.spotify.com/artist/0VpOZTcCUCHMj5RMrEwwVp) | [MIDVILLAGE](https://open.spotify.com/album/3XargbtSTIiQBDjE2HLwnc) | 3:54 | 2022-07-27 | 2022-08-03 |
 | [waver](https://open.spotify.com/track/6mRb7nMsWrekmnXP0PrbL9) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [waver](https://open.spotify.com/album/46ybrTqtnh7GOQ5tGVdvII) | 3:44 | 2023-10-10 | 2023-11-11 |
+| [what a night](https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [what a night](https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD) | 3:45 | 2025-12-02 |  |
 | [What the Hell](https://open.spotify.com/track/3Sio6hsXRUhhd6Hk4W1c7Y) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [What the Hell](https://open.spotify.com/album/1qfBbSPj9GQjS8xNGyJqoN) | 4:08 | 2023-12-12 | 2023-12-20 |
 | [white](https://open.spotify.com/track/6bZfFirxMhktXJfmMrjN5y) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [white](https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG) | 4:10 | 2022-09-20 | 2022-12-07 |
 | [Who Are You](https://open.spotify.com/track/6l50VsBz2P3MaWBOiUUxac) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [Who Are You](https://open.spotify.com/album/0YNMv9mhlMRlC1haWTbYbH) | 4:03 | 2022-06-16 | 2023-07-12 |

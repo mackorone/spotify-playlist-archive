@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Nontokozo Mkhize
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,135 likes - 105 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,206 likes - 105 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

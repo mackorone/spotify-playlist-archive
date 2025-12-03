@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu?si=LQDGs5eGRSGQUoj5UYHIJg">Kenji</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,120 likes - 396 songs - 19 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,148 likes - 396 songs - 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 78 | [Scene 2](https://open.spotify.com/track/24RXVWpfzaAyWgm4Estifw) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Scene 2](https://open.spotify.com/album/5ncjT7Skxpg5qKSB89PBye) | 4:15 |
 | 79 | [Can't Leave Alone \(feat\. Avenoir & Maz B\)](https://open.spotify.com/track/3bGfuGWywg85koHG8nturm) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [86](https://open.spotify.com/artist/2o89WDAOoTqUO7AA9hvh1Q) | ['02](https://open.spotify.com/album/4G1Bike7xA2biArlI5WNzO) | 3:33 |
 | 80 | [Test Of Time](https://open.spotify.com/track/5qDJnpI14GE3LywpJ25UIn) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Test Of Time](https://open.spotify.com/album/0AO8KaLHzofg0W7PnKw0UT) | 3:10 |
-| 81 | [Feels Like Love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Feels Like Love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
+| 81 | [feels like love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [feels like love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
 | 82 | [Reception](https://open.spotify.com/track/5NAmjv41OJnwLo1pzSiyUx) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Down Payment](https://open.spotify.com/album/45zDzQHqEbSfWUbWvMffiU) | 3:12 |
 | 83 | [Fill My Lungs](https://open.spotify.com/track/78oqhGj8IlNtGoxOODDfiP) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Fill My Lungs](https://open.spotify.com/album/0rk6F9Mosglcvf4WEKeqiU) | 2:59 |
 | 84 | [baby](https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [baby](https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr) | 3:03 |

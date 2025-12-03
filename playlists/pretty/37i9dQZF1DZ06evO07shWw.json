@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9091,
+  "num_followers": 9090,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADN/jFebBdQbzmowtnqjUJj",
+  "snapshot_id": "aSzagAAAAAAJrn3GM/VvA5NNPX37Tui5",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lady Like (Deluxe)",
+        "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Feeling Things",
+      "url": "https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good As Gone",
         "url": "https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 187341,
       "name": "Good As Gone",
       "url": "https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Like (Deluxe)",
-        "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Feeling Things",
-      "url": "https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1"
     },
     {
       "added_at": null,
@@ -512,6 +512,22 @@
       "added_at": null,
       "album": {
         "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 233326,
+      "name": "No Choice",
+      "url": "https://open.spotify.com/track/6JUUB5sWlJV3VSMhtqcnxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Person",
         "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
       },
       "artists": [
@@ -543,22 +559,6 @@
       "duration_ms": 183591,
       "name": "Here for It (feat. Ingrid Andress)",
       "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 233326,
-      "name": "No Choice",
-      "url": "https://open.spotify.com/track/6JUUB5sWlJV3VSMhtqcnxg"
     },
     {
       "added_at": null,

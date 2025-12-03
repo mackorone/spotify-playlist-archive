@@ -4,7 +4,7 @@
 
 > Det er fredag! Ny musik fra Scarlet Pleasure, Freja Kirk, Ed Sheeran og mange flere 👀
 
-8,314 songs - 17 day 22 hr 37 min
+8,315 songs - 17 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3200,6 +3200,7 @@
 | [High Like The Sky](https://open.spotify.com/track/29VlrhOYEm3gowUKINZU6Q) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [High Like The Sky](https://open.spotify.com/album/6ooNDxGpXpFhithnfnyH1l) | 3:02 | 2025-11-20 | 2025-11-28 |
 | [High On Love](https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [High On Love](https://open.spotify.com/album/1RS0vAX4YynNRKyxl7DoAw) | 2:56 | 2024-05-16 | 2024-05-24 |
 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-06-19 | 2025-06-27 |
+| [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 | 2025-11-27 |  |
 | [High Speed Chasing](https://open.spotify.com/track/1iuRUXnwcpfO4R00x0imu3) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [High Speed Chasing](https://open.spotify.com/album/0AeP1iRGHjzyI2J9YEDqJ5) | 3:18 | 2025-06-05 | 2025-06-13 |
 | [high3r \(feat\. Lil Yachty & Lil Wayne\)](https://open.spotify.com/track/3Ojk8AKbhBtEW0UrCCbAn7) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [high3r \(feat\. Lil Yachty & Lil Wayne\)](https://open.spotify.com/album/7m5Ht2zoyNeDrQgJcOBHPr) | 4:03 | 2024-08-01 | 2024-08-09 |
 | [Higher](https://open.spotify.com/track/0qJyAFX66MbbB8sHT4PYAM) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [Monde](https://open.spotify.com/artist/2W7qynuWq1MsPtPNFugxQ1) | [Higher](https://open.spotify.com/album/7DQdOjhYGmp4nfzRaGvqtm) | 2:54 | 2024-11-07 | 2024-11-15 |

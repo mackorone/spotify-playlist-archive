@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538 likes - 275 songs - 16 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 540 likes - 275 songs - 16 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,8 +230,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 220 | [King](https://open.spotify.com/track/7iezOg5ENMqIpq0HVVZqgz) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Rock City](https://open.spotify.com/artist/4JLxuWOMYM50zRMCjYaHvH) | [0.9](https://open.spotify.com/album/4kvVqavqTyVWqXURC0fRqF) | 4:07 |
 | 221 | [Exit Wounds](https://open.spotify.com/track/1CTadyC9JCazf75DtdY97p) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [Luke James \(Deluxe\)](https://open.spotify.com/album/55Oye0FffojvyoADZteEFT) | 4:26 |
 | 222 | [New Nu](https://open.spotify.com/track/4TPUO4r8jEkWmCSQ5nzNs9) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Point Of No Return \(Deluxe\)](https://open.spotify.com/album/2OlVVFS8QZfQLmAKkfIwmz) | 2:56 |
-| 223 | [U Know U Want To](https://open.spotify.com/track/2u7YARIkovzhLheDX8RB04) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [M.O.](https://open.spotify.com/album/5JY8LOSVlqydub7b7W7MlE) | 3:50 |
-| 224 | [Winning \(feat\. Big Freedia\)](https://open.spotify.com/track/71S0amxrIugHC94xfD9jLW) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [CiCi](https://open.spotify.com/album/37B5Zjn3VTORs1APCtOsRY) | 2:30 |
+| 223 | [Winning \(feat\. Big Freedia\)](https://open.spotify.com/track/71S0amxrIugHC94xfD9jLW) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [CiCi](https://open.spotify.com/album/37B5Zjn3VTORs1APCtOsRY) | 2:30 |
+| 224 | [U Know U Want To](https://open.spotify.com/track/2u7YARIkovzhLheDX8RB04) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [M.O.](https://open.spotify.com/album/5JY8LOSVlqydub7b7W7MlE) | 3:50 |
 | 225 | [NEW MISTAKES](https://open.spotify.com/track/2i8qZfW5H5xCG3YJBqZ0ZA) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 3:17 |
 | 226 | [Rollercoaster](https://open.spotify.com/track/7xzGEPX7A2pUFa6VdnJLt3) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 3:50 |
 | 227 | [Text Message](https://open.spotify.com/track/24asXAMKi2sR36YThIVs5o) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 4:06 |
@@ -263,8 +263,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 253 | [Locked Away](https://open.spotify.com/track/1tmtNTFj5e1lOZ5FF5D1uD) | [The New Releases](https://open.spotify.com/artist/0KcrR46L75FgSR7uRuIwqB) | [Straight from the Studio: The Hits January 2016](https://open.spotify.com/album/3xpISCse4tIpurM2nfaQDu) | 3:47 |
 | 254 | [I Look Like](https://open.spotify.com/track/59tJKl874T0lrWnV5wpSYf) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [I Look Like](https://open.spotify.com/album/6ERHiXy2VELXPIbk4ZWL2X) | 3:26 |
 | 255 | [Sex in the Bathroom \[Ph Electro Remix\]](https://open.spotify.com/track/2BE8RCIL9G9XvW81tnqLlY) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [PH Electro](https://open.spotify.com/artist/6bwJA8gugndMQxiuMsnYDV) | [Swagg \(Remix Edition\)](https://open.spotify.com/album/2N5vfKSQ6dvGGl9hB0Fpnc) | 3:35 |
-| 256 | [Everything Reminds Me Of You](https://open.spotify.com/track/4gM4RFCxPbBnkOsbrhqzxV) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 3:51 |
-| 257 | [Made It](https://open.spotify.com/track/0hzgKoHi8HxmCRhXjBTZPO) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:42 |
+| 256 | [Made It](https://open.spotify.com/track/0hzgKoHi8HxmCRhXjBTZPO) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:42 |
+| 257 | [Everything Reminds Me Of You](https://open.spotify.com/track/4gM4RFCxPbBnkOsbrhqzxV) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 3:51 |
 | 258 | [L.A\. Love \(La La\)](https://open.spotify.com/track/518UEkLkoqUipreT1FySZI) | [Universales](https://open.spotify.com/artist/07zqSxVJNb2W8jIt5UAZJc) | [L.A\. Love \(La La\) \[Tribute to Fergie\]](https://open.spotify.com/album/7ooCz1DPsgDUBsnJPH1vcl) | 3:11 |
 | 259 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
 | 260 | [No Boys Allowed](https://open.spotify.com/track/3852HBM5GEmZ9NNvmWXZoe) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [No Boys Allowed](https://open.spotify.com/album/1X35eDky87vE6mOd6mrRBS) | 2:58 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 274 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 275 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AcDFyAAAAACMWLD1XivDo7pRxnvW4NGI`
+Snapshot ID: `AcDLXgAAAADnp3ypETDlL9pTcBc5l8oV`

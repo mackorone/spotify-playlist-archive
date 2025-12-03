@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,631 songs - 4 day 3 hr 8 min
+1,635 songs - 4 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Bad Days \(Coming or Gone\)](https://open.spotify.com/track/2o92xafSvsVuIQ78wjtyuV) | [Dallas Baldwin](https://open.spotify.com/artist/4Ula3EkHD5O02DZiwA836Y) | [Bad Days \(Coming or Gone\)](https://open.spotify.com/album/34tPm1GA34iRxN0eaLQ6wi) | 3:09 | 2025-11-09 |  |
 | [Bad Place](https://open.spotify.com/track/7CFbskWjyQA92IvdApIIpV) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Bad Place](https://open.spotify.com/album/0z860fZ61LspJYvgCb2pYT) | 2:19 | 2024-03-04 |  |
 | [Bae](https://open.spotify.com/track/1cjeKHaax2YIMDP2zC714F) | [Carlos Lapin](https://open.spotify.com/artist/6cypL54UbWFB1jP8v8BlqZ) | [Bae](https://open.spotify.com/album/3W2TlP2dI4Snfg5Dbkpe1q) | 1:36 | 2025-05-26 |  |
+| [Baila Mi Navidad](https://open.spotify.com/track/3Xdx0W8H8nTBetAFR5Ia7J) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Mi Navidad](https://open.spotify.com/album/7ykfc5zIGkaCsdF6rXk2Nj) | 3:30 | 2025-12-02 |  |
 | [Bal Ed Dred](https://open.spotify.com/track/7oIiJu1Y6Jmnq3qbRaUKZI) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:59 | 2024-03-23 |  |
 | [Balance](https://open.spotify.com/track/4i61t5rdgzsaPTVPOFKewP) | [BxRI SzN](https://open.spotify.com/artist/1PUQFMKFlyhCunWecgoeSW), [D\-Raww](https://open.spotify.com/artist/1CUr1a68mFrVuSY5is9tBR) | [Balance](https://open.spotify.com/album/2W6Z6od5vV1eRr8BMFe5MQ) | 2:28 | 2025-11-28 |  |
 | [Balance](https://open.spotify.com/track/7eUNIfxTlIQyZVRzLHxx0N) | [Luna Dharma](https://open.spotify.com/artist/1RXLMXtNtNKXx5drIuuwjm) | [Balance](https://open.spotify.com/album/6LhEyeEepdi5yxhxpSlnO6) | 2:41 | 2024-04-20 |  |
@@ -206,6 +207,7 @@
 | [Bye Bye](https://open.spotify.com/track/2c0Br2XmtrDwC8YvG3I7KL) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Clotilde](https://open.spotify.com/artist/1uIRR9HxLJZjvwRPTOnihu) | [Triumphant Riddim](https://open.spotify.com/album/2aSJwBDyD7s2dExpXvNL1h) | 4:34 | 2024-03-10 |  |
 | [Bye Bye \- Dub](https://open.spotify.com/track/0fCgxRvAMW8wJdOjH7xvJa) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Clotilde](https://open.spotify.com/artist/1uIRR9HxLJZjvwRPTOnihu) | [Triumphant Riddim](https://open.spotify.com/album/2aSJwBDyD7s2dExpXvNL1h) | 4:20 | 2024-05-04 |  |
 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 | 2025-09-21 |  |
+| [cALYPSO cRAB](https://open.spotify.com/track/6HISIzKtm64qArW8y0ltCm) | [Summer in the Attic](https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq) | [Queso](https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD) | 2:54 | 2025-12-02 |  |
 | [Cambalhota](https://open.spotify.com/track/5vRQKGo3mEXSpneerBIYUa) | [Os Bardos da Pangeia](https://open.spotify.com/artist/3KMlVXkS8GLgNqU0ao8Hst) | [Cambalhota](https://open.spotify.com/album/1uH3HVqhjCVUzqyxnQ9HV3) | 5:53 | 2025-06-17 |  |
 | [Camel Walk](https://open.spotify.com/track/39RK5znqBOpmp5V9Rk1mcU) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Sarod Mystics](https://open.spotify.com/artist/3kJxKnA7yH4xLE0wAgcGHn) | [Tales Of Raj](https://open.spotify.com/album/7LhsTPpHRBkUAYZ9k66UVd) | 3:29 | 2025-11-14 |  |
 | [Can I Count on You?](https://open.spotify.com/track/44ovTa3UPcAcwmmQRXQjPi) | [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Borrowed Trouble](https://open.spotify.com/album/3ZniMuIdI6cbuSFJyC4jHe) | 2:07 | 2025-07-02 |  |
@@ -1216,6 +1218,7 @@
 | [Rudies](https://open.spotify.com/track/7k7bKgc4lZyGS19FNBbkbw) | [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh), [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud) | [Botanical Story / Rudies](https://open.spotify.com/album/2KvamWGEXx9rMfyD8Xvluf) | 3:36 | 2024-05-01 |  |
 | [Rudies Dub](https://open.spotify.com/track/4VuBXjLNy7mEcP07M4Vhbh) | [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud) | [Botanical Story / Rudies](https://open.spotify.com/album/2KvamWGEXx9rMfyD8Xvluf) | 3:16 | 2024-05-01 |  |
 | [Ruffy and Tuffy](https://open.spotify.com/track/2lVXUfdiTnkY1HK56hNZ3m) | [Stefanosis](https://open.spotify.com/artist/6K6rIqu7mAiORjW758KyRI), [Samson Benji](https://open.spotify.com/artist/4yh2z9mo5F6S5cQC363v2G) | [Brass Echo Chamber](https://open.spotify.com/album/5BxaCoVsHJg3Vj2xXFAKsl) | 3:32 | 2024-05-01 |  |
+| [Ruin You](https://open.spotify.com/track/5DGEFddKdHhqdBQzc33gsy) | [Maddie Hogan](https://open.spotify.com/artist/6quyQgHYbx0Hiv7sz5PPxk) | [Ruin You](https://open.spotify.com/album/7tsnbxX5EpgDphSwgxA5jR) | 3:37 | 2025-12-02 |  |
 | [Rumbo](https://open.spotify.com/track/0AlyK3qVIdAr8yRhhrSrNW) | [Lorena R](https://open.spotify.com/artist/3qfQq9PuAnv7AAAMkf0TVO) | [Rumbo](https://open.spotify.com/album/6EohaAqrW0OzAFRLRSELhl) | 2:16 | 2025-06-09 |  |
 | [Run & Jump](https://open.spotify.com/track/4ZFA6kB1yOC1q5Gj3YoAD5) | [Armin F.](https://open.spotify.com/artist/6J7s0zqShr52v68ASUClSm) | [Run & Jump](https://open.spotify.com/album/5TZ2COA1Fd1o4wpcJ1E5zn) | 3:34 | 2025-07-24 |  |
 | [Run Away Mountain Woman](https://open.spotify.com/track/0XbrSi909O8mPsiy92JpsQ) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 4:24 | 2025-09-24 |  |
@@ -1581,6 +1584,7 @@
 | [Working for a Brighter Dub](https://open.spotify.com/track/56A8qGWr7f3xo3i5ElR6Mj) | [Sax n Dub](https://open.spotify.com/artist/1lTpzANT3gWVh5ll93tw8V) | [Working for a Brighter Day](https://open.spotify.com/album/0IpQlxq3Lmtk6oRr6kp3Fp) | 3:54 | 2024-03-25 |  |
 | [World Echo Steppa](https://open.spotify.com/track/78IlTRsw4KzvmuC7tmic4q) | [Dubussy](https://open.spotify.com/artist/19fgYI58BbUW0qHhiCnAYC) | [Horns N Tentacles](https://open.spotify.com/album/6fzOmC0LcDlqyrfyZrCg6j) | 4:58 | 2025-03-14 |  |
 | [Wormhole](https://open.spotify.com/track/4ncAUZYSJtmS6sZ1eRWvuG) | [iGL & Alecho](https://open.spotify.com/artist/0P7Ws2hOKvUgOadBq0nTXn) | [From A Droplet](https://open.spotify.com/album/2KkhkN4s5St2MqJNVeojam) | 4:32 | 2024-03-25 |  |
+| [Worst Universe](https://open.spotify.com/track/0jdnGukKtJsvQ3EfvB5m3F) | [Marcy Daydream](https://open.spotify.com/artist/6NkpRJhd9in8Syp4gT3ka9) | [Worst Universe](https://open.spotify.com/album/3ts13EAFlZY3xcN9jmN19L) | 4:07 | 2025-12-02 |  |
 | [Worst Year](https://open.spotify.com/track/6OyQzOnHeQ9cGsZls96tJE) | [Saint Roswell](https://open.spotify.com/artist/1d7q2JyusDHbMFzyGLKBbT) | [Retrospective](https://open.spotify.com/album/6NW8KhNDnYMHmjXFemwX16) | 4:13 | 2025-05-28 |  |
 | [Write I Name](https://open.spotify.com/track/7gIYFTYkM0pnRfu2GhdPny) | [Ras Tamano](https://open.spotify.com/artist/6AzPKf5UTTpMnbgtKyWya8), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Nyahbinghi I\-lodica](https://open.spotify.com/album/3KoPRZazTGn88Ee9nIZFYC) | 4:19 | 2024-03-25 |  |
 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 | 2024-03-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,769 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,857 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 46 | [Tequila](https://open.spotify.com/track/6ctmWJntoQg4n8cZEQqCjA) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Tequila](https://open.spotify.com/album/4sANgPN5QxueFQmfIxGZi0) | 3:16 |
 | 47 | [My 19th Birthday](https://open.spotify.com/track/4KCfCctnZQd5mem6S3HhKi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 8:58 |
 | 48 | [Mercury](https://open.spotify.com/track/1w6Gcw670LjrAnrbAWObqT) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [Titanium & Mercury](https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5) | 5:23 |
-| 49 | [Children Of The Internet \- Ezra Collective Remix](https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Es Devlin](https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut) | [Children Of The Internet \(Remixes\)](https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww) | 5:53 |
-| 50 | [Picture Me](https://open.spotify.com/track/7eFZGDVNCjcB6j3WLzHeLR) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Six Paths](https://open.spotify.com/album/5MEImpWt30V3Huwd5n1XM8) | 4:40 |
+| 49 | [Picture Me](https://open.spotify.com/track/7eFZGDVNCjcB6j3WLzHeLR) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Six Paths](https://open.spotify.com/album/5MEImpWt30V3Huwd5n1XM8) | 4:40 |
+| 50 | [Children Of The Internet \- Ezra Collective Remix](https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Es Devlin](https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut) | [Children Of The Internet \(Remixes\)](https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww) | 5:53 |
 
-Snapshot ID: `aSuJAAAAAABIU3/caL0TGtrB1aB4baG/`
+Snapshot ID: `aSzagAAAAAA43fWIzT6o/+oVEY+WIOeF`

@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Awich
 
-1,405 songs - 3 day 10 hr 32 min
+1,406 songs - 3 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1399,6 +1399,7 @@
 | [鉄線](https://open.spotify.com/track/7bfHQu3qAiViVs2Obeb0pA) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [Calyx](https://open.spotify.com/album/30u7TBjP17nCKURG0tkmwl) | 3:27 | 2022-01-04 | 2022-02-02 |
 | [鏡に恋して](https://open.spotify.com/track/1DrDELqHERt3YQ0Q4y5MDK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [SOME BUDDY](https://open.spotify.com/album/03noS9IVsR6kLzt5PVa9Dn) | 3:35 | 2025-02-25 | 2025-08-13 |
 | [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [kanekoayano](https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 | 2025-06-03 |  |
+| [難波ナンバーワン](https://open.spotify.com/track/01Xeg0hovUCxlE9qAoqiry) | [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [難波ナンバーワン](https://open.spotify.com/album/0ChCQibaMr0gYv3YFz4p3o) | 2:48 | 2025-11-20 |  |
 | [雨が満ちれば](https://open.spotify.com/track/33sCZggMbJ7IjWYjxsB19c) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [雨が満ちれば](https://open.spotify.com/album/2nJ8dJi5bCeqVKlz3d54k4) | 3:29 | 2025-01-17 | 2025-01-29 |
 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-02-01 | 2022-03-08 |
 | [霞草](https://open.spotify.com/track/5WciyPOjKYlhrLRH1DXaFb) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [Absence](https://open.spotify.com/album/7xxeWgLplIIBlArngZz3iu) | 4:04 | 2022-01-04 | 2022-02-02 |

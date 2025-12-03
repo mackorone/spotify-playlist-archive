@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-819 songs - 1 day 16 hr 57 min
+821 songs - 1 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,7 @@
 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 | 2023-07-11 | 2023-09-01 |
 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2) | 4:27 | 2025-02-06 | 2025-06-21 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-09 | 2024-03-14 |
-| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 | 2024-04-18 | 2025-05-08 |
+| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2024-04-18 |  |
 | [Ma quale idea](https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:22 | 2024-07-10 | 2024-09-12 |
 | [Mac of Kentucky \- Remix](https://open.spotify.com/track/1I3kc0antKgJUR1YtEZTaK) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Mac of Kentucky \(Remix\)](https://open.spotify.com/album/4WtawYvfpDLEeMAbZcrQG3) | 2:20 | 2025-10-09 |  |
 | [Macarena](https://open.spotify.com/track/0JCxROyTcCmn2NlmKozQBp) | [Stavros Martina](https://open.spotify.com/artist/17ynEC4GysdLM4R66FmghW) | [Macarena](https://open.spotify.com/album/15x23pLQyRifNSNESswpN0) | 2:22 | 2023-11-16 |  |
@@ -472,6 +472,7 @@
 | [Modeshow](https://open.spotify.com/track/1HGov7XAwy9vx6upqGvPEc) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Modeshow](https://open.spotify.com/album/2trIJlIWZRxD3jJsPiRBlE) | 2:27 | 2024-10-07 | 2025-05-08 |
 | [MOE](https://open.spotify.com/track/0BU7zlfb196ENQePTyROSm) | [Ruthless](https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s) | [MOE](https://open.spotify.com/album/3Vv2Qyr9KWPn7ACaAEEIi7) | 2:44 | 2024-07-03 | 2024-10-15 |
 | [Momenten Gekoesterd](https://open.spotify.com/track/4kO516FbjVKj67zX3Ymxhk) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Gevoelig Feestje](https://open.spotify.com/album/2It3C6VpmoUqbDxuyVyKpu) | 3:54 | 2023-10-12 | 2024-02-09 |
+| [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-12-02 |  |
 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 | 2023-05-04 | 2023-06-27 |
 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 | 2023-04-11 | 2023-05-08 |
 | [Money On My Mind](https://open.spotify.com/track/15HsdLcI9txtlLpsHBbEjn) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe\)](https://open.spotify.com/album/6oSJciY7B2HlZPJpyR9nOR) | 3:12 | 2024-04-18 | 2024-06-04 |
@@ -745,6 +746,7 @@
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-05-01 | 2023-05-26 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-05-08 | 2025-07-02 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-11 | 2024-04-19 |
+| [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 | 2025-12-02 |  |
 | [Upside Down](https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down](https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU) | 3:29 | 2024-10-01 | 2025-02-28 |
 | [use me!!!!!!!](https://open.spotify.com/track/73I3Tcfussd9QT9OY6dqSi) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/7KRiPA7S7cR3b6QZXePL91) | 2:04 | 2025-11-03 | 2025-12-02 |
 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2024-09-06 | 2025-03-06 |

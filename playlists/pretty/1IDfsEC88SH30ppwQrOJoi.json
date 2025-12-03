@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14207,
+  "num_followers": 14203,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAK+HbT7YIiGVFUESeK+nxiTqVHm/eC",
+  "snapshot_id": "AAAK+dwmxIVlQO4W93p94Xq3tN364mRV",
   "tracks": [
     {
       "added_at": "2025-06-10 12:37:11",
@@ -1735,6 +1735,26 @@
       "duration_ms": 188571,
       "name": "Oye Mami",
       "url": "https://open.spotify.com/track/33ZccZTSHr3BNhswjoaZGI"
+    },
+    {
+      "added_at": "2025-12-02 21:03:43",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/3UA4zhPsqRHungaY4m9hp3"
+      },
+      "artists": [
+        {
+          "name": "Boris Way",
+          "url": "https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis"
+        },
+        {
+          "name": "Zans",
+          "url": "https://open.spotify.com/artist/6D7wW45mKNEFhf4vkXv79x"
+        }
+      ],
+      "duration_ms": 158570,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0lxaE62v5sW1FtSfN3qFGd"
     }
   ],
   "unique_name": "Ultra Club Hits",

@@ -4695,6 +4695,24 @@
     },
     {
       "album": {
+        "name": "\u3069\u308a\u30fc\u3080\u3082\u30fc\u3069",
+        "url": "https://open.spotify.com/album/7d8L9iI25zwgdxfXrEFpRx"
+      },
+      "artists": [
+        {
+          "name": "Atena",
+          "url": "https://open.spotify.com/artist/5vJxDR4n9HuNyEqOxv4PzS"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140597,
+      "name": "\u3069\u308a\u30fc\u3080\u3082\u30fc\u3069",
+      "url": "https://open.spotify.com/track/0FmRL2BZ1Iv5VYlbi2zMZO"
+    },
+    {
+      "album": {
         "name": "BRAVERLIZE",
         "url": "https://open.spotify.com/album/5utcmoxSI4ISYqdbGTu0ND"
       },
@@ -6930,7 +6948,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 137746,
       "name": "\u30c6\u30ec\u30d1\u30b7",
       "url": "https://open.spotify.com/track/76kJA3LUe1uREGjlaOypkL"
@@ -8354,7 +8372,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 171400,
       "name": "\u30de\u30b7\u30e5\u30de\u30ed",
       "url": "https://open.spotify.com/track/5xHiOqr0nATQdZYVGUO9iW"
@@ -8462,7 +8480,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 138583,
       "name": "\u30de\u30ea\u30aa\u30cd\u30c3\u30c8\u30c0\u30f3\u30b5\u30fc",
       "url": "https://open.spotify.com/track/6ipfY4NbzUNNTzvntTKVK4"
@@ -11318,7 +11336,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 239999,
       "name": "\u71b1\u7570\u5e38 (feat. \u8db3\u7acb\u30ec\u30a4)",
       "url": "https://open.spotify.com/track/7zlsqQxGfiWIkctQDeTvmv"
@@ -11470,6 +11488,32 @@
       "duration_ms": 174053,
       "name": "\u767e\u500d\u8fd4\u3057",
       "url": "https://open.spotify.com/track/2Y27T6eJuQgu32Hvr8Y4k9"
+    },
+    {
+      "album": {
+        "name": "\u76ee\u6483\uff01\u30c6\u30c831\u4e16 (feat. \u91cd\u97f3\u30c6\u30c8 & \u96e8\u8863)",
+        "url": "https://open.spotify.com/album/1ucimndIy6wDPsS3r2IZKY"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u308d\u3051\u308b",
+          "url": "https://open.spotify.com/artist/0ylNiGoYUvxyWdDXthEDhF"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        },
+        {
+          "name": "\u96e8\u8863",
+          "url": "https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141871,
+      "name": "\u76ee\u6483\uff01\u30c6\u30c831\u4e16 (feat. \u91cd\u97f3\u30c6\u30c8 & \u96e8\u8863)",
+      "url": "https://open.spotify.com/track/7996vwXg0kRNxpIfa4zNEm"
     },
     {
       "album": {

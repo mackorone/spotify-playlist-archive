@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 279248,
+  "num_followers": 279259,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-11-07 18:48:09",
       "album": {
+        "name": "Romance Desapegado",
+        "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
+      },
+      "artists": [
+        {
+          "name": "Japinha Conde",
+          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "Romance Desapegado",
+      "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
+    },
+    {
+      "added_at": "2025-11-07 18:48:09",
+      "album": {
         "name": "Solange Almeida 50/50 Ao Vivo em Fortaleza Deluxe",
         "url": "https://open.spotify.com/album/2bFebA9Rb9o1t6e1jJJt8m"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 225497,
       "name": "Se quiser \u00e9 assim - Ao Vivo",
       "url": "https://open.spotify.com/track/4eIz5tYOpqUrZiCxTm1ZAa"
-    },
-    {
-      "added_at": "2025-11-07 18:48:09",
-      "album": {
-        "name": "Romance Desapegado",
-        "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
-      },
-      "artists": [
-        {
-          "name": "Japinha Conde",
-          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "Romance Desapegado",
-      "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
     },
     {
       "added_at": "2025-11-07 18:48:09",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-11-07 18:48:09",
       "album": {
-        "name": "Agora Estou Sofrendo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2cjxqUYoTchRHLYeoWGJW8"
-      },
-      "artists": [
-        {
-          "name": "Calcinha Preta",
-          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 258968,
-      "name": "Agora Estou Sofrendo",
-      "url": "https://open.spotify.com/track/18EfjSH1r9Jf6vx52eby5c"
-    },
-    {
-      "added_at": "2025-11-07 18:48:09",
-      "album": {
         "name": "Ele N\u00e3o Tem",
         "url": "https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 212192,
       "name": "Ele N\u00e3o Tem",
       "url": "https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD"
+    },
+    {
+      "added_at": "2025-11-07 18:48:09",
+      "album": {
+        "name": "Agora Estou Sofrendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2cjxqUYoTchRHLYeoWGJW8"
+      },
+      "artists": [
+        {
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 258968,
+      "name": "Agora Estou Sofrendo",
+      "url": "https://open.spotify.com/track/18EfjSH1r9Jf6vx52eby5c"
     },
     {
       "added_at": "2025-11-07 18:48:09",

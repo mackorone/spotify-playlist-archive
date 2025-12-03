@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "juniper",
+        "url": "https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw"
+      },
+      "artists": [
+        {
+          "name": "Nathan Etes",
+          "url": "https://open.spotify.com/artist/11WVY9LG4XWkOptquaXJ71"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165599,
+      "name": "don't know better",
+      "url": "https://open.spotify.com/track/6OPNg2fvD1f2HIPj4Tfh7x"
+    },
+    {
+      "album": {
         "name": "Don't Look Down",
         "url": "https://open.spotify.com/album/2LD7xfQB1uIHkluQfz7mJH"
       },

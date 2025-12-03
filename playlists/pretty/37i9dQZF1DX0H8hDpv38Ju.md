@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,387 likes - 40 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,452 likes - 40 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 16 | [On My Own](https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Winner In You](https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN) | 4:50 |
 | 17 | [If It Isn't Love](https://open.spotify.com/track/7JmPqImeW3kLoYVNBA9v11) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 5:09 |
 | 18 | [So Emotional](https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:37 |
-| 19 | [Oh Sheila](https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG) | [Ready For The World](https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV) | [Ready For The World](https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg) | 4:00 |
-| 20 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
+| 19 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
+| 20 | [Oh Sheila](https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG) | [Ready For The World](https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV) | [Ready For The World](https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg) | 4:00 |
 | 21 | [Tell Me If You Still Care](https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [On The Rise](https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb) | 6:56 |
 | 22 | [Never Knew Love Like This Before](https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [The Best Of Stephanie Mills](https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO) | 5:25 |
 | 23 | [Casanova](https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb) | [Levert](https://open.spotify.com/artist/6E4Qe7pd7cwxRCwINyELaL) | [The Best of Gerald Levert](https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82) | 4:22 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 37 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 |
 | 38 | [I Want Her](https://open.spotify.com/track/24gxdUxufJ5eSamdYcPAKH) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [The Best of Keith Sweat: Make You Sweat](https://open.spotify.com/album/6GXk2hxl4q5GoPHarlUet8) | 3:41 |
 | 39 | [Juicy Fruit](https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:32 |
-| 40 | [Feel the Fire](https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 5:32 |
+| 40 | [Object of My Desire](https://open.spotify.com/track/63Ql2zSLiBryLRPihaUToK) | [Starpoint](https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3) | [Restless](https://open.spotify.com/album/1RuIZ3XuB6TFN11ApV2tgG) | 5:06 |
 
 Snapshot ID: `AAAAAO65Krii3Z3g5aKk4Q2ZXyayXft/`

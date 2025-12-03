@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8804,
+  "num_followers": 8805,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAABGhP4i4BS7Cz+VN1ZLuay8",
+  "snapshot_id": "aSzagAAAAACV8A/jNPwmL1talbKaE5ZU",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FENGSHUI",
-        "url": "https://open.spotify.com/album/4GyPYw8WpzPg3ZB9Daieyh"
-      },
-      "artists": [
-        {
-          "name": "Maximiliano Calvo",
-          "url": "https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 162883,
-      "name": "FENGSHUI",
-      "url": "https://open.spotify.com/track/164CZjnTexbOglCCrao8jo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras La Ciudad Descansa con Jacinto (Re-versi\u00f3n)",
         "url": "https://open.spotify.com/album/5UHRl6swmNo1VhOB2CKQdr"
       },
@@ -271,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152560,
-      "name": "Dame Chance (Rayuela)",
-      "url": "https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cielo en la Tierra",
         "url": "https://open.spotify.com/album/3CvUhTtF9TjUDjPGkeCfb6"
       },
@@ -303,6 +267,42 @@
       "duration_ms": 230000,
       "name": "Cielo en la Tierra",
       "url": "https://open.spotify.com/track/38aJ2Or9JcdyWEYpgtm4BL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152560,
+      "name": "Dame Chance (Rayuela)",
+      "url": "https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FENGSHUI",
+        "url": "https://open.spotify.com/album/4GyPYw8WpzPg3ZB9Daieyh"
+      },
+      "artists": [
+        {
+          "name": "Maximiliano Calvo",
+          "url": "https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 162883,
+      "name": "FENGSHUI",
+      "url": "https://open.spotify.com/track/164CZjnTexbOglCCrao8jo"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecto",
-        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152050,
-      "name": "Perfecto",
-      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiki Tai",
         "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 152316,
       "name": "Tiki Tai",
       "url": "https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfecto",
+        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152050,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AHORA O NUNCA",
-        "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 156448,
-      "name": "AHORA O NUNCA",
-      "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alta Joya",
         "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 201200,
       "name": "Alta Joya",
       "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AHORA O NUNCA",
+        "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 156448,
+      "name": "AHORA O NUNCA",
+      "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
     },
     {
       "added_at": null,

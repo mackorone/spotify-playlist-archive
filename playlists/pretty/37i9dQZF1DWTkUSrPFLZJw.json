@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 19181,
+  "num_followers": 19197,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,26 @@
     {
       "added_at": "2025-11-28 00:01:23",
       "album": {
+        "name": "BALANCE (with Lasmid)",
+        "url": "https://open.spotify.com/album/7pSHlYExOSYZf0g67YUmED"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 166291,
+      "name": "BALANCE (with Lasmid)",
+      "url": "https://open.spotify.com/track/4yVprPvNUGc840gsCWcvOq"
+    },
+    {
+      "added_at": "2025-11-28 00:01:23",
+      "album": {
         "name": "Wonda Boy",
         "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
-    },
-    {
-      "added_at": "2025-11-28 00:01:23",
-      "album": {
-        "name": "Likor (feat. Stonebwoy)",
-        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Likor (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
     }
   ],
   "unique_name": "Soloku ",

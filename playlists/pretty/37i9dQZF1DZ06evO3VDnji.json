@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 74956,
+  "num_followers": 74965,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAABxsmslzAP9kUA+X6eex2Ez",
+  "snapshot_id": "aSzagAAAAACtBB0MB3lECSuB8wNyaJMd",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00c1JARO AZUL",
-        "url": "https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 199421,
-      "name": "rompo esquemas",
-      "url": "https://open.spotify.com/track/3YQBN90z1f6cpYANeWPdWT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KATY PERRY (feat. Sheeno)",
         "url": "https://open.spotify.com/album/3YSe6mMaoDQivChU76JHlh"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 155909,
       "name": "KATY PERRY (feat. Sheeno)",
       "url": "https://open.spotify.com/track/0Xe7TQSVYiVaEDp5wowgsa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00c1JARO AZUL",
+        "url": "https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 199421,
+      "name": "rompo esquemas",
+      "url": "https://open.spotify.com/track/3YQBN90z1f6cpYANeWPdWT"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Nuestro Pasado",
+      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PORTATE BIEN",
         "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 205565,
       "name": "BALENCIAGA",
       "url": "https://open.spotify.com/track/7neUFP4lHE6KBnc1saodk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 310500,
-      "name": "Viaje de Amor",
-      "url": "https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Nuestro Pasado",
-      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
+      "duration_ms": 310500,
+      "name": "Viaje de Amor",
+      "url": "https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM"
     },
     {
       "added_at": null,

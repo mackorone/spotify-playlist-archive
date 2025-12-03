@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Jhené Aiko, Sonder, Summer Walker and more
+> With Jhené Aiko, Sonder, Frank Ocean and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,776 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,899 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

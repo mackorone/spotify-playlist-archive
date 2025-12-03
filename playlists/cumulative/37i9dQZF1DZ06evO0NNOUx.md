@@ -4,7 +4,7 @@
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 44 min
+79 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Summer Love](https://open.spotify.com/track/3u0EAF4zydCzw5wKFFqJdD) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 3:40 | 2025-04-09 | 2025-05-13 |
 | [SUNRISE](https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SUNRISE](https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg) | 2:36 | 2025-04-09 |  |
 | [Thank You](https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod) | 2:24 | 2025-04-09 |  |
+| [THE PRESENT](https://open.spotify.com/track/2nNP5SBmelGS7G59JjGHBQ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THE PRESENT](https://open.spotify.com/album/1KVOQw2QpKnP1tTNDXsL51) | 3:03 | 2025-12-03 |  |
 | [THE ROCK](https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [THE ROCK](https://open.spotify.com/album/3Sl6E162SNTBOZymtjRTKD) | 2:48 | 2025-08-24 |  |
 | [THROUGH THE NIGHT](https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 2:44 | 2025-09-20 |  |
 | [UP!](https://open.spotify.com/track/1Bgj8C4oHOR5M3wuzb6Mmq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 2:16 | 2025-04-09 |  |

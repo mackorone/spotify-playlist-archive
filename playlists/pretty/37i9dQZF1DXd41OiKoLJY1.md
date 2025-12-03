@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Sam Cruz Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,743 likes - 249 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,747 likes - 249 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 34 | [IDWSYL](https://open.spotify.com/track/4svI1Gq5Joy3mHZWT5oFd3) | [David Reyeg](https://open.spotify.com/artist/7pPE24PhuMIGLY93OqXy0a) | [IDWSYL](https://open.spotify.com/album/10rZcdoYNmEih5vfJQ9wg9) | 3:28 |
 | 35 | [Pretty Girls on the Run](https://open.spotify.com/track/7a1dEhhi7qQTCLtffaQrwx) | [AEUNA](https://open.spotify.com/artist/1w922m1J6GxqQsH7IdLO1Y) | [Pretty Girls on the Run](https://open.spotify.com/album/2pGP0eL5owjxyrvHmb3u0Y) | 3:01 |
 | 36 | [Moshpit](https://open.spotify.com/track/7aWuvAJoPMIuA6ibWCQgKN) | [Novocrane](https://open.spotify.com/artist/3G4EbmaEUiibM9xzQ0XmgZ) | [Moshpit](https://open.spotify.com/album/3yQWMSURP9psoQdSBqIQPO) | 2:10 |
-| 37 | [Makating Palabas](https://open.spotify.com/track/11rrSniAp6j00MyN4xPcWU) | [Sano Gz](https://open.spotify.com/artist/3qhcJVDhrlWf6K0r5UA6qd) | [Makating Palabas](https://open.spotify.com/album/0mOIE74KtuBsmLSRA3R25X) | 4:05 |
+| 37 | [Makating Palabas](https://open.spotify.com/track/11rrSniAp6j00MyN4xPcWU) | [sanopoppa](https://open.spotify.com/artist/4Dfab0fIZoC5Ww0Ld1rbJN) | [Makating Palabas](https://open.spotify.com/album/0mOIE74KtuBsmLSRA3R25X) | 4:05 |
 | 38 | [DESERT](https://open.spotify.com/track/3my3X3bGG7pnowiOnleCLP) | [Chrissy MNL](https://open.spotify.com/artist/34h0dIzdxL9iTs9zLXgEMP) | [DESERT](https://open.spotify.com/album/4NnlF151n686oVPHDYWhAG) | 2:56 |
 | 39 | [Langga](https://open.spotify.com/track/3x8BunsZvkFIU26NOceS5Y) | [Brandon Kail](https://open.spotify.com/artist/5qtaCawWuhPeW3GlHErpgt) | [Langga](https://open.spotify.com/album/7pbjGgkwVROo0WiBP7T4dQ) | 5:07 |
 | 40 | [Tahan Na](https://open.spotify.com/track/6zUFc20M6I6DVpn94wtneS) | [Ellie Poliver](https://open.spotify.com/artist/2B34tfg78RDr7pThpdIcKG) | [Tahan Na](https://open.spotify.com/album/7wwwCvVDS7X3DDxiEUcGUT) | 5:21 |
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 109 | [Nabighani](https://open.spotify.com/track/1eCbOWZgBUy2TTGP4PyNLB) | [Dear Dina](https://open.spotify.com/artist/1VVA9fsEL0eS31dKBgbVFQ) | [Nabighani](https://open.spotify.com/album/0IbThcfw975TKmbyZstYsa) | 3:42 |
 | 110 | [MISS KO, NAMIMISS KA](https://open.spotify.com/track/3Ql1l604gDd9BiFquoJOka) | [Saint Bino](https://open.spotify.com/artist/2SxlcU4oJ9sl2uh7n5FEIY) | [MISS KO, NAMIMISS KA](https://open.spotify.com/album/5z6lJBHhm3y9b6f2xVwPNK) | 1:40 |
 | 111 | [ALTAR](https://open.spotify.com/track/3LPmad9tobhwl9xneJkuVC) | [BLUE BANDANA](https://open.spotify.com/artist/1yTVYN3sXOBXmXWqXvgWSA), [Mac.C](https://open.spotify.com/artist/7zkFdFNwKnH4A0bp5VTsnI) | [ALTAR](https://open.spotify.com/album/5wH8aHueryWLqms5ScQz5n) | 3:03 |
-| 112 | [INLUV](https://open.spotify.com/track/4UhK5m9czteUZbK5bmqL1V) | [Sano Gz](https://open.spotify.com/artist/3qhcJVDhrlWf6K0r5UA6qd), [StopBeingSoSillyMilly](https://open.spotify.com/artist/0TFyv3tPaLHaE3miASDero) | [INLUV](https://open.spotify.com/album/2sNfJQSURwCfEkDmnn7eFl) | 2:56 |
+| 112 | [INLUV](https://open.spotify.com/track/4UhK5m9czteUZbK5bmqL1V) | [sanopoppa](https://open.spotify.com/artist/4Dfab0fIZoC5Ww0Ld1rbJN), [StopBeingSoSillyMilly](https://open.spotify.com/artist/0TFyv3tPaLHaE3miASDero) | [INLUV](https://open.spotify.com/album/2sNfJQSURwCfEkDmnn7eFl) | 2:56 |
 | 113 | [SOS](https://open.spotify.com/track/7oysfQr4Y8x0kJAwynRVPf) | [Vince Noriega](https://open.spotify.com/artist/1dUYa3FKkH6WMCTSJJnl57) | [SOS](https://open.spotify.com/album/3T9FeJKBGDOAFz68O9qEzz) | 2:41 |
 | 114 | [Lifesaver](https://open.spotify.com/track/1qlq5fywuYPEKFZZup7Vig) | [L!FE](https://open.spotify.com/artist/1qasRfipyyyAbCsY7ZTg7C) | [Lifesaver](https://open.spotify.com/album/2BVdVEXmry8Hofu3Qw3KQk) | 2:27 |
 | 115 | [Sinag](https://open.spotify.com/track/1RLKlaju2vhIxUtmpHqtZI) | [Fiona](https://open.spotify.com/artist/7aaKifjBXzHbNDHSbY0SUT) | [Sinag](https://open.spotify.com/album/75WKM8oTcnZ3LLCsJidoU0) | 4:13 |
@@ -192,7 +192,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 182 | [Forever Is a Foreign Concept](https://open.spotify.com/track/45RPEoJXRvYGJ93D1CqCo1) | [Jeorgia Therese](https://open.spotify.com/artist/2LOBk5ZKBV2GhBzHrzF1RP) | [Forever Is a Foreign Concept](https://open.spotify.com/album/4KpoV4oB2kljX1P4gQo8ad) | 3:21 |
 | 183 | [Nang Dahil Sa Pag Ibig](https://open.spotify.com/track/0x3Q5lTownsfyN8F4G1CWk) | [Pauline Anne](https://open.spotify.com/artist/4n5v9PHXMujNYfl8gcMyGo) | [Nang Dahil Sa Pag Ibig](https://open.spotify.com/album/39eQsfWmHTaMESI3IbXlfZ) | 3:28 |
 | 184 | [lungs](https://open.spotify.com/track/1hBH6b5tTZAGPcerJKOcsf) | [izzy mariano](https://open.spotify.com/artist/1TC8lQaC63mXEXArQWLScf) | [lungs](https://open.spotify.com/album/0FvSjfCHtavppOoMJmwlXR) | 2:44 |
-| 185 | [Trapstah](https://open.spotify.com/track/3FUnl8bB7L8wgH47Nut1lf) | [Sano Gz](https://open.spotify.com/artist/3qhcJVDhrlWf6K0r5UA6qd) | [Trapstah](https://open.spotify.com/album/70LYKxjVyYximHHPrTm6nc) | 2:43 |
+| 185 | [Trapstah](https://open.spotify.com/track/3FUnl8bB7L8wgH47Nut1lf) | [sanopoppa](https://open.spotify.com/artist/4Dfab0fIZoC5Ww0Ld1rbJN) | [Trapstah](https://open.spotify.com/album/70LYKxjVyYximHHPrTm6nc) | 2:43 |
 | 186 | [Slow](https://open.spotify.com/track/2MPJGEz5WKQMer6DkrjNOq) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Slow](https://open.spotify.com/album/5Z1yltvdshCfQ45ajrFfvZ) | 3:50 |
 | 187 | [Flutter, Lover](https://open.spotify.com/track/6AYJlGQ240PFVx1PbRFWSz) | [NINO](https://open.spotify.com/artist/0KiWkyLZBSPTYLpQ61vlC1) | [Flutter, Lover](https://open.spotify.com/album/4OmWcopCbl13TyYfRTzJkt) | 3:23 |
 | 188 | [WEDNESDAY](https://open.spotify.com/track/60jv5ISZkY4VV841No6t2J) | [Chappled](https://open.spotify.com/artist/4Wa9f3I4fwE0MpUj4J9gaW) | [WEDNESDAY](https://open.spotify.com/album/69XrMOgv2vgdTJrh6tOu94) | 2:34 |

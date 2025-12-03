@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,187 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,251 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 32 | [Scared](https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Twenty Something](https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh) | 2:38 |
 | 33 | [a light in me](https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [a light in me](https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU) | 3:11 |
 | 34 | [Walk Through Fire](https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:13 |
-| 35 | [God's Child](https://open.spotify.com/track/0dqYf9C9WienGmhkUUmlR7) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [God's Child](https://open.spotify.com/album/6TlEnEiD85bX9bPyjPX1aR) | 3:16 |
-| 36 | [I Still Believe](https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [I Still Believe](https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub) | 3:12 |
+| 35 | [I Still Believe](https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [I Still Believe](https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub) | 3:12 |
+| 36 | [God's Child](https://open.spotify.com/track/0dqYf9C9WienGmhkUUmlR7) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [God's Child](https://open.spotify.com/album/6TlEnEiD85bX9bPyjPX1aR) | 3:16 |
 | 37 | [Shackles \(Praise You\)](https://open.spotify.com/track/7BS27vWbRTmCkSEpeFZRRy) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J), [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Shackles \(Praise You\)](https://open.spotify.com/album/3MV9tnmk8JZGXMhNg5rx7m) | 2:38 |
 | 38 | [dopamine](https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [dopamine](https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE) | 2:02 |
 | 39 | [OOWEE](https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [OOWEE](https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6) | 2:28 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 64 | [give & take](https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [give & take](https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC) | 3:26 |
 | 65 | [Again And Again](https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Again And Again](https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn) | 3:09 |
 | 66 | [Move](https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Summer '24](https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt) | 2:18 |
-| 67 | [Always Summertime](https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Always Summertime](https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ) | 2:30 |
-| 68 | [The Heat](https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [The Heat](https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt) | 3:33 |
+| 67 | [The Heat](https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [The Heat](https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt) | 3:33 |
+| 68 | [Always Summertime](https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Always Summertime](https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ) | 2:30 |
 | 69 | [Everything\_](https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq) | [Jon](https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q) | [Everything\_](https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1) | 3:51 |
 | 70 | [I'd Be Lying](https://open.spotify.com/track/5gSSBeFZLEnvoXMYVIiCzK) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I'd Be Lying](https://open.spotify.com/album/1Nx3COSHouV525o3E16uTZ) | 2:34 |
 | 71 | [Drive](https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Drive](https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ) | 3:13 |

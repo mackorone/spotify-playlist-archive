@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 144498,
       "name": "20250327",
       "url": "https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ"
@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 138913,
       "name": "Cross the Bridge",
       "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
@@ -3028,6 +3028,24 @@
       "duration_ms": 199363,
       "name": "Dance",
       "url": "https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n"
+    },
+    {
+      "album": {
+        "name": "Dawn Breaks",
+        "url": "https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118750,
+      "name": "Dawn Breaks",
+      "url": "https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ"
     },
     {
       "album": {
@@ -12092,6 +12110,28 @@
       "duration_ms": 129406,
       "name": "Skylight",
       "url": "https://open.spotify.com/track/3bBTY2QAtEHHRUB34mM44q"
+    },
+    {
+      "album": {
+        "name": "Sleep Machine",
+        "url": "https://open.spotify.com/album/6nzWq6ajLDp6wysZhj06Ft"
+      },
+      "artists": [
+        {
+          "name": "HALFBY",
+          "url": "https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7"
+        },
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370389,
+      "name": "Sleep Machine",
+      "url": "https://open.spotify.com/track/3SwcwEQo0mIF2ZByCJCC7f"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,703 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,706 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 46 | [Raghupati](https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Raghupati](https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW) | 5:04 |
 | 47 | [Yaman Kalyan](https://open.spotify.com/track/4gUjvoi9Xt9uJTMfdBBdz4) | [Ustad Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Ustad Rais Khan](https://open.spotify.com/artist/4njub7O9Nw269MV3c7YCtr) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 4:20 |
 | 48 | [Dreaming Sitar \- Original Mix](https://open.spotify.com/track/0CwcCMYR8AkoQHYLKCIe2D) | [Kaustav Majumder](https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn) | [Morning Sitar Peace](https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr) | 1:57 |
-| 49 | [Mishra Bhairavi](https://open.spotify.com/track/3CfJDWDtfw2IPeVxplplbK) | [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS), [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 5:53 |
+| 49 | [Mishra Bhairavi](https://open.spotify.com/track/3CfJDWDtfw2IPeVxplplbK) | [Ustad Vilayat Khan](https://open.spotify.com/artist/1g7sP2AgbNmuDUD3qj7LVV), [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 5:53 |
 | 50 | [Creation](https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar Eternal Circle](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 3:47 |
 
 Snapshot ID: `AAAAAAC57FXaddC6iJWE2/JVArXMg5yY`

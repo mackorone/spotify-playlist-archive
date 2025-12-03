@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar
 
-443 songs - 1 day 3 hr 29 min
+444 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Garudan](https://open.spotify.com/track/318OnS3kkEgC8PIY9oWbFz) | [Noidsensi](https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K) | [Garudan](https://open.spotify.com/album/66GY7yGX2gE7qEYCywJfpF) | 2:17 | 2025-03-17 | 2025-05-10 |
 | [Giddh](https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Giddh](https://open.spotify.com/album/3xfYCwy48NZw4dKdmDURiO) | 4:18 | 2023-08-30 | 2025-01-14 |
 | [Gold](https://open.spotify.com/track/0pRYDrfGfJEiixN64WNpvj) | [DJSHA](https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu), [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa) | [Gold](https://open.spotify.com/album/0PK5jkjXKLiMS7U2fmWft0) | 3:02 | 2025-08-06 |  |
-| [Goli Soda](https://open.spotify.com/track/2tjdeqB1fzTqBi7wr3MU0W) | [Distosapien](https://open.spotify.com/artist/5TZ2tQ6CELFvCUOUe4r8At) | [Goli Soda](https://open.spotify.com/album/74sWQL65tl7NuZhGDUDRUQ) | 1:00 | 2025-11-03 |  |
+| [Goli Soda](https://open.spotify.com/track/2tjdeqB1fzTqBi7wr3MU0W) | [Distosapien](https://open.spotify.com/artist/5TZ2tQ6CELFvCUOUe4r8At) | [Goli Soda](https://open.spotify.com/album/74sWQL65tl7NuZhGDUDRUQ) | 1:00 | 2025-11-03 | 2025-12-03 |
 | [Gopa Trance](https://open.spotify.com/track/2U2YHuFB8kYdmYzOp2FHg5) | [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Gopa Trance](https://open.spotify.com/album/3nSlJ9VWwpcX66QgFjSZNe) | 2:42 | 2023-09-29 | 2024-02-19 |
 | [Green Bean](https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi) | [Jatayu](https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 2:31 | 2023-08-05 | 2024-02-19 |
 | [Gulab Jamun](https://open.spotify.com/track/2zlllmweB5NqNGv06OEguE) | [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q), [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0) | [Gulab Jamun](https://open.spotify.com/album/0y82u4WJxCP9qrZbcCK4wB) | 2:06 | 2025-07-07 | 2025-08-20 |
@@ -211,6 +211,7 @@
 | [Maamalanaadu](https://open.spotify.com/track/197oOjgQJDxkz5OHf7pXxu) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS), [Rajeesh K Chandu](https://open.spotify.com/artist/6qbLwov3SHUSEiFf9qXzEH) | [Maamalanaadu](https://open.spotify.com/album/4MrIfWdlrgZ7cuVLX5MHxY) | 4:18 | 2025-05-06 |  |
 | [Maanju Poyi](https://open.spotify.com/track/0FziXBnfNclTU9uPFVU0q7) | [Entercone](https://open.spotify.com/artist/31IIGfZnnpIWzVph2zKGkG) | [Maanju Poyi](https://open.spotify.com/album/1wLrzYfialQYyTw6vAxFu6) | 4:33 | 2023-08-23 | 2024-02-19 |
 | [Maarane Thedum](https://open.spotify.com/track/6lILC3jFNhreDnjdq4xwZs) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Abhijith Damodaran](https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd) | [Maarane Thedum](https://open.spotify.com/album/5oya1Gh8pERbBLf9BYG5l7) | 2:54 | 2023-06-22 | 2023-07-28 |
+| [Maarum/Usad](https://open.spotify.com/track/1qQyV4DolyFD7uUwKJw9NG) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Munimuni](https://open.spotify.com/artist/4eKq7eArL96wSQjaaMg9Ic) | [Maarum/Usad](https://open.spotify.com/album/2gVigDs1bVukxNjA8aAP0v) | 3:41 | 2025-12-02 |  |
 | [Maatamunde \- From Saina Indie Radar](https://open.spotify.com/track/4HjgXlTWe2wE110MP6LRbb) | [Izbulla](https://open.spotify.com/artist/5IHf6jLlH68bKTNecsXpZ6), [Kael Produced](https://open.spotify.com/artist/0WjHPYFnjOh4QzuFvyb6Ni) | [Maatamunde \(From Saina Indie Radar\)](https://open.spotify.com/album/1EFvYcQINTayiziBYqTC6v) | 2:53 | 2025-11-25 |  |
 | [Maayathe](https://open.spotify.com/track/6DvzSCwDEMFDfaetjKzIrn) | [MØNK](https://open.spotify.com/artist/71yVL9HsiAPlcJTwLbu1GG) | [Maayathe](https://open.spotify.com/album/2ZN2SSXM8N8DCHVVwFbR2Z) | 3:00 | 2025-07-18 | 2025-09-04 |
 | [Maayathe](https://open.spotify.com/track/6SpjFBJxr9sQAsFbrzgZBY) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Maayathe](https://open.spotify.com/album/74nUDFqqLysycZrqU8QLRn) | 2:38 | 2025-05-23 |  |

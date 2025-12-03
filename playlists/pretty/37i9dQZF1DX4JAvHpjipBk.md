@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ed Sheeran, Lil Uzi Vert, ILLIT, Lil Baby, Treaty Oak Revival, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,476,052 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,475,636 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

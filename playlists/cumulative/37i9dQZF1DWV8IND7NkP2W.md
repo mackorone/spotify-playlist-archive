@@ -4,14 +4,14 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-819 songs - 1 day 12 hr 59 min
+821 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 pm](https://open.spotify.com/track/1Hnd8zA1htyvgn0qoNhHzh) | [Hama](https://open.spotify.com/artist/2mkZla5mSMjsk6BRgWGOHr) | [10 pm](https://open.spotify.com/album/55w3aNDAyajf7yNTu8Wjdz) | 2:24 | 2021-12-23 | 2022-01-08 |
 | [1664](https://open.spotify.com/track/5gzGeAaYa6uTsJPpD4hFg9) | [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [Nations](https://open.spotify.com/album/7FlNrwZl4kdRCN2RaXu9Ur) | 1:17 | 2021-12-23 | 2022-05-12 |
 | [16:18](https://open.spotify.com/track/7kU0jsS0V9gEXjMWzcXWfv) | [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F) | [16:18](https://open.spotify.com/album/7zdPFHvktQKpNw0J1Aq95Z) | 3:17 | 2021-12-23 | 2023-01-20 |
-| [20250327](https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [20250327](https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC) | 2:24 | 2025-06-03 |  |
+| [20250327](https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [20250327](https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC) | 2:24 | 2025-06-03 | 2025-12-03 |
 | [24/7\(inst\)](https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8) | [shai](https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP) | [24/7\(inst\)](https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9) | 2:21 | 2024-12-14 | 2024-12-23 |
 | [2GI NO NA2](https://open.spotify.com/track/0rPEJjMxTD7oB3YZgc0Zbw) | [M%O](https://open.spotify.com/artist/0eH8CnTyhcebjiCNUVC3kT), [MURO](https://open.spotify.com/artist/29PJtOTZvqWkikYC5Lvpej), [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH) | [M%O](https://open.spotify.com/album/3w87AShsAbRv6SyIWJf2uG) | 2:19 | 2021-12-23 | 2022-07-28 |
 | [4 Ever](https://open.spotify.com/track/2F5KcNhhlUtXAALrC3AFx1) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [Kent](https://open.spotify.com/artist/1iELyiHmInYvRAXC502Vv7) | [Resynthesis \(Yellow\)](https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD) | 4:09 | 2022-02-17 |  |
@@ -156,7 +156,7 @@
 | [Cows In The Distance](https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Dissociation](https://open.spotify.com/album/6QLfHxAS5bmPCNAzfILoEy) | 1:56 | 2022-01-13 | 2025-01-21 |
 | [Cream Brule](https://open.spotify.com/track/1qjGH6vFN04hVzwBEy1880) | [Aru\-2](https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [Hot Pants](https://open.spotify.com/album/56iNspJ3bN66WkfpjOGF5v) | 3:54 | 2022-03-17 | 2022-06-22 |
 | [Cross the Bridge](https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH) | 2:18 | 2022-10-20 | 2024-04-19 |
-| [Cross the Bridge](https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt) | 2:18 | 2022-10-20 |  |
+| [Cross the Bridge](https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt) | 2:18 | 2022-10-20 | 2025-12-03 |
 | [Cruisin](https://open.spotify.com/track/1GZxk4b3eaucDlcaAAs8cJ) | [MeS The Funk](https://open.spotify.com/artist/6h2bl2LD56yaah3wzvLKRe) | [Cruisin](https://open.spotify.com/album/1OOt6UGoO3GI6lprfutvDO) | 3:45 | 2022-03-24 | 2022-09-15 |
 | [Crushing](https://open.spotify.com/track/7FHelgV9xeITVJjKwGUzOm) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Crushing](https://open.spotify.com/album/1Dge2M4uqmtw9v2z3Yy10S) | 3:34 | 2023-09-07 | 2023-09-22 |
 | [Cry In The Gaze \(about you\)](https://open.spotify.com/track/0hNmUYwnK8VzUEKnzXyA5P) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Cry In The Gaze \(about you\)](https://open.spotify.com/album/2D9JioL3U8aaTHP5c0qeqn) | 1:42 | 2023-08-15 | 2023-09-29 |
@@ -165,6 +165,7 @@
 | [Curtain Call](https://open.spotify.com/track/38XfPiYuoayjbUX9Q9qOzK) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Curtain Call](https://open.spotify.com/album/59TQxHntLy3yBkzajpmqdp) | 1:44 | 2021-12-23 | 2022-07-17 |
 | [D's Swing](https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D's Swing](https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj) | 3:38 | 2022-07-28 | 2022-11-18 |
 | [Dance](https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Dance](https://open.spotify.com/album/2x2cUyIuScLl3M7eVeeAdq) | 3:19 | 2023-09-26 |  |
+| [Dawn Breaks](https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Dawn Breaks](https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw) | 1:58 | 2025-12-02 |  |
 | [dawn of diego martin](https://open.spotify.com/track/0yedPe6bSN6TU4lvxApeqb) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [dawn of diego martin](https://open.spotify.com/album/3mfY09Oj9fEjPV4ckbZcSM) | 3:21 | 2021-12-23 | 2022-07-27 |
 | [DAY OFF](https://open.spotify.com/track/50O8IO9mY1fhlgB9iOnsxG) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [DAY OFF](https://open.spotify.com/album/5lWmKhQToRBkp4GXpPufKG) | 3:46 | 2021-12-23 | 2022-07-17 |
 | [daydream](https://open.spotify.com/track/0O7d31gAMyhY9QhxmR2OEK) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [daydream](https://open.spotify.com/album/4KfAM2THqC8b3Wjb0HTx6R) | 2:39 | 2021-12-23 | 2022-07-29 |
@@ -635,6 +636,7 @@
 | [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 | 2023-06-20 |  |
 | [Skip](https://open.spotify.com/track/34N17xMTier5nIm0ETF1xD) | [ROKA](https://open.spotify.com/artist/25ktRTbISZikR4xuLHT8qW) | [Late Night](https://open.spotify.com/album/6zmkMxBuSxAEC9Hm6vDNQi) | 3:00 | 2021-12-23 | 2022-04-19 |
 | [Skylight](https://open.spotify.com/track/3bBTY2QAtEHHRUB34mM44q) | [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi) | [Skylight](https://open.spotify.com/album/4XzwXAqKC43RXOtCJGkvfU) | 2:09 | 2022-01-13 | 2022-04-12 |
+| [Sleep Machine](https://open.spotify.com/track/3SwcwEQo0mIF2ZByCJCC7f) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sleep Machine](https://open.spotify.com/album/6nzWq6ajLDp6wysZhj06Ft) | 6:10 | 2025-12-02 |  |
 | [Sleep Walker](https://open.spotify.com/track/6SNlNFbDlx8sUNB7HwOSvO) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Sleep Walker](https://open.spotify.com/album/3yF1gRSDuuNphjWk2Ot6AE) | 2:42 | 2023-06-01 | 2025-10-31 |
 | [sleeping](https://open.spotify.com/track/6vLM2Mnx7TSprGz0sN5lsl) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [sleeping](https://open.spotify.com/album/4pt1aDvcYSMz2UIFpyLkTT) | 3:09 | 2021-12-23 | 2022-07-29 |
 | [Slice](https://open.spotify.com/track/7rwCEAFT5ffObK2pWxx3d7) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [Slice](https://open.spotify.com/album/6JKDszJZhXoXUptZLfeL9I) | 2:41 | 2022-01-13 | 2022-04-30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13549,
+  "num_followers": 13552,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAABqJnsbtZ9nwuQW40TfQwdg",
+  "snapshot_id": "aSzagAAAAABSb73+fs/qLTBZYWNC3LJD",
   "tracks": [
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 129427,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
         "url": "https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 242860,
       "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
       "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 129427,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disturbation 2",
-        "url": "https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 163801,
-      "name": "DND (feat. Sarkodie)",
-      "url": "https://open.spotify.com/track/5xR6EWpW9tAmIrzJ0Ba1SQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
       },
@@ -459,22 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
+        "name": "Disturbation 2",
+        "url": "https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I"
       },
       "artists": [
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 225349,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
+      "duration_ms": 163801,
+      "name": "DND (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/5xR6EWpW9tAmIrzJ0Ba1SQ"
     },
     {
       "added_at": null,
@@ -495,6 +475,26 @@
       "duration_ms": 267660,
       "name": "Lucky (feat. Rudeboy)",
       "url": "https://open.spotify.com/track/466oku5g8KzlaYGMGluENO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 225349,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
-        "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
       },
       "artists": [
         {
@@ -648,17 +648,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+          "name": "La M\u00eame Gang",
+          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
         }
       ],
-      "duration_ms": 195555,
-      "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
-      "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
+      "duration_ms": 183477,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
     },
     {
       "added_at": null,
@@ -683,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
+        "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
+        "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
       },
       "artists": [
         {
@@ -692,13 +688,37 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "La M\u00eame Gang",
-          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
         }
       ],
-      "duration_ms": 183477,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
+      "duration_ms": 195555,
+      "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
+      "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adonai (Remix)",
+        "url": "https://open.spotify.com/album/0K8AdVnV4Pf2gbUOSYeady"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/1NhHtG7W5ia2fqXRw5Sp5M"
+        }
+      ],
+      "duration_ms": 288130,
+      "name": "Adonai (Remix)",
+      "url": "https://open.spotify.com/track/4cEWZvR2wkb8aEB1vkTQDS"
     },
     {
       "added_at": null,
@@ -723,26 +743,6 @@
       "duration_ms": 253040,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adonai (Remix)",
-        "url": "https://open.spotify.com/album/0K8AdVnV4Pf2gbUOSYeady"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Castro",
-          "url": "https://open.spotify.com/artist/1NhHtG7W5ia2fqXRw5Sp5M"
-        }
-      ],
-      "duration_ms": 288130,
-      "name": "Adonai (Remix)",
-      "url": "https://open.spotify.com/track/4cEWZvR2wkb8aEB1vkTQDS"
     },
     {
       "added_at": null,

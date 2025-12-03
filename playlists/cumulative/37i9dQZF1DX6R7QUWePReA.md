@@ -2,9 +2,9 @@
 
 ### [Christmas Classics](https://open.spotify.com/playlist/37i9dQZF1DX6R7QUWePReA)
 
-> Timeless heart\-warming classics from 1940\- 1970 for the holiday season.
+> Timeless heart\-warming classics from 1940s\- 1970s for the holiday season.
 
-117 songs - 5 hr 47 min
+118 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [I'll Be Home For Christmas](https://open.spotify.com/track/3tTpegNWYZFhkymRT2xhgF) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas](https://open.spotify.com/album/14TY9gKgbCeJeezD8uGnD4) | 2:55 | 2021-12-25 |  |
 | [I'll Be Home For Christmas \- Single Version](https://open.spotify.com/track/4x9RxveiWUlDahke6MKvrt) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [This Christmas](https://open.spotify.com/album/7LH4zb9sqLr8hX3SzwkmDq) | 2:53 | 2022-10-23 | 2022-11-13 |
 | [I'll Be Home For Christmas \- Single Version](https://open.spotify.com/track/1fjOitI0vZ41P63p1MQLcc) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 2:57 | 2021-12-25 | 2024-04-19 |
+| [I'm Gonna Be Warm This Winter](https://open.spotify.com/track/3NxBGMa93ZWDuufUtH9HqJ) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Christmas In My Heart \(Expanded Edition\)](https://open.spotify.com/album/2jQQOtQEPL3QGdsTDrO8mu) | 2:24 | 2025-12-02 |  |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/1KIJSvzRZzo8ehDTPOXKru) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 3:11 | 2021-12-25 |  |
 | [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:35 | 2021-12-25 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:32 | 2021-12-25 |  |

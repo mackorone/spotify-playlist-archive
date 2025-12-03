@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-30",
-  "description": "Every song that's Trending NOW from Malayalam! \nCover: Lokah",
+  "description": "Every song that's Trending NOW from Malayalam! \nCover: Aashaan",
   "name": "Trending Now Malayalam",
   "tracks": [
     {
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 147750,
       "name": "MAUNA LOA",
       "url": "https://open.spotify.com/track/7gqmoEWBvt6srOCDgTMEHM"
@@ -2012,6 +2012,32 @@
       "duration_ms": 240875,
       "name": "Poothiri",
       "url": "https://open.spotify.com/track/6lO6phS09XKfyHv0DYzJw7"
+    },
+    {
+      "album": {
+        "name": "Premavathi (From \"Athi Bheekara Kaamukan\")",
+        "url": "https://open.spotify.com/album/4plpmnVB80U7b3s8GEfXh1"
+      },
+      "artists": [
+        {
+          "name": "Bibin Ashok",
+          "url": "https://open.spotify.com/artist/2r4835RasDrA3mvrZqYv1S"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Heykarthii",
+          "url": "https://open.spotify.com/artist/63kT97v7dkMndQKpF3KUmX"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193793,
+      "name": "Premavathi (From \"Athi Bheekara Kaamukan\")",
+      "url": "https://open.spotify.com/track/0Jlmr7efWQohCXskgCCHZl"
     },
     {
       "album": {

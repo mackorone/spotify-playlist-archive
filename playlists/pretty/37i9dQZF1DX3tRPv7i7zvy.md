@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 
 > We Outsideeeee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,745 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,768 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 54 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 |
 | 55 | [Ruwa](https://open.spotify.com/track/54y06gXWPYQHxrgJU5CsYb) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Ruwa](https://open.spotify.com/album/6IMUdJjnOEELJxX7bir1CA) | 2:46 |
 | 56 | [Normally](https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Normally](https://open.spotify.com/album/416GBquOnS63wjc41I2aA8) | 3:55 |
-| 57 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 |
+| 57 | [BALANCE \(with Lasmid\)](https://open.spotify.com/track/4yVprPvNUGc840gsCWcvOq) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [BALANCE \(with Lasmid\)](https://open.spotify.com/album/7pSHlYExOSYZf0g67YUmED) | 2:46 |
 | 58 | [Olivia](https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Olivia](https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm) | 3:05 |
-| 59 | [Favourite Story](https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Favourite Story](https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC) | 3:56 |
-| 60 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 |
+| 59 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 |
+| 60 | [Favourite Story](https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Favourite Story](https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC) | 3:56 |
 
 Snapshot ID: `AAAAAPvxGTFEEFUaDUlM6yCOj08FVEkG`

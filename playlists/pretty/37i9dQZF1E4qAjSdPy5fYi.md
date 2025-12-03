@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With STYXVII, UrvTek, Joshua Lanuarii and more
+> With STYXVII, UrvTek, Learke and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 633 likes - 50 songs - 2 hr 11 min
 

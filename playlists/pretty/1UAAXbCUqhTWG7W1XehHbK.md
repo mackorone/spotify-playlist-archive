@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 587 likes - 134 songs - 7 hr 52 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 587 likes - 136 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,5 +142,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 132 | [Cat](https://open.spotify.com/track/3F13JAmJpksrb4b6Yn9afI) | [Hz](https://open.spotify.com/artist/48r2ayMpyZLDfTEcOP1SDH) | [Cat](https://open.spotify.com/album/53NqTLQtljXFYJZlpgedwo) | 4:08 |
 | 133 | [The same old café](https://open.spotify.com/track/6iy0PiiR9SXohvgxYftqVN) | [no\-ne](https://open.spotify.com/artist/45s6knTSGIU7M3kaHSdLiy), [Pupille](https://open.spotify.com/artist/0Dn2cJkN3xEZT0m5QP6MCI) | [L'ambiguïté](https://open.spotify.com/album/6EgZJxDdJwYfEBdRYA9v2h) | 4:55 |
 | 134 | [GYPSY GIRL](https://open.spotify.com/track/6QJgtgwOBQRAm3rXI0fQ4f) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [GYPSY GIRL](https://open.spotify.com/album/4LwRyoHz6c7T5Hwj9f0lqS) | 3:13 |
+| 135 | [Come Out](https://open.spotify.com/track/4MePv6tLO4aFyFjkm1m1dc) | [This Is Love](https://open.spotify.com/artist/3T0I2xTHjHXFnGJJmvrkQw) | [Come Out](https://open.spotify.com/album/1pJioJgZeEVjsuuJvNVbyv) | 3:24 |
+| 136 | [Pygmalion](https://open.spotify.com/track/3q5iE5DGjm52i3KawsnbNe) | [SoliAres](https://open.spotify.com/artist/2y5fGjgsbruMPGTfrh2S7B) | [Pygmalion](https://open.spotify.com/album/4XRfovNWHvvqmBc8O3uXiI) | 3:18 |
 
-Snapshot ID: `AAADZB/BGZ+M2E3cSOZfHkMXJi6b+wOn`
+Snapshot ID: `AAADZm7d+0ciFxgVASj5GHeRCHqd2ibY`

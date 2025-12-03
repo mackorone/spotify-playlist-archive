@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Murta",
-  "num_followers": 52992,
+  "num_followers": 52994,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-11-28 00:00:07",
       "album": {
-        "name": "Farda",
-        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
-      },
-      "artists": [
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 189011,
-      "name": "Farda",
-      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
-    },
-    {
-      "added_at": "2025-11-28 00:00:07",
-      "album": {
         "name": "Bairrista de Luxo",
         "url": "https://open.spotify.com/album/1Pu5zlwPj47xao8R3EYydN"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2025-11-28 00:00:07",
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
+    },
+    {
+      "added_at": "2025-11-28 00:00:07",
+      "album": {
         "name": "Sei-te de Cor",
         "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-11-28 00:00:07",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
+        "name": "Farda",
+        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
+      "duration_ms": 189011,
+      "name": "Farda",
+      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
     },
     {
       "added_at": "2025-11-28 00:00:07",

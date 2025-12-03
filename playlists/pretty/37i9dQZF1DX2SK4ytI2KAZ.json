@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1488688,
+  "num_followers": 1488635,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
+        "name": "Gawk",
+        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Alien Blues",
+      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
-        "name": "Gawk",
-        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Alien Blues",
-      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
     },
     {
       "added_at": "2025-10-31 04:00:32",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "lost",
-        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 181737,
-      "name": "lost",
-      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 187973,
       "name": "Ready To Let Go",
       "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
+        "name": "lost",
+        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 181737,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
     },
     {
       "added_at": "2025-10-31 04:00:32",
@@ -935,18 +935,18 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq"
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
       },
       "artists": [
         {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 157027,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
     },
     {
       "added_at": "2025-10-31 04:00:32",
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq"
       },
       "artists": [
         {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
         }
       ],
-      "duration_ms": 251906,
-      "name": "Freakin' Out On the Interstate",
-      "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
+      "duration_ms": 157027,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
     },
     {
       "added_at": "2025-10-31 04:00:32",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "Lucky For You",
-        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        },
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
         "name": "Fauxllennium",
         "url": "https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1"
       },
@@ -1699,18 +1679,22 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "Flagstaff",
-        "url": "https://open.spotify.com/album/7bpAsA4g2GY2xZDXCOMRNM"
+        "name": "Lucky For You",
+        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
       },
       "artists": [
         {
-          "name": "Ax and the Hatchetmen",
-          "url": "https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9"
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        },
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
         }
       ],
-      "duration_ms": 167370,
-      "name": "Flagstaff",
-      "url": "https://open.spotify.com/track/0PXl1N2xmZxbayBQOljH4u"
+      "duration_ms": 175386,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
     },
     {
       "added_at": "2025-10-31 04:00:32",
@@ -1731,6 +1715,22 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
+        "name": "Flagstaff",
+        "url": "https://open.spotify.com/album/7bpAsA4g2GY2xZDXCOMRNM"
+      },
+      "artists": [
+        {
+          "name": "Ax and the Hatchetmen",
+          "url": "https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Flagstaff",
+      "url": "https://open.spotify.com/track/0PXl1N2xmZxbayBQOljH4u"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
         "name": "Kid",
         "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
       },
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 253698,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
         "name": "Sorry I'm Late, I Didn't Want To Come",
         "url": "https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 199760,
       "name": "Sorry I'm Late, I Didn't Want To Come",
       "url": "https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "duration_ms": 253698,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd"
     },
     {
       "added_at": "2025-10-31 04:00:32",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "All Your Life",
-        "url": "https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 196516,
-      "name": "All Your Life",
-      "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
         "name": "Where the Redwoods Meet the Sea",
         "url": "https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 197200,
       "name": "Memory",
       "url": "https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
+        "name": "All Your Life",
+        "url": "https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 196516,
+      "name": "All Your Life",
+      "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
     },
     {
       "added_at": "2025-10-31 04:00:32",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "run away girl",
-        "url": "https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 230552,
-      "name": "run away girl",
-      "url": "https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
         "name": "Asking For A Ride",
         "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 154098,
       "name": "Pages",
       "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
+        "name": "run away girl",
+        "url": "https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 230552,
+      "name": "run away girl",
+      "url": "https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj"
     },
     {
       "added_at": "2025-10-31 04:00:32",

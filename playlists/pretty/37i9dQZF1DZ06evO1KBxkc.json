@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 203105,
+  "num_followers": 203107,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAADSnLroSXpDUtYnZeo92AK7",
+  "snapshot_id": "aSzagAAAAAAWL3n5pqNujaj21A/x/k0S",
   "tracks": [
     {
       "added_at": null,
@@ -870,19 +870,11 @@
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 258158,
-      "name": "Beast Mode (feat. PnB Rock & YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/1AH60dMaEfNjzDoUIFwIQi"
+      "duration_ms": 214853,
+      "name": "Say A'",
+      "url": "https://open.spotify.com/track/3AMnOVxEHUgVrythGgqPhI"
     },
     {
       "added_at": null,
@@ -958,11 +950,19 @@
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 214853,
-      "name": "Say A'",
-      "url": "https://open.spotify.com/track/3AMnOVxEHUgVrythGgqPhI"
+      "duration_ms": 258158,
+      "name": "Beast Mode (feat. PnB Rock & YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/1AH60dMaEfNjzDoUIFwIQi"
     },
     {
       "added_at": null,

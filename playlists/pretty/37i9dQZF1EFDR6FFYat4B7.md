@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539 likes - 165 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 540 likes - 165 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 112 | [Dust and Smoke](https://open.spotify.com/track/1b6qaORLV7CzsUukna3N2W) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Music for the Soul](https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal) | 3:26 |
 | 113 | [Emotional](https://open.spotify.com/track/2pNQc7ivtCoOwEGJ04AwzW) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Emotional](https://open.spotify.com/album/2BtLQEQdQZr0pIrNJ50puP) | 3:51 |
 | 114 | [Woman](https://open.spotify.com/track/6PJuKJ0bamILUakPbkSbmu) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:19 |
-| 115 | [2 AM \(feat\. Lykke Li\)](https://open.spotify.com/track/5PfxsAZ3KT29lZQ1lO5KRm) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:18 |
-| 116 | [Grace](https://open.spotify.com/track/27u6HHwplM68JWLiGUYoaW) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
+| 115 | [Grace](https://open.spotify.com/track/27u6HHwplM68JWLiGUYoaW) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:51 |
+| 116 | [2 AM \(feat\. Lykke Li\)](https://open.spotify.com/track/5PfxsAZ3KT29lZQ1lO5KRm) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:18 |
 | 117 | [Unfinished](https://open.spotify.com/track/2pOds6Kh8EFPgJj12UmPKR) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:53 |
 | 118 | [Tell Me Twice](https://open.spotify.com/track/6CNF9QXnGiiYKAVVK2Cq91) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Tell Me Twice](https://open.spotify.com/album/32JyPkgX8mKS5uL5szgL5D) | 4:26 |
 | 119 | [Late Night Prelude](https://open.spotify.com/track/0mGXLwtTjzuTcARIr1pPQg) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 1:29 |
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 139 | [Last Thing I Do](https://open.spotify.com/track/0XVnoq2OcuWH2b8LNiBHqQ) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [Last Thing I Do](https://open.spotify.com/album/2x7ZpyuydRC4viG7nfr9os) | 3:21 |
 | 140 | [Thicker Than Water](https://open.spotify.com/track/3DUDmYlLCnp0bdVfJGwe9k) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EZEE](https://open.spotify.com/artist/3BRnVKHvAQEdENW8XCjeb9) | [Thicker Than Water](https://open.spotify.com/album/0kY5zsvfsr74b1a76ZHRGe) | 3:03 |
 | 141 | [Send Me Your Love \- KDrew Remix](https://open.spotify.com/track/5pYngSQa1LIT2WZ14sTKKD) | [Taryn Manning](https://open.spotify.com/artist/5XuruQMEsXHJZ7AIREr8Yv) | [Send Me Your Love \(KDrew Remix\) \- Single](https://open.spotify.com/album/28NaVVA9vrBQZEac8iIVVM) | 4:54 |
-| 142 | [Brooklyn Apartment \(It’s Louder Than The TV And The Radio\)](https://open.spotify.com/track/6rohsMPgiP6CAvlTejehdE) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Low Blows](https://open.spotify.com/album/6ShsZvRGx3dU6s0WXs7DfT) | 3:19 |
-| 143 | [D i s t a n c e](https://open.spotify.com/track/0mzNuvoGJQuZ2Dk21Ru7lF) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:22 |
+| 142 | [D i s t a n c e](https://open.spotify.com/track/0mzNuvoGJQuZ2Dk21Ru7lF) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:22 |
+| 143 | [Brooklyn Apartment \(It’s Louder Than The TV And The Radio\)](https://open.spotify.com/track/6rohsMPgiP6CAvlTejehdE) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Low Blows](https://open.spotify.com/album/6ShsZvRGx3dU6s0WXs7DfT) | 3:19 |
 | 144 | [WW3](https://open.spotify.com/track/21bFJLBdEX2YLpwSW27XYt) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Architect \(Zeitgeist Edition\)](https://open.spotify.com/album/6jXWfehoSTsRDXExVJMeAh) | 3:10 |
 | 145 | [Bad For Me](https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad For Me](https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG) | 2:58 |
 | 146 | [Jealousy](https://open.spotify.com/track/771xIRZvmPNPNw8CP82WJV) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 3:02 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 164 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 | 165 | [Slow Dance](https://open.spotify.com/track/48iQ59o2m0IFrTvPk1XRyY) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:55 |
 
-Snapshot ID: `AcDF8AAAAAA41l6Pgf+GtIB5zSHO+FRH`
+Snapshot ID: `AcDLhgAAAAB8Qtxhor/CTgrlW6FxWjA2`

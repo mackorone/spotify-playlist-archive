@@ -676,7 +676,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 248653,
       "name": "CITRUS",
       "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 214937,
       "name": "Coming-of-age Story",
       "url": "https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 159927,
       "name": "Dive",
       "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 188659,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/1i1sx05NaNlIJOTVhBCKf5"
@@ -2690,7 +2690,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 289720,
       "name": "more than words",
       "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 197093,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
@@ -4240,7 +4240,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 161333,
       "name": "THUNDA",
       "url": "https://open.spotify.com/track/36QtWqH1z4m804XlJZNF9o"
@@ -4798,6 +4798,24 @@
       "duration_ms": 148418,
       "name": "YW",
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
+    },
+    {
+      "album": {
+        "name": "Zenzenzense",
+        "url": "https://open.spotify.com/album/3jG0AxsNdqbxdS5noZ5mRT"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262733,
+      "name": "Zenzenzense",
+      "url": "https://open.spotify.com/track/73SvbCNFLlPdrUaHCwAxTP"
     },
     {
       "album": {
@@ -5428,8 +5446,8 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
-      "duration_ms": 235200,
+      "date_removed": null,
+      "duration_ms": 235206,
       "name": "\u30aa\u30ec\u30f3\u30b8",
       "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
     },
@@ -6136,7 +6154,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 250453,
       "name": "\u30e9\u30b9\u30c8\u30cf\u30f3\u30c1",
       "url": "https://open.spotify.com/track/4KtMd7F50HwIseHuJpbFt4"
@@ -6514,7 +6532,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 260829,
       "name": "\u518d\u4f1a",
       "url": "https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se"
@@ -7228,7 +7246,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-07",
+      "date_removed": null,
       "duration_ms": 286546,
       "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
       "url": "https://open.spotify.com/track/5LclntckGFFGFUVGJk9Z4x"
@@ -7552,7 +7570,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 189533,
       "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
       "url": "https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0"
@@ -8032,7 +8050,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-03",
       "duration_ms": 178162,
       "name": "\u8cb4\u65b9\u89b3\u6e2c\u65e5\u548c",
       "url": "https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4"

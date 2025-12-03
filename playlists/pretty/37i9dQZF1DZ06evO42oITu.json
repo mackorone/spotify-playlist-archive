@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 373372,
+  "num_followers": 373391,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAAApEH09ONKJWcb6YLWXKDZh",
+  "snapshot_id": "aSzagAAAAAAmpZpCmVNi5HBQMdDv5xfW",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Journeyman",
+        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Before You Accuse Me",
+      "url": "https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 280453,
       "name": "Ten Long Years",
       "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Journeyman",
-        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Before You Accuse Me",
-      "url": "https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4"
     },
     {
       "added_at": null,
@@ -627,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+        "name": "461 Ocean Blvd. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 219960,
-      "name": "Key to the Highway",
-      "url": "https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP"
+      "duration_ms": 298280,
+      "name": "Let It Grow",
+      "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
     },
     {
       "added_at": null,
@@ -663,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "461 Ocean Blvd. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 298280,
-      "name": "Let It Grow",
-      "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
+      "duration_ms": 219960,
+      "name": "Key to the Highway",
+      "url": "https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "Cajun Moon",
+      "url": "https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "Cajun Moon",
-      "url": "https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Concert For George (Live)",
+        "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 265428,
+      "name": "Something - Live",
+      "url": "https://open.spotify.com/track/6JnBljHLqBuGIhxvjkiSxO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Journeyman: Deluxe Edition",
         "url": "https://open.spotify.com/album/3triHNgkqNq847Mh3yObWq"
       },
@@ -907,22 +927,6 @@
       "duration_ms": 256866,
       "name": "It's Easy",
       "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ"
     }
   ],
   "unique_name": "This Is Eric Clapton",

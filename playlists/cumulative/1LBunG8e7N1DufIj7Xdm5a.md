@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,616 songs - 7 day 23 hr 18 min
+3,618 songs - 7 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1537,7 +1537,7 @@
 | [Icarus Reborn](https://open.spotify.com/track/0lHsP4UxdzxD7qOgoWsS1O) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Icarus Reborn](https://open.spotify.com/album/2zNyIXZbj3ISHYhbOwTDA1) | 6:23 | 2025-06-01 |  |
 | [Icarus Reborn](https://open.spotify.com/track/5uhJnpHRhB90znN7OzwTv9) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Icarus Reborn](https://open.spotify.com/album/6nkkjmEbcMbMCHuRDC7Vzi) | 6:23 | 2025-06-04 |  |
 | [Iconica](https://open.spotify.com/track/4aexKxJ2PjkmYW9sq0xgva) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt), [JARO](https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3) | [Iconica](https://open.spotify.com/album/7BWU1JvhZUtGvXxwA0jzl5) | 2:25 | 2025-06-28 |  |
-| [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/track/6q1F8dDPA8z2iaTE4XW2gG) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [New Empire, Vol\. 2](https://open.spotify.com/album/4I3YOnPD8WyNmj8ePI3uzF) | 4:07 | 2025-04-09 |  |
+| [Idol \- feat\. Tech N9ne](https://open.spotify.com/track/6q1F8dDPA8z2iaTE4XW2gG) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [New Empire, Vol\. 2](https://open.spotify.com/album/4I3YOnPD8WyNmj8ePI3uzF) | 4:07 | 2025-04-09 |  |
 | [If My Mother Thinks I'm Happy](https://open.spotify.com/track/6fFnIQJlMMr6i8tlwemDhR) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Pure Particles](https://open.spotify.com/album/0Ue9J5gRJoHOkY7qJQvpzX) | 4:22 | 2025-11-05 |  |
 | [IKNOWYOU](https://open.spotify.com/track/1eYhBtnXSdQLuqd2179SEY) | [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [IKNOWYOU](https://open.spotify.com/album/0f7kExijTUiTROQcQbfu1K) | 1:45 | 2025-07-28 |  |
 | [Il cane cieco](https://open.spotify.com/track/5pLEDQJT3fQwJgfSGDX5R7) | [Casablanca](https://open.spotify.com/artist/7iUEZ7I2fzicPFg0WYduUC), [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn) | [Il cane cieco \(Alternative Special Guests Versions\)](https://open.spotify.com/album/7lLKM8KizLwDMrLCbm6a7J) | 3:24 | 2025-06-06 |  |
@@ -3260,6 +3260,7 @@
 | [Twist the Night Away](https://open.spotify.com/track/6z0LgaVKOCkg5eZTmJHjoP) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop swing style](https://open.spotify.com/album/7JA7rjWIXI24vmR6WfEMUE) | 2:38 | 2025-09-17 |  |
 | [Twist the Night Away \(another\)](https://open.spotify.com/track/4QSFZDt3uHEh0sA9cF0QQH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop swing style](https://open.spotify.com/album/7JA7rjWIXI24vmR6WfEMUE) | 2:41 | 2025-09-17 |  |
 | [two](https://open.spotify.com/track/6cTZ6QItPpAx7xMkjEmq0w) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 4:24 | 2025-08-20 |  |
+| [Two Souls](https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Two Souls](https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa) | 4:00 | 2025-12-02 |  |
 | [Tyla](https://open.spotify.com/track/71ntODiMqKLIyFFmw1Kj5M) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm) | 2:03 | 2025-07-28 |  |
 | [U Kept On Smiling \- Slowed & Reverb](https://open.spotify.com/track/7s6m8wWNZYCKYPHCiFis4D) | [Kagenori](https://open.spotify.com/artist/37zdjeZdKKIg9oqcttAkWG) | [U Kept On Smiling \(Slowed & Reverb\)](https://open.spotify.com/album/0ARcgfOkDIhzyr2uVkc0jM) | 3:33 | 2025-10-16 |  |
 | [U n m3](https://open.spotify.com/track/2Fg6HSgaYgdyZHTIBfFaqu) | [Masa Blake](https://open.spotify.com/artist/5hkDapkdjR2X9ZRzhwC3sD) | [U n m3](https://open.spotify.com/album/51xfbxniNL1lIHAIfIdg5N) | 2:16 | 2025-06-06 |  |
@@ -3359,6 +3360,7 @@
 | [Vibrazioni Infinite](https://open.spotify.com/track/50SeAEJAxsIpsoZbgNNko1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 1:59 | 2025-09-12 |  |
 | [Victoria: Dawn of the Cosmos](https://open.spotify.com/track/0DtTwIsKBBkMQRFTa2YBat) | [ALCON](https://open.spotify.com/artist/7ngtgFbMpJPid3SAzCNkQX) | [Victoria: Dawn of the Cosmos](https://open.spotify.com/album/1CmRduKoi7XQ1tmhPFdTcp) | 2:43 | 2025-06-05 |  |
 | [Viernes Impar](https://open.spotify.com/track/6nIzS0eniRxxQBw3QynDlm) | [Verbikí](https://open.spotify.com/artist/68SurnefW0jhCfLwU4IwP6) | [Viernes Impar](https://open.spotify.com/album/699r6pdOMtHEwYJPcOuQLN) | 3:24 | 2025-10-08 |  |
+| [Vino El Amor](https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc) | [Evan Rodz](https://open.spotify.com/artist/11b5iup6dk8QDzFH2sQ0bw) | [Vino El Amor](https://open.spotify.com/album/5z8uzZz2T9FM1uPDUWBocD) | 3:43 | 2025-12-02 |  |
 | [Vintage on Repeat](https://open.spotify.com/track/6D3WJjp2ZtLgWCCLg36Evp) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape Music](https://open.spotify.com/album/2X1ZnNcAoPKI9wGc2Mtt9V) | 3:03 | 2025-09-20 |  |
 | [Virago \- Remastered Version](https://open.spotify.com/track/36AeehZX25Cg82s1cM2fQN) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Virago \(Remastered Version\)](https://open.spotify.com/album/2ETaMu5kSsy7N3nAfwm0Si) | 2:32 | 2025-04-27 |  |
 | [Viral Fever](https://open.spotify.com/track/3gFtnzKcpj8cZgbFddI3vr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Vir ALL](https://open.spotify.com/album/2KcPJlhVJvY61tJtdKUsjh) | 1:42 | 2025-09-17 |  |

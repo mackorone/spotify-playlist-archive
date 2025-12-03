@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269278,
+  "num_followers": 269272,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSuJAAAAAABWHW6Eszl6o/nBRPOwaz/V",
+  "snapshot_id": "aSzagAAAAAA7jo/JtBZ6eG5vqVL4aIlF",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tuas \u00c1guas",
-        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "Tuas \u00c1guas",
-      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 327318,
       "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tuas \u00c1guas",
+        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Tuas \u00c1guas",
+      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
     },
     {
       "added_at": null,

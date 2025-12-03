@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAjpqsontNXqGVfJvP8ntckQ0LkhZCo",
+  "snapshot_id": "AAAjq9oPOkoR6OvYa06RxZ3zXRWp+b1C",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -119,6 +119,22 @@
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony - Remastered 2016",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
+    },
+    {
+      "added_at": "2025-12-02 08:51:03",
+      "album": {
+        "name": "Initium Concentus",
+        "url": "https://open.spotify.com/album/4cPut66O77JkNsoYPi1I3E"
+      },
+      "artists": [
+        {
+          "name": "De Santtis",
+          "url": "https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN"
+        }
+      ],
+      "duration_ms": 162199,
+      "name": "Initium Concentus",
+      "url": "https://open.spotify.com/track/4VNYxI40qpkawwl9acl7ni"
     },
     {
       "added_at": "2025-11-13 14:33:33",
@@ -569,22 +585,6 @@
       "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
     },
     {
-      "added_at": "2025-10-22 08:04:32",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/0NjovRnD5unUBDJ7U8QH3G"
-      },
-      "artists": [
-        {
-          "name": "Lian",
-          "url": "https://open.spotify.com/artist/2sOcUxLnqrruZJRN6m0GzE"
-        }
-      ],
-      "duration_ms": 250494,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/247MRY3Cbust5YB0Py5gxz"
-    },
-    {
       "added_at": "2021-03-29 15:57:09",
       "album": {
         "name": "Absolute Garbage",
@@ -599,38 +599,6 @@
       "duration_ms": 258133,
       "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU"
-    },
-    {
-      "added_at": "2025-11-13 21:06:08",
-      "album": {
-        "name": "Endless and Free",
-        "url": "https://open.spotify.com/album/1pXbNpKvgqUtX924js0vhx"
-      },
-      "artists": [
-        {
-          "name": "Reminiscence",
-          "url": "https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0"
-        }
-      ],
-      "duration_ms": 163140,
-      "name": "Endless Time",
-      "url": "https://open.spotify.com/track/7iboyR2F62rpNt6hX4Z8Dq"
-    },
-    {
-      "added_at": "2025-11-14 15:42:37",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L"
-      },
-      "artists": [
-        {
-          "name": "Flying Earrings",
-          "url": "https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy"
-        }
-      ],
-      "duration_ms": 373050,
-      "name": "Breakfast in Bathrobes",
-      "url": "https://open.spotify.com/track/6gCRIrbRoj4jEqIDFP2IXe"
     },
     {
       "added_at": "2025-11-17 09:03:47",
@@ -743,6 +711,22 @@
       "duration_ms": 225686,
       "name": "Autom\u00e1tico",
       "url": "https://open.spotify.com/track/5FUDj98ylGW4iUcFfiWo50"
+    },
+    {
+      "added_at": "2025-12-02 08:42:56",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/7CUbS7kwBPOQPDBvWS5yET"
+      },
+      "artists": [
+        {
+          "name": "Maxine",
+          "url": "https://open.spotify.com/artist/3m7b61n7lAtR554KpBx5y9"
+        }
+      ],
+      "duration_ms": 169653,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/0zmBrqMD9u1wZUqJLNynUi"
     }
   ],
   "unique_name": "Alternative Pop Archive",

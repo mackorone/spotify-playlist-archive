@@ -4,7 +4,7 @@
 
 > All of it
 
-1,062 songs - 2 day 17 hr 11 min
+1,065 songs - 2 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,8 @@
 | [Immortal](https://open.spotify.com/track/4IO8X9W69dIQe0EC5ALXhq) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Immortal](https://open.spotify.com/album/7xgzD7onYd1Pms93ZOtxxX) | 4:14 | 2025-06-02 |  |
 | [Impurities](https://open.spotify.com/track/7mYwDmbbp8UPLlnRjTJ54X) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:16 | 2025-06-02 |  |
 | [In My Head](https://open.spotify.com/track/5vwXQUwkpmnkJrfv69L6Mp) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [In My Head](https://open.spotify.com/album/3okCOhHlfrEPaHZIIUo04l) | 5:54 | 2025-06-02 |  |
+| [in the pool](https://open.spotify.com/track/1AvuBt1hrjsHeBxFX91Rn6) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 4:05 | 2025-12-02 |  |
+| [in the sea](https://open.spotify.com/track/6hShfxTdYcC7YQ3AhfRedv) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 1:06 | 2025-12-02 |  |
 | [In the Shadow of the Valley](https://open.spotify.com/track/667aZGUm68nre7yrHnFRz8) | [Bing Nathan](https://open.spotify.com/artist/1PEsNvspbfV1479tnlQgVj), [Don Burnham](https://open.spotify.com/artist/1az6rcLzAuM2ruBbcFJ50U), [Rick Dougherty](https://open.spotify.com/artist/5Dr7wDGjTkWDOSua2EhXyi), [Chuck Aronson](https://open.spotify.com/artist/6L3x96FNsXj21knH7XWb4e) | [Best of Country & Western, Vol\. 2](https://open.spotify.com/album/11FQIluT78LHZdMqy4n7Ng) | 3:04 | 2025-06-02 |  |
 | [In The Wake Of Poseidon](https://open.spotify.com/track/39AAt95Ts6PIHgMJfnHTNr) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Wake Of Poseidon](https://open.spotify.com/album/68W3ppXWhsOLOURmxzRkyA) | 7:56 | 2025-06-02 |  |
 | [In Your Fantasy](https://open.spotify.com/track/3Z4BxvgOJ8KupcDIV3OV2f) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:12 | 2025-08-08 |  |
@@ -967,6 +969,7 @@
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2025-06-02 |  |
 | [Touchdown](https://open.spotify.com/track/41hIX9HMJ6qk4qdkU4Glgl) | [teefaygoo](https://open.spotify.com/artist/58KTnqvNCXA8sd6IHAQ5IV), [prodbysky](https://open.spotify.com/artist/4dkg1q2DJECBqjrSMs8ULh), [dadanny](https://open.spotify.com/artist/4lJnM6pwhZZS8ZByK7c9Yr) | [Touchdown](https://open.spotify.com/album/2lrFyHDmpjHgT3KghL5tg6) | 2:56 | 2025-06-02 | 2025-07-21 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-06-02 |  |
+| [TOXIC \(with Skepta\)](https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:15 | 2025-12-02 |  |
 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 | 2025-06-02 |  |
 | [TRIM \(with Future\)](https://open.spotify.com/track/4qvsNsA4gQKC9HLrmPC2Vx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:13 | 2025-06-02 |  |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2025-06-02 |  |

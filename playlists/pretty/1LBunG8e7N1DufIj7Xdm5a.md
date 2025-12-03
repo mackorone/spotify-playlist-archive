@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 236 likes - 3,651 songs - 8 day 1 hr 3 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 237 likes - 3,653 songs - 8 day 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -444,7 +444,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 434 | [Monopoly Money](https://open.spotify.com/track/6gJTDMRH4NVsS2aavMCx0M) | [Moon Walker](https://open.spotify.com/artist/4Qvflafuw7a0F2E3NonxsA) | [Monopoly Money](https://open.spotify.com/album/25LtoKHlBdLYXofmvkaO0Z) | 2:57 |
 | 435 | [Soldiers](https://open.spotify.com/track/1iWgFnhR0oW5Mup8yXDAPW) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Soldiers](https://open.spotify.com/album/6wI2K6ApwaqRa80EEQlLzZ) | 4:01 |
 | 436 | [Black Betty \- Single Edit](https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Tonight Alright](https://open.spotify.com/album/5WqHoLszhaCZHgtTebMx8X) | 3:25 |
-| 437 | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/track/6q1F8dDPA8z2iaTE4XW2gG) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [New Empire, Vol\. 2](https://open.spotify.com/album/4I3YOnPD8WyNmj8ePI3uzF) | 4:07 |
+| 437 | [Idol \- feat\. Tech N9ne](https://open.spotify.com/track/6q1F8dDPA8z2iaTE4XW2gG) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [New Empire, Vol\. 2](https://open.spotify.com/album/4I3YOnPD8WyNmj8ePI3uzF) | 4:07 |
 | 438 | [Black Dahlia](https://open.spotify.com/track/5FUkeL8EMmVQ8uuArVWSc0) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Swan Songs](https://open.spotify.com/album/2UYxjXHKm1JDT6JA7OSeR6) | 3:45 |
 | 439 | [Hollywood Forever](https://open.spotify.com/track/5CNopDW4B3IBlspdSmvjCh) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hollywood Forever](https://open.spotify.com/album/69FMIiQw61cmQM3B1xACr9) | 4:37 |
 | 440 | [Ronald](https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Ronald](https://open.spotify.com/album/01GsZ4orxT9LHqCru5Pnz2) | 3:16 |
@@ -3659,5 +3659,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3649 | [Clonazepam](https://open.spotify.com/track/4qggI8I4GdjeAFttyFLf0o) | [Adrian Quickus](https://open.spotify.com/artist/5VdLBmGaaSDMvAIcJmAcHf) | [Clonazepam](https://open.spotify.com/album/5E4cZn80csF6HwNtLVJeOU) | 2:35 |
 | 3650 | [Point Blank](https://open.spotify.com/track/5dfzwXpEpeeM6szvocxFBR) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Point Blank](https://open.spotify.com/album/4dERb041ujbOvXGUJurgez) | 3:07 |
 | 3651 | [My town](https://open.spotify.com/track/2lsTmZMHngRUOzoH39adM9) | [Sly Chic](https://open.spotify.com/artist/6qyCwtkYGE0XzZKd2eIrcs) | [My town](https://open.spotify.com/album/5xVycOvz6sR8fpn4O4oaKO) | 5:08 |
+| 3652 | [Vino El Amor](https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc) | [Evan Rodz](https://open.spotify.com/artist/11b5iup6dk8QDzFH2sQ0bw) | [Vino El Amor](https://open.spotify.com/album/5z8uzZz2T9FM1uPDUWBocD) | 3:43 |
+| 3653 | [Two Souls](https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Two Souls](https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa) | 4:00 |
 
-Snapshot ID: `AAAGLHwyy5TfjrB/YcvlGF64ux4BV25K`
+Snapshot ID: `AAAGLmpAXhCeKPRnnnXjRt6GRe8N1jgQ`

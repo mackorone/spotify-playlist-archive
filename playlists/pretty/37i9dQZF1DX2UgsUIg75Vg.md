@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,367,880 likes - 250 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,367,909 likes - 250 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 34 | [Won't Force You](https://open.spotify.com/track/4fsaFXJwoADL5w4iw9IKJO) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Won't Force You](https://open.spotify.com/album/6jzHblS8sSvp157rtAyLtp) | 3:26 |
 | 35 | [Stitch Me Up](https://open.spotify.com/track/1bIlHTjsRPtIGBaZL0QiXZ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 3:04 |
 | 36 | [Come Home](https://open.spotify.com/track/3s1s0R29XccW507Vjxoqlu) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Come Home](https://open.spotify.com/album/3coobmbIsiyA7O8K3PIEYQ) | 3:12 |
-| 37 | [Feels Like Love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Feels Like Love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
+| 37 | [feels like love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [feels like love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
 | 38 | [I Need You](https://open.spotify.com/track/08U3QpENVVF2YUuPAN0Wz1) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [I Need You](https://open.spotify.com/album/5COOaPOnTPmAzwrZIqbFoP) | 2:31 |
 | 39 | [CLOSE 2](https://open.spotify.com/track/4cAeIhgtNdj1hsOMAsfIPz) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu), [Christian Rich](https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l) | [to see thru closed eyes](https://open.spotify.com/album/2r1gIPuzPCvtd4sURMPYS9) | 2:33 |
 | 40 | [Situation](https://open.spotify.com/track/5nK4QbQn1hslWhpDVOnqW2) | [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Situation](https://open.spotify.com/album/6zElPDBOuHK57Uo5g0OTRq) | 3:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,323 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,317 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 5 | [DON'T KILL THE PARTY \(feat\. Quavo & Juicy J\)](https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:12 |
 | 6 | [prIDe](https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [In A Matter of Time](https://open.spotify.com/album/16GsCGOVvtXRarRIFKR00H) | 2:35 |
 | 7 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 |
-| 8 | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/track/6yeGECrisgtHSWaYDZBA7h) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Stone II](https://open.spotify.com/artist/4WIa7bwGO6UbJGOa3dYy9H) | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/album/15NNhrMTBtpPI9hSSa3TFV) | 2:18 |
+| 8 | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/track/6yeGECrisgtHSWaYDZBA7h) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [Stone II](https://open.spotify.com/artist/4WIa7bwGO6UbJGOa3dYy9H) | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/album/15NNhrMTBtpPI9hSSa3TFV) | 2:18 |
 | 9 | [night in tokyo!](https://open.spotify.com/track/0enPdppIOTmn6gZGJbeJzS) | [TH3 KXD](https://open.spotify.com/artist/5KjxDm3rAhy7nSkSKyv0LQ) | [night in tokyo!](https://open.spotify.com/album/442902zOScm1H2tAWsNz3x) | 1:55 |
 | 10 | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/track/7vePS1uTLA4iENtOldQVLt) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/album/38XV0JAqCJk6RRyrB1JIU0) | 3:01 |
 | 11 | [MR DND](https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [From Me 2 U](https://open.spotify.com/album/4SWWl5H8G1ZVx56WQV3yhY) | 1:44 |

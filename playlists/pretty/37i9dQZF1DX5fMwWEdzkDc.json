@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 20855,
+  "num_followers": 20862,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Difference",
-        "url": "https://open.spotify.com/album/36HKeRjDoczel62iwy3z75"
-      },
-      "artists": [
-        {
-          "name": "Yoon Do Hyun",
-          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "\uc0ac\ub791\ud588\ub098\ubd10",
-      "url": "https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\ub354 \ub11b\uce20 1\uc9d1",
         "url": "https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 261630,
       "name": "\uc0ac\ub791\uc758 \ubc14\ubcf4",
       "url": "https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Difference",
+        "url": "https://open.spotify.com/album/36HKeRjDoczel62iwy3z75"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "duration_ms": 238880,
+      "name": "\uc0ac\ub791\ud588\ub098\ubd10",
+      "url": "https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+        "name": "Exhibition",
+        "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/2oHNNPMZJYPoiP9Pmm76bJ"
         }
       ],
-      "duration_ms": 211520,
-      "name": "\uc810\uc810",
-      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
+      "duration_ms": 313106,
+      "name": "Etude of Memory",
+      "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Exhibition",
-        "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
-      },
-      "artists": [
-        {
-          "name": "Exhibition",
-          "url": "https://open.spotify.com/artist/2oHNNPMZJYPoiP9Pmm76bJ"
-        }
-      ],
-      "duration_ms": 313106,
-      "name": "Etude of Memory",
-      "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Wax02 : \ud654\uc7a5\uc744 \uace0\uce58\uace0",
         "url": "https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 Best Collection (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7"
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
       "artists": [
         {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
         }
       ],
-      "duration_ms": 195693,
-      "name": "\uc560\uc778\ub9cc\ub4e4\uae30",
-      "url": "https://open.spotify.com/track/7oEnx3neiNUlJRwBadUhAS"
+      "duration_ms": 211520,
+      "name": "\uc810\uc810",
+      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -655,6 +639,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 Best Collection (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7"
+      },
+      "artists": [
+        {
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "\uc560\uc778\ub9cc\ub4e4\uae30",
+      "url": "https://open.spotify.com/track/7oEnx3neiNUlJRwBadUhAS"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Honey (Special Edition)",
         "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uc0b4\ub2e4\uac00",
-        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
-      },
-      "artists": [
-        {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "\uc0b4\ub2e4\uac00",
-      "url": "https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "SO COOL",
         "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 201273,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\uc0b4\ub2e4\uac00",
+        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
+      },
+      "artists": [
+        {
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "\uc0b4\ub2e4\uac00",
+      "url": "https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Enter The Dragon",
-        "url": "https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR"
+        "name": "Can U See The Bright",
+        "url": "https://open.spotify.com/album/1p7Z2lphOJegFArqh8eMw5"
       },
       "artists": [
         {
-          "name": "JTL",
-          "url": "https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC"
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
         }
       ],
-      "duration_ms": 206200,
-      "name": "My Lecon",
-      "url": "https://open.spotify.com/track/3pVvsgtpCoSajYhDKavuXm"
+      "duration_ms": 243520,
+      "name": "...\uc0ac\ub791\ud588\uc796\uc544...",
+      "url": "https://open.spotify.com/track/6dKKY7BZi4yXS3vwuR6Dmt"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Smile Again",
-        "url": "https://open.spotify.com/album/6PUXZU8KQoiC7PJGHobQ8E"
+        "name": "Enter The Dragon",
+        "url": "https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR"
       },
       "artists": [
         {
-          "name": "Baek Z Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+          "name": "JTL",
+          "url": "https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC"
         }
       ],
-      "duration_ms": 253026,
-      "name": "\uc0ac\ub791 \uc548\ud574",
-      "url": "https://open.spotify.com/track/4wztk2LQD75UzN5UTnFK0E"
+      "duration_ms": 206200,
+      "name": "My Lecon",
+      "url": "https://open.spotify.com/track/3pVvsgtpCoSajYhDKavuXm"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Can U See The Bright",
-        "url": "https://open.spotify.com/album/1p7Z2lphOJegFArqh8eMw5"
+        "name": "Smile Again",
+        "url": "https://open.spotify.com/album/6PUXZU8KQoiC7PJGHobQ8E"
       },
       "artists": [
         {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+          "name": "Baek Z Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
         }
       ],
-      "duration_ms": 243520,
-      "name": "...\uc0ac\ub791\ud588\uc796\uc544...",
-      "url": "https://open.spotify.com/track/6dKKY7BZi4yXS3vwuR6Dmt"
+      "duration_ms": 253026,
+      "name": "\uc0ac\ub791 \uc548\ud574",
+      "url": "https://open.spotify.com/track/4wztk2LQD75UzN5UTnFK0E"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Re - Feel",
-        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
-      },
-      "artists": [
-        {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
-        },
-        {
-          "name": "Jang Hye Jin",
-          "url": "https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH"
-        }
-      ],
-      "duration_ms": 272875,
-      "name": "The man and the woman",
-      "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 201226,
       "name": "Fly (feat. Amin. J)",
       "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Re - Feel",
+        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        },
+        {
+          "name": "Jang Hye Jin",
+          "url": "https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH"
+        }
+      ],
+      "duration_ms": 272875,
+      "name": "The man and the woman",
+      "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Op. 4",
-        "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
-      },
-      "artists": [
-        {
-          "name": "Lena Park",
-          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
-        }
-      ],
-      "duration_ms": 337066,
-      "name": "In dreams",
-      "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "A Year Out...In The Island",
         "url": "https://open.spotify.com/album/1dBnTVRHXXPUsDch7FIkV8"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 280790,
       "name": "\uc0ac\ub791\uc740 \ubd04\ube44\ucc98\ub7fc...\uc774\ubcc4\uc740 \uaca8\uc6b8\ube44\ucc98\ub7fc",
       "url": "https://open.spotify.com/track/2cCC4S226r1tws0d2vDDdO"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Op. 4",
+        "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
+      },
+      "artists": [
+        {
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        }
+      ],
+      "duration_ms": 337066,
+      "name": "In dreams",
+      "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "fuzz . Buzz",
-        "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
-      },
-      "artists": [
-        {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
-        }
-      ],
-      "duration_ms": 253879,
-      "name": "You Don't Know Men",
-      "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "We Hate All Kinds of Violence... - The 1st Album",
         "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 264600,
       "name": "Descent of Warriors",
       "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "fuzz . Buzz",
+        "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "duration_ms": 253879,
+      "name": "You Don't Know Men",
+      "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Gugip: C.J.2002",
+        "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 260480,
+      "name": "Seulpun honjatmal",
+      "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 215248,
       "name": "\ub110 \uc0ac\ub791\ud558\uaca0\uc5b4",
       "url": "https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Longing",
-        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
-      },
-      "artists": [
-        {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
     },
     {
       "added_at": "2024-08-05 16:59:31",
