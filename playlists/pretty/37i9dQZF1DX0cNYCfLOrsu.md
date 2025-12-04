@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,904 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,064 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 68 | [Budum](https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Budum](https://open.spotify.com/album/63u5t3q4Bxvpy2DTvOWaVo) | 2:45 |
 | 69 | [No Rampin \(feat\. Moelogo & Nadia Rose\)](https://open.spotify.com/track/43u9qIHBXcZZPAP0chWeww) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 2:36 |
 | 70 | [A Nuh My Style](https://open.spotify.com/track/2zbPQ4eWQEvywNRTDWUAAk) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [A Nuh My Style](https://open.spotify.com/album/1tAlghBkDlKo1iJwKZ55Lo) | 2:44 |
-| 71 | [Holiday \(feat\. Chevaughn Clayton\)](https://open.spotify.com/track/0mo0KJ9qdW6LNdB8Cz8fSa) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [Chevaughn Clayton](https://open.spotify.com/artist/5zRgKd7rwfgtIeuAbWoFZ6) | [Reggae Gold 2010](https://open.spotify.com/album/7h2JIVRXaxSRza2C7aojfw) | 3:27 |
+| 71 | [Insecure](https://open.spotify.com/track/7kFrtjToVEFgUWvOJdDigU) | [Lisa Mercedez](https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p), [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv) | [Insecure](https://open.spotify.com/album/0kHRg6FA7Ql5gNGYTr1iKH) | 3:24 |
 | 72 | [Walk Out](https://open.spotify.com/track/5oQ90gRbe4rqJDkeqhPHIQ) | [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Walk Out](https://open.spotify.com/album/4n6NxquEZC0FMt1zH12iOS) | 3:10 |
 | 73 | [Heavy! \(Vybz Kartel Remix\)](https://open.spotify.com/track/07XcuVPoyMogdiV4nBeCPt) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Heavy! \(Vybz Kartel Remix\)](https://open.spotify.com/album/3pjBdUQ3B9zLWc4y7GmDSE) | 2:45 |
 | 74 | [Do That \(feat\. Tony Matterhorn\)](https://open.spotify.com/track/2l36ZNtoL7LxW93xU8EJyv) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:04 |

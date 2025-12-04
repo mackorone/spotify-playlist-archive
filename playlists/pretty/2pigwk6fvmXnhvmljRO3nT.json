@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAJqobpefCjMI0a3fLGW+5TRlTsl522",
+  "snapshot_id": "AAAJrsV4Rzab1YAmGji184iTpPJSTTYN",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -91807,30 +91807,6 @@
     {
       "added_at": "2025-01-15 00:22:17",
       "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
-        }
-      ],
-      "duration_ms": 185736,
-      "name": "Hit List (with BigXthaPlug & Big Yavo)",
-      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
-    },
-    {
-      "added_at": "2025-01-15 00:22:17",
-      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
       },
@@ -142103,6 +142079,54 @@
       "duration_ms": 219252,
       "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
       "url": "https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl"
+    },
+    {
+      "added_at": "2025-12-03 23:33:14",
+      "album": {
+        "name": "JOECHILLWORLD",
+        "url": "https://open.spotify.com/album/7ILMBbALGEfm3cKNPxP5v2"
+      },
+      "artists": [
+        {
+          "name": "Devon Hendryx",
+          "url": "https://open.spotify.com/artist/551EawRj5350YQYs1MC2Ot"
+        }
+      ],
+      "duration_ms": 256192,
+      "name": "Neon Kitchen",
+      "url": "https://open.spotify.com/track/1XleasuIaliwmvxQ2EUhtq"
+    },
+    {
+      "added_at": "2025-12-03 23:52:39",
+      "album": {
+        "name": "JOECHILLWORLD",
+        "url": "https://open.spotify.com/album/7ILMBbALGEfm3cKNPxP5v2"
+      },
+      "artists": [
+        {
+          "name": "Devon Hendryx",
+          "url": "https://open.spotify.com/artist/551EawRj5350YQYs1MC2Ot"
+        }
+      ],
+      "duration_ms": 132402,
+      "name": "Neon Kitchen II",
+      "url": "https://open.spotify.com/track/1hqDtSvJIBnr8So8ob27Fn"
+    },
+    {
+      "added_at": "2025-12-03 23:52:43",
+      "album": {
+        "name": "The Ghost~Pop Tape (Remastered + Original)",
+        "url": "https://open.spotify.com/album/41rkdmrJhBA4tWKsgyo42B"
+      },
+      "artists": [
+        {
+          "name": "Devon Hendryx",
+          "url": "https://open.spotify.com/artist/551EawRj5350YQYs1MC2Ot"
+        }
+      ],
+      "duration_ms": 124159,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/6tWE2OefH4yqE2swmf1OkC"
     }
   ],
   "unique_name": "Purge",

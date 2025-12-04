@@ -1,6 +1,6 @@
 {
   "description": "A calm and cosy classical soundtrack to all activities. ",
-  "num_followers": 137883,
+  "num_followers": 138005,
   "original_name": "Classical in the Background",
   "owner": {
     "name": "Spotify",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
+        "name": "Letters from Paris",
+        "url": "https://open.spotify.com/album/1ze0PsI6mb4hDU7Hbbe5ob"
+      },
+      "artists": [
+        {
+          "name": "Marguerite Monnot",
+          "url": "https://open.spotify.com/artist/1du2ve2XIWYeHHamxUT4cC"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "Hymne \u00e0 l'amour (Arr. Dyens for Guitar)",
+      "url": "https://open.spotify.com/track/4SndSEWWh1uaiU6HyvQHHH"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
         "name": "Schumann & Schubert - Transcriptions for Clarinet & Harp",
         "url": "https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 129919,
       "name": "Schumann: 12 Gedichte aus Liebesfr\u00fchling, Op. 37: No. 11: Warum willst du andre fragen",
       "url": "https://open.spotify.com/track/1NechTDnTtSaciAT6gmvJQ"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
-        "name": "Letters from Paris",
-        "url": "https://open.spotify.com/album/1ze0PsI6mb4hDU7Hbbe5ob"
-      },
-      "artists": [
-        {
-          "name": "Marguerite Monnot",
-          "url": "https://open.spotify.com/artist/1du2ve2XIWYeHHamxUT4cC"
-        },
-        {
-          "name": "Alexandra Whittingham",
-          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "Hymne \u00e0 l'amour (Arr. Dyens for Guitar)",
-      "url": "https://open.spotify.com/track/4SndSEWWh1uaiU6HyvQHHH"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
-        "name": "Silvestrov: Bagatellen und Serenaden",
-        "url": "https://open.spotify.com/album/13F1ZPltvX3UoJBM3t6IvM"
-      },
-      "artists": [
-        {
-          "name": "Valentin Silvestrov",
-          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
-        }
-      ],
-      "duration_ms": 137413,
-      "name": "Stille Musik: III. Augenblicke der Serenade",
-      "url": "https://open.spotify.com/track/308fmwi0Y8ULBSzthdhooI"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
         "name": "Romance \u2013 The Piano Music of Clara Schumann",
         "url": "https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 182720,
       "name": "3 Romances, Op. 11: I. Andante",
       "url": "https://open.spotify.com/track/6VLzm03YUeXVl3GdGyib6J"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
+        "name": "Silvestrov: Bagatellen und Serenaden",
+        "url": "https://open.spotify.com/album/13F1ZPltvX3UoJBM3t6IvM"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        }
+      ],
+      "duration_ms": 137413,
+      "name": "Stille Musik: III. Augenblicke der Serenade",
+      "url": "https://open.spotify.com/track/308fmwi0Y8ULBSzthdhooI"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
-        "name": "Satie: Complete Piano Works, Vol. 2/2",
-        "url": "https://open.spotify.com/album/2tmqRnqJGhdHtv5WbEQdex"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Cristina Ariagno",
-          "url": "https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18"
-        }
-      ],
-      "duration_ms": 77266,
-      "name": "Enfantillages pittoresques: II. Berceuse",
-      "url": "https://open.spotify.com/track/0L5WGmfuDp4JgbOnv3eqOg"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
         "name": "Bach and Beyond",
         "url": "https://open.spotify.com/album/5IOSn5wePFXjdss00TdTe7"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 301400,
       "name": "Bach: Adagio (After Violin Concerto No. 2, BWV 1042)",
       "url": "https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
+        "name": "Satie: Complete Piano Works, Vol. 2/2",
+        "url": "https://open.spotify.com/album/2tmqRnqJGhdHtv5WbEQdex"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Cristina Ariagno",
+          "url": "https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18"
+        }
+      ],
+      "duration_ms": 77266,
+      "name": "Enfantillages pittoresques: II. Berceuse",
+      "url": "https://open.spotify.com/track/0L5WGmfuDp4JgbOnv3eqOg"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -1555,6 +1555,42 @@
       "duration_ms": 197766,
       "name": "Kaiho",
       "url": "https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
+        "name": "Notte Veneziana",
+        "url": "https://open.spotify.com/album/2mSfedm9hdRIMZEekfMRRO"
+      },
+      "artists": [
+        {
+          "name": "Tomaso Albinoni",
+          "url": "https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq"
+        },
+        {
+          "name": "Remo Giazotto",
+          "url": "https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL"
+        },
+        {
+          "name": "Stefan Klieme",
+          "url": "https://open.spotify.com/artist/6Auw3YbOpUE3iS9rmE8Dte"
+        },
+        {
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+        },
+        {
+          "name": "L'Arte del mondo",
+          "url": "https://open.spotify.com/artist/6MW9AS1ZyDr6gnCBeaTeQY"
+        },
+        {
+          "name": "Werner Ehrhardt",
+          "url": "https://open.spotify.com/artist/4WXwM0GBirDxTJA6zngdfz"
+        }
+      ],
+      "duration_ms": 300213,
+      "name": "Adagio in G Minor (Arr. for Harp and Orchestra)",
+      "url": "https://open.spotify.com/track/47xdo9qYjAbOIVVBAqom1b"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -1631,42 +1667,6 @@
       "duration_ms": 202306,
       "name": "Abendlied, Op. 85, No. 12 (Arr. for String Orchestra by Johan Svendsen)",
       "url": "https://open.spotify.com/track/0QbizI8RErYJIi9ROgRM8Z"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
-        "name": "Notte Veneziana",
-        "url": "https://open.spotify.com/album/2mSfedm9hdRIMZEekfMRRO"
-      },
-      "artists": [
-        {
-          "name": "Tomaso Albinoni",
-          "url": "https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq"
-        },
-        {
-          "name": "Remo Giazotto",
-          "url": "https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL"
-        },
-        {
-          "name": "Stefan Klieme",
-          "url": "https://open.spotify.com/artist/6Auw3YbOpUE3iS9rmE8Dte"
-        },
-        {
-          "name": "Xavier De Maistre",
-          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
-        },
-        {
-          "name": "L'Arte del mondo",
-          "url": "https://open.spotify.com/artist/6MW9AS1ZyDr6gnCBeaTeQY"
-        },
-        {
-          "name": "Werner Ehrhardt",
-          "url": "https://open.spotify.com/artist/4WXwM0GBirDxTJA6zngdfz"
-        }
-      ],
-      "duration_ms": 300213,
-      "name": "Adagio in G Minor (Arr. for Harp and Orchestra)",
-      "url": "https://open.spotify.com/track/47xdo9qYjAbOIVVBAqom1b"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
-        "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
-        "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
-      },
-      "artists": [
-        {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
-        },
-        {
-          "name": "Alexandra Whittingham",
-          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
-      "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
         "name": "Gershwin: Piano Works",
         "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 145200,
       "name": "Song Book: The Man I Love. Slow and in singing style",
       "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
+        "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
+        "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
+      "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
-        "name": "Corea: Children's Song No. 1",
-        "url": "https://open.spotify.com/album/4v9sxGj2nTgRz1FQi2GoXE"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "Sean Shibe",
-          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
-        }
-      ],
-      "duration_ms": 111178,
-      "name": "Children's Song No. 1 (Arr. for guitar by Forbes Henderson) - Classical Session",
-      "url": "https://open.spotify.com/track/6rpfMfLTgzfw7VzebK5Q9u"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/5YuoyZkNZRLYISzFh7cS7e"
       },
@@ -2199,6 +2179,26 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
+        "name": "Corea: Children's Song No. 1",
+        "url": "https://open.spotify.com/album/4v9sxGj2nTgRz1FQi2GoXE"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Sean Shibe",
+          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
+        }
+      ],
+      "duration_ms": 111178,
+      "name": "Children's Song No. 1 (Arr. for guitar by Forbes Henderson) - Classical Session",
+      "url": "https://open.spotify.com/track/6rpfMfLTgzfw7VzebK5Q9u"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
         "name": "Loiste",
         "url": "https://open.spotify.com/album/2M4uM2dAm17xuLzVJkz31X"
       },
@@ -2215,22 +2215,18 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
-        "name": "Beethoven: Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Edit)",
-        "url": "https://open.spotify.com/album/7ccd4dlgDTaEfuzivfo7Gz"
+        "name": "Polar (Traveler\u2019s Log)",
+        "url": "https://open.spotify.com/album/1WoR3gL3aEAoIHgZmBQN6j"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 140665,
-      "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo - Edit",
-      "url": "https://open.spotify.com/track/01Ir8veMRt2G54ZKPPvrJW"
+      "duration_ms": 272501,
+      "name": "The Monolith",
+      "url": "https://open.spotify.com/track/2gIQ32GVBpFkDb6lsIQK39"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -2267,22 +2263,6 @@
       "duration_ms": 173200,
       "name": "Dreamweaver: 2. Dreamsong",
       "url": "https://open.spotify.com/track/5L1D2edlnA2yvnO2IsHMZ0"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
-        "name": "Polar (Traveler\u2019s Log)",
-        "url": "https://open.spotify.com/album/1WoR3gL3aEAoIHgZmBQN6j"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 272501,
-      "name": "The Monolith",
-      "url": "https://open.spotify.com/track/2gIQ32GVBpFkDb6lsIQK39"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -2331,6 +2311,42 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
+        "name": "Beethoven: Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Edit)",
+        "url": "https://open.spotify.com/album/7ccd4dlgDTaEfuzivfo7Gz"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 140665,
+      "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo - Edit",
+      "url": "https://open.spotify.com/track/01Ir8veMRt2G54ZKPPvrJW"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE"
+      },
+      "artists": [
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Vivaldi Variation (meno mosso)",
+      "url": "https://open.spotify.com/track/1L7y9wtq9PzlY42qBQCNYu"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
         "name": "Intermundia",
         "url": "https://open.spotify.com/album/0nFHh7Rb9TcrhPIGAX7rr8"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 220149,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/6xvYKwgflLoK9ScVi94YQb"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
-        "name": "Pianissimo II",
-        "url": "https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE"
-      },
-      "artists": [
-        {
-          "name": "Florian Christl",
-          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Vivaldi Variation (meno mosso)",
-      "url": "https://open.spotify.com/track/1L7y9wtq9PzlY42qBQCNYu"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -2699,6 +2699,22 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
+        "name": "Waltz of the Flowers (From \"The Nutcracker\", Op. 71)",
+        "url": "https://open.spotify.com/album/0qyrCLqRuSqbgn9oo5PLpy"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 139893,
+      "name": "Waltz of the Flowers (From \"The Nutcracker\", Op. 71)",
+      "url": "https://open.spotify.com/track/5Kxzg9iFSKRNy5FOV5Xzz2"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/4b4nboVDurZKBFzaL9lJdS"
       },
@@ -2735,18 +2751,22 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
-        "name": "Waltz of the Flowers (From \"The Nutcracker\", Op. 71)",
-        "url": "https://open.spotify.com/album/0qyrCLqRuSqbgn9oo5PLpy"
+        "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
+        "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
         }
       ],
-      "duration_ms": 139893,
-      "name": "Waltz of the Flowers (From \"The Nutcracker\", Op. 71)",
-      "url": "https://open.spotify.com/track/5Kxzg9iFSKRNy5FOV5Xzz2"
+      "duration_ms": 71262,
+      "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
+      "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -2771,22 +2791,18 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
-        "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
-        "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
+        "name": "Tra Bo Dau (Arr. Huws for Harp)",
+        "url": "https://open.spotify.com/album/62SAjTcSXYdVsQpG8cF5h1"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
         }
       ],
-      "duration_ms": 71262,
-      "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
-      "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
+      "duration_ms": 231853,
+      "name": "Tra Bo Dau (Arr. Huws for Harp)",
+      "url": "https://open.spotify.com/track/5ccmxu51xA4WPkaKtf5ZZz"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -2803,22 +2819,6 @@
       "duration_ms": 230733,
       "name": "Consolation",
       "url": "https://open.spotify.com/track/4O2BKvXG8TRijWec0aa4KG"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
-        "name": "Tra Bo Dau (Arr. Huws for Harp)",
-        "url": "https://open.spotify.com/album/62SAjTcSXYdVsQpG8cF5h1"
-      },
-      "artists": [
-        {
-          "name": "Alis Huws",
-          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
-        }
-      ],
-      "duration_ms": 231853,
-      "name": "Tra Bo Dau (Arr. Huws for Harp)",
-      "url": "https://open.spotify.com/track/5ccmxu51xA4WPkaKtf5ZZz"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -2855,54 +2855,26 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
-        "name": "J\u00f3hannsson: The Theory of Everything (from \"The Theory of Everything\") [Performed on Piano]",
-        "url": "https://open.spotify.com/album/45MZ4glrJWAmfLTCfeMcmT"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ"
       },
       "artists": [
         {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+          "name": "Leon Wolf",
+          "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
         },
         {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "duration_ms": 91285,
-      "name": "The Theory of Everything (From \"The Theory of Everything\") [Performed on Piano]",
-      "url": "https://open.spotify.com/track/3Kf7vFB10SHN9UAXjAzEvM"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
-        "name": "Down The Aisle",
-        "url": "https://open.spotify.com/album/7lEKD2lDu2JH1ao1kWO7EV"
-      },
-      "artists": [
+          "name": "Robin Kallenberger",
+          "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
+        },
         {
-          "name": "G\u00c5EL",
-          "url": "https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5"
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
         }
       ],
-      "duration_ms": 205250,
-      "name": "Down The Aisle",
-      "url": "https://open.spotify.com/track/2yzLWd4ERy52I4hJG1miBM"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
-        "name": "S\u00e9duction",
-        "url": "https://open.spotify.com/album/2m15mXo88YsCh9FFcepsTT"
-      },
-      "artists": [
-        {
-          "name": "Alain Lef\u00e8vre",
-          "url": "https://open.spotify.com/artist/3TL7yaSno7le3PmFBYsHDU"
-        }
-      ],
-      "duration_ms": 319240,
-      "name": "S\u00e9duction",
-      "url": "https://open.spotify.com/track/12dCdtUiW2oGuM33S0pBtp"
+      "duration_ms": 144075,
+      "name": "Noctilucent",
+      "url": "https://open.spotify.com/track/3sdCoYRGhiUJmd02vVp8xe"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -2927,6 +2899,58 @@
       "duration_ms": 134813,
       "name": "Sea Sketches: II. Sailing Song",
       "url": "https://open.spotify.com/track/5dSnXOCpFvhmkJlxplcuJR"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
+        "name": "J\u00f3hannsson: The Theory of Everything (from \"The Theory of Everything\") [Performed on Piano]",
+        "url": "https://open.spotify.com/album/45MZ4glrJWAmfLTCfeMcmT"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "duration_ms": 91285,
+      "name": "The Theory of Everything (From \"The Theory of Everything\") [Performed on Piano]",
+      "url": "https://open.spotify.com/track/3Kf7vFB10SHN9UAXjAzEvM"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
+        "name": "S\u00e9duction",
+        "url": "https://open.spotify.com/album/2m15mXo88YsCh9FFcepsTT"
+      },
+      "artists": [
+        {
+          "name": "Alain Lef\u00e8vre",
+          "url": "https://open.spotify.com/artist/3TL7yaSno7le3PmFBYsHDU"
+        }
+      ],
+      "duration_ms": 319240,
+      "name": "S\u00e9duction",
+      "url": "https://open.spotify.com/track/12dCdtUiW2oGuM33S0pBtp"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
+        "name": "Down The Aisle",
+        "url": "https://open.spotify.com/album/7lEKD2lDu2JH1ao1kWO7EV"
+      },
+      "artists": [
+        {
+          "name": "G\u00c5EL",
+          "url": "https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5"
+        }
+      ],
+      "duration_ms": 205250,
+      "name": "Down The Aisle",
+      "url": "https://open.spotify.com/track/2yzLWd4ERy52I4hJG1miBM"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -2971,30 +2995,6 @@
       "duration_ms": 188000,
       "name": "Turandot, SC 91: \"Nessun Dorma\" - Arr. for String Orchestra by Matt Naughtin",
       "url": "https://open.spotify.com/track/6a0uCh0i9ICDwLgjuZwhTI"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ"
-      },
-      "artists": [
-        {
-          "name": "Leon Wolf",
-          "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
-        },
-        {
-          "name": "Robin Kallenberger",
-          "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        }
-      ],
-      "duration_ms": 144075,
-      "name": "Noctilucent",
-      "url": "https://open.spotify.com/track/3sdCoYRGhiUJmd02vVp8xe"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -3103,6 +3103,26 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
+        "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
+        "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 150493,
+      "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
+      "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
         "name": "In Trutina (From Carmina Burana, Arr. for Piano and Cello by Tim Allhoff)",
         "url": "https://open.spotify.com/album/3SLPCekNvzwJfwttXDvhbJ"
       },
@@ -3123,26 +3143,6 @@
       "duration_ms": 141000,
       "name": "In Trutina (From Carmina Burana, Arr. for Piano and Cello by Tim Allhoff)",
       "url": "https://open.spotify.com/track/3jrHPaR4AYZAl1X3GFYlEx"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
-        "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
-        "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 150493,
-      "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
-      "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -3543,6 +3543,22 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
+        "name": "Giravolte (Andante Piano Sessions)",
+        "url": "https://open.spotify.com/album/1bdd6UYnufbt1gZDHPTxxZ"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 150321,
+      "name": "Giravolte - Andante Piano Sessions",
+      "url": "https://open.spotify.com/track/4bBuJNOnr85cQAIwu48lid"
+    },
+    {
+      "added_at": "2025-11-26 09:00:25",
+      "album": {
         "name": "Gjeilo: The Road: 6. Husedalen",
         "url": "https://open.spotify.com/album/2kMUyWZvNwl7FwKWndIAQz"
       },
@@ -3575,18 +3591,26 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
-        "name": "Giravolte (Andante Piano Sessions)",
-        "url": "https://open.spotify.com/album/1bdd6UYnufbt1gZDHPTxxZ"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ"
       },
       "artists": [
         {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+          "name": "Leon Wolf",
+          "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
+        },
+        {
+          "name": "Robin Kallenberger",
+          "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
         }
       ],
-      "duration_ms": 150321,
-      "name": "Giravolte - Andante Piano Sessions",
-      "url": "https://open.spotify.com/track/4bBuJNOnr85cQAIwu48lid"
+      "duration_ms": 95313,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/4yTRIGdzGVmmw1CcTiraKy"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -3619,30 +3643,6 @@
       "duration_ms": 236491,
       "name": "Tiersen: Tempelhof",
       "url": "https://open.spotify.com/track/4NqrAnZUh7iienqfrC4oaE"
-    },
-    {
-      "added_at": "2025-11-26 09:00:25",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ"
-      },
-      "artists": [
-        {
-          "name": "Leon Wolf",
-          "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
-        },
-        {
-          "name": "Robin Kallenberger",
-          "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        }
-      ],
-      "duration_ms": 95313,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/4yTRIGdzGVmmw1CcTiraKy"
     },
     {
       "added_at": "2025-11-26 09:00:25",
@@ -3699,18 +3699,26 @@
     {
       "added_at": "2025-11-26 09:00:25",
       "album": {
-        "name": "Michael Nyman: The Promise",
-        "url": "https://open.spotify.com/album/0M1GxmaJ7vekWhoXGE15Ux"
+        "name": "Bridge: Berceuse",
+        "url": "https://open.spotify.com/album/75ldCnHN6Y8OB3z4xSJYYI"
       },
       "artists": [
         {
-          "name": "Dalal",
-          "url": "https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ"
+          "name": "Frank Bridge",
+          "url": "https://open.spotify.com/artist/7rj5B6cNPEJhWLnZAPSw9c"
+        },
+        {
+          "name": "Gerald Peregrine",
+          "url": "https://open.spotify.com/artist/4mpoecueQYD4qDdoj81bNF"
+        },
+        {
+          "name": "Antony Ingham",
+          "url": "https://open.spotify.com/artist/2CKDbVx8sSX0xJX2sMtDIX"
         }
       ],
-      "duration_ms": 116710,
-      "name": "Nyman: The Promise",
-      "url": "https://open.spotify.com/track/0yaWT7x4jyX0dT6rpy65lo"
+      "duration_ms": 190400,
+      "name": "Berceuse (Version for Cello and Piano): Berceuse (Version for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1mvl7VYe5lZDheSEYiYJ22"
     }
   ],
   "unique_name": "Classical in the Background",

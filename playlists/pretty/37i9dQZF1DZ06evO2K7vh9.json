@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 100151,
+  "num_followers": 100145,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAACyRKLn/+Kec24f+pLdzEy2",
+  "snapshot_id": "aS4sAAAAAABWCOgGbNsdbt1hSEsjBYYc",
   "tracks": [
     {
       "added_at": null,
@@ -27,8 +27,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
       },
       "artists": [
         {
@@ -38,7 +38,7 @@
       ],
       "duration_ms": 136991,
       "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N"
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 210803,
+      "name": "BAD TIME",
+      "url": "https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 153626,
       "name": "Out Of Love (feat. Internet Money)",
       "url": "https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PLAN A",
-        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 210803,
-      "name": "BAD TIME",
-      "url": "https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx"
     },
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 177534,
+      "name": "Tic Tac Toe (with Ken Carson)",
+      "url": "https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rover (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 166805,
       "name": "Rover (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh"
-      },
-      "artists": [
-        {
-          "name": "Bankrol Hayden",
-          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 112613,
-      "name": "Come Through (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/7I7y5vl3dEZFIdWSB2O1ZZ"
     },
     {
       "added_at": null,
@@ -523,6 +523,26 @@
       "duration_ms": 134520,
       "name": "DUI",
       "url": "https://open.spotify.com/track/4Bhdiu8zhwQR3tXy8YMbCj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh"
+      },
+      "artists": [
+        {
+          "name": "Bankrol Hayden",
+          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 112613,
+      "name": "Come Through (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/7I7y5vl3dEZFIdWSB2O1ZZ"
     },
     {
       "added_at": null,

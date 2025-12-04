@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Arakezuri
 
-863 songs - 1 day 21 hr 37 min
+863 songs - 1 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Look Back in Anger](https://open.spotify.com/track/7wMDLzxtaAcshebbQsacFn) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [Look Back in Anger](https://open.spotify.com/album/1PcdkMR2ta8lbLnelAl4WB) | 4:33 | 2022-11-01 | 2022-12-14 |
 | [Loser](https://open.spotify.com/track/1jMVW1GAf96u79kRA5Nju0) | [No Guard Okey](https://open.spotify.com/artist/0WChAIlhqnTFsCusfLKQLL) | [Loser](https://open.spotify.com/album/1NPlcu5HhjiVLh2xCYNmgi) | 3:03 | 2025-06-24 | 2025-09-09 |
 | [LOSERS WIN LAST](https://open.spotify.com/track/6ZYpueou9LMzTm2qAy0T8G) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [SMILE](https://open.spotify.com/album/5MpZ339ChGKMvQ8umDo1n6) | 2:14 | 2022-06-28 | 2022-07-17 |
+| [LOST IN THE "LIVEHOUSE"](https://open.spotify.com/track/166Fh9ya9Ni7jl8ogomOJu) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [HELLO!](https://open.spotify.com/album/0Fby1ANupBwwDm8bFjf8nz) | 0:53 | 2025-12-02 |  |
 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 | 2023-04-18 |  |
 | [Love song](https://open.spotify.com/track/4gtuaF2M5Lpl5EYSdAA3Th) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/2tHhRVVI82FOCr0nEujtsY) | 2:33 | 2023-04-19 | 2023-06-01 |
 | [LUCKY BOY](https://open.spotify.com/track/5assUIrvcCBk6wTw0YLNYT) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [LUCKY BOY](https://open.spotify.com/album/7832Hv94keKPcy8D6Gc7dA) | 2:32 | 2024-09-17 | 2024-11-11 |
@@ -428,7 +429,7 @@
 | [Rain](https://open.spotify.com/track/5LXh3ZNhWUwfX30YZc6VO4) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W) | 5:21 | 2023-09-20 | 2024-04-19 |
 | [rainy day](https://open.spotify.com/track/5NEtRE4ehYHg6uJ8lrbNTh) | [EiHilE](https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED) | [rainy day](https://open.spotify.com/album/0KhN1AYoTQF7z0WugJMW9Z) | 0:38 | 2024-05-30 | 2024-09-04 |
 | [RAY \- Single ver.](https://open.spotify.com/track/7D0XjmATk1Qer8WPhCBPIl) | [Ace ON Dawn](https://open.spotify.com/artist/3QGeIj8jFm6QzZFoM9rhVi) | [RAY](https://open.spotify.com/album/4hU8CinlsVyZLS5LRLJ2mr) | 4:13 | 2022-05-12 | 2022-07-25 |
-| [Red](https://open.spotify.com/track/639Uuzbmh3jh2lRvxZ2xHD) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [](https://open.spotify.com/album/null) | 1:13 | 2025-12-02 |  |
+| [Red](https://open.spotify.com/track/639Uuzbmh3jh2lRvxZ2xHD) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [ENSEMBLE](https://open.spotify.com/album/6ntl6HHJTYj14wPZGfyWcc) | 1:13 | 2025-12-02 |  |
 | [RED](https://open.spotify.com/track/0YBIcDTmYZP3jxcO3L2AYv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:54 | 2023-09-28 | 2023-11-07 |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-07-13 | 2023-09-30 |
 | [Rest in Punk](https://open.spotify.com/track/45fdY5d6sQWanxK8VH1LzA) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 2:32 | 2023-10-31 | 2024-04-19 |
@@ -568,7 +569,6 @@
 | [Tonight](https://open.spotify.com/track/10A9VcbEIc3AH3C2rfu1tD) | [SUNSET BUS](https://open.spotify.com/artist/1sboP5R9cxXEH5UCMToC5r) | [BEER GARDEN](https://open.spotify.com/album/4DzmtfY7YnsOu6IifJxkTI) | 3:16 | 2022-05-17 | 2022-07-18 |
 | [Too Late](https://open.spotify.com/track/73F4rkF5y8GTEGpJMmoJOt) | [NO KIDDING](https://open.spotify.com/artist/1KLgpMiigMC3V2ojGCRsJX) | [LOOK OUT](https://open.spotify.com/album/1JgbKOpCmZb7MgexcWUZp6) | 2:29 | 2022-06-07 | 2022-07-14 |
 | [Toy Box](https://open.spotify.com/track/5nLEnUwxoVzpj7PX6VZtFl) | [Crazy Hitman](https://open.spotify.com/artist/3Xw9Mz2zXi9GYCcE2hqP0d) | [Riddim Jamboree](https://open.spotify.com/album/4SJCTlmddUO9LYPqmANnTS) | 3:18 | 2022-05-12 | 2022-07-27 |
-| [Track 1](https://open.spotify.com/track/166Fh9ya9Ni7jl8ogomOJu) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-02 |  |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI) | 3:53 | 2023-02-14 |  |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/5PUNRSIFNxWimFJ1r9vgkl) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/4c3iop1ngWgS6LZNcMYpI5) | 3:53 | 2023-02-14 | 2023-03-25 |
 | [Tropical Days](https://open.spotify.com/track/3wIQFCAQ3oWx8ggPBGlvi4) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv) | [HYPE](https://open.spotify.com/album/3OP8h5RjyE4v2hazWAmaLa) | 3:05 | 2022-05-24 | 2022-07-18 |

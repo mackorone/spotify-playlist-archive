@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 106588,
+  "num_followers": 106587,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAADfGPUqZCizvMRaCyOAs+2C",
+  "snapshot_id": "aS4sAAAAAAB+IKmXO7TALiwWaLTt+UkQ",
   "tracks": [
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Premiadas De Celia Cruz",
-        "url": "https://open.spotify.com/album/2RwLH5eQUSysH3JYCGC0HB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "Melao De Ca\u00f1a",
-      "url": "https://open.spotify.com/track/3plteX0fS86RHbRTwEIHuo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Pilanderas",
         "url": "https://open.spotify.com/album/2kvrc2ZZCGcmjOxgrX44Ma"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 199666,
       "name": "Las Pilanderas",
       "url": "https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Premiadas De Celia Cruz",
+        "url": "https://open.spotify.com/album/2RwLH5eQUSysH3JYCGC0HB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "Melao De Ca\u00f1a",
+      "url": "https://open.spotify.com/track/3plteX0fS86RHbRTwEIHuo"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Az\u00facar Negra",
+        "url": "https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 289146,
+      "name": "Saz\u00f3n",
+      "url": "https://open.spotify.com/track/1hZ0AcMDdOv4C7lpgBfmpE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celia Cruz Centennial",
         "url": "https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 272251,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Az\u00facar Negra",
-        "url": "https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 289146,
-      "name": "Saz\u00f3n",
-      "url": "https://open.spotify.com/track/1hZ0AcMDdOv4C7lpgBfmpE"
     }
   ],
   "unique_name": "This Is Celia Cruz",

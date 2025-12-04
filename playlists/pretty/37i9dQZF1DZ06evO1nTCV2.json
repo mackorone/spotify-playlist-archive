@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 45060,
+  "num_followers": 45061,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAAAMz91CADjqvjgK/TLhSrzo",
+  "snapshot_id": "aS4sAAAAAABoPEYfivoRlHbwa5/yzLbB",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 201695,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
+      "duration_ms": 203333,
+      "name": "Saturday Night Forever",
+      "url": "https://open.spotify.com/track/0tkHXjNXfoBs6GQAySVUvb"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
       "artists": [
         {
@@ -276,9 +276,57 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Do You Still Love Me?",
-      "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
+      "duration_ms": 201695,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 115416,
+      "name": "Bye Bye Balloons",
+      "url": "https://open.spotify.com/track/7g3kyS8muMEdA4AfqNw3OG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "New York, New York",
+      "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sword & Stone",
+        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
     },
     {
       "added_at": null,
@@ -299,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
       },
       "artists": [
         {
@@ -308,9 +356,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 226693,
-      "name": "New York, New York",
-      "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
+      "duration_ms": 144408,
+      "name": "Someone On my Mind",
+      "url": "https://open.spotify.com/track/3V123jeAM3oXRebk3YL93u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Do You Still Love Me?",
+      "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
     },
     {
       "added_at": null,
@@ -351,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sword & Stone",
-        "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
       },
       "artists": [
         {
@@ -360,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 169573,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
+      "duration_ms": 194666,
+      "name": "Virginia In The Rain",
+      "url": "https://open.spotify.com/track/60p5ukyTsVeDnwDp51HAad"
     },
     {
       "added_at": null,
@@ -383,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
       "artists": [
         {
@@ -392,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 115416,
-      "name": "Bye Bye Balloons",
-      "url": "https://open.spotify.com/track/7g3kyS8muMEdA4AfqNw3OG"
+      "duration_ms": 340666,
+      "name": "English Girls Approximately",
+      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
     },
     {
       "added_at": null,
@@ -415,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
       },
       "artists": [
         {
@@ -424,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 340666,
-      "name": "English Girls Approximately",
-      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
+      "duration_ms": 158199,
+      "name": "I Am Dracula",
+      "url": "https://open.spotify.com/track/1tBVKNy12thGdbDXlZy7eU"
     },
     {
       "added_at": null,
@@ -447,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Saturday Night Forever",
-      "url": "https://open.spotify.com/track/0tkHXjNXfoBs6GQAySVUvb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
@@ -479,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
       },
       "artists": [
         {
@@ -488,9 +536,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 234426,
-      "name": "I See Monsters",
-      "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
+      "duration_ms": 238333,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 162968,
+      "name": "Take The Money",
+      "url": "https://open.spotify.com/track/5Gq9TrfNwkKwFroqmT7Gs0"
     },
     {
       "added_at": null,
@@ -511,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
       "artists": [
         {
@@ -520,25 +584,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 144408,
-      "name": "Someone On my Mind",
-      "url": "https://open.spotify.com/track/3V123jeAM3oXRebk3YL93u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
+      "duration_ms": 234426,
+      "name": "I See Monsters",
+      "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
     },
     {
       "added_at": null,
@@ -575,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Virginia In The Rain",
-      "url": "https://open.spotify.com/track/60p5ukyTsVeDnwDp51HAad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wednesdays",
         "url": "https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek"
       },
@@ -623,38 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 158199,
-      "name": "I Am Dracula",
-      "url": "https://open.spotify.com/track/1tBVKNy12thGdbDXlZy7eU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 151960,
       "name": "Oh My God, Whatever, Etc.",
       "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
       "duration_ms": 267261,
       "name": "In My Time of Need",
       "url": "https://open.spotify.com/track/0APv17oLwplLLc376ipFH8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 236254,
-      "name": "Please, Shut The Fuck Up",
-      "url": "https://open.spotify.com/track/2yHsfeMrKZoSYcwnDl9Khu"
     },
     {
       "added_at": null,

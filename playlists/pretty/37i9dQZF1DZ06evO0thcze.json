@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 56842,
+  "num_followers": 56850,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAABTmXSUNNDRe+1l5tdpxVIp",
+  "snapshot_id": "aS4sAAAAAABlyXzsbhxjHHJhC7InUo+N",
   "tracks": [
     {
       "added_at": null,
@@ -1099,42 +1099,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Villana",
-        "url": "https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u"
+        "name": "Metr\u00f3poli",
+        "url": "https://open.spotify.com/album/3gLMMLuVGYifw1so7zfJWl"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 198787,
-      "name": "Villana",
-      "url": "https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aunque Me Llames",
-        "url": "https://open.spotify.com/album/43lkEvf58jkDaTFYOBOHsp"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
         },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 298778,
-      "name": "Aunque Me Llames",
-      "url": "https://open.spotify.com/track/51e4EQSoahGmUlH5Hn9AVK"
+      "duration_ms": 181900,
+      "name": "Kryptonita",
+      "url": "https://open.spotify.com/track/34ha9oVnIHbvOiYZkcu0xU"
     },
     {
       "added_at": null,
@@ -1171,22 +1151,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metr\u00f3poli",
-        "url": "https://open.spotify.com/album/3gLMMLuVGYifw1so7zfJWl"
+        "name": "Aunque Me Llames",
+        "url": "https://open.spotify.com/album/43lkEvf58jkDaTFYOBOHsp"
       },
       "artists": [
         {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 181900,
-      "name": "Kryptonita",
-      "url": "https://open.spotify.com/track/34ha9oVnIHbvOiYZkcu0xU"
+      "duration_ms": 298778,
+      "name": "Aunque Me Llames",
+      "url": "https://open.spotify.com/track/51e4EQSoahGmUlH5Hn9AVK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Villana",
+        "url": "https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 198787,
+      "name": "Villana",
+      "url": "https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,569 likes - 75 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,636 likes - 75 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 37 | [Om Tryambakam: Mantra for Health](https://open.spotify.com/track/7xHqunPfTTNAsJvBjSzDsH) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 8:33 |
 | 38 | [Shri Krishna Sankirtan](https://open.spotify.com/track/6GHfymsJE5S8utA7N59cXE) | [Sanatana Bharat](https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW), [Upadhyay](https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6), [Amrita Chaturvedi](https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze) | [Shri Krishna Sankirtan](https://open.spotify.com/album/6k6L8iINJOP8nU87k13hag) | 12:37 |
 | 39 | [Hari Om Tat Sat](https://open.spotify.com/track/0xGwFiCoeGKds8btsxwWXs) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 14:19 |
-| 40 | [Namami Shamishan \(Rudrashtakam\) \- at 432 Hz](https://open.spotify.com/track/1dU4ZqrFn9yQUV3lPIAPj5) | [Abdhesh Goswami](https://open.spotify.com/artist/7rZPDmbzGNoO9N0PJvimgh) | [Namami Shamishan \(Rudrashtakam\) \- at 432 Hz](https://open.spotify.com/album/138BGFqBjODTBthMLxLzjd) | 3:30 |
-| 41 | [Ganesh Panchratna Stotram](https://open.spotify.com/track/4VM3QCwCdwHxCbaLmgSlG4) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Phaldata Ganesh](https://open.spotify.com/album/4gfFKxRzFVNbZBabQWVxOd) | 7:43 |
+| 40 | [Ganesh Panchratna Stotram](https://open.spotify.com/track/4VM3QCwCdwHxCbaLmgSlG4) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Phaldata Ganesh](https://open.spotify.com/album/4gfFKxRzFVNbZBabQWVxOd) | 7:43 |
+| 41 | [Namami Shamishan \(Rudrashtakam\) \- at 432 Hz](https://open.spotify.com/track/1dU4ZqrFn9yQUV3lPIAPj5) | [Abdhesh Goswami](https://open.spotify.com/artist/7rZPDmbzGNoO9N0PJvimgh) | [Namami Shamishan \(Rudrashtakam\) \- at 432 Hz](https://open.spotify.com/album/138BGFqBjODTBthMLxLzjd) | 3:30 |
 | 42 | [Maha Mritunjay Mantra](https://open.spotify.com/track/2VPMBwthYsmETrZ6WGsPcD) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Maha Mritunjay Mantra](https://open.spotify.com/album/33n1vZq8hq2yOwm6nk1Rwm) | 17:12 |
 | 43 | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn) | [Om Voices](https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK) | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF) | 6:20 |
 | 44 | [Tvameva Mata Cha Pita Tvameva](https://open.spotify.com/track/6ApbR2J85fA6TbhOTZWry4) | [Sanatana Bharat](https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW), [Upadhyay](https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6), [Amrita Chaturvedi](https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze) | [Tvameva Mata Cha Pita Tvameva](https://open.spotify.com/album/34WWbToLqZuq4PIVtVQmiJ) | 13:26 |

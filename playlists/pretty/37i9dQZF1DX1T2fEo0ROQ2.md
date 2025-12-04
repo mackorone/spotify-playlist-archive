@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,276 likes - 197 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,305 likes - 197 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 196 | [Equilibrium](https://open.spotify.com/track/1XIybfIyhDoovJHeSB1XAL) | [Stillgarden](https://open.spotify.com/artist/6NKUqC8TcyhtHenPgTRTvt) | [Equilibrium](https://open.spotify.com/album/2XGnIGJNsxtjvRJn8tEoOu) | 2:41 |
 | 197 | [Etherways](https://open.spotify.com/track/0oKcpPfP2zE9DigVdunLN0) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Etherways](https://open.spotify.com/album/0U2xVfoKfVsTmuPxUEpMWl) | 2:24 |
 
-Snapshot ID: `AAAAAPlD3waTFtXZmKq22hO5j1ccDhiZ`
+Snapshot ID: `AAAAAMV3iUCQ8gMOjLI3OvOFZ0w4LbF5`

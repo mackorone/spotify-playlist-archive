@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,301 likes - 148 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,425 likes - 148 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,32 +24,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 14 | [Coming of Age](https://open.spotify.com/track/2uXxdJ7LhDAO4W1z8ud9TD) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Coming of Age](https://open.spotify.com/album/4dRihrJQp5OVcJQvNr5W4Y) | 2:43 |
 | 15 | [Sofi](https://open.spotify.com/track/1E63PT29zZUjwssWUudCIX) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Sofi](https://open.spotify.com/album/6CFdDRsZbvWZGWC42iQ9wb) | 2:53 |
 | 16 | [Sketches](https://open.spotify.com/track/464n8gKl9hsICURBJeHnwF) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Sketches](https://open.spotify.com/album/77fHhNoGxCGWa59DVMYJbj) | 2:26 |
-| 17 | [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 |
+| 17 | [Floating Star](https://open.spotify.com/track/24Y0FyOArWgcILnOXWLCPS) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Floating Star](https://open.spotify.com/album/1ZwL8QEmLiEGO3meFav9th) | 2:24 |
 | 18 | [Prolepsis](https://open.spotify.com/track/2nXKLx6twOnsoPnP6Mb6bP) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Prolepsis](https://open.spotify.com/album/653TASouF1WGqXxbQhXvjn) | 2:39 |
-| 19 | [Floating Star](https://open.spotify.com/track/24Y0FyOArWgcILnOXWLCPS) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Floating Star](https://open.spotify.com/album/1ZwL8QEmLiEGO3meFav9th) | 2:24 |
+| 19 | [Quiet Company](https://open.spotify.com/track/7aWnaIWr9ODUy6XeDWNThT) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Quiet Company](https://open.spotify.com/album/5WBcOx4C4KhNTmMgrg3Kse) | 2:19 |
 | 20 | [By the Sea](https://open.spotify.com/track/6Lt9b5oL5on7REgC3FarN2) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [By the Sea](https://open.spotify.com/album/4f8DinTrpgO48Fc6pNUjgi) | 2:09 |
-| 21 | [Unsent Notes](https://open.spotify.com/track/7laGZBxQb0WwTPVbFDkH7S) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Unsent Notes](https://open.spotify.com/album/6IZq9FJ0V4p4hhi714SjTw) | 2:49 |
-| 22 | [Aberdeen](https://open.spotify.com/track/6VI9IBBjT3EHy0e3z2iafX) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Aberdeen](https://open.spotify.com/album/4F12OgxvgtSecEQJF8UpiT) | 3:08 |
-| 23 | [Haze](https://open.spotify.com/track/4UPMz9K7zjY8THQ5MPBUEA) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Haze](https://open.spotify.com/album/3GHDOyyxzgRtxuLMex0l4I) | 3:08 |
-| 24 | [Approaching A City](https://open.spotify.com/track/4tZrD16JmwGhzN3G2U8uOi) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Approaching A City](https://open.spotify.com/album/6XOCfS8bPU62fR5NbuOyBX) | 2:48 |
-| 25 | [The Rain Comes](https://open.spotify.com/track/5zpgmMQ46DVTr97ZwFDcAG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [The Rain Comes](https://open.spotify.com/album/6R7wD5TChs18vFNeX4jzin) | 2:40 |
-| 26 | [Light at Two Lights](https://open.spotify.com/track/6ekehwJu9fAyMSa7F2VneX) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Light at Two Lights](https://open.spotify.com/album/5J3DQ8pf0SLfOYgcyh3qHY) | 2:48 |
-| 27 | [Zumala](https://open.spotify.com/track/5Vl1Hua7EURdz34EnfwrKl) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Zumala](https://open.spotify.com/album/6AQTp4aTLOS1Z4XfAKxfVd) | 2:51 |
-| 28 | [Violetta](https://open.spotify.com/track/1XVUocouRpADxhKOzXrPiJ) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Violetta](https://open.spotify.com/album/17n0FEGM4SbdV0cRQ8OeTN) | 2:42 |
-| 29 | [Lost in the Moment](https://open.spotify.com/track/2KOlLqz63AA8AMuH5lwIyX) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lost in the Moment](https://open.spotify.com/album/5YSiRGp7ninOfNhNM5osJl) | 2:20 |
-| 30 | [Soothing Clare](https://open.spotify.com/track/70HknFJZ7R2Xu8jA7qnjyE) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Soothing Clare](https://open.spotify.com/album/3eJIsNmvJ3DxtRXCPLdPHI) | 2:09 |
-| 31 | [Several Layers](https://open.spotify.com/track/6BR5LwJbKIXa34Z5toMkGB) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Several Layers](https://open.spotify.com/album/3Xezbke1CDtcpwvmxMs8Vx) | 2:20 |
-| 32 | [Quiet Streets](https://open.spotify.com/track/2mp2kMjzgMNdbAQErNZbtQ) | [Milan Heyes](https://open.spotify.com/artist/46yZrE3PvsXkGFY6lE0EJ9) | [Quiet Streets](https://open.spotify.com/album/0r2gLejZURQ0d6nhxA5f5W) | 2:38 |
-| 33 | [Stillness](https://open.spotify.com/track/6LjrczTRiY4ZWG85vdD3W5) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stillness](https://open.spotify.com/album/7g1FCiurDarlhgX1EhSnMx) | 2:40 |
-| 34 | [Droplets](https://open.spotify.com/track/4jiLmkrPY1FBPrQH4OINHb) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Droplets](https://open.spotify.com/album/3Kwg8RafrMsS05OQSuRRqP) | 3:06 |
-| 35 | [Day Break](https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Day Break](https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W) | 2:32 |
-| 36 | [The Conjurer](https://open.spotify.com/track/0JedJNGmpwYxeNtLN0hPOj) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [The Conjurer](https://open.spotify.com/album/7bSOJbMphI7xdhCmTAzv2V) | 2:27 |
-| 37 | [Moving Forward](https://open.spotify.com/track/4jNLfi6sP5MJ1bU17icsrd) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Moving Forward](https://open.spotify.com/album/1NBGAA15nSVrYwGuYFKcUd) | 3:15 |
-| 38 | [Gentle Wind](https://open.spotify.com/track/3fdtUvagmwESIuBwwGH0WK) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Gentle Wind](https://open.spotify.com/album/4HsimABSaILxtSOmAIxlpk) | 2:19 |
-| 39 | [Long Ago](https://open.spotify.com/track/775Ft4xly7OCgFso7RPVV4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Long Ago](https://open.spotify.com/album/7wLP3AiBRRHer9fMSfsYcb) | 2:37 |
-| 40 | [Across the Divide](https://open.spotify.com/track/5rTd1AF8EiGKXjKXES3qJA) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Across the Divide](https://open.spotify.com/album/0rpdwEoKUFcOBLg3bibZqJ) | 2:28 |
-| 41 | [Serenade of Contradictions](https://open.spotify.com/track/5egmzMRyYpM8cVCLVx1FnH) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Serenade of Contradictions](https://open.spotify.com/album/0KRE9vwGuJCXt0MgidAN55) | 2:25 |
-| 42 | [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 |
+| 21 | [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 |
+| 22 | [Unsent Notes](https://open.spotify.com/track/7laGZBxQb0WwTPVbFDkH7S) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Unsent Notes](https://open.spotify.com/album/6IZq9FJ0V4p4hhi714SjTw) | 2:49 |
+| 23 | [Approaching A City](https://open.spotify.com/track/4tZrD16JmwGhzN3G2U8uOi) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Approaching A City](https://open.spotify.com/album/6XOCfS8bPU62fR5NbuOyBX) | 2:48 |
+| 24 | [Aberdeen](https://open.spotify.com/track/6VI9IBBjT3EHy0e3z2iafX) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Aberdeen](https://open.spotify.com/album/4F12OgxvgtSecEQJF8UpiT) | 3:08 |
+| 25 | [Haze](https://open.spotify.com/track/4UPMz9K7zjY8THQ5MPBUEA) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Haze](https://open.spotify.com/album/3GHDOyyxzgRtxuLMex0l4I) | 3:08 |
+| 26 | [The Rain Comes](https://open.spotify.com/track/5zpgmMQ46DVTr97ZwFDcAG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [The Rain Comes](https://open.spotify.com/album/6R7wD5TChs18vFNeX4jzin) | 2:40 |
+| 27 | [Light at Two Lights](https://open.spotify.com/track/6ekehwJu9fAyMSa7F2VneX) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Light at Two Lights](https://open.spotify.com/album/5J3DQ8pf0SLfOYgcyh3qHY) | 2:48 |
+| 28 | [Zumala](https://open.spotify.com/track/5Vl1Hua7EURdz34EnfwrKl) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Zumala](https://open.spotify.com/album/6AQTp4aTLOS1Z4XfAKxfVd) | 2:51 |
+| 29 | [Violetta](https://open.spotify.com/track/1XVUocouRpADxhKOzXrPiJ) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Violetta](https://open.spotify.com/album/17n0FEGM4SbdV0cRQ8OeTN) | 2:42 |
+| 30 | [Lost in the Moment](https://open.spotify.com/track/2KOlLqz63AA8AMuH5lwIyX) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lost in the Moment](https://open.spotify.com/album/5YSiRGp7ninOfNhNM5osJl) | 2:20 |
+| 31 | [Soothing Clare](https://open.spotify.com/track/70HknFJZ7R2Xu8jA7qnjyE) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Soothing Clare](https://open.spotify.com/album/3eJIsNmvJ3DxtRXCPLdPHI) | 2:09 |
+| 32 | [Several Layers](https://open.spotify.com/track/6BR5LwJbKIXa34Z5toMkGB) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Several Layers](https://open.spotify.com/album/3Xezbke1CDtcpwvmxMs8Vx) | 2:20 |
+| 33 | [Quiet Streets](https://open.spotify.com/track/2mp2kMjzgMNdbAQErNZbtQ) | [Milan Heyes](https://open.spotify.com/artist/46yZrE3PvsXkGFY6lE0EJ9) | [Quiet Streets](https://open.spotify.com/album/0r2gLejZURQ0d6nhxA5f5W) | 2:38 |
+| 34 | [Stillness](https://open.spotify.com/track/6LjrczTRiY4ZWG85vdD3W5) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stillness](https://open.spotify.com/album/7g1FCiurDarlhgX1EhSnMx) | 2:40 |
+| 35 | [Droplets](https://open.spotify.com/track/4jiLmkrPY1FBPrQH4OINHb) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Droplets](https://open.spotify.com/album/3Kwg8RafrMsS05OQSuRRqP) | 3:06 |
+| 36 | [Day Break](https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Day Break](https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W) | 2:32 |
+| 37 | [The Conjurer](https://open.spotify.com/track/0JedJNGmpwYxeNtLN0hPOj) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [The Conjurer](https://open.spotify.com/album/7bSOJbMphI7xdhCmTAzv2V) | 2:27 |
+| 38 | [Moving Forward](https://open.spotify.com/track/4jNLfi6sP5MJ1bU17icsrd) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Moving Forward](https://open.spotify.com/album/1NBGAA15nSVrYwGuYFKcUd) | 3:15 |
+| 39 | [Gentle Wind](https://open.spotify.com/track/3fdtUvagmwESIuBwwGH0WK) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Gentle Wind](https://open.spotify.com/album/4HsimABSaILxtSOmAIxlpk) | 2:19 |
+| 40 | [Long Ago](https://open.spotify.com/track/775Ft4xly7OCgFso7RPVV4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Long Ago](https://open.spotify.com/album/7wLP3AiBRRHer9fMSfsYcb) | 2:37 |
+| 41 | [Across the Divide](https://open.spotify.com/track/5rTd1AF8EiGKXjKXES3qJA) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Across the Divide](https://open.spotify.com/album/0rpdwEoKUFcOBLg3bibZqJ) | 2:28 |
+| 42 | [Serenade of Contradictions](https://open.spotify.com/track/5egmzMRyYpM8cVCLVx1FnH) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Serenade of Contradictions](https://open.spotify.com/album/0KRE9vwGuJCXt0MgidAN55) | 2:25 |
 | 43 | [Another Lifetime](https://open.spotify.com/track/6CVu8xdBu0PfhLilBSflKK) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Another Lifetime](https://open.spotify.com/album/4MP5HL0GXG8NyTXZV8Tazt) | 2:08 |
 | 44 | [Abilene](https://open.spotify.com/track/2zW7bKgWk9WRrTYvRys0rR) | [Luiz de Luna](https://open.spotify.com/artist/0FZzM3FVTZdoefPWS9Edhb) | [Abilene](https://open.spotify.com/album/0rv3TQYYHCDQPyW7Bc20Kv) | 2:32 |
 | 45 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 147 | [Beautiful symbol](https://open.spotify.com/track/0Sc485nvujwCllSECRF2sT) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Beautiful symbol](https://open.spotify.com/album/0Kd5h9Eqr1B0RclDkHK8UJ) | 2:19 |
 | 148 | [Conclusions](https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Conclusions](https://open.spotify.com/album/7uNjcU7S7gkmQVeBWWpncq) | 2:01 |
 
-Snapshot ID: `AAAAAExKiw+PQeNjwlhH12y/LA+7+pCZ`
+Snapshot ID: `AAAAAJ6wlw35idtQZg+ZhuJgIWIRNGWt`

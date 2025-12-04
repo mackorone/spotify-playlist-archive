@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1605737,
+  "num_followers": 1605834,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-11-21 05:00:26",
       "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 245927,
-      "name": "Children - Edit Mix",
-      "url": "https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV"
-    },
-    {
-      "added_at": "2025-11-21 05:00:26",
-      "album": {
         "name": "Super Powers",
         "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 212307,
       "name": "Super Powers",
       "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
+    },
+    {
+      "added_at": "2025-11-21 05:00:26",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 245927,
+      "name": "Children - Edit Mix",
+      "url": "https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV"
     },
     {
       "added_at": "2025-11-21 05:00:26",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2025-11-21 05:00:26",
       "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Are You With Me",
-      "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
-    },
-    {
-      "added_at": "2025-11-21 05:00:26",
-      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 202992,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2025-11-21 05:00:26",
+      "album": {
+        "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
     },
     {
       "added_at": "2025-11-21 05:00:26",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-11-21 05:00:26",
       "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
+    },
+    {
+      "added_at": "2025-11-21 05:00:26",
+      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 203760,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs"
-    },
-    {
-      "added_at": "2025-11-21 05:00:26",
-      "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
     },
     {
       "added_at": "2025-11-21 05:00:26",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2025-11-21 05:00:26",
       "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Barmuda",
-          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
-        }
-      ],
-      "duration_ms": 267812,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
-    },
-    {
-      "added_at": "2025-11-21 05:00:26",
-      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 217213,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ"
+    },
+    {
+      "added_at": "2025-11-21 05:00:26",
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "duration_ms": 267812,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
     },
     {
       "added_at": "2025-11-21 05:00:26",
@@ -1919,22 +1919,18 @@
     {
       "added_at": "2025-11-21 05:00:26",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/20PzigIv4lOEZIwjxmr2eF"
+        "name": "ReAnimation EP",
+        "url": "https://open.spotify.com/album/7s33cENsj5k8o0VHzID87K"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "Ezequiel Arias",
+          "url": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
         }
       ],
-      "duration_ms": 199546,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/4iQFexCu2T1PhIUS7Tg2fV"
+      "duration_ms": 260329,
+      "name": "ReAnimation",
+      "url": "https://open.spotify.com/track/43ofk81krK92e5sM12mfPC"
     },
     {
       "added_at": "2025-11-21 05:00:26",
@@ -1963,18 +1959,18 @@
     {
       "added_at": "2025-11-21 05:00:26",
       "album": {
-        "name": "ReAnimation EP",
-        "url": "https://open.spotify.com/album/7s33cENsj5k8o0VHzID87K"
+        "name": "Only I",
+        "url": "https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d"
       },
       "artists": [
         {
-          "name": "Ezequiel Arias",
-          "url": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 260329,
-      "name": "ReAnimation",
-      "url": "https://open.spotify.com/track/43ofk81krK92e5sM12mfPC"
+      "duration_ms": 228028,
+      "name": "Only I",
+      "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"
     }
   ],
   "unique_name": "Night Rider",

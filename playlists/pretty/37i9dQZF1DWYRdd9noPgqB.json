@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298805,
+  "num_followers": 298783,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-11-27 23:00:13",
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 164885,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
+    },
+    {
+      "added_at": "2025-11-27 23:00:13",
+      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
-    },
-    {
-      "added_at": "2025-11-27 23:00:13",
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 164885,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
     },
     {
       "added_at": "2025-11-27 23:00:13",
@@ -431,6 +431,26 @@
     {
       "added_at": "2025-11-27 23:00:13",
       "album": {
+        "name": "Sweet Emotion",
+        "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 157441,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
+    },
+    {
+      "added_at": "2025-11-27 23:00:13",
+      "album": {
         "name": "Everybody Gets Down",
         "url": "https://open.spotify.com/album/2itGQCqttw47maPiLdncOM"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 161093,
       "name": "Everybody Gets Down",
       "url": "https://open.spotify.com/track/0Z3YRaL0NvDgPdhTQTnqip"
-    },
-    {
-      "added_at": "2025-11-27 23:00:13",
-      "album": {
-        "name": "Sweet Emotion",
-        "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 157441,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
     },
     {
       "added_at": "2025-11-27 23:00:13",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-11-27 23:00:13",
       "album": {
-        "name": "Backflips in a Restaurant (Deluxe)",
-        "url": "https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 145890,
-      "name": "Might Not Be",
-      "url": "https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee"
-    },
-    {
-      "added_at": "2025-11-27 23:00:13",
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 247588,
       "name": "Eden",
       "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
+    },
+    {
+      "added_at": "2025-11-27 23:00:13",
+      "album": {
+        "name": "Backflips in a Restaurant (Deluxe)",
+        "url": "https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 145890,
+      "name": "Might Not Be",
+      "url": "https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee"
     },
     {
       "added_at": "2025-11-27 23:00:13",
@@ -851,22 +851,18 @@
     {
       "added_at": "2025-11-27 23:00:13",
       "album": {
-        "name": "Wasted Time",
-        "url": "https://open.spotify.com/album/2Yx8F5G25DlYYh6CbAJLUj"
+        "name": "When I Go",
+        "url": "https://open.spotify.com/album/5MYFajLWl4uphD3NPW223K"
       },
       "artists": [
         {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        },
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+          "name": "Saults",
+          "url": "https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8"
         }
       ],
-      "duration_ms": 224957,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/4zuis8Tg4TrhoQfRaKtCJ0"
+      "duration_ms": 257397,
+      "name": "When I Go",
+      "url": "https://open.spotify.com/track/1DIWTY8YI8cLaQRdPSrkDl"
     }
   ],
   "unique_name": "Feel Good",

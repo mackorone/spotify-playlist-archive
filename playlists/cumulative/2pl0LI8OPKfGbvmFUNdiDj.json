@@ -1665,6 +1665,28 @@
     },
     {
       "album": {
+        "name": "Jiggy Jiggy",
+        "url": "https://open.spotify.com/album/7IlPPAik9r0YzmfqUNvQHz"
+      },
+      "artists": [
+        {
+          "name": "JAO",
+          "url": "https://open.spotify.com/artist/21f6qfptoiJRqqRbRgepjb"
+        },
+        {
+          "name": "Smasher GMC",
+          "url": "https://open.spotify.com/artist/2J1zUfRo32V3n1Bj9WqnFm"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Jiggy Jiggy",
+      "url": "https://open.spotify.com/track/2aFDHNti4Cu6r7TRF1ewpm"
+    },
+    {
+      "album": {
         "name": "Time Trials",
         "url": "https://open.spotify.com/album/3KNPBIJpxFh4uh1dYkKwcx"
       },
@@ -3442,6 +3464,24 @@
       "duration_ms": 196000,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/1grZNRqYvC7DAfgrgZI0sP"
+    },
+    {
+      "album": {
+        "name": "Where Love Became a Ghost",
+        "url": "https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP"
+      },
+      "artists": [
+        {
+          "name": "Blue Remains",
+          "url": "https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271741,
+      "name": "Where Love Became a Ghost",
+      "url": "https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK"
     },
     {
       "album": {

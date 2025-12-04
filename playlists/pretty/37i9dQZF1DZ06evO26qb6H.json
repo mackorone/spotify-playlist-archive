@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3267,
+  "num_followers": 3266,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAAAXpLcZGwnqEKMqFi62VVjv",
+  "snapshot_id": "aS4sAAAAAABRT0sY3tTFIlj6Fdn2/not",
   "tracks": [
     {
       "added_at": null,
@@ -642,15 +642,11 @@
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 255093,
-      "name": "LOVE (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd"
+      "duration_ms": 122346,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/1LXShQsFNYrYgqnleZLn4d"
     },
     {
       "added_at": null,
@@ -747,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "White Tee",
+        "url": "https://open.spotify.com/album/3e1abCpzlmDBV5LVSzC1jV"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 113684,
+      "name": "White Tee",
+      "url": "https://open.spotify.com/track/5afnaEFXDEnacDAzfUfSgu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beef",
         "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
       },
@@ -767,26 +783,6 @@
       "duration_ms": 181306,
       "name": "Beef",
       "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Tee",
-        "url": "https://open.spotify.com/album/3e1abCpzlmDBV5LVSzC1jV"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 113684,
-      "name": "White Tee",
-      "url": "https://open.spotify.com/track/5afnaEFXDEnacDAzfUfSgu"
     },
     {
       "added_at": null,
@@ -815,30 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unfuckwitable (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Peezy",
-          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 172623,
-      "name": "Touchdown (feat. Peezy & Murda Beatz)",
-      "url": "https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
         "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
       },
@@ -859,6 +831,30 @@
       "duration_ms": 180609,
       "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
       "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unfuckwitable (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 172623,
+      "name": "Touchdown (feat. Peezy & Murda Beatz)",
+      "url": "https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv"
     },
     {
       "added_at": null,

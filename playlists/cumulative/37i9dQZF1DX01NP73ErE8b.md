@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Eddie Brock in cover
 
-456 songs - 23 hr 21 min
+457 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [KARMA](https://open.spotify.com/track/3Tk7eEuh7bMDIAdYfSG3tb) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [KARMA](https://open.spotify.com/album/0NciSOteTA2J2Wp8v4jrJl) | 3:21 | 2024-07-01 | 2024-09-24 |
 | [L'albero delle noci](https://open.spotify.com/track/4aHMoqPDJA6Rpa0MjyV1hT) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [L'albero delle noci](https://open.spotify.com/album/6CV9FxiVhhDnkazHLRXQMv) | 3:56 | 2025-02-12 | 2025-04-25 |
 | [L'amore eternit](https://open.spotify.com/track/2vAzyP21f777MdZNcyt6yt) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Pop\-hoolista](https://open.spotify.com/album/3MJfMtxaK8aHRFQk1Aqzcl) | 4:18 | 2025-02-03 | 2025-03-21 |
+| [L'Amore Non Mi Basta](https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR) | 3:31 | 2025-12-03 |  |
 | [L'ultima canzone](https://open.spotify.com/track/51wk2kBRxfiYIskpqYxk0N) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B) | 2:34 | 2025-03-20 | 2025-04-01 |
 | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/track/0vjcqQVb6nhk1A4lvW6ytN) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG) | 3:48 | 2024-07-01 | 2024-11-08 |
 | [L'UNICA](https://open.spotify.com/track/1ailkFmIM9eWlfqFd6OpuJ) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [L'UNICA](https://open.spotify.com/album/5w5CJYu0u2tWWsZXzPe3s8) | 3:10 | 2025-06-19 | 2025-11-11 |

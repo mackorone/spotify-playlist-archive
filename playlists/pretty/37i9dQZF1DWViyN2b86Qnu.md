@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Incredible tracks from trans, non\-binary, and gender\-fluid artists\. Cover: Beverly Glenn\-Copeland, Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,898 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,885 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

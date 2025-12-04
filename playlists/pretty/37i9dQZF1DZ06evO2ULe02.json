@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1895,
+  "num_followers": 1897,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAAC+8tBfa+f2VTBLJjxVIgXU",
+  "snapshot_id": "aS4sAAAAAACV2+igGyozuTeq8n+VHuC5",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dance around it",
-        "url": "https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 145760,
-      "name": "dance around it",
-      "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Alright If You're Ok",
         "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 171938,
       "name": "I Can't Be Your Friend",
       "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dance around it",
+        "url": "https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 145760,
+      "name": "dance around it",
+      "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
     },
     {
       "added_at": null,

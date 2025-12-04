@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 80285,
+  "num_followers": 80280,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Gressholmen",
+      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
         "name": "Underlig Frihet",
         "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 265400,
       "name": "Ka e du redd for",
       "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
-      },
-      "artists": [
-        {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        }
-      ],
-      "duration_ms": 253946,
-      "name": "Gressholmen",
-      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Ringdans",
-        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        }
-      ],
-      "duration_ms": 212258,
-      "name": "Ringdans",
-      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "De N\u00e6re Ting",
         "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
@@ -559,6 +543,26 @@
       "duration_ms": 138412,
       "name": "De N\u00e6re Ting",
       "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
+        "name": "De Beste",
+        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Mysteriet deg",
+      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -611,26 +615,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "De Beste",
-        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "Mysteriet deg",
-      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "Badebussen",
         "url": "https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 178160,
       "name": "Badebussen",
       "url": "https://open.spotify.com/track/1Ajp5nOYezdcpx3e8CfzMl"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
+        "name": "Ringdans",
+        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 212258,
+      "name": "Ringdans",
+      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
+        "name": "Sundreberget",
+        "url": "https://open.spotify.com/album/5n1Ib5tnDSRGllaXRASPpv"
+      },
+      "artists": [
+        {
+          "name": "Stein Torleif Bjella",
+          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Sundreberget",
+      "url": "https://open.spotify.com/track/3CH0jf6pS5OL4tGdpPuxhT"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
         "name": "Ta m\u00e6 tilbake",
         "url": "https://open.spotify.com/album/39qaA2S36UMbg2iIUZ3LkC"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Sundreberget",
-        "url": "https://open.spotify.com/album/5n1Ib5tnDSRGllaXRASPpv"
+        "name": "Svarte Skyer",
+        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
       },
       "artists": [
         {
-          "name": "Stein Torleif Bjella",
-          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
+          "name": "Hanne S\u00f8rvaag",
+          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
         }
       ],
-      "duration_ms": 265360,
-      "name": "Sundreberget",
-      "url": "https://open.spotify.com/track/3CH0jf6pS5OL4tGdpPuxhT"
+      "duration_ms": 180328,
+      "name": "Svarte Skyer",
+      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -751,22 +767,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Svarte Skyer",
-        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
-      },
-      "artists": [
-        {
-          "name": "Hanne S\u00f8rvaag",
-          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
-        }
-      ],
-      "duration_ms": 180328,
-      "name": "Svarte Skyer",
-      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "Club 7",
         "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Ka Du H\u00c3\u00a5pa P\u00c3\u00a5",
-        "url": "https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9"
-      },
-      "artists": [
-        {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
-        }
-      ],
-      "duration_ms": 209420,
-      "name": "Ka Du H\u00c3\u00a5pa P\u00c3\u00a5",
-      "url": "https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "3 sanger",
         "url": "https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 281955,
       "name": "S\u00e5 fullt av ja",
       "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
+        "name": "Ka Du H\u00c3\u00a5pa P\u00c3\u00a5",
+        "url": "https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9"
+      },
+      "artists": [
+        {
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+        }
+      ],
+      "duration_ms": 209420,
+      "name": "Ka Du H\u00c3\u00a5pa P\u00c3\u00a5",
+      "url": "https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX"
     },
     {
       "added_at": "2025-10-16 22:00:35",

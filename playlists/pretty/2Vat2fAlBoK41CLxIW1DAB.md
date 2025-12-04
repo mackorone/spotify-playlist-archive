@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,610 likes - 778 songs - 2 day 0 hr 51 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,610 likes - 788 songs - 2 day 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -786,5 +786,15 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 776 | [The Wake](https://open.spotify.com/track/3YLH1dDYn1Yt45H4MbhAFi) | [Black Halo](https://open.spotify.com/artist/2Vzqi1AZ8PcAt5Br2wGtjL) | [Upon Deaf Ears](https://open.spotify.com/album/4E3tsTLCxdasH8ufpwrcXJ) | 7:00 |
 | 777 | [Metal ME 2 \(HD\)](https://open.spotify.com/track/67eUCGlZqeGvk5j8wcb7qJ) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Metal ME 2 \(HD\)](https://open.spotify.com/album/02QlFOXir0SEvhhZ2CsbUH) | 2:15 |
 | 778 | [Älä seuraa minua](https://open.spotify.com/track/02YSmMqexkiR9F2k2itVSW) | [I.F.A](https://open.spotify.com/artist/1tEP2l9fgWgdj1TZloddVQ) | [Tiimalasi](https://open.spotify.com/album/2qBjXbvrgdu2naJ9WPmSZZ) | 4:31 |
+| 779 | [Short Rock](https://open.spotify.com/track/2nibQAc3drPhCtqUcmdFKM) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [Rock 'n Blues](https://open.spotify.com/album/4S32xtN8moiGONivGSyacA) | 1:54 |
+| 780 | [Jiminy Crickets](https://open.spotify.com/track/6VN1o5LG2HsDq5XMl6aI5m) | [Beth Seymour & The Lizzies](https://open.spotify.com/artist/04kwM7mgN8lfQPfnwukpUX) | [Outside, You'd Love Me To Death](https://open.spotify.com/album/2Bfr4b2NtupRSmBOoAElcA) | 3:31 |
+| 781 | [Cradle to Grave](https://open.spotify.com/track/2ukRVMfX1s6J1v7w6Oll3C) | [Justin Sundlin](https://open.spotify.com/artist/7EYiAFJ1jln8oTeBxwrQWn) | [Cradle to Grave](https://open.spotify.com/album/7xREaWpgQHnzyz4hXBRrV4) | 5:54 |
+| 782 | [Give Me A Reason](https://open.spotify.com/track/3E9UwbONa8WkVloJAHNrvp) | [ALL I LIVE FOR](https://open.spotify.com/artist/0ctNWTAY952oN0bGaFZmkP) | [Into The Ether](https://open.spotify.com/album/6yUePvsSDBwDVQkaADWqPn) | 4:06 |
+| 783 | [Midnight Witch](https://open.spotify.com/track/2GByP9nBSGlq6aw5K7A4Xi) | [Master Dy](https://open.spotify.com/artist/3lfScZWl1nVVmsYciBXKBu) | [Midnight Witch](https://open.spotify.com/album/0svfZnFDfYxdpIC0RM6nn3) | 4:25 |
+| 784 | [Nightmare \- Oblivion](https://open.spotify.com/track/7uDwF4ay0m4LGzwTLK270h) | [VortekLabel](https://open.spotify.com/artist/1gaOb7Zu3CL7o1goGPZPRh), [Hard Labs](https://open.spotify.com/artist/2ncvWngOisyimNgRkb11oj), [Hype Music](https://open.spotify.com/artist/4avpw1MN3Ub5BZV3xDCjUr), [eeymwnn](https://open.spotify.com/artist/6NeuQp2ZsVwSoNHujaup4u) | [Nightmare \- Oblivion](https://open.spotify.com/album/2pA1dvbjFaqEmTAzKnrdzQ) | 2:40 |
+| 785 | [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 |
+| 786 | [My Song](https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk) | [Lonewolves in Paradise](https://open.spotify.com/artist/4yjZvSYHEv1Esyl8Fwpe3O) | [My Song](https://open.spotify.com/album/50yKv8FDcE0UzMYXCohf8C) | 2:44 |
+| 787 | [Everything Going Well is a Bad Thing, Right?](https://open.spotify.com/track/5aiW08yblQAddo0F5Snn3O) | [All Systems Go](https://open.spotify.com/artist/3vUgiedsWyaAljWZL0MMCo) | [Everything Going Well is a Bad Thing, Right?](https://open.spotify.com/album/6bfqFc7um2xcUYApvma8KY) | 3:36 |
+| 788 | [Bubble Fight](https://open.spotify.com/track/5ZWVUGYwYbC2P1zzGi9D0B) | [Hard Softee](https://open.spotify.com/artist/4F1IzLLPomRL7g3IlrefEy) | [Bubble Fight](https://open.spotify.com/album/5JhSHliugRpGiEpKQXXwwr) | 3:26 |
 
-Snapshot ID: `AAADJE1gAMgY7/XQFlHQ0kwXE0hCvoqr`
+Snapshot ID: `AAADLi12axfuN/Aa7bKqBnJqBzCZhrSt`

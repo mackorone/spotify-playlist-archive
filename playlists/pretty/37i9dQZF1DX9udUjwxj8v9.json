@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 153050,
+  "num_followers": 153052,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
+        "name": "A M\u00fasica do Olodum",
+        "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
+      },
+      "artists": [
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        }
+      ],
+      "duration_ms": 227160,
+      "name": "Deusa do amor - Ao vivo",
+      "url": "https://open.spotify.com/track/7c60MUlDMw6ZI1Ft4LxLBY"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
         "name": "L\u00e1 Vem O Guarda",
         "url": "https://open.spotify.com/album/60IRlbKPEpYmIQCOQoaX4l"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 246466,
       "name": "Vai Sacudir, Vai Abalar",
       "url": "https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
-        "name": "A M\u00fasica do Olodum",
-        "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
-      },
-      "artists": [
-        {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        }
-      ],
-      "duration_ms": 227160,
-      "name": "Deusa do amor - Ao vivo",
-      "url": "https://open.spotify.com/track/7c60MUlDMw6ZI1Ft4LxLBY"
     },
     {
       "added_at": "2025-07-11 03:00:07",

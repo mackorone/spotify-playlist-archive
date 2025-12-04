@@ -4,7 +4,7 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-184 songs - 8 hr 26 min
+185 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Jet Set Run](https://open.spotify.com/track/3jRwb8NABDs7n8YsYyHO8c) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 3:45 | 2024-04-19 |  |
 | [Jet Set Run](https://open.spotify.com/track/7L7XzsEDNRGgVsAixpiba4) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 3:45 | 2022-12-23 | 2024-04-19 |
 | [Just Another Hero](https://open.spotify.com/track/5MVgPvxtIi1OQTguhaHqVf) | [Steven McNair](https://open.spotify.com/artist/4vyqxxgPi4d3TsRarKphMY), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 3:24 | 2023-03-02 | 2024-03-25 |
-| [Just Another Hero](https://open.spotify.com/track/7p6b4Z4Z9Pvn4qPYe3XRpX) | [Steven McNair](https://open.spotify.com/artist/4vyqxxgPi4d3TsRarKphMY), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 3:24 | 2024-05-13 |  |
+| [Just Another Hero](https://open.spotify.com/track/7p6b4Z4Z9Pvn4qPYe3XRpX) | [Steven McNair](https://open.spotify.com/artist/4vyqxxgPi4d3TsRarKphMY), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 3:24 | 2024-05-13 | 2025-12-04 |
 | [Lady Nagant \(My Hero Academia\) \- Trap Remix](https://open.spotify.com/track/2Du2EWLDCzEQ9wiK500GFt) | [Bakrou](https://open.spotify.com/artist/1bwDpUYOmTBa0ddptcaRZh), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Lady Nagant \(My Hero Academia\) \[Trap Remix\]](https://open.spotify.com/album/5z60YeNYIB8agSdzMtg65O) | 2:16 | 2023-04-21 | 2023-04-25 |
 | [Looking for you \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/3ysBocf0RtB8GTbY9ftlww) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [POP STEP](https://open.spotify.com/artist/4OasGaM4Wm6Id0fzTHnCkX) | [Looking for you \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/5kBqjIUnQnCfgqKuyTT1YH) | 1:50 | 2025-05-08 | 2025-05-15 |
 | [Might](https://open.spotify.com/track/6YD0zF5VFBXvwmQqAlZWnE) | [Makayla Phillips](https://open.spotify.com/artist/3jWmy4ZEloWRoAiMiHI9f7), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 5:43 | 2022-12-23 |  |
@@ -142,6 +142,7 @@
 | [君はヒーローになれる](https://open.spotify.com/track/1Cdz1ehTv3zCKqmGbPI2Vo) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:56 | 2022-12-23 |  |
 | [大人たち](https://open.spotify.com/track/2cldiPnH3DGMbXUmXZ58OU) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 1:40 | 2024-04-10 |  |
 | [大人たち](https://open.spotify.com/track/4vCVz22ndGRGASMt29CWwy) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 1:40 | 2022-12-23 | 2024-04-10 |
+| [好敵手と書いて「とも」と読む](https://open.spotify.com/track/0kcCy3ijoR5Re2O8LLEENX) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 2:05 | 2025-12-04 |  |
 | [好敵手と書いて「とも」と読む](https://open.spotify.com/track/3PYLUvGhhkENSkwKT376Ns) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 2:05 | 2023-09-12 | 2023-09-19 |
 | [妖怪たち](https://open.spotify.com/track/31N8krI56apyaerBDrK8pL) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:02 | 2023-06-04 | 2023-07-19 |
 | [宇宙（そら）に描くイマジネーション](https://open.spotify.com/track/6MJ4SHkgbvzJsJSxyEgw5O) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [スター☆トゥインクルプリキュア　オリジナル・サウンドトラック1 プリキュア・トゥインクル・サウンド!!](https://open.spotify.com/album/5wNyrBoURKVEhaJ4cweoL1) | 1:46 | 2025-11-23 | 2025-11-24 |

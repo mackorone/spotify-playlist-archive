@@ -2975,6 +2975,28 @@
     },
     {
       "album": {
+        "name": "Darksign",
+        "url": "https://open.spotify.com/album/5x9VPJjSwDYIWvWEc2MVu1"
+      },
+      "artists": [
+        {
+          "name": "Obzene",
+          "url": "https://open.spotify.com/artist/52nYXKmK39GTaTgsqC6Hri"
+        },
+        {
+          "name": "LVNDM4RK",
+          "url": "https://open.spotify.com/artist/1RUPdRVU5HD30K51gkePyW"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Darksign",
+      "url": "https://open.spotify.com/track/2MjnvcOVBjpTaXBBTuL0t1"
+    },
+    {
+      "album": {
         "name": "Dead End Utopia",
         "url": "https://open.spotify.com/album/45PMDZU0rB2jKNs7X8jV34"
       },
@@ -10936,7 +10958,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 125776,
       "name": "SHACKLEROT",
       "url": "https://open.spotify.com/track/4fckK2M2zO9JveWT2iYgMK"

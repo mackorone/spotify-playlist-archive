@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 26672,
+  "num_followers": 26685,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -787,30 +787,6 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
-        "name": "Richard Strauss",
-        "url": "https://open.spotify.com/album/5ygtFeHSRthPNKWgEVuQkE"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Guillaume Bellom",
-          "url": "https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK"
-        }
-      ],
-      "duration_ms": 561213,
-      "name": "Violin Sonata, Op. 18: III. Finale. Andante \u2013 Allegro",
-      "url": "https://open.spotify.com/track/01koCQF0MDzDDejmfEKc1A"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
         "name": "R. Strauss: Sinfonia domestica; Macbeth",
         "url": "https://open.spotify.com/album/6JEexXnUl1TsPNBVJqPi6r"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 314533,
       "name": "Sinfonia domestica, Op. 53: I. Themes. Bewegt \u2013 Sehr lebhaft \u2013 Ruhig - Live at Musikverein, Vienna, 1983",
       "url": "https://open.spotify.com/track/6GrbXVGfli9piw0DtBElH3"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
+        "name": "Richard Strauss",
+        "url": "https://open.spotify.com/album/5ygtFeHSRthPNKWgEVuQkE"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Guillaume Bellom",
+          "url": "https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK"
+        }
+      ],
+      "duration_ms": 561213,
+      "name": "Violin Sonata, Op. 18: III. Finale. Andante \u2013 Allegro",
+      "url": "https://open.spotify.com/track/01koCQF0MDzDDejmfEKc1A"
     },
     {
       "added_at": "2025-09-15 14:00:17",

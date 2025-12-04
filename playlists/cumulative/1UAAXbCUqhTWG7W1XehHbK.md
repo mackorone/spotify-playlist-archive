@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-134 songs - 7 hr 51 min
+135 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Longlist](https://open.spotify.com/track/1sW8K2lXzHIXH19gT1OToP) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Hometown](https://open.spotify.com/album/1D8nC9VavWlypXWsPomp0Z) | 4:31 | 2025-10-03 |  |
 | [Love On The Brain](https://open.spotify.com/track/6YrIDvPwRNEf2CDsQxbMma) | [Mittch](https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV), [N Castillo](https://open.spotify.com/artist/1E7el4DK1FhfE6VIL07Bxa), [Lena Kurosaki](https://open.spotify.com/artist/55UCDOAn6DVoTRJhUUmoUK) | [Love On The Brain](https://open.spotify.com/album/1Fd7U1tzEhGhHJO74JTuRG) | 3:28 | 2025-10-09 |  |
 | [Marlee](https://open.spotify.com/track/3jjTjNKbH7JqnSWMDQ8QCl) | [Lusha](https://open.spotify.com/artist/0KroU4cOMO64mhVM1jJgjz) | [Like a Glove](https://open.spotify.com/album/1I21cLUqN3XjdiFzqpSi0f) | 2:33 | 2025-11-10 |  |
+| [may be](https://open.spotify.com/track/2fbhU9BAN9DMHUJmVd2WER) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [may be](https://open.spotify.com/album/3r5LuwbKuUEhGt1fO0q0Z6) | 3:27 | 2025-12-03 |  |
 | [Moon Dog](https://open.spotify.com/track/5GDVdgsCCuiBumO87YORGd) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:28 | 2025-11-13 |  |
 | [Mountain Dreamer](https://open.spotify.com/track/1xTHpH66Q03cOMDPLWk1x2) | [Slow Walk](https://open.spotify.com/artist/0jNxhEHrzkG8xyDO7iZM0M) | [The Mountain](https://open.spotify.com/album/7piz6xLL9MX03ygQvHCOsW) | 3:15 | 2025-09-25 |  |
 | [mourning morning](https://open.spotify.com/track/0w84sFK46L8dniKalK7DFr) | [14 gardens](https://open.spotify.com/artist/1HERGp6gyYFoX5iGUa3OkK) | [mourning morning](https://open.spotify.com/album/1Kviv7VVbar82F0ByNPmjX) | 3:04 | 2025-09-23 |  |

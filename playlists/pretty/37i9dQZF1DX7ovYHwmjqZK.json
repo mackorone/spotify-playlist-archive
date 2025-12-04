@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 263437,
+  "num_followers": 263495,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Ins\u00f4nia",
-        "url": "https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ"
-      },
-      "artists": [
-        {
-          "name": "Davide Sosa",
-          "url": "https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4"
-        }
-      ],
-      "duration_ms": 196179,
-      "name": "Bela Mo\u00e7a",
-      "url": "https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Saudade Fez um Samba",
         "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 170880,
       "name": "Saudade Fez um Samba",
       "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Ins\u00f4nia",
+        "url": "https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ"
+      },
+      "artists": [
+        {
+          "name": "Davide Sosa",
+          "url": "https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4"
+        }
+      ],
+      "duration_ms": 196179,
+      "name": "Bela Mo\u00e7a",
+      "url": "https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Fub\u00e1 Mimoso",
-        "url": "https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0"
-      },
-      "artists": [
-        {
-          "name": "Seu Elias",
-          "url": "https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v"
-        }
-      ],
-      "duration_ms": 160458,
-      "name": "Tantas Coisas",
-      "url": "https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Sorte!",
         "url": "https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 291729,
       "name": "Sorte!",
       "url": "https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Fub\u00e1 Mimoso",
+        "url": "https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0"
+      },
+      "artists": [
+        {
+          "name": "Seu Elias",
+          "url": "https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v"
+        }
+      ],
+      "duration_ms": 160458,
+      "name": "Tantas Coisas",
+      "url": "https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Semente Chorojazz",
-        "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Paulo Becker",
-          "url": "https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Sambete",
-      "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Terra-M\u00e3e",
         "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 225040,
       "name": "Al\u00e9m da Bossa",
       "url": "https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Semente Chorojazz",
+        "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Paulo Becker",
+          "url": "https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Sambete",
+      "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "D\u00e1jazz",
-        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
-      },
-      "artists": [
-        {
-          "name": "Lili Araujo",
-          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
-        }
-      ],
-      "duration_ms": 303346,
-      "name": "A Voz do Brasil",
-      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Autoral",
         "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 240458,
       "name": "Cris",
       "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "D\u00e1jazz",
+        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
+      },
+      "artists": [
+        {
+          "name": "Lili Araujo",
+          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "A Voz do Brasil",
+      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1119,26 +1119,6 @@
       "duration_ms": 212727,
       "name": "Este seu olhar / Promessas",
       "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Vaga-Lumes",
-        "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        },
-        {
-          "name": "Tiago Nacarato",
-          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "Vaga-Lumes",
-      "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1175,6 +1155,26 @@
       "duration_ms": 318674,
       "name": "Deixa - Ao Vivo",
       "url": "https://open.spotify.com/track/06urYdNnVIzkCaYOS05Hrv"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Vaga-Lumes",
+        "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        },
+        {
+          "name": "Tiago Nacarato",
+          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Vaga-Lumes",
+      "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Afro Choro",
-        "url": "https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP"
-      },
-      "artists": [
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 298014,
-      "name": "Afro Choro",
-      "url": "https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "N\u00e3o Pergunte Demais",
         "url": "https://open.spotify.com/album/3v19RY7Zch1YfSQFNjAzyb"
       },
@@ -1535,6 +1515,26 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "Afro Choro",
+        "url": "https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 298014,
+      "name": "Afro Choro",
+      "url": "https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "No Jeito",
         "url": "https://open.spotify.com/album/2s9LJjJJgI3WskTqhu9wx8"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Salom\u00e9",
-        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fonseca",
-          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
-        }
-      ],
-      "duration_ms": 236522,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "A Banca do Distinto",
         "url": "https://open.spotify.com/album/5xWkhmNrlCtTfj8BOSSClj"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 228781,
       "name": "Garra - Ao vivo",
       "url": "https://open.spotify.com/track/2sc5q8Zd8kpvJ3hAJJmBwG"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Salom\u00e9",
+        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fonseca",
+          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
+        }
+      ],
+      "duration_ms": 236522,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
     },
     {
       "added_at": "2025-09-19 14:10:48",

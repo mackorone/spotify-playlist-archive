@@ -376,6 +376,24 @@
     {
       "album": {
         "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Crimson Sand",
+      "url": "https://open.spotify.com/track/1Zg4jpG9dJ2dYhbjFjAKve"
+    },
+    {
+      "album": {
+        "name": "Bad Frequencies",
         "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
       },
       "artists": [
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 46493,
       "name": "The Death Of A Dream",
       "url": "https://open.spotify.com/track/18kZbAPeeqHowdnC8wF9tq"

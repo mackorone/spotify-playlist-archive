@@ -4,7 +4,7 @@
 
 > Les hits du moment en Algérie.
 
-271 songs - 16 hr 11 min
+272 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Ana & Rasi](https://open.spotify.com/track/5lEg43432gVU8BzwIJULVO) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [Ana & Rasi](https://open.spotify.com/album/7F94Bil1ZSQviELlNzBtty) | 3:27 | 2021-12-09 | 2022-05-27 |
 | [Ana W Nti](https://open.spotify.com/track/4980zLaGgwv5ZE2K5Xv5BR) | [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Ana W Nti](https://open.spotify.com/album/2QQlptEkrMrBUH3uYshPHq) | 4:05 | 2024-10-08 |  |
 | [Anta](https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7) | [Anta](https://open.spotify.com/album/4vPYDw5xJNhJwqFDDJXyfY) | 2:43 | 2022-09-01 | 2022-09-09 |
-| [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 | 2025-04-12 |  |
+| [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 | 2025-04-12 | 2025-12-04 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-11-22 | 2025-05-23 |
 | [Arghane Manine](https://open.spotify.com/track/1WiTAUE8gMPKRTuE4zt4vc) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Arghane Manine](https://open.spotify.com/album/6x5dQHzmvNohax3P2kqLHP) | 5:00 | 2022-09-01 | 2022-09-09 |
 | [Atiteha l'amour عطيتها](https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Atiteha l'amour عطيتها](https://open.spotify.com/album/3F7MCxGdT3r1guFLD8fddV) | 2:55 | 2025-05-22 |  |
@@ -178,6 +178,7 @@
 | [My Love](https://open.spotify.com/track/7xE1TaILTJl91YvQdVB54i) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Cheb Khaled](https://open.spotify.com/album/07qAVChyoX0i1O5L5dv7GJ) | 4:02 | 2022-08-19 | 2022-09-02 |
 | [Mélanine](https://open.spotify.com/track/0t7d6wbJLS2A31yqlHFew7) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 3:01 | 2024-07-18 |  |
 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 | 2022-02-28 | 2023-02-07 |
+| [Namchi Wngoul Ça va](https://open.spotify.com/track/1py7Rjj1axmqPQtUTVELxF) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Namchi Wngoul Ça va](https://open.spotify.com/album/5KKolIb9Iibkqn0TBtyyFk) | 4:32 | 2025-12-03 |  |
 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 | 2024-12-03 |  |
 | [Nar El Hob](https://open.spotify.com/track/5nL8YdzlpRDrX5ge6YYC2b) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Nar El Hob](https://open.spotify.com/album/5YJ4dtTJ2s71lB5yctLPY5) | 3:26 | 2022-05-04 | 2022-08-20 |
 | [Nari Nar \- ناري نار](https://open.spotify.com/track/3AdpMQpQXpSdrVgJUGDkPP) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nari Nar \(ناري نار\)](https://open.spotify.com/album/1lSC2sRGtEZOJO9mi1vrGJ) | 3:48 | 2023-10-16 | 2025-01-05 |

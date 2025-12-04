@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: TRACK15
 
-2,766 songs - 7 day 4 hr 38 min
+2,766 songs - 7 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Baku](https://open.spotify.com/track/78Z48MARKGmZESIo1vSSub) | [NIGHTMARE](https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR) | [√25](https://open.spotify.com/album/4qUe6vscR03EXJcLsJjtqC) | 3:58 | 2025-07-15 | 2025-07-23 |
 | [BALLOON](https://open.spotify.com/track/3ylzepqjUnZnd8CbCYveNk) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [BALLOON](https://open.spotify.com/album/5Fs8gdLY5U8qRFFmUdfkCL) | 3:56 | 2025-06-17 | 2025-08-21 |
 | [BAN BAN TONIGHT](https://open.spotify.com/track/5aREMg9DtUfZq2tEQly7Bs) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [BAN BAN TONIGHT](https://open.spotify.com/album/2hQiOey1PkuuZZMpMEKw4r) | 5:22 | 2023-04-25 | 2023-05-03 |
-| [BAND A](https://open.spotify.com/track/6h9kCwUpd3hKWZ5Huioi3M) | [FCO.](https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq) | [](https://open.spotify.com/album/null) | 3:21 | 2025-12-02 |  |
+| [BAND A](https://open.spotify.com/track/6h9kCwUpd3hKWZ5Huioi3M) | [FCO.](https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq) | [Inc](https://open.spotify.com/album/05DGT91gvVgf8lUdkUzAPV) | 3:21 | 2025-12-02 |  |
 | [Bangai Hen](https://open.spotify.com/track/2oFpPPGoIMwpo76ksUH8h1) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Namiutsu Kokoro o Mochinagara](https://open.spotify.com/album/2AqgPeRgCAYar0Yh6pVedu) | 3:20 | 2024-02-06 | 2024-04-03 |
 | [Banka no Akashi](https://open.spotify.com/track/3fWAGzcV3G4XYu6kEsTMU7) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Banka no Akashi](https://open.spotify.com/album/7Dfb8hb12z23KuFpeLnmjJ) | 5:45 | 2023-08-17 | 2023-09-20 |
 | [BANTAM](https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [BANTAM](https://open.spotify.com/album/2nrq0af3Pz9qzYe0zpXteI) | 3:34 | 2023-02-07 | 2023-03-08 |
@@ -469,7 +469,7 @@
 | [Grind Gray](https://open.spotify.com/track/1VHzXxAlvfqre1TDZz5gh8) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [BRAND NEW OLD SHIT](https://open.spotify.com/album/7HDmSYvmd5O4egdHs2K6ju) | 2:40 | 2025-09-02 | 2025-09-11 |
 | [GUNJOUOUKA](https://open.spotify.com/track/1UF27ubfWrZy92mjCb3XnN) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [GUNJOUOUKA](https://open.spotify.com/album/0HVA2YkOBzxSzve44TdSgd) | 3:53 | 2023-08-15 | 2023-09-20 |
 | [Gコード](https://open.spotify.com/track/5zdDbA84kNpVIQrWolQvjR) | [でかくてまるい。](https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti) | [ロックンロール](https://open.spotify.com/album/38uL4vo9OecxFGlGqXLSI4) | 4:48 | 2025-11-25 |  |
-| [h2o.wav](https://open.spotify.com/track/5WmpPBp1c2fcT5fdpFizBW) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [](https://open.spotify.com/album/null) | 3:56 | 2025-12-02 |  |
+| [h2o.wav](https://open.spotify.com/track/5WmpPBp1c2fcT5fdpFizBW) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [PHOBIA SYNDROME](https://open.spotify.com/album/6UeGX0fcpL3KycKGeBM3Rz) | 3:56 | 2025-12-02 |  |
 | [Hakanaku Moroimono](https://open.spotify.com/track/5O9W4ot0ax3uRdRDKKG2kr) | [Ryota Fujimaki](https://open.spotify.com/artist/7r3FkquAY1tv1roZs3unJ1) | [Hakanaku Moroimono](https://open.spotify.com/album/2Jkpib1POJwPe8uOO8OTqV) | 4:34 | 2025-03-25 | 2025-04-09 |
 | [Hallelujah](https://open.spotify.com/track/4m6YFlPXKy2Bg0Ms6v4Tuy) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 3:20 | 2024-02-20 | 2024-02-28 |
 | [Hana Ni Nare \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/3ywoJ3ZNkZ7AXaTFaiA109) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Hana Ni Nare \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/4ceieoHaWzTbiyJ1cuU5BN) | 6:27 | 2023-09-14 | 2023-10-06 |
@@ -991,7 +991,7 @@
 | [realitYhurts.](https://open.spotify.com/track/5TcBpp37mTlEGhDRp9T8iy) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [realitYhurts.](https://open.spotify.com/album/1oPQjjPHehiERqQ2HQil7Y) | 2:31 | 2025-01-07 | 2025-04-02 |
 | [realize](https://open.spotify.com/track/4fp4rmsiI1S36clWllu3Eq) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [realize](https://open.spotify.com/album/5OyXlqVzqZO0NdSFN82ST3) | 3:51 | 2024-07-30 | 2024-08-21 |
 | [Record Dogs](https://open.spotify.com/track/22BJYbV3ldjwzgKnnHu3l2) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [Record Dogs](https://open.spotify.com/album/5bwnn9spG9n2BR9Y6xpOyZ) | 3:20 | 2024-04-23 | 2024-09-04 |
-| [Red](https://open.spotify.com/track/639Uuzbmh3jh2lRvxZ2xHD) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [](https://open.spotify.com/album/null) | 1:13 | 2025-12-02 |  |
+| [Red](https://open.spotify.com/track/639Uuzbmh3jh2lRvxZ2xHD) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [ENSEMBLE](https://open.spotify.com/album/6ntl6HHJTYj14wPZGfyWcc) | 1:13 | 2025-12-02 |  |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-07-13 | 2023-07-28 |
 | [RED OUT](https://open.spotify.com/track/5sQUXxfkbDpauiEXFc4Rcr) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 2:31 | 2024-08-29 | 2025-01-22 |
 | [reflection](https://open.spotify.com/track/3WYJwjlAnHqkhACJec5zK0) | [mudy on the 昨晩](https://open.spotify.com/artist/7m3Wr9xcBXSiUysFwOMLnx) | [reflection](https://open.spotify.com/album/6aaS5HusgHqDObHMpkEuN0) | 4:06 | 2025-09-23 | 2025-10-08 |
@@ -1098,7 +1098,7 @@
 | [she so come!!!](https://open.spotify.com/track/0QH4z68TORGX2tBGuYPkr2) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ロンリーメイビー](https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E) | 2:59 | 2023-04-25 | 2023-06-07 |
 | [She's my Venus](https://open.spotify.com/track/4OxLgmeGIn2UV2V229QdVt) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [She's my Venus](https://open.spotify.com/album/14lug4nKuX2kTAJYYZqjx6) | 2:47 | 2025-07-08 | 2025-08-19 |
 | [Shibuya Hurry Upper!](https://open.spotify.com/track/4LA6xru3S9yhQR2puZbyXn) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Shibuya Hurry Upper!](https://open.spotify.com/album/5qdbccJDnitZrlKbV8DWUE) | 4:12 | 2025-10-14 | 2025-10-22 |
-| [shibuya phobia.](https://open.spotify.com/track/1K8jf2rYGgPkhUlLpvNbTZ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [](https://open.spotify.com/album/null) | 3:55 | 2025-12-02 |  |
+| [shibuya phobia.](https://open.spotify.com/track/1K8jf2rYGgPkhUlLpvNbTZ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PHOBIA SYNDROME](https://open.spotify.com/album/6UeGX0fcpL3KycKGeBM3Rz) | 3:55 | 2025-12-02 |  |
 | [Shinainaruanatahe](https://open.spotify.com/track/29q2hpSioIYhW6Lm5gJJnD) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [Shinainaruanatahe](https://open.spotify.com/album/6sjAKzMwTB9SVeDcc3s0kq) | 3:50 | 2025-01-28 | 2025-02-19 |
 | [Shine & Rainbow](https://open.spotify.com/track/5HxzkxVG0dYUO5Zj8kYXdI) | [Zeppet Store](https://open.spotify.com/artist/71zMBSaHhesnxaO7RFVHIy) | [35](https://open.spotify.com/album/2qQGgnwcaRvJ5xOJYiqD4Y) | 3:24 | 2025-03-25 | 2025-04-02 |
 | [Shinitai Himawari](https://open.spotify.com/track/7z3CfL28cpQ9Udvpdw2Njb) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Danchi Thesis](https://open.spotify.com/album/6ALS4zDSQOScJD759gERFo) | 4:00 | 2025-01-14 | 2025-01-24 |
@@ -1237,8 +1237,9 @@
 | [Superman](https://open.spotify.com/track/3R0VkHQ4az4AhbZP2KHFfF) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Superman](https://open.spotify.com/album/6TNjfpFlH6GqH8ZIUp7ziV) | 3:29 | 2023-11-02 | 2023-12-13 |
 | [Supernatural feat\. Masato](https://open.spotify.com/track/6a6ynHxbhxqVGtMHoJ8mtJ) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ), [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8) | [Supernatural feat\. Masato](https://open.spotify.com/album/4JfBhIOszOoSRRlLHHoEh6) | 4:13 | 2024-12-10 | 2025-01-31 |
 | [SUPERNOVA](https://open.spotify.com/track/6rYWQKiaIJ5UatZEgv5OmM) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [SUPERNOVA](https://open.spotify.com/album/11OlKLbFRb0CndndaqmRrO) | 3:27 | 2025-07-10 | 2025-11-14 |
+| [SUPERSONIC](https://open.spotify.com/track/38crZaLQqe7sBLR2zI8U74) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [HELLO!](https://open.spotify.com/album/0Fby1ANupBwwDm8bFjf8nz) | 2:12 | 2025-12-02 |  |
 | [Supersonic](https://open.spotify.com/track/2tPN8Rv9tblodAXKahUq4T) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [WORLD END LOVESONG](https://open.spotify.com/album/5Zzwn2idgQRbBbodMeJvrV) | 3:52 | 2025-09-02 | 2025-10-01 |
-| [Supiri Supirare](https://open.spotify.com/track/6W42CMTYf3Au7sQYjug7eK) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [](https://open.spotify.com/album/null) | 2:22 | 2025-12-02 |  |
+| [Supiri Supirare](https://open.spotify.com/track/6W42CMTYf3Au7sQYjug7eK) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [mouse spirits](https://open.spotify.com/album/2ZacnqLXEJW8TvhA6kEya1) | 2:22 | 2025-12-02 |  |
 | [Swamp](https://open.spotify.com/track/5rRg6Ae1F1UsROdEfkbHgI) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Soft Vinyl](https://open.spotify.com/album/1emV2ajQxUfe37WkCgRyTu) | 2:19 | 2024-05-21 | 2024-09-18 |
 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 | 2023-12-12 | 2024-01-24 |
 | [Sweet sweet candy time](https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [Sweet sweet candy time](https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6) | 5:21 | 2023-10-05 | 2024-04-24 |
@@ -1317,7 +1318,6 @@
 | [Tomoshibi](https://open.spotify.com/track/2ODaE00Y5PwSHYXHiQMl0o) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Tomoshibi](https://open.spotify.com/album/5eMmCCYQ4ExF88VB1E8c86) | 3:29 | 2025-01-14 | 2025-02-21 |
 | [Toumeiningen](https://open.spotify.com/track/1aSSUbMAjJwOmYRhN5xD6k) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Sora Ni Kaoru Wa Natsu No Kage](https://open.spotify.com/album/6YsVn5cWsGEU51eWuc9iRo) | 4:36 | 2025-05-27 | 2025-07-16 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-10-22 |
-| [Track 4](https://open.spotify.com/track/38crZaLQqe7sBLR2zI8U74) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-02 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-06-04 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI) | 3:53 | 2023-02-14 | 2023-02-16 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/5PUNRSIFNxWimFJ1r9vgkl) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/4c3iop1ngWgS6LZNcMYpI5) | 3:53 | 2023-02-14 | 2023-04-26 |
@@ -2496,7 +2496,7 @@
 | [楽園の地図](https://open.spotify.com/track/7cKLxhcInsurEGsk55A3VO) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [新しい恋人達に](https://open.spotify.com/album/4c4t1NAsAzMmLrSV1HH1hQ) | 4:23 | 2024-09-10 | 2024-10-16 |
 | [橙の日](https://open.spotify.com/track/36ah9WzaexbCabO2fM1NwI) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [橙の日](https://open.spotify.com/album/2p588SVcmYRi73eST4gkwr) | 4:32 | 2023-02-07 | 2023-02-09 |
 | [欠片](https://open.spotify.com/track/5mYTtXFq2DreBL25EK5bkF) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [欠片](https://open.spotify.com/album/1cI7JtMgSvQktNUkqvdsZt) | 2:40 | 2025-10-21 | 2025-11-26 |
-| [歌えない](https://open.spotify.com/track/7lIdcvvRww8SVhuhs6hle8) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [](https://open.spotify.com/album/null) | 2:20 | 2025-12-02 |  |
+| [歌えない](https://open.spotify.com/track/7lIdcvvRww8SVhuhs6hle8) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PHOBIA SYNDROME](https://open.spotify.com/album/6UeGX0fcpL3KycKGeBM3Rz) | 2:20 | 2025-12-02 |  |
 | [正義の味方](https://open.spotify.com/track/54obmZRvJCJBXh7oOE2qk4) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [HELL](https://open.spotify.com/album/5GDHfXxefywpKNEfO0ifsn) | 3:13 | 2024-05-28 | 2024-06-08 |
 | [正解](https://open.spotify.com/track/0BxLFTINwKifg5szsaON6F) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/7AEGXvatrqwbvTKJh5J7VR) | 5:58 | 2024-01-23 | 2024-04-19 |
 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 | 2024-04-18 | 2024-05-29 |

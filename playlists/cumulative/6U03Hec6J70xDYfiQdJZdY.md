@@ -4,7 +4,7 @@
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-79 songs - 4 hr 19 min
+80 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [No Armor No Pain](https://open.spotify.com/track/52R2b3SBaqPapQAzAuKzwe) | [Jon Thebur](https://open.spotify.com/artist/2Bhpy04Xbt9Vj0siuMXx3n) | [No Armor No Pain](https://open.spotify.com/album/6yuweuJa8Vkwr79zxF33aU) | 3:42 | 2025-10-16 |  |
 | [Now is enough](https://open.spotify.com/track/2mGXHKQLP7Wfgu1CZaku1P) | [Van Toan](https://open.spotify.com/artist/5af1P6XDYgWZSJ8T0Fh5cT) | [Now is enough](https://open.spotify.com/album/7GxvKYmg1J88wurQg2n9r5) | 2:58 | 2025-10-16 |  |
 | [Nyman: The Heart Asks Pleasure First](https://open.spotify.com/track/4G3e9icdGC1WYRBjBmhoFX) | [Michael Nyman](https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8), [Paul Neda](https://open.spotify.com/artist/62fh38Ccz04MaQXycXo6QD) | [Nyman: The Heart Asks Pleasure First](https://open.spotify.com/album/0sxmi34XG7f8yMUEAtgBDw) | 2:41 | 2025-10-16 |  |
+| [Oblivion](https://open.spotify.com/track/2LhJMSY63nsKrZeUOeTenD) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr), [Juan Arenosa](https://open.spotify.com/artist/3cgp4SJCP9dZ53OpbON3cH) | [Oblivion](https://open.spotify.com/album/5gWAFOZSXyRe50I1Tu0osm) | 2:00 | 2025-12-03 |  |
 | [Ourselves, as we are](https://open.spotify.com/track/3nMgOicehxLljz2kcZUdah) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Ourselves, as we are](https://open.spotify.com/album/7vKcCvqMESf1lR7iqPbKJ3) | 3:42 | 2025-10-16 |  |
 | [PAN](https://open.spotify.com/track/05j4VSG0fxZHI7MB3mMyVO) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [Flur](https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8) | 3:51 | 2025-10-16 |  |
 | [Pathless](https://open.spotify.com/track/3tOkVSgXHTt3SMOaB4X02z) | [Pieter Savenberg](https://open.spotify.com/artist/2S4k9mN8c0AUrenisHLpNp) | [Pathless](https://open.spotify.com/album/4VmIcrJ72soQcQxF9ajxJ9) | 2:33 | 2025-10-16 |  |

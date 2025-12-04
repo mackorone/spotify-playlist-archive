@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133014,
+  "num_followers": 133015,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAACWLlnyuQCsraQuJWfPZdlm",
+  "snapshot_id": "aS4sAAAAAABrexm7/Y2ztOCQgGHz7lHj",
   "tracks": [
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 467647,
-      "name": "Se Deus \u00c9 Por Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
       },
@@ -759,22 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv"
+        "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
       },
       "artists": [
         {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
         },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 244680,
-      "name": "Eu Creio Nos Planos de Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY"
+      "duration_ms": 467647,
+      "name": "Se Deus \u00c9 Por Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY"
     },
     {
       "added_at": null,
@@ -791,6 +771,26 @@
       "duration_ms": 248407,
       "name": "Apaixonado Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Eu Creio Nos Planos de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY"
     },
     {
       "added_at": null,

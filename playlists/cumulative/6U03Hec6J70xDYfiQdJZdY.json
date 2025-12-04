@@ -993,6 +993,28 @@
     },
     {
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/5gWAFOZSXyRe50I1Tu0osm"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        },
+        {
+          "name": "Juan Arenosa",
+          "url": "https://open.spotify.com/artist/3cgp4SJCP9dZ53OpbON3cH"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2LhJMSY63nsKrZeUOeTenD"
+    },
+    {
+      "album": {
         "name": "Ourselves, as we are",
         "url": "https://open.spotify.com/album/7vKcCvqMESf1lR7iqPbKJ3"
       },

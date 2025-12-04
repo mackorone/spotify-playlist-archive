@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Asim Azhar, JANI",
+  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Hasan Raheem",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 243226,
       "name": "Daikho",
       "url": "https://open.spotify.com/track/5GTKYA7UTjPFNmIjaQ0wQ7"
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 193246,
       "name": "Daytona",
       "url": "https://open.spotify.com/track/1dlCoq7vdDnuAzo3DYPTY4"
@@ -3626,6 +3626,28 @@
       "duration_ms": 223636,
       "name": "G.O.A.T.",
       "url": "https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS"
+    },
+    {
+      "album": {
+        "name": "Gal Sun",
+        "url": "https://open.spotify.com/album/1DKhV2gQnCegqwqjcb16dV"
+      },
+      "artists": [
+        {
+          "name": "Sabat Batin",
+          "url": "https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju"
+        },
+        {
+          "name": "Rackstar",
+          "url": "https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178826,
+      "name": "Gal Sun",
+      "url": "https://open.spotify.com/track/0DCmf7066T5DAjiF8uahv1"
     },
     {
       "album": {
@@ -5586,7 +5608,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 154800,
       "name": "Khwaab",
       "url": "https://open.spotify.com/track/4eipeAaWX1I6bY3w32EDao"
@@ -6971,6 +6993,28 @@
     },
     {
       "album": {
+        "name": "Meri Zindagi Hai Tu",
+        "url": "https://open.spotify.com/album/4FWgeZQOq8g7kLQAniEdzR"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Sabri Sisters",
+          "url": "https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Meri Zindagi Hai Tu",
+      "url": "https://open.spotify.com/track/5RYXTC4G3RYYP6pUmaF6s2"
+    },
+    {
+      "album": {
         "name": "P-POP CULTURE",
         "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
       },
@@ -8216,7 +8260,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 110430,
       "name": "PIXELATED KISSES",
       "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
@@ -10762,7 +10806,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -10802,7 +10846,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 75093,
       "name": "They call him KING - King Theme (From \"King\")",
       "url": "https://open.spotify.com/track/5egoaDfqFpsB1FGUU76TT1"
@@ -11232,7 +11276,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 200258,
       "name": "Tutor",
       "url": "https://open.spotify.com/track/2KQBM1PYjg2ZpeA5xbTjrJ"

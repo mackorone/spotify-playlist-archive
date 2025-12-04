@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 85900,
+  "num_followers": 85917,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAABvMNZ5T3xy6vrfrRu6l4bR",
+  "snapshot_id": "aS4sAAAAAAAtG3SZDv+YbGb2SoUEvdPz",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 256586,
-      "name": "Needle in the Hay",
-      "url": "https://open.spotify.com/track/7I7O0huqjKrXHX0aaLuO5B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Moon",
         "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 157360,
       "name": "Angel in the Snow",
       "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 256586,
+      "name": "Needle in the Hay",
+      "url": "https://open.spotify.com/track/7I7O0huqjKrXHX0aaLuO5B"
     },
     {
       "added_at": null,

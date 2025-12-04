@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "The Impulse Story",
+        "url": "https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "date_added": "2025-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328506,
+      "name": "Groove Waltz",
+      "url": "https://open.spotify.com/track/4JI1z2ExhzqYbnTyG5bNX6"
+    },
+    {
+      "album": {
         "name": "Hello, Young Lovers",
         "url": "https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU"
       },
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 213973,
       "name": "I'll Walk Alone",
       "url": "https://open.spotify.com/track/7GdYQNZikjPn7uIE9AvimQ"

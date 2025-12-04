@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358 likes - 171 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 171 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 47 | [Grey Lines](https://open.spotify.com/track/31wd3JOLQpdDMkTAr1TkbM) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/4HnuaXBXjcgF6vHANPLMAc) | 2:48 |
 | 48 | [Insomniac](https://open.spotify.com/track/7EdtiTscQqDxg4xdqxsyMn) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Insomniac](https://open.spotify.com/album/6CWaxE82SLay9c4lHOAXfX) | 2:10 |
 | 49 | [3am](https://open.spotify.com/track/5IhYE4xh3gyZ9uFqsp7SUK) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:39 |
-| 50 | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/track/4QnJgCPkDgqSyOdjlI83ys) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/album/0SUEY2iGWTpFiqLBr1GXHr) | 3:07 |
-| 51 | [Off Season](https://open.spotify.com/track/3VVrZApVwCvTEZNwrZgXI5) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5kqLqGGPZGTavifOSOVDcr) | 3:10 |
+| 50 | [Off Season](https://open.spotify.com/track/3VVrZApVwCvTEZNwrZgXI5) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5kqLqGGPZGTavifOSOVDcr) | 3:10 |
+| 51 | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/track/4QnJgCPkDgqSyOdjlI83ys) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/album/0SUEY2iGWTpFiqLBr1GXHr) | 3:07 |
 | 52 | [Backpack](https://open.spotify.com/track/7HUZWpelDfnkOc5PkDD8Sp) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The People's Champ](https://open.spotify.com/album/1FguQss7XFrc5w7KWL2sc9) | 2:57 |
 | 53 | [Love Language](https://open.spotify.com/track/2hn11FTEwM9YrJyz3XnU5M) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/5N8NVRBbCenIoCO2QMjdNT) | 3:28 |
 | 54 | [Warning Shot](https://open.spotify.com/track/4YuAthypGWLg5xdBc2DNjB) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:25 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 70 | [Silence](https://open.spotify.com/track/0SZfxFtArK1kgg9GtYCKDI) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Silence](https://open.spotify.com/album/1FO7XFfHYZLfEBHziWsjj6) | 3:27 |
 | 71 | [Come Home](https://open.spotify.com/track/1fMpSEEm9DWTmgxB4f7DXx) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:18 |
 | 72 | [Cotton Candy Lemonade \(Anna Lunoe Remix\)](https://open.spotify.com/track/2wmkq5eX7OJIkXkT9Qy673) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade \(Anna Lunoe Remix\)](https://open.spotify.com/album/45qgHRxk8NBzdsxkTk9If5) | 4:07 |
-| 73 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 |
-| 74 | [Yesterday](https://open.spotify.com/track/1vQJGXJpX4vTwmhWgjQDUB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Yesterday](https://open.spotify.com/album/1eyG6MhcCjpAvbQ8NCHCHj) | 3:11 |
+| 73 | [Yesterday](https://open.spotify.com/track/1vQJGXJpX4vTwmhWgjQDUB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Yesterday](https://open.spotify.com/album/1eyG6MhcCjpAvbQ8NCHCHj) | 3:11 |
+| 74 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 |
 | 75 | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ) | 2:27 |
 | 76 | [Adrenaline](https://open.spotify.com/track/1XtKDLAUMpkP7d5As2tMdo) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Adrenaline](https://open.spotify.com/album/2XB9irMRwGVnLswejrbG0b) | 2:26 |
 | 77 | [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 170 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
 | 171 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AcDLcgAAAADlkryYE6FmV7etp/bZh7yY`
+Snapshot ID: `AcDRCAAAAADmkcCVmcEGezyEU0XkqKhh`

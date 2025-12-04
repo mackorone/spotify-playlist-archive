@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Noyz Narcos,  Shiva, Latrelle e Nerissima Serpe, 18k e d/rose, ayo ally e HOODINi e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,058 likes - 116 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,063 likes - 116 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

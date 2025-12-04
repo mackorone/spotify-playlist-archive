@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-01-16",
-  "description": "Spotify Singles releases in 2024. Cover: mgk.",
-  "name": "Spotify Singles 2024",
+  "description": "Spotify Singles, Outside, and Live Room releases from 2025. Cover: Olivia Dean",
+  "name": "Spotify Music Studios Originals 2025",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 154086,
       "name": "A Colour Field - Piano Version",
       "url": "https://open.spotify.com/track/4ukcqr2CrApch1Ddjk1yxk"
@@ -34,10 +34,82 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 294078,
       "name": "agora hills - Spotify Singles",
       "url": "https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh"
+    },
+    {
+      "album": {
+        "name": "Barry Can\u2019t Swim - Spotify Live Room",
+        "url": "https://open.spotify.com/album/3OOgK5kQDnSYQrhWi6i2Di"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321639,
+      "name": "All My Friends (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/2qudVPPpcYYXfLpeKU1lHm"
+    },
+    {
+      "album": {
+        "name": "All My Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a"
+      },
+      "artists": [
+        {
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224090,
+      "name": "All My Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Anxiety - Spotify Singles",
+      "url": "https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw"
+    },
+    {
+      "album": {
+        "name": "Arcade (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159143,
+      "name": "Arcade (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi"
     },
     {
       "album": {
@@ -52,7 +124,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 187189,
       "name": "BE QUIET AND DRIVE (FAR AWAY)",
       "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
@@ -78,7 +150,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 204000,
       "name": "Brinca - Spotify Singles",
       "url": "https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB"
@@ -96,7 +168,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 345600,
       "name": "Brooklyn Baby - Spotify Singles",
       "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
@@ -114,7 +186,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 153850,
       "name": "Buffalo Replaced - Spotify Singles",
       "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
@@ -132,7 +204,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 243450,
       "name": "Can You Believe",
       "url": "https://open.spotify.com/track/2DEbufzHZ6fm29NDaRoKKH"
@@ -154,7 +226,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
@@ -172,7 +244,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 182282,
       "name": "Coyote, My Little Brother - Spotify Singles",
       "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
@@ -190,7 +262,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 268875,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
@@ -208,7 +280,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 166551,
       "name": "Driving Home for Christmas - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
@@ -226,7 +298,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 176800,
       "name": "Electric Feel - Spotify Singles",
       "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
@@ -244,7 +316,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 259592,
       "name": "Ella Us\u00f3 Mi cabeza Como Un Rev\u00f3lver - Spotify Singles",
       "url": "https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw"
@@ -262,7 +334,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 242666,
       "name": "Emanuel - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm"
@@ -280,10 +352,28 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 193277,
       "name": "Fancy - Spotify Singles",
       "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
+    },
+    {
+      "album": {
+        "name": "Feel Like Makin' Love - Spotify Singles (Cover)",
+        "url": "https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA"
+      },
+      "artists": [
+        {
+          "name": "WESLEYFRANKLIN",
+          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266460,
+      "name": "Feel Like Makin' Love - Spotify Singles - Cover",
+      "url": "https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9"
     },
     {
       "album": {
@@ -298,7 +388,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 127796,
       "name": "Flashbacks - Spotify Singles",
       "url": "https://open.spotify.com/track/73SQt1Bwp4BzPnUrsg7CrH"
@@ -316,10 +406,82 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 174630,
       "name": "flower boy - Spotify Singles",
       "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
+    },
+    {
+      "album": {
+        "name": "Fovame - Spotify Singles",
+        "url": "https://open.spotify.com/album/32GZtAOfYXZvu2NWRAt0Sf"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168441,
+      "name": "Fovame - Spotify Singles",
+      "url": "https://open.spotify.com/track/3zlmmuG8dsrtZoIvQoXCPX"
+    },
+    {
+      "album": {
+        "name": "Genie In A Bottle - Spotify Singles",
+        "url": "https://open.spotify.com/album/6LmGzRqpz6W0XV7fysHXuG"
+      },
+      "artists": [
+        {
+          "name": "ANTONIA",
+          "url": "https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191242,
+      "name": "Genie In A Bottle - Spotify Singles",
+      "url": "https://open.spotify.com/track/1XhTyKFFySgEHONZYsZcdT"
+    },
+    {
+      "album": {
+        "name": "Gettin' in The Way - Spotify Singles",
+        "url": "https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192425,
+      "name": "Gettin' in The Way - Spotify Singles",
+      "url": "https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ"
+    },
+    {
+      "album": {
+        "name": "Girl - Spotify Singles",
+        "url": "https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316339,
+      "name": "Girl - Spotify Singles",
+      "url": "https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq"
     },
     {
       "album": {
@@ -334,10 +496,36 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 177382,
       "name": "girlfriend - Spotify Singles",
       "url": "https://open.spotify.com/track/6eTkZYXX89GcnEaA8fch09"
+    },
+    {
+      "album": {
+        "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
+        "url": "https://open.spotify.com/album/5iqrBPqbMiGOMUw2xVNmOs"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "The Choir Room",
+          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322492,
+      "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
+      "url": "https://open.spotify.com/track/137hXMH6QiVXQSRwcf0DWP"
     },
     {
       "album": {
@@ -352,10 +540,46 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 155142,
       "name": "Hate myself - Spotify Singles",
       "url": "https://open.spotify.com/track/79KrPknij8FGaflUga6YII"
+    },
+    {
+      "album": {
+        "name": "Headlock - Spotify Singles",
+        "url": "https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220762,
+      "name": "Headlock - Spotify Singles",
+      "url": "https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG"
+    },
+    {
+      "album": {
+        "name": "Heroes - Spotify Singles",
+        "url": "https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180217,
+      "name": "Heroes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS"
     },
     {
       "album": {
@@ -370,7 +594,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 125196,
       "name": "Holiday Road - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
@@ -388,10 +612,28 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 173949,
       "name": "honeymoon - Spotify Singles",
       "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0cgd1EfvYkm7fgr1m3mmkO"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175455,
+      "name": "HOT TO GO! - Spotify Singles",
+      "url": "https://open.spotify.com/track/5HoBujicJSH3hEIeDfmpTB"
     },
     {
       "album": {
@@ -406,7 +648,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 164026,
       "name": "I Hate You (2024) - Spotify Singles",
       "url": "https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y"
@@ -424,7 +666,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 181722,
       "name": "I NEED U - Spotify Singles",
       "url": "https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ"
@@ -442,7 +684,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 148465,
       "name": "INVITATION - Spotify Singles",
       "url": "https://open.spotify.com/track/3SgCMp45HYch7DI0BgCGHy"
@@ -460,10 +702,28 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 226355,
       "name": "Killing Me Softly With His Song - Spotify Singles",
       "url": "https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175961,
+      "name": "Landmines - Spotify Singles",
+      "url": "https://open.spotify.com/track/4RMPZ1dyIw3852YiaE57ag"
     },
     {
       "album": {
@@ -482,7 +742,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 162029,
       "name": "Let Me Feel Your Charm - Spotify Singles",
       "url": "https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq"
@@ -500,7 +760,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 156000,
       "name": "Lonely Day - Spotify Singles",
       "url": "https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH"
@@ -518,7 +778,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 239769,
       "name": "Love at First Sight - Spotify Singles",
       "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
@@ -536,7 +796,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 164747,
       "name": "Love Is Blind - Spotify Singles",
       "url": "https://open.spotify.com/track/4f22oWm76LYThaa1FpDuUw"
@@ -554,7 +814,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 178000,
       "name": "love raider",
       "url": "https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk"
@@ -572,10 +832,28 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 233380,
       "name": "Love You & Your Friends - Spotify Singles",
       "url": "https://open.spotify.com/track/07KCePnVuhVdwrKIZGt1RS"
+    },
+    {
+      "album": {
+        "name": "Mad World (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2gv828jRAviPsx5wN4RlGT"
+      },
+      "artists": [
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205949,
+      "name": "Mad World - Spotify Singles",
+      "url": "https://open.spotify.com/track/4MsgGn3ah2QHZ1NOvzd8BN"
     },
     {
       "album": {
@@ -594,7 +872,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 160097,
       "name": "Me Vuelvo Cada D\u00eda M\u00e1s Loca - Spotify Singles",
       "url": "https://open.spotify.com/track/1046sFKLPH5B9HefwK09FF"
@@ -612,7 +890,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 241976,
       "name": "Midwest - Spotify Singles",
       "url": "https://open.spotify.com/track/1lLpakrMaY0wR4v3Y9EMig"
@@ -630,10 +908,50 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 153266,
       "name": "Mood Swings - Spotify Singles",
       "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda - Spotify Singles",
+        "url": "https://open.spotify.com/album/2gzPNct7gehdFkAgPn9n2y"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Grupo Restaurado",
+          "url": "https://open.spotify.com/artist/47ryVplCCIIsbwcBFcg8Oc"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143401,
+      "name": "Naci\u00f3 Pa' Leyenda - Spotify Singles",
+      "url": "https://open.spotify.com/track/2OWyDDiLOC6PACqh7Xac8y"
+    },
+    {
+      "album": {
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
     },
     {
       "album": {
@@ -652,7 +970,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 290078,
       "name": "Ode To The Mets - Spotify Singles",
       "url": "https://open.spotify.com/track/0Yg8GLyRPafmqNcgY9Pjnd"
@@ -670,10 +988,54 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 207540,
       "name": "Peaches - Spotify Singles",
       "url": "https://open.spotify.com/track/2SZ6Trbdt2vH5xZ1puA1tM"
+    },
+    {
+      "album": {
+        "name": "Wolf Alice - Spotify Live Room",
+        "url": "https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238729,
+      "name": "Play It Out (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua"
+    },
+    {
+      "album": {
+        "name": "Rayo (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3ZeqVTCrZOs1N7qSKIEorT"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        },
+        {
+          "name": "Lil Keren",
+          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
+        },
+        {
+          "name": "Maria McCausland",
+          "url": "https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175299,
+      "name": "Rayo - Spotify Singles",
+      "url": "https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA"
     },
     {
       "album": {
@@ -696,7 +1058,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 196731,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/5MctBX8S4ks5Yr0fU66dOh"
@@ -714,10 +1076,28 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 162392,
       "name": "River (It's Coming On Christmas)",
       "url": "https://open.spotify.com/track/3CQRItEPfTkBTbr6QJoY8n"
+    },
+    {
+      "album": {
+        "name": "Rose Colored Lenses - Spotify Singles",
+        "url": "https://open.spotify.com/album/6JMCCR5BJyr7wAqWFkfwWN"
+      },
+      "artists": [
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143604,
+      "name": "Rose Colored Lenses - Spotify Singles",
+      "url": "https://open.spotify.com/track/02LXCJevN92Y5fNeWYhmKU"
     },
     {
       "album": {
@@ -732,7 +1112,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 256306,
       "name": "Roy - Spotify Singles",
       "url": "https://open.spotify.com/track/1NXaDMZB18SN0AlSzWNK7w"
@@ -750,10 +1130,28 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 155846,
       "name": "Run Rudolph Run - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
+    },
+    {
+      "album": {
+        "name": "Satellite (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3FYh7wVc6lw1gDeGC5qs2T"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132425,
+      "name": "Satellite - Spotify Singles",
+      "url": "https://open.spotify.com/track/1s1nNvVUZpVaBzPa5fGIJJ"
     },
     {
       "album": {
@@ -768,7 +1166,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 214316,
       "name": "Say Something - Spotify Singles (Live from Spotify House)",
       "url": "https://open.spotify.com/track/7sXPuvRWsaOoUzno4NHXtt"
@@ -786,7 +1184,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 177770,
       "name": "Seen My Man - Spotify Singles",
       "url": "https://open.spotify.com/track/5XjQzyzAbhVGeE4fQCFTaB"
@@ -804,10 +1202,46 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 206000,
       "name": "Shadow - Spotify Singles",
       "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "Sleep Now In The Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
+    },
+    {
+      "album": {
+        "name": "Slow Dancing In A Burning Room (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222998,
+      "name": "Slow Dancing In A Burning Room - Spotify Singles",
+      "url": "https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN"
     },
     {
       "album": {
@@ -822,7 +1256,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 300341,
       "name": "Somebody Else - Spotify Singles",
       "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
@@ -840,10 +1274,94 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 215815,
       "name": "Summer Rain - Spotify Singles",
       "url": "https://open.spotify.com/track/6ZMkdGMAYK326Xhxq5yZ6v"
+    },
+    {
+      "album": {
+        "name": "Tattoo - Spotify Singles",
+        "url": "https://open.spotify.com/album/4aISMGKmjSm9b6uWlmpGef"
+      },
+      "artists": [
+        {
+          "name": "BABIE LATO",
+          "url": "https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G"
+        },
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        },
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        },
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153922,
+      "name": "Tattoo - Spotify Singles",
+      "url": "https://open.spotify.com/track/3OOl2L4LrjlRRSMDzIpua8"
+    },
+    {
+      "album": {
+        "name": "Te Metiste - Spotify Single",
+        "url": "https://open.spotify.com/album/0NKHlPa5wotliDAvZWieOr"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202816,
+      "name": "Te Metiste - Spotify Single",
+      "url": "https://open.spotify.com/track/1E0NzQpOcAPK2XJFDlDdqj"
+    },
+    {
+      "album": {
+        "name": "Olivia Dean - Spotify Live Room",
+        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39IpKI9d9ZwyLFvJwuveKj"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197166,
+      "name": "the fruits - Spotify Singles",
+      "url": "https://open.spotify.com/track/3dFyhY5UE2c9OvMb0hOlNn"
     },
     {
       "album": {
@@ -858,7 +1376,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 191949,
       "name": "There\u2019s Your Trouble - Spotify Singles (Live from Spotify House)",
       "url": "https://open.spotify.com/track/3XNThMhQwdrRvPax42wzKQ"
@@ -880,7 +1398,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 236626,
       "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
       "url": "https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI"
@@ -898,10 +1416,28 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 243035,
       "name": "Time to Pretend - Spotify Singles",
       "url": "https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg"
+    },
+    {
+      "album": {
+        "name": "Spotify OUTSIDE",
+        "url": "https://open.spotify.com/album/3syXCMQNzgnpvaHFG5QsoX"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194314,
+      "name": "TWENTIES - (Spotify OUTSIDE Version) - Live from the Mojave Desert",
+      "url": "https://open.spotify.com/track/3UTPu5xUx69rOxasK2ZDnD"
     },
     {
       "album": {
@@ -924,7 +1460,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 143000,
       "name": "Ugly - Spotify Singles",
       "url": "https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq"
@@ -942,7 +1478,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 162890,
       "name": "Use Somebody - Spotify Singles",
       "url": "https://open.spotify.com/track/2XbGfB3cTrWKmQx8fH3ix3"
@@ -960,7 +1496,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 189101,
       "name": "Video Games - Spotify Singles",
       "url": "https://open.spotify.com/track/1C0KYMgW2BPDlKWW79cC9M"
@@ -978,10 +1514,28 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 252573,
       "name": "Waiting in Vain - Spotify Singles",
       "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
+    },
+    {
+      "album": {
+        "name": "Spotify OUTSIDE",
+        "url": "https://open.spotify.com/album/7McukhbTTBeqoQXWH1kISF"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234045,
+      "name": "Watch Me Bleed - (Spotify OUTSIDE Version) - Live From Austin, TX",
+      "url": "https://open.spotify.com/track/2xEkgfq06bNwzVZhv2gSBe"
     },
     {
       "album": {
@@ -996,7 +1550,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 129656,
       "name": "Watermelon Sugar - Spotify Singles",
       "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
@@ -1014,7 +1568,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 245233,
       "name": "we can't be friends (wait for your love) - Spotify Singles",
       "url": "https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3"
@@ -1032,10 +1586,46 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 233400,
       "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
       "url": "https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240151,
+      "name": "Wonderwall - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+    },
+    {
+      "album": {
+        "name": "Wunder gibt es immer wieder (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6OAFWDVs1NM4GagxZ3TkcH"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161050,
+      "name": "Wunder gibt es immer wieder - Spotify Singles",
+      "url": "https://open.spotify.com/track/7MXyYrTviFJafV01ieZsE3"
     },
     {
       "album": {
@@ -1050,7 +1640,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 187350,
       "name": "Ya No Pienso en Ti - Spotify Singles",
       "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
@@ -1068,10 +1658,46 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 269967,
       "name": "Yellow - Spotify Singles",
       "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
+    },
+    {
+      "album": {
+        "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
+        "url": "https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196439,
+      "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
+      "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
+    },
+    {
+      "album": {
+        "name": "You Are My King (Amazing Love) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254443,
+      "name": "You Are My King (Amazing Love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
     },
     {
       "album": {
@@ -1086,7 +1712,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 176055,
       "name": "You Could Start A Cult - Live from Spotify Studios",
       "url": "https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR"
@@ -1108,7 +1734,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 214624,
       "name": "Z\u0142amane serce jest OK - Spotify Singles",
       "url": "https://open.spotify.com/track/2XQ874bVqTfbXeValJPV4Z"
@@ -1126,7 +1752,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 191469,
       "name": "\u00bfQu\u00e9 Vas A Hacer Tan Sola Hoy? - Spotify Singles",
       "url": "https://open.spotify.com/track/65Qjvcf4RFQPwwkz7T6l76"
@@ -1148,7 +1774,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 222000,
       "name": "\u5077\u5077\u60f3\u5ff5\u4f60 - Spotify Singles (feat. \u65b9\u6668)",
       "url": "https://open.spotify.com/track/5YTMxQ8Famc23QQIZizvh0"
@@ -1166,7 +1792,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 172166,
       "name": "\u706b\u67f4 - Acoustic / Spotify Singles",
       "url": "https://open.spotify.com/track/28F59BoXW9aXhx9TiPB1OH"
@@ -1184,7 +1810,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 263809,
       "name": "\u7d42\u7a76\u9084\u662f\u56e0\u70ba\u611b - Spotify Singles",
       "url": "https://open.spotify.com/track/5eDqchkLCMsJCkSqGm9NyB"

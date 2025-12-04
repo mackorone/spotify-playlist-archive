@@ -2,9 +2,9 @@
 
 ### [Christmas K\-Pop \(크리스마스 케이팝\)](https://open.spotify.com/playlist/37i9dQZF1DWVbb8LK4P3Mg)
 
-> Enjoy the wonderful holiday season with K\-Pop! \(Cover: tripleS\)
+> Enjoy the wonderful holiday season with K\-Pop! \(Cover: fromis\_9\(프로미스나인\)\)
 
-235 songs - 13 hr 44 min
+236 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [White Blanket](https://open.spotify.com/track/3QGu0a7mmrOBc8b4aB655K) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ), [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Seasons](https://open.spotify.com/album/5Dpd69pvi5PJfn5RXVcgpn) | 3:32 | 2021-12-21 | 2022-07-29 |
 | [White Blanket \(feat\. Gilgu Bongu\)](https://open.spotify.com/track/7GXU0kLoZmYq1fFoDfxGtm) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ), [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Season](https://open.spotify.com/album/1dK8iMaUFTMEHmRfcwb2zi) | 3:32 | 2021-12-21 | 2022-10-29 |
 | [White Christmas](https://open.spotify.com/track/2fn95gdp0R3lYFCqRBAXVv) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [White Christmas](https://open.spotify.com/album/5dAGDyJZlGs5q734ZoVQYM) | 3:13 | 2021-12-21 | 2024-10-10 |
-| [White Christmas](https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O) | [LeeBoram \(seeya\)](https://open.spotify.com/artist/1ZMb9j2ssGDvUY2ZcwWijW), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Baekyebin](https://open.spotify.com/artist/12Uoy7i814uNVhoCaz6pQW) | [White Christmas](https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR) | 3:47 | 2022-12-20 |  |
+| [White Christmas](https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O) | [LeeBoram \(seeya\)](https://open.spotify.com/artist/1ZMb9j2ssGDvUY2ZcwWijW), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Baekyebin](https://open.spotify.com/artist/12Uoy7i814uNVhoCaz6pQW) | [White Christmas](https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR) | 3:47 | 2022-12-20 | 2025-12-04 |
+| [White Memories](https://open.spotify.com/track/7hCdtQsaKCBXrITaPNK2iE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [White Memories](https://open.spotify.com/album/4vnA4ZWgxrhxy5doVCGv9u) | 3:01 | 2025-12-03 |  |
 | [Will You Be My Home](https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Will You Be My Home](https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R) | 3:30 | 2021-12-21 |  |
 | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 | 2024-11-29 |  |
 | [Winter Bloom](https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Winter Bloom](https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy) | 2:59 | 2024-01-08 |  |

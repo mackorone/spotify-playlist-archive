@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 250346,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/6ur07ZhOvtGKeSy1U6o47P"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 198889,
       "name": "Can\u2019t Fight This Feeling",
       "url": "https://open.spotify.com/track/6lYNtepnbJVzR0tAxj2lW7"
@@ -576,10 +576,28 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 190600,
       "name": "Eve & Paradise Lost",
       "url": "https://open.spotify.com/track/0c3VjNgGU2wOidmg71UsdC"
+    },
+    {
+      "album": {
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190600,
+      "name": "Eve & Paradise Lost",
+      "url": "https://open.spotify.com/track/3nsAgjl7PI0bcbdY6sDczi"
     },
     {
       "album": {
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 212866,
       "name": "Hope For The Future",
       "url": "https://open.spotify.com/track/4fpypp2U7V67RvzEJxXYe9"
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 174632,
       "name": "Liar Liar (Feat. Bastille)",
       "url": "https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH"
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 239946,
       "name": "Mademoiselle & The Nunnery Blaze",
       "url": "https://open.spotify.com/track/49FDINhZBMEOguBHw3niyz"
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 224600,
       "name": "My Head & The Glass",
       "url": "https://open.spotify.com/track/663nx3WRdOxdMaYKoeLhRZ"

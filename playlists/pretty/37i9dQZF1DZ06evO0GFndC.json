@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 62188,
+  "num_followers": 62209,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAADGe+scO2eQoKgOw1DI1HXX",
+  "snapshot_id": "aS4sAAAAAAALAjjuvYsP5/ANpp6gj13j",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Fabi",
+        "url": "https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 160746,
+      "name": "El Fabi",
+      "url": "https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revelaciones de un Cholo (Explicit)",
         "url": "https://open.spotify.com/album/6YDlFoq197LU4wmrDsuEsw"
       },
@@ -335,22 +355,6 @@
       "duration_ms": 236472,
       "name": "Revelaciones de un Cholo",
       "url": "https://open.spotify.com/track/072kXoaiQYWVbWOnCN6Qdg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pong\u00e1monos de Acuerdo",
-        "url": "https://open.spotify.com/album/3aUyCfkToMeF5JTFpHhogK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Pong\u00e1monos De Acuerdo",
-      "url": "https://open.spotify.com/track/24AQa9DkSsiRILa2se6Mht"
     },
     {
       "added_at": null,
@@ -371,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Fabi",
-        "url": "https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic"
+        "name": "Pong\u00e1monos de Acuerdo",
+        "url": "https://open.spotify.com/album/3aUyCfkToMeF5JTFpHhogK"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         }
       ],
-      "duration_ms": 160746,
-      "name": "El Fabi",
-      "url": "https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90"
+      "duration_ms": 188373,
+      "name": "Pong\u00e1monos De Acuerdo",
+      "url": "https://open.spotify.com/track/24AQa9DkSsiRILa2se6Mht"
     },
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proyecto A",
-        "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
+        "name": "Tras las Rejas",
+        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
       },
       "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 191750,
-      "name": "Buenas Vibras",
-      "url": "https://open.spotify.com/track/14ZjoQB3VZFISRZTjrVGhj"
+      "duration_ms": 194000,
+      "name": "Tras las Rejas",
+      "url": "https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo"
     },
     {
       "added_at": null,
@@ -571,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tras las Rejas",
-        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
+        "name": "Proyecto A",
+        "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
       },
       "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Tras las Rejas",
-      "url": "https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo"
+      "duration_ms": 191750,
+      "name": "Buenas Vibras",
+      "url": "https://open.spotify.com/track/14ZjoQB3VZFISRZTjrVGhj"
     },
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Hacer Ruido",
+        "url": "https://open.spotify.com/album/6wWICPpm8uk6FkPO9kGObs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 155499,
+      "name": "Sin Hacer Ruido",
+      "url": "https://open.spotify.com/track/3jAVdwO7ycWZOJl76vn3c9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tras las Rejas",
         "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 220143,
       "name": "Caravana de Carros",
       "url": "https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Hacer Ruido",
-        "url": "https://open.spotify.com/album/6wWICPpm8uk6FkPO9kGObs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 155499,
-      "name": "Sin Hacer Ruido",
-      "url": "https://open.spotify.com/track/3jAVdwO7ycWZOJl76vn3c9"
     },
     {
       "added_at": null,
@@ -787,22 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proyecto A",
-        "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
+        "name": "Diez Mandamientos",
+        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
       },
       "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Legado",
-      "url": "https://open.spotify.com/track/5jd85MnXpMNa6OxhLJKwQQ"
+      "duration_ms": 207400,
+      "name": "Diez Mandamientos",
+      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
     },
     {
       "added_at": null,
@@ -823,18 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diez Mandamientos",
-        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
+        "name": "Proyecto A",
+        "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
       },
       "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Diez Mandamientos",
-      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
+      "duration_ms": 162500,
+      "name": "Legado",
+      "url": "https://open.spotify.com/track/5jd85MnXpMNa6OxhLJKwQQ"
     },
     {
       "added_at": null,

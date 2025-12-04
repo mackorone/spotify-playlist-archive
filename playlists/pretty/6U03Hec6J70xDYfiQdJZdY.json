@@ -6,7 +6,7 @@
     "name": "Topsify",
     "url": "https://open.spotify.com/user/topsify"
   },
-  "snapshot_id": "AAABRHLfEpahPXuY7tsV5cu0GoeuwUNA",
+  "snapshot_id": "AAABRSuCyYoHNZXhg87B1K47JqeLHOy1",
   "tracks": [
     {
       "added_at": "2025-10-16 15:33:35",
@@ -423,6 +423,26 @@
       "duration_ms": 146800,
       "name": "Beethoven: Bagatelle No. 25 in A Minor, WoO 59 \"F\u00fcr Elise\"",
       "url": "https://open.spotify.com/track/3ZURwMTfzDz67f4t3jx19S"
+    },
+    {
+      "added_at": "2025-12-03 19:43:31",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/5gWAFOZSXyRe50I1Tu0osm"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        },
+        {
+          "name": "Juan Arenosa",
+          "url": "https://open.spotify.com/artist/3cgp4SJCP9dZ53OpbON3cH"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2LhJMSY63nsKrZeUOeTenD"
     },
     {
       "added_at": "2025-10-16 15:33:35",

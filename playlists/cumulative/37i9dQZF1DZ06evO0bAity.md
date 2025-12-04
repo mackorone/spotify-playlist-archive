@@ -4,7 +4,7 @@
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 44 min
+108 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Hope for the Best](https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:07 | 2023-06-03 |  |
 | [Hot Potato](https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 1:15 | 2022-09-16 |  |
 | [Hypercolour](https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:24 | 2022-09-16 |  |
-| [I felt all there is to feel](https://open.spotify.com/track/4uYdwdPQQqgIdsWY43UV3o) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [I felt all there is to feel](https://open.spotify.com/album/3sRm6ZhRGz2P7826NhIcBt) | 3:22 | 2025-06-15 |  |
+| [I felt all there is to feel](https://open.spotify.com/track/4uYdwdPQQqgIdsWY43UV3o) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [I felt all there is to feel](https://open.spotify.com/album/3sRm6ZhRGz2P7826NhIcBt) | 3:22 | 2025-06-15 | 2025-12-04 |
+| [I felt all there is to feel](https://open.spotify.com/track/5uV5XsyfpkGdt8L7sKBVOQ) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [This is normal now](https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I) | 3:22 | 2025-12-04 |  |
 | [IN\-TO\-IT](https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \(Pt\. 1\)](https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN) | 3:15 | 2022-09-21 |  |
 | [IN\-TO\-IT](https://open.spotify.com/track/1h2nlMzL1hFRaSMKuUHaDB) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [IN\-TO\-IT](https://open.spotify.com/album/1jjrbaOJ59IHj9fxaDy0pI) | 3:16 | 2022-09-16 | 2022-09-22 |
 | [Intro](https://open.spotify.com/track/1bHC1H7tuDpfq2h7y2n5uf) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 0:59 | 2023-06-13 | 2023-06-26 |
@@ -64,7 +65,7 @@
 | [Love & Destruction](https://open.spotify.com/track/2S9kwb2VoCxX8jY5SuLNiX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:37 | 2023-06-06 | 2024-04-02 |
 | [Make Yourself Mad](https://open.spotify.com/track/575WHTkmnohs1agEfIoRGS) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Make Yourself Mad](https://open.spotify.com/album/7gRumG1rTgiTrHuH6S7Fxe) | 2:40 | 2022-09-16 | 2025-06-20 |
 | [Make Yourself Mad](https://open.spotify.com/track/5HOALerGMK1EqQpnWHPKwZ) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \(Pt\. 2/ Deluxe\)](https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU) | 2:40 | 2025-06-20 | 2025-08-22 |
-| [Make Yourself Mad](https://open.spotify.com/track/7D5dyKbK1Vjo3ffu2AdtyD) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:40 | 2025-07-16 | 2025-12-03 |
+| [Make Yourself Mad](https://open.spotify.com/track/7D5dyKbK1Vjo3ffu2AdtyD) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:40 | 2025-07-16 |  |
 | [Modest Salary](https://open.spotify.com/track/2WEpdc89yJXRNHooNcYrUD) | [Trim Reaper](https://open.spotify.com/artist/3uoZqnx4ljAAylcIFRCcGv), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Modest Salary](https://open.spotify.com/album/6eV9XYlKojqzT2axDWeA8x) | 3:32 | 2024-08-24 | 2024-10-11 |
 | [MURDER ME \- DZ Deathrays Remix](https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [MURDER ME \(DZ Deathrays Remix\)](https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl) | 4:05 | 2023-06-24 |  |
 | [My Mind is Eating Me Alive](https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:38 | 2023-06-03 |  |
@@ -100,7 +101,7 @@
 | [Shred For Summer](https://open.spotify.com/track/53cdjpWN1AM3WCU4DhEQx0) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:59 | 2022-09-16 | 2025-05-13 |
 | [Shred For Summer](https://open.spotify.com/track/5QMBzbn8l7o6BHPXiL3XJK) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Shred For Summer](https://open.spotify.com/album/5OBRYYOZTSUhEgbYL8kXPc) | 3:59 | 2025-08-05 |  |
 | [Sideways](https://open.spotify.com/track/3GsST4fMqsmm8BUzf5sHBa) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Sideways](https://open.spotify.com/album/1ziwuQmPWtV2S7THwpKM6P) | 2:41 | 2025-06-08 |  |
-| [Silver Lining](https://open.spotify.com/track/0QxtYTTd8bpgABalB9ynz3) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:56 | 2025-04-21 |  |
+| [Silver Lining](https://open.spotify.com/track/0QxtYTTd8bpgABalB9ynz3) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:56 | 2025-04-21 | 2025-12-04 |
 | [Skeleton Key](https://open.spotify.com/track/3cDHzxJC3bJQB1XlmZ5kYH) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:39 | 2022-09-21 | 2024-06-14 |
 | [Skyline](https://open.spotify.com/track/494b5aTzaNZBVm2VKMGryH) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Skyline](https://open.spotify.com/album/7cO3VWZieGiyYbZk77oqyV) | 3:21 | 2025-10-23 |  |
 | [Snakes](https://open.spotify.com/track/05vvAUSJ1MJxO1Z831dIlT) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 3:09 | 2022-09-16 |  |

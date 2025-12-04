@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,130 songs - 2 day 15 hr 11 min
+1,131 songs - 2 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [BEAMS](https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [BEAMS](https://open.spotify.com/album/5AYrW1k2Y0f3gpN3BlWmQS) | 2:58 | 2024-03-20 | 2024-06-07 |
 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-07 | 2024-11-01 |
 | [Before I Go](https://open.spotify.com/track/7cRN38N0djEeO6YDFAtHrc) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [vanru](https://open.spotify.com/artist/0BLfDCxhXd4mFmVv1KjJjV) | [Before I Go](https://open.spotify.com/album/1GSUJcKaEBCio5XhM6mWE3) | 2:36 | 2025-11-20 |  |
+| [Beg For Mercy](https://open.spotify.com/track/4lPpWCtwDlcSRGp1TPz4g4) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Beg For Mercy](https://open.spotify.com/album/3KfvY5Y0Pqm6N7bBG55j59) | 2:11 | 2025-12-03 |  |
 | [begin again](https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 1](https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM) | 3:53 | 2022-03-23 | 2022-06-04 |
 | [Behind Your Eyes](https://open.spotify.com/track/1hV1ZlD4WGJzBZ4ScGJKdy) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Juneau](https://open.spotify.com/artist/4GqIsFywX1zYRiXreoyU34) | [Behind Your Eyes](https://open.spotify.com/album/21vde0XQf3KcIL3rbyb4mf) | 2:26 | 2021-11-19 | 2022-02-08 |
 | [BELIEVE](https://open.spotify.com/track/2HGWEdmzqykDOKbAxRd1JE) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [BELIEVE](https://open.spotify.com/album/5J8oRtgQiIbku3Xmi7WIUJ) | 2:41 | 2025-11-12 |  |

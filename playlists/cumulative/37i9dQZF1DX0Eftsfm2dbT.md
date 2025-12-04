@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Skaai
 
-2,114 songs - 4 day 10 hr 46 min
+2,114 songs - 4 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Almost Famous](https://open.spotify.com/track/3aLvGdHbptH4y0VNwJYLPk) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [THE GHOST](https://open.spotify.com/album/01ACFaQfeVSK81QRGjfIdL) | 2:15 | 2024-11-19 | 2024-12-11 |
 | [Alright](https://open.spotify.com/track/11dNeQVqBadIC2ugyZUtCT) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [Alright](https://open.spotify.com/album/4KLtDfxK4b7LhNU38qEmZs) | 2:58 | 2024-01-23 | 2024-01-31 |
 | [Always be killing it](https://open.spotify.com/track/3C8EOKedfzDXH1diDbBUU1) | [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH), [SXICIDE RYUSEI](https://open.spotify.com/artist/2R9foVRopS1uc8SlRYbCaI) | [Dream pool](https://open.spotify.com/album/6SVF66US4aiLfcgC5IGquX) | 3:34 | 2024-04-16 | 2024-04-19 |
+| [Am I sick?](https://open.spotify.com/track/5QDdLCGbthqLgXt4Vr3UBF) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Gnarly](https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn) | 2:14 | 2025-12-02 |  |
 | [AMANOJAKU \(feat\. JUMADIBA\)](https://open.spotify.com/track/4k7VfslZnNImr1SiTviZHr) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [AMANOJAKU \(feat\. JUMADIBA\)](https://open.spotify.com/album/2LTH1z02AfuUcvslhBLnll) | 2:45 | 2025-07-29 | 2025-09-04 |
 | [Anata Watashi \- Remix](https://open.spotify.com/track/6SRfxONpZwPbE8p2W5lkbp) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Anata Watashi \(Remix\)](https://open.spotify.com/album/0wcSHfTMd5481IBncYW1hk) | 3:22 | 2024-06-25 | 2024-10-02 |
 | [Anbeiina \(feat\. JETG\)](https://open.spotify.com/track/4N20MUApmob06LkwhONhPB) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M), [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [Anbeiina](https://open.spotify.com/album/4YKdoPAJPKqWHMrdmJrHuW) | 3:34 | 2025-11-25 |  |
@@ -1724,7 +1725,6 @@
 | [Tour Life \-Ai\-](https://open.spotify.com/track/0Wj5gV2RWHrH9EdUVH34vF) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D) | [Ai Final](https://open.spotify.com/album/2LdUuUQ5GixYkkeQ1zj8i2) | 2:37 | 2025-04-15 | 2025-05-09 |
 | [town/city \(feat\. M.O.C, RH JayDee & Tete\)](https://open.spotify.com/track/2GFJDs1B4eNnGIBd1XSJ5s) | [RIVER SIDE HOLLYWOOD](https://open.spotify.com/artist/1SIyL5jUFSjG89zIy3GxHL), [M.O.C](https://open.spotify.com/artist/2fDwWqmgXuPoOrCx7DDV6d), [RH JayDee](https://open.spotify.com/artist/5T6nHHIltgoQ9RrepnnAq6), [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [RSH MIXTAPE 2](https://open.spotify.com/album/6jSXDc6Hbf2la9BPbxYZOo) | 2:37 | 2025-09-17 | 2025-10-24 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-21 | 2023-10-04 |
-| [Track 8](https://open.spotify.com/track/5QDdLCGbthqLgXt4Vr3UBF) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-02 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-06-26 |
 | [Train Train Train](https://open.spotify.com/track/5chrKpLpQwMyECA1MVntyC) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Train Train Train](https://open.spotify.com/album/4QafbOrEJvksjDAp8YiSrl) | 3:42 | 2024-09-19 | 2024-09-25 |
 | [TRAP](https://open.spotify.com/track/0OSdfFtxNEfgWMCaNVaslq) | [PLUM TOWN](https://open.spotify.com/artist/1m9qTDH4NtiorSMxJPxObz), [RAFU](https://open.spotify.com/artist/4zEJwMidggGTCiuS2j7Sqk), [wattz](https://open.spotify.com/artist/19hus0jQU0nKG1Xu1PS4qG), [ebunii](https://open.spotify.com/artist/4kauShupniHRddWcBgMaYF) | [PLM](https://open.spotify.com/album/5fiGgPSGCrcbwsexHzdZs5) | 2:45 | 2025-11-05 | 2025-11-19 |

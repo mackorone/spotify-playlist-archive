@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-796 songs - 1 day 15 hr 46 min
+797 songs - 1 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,6 +691,7 @@
 | [techno on my mind](https://open.spotify.com/track/0LzVIF2KHflGWw0IoICeJI) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [techno on my mind](https://open.spotify.com/album/66mlUUwwYRyKmfbq7ib9g0) | 2:57 | 2023-07-28 | 2023-08-10 |
 | [tell me why](https://open.spotify.com/track/5NEQfRhATRpgW13dEM9hZ8) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [tell me why](https://open.spotify.com/album/5xkdPkP1kSyY8llMdnEUxn) | 2:42 | 2025-06-24 |  |
 | [Tension](https://open.spotify.com/track/3PqHYu8WVkYgzvXuuUPiAr) | [EXXO](https://open.spotify.com/artist/1BxtvQL2w4dn5CnbtkYsGb) | [Tension](https://open.spotify.com/album/4Dy2wATW6kv9fRrjiG5ljD) | 2:40 | 2023-01-11 | 2023-04-28 |
+| [Tequila In My Cup](https://open.spotify.com/track/7pvfrf6ByPktJeVePqSxhW) | [Conni](https://open.spotify.com/artist/3V0uGOh5VeIp99phDIgWqU) | [Tequila In My Cup](https://open.spotify.com/album/7jBW3gPATnBq4DbcHKNQrF) | 2:15 | 2025-12-03 |  |
 | [Testify](https://open.spotify.com/track/41aahVnQ5oRhIU5LEc9hfh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [Testify](https://open.spotify.com/album/2shXXyUgDDl14LykrpWewi) | 3:23 | 2023-05-26 | 2023-08-10 |
 | [The Feeling](https://open.spotify.com/track/5O3ulpsbyoXtjyVdC7Xip4) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [The Feeling](https://open.spotify.com/album/31geBMaHgWPfzWmvGuykNz) | 2:28 | 2022-07-22 | 2023-04-28 |
 | [The Ghost](https://open.spotify.com/track/2Rmisp1rkVF9GFWQy6LJLQ) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Ghost](https://open.spotify.com/album/6aafdp1vFltSsbBVm3TrEF) | 3:07 | 2023-08-08 | 2024-02-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBZja50leWm.md) - [plain]
 
 > Intha Deepavalikku Therikka Vidunga!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,105 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,339 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBZja50leWm.md) - [plain]
 | 40 | [Whistle Podu \(From "The Greatest Of All Time"\)](https://open.spotify.com/track/6GH5qLVhOvbgRvqFdAKQ9a) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Whistle Podu \(From "The Greatest Of All Time"\)](https://open.spotify.com/album/1swku6qb12p9zSJ13Kul0o) | 4:41 |
 | 41 | [Adangaatha Asuran](https://open.spotify.com/track/1JKjaWrHqLRu47B9o5qpay) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Raayan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cqYgHZhpSKKb7xUuxJCAr) | 4:09 |
 | 42 | [Hukum \- Thalaivar Alappara \- Tamil \(From "Jailer"\)](https://open.spotify.com/track/3pDbPKZHrpHAWcJVMsrNwA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Hukum \- Thalaivar Alappara \- Tamil \(From "Jailer"\)](https://open.spotify.com/album/09fIr7A4cAEktUmCMg7dJd) | 3:27 |
-| 43 | [Maamadura](https://open.spotify.com/track/6EJ1ki4Dcf6in9eidtPSNZ) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Jigarthanda DoubleX \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS) | 2:48 |
+| 43 | [Maamadura](https://open.spotify.com/track/6EJ1ki4Dcf6in9eidtPSNZ) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Jigarthanda DoubleX \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS) | 2:48 |
 | 44 | [Jujubee \(From "Jailer"\)](https://open.spotify.com/track/09Q0LYcLol1C8HOZ6pIRdO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Jujubee \(From "Jailer"\)](https://open.spotify.com/album/3LgCX0eAm7TGAbqZHfFvPm) | 2:47 |
 | 45 | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/track/5WWplXimzIjlJiN2N7T9Q3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO) | 3:31 |
 | 46 | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs) | 3:10 |

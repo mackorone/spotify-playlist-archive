@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2954297,
+  "num_followers": 2954041,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAADeN02q+V3P8iKqXs/lnhpw",
+  "snapshot_id": "aS4sAAAAAACkpF1FhxL5MPaa3Fk8zFV6",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "? (Deluxe)",
-        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 103986,
-      "name": "hate will never win",
-      "url": "https://open.spotify.com/track/3TzgIJC8U7o57nx8xnWvnt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arms Around You (feat. Maluma & Swae Lee)",
         "url": "https://open.spotify.com/album/3FtwiRgtcCLAiKHDvoj7bO"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 198902,
       "name": "Arms Around You (feat. Maluma & Swae Lee)",
       "url": "https://open.spotify.com/track/2LskIZrCeLxRvCiGP8gxlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "? (Deluxe)",
+        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 103986,
+      "name": "hate will never win",
+      "url": "https://open.spotify.com/track/3TzgIJC8U7o57nx8xnWvnt"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "? (Deluxe)",
-        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 104600,
-      "name": "A GHETTO CHRISTMAS CAROL",
-      "url": "https://open.spotify.com/track/5aZhp4FuKlrLz7gfJlBtcR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teeth (Interlude)",
         "url": "https://open.spotify.com/album/7Gy8dMtA8JLwItcuYQiSXu"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 142716,
       "name": "Teeth (Interlude)",
       "url": "https://open.spotify.com/track/2TIgwzoxcj1VIX1Y43OhMG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "? (Deluxe)",
+        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 104600,
+      "name": "A GHETTO CHRISTMAS CAROL",
+      "url": "https://open.spotify.com/track/5aZhp4FuKlrLz7gfJlBtcR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: g0nny\(거니\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,387 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,411 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 50 | [Hourglass](https://open.spotify.com/track/4r0OgYSXREW0nENAF3ylOH) | [Atta](https://open.spotify.com/artist/3O5IyNbp87EQNoGuRLDQKn) | [Hourglass](https://open.spotify.com/album/1L7eb0F8QAmdBhKaflBYqn) | 3:35 |
 | 51 | [Time Lapse](https://open.spotify.com/track/54XrNRY4jPnzAVamPvuA7o) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/0a0LC99zZ0UArr1fFrt49U) | 3:22 |
 
-Snapshot ID: `AAAAAFJR2DPonJykj0GBC7xfil9+fMm2`
+Snapshot ID: `AAAAADv67MbbMhW5skPaPQ5kVR9IVtOK`

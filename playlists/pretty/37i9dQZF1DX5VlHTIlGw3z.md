@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,580 likes - 42 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,640 likes - 45 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 | 40 | [四角革命](https://open.spotify.com/track/2qqwX1esCghITEJrp6AvqI) | [Soutaiseiriron](https://open.spotify.com/artist/1bj13qFAwnyM3ILOiFnn1Y) | [ハイファイ新書](https://open.spotify.com/album/5AKZPhATko2cAkwQIryPVh) | 3:39 |
 | 41 | [lemonade](https://open.spotify.com/track/0EyViwXzoKDRKUtLczjJwL) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:06 |
 | 42 | [誘惑](https://open.spotify.com/track/2GlOmBRGlF9B2ylosoYRim) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 ～SUPER BEST OF GLAY～](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 4:21 |
+| 43 | [ばらの花](https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [TEAM ROCK](https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB) | 5:01 |
+| 44 | [Let's ダバダバ](https://open.spotify.com/track/1IJ0O0ZYggmHLfK5AU3wLK) | [POLYSICS](https://open.spotify.com/artist/3l4rRK7zL537twQBI967Bq) | [Oh! No! It's Heavy Polysick!!!](https://open.spotify.com/album/1WI2KQ2uAAiaIyOZhJxav1) | 3:19 |
+| 45 | [曇天](https://open.spotify.com/track/1nxHxgGQga4w2WrU1kieOB) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [The World's Edge](https://open.spotify.com/album/5Y82ECIONUEk8HgbebQS7B) | 3:10 |
 
-Snapshot ID: `AAAAAG6yU+4PDn9sxzwLDZ3kO9cTPPlu`
+Snapshot ID: `AAAAAJ+Gyh4UoVE0wzcUAi7ynii6D/ma`

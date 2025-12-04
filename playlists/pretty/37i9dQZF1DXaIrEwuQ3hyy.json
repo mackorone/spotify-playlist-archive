@@ -1,6 +1,6 @@
 {
   "description": "Die cozy season geht los \ud83c\udf42",
-  "num_followers": 1097637,
+  "num_followers": 1097601,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-12-01 10:52:22",
       "album": {
+        "name": "The Sick",
+        "url": "https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 195434,
+      "name": "The Sick",
+      "url": "https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA"
+    },
+    {
+      "added_at": "2025-12-01 10:52:22",
+      "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 246000,
       "name": "Soleil Bleu",
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
-    },
-    {
-      "added_at": "2025-12-01 10:52:22",
-      "album": {
-        "name": "The Sick",
-        "url": "https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 195434,
-      "name": "The Sick",
-      "url": "https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA"
     },
     {
       "added_at": "2025-12-01 10:52:22",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-12-01 10:52:22",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
-    },
-    {
-      "added_at": "2025-12-01 10:52:22",
-      "album": {
         "name": "Jessie (i miss you)",
         "url": "https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 197748,
       "name": "Jessie (i miss you)",
       "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
+    },
+    {
+      "added_at": "2025-12-01 10:52:22",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
     },
     {
       "added_at": "2025-12-01 10:52:22",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-12-01 10:52:22",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
-      },
-      "artists": [
-        {
-          "name": "CATT",
-          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
-        }
-      ],
-      "duration_ms": 229787,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt"
-    },
-    {
-      "added_at": "2025-12-01 10:52:22",
-      "album": {
         "name": "Make me think of you",
         "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 199006,
       "name": "Make me think of you",
       "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
+    },
+    {
+      "added_at": "2025-12-01 10:52:22",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
+      },
+      "artists": [
+        {
+          "name": "CATT",
+          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
+        }
+      ],
+      "duration_ms": 229787,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt"
     },
     {
       "added_at": "2025-12-01 10:52:22",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-12-01 10:52:22",
       "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1hkBhuDxZZcakXatV1RVvG"
+      },
+      "artists": [
+        {
+          "name": "CECI",
+          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
+        }
+      ],
+      "duration_ms": 138556,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/4kAoE56A4sK26S72AmnN07"
+    },
+    {
+      "added_at": "2025-12-01 10:52:22",
+      "album": {
         "name": "Barefoot",
         "url": "https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7"
       },
@@ -1323,6 +1339,22 @@
       "duration_ms": 156500,
       "name": "Barefoot",
       "url": "https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy"
+    },
+    {
+      "added_at": "2025-12-01 10:52:22",
+      "album": {
+        "name": "Know the Night",
+        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Know the Night",
+      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
     },
     {
       "added_at": "2025-12-01 10:52:22",
@@ -1343,22 +1375,6 @@
     {
       "added_at": "2025-12-01 10:52:22",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/1hkBhuDxZZcakXatV1RVvG"
-      },
-      "artists": [
-        {
-          "name": "CECI",
-          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
-        }
-      ],
-      "duration_ms": 138556,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/4kAoE56A4sK26S72AmnN07"
-    },
-    {
-      "added_at": "2025-12-01 10:52:22",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 169771,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy"
-    },
-    {
-      "added_at": "2025-12-01 10:52:22",
-      "album": {
-        "name": "Know the Night",
-        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Know the Night",
-      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
     },
     {
       "added_at": "2025-12-01 10:52:22",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-12-01 10:52:22",
       "album": {
-        "name": "Back to the Wind",
-        "url": "https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 200161,
-      "name": "Back to the Wind",
-      "url": "https://open.spotify.com/track/3PppWqmsD5jpwWBfOM4YNM"
-    },
-    {
-      "added_at": "2025-12-01 10:52:22",
-      "album": {
         "name": "Girl Next Door",
         "url": "https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 214013,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
+    },
+    {
+      "added_at": "2025-12-01 10:52:22",
+      "album": {
+        "name": "Back to the Wind",
+        "url": "https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 200161,
+      "name": "Back to the Wind",
+      "url": "https://open.spotify.com/track/3PppWqmsD5jpwWBfOM4YNM"
     },
     {
       "added_at": "2025-12-01 10:52:22",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-12-01 10:52:22",
       "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
-      },
-      "artists": [
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 187795,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
-    },
-    {
-      "added_at": "2025-12-01 10:52:22",
-      "album": {
         "name": "Oceanside",
         "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 167826,
       "name": "Oceanside",
       "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
+    },
+    {
+      "added_at": "2025-12-01 10:52:22",
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
+      },
+      "artists": [
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "duration_ms": 187795,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
     },
     {
       "added_at": "2025-12-01 10:52:22",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2025-12-01 10:52:22",
       "album": {
-        "name": "Morning Birds",
-        "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
+        "name": "Sugar Clouds",
+        "url": "https://open.spotify.com/album/6kLXkXhbZy8Jg1rv29kr2a"
       },
       "artists": [
         {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Morning Birds",
-      "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
+      "duration_ms": 268560,
+      "name": "Sugar Clouds",
+      "url": "https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM"
     },
     {
       "added_at": "2025-12-01 10:52:22",

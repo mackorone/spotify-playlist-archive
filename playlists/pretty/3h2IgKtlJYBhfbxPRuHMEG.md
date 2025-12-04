@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 508 likes - 77 songs - 4 hr 17 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 507 likes - 77 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

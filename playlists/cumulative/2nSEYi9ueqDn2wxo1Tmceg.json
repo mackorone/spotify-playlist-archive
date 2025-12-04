@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Balloon Balloon Balloon",
+        "url": "https://open.spotify.com/album/4rCduWuK1sHdM4TNILadHp"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "(I Wanna) Be Your Girl",
+      "url": "https://open.spotify.com/track/7sKbeh17F1qTfHkgV3y7t0"
+    },
+    {
+      "album": {
         "name": "10,000 Hours",
         "url": "https://open.spotify.com/album/3oJRcRPY8CYVyr4BelEzht"
       },
@@ -13288,7 +13306,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 278026,
       "name": "I'm A Pretty Showboy",
       "url": "https://open.spotify.com/track/0iRIVAtzxKjre18iUuhm61"
@@ -15901,6 +15919,24 @@
     },
     {
       "album": {
+        "name": "Tranquilizer",
+        "url": "https://open.spotify.com/album/4nOjUCw5rOroJp1JHcLZau"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227973,
+      "name": "Lifeworld",
+      "url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
+    },
+    {
+      "album": {
         "name": "Light Shadow",
         "url": "https://open.spotify.com/album/52zHG40oZDixohnkmHcFVj"
       },
@@ -16590,7 +16626,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 251575,
       "name": "LOSE CONTROL",
       "url": "https://open.spotify.com/track/5FX1K48DqqyQ9Nby7HzEYn"
@@ -26690,7 +26726,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 275500,
       "name": "The Parting Glass",
       "url": "https://open.spotify.com/track/09SJAfgaWfG9lZJJBCeDSB"

@@ -4117,6 +4117,24 @@
     },
     {
       "album": {
+        "name": "Mist on Water",
+        "url": "https://open.spotify.com/album/0sLeBGncP7adWV4bDnqUnN"
+      },
+      "artists": [
+        {
+          "name": "Enzo Costa",
+          "url": "https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156367,
+      "name": "Mist on Water",
+      "url": "https://open.spotify.com/track/4UD4lu6cPROXEGSeJGp1BW"
+    },
+    {
+      "album": {
         "name": "Moment Held",
         "url": "https://open.spotify.com/album/7eSyVcWIf46avGw5FfLk2f"
       },
@@ -6792,7 +6810,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 133688,
       "name": "True At Heart",
       "url": "https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq"
@@ -7408,6 +7426,24 @@
       "duration_ms": 145608,
       "name": "Window From A Train",
       "url": "https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5odlqR0pcxQgpfDdHXoBAt"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161205,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/340KkTWH44nG5CZ8bkeGl8"
     },
     {
       "album": {

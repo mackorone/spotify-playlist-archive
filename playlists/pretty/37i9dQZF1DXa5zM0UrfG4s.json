@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116592,
+  "num_followers": 116583,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,26 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
+        "name": "Jentekveld",
+        "url": "https://open.spotify.com/album/6sQugPUwv6kMn83YM4Ooaz"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 138568,
+      "name": "Jentekveld",
+      "url": "https://open.spotify.com/track/3ULg1vFh05UW6TPSnsgGpy"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
         "name": "Fest i Tr\u00f8ndelag",
         "url": "https://open.spotify.com/album/4y4NUVNk5bzyydVabRpfXl"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 173006,
       "name": "Fest i Tr\u00f8ndelag",
       "url": "https://open.spotify.com/track/7IAzz4Eof2KQzw2AA18aa8"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
-        "name": "Jentekveld",
-        "url": "https://open.spotify.com/album/6sQugPUwv6kMn83YM4Ooaz"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 138568,
-      "name": "Jentekveld",
-      "url": "https://open.spotify.com/track/3ULg1vFh05UW6TPSnsgGpy"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "Dum i haue",
         "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 144808,
       "name": "Dum i haue",
       "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -775,22 +775,18 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "De g\u00e6rne har det godt",
-        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
+        "name": "En gammal Amazon",
+        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
       },
       "artists": [
         {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
         }
       ],
-      "duration_ms": 128653,
-      "name": "De g\u00e6rne har det godt",
-      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
+      "duration_ms": 166297,
+      "name": "En gammal Amazon",
+      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -811,18 +807,22 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "En gammal Amazon",
-        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
+        "name": "De g\u00e6rne har det godt",
+        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
       },
       "artists": [
         {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
         }
       ],
-      "duration_ms": 166297,
-      "name": "En gammal Amazon",
-      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
+      "duration_ms": 128653,
+      "name": "De g\u00e6rne har det godt",
+      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Hopp inn i kjerra",
-        "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        }
-      ],
-      "duration_ms": 140940,
-      "name": "Hopp inn i kjerra",
-      "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
         "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
       },
@@ -939,22 +919,22 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Velkommen til \u00d8stfold",
-        "url": "https://open.spotify.com/album/77bx4BwFo76C57mYqDnHtt"
+        "name": "Hopp inn i kjerra",
+        "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
       },
       "artists": [
         {
-          "name": "ZadeKing",
-          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         },
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
         }
       ],
-      "duration_ms": 143861,
-      "name": "Velkommen til \u00d8stfold",
-      "url": "https://open.spotify.com/track/2DwItGwSNTYI4E8RtmJwUX"
+      "duration_ms": 140940,
+      "name": "Hopp inn i kjerra",
+      "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -971,6 +951,26 @@
       "duration_ms": 138947,
       "name": "Sv\u00e6re Pupper",
       "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "Velkommen til \u00d8stfold",
+        "url": "https://open.spotify.com/album/77bx4BwFo76C57mYqDnHtt"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 143861,
+      "name": "Velkommen til \u00d8stfold",
+      "url": "https://open.spotify.com/track/2DwItGwSNTYI4E8RtmJwUX"
     },
     {
       "added_at": "2025-11-06 23:00:18",

@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Boy From Barcelona, Baby",
+        "url": "https://open.spotify.com/album/0TqqeYC86OzqZBPGNuVFlR"
+      },
+      "artists": [
+        {
+          "name": "Marti Perramon",
+          "url": "https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Mutual",
+      "url": "https://open.spotify.com/track/08Nx4AFHToRhGfgPrzMlc8"
+    },
+    {
+      "album": {
         "name": "Not Forever",
         "url": "https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04"
       },

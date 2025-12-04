@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 542958,
+  "num_followers": 542935,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MMJYeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MMOsUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Siste Dans (fra Sn\u00f8s\u00f8steren)",
-        "url": "https://open.spotify.com/album/6G4GX3mlwWrPWqBy9Vm5vz"
+        "url": "https://open.spotify.com/album/1OZlDaEOa8wxaAm7prfRVy"
       },
       "artists": [
         {
@@ -38,10 +38,10 @@
       ],
       "duration_ms": 218030,
       "name": "Siste Dans - fra Sn\u00f8s\u00f8steren",
-      "url": "https://open.spotify.com/track/6YSq1MHTG61D0p489GqcLA"
+      "url": "https://open.spotify.com/track/2Y0Nz7XqVwjfACKtLZ323v"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "N\u00e5r Sn\u00f8en Smelter (fra Tre n\u00f8tter til Askepott)",
         "url": "https://open.spotify.com/album/7a7Y8R2hG0WJrcziQFvAoL"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0M3G7kxxZt2W1T3PH97iXd"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Selmas sang (fra Sn\u00f8fall)",
         "url": "https://open.spotify.com/album/4a9b5TzhjKPXURJkODS5BJ"
@@ -105,23 +105,7 @@
       "url": "https://open.spotify.com/track/0PRX6CXffB3cARlzNCkmR4"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "Home for Christmas",
-        "url": "https://open.spotify.com/album/7H5YWCG8buEmoYUF2uDl6H"
-      },
-      "artists": [
-        {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Home for Christmas",
-      "url": "https://open.spotify.com/track/3E0fq2gqsNbQo5paAuEcmc"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "ingenting er magisk",
         "url": "https://open.spotify.com/album/4uAID7XcGNdxLJJC0BkOtd"
@@ -137,10 +121,26 @@
       "url": "https://open.spotify.com/track/1aKVPi9doltHZd1AxgzrYW"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/36FLeoc0YbDuiOa3lg3cY1"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Home for Christmas",
+      "url": "https://open.spotify.com/track/6bzWp9PgSz1CtDVWijf7aa"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
@@ -148,12 +148,12 @@
           "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 207199,
+      "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Klokkene kallar",
         "url": "https://open.spotify.com/album/2h8WBOXsRMMdiYqxNyjvXL"
@@ -173,23 +173,7 @@
       "url": "https://open.spotify.com/track/0fKwOY2Z6oB9ntoNDR13nP"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc"
@@ -209,7 +193,23 @@
       "url": "https://open.spotify.com/track/0WFyQgDzbQCfJuxcHW4Zrt"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -225,39 +225,7 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
-        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Driving Home for Christmas - 2019 Remaster",
-      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -273,7 +241,55 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "Hey Ho",
+        "url": "https://open.spotify.com/album/4GTqGHsFSHBY1SeMCnvHuE"
+      },
+      "artists": [
+        {
+          "name": "Freddy Kalas",
+          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "Hey Ho",
+      "url": "https://open.spotify.com/track/73bwhA1NxxkBMJAziBgUnX"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "If I Should Fall from Grace with God (Expanded Edition)",
         "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
@@ -309,23 +325,7 @@
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "Hey Ho (Original Versjon)",
-        "url": "https://open.spotify.com/album/2tc5zTUFdPduhkqiokTnSu"
-      },
-      "artists": [
-        {
-          "name": "Freddy Kalas",
-          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Hey Ho (Original Versjon)",
-      "url": "https://open.spotify.com/track/1ikAsZ38q8AQ1l7FcOhu5g"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/0zCU35nRISaqZqlUXNEL5Z"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Mosaikk (16 Biter)",
         "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Mot lys (fra Sn\u00f8fall)",
         "url": "https://open.spotify.com/album/6eZZKFC8DagVgdVYIjeX5A"
@@ -377,23 +377,23 @@
       "url": "https://open.spotify.com/track/2UWCCJ47QZvrK5dPjJg6d3"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+        "name": "Emmas jul",
+        "url": "https://open.spotify.com/album/00Kbu5e5FnlEJLKWtnNbxc"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
         }
       ],
-      "duration_ms": 229638,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+      "duration_ms": 192153,
+      "name": "Himmel p\u00e5 jord",
+      "url": "https://open.spotify.com/track/1JEiQDe1vXIpmLitiB6JQk"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
@@ -413,55 +413,7 @@
       "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "Emmas jul",
-        "url": "https://open.spotify.com/album/00Kbu5e5FnlEJLKWtnNbxc"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 192153,
-      "name": "Himmel p\u00e5 jord",
-      "url": "https://open.spotify.com/track/1JEiQDe1vXIpmLitiB6JQk"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 266328,
-      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "Engler i sne",
-        "url": "https://open.spotify.com/album/08cQFayGjufB6a4godfpdD"
-      },
-      "artists": [
-        {
-          "name": "emma",
-          "url": "https://open.spotify.com/artist/6pe92iYUnYByNR6uMcfZ4V"
-        }
-      ],
-      "duration_ms": 175927,
-      "name": "Engler i sne",
-      "url": "https://open.spotify.com/track/59GOf2vvt1WFPzsvQDhVUw"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Emmas jul",
         "url": "https://open.spotify.com/album/00Kbu5e5FnlEJLKWtnNbxc"
@@ -477,23 +429,23 @@
       "url": "https://open.spotify.com/track/4jImfl3tXqF41rcTElShrM"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
-        "name": "Jul i svingen",
-        "url": "https://open.spotify.com/album/4CLy9bqcomutoGY0txQSa3"
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
       },
       "artists": [
         {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 156906,
-      "name": "Svingensongen",
-      "url": "https://open.spotify.com/track/4SxcFcdTrSpYPvANjtdlWY"
+      "duration_ms": 229638,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Valget \u00e5 g\u00e5, og vi gikk",
         "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
@@ -509,7 +461,55 @@
       "url": "https://open.spotify.com/track/1dPZDS1N5YIGBzhD1UReoJ"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 266328,
+      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "Engler i sne",
+        "url": "https://open.spotify.com/album/08cQFayGjufB6a4godfpdD"
+      },
+      "artists": [
+        {
+          "name": "emma",
+          "url": "https://open.spotify.com/artist/6pe92iYUnYByNR6uMcfZ4V"
+        }
+      ],
+      "duration_ms": 175927,
+      "name": "Engler i sne",
+      "url": "https://open.spotify.com/track/59GOf2vvt1WFPzsvQDhVUw"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "Jul i svingen",
+        "url": "https://open.spotify.com/album/4CLy9bqcomutoGY0txQSa3"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Svingensongen",
+      "url": "https://open.spotify.com/track/4SxcFcdTrSpYPvANjtdlWY"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Jeg skal finne deg",
         "url": "https://open.spotify.com/album/0Gb1gTcfo63M5zYJHGfZVK"
@@ -525,23 +525,7 @@
       "url": "https://open.spotify.com/track/5kBLY1qUXU2RVWtkil2Thh"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 121526,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
@@ -557,7 +541,7 @@
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Stjernest\u00f8v",
         "url": "https://open.spotify.com/album/51g1ZXsMZYm2u63xiBJhc8"
@@ -573,7 +557,23 @@
       "url": "https://open.spotify.com/track/2g7kOfDm0QfGHICnvJfP0e"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Jula Hjemme (feat. Trygve Skaug)",
         "url": "https://open.spotify.com/album/3qJ34RupcqOwNh9Qor3V1C"
@@ -593,59 +593,7 @@
       "url": "https://open.spotify.com/track/47G1D6ZRAkj37PsONIqs8h"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "Christmas Lights",
-        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242495,
-      "name": "Christmas Lights",
-      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "Signature Box",
-        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Happy Xmas (War Is Over) - Remastered 2010",
-      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -677,7 +625,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Du er ikke alene",
         "url": "https://open.spotify.com/album/7uns24NjdQA4SA48As0AeL"
@@ -693,23 +641,39 @@
       "url": "https://open.spotify.com/track/6dq2NEtJvTIAIU515Pn3LM"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+      "duration_ms": 242495,
+      "name": "Christmas Lights",
+      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -725,7 +689,43 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "Signature Box",
+        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "2007 (Fontana)",
         "url": "https://open.spotify.com/album/5Ds8sRn5c55slW4dLRToXr"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/0McNg79tsCnzI54mfJVxNZ"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Valget \u00e5 g\u00e5, og vi gikk",
         "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
@@ -757,23 +757,7 @@
       "url": "https://open.spotify.com/track/3YJA6qP1OMqMTfGxznhpAR"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "Jul i svingen",
-        "url": "https://open.spotify.com/album/4CLy9bqcomutoGY0txQSa3"
-      },
-      "artists": [
-        {
-          "name": "Svingenkoret",
-          "url": "https://open.spotify.com/artist/3S42tRBTRdxmtBii6z0Lt1"
-        }
-      ],
-      "duration_ms": 148213,
-      "name": "Den lure nissen",
-      "url": "https://open.spotify.com/track/4pVGOnl9ldWoAtyWlIoVQb"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -789,7 +773,7 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "Jul i svingen",
         "url": "https://open.spotify.com/album/4CLy9bqcomutoGY0txQSa3"
@@ -805,10 +789,26 @@
       "url": "https://open.spotify.com/track/6JspRQrXelZuB0WUSeWdMf"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
       "album": {
-        "name": "My Name Is Jos\u00e9 Feliciano",
-        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
+        "name": "Jul i svingen",
+        "url": "https://open.spotify.com/album/4CLy9bqcomutoGY0txQSa3"
+      },
+      "artists": [
+        {
+          "name": "Svingenkoret",
+          "url": "https://open.spotify.com/artist/3S42tRBTRdxmtBii6z0Lt1"
+        }
+      ],
+      "duration_ms": 148213,
+      "name": "Den lure nissen",
+      "url": "https://open.spotify.com/track/4pVGOnl9ldWoAtyWlIoVQb"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
       },
       "artists": [
         {
@@ -816,12 +816,28 @@
           "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 182306,
+      "duration_ms": 181794,
       "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
+      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
-      "added_at": "2025-12-02 14:10:28",
+      "added_at": "2025-12-03 16:24:17",
+      "album": {
+        "name": "Jula tilbake",
+        "url": "https://open.spotify.com/album/67twyFsd43BSm91cDEenfz"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 227343,
+      "name": "Jula tilbake",
+      "url": "https://open.spotify.com/track/6RuAa8JN7skyyzUttiEkh1"
+    },
+    {
+      "added_at": "2025-12-03 16:24:17",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -835,22 +851,6 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-12-02 14:10:28",
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "The Christmas Song (Merry Christmas To You)",
-      "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
     }
   ],
   "unique_name": "Top 50 - Norway",

@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1036112,
+  "num_followers": 1036068,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Looking For Love",
+        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173044,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 196214,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Looking For Love",
-        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173044,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Home (feat. Bonn)",
-        "url": "https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 239067,
-      "name": "Home (feat. Bonn)",
-      "url": "https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Fiz Esse Som Pra Voc\u00ea",
         "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 172340,
       "name": "Fiz Esse Som Pra Voc\u00ea - Ralk Remix",
       "url": "https://open.spotify.com/track/08E0nvXBTp8ayyOaXwEtue"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Home (feat. Bonn)",
+        "url": "https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 239067,
+      "name": "Home (feat. Bonn)",
+      "url": "https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp"
     },
     {
       "added_at": "2024-11-15 03:00:00",

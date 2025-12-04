@@ -2635,6 +2635,24 @@
     },
     {
       "album": {
+        "name": "Party In The Back",
+        "url": "https://open.spotify.com/album/4ky3Mc4MVClitmYShCvi6U"
+      },
+      "artists": [
+        {
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166133,
+      "name": "Lightning In A Bottle",
+      "url": "https://open.spotify.com/track/1v6wu17AJ2bgbXv5B2XjZY"
+    },
+    {
+      "album": {
         "name": "Livin' Ain't Killed Me Yet",
         "url": "https://open.spotify.com/album/20avoS99wAkzfnxks3FmQH"
       },

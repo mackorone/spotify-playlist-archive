@@ -2,7 +2,7 @@
 
 ### [R&B Classics \| 90s & 2000s RnB Hits](https://open.spotify.com/playlist/543ggovIEPepC3a6yaQ6Bi)
 
-> Enjoy the all\-time favorite R&amp;B songs from the 90s, 00s &amp; 2010s\. Best long mix of old school RnB classics &amp; throwback party jams from TLC, Usher, Aaliyah, Chris Brown, Mario, Drake, Ne\-Yo, Alicia Keys, Destiny's Child, Mariah Carey, Nelly, The Weeknd &amp; more\. Best Old Skool R&amp;B love music collection
+> Geniet van de ultieme R&amp;B favorieten uit de jaren 90, 00s &amp; 2010s! Old school R&amp;B classics en throwback party jams van TLC, Usher, Aaliyah, Chris Brown, Mario, Jennifer Lopez,  Drake, Ne\-Yo, Alicia Keys, Destiny's Child, Mariah Carey, Nelly, The Weeknd en meer\. De beste RnB Hits allertijden!
 
 256 songs - 17 hr 33 min
 

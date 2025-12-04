@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 23449,
+  "num_followers": 23455,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAAAlvIRROPvTv7GHZd273om0",
+  "snapshot_id": "aS4sAAAAAADpzwUQhs//CtncNukK8JF4",
   "tracks": [
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1 Team",
-        "url": "https://open.spotify.com/album/48DFwSlZ74X0yPX3bRm080"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "De Kraaien",
-          "url": "https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf"
-        }
-      ],
-      "duration_ms": 198368,
-      "name": "1 Team",
-      "url": "https://open.spotify.com/track/0Hyn9l85xe3mgDLHPKFERe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ik Ga Harder (feat. Jayh)",
         "url": "https://open.spotify.com/album/6IsvaafTSWnfBgOVkplYiX"
       },
@@ -511,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kali (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/2zE6YSa25Sqd9dIjxAaVuk"
+        "name": "1 Team",
+        "url": "https://open.spotify.com/album/48DFwSlZ74X0yPX3bRm080"
       },
       "artists": [
         {
@@ -520,13 +500,13 @@
           "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "Django Wagner",
-          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+          "name": "De Kraaien",
+          "url": "https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Kali - Outsiders Remix",
-      "url": "https://open.spotify.com/track/5i0Okd7ctP2yCq2fHERUMw"
+      "duration_ms": 198368,
+      "name": "1 Team",
+      "url": "https://open.spotify.com/track/0Hyn9l85xe3mgDLHPKFERe"
     },
     {
       "added_at": null,
@@ -547,6 +527,26 @@
       "duration_ms": 136692,
       "name": "Flitsmeister",
       "url": "https://open.spotify.com/track/0veJcZbDFJ86oDsUvIk1wL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kali (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/2zE6YSa25Sqd9dIjxAaVuk"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Kali - Outsiders Remix",
+      "url": "https://open.spotify.com/track/5i0Okd7ctP2yCq2fHERUMw"
     },
     {
       "added_at": null,
@@ -643,6 +643,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Magnifico (Jump Remix)",
+        "url": "https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        },
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
+        }
+      ],
+      "duration_ms": 159774,
+      "name": "Magnifico - Jump Remix",
+      "url": "https://open.spotify.com/track/3sFZe3Y4rvMmIdxpektQfV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Het Zwarte Schaap",
         "url": "https://open.spotify.com/album/43ua8DSEx8NSWnAcOa19Rt"
       },
@@ -667,30 +691,6 @@
       "duration_ms": 184971,
       "name": "Het Zwarte Schaap",
       "url": "https://open.spotify.com/track/2oJanqscZDqDY7Xf6ds4FV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Magnifico (Jump Remix)",
-        "url": "https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "K-Liber",
-          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
-        },
-        {
-          "name": "The Darkraver",
-          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
-        }
-      ],
-      "duration_ms": 159774,
-      "name": "Magnifico - Jump Remix",
-      "url": "https://open.spotify.com/track/3sFZe3Y4rvMmIdxpektQfV"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zo Mooi (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/5OQFEUikCYxmFs1WFkzMOA"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Nienke Plas",
-          "url": "https://open.spotify.com/artist/5rAvD7H6mxJut208JT5KI4"
-        }
-      ],
-      "duration_ms": 182787,
-      "name": "Zo Mooi - Outsiders Remix",
-      "url": "https://open.spotify.com/track/1cet6gxEKDVXqUngf0Dp2O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zimmer Frei",
         "url": "https://open.spotify.com/album/32scrhlBaSowEpVQBkO1e5"
       },
@@ -891,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zo Mooi (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/5OQFEUikCYxmFs1WFkzMOA"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Nienke Plas",
+          "url": "https://open.spotify.com/artist/5rAvD7H6mxJut208JT5KI4"
+        }
+      ],
+      "duration_ms": 182787,
+      "name": "Zo Mooi - Outsiders Remix",
+      "url": "https://open.spotify.com/track/1cet6gxEKDVXqUngf0Dp2O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pullover (feat. J.D.A.)",
         "url": "https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak"
       },
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Die",
-        "url": "https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu"
-      },
-      "artists": [
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "Never Die",
-      "url": "https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebls 4 Life",
         "url": "https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP"
       },
@@ -971,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Die",
+        "url": "https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 200620,
+      "name": "Never Die",
+      "url": "https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebel Baby",
         "url": "https://open.spotify.com/album/7hk0hPdYtMeqT1rdANRbne"
       },
@@ -983,26 +983,6 @@
       "duration_ms": 252800,
       "name": "Rebel Baby",
       "url": "https://open.spotify.com/track/2M5mu6nJEFbq6Z6shY3WSZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Komen Terug",
-        "url": "https://open.spotify.com/album/2eUhnvTuJRayijNLBOzHoG"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Django Wagner",
-          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
-        }
-      ],
-      "duration_ms": 274377,
-      "name": "We Komen Terug",
-      "url": "https://open.spotify.com/track/7fzc0VslkvObn5VfBw6cr7"
     },
     {
       "added_at": null,
@@ -1023,6 +1003,26 @@
       "duration_ms": 204387,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Komen Terug",
+        "url": "https://open.spotify.com/album/2eUhnvTuJRayijNLBOzHoG"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "duration_ms": 274377,
+      "name": "We Komen Terug",
+      "url": "https://open.spotify.com/track/7fzc0VslkvObn5VfBw6cr7"
     },
     {
       "added_at": null,

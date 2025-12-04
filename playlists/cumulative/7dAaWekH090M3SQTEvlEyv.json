@@ -24,7 +24,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 154835,
       "name": "PPPP (feat. Hatsune Miku, Kasane Teto)",
       "url": "https://open.spotify.com/track/6J3pPfXLujwsWQpvR6XMgC"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 122482,
       "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
       "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "\u304f\u308b\u307f\u5272\u308a\u5973\u738b",
+        "url": "https://open.spotify.com/album/75lUGnMSDpXIkll6vJNtp9"
+      },
+      "artists": [
+        {
+          "name": "NanahoshiKangengakudan",
+          "url": "https://open.spotify.com/artist/546Z4c3hsgGSbpUKi298Oo"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140655,
+      "name": "\u304f\u308b\u307f\u5272\u308a\u5973\u738b",
+      "url": "https://open.spotify.com/track/28pyRtDvblWqbhflI7HuXh"
+    },
+    {
+      "album": {
         "name": "\u3053\u308d\u3057\u3061\u3083\u3063\u305f!",
         "url": "https://open.spotify.com/album/5PNDRomD3yZGskUq8huaxq"
       },
@@ -82,7 +100,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 195454,
       "name": "\u3053\u308d\u3057\u3061\u3083\u3063\u305f! (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4d1CObMrwGif0yDhphYeO1"
@@ -255,6 +273,24 @@
     },
     {
       "album": {
+        "name": "\u30df\u30b8\u5b50\u306e\u604b",
+        "url": "https://open.spotify.com/album/1CvFmsCgRv841EILjsdH2U"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u3088\u308f",
+          "url": "https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263703,
+      "name": "\u30df\u30b8\u5b50\u306e\u604b",
+      "url": "https://open.spotify.com/track/2LTMwr7ZdaWXi1vfbPRaVj"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30ba\u30de\u30e9\u30a4\u30b6\u30fc",
         "url": "https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL"
       },
@@ -292,7 +328,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 176800,
       "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
       "url": "https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3"
@@ -314,6 +350,50 @@
       "duration_ms": 178383,
       "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
       "url": "https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg"
+    },
+    {
+      "album": {
+        "name": "\u30e6\u30cb\u30fc\u30af\u30a8\u30f3\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
+        "url": "https://open.spotify.com/album/0YZE1p5iOqcGtHs1FAcUjh"
+      },
+      "artists": [
+        {
+          "name": "\u96e8\u826f",
+          "url": "https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197729,
+      "name": "\u30e6\u30cb\u30fc\u30af\u30a8\u30f3\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6rSNGXvkn48P6kdiuBJ5cs"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30fc\u30d7\u30b6\u30eb\u30fc\u30e0 / \u30e9\u30f3\u30d9\u30f3\u30c8\u30a2\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/2hslbovaWV2N1qxZJbZFiz"
+      },
+      "artists": [
+        {
+          "name": "\u30eb\u30b7\u30ce",
+          "url": "https://open.spotify.com/artist/5gwVYKw4Bhbk1rGz37O3fy"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134071,
+      "name": "\u30eb\u30fc\u30d7\u30b6\u30eb\u30fc\u30e0 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6lcqXYjDSGxx69DurXx0rF"
     },
     {
       "album": {
@@ -368,6 +448,24 @@
       "duration_ms": 173834,
       "name": "\u611b\u5c5e\u6027",
       "url": "https://open.spotify.com/track/2salLUQo8z7f4oCutH0T4B"
+    },
+    {
+      "album": {
+        "name": "\u6563\u6b69\u306e\u90aa\u9b54",
+        "url": "https://open.spotify.com/album/3PRgwCMZpDUBEetbvQsbs8"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u3088\u308f",
+          "url": "https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181304,
+      "name": "\u6563\u6b69\u306e\u90aa\u9b54",
+      "url": "https://open.spotify.com/track/03LKxyUbFKaVSfxCbDI0Qf"
     },
     {
       "album": {

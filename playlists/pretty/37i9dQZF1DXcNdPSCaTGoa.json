@@ -1,6 +1,6 @@
 {
   "description": "Zonke's \"Work of Heart\" turns 10.",
-  "num_followers": 96182,
+  "num_followers": 96214,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
         "name": "Nomvula",
         "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 311880,
       "name": "Doo Be Doo",
       "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -635,34 +635,22 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
+        "name": "Family Values",
+        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
       },
       "artists": [
         {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
-        }
-      ],
-      "duration_ms": 320613,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        },
         {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+          "name": "ZANO",
+          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
         }
       ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+      "duration_ms": 274053,
+      "name": "Sondela (feat. Zano)",
+      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -679,6 +667,22 @@
       "duration_ms": 382186,
       "name": "I'd Like",
       "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -719,22 +723,34 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Family Values",
-        "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
       },
       "artists": [
         {
-          "name": "Riky Rick",
-          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
-        },
-        {
-          "name": "ZANO",
-          "url": "https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ"
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
         }
       ],
-      "duration_ms": 274053,
-      "name": "Sondela (feat. Zano)",
-      "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
+      "duration_ms": 320613,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 404600,
+      "name": "Nizalwa Ngobani?",
+      "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -755,22 +771,6 @@
       "duration_ms": 315266,
       "name": "Palafala (feat. S'bu)",
       "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 404600,
-      "name": "Nizalwa Ngobani?",
-      "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 402093,
-      "name": "Zabalaza",
-      "url": "https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
         "name": "Wie's Bang",
         "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 296680,
       "name": "Tot Die Son Uitkom",
       "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 402093,
+      "name": "Zabalaza",
+      "url": "https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S"
     },
     {
       "added_at": "2025-10-10 02:53:29",

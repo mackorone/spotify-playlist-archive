@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: HNTR & Phantogram",
-  "num_followers": 267934,
+  "num_followers": 267954,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -615,38 +615,6 @@
     {
       "added_at": "2025-11-28 05:00:13",
       "album": {
-        "name": "Appetite",
-        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 227272,
-      "name": "Appetite",
-      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
-    },
-    {
-      "added_at": "2025-11-28 05:00:13",
-      "album": {
-        "name": "World Of The Rave",
-        "url": "https://open.spotify.com/album/7fedP2I2IBBNdvEFITz5HC"
-      },
-      "artists": [
-        {
-          "name": "MARTA",
-          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
-        }
-      ],
-      "duration_ms": 185215,
-      "name": "World Of The Rave",
-      "url": "https://open.spotify.com/track/5kS92GBwDEloA9uKbFNulW"
-    },
-    {
-      "added_at": "2025-11-28 05:00:13",
-      "album": {
         "name": "Till I Die (feat. Claudia Valentina)",
         "url": "https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 203076,
       "name": "Till I Die (feat. Claudia Valentina)",
       "url": "https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ"
+    },
+    {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
+        "name": "World Of The Rave",
+        "url": "https://open.spotify.com/album/7fedP2I2IBBNdvEFITz5HC"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "duration_ms": 185215,
+      "name": "World Of The Rave",
+      "url": "https://open.spotify.com/track/5kS92GBwDEloA9uKbFNulW"
+    },
+    {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 227272,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
     },
     {
       "added_at": "2025-11-28 05:00:13",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2025-11-28 05:00:13",
       "album": {
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 171380,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
+    },
+    {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
         "name": "Bring The House Down",
         "url": "https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 222814,
       "name": "Bring The House Down",
       "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
-    },
-    {
-      "added_at": "2025-11-28 05:00:13",
-      "album": {
-        "name": "Make It Work",
-        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 171380,
-      "name": "Make It Work",
-      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
     },
     {
       "added_at": "2025-11-28 05:00:13",
@@ -1731,30 +1731,6 @@
     {
       "added_at": "2025-11-28 05:00:13",
       "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
-      },
-      "artists": [
-        {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        },
-        {
-          "name": "Rich DietZ",
-          "url": "https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8"
-        },
-        {
-          "name": "Smith & Sorren",
-          "url": "https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A"
-        }
-      ],
-      "duration_ms": 180010,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
-    },
-    {
-      "added_at": "2025-11-28 05:00:13",
-      "album": {
         "name": "Again? Fuck.",
         "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
       },
@@ -1787,6 +1763,30 @@
       "duration_ms": 185142,
       "name": "Ultrasound",
       "url": "https://open.spotify.com/track/2R2NZJZ5P52UOEp2IhlrzX"
+    },
+    {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Rich DietZ",
+          "url": "https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8"
+        },
+        {
+          "name": "Smith & Sorren",
+          "url": "https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
     },
     {
       "added_at": "2025-11-28 05:00:13",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2025-11-28 05:00:13",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1JbGw9go12vT4vLUjQTnBm"
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
       },
       "artists": [
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/52LWiiRlohdA6DQ0PvIwgX"
+      "duration_ms": 170057,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
     },
     {
       "added_at": "2025-11-28 05:00:13",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2025-11-28 05:00:13",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1JbGw9go12vT4vLUjQTnBm"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/52LWiiRlohdA6DQ0PvIwgX"
+    },
+    {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
         "name": "dollaz n dollaz",
         "url": "https://open.spotify.com/album/2Bl0W2ypDwTGp04bWlDKEq"
       },
@@ -1939,22 +1955,6 @@
     {
       "added_at": "2025-11-28 05:00:13",
       "album": {
-        "name": "California Dreamin'",
-        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
-    },
-    {
-      "added_at": "2025-11-28 05:00:13",
-      "album": {
         "name": "Stay With The Tempo",
         "url": "https://open.spotify.com/album/6ioWntlf8RGLq4lhALY9J8"
       },
@@ -1971,26 +1971,6 @@
       "duration_ms": 214218,
       "name": "Stay With The Tempo",
       "url": "https://open.spotify.com/track/3RE3izHxUijcckK3JDLLq5"
-    },
-    {
-      "added_at": "2025-11-28 05:00:13",
-      "album": {
-        "name": "Scars In Stereo",
-        "url": "https://open.spotify.com/album/00RW0XQwcNnY4fRuWXMdjw"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
-        }
-      ],
-      "duration_ms": 169212,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/2oXIBToJ6fMyhadJJXh4KO"
     },
     {
       "added_at": "2025-11-28 05:00:13",
@@ -2027,6 +2007,26 @@
       "duration_ms": 154384,
       "name": "Off The Hook",
       "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
+    },
+    {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
+        "name": "Scars In Stereo",
+        "url": "https://open.spotify.com/album/00RW0XQwcNnY4fRuWXMdjw"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 169212,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/2oXIBToJ6fMyhadJJXh4KO"
     },
     {
       "added_at": "2025-11-28 05:00:13",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2025-11-28 05:00:13",
       "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4jvgXjygIbhKSysm8EsZ9o"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/6runSRlHCq8b1QWuzQY3zj"
+    },
+    {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
         "name": "Spend Money",
         "url": "https://open.spotify.com/album/0Yc4FlwbliYKyTbtQY3Ea9"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 175312,
       "name": "Spend Money",
       "url": "https://open.spotify.com/track/6Q7MfRknss7JKOxnKkKfl4"
-    },
-    {
-      "added_at": "2025-11-28 05:00:13",
-      "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/4jvgXjygIbhKSysm8EsZ9o"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/6runSRlHCq8b1QWuzQY3zj"
     },
     {
       "added_at": "2025-11-28 05:00:13",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2025-11-28 05:00:13",
       "album": {
-        "name": "Prophecy",
-        "url": "https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 315276,
-      "name": "Prophecy",
-      "url": "https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6"
-    },
-    {
-      "added_at": "2025-11-28 05:00:13",
-      "album": {
         "name": "Red Velvet",
         "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 168440,
       "name": "Red Velvet",
       "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
+    },
+    {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
+        "name": "Prophecy",
+        "url": "https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 315276,
+      "name": "Prophecy",
+      "url": "https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6"
     },
     {
       "added_at": "2025-11-28 05:00:13",

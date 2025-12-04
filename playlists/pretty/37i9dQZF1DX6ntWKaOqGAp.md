@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: TRACK15
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,002 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,006 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Darling](https://open.spotify.com/track/13YZlRtdFoFhJzPHmwPW48) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Darling](https://open.spotify.com/album/40rEgd7QLwkgOpMzB2KCaN) | 3:34 |
 | 2 | [Sanitizer](https://open.spotify.com/track/4eCYeVfzGsS6jq8aX43yDr) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Sanitizer](https://open.spotify.com/album/0GjrgVnOjXqHxy7KtHQYnY) | 5:04 |
 | 3 | [クラッシュ](https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [なとり](https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy) | [デジタル・ラブ](https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG) | 2:16 |
-| 4 | [h2o.wav](https://open.spotify.com/track/5WmpPBp1c2fcT5fdpFizBW) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [](https://open.spotify.com/album/null) | 3:56 |
+| 4 | [h2o.wav](https://open.spotify.com/track/5WmpPBp1c2fcT5fdpFizBW) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [PHOBIA SYNDROME](https://open.spotify.com/album/6UeGX0fcpL3KycKGeBM3Rz) | 3:56 |
 | 5 | [パープルスカイ](https://open.spotify.com/track/3mU0qKsHGXoTRVm45q5mdI) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [パープルスカイ](https://open.spotify.com/album/6oFPR5rseGNY5TBsL6hdyJ) | 3:23 |
 | 6 | [DISTORTED世界](https://open.spotify.com/track/6cDVtEO1xexzJRvKXQiUmX) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [DOUKE](https://open.spotify.com/album/3btLEMRkoVoo5tdSG7E0kz) | 2:24 |
 | 7 | [僕だけの矛盾](https://open.spotify.com/track/0JbdUM8Bx8ax24Q50EHzB4) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [僕だけの矛盾](https://open.spotify.com/album/2H2lOVsdIvonip4PmKqFfW) | 4:14 |
 | 8 | [Dancing in my bad life \- feat.CLAN QUEEN](https://open.spotify.com/track/4AEw2WCrbdjvYw6AVCksGg) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t), [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [Dancing in my bad life \(feat.CLAN QUEEN\)](https://open.spotify.com/album/3nEakkMSAOhDPIz7Bt4EQJ) | 4:08 |
 | 9 | [Tokyo God Street Boys](https://open.spotify.com/track/3kOq5gclHD2iue7sZtzbg9) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [THE GOLDEN PROTOTYPE.](https://open.spotify.com/album/1U452pfURCdxtWKA63hxtk) | 3:50 |
-| 10 | [Track 4](https://open.spotify.com/track/38crZaLQqe7sBLR2zI8U74) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [](https://open.spotify.com/album/null) | 0:00 |
+| 10 | [SUPERSONIC](https://open.spotify.com/track/38crZaLQqe7sBLR2zI8U74) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [HELLO!](https://open.spotify.com/album/0Fby1ANupBwwDm8bFjf8nz) | 2:12 |
 | 11 | [感情的侵略](https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [glauben](https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4) | 2:43 |
 | 12 | [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 |
 | 13 | [シルエット](https://open.spotify.com/track/1GMD0Xzzawqz2GHZC8IhwL) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [シルエット](https://open.spotify.com/album/4xs2LYR6cIXU47QLmXJlFU) | 4:01 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 15 | [それでも世界が目を覚ますのなら \- AA1](https://open.spotify.com/track/5hlBWMFZ4Q3wLkbyz94NCF) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [Acoustic Album 1](https://open.spotify.com/album/4WoudAifbEKtz4TDyN2eJu) | 6:24 |
 | 16 | [Snow Ghost](https://open.spotify.com/track/1UtdzlK9YeslxL5YsQ9huh) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Snow Ghost](https://open.spotify.com/album/3yiTKxl4yKA4c67QEuSxb1) | 4:31 |
 | 17 | [前前前世](https://open.spotify.com/track/24nTgzIrn2dHN3WvZPyLwO) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [前前前世](https://open.spotify.com/album/6XkfmapC3io74pT99ozLaW) | 4:22 |
-| 18 | [shibuya phobia.](https://open.spotify.com/track/1K8jf2rYGgPkhUlLpvNbTZ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [](https://open.spotify.com/album/null) | 3:55 |
-| 19 | [歌えない](https://open.spotify.com/track/7lIdcvvRww8SVhuhs6hle8) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [](https://open.spotify.com/album/null) | 2:20 |
+| 18 | [shibuya phobia.](https://open.spotify.com/track/1K8jf2rYGgPkhUlLpvNbTZ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PHOBIA SYNDROME](https://open.spotify.com/album/6UeGX0fcpL3KycKGeBM3Rz) | 3:55 |
+| 19 | [歌えない](https://open.spotify.com/track/7lIdcvvRww8SVhuhs6hle8) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PHOBIA SYNDROME](https://open.spotify.com/album/6UeGX0fcpL3KycKGeBM3Rz) | 2:20 |
 | 20 | [BIRTHDAY](https://open.spotify.com/track/1YjeimpCndtODqrS2AQhp6) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [BIRTHDAY](https://open.spotify.com/album/07m2oiG7jBpYib22CTqyQm) | 3:06 |
 | 21 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 |
 | 22 | [Stranger](https://open.spotify.com/track/1Au1WFxVt9XunU0AUW09zU) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Stranger](https://open.spotify.com/album/3xyQB580wddBm8J9UwKzK9) | 3:21 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 29 | [My Answer](https://open.spotify.com/track/5sb1ngao5lKvPfGBiBsQW8) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [My Answer](https://open.spotify.com/album/0P2qYoVgXNwR6zsxSYhyn8) | 3:32 |
 | 30 | [偉生人](https://open.spotify.com/track/3g1Ca8PPhR4FBN6a66wkyq) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [偉生人](https://open.spotify.com/album/63x5RuS6pMjBokIF7E7qBw) | 3:28 |
 | 31 | [犬とバカ猫](https://open.spotify.com/track/5CifiKtU7pNzCQ9GdV3xfE) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [犬とバカ猫](https://open.spotify.com/album/65467rSxnHNRnRlHHY6412) | 3:14 |
-| 32 | [Supiri Supirare](https://open.spotify.com/track/6W42CMTYf3Au7sQYjug7eK) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [](https://open.spotify.com/album/null) | 2:22 |
+| 32 | [Supiri Supirare](https://open.spotify.com/track/6W42CMTYf3Au7sQYjug7eK) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [mouse spirits](https://open.spotify.com/album/2ZacnqLXEJW8TvhA6kEya1) | 2:22 |
 | 33 | [this time](https://open.spotify.com/track/34C3Lss008yTOL1otjvMRU) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [this time](https://open.spotify.com/album/4do8DfrRZtiPKOAxeBTLHm) | 4:24 |
 | 34 | [Eden No Heya](https://open.spotify.com/track/0e1ZlFD5tsOZApk8HMRCng) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Eden No Heya](https://open.spotify.com/album/4zRIHcykg7afeygcwakUft) | 3:51 |
 | 35 | [SO BAD](https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SO BAD](https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG) | 3:59 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 38 | [Our Song](https://open.spotify.com/track/1cljv0pFujhPmdNDSJNTim) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Our Song](https://open.spotify.com/album/3vOAwUmsvyNXiXBiWwwS8n) | 2:42 |
 | 39 | [CRYSTAL](https://open.spotify.com/track/64bR2sgtk2RsxfvuiTGJVM) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [LOST AND FOUND](https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu) | 3:51 |
 | 40 | [Another love](https://open.spotify.com/track/00vPwgu7XHmubbpvuXD3Nc) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Another love](https://open.spotify.com/album/25PPG7bbYOLb47OsJc6mfa) | 3:12 |
-| 41 | [BAND A](https://open.spotify.com/track/6h9kCwUpd3hKWZ5Huioi3M) | [FCO.](https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq) | [](https://open.spotify.com/album/null) | 3:21 |
+| 41 | [BAND A](https://open.spotify.com/track/6h9kCwUpd3hKWZ5Huioi3M) | [FCO.](https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq) | [Inc](https://open.spotify.com/album/05DGT91gvVgf8lUdkUzAPV) | 3:21 |
 | 42 | [ががが](https://open.spotify.com/track/6RwRpUWKAdYcO9l4ZwwAIM) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [ががが](https://open.spotify.com/album/11JxYvemQg1JMr4HnJtuU0) | 4:05 |
 | 43 | [夜空を蝕んで](https://open.spotify.com/track/3aWz8DKkDInc9AQDP1es3T) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [泡沫の夢は幻に](https://open.spotify.com/album/0HeOpLghvT87CUx7wuE2t2) | 3:08 |
 | 44 | [🔥おっかない🔥](https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [🔥おっかない🔥](https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz) | 3:16 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 52 | [that's all i can do](https://open.spotify.com/track/7twaSJLZIx4k1kjzDhohjm) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [that's all i can do](https://open.spotify.com/album/5VV6xaGGZdOHO2p5WoUyy7) | 2:41 |
 | 53 | [CRAZZZY](https://open.spotify.com/track/2SzkK2z0uUQr6cR5IwRM6L) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [CRAZZZY](https://open.spotify.com/album/6epSwi19HQpi4fZERo4jni) | 3:05 |
 | 54 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 |
-| 55 | [Red](https://open.spotify.com/track/639Uuzbmh3jh2lRvxZ2xHD) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [](https://open.spotify.com/album/null) | 1:13 |
+| 55 | [Red](https://open.spotify.com/track/639Uuzbmh3jh2lRvxZ2xHD) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [ENSEMBLE](https://open.spotify.com/album/6ntl6HHJTYj14wPZGfyWcc) | 1:13 |
 | 56 | [シェイプシフター](https://open.spotify.com/track/6EVVciBwPE9AUDmAHIWyt6) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [シェイプシフター](https://open.spotify.com/album/0LGgsmlcCxC7PAcif3bk0x) | 3:31 |
 | 57 | [ワールドエンドガールフレンド](https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 3:13 |
 | 58 | [主人公](https://open.spotify.com/track/16Ja7QMLTkSEAqgt1rOd7H) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [主人公](https://open.spotify.com/album/2vsldPSSsOtahc3HAULWkA) | 4:58 |

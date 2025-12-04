@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,762 likes - 106 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,754 likes - 106 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 3 | [Albatroz](https://open.spotify.com/track/6pkOGtH05w1pZh7oF7l7rA) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Albatroz](https://open.spotify.com/album/5erw9xZgmumf9gY3BuDpDb) | 2:41 |
 | 4 | [Daytime](https://open.spotify.com/track/1N4mF5RdQwvKGQ5666mw2s) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Daytime](https://open.spotify.com/album/6QoaEohAFbOn1Bg6wUtyae) | 2:36 |
 | 5 | [Husker](https://open.spotify.com/track/6sj9EO7zIISy4ZOreagxeR) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Husker](https://open.spotify.com/album/3kFF1dznSHdC8Y2nD7KeF5) | 2:31 |
-| 6 | [Saint Placide](https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Saint Placide](https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup) | 2:35 |
-| 7 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 |
-| 8 | [The Still Shore](https://open.spotify.com/track/2tmplG2gm71y0F5hFruGri) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [The Still Shore](https://open.spotify.com/album/3hO07xFDZ9ZKjsFOd5GwTU) | 2:14 |
-| 9 | [Abilene](https://open.spotify.com/track/2zW7bKgWk9WRrTYvRys0rR) | [Luiz de Luna](https://open.spotify.com/artist/0FZzM3FVTZdoefPWS9Edhb) | [Abilene](https://open.spotify.com/album/0rv3TQYYHCDQPyW7Bc20Kv) | 2:32 |
+| 6 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 |
+| 7 | [Saint Placide](https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Saint Placide](https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup) | 2:35 |
+| 8 | [Abilene](https://open.spotify.com/track/2zW7bKgWk9WRrTYvRys0rR) | [Luiz de Luna](https://open.spotify.com/artist/0FZzM3FVTZdoefPWS9Edhb) | [Abilene](https://open.spotify.com/album/0rv3TQYYHCDQPyW7Bc20Kv) | 2:32 |
+| 9 | [The Still Shore](https://open.spotify.com/track/2tmplG2gm71y0F5hFruGri) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [The Still Shore](https://open.spotify.com/album/3hO07xFDZ9ZKjsFOd5GwTU) | 2:14 |
 | 10 | [Waiting Depths](https://open.spotify.com/track/1yLVHyuohiMwMonGN4CwmA) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Waiting Depths](https://open.spotify.com/album/2egvprKnSn8OpCbDq7OUNp) | 2:36 |
 | 11 | [The Bagpiper](https://open.spotify.com/track/0IPBTVB6VHKIbibo58dx58) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [The Bagpiper](https://open.spotify.com/album/13E0YP2I2aEf4w6a7UqymH) | 2:56 |
-| 12 | [The Masks](https://open.spotify.com/track/6Yc14KO3pRPusbPrXbhTXW) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Masks](https://open.spotify.com/album/3nelL7cD1n3JL1NZOGVMyb) | 2:37 |
-| 13 | [Less Than Before](https://open.spotify.com/track/4h90RLLAfYFYypcisZgAtG) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Less Than Before](https://open.spotify.com/album/4LuOI3UB33pjgvOFeV0XV6) | 2:21 |
+| 12 | [Less Than Before](https://open.spotify.com/track/4h90RLLAfYFYypcisZgAtG) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Less Than Before](https://open.spotify.com/album/4LuOI3UB33pjgvOFeV0XV6) | 2:21 |
+| 13 | [The Masks](https://open.spotify.com/track/6Yc14KO3pRPusbPrXbhTXW) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Masks](https://open.spotify.com/album/3nelL7cD1n3JL1NZOGVMyb) | 2:37 |
 | 14 | [Sofi](https://open.spotify.com/track/1E63PT29zZUjwssWUudCIX) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Sofi](https://open.spotify.com/album/6CFdDRsZbvWZGWC42iQ9wb) | 2:53 |
 | 15 | [The Lone Wanderer](https://open.spotify.com/track/2Z7ZFMH8kzImUmJohr1NTv) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [The Lone Wanderer](https://open.spotify.com/album/5cfNxyzbXNjojEUHIQIE35) | 2:11 |
 | 16 | [Aurélie](https://open.spotify.com/track/3bDABoecakGnm4d6uuZG2r) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Aurélie](https://open.spotify.com/album/4toKfcM0DGCY6ginB9tFSQ) | 2:04 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 105 | [The Visitor](https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [The Visitor](https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs) | 2:07 |
 | 106 | [Night Route](https://open.spotify.com/track/5v2bNil9KFJXcwsBAup9lf) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Night Route](https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ) | 2:21 |
 
-Snapshot ID: `AAAAABBNKryw6qrxkCuEk7/oyt5nvB4f`
+Snapshot ID: `AAAAAEXImE4hJ0qj2qZr/w43R4atJz59`

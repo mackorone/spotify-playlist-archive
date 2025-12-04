@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 298,764 likes - 263 songs - 14 hr 59 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 298,735 likes - 263 songs - 14 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 10 | [Laufey: What Love Will Do to you](https://open.spotify.com/track/71G0IAEoNkyuM8wuAS5wEy) | [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [Laufey: What Love Will Do to you](https://open.spotify.com/album/7qlvvRi1G3HFm35RqhY1Pr) | 3:46 |
 | 11 | [In The Bleak Midwinter](https://open.spotify.com/track/3czlbEgQDVP39H5BXd7CPH) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [In The Bleak Midwinter](https://open.spotify.com/album/51pGZlMTBR9EeAn2CsR1KZ) | 2:18 |
 | 12 | [Élégie in E\-Flat Minor](https://open.spotify.com/track/5RQ49Ogdlu7XA8Sdnxd4gT) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Alexander Malofeev](https://open.spotify.com/artist/02QMwZF7kLqDVGDTZ5GoSw) | [Élégie in E\-Flat Minor](https://open.spotify.com/album/5i9xAGWNRjxIAaIHGQxOOs) | 5:45 |
-| 13 | [Berceuse, Op\. 57](https://open.spotify.com/track/2bzjf6y15j3h5GDMsmLSuW) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Berceuse, Op\. 57](https://open.spotify.com/album/4GuN1miMaFBS9Br2EJaUCY) | 2:39 |
+| 13 | [Berceuse, Op\. 57 \- Short Edit](https://open.spotify.com/track/2bzjf6y15j3h5GDMsmLSuW) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Berceuse, Op\. 57 \(Short Edit\)](https://open.spotify.com/album/4GuN1miMaFBS9Br2EJaUCY) | 2:39 |
 | 14 | [La nuit et l'amour Variation \(After Ludus pro patria: II\. La nuit et l'amour\) \[Arr\. for Cello, Violin & Piano by Jan\-Peter Klöpfel\]](https://open.spotify.com/track/458ACeYUe8pUcJQVp7kK4Y) | [Augusta Holmès](https://open.spotify.com/artist/0439MtJfgNSZdCZDaFH4sO), [Jan\-Peter Klöpfel](https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Sophie Pacini](https://open.spotify.com/artist/3ta2MB7zIScVq8qN8K4441) | [La nuit et l'amour](https://open.spotify.com/album/7elKCwG18bpiMT2R1AleiP) | 3:16 |
 | 15 | [Christmas Lullaby](https://open.spotify.com/track/0vtggEs9opGkFZPsMKm2LW) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Christmas Lullaby](https://open.spotify.com/album/3C8IX6vSH5EWaUb2sDiffF) | 1:31 |
 | 16 | [Nightlight](https://open.spotify.com/track/0fypoB1hrzA7NcI9431Hzt) | [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Kim Barbier](https://open.spotify.com/artist/4rBenz5sFjZJ0IBVELwTNw), [Esther Abrami Ensemble](https://open.spotify.com/artist/3RwLOpBYQ4MK3htNGKimtz) | [Nightlight](https://open.spotify.com/album/0eN5u2syj93yBDNVr6ou4S) | 2:34 |

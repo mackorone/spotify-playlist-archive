@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 22 | [Amores Que Acaban](https://open.spotify.com/track/3kt4Z68Z4IJzGRFh4h8C9z) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E), [Leslie Shaw](https://open.spotify.com/artist/4sv48LPlHQFdxfvwfxwcaq) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 3:43 |
 | 23 | [Tu Amor Fue Una Mentira](https://open.spotify.com/track/7bWIY2fn2iwgxfZ31c3MAk) | [Lucho Paz](https://open.spotify.com/artist/0eRJ3cGidTcm4CiXrn68W0), [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Nuestra Cumbia](https://open.spotify.com/album/3pNf1rFhsvSE9hi999LFRK) | 3:48 |
 | 24 | [Profesora de Inglés](https://open.spotify.com/track/2p9DFRU8fiaevI5XMExkh7) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 3:32 |
-| 25 | [Agüita Pa'l Calor](https://open.spotify.com/track/7L8P2Ml0FFKLdW9mSv6Bx8) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 2:49 |
+| 25 | [Un Amor Sin Corazón](https://open.spotify.com/track/36m1UijoKIocg5EXMvRp5I) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:54 |
 | 26 | [Historias](https://open.spotify.com/track/2SdR8B83ld7jUZg2F3BQ7i) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 4:16 |
-| 27 | [Un Amor Sin Corazón](https://open.spotify.com/track/36m1UijoKIocg5EXMvRp5I) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:54 |
-| 28 | [Estoy Cantando](https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [De Vuelta al Barrio Vol.1](https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM) | 3:01 |
-| 29 | [Todo Lo Que Quiero](https://open.spotify.com/track/5Lp4aA8x6GcHQbCgi1uFKd) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 4:03 |
+| 27 | [Estoy Cantando](https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [De Vuelta al Barrio Vol.1](https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM) | 3:01 |
+| 28 | [Agüita Pa'l Calor](https://open.spotify.com/track/7L8P2Ml0FFKLdW9mSv6Bx8) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 2:49 |
+| 29 | [Relax](https://open.spotify.com/track/3okhB8UP3eNHRz3ezGnRHa) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:30 |
 | 30 | [Feliz](https://open.spotify.com/track/2WdqubnIpiyMULlJc5frzD) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 3:38 |
-| 31 | [Relax](https://open.spotify.com/track/3okhB8UP3eNHRz3ezGnRHa) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:30 |
-| 32 | [Mónica](https://open.spotify.com/track/48YO39ZxZzwHxFxj4GJYIH) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:51 |
+| 31 | [Mónica](https://open.spotify.com/track/48YO39ZxZzwHxFxj4GJYIH) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:51 |
+| 32 | [Todo Lo Que Quiero](https://open.spotify.com/track/5Lp4aA8x6GcHQbCgi1uFKd) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 4:03 |
 | 33 | [Nena Rescátame](https://open.spotify.com/track/2Pd4CQbyrcXyONvUG412PK) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 2:45 |
 | 34 | [Ventana](https://open.spotify.com/track/2vEpXULPhUZDz4RhbmS6pL) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 3:38 |
 | 35 | [Vacío](https://open.spotify.com/track/3YrooSB4vVvAGoewSpPYMX) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 49 | [Está en la Música](https://open.spotify.com/track/15ua6CkFnuyUj4GkSMgdYh) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 4:00 |
 | 50 | [¡Vamos a Volver!](https://open.spotify.com/track/3OIZe9MX0T7pt2Y16fqzVU) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [¡Vamos a Volver!](https://open.spotify.com/album/6EmqFtLENZxu7agXxrNw7e) | 2:59 |
 
-Snapshot ID: `aSzagAAAAAAfpdZgyS6fCK7+0yqMSIMw`
+Snapshot ID: `aS4sAAAAAABTeG2LKaO2jBolEpFe0/aE`

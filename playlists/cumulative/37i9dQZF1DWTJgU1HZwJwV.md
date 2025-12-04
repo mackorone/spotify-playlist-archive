@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-601 songs - 1 day 1 hr 26 min
+602 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,7 +499,7 @@
 | [Summer Rain](https://open.spotify.com/track/3M2tYT2LyJi8tISX7j1pbI) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [Summer Rain](https://open.spotify.com/album/7wvfO96xIIFvY8ShoZjatX) | 3:02 | 2024-10-09 |  |
 | [Sun Beam](https://open.spotify.com/track/5cUqHAqFyRdoh1d84IExHD) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Sun Beam](https://open.spotify.com/album/7Hcg1wCXtBKqxljQFcgywZ) | 3:19 | 2025-04-29 | 2025-05-20 |
 | [Sunday Breeze](https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Sunday Breeze](https://open.spotify.com/album/2fsb3S8QguRHHvLOzHLSLH) | 1:37 | 2022-09-02 | 2023-05-20 |
-| [Sunlight](https://open.spotify.com/track/300nsu06HwLi0mLzCYz8LI) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Sunlight](https://open.spotify.com/album/4Xk4xXeHvBnyAiT4ztAHbe) | 2:29 | 2025-11-24 |  |
+| [Sunlight](https://open.spotify.com/track/300nsu06HwLi0mLzCYz8LI) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Sunlight](https://open.spotify.com/album/4Xk4xXeHvBnyAiT4ztAHbe) | 2:29 | 2025-11-24 | 2025-12-04 |
 | [Sunlight Through Leaves](https://open.spotify.com/track/4WE694pRoPuL5HonQ11NEI) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Sunlight Through Leaves](https://open.spotify.com/album/58GXSbSBoi5himWr5hj6he) | 2:41 | 2025-06-16 |  |
 | [Sunrise With You](https://open.spotify.com/track/6x3yM2v8pDa91E03LPzcsx) | [Eden Edwards](https://open.spotify.com/artist/0bI0balwE4X0y0ZLKc5H2b) | [Sunrise With You](https://open.spotify.com/album/46nYBbaJZuUpksJMYyfXJP) | 2:00 | 2023-06-09 | 2024-05-25 |
 | [Sunset In Alcudia](https://open.spotify.com/track/24LazZmLViVcjOHPCeJikj) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [Sunset In Alcudia](https://open.spotify.com/album/7CjwSRVXRjNBBEaCZHVaR5) | 2:00 | 2022-06-17 | 2023-11-24 |
@@ -599,6 +599,7 @@
 | [With each step](https://open.spotify.com/track/4HUHwwNlcyQe0s3CbdUMDe) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [With each step](https://open.spotify.com/album/4H8jsHibTXJ5ay4sW5t54f) | 2:53 | 2025-03-11 |  |
 | [With Languor](https://open.spotify.com/track/7wcUEnW420sjGIpD5XZTvK) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 3:19 | 2024-02-02 |  |
 | [Wohin mit der Liebe](https://open.spotify.com/track/4DdksysnXyseaRRTd45QUu) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Romantic Guitar Solos](https://open.spotify.com/album/44BPIZarbDHjvl0EkTlmQ7) | 2:50 | 2022-06-17 | 2022-09-03 |
+| [Wonder](https://open.spotify.com/track/340KkTWH44nG5CZ8bkeGl8) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Wonder](https://open.spotify.com/album/5odlqR0pcxQgpfDdHXoBAt) | 2:41 | 2025-12-03 |  |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 | 2023-05-20 |
 | [Words In The Air](https://open.spotify.com/track/3gD5AaZDbyTSWkH8MHBQHk) | [河合雄三](https://open.spotify.com/artist/5wv91S4FLYDtqDxRnrnEck) | [Words In The Air](https://open.spotify.com/album/1HEjlhLORqSKlIlTRWso1x) | 2:26 | 2022-06-17 | 2022-07-29 |
 | [Yellow Rain](https://open.spotify.com/track/6c7cIoyBvbLvxgofSU7fnv) | [Thomas Luna](https://open.spotify.com/artist/0YbpJ9AVZbi0ygvFCUmCAd) | [Yellow Rain](https://open.spotify.com/album/63wRciH00bfgm5UoFevFyp) | 2:38 | 2022-06-17 | 2023-02-25 |

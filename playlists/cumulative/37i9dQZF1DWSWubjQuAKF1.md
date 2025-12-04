@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: FANKA
 
-662 songs - 1 day 8 hr 19 min
+663 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,7 @@
 | [Sauvage](https://open.spotify.com/track/7BW8g0m4b1KN7iecTNBuJX) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Sauvage](https://open.spotify.com/album/1PAAUFg41yRgsmgfqrJS2B) | 2:26 | 2025-11-04 | 2025-11-12 |
 | [Seans](https://open.spotify.com/track/3jKOZJ66h9OtMMK9peLtbT) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Seans](https://open.spotify.com/album/2Fe1SexwAJoAjF5hVDcHir) | 3:39 | 2025-07-31 | 2025-09-24 |
 | [Seasons](https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Seasons](https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0) | 2:45 | 2025-09-30 |  |
-| [Sedno](https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [Sedno](https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75) | 2:21 | 2025-09-30 |  |
+| [Sedno](https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [Sedno](https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75) | 2:21 | 2025-09-30 | 2025-12-04 |
 | [SELFISH](https://open.spotify.com/track/7kPuCRW93380qAKwAD4NFQ) | [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ) | [SELFISH](https://open.spotify.com/album/5UoQemJq64zyyU2DAvOvu2) | 2:31 | 2024-07-04 | 2024-08-23 |
 | [Sen, który się powtarza](https://open.spotify.com/track/5TWLguF47GizHYaNGJVSCu) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Sen, który się powtarza](https://open.spotify.com/album/5pGlN5xkGn2rR2VV2h843W) | 2:31 | 2025-05-01 | 2025-05-11 |
 | [Sentymenty](https://open.spotify.com/track/3l2Ktx9BaFMpu5sKedn4ji) | [Martyna Rempała](https://open.spotify.com/artist/3iL4ECdi3TcAQXI08e4BUt) | [Droga do marzeń](https://open.spotify.com/album/6rRYbzotYUDzK5VAfuCT4m) | 2:30 | 2024-11-28 | 2025-01-24 |
@@ -551,6 +551,7 @@
 | [Taki sam](https://open.spotify.com/track/02jQS3HryEg3epjoGqObzC) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Taki sam](https://open.spotify.com/album/4pmvIGVvSWytUyKU50mdJ8) | 2:55 | 2024-06-28 | 2024-09-07 |
 | [Talk Me Down](https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Talk Me Down](https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL) | 2:52 | 2025-03-13 | 2025-04-04 |
 | [Tam czeka mnie dom](https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Tam czeka mnie dom](https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH) | 2:17 | 2024-09-13 | 2024-10-05 |
+| [tam gdzie ty](https://open.spotify.com/track/0DkWzgXbAlJ0C8pXJeTp0Z) | [Olivka Majewska](https://open.spotify.com/artist/69A8NLYP1sAI6MrBALFUSn) | [tam gdzie ty](https://open.spotify.com/album/1BPbU2ERhuVS2dWJd5Aw6f) | 2:35 | 2025-11-28 |  |
 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 | 2024-11-07 | 2025-01-24 |
 | [Tańczę](https://open.spotify.com/track/1nGEJZRxEb2PdS0YBUsPwi) | [INA WEST](https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo), [ptakova](https://open.spotify.com/artist/6qHcB06FV47cRkAt5QbVwk) | [Tańczę](https://open.spotify.com/album/07CtRwsD5y3zNLKP2BHpi4) | 3:42 | 2025-11-11 | 2025-11-13 |
 | [Tańczę do Ciebie](https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Tańczę do Ciebie](https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L) | 2:55 | 2024-09-06 | 2024-09-20 |

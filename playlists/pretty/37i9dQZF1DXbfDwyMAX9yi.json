@@ -1,12 +1,12 @@
 {
   "description": "Our favorite subject? Their chemistry. Listen to the music from Seasons 1 & 2 of Maxton Hall: The World Between Us, now streaming on Prime Video.",
-  "num_followers": 98837,
+  "num_followers": 99055,
   "original_name": "Maxton Hall Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPfBSIL1//kygWhzctNdpLrHTeuH",
+  "snapshot_id": "AAAAAOF4vqu6SLO9SKWVo7kdgPmFpe1S",
   "tracks": [
     {
       "added_at": "2025-12-01 15:21:38",
@@ -195,6 +195,26 @@
       "duration_ms": 122000,
       "name": "The Interrogation - From \"Maxton Hall\"",
       "url": "https://open.spotify.com/track/3SQPPwJXTkXfro78S0OE8O"
+    },
+    {
+      "added_at": "2025-12-03 22:01:15",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/3i7moD9yaXK0o48iMjJkWQ"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "duration_ms": 235384,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/2VlEyuzxCN7wN9utykzDmn"
     },
     {
       "added_at": "2025-12-01 15:21:38",

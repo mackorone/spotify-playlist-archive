@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,084 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,108 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 60 | [Jump to It](https://open.spotify.com/track/1y4BT0G5NzgTvUCMOd5Fwx) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Double 99 Double Pack](https://open.spotify.com/album/7zIkRSt3IFmc8pxW25jyHz) | 5:24 |
 | 61 | [Happy to Be Deep](https://open.spotify.com/track/4lj7TqR5hgkvJosxlHSAvi) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 7:17 |
 | 62 | [Oh Boy \- Rafmat Radio Edit](https://open.spotify.com/track/3023sMjiQEW2Cune78IfCJ) | [Fabulous Baker Boys](https://open.spotify.com/artist/5UGsrEKtGvlxh7YsdjKyjH) | [Oh Boy](https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX) | 4:03 |
-| 63 | [Dancing for Heaven \- Club](https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [House Tracks for the Dancefloor, Vol\. One](https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9) | 6:12 |
-| 64 | [Club Lonely](https://open.spotify.com/track/4TSKJlNqqGbyHB9mSmRpUt) | [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Club Asylum Sampler, Vol\. 1](https://open.spotify.com/album/6fonnepHRdzo5l0fminGAq) | 5:14 |
+| 63 | [Club Lonely](https://open.spotify.com/track/4TSKJlNqqGbyHB9mSmRpUt) | [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Club Asylum Sampler, Vol\. 1](https://open.spotify.com/album/6fonnepHRdzo5l0fminGAq) | 5:14 |
+| 64 | [Dancing for Heaven \- Club](https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [House Tracks for the Dancefloor, Vol\. One](https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9) | 6:12 |
 | 65 | [Dooms Night \- Timo Maas Radio Edit](https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf) | [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N) | 3:46 |
 | 66 | [The Chant W.E.R](https://open.spotify.com/track/3U3hN333aFVLwFlLvIIMx3) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 6:10 |
 | 67 | [Do It Right Baby](https://open.spotify.com/track/5Xt5Tb41aRmIKBpPG3VBYA) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [UK Garage Classics \- Best of Jeremy Sylvester, Vol\. 3](https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT) | 6:04 |

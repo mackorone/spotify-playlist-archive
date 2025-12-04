@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 03 Dec 23:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 03 Dec 19:04 UTC.
 
-5,895 songs - 13 day 15 hr 33 min
+5,896 songs - 13 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [A Normal Life](https://open.spotify.com/track/4TsQqPrOh0wgGPZsrMSagV) | [Marianas Trench](https://open.spotify.com/artist/68EB3QvNdVLkC7SAgDbHIR) | [A Normal Life](https://open.spotify.com/album/7dH4kO9kn8lrF11I0TmguQ) | 6:53 | 2024-04-26 | 2024-04-27 |
 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 | 2025-11-20 |  |
 | [A Place Like This](https://open.spotify.com/track/6U2ytaIUJ50HzpCGdFD4w0) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [A Place Like This](https://open.spotify.com/album/3PfnihjOdjLPvx4lr9D5vM) | 3:33 | 2024-10-25 | 2024-10-30 |
+| [A Plea](https://open.spotify.com/track/7fkWpK1YcIMtM7PdMawgfY) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [A Plea](https://open.spotify.com/album/0eFgrTbT424fF4zLnhF6R5) | 7:38 | 2025-12-03 |  |
 | [A primeval detachment](https://open.spotify.com/track/7qb1JeP4fdlMS8ZhM6nyoI) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [A primeval detachment](https://open.spotify.com/album/4tMrAzr6WmnG2q3GR4euIu) | 4:29 | 2025-05-07 | 2025-05-17 |
 | [A Psychic Wound](https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [A Psychic Wound](https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z) | 4:01 | 2024-05-17 | 2024-05-22 |
 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 | 2025-01-18 | 2025-01-28 |
@@ -4343,7 +4344,7 @@
 | [Say](https://open.spotify.com/track/5PezSLrWvLPGYpQyGAuC7P) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Say](https://open.spotify.com/album/2g8ONadKlayzd8dz1Os4IM) | 4:22 | 2024-05-08 | 2024-05-10 |
 | [Say It Back](https://open.spotify.com/track/4We2NNxELAVtUtRgt2QwGs) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Say It Back](https://open.spotify.com/album/1D9dNHVXLukiiKgPeUPDCY) | 3:01 | 2024-09-25 | 2024-09-28 |
 | [Say My Name](https://open.spotify.com/track/5whKZymIO7PDqWxo1uhMWP) | [Nerissa Ravencroft](https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa) | [Say My Name](https://open.spotify.com/album/1Knz3H6xezJxY2rBGMzAQE) | 3:12 | 2024-04-27 | 2024-05-01 |
-| [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 | 2025-11-20 |  |
+| [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 | 2025-11-20 | 2025-12-04 |
 | [Scammers Jackboys Robbers!](https://open.spotify.com/track/6QgEVyW6MM1PKrKX4VIr8W) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Scammers Jackboys Robbers!](https://open.spotify.com/album/2XjjmykWZk81naK7qQE3EY) | 2:36 | 2024-06-14 | 2024-06-16 |
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-14 | 2025-02-23 |
 | [Scared Of Nothing](https://open.spotify.com/track/2SGuTPGl17tQUyyunrOl22) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Scared Of Nothing](https://open.spotify.com/album/58FRFqe9EBGcz6K1mKBS64) | 3:47 | 2024-07-26 | 2024-07-31 |

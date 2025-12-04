@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124706,
+  "num_followers": 124705,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU4yBsJFpj0xPavQQIx5WeI7pgyxLj",
+  "snapshot_id": "AAAU5C/trR6cYpZ1hxNHer6tZKFAtatk",
   "tracks": [
+    {
+      "added_at": "2025-12-03 15:42:34",
+      "album": {
+        "name": "Beg For Mercy",
+        "url": "https://open.spotify.com/album/3KfvY5Y0Pqm6N7bBG55j59"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 131703,
+      "name": "Beg For Mercy",
+      "url": "https://open.spotify.com/track/4lPpWCtwDlcSRGp1TPz4g4"
+    },
     {
       "added_at": "2025-12-02 15:45:56",
       "album": {

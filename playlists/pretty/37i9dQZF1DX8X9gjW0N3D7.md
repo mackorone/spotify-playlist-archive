@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: Grand Eugène
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,189 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,198 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 36 | [Rivière](https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Rivière](https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8) | 3:17 |
 | 37 | [À l'ombre dans le désert](https://open.spotify.com/track/5IMkll6yUMCqJIYWPkyVEY) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Après, on va où?](https://open.spotify.com/album/26EVICDblNF9U2qYDtQm8F) | 3:13 |
 | 38 | [Ballon\-sonde](https://open.spotify.com/track/699SpD5VkpC4PKGgnvK13g) | [JF Pauzé](https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d) | [Les amours de seconde main](https://open.spotify.com/album/3Hesk7w0WcahDmMjpTybob) | 2:58 |
-| 39 | [Demain je pars](https://open.spotify.com/track/4bcBIZQBBmIhbVUoA5RSxO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Demain je pars](https://open.spotify.com/album/3UIdlDGFLJdkmX8J1z3kgi) | 3:29 |
+| 39 | [DEMAIN JE PARS](https://open.spotify.com/track/4bcBIZQBBmIhbVUoA5RSxO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [DEMAIN JE PARS](https://open.spotify.com/album/3UIdlDGFLJdkmX8J1z3kgi) | 3:29 |
 | 40 | [Boston](https://open.spotify.com/track/6RDOSs73FPXkimyhJrrR8j) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Toujours les vacances](https://open.spotify.com/album/29TWdLzC9Xaj30m5ZJ3XK3) | 2:40 |
 | 41 | [Oumuamua](https://open.spotify.com/track/1Hw1bse3CqWfrmhQWEu0mj) | [Claire Pelletier](https://open.spotify.com/artist/1q7Bztq701W8KGpmxAgYhT) | [Oumuamua](https://open.spotify.com/album/6CbNcbJPYvVqEVGPA079oz) | 4:48 |
 | 42 | [Le gros boutte du bâton](https://open.spotify.com/track/1sFlUEHa1EA9ZDLECwOWdV) | [Yohann Francoz](https://open.spotify.com/artist/2UWwR5mhtN5Fh29wADoRnT) | [Le gros boutte du bâton](https://open.spotify.com/album/5uzjOGSGDwzD8wcJsjiHrX) | 3:39 |

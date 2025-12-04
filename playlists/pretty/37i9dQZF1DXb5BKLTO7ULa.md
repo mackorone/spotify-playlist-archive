@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Kensington, Lil Kleine, Davina Michelle, Central Cee, Elmer en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,766 likes - 89 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,749 likes - 89 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
-  "num_followers": 151830,
+  "num_followers": 151877,
   "original_name": "Top 50 - South Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MMJYeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MMOsUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "ONE MORE TIME",
-        "url": "https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 195259,
-      "name": "ONE MORE TIME",
-      "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "IRIS OUT",
         "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "ONE MORE TIME",
+        "url": "https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 195259,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "NOT CUTE ANYMORE",
         "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
@@ -73,39 +73,7 @@
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "Good Goodbye",
-        "url": "https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Good Goodbye",
-      "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 180716,
-      "name": "Don\u2019t Say You Love Me",
-      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "Take-off",
         "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
@@ -121,7 +89,39 @@
       "url": "https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "Good Goodbye",
+        "url": "https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Good Goodbye",
+      "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 180716,
+      "name": "Don\u2019t Say You Love Me",
+      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "JAMONG SALGU CLUB",
         "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "JANE DOE",
         "url": "https://open.spotify.com/album/381FouVeKunSg1WZTnmryL"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -177,23 +177,27 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
-        "name": "Blue Valentine",
-        "url": "https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB"
+        "name": "M O T N O A H",
+        "url": "https://open.spotify.com/album/7lqWmZ9t5aFYNpS4uDEv1v"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "noahjooda",
+          "url": "https://open.spotify.com/artist/5MnVIg8khTLdt3CgVDWcNE"
+        },
+        {
+          "name": "Basick",
+          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Blue Valentine",
-      "url": "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh"
+      "duration_ms": 234374,
+      "name": "Love over hip hop, money over love (feat. Basick)",
+      "url": "https://open.spotify.com/track/3g8mimqqxsAEtkktm1TYEk"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "yours",
         "url": "https://open.spotify.com/album/7mvY0s2fwo5aaRw4zCyCA6"
@@ -209,7 +213,23 @@
       "url": "https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "Blue Valentine",
+        "url": "https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Blue Valentine",
+      "url": "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "FOCUS - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
@@ -225,7 +245,27 @@
       "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "Winter Ahead (with PARK HYO SHIN)",
+        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 234895,
+      "name": "Winter Ahead (with PARK HYO SHIN)",
+      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -241,7 +281,7 @@
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
@@ -261,7 +301,7 @@
       "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -293,7 +333,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "FAMOUS",
         "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
@@ -309,127 +349,7 @@
       "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "EROS",
-        "url": "https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8"
-      },
-      "artists": [
-        {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
-        }
-      ],
-      "duration_ms": 220202,
-      "name": "Endangered Love",
-      "url": "https://open.spotify.com/track/06o2o3TpyR8eGU2ANK21Lp"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "M O T N O A H",
-        "url": "https://open.spotify.com/album/7lqWmZ9t5aFYNpS4uDEv1v"
-      },
-      "artists": [
-        {
-          "name": "noahjooda",
-          "url": "https://open.spotify.com/artist/5MnVIg8khTLdt3CgVDWcNE"
-        },
-        {
-          "name": "Basick",
-          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Love over hip hop, money over love (feat. Basick)",
-      "url": "https://open.spotify.com/track/3g8mimqqxsAEtkktm1TYEk"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "Winter Ahead (with PARK HYO SHIN)",
-        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        },
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 234895,
-      "name": "Winter Ahead (with PARK HYO SHIN)",
-      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "Fame",
-        "url": "https://open.spotify.com/album/4xj1odt2gz8GbbuKopagkH"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 176847,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/1nEhhkEidrTOtc46fCvRFp"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "COLOR OUTSIDE THE LINES",
-        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "GO!",
-      "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "Let Me Love My Youth",
-        "url": "https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 248407,
-      "name": "Let Me Love My Youth",
-      "url": "https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "bomb",
-        "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 188641,
-      "name": "Billyeoon Goyangi (Do the Dance)",
-      "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "STYLE",
         "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
@@ -445,7 +365,103 @@
       "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "COLOR OUTSIDE THE LINES",
+        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "EROS",
+        "url": "https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 220202,
+      "name": "Endangered Love",
+      "url": "https://open.spotify.com/track/06o2o3TpyR8eGU2ANK21Lp"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "Fame",
+        "url": "https://open.spotify.com/album/4xj1odt2gz8GbbuKopagkH"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 176847,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/1nEhhkEidrTOtc46fCvRFp"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "White Memories",
+        "url": "https://open.spotify.com/album/4vnA4ZWgxrhxy5doVCGv9u"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "White Memories",
+      "url": "https://open.spotify.com/track/7hCdtQsaKCBXrITaPNK2iE"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "bomb",
+        "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 188641,
+      "name": "Billyeoon Goyangi (Do the Dance)",
+      "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "Let Me Love My Youth",
+        "url": "https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 248407,
+      "name": "Let Me Love My Youth",
+      "url": "https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "IM HERO 2",
         "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
@@ -477,119 +493,7 @@
       "url": "https://open.spotify.com/track/2aSfmbpproCPOe2j01WT2a"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "Rich Man - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 197578,
-      "name": "Rich Man",
-      "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "LOST CORNER",
-        "url": "https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 194293,
-      "name": "KICK BACK",
-      "url": "https://open.spotify.com/track/7oYCBKvdjrqp5vDbhDBuac"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "Forever Has Always Been",
-        "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
-      },
-      "artists": [
-        {
-          "name": "Redoor",
-          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Forever Has Always Been",
-      "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "The Action",
-        "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Hollywood Action",
-      "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "Heavenly Ever After",
-        "url": "https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 295413,
-      "name": "Heavenly Ever After",
-      "url": "https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "OO-LI",
-        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 244986,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "IM HERO 2",
-        "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "ULSSIGU",
-      "url": "https://open.spotify.com/track/651GMkAaR0JbpzZXRvdQ3D"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -605,87 +509,119 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+        "name": "Rich Man - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 206019,
-      "name": "Standing Next to You",
-      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+      "duration_ms": 197578,
+      "name": "Rich Man",
+      "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+        "name": "Heavenly Ever After",
+        "url": "https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
         }
       ],
-      "duration_ms": 212241,
-      "name": "Like Crazy",
-      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+      "duration_ms": 295413,
+      "name": "Heavenly Ever After",
+      "url": "https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j"
+        "name": "Forever Has Always Been",
+        "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
       },
       "artists": [
         {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
         }
       ],
-      "duration_ms": 326842,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU"
+      "duration_ms": 237160,
+      "name": "Forever Has Always Been",
+      "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+        "name": "LOST CORNER",
+        "url": "https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+      "duration_ms": 194293,
+      "name": "KICK BACK",
+      "url": "https://open.spotify.com/track/7oYCBKvdjrqp5vDbhDBuac"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
+        "name": "IM HERO 2",
+        "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
       },
       "artists": [
         {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
         }
       ],
-      "duration_ms": 157191,
-      "name": "WICKED",
-      "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
+      "duration_ms": 201000,
+      "name": "ULSSIGU",
+      "url": "https://open.spotify.com/track/651GMkAaR0JbpzZXRvdQ3D"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "Closely Far Away",
+        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "Closely Far Away",
+      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "The Action",
+        "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Hollywood Action",
+      "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -701,7 +637,87 @@
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 326842,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "OO-LI",
+        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 244986,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "IM HERO 2",
         "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
@@ -717,39 +733,7 @@
       "url": "https://open.spotify.com/track/4CRhJHHbH9Awx7z7xRAdPP"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 223301,
-      "name": "Closer Than This",
-      "url": "https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "A Letter",
-        "url": "https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ"
-      },
-      "artists": [
-        {
-          "name": "BUMJIN",
-          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "A Letter",
-      "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "IM HERO 2",
         "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
@@ -765,7 +749,39 @@
       "url": "https://open.spotify.com/track/1TPHGTbSlEiZh9MvQDpMcY"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 223301,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk"
+    },
+    {
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
@@ -785,27 +801,7 @@
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
-      "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 190822,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
-    },
-    {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "IM HERO 2",
         "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
@@ -821,7 +817,7 @@
       "url": "https://open.spotify.com/track/0CWk3LG8MXMA3TE61y5zPB"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
         "name": "STRAY SHEEP",
         "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
@@ -837,20 +833,20 @@
       "url": "https://open.spotify.com/track/04TshWXkhV1qkqHzf31Hn6"
     },
     {
-      "added_at": "2025-12-02 14:10:22",
+      "added_at": "2025-12-03 16:24:15",
       "album": {
-        "name": "IM HERO 2",
-        "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
+        "name": "A Letter",
+        "url": "https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ"
       },
       "artists": [
         {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Melody for You",
-      "url": "https://open.spotify.com/track/7hYI4QprQ3hMqp56ul6uEv"
+      "duration_ms": 215760,
+      "name": "A Letter",
+      "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
     }
   ],
   "unique_name": "Top 50 - South Korea",

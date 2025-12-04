@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 430,
+  "num_followers": 431,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAACa8dMjCqUMOAdWTAGSJm3EPTr+u6j",
+  "snapshot_id": "AAACbZeHzEUHjhXia5Bj40vFRi1MFmvF",
   "tracks": [
     {
       "added_at": "2025-10-21 13:53:17",
@@ -1575,6 +1575,42 @@
       "duration_ms": 172311,
       "name": "In My Lowrider",
       "url": "https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6"
+    },
+    {
+      "added_at": "2025-12-03 18:59:29",
+      "album": {
+        "name": "Jiggy Jiggy",
+        "url": "https://open.spotify.com/album/7IlPPAik9r0YzmfqUNvQHz"
+      },
+      "artists": [
+        {
+          "name": "JAO",
+          "url": "https://open.spotify.com/artist/21f6qfptoiJRqqRbRgepjb"
+        },
+        {
+          "name": "Smasher GMC",
+          "url": "https://open.spotify.com/artist/2J1zUfRo32V3n1Bj9WqnFm"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Jiggy Jiggy",
+      "url": "https://open.spotify.com/track/2aFDHNti4Cu6r7TRF1ewpm"
+    },
+    {
+      "added_at": "2025-12-03 18:59:39",
+      "album": {
+        "name": "Where Love Became a Ghost",
+        "url": "https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP"
+      },
+      "artists": [
+        {
+          "name": "Blue Remains",
+          "url": "https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv"
+        }
+      ],
+      "duration_ms": 271741,
+      "name": "Where Love Became a Ghost",
+      "url": "https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

@@ -4,7 +4,7 @@
 
 > yiheeeeeeee
 
-259 songs - 15 hr 21 min
+260 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [BUTTERFLIES](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [BUTTERFLIES](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2022-04-04 | 2024-02-21 |
 | [Camera](https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:35 | 2025-09-17 | 2025-09-27 |
 | [castle](https://open.spotify.com/track/27iZAhkSm6AHLf65pxvQBz) | [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [castle](https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR) | 2:48 | 2023-06-28 | 2023-07-27 |
+| [Clingy](https://open.spotify.com/track/6TTt3qfJjMsQWzARMRCNzq) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP), [Kate Lucero](https://open.spotify.com/artist/1SdZxFV68TbpSkcXCSfvYF) | [Clingy](https://open.spotify.com/album/5LDcYO9XbhB07Ul929cY6B) | 3:18 | 2025-12-03 |  |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-08 | 2024-08-18 |
 | [Close To You](https://open.spotify.com/track/0AMDUYytQTD9pyyZBNDsI6) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Close To You](https://open.spotify.com/album/1YFcJp3QzuuQDzoxYXECv4) | 3:33 | 2025-02-19 | 2025-03-04 |
 | [Come Through](https://open.spotify.com/track/5HWcscPYlRq3XroAugETg6) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw) | [Come Through](https://open.spotify.com/album/3TcOdTdA5sNJZM6bKqEDb5) | 2:08 | 2025-02-12 | 2025-02-18 |
@@ -113,7 +114,7 @@
 | [I LOVE YOU](https://open.spotify.com/track/3zDfauunufdNjP8gBhlte0) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [I LOVE YOU](https://open.spotify.com/album/0qaSGustJqBqXqG0ZQy320) | 2:34 | 2022-04-04 | 2022-07-22 |
 | [I Miss U](https://open.spotify.com/track/3r40QKuIBpo9b9Wv4PTkdQ) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0) | [I Miss U](https://open.spotify.com/album/29QMQogAweVAtN9wARqEUx) | 3:04 | 2022-04-04 | 2022-06-22 |
 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 | 2024-04-19 | 2024-09-05 |
-| [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2022-04-04 |  |
+| [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2022-04-04 | 2025-12-04 |
 | [I Really Like You](https://open.spotify.com/track/4tQUdIk3MXQHgP2sRNdrJQ) | [reon](https://open.spotify.com/artist/5jAOzTxCoR1qHXKVHsfDSr) | [I Really Like You](https://open.spotify.com/album/3AdGDEz1cYJJtYowBLEq4r) | 2:10 | 2022-04-04 | 2022-07-25 |
 | [I Think I Love You](https://open.spotify.com/track/5HEKt8IROiFFssxxdAWojl) | [David Licauco](https://open.spotify.com/artist/6mGDgys4zvPKYGh8K80dTW) | [I Think I Love You](https://open.spotify.com/album/5yCi1FXzQ2IYoyqaY0XzKd) | 2:36 | 2025-09-12 | 2025-09-27 |
 | [I Think They Call This Love](https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [I Think They Call This Love](https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE) | 3:13 | 2024-10-18 | 2024-11-22 |

@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-334 songs - 21 hr 43 min
+335 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bukod\-Tangi](https://open.spotify.com/track/66tKd60oZUTAK0PdmXJl09) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Bukod\-Tangi](https://open.spotify.com/album/4yAWdaZDMWNCNrpwd745NH) | 3:42 | 2024-02-20 | 2024-02-27 |
 | [Cavite's Poison](https://open.spotify.com/track/0HDHCK3IGLgSFZpE8hvsa9) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Cavite's Poison](https://open.spotify.com/album/297iyjwfkLaZ9AAqceG1lj) | 3:31 | 2024-05-08 | 2024-05-16 |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-17 | 2025-07-17 |
+| [Clingy](https://open.spotify.com/track/6TTt3qfJjMsQWzARMRCNzq) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP), [Kate Lucero](https://open.spotify.com/artist/1SdZxFV68TbpSkcXCSfvYF) | [Clingy](https://open.spotify.com/album/5LDcYO9XbhB07Ul929cY6B) | 3:18 | 2025-12-03 |  |
 | [Close To You](https://open.spotify.com/track/0AMDUYytQTD9pyyZBNDsI6) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Close To You](https://open.spotify.com/album/1YFcJp3QzuuQDzoxYXECv4) | 3:33 | 2025-02-19 | 2025-02-25 |
 | [Closer to Your Heart](https://open.spotify.com/track/7KRc40Yw9QmzKYcjTWkm92) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Closer to Your Heart](https://open.spotify.com/album/2BpCwXEN71Ma3oYGOEohef) | 2:40 | 2024-09-25 | 2024-10-25 |
 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 | 2024-04-17 | 2024-05-09 |
@@ -162,7 +163,7 @@
 | [M.I.N.O.Y.](https://open.spotify.com/track/34WtPmBapjEfO6iItLb51A) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [M.I.N.O.Y.](https://open.spotify.com/album/78F8Zvv1TZRSlugLNjlnMd) | 3:26 | 2024-11-29 | 2024-12-05 |
 | [Magkasalungat](https://open.spotify.com/track/0sKerGQuXqWR505d25aIDT) | [David La Sol](https://open.spotify.com/artist/3ycDTcpGEHZpTDJeniyJ62) | [Magkasalungat](https://open.spotify.com/album/5fldRn3p12GzDIygnWoHLI) | 2:48 | 2024-04-03 | 2024-04-19 |
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2024-06-05 | 2025-02-13 |
-| [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2023-10-18 |  |
+| [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2023-10-18 | 2025-12-04 |
 | [Makaluma](https://open.spotify.com/track/4DbxowBVFjO0MYLVuggLxp) | [Wilbert Ross](https://open.spotify.com/artist/6bVVssXSh08il9SKx18XOA) | [Makaluma](https://open.spotify.com/album/33S8LzhLap877vvSsRoevj) | 3:46 | 2025-03-20 | 2025-04-17 |
 | [Make It With You](https://open.spotify.com/track/6t4CmQGucLORsKZF4M6NNC) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Make It With You](https://open.spotify.com/album/2EdiYNKRhGH5dbm93PpA4p) | 3:29 | 2023-10-18 | 2024-04-19 |
 | [MANLOLOKO](https://open.spotify.com/track/1r7HZ4sJRWWca4w4ypLK7q) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [MANLOLOKO](https://open.spotify.com/album/5GW4SV8mOPJjq0QcW2t5FR) | 2:56 | 2025-05-09 | 2025-05-22 |

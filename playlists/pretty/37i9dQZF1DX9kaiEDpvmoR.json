@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93791,
+  "num_followers": 93787,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-12-01 08:01:10",
       "album": {
-        "name": "Livet, d\u00f6den, skiten d\u00e4remellan",
-        "url": "https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 178118,
-      "name": "P\u00e5 M\u00e5ndag",
-      "url": "https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9"
-    },
-    {
-      "added_at": "2025-12-01 08:01:10",
-      "album": {
         "name": "Lachryma",
         "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 276400,
       "name": "Lachryma",
       "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
+    },
+    {
+      "added_at": "2025-12-01 08:01:10",
+      "album": {
+        "name": "Livet, d\u00f6den, skiten d\u00e4remellan",
+        "url": "https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 178118,
+      "name": "P\u00e5 M\u00e5ndag",
+      "url": "https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9"
     },
     {
       "added_at": "2025-12-01 08:01:10",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-12-01 08:01:10",
       "album": {
-        "name": "Svindlande h\u00f6jder",
-        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 255386,
-      "name": "Svindlande h\u00f6jder",
-      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
-    },
-    {
-      "added_at": "2025-12-01 08:01:10",
-      "album": {
         "name": "About Nothing",
         "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 193433,
       "name": "About Nothing",
       "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
+    },
+    {
+      "added_at": "2025-12-01 08:01:10",
+      "album": {
+        "name": "Svindlande h\u00f6jder",
+        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 255386,
+      "name": "Svindlande h\u00f6jder",
+      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
     },
     {
       "added_at": "2025-12-01 08:01:10",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-12-01 08:01:10",
       "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
-      },
-      "artists": [
-        {
-          "name": "Annika Wickihalder",
-          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
-    },
-    {
-      "added_at": "2025-12-01 08:01:10",
-      "album": {
         "name": "Just to Make You Laugh",
         "url": "https://open.spotify.com/album/61RBQcj4nLu3fuPEJexpHF"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 188488,
       "name": "Just to Make You Laugh",
       "url": "https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD"
+    },
+    {
+      "added_at": "2025-12-01 08:01:10",
+      "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
+      },
+      "artists": [
+        {
+          "name": "Annika Wickihalder",
+          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
     },
     {
       "added_at": "2025-12-01 08:01:10",
@@ -699,6 +699,26 @@
     {
       "added_at": "2025-12-01 08:01:10",
       "album": {
+        "name": "The First Time Ever I Saw Your Face (with Hozier)",
+        "url": "https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 273748,
+      "name": "The First Time Ever I Saw Your Face (with Hozier)",
+      "url": "https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi"
+    },
+    {
+      "added_at": "2025-12-01 08:01:10",
+      "album": {
         "name": "Greczula",
         "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
       },
@@ -731,26 +751,6 @@
     {
       "added_at": "2025-12-01 08:01:10",
       "album": {
-        "name": "The First Time Ever I Saw Your Face (with Hozier)",
-        "url": "https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 273748,
-      "name": "The First Time Ever I Saw Your Face (with Hozier)",
-      "url": "https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi"
-    },
-    {
-      "added_at": "2025-12-01 08:01:10",
-      "album": {
         "name": "L\u00e5ngholmsgatan 2",
         "url": "https://open.spotify.com/album/6i7vOaZpfoy0qyYCocPAJM"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 243137,
       "name": "L\u00e5ngholmsgatan 2",
       "url": "https://open.spotify.com/track/5rwGiXG9q84ah927p7Vcdo"
+    },
+    {
+      "added_at": "2025-12-01 08:01:10",
+      "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236794,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
     },
     {
       "added_at": "2025-12-01 08:01:10",
@@ -791,22 +807,6 @@
       "duration_ms": 208571,
       "name": "Til the music starts again",
       "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
-    },
-    {
-      "added_at": "2025-12-01 08:01:10",
-      "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236794,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
     },
     {
       "added_at": "2025-12-01 08:01:10",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-12-01 08:01:10",
       "album": {
+        "name": "Two in This Story",
+        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 234972,
+      "name": "Two in This Story",
+      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
+    },
+    {
+      "added_at": "2025-12-01 08:01:10",
+      "album": {
         "name": "Stardust / The Whole Woman",
         "url": "https://open.spotify.com/album/5xSu56pfAkclyOkKGYTob6"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 258146,
       "name": "The Whole Woman",
       "url": "https://open.spotify.com/track/6pmFHNJmQKQEUioMUJk1h5"
-    },
-    {
-      "added_at": "2025-12-01 08:01:10",
-      "album": {
-        "name": "Two in This Story",
-        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 234972,
-      "name": "Two in This Story",
-      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
     },
     {
       "added_at": "2025-12-01 08:01:10",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-12-01 08:01:10",
       "album": {
+        "name": "Stanna tiden",
+        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
+      },
+      "artists": [
+        {
+          "name": "Casanovas",
+          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
+        }
+      ],
+      "duration_ms": 192875,
+      "name": "Stanna tiden",
+      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
+    },
+    {
+      "added_at": "2025-12-01 08:01:10",
+      "album": {
         "name": "Two Of Us",
         "url": "https://open.spotify.com/album/0ED0rbxhIywSk2WP7Ym1OB"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2025-12-01 08:01:10",
       "album": {
-        "name": "Stanna tiden",
-        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
-      },
-      "artists": [
-        {
-          "name": "Casanovas",
-          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
-        }
-      ],
-      "duration_ms": 192875,
-      "name": "Stanna tiden",
-      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
-    },
-    {
-      "added_at": "2025-12-01 08:01:10",
-      "album": {
         "name": "Andetag (Man m\u00e5ste leva nu)",
         "url": "https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-12-01 08:01:10",
       "album": {
-        "name": "Sjung Sjung",
-        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
+        "name": "Tracks II: The Lost Albums",
+        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
       },
       "artists": [
         {
-          "name": "Lili & Susie",
-          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 193124,
-      "name": "Sjung Sjung",
-      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
+      "duration_ms": 345866,
+      "name": "Unsatisfied Heart",
+      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
     },
     {
       "added_at": "2025-12-01 08:01:10",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2025-12-01 08:01:10",
       "album": {
-        "name": "Tracks II: The Lost Albums",
-        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
+        "name": "Sjung Sjung",
+        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Lili & Susie",
+          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
         }
       ],
-      "duration_ms": 345866,
-      "name": "Unsatisfied Heart",
-      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
+      "duration_ms": 193124,
+      "name": "Sjung Sjung",
+      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
     },
     {
       "added_at": "2025-12-01 08:01:10",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-12-01 08:01:10",
       "album": {
-        "name": "Just idag \u00e4r jag stark",
-        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Just idag \u00e4r jag stark",
-      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
-    },
-    {
-      "added_at": "2025-12-01 08:01:10",
-      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 192148,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
+    },
+    {
+      "added_at": "2025-12-01 08:01:10",
+      "album": {
+        "name": "Just idag \u00e4r jag stark",
+        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Just idag \u00e4r jag stark",
+      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
     },
     {
       "added_at": "2025-12-01 08:01:10",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-12-01 08:01:10",
       "album": {
+        "name": "While you got me",
+        "url": "https://open.spotify.com/album/0sbOXyjXYj46ROvkWKLHkQ"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "While you got me",
+      "url": "https://open.spotify.com/track/5PdQumvviy93cyBdHBWDX6"
+    },
+    {
+      "added_at": "2025-12-01 08:01:10",
+      "album": {
         "name": "Dr\u00f6mmare",
         "url": "https://open.spotify.com/album/5gBifDZIcbwifi9TDVXzfS"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 206977,
       "name": "Dr\u00f6mmare",
       "url": "https://open.spotify.com/track/3LhUaJOzQpcWTIuBxtr9fC"
-    },
-    {
-      "added_at": "2025-12-01 08:01:10",
-      "album": {
-        "name": "While you got me",
-        "url": "https://open.spotify.com/album/0sbOXyjXYj46ROvkWKLHkQ"
-      },
-      "artists": [
-        {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "While you got me",
-      "url": "https://open.spotify.com/track/5PdQumvviy93cyBdHBWDX6"
     },
     {
       "added_at": "2025-12-01 08:01:10",

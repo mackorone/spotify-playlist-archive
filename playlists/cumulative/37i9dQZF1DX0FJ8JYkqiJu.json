@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2 Little 2 Late",
+        "url": "https://open.spotify.com/album/2D1Fhv1DWtFU6osgzqZhvF"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171050,
+      "name": "2 Little 2 Late",
+      "url": "https://open.spotify.com/track/1XZUfAPzOPYzwhiWBkOOd7"
+    },
+    {
+      "album": {
         "name": "3 Days Later",
         "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
@@ -42,6 +64,24 @@
       "duration_ms": 352472,
       "name": "31 Bloom",
       "url": "https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y"
+    },
+    {
+      "album": {
+        "name": "4EVA",
+        "url": "https://open.spotify.com/album/0Kwb6jUJF05LAu2riyEjdT"
+      },
+      "artists": [
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140909,
+      "name": "4EVA",
+      "url": "https://open.spotify.com/track/6nTbnNCUyS4oTMkk9yFiEN"
     },
     {
       "album": {
@@ -1460,6 +1500,28 @@
       "duration_ms": 322499,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+    },
+    {
+      "album": {
+        "name": "Euro",
+        "url": "https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168717,
+      "name": "Euro",
+      "url": "https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v"
     },
     {
       "album": {
@@ -3193,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "Love Who You Love",
+        "url": "https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239973,
+      "name": "Love Who You Love",
+      "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
+    },
+    {
+      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
       },
@@ -3360,7 +3440,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 301027,
       "name": "Mars",
       "url": "https://open.spotify.com/track/6nnrcbU87Zb6z11B5oWWBr"
@@ -3488,6 +3568,28 @@
       "duration_ms": 266666,
       "name": "Me and You (feat. Vancouver Sleep Clinic)",
       "url": "https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP"
+    },
+    {
+      "album": {
+        "name": "Dear Friend",
+        "url": "https://open.spotify.com/album/2ZQZ9xjA8hoDxpDhmsSbDr"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        },
+        {
+          "name": "Ova Looven",
+          "url": "https://open.spotify.com/artist/2TimZvD1IDNMwwzQDNHMKX"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312728,
+      "name": "Memories (Feat. Ova Looven)",
+      "url": "https://open.spotify.com/track/7wjyAbP4at1DDE6Af4Y1uE"
     },
     {
       "album": {
@@ -4254,7 +4356,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 215735,
       "name": "Restart (ft. KLP)",
       "url": "https://open.spotify.com/track/3jmxKFfaUa3kFXaldidkDd"
@@ -4294,6 +4396,24 @@
       "duration_ms": 206722,
       "name": "Right Here It's Only Love",
       "url": "https://open.spotify.com/track/68MdXrR2PIyzMfeFReryjK"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/5gOXQtDSfx7dJLEOd1SKUM"
+      },
+      "artists": [
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177868,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/0GnKwiqoVGQS1ltGPn8q2u"
     },
     {
       "album": {
@@ -4520,7 +4640,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 211904,
       "name": "Say No More",
       "url": "https://open.spotify.com/track/7tLGJbAhl7jmIAwOhNomI9"
@@ -4926,7 +5046,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 298236,
       "name": "Stay",
       "url": "https://open.spotify.com/track/756mlxIxHmOoGNhHtQYy42"
@@ -5086,7 +5206,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 195733,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb"
@@ -5218,7 +5338,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
@@ -5490,7 +5610,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 168659,
       "name": "Time In The Sun",
       "url": "https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw"
@@ -6052,6 +6172,28 @@
       "duration_ms": 216000,
       "name": "You're My Winter",
       "url": "https://open.spotify.com/track/5u6vKboXSgqGxh7dCWy6tQ"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/0CT0ofStdh15crKzer9dcg"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265099,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/5Y7WONRdWnjQhsn8TyOyS8"
     },
     {
       "album": {

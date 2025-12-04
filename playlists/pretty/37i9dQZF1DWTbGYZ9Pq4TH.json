@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 184883,
+  "num_followers": 184886,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -423,18 +423,18 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Splende",
-        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
+        "name": "Amami",
+        "url": "https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ"
       },
       "artists": [
         {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+          "name": "Arisa",
+          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
         }
       ],
-      "duration_ms": 211093,
-      "name": "Una finestra tra le stelle",
-      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
+      "duration_ms": 235121,
+      "name": "La notte",
+      "url": "https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -455,18 +455,34 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Amami",
-        "url": "https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ"
+        "name": "Splende",
+        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
       },
       "artists": [
         {
-          "name": "Arisa",
-          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
         }
       ],
-      "duration_ms": 235121,
-      "name": "La notte",
-      "url": "https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI"
+      "duration_ms": 211093,
+      "name": "Una finestra tra le stelle",
+      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -503,22 +519,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
-      },
-      "artists": [
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Alla Mia Et\u00e0",
         "url": "https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Bagus",
-        "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Vieni A Vedere Perch\u00e8",
-      "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "MI FAI IMPAZZIRE",
         "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 220235,
       "name": "MI FAI IMPAZZIRE",
       "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Bagus",
+        "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Vieni A Vedere Perch\u00e8",
+      "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "La canzone del sole/ Anche per te",
-        "url": "https://open.spotify.com/album/0JLkr7dK5UuhWsPq9xCa2w"
-      },
-      "artists": [
-        {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
-        }
-      ],
-      "duration_ms": 324826,
-      "name": "La canzone del sole - Remastered",
-      "url": "https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "OBE",
         "url": "https://open.spotify.com/album/64ZUYtdEVuy4OXk63R579s"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Fabio Concato",
-        "url": "https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra"
+        "name": "La canzone del sole/ Anche per te",
+        "url": "https://open.spotify.com/album/0JLkr7dK5UuhWsPq9xCa2w"
       },
       "artists": [
         {
-          "name": "Fabio Concato",
-          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Fiore Di Maggio",
-      "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
+      "duration_ms": 324826,
+      "name": "La canzone del sole - Remastered",
+      "url": "https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -811,6 +795,22 @@
       "duration_ms": 199146,
       "name": "Brividi",
       "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Fabio Concato",
+        "url": "https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra"
+      },
+      "artists": [
+        {
+          "name": "Fabio Concato",
+          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Fiore Di Maggio",
+      "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Parole parole - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "\u00c8 sempre bello",
         "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 201546,
       "name": "Domenica",
       "url": "https://open.spotify.com/track/7qtE9zyA03AewO2GcRWVPA"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Parole parole - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "Supereroe",
+        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 209179,
+      "name": "Fuoco e benzina",
+      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "Cip!",
         "url": "https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV"
       },
@@ -983,34 +999,18 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Rossetto e caff\u00e8",
-        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
+        "name": "Possibili Scenari",
+        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
       },
       "artists": [
         {
-          "name": "Sal Da Vinci",
-          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
         }
       ],
-      "duration_ms": 192989,
-      "name": "Rossetto e caff\u00e8",
-      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
-        "name": "Supereroe",
-        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 209179,
-      "name": "Fuoco e benzina",
-      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+      "duration_ms": 284480,
+      "name": "Nessuno Vuole Essere Robin",
+      "url": "https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Possibili Scenari",
-        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
+        "name": "Rossetto e caff\u00e8",
+        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
       },
       "artists": [
         {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
         }
       ],
-      "duration_ms": 284480,
-      "name": "Nessuno Vuole Essere Robin",
-      "url": "https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti"
+      "duration_ms": 192989,
+      "name": "Rossetto e caff\u00e8",
+      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 234250,
-      "name": "Ti dedico il silenzio",
-      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Essere Qui",
         "url": "https://open.spotify.com/album/4eN5SrtLrerdQsvFIo95N9"
       },
@@ -1603,22 +1587,6 @@
       "duration_ms": 204003,
       "name": "Mi Parli Piano",
       "url": "https://open.spotify.com/track/6XRe4ft04Skbpbz3TwsenD"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
-        "name": "Il Primo Bacio Sulla Luna",
-        "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Le Sei E Ventisei",
-      "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1639,6 +1607,22 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "Il Primo Bacio Sulla Luna",
+        "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Le Sei E Ventisei",
+      "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "La Descrizione Di Un Attimo",
         "url": "https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj"
       },
@@ -1655,22 +1639,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Piccola Stella",
-      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Tempo Reale Extra",
         "url": "https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi"
       },
@@ -1683,6 +1651,38 @@
       "duration_ms": 217640,
       "name": "Il mio giorno pi\u00f9 bello nel mondo",
       "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Come Nelle Favole",
+      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 234250,
+      "name": "Ti dedico il silenzio",
+      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
     }
   ],
   "unique_name": "Canzoni d'amore italiane",

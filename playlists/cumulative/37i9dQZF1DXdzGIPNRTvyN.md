@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-373 songs - 17 hr 40 min
+374 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [By Your Side](https://open.spotify.com/track/5Fr4RpT1YVZHJ5L7CkCDfn) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [By Your Side](https://open.spotify.com/album/05oAUZkTZCoE8vaJjIeaEy) | 3:07 | 2024-09-06 |  |
 | [Caelum Aqua](https://open.spotify.com/track/0pyfGww35DJV75icw9b3zD) | [Maja Balder](https://open.spotify.com/artist/2HxNtfNbAA1Pxjx9BHu1GB) | [Caelum Aqua](https://open.spotify.com/album/4obMeYnz4UrSyXqiuVybSI) | 2:34 | 2024-04-01 | 2025-10-02 |
 | [Calling](https://open.spotify.com/track/7KooASXXdp3fKGWGbp7CBE) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Calling](https://open.spotify.com/album/7zQFpHbJgeMcJPAK0pnStL) | 3:23 | 2023-05-19 | 2025-03-20 |
+| [Calm Mind](https://open.spotify.com/track/6Gt0dkoMbaXGkHegYj9mXC) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Calm Mind](https://open.spotify.com/album/4hQSRlCnpDXUoeqguI05tc) | 2:29 | 2025-10-24 |  |
 | [Calm ripples](https://open.spotify.com/track/11J8sTGpRU5KCKGhJhEN2c) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Calm ripples](https://open.spotify.com/album/6vT4XJuA1Nho9EM1NltcrO) | 2:02 | 2023-08-21 | 2025-07-02 |
 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 | 2023-01-24 | 2024-04-02 |
 | [Calming Encounter \(nature\)](https://open.spotify.com/track/6onX1sotvWxqZYLRCk1yOE) | [Eli Dylan](https://open.spotify.com/artist/4FnhRuj3eKz4JXL27neoCC) | [Calming Encounter](https://open.spotify.com/album/4q0GhwwD9fRe2ghssfQMkK) | 3:17 | 2023-05-19 |  |
@@ -363,7 +364,7 @@
 | [Time Travel](https://open.spotify.com/track/1ZSgm3HEOgKmFK5E1lNUTs) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/21HVLy4hKHzk6qAoQiN6hL) | 3:17 | 2023-04-24 |  |
 | [To Walk Alone](https://open.spotify.com/track/1QWdxldpQhlQFSmMMe9CQl) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [To Walk Alone](https://open.spotify.com/album/1oJkGl4hLaTdVEA1XVvH07) | 2:31 | 2025-10-01 |  |
 | [Tomorrow](https://open.spotify.com/track/3996YRxnFIXGceavIrBmOS) | [Ely Ève](https://open.spotify.com/artist/4tcvZoHbBrHpRZMhL8E9ku) | [Tomorrow](https://open.spotify.com/album/5dK5YN5xUc3Oi1nerYNck7) | 2:21 | 2023-03-03 | 2024-11-12 |
-| [Treasures \(Nature\)](https://open.spotify.com/track/6dSo5PzTyaIvftTITkuZWS) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [Treasures](https://open.spotify.com/album/2Rgqt55eEPfVuUpKvSUbUQ) | 2:50 | 2023-12-18 |  |
+| [Treasures \(Nature\)](https://open.spotify.com/track/6dSo5PzTyaIvftTITkuZWS) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [Treasures](https://open.spotify.com/album/2Rgqt55eEPfVuUpKvSUbUQ) | 2:50 | 2023-12-18 | 2025-12-04 |
 | [Trees and Birds](https://open.spotify.com/track/5pxc7awYBhXmhDaM2tUwLl) | [Tundriunas](https://open.spotify.com/artist/38zGrr9psTPxaS1oCBb63z) | [Trees and Birds](https://open.spotify.com/album/0CNZyLHT6HBiDn1rgYUYVe) | 2:04 | 2023-05-19 | 2024-10-04 |
 | [Under The Tabla](https://open.spotify.com/track/5RmZaQr8u7VZWg6kX7ADGB) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Under The Tabla](https://open.spotify.com/album/5aPaMWN5dirBrt6stMvrZL) | 3:14 | 2023-04-24 | 2024-06-04 |
 | [Unfound](https://open.spotify.com/track/4KwXtiXE4aNAjzEoWybjnP) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Unfound](https://open.spotify.com/album/4MpFqknGk8oGkEC1WDapzE) | 3:11 | 2024-12-04 |  |

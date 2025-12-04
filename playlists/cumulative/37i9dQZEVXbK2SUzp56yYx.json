@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 150666,
       "name": "Back To Back 2",
       "url": "https://open.spotify.com/track/40PJLvAjWRUkE2k6zvSKIr"
@@ -6376,7 +6376,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -10906,7 +10906,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 279426,
       "name": "It Can't Come Quickly Enough",
       "url": "https://open.spotify.com/track/0J2KQqE35fDMlc0nawRhbK"
@@ -10924,7 +10924,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 279426,
       "name": "It Can't Come Quickly Enough",
       "url": "https://open.spotify.com/track/533TLnqopf6VwOlWqEuAdL"
@@ -15552,7 +15552,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 175833,
       "name": "NaNaNa",
       "url": "https://open.spotify.com/track/0ETjTLIst5iwZJlt661giq"
@@ -15694,7 +15694,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
@@ -22911,6 +22911,24 @@
     },
     {
       "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "album": {
         "name": "uzbek tahoe",
         "url": "https://open.spotify.com/album/3BfemSWMydHU8MmQESc8va"
       },
@@ -27634,7 +27652,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 84823,
       "name": "\u0412\u0441\u0442\u0440\u0435\u0442\u0438\u043c\u0441\u044f \u0437\u0430\u0432\u0442\u0440\u0430",
       "url": "https://open.spotify.com/track/3Ks77Ws4jZigilBDtytb4V"
@@ -29052,6 +29070,24 @@
       "duration_ms": 153595,
       "name": "\u0414\u041e\u041c (\u041b\u043e\u043d\u0434\u043e\u043d, \u041f\u0440\u0430\u0433\u0430, \u041d\u0438\u0446\u0446\u0430)",
       "url": "https://open.spotify.com/track/5rELQYNJgj4btlKsA47hiR"
+    },
+    {
+      "album": {
+        "name": "\u0428\u0430\u043d\u0441\u043e\u043d \u0434\u043b\u044f \u0437\u0443\u043c\u0435\u0440\u043e\u0432",
+        "url": "https://open.spotify.com/album/0UcnAd8bXP3fCINsxGCDIy"
+      },
+      "artists": [
+        {
+          "name": "\u0418\u043b\u044e\u0448\u0430",
+          "url": "https://open.spotify.com/artist/3cBu7p4gAv6GdXRcnGOlZn"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152398,
+      "name": "\u0414\u043e\u043c\u0438\u043a \u0432 \u043c\u0430\u0439\u043d\u043a\u0440\u0430\u0444\u0442\u0435",
+      "url": "https://open.spotify.com/track/2XnzqmWlPPr131HCDqkmCI"
     },
     {
       "album": {
@@ -32388,6 +32424,24 @@
       "duration_ms": 211288,
       "name": "\u041c\u043e\u044f \u043b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/5XyEjaBvqmqAGJEs3Zxfvd"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0443\u0436\u0447\u0438\u043d\u044b \u043d\u0435 \u043f\u043b\u0430\u0447\u0443\u0442",
+        "url": "https://open.spotify.com/album/1IU4mZqBScXnGYgnFNLfTe"
+      },
+      "artists": [
+        {
+          "name": "Lyapis Trubetskoy",
+          "url": "https://open.spotify.com/artist/1PH7LtTLFyoZUEa7B64pws"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296760,
+      "name": "\u041c\u0443\u0436\u0447\u0438\u043d\u044b \u041d\u0435 \u041f\u043b\u0430\u0447\u0443\u0442",
+      "url": "https://open.spotify.com/track/4uGmFkbEMlxV3nkBigiev4"
     },
     {
       "album": {
@@ -36230,7 +36284,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 325516,
       "name": "\u041f\u0440\u043e\u0441\u043f\u0430\u043b",
       "url": "https://open.spotify.com/track/6sMGwJLnCUM75e2FoyStyN"
@@ -39492,7 +39546,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 105200,
       "name": "\u0423 \u0431\u0430\u0442\u0430\u0440\u0435\u0439",
       "url": "https://open.spotify.com/track/5sGKghKnKrufLzx3fwTr0i"

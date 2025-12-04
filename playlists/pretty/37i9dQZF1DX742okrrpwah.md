@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Ninho,  Meryl x Theodora  et Ofenbach au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,139 likes - 83 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,093 likes - 83 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

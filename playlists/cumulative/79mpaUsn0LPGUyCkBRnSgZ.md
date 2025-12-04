@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-971 songs - 2 day 16 hr 3 min
+972 songs - 2 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,6 +615,7 @@
 | [Overgrown](https://open.spotify.com/track/7rHIRFNCDu6o9LWtGMevK1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 5:00 | 2024-01-09 | 2024-05-09 |
 | [Overture](https://open.spotify.com/track/7kKt9qTiXIdDvQ3soWsZ9a) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Madison](https://open.spotify.com/album/17FteLw9nXHusWd9vsVa2p) | 3:44 | 2025-08-17 | 2025-08-20 |
 | [Overture](https://open.spotify.com/track/3P0VltjBDpzJeFFHVpF0nK) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 5:20 | 2024-01-08 |  |
+| [painty paint pots](https://open.spotify.com/track/1CPoZksD5MBtt1bUr1de35) | [800 cherries](https://open.spotify.com/artist/47mrO8UvhD1Qt6iAIy4fCO) | [Romantico](https://open.spotify.com/album/3N9wv27gzl0UgFKxWiXwbZ) | 2:52 | 2025-12-03 |  |
 | [Pantyhose](https://open.spotify.com/track/7m6xr2HY0BYmBDTh2UIx02) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 2:57 | 2023-04-25 | 2023-05-11 |
 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 | 2025-09-20 | 2025-10-10 |
 | [PARANOIA INTRO](https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:10 | 2024-05-28 |  |

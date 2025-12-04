@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: MOMMO
 
-3,502 songs - 9 day 7 hr 23 min
+3,503 songs - 9 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [Brilliant](https://open.spotify.com/track/7s8Pu5rHHufv1CD6Xj6ko0) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS), [outliving](https://open.spotify.com/artist/2T4vplbHCoej8xKTcMVhNk) | [Brilliant](https://open.spotify.com/album/4OcEvpSo1TI6qrkgbB89B2) | 3:33 | 2023-12-05 | 2023-12-13 |
 | [BROKEN GLASS](https://open.spotify.com/track/3q0poSLTHXsN52K409VSMf) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [BROKEN GLASS](https://open.spotify.com/album/5hZHAUnr1rp0nFwb5crga2) | 3:12 | 2025-07-22 | 2025-07-30 |
 | [Bubble](https://open.spotify.com/track/2z0GNBjMSx3HJLdRKkBg6S) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [Bubble](https://open.spotify.com/album/6ns8AeeWp3tOmgPQ9EpIW1) | 2:58 | 2023-06-13 | 2023-06-21 |
-| [Bubble Ring](https://open.spotify.com/track/3GlG2Sj5KFX7ij4wWi0gYu) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg) | [](https://open.spotify.com/album/null) | 3:20 | 2025-12-02 |  |
+| [Bubble Ring](https://open.spotify.com/track/3GlG2Sj5KFX7ij4wWi0gYu) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg) | [High Tide](https://open.spotify.com/album/1VEAiL8wwNmZRuYLBBfiwW) | 3:20 | 2025-12-02 |  |
 | [Budo Juice](https://open.spotify.com/track/6mUCPz6VnyA62upkWEbYNA) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:09 | 2023-03-28 | 2023-04-05 |
 | [bugs](https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [bugs](https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7) | 3:59 | 2024-01-30 | 2024-03-27 |
 | [Burial Sea](https://open.spotify.com/track/500KbENTYkGTrCHp4E8md6) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [Burial Sea](https://open.spotify.com/album/5k61bP1qLkituDoEMtXR6T) | 4:54 | 2025-11-25 | 2025-12-03 |
@@ -1121,6 +1121,7 @@
 | [Miami No Shima \(Kakuu\)](https://open.spotify.com/track/6DoNrxNGA1Dju2WPzG9FLr) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [aoi12sai](https://open.spotify.com/artist/3dKz4ajPTXz5cBrcMNio6t) | [Miami No Shima \(Kakuu\)](https://open.spotify.com/album/0lFCiZ6zFLrOvqZMXWOnE2) | 3:22 | 2022-08-31 | 2022-09-07 |
 | [MICHIKUSA](https://open.spotify.com/track/0eThexhpQdncZ1zH7GUkrF) | [NakamuraEmi](https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC) | [MICHIKUSA](https://open.spotify.com/album/1yXvqj105P4xlGahwyRCGB) | 4:25 | 2025-01-21 | 2025-01-29 |
 | [Mid\-20s](https://open.spotify.com/track/4h4Oa8uzPl6eW0Eh9bBLqP) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Tasty City](https://open.spotify.com/album/4ZcHvn5pkdDxn60PhV7OjN) | 3:44 | 2022-10-04 | 2022-12-07 |
+| [Middle of the Night](https://open.spotify.com/track/5ObofrulUfverBVhR1nMg3) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Middle of the Night](https://open.spotify.com/album/2AM8BTx7qcCawZmjsddXzn) | 3:51 | 2025-12-03 |  |
 | [Midnight Boogie](https://open.spotify.com/track/4B3Cvo3VcyR3vjFBZqEplT) | [Lee Kanehira](https://open.spotify.com/artist/5LvLbV1qskZdjHNVn2AMpc) | [Midnight Boogie](https://open.spotify.com/album/4xpxc8ictnxHyLHhspth9V) | 2:53 | 2024-07-25 | 2024-07-31 |
 | [Midnight City Lovers](https://open.spotify.com/track/6LspxPoYyG65ZQGwR6VREF) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [EMI](https://open.spotify.com/artist/2s875LWBmOE1q9BuhcuQA8) | [Midnight City Lovers](https://open.spotify.com/album/4VJnZQcIIjAcTnC03BzC80) | 4:31 | 2023-04-20 | 2023-04-26 |
 | [Midnight Dew](https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Midnight Dew](https://open.spotify.com/album/4pOcjmEBUBTkrcuBq0VNaM) | 4:06 | 2022-06-02 | 2022-07-20 |
@@ -2634,7 +2635,7 @@
 | [ヤコウレッシャ](https://open.spotify.com/track/6v6w4NXHWZrpWpOz645t2W) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [ヤコウレッシャ](https://open.spotify.com/album/3WLp22PNHz01NoZvN1PllK) | 4:41 | 2022-06-14 | 2022-07-23 |
 | [ヤッチマイナ!](https://open.spotify.com/track/7zdHVg51ysEcEgOUT3ewpb) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [ヤッチマイナ!](https://open.spotify.com/album/7LrZpZh8gj3P5cHEon11UI) | 3:08 | 2023-03-21 | 2023-03-29 |
 | [ヤマネ](https://open.spotify.com/track/1rOeAbMixBf1cALHZH6k6C) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [ヤマネ](https://open.spotify.com/album/37YAzLaSYo8TxAJ90WmELH) | 3:35 | 2023-12-05 | 2023-12-13 |
-| [ユキくんあのね](https://open.spotify.com/track/7b9rdb1k6GEAKRes474OaJ) | [なるみや](https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3) | [ユキくんあのね](https://open.spotify.com/album/2BxJmvboPhn9S1FlRiyLYF) | 2:08 | 2025-12-02 |  |
+| [ユキくんあのね](https://open.spotify.com/track/7b9rdb1k6GEAKRes474OaJ) | [なるみや](https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3) | [ユキくんあのね](https://open.spotify.com/album/2BxJmvboPhn9S1FlRiyLYF) | 2:08 | 2025-12-02 | 2025-12-04 |
 | [ユリイカ](https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ユリイカ](https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0) | 3:45 | 2024-04-23 | 2025-02-05 |
 | [ユートピア](https://open.spotify.com/track/3ftvzizngsBG6wkmkLbcZr) | [Nao Kodama](https://open.spotify.com/artist/1W2RWaK40Bo6xTSgkPAPNL), [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [ユートピア](https://open.spotify.com/album/0G3c1t1jWSNVJ6y1eZEIoz) | 2:56 | 2025-11-04 | 2025-11-12 |
 | [ユーフォーを見にいこう](https://open.spotify.com/track/3M4zaCSxhUx6Ru3fvdOY1n) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [ユーフォーを見にいこう](https://open.spotify.com/album/06F3cSHA1gV6zjeA9PUaxB) | 3:35 | 2025-11-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Venerus e Angelina ci insegnano a disinfettare le ferite d'amore ❤️‍🩹 + tutte le altre uscite indie
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,380 likes - 121 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,381 likes - 121 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

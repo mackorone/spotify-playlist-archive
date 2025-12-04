@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 930573,
+  "num_followers": 930597,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 271186,
-      "name": "in the dark",
-      "url": "https://open.spotify.com/track/4swVflM7KtMxzfHBWqPv9S"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "As You Were (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 251631,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/5Ih40KFkj3cSzxgisQxBvX"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "in the dark",
+      "url": "https://open.spotify.com/track/4swVflM7KtMxzfHBWqPv9S"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Vitalogy",
-        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 328710,
-      "name": "Immortality",
-      "url": "https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 250293,
       "name": "Thirty-Three - Remastered 2012",
       "url": "https://open.spotify.com/track/1fPKWu8NKS1ZGHjFZ5QCAs"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "Vitalogy",
+        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 328710,
+      "name": "Immortality",
+      "url": "https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
+        "name": "Siamese Dream (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 300487,
-      "name": "Wreckage",
-      "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
+      "duration_ms": 196905,
+      "name": "Disarm - 2011 Remaster",
+      "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Siamese Dream (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 196905,
-      "name": "Disarm - 2011 Remaster",
-      "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
+      "duration_ms": 300487,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
         "name": "Neon Ballroom",
         "url": "https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
       },
       "artists": [
         {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+      "duration_ms": 383506,
+      "name": "The Little Things Give You Away",
+      "url": "https://open.spotify.com/track/6zCaXHIV60YIuDe9qJ9MOo"
     },
     {
       "added_at": "2025-09-26 04:00:30",
@@ -1095,22 +1111,6 @@
       "duration_ms": 263040,
       "name": "Caught Up In the Past",
       "url": "https://open.spotify.com/track/2JXZ6ZQ9nDVKiyws0VYWoE"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 383506,
-      "name": "The Little Things Give You Away",
-      "url": "https://open.spotify.com/track/6zCaXHIV60YIuDe9qJ9MOo"
     },
     {
       "added_at": "2024-12-02 16:32:42",

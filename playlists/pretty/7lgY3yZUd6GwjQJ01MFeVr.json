@@ -1,12 +1,12 @@
 {
   "description": "Today's top country music!",
-  "num_followers": 35127,
+  "num_followers": 35125,
   "original_name": "Top Country Hits",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAeKUv0tGrHvnB0bnu00sPdy5Htm/yJ",
+  "snapshot_id": "AAAeLJkFo3+cG2sGtVoFQIfRE0nEqYgL",
   "tracks": [
     {
       "added_at": "2025-11-29 02:16:51",
@@ -131,22 +131,6 @@
     {
       "added_at": "2025-11-29 02:16:51",
       "album": {
-        "name": "I Sit In Parks",
-        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "I Sit In Parks",
-      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
-    },
-    {
-      "added_at": "2025-11-29 02:16:51",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 210950,
       "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
+      "added_at": "2025-11-29 02:16:51",
+      "album": {
+        "name": "I Sit In Parks",
+        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
     },
     {
       "added_at": "2025-11-29 02:16:51",
@@ -459,6 +459,22 @@
       "duration_ms": 180000,
       "name": "Comin' In Cold",
       "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
+    },
+    {
+      "added_at": "2025-12-03 18:08:35",
+      "album": {
+        "name": "Party In The Back",
+        "url": "https://open.spotify.com/album/4ky3Mc4MVClitmYShCvi6U"
+      },
+      "artists": [
+        {
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "Lightning In A Bottle",
+      "url": "https://open.spotify.com/track/1v6wu17AJ2bgbXv5B2XjZY"
     },
     {
       "added_at": "2025-11-29 02:16:51",

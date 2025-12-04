@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541 likes - 278 songs - 14 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 540 likes - 278 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 80 | [Knife Went In](https://open.spotify.com/track/5bBDvz7EAuVlPTlwKxSf7l) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/6XP23DjYr0NNJZMjVlnPAo) | 3:39 |
 | 81 | [Gravitron](https://open.spotify.com/track/6tHxTbhBFK3SkiqNQiExQu) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:36 |
 | 82 | [Woodcut](https://open.spotify.com/track/2FVXoTWjF6yHlo73ekTgox) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 4:18 |
-| 83 | [No More Words](https://open.spotify.com/track/48iwjxGmPT5fTFlAaftxg4) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 6:29 |
-| 84 | [Newsreader](https://open.spotify.com/track/49JTMSh8jg0XEnxLuFxcJt) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes \(Expanded Edition\)](https://open.spotify.com/album/7Jz15loeFy1pRa5l3YpaQK) | 3:39 |
-| 85 | [Dungeons and Dragons](https://open.spotify.com/track/38zw2f9IuOIgTAEuidLts0) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Echo Mountain](https://open.spotify.com/album/0C7Vwl8DXKCL4YeMtJVWXi) | 4:43 |
-| 86 | [My Favorite Time Of Year](https://open.spotify.com/track/0YubeLJUQeKY6fGFTjJ1t4) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [My Favorite Time Of Year](https://open.spotify.com/album/1DehD8kDsxWuquvxfiuarJ) | 2:15 |
+| 83 | [My Favorite Time Of Year](https://open.spotify.com/track/0YubeLJUQeKY6fGFTjJ1t4) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [My Favorite Time Of Year](https://open.spotify.com/album/1DehD8kDsxWuquvxfiuarJ) | 2:15 |
+| 84 | [No More Words](https://open.spotify.com/track/48iwjxGmPT5fTFlAaftxg4) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 6:29 |
+| 85 | [Newsreader](https://open.spotify.com/track/49JTMSh8jg0XEnxLuFxcJt) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes \(Expanded Edition\)](https://open.spotify.com/album/7Jz15loeFy1pRa5l3YpaQK) | 3:39 |
+| 86 | [Dungeons and Dragons](https://open.spotify.com/track/38zw2f9IuOIgTAEuidLts0) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Echo Mountain](https://open.spotify.com/album/0C7Vwl8DXKCL4YeMtJVWXi) | 4:43 |
 | 87 | [Welcome to the Hellmouth](https://open.spotify.com/track/451CQ4GqhjpTR8LXNJ7cz2) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 1:14 |
 | 88 | [Good Way](https://open.spotify.com/track/6fDGDqFQuGmNb0Pistebne) | [John\-Allison Weiss](https://open.spotify.com/artist/2sUZIZiGvaHEFvLffJUwaP) | [New Love](https://open.spotify.com/album/4e1rVsIf01mKaap563psbg) | 3:39 |
 | 89 | [Over the Bow](https://open.spotify.com/track/1BIvM6fKRrfkoD5IsnYIfE) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Slack Tide](https://open.spotify.com/album/11MZQCQnyElUdoeuFTFbKA) | 4:40 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 277 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 278 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `AcDLXgAAAADfLFYs1VKs9zU6MfqFVdH9`
+Snapshot ID: `AcDROgAAAAB8R4/hPfQjcL3pVfS8/PLu`

@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Ed Sheeran, Central Cee, HubbaBubba og mörgum fleiri!
 
-8,905 songs - 19 day 22 hr 40 min
+8,906 songs - 19 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,7 +824,7 @@
 | [Beside Of Me](https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Beside Of Me](https://open.spotify.com/album/2e03J5UadYijtdrdEfBLFL) | 3:27 | 2025-06-20 | 2025-06-27 |
 | [BESST](https://open.spotify.com/track/7v7wCE0hlTh22ONcz5qv0B) | [Danjel](https://open.spotify.com/artist/2DGamydCQov2VWEncYL4xB) | [Hafa Gaman](https://open.spotify.com/album/473OcAcyb6kMCprZPdgbQN) | 1:42 | 2025-04-04 | 2025-04-06 |
 | [Best Be Leaving](https://open.spotify.com/track/2pEQBzoeccf6TIbJU8O26c) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Best Be Leaving](https://open.spotify.com/album/30coJQv7G8UD5Lx76VQZE1) | 3:42 | 2025-03-07 | 2025-03-14 |
-| [BEST DAY EVER](https://open.spotify.com/track/6pRJdoCjlk55Q8J7lMLRUl) | [MONEY BADGER](https://open.spotify.com/artist/7jBKpAq42u8t7yiWAsC8kP) | [BEST DAY EVER](https://open.spotify.com/album/1BcAZeEscYFRWcCV6OdvOH) | 3:18 | 2025-11-28 |  |
+| [BEST DAY EVER](https://open.spotify.com/track/6pRJdoCjlk55Q8J7lMLRUl) | [MONEY BADGER](https://open.spotify.com/artist/7jBKpAq42u8t7yiWAsC8kP) | [BEST DAY EVER](https://open.spotify.com/album/1BcAZeEscYFRWcCV6OdvOH) | 3:18 | 2025-11-28 | 2025-12-04 |
 | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C) | 2:50 | 2025-07-04 | 2025-07-11 |
 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 | 2025-06-06 | 2025-06-13 |
 | [Best Friend \(with Fall Out Boy\)](https://open.spotify.com/track/6YIUVlNppbizkWnme87kAY) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:36 | 2024-11-29 | 2024-12-06 |
@@ -3388,6 +3388,7 @@
 | [High On Love](https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [High On Love](https://open.spotify.com/album/1RS0vAX4YynNRKyxl7DoAw) | 2:56 | 2024-05-17 | 2024-05-24 |
 | [High On Loving You \(Talk\)](https://open.spotify.com/track/2e9iFRN92N8t9FGBj0dhV8) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [This is how I remember it.](https://open.spotify.com/album/7E4vbLNA0l8RTXjVXkycuR) | 3:26 | 2024-11-29 | 2024-12-06 |
 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-06-20 | 2025-06-27 |
+| [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 | 2025-11-28 |  |
 | [High Road](https://open.spotify.com/track/0yDBKfisazexaBGTrdsqNp) | [SUGAR RUSH](https://open.spotify.com/artist/3mkErTLZLhkuDpNSLiN9Z1), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [High Road](https://open.spotify.com/album/6EvnM4V43kc3iyxv1K9u2A) | 2:18 | 2024-09-20 | 2024-09-27 |
 | [High Time](https://open.spotify.com/track/2RAaI9h95On0Z1h4wq0Qbj) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [High Time](https://open.spotify.com/album/7A7g9DyaTInJ7cRuq53K9a) | 2:29 | 2025-07-04 | 2025-07-11 |
 | [High\-Rise](https://open.spotify.com/track/7xx9NfYxOJMJOtaAfl8ZFB) | [Henric de la Cour](https://open.spotify.com/artist/30fLO9Dkwb18LCla13Mhuu) | [My Bones, Your Ashes](https://open.spotify.com/album/7nw8ByzBqcI4ijePJ9IF2d) | 4:01 | 2025-01-31 | 2025-02-07 |

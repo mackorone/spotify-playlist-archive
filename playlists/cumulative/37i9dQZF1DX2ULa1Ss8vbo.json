@@ -733,32 +733,6 @@
     },
     {
       "album": {
-        "name": "Twenty Five Years-Twenty Five Songs",
-        "url": "https://open.spotify.com/album/6w06lhQcIlyfGKEzQGF8FQ"
-      },
-      "artists": [
-        {
-          "name": "Mary Black",
-          "url": "https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        },
-        {
-          "name": "Dolores Keane",
-          "url": "https://open.spotify.com/artist/6nYVwBK8nCQCYlb7rA763B"
-        }
-      ],
-      "date_added": "2019-03-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249840,
-      "name": "Sonny",
-      "url": "https://open.spotify.com/track/6xO1Egci5AmEX0nqrz7JGh"
-    },
-    {
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/2Q7wLG5eFud4DDSwSP36R5"
       },
@@ -782,6 +756,36 @@
       "duration_ms": 251093,
       "name": "Sonny",
       "url": "https://open.spotify.com/track/7LupDPRLSzv59dBkkuxMCO"
+    },
+    {
+      "album": {
+        "name": "Twenty Five Years-Twenty Five Songs",
+        "url": "https://open.spotify.com/album/6w06lhQcIlyfGKEzQGF8FQ"
+      },
+      "artists": [
+        {
+          "name": "Mary Black",
+          "url": "https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA"
+        },
+        {
+          "name": "Emmylou Harris & Dolores Keane",
+          "url": "https://open.spotify.com/artist/2F5xYKmrB2BNGKTNbdY4lv"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Dolores Keane",
+          "url": "https://open.spotify.com/artist/6nYVwBK8nCQCYlb7rA763B"
+        }
+      ],
+      "date_added": "2019-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249840,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/6xO1Egci5AmEX0nqrz7JGh"
     },
     {
       "album": {

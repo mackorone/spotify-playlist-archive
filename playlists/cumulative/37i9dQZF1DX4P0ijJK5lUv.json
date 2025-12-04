@@ -440,14 +440,6 @@
           "url": "https://open.spotify.com/artist/6HWTGBazaK8i89CmozJNEr"
         },
         {
-          "name": "Choir of King's College, Cambridge",
-          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
-        },
-        {
-          "name": "Simon Preston",
-          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
-        },
-        {
           "name": "Sir David Willcocks",
           "url": "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
         }
@@ -1400,10 +1392,6 @@
           "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
-          "name": "Choir of King's College, Cambridge",
-          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
-        },
-        {
           "name": "Sir David Willcocks",
           "url": "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
         }
@@ -1542,6 +1530,28 @@
       "duration_ms": 147200,
       "name": "Christmas Lullaby",
       "url": "https://open.spotify.com/track/75IEMuEVl1AGPrOiCG1VFM"
+    },
+    {
+      "album": {
+        "name": "Christmas with Septura",
+        "url": "https://open.spotify.com/album/5ymSfKFQoN8HSOJQojBpyk"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Septura",
+          "url": "https://open.spotify.com/artist/4hrdF7Xgeh69KNDuN99f0G"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69146,
+      "name": "Christmas Oratorio, BWV 248: No. 9, Ach mein herzliebes Jesulein (Arr. M. Knight for Brass Septet)",
+      "url": "https://open.spotify.com/track/2yldGg8RCdsW9QaqmccQrG"
     },
     {
       "album": {
@@ -1787,6 +1797,28 @@
     },
     {
       "album": {
+        "name": "Hearth",
+        "url": "https://open.spotify.com/album/5Y56UICZ8DwNfxzazGQU2c"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Mir\u00f3 Quartet",
+          "url": "https://open.spotify.com/artist/3kcXzgvW7UmkBKrRWNEJ8w"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304146,
+      "name": "Deck the Halls (Arr. for String Quartet by Karl Mitze)",
+      "url": "https://open.spotify.com/track/2JbKszLqSuJZRoT2deMbre"
+    },
+    {
+      "album": {
         "name": "For The Holidays",
         "url": "https://open.spotify.com/album/2an9t51pbK1iXVUM5Uscbr"
       },
@@ -1796,16 +1828,12 @@
           "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
-          "name": "John Alldis Choir",
-          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
         },
         {
           "name": "London Symphony Orchestra",
           "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
         }
       ],
       "date_added": "2021-11-29",
@@ -1852,36 +1880,6 @@
       "duration_ms": 340893,
       "name": "Der Stern von Bethlehem, Op. 164: Expectation: Die Erde schweigt (Chorus)",
       "url": "https://open.spotify.com/track/4ZgFucEkNTGUvKp7Y7E0GH"
-    },
-    {
-      "album": {
-        "name": "The Holly and the Ivy",
-        "url": "https://open.spotify.com/album/2JOa9xgb3MMj20wowXs8E6"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Choir of Clare College, Cambridge",
-          "url": "https://open.spotify.com/artist/0sHmVvDwPMhpqcFLBtiDPd"
-        },
-        {
-          "name": "Orchestra of Clare College, Cambridge",
-          "url": "https://open.spotify.com/artist/6Epkp141HpLSLEb2Kp7lP4"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128960,
-      "name": "Ding Dong! Merrily on High",
-      "url": "https://open.spotify.com/track/29jt9fjDgLpvkDWTmlDPdf"
     },
     {
       "album": {
@@ -1942,6 +1940,32 @@
       "duration_ms": 129693,
       "name": "Ding Dong! Merrily on High",
       "url": "https://open.spotify.com/track/5deugvvBm2rJBPI2S0BZmQ"
+    },
+    {
+      "album": {
+        "name": "The Holly and the Ivy",
+        "url": "https://open.spotify.com/album/2JOa9xgb3MMj20wowXs8E6"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Orchestra of Clare College, Cambridge",
+          "url": "https://open.spotify.com/artist/6Epkp141HpLSLEb2Kp7lP4"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128960,
+      "name": "Ding Dong! Merrily on High",
+      "url": "https://open.spotify.com/track/29jt9fjDgLpvkDWTmlDPdf"
     },
     {
       "album": {
@@ -2344,6 +2368,36 @@
       "duration_ms": 185226,
       "name": "Have Yourself A Merry Little Christmas (Arr. Mackay)",
       "url": "https://open.spotify.com/track/6oDXX38npeVEQhDMIkdXcM"
+    },
+    {
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/3pC60ANbO80LkNEsyFeDG7"
+      },
+      "artists": [
+        {
+          "name": "Hugh Martin",
+          "url": "https://open.spotify.com/artist/4n5HR9kS4Dhl1t685XlDhW"
+        },
+        {
+          "name": "Bavarian Radio Chorus",
+          "url": "https://open.spotify.com/artist/536pGG9V0mbcKOSgw37g4m"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        },
+        {
+          "name": "Gavin Sutherland",
+          "url": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263684,
+      "name": "Have Yourself a Merry Little Christmas (From \"Meet Me in St. Louis\")",
+      "url": "https://open.spotify.com/track/1gPEXwq5BRnG2eauwc8FrT"
     },
     {
       "album": {
@@ -3136,6 +3190,40 @@
       "duration_ms": 135000,
       "name": "Infant Holy, Infant Lowly (arr. David Willcocks)",
       "url": "https://open.spotify.com/track/60BrNbRolLrykOhDeVeZpL"
+    },
+    {
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/3pC60ANbO80LkNEsyFeDG7"
+      },
+      "artists": [
+        {
+          "name": "Edward Pola",
+          "url": "https://open.spotify.com/artist/0KbsBQ7uuyJaennojL6YWc"
+        },
+        {
+          "name": "George Wyle",
+          "url": "https://open.spotify.com/artist/2wkk6jpn2hy2exybPipSOC"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        },
+        {
+          "name": "Bavarian Radio Chorus",
+          "url": "https://open.spotify.com/artist/536pGG9V0mbcKOSgw37g4m"
+        },
+        {
+          "name": "Gavin Sutherland",
+          "url": "https://open.spotify.com/artist/3hrMT5rIVrS20YswyQ6nlj"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199957,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/7MX8eEJJyg5kMiwTKOhAja"
     },
     {
       "album": {
@@ -4709,6 +4797,28 @@
     },
     {
       "album": {
+        "name": "Frohe Weihnachten!",
+        "url": "https://open.spotify.com/album/68FBjSm7hmGMkYQE9WLQOT"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Berlin Philharmonic Brass",
+          "url": "https://open.spotify.com/artist/4Z6XYPiXuliZ3UdaBSEtMC"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123684,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/4lYobJVday5YcMBmlqh4xJ"
+    },
+    {
+      "album": {
         "name": "The Classic Christmas Album",
         "url": "https://open.spotify.com/album/36MOAJNkC1445WLmLyJeJd"
       },
@@ -4846,14 +4956,6 @@
         {
           "name": "Henry John Gauntlett",
           "url": "https://open.spotify.com/artist/0Ywn9U6rufDhKYfZanCr6c"
-        },
-        {
-          "name": "Choir of King's College, Cambridge",
-          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
-        },
-        {
-          "name": "Sir Andrew Davis",
-          "url": "https://open.spotify.com/artist/7McyCDljdOKb1eNqfFyPPX"
         },
         {
           "name": "Sir David Willcocks",
@@ -5748,14 +5850,6 @@
         {
           "name": "Academy of St Martin in the Fields Chorus",
           "url": "https://open.spotify.com/artist/1GxYERY1PDh1dEuFqvTDa5"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
         }
       ],
       "date_added": "2021-11-29",
@@ -5886,14 +5980,6 @@
         {
           "name": "Mel Torm\u00e9",
           "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        },
-        {
-          "name": "Daniel Hope",
-          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
-        },
-        {
-          "name": "Z\u00fcrcher Kammerorchester",
-          "url": "https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM"
         }
       ],
       "date_added": "2021-11-29",
@@ -6278,6 +6364,28 @@
       "duration_ms": 201000,
       "name": "The Little Road to Bethlehem",
       "url": "https://open.spotify.com/track/4FXZZvOB2EIrp2zh3W7Y6t"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Nutcracker Suite, Op. 71a, TH 35",
+        "url": "https://open.spotify.com/album/3EpQdEvvPBZesVCh2gfief"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Alexander Ffinch",
+          "url": "https://open.spotify.com/artist/4myaeUvJZGmFsCQGq5Soy6"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78627,
+      "name": "The Nutcracker Suite, Op. 71a, TH 35: IIc. Danse russe \"Tr\u00e9pak\" (Arr. for Organ by Alexander Ffinch)",
+      "url": "https://open.spotify.com/track/6uNAuIm2bWnsIvAlop27LA"
     },
     {
       "album": {
@@ -6828,10 +6936,6 @@
         {
           "name": "Howard Blake",
           "url": "https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
         }
       ],
       "date_added": "2021-11-29",

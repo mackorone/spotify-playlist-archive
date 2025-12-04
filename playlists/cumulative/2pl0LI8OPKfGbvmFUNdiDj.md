@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-197 songs - 10 hr 59 min
+199 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Imagine](https://open.spotify.com/track/0qfZc2BEwvldx3YU55aBJy) | [ELEKTROWAN](https://open.spotify.com/artist/6PAHshSRQPQLC0UWb9v43v) | [Imagine](https://open.spotify.com/album/1GCezoHHagiknb2SwdHAdd) | 3:15 | 2025-11-10 | 2025-12-01 |
 | [In My Dreams](https://open.spotify.com/track/3bJmToSAKBi018GPh5dZk5) | [Emma Galanaki](https://open.spotify.com/artist/3uLWfPiygNLK6JFhj2gCG7) | [In My Dreams](https://open.spotify.com/album/0FFKptQv4URWBWRSJj8Vcx) | 3:45 | 2025-11-08 | 2025-12-01 |
 | [In My Lowrider](https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6) | [Willie of Wilshire](https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS) | [A Day in LA](https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1) | 2:52 | 2025-12-01 |  |
+| [Jiggy Jiggy](https://open.spotify.com/track/2aFDHNti4Cu6r7TRF1ewpm) | [JAO](https://open.spotify.com/artist/21f6qfptoiJRqqRbRgepjb), [Smasher GMC](https://open.spotify.com/artist/2J1zUfRo32V3n1Bj9WqnFm) | [Jiggy Jiggy](https://open.spotify.com/album/7IlPPAik9r0YzmfqUNvQHz) | 2:30 | 2025-12-03 |  |
 | [Johnny Drago](https://open.spotify.com/track/7JymuwXjghHmMRVZTXZvaA) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Time Trials](https://open.spotify.com/album/3KNPBIJpxFh4uh1dYkKwcx) | 3:10 | 2025-11-17 |  |
 | [Kick It Up!](https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Kick It Up!](https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR) | 3:19 | 2025-10-19 |  |
 | [Kisses On The Lips](https://open.spotify.com/track/3jrhLw4fhfPi9g4KN4k9i7) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Kisses On The Lips](https://open.spotify.com/album/6hxvNG9uKUhwjn0QdOrW7G) | 4:45 | 2025-11-17 |  |
@@ -194,6 +195,7 @@
 | [VAMOS!](https://open.spotify.com/track/4HPh05Go7vxyYpqQb3xLs1) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X), [Wszołek](https://open.spotify.com/artist/5EGOQRzEzTxqczyOwRIhKm) | [VAMOS!](https://open.spotify.com/album/0aHzsFNtkvrltOfK1ed20g) | 1:49 | 2025-11-10 | 2025-12-01 |
 | [Volver a Brillar](https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Volver a Brillar](https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN) | 4:51 | 2025-11-16 |  |
 | [What I Need](https://open.spotify.com/track/1grZNRqYvC7DAfgrgZI0sP) | [Shwah](https://open.spotify.com/artist/3tKCUuSFC6w2dMOdxWDOVQ) | [What I Need](https://open.spotify.com/album/0AkgS5mr0RnX863tboGE1e) | 3:16 | 2025-11-17 |  |
+| [Where Love Became a Ghost](https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Where Love Became a Ghost](https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP) | 4:31 | 2025-12-03 |  |
 | [WHO WANIT](https://open.spotify.com/track/1ZuOFw34Hc2F4Y5ZHyWicC) | [Nine25](https://open.spotify.com/artist/086QvHRXKmteZ1yHzqXhCZ) | [WHO WANIT](https://open.spotify.com/album/2rqEMvPa7Hfud194Iehqt6) | 2:37 | 2025-11-17 |  |
 | [Why Am I Like This](https://open.spotify.com/track/0kciK4EvYbUm8oRPmtEP1E) | [Snake Lips](https://open.spotify.com/artist/1iTHdjMCOCH2MTd1SJHdOT) | [Cat Beach](https://open.spotify.com/album/5qMnox5QRkGBPhCHi6U1hU) | 2:26 | 2025-11-03 | 2025-12-01 |
 | [WIFE YOU UP](https://open.spotify.com/track/0Hg2N59MLGTo588NK6DHC9) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Mayn](https://open.spotify.com/artist/3Bm2qmss0lQDGCO0NoH2zX), [OhMyGon!](https://open.spotify.com/artist/24Yd7vBTT9pEYgOw9Cs2Pj) | [WIFE YOU UP](https://open.spotify.com/album/2YqQ3pZFbtlgvM0li5R7p0) | 2:18 | 2025-11-10 | 2025-12-01 |

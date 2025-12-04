@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 465 likes - 107 songs - 6 hr 26 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 479 likes - 113 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 16 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 |
 | 17 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 |
 | 18 | [Pop Punk Was Dead](https://open.spotify.com/track/18cYjNMNy2KDjiCTvl2XY8) | [Bad Halloween](https://open.spotify.com/artist/2twrObmRnmEG5sF2njB0tr) | [Pop Punk Was Dead](https://open.spotify.com/album/1RsRlGI6VRobAOMVhdZEV3) | 3:32 |
-| 19 | [Saville](https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww) | [Vagabond\-321](https://open.spotify.com/artist/4bdOom5fRimwszocItXymk) | [No Future](https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g) | 3:12 |
+| 19 | [Saville](https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww) | [Vagabond](https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK) | [No Future](https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g) | 3:12 |
 | 20 | [Count On Me](https://open.spotify.com/track/4sFKSeU0gZQGF0vc0eKZLN) | [Gregg Lindor](https://open.spotify.com/artist/6objSyYBvfA8DCERGN7ukc) | [Sex, Drugs & A Breakfast Burrito](https://open.spotify.com/album/5xhpifoklmF0iZJqdNvvbF) | 3:42 |
 | 21 | [I Don't Believe in Anything](https://open.spotify.com/track/3a5ZYfcugq5ForOAOSplrb) | [Worthington's Law](https://open.spotify.com/artist/7mEM3d5nAPGHAIO16h96kx) | [When the Leaves Fall + I Don't Believe in Anything](https://open.spotify.com/album/6JVe5hfVRUPjwhPOsM8wma) | 2:39 |
 | 22 | [Dayglo](https://open.spotify.com/track/3QQFWRQrpvM4O1EioIQomK) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo](https://open.spotify.com/album/6FAdnYTdRTjBlFlLljiKb7) | 3:43 |
@@ -115,5 +115,11 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 105 | [Memory Lapse](https://open.spotify.com/track/3vNql4MJZIrxkRAoVI7fSz) | [Nick Wallisch](https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk), [Proteus](https://open.spotify.com/artist/2npdyO8ezTNfRw9vSi8f4K) | [The Lost Jams](https://open.spotify.com/album/6FoybyVEEiMq1kpsiGa5Ni) | 3:56 |
 | 106 | [Black Widow](https://open.spotify.com/track/5bRrgKXYXx0XL6wbNnbBiJ) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Haunted House](https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2) | 3:58 |
 | 107 | [constant headache](https://open.spotify.com/track/1vD1cFbR2aI1h5pEDSRREQ) | [SANCHEZ BY THE SEA\*](https://open.spotify.com/artist/5bSnJtfoIBMee5zGgUcMwO) | [Submerged](https://open.spotify.com/album/2ZA3eD7FmCox6gtHE7gFAo) | 3:00 |
+| 108 | [The Hook](https://open.spotify.com/track/1d56JDKGyZatnz6RRJjHcO) | [PRÝNCESS](https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt) | [The Hook](https://open.spotify.com/album/2OOTX25BaTsbeoSL5yvNWy) | 2:38 |
+| 109 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 |
+| 110 | [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 |
+| 111 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 |
+| 112 | [Time to Heal](https://open.spotify.com/track/6TNPl5MZg4c0lkuJbvn5Hc) | [Pin Dog](https://open.spotify.com/artist/57B5OFNTlSQZ4aofUvFRZR) | [Time to Heal](https://open.spotify.com/album/4f704M5LVep2ENY3BM7SKG) | 3:13 |
+| 113 | [I RAGAZZI DEL 2020](https://open.spotify.com/track/4KqNZui4229o3aQu6i175G) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [I RAGAZZI DEL 2020](https://open.spotify.com/album/1WIXpY3RQ4b8pHn40b1nP8) | 4:31 |
 
-Snapshot ID: `AAAECYq+ZWN3YhVTw04bDSDWVxkp34tx`
+Snapshot ID: `AAAED0DvhOTRsU1XmN6v83ORRRXUQClW`

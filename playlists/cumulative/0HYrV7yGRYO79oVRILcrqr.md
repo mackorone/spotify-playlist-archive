@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-198 songs - 12 hr 10 min
+199 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Nada Es Tan Importante](https://open.spotify.com/track/15CNEcr8bCzloi2OMfrkAa) | [KORSARIO](https://open.spotify.com/artist/2WNjYhitKntys9iLAlikUe) | [De Las Cenizas Del Pasado](https://open.spotify.com/album/0xIqpsa7US69KDtrajpVKe) | 4:36 | 2025-10-26 |  |
 | [National Tragedy](https://open.spotify.com/track/18oKkrtqJwTlRBmm982sNR) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [National Tragedy](https://open.spotify.com/album/0hsLjeJXsYPUxv4JsRmuNV) | 4:00 | 2025-11-30 |  |
 | [Nelson's Massive Lions](https://open.spotify.com/track/3aFRnt8iSEhkH5tv7eVamp) | [Marcus O'Neill](https://open.spotify.com/artist/0woLT8rQMi0nFQ4iQHiS8J) | [Bonus Extra Et Cetera](https://open.spotify.com/album/1e7udVqoW8SvqajknsrJ03) | 2:50 | 2025-10-18 | 2025-11-28 |
+| [Neon Death](https://open.spotify.com/track/5dNgOQlPImxEsVOFGYbcTf) | [La Taiga](https://open.spotify.com/artist/3y78WeFsEhP8lZRjdhmpPz) | [Neon Death](https://open.spotify.com/album/7bu95i9T6uzU0Aj9sZDEew) | 3:14 | 2025-12-03 |  |
 | [Ninja Rabbit Ate My Weed](https://open.spotify.com/track/54lJlTm5aYdnVY2vASLXEG) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:31 | 2025-11-30 |  |
 | [No me lo pidas esta noche](https://open.spotify.com/track/2otKc97JmHG7035LH4smqd) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 5:09 | 2025-11-11 |  |
 | [No More](https://open.spotify.com/track/3cZiSpCRzIxnA8OT3fobl0) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [No More](https://open.spotify.com/album/4QLG7zjn0zEGbONemBieLw) | 4:23 | 2025-09-21 |  |

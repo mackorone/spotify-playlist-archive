@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Seph Schlueter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,203 likes - 90 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,215 likes - 90 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 34 | [Shout To The Lord](https://open.spotify.com/track/6tMrS4MKYSV7koiPr4a4F9) | [House of Worship](https://open.spotify.com/artist/1Ej0ecY99HT6WiwAn6aB24), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Shout To The Lord](https://open.spotify.com/album/3mrYDbbw7fr7HzYEnJZgli) | 7:08 |
 | 35 | [WASHED](https://open.spotify.com/track/1w7teeq2bQ0N3JzIUUrvV0) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WASHED](https://open.spotify.com/album/0aAvDYoVGC7FjtZ16oiYqn) | 4:04 |
 | 36 | [Testimony](https://open.spotify.com/track/4I01JiotzjG0twezQt1xqX) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Testimony](https://open.spotify.com/album/1JgiUpuR8UgX1TzTCQ7J9h) | 4:02 |
-| 37 | [Fighting For Us \- Live](https://open.spotify.com/track/3KMhh5E2DQQA9YWs5i09rY) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Great I AM](https://open.spotify.com/album/6DM2U0RkoEsIB0ZqjfL4CC) | 6:14 |
+| 37 | [Fighting For Us](https://open.spotify.com/track/3KMhh5E2DQQA9YWs5i09rY) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Great I AM](https://open.spotify.com/album/6DM2U0RkoEsIB0ZqjfL4CC) | 6:14 |
 | 38 | [Rejoice Again](https://open.spotify.com/track/0Sny1iaMr1YbyqOk71Jwuz) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [Rejoice Again](https://open.spotify.com/album/4L744noT5yPUGGAqLrsjOB) | 4:35 |
 | 39 | [Worthy Of It All / I Exalt Thee \- Jeremy And Adrienne Camp Version](https://open.spotify.com/track/3F03CcIJ1pRXXEiub9h65d) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Adrienne Camp](https://open.spotify.com/artist/336Pq8Mzm8a8of9wkZWePp) | [Worthy Of It All / I Exalt Thee \(Jeremy And Adrienne Camp Version\)](https://open.spotify.com/album/3iGbU4fZHlxUNEXosoCO8g) | 5:01 |
 | 40 | [Yahweh](https://open.spotify.com/track/7jXpCa8bZphQ5D9Q4JCBuF) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2), [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Yahweh](https://open.spotify.com/album/5nwgy3NavasYzcUxrjkf4V) | 2:19 |

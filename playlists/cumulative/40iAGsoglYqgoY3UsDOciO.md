@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-441 songs - 21 hr 19 min
+443 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Back to It](https://open.spotify.com/track/3J4liUgPvHfrT7lxFdKIXV) | [Trippy Ja](https://open.spotify.com/artist/6Yuam5XUh4MNMrmykzYjmP), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Werdplay](https://open.spotify.com/artist/7rtwC0CnSiquLlICYKO3lE) | [Back to It](https://open.spotify.com/album/6vuUNKeJFUdjSwkYYJZLCZ) | 2:56 | 2024-06-27 |  |
 | [Back To Life](https://open.spotify.com/track/0GABFy0Kss7Ajk9VSvoqdC) | [One Aphelion](https://open.spotify.com/artist/7belGTuWSvvmxxQF6et8xO) | [Back To Life](https://open.spotify.com/album/3bKRS6633kPaCFufZZeNly) | 3:23 | 2024-08-26 |  |
 | [BAGS](https://open.spotify.com/track/5lPs4J1Sxos7xk9rTMF2Z4) | [Muna](https://open.spotify.com/artist/0Iv6KWyZ6NdOLO5j9TCnrh) | [BAGS / INVOLVED](https://open.spotify.com/album/4gtI29cKzs2xSUXCMk67uE) | 2:31 | 2025-10-08 |  |
+| [Bam Bam](https://open.spotify.com/track/3tVJg0d42IEEfGLT6Sre7k) | [Sweet Strings](https://open.spotify.com/artist/7EjtlZUiHcqkeGSrolQABK) | [Bam Bam](https://open.spotify.com/album/7eP4kNqiMv83qNMEo1iJGq) | 3:45 | 2025-12-03 |  |
 | [Bandana](https://open.spotify.com/track/62MIk0NHmW4txQL03vQIT8) | [BongoBandana](https://open.spotify.com/artist/4KsIwqXDv48tmyrRLenFDO) | [Bandana](https://open.spotify.com/album/3gC81BrScXPBiSe4DbK6CE) | 1:18 | 2024-07-20 |  |
 | [Barter 10](https://open.spotify.com/track/7cvSRpTWuFmpEmMF8EqvBX) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Rock Hearts 3](https://open.spotify.com/album/5uMzbtaWoXgCBb1HZAj0bB) | 3:04 | 2024-09-19 |  |
 | [batshit](https://open.spotify.com/track/2AsFeN05P4UAOhRH5MA9bs) | [Chesle](https://open.spotify.com/artist/1OEchET7khtY1YZZ7UFJO2) | [batshit](https://open.spotify.com/album/7lVakZq3UPhycvTnSngCGW) | 2:50 | 2023-07-26 |  |
@@ -129,6 +130,7 @@
 | [Europe Flow \- Official Instrumental](https://open.spotify.com/track/5Vi08iTCKRu2sLfb8ry6An) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [ProdByWhites](https://open.spotify.com/artist/6flN5ZCSG9JeQeX9msFVV7), [Official GooNie](https://open.spotify.com/artist/3IjaIwNFWwhoBRlzItmi5Y) | [Europe Flow \(Official Instrumental\)](https://open.spotify.com/album/6UEN1H1Chkv6B288Wnxfq3) | 2:57 | 2024-11-17 |  |
 | [Europe Flow \- Slowed + Reverb](https://open.spotify.com/track/63wFKYVCOpyC9bkKmMAv2X) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [Official GooNie](https://open.spotify.com/artist/3IjaIwNFWwhoBRlzItmi5Y), [ProdByWhites](https://open.spotify.com/artist/6flN5ZCSG9JeQeX9msFVV7) | [Europe Flow \(Slowed + Reverb\)](https://open.spotify.com/album/15YDlcT9Umlvkwwl334Bp5) | 2:10 | 2024-11-17 |  |
 | [Everlasting Love](https://open.spotify.com/track/6SnQcKix4AECGF72FVRvwW) | [IJtheGreatest](https://open.spotify.com/artist/3IjfGkfsLoZ7PKuJkBuNau) | [Everlasting Love](https://open.spotify.com/album/1aFbO1OSRs4noL5RMJ2M38) | 2:40 | 2025-11-06 |  |
+| [Everything](https://open.spotify.com/track/5CGpPbUiTBtjVm5dCRvZbH) | [Blakestyle](https://open.spotify.com/artist/0YxbMKrZgTOUWYeOdBgdoy) | [Everything](https://open.spotify.com/album/17Nicg9iwMRlxA3Ovl1bAS) | 2:42 | 2025-12-03 |  |
 | [EVIL EYE \- Remix](https://open.spotify.com/track/4GpfjCsgJTZg3mWMJi5xoQ) | [Moment Shades](https://open.spotify.com/artist/3GFrNdPsxjDxIwAtOaxJlq), [Lemaf](https://open.spotify.com/artist/6PW01jkmplj9yh0ICVqtIL), [Teeprisy](https://open.spotify.com/artist/3LHzeJeBqDW3GxivGAGyQt) | [THE TRIUMPH PACK](https://open.spotify.com/album/3j8jhC1M6Ymjt8SFkfdW3q) | 3:11 | 2024-07-11 |  |
 | [EYE](https://open.spotify.com/track/4jbNm7D0YvHMS1MZ6hJaOf) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:40 | 2023-07-26 |  |
 | [Eyes On You \- Slowed + Reverb](https://open.spotify.com/track/0YnFqLaMgeL1djRjXBI7Dx) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Freezjoe](https://open.spotify.com/artist/5QnuGjL0Cbrqlf1zk09jrM), [shxrx](https://open.spotify.com/artist/1XaSRnxmV07bLRvTMF5hZ2) | [Eyes On You \(Slowed + Reverb\)](https://open.spotify.com/album/0pFsdfI0DYp3vp3gxLnYQd) | 3:36 | 2024-11-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2085245,
+  "num_followers": 2085472,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAAAujpbCKHK0sW1SkqkSNV7b",
+  "snapshot_id": "aS4sAAAAAABxw+kcX9ads+g99wf0Ejzt",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Deluxe / Remastered)",
-        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396986,
-      "name": "Ride The Lightning - Remastered",
-      "url": "https://open.spotify.com/track/2O7UGwJPVlix15Wn4sa5vw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Disappear",
         "url": "https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 266240,
       "name": "I Disappear",
       "url": "https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride The Lightning (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396986,
+      "name": "Ride The Lightning - Remastered",
+      "url": "https://open.spotify.com/track/2O7UGwJPVlix15Wn4sa5vw"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master Of Puppets (Deluxe Box Set / Remastered)",
-        "url": "https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 387146,
-      "name": "Welcome Home (Sanitarium) - Remastered",
-      "url": "https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metallica (Remastered 2021)",
         "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 227573,
       "name": "Holier Than Thou - Remastered 2021",
       "url": "https://open.spotify.com/track/6c5Ft6sEfLjVxL2wkgxBtv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Master Of Puppets (Deluxe Box Set / Remastered)",
+        "url": "https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 387146,
+      "name": "Welcome Home (Sanitarium) - Remastered",
+      "url": "https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Load (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 328132,
-      "name": "King Nothing - Remastered",
-      "url": "https://open.spotify.com/track/0Qc9Bd7qzA8Vx3aSIf1t8B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metallica (Remastered 2021)",
         "url": "https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 256573,
       "name": "Of Wolf and Man - Remastered 2021",
       "url": "https://open.spotify.com/track/3bxHy4sUXEWjI9kXG1DH5K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Load (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 328132,
+      "name": "King Nothing - Remastered",
+      "url": "https://open.spotify.com/track/0Qc9Bd7qzA8Vx3aSIf1t8B"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Load (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 319600,
-      "name": "Mama Said - Remastered",
-      "url": "https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u2026And Justice for All (Remastered)",
         "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 585506,
       "name": "...And Justice for All",
       "url": "https://open.spotify.com/track/4a47TNOfJ9vbpbmU31wpgT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Load (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 319600,
+      "name": "Mama Said - Remastered",
+      "url": "https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc"
     },
     {
       "added_at": null,

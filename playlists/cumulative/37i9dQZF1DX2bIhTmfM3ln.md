@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-883 songs - 1 day 18 hr 45 min
+884 songs - 1 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-02-24 | 2023-02-14 |
 | [Foreigner \- Remix](https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Foreigner \(Remix\)](https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR) | 3:53 | 2023-11-24 | 2024-02-03 |
 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 | 2025-06-13 | 2025-08-26 |
-| [Forever](https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Forever](https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS) | 2:39 | 2024-11-22 |  |
+| [Forever](https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Forever](https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS) | 2:39 | 2024-11-22 | 2025-12-04 |
 | [Forever](https://open.spotify.com/track/17NVTfQBL35FZMAN5nd1pD) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg) | 3:04 | 2022-07-21 | 2022-08-30 |
 | [Forever \(Remix\)](https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Forever \(Remix\)](https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H) | 3:21 | 2022-02-11 | 2024-02-09 |
 | [Forever Sweet](https://open.spotify.com/track/4lXRwrXdvUa6CWIpId9Vaq) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Madam Dearest Pt\. 1](https://open.spotify.com/album/7K8oP8pRg0FdTRfUkN0e8q) | 3:03 | 2024-06-14 | 2024-07-27 |
@@ -311,6 +311,7 @@
 | [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 | 2023-08-03 | 2023-09-15 |
 | [Gangsta Love Letter](https://open.spotify.com/track/2Q41UXE6Q7hyR4asg7rYwh) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:52 | 2024-07-26 | 2025-03-08 |
 | [Gara \(feat\. Ayra Starr\)](https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Water & Garri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21y5KxfsNHRVikyNTWLaHy) | 2:31 | 2024-05-10 | 2024-06-01 |
+| [Gaslighting](https://open.spotify.com/track/4NRPSJfx4FzTrPdP0R47Jx) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Gaslighting](https://open.spotify.com/album/2rbWB52UsvVY0TGCSsNisf) | 2:51 | 2025-11-28 |  |
 | [Gbe Kini Yen](https://open.spotify.com/track/2cLWFShEirkPTtqZz81c7F) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Gbe Kini Yen](https://open.spotify.com/album/4j7k4TxIAUWI427PbzQGWP) | 3:18 | 2025-10-17 |  |
 | [Gbera](https://open.spotify.com/track/38jJ418fF4oKxZ4vTvZdvU) | [Pryme](https://open.spotify.com/artist/2BfAlovyHR2zzxNVhFo1VK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Gbera](https://open.spotify.com/album/1hdcBkpvXUrsHaFFnbjEXh) | 2:46 | 2024-05-03 | 2024-05-17 |
 | [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 | 2023-02-23 | 2024-03-01 |

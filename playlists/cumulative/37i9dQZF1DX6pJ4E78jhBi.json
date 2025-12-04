@@ -500,10 +500,6 @@
         {
           "name": "Traditional",
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Pl\u00ednio Fernandes",
-          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
         }
       ],
       "date_added": "2023-10-20",
@@ -1445,6 +1441,28 @@
     },
     {
       "album": {
+        "name": "O Christmas Tree (Arr. For Cello by St\u00e9phane Gassot)",
+        "url": "https://open.spotify.com/album/17w9VibuolcN7qojhrg7F4"
+      },
+      "artists": [
+        {
+          "name": "Ernst Ansch\u00fctz",
+          "url": "https://open.spotify.com/artist/2BjFbg9VxtzEUZuCQwmaxo"
+        },
+        {
+          "name": "Christian-Pierre La Marca",
+          "url": "https://open.spotify.com/artist/5nRDtK82lHmYRXnKjAzI9j"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167326,
+      "name": "O Christmas Tree - Arr. for Cello by St\u00e9phane Gassot",
+      "url": "https://open.spotify.com/track/11teeBiNNEQn9YTEYX4LIR"
+    },
+    {
+      "album": {
         "name": "Gabriel",
         "url": "https://open.spotify.com/album/1V2aUpfOxwPzbYjvn3zh0F"
       },
@@ -1616,10 +1634,6 @@
         {
           "name": "Traditional",
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Magdalena Hoffmann",
-          "url": "https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT"
         }
       ],
       "date_added": "2021-12-16",

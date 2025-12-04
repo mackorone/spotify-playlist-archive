@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 430 likes - 96 songs - 5 hr 21 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 431 likes - 98 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 94 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 |
 | 95 | [Gregorian Time](https://open.spotify.com/track/2GLBxwXrIY5P2kHzZDAtek) | [Lily Quinn](https://open.spotify.com/artist/2vDtkusMUDE17BfHasvShX) | [Seraphic Whisper](https://open.spotify.com/album/3uzuuzA6r2Po42yaiqOS0F) | 4:08 |
 | 96 | [In My Lowrider](https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6) | [Willie of Wilshire](https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS) | [A Day in LA](https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1) | 2:52 |
+| 97 | [Jiggy Jiggy](https://open.spotify.com/track/2aFDHNti4Cu6r7TRF1ewpm) | [JAO](https://open.spotify.com/artist/21f6qfptoiJRqqRbRgepjb), [Smasher GMC](https://open.spotify.com/artist/2J1zUfRo32V3n1Bj9WqnFm) | [Jiggy Jiggy](https://open.spotify.com/album/7IlPPAik9r0YzmfqUNvQHz) | 2:30 |
+| 98 | [Where Love Became a Ghost](https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Where Love Became a Ghost](https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP) | 4:31 |
 
-Snapshot ID: `AAACa8dMjCqUMOAdWTAGSJm3EPTr+u6j`
+Snapshot ID: `AAACbZeHzEUHjhXia5Bj40vFRi1MFmvF`

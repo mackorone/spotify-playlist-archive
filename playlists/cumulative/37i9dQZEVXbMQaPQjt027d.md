@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Netherlands.
 
-586 songs - 1 day 6 hr 16 min
+588 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,8 @@
 | [Planet Caravan \- 2012 \- Remaster](https://open.spotify.com/track/2VDg6h3Qr3F8UuFVInQxE6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 4:29 | 2025-07-29 | 2025-07-31 |
 | [Poko Poko](https://open.spotify.com/track/0sMKO5kThQuiXBnBS9SauK) | [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Rich Kalashh](https://open.spotify.com/artist/6Lison90Nuv6paiGTrTqRl), [Dongo](https://open.spotify.com/artist/4H7wgwp6mSTcg5Op2R8XW2) | [Poko Poko](https://open.spotify.com/album/6gyyAJuEBycmqmMSuGdt8A) | 2:31 | 2025-11-04 | 2025-11-14 |
 | [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 | 2025-07-19 | 2025-07-30 |
-| [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 | 2025-11-25 |  |
+| [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 | 2025-11-25 | 2025-12-04 |
+| [Positive](https://open.spotify.com/track/1oOg0jvlrnZSAy3dhK8fmB) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/1j7rAs6qJ3miwo3SspKmyu) | 2:49 | 2025-12-03 |  |
 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 | 2025-07-19 | 2025-08-20 |
 | [Predador de Perereca](https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v) | [BLOW RECORDS](https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [Predador de Perereca](https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM) | 3:06 | 2025-09-05 | 2025-11-02 |
 | [princess treatment](https://open.spotify.com/track/0HZSmDZqMkbllGsyEyPQ08) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [deims deims deims](https://open.spotify.com/album/3KMu63c6EQF0bS6ugJZuZA) | 3:55 | 2025-11-12 | 2025-11-23 |
@@ -443,7 +444,7 @@
 | [Soldaat \(feat\. Tabitha\)](https://open.spotify.com/track/4FGueWKt0aLl5G2GjjifIO) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Soldaat \(feat\. Tabitha\)](https://open.spotify.com/album/1sfKGdwQ4ZVTwzEOtFw9iM) | 2:45 | 2025-08-05 | 2025-08-07 |
 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-10-07 | 2025-10-15 |
 | [Sonic Samba](https://open.spotify.com/track/66mixWSyrrxdILkvey6ZHr) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Piano](https://open.spotify.com/album/0cvt9oZv91NHEbVwGxfWax) | 2:56 | 2025-11-23 | 2025-11-26 |
-| [SORRY](https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [SORRY](https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn) | 3:11 | 2025-12-02 |  |
+| [SORRY](https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [SORRY](https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn) | 3:11 | 2025-12-02 | 2025-12-04 |
 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 | 2025-09-30 | 2025-10-02 |
 | [Soura](https://open.spotify.com/track/3MAh3u05SSjAcIJGMGjRXV) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5) | [Soura](https://open.spotify.com/album/0Iv2twskYwL0XRhDzKDjCD) | 3:08 | 2025-08-12 | 2025-08-27 |
 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 | 2025-11-12 | 2025-11-15 |
@@ -593,6 +594,7 @@
 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 | 2025-11-11 | 2025-11-19 |
 | [Zoenen In De Kroeg](https://open.spotify.com/track/5F8xhAikAFJLEVISJLO1uK) | [Jordy van den Boer](https://open.spotify.com/artist/0AVX28TBnKRG58xh0Y2vew) | [Zoenen In De Kroeg](https://open.spotify.com/album/1M79GCMP4KMNRK0tg1WI5A) | 2:46 | 2025-08-22 | 2025-08-24 |
 | [Zonder Handen Rijden](https://open.spotify.com/track/4MGaN2oL0pbwdRTZM9vOSk) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Jacqueline Govaert\)](https://open.spotify.com/album/5CcZuAwDutprNV8t18k5vG) | 3:17 | 2025-09-30 | 2025-10-04 |
+| [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 | 2025-12-03 |  |
 | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 2:53 | 2025-07-19 | 2025-08-27 |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Ivan & The Parazol",
-  "num_followers": 15733,
+  "num_followers": 15729,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
+        "name": "\u00c9rkez\u0151s Indul\u00f3",
+        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
+      },
+      "artists": [
+        {
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+        }
+      ],
+      "duration_ms": 247246,
+      "name": "\u00c9rkez\u0151s Indul\u00f3",
+      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
+    },
+    {
+      "added_at": "2025-11-27 23:00:14",
+      "album": {
         "name": "\u00c9LEK \u00c9S VIRULOK",
         "url": "https://open.spotify.com/album/0PuEl5Tdjlt0bF4vFdzUaT"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 176500,
       "name": "\u00c9LEK \u00c9S VIRULOK",
       "url": "https://open.spotify.com/track/7EknOyrrRIVBQNWrwOkuSl"
-    },
-    {
-      "added_at": "2025-11-27 23:00:14",
-      "album": {
-        "name": "\u00c9rkez\u0151s Indul\u00f3",
-        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
-      },
-      "artists": [
-        {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
-        }
-      ],
-      "duration_ms": 247246,
-      "name": "\u00c9rkez\u0151s Indul\u00f3",
-      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
     },
     {
       "added_at": "2025-11-27 23:00:14",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
-        "name": "Kikopog\u00f3",
-        "url": "https://open.spotify.com/album/2HyjyVu57edO84FnE4ft5R"
-      },
-      "artists": [
-        {
-          "name": "zoltai",
-          "url": "https://open.spotify.com/artist/0uxdFEN5kgJvlafRTu7LSo"
-        },
-        {
-          "name": "Indigo",
-          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
-        }
-      ],
-      "duration_ms": 154488,
-      "name": "Kikopog\u00f3",
-      "url": "https://open.spotify.com/track/2RsQLGX0qF0YTtWq5JNWuw"
-    },
-    {
-      "added_at": "2025-11-27 23:00:14",
-      "album": {
         "name": "Holnapt\u00f3l",
         "url": "https://open.spotify.com/album/3SsL4cNOFjtFq0UZ9kalkE"
       },
@@ -983,22 +963,22 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
-        "name": "Goly\u00f3\u00e1ll\u00f3",
-        "url": "https://open.spotify.com/album/3fnEMhFvAE1jWzJZyGhkm9"
+        "name": "Kikopog\u00f3",
+        "url": "https://open.spotify.com/album/2HyjyVu57edO84FnE4ft5R"
       },
       "artists": [
         {
-          "name": "Szlimmy",
-          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
+          "name": "zoltai",
+          "url": "https://open.spotify.com/artist/0uxdFEN5kgJvlafRTu7LSo"
         },
         {
-          "name": "DO\u00d3R",
-          "url": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
         }
       ],
-      "duration_ms": 185124,
-      "name": "Goly\u00f3\u00e1ll\u00f3",
-      "url": "https://open.spotify.com/track/7vF69V0FuxVa0TLslxdc8i"
+      "duration_ms": 154488,
+      "name": "Kikopog\u00f3",
+      "url": "https://open.spotify.com/track/2RsQLGX0qF0YTtWq5JNWuw"
     },
     {
       "added_at": "2025-11-27 23:00:14",
@@ -1015,6 +995,26 @@
       "duration_ms": 251423,
       "name": "Csillagb\u00f3l f\u00e9ny",
       "url": "https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ"
+    },
+    {
+      "added_at": "2025-11-27 23:00:14",
+      "album": {
+        "name": "Goly\u00f3\u00e1ll\u00f3",
+        "url": "https://open.spotify.com/album/3fnEMhFvAE1jWzJZyGhkm9"
+      },
+      "artists": [
+        {
+          "name": "Szlimmy",
+          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
+        },
+        {
+          "name": "DO\u00d3R",
+          "url": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
+        }
+      ],
+      "duration_ms": 185124,
+      "name": "Goly\u00f3\u00e1ll\u00f3",
+      "url": "https://open.spotify.com/track/7vF69V0FuxVa0TLslxdc8i"
     },
     {
       "added_at": "2025-11-27 23:00:14",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
-        "name": "Ahogy szeretn\u00e9m",
-        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
-      },
-      "artists": [
-        {
-          "name": "KACAJ",
-          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
-        }
-      ],
-      "duration_ms": 214857,
-      "name": "Ahogy szeretn\u00e9m",
-      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
-    },
-    {
-      "added_at": "2025-11-27 23:00:14",
-      "album": {
         "name": "B\u00e1ty\u00e1m, Dod\u00f3 - A Film",
         "url": "https://open.spotify.com/album/4FBHvAtwqpEwojA6dDlvg5"
       },
@@ -1091,18 +1075,22 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
-        "name": "csendh\u00e1bor\u00edt\u00e1s?!",
-        "url": "https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl"
+        "name": "disco maffia",
+        "url": "https://open.spotify.com/album/6ZVls0oLr3Quxr0PtysJUJ"
       },
       "artists": [
         {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+        },
+        {
+          "name": "V\u00e1rkonyi Csib\u00e9szek",
+          "url": "https://open.spotify.com/artist/1RoqJqUGdtcjnKyGARoWF3"
         }
       ],
-      "duration_ms": 179636,
-      "name": "k\u00f6z\u00f6ny",
-      "url": "https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq"
+      "duration_ms": 245531,
+      "name": "disco maffia",
+      "url": "https://open.spotify.com/track/6c7Kt8odjYaFktvT1DeCPR"
     },
     {
       "added_at": "2025-11-27 23:00:14",
@@ -1127,22 +1115,34 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
-        "name": "disco maffia",
-        "url": "https://open.spotify.com/album/6ZVls0oLr3Quxr0PtysJUJ"
+        "name": "csendh\u00e1bor\u00edt\u00e1s?!",
+        "url": "https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl"
       },
       "artists": [
         {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
-        },
-        {
-          "name": "V\u00e1rkonyi Csib\u00e9szek",
-          "url": "https://open.spotify.com/artist/1RoqJqUGdtcjnKyGARoWF3"
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
         }
       ],
-      "duration_ms": 245531,
-      "name": "disco maffia",
-      "url": "https://open.spotify.com/track/6c7Kt8odjYaFktvT1DeCPR"
+      "duration_ms": 179636,
+      "name": "k\u00f6z\u00f6ny",
+      "url": "https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq"
+    },
+    {
+      "added_at": "2025-11-27 23:00:14",
+      "album": {
+        "name": "Ahogy szeretn\u00e9m",
+        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
+      },
+      "artists": [
+        {
+          "name": "KACAJ",
+          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
+        }
+      ],
+      "duration_ms": 214857,
+      "name": "Ahogy szeretn\u00e9m",
+      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
     },
     {
       "added_at": "2025-11-27 23:00:14",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
-      },
-      "artists": [
-        {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "kavicsok k\u00f6vek",
-      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
-    },
-    {
-      "added_at": "2025-11-27 23:00:14",
-      "album": {
         "name": "Elment\u00e9l",
         "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 284368,
       "name": "Elment\u00e9l",
       "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
+    },
+    {
+      "added_at": "2025-11-27 23:00:14",
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "kavicsok k\u00f6vek",
+      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
     },
     {
       "added_at": "2025-11-27 23:00:14",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6VLzax10G5jBa7iYSl5YWX"
-      },
-      "artists": [
-        {
-          "name": "Julia Mandoki",
-          "url": "https://open.spotify.com/artist/6AlnyvngKEFg1hVQ6Pl8vR"
-        }
-      ],
-      "duration_ms": 202048,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/15ZiSkyhC82n60jbMKvvOS"
-    },
-    {
-      "added_at": "2025-11-27 23:00:14",
-      "album": {
         "name": "M\u00e9g Egyszer",
         "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 198352,
       "name": "M\u00e9g Egyszer",
       "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
+    },
+    {
+      "added_at": "2025-11-27 23:00:14",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6VLzax10G5jBa7iYSl5YWX"
+      },
+      "artists": [
+        {
+          "name": "Julia Mandoki",
+          "url": "https://open.spotify.com/artist/6AlnyvngKEFg1hVQ6Pl8vR"
+        }
+      ],
+      "duration_ms": 202048,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/15ZiSkyhC82n60jbMKvvOS"
     },
     {
       "added_at": "2025-11-27 23:00:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Your music taste matches the character on the playlist cover\. Hear the unforgettable songs that defined Stranger Things as the series enters its last chapter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,475,182 likes - 209 songs - 12 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,493,898 likes - 209 songs - 12 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

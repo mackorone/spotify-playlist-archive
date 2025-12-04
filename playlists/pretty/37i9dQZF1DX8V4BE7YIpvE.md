@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,247 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,323 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 | 99 | [In the Dark](https://open.spotify.com/track/2NpTkuYal66mwh3s36tHVE) | [Purple Dive](https://open.spotify.com/artist/1e8fzmX4tpKKjWoPk7tW7n) | [In the Dark](https://open.spotify.com/album/6i7CeVJanxewX9rODf7pJT) | 3:52 |
 | 100 | [Great Ones](https://open.spotify.com/track/2tM0gJa9jRSxT06SD24irK) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Great Ones](https://open.spotify.com/album/5WFzdrj46i4uC5jXL3LIN9) | 2:46 |
 
-Snapshot ID: `AAAAAC+LtvXk5z2iiMT8t7gI+BOwJDk+`
+Snapshot ID: `AAAAAPfSUIvD9T82Wc0hZ8o3x2TG3hp8`

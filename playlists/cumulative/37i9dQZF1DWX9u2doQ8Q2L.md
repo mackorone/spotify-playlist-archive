@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,702 songs - 4 day 6 hr 47 min
+1,702 songs - 4 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,6 +753,7 @@
 | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf) | 3:57 | 2023-04-25 | 2023-09-06 |
 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-05-25 | 2023-08-16 |
 | [Namida no kuni](https://open.spotify.com/track/4CEiimOyFU2W6oo0m1R7ge) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [Namida no kuni](https://open.spotify.com/album/2Wv8DIQeQQy8ri7NosTaRN) | 3:54 | 2024-01-30 | 2024-02-07 |
+| [Namima \(feat\. Iwasaki Momoko\)](https://open.spotify.com/track/4Dcueowk30gOeL8lGv54ks) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Iwasaki Momoko](https://open.spotify.com/artist/2Ox5tp4o6x2jaX2FsFHmT1) | [Gnarly](https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn) | 3:43 | 2025-12-03 |  |
 | [Natural Sense](https://open.spotify.com/track/0vMiyLLjZvXFYlCaREHPKD) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Natural Sense](https://open.spotify.com/album/25lgonaEBfB4QRKzwH80bF) | 2:46 | 2024-01-30 | 2024-02-07 |
 | [Nectar\. \- uin Remix](https://open.spotify.com/track/0lOKFVFJDrueXNPWcXAXI5) | [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar\. \(uin Remix\)](https://open.spotify.com/album/1HEmSU08rWCzt867p5uOYo) | 3:06 | 2022-06-21 | 2022-07-20 |
 | [NEHAN](https://open.spotify.com/track/11c1SrN1UdW3BCNrrZddTb) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [NEHAN](https://open.spotify.com/album/1BLvDXPyzT4TqUekITovR8) | 5:29 | 2024-04-16 | 2024-05-15 |
@@ -912,7 +913,7 @@
 | [RECIPE feat\. IRONBOY](https://open.spotify.com/track/4YclzoUsvIQOWidEpIuqBo) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne) | [RECIPE feat\. IRONBOY](https://open.spotify.com/album/4YNUmGFqLRX4INc2hRSgCq) | 2:58 | 2022-07-26 | 2022-08-03 |
 | [RED OUT](https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [RED OUT](https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY) | 2:31 | 2024-08-14 | 2025-09-25 |
 | [REFERENCE \- Original Mix](https://open.spotify.com/track/67MF4RXq1oFbZMCVm65Xf3) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [KRICK](https://open.spotify.com/artist/4vD5wi2rLVnQoXKspx48x2) | [REFERENCES \- EP](https://open.spotify.com/album/5ISqyDSGXcR83zToqysegL) | 4:34 | 2023-02-28 | 2023-03-30 |
-| [Reflections](https://open.spotify.com/track/2GRqMC1f5bHLKmsVDtXL2D) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [](https://open.spotify.com/album/null) | 3:43 | 2025-12-03 |  |
+| [Reflections](https://open.spotify.com/track/2GRqMC1f5bHLKmsVDtXL2D) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Voyager 2](https://open.spotify.com/album/4wZutJAT3wdCB6UyejvJay) | 3:43 | 2025-12-03 |  |
 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-09-12 | 2024-01-11 |
 | [Remember The Audio](https://open.spotify.com/track/1ZHzFlhBTgO98VZv2iLcDx) | [Monkey House](https://open.spotify.com/artist/0yC3u4FxOb5RZ5J8ozi4EH) | [Remember The Audio](https://open.spotify.com/album/7HBOCq3p8ARpj8cwbttUSw) | 4:24 | 2022-07-12 | 2022-07-29 |
 | [Remember The Audio](https://open.spotify.com/track/2ihox3joVa0GRED2GnsOu3) | [Monkey House](https://open.spotify.com/artist/0yC3u4FxOb5RZ5J8ozi4EH) | [Remember The Audio](https://open.spotify.com/album/5Bwtxknsg3peIMPEb5G7CZ) | 4:24 | 2022-07-28 | 2022-08-03 |
@@ -1186,7 +1187,6 @@
 | [Toryanse](https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57) | 2:36 | 2024-01-25 | 2024-01-27 |
 | [Touch](https://open.spotify.com/track/3ryDbC3kOcEsuSG4uRqhSJ) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [Touch](https://open.spotify.com/album/6pQ7DktgOWUl0U4xHZ9PEj) | 3:31 | 2025-06-18 | 2025-06-26 |
 | [Toxins](https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR) | [Toxins](https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR) | 3:00 | 2022-10-04 | 2022-11-25 |
-| [Track 10](https://open.spotify.com/track/4Dcueowk30gOeL8lGv54ks) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-03 |  |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 | 2024-01-31 |
 | [Train II](https://open.spotify.com/track/4q62OUvG21gzGEPHZSNH3P) | [Clute](https://open.spotify.com/artist/1Astf0A3Ru04VkY1J4KVbf) | [Loomie](https://open.spotify.com/album/1xWjFHmBvwgXKjy16jLDYf) | 4:52 | 2023-10-31 | 2023-11-08 |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2024-02-07 |

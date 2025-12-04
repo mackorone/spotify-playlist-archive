@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Flavour, Young Jonn, Zaylevelten, FAVE, Kashcoming and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,939 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,974 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 22 | [Through It All](https://open.spotify.com/track/7HJ8vm2bMY49p8B9fOJbPU) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Through It All](https://open.spotify.com/album/05sDA2q36D4gvHLC2B23X6) | 8:23 |
 | 23 | [No Maquines Tanto](https://open.spotify.com/track/3O70qh6WJXPuGl2TuJZs87) | [Hector Nazza](https://open.spotify.com/artist/1WGxt0iUo8qfQlzwIAlxQB), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Flow 2050](https://open.spotify.com/album/15MVDhJWsEJInysiWBEcKe) | 3:26 |
 | 24 | [Awon Bandit Tide](https://open.spotify.com/track/3TnUm6XAqVedRFCqH2PtVg) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Awon Bandit Tide](https://open.spotify.com/album/3KHwzmN0n86VnRe854yp7q) | 3:02 |
-| 25 | [Gaslighting \(feat\. Lyta\)](https://open.spotify.com/track/4NRPSJfx4FzTrPdP0R47Jx) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Gaslighting \(feat\. Lyta\)](https://open.spotify.com/album/2rbWB52UsvVY0TGCSsNisf) | 2:51 |
+| 25 | [Gaslighting](https://open.spotify.com/track/4NRPSJfx4FzTrPdP0R47Jx) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Gaslighting](https://open.spotify.com/album/2rbWB52UsvVY0TGCSsNisf) | 2:51 |
 | 26 | [TOSPI](https://open.spotify.com/track/7IzqUWHhbuyoSSL7UZ8Sb0) | [AJEMO](https://open.spotify.com/artist/0nVVfXNmL4jFoPkEIP53IO), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [TOSPI](https://open.spotify.com/album/4Ous4KXdXkn5hF6wlwiuzS) | 3:06 |
 | 27 | [Sorry I'm Busy](https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Sorry I'm Busy](https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w) | 2:22 |
 | 28 | [IYO](https://open.spotify.com/track/6YbCZaPifRFaTKADtUQLEi) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd), [KOKO SZN](https://open.spotify.com/artist/53XjvW1apJc8O4L28yrnTz) | [IYO](https://open.spotify.com/album/28ueACZjPgOeaOMt3LGmXM) | 2:20 |

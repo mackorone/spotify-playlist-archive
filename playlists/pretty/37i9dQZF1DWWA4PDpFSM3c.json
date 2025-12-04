@@ -1,6 +1,6 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 95914,
+  "num_followers": 95983,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,10 @@
         "url": "https://open.spotify.com/album/4cAqcskezsUVZjD01vl4Po"
       },
       "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
         {
           "name": "Sid Sriram",
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
@@ -425,6 +429,22 @@
       "url": "https://open.spotify.com/track/6r6LuaWod5nW43TQny7ndd"
     },
     {
+      "added_at": "2023-03-09 10:18:22",
+      "album": {
+        "name": "Andala Rakshasi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2pAVF1q5XzPoDy2yINgOjg"
+      },
+      "artists": [
+        {
+          "name": "Rakendu Mouli",
+          "url": "https://open.spotify.com/artist/10BBtazfegYIDgF3gxzImU"
+        }
+      ],
+      "duration_ms": 228101,
+      "name": "Manasu Palike",
+      "url": "https://open.spotify.com/track/4Yqrf3I0S7SOBhWOGVU7fU"
+    },
+    {
       "added_at": "2021-05-18 09:57:44",
       "album": {
         "name": "Mirchi",
@@ -443,22 +463,6 @@
       "duration_ms": 266760,
       "name": "Idhedho Bagundhe",
       "url": "https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG"
-    },
-    {
-      "added_at": "2023-03-09 10:18:22",
-      "album": {
-        "name": "Andala Rakshasi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2pAVF1q5XzPoDy2yINgOjg"
-      },
-      "artists": [
-        {
-          "name": "Rakendu Mouli",
-          "url": "https://open.spotify.com/artist/10BBtazfegYIDgF3gxzImU"
-        }
-      ],
-      "duration_ms": 228101,
-      "name": "Manasu Palike",
-      "url": "https://open.spotify.com/track/4Yqrf3I0S7SOBhWOGVU7fU"
     },
     {
       "added_at": "2021-05-18 09:57:44",
@@ -497,26 +501,6 @@
       "url": "https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa"
     },
     {
-      "added_at": "2021-05-18 09:57:44",
-      "album": {
-        "name": "Rangam",
-        "url": "https://open.spotify.com/album/3rpmVMH5kV6jYkzSmlpn5u"
-      },
-      "artists": [
-        {
-          "name": "Aalaap Raju",
-          "url": "https://open.spotify.com/artist/6qcMtXmofIpnR9TBhgamMR"
-        },
-        {
-          "name": "Prasanthini",
-          "url": "https://open.spotify.com/artist/1EAoBVsvTYarQhO6i9zAG9"
-        }
-      ],
-      "duration_ms": 330505,
-      "name": "Endhuko Emo",
-      "url": "https://open.spotify.com/track/6Yqw4HtJuFXleJtgzYXWzT"
-    },
-    {
       "added_at": "2024-11-19 12:29:42",
       "album": {
         "name": "Pranam Kanna (Female Version) [From \"Love Reddy\"]",
@@ -535,6 +519,26 @@
       "duration_ms": 166115,
       "name": "Pranam Kanna (Female Version) [From \"Love Reddy\"]",
       "url": "https://open.spotify.com/track/5z9S8CqOtorQRdqygHemDn"
+    },
+    {
+      "added_at": "2021-05-18 09:57:44",
+      "album": {
+        "name": "Rangam",
+        "url": "https://open.spotify.com/album/3rpmVMH5kV6jYkzSmlpn5u"
+      },
+      "artists": [
+        {
+          "name": "Aalaap Raju",
+          "url": "https://open.spotify.com/artist/6qcMtXmofIpnR9TBhgamMR"
+        },
+        {
+          "name": "Prasanthini",
+          "url": "https://open.spotify.com/artist/1EAoBVsvTYarQhO6i9zAG9"
+        }
+      ],
+      "duration_ms": 330505,
+      "name": "Endhuko Emo",
+      "url": "https://open.spotify.com/track/6Yqw4HtJuFXleJtgzYXWzT"
     },
     {
       "added_at": "2024-02-12 05:31:53",
@@ -747,26 +751,6 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Nuvvu Nenu Prema",
-        "url": "https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Naresh Ayar",
-          "url": "https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl"
-        }
-      ],
-      "duration_ms": 354368,
-      "name": "Preminche Premava",
-      "url": "https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
         "name": "Sirivennela (From \"Shyam Singha Roy\") - Single",
         "url": "https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8"
       },
@@ -783,6 +767,26 @@
       "duration_ms": 253595,
       "name": "Sirivennela (From \"Shyam Singha Roy\")",
       "url": "https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Nuvvu Nenu Prema",
+        "url": "https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Naresh Ayar",
+          "url": "https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl"
+        }
+      ],
+      "duration_ms": 354368,
+      "name": "Preminche Premava",
+      "url": "https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -921,30 +925,6 @@
       "url": "https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7"
     },
     {
-      "added_at": "2024-08-28 12:46:30",
-      "album": {
-        "name": "Saripodhaa Sanivaaram (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Madhura Dhara Talluri",
-          "url": "https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq"
-        },
-        {
-          "name": "Sanapati Bharadwaj Patrudu",
-          "url": "https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL"
-        }
-      ],
-      "duration_ms": 261314,
-      "name": "Laalijo Raagam",
-      "url": "https://open.spotify.com/track/4IXvddnjRVwgZ62EnWR6dy"
-    },
-    {
       "added_at": "2024-09-10 05:46:22",
       "album": {
         "name": "Ela (From \"Sopathulu\")",
@@ -967,6 +947,30 @@
       "duration_ms": 228224,
       "name": "Ela (From \"Sopathulu\")",
       "url": "https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH"
+    },
+    {
+      "added_at": "2024-08-28 12:46:30",
+      "album": {
+        "name": "Saripodhaa Sanivaaram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Madhura Dhara Talluri",
+          "url": "https://open.spotify.com/artist/6wrAB0HbjDGDXp0GdvqJqq"
+        },
+        {
+          "name": "Sanapati Bharadwaj Patrudu",
+          "url": "https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL"
+        }
+      ],
+      "duration_ms": 261314,
+      "name": "Laalijo Raagam",
+      "url": "https://open.spotify.com/track/4IXvddnjRVwgZ62EnWR6dy"
     }
   ],
   "unique_name": "Mellow Telugu",

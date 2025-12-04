@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-854 songs - 1 day 13 hr 8 min
+855 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Day & Night](https://open.spotify.com/track/0STOod1idSRY8V0cHyoAkF) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Day & Night](https://open.spotify.com/album/1VJHc2kD8VRJXYeK39dfga) | 2:26 | 2022-11-18 | 2023-04-22 |
 | [Day and Night](https://open.spotify.com/track/3upnQFF0KAINKmGa4T1EBC) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Day and Night](https://open.spotify.com/album/5QGRkrCipgaDXU7dCKDYmg) | 2:37 | 2025-04-02 | 2025-04-08 |
 | [Day Break](https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Day Break](https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W) | 2:32 | 2025-06-16 |  |
-| [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 | 2025-01-27 |  |
+| [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 | 2025-01-27 | 2025-12-04 |
 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 | 2025-02-24 |  |
 | [Dayspring Dew](https://open.spotify.com/track/2B5MVIV4kzaS4ehtL1UWFB) | [River Foxcroft](https://open.spotify.com/artist/5Ew1humnVO2uALMyV8OB1h) | [Dayspring Dew](https://open.spotify.com/album/6ZJOzTo1OgudWntdAVZLTN) | 2:54 | 2021-12-08 | 2022-06-10 |
 | [De Tu Mano](https://open.spotify.com/track/0dDo9FPktLTFMxQ5h1JdIP) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [De Tu Mano](https://open.spotify.com/album/4zNO2HO1luGa0Goo6TxQuf) | 2:41 | 2021-12-08 | 2022-07-01 |
@@ -578,6 +578,7 @@
 | [Quality time](https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Quality time](https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4) | 2:44 | 2024-04-19 | 2025-11-12 |
 | [Quartzite](https://open.spotify.com/track/7ApVbA2DWxftyUApfSB5Qq) | [Aiden Archer](https://open.spotify.com/artist/3VgNLAQtZ0NxQLpZJSGFmE) | [Quartzite](https://open.spotify.com/album/2cnYYDd1dtIFhSc0gJUyAi) | 2:05 | 2023-10-27 |  |
 | [Questions and Answers](https://open.spotify.com/track/1XfuNRBmDmaXuEcoKfShOh) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Questions and Answers](https://open.spotify.com/album/4f4SIvQEwkW3bOKh1Ji1gB) | 2:13 | 2021-12-08 | 2022-06-03 |
+| [Quiet Company](https://open.spotify.com/track/7aWnaIWr9ODUy6XeDWNThT) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Quiet Company](https://open.spotify.com/album/5WBcOx4C4KhNTmMgrg3Kse) | 2:19 | 2025-12-03 |  |
 | [Quiet Streets](https://open.spotify.com/track/2mp2kMjzgMNdbAQErNZbtQ) | [Milan Heyes](https://open.spotify.com/artist/46yZrE3PvsXkGFY6lE0EJ9) | [Quiet Streets](https://open.spotify.com/album/0r2gLejZURQ0d6nhxA5f5W) | 2:38 | 2025-01-07 |  |
 | [Quietus](https://open.spotify.com/track/17HzV5DJPNNDMeQXEjBbT6) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Quietus](https://open.spotify.com/album/4mUwh0o7CJEHxXBSpQZCYf) | 3:10 | 2022-10-28 | 2023-03-10 |
 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 | 2023-02-24 | 2024-12-11 |

@@ -4,7 +4,7 @@
 
 > Det er fredag! Ny musik fra Scarlet Pleasure, Freja Kirk, Ed Sheeran og mange flere 👀
 
-8,315 songs - 17 day 22 hr 41 min
+8,316 songs - 17 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3252,6 +3252,7 @@
 | [Hold On](https://open.spotify.com/track/51wBGedSQMJqylcuA9wd4d) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Hold On](https://open.spotify.com/album/6WLnmonXNLkQFw9NJeFcSH) | 2:46 | 2025-06-12 | 2025-06-20 |
 | [Hold On](https://open.spotify.com/track/5epIutw673nAVaHOxSV86H) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Hold On](https://open.spotify.com/album/2LuIRTbkUXCJfSLxMq9tJb) | 2:56 | 2024-05-09 | 2024-05-17 |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-12 | 2025-06-20 |
+| [Hold On](https://open.spotify.com/track/5reWe6VIloY1CNYhzdApCl) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Hold On](https://open.spotify.com/album/40Ksd3AVHtWcZbExDuuxVL) | 3:41 | 2025-11-27 |  |
 | [Hold On](https://open.spotify.com/track/0z7S2mUlOIJfuIU967dRPb) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [Palau](https://open.spotify.com/artist/7pa93DbAufiYadT6QY8VKY), [Heliograph](https://open.spotify.com/artist/1FEutGSizDVYrOB6C8TQXu) | [Hold On](https://open.spotify.com/album/2Qc2XyQWEF04s3yy7ZHsiy) | 2:57 | 2025-06-26 | 2025-07-04 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-14 | 2024-11-22 |
 | [Hold On To Foam](https://open.spotify.com/track/1zloAhYAiwEEVlJ9ytgjmJ) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Hold On To Foam](https://open.spotify.com/album/6LYXcZtoVt4kmlO9qgMANe) | 3:03 | 2025-10-23 | 2025-10-31 |

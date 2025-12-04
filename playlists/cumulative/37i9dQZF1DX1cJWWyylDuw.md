@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Lorna Shore
 
-753 songs - 2 day 0 hr 10 min
+754 songs - 2 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Dance of the Witch](https://open.spotify.com/track/7IQc2cjFhxtH8x5DH3KMrI) | [At Rest](https://open.spotify.com/artist/1mGqOe3tbEj9gFuRaoEzGx) | [The Perversion of Morality](https://open.spotify.com/album/6Cr8g6lRiZGMIVHyU0BGDp) | 4:42 | 2021-12-17 | 2022-02-09 |
 | [Dancing on a Pin](https://open.spotify.com/track/3SFYfWiTxhj9l1Erllc64i) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Dancing on a Pin](https://open.spotify.com/album/4l84ZA07jEaYL2c1yxnyNV) | 2:21 | 2023-01-13 | 2023-02-26 |
 | [Darkbloom](https://open.spotify.com/track/5eqB8FjyujwxBGfdibWEuL) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Darkbloom](https://open.spotify.com/album/5HiOzuBPohbCkMl7vidboI) | 3:44 | 2022-04-22 |  |
+| [Darksign](https://open.spotify.com/track/2MjnvcOVBjpTaXBBTuL0t1) | [Obzene](https://open.spotify.com/artist/52nYXKmK39GTaTgsqC6Hri), [LVNDM4RK](https://open.spotify.com/artist/1RUPdRVU5HD30K51gkePyW) | [Darksign](https://open.spotify.com/album/5x9VPJjSwDYIWvWEc2MVu1) | 3:07 | 2025-11-28 |  |
 | [Dead End Utopia](https://open.spotify.com/track/6YYSmZKkvXeo90u6kHrYoT) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Dead End Utopia](https://open.spotify.com/album/45PMDZU0rB2jKNs7X8jV34) | 4:06 | 2021-12-17 | 2022-07-13 |
 | [Dead Eyes Replete](https://open.spotify.com/track/1Y3fQd3tAsN6Hmkmo7zi05) | [Cryptopsy](https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN) | [Dead Eyes Replete](https://open.spotify.com/album/012HSJB7jyoUnKmj59UsD7) | 3:57 | 2025-06-13 | 2025-08-10 |
 | [Dead Man's Diary](https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Dead Man's Diary](https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn) | 4:39 | 2021-12-17 | 2025-10-25 |
@@ -582,7 +583,7 @@
 | [Sentenced](https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Sentenced](https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand) | 4:16 | 2024-06-25 | 2025-03-15 |
 | [Set the World on Fire](https://open.spotify.com/track/6UzntVyCu5wfJkjb5ddczQ) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Set the World on Fire](https://open.spotify.com/album/3EWHosgZgHFx7SI2iTI2ZW) | 2:49 | 2025-04-25 |  |
 | [Seven Souls](https://open.spotify.com/track/5BVgixsn2PgaNzI9tZSjfm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Seven Souls](https://open.spotify.com/album/0bBueyc98CNTvVvJJBqXL5) | 4:43 | 2021-12-17 | 2025-03-15 |
-| [SHACKLEROT](https://open.spotify.com/track/4fckK2M2zO9JveWT2iYgMK) | [SCALP](https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv) | [NOT WORTHY OF HUMAN COMPASSION](https://open.spotify.com/album/16C9JhrUDB19XJVVcyj2dy) | 2:05 | 2025-07-25 |  |
+| [SHACKLEROT](https://open.spotify.com/track/4fckK2M2zO9JveWT2iYgMK) | [SCALP](https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv) | [NOT WORTHY OF HUMAN COMPASSION](https://open.spotify.com/album/16C9JhrUDB19XJVVcyj2dy) | 2:05 | 2025-07-25 | 2025-12-04 |
 | [SHALLOW GRAVE](https://open.spotify.com/track/4IRI94PiTsO8GPmEjBa5iO) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [SHALLOW GRAVE](https://open.spotify.com/album/53ikhdZE3GFL8A1ATJDJNJ) | 1:31 | 2025-01-17 | 2025-04-27 |
 | [Shard Throat](https://open.spotify.com/track/3E2cJPNoEPrrxxZUihLQMU) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD) | [Shard Throat](https://open.spotify.com/album/6YDZrM7UvIVHtgo8P08XrD) | 2:33 | 2025-01-17 | 2025-06-04 |
 | [Shepherd](https://open.spotify.com/track/1HEeNe1VoY6HlnoN9gDMuv) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Shepherd](https://open.spotify.com/album/4K0BaqCecm68KFC748kBzA) | 4:11 | 2021-12-17 | 2022-07-25 |

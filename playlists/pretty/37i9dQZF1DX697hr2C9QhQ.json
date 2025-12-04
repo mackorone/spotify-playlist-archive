@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 58531,
+  "num_followers": 58553,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Living",
-        "url": "https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw"
-      },
-      "artists": [
-        {
-          "name": "Paddy Casey",
-          "url": "https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Saints & Sinners",
-      "url": "https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "How To Dismantle An Atomic Bomb",
         "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "24 Star Hotel",
-        "url": "https://open.spotify.com/album/3Rbtdo1N8vQxETfCsfW2iF"
+        "name": "Living",
+        "url": "https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw"
       },
       "artists": [
         {
-          "name": "Mundy",
-          "url": "https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR"
+          "name": "Paddy Casey",
+          "url": "https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ"
         }
       ],
-      "duration_ms": 300973,
-      "name": "July",
-      "url": "https://open.spotify.com/track/4IhgoxogHyRpf6hyXbA4pE"
+      "duration_ms": 216893,
+      "name": "Saints & Sinners",
+      "url": "https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -599,6 +583,22 @@
       "duration_ms": 250760,
       "name": "Rocky Took A Lover",
       "url": "https://open.spotify.com/track/3xyO4UQssQz2lBqv608DiF"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "24 Star Hotel",
+        "url": "https://open.spotify.com/album/3Rbtdo1N8vQxETfCsfW2iF"
+      },
+      "artists": [
+        {
+          "name": "Mundy",
+          "url": "https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR"
+        }
+      ],
+      "duration_ms": 300973,
+      "name": "July",
+      "url": "https://open.spotify.com/track/4IhgoxogHyRpf6hyXbA4pE"
     },
     {
       "added_at": "2022-03-17 10:54:32",

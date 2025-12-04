@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 25693,
+  "num_followers": 25742,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/4NnxwvoD3dboEG0MdYBEbB"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "my insecurities, not yours",
-        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "she likes spring, I prefer winter",
-      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "\u541b\u306f\u50d5\u306e\u5b9d\u7269",
@@ -427,6 +411,22 @@
       "duration_ms": 230600,
       "name": "\u51ac\u304c\u306f\u3058\u307e\u308b\u3088",
       "url": "https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "my insecurities, not yours",
+        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "she likes spring, I prefer winter",
+      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u767d\u3044\u604b\u4eba\u9054",
-        "url": "https://open.spotify.com/album/0eJgpR774HEMougzO27KpC"
-      },
-      "artists": [
-        {
-          "name": "Keisuke Kuwata",
-          "url": "https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v"
-        }
-      ],
-      "duration_ms": 284366,
-      "name": "\u767d\u3044\u604b\u4eba\u9054",
-      "url": "https://open.spotify.com/track/5wfKPYODAr3aCGpOAopNZK"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
         "name": "Expressions",
         "url": "https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 277426,
       "name": "\u3059\u3066\u304d\u306a\u30db\u30ea\u30c7\u30a4",
       "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u767d\u3044\u604b\u4eba\u9054",
+        "url": "https://open.spotify.com/album/0eJgpR774HEMougzO27KpC"
+      },
+      "artists": [
+        {
+          "name": "Keisuke Kuwata",
+          "url": "https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v"
+        }
+      ],
+      "duration_ms": 284366,
+      "name": "\u767d\u3044\u604b\u4eba\u9054",
+      "url": "https://open.spotify.com/track/5wfKPYODAr3aCGpOAopNZK"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/3lqUSr3F8gmD7ruydRlky4"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u30d5\u30a7\u30a4\u30af\u30d5\u30a1\u30fc",
-        "url": "https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc"
-      },
-      "artists": [
-        {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "\u30b9\u30ab\u30fc\u30ec\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "YELLOW DANCER",
@@ -1109,22 +1093,6 @@
       "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "wizard",
-        "url": "https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz"
-      },
-      "artists": [
-        {
-          "name": "VK Blanka",
-          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "\u307e\u3063\u3057\u308d",
-      "url": "https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "WINTER SONG",
@@ -1139,6 +1107,38 @@
       "duration_ms": 285533,
       "name": "WINTER SONG (\u201c\u96ea\u306e\u30af\u30ea\u30b9\u30de\u30b9\u201d WORLDWIDE VERSION)",
       "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u30d5\u30a7\u30a4\u30af\u30d5\u30a1\u30fc",
+        "url": "https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "\u30b9\u30ab\u30fc\u30ec\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "wizard",
+        "url": "https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz"
+      },
+      "artists": [
+        {
+          "name": "VK Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "\u307e\u3063\u3057\u308d",
+      "url": "https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "OH MY LITTLE GIRL",
-        "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
-      },
-      "artists": [
-        {
-          "name": "Yutaka Ozaki",
-          "url": "https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "OH MY LITTLE GIRL",
-      "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "Happy X-mas (War Is Over)",
         "url": "https://open.spotify.com/album/4eP51T6TYR1cOFYwZNc6XE"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 268000,
       "name": "Happy X-mas (War Is Over)",
       "url": "https://open.spotify.com/track/4JQS958NdP0PqfcoYFxrhV"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "OH MY LITTLE GIRL",
+        "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Ozaki",
+          "url": "https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "OH MY LITTLE GIRL",
+      "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "\u97f3\u697d\u3068\u79c1",
-        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
-      },
-      "artists": [
-        {
-          "name": "Tomoyo Harada",
-          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/3fNnXZJUEZU0QUvUgdMVeI"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "BIBLE",
@@ -1401,22 +1385,6 @@
       "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "Slow time lover",
-        "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 241810,
-      "name": "Slow time lover",
-      "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u30cf\u30d4\u30cd\u30b9EP",
@@ -1431,6 +1399,38 @@
       "duration_ms": 257746,
       "name": "\u30cf\u30d4\u30cd\u30b9",
       "url": "https://open.spotify.com/track/13ndjn8Ro8ytUJQJfNVYz4"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "\u97f3\u697d\u3068\u79c1",
+        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
+      },
+      "artists": [
+        {
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/3fNnXZJUEZU0QUvUgdMVeI"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "Slow time lover",
+        "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 241810,
+      "name": "Slow time lover",
+      "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/20taJ46r9l2wf3czHTgzLD"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "\u30b1\u30e2\u30ce\u3068\u9b54\u6cd5",
-        "url": "https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw"
-      },
-      "artists": [
-        {
-          "name": "Ikuko Harada",
-          "url": "https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "\u3082\u3046\u3059\u3050\u591c\u304c\u3042\u3051\u308b",
-      "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u30b1\u30c4\u306e\u5d50 \uff5e\u51acBEST\uff5e",
@@ -1563,6 +1547,22 @@
       "duration_ms": 367000,
       "name": "\u51ac\u7269\u8a9e",
       "url": "https://open.spotify.com/track/2N6MR0SNYzGHlApOwbmA2w"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "\u30b1\u30e2\u30ce\u3068\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw"
+      },
+      "artists": [
+        {
+          "name": "Ikuko Harada",
+          "url": "https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "\u3082\u3046\u3059\u3050\u591c\u304c\u3042\u3051\u308b",
+      "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
     },
     {
       "added_at": "2025-03-11 22:40:18",

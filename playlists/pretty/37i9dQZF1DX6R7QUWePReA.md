@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 
 > Timeless heart\-warming classics from 1940s\- 1970s for the holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,510,970 likes - 69 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,519,987 likes - 69 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

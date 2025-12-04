@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: Michael Kaneko
 
-1,062 songs - 2 day 18 hr 53 min
+1,063 songs - 2 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Be you like a flower](https://open.spotify.com/track/3hNJNjPpV2jRxyPfpa4dgz) | [ニイナ](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [Be you like a flower](https://open.spotify.com/album/4enMoLiJJNTxtf83SlD3Uw) | 4:14 | 2024-10-01 | 2024-11-06 |
 | [Beach House](https://open.spotify.com/track/2l2i3HKT4DyjMoY7FINbq1) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Beach House](https://open.spotify.com/album/7Lx53yIVmTQHqeqza6KnN9) | 3:14 | 2025-07-29 | 2025-08-06 |
 | [BEAT](https://open.spotify.com/track/3hu0rFbcbMCC5mzdmL6JPr) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BEAT](https://open.spotify.com/album/6lSiYV5LPdVrw1gTXF51ww) | 3:37 | 2025-04-29 |  |
-| [beat up](https://open.spotify.com/track/0Qf8NxhLakZn0UtUzpAKYr) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [beat up](https://open.spotify.com/album/6kp2Nv24kf6nWdpm92EUVL) | 2:53 | 2025-09-30 |  |
+| [beat up](https://open.spotify.com/track/0Qf8NxhLakZn0UtUzpAKYr) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [beat up](https://open.spotify.com/album/6kp2Nv24kf6nWdpm92EUVL) | 2:53 | 2025-09-30 | 2025-12-04 |
 | [Believe It](https://open.spotify.com/track/6swXNfuOM0rp3WecD55izx) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Believe It](https://open.spotify.com/album/0u8xDjoZouDECRUb9ijn4m) | 3:10 | 2024-12-03 | 2024-12-11 |
 | [Belt of Venus](https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Belt of Venus](https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0) | 5:29 | 2025-10-21 |  |
 | [Blank Map](https://open.spotify.com/track/2qfaJzMbHr4fOBCnyVfQh9) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [Blank Map](https://open.spotify.com/album/5DeXns7O9kdY6q4lx6I8u9) | 5:02 | 2025-02-11 | 2025-02-26 |
@@ -294,6 +294,7 @@
 | [Memory](https://open.spotify.com/track/6nj0aocl0RdC39IYOW9O0f) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [Memory](https://open.spotify.com/album/6pSlgVERzihkGOuiCfwbdz) | 4:04 | 2025-05-13 | 2025-05-22 |
 | [Merci!](https://open.spotify.com/track/6xyFrvJLCvoDhIfzEFfks7) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ) | [Merci!](https://open.spotify.com/album/2gLgjIYz5OZLxUTunM2tiY) | 2:42 | 2025-09-30 | 2025-10-09 |
 | [MICHIKUSA](https://open.spotify.com/track/0eThexhpQdncZ1zH7GUkrF) | [NakamuraEmi](https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC) | [MICHIKUSA](https://open.spotify.com/album/1yXvqj105P4xlGahwyRCGB) | 4:25 | 2025-01-21 | 2025-02-19 |
+| [Middle of the Night](https://open.spotify.com/track/5ObofrulUfverBVhR1nMg3) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Middle of the Night](https://open.spotify.com/album/2AM8BTx7qcCawZmjsddXzn) | 3:51 | 2025-12-03 |  |
 | [Migototekichu!! Yokantekichu!!](https://open.spotify.com/track/3DpzYVJOhfs6z18hyHOWm0) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [Migototekichu!! Yokantekichu!!](https://open.spotify.com/album/5EMJpDIB1nShldhBOTNiCo) | 4:11 | 2024-10-08 | 2024-10-16 |
 | [MILLION](https://open.spotify.com/track/5rBTNtBUO3Ws6Jfdv4QMUu) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [MILLION](https://open.spotify.com/album/0ZfQ25a2qyC6jEpBoXpSNb) | 2:36 | 2025-02-25 | 2025-03-05 |
 | [Mirage \- ep ver.](https://open.spotify.com/track/3Xvou1Rkr4cF0UVx2Jj1c8) | [Hazy Sparkle](https://open.spotify.com/artist/6mFv1f54XeuP48JnCOjWKZ) | [pureself](https://open.spotify.com/album/16y1uy7TDVwzTw41RQRA3b) | 3:31 | 2025-09-03 | 2025-09-10 |

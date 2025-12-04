@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 El Malilla bufando
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,516 likes - 91 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,577 likes - 91 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

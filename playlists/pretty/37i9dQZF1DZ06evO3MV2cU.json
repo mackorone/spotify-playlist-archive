@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAACJH1XKuUPJ/phN+tFjjw/L",
+  "snapshot_id": "aS4sAAAAAAA9dZqfGN2b1o9NGdoo0XK2",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "REBEL",
-        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
+        "name": "See The Morning (Special Edition)",
+        "url": "https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd"
       },
       "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        },
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 221186,
-      "name": "The Cross",
-      "url": "https://open.spotify.com/track/3BYjy9SgiD9BbBPdhOfRg5"
+      "duration_ms": 262266,
+      "name": "Everlasting God",
+      "url": "https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy"
     },
     {
       "added_at": null,
@@ -299,18 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "See The Morning (Special Edition)",
-        "url": "https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd"
+        "name": "REBEL",
+        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
       },
       "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        },
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 262266,
-      "name": "Everlasting God",
-      "url": "https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy"
+      "duration_ms": 221186,
+      "name": "The Cross",
+      "url": "https://open.spotify.com/track/3BYjy9SgiD9BbBPdhOfRg5"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Love",
+        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 297920,
+      "name": "God Of This City",
+      "url": "https://open.spotify.com/track/4Eda1y3heYypvl4KRcJcKs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The King Is Still The King",
         "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 299459,
       "name": "He Has Done Great Things",
       "url": "https://open.spotify.com/track/7CvI6gPRlOwsdeRXYjgVUV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Love",
-        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 297920,
-      "name": "God Of This City",
-      "url": "https://open.spotify.com/track/4Eda1y3heYypvl4KRcJcKs"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The King Is Still The King",
-        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 241558,
-      "name": "Rivers Of Joy",
-      "url": "https://open.spotify.com/track/1s4n443aDlakmnobxjJ146"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chris Tomlin & Friends",
         "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 193240,
       "name": "Power (feat. Bear Rinehart of NEEDTOBREATHE)",
       "url": "https://open.spotify.com/track/0AGM3L1E346dTkLcGMaEdv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The King Is Still The King",
+        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 241558,
+      "name": "Rivers Of Joy",
+      "url": "https://open.spotify.com/track/1s4n443aDlakmnobxjJ146"
     }
   ],
   "unique_name": "This Is Chris Tomlin",

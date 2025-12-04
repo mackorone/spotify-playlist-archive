@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-425 songs - 21 hr 59 min
+426 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [tell me why](https://open.spotify.com/track/5NEQfRhATRpgW13dEM9hZ8) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [tell me why](https://open.spotify.com/album/5xkdPkP1kSyY8llMdnEUxn) | 2:42 | 2025-06-24 |  |
 | [Temptation](https://open.spotify.com/track/0eO2a2BzQujyK9MkLfOJxf) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Temptation](https://open.spotify.com/album/2XVLOitnajQuyW3Zi5SBqE) | 2:39 | 2023-08-18 | 2023-12-09 |
 | [Ten More Minutes](https://open.spotify.com/track/3SDTgUXz8m2C2b12L7Q5Cg) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Ten More Minutes](https://open.spotify.com/album/0oRDTDNl1lQgvXamU4WlTk) | 3:42 | 2022-02-03 | 2022-09-15 |
+| [Tequila In My Cup](https://open.spotify.com/track/7pvfrf6ByPktJeVePqSxhW) | [Conni](https://open.spotify.com/artist/3V0uGOh5VeIp99phDIgWqU) | [Tequila In My Cup](https://open.spotify.com/album/7jBW3gPATnBq4DbcHKNQrF) | 2:15 | 2025-12-03 |  |
 | [Testify](https://open.spotify.com/track/41aahVnQ5oRhIU5LEc9hfh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [Testify](https://open.spotify.com/album/2shXXyUgDDl14LykrpWewi) | 3:23 | 2023-08-10 |  |
 | [The Feeling](https://open.spotify.com/track/5O3ulpsbyoXtjyVdC7Xip4) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [The Feeling](https://open.spotify.com/album/31geBMaHgWPfzWmvGuykNz) | 2:28 | 2022-07-22 | 2023-08-11 |
 | [The Garden](https://open.spotify.com/track/1WrSQnq6Y8e6jITQ6gG7Jq) | [Lochlainn](https://open.spotify.com/artist/3wgU0KqfQuUNIjqe2ZjOVh) | [The Garden](https://open.spotify.com/album/4notA2r4MNd7pHSxWPdPEN) | 2:54 | 2022-02-03 | 2023-08-11 |

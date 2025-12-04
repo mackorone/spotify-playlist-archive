@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,913 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,913 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 66 | [Office Hours \(feat\. 50 Cent\)](https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:52 |
 | 67 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 |
 | 68 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 |
-| 69 | [Louis Baggage \(feat\. Babyface Ray\)](https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Continuance](https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU) | 2:30 |
-| 70 | [Se7enteen5ive](https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Se7enteen5ive](https://open.spotify.com/album/3vm08VN8HiSs7rNxePAhit) | 3:01 |
+| 69 | [Se7enteen5ive](https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Se7enteen5ive](https://open.spotify.com/album/3vm08VN8HiSs7rNxePAhit) | 3:01 |
+| 70 | [Louis Baggage \(feat\. Babyface Ray\)](https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Continuance](https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU) | 2:30 |
 | 71 | [Zipcodes](https://open.spotify.com/track/2S3PBAzoPAxnmdOtdEuaLW) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:27 |
 | 72 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 |
 | 73 | [Green Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Green Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO) | 2:54 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 96 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 |
 | 97 | [The Shallimar](https://open.spotify.com/track/5ilGsQhMaxLg0BiHzH8qWK) | [Keith Murray](https://open.spotify.com/artist/2bwR166mSJEJrYJqfyust3), [Funkality](https://open.spotify.com/artist/4l7rxpEt5uiyD5kRljrJB3), [Brady Jo](https://open.spotify.com/artist/7x4OXq2sqvXH99Z7kwpDpJ) | [The Shallimar](https://open.spotify.com/album/0bXkfJaK9qe8fzM91mIoY7) | 3:50 |
 | 98 | [The Jackie \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/track/15qKrPi4Kg0z7g9HlwWyeb) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [The Jackie \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/album/6xiJPpCpSaM5l4Fz8IYjyU) | 3:24 |
-| 99 | [Kool Aid and Frozen Pizza](https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Kool Aid and Frozen Pizza](https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3) | 2:37 |
-| 100 | [Self Medication \(feat\. Seth MacFarlane, Redman, & Statik Selektah\)](https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [College Park](https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0) | 5:15 |
+| 99 | [Quicksand](https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Quicksand](https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk) | 3:43 |
+| 100 | [Kool Aid and Frozen Pizza](https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Kool Aid and Frozen Pizza](https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3) | 2:37 |
 
 Snapshot ID: `AAAAAN5XThuuji59JcqYg0wKCayl7We5`

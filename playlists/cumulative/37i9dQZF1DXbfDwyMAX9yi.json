@@ -261,6 +261,28 @@
     },
     {
       "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/3i7moD9yaXK0o48iMjJkWQ"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235384,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/2VlEyuzxCN7wN9utykzDmn"
+    },
+    {
+      "album": {
         "name": "Every High",
         "url": "https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl"
       },

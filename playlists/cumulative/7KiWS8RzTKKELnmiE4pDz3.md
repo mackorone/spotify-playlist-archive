@@ -4,7 +4,7 @@
 
 > 
 
-1,239 songs - 2 day 16 hr 5 min
+1,242 songs - 2 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Broad Day](https://open.spotify.com/track/0u7q9Ok2YzPk7JfciLS6Gi) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4rr](https://open.spotify.com/album/1zRtJdxldNGcWfheixPomS) | 2:09 | 2022-02-25 | 2023-12-14 |
 | [Broad Day \- Solo Version](https://open.spotify.com/track/2RUnaSDdEsxiKNcHweIQ7g) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [Broad Day \(Solo Version\)](https://open.spotify.com/album/4L9m6x0WaNoGgA0SmeU7hP) | 2:13 | 2022-12-21 | 2023-12-14 |
 | [Broccoli & Cheese](https://open.spotify.com/track/7HI9qCv1vRyn59iJGpjLHx) | [Paper Route EMPIRE](https://open.spotify.com/artist/65smG2lgnRmrDB8g7z1hG0), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PAPER ROUTE iLLUMINATi](https://open.spotify.com/album/6WDlSPJvEMoZLHj9jJ1dhY) | 2:21 | 2023-10-03 | 2024-03-05 |
+| [Broken Bottles](https://open.spotify.com/track/4CajAqrgmTEYZBsM0GzWFh) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Tana Talk 3](https://open.spotify.com/album/5OsHMGOg6lRV9REoVxbcWA) | 3:58 | 2025-12-03 |  |
 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 | 2025-07-02 |  |
 | [Brooklyn Zoo](https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 3:37 | 2025-09-03 |  |
 | [Bubble Pop Electric](https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:42 | 2025-04-23 |  |
@@ -251,6 +252,7 @@
 | [Crunch Time](https://open.spotify.com/track/3xnbJVx4QqsOYip8Cn6OrN) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Crunch Time](https://open.spotify.com/album/6ONa9tLkPc0Unfj273RsAW) | 3:53 | 2023-02-06 | 2023-04-12 |
 | [Crushed Up](https://open.spotify.com/track/7wcyO1rrH3Ru4t659IjG41) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:29 | 2024-12-11 | 2025-05-21 |
 | [Cut the Check \(feat\. Chief Keef\)](https://open.spotify.com/track/6U1ueRYXTjFHuJ9Ld2LBIW) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 2:50 | 2025-01-29 |  |
+| [Da Graveyard](https://open.spotify.com/track/04Rz403IY7QUqgfrTWX6OU) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM) | [Lifestylez Ov Da Poor & Dangerous](https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD) | 5:23 | 2025-12-03 |  |
 | [Danny Phantom Feat\. Ken Car$on](https://open.spotify.com/track/2lOMj6dBqU13JOS5OglScH) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Lite Fortunato](https://open.spotify.com/artist/1u6pg7JgRnNX5g91p6BD1w) | [Fatal Attraction](https://open.spotify.com/album/3UIHAda8Frxxmm1PnnGtgA) | 1:55 | 2023-01-07 | 2023-05-09 |
 | [DARK BROTHERHOOD \(feat\. Lil Baby\)](https://open.spotify.com/track/2q2HyvGHcDbIgHi9o5gpFQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:39 | 2023-01-20 | 2023-04-24 |
 | [Dark Star](https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:45 | 2025-05-06 |  |
@@ -1031,6 +1033,7 @@
 | [Still Young Pablo](https://open.spotify.com/track/779gweiUnT5FA3QsKyOMNY) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Still Young Pablo](https://open.spotify.com/album/69gYAshYFvAXyrIKo5YGqx) | 2:27 | 2023-01-11 | 2023-08-28 |
 | [Stop Breathing](https://open.spotify.com/track/2lLG56qpLP3UbcLuzMvkWX) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:38 | 2022-12-15 | 2023-12-14 |
 | [Stories About My Brother](https://open.spotify.com/track/0ZB5pdrM1leH58IgokDPZM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 4:24 | 2023-11-19 | 2024-04-24 |
+| [Street Struck](https://open.spotify.com/track/2TE1FOBGJ0h7xxIFUjppmd) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM) | [Lifestylez Ov Da Poor & Dangerous](https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD) | 4:09 | 2025-12-03 |  |
 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-04-09 | 2023-12-14 |
 | [Stumblin'](https://open.spotify.com/track/1SqocC5Kczq2f7Y0Uxdz8j) | [Maitchhh, Ion999](https://open.spotify.com/artist/2jJ3dHmsUVS70WcJidjy0P) | [Stumblin'](https://open.spotify.com/album/5UK34UItPiyIEElV7TYc54) | 3:51 | 2022-10-21 | 2023-12-14 |
 | [Stuntin Like My Mama](https://open.spotify.com/track/17vpqoT3uTwbydezlYm3iz) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:00 | 2025-05-01 | 2025-05-21 |

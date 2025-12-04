@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 62396,
+  "num_followers": 62398,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGU2CjHO45iJf2QeCgTco/RfZvpZ",
+  "snapshot_id": "AAAAAHqnBqcOXuA8vMiawyWc7sKpjfbW",
   "tracks": [
     {
       "added_at": "2025-11-24 03:07:28",
@@ -111,22 +111,6 @@
     {
       "added_at": "2025-11-24 03:07:28",
       "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
-    },
-    {
-      "added_at": "2025-11-24 03:07:28",
-      "album": {
         "name": "Vinicius & Toquinho",
         "url": "https://open.spotify.com/album/5DRGRv3kZwLwislN27IaUz"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 158360,
       "name": "Carta Ao Tom 74",
       "url": "https://open.spotify.com/track/5DHsGfjaxIpt0v0dPGaWdI"
+    },
+    {
+      "added_at": "2025-11-24 03:07:28",
+      "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
     },
     {
       "added_at": "2025-11-24 03:07:28",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-11-24 03:07:28",
       "album": {
-        "name": "This Guy's In Love",
-        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "This Guy's In Love With You",
-      "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
-    },
-    {
-      "added_at": "2025-11-24 03:07:28",
-      "album": {
         "name": "The Best Is Yet to Come - The Songs of Cy Coleman",
         "url": "https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 316840,
       "name": "Why Try to Change Me Now",
       "url": "https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS"
+    },
+    {
+      "added_at": "2025-11-24 03:07:28",
+      "album": {
+        "name": "This Guy's In Love",
+        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "This Guy's In Love With You",
+      "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
     },
     {
       "added_at": "2025-11-24 03:07:28",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-11-24 03:07:28",
       "album": {
-        "name": "12th Avenue",
-        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 277065,
-      "name": "12th Avenue",
-      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
-    },
-    {
-      "added_at": "2025-11-24 03:07:28",
-      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
       },
@@ -687,22 +671,18 @@
     {
       "added_at": "2025-11-24 03:07:28",
       "album": {
-        "name": "where are we",
-        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
+        "name": "12th Avenue",
+        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
         }
       ],
-      "duration_ms": 310106,
-      "name": "Where Are You?",
-      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
+      "duration_ms": 277065,
+      "name": "12th Avenue",
+      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
     },
     {
       "added_at": "2025-11-24 03:07:28",
@@ -735,6 +715,26 @@
       "duration_ms": 345176,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
+    },
+    {
+      "added_at": "2025-11-24 03:07:28",
+      "album": {
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 310106,
+      "name": "Where Are You?",
+      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
     },
     {
       "added_at": "2025-11-24 03:07:28",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-11-24 03:07:28",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 257253,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2"
-    },
-    {
-      "added_at": "2025-11-24 03:07:28",
-      "album": {
         "name": "Grover's Hat Project",
         "url": "https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0"
       },
@@ -851,6 +835,38 @@
       "duration_ms": 296586,
       "name": "That\u2019s My Desire",
       "url": "https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6"
+    },
+    {
+      "added_at": "2025-11-24 03:07:28",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 257253,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2"
+    },
+    {
+      "added_at": "2025-11-24 03:07:28",
+      "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
+      },
+      "artists": [
+        {
+          "name": "Kevin Mahogany",
+          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
+        }
+      ],
+      "duration_ms": 253283,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
     },
     {
       "added_at": "2025-11-24 03:07:28",
@@ -935,22 +951,6 @@
     {
       "added_at": "2025-11-24 03:07:28",
       "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
-      },
-      "artists": [
-        {
-          "name": "Kevin Mahogany",
-          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
-        }
-      ],
-      "duration_ms": 253283,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
-    },
-    {
-      "added_at": "2025-11-24 03:07:28",
-      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-11-24 03:07:28",
       "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+        "name": "Marshall (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
         }
       ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+      "duration_ms": 152106,
+      "name": "For the Love of Freedom",
+      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
     },
     {
       "added_at": "2025-11-24 03:07:28",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-11-24 03:07:28",
       "album": {
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+    },
+    {
+      "added_at": "2025-11-24 03:07:28",
+      "album": {
         "name": "First Conversation",
         "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 271773,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
-    },
-    {
-      "added_at": "2025-11-24 03:07:28",
-      "album": {
-        "name": "Kandace Springs",
-        "url": "https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 196844,
-      "name": "Forbidden Fruit",
-      "url": "https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr"
     },
     {
       "added_at": "2025-11-24 03:07:28",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-11-24 03:07:28",
       "album": {
+        "name": "Kandace Springs",
+        "url": "https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 196844,
+      "name": "Forbidden Fruit",
+      "url": "https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr"
+    },
+    {
+      "added_at": "2025-11-24 03:07:28",
+      "album": {
         "name": "Young & Na\u00efve",
         "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 231013,
       "name": "To Have & To Hold",
       "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
-    },
-    {
-      "added_at": "2025-11-24 03:07:28",
-      "album": {
-        "name": "Marshall (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
-      },
-      "artists": [
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "For the Love of Freedom",
-      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
     },
     {
       "added_at": "2025-11-24 03:07:28",

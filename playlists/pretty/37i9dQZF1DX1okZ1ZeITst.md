@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > Discover Disney songs to sing along to, including “Zoo” from Zootopia 2!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,881 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,207 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 | 79 | [Cruella De Vil \- Soundtrack Version](https://open.spotify.com/track/0BXmWSeBL9zIazKcbvr2pb) | [Bill Lee](https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL) | [Disney's Greatest Volume 1](https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY) | 4:47 |
 | 80 | [Gaston](https://open.spotify.com/track/0zstgBrV1t1g6n4jHrUVBY) | [Richard White](https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G), [Jesse Corti](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5), [Chorus \- Beauty And the Beast](https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) | 3:40 |
 
-Snapshot ID: `AAAAAHFddoeWKfRNuecrUN0xK6Rd8uXe`
+Snapshot ID: `AAAAAJqhmWXqKMaOd7FqSOivyKXvtLLV`

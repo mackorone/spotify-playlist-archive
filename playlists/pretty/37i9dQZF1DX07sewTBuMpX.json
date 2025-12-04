@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140354,
+  "num_followers": 140356,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
-        "name": "WAHALA (FEAT. OLAMIDE)",
-        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "WAHALA (feat. Olamide)",
-      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
-    },
-    {
-      "added_at": "2025-11-20 23:00:56",
-      "album": {
         "name": "Nu Meteen (Slide)",
         "url": "https://open.spotify.com/album/0nbuaqiqyG3lN2wfOHgypg"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 153621,
       "name": "Nu Meteen (Slide)",
       "url": "https://open.spotify.com/track/73epTVTwGh2rSnMkrKmgJS"
+    },
+    {
+      "added_at": "2025-11-20 23:00:56",
+      "album": {
+        "name": "WAHALA (FEAT. OLAMIDE)",
+        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "WAHALA (feat. Olamide)",
+      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
       "added_at": "2025-11-20 23:00:56",
@@ -1231,6 +1231,30 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
+        "name": "Your Season",
+        "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Your Season",
+      "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
+    },
+    {
+      "added_at": "2025-11-20 23:00:56",
+      "album": {
         "name": "Herinnering",
         "url": "https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV"
       },
@@ -1299,30 +1323,6 @@
       "duration_ms": 158927,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h"
-    },
-    {
-      "added_at": "2025-11-20 23:00:56",
-      "album": {
-        "name": "Your Season",
-        "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
-      },
-      "artists": [
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Your Season",
-      "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
     },
     {
       "added_at": "2025-11-20 23:00:56",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
+        "name": "Stemgeluid",
+        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        }
+      ],
+      "duration_ms": 175263,
+      "name": "Stemgeluid",
+      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
+    },
+    {
+      "added_at": "2025-11-20 23:00:56",
+      "album": {
         "name": "Deim Van Je",
         "url": "https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 156854,
       "name": "Deim Van Je",
       "url": "https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL"
-    },
-    {
-      "added_at": "2025-11-20 23:00:56",
-      "album": {
-        "name": "Stemgeluid",
-        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
-      },
-      "artists": [
-        {
-          "name": "Vlins",
-          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
-        },
-        {
-          "name": "Laura Yasmin",
-          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
-        }
-      ],
-      "duration_ms": 175263,
-      "name": "Stemgeluid",
-      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
     },
     {
       "added_at": "2025-11-20 23:00:56",
@@ -1607,6 +1607,30 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
+        "name": "Ik Heb Je",
+        "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        }
+      ],
+      "duration_ms": 194347,
+      "name": "Ik Heb Je (met Henkie T & Yssi SB)",
+      "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
+    },
+    {
+      "added_at": "2025-11-20 23:00:56",
+      "album": {
         "name": "Alsjeblieft",
         "url": "https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr"
       },
@@ -1643,30 +1667,6 @@
       "duration_ms": 144675,
       "name": "NASA",
       "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
-    },
-    {
-      "added_at": "2025-11-20 23:00:56",
-      "album": {
-        "name": "Ik Heb Je",
-        "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
-      },
-      "artists": [
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Yssi SB",
-          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
-        }
-      ],
-      "duration_ms": 194347,
-      "name": "Ik Heb Je (met Henkie T & Yssi SB)",
-      "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
     },
     {
       "added_at": "2025-11-20 23:00:56",
@@ -1715,6 +1715,30 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
+        "name": "Amazin\u2019 (Remix)",
+        "url": "https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Amazin' - Remix",
+      "url": "https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo"
+    },
+    {
+      "added_at": "2025-11-20 23:00:56",
+      "album": {
         "name": "Ik Kijk Soms Naar Jou",
         "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
       },
@@ -1743,30 +1767,6 @@
       "duration_ms": 208471,
       "name": "GIRLS WANNA HAVE FUN",
       "url": "https://open.spotify.com/track/2Zu4Eg1f9xPjPYusZceHvo"
-    },
-    {
-      "added_at": "2025-11-20 23:00:56",
-      "album": {
-        "name": "Amazin\u2019 (Remix)",
-        "url": "https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h"
-      },
-      "artists": [
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "Amazin' - Remix",
-      "url": "https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo"
     },
     {
       "added_at": "2025-11-20 23:00:56",
@@ -1819,26 +1819,18 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
-        "name": "Spanje",
-        "url": "https://open.spotify.com/album/2wu6po7eDveSp9XYYNjeqF"
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/7DAvYht3wOOdf81NY8J9vu"
       },
       "artists": [
         {
-          "name": "Ksix",
-          "url": "https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR"
-        },
-        {
-          "name": "J.FIZ",
-          "url": "https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT"
-        },
-        {
-          "name": "Dylisa",
-          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
         }
       ],
-      "duration_ms": 141230,
-      "name": "Spanje",
-      "url": "https://open.spotify.com/track/5pFxWvLViHHkKBFiln1vij"
+      "duration_ms": 174063,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/62pSIMezFKYK2UxQHmCE4g"
     }
   ],
   "unique_name": "Pull Up Hits",

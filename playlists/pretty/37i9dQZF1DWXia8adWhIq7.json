@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 111559,
+  "num_followers": 111568,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-11-30 17:53:44",
       "album": {
+        "name": "Bom \u00c2nimo",
+        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 176520,
+      "name": "Bom \u00c2nimo",
+      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
+    },
+    {
+      "added_at": "2025-11-30 17:53:44",
+      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2025-11-30 17:53:44",
       "album": {
-        "name": "Bom \u00c2nimo",
-        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 176520,
-      "name": "Bom \u00c2nimo",
-      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
-    },
-    {
-      "added_at": "2025-11-30 17:53:44",
-      "album": {
         "name": "Teu Amor Me Consome",
         "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 226187,
       "name": "Teu Amor Me Consome",
       "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
+    },
+    {
+      "added_at": "2025-11-30 17:53:44",
+      "album": {
+        "name": "Ousado Amor (Releitura)",
+        "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "duration_ms": 224032,
+      "name": "Ousado Amor (Releitura)",
+      "url": "https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL"
     },
     {
       "added_at": "2025-11-30 17:53:44",
@@ -711,22 +727,6 @@
       "duration_ms": 192000,
       "name": "Teu V\u00f4o",
       "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
-    },
-    {
-      "added_at": "2025-11-30 17:53:44",
-      "album": {
-        "name": "Ousado Amor (Releitura)",
-        "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
-      },
-      "artists": [
-        {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
-        }
-      ],
-      "duration_ms": 224032,
-      "name": "Ousado Amor (Releitura)",
-      "url": "https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL"
     },
     {
       "added_at": "2025-11-30 17:53:44",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-11-30 17:53:44",
       "album": {
-        "name": "Apenas Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
-      },
-      "artists": [
-        {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        }
-      ],
-      "duration_ms": 266020,
-      "name": "Apenas Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
-    },
-    {
-      "added_at": "2025-11-30 17:53:44",
-      "album": {
         "name": "Amor de Deus",
         "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 178000,
       "name": "Amor de Deus",
       "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
+    },
+    {
+      "added_at": "2025-11-30 17:53:44",
+      "album": {
+        "name": "Apenas Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
+      },
+      "artists": [
+        {
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 266020,
+      "name": "Apenas Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
     },
     {
       "added_at": "2025-11-30 17:53:44",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-11-30 17:53:44",
       "album": {
-        "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
-        "url": "https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH"
-      },
-      "artists": [
-        {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
-        },
-        {
-          "name": "Igor Zolla",
-          "url": "https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
-      "url": "https://open.spotify.com/track/2lR7nwKTKpxDbcpNKcqRYU"
-    },
-    {
-      "added_at": "2025-11-30 17:53:44",
-      "album": {
         "name": "Pra Onde Vou Correr",
         "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 215125,
       "name": "Pra Onde Vou Correr",
       "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
+    },
+    {
+      "added_at": "2025-11-30 17:53:44",
+      "album": {
+        "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
+        "url": "https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH"
+      },
+      "artists": [
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "Igor Zolla",
+          "url": "https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
+      "url": "https://open.spotify.com/track/2lR7nwKTKpxDbcpNKcqRYU"
     },
     {
       "added_at": "2025-11-30 17:53:44",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2025-11-30 17:53:44",
       "album": {
-        "name": "Corre",
-        "url": "https://open.spotify.com/album/0TC9002kYM2Hd6wo7UaxKZ"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        },
-        {
-          "name": "Kelvin Galdeano",
-          "url": "https://open.spotify.com/artist/2WSvRKmrPtawczPZ8ZCULQ"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Corre",
-      "url": "https://open.spotify.com/track/78o7oJ7OoxRKJ5RMLh5Cwp"
-    },
-    {
-      "added_at": "2025-11-30 17:53:44",
-      "album": {
         "name": "A Gente Aprende a Ser",
         "url": "https://open.spotify.com/album/6itU1pUMHCd6d98B9AOjdz"
       },
@@ -1155,6 +1135,22 @@
     {
       "added_at": "2025-11-30 17:53:44",
       "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
+    },
+    {
+      "added_at": "2025-11-30 17:53:44",
+      "album": {
         "name": "Selo do Perd\u00e3o (Legado)",
         "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
       },
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2025-11-30 17:53:44",
       "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+        "name": "Corre",
+        "url": "https://open.spotify.com/album/0TC9002kYM2Hd6wo7UaxKZ"
       },
       "artists": [
         {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        },
+        {
+          "name": "Kelvin Galdeano",
+          "url": "https://open.spotify.com/artist/2WSvRKmrPtawczPZ8ZCULQ"
         }
       ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
+      "duration_ms": 201600,
+      "name": "Corre",
+      "url": "https://open.spotify.com/track/78o7oJ7OoxRKJ5RMLh5Cwp"
     },
     {
       "added_at": "2025-11-30 17:53:44",
@@ -1463,18 +1463,22 @@
     {
       "added_at": "2025-11-30 17:53:44",
       "album": {
-        "name": "Eu Vou",
-        "url": "https://open.spotify.com/album/5dbCaL1z95M7V2xEU7UeVD"
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/0SUxq8peQ8l86JC3YSXZBf"
       },
       "artists": [
         {
-          "name": "Thiago Ramalho",
-          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
+          "name": "LAGOINHA ORLANDO MUSIC",
+          "url": "https://open.spotify.com/artist/1X2NjbUvZ268C6npB0IF6Z"
+        },
+        {
+          "name": "Samuel Mizrahy",
+          "url": "https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7"
         }
       ],
-      "duration_ms": 209664,
-      "name": "Eu Vou",
-      "url": "https://open.spotify.com/track/1zbNUs2cbZYBkcHmm9zxAt"
+      "duration_ms": 204173,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/43PrjY4XPBRPx1ugdHhVPr"
     },
     {
       "added_at": "2025-11-30 17:53:44",
@@ -1503,22 +1507,18 @@
     {
       "added_at": "2025-11-30 17:53:44",
       "album": {
-        "name": "Leve",
-        "url": "https://open.spotify.com/album/0SUxq8peQ8l86JC3YSXZBf"
+        "name": "Eu Vou",
+        "url": "https://open.spotify.com/album/5dbCaL1z95M7V2xEU7UeVD"
       },
       "artists": [
         {
-          "name": "LAGOINHA ORLANDO MUSIC",
-          "url": "https://open.spotify.com/artist/1X2NjbUvZ268C6npB0IF6Z"
-        },
-        {
-          "name": "Samuel Mizrahy",
-          "url": "https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7"
+          "name": "Thiago Ramalho",
+          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
         }
       ],
-      "duration_ms": 204173,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/43PrjY4XPBRPx1ugdHhVPr"
+      "duration_ms": 209664,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/1zbNUs2cbZYBkcHmm9zxAt"
     },
     {
       "added_at": "2025-11-30 17:53:44",

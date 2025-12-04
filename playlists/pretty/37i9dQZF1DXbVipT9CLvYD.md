@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,146 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,150 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 | 29 | [Tasakku Tasakku](https://open.spotify.com/track/3x5GBpM7Dy4gckH5a2VN0f) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [Guna](https://open.spotify.com/artist/2uhKb9vuetzaDq86FyEXlo) | [Vikram Vedha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70cftH7NeXGgJYH3iyos0m) | 4:00 |
 | 30 | [Verithanam](https://open.spotify.com/track/1wPWGI2rjtTXEhiAylGKtF) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay](https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM), [Vivek](https://open.spotify.com/artist/34alE9zN7dTT9s6s1j8bJC) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 4:05 |
 | 31 | [Arakkonam Style \- From "Blue Star"](https://open.spotify.com/track/51NhQWfzmCMK6hB1PFKmPc) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Arakkonam Style \(From "Blue Star"\)](https://open.spotify.com/album/4LsdHtrT3Xy4XeLnQ8oFLm) | 3:11 |
-| 32 | [Simtaangaran](https://open.spotify.com/track/5wAhrduRLWFLI3stVpoMV2) | [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Vipin Aneja](https://open.spotify.com/artist/019iJ3BZtBNRA4y3ZmbGS1), [Aparna Narayanan](https://open.spotify.com/artist/03CYaapmrQbh1xpKdn0c1t) | [Sarkar \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0BsAtQgtYtnVPPs0v9UO0n) | 4:42 |
+| 32 | [Simtaangaran](https://open.spotify.com/track/5wAhrduRLWFLI3stVpoMV2) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Vipin Aneja](https://open.spotify.com/artist/019iJ3BZtBNRA4y3ZmbGS1), [Aparna Narayanan](https://open.spotify.com/artist/03CYaapmrQbh1xpKdn0c1t) | [Sarkar \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0BsAtQgtYtnVPPs0v9UO0n) | 4:42 |
 | 33 | [Breakup Song \- From "Naan Sirithal"](https://open.spotify.com/track/7wXCinXw50iT5VdReFalv2) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Breakup Song \(From "Naan Sirithal"\)](https://open.spotify.com/album/6ABJBM7ORI04UjG0btqkDL) | 2:49 |
 | 34 | [Evanda Enakku Custody \(From "Mahaan"\)](https://open.spotify.com/track/4rGLwg8ej2ar25UJ5Rw7xz) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vivek](https://open.spotify.com/artist/34alE9zN7dTT9s6s1j8bJC) | [Evanda Enakku Custody \(From "Mahaan"\)](https://open.spotify.com/album/52wMl2ktm9T0EnixrpPwBz) | 3:32 |
 | 35 | [Stove Mela Kadai](https://open.spotify.com/track/0AHacDckN5t7mjpMBUcV03) | [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3) | [Stove Mela Kadai](https://open.spotify.com/album/0UjGjoszjltH9fCeJrl2Dw) | 3:19 |

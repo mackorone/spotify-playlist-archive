@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 169828,
+  "num_followers": 169826,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAABYb/vBzh9F0A9bCr6VliSQ",
+  "snapshot_id": "aS4sAAAAAACvZt+dp0Z5ByRsrLcE2TRT",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "A Guevara",
-          "url": "https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO: Guest List Edition",
         "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "A Guevara",
+          "url": "https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-1,474 songs - 3 day 14 hr 9 min
+1,475 songs - 3 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,6 +634,7 @@
 | [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 | 2023-12-19 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-04 | 2023-09-24 |
 | [Painted a Picture](https://open.spotify.com/track/2puE9eHa26bu1DLniIuvTw) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Painted a Picture](https://open.spotify.com/album/5NSaGxW0AwFgZ1BYDpp6j7) | 2:46 | 2021-05-06 | 2021-05-20 |
+| [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 | 2025-12-03 |  |
 | [Paradise](https://open.spotify.com/track/0M0LPSeg23xSAELGs2TbXf) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 3:09 | 2023-05-17 | 2023-05-19 |
 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 | 2023-11-13 | 2023-11-17 |
 | [Past Won't Leave My Bed](https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/3WVLl7wbF8oNra7oMZ62Ta) | 2:46 | 2025-11-08 | 2025-11-10 |
@@ -1194,8 +1195,8 @@
 | [愛在西元前](https://open.spotify.com/track/5xiVa4bNFIMP6dYNm2Ri9m) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC) | 3:54 | 2024-12-10 | 2024-12-17 |
 | [愛情你比我想的閣較偉大 \(《當男人戀愛時》電影主題曲\)](https://open.spotify.com/track/6m2I6ZyWRkxjBrrLVQILfl) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [愛情你比我想的閣較偉大 \(《當男人戀愛時》電影主題曲\)](https://open.spotify.com/album/2Ooz6iBT6eLFRAKtQAHoFM) | 3:52 | 2025-11-30 |  |
 | [愛情你比我想的閣較偉大 \-《當男人戀愛時》電影主題曲](https://open.spotify.com/track/4fJlSLYLiu5trFCMZdSQDC) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [愛情你比我想的閣較偉大 \-《當男人戀愛時》電影主題曲](https://open.spotify.com/album/0VqgheMWJatfAl6njk2DL8) | 3:52 | 2021-03-27\* | 2023-07-08 |
-| [愛情的大壞蛋](https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:07 | 2024-10-08 |  |
-| [愛愛愛](https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:35 | 2025-03-02 |  |
+| [愛情的大壞蛋](https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:07 | 2024-10-08 | 2025-12-04 |
+| [愛愛愛](https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:35 | 2025-03-02 | 2025-12-04 |
 | [愛我的時候](https://open.spotify.com/track/6us212S3fCRIQwOwNExqLH) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [愛我的時候](https://open.spotify.com/album/6kXiZM2u6c5VdmYcGhtxmh) | 3:44 | 2021-03-27\* | 2021-08-21 |
 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 | 2024-12-30 |  |
 | [愛錯](https://open.spotify.com/track/4vdX5mQE0oXkflFqsqQkUP) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [心中的日月](https://open.spotify.com/album/3OSXrxKQIaMxLGMjo1arFw) | 3:58 | 2025-01-05 | 2025-04-24 |
@@ -1303,7 +1304,7 @@
 | [流沙](https://open.spotify.com/track/5ZZwQy1wofQhj7LJDNLflT) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [陶喆同名專輯](https://open.spotify.com/album/433Xh8UtsKASBYCt0QNk4Q) | 4:02 | 2024-09-23 | 2025-04-26 |
 | [浪人的…](https://open.spotify.com/track/7vZMXD0czO7zMg6qjl22BX) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [浪人的…](https://open.spotify.com/album/3RzrzwtA5AfCIAHwRwUDzG) | 4:05 | 2025-05-17 | 2025-05-24 |
 | [浪子回頭](https://open.spotify.com/track/2YA5IfmQwAmVzHRP3SVnEd) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:19 | 2021-04-13 | 2021-05-14 |
-| [浪流連](https://open.spotify.com/track/1IS0WFyiVpwsATeSzjEvpI) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [我們以後要結婚](https://open.spotify.com/album/0mnRDacFJUE7YDLLIUwTbL) | 4:13 | 2024-08-19 |  |
+| [浪流連](https://open.spotify.com/track/1IS0WFyiVpwsATeSzjEvpI) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [我們以後要結婚](https://open.spotify.com/album/0mnRDacFJUE7YDLLIUwTbL) | 4:13 | 2024-08-19 | 2025-12-04 |
 | [浪流連](https://open.spotify.com/track/7a6VJHMS9ttKsj55cKC51G) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [我們以後要結婚](https://open.spotify.com/album/3gSVbEaY8DpXpTK7BDUj1C) | 4:13 | 2021-04-04 | 2022-02-17 |
 | [浪費時間](https://open.spotify.com/track/4vSEkALKd7ksHwphWg3oNS) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [浪費時間](https://open.spotify.com/album/3CSze05DeS7ElFA5ppOcNP) | 3:05 | 2022-01-05 | 2022-01-07 |
 | [消散对白](https://open.spotify.com/track/2u6IWBiX4p0Pl9N7gZ8iRn) | [丁禹兮](https://open.spotify.com/artist/3QsYgWFpxcaXgZLFWReamy) | [消散对白](https://open.spotify.com/album/1GCFufyEbtdsIXs84tf5Wd) | 3:31 | 2025-01-30 | 2025-02-27 |
@@ -1353,7 +1354,7 @@
 | [私は最強](https://open.spotify.com/track/5YQNjKZofFhlBCIzTVY6rW) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:17 | 2022-08-22 | 2022-09-13 |
 | [稱職](https://open.spotify.com/track/4rGmfL85pgfnInGd7TWGoN) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [稱職](https://open.spotify.com/album/59oYBzmP7hyCBSIr4v6OXH) | 4:14 | 2021-09-18 | 2021-09-24 |
 | [空](https://open.spotify.com/track/51LtYR0cpjc8wW33Dx0AWV) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 2:57 | 2023-05-22 | 2023-05-30 |
-| [第57次取消发送](https://open.spotify.com/track/2xYrGeWUjwGvB0KMAfUFSd) | [菲菲公主](https://open.spotify.com/artist/64kT1WWPbIyJcOfNrR2RPD) | [第57次取消发送](https://open.spotify.com/album/56rVxwVN8ymIembS2chjI9) | 3:00 | 2025-06-02 | 2025-12-03 |
+| [第57次取消发送](https://open.spotify.com/track/2xYrGeWUjwGvB0KMAfUFSd) | [菲菲公主](https://open.spotify.com/artist/64kT1WWPbIyJcOfNrR2RPD) | [第57次取消发送](https://open.spotify.com/album/56rVxwVN8ymIembS2chjI9) | 3:00 | 2025-06-02 |  |
 | [第ゼロ感](https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 4:46 | 2023-01-31 | 2023-02-14 |
 | [第九夜](https://open.spotify.com/track/4Xmn7B42GDWz8cZgq5YwfS) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [要定你](https://open.spotify.com/album/2H9KX2lOQbqr9mEZulD6jN) | 4:19 | 2023-07-07 | 2023-07-11 |
 | [等你下課](https://open.spotify.com/track/3j2O0gUZaIT5SSpC9F4Emw) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:30 | 2022-07-16 | 2022-07-29 |
@@ -1429,7 +1430,7 @@
 | [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/track/5NykvdFrH8mejmohWZvIWo) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/album/2FNcaYMCTEtkEOugvt8PtG) | 4:12 | 2024-06-13 | 2024-11-10 |
 | [連名帶姓](https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/2e9kAjiQbDokDSgPMJW2j8) | 5:33 | 2025-11-14 | 2025-11-16 |
 | [連名帶姓](https://open.spotify.com/track/4a5FvWpFaCs3YOzEnnpgR0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW) | 5:33 | 2024-12-30 | 2025-01-04 |
-| [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 | 2023-01-17 | 2025-11-29 |
+| [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 | 2023-01-17 |  |
 | [運轉人生 \- 影集《華麗計程車行》插曲](https://open.spotify.com/track/30slz6D2PtbwDimGJaEVsH) | [邱軍](https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW) | [情歌手](https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5) | 3:28 | 2024-05-22 | 2025-02-26 |
 | [過了幾天 \- 合唱版](https://open.spotify.com/track/0qjbNZYyuzPh20RksmiJ8C) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [過了幾天 \(合唱版\)](https://open.spotify.com/album/4QPASVPRUjfXR73hmxVAJa) | 4:55 | 2025-01-17 | 2025-03-22 |
 | [過了幾天\(合唱版\)](https://open.spotify.com/track/4GEWZ1vDFVkmhG55zpKFLO) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [過了幾天\(合唱版\)](https://open.spotify.com/album/06IQjkT67ciPebOSd4pdIP) | 4:55 | 2025-03-21 | 2025-05-04 |

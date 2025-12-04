@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,879 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,922 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Cópia Proibida](https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:39 |
 | 50 | [Dois Gumes \- Ao Vivo](https://open.spotify.com/track/39KwMv89TaEdaBrvk28AMC) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Dois Gumes \(Ao Vivo\)](https://open.spotify.com/album/4o1PjHRaJZI1FqRRsb8Oz4) | 3:11 |
 
-Snapshot ID: `MMJYeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MMOsUAAAAAAAAAAAAAAAAAAAAAAAAGVu`

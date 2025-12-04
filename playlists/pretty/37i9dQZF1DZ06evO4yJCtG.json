@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 154232,
+  "num_followers": 154238,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAADfp8IYqY+MwzRta22tiYhM",
+  "snapshot_id": "aS4sAAAAAADmlIoyrvi75eGNubVHGCvW",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHANGE",
+        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Who Knew",
+      "url": "https://open.spotify.com/track/4vshJnpU7XbiGNzrwSeX6h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After the Butterflies",
         "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 190498,
       "name": "All or Nothing (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHANGE",
-        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "Who Knew",
-      "url": "https://open.spotify.com/track/4vshJnpU7XbiGNzrwSeX6h"
     },
     {
       "added_at": null,

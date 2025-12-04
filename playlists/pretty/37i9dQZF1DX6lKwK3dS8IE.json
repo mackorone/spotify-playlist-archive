@@ -1,6 +1,6 @@
 {
   "description": "Folk punk, anti-folk, acoustic punk & more. Cover: AJJ",
-  "num_followers": 3525,
+  "num_followers": 3526,
   "original_name": "Folk Misfits",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-02-07 05:00:33",
       "album": {
+        "name": "Be Happy, Today",
+        "url": "https://open.spotify.com/album/1dsdPI01rcf6eRHYJTsu1H"
+      },
+      "artists": [
+        {
+          "name": "A Day Without Love",
+          "url": "https://open.spotify.com/artist/09JoYdZo9cekYMqyN1bsGD"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi"
+    },
+    {
+      "added_at": "2025-02-07 05:00:33",
+      "album": {
         "name": "Songs About Water and Trying to Feel Okay",
         "url": "https://open.spotify.com/album/5JZfn7wYHxgbEbJRs2vb79"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 166805,
       "name": "I Know How It Feels",
       "url": "https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh"
-    },
-    {
-      "added_at": "2025-02-07 05:00:33",
-      "album": {
-        "name": "Be Happy, Today",
-        "url": "https://open.spotify.com/album/1dsdPI01rcf6eRHYJTsu1H"
-      },
-      "artists": [
-        {
-          "name": "A Day Without Love",
-          "url": "https://open.spotify.com/artist/09JoYdZo9cekYMqyN1bsGD"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Be Happy",
-      "url": "https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi"
     },
     {
       "added_at": "2025-02-07 05:00:33",

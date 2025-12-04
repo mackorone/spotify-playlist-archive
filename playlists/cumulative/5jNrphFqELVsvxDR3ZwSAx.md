@@ -4,7 +4,7 @@
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-378 songs - 1 day 0 hr 20 min
+379 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Two Hearts](https://open.spotify.com/track/6jYDyUlChw5u4PP7hmqUna) | [Pebbles](https://open.spotify.com/artist/702AvACMk5mieXIYlC2Gxx) | [Pebbles](https://open.spotify.com/album/1DC4atftJXraE8Bsx6QmyQ) | 4:24 | 2025-04-04 | 2025-07-19 |
 | [Unchained Melody](https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [The Very Best Of The Righteous Brothers \- Unchained Melody](https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6) | 3:36 | 2024-05-01 | 2025-05-31 |
 | [Under the Stars](https://open.spotify.com/track/5qwbb6ZNi8GObft8AmPX94) | [Sadie Sink](https://open.spotify.com/artist/2p3S4athiHZBR2xjwmn9MJ) | [O'DESSA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/52Nwa3vxM7OcRbZ4kjQY9i) | 2:01 | 2025-03-28 |  |
+| [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 | 2025-12-03 |  |
 | [Vibrate](https://open.spotify.com/track/3gpgYgITO6hqeqRMwhXtNf) | [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz) | [The Locket](https://open.spotify.com/album/5RbxmjS8qiRe6mJmUlH4u5) | 2:54 | 2025-03-28 | 2025-07-19 |
 | [Voodoo in My Blood](https://open.spotify.com/track/3iyJPBtWnucN4b5CoC9Zhv) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Ritual Spirit](https://open.spotify.com/album/70XADoJy0e98z6soiUx8dw) | 4:01 | 2025-04-26 | 2025-07-19 |
 | [Waiting On A Wish \- From "Disney's Snow White"](https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Waiting On A Wish \(From "Disney's Snow White"\)](https://open.spotify.com/album/4ez3Q65TegsMzFo48VrVDS) | 4:51 | 2025-03-14 |  |

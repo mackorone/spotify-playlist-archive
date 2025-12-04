@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 60,320 likes - 80 songs - 4 hr 6 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 60,305 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 69 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/2Bgyhp2MT6U8ioGkoYXaNl) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Sébastien Dubé](https://open.spotify.com/artist/0yr0ei8Af6lm3R682hECFG) | [B.A.C.H.](https://open.spotify.com/album/2HtyNzuC0pdtvO74KjS9m8) | 4:49 |
 | 70 | [Lale Minna](https://open.spotify.com/track/3uIy0xLaexlM6jBp2ecl6m) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [Stories Of Life](https://open.spotify.com/album/5yoIvM7nQH5JTPD0jWueAk) | 4:10 |
 | 71 | [Dawn](https://open.spotify.com/track/0Z3Kz6K44uMCpPfMbuBDaa) | [Jeremiah Fraites](https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly) | [The Long Walk \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/299JMlozzQsRunxVSje81v) | 0:46 |
-| 72 | [Berceuse, Op\. 57](https://open.spotify.com/track/2bzjf6y15j3h5GDMsmLSuW) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Berceuse, Op\. 57](https://open.spotify.com/album/4GuN1miMaFBS9Br2EJaUCY) | 2:39 |
+| 72 | [Berceuse, Op\. 57 \- Short Edit](https://open.spotify.com/track/2bzjf6y15j3h5GDMsmLSuW) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Berceuse, Op\. 57 \(Short Edit\)](https://open.spotify.com/album/4GuN1miMaFBS9Br2EJaUCY) | 2:39 |
 | 73 | [Berceuse](https://open.spotify.com/track/5ne6ridfyesueR20rn7Zey) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Berceuse](https://open.spotify.com/album/5A0YfgsFVUcjaAVS3xQbp8) | 4:24 |
 | 74 | [Closer to Forever](https://open.spotify.com/track/5rcFpNVeoaVBlPVqgLRsQY) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Paper Hearts](https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR) | 3:45 |
 | 75 | [Debussy: Arabesque No\. 1, L\. 66](https://open.spotify.com/track/0Fmb1NhrUD4UNEitq0BrKj) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [Debussy: Arabesque No\. 1, L\. 66](https://open.spotify.com/album/2Fz5qE8UWfhfviYireJaD7) | 6:43 |

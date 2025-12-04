@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 
 ### [Corridos Prohibidos](https://open.spotify.com/playlist/37i9dQZF1DWU43UtgmzCjN)
 
-> Pa' toda la raza pesada\. Los Huracanes del Norte en portada
+> Pa' toda la raza pesada\. Los Originales de San Juan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,942 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,065 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,283 likes - 161 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,373 likes - 161 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 160 | [Elixir](https://open.spotify.com/track/4XhMnxEzSOCuSMfOjHc1QF) | [Per Salomon](https://open.spotify.com/artist/0fcCrry5MLypPdXhvHR107) | [Elixir](https://open.spotify.com/album/6L5lu6k4cPjTgp9a2WdKPh) | 2:07 |
 | 161 | [Salt and Skin](https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Salt and Skin](https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn) | 2:57 |
 
-Snapshot ID: `AAAAAICgAoA2HPAzLqYTnkkS1AOE2/Sd`
+Snapshot ID: `AAAAAOb+hR7743cvy7PYmlJ4xsdoXd+a`

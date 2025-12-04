@@ -4,7 +4,7 @@
 
 > Lo que necesita cualquier verbena veraniega.
 
-261 songs - 16 hr 37 min
+262 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Blurred Lines](https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Blurred Lines \(Deluxe\)](https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j) | 4:23 | 2022-08-11 | 2024-04-19 |
 | [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/2qURodWJech5Dv9T0Irrda) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 | 2023-06-09 |  |
 | [Bulería](https://open.spotify.com/track/2s7WJ9IRON5zalNbfFY1xa) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Bulería](https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu) | 4:11 | 2023-06-09 |  |
+| [Caliente, Caliente](https://open.spotify.com/track/3jspZMuAARSyLKjx1ZXv4m) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Caliente, Caliente](https://open.spotify.com/album/0hCkiVnLYn201SDEMHkNCy) | 2:35 | 2025-07-02 |  |
 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 | 2023-06-09 | 2025-07-03 |
 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 | 2022-08-11 | 2024-04-19 |
 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 | 2022-08-11 |  |
@@ -64,7 +65,7 @@
 | [Cuando zarpa el amor](https://open.spotify.com/track/0GzQB5WXavUEU8tfTCAd8m) | [Camela](https://open.spotify.com/artist/6flBUmmOMLNhD4EJhGwgpG) | [Diez De Corazon](https://open.spotify.com/album/5VKlRdgddALI9Y0pra5FBV) | 3:32 | 2023-06-09 |  |
 | [Culo](https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [M.I.A.M.I.](https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32) | 3:39 | 2023-06-09 | 2024-04-19 |
 | [Culo](https://open.spotify.com/track/7DBFxEnUbVn533sURMZMwt) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Original Hits](https://open.spotify.com/album/4phhDFemofc0OpqV7SAMov) | 3:39 | 2023-06-09 | 2025-07-03 |
-| [Dame Más](https://open.spotify.com/track/6mS8ubgkRoVjnn0dtnqKBl) | [Alex De La Nuez](https://open.spotify.com/artist/25eJW20H8ZviNKZgDs0dR1) | [Dame Más](https://open.spotify.com/album/00sSerlFx4mYWRpcnQom7G) | 4:27 | 2025-07-02 |  |
+| [Dame Más](https://open.spotify.com/track/6mS8ubgkRoVjnn0dtnqKBl) | [Alex De La Nuez](https://open.spotify.com/artist/25eJW20H8ZviNKZgDs0dR1) | [Dame Más](https://open.spotify.com/album/00sSerlFx4mYWRpcnQom7G) | 4:27 | 2025-07-02 | 2025-12-04 |
 | [Danza Kuduro](https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Fast Five \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8) | 3:18 | 2023-06-09 | 2025-07-30 |
 | [Despacito](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:49 | 2022-08-11 |  |
 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:43 | 2022-08-11 |  |

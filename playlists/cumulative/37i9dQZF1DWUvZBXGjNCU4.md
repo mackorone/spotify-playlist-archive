@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-420 songs - 18 hr 52 min
+422 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2022-05-13 | 2022-06-10 |
 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-03-31 |  |
 | [Mindset](https://open.spotify.com/track/4KGyiKKDpKNGcn46Nbz5qj) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Mindset](https://open.spotify.com/album/402gxdke8XzhCG8MKkXT4b) | 2:25 | 2024-10-01 |  |
+| [Mist on Water](https://open.spotify.com/track/4UD4lu6cPROXEGSeJGp1BW) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Mist on Water](https://open.spotify.com/album/0sLeBGncP7adWV4bDnqUnN) | 2:36 | 2025-12-03 |  |
 | [Moment Held](https://open.spotify.com/track/2QHs7x6qPQnhC2p1JILpuy) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [Moment Held](https://open.spotify.com/album/7eSyVcWIf46avGw5FfLk2f) | 2:22 | 2025-06-11 |  |
 | [Moments](https://open.spotify.com/track/09ABPGLl5mD4XKrSzVhcZh) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/3RWT8s0jYc1lO6J8mlP5CJ) | 2:23 | 2023-03-31 | 2023-06-10 |
 | [Moments](https://open.spotify.com/track/12zsDIcTZiDOhFFSI7UeD4) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/4dOW4Qu0bwy54ArQWj9oga) | 2:23 | 2022-10-28 | 2023-04-13 |
@@ -384,7 +385,7 @@
 | [Tramandaí](https://open.spotify.com/track/7acWi08JPuc1BlSuVM9tAk) | [Hans Peschl](https://open.spotify.com/artist/6grQvgae1JYJJgtBxUxfr9) | [Tramandaí](https://open.spotify.com/album/1xRNgEeUnrTAGFkV7chEVa) | 2:53 | 2022-05-13 | 2024-04-06 |
 | [Tranquil Summer Rain](https://open.spotify.com/track/2ck0XGvujK97ZsaV31LIYV) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Tranquil Summer Rain](https://open.spotify.com/album/3yFoIac9KJvDhJWaTBoZcm) | 3:01 | 2024-10-01 | 2024-10-24 |
 | [Transient Clouds](https://open.spotify.com/track/0mDXzY5kBcJEc5Ko75BVJX) | [Nesima](https://open.spotify.com/artist/530XbBVaksvDN09nLsbwER) | [Spring in My Head](https://open.spotify.com/album/1C9NbVsvBeLOD46KO0H3sz) | 2:56 | 2022-05-13 | 2023-02-25 |
-| [True At Heart](https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [True At Heart](https://open.spotify.com/album/0F6Y7O5CCZ8Ivlqb1A7uCV) | 2:13 | 2024-08-20 |  |
+| [True At Heart](https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [True At Heart](https://open.spotify.com/album/0F6Y7O5CCZ8Ivlqb1A7uCV) | 2:13 | 2024-08-20 | 2025-12-04 |
 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 | 2022-05-13 | 2022-06-10 |
 | [Unanchored](https://open.spotify.com/track/163bwlnpGFSj3TCCFk2rT1) | [Julian Rivers](https://open.spotify.com/artist/6Kz9TTn0UKMFKI4gC9g3Hb) | [Unanchored](https://open.spotify.com/album/5kR8Q9cvTarslNQpAw8ayJ) | 2:35 | 2025-04-02 | 2025-05-29 |
 | [Uncharted roads](https://open.spotify.com/track/3oAN0qg37IOssyo0PX0p4I) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Uncharted roads](https://open.spotify.com/album/3slwpgpjDnCvY0KQTSsdF5) | 2:40 | 2025-10-01 |  |
@@ -419,6 +420,7 @@
 | [Wide Open Fields](https://open.spotify.com/track/5JcB7SJbD2TeJKEwHE4Pjt) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Wide Open Fields](https://open.spotify.com/album/66QsqLd9r1qVermYTWChlO) | 3:52 | 2022-05-13 | 2024-05-10 |
 | [Wildflower](https://open.spotify.com/track/1Sv0ki8acURIMVQzKKu7NK) | [Jonka Tribute](https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9) | [Wildflower](https://open.spotify.com/album/2xKeFOm2OAsYWJxtZHVS9f) | 3:40 | 2025-03-05 |  |
 | [Window From A Train](https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Window From A Train](https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT) | 2:25 | 2022-05-13 | 2023-02-25 |
+| [Wonder](https://open.spotify.com/track/340KkTWH44nG5CZ8bkeGl8) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Wonder](https://open.spotify.com/album/5odlqR0pcxQgpfDdHXoBAt) | 2:41 | 2025-12-03 |  |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 |  |
 | [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 | 2025-11-25 |
 | [Woodlands](https://open.spotify.com/track/47FXbGZeRxDTW7nKHQ7f4a) | [Ralph Couvert](https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa) | [Woodlands](https://open.spotify.com/album/34ib1KFCwy42QKfMncr47Z) | 2:44 | 2025-10-20 |  |

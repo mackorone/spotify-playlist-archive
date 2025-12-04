@@ -2765,6 +2765,28 @@
     },
     {
       "album": {
+        "name": "BoJack Horseman (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1TCONwUgvvjqSYJFPUCUTW"
+      },
+      "artists": [
+        {
+          "name": "Jane Krakowski",
+          "url": "https://open.spotify.com/artist/7Eb5SuBHafZ7rSw3wwS5lO"
+        },
+        {
+          "name": "Colman Domingo",
+          "url": "https://open.spotify.com/artist/64r4WYueLLJ8f5yLhQJnxO"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82146,
+      "name": "I Will Always Think of You",
+      "url": "https://open.spotify.com/track/3OrqExOwr13y6UCI1LGhA4"
+    },
+    {
+      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
       },

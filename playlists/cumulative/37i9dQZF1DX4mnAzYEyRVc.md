@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: Tokyo Ska Paradise Orchestra
 
-698 songs - 1 day 16 hr 8 min
+699 songs - 1 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [El Mosquito](https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [El Mosquito](https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr) | 3:08 | 2025-07-18 |  |
 | [El Peor](https://open.spotify.com/track/47cmtOUoVxWBSDzm4YqIRE) | [Jamaram](https://open.spotify.com/artist/1ZorPJMjMj569PdFp8Ildc), [Jah Chango](https://open.spotify.com/artist/0JL51D0tX8800NfzXLaNqM) | [El Peor](https://open.spotify.com/album/4pp9XzzVAoDNoYo7u5odNo) | 3:18 | 2023-04-28 | 2023-06-03 |
 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 | 2021-12-06 | 2023-04-22 |
-| [El Ultimo Ska](https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:55 | 2021-12-06 |  |
+| [El Ultimo Ska](https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:55 | 2021-12-06 | 2025-12-04 |
 | [El Vals del Obrero](https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:37 | 2021-12-06 | 2023-04-22 |
 | [El Vals del Obrero](https://open.spotify.com/track/7vjywEvwYqPyCGZBgOjvLH) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Todo Ska\-p](https://open.spotify.com/album/6XAsEb7ixXRIToeVC4UIZT) | 4:37 | 2021-12-06 | 2022-11-13 |
 | [El Vals del Obrero](https://open.spotify.com/track/4UjqoyfmarLo3Ub3LE19eC) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/2AfAFiYuMD6XYFIaUiVNcf) | 4:37 | 2021-12-06 | 2022-07-28 |
@@ -564,6 +564,7 @@
 | [Spiderwebs](https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:26 | 2021-12-06 | 2024-04-19 |
 | [Start Making sense](https://open.spotify.com/track/5neIGG0SfqNpRM88IZBTNn) | [Area\-7](https://open.spotify.com/artist/01HH0MeCU5B1FXwt2EyZlh) | [Bitter & Twisted](https://open.spotify.com/album/6MlQK64pGVMP4ApUJqotMG) | 3:30 | 2021-12-06 | 2022-06-29 |
 | [Start the Show](https://open.spotify.com/track/2LCHRnharXMJTgskATl8qR) | [Zeroscape](https://open.spotify.com/artist/7sTikKwxYrtUbIpUS1Khzq) | [Start the Show](https://open.spotify.com/album/6hTaIoMrSU3GgO7i4BHiHn) | 4:18 | 2023-05-19 | 2023-06-03 |
+| [STAY YOUNG STAY PUNK](https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C) | [FIVE STATE DRIVE](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [STAY YOUNG STAY PUNK](https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76) | 2:03 | 2025-10-03 |  |
 | [Ste Ska](https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8) | [La Matatena](https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q), [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Emulsion de Skape](https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE) | 2:23 | 2021-12-06 | 2023-04-22 |
 | [Stepping Out](https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6) | [Big D and the Kids Table](https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD) | [Stomp](https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI) | 3:01 | 2021-12-06 | 2023-04-22 |
 | [Storia d'amore](https://open.spotify.com/track/24Ro0Mnp8KAeuVFVaPcgKZ) | [Radio Babylon](https://open.spotify.com/artist/4fiEqJHfibqOeTAjcvsVX6) | [Babyloneria](https://open.spotify.com/album/5zlByeAxFNbDhlxNjjOHLV) | 4:46 | 2021-12-06 | 2022-07-25 |

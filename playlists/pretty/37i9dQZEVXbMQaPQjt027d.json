@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MMJYeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MMOsUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Pakjesavond! (Baila de gasolina parodie)",
         "url": "https://open.spotify.com/album/5GKKjxzZNwi38XwTdFrw3L"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7IDVuRfzqIJbCy2AGtr0tF"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Zie De Maan Schijnt Door De Bomen",
         "url": "https://open.spotify.com/album/5Tmqel0Xs5toFGA5uW3Ikt"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3FDhVCkzAihurjgkAknd4E"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Charlie Kirk Forever Alive",
         "url": "https://open.spotify.com/album/2a854F8IkCKnrB2vEIc4qJ"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/5nC5a57UgrSg1mUxsz1P9D"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Ketaklaas Kapoentje",
         "url": "https://open.spotify.com/album/7sUGSgtDN2sqFXCrD1hYWX"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/0o6pTMGK3ZjIyxfkkGpMQW"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Raggen",
         "url": "https://open.spotify.com/album/3az2trY4jKWy54Ram3JZ6Y"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/3vqwbBvQiidVSaSeSuMOjz"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Trouwen Met Patricia",
         "url": "https://open.spotify.com/album/66bwcbIesYdyohS3v0ZMRz"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/4qvG4qZEPTwlYDgASTAF28"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Wij zeggen Nee, Nee, Nee, tegen een A-Z-C! (Hardcore Mix)",
         "url": "https://open.spotify.com/album/0p2QRnqRG85AUZ7SwGUtT2"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/1hPxhJSI15tAQWbJyocv85"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Wereld Van Sosa 2",
         "url": "https://open.spotify.com/album/0QABh43APLzaww6N0igdYp"
@@ -149,23 +149,7 @@
       "url": "https://open.spotify.com/track/37qT7EYqoTjDNH5hVUzWsR"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Omdat Ik Zo Van Je Hou",
-        "url": "https://open.spotify.com/album/7g8XEtDOkB631Cx7eWFbS8"
-      },
-      "artists": [
-        {
-          "name": "Lisa Rose",
-          "url": "https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F"
-        }
-      ],
-      "duration_ms": 213251,
-      "name": "Omdat Ik Zo Van Je Hou",
-      "url": "https://open.spotify.com/track/71ASAZJIhXdaJF0OCIXc4S"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Beneath My Skin",
         "url": "https://open.spotify.com/album/3MEWg3OP2ZgV3hrDiMgQi1"
@@ -181,7 +165,23 @@
       "url": "https://open.spotify.com/track/6FO0Pzjv38H1TpVBKnwG4l"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Omdat Ik Zo Van Je Hou",
+        "url": "https://open.spotify.com/album/7g8XEtDOkB631Cx7eWFbS8"
+      },
+      "artists": [
+        {
+          "name": "Lisa Rose",
+          "url": "https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F"
+        }
+      ],
+      "duration_ms": 213251,
+      "name": "Omdat Ik Zo Van Je Hou",
+      "url": "https://open.spotify.com/track/71ASAZJIhXdaJF0OCIXc4S"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Millionaire",
         "url": "https://open.spotify.com/album/3GtXinuaQVhgEnrFVnGfmW"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/19q5YMgBKrM8DuWuJoFEey"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "MON B\u00c9B\u00c9",
         "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "GO BESTFRIEND",
         "url": "https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95"
@@ -233,10 +233,10 @@
       "url": "https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Positive",
-        "url": "https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI"
+        "url": "https://open.spotify.com/album/1j7rAs6qJ3miwo3SspKmyu"
       },
       "artists": [
         {
@@ -246,26 +246,34 @@
       ],
       "duration_ms": 169846,
       "name": "Positive",
-      "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
+      "url": "https://open.spotify.com/track/1oOg0jvlrnZSAy3dhK8fmB"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
-        "name": "Captain",
-        "url": "https://open.spotify.com/album/4JyIQSykJUzxTdntLhqdio"
+        "name": "Bontardi",
+        "url": "https://open.spotify.com/album/6J9tjiB79EOtpKlsZmfmkD"
       },
       "artists": [
         {
-          "name": "ChopCity",
-          "url": "https://open.spotify.com/artist/5jOkUo5pqi4gENfdfPYVyL"
+          "name": "Kevv.",
+          "url": "https://open.spotify.com/artist/6KAltkTpAlpCbhkIugyNu3"
+        },
+        {
+          "name": "Qshans",
+          "url": "https://open.spotify.com/artist/3V2ql0IEcHYA7pPu5QXVKK"
+        },
+        {
+          "name": "IvanO",
+          "url": "https://open.spotify.com/artist/7MQj73dc8lBO093ie7dXzd"
         }
       ],
-      "duration_ms": 149539,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/3Z8OEfsix03lv3X7IWZaux"
+      "duration_ms": 211612,
+      "name": "Bontardi",
+      "url": "https://open.spotify.com/track/1kqZtggxscbT7VX4H7Ehsl"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "FEAR",
         "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
@@ -281,7 +289,39 @@
       "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Gedaan Wat Ik Moest",
+        "url": "https://open.spotify.com/album/4rLqpqTujNDd2bUKany6EL"
+      },
+      "artists": [
+        {
+          "name": "Shab0570",
+          "url": "https://open.spotify.com/artist/30TP10H7hGRrrRuLg2VXhn"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Gedaan Wat Ik Moest",
+      "url": "https://open.spotify.com/track/4HQZstbU4gMqgVfiW4kvtY"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/4JyIQSykJUzxTdntLhqdio"
+      },
+      "artists": [
+        {
+          "name": "ChopCity",
+          "url": "https://open.spotify.com/artist/5jOkUo5pqi4gENfdfPYVyL"
+        }
+      ],
+      "duration_ms": 149539,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/3Z8OEfsix03lv3X7IWZaux"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
@@ -321,79 +361,7 @@
       "url": "https://open.spotify.com/track/7u3BVQ9DG1KA9c3Q8W3BLr"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Bontardi",
-        "url": "https://open.spotify.com/album/6J9tjiB79EOtpKlsZmfmkD"
-      },
-      "artists": [
-        {
-          "name": "Kevv.",
-          "url": "https://open.spotify.com/artist/6KAltkTpAlpCbhkIugyNu3"
-        },
-        {
-          "name": "Qshans",
-          "url": "https://open.spotify.com/artist/3V2ql0IEcHYA7pPu5QXVKK"
-        },
-        {
-          "name": "IvanO",
-          "url": "https://open.spotify.com/artist/7MQj73dc8lBO093ie7dXzd"
-        }
-      ],
-      "duration_ms": 211612,
-      "name": "Bontardi",
-      "url": "https://open.spotify.com/track/1kqZtggxscbT7VX4H7Ehsl"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Gedaan Wat Ik Moest",
-        "url": "https://open.spotify.com/album/4rLqpqTujNDd2bUKany6EL"
-      },
-      "artists": [
-        {
-          "name": "Shab0570",
-          "url": "https://open.spotify.com/artist/30TP10H7hGRrrRuLg2VXhn"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Gedaan Wat Ik Moest",
-      "url": "https://open.spotify.com/track/4HQZstbU4gMqgVfiW4kvtY"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Century",
-        "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "Century",
-      "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "1 Dag",
         "url": "https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6"
@@ -413,7 +381,23 @@
       "url": "https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
@@ -429,23 +413,23 @@
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
-        "name": "Fool's Gold",
-        "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
+        "name": "Century",
+        "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
       },
       "artists": [
         {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
         }
       ],
-      "duration_ms": 197539,
-      "name": "Fool's Gold",
-      "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
+      "duration_ms": 109714,
+      "name": "Century",
+      "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Respect Bro",
         "url": "https://open.spotify.com/album/4rdMFaNtONSCRBUbYaovhH"
@@ -465,31 +449,23 @@
       "url": "https://open.spotify.com/track/3oarMe64d99cybvu7Bt1Gz"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
-        "name": "Wij zeggen nee, nee, nee tegen Chardonnay",
-        "url": "https://open.spotify.com/album/5rv4nYwstK2tYWlPSKgbJh"
+        "name": "Fool's Gold",
+        "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
       },
       "artists": [
         {
-          "name": "Sjonnie Slijptol",
-          "url": "https://open.spotify.com/artist/3w3UjLoC3pysOUGYVOJpkL"
-        },
-        {
-          "name": "Sjors Boes",
-          "url": "https://open.spotify.com/artist/7uhN9tlacoy7NoY6LF7JCK"
-        },
-        {
-          "name": "Gait Joa",
-          "url": "https://open.spotify.com/artist/2Wok3sxtFdMaE2OppdotdT"
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
         }
       ],
-      "duration_ms": 149560,
-      "name": "Wij zeggen nee, nee, nee tegen Chardonnay",
-      "url": "https://open.spotify.com/track/6fHpsnI0PIbjTkdmqcoOOz"
+      "duration_ms": 197539,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Pepernoot",
         "url": "https://open.spotify.com/album/6juIkKWtxmUQamKgB5dB1A"
@@ -513,7 +489,7 @@
       "url": "https://open.spotify.com/track/5gHt6koylIwR0MzYQwtOj8"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -529,7 +505,79 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Paid to Exist",
+        "url": "https://open.spotify.com/album/4Xh6ncpPchN6sttSXlarzg"
+      },
+      "artists": [
+        {
+          "name": "brux XTN",
+          "url": "https://open.spotify.com/artist/4U88SaxXVJxvOKSrqqJXsb"
+        }
+      ],
+      "duration_ms": 110885,
+      "name": "Paid to Exist",
+      "url": "https://open.spotify.com/track/3wquNCH2wx2Lb9baWLVKpD"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
+        "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
+      },
+      "artists": [
+        {
+          "name": "Gaten Matarazzo",
+          "url": "https://open.spotify.com/artist/5TLldRzO16khcP3zwBsBB6"
+        },
+        {
+          "name": "Gabriella Pizzolo",
+          "url": "https://open.spotify.com/artist/7FZcgLmT7hkZWlODqmOFNo"
+        }
+      ],
+      "duration_ms": 125480,
+      "name": "Never Ending Story",
+      "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Take It Back EP",
+        "url": "https://open.spotify.com/album/0q5t0VjN1hEOEjF0dz87g1"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "duration_ms": 213664,
+      "name": "Take It Back (To The Old School)",
+      "url": "https://open.spotify.com/track/63ECwoYcmpAiY57qTZGLtO"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
@@ -545,7 +593,31 @@
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Wij zeggen nee, nee, nee tegen Chardonnay",
+        "url": "https://open.spotify.com/album/5rv4nYwstK2tYWlPSKgbJh"
+      },
+      "artists": [
+        {
+          "name": "Sjonnie Slijptol",
+          "url": "https://open.spotify.com/artist/3w3UjLoC3pysOUGYVOJpkL"
+        },
+        {
+          "name": "Sjors Boes",
+          "url": "https://open.spotify.com/artist/7uhN9tlacoy7NoY6LF7JCK"
+        },
+        {
+          "name": "Gait Joa",
+          "url": "https://open.spotify.com/artist/2Wok3sxtFdMaE2OppdotdT"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Wij zeggen nee, nee, nee tegen Chardonnay",
+      "url": "https://open.spotify.com/track/6fHpsnI0PIbjTkdmqcoOOz"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -569,23 +641,7 @@
       "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Take It Back EP",
-        "url": "https://open.spotify.com/album/0q5t0VjN1hEOEjF0dz87g1"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        }
-      ],
-      "duration_ms": 213664,
-      "name": "Take It Back (To The Old School)",
-      "url": "https://open.spotify.com/track/63ECwoYcmpAiY57qTZGLtO"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Nighthawk (Reprise)",
         "url": "https://open.spotify.com/album/6CRDx0qW96wAyZYoylUg8v"
@@ -601,63 +657,7 @@
       "url": "https://open.spotify.com/track/1HadQI0LBZKqF2J6iTRn0t"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Paid to Exist",
-        "url": "https://open.spotify.com/album/4Xh6ncpPchN6sttSXlarzg"
-      },
-      "artists": [
-        {
-          "name": "brux XTN",
-          "url": "https://open.spotify.com/artist/4U88SaxXVJxvOKSrqqJXsb"
-        }
-      ],
-      "duration_ms": 110885,
-      "name": "Paid to Exist",
-      "url": "https://open.spotify.com/track/3wquNCH2wx2Lb9baWLVKpD"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Feel Alive (Missy Remix)",
-        "url": "https://open.spotify.com/album/7s5ezJMgtjKFirAcRcNbjE"
-      },
-      "artists": [
-        {
-          "name": "Damaxy",
-          "url": "https://open.spotify.com/artist/7iH754eigCrs80sQ08MFAx"
-        },
-        {
-          "name": "Missy",
-          "url": "https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9"
-        }
-      ],
-      "duration_ms": 147512,
-      "name": "Feel Alive - Missy Remix",
-      "url": "https://open.spotify.com/track/7t4sM4Ztb0ZrE35ZmoG9zo"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
-        "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
-      },
-      "artists": [
-        {
-          "name": "Gaten Matarazzo",
-          "url": "https://open.spotify.com/artist/5TLldRzO16khcP3zwBsBB6"
-        },
-        {
-          "name": "Gabriella Pizzolo",
-          "url": "https://open.spotify.com/artist/7FZcgLmT7hkZWlODqmOFNo"
-        }
-      ],
-      "duration_ms": 125480,
-      "name": "Never Ending Story",
-      "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "CHANEL",
         "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
@@ -673,187 +673,7 @@
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        },
-        {
-          "name": "Rico Ace",
-          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
-        }
-      ],
-      "duration_ms": 109759,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "NO BATID\u00c3O",
-        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
-      },
-      "artists": [
-        {
-          "name": "ZXKAI",
-          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
-        },
-        {
-          "name": "slxughter",
-          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
-        }
-      ],
-      "duration_ms": 107933,
-      "name": "NO BATID\u00c3O - Slowed",
-      "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/6ah7HsIfLFVtBC4Qyk4JoG"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 143746,
-      "name": "Finally Over It",
-      "url": "https://open.spotify.com/track/010a0zLOkBAMJvuscNdVxi"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Heart Skips Beat",
-        "url": "https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n"
-      },
-      "artists": [
-        {
-          "name": "Jona Lewie",
-          "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Stop The Cavalry",
-      "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Man Down",
-        "url": "https://open.spotify.com/album/5nczqNSqvFtP5z2xeRmidi"
-      },
-      "artists": [
-        {
-          "name": "Detailed",
-          "url": "https://open.spotify.com/artist/4iqEVZEav7vIiv1HStr6Gx"
-        }
-      ],
-      "duration_ms": 138875,
-      "name": "Man Down",
-      "url": "https://open.spotify.com/track/3J9qsrMvjhNqglvi4YOEiZ"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
-      },
-      "artists": [
-        {
-          "name": "Hazbin Hotel",
-          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
-        },
-        {
-          "name": "Blake Roman",
-          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        }
-      ],
-      "duration_ms": 109128,
-      "name": "Losin' Streak",
-      "url": "https://open.spotify.com/track/6ly0Zc4mrK1W0XLeuAk5Dv"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
-      },
-      "artists": [
-        {
-          "name": "Hazbin Hotel",
-          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
-        },
-        {
-          "name": "Jessica Vosk",
-          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
-        },
-        {
-          "name": "Alex Brightman",
-          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        }
-      ],
-      "duration_ms": 113230,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0myPb7rgTdf5dTHnfwdvO9"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Bluewave",
-        "url": "https://open.spotify.com/album/5lGeZbteqFXE9RZJqp2uMp"
-      },
-      "artists": [
-        {
-          "name": "Jeon",
-          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bluewave",
-      "url": "https://open.spotify.com/track/0g9lJhKQUdIWk987xQ66cn"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Paris, Texas",
-        "url": "https://open.spotify.com/album/1oBS2LLFZDo9eKnb66jffn"
-      },
-      "artists": [
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        }
-      ],
-      "duration_ms": 230526,
-      "name": "Paris, Texas",
-      "url": "https://open.spotify.com/track/6wckDJ8EqudZePpq6jk9rB"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
@@ -885,27 +705,163 @@
       "url": "https://open.spotify.com/track/7KWeKiDy7GqFjQ5e7xiPxy"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
       "album": {
-        "name": "SORRY",
-        "url": "https://open.spotify.com/album/1RnVAiamXujeEQcruNCCWn"
+        "name": "Heart Skips Beat",
+        "url": "https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n"
       },
       "artists": [
         {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Jona Lewie",
+          "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
         }
       ],
-      "duration_ms": 191519,
-      "name": "SORRY",
-      "url": "https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ"
+      "duration_ms": 176360,
+      "name": "Stop The Cavalry",
+      "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Feel Alive (Missy Remix)",
+        "url": "https://open.spotify.com/album/7s5ezJMgtjKFirAcRcNbjE"
+      },
+      "artists": [
+        {
+          "name": "Damaxy",
+          "url": "https://open.spotify.com/artist/7iH754eigCrs80sQ08MFAx"
+        },
+        {
+          "name": "Missy",
+          "url": "https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9"
+        }
+      ],
+      "duration_ms": 147512,
+      "name": "Feel Alive - Missy Remix",
+      "url": "https://open.spotify.com/track/7t4sM4Ztb0ZrE35ZmoG9zo"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "duration_ms": 109759,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
+        },
+        {
+          "name": "Alex Brightman",
+          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "duration_ms": 113230,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0myPb7rgTdf5dTHnfwdvO9"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "NO BATID\u00c3O",
+        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "duration_ms": 107933,
+      "name": "NO BATID\u00c3O - Slowed",
+      "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/6ah7HsIfLFVtBC4Qyk4JoG"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 143746,
+      "name": "Finally Over It",
+      "url": "https://open.spotify.com/track/010a0zLOkBAMJvuscNdVxi"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Paris, Texas",
+        "url": "https://open.spotify.com/album/1oBS2LLFZDo9eKnb66jffn"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 230526,
+      "name": "Paris, Texas",
+      "url": "https://open.spotify.com/track/6wckDJ8EqudZePpq6jk9rB"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/5nczqNSqvFtP5z2xeRmidi"
+      },
+      "artists": [
+        {
+          "name": "Detailed",
+          "url": "https://open.spotify.com/artist/4iqEVZEav7vIiv1HStr6Gx"
+        }
+      ],
+      "duration_ms": 138875,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/3J9qsrMvjhNqglvi4YOEiZ"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "De Leukste Liedjes",
         "url": "https://open.spotify.com/album/3IO1XB07hDlh8b2TLHqJTL"
@@ -925,7 +881,67 @@
       "url": "https://open.spotify.com/track/1FV4Ls00sp3LqjBH1kNIzH"
     },
     {
-      "added_at": "2025-12-02 14:35:30",
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Rottweiler",
+      "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Bluewave",
+        "url": "https://open.spotify.com/album/5lGeZbteqFXE9RZJqp2uMp"
+      },
+      "artists": [
+        {
+          "name": "Jeon",
+          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bluewave",
+      "url": "https://open.spotify.com/track/0g9lJhKQUdIWk987xQ66cn"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "duration_ms": 109128,
+      "name": "Losin' Streak",
+      "url": "https://open.spotify.com/track/6ly0Zc4mrK1W0XLeuAk5Dv"
+    },
+    {
+      "added_at": "2025-12-03 20:41:51",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -943,22 +959,6 @@
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
-    },
-    {
-      "added_at": "2025-12-02 14:35:30",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Rottweiler",
-      "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
     }
   ],
   "unique_name": "Viral 50 - Netherlands",

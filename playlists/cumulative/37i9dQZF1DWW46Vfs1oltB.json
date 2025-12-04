@@ -22351,6 +22351,32 @@
     },
     {
       "album": {
+        "name": "MY MAN",
+        "url": "https://open.spotify.com/album/5m4tzRlNB4CCP2ZPf8YgBC"
+      },
+      "artists": [
+        {
+          "name": "1ANDON",
+          "url": "https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf"
+        },
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Yun Seokcheol",
+          "url": "https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170312,
+      "name": "MY MAN - Instrumental",
+      "url": "https://open.spotify.com/track/5b7tap7ob0rrZIA2DsyOQe"
+    },
+    {
+      "album": {
         "name": "The Predator 2: FLEEKY SYNDROME",
         "url": "https://open.spotify.com/album/5OdY6FQMrOo6qmzDUuAf7G"
       },

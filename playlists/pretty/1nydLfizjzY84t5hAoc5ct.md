@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,337 likes - 130 songs - 8 hr 12 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,336 likes - 130 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 129 | [Blue\-Boy's Dreams](https://open.spotify.com/track/5rfd1i6hcL43i5kV4sg5fQ) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [Blue\-Boy's Dreams](https://open.spotify.com/album/6UVsgNAwJAedkBhGXWvEFA) | 4:55 |
 | 130 | [BAD TIMING](https://open.spotify.com/track/7IB8AI963aZxOfH4MZDM1L) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [BAD TIMING](https://open.spotify.com/album/7r30dGYPsyxlfsj3AECJ7z) | 3:49 |
 
-Snapshot ID: `AABqwF+EwTjh/eyEiXSLfqo0MVPGBjWn`
+Snapshot ID: `AABqwY8No8Jtsb/MkVMXE0pjTcm5Z6DV`

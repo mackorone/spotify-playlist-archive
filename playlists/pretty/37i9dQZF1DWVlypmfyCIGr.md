@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ラナメリサ
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,034 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,039 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 39 | [ご自由に](https://open.spotify.com/track/0LfTn5cZ9KutTdH3N7etF7) | [Fukumoto Nao](https://open.spotify.com/artist/1QLZ0b7wV4GzLfIrDscnET) | [ご自由に](https://open.spotify.com/album/0PgZ0t5IkU6le7NlZtC5k7) | 3:46 |
 | 40 | [FRIENDS feat\. pavilion](https://open.spotify.com/track/62JV8K22xc1A50Cfil60HY) | [ん・フェニ](https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0), [pavilion](https://open.spotify.com/artist/1TSRXSGEbdwPcXwiDDI68w) | [FRIENDS feat\. pavilion](https://open.spotify.com/album/74TWnwpeiNNDdKMCSZZ324) | 3:47 |
 | 41 | [ノスタルジア](https://open.spotify.com/track/075jrzrv1SPq6ptSBT2d4o) | [DeNeel](https://open.spotify.com/artist/4Z4FrPA5tZFztkxVw4XfdX) | [ノスタルジア](https://open.spotify.com/album/1RTCJcGDq81Ik38qYvC7OF) | 3:13 |
-| 42 | [ランニング・イン・ザ・ダーク\|running in the dark](https://open.spotify.com/track/6MCPPNORhWEPZ9O9ui4sW3) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [ランニング・イン・ザ・ダーク\|running in the dark](https://open.spotify.com/album/3NynTRKPQ6b8JaSVNNJiAq) | 3:50 |
+| 42 | [ランニング・イン・ザ・ダーク \| running in the dark](https://open.spotify.com/track/6MCPPNORhWEPZ9O9ui4sW3) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [ランニング・イン・ザ・ダーク \| running in the dark](https://open.spotify.com/album/3NynTRKPQ6b8JaSVNNJiAq) | 3:50 |
 | 43 | [SUPER NATURAL HIGH \- feat\. 唾奇](https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [PALEDUSK](https://open.spotify.com/album/60WzIOT8v9ww4FeKfndWwI) | 3:18 |
 | 44 | [ユーフォーを見にいこう](https://open.spotify.com/track/3M4zaCSxhUx6Ru3fvdOY1n) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [ユーフォーを見にいこう](https://open.spotify.com/album/06F3cSHA1gV6zjeA9PUaxB) | 3:35 |
 | 45 | [B](https://open.spotify.com/track/747lFaqR7l8400J9Keigo9) | [黒沼英之](https://open.spotify.com/artist/7dkDvlrSkcuAaGL6r8hGX3) | [Lonely together](https://open.spotify.com/album/5UilmTQRWO6lWlmemIfNuw) | 2:57 |

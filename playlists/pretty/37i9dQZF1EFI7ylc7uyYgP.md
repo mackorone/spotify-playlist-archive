@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 64 | [Grown Up Like Me](https://open.spotify.com/track/5EDOSuo31f3S5Nr5I13a3A) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 1:14 |
 | 65 | [It Ain’t Christmas](https://open.spotify.com/track/7k33Om6dxVlE9qYeW7TmT9) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [It Ain’t Christmas](https://open.spotify.com/album/1I6dIrGA2qYznBYBf6yDde) | 3:28 |
 | 66 | [Cracked](https://open.spotify.com/track/7C3YncdMDWBEqDLluiDOtQ) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Lonely Generation](https://open.spotify.com/album/6DT9TEg5f9j7WVarEXemYY) | 2:37 |
-| 67 | [Fighting with Yourself](https://open.spotify.com/track/026eW4z5Obgw0rENV11IlY) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Dizzyonatightrope](https://open.spotify.com/album/2InVsPk7FnDASgJHAeOu3Y) | 3:39 |
+| 67 | [Fighting With Yourself](https://open.spotify.com/track/5q2UQ1AMd1BstayUHaFdDJ) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [dizzyonatightrope](https://open.spotify.com/album/1LDb4Gg7jMfELMEU7mdWWT) | 3:39 |
 | 68 | [Dazzle Girl](https://open.spotify.com/track/3uI6ocToYM9kV0bPRmw8Co) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:38 |
 | 69 | [Crowded Room](https://open.spotify.com/track/1pN7P7Av89Gr18gDON2wx8) | [Christina Grimmie](https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku) | [All Is Vanity](https://open.spotify.com/album/5JRaWKXVpU3K3JqbcDIZAb) | 4:29 |
 | 70 | [busy](https://open.spotify.com/track/7kdmDLwyzFL8jYLzfMvPwQ) | [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [Something New](https://open.spotify.com/album/5pQLIMOOfKQlTufpnkV49Q) | 3:03 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 133 | [Loves Come Down \- Radio](https://open.spotify.com/track/6yZvE8ntSVDXwNiHSEibKV) | [Ivan Gomez](https://open.spotify.com/artist/5EN8BXlwC3RBqaZSBT6BTD), [Nacho Chapado](https://open.spotify.com/artist/75Npu8c9MYb94u6LqZn5mv), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Audacious Summer Vol\. 1](https://open.spotify.com/album/2W3rr39x1lYWO0D3ImahYB) | 3:39 |
 | 134 | [Earthquake](https://open.spotify.com/track/19h8d5HremCgEauVczVnRk) | [Tisno van Diemen](https://open.spotify.com/artist/10Uzu9lJidelQ1duiV8kvb) | [Dance Bangerz, Vol\. 4](https://open.spotify.com/album/50LlNy1XkPd4cymjIcuKH2) | 3:09 |
 
-Snapshot ID: `AcDLXgAAAABhFMoUIVSGJVMA0s6Bj+qh`
+Snapshot ID: `AcDROgAAAACx2D7M2h0e/GdonYDgOzuX`

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-132 songs - 7 hr 57 min
+138 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [DANNATAMENTE IO](https://open.spotify.com/track/4PJQKJ4IftAH8mOI0soGPh) | [Occulta Sententia](https://open.spotify.com/artist/7FXDan2bxS8Bym5nYX59Jo) | [DANNATAMENTE IO](https://open.spotify.com/album/3qK2RQk2nWEgd01kQrxLhn) | 4:59 | 2025-11-09 |  |
 | [Dayglo](https://open.spotify.com/track/3QQFWRQrpvM4O1EioIQomK) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo](https://open.spotify.com/album/6FAdnYTdRTjBlFlLljiKb7) | 3:43 | 2025-10-27 |  |
 | [Dead Man](https://open.spotify.com/track/4CRM17oR3bxMt5ofST1e9B) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Bring On The Fear EP](https://open.spotify.com/album/74xPT0b8vssRhGZO3gUruB) | 3:17 | 2025-11-11 |  |
+| [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2025-12-03 |  |
 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2025-11-29 |  |
 | [Don't Ask Why](https://open.spotify.com/track/5UDr0x745fkPgpILhvNjLC) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Don't Ask Why & Maum Meditation](https://open.spotify.com/album/6mosG3jbAhh0CGnynBON2T) | 4:36 | 2025-11-21 |  |
 | [don't know better](https://open.spotify.com/track/6OPNg2fvD1f2HIPj4Tfh7x) | [Nathan Etes](https://open.spotify.com/artist/11WVY9LG4XWkOptquaXJ71) | [juniper](https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw) | 2:45 | 2025-11-22 |  |
@@ -54,11 +55,13 @@
 | [Drink Deep](https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Camera 321/Tivoli Park/Drink Deep](https://open.spotify.com/album/2U7atN68CngRU0oJk6BkOx) | 4:02 | 2025-11-26 |  |
 | [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 | 2025-11-22 |  |
 | [Fly Away](https://open.spotify.com/track/1BPtiYG6hIuxlT79bPrvny) | [Springs of Autumn](https://open.spotify.com/artist/253bfrIVnxW1lBfhpvWijM) | [Fourteen](https://open.spotify.com/album/4qumeJ6UqZFk1aISguQLW8) | 3:35 | 2025-11-11 |  |
+| [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 | 2025-12-03 |  |
 | [Ghosts](https://open.spotify.com/track/3bUg0pzC285GlYNIiwR5uP) | [Auchenflower](https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg) | [Ghosts](https://open.spotify.com/album/3bwTQlkZFOEkIkFBWPZcJf) | 3:45 | 2025-11-13 |  |
 | [Glory Box](https://open.spotify.com/track/5JpTSv8YWDetex23Shl9Q4) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Glory Box](https://open.spotify.com/album/0DGdhDeY6oBFQY4uWOWVjB) | 3:17 | 2025-10-17 |  |
 | [Good Evening](https://open.spotify.com/track/4A99dvKXvbGihH1gfxjQRd) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 3:32 | 2025-11-27 |  |
 | [I Don't Believe in Anything](https://open.spotify.com/track/3a5ZYfcugq5ForOAOSplrb) | [Worthington's Law](https://open.spotify.com/artist/7mEM3d5nAPGHAIO16h96kx) | [When the Leaves Fall + I Don't Believe in Anything](https://open.spotify.com/album/6JVe5hfVRUPjwhPOsM8wma) | 2:39 | 2025-10-18 |  |
 | [I Only Cry From a Distance x Time Frustration](https://open.spotify.com/track/2A06ZDCmfAevcBlzGPGrAw) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:53 | 2025-11-06 |  |
+| [I RAGAZZI DEL 2020](https://open.spotify.com/track/4KqNZui4229o3aQu6i175G) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [I RAGAZZI DEL 2020](https://open.spotify.com/album/1WIXpY3RQ4b8pHn40b1nP8) | 4:31 | 2025-12-03 |  |
 | [ill\-intent](https://open.spotify.com/track/0E80R4bro3Xmh3DwJm9VBy) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:54 | 2025-10-28 | 2025-11-22 |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 |  |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2025-09-27 |  |
@@ -97,7 +100,7 @@
 | [Sally Feels Bad](https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Sally Feels Bad](https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa) | 3:01 | 2025-11-21 |  |
 | [Satu](https://open.spotify.com/track/2zBjzjeCTUG0ThIqwhutl8) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [Satu](https://open.spotify.com/album/0k9XH2GEapyuRdAD6nH3Me) | 3:18 | 2025-11-02 | 2025-11-22 |
 | [Save Me](https://open.spotify.com/track/0GSW18Q6Gm2sXv5z8NmMro) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:39 | 2025-11-26 |  |
-| [Saville](https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww) | [Vagabond\-321](https://open.spotify.com/artist/4bdOom5fRimwszocItXymk) | [No Future](https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g) | 3:12 | 2025-08-19 |  |
+| [Saville](https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww) | [Vagabond](https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK) | [No Future](https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g) | 3:12 | 2025-08-19 |  |
 | [Shake That Thing](https://open.spotify.com/track/36eCRqqm1Xac8b6fockewa) | [The Blue Mules](https://open.spotify.com/artist/07uYlW7XK9oTaN2itp1M6e) | [The Blues Ain't That Bad](https://open.spotify.com/album/7Az7QkvAHEfACkzyDw1G1Y) | 3:33 | 2025-11-26 |  |
 | [Shooting Star](https://open.spotify.com/track/5ZiuZxpPWvcJOLy2iPxHC0) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Shooting Star](https://open.spotify.com/album/3OMd5uD6jB93C2H0Pn3Umx) | 3:16 | 2025-10-30 | 2025-11-22 |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
@@ -113,6 +116,7 @@
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-01 |  |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-11-22 |
 | [The Endless Line](https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Endless Line](https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup) | 2:28 | 2025-11-02 |  |
+| [The Hook](https://open.spotify.com/track/1d56JDKGyZatnz6RRJjHcO) | [PRÝNCESS](https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt) | [The Hook](https://open.spotify.com/album/2OOTX25BaTsbeoSL5yvNWy) | 2:38 | 2025-12-03 |  |
 | [The Longest Time](https://open.spotify.com/track/0unM5Lavi7GnYL2cL1KJYi) | [Little Beast](https://open.spotify.com/artist/1VtBno35V1m2SDlvNwaWbY) | [The Longest Time](https://open.spotify.com/album/2y1ZM2E7RxgzgXeDijbnl7) | 4:30 | 2025-11-11 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-11-22 |
 | [The Wind Cried His Name](https://open.spotify.com/track/2LdZtn9arZbsPvsmHk69HI) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [The Wind Cried His Name](https://open.spotify.com/album/5mLe9wny1pA6KNQFQeF6nv) | 4:26 | 2025-11-13 |  |
@@ -121,6 +125,7 @@
 | [This is under control.](https://open.spotify.com/track/600eSAScJN873sbh9virWp) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [This is under control.](https://open.spotify.com/album/6sSQkIGAZJR1QiYMCtHQds) | 3:48 | 2025-11-26 |  |
 | [This Must Be the Place](https://open.spotify.com/track/4eqKratMzpnemwh6pcjfbW) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 5:54 | 2025-11-21 |  |
 | [thought ya do](https://open.spotify.com/track/7gvfCu73H2PTccxVNK6Xtn) | [Dylan Sherry](https://open.spotify.com/artist/47SpsruvmDVLTAuRZqAEMH) | [Infrequencies](https://open.spotify.com/album/4UocYoi60pviXOv5jwzuOX) | 3:20 | 2025-11-04 | 2025-11-22 |
+| [Time to Heal](https://open.spotify.com/track/6TNPl5MZg4c0lkuJbvn5Hc) | [Pin Dog](https://open.spotify.com/artist/57B5OFNTlSQZ4aofUvFRZR) | [Time to Heal](https://open.spotify.com/album/4f704M5LVep2ENY3BM7SKG) | 3:13 | 2025-12-03 |  |
 | [tried](https://open.spotify.com/track/4tpbidJIGZLC0aAEC6odzb) | [Shunk](https://open.spotify.com/artist/359TdwOBcq9EK1vT8IuQ5J) | [tried](https://open.spotify.com/album/462ANaG1kidEM2E9L9JbzK) | 4:17 | 2025-11-11 |  |
 | [Un Rato Más](https://open.spotify.com/track/13Uh63MZHQSGbAIqYisQoS) | [Ruiz de Lope](https://open.spotify.com/artist/3UxGJoUiyIIIu3LYMBelzR) | [Un Rato Más](https://open.spotify.com/album/60Nv8JoGyzxDKKiv28i5mC) | 3:08 | 2025-11-11 |  |
 | [Unforgiven Ghosts](https://open.spotify.com/track/0k76GGJSrK4Mvf21WJnTzQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Serendipitous Ruse \(Deluxe\)](https://open.spotify.com/album/4RHX1QDINQsvXt2NAoqaOS) | 3:24 | 2025-10-31 | 2025-11-22 |
@@ -129,6 +134,7 @@
 | [Unlove](https://open.spotify.com/track/5JxRYj0zmD6AfCciOXHTCN) | [Miwa](https://open.spotify.com/artist/6Y1cYyAqPwrzXNogyOKzDd), [Go To](https://open.spotify.com/artist/73EOGQFxjF1dcHwZYL3Y76) | [Unlove](https://open.spotify.com/album/1WYDpofR1agI395mA14xCE) | 5:30 | 2025-11-06 |  |
 | [Urge for tears](https://open.spotify.com/track/27GgZNxJqBwNDc9taf6vvC) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Anton Premec](https://open.spotify.com/artist/0CPqOLIo6t828XgtQu0f25) | [Urge for tears](https://open.spotify.com/album/5Wkir5ZGd1SoOX5AdRdXXa) | 4:24 | 2025-11-04 |  |
 | [Vice](https://open.spotify.com/track/70AH35PzCjRiWEuWdDAaSy) | [heavyskint](https://open.spotify.com/artist/70RKsp6wffaFI7Qfzct3cT) | [Vice](https://open.spotify.com/album/60K5lvn98SnukoHU80m5bl) | 4:34 | 2025-10-28 | 2025-11-22 |
+| [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2025-12-03 |  |
 | [Wasn't Born To Follow](https://open.spotify.com/track/0Rx5hdjmYdBeaYDvSsCOeR) | [Silverbird](https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW) | [Wasn't Born To Follow](https://open.spotify.com/album/73KhJvGUfv9oRYbHlYp4xa) | 3:21 | 2025-10-20 |  |
 | [We Know](https://open.spotify.com/track/6mQqwT8Jde1KbJiIJ2xFf3) | [Spounk](https://open.spotify.com/artist/7JTljHSbdBmEsgjNB6IviO) | [We Know](https://open.spotify.com/album/5wht23W282apahy1VUzvKA) | 4:14 | 2025-11-26 |  |
 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 | 2025-11-16 |  |

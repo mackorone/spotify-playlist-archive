@@ -4,7 +4,7 @@
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 25 min
+78 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Asked For This](https://open.spotify.com/track/1k5AGIfp3NcmSN9XqTkxXB) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Keymix III](https://open.spotify.com/album/3ZkhHJ5yXx7q5EIPONr7Ni) | 2:17 | 2024-12-02 | 2025-01-20 |
 | [Baby Wyd? \(feat\. Lakeyah\)](https://open.spotify.com/track/080BnzVFYXgNR6f4jtyzkP) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:55 | 2022-10-28 |  |
 | [Baby Wyd? \(feat\. Lakeyah\)](https://open.spotify.com/track/7Kv4cX2Uz8QltmYNUjjU5K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/25K3Kzv6hXfi3Mslv3El5i) | 3:45 | 2022-10-28 | 2023-07-29 |
-| [Basic](https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 1:51 | 2022-10-28 |  |
+| [Basic](https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 1:51 | 2022-10-28 | 2025-12-04 |
 | [Big FlexHer](https://open.spotify.com/track/6Yw5G6x9tiuwzhgTiQtafh) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:35 | 2022-10-28 |  |
 | [BIRTHDAY FREESTYLE](https://open.spotify.com/track/5ac7sJvoNJePsYd6AmOE3E) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [BIRTHDAY FREESTYLE](https://open.spotify.com/album/4LqEhKLTVXwXUy3kTviW2d) | 1:37 | 2024-03-08 | 2024-03-10 |
 | [Bitch Duh \(Remix\)](https://open.spotify.com/track/4mu8JZ7AQKkSYk1DNBKjZT) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bitch Duh \(Remix\)](https://open.spotify.com/album/5Jnm3UWiuxJMcsn443Vb3i) | 2:52 | 2024-04-14 | 2024-04-27 |
@@ -27,6 +27,7 @@
 | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL) | 3:28 | 2024-08-03 |  |
 | [Check \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3nOUWFEtWaBlhfh2no0zs7) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:52 | 2022-10-28 |  |
 | [Clock It](https://open.spotify.com/track/5efqsqFTk4neSfEQiEBW7d) | [Tae The Don](https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Clock It](https://open.spotify.com/album/1qA052pbq56BWMT92dPi5P) | 3:32 | 2024-09-20 |  |
+| [Code](https://open.spotify.com/track/2fX6LtKu6I438tuFIaf18z) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:30 | 2025-12-04 |  |
 | [Cold \(feat\. Lakeyah\)](https://open.spotify.com/track/0CAZQv7S7Y7TGdQiuhF0bR) | [The Real Meladee](https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Cold \(feat\. Lakeyah\)](https://open.spotify.com/album/7aytuE5Q9TKFH1RfhXRpBi) | 2:19 | 2025-04-21 |  |
 | [Don’t Go](https://open.spotify.com/track/5de4ov0wqSliqRzzPIq1iw) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Don't Go](https://open.spotify.com/album/6bcHeawDcb8LE6VWSdWh8H) | 2:58 | 2022-10-28 |  |
 | [DTF \(Different Type Freak\)](https://open.spotify.com/track/2KBPffFwqp8mm4BtghQk4a) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [DTF \(Different Type Freak\)](https://open.spotify.com/album/37NAEoz0FkDJjyDEdZh838) | 3:26 | 2024-09-29 |  |

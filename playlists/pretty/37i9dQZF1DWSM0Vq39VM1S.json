@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388528,
+  "num_followers": 388499,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
+        "name": "Wally",
+        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 128332,
+      "name": "Wally",
+      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
         "name": "you chose this",
         "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 310853,
       "name": "Disarray",
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
-        "name": "Wally",
-        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 128332,
-      "name": "Wally",
-      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "What A Night",
-        "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf"
       },
       "artists": [
         {
-          "name": "Malted Milk",
-          "url": "https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 241398,
-      "name": "What A Night",
-      "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
+      "duration_ms": 236346,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Another Realm",
+        "url": "https://open.spotify.com/album/51TNqvCyyuL1o52uEuHqBU"
+      },
+      "artists": [
+        {
+          "name": "Bias Beats",
+          "url": "https://open.spotify.com/artist/2rufsSjAC70jRPV2oOxscT"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Another Realm",
+      "url": "https://open.spotify.com/track/6wr3FLzu6nmRoS26JCFxrw"
+    },
+    {
+      "album": {
         "name": "Vesica Piscis",
         "url": "https://open.spotify.com/album/7KnDYwanU8QUe8HpzDYLfM"
       },
@@ -558,7 +576,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 150857,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/4iOmGQQbhV8tunBS1y5yqT"
@@ -576,7 +594,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 264933,
       "name": "Conga Jog",
       "url": "https://open.spotify.com/track/5OHlCmavqq8SFwxmofUy9W"
@@ -666,7 +684,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 176250,
       "name": "Darma Karma",
       "url": "https://open.spotify.com/track/6ztM1Tfblptt8WPceaYzX7"
@@ -907,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Falling Notes",
+        "url": "https://open.spotify.com/album/2KElcMqcZf4OpmFu0FKAtG"
+      },
+      "artists": [
+        {
+          "name": "SoulPan",
+          "url": "https://open.spotify.com/artist/55TPaWQiFcIRFc6bAAWiO5"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143353,
+      "name": "Falling Notes",
+      "url": "https://open.spotify.com/track/36yPaf0AdFkIvcvXKGvBlG"
+    },
+    {
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/09szSOR5bIOJQj5yKQkcV9"
       },
@@ -918,7 +954,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 317360,
       "name": "Fantasy of Love (Improvisation Marimba Solo)",
       "url": "https://open.spotify.com/track/5GUUdEDHbJ4J9YnSwtrOag"
@@ -948,6 +984,24 @@
       "duration_ms": 190253,
       "name": "Feel Good (feat. myndstream)",
       "url": "https://open.spotify.com/track/4YQVSRecky68qQWynB5rYl"
+    },
+    {
+      "album": {
+        "name": "Firedance",
+        "url": "https://open.spotify.com/album/6dsTB85CMpxbEHFiNLpllw"
+      },
+      "artists": [
+        {
+          "name": "Liam Eira",
+          "url": "https://open.spotify.com/artist/0DcmehohVqz1uugEjY6thE"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151208,
+      "name": "Firedance",
+      "url": "https://open.spotify.com/track/54t0f02uDlAgQjx3GCSFQV"
     },
     {
       "album": {
@@ -1016,7 +1070,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 196626,
       "name": "Focus Five",
       "url": "https://open.spotify.com/track/0ioNpncHHj5EyI99GC2qtH"
@@ -1052,7 +1106,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 137689,
       "name": "Focus Seven",
       "url": "https://open.spotify.com/track/1Vnjs8CuNjzeQ1Oq7j4LKn"
@@ -1070,7 +1124,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 208457,
       "name": "Focus Three",
       "url": "https://open.spotify.com/track/0IfeZcPRMV8yUxgyisjZAq"
@@ -1172,7 +1226,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 124830,
       "name": "Gentle Rhythms",
       "url": "https://open.spotify.com/track/11dpbBP364SzOkNEqbClbl"
@@ -1226,7 +1280,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 176875,
       "name": "Hangimba",
       "url": "https://open.spotify.com/track/2xG6eMBqaFVHkB0TtS4S4P"
@@ -1244,7 +1298,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 102197,
       "name": "Healing Spring",
       "url": "https://open.spotify.com/track/0s5ncDMzVtHCXuNVKmcIfE"
@@ -1756,7 +1810,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 159637,
       "name": "Meditative Melodies - Percussive Version",
       "url": "https://open.spotify.com/track/1IxeEVRJjYO7ZqG5Fs4lSY"
@@ -1828,7 +1882,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 148333,
       "name": "Moondance",
       "url": "https://open.spotify.com/track/16dlWoI4M41clcuVN8F3o1"
@@ -1882,7 +1936,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 189979,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/6TWtWLKQ4uFVbQiNt3S6mD"
@@ -1900,7 +1954,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 153054,
       "name": "Mukti Tabla",
       "url": "https://open.spotify.com/track/3UjpG0dPWvSS8tsDsgvuy8"
@@ -1918,7 +1972,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 115914,
       "name": "Mystic Journe",
       "url": "https://open.spotify.com/track/2jEmGsN0by6lQLOTlrVGWM"
@@ -2138,7 +2192,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 178170,
       "name": "Piedras Encantadas",
       "url": "https://open.spotify.com/track/1Q0AJKWZhyWHDlUUnnZ5rs"
@@ -2178,7 +2232,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 282000,
       "name": "Powerfull Ra",
       "url": "https://open.spotify.com/track/0Ddy6MDY9iivXKPCX4EvDV"
@@ -2394,7 +2448,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 174428,
       "name": "Rooted",
       "url": "https://open.spotify.com/track/3lQU2pvUYWSllXksUpmDrn"
@@ -2430,7 +2484,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 159857,
       "name": "Ruby's Dance",
       "url": "https://open.spotify.com/track/0NXGeUwHAHttzLNhbv4oHB"
@@ -2592,7 +2646,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 188308,
       "name": "Slow Pace Papa",
       "url": "https://open.spotify.com/track/78ReLTBbzeqosiozbRwDkG"
@@ -2700,7 +2754,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 129059,
       "name": "Spirit Glow",
       "url": "https://open.spotify.com/track/572nNmnWtvn1ON7C6XkuCW"
@@ -2758,7 +2812,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 148163,
       "name": "Sun Sunil Beat",
       "url": "https://open.spotify.com/track/676FxH7m1xGxsuryz7D9OF"
@@ -2794,7 +2848,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 212400,
       "name": "Sunset Sky",
       "url": "https://open.spotify.com/track/3JAGyBNYLZav8h9uuDB5aZ"
@@ -2985,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "Vapour",
+        "url": "https://open.spotify.com/album/3MW7F3Ux89FzDyPXJ2JTgq"
+      },
+      "artists": [
+        {
+          "name": "Greecho",
+          "url": "https://open.spotify.com/artist/13x3oBzOHHvA23aEPvrLLx"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167616,
+      "name": "Vapour",
+      "url": "https://open.spotify.com/track/12RPyNYo5N0a3vBbQPWK6X"
+    },
+    {
+      "album": {
         "name": "When Souls Dream",
         "url": "https://open.spotify.com/album/1QNjDtHpFWDmYVCp3FIRub"
       },
@@ -2996,7 +3068,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 132431,
       "name": "When Souls Dream",
       "url": "https://open.spotify.com/track/34xhPeRHcdA2cdhYnk7XyU"
@@ -3014,7 +3086,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 154342,
       "name": "whisper",
       "url": "https://open.spotify.com/track/5MUvU7ylgZmnSjwXuquLXZ"

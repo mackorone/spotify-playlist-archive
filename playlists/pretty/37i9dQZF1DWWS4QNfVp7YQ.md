@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,870 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,891 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 17 | [Baila Tribal](https://open.spotify.com/track/2MGSQFNoGCmkX4eduyeZUv) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Huapango Tribal](https://open.spotify.com/album/2mIbKhtHembnY7MpRyewj4) | 3:19 |
 | 18 | [Pasito Chacalon](https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Pasito Chacalon](https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW) | 3:12 |
 | 19 | [Chiquetere vs Rockstar Tribal Mix](https://open.spotify.com/track/4vPRVHNmPf310sQRYJmSQO) | [Dj Gecko](https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ) | [Chiquetere vs Rockstar Tribal Mix](https://open.spotify.com/album/2NBtKwtr7Nd38M6wKlRYDn) | 3:23 |
-| 20 | [Pompi Cadera](https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Pompi Cadera](https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD) | 2:20 |
+| 20 | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U) | [Dj Moys](https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa) | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C) | 1:30 |
 | 21 | [Luego Luegito \[Electro Huapango\]](https://open.spotify.com/track/5HjFgPcDGw2aheShNLvoFq) | [Dj Gecko](https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ), [Chunti](https://open.spotify.com/artist/0ygGyoQL8ERbkZFOmwZWPb) | [Luego Luegito \[Electro Huapango\]](https://open.spotify.com/album/0Qqm11AsJS2mnGNYiStZ6k) | 2:37 |
-| 22 | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U) | [Dj Moys](https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa) | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C) | 1:30 |
+| 22 | [Pompi Cadera](https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Pompi Cadera](https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD) | 2:20 |
 | 23 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
 | 24 | [Ya Se Tardaron](https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed) | [Fierro Pa Dubai](https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze), [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv), [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Ya Se Tardaron](https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm) | 2:55 |
 | 25 | [vaMos](https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe) | [vaMos](https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr) | 2:51 |

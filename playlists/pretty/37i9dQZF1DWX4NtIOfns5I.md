@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > 🍃🍃🍃 Runo Plum on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,710 likes - 158 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,705 likes - 158 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

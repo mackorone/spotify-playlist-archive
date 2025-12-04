@@ -3640,7 +3640,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 225440,
       "name": "All These Things I Hate (Revolve Around Me)",
       "url": "https://open.spotify.com/track/6XimI1O15wpfwUdrCnlrxo"
@@ -4084,7 +4084,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 206973,
       "name": "Amber",
       "url": "https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl"
@@ -8730,7 +8730,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 226222,
       "name": "Beto\u2019s Horns - fred remix",
       "url": "https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np"
@@ -25772,7 +25772,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 174653,
       "name": "FaSHioN",
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
@@ -29008,7 +29008,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -29502,7 +29502,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 113230,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/0myPb7rgTdf5dTHnfwdvO9"
@@ -31044,6 +31044,24 @@
       "duration_ms": 171757,
       "name": "her",
       "url": "https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM"
+    },
+    {
+      "album": {
+        "name": "The Poison",
+        "url": "https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258279,
+      "name": "Her Voice Resides",
+      "url": "https://open.spotify.com/track/4cjsWth2U0KMpGLWuYuwKu"
     },
     {
       "album": {
@@ -59052,7 +59070,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 218133,
       "name": "qu\u00e9date - 5020 RCRDS Sessions",
       "url": "https://open.spotify.com/track/6OxAfOA7upecHKTlSA8NbJ"
@@ -59802,7 +59820,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 230240,
       "name": "Reliquia",
       "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
@@ -69698,7 +69716,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 348386,
       "name": "Tears Don't Fall",
       "url": "https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C"

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1080850,
+  "num_followers": 1081040,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAAADSwnGfASQUTUxLoYpN4Cy",
+  "snapshot_id": "aS4sAAAAAAD66ZqtoNppBCkSL3PR+Nyo",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Miel Amarga (En Vivo)",
-        "url": "https://open.spotify.com/album/6zvOKXWumgNxqeTgIhlMDE"
+        "name": "Se Ve\u00eda Venir",
+        "url": "https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk"
       },
       "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 258393,
-      "name": "Hasta la Miel Amarga - En Vivo",
-      "url": "https://open.spotify.com/track/2Jkd9fXio63N7nnUboiFg1"
+      "duration_ms": 152135,
+      "name": "Se Ve\u00eda Venir",
+      "url": "https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz"
     },
     {
       "added_at": null,
@@ -475,34 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Ve\u00eda Venir",
-        "url": "https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk"
+        "name": "Hasta la Miel Amarga (En Vivo)",
+        "url": "https://open.spotify.com/album/6zvOKXWumgNxqeTgIhlMDE"
       },
       "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 152135,
-      "name": "Se Ve\u00eda Venir",
-      "url": "https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Amor So\u00f1ado",
-        "url": "https://open.spotify.com/album/3wJhgrOnIBr48L7sHR1CXr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "El Amor So\u00f1ado",
-      "url": "https://open.spotify.com/track/70ncc1JFwpmMxfmyfGC7nL"
+      "duration_ms": 258393,
+      "name": "Hasta la Miel Amarga - En Vivo",
+      "url": "https://open.spotify.com/track/2Jkd9fXio63N7nnUboiFg1"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 205624,
       "name": "Descuide",
       "url": "https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Amor So\u00f1ado",
+        "url": "https://open.spotify.com/album/3wJhgrOnIBr48L7sHR1CXr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "El Amor So\u00f1ado",
+      "url": "https://open.spotify.com/track/70ncc1JFwpmMxfmyfGC7nL"
     },
     {
       "added_at": null,
@@ -615,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cu\u00e1nto Cuesta",
+        "url": "https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 174075,
+      "name": "Cu\u00e1nto Cuesta",
+      "url": "https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -651,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias (En Vivo)",
-        "url": "https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 235221,
-      "name": "Gracias (En Vivo)",
-      "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Canse de Amarte",
         "url": "https://open.spotify.com/album/3dICCmVAjGk6jEStG8ajYD"
       },
@@ -691,22 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1nto Cuesta",
-        "url": "https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf"
+        "name": "Gracias (En Vivo)",
+        "url": "https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
         }
       ],
-      "duration_ms": 174075,
-      "name": "Cu\u00e1nto Cuesta",
-      "url": "https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M"
+      "duration_ms": 235221,
+      "name": "Gracias (En Vivo)",
+      "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Borrachito",
-        "url": "https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 175798,
-      "name": "Amor Borrachito",
-      "url": "https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La Moyombiza (En Vivo)",
         "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 182750,
       "name": "Cita Con Un Invento (En Vivo)",
       "url": "https://open.spotify.com/track/4PfK8dEAp6rKxfOolZlBTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Borrachito",
+        "url": "https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 175798,
+      "name": "Amor Borrachito",
+      "url": "https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m"
     },
     {
       "added_at": null,

@@ -4,12 +4,13 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-458 songs - 20 hr 16 min
+459 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Cardinal Moonlight](https://open.spotify.com/track/7s46C3yeQvTSOehOgtmSCR) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [A Cardinal Moonlight](https://open.spotify.com/album/7Ckwv4JpZENq4VywyXBQKo) | 2:54 | 2023-11-24 | 2024-07-18 |
 | [A Little Hole In My Jeans](https://open.spotify.com/track/7b6g3CZ4ud4zllVhO9nSMT) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [A Little Hole In My Jeans](https://open.spotify.com/album/3QQLXcFcRaSRmA7WrWB9Wv) | 3:24 | 2022-03-03 | 2022-07-22 |
+| [A month later](https://open.spotify.com/track/21GQN0DUlTPGWDb1x4HG6t) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [A month later](https://open.spotify.com/album/018dxzIewlCnN3yx4DNTQJ) | 2:26 | 2025-12-03 |  |
 | [A Quiet Message](https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Quiet Message](https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT) | 2:45 | 2023-04-28 | 2023-08-26 |
 | [A Short Walk To Open Fields](https://open.spotify.com/track/0AcpMokszr0bPJQ5eoTPvg) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [A Short Walk To Open Fields](https://open.spotify.com/album/4DB1OJk9eG0vSkybSmHSQ0) | 3:12 | 2024-02-02 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/5RMXMzhvM7gptBbxwYrQaH) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [A Sky Full of Stars](https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1) | 2:36 | 2022-12-09 | 2024-01-12 |

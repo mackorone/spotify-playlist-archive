@@ -11351,6 +11351,24 @@
     },
     {
       "album": {
+        "name": "Romantico",
+        "url": "https://open.spotify.com/album/3N9wv27gzl0UgFKxWiXwbZ"
+      },
+      "artists": [
+        {
+          "name": "800 cherries",
+          "url": "https://open.spotify.com/artist/47mrO8UvhD1Qt6iAIy4fCO"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172133,
+      "name": "painty paint pots",
+      "url": "https://open.spotify.com/track/1CPoZksD5MBtt1bUr1de35"
+    },
+    {
+      "album": {
         "name": "French Exit",
         "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
       },

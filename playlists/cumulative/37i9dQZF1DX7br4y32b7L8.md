@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-821 songs - 1 day 17 hr 3 min
+822 songs - 1 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-03-27 | 2023-05-10 |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-04-10 | 2025-05-08 |
 | [Feels Like Summer](https://open.spotify.com/track/0ZERGmkfuDSrLaIzEGFdiH) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Feels Like Summer](https://open.spotify.com/album/6URIHB3zQ2ba7msR4gqf0k) | 3:07 | 2024-06-26 | 2024-10-02 |
+| [Fernando](https://open.spotify.com/track/6zeWfgymg7GMKRaKbpi0PX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/79ZX48114T8NH36MnOTtl7) | 4:12 | 2025-12-03 |  |
 | [Festival](https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Dopebwoy](https://open.spotify.com/artist/3kw9wqwYyvRCI6Q2rqsfNS) | [Festival](https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5) | 2:26 | 2024-04-29 | 2024-11-14 |
 | [Fiets](https://open.spotify.com/track/7dXXQRborTggr2w04Ofo1j) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Fiets](https://open.spotify.com/album/7hqt1WB6yK6aqET4FW0yEg) | 1:41 | 2023-02-23 | 2023-05-10 |
 | [Figa De Guiné](https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sabiá Marrom \- O Samba Raro De Alcione](https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H) | 2:19 | 2024-04-18 | 2024-04-23 |

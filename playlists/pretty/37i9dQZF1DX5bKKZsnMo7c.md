@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > Feeling dramatic? All eyes on you\. Cover: James The Seventh
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,261 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,267 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 40 | [Suzy Loves Sam](https://open.spotify.com/track/25DVLJE4mZkLLcaGZAaGXE) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Suzy Loves Sam](https://open.spotify.com/album/3b6c71BkZifMY0jhDVnaoE) | 2:45 |
 | 41 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
 | 42 | [Little Caesar](https://open.spotify.com/track/1DVRDDz3uoN09hhrIZSiLo) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Little Caesar](https://open.spotify.com/album/2jUoyp6QSpo5xWrEqNORfb) | 2:54 |
-| 43 | [BUZZZN](https://open.spotify.com/track/4aDvMSlTIH4RP66ignhUFv) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Rochelle Diamante](https://open.spotify.com/artist/1LBGR7XDjLl6koGwUthUEs), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/6UJha694htAqAP6Ad1M4Oy) | [Helluva Boss: Season One \(Original Soundtrack\)](https://open.spotify.com/album/7AjoUb9SiaGNfl2n99YYiz) | 2:56 |
+| 43 | [BUZZZN](https://open.spotify.com/track/4aDvMSlTIH4RP66ignhUFv) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Rochelle Diamante](https://open.spotify.com/artist/1LBGR7XDjLl6koGwUthUEs), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Helluva Boss: Season One \(Original Soundtrack\)](https://open.spotify.com/album/7AjoUb9SiaGNfl2n99YYiz) | 2:56 |
 | 44 | [Me and Mr Wolf](https://open.spotify.com/track/1v6IAzMitH1xrFEZLQmmRN) | [The Real Tuesday Weld](https://open.spotify.com/artist/12KsgeavNVg66cW2frw3j2) | [The Last Werewolf](https://open.spotify.com/album/3lZ6LgRBT4VV6bjFSdIFxp) | 4:24 |
 | 45 | [midsummer eve](https://open.spotify.com/track/7lw0siF0EfkgAvikG2364P) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [midsummer eve](https://open.spotify.com/album/764P0ojJNMFYW8RtZJIg3k) | 2:47 |
 | 46 | [Happy as Hell](https://open.spotify.com/track/29z3ucWB5DV4EjS1jQ7e39) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Happy as Hell](https://open.spotify.com/album/62DWhM478uiSSlDk6WQRpe) | 3:09 |

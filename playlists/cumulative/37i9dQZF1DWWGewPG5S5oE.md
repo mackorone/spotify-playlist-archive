@@ -2,7 +2,7 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 来海
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 石若駿
 
 471 songs - 1 day 14 hr 18 min
 

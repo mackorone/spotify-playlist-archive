@@ -767,6 +767,28 @@
     },
     {
       "album": {
+        "name": "Clingy",
+        "url": "https://open.spotify.com/album/5LDcYO9XbhB07Ul929cY6B"
+      },
+      "artists": [
+        {
+          "name": "Will Mikhael",
+          "url": "https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP"
+        },
+        {
+          "name": "Kate Lucero",
+          "url": "https://open.spotify.com/artist/1SdZxFV68TbpSkcXCSfvYF"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Clingy",
+      "url": "https://open.spotify.com/track/6TTt3qfJjMsQWzARMRCNzq"
+    },
+    {
+      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/1YFcJp3QzuuQDzoxYXECv4"
       },
@@ -2868,7 +2890,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy"

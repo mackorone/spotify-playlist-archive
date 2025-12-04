@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Number\_i
 
-1,423 songs - 3 day 9 hr 27 min
+1,424 songs - 3 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [ALONE](https://open.spotify.com/track/2445JyDGRHYTKR9z80bAK6) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [ALONE](https://open.spotify.com/album/42F5ZokDngGpz1CA5xGfkS) | 2:40 | 2025-11-04 | 2025-11-12 |
 | [Along the long journey](https://open.spotify.com/track/154GAA2hbSjg5JsyVKhXZ0) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Along the long journey](https://open.spotify.com/album/15eDW5n9pntrJ5ldiLvYCb) | 4:05 | 2024-02-28 | 2024-04-10 |
 | [AlwayS](https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [AlwayS](https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH) | 4:20 | 2024-12-03 | 2024-12-11 |
+| [Am I sick?](https://open.spotify.com/track/5QDdLCGbthqLgXt4Vr3UBF) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Gnarly](https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn) | 2:14 | 2025-12-02 |  |
 | [AM2:00](https://open.spotify.com/track/2NWckpgKS4ntbnUgPmZmnm) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [映画](https://open.spotify.com/album/3nKQTGFwJHHACw7hBo0yNx) | 2:58 | 2024-03-26 | 2024-04-17 |
 | [AMANOJAKU \(feat\. JUMADIBA\)](https://open.spotify.com/track/4k7VfslZnNImr1SiTviZHr) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [AMANOJAKU \(feat\. JUMADIBA\)](https://open.spotify.com/album/2LTH1z02AfuUcvslhBLnll) | 2:45 | 2025-07-29 | 2025-08-06 |
 | [Ambiguous](https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Ambiguous](https://open.spotify.com/album/3ny9YuGHA0QNn4F9zWC7Bz) | 3:40 | 2024-02-06 | 2024-03-02 |
@@ -248,6 +249,7 @@
 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 | 2024-04-23 | 2024-05-01 |
 | [FOREVER](https://open.spotify.com/track/4YXAXnmmqGgzxR2qyg3702) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FOREVER](https://open.spotify.com/album/19Yn54AlytsVPjLKGeWsQy) | 3:09 | 2024-10-15 | 2025-01-15 |
 | [FORGIVE ME](https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FORGIVE ME](https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4) | 2:23 | 2024-04-30 | 2024-06-26 |
+| [FORMULA](https://open.spotify.com/track/40s2ADMVQuDfwxxz77VamE) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [FORMULA](https://open.spotify.com/album/0NrdUxMMeAT84c5A138MAW) | 3:08 | 2025-12-02 |  |
 | [FR WIFI](https://open.spotify.com/track/53KgUEleZumOJqpyLYYZmF) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FR WIFI](https://open.spotify.com/album/68Xc6nf9ZXXuGllxaANgIa) | 2:02 | 2025-11-04 | 2025-11-12 |
 | [Freeedom!](https://open.spotify.com/track/2dTF4xMGiOvVLFK9pIbn4r) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [Freeedom!](https://open.spotify.com/album/75eVmLkIJr5imUL4lqdDTe) | 4:19 | 2025-07-08 | 2025-08-06 |
 | [FRIENDLY･NIGHTMARE](https://open.spotify.com/track/75AtakQOaa5aiIijRBuHic) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [野菜室](https://open.spotify.com/album/4gLOZcHug1wtpLWsQ31WE1) | 3:58 | 2023-11-23 | 2023-11-29 |
@@ -724,7 +726,6 @@
 | [Toryanse](https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57) | 2:36 | 2024-01-25 | 2024-01-27 |
 | [Touhikou](https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Touhikou](https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6) | 2:56 | 2023-12-26 | 2024-01-17 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-11-12 |
-| [Track 8](https://open.spotify.com/track/5QDdLCGbthqLgXt4Vr3UBF) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-02 |  |
 | [Transpose](https://open.spotify.com/track/0n2q9kCBG5QSgZx2sj4H1P) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/6txrWZ14wMs7sh93JtWFUU) | 3:59 | 2024-02-20 | 2024-03-13 |
 | [Transpose](https://open.spotify.com/track/1pXgfCnwQwziwKHULqVIXo) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin) | 3:59 | 2024-02-20 | 2024-02-22 |
 | [Trap](https://open.spotify.com/track/3Oftm2skZTLoKMZcxrZ1xM) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Only You](https://open.spotify.com/album/3EEixzNLIpp0tPr0pCZGIJ) | 3:02 | 2025-11-25 |  |

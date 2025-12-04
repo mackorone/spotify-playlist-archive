@@ -4,7 +4,7 @@
 
 > Our favorite subject? Their chemistry\. Listen to the music from Seasons 1 & 2 of Maxton Hall: The World Between Us, now streaming on Prime Video.
 
-86 songs - 3 hr 57 min
+87 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Brave](https://open.spotify.com/track/4wt36rVlPalOn7JxrkNp6J) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Outside the Lines](https://open.spotify.com/album/7aEnxBfMJA7qgqlKg6RyYZ) | 4:07 | 2024-06-06 |  |
 | [Carry No Thing](https://open.spotify.com/track/6mzVg4nrmN7WCR0duIlO64) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 3:23 | 2025-11-07 |  |
 | [Charming Rivalry \- from "Maxton Hall"](https://open.spotify.com/track/0LH5IZjJrQdHlK1622IcR2) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:02 | 2024-06-06 |  |
+| [Chasing Cars](https://open.spotify.com/track/2VlEyuzxCN7wN9utykzDmn) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Chasing Cars](https://open.spotify.com/album/3i7moD9yaXK0o48iMjJkWQ) | 3:55 | 2025-12-03 |  |
 | [Every High](https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Every High](https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl) | 3:33 | 2024-06-06 |  |
 | [Feels Like Home \(Extended Album Version\) \(feat\. Victoria Hillestad\) \- from "Maxton Hall"](https://open.spotify.com/track/11BCQxNExeo7mIJENUq9Zx) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6), [Victoria Hillestad](https://open.spotify.com/artist/5PQx75WvXW8l49ONY0C7IC) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 2:30 | 2024-06-06 |  |
 | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/track/5Iv4HuT9pKPi5WuE2ii3vs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Exotica](https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in) | 3:20 | 2025-11-14 |  |

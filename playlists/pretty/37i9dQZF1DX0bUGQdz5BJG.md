@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Cooper Alan
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,501 likes - 200 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,544 likes - 200 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 23 | [Wrong Crowd](https://open.spotify.com/track/6PSAP00zk2ewnQJwATQMPh) | [Ethan Miller](https://open.spotify.com/artist/4ZFU6OpvQZjWGe4fUJ9Dw1) | [Wrong Crowd](https://open.spotify.com/album/7cnihqngjCr2KyiS0GkKWu) | 3:26 |
 | 24 | [Make Me A Name](https://open.spotify.com/track/12OK9zE0J8KDldy2IxE82l) | [Will Moseley](https://open.spotify.com/artist/27xQuXlRNt5dlQ4ripYabX) | [Make Me A Name](https://open.spotify.com/album/1EzrPnl29MSEZTmXhw6VsU) | 4:41 |
 | 25 | [Coffee Shop in Kyoto](https://open.spotify.com/track/6py6bHhkDRw2MXpRAtcdfV) | [Sydney Quiseng](https://open.spotify.com/artist/2T2sNGSPaXdWzNh6lnv6jj) | [Coffee Shop in Kyoto](https://open.spotify.com/album/3NN6OU6DRuew84eWsU6WwZ) | 3:31 |
-| 26 | [Cared Enough to Cry](https://open.spotify.com/track/0mDUrNigLV3u8OiB0zFl3Q) | [Deltona](https://open.spotify.com/artist/2utTr24B0j3ZFUcl57SmE1) | [Cared Enough to Cry](https://open.spotify.com/album/0LWjUTPISHHemmTcTS8xLN) | 3:08 |
+| 26 | [Cared Enough to Cry](https://open.spotify.com/track/0mDUrNigLV3u8OiB0zFl3Q) | [DELTONA](https://open.spotify.com/artist/2utTr24B0j3ZFUcl57SmE1) | [Cared Enough to Cry](https://open.spotify.com/album/0LWjUTPISHHemmTcTS8xLN) | 3:08 |
 | 27 | [Frostbite](https://open.spotify.com/track/1bJPV0YFBxytUqVWnwngq5) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Frostbite](https://open.spotify.com/album/1kGSdeHUwCRfN1Fi7v02i4) | 3:22 |
 | 28 | [Night N' Day](https://open.spotify.com/track/1xGT0LYGX1GBGm3fQP2fAM) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Night N' Day](https://open.spotify.com/album/1WH0bp0oV0xRNoZgYcAoih) | 3:02 |
 | 29 | [Can't Help Myself](https://open.spotify.com/track/1OWxuI5i5MKwQlRnYyiDAx) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Can't Help Myself](https://open.spotify.com/album/0kyK3thhUvXdeB9iGER66V) | 2:56 |

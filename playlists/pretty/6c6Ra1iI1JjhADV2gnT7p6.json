@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of indie, dreampop and lofi vibes. Updated every week, save your favorites \ud83d\udc9c",
-  "num_followers": 59502,
+  "num_followers": 59512,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAApu9e5KRD34G7utgSiJh55kh8QkPs0",
+  "snapshot_id": "AAApvkb12Ih4bQuZOrGme4HVSW7OdxMz",
   "tracks": [
     {
       "added_at": "2025-11-30 12:06:44",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-11-30 12:06:44",
       "album": {
-        "name": "i love you so !",
-        "url": "https://open.spotify.com/album/2J22fkWv4Y5m4jPSkS5OrL"
-      },
-      "artists": [
-        {
-          "name": "Retail Drugs",
-          "url": "https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v"
-        }
-      ],
-      "duration_ms": 120743,
-      "name": "41",
-      "url": "https://open.spotify.com/track/6GAmnX6r8hkts4YVCcB8JI"
-    },
-    {
-      "added_at": "2025-11-30 12:06:44",
-      "album": {
         "name": "I Wanna Bite",
         "url": "https://open.spotify.com/album/6zVzaHO69iNRM1ImBEzZ7E"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 165080,
       "name": "Ionian Mirage",
       "url": "https://open.spotify.com/track/0CmVVolwKT2RxsZNHTPFC7"
+    },
+    {
+      "added_at": "2025-11-30 12:06:44",
+      "album": {
+        "name": "i love you so !",
+        "url": "https://open.spotify.com/album/2J22fkWv4Y5m4jPSkS5OrL"
+      },
+      "artists": [
+        {
+          "name": "Retail Drugs",
+          "url": "https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v"
+        }
+      ],
+      "duration_ms": 120743,
+      "name": "41",
+      "url": "https://open.spotify.com/track/6GAmnX6r8hkts4YVCcB8JI"
     },
     {
       "added_at": "2025-11-30 12:06:44",

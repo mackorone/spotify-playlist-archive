@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 334,
+  "num_followers": 343,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACBX88vQwJZEtBFPOghgIPylrrev8p",
+  "snapshot_id": "AAACDSgAqN7s1akkUVx6M33AIC4KLux8",
   "tracks": [
     {
       "added_at": "2025-11-16 12:40:10",
@@ -1535,6 +1535,134 @@
       "duration_ms": 224226,
       "name": "Coming Home (UNITED)",
       "url": "https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW"
+    },
+    {
+      "added_at": "2025-12-03 15:26:35",
+      "album": {
+        "name": "The Hook",
+        "url": "https://open.spotify.com/album/2OOTX25BaTsbeoSL5yvNWy"
+      },
+      "artists": [
+        {
+          "name": "PR\u00ddNCESS",
+          "url": "https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "The Hook",
+      "url": "https://open.spotify.com/track/1d56JDKGyZatnz6RRJjHcO"
+    },
+    {
+      "added_at": "2025-12-03 15:31:35",
+      "album": {
+        "name": "Diagnostics",
+        "url": "https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0"
+      },
+      "artists": [
+        {
+          "name": "The Galacticas",
+          "url": "https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Diagnostics",
+      "url": "https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev"
+    },
+    {
+      "added_at": "2025-12-03 15:43:06",
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt"
+      },
+      "artists": [
+        {
+          "name": "sullivan grace band",
+          "url": "https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd"
+        }
+      ],
+      "duration_ms": 143289,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny"
+    },
+    {
+      "added_at": "2025-12-03 15:45:31",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/3XL3e4KxuMu0ty0nj8HW2F"
+      },
+      "artists": [
+        {
+          "name": "Peyote",
+          "url": "https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF"
+        }
+      ],
+      "duration_ms": 237090,
+      "name": "Ciclos",
+      "url": "https://open.spotify.com/track/4oIDPzkzzlZSWo2IKn6YfR"
+    },
+    {
+      "added_at": "2025-12-03 16:14:35",
+      "album": {
+        "name": "Time to Heal",
+        "url": "https://open.spotify.com/album/4f704M5LVep2ENY3BM7SKG"
+      },
+      "artists": [
+        {
+          "name": "Pin Dog",
+          "url": "https://open.spotify.com/artist/57B5OFNTlSQZ4aofUvFRZR"
+        }
+      ],
+      "duration_ms": 193290,
+      "name": "Time to Heal",
+      "url": "https://open.spotify.com/track/6TNPl5MZg4c0lkuJbvn5Hc"
+    },
+    {
+      "added_at": "2025-12-03 16:20:02",
+      "album": {
+        "name": "elvira",
+        "url": "https://open.spotify.com/album/51zYMlPIqJDH3m6h0QdJrI"
+      },
+      "artists": [
+        {
+          "name": "The Links",
+          "url": "https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c"
+        }
+      ],
+      "duration_ms": 253953,
+      "name": "elvira",
+      "url": "https://open.spotify.com/track/1MN0j7rkRyjKHNnpPrRI6p"
+    },
+    {
+      "added_at": "2025-12-03 16:24:06",
+      "album": {
+        "name": "Crazy Dance of Death",
+        "url": "https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS"
+      },
+      "artists": [
+        {
+          "name": "Ask The Dust",
+          "url": "https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND"
+        }
+      ],
+      "duration_ms": 191021,
+      "name": "Crazy Dance of Death",
+      "url": "https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU"
+    },
+    {
+      "added_at": "2025-12-03 16:27:10",
+      "album": {
+        "name": "ostracized myself",
+        "url": "https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm"
+      },
+      "artists": [
+        {
+          "name": "W\u0142adek Sheen",
+          "url": "https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe"
+        }
+      ],
+      "duration_ms": 170828,
+      "name": "ostracized myself",
+      "url": "https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

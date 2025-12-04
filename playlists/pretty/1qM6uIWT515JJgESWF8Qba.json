@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 243,
+  "num_followers": 244,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAAy4GEBEeZPiYuC15kzRNfxw+CL9rs",
+  "snapshot_id": "AAAAziVT7XgjREGjpeDJdPL/cm417Foz",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -152,8 +152,8 @@
       },
       "artists": [
         {
-          "name": "Vagabond-321",
-          "url": "https://open.spotify.com/artist/4bdOom5fRimwszocItXymk"
+          "name": "Vagabond",
+          "url": "https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK"
         }
       ],
       "duration_ms": 192085,
@@ -1127,6 +1127,54 @@
       "duration_ms": 154180,
       "name": "El Dilema",
       "url": "https://open.spotify.com/track/4agirhYgist2lFc31siLMJ"
+    },
+    {
+      "added_at": "2025-12-03 15:40:15",
+      "album": {
+        "name": "This is under control.",
+        "url": "https://open.spotify.com/album/6sSQkIGAZJR1QiYMCtHQds"
+      },
+      "artists": [
+        {
+          "name": "Twist & Writhe",
+          "url": "https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s"
+        }
+      ],
+      "duration_ms": 228726,
+      "name": "This is under control.",
+      "url": "https://open.spotify.com/track/600eSAScJN873sbh9virWp"
+    },
+    {
+      "added_at": "2025-12-03 16:29:06",
+      "album": {
+        "name": "Overthrown",
+        "url": "https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ"
+      },
+      "artists": [
+        {
+          "name": "King's Vengeance",
+          "url": "https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp"
+        }
+      ],
+      "duration_ms": 385285,
+      "name": "Burn It Down - '25",
+      "url": "https://open.spotify.com/track/077M4QbpESAeYneFBGqRdW"
+    },
+    {
+      "added_at": "2025-12-03 16:29:54",
+      "album": {
+        "name": "Overthrown",
+        "url": "https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ"
+      },
+      "artists": [
+        {
+          "name": "King's Vengeance",
+          "url": "https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp"
+        }
+      ],
+      "duration_ms": 362916,
+      "name": "Lie - '25",
+      "url": "https://open.spotify.com/track/6pJJ8YphCAGDA89qMMhKPr"
     }
   ],
   "unique_name": "Local Rock Bands",

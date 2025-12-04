@@ -1,6 +1,6 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 120857,
+  "num_followers": 120903,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "Amores Fingidos",
-      "url": "https://open.spotify.com/track/0wW9b7PRLE7JruS2QOdq92"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "Adi\u00f3s A Chalino",
         "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 190937,
       "name": "Mario Peralta",
       "url": "https://open.spotify.com/track/6HRpgUqFOM2qHJv0jgygu8"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "Amores Fingidos",
+      "url": "https://open.spotify.com/track/0wW9b7PRLE7JruS2QOdq92"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 218044,
-      "name": "Los Tequileros",
-      "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "Los Buitres Con Tololoche",
         "url": "https://open.spotify.com/album/3KLqwopqU408QEtrawjdQu"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 151213,
       "name": "Sanguinarios Del M1",
       "url": "https://open.spotify.com/track/5GTtj2q0psedXHdUnFG4z3"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 218044,
+      "name": "Los Tequileros",
+      "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
     }
   ],
   "unique_name": "We Love Corridos Viejitos ",

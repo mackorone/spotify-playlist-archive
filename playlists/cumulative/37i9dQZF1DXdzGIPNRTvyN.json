@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Calm Mind",
+        "url": "https://open.spotify.com/album/4hQSRlCnpDXUoeqguI05tc"
+      },
+      "artists": [
+        {
+          "name": "Orbit Of Zen",
+          "url": "https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149491,
+      "name": "Calm Mind",
+      "url": "https://open.spotify.com/track/6Gt0dkoMbaXGkHegYj9mXC"
+    },
+    {
+      "album": {
         "name": "Calm ripples",
         "url": "https://open.spotify.com/album/6vT4XJuA1Nho9EM1NltcrO"
       },
@@ -6418,7 +6436,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 170147,
       "name": "Treasures (Nature)",
       "url": "https://open.spotify.com/track/6dSo5PzTyaIvftTITkuZWS"

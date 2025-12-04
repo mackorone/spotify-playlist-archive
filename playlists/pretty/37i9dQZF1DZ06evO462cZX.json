@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 44692,
+  "num_followers": 44695,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAABAqYgrVn5u7OOMEnfD2VBC",
+  "snapshot_id": "aS4sAAAAAAC8vZ0rBH/aBiRyjiYBkBmX",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Five Hours",
-        "url": "https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 326887,
-      "name": "Five Hours",
-      "url": "https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 167500,
       "name": "Savage",
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Five Hours",
+        "url": "https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 326887,
+      "name": "Five Hours",
+      "url": "https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT"
     },
     {
       "added_at": null,
@@ -272,7 +272,7 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 158035,
+      "duration_ms": 156428,
       "name": "TUCU",
       "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
     },
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 185076,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como La Flor",
         "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
       },
@@ -375,26 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OE OE (Deorro Remix)",
-        "url": "https://open.spotify.com/album/6gsQLvZyNE3Kx9MQIuFpEc"
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Louis BPM",
-          "url": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 206769,
-      "name": "OE OE - Deorro Remix",
-      "url": "https://open.spotify.com/track/2ps5eo4OC4U6oyxAWVZ6Cs"
+      "duration_ms": 185076,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy"
     },
     {
       "added_at": null,
@@ -419,6 +395,30 @@
       "duration_ms": 165000,
       "name": "Bring It Back (feat. Max Styler)",
       "url": "https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OE OE (Deorro Remix)",
+        "url": "https://open.spotify.com/album/6gsQLvZyNE3Kx9MQIuFpEc"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Louis BPM",
+          "url": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "OE OE - Deorro Remix",
+      "url": "https://open.spotify.com/track/2ps5eo4OC4U6oyxAWVZ6Cs"
     },
     {
       "added_at": null,

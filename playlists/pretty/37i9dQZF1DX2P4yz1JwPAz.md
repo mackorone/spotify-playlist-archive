@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 
 > 808s & Melodies\. Cover: Blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,381 likes - 61 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,382 likes - 61 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 | 31 | [What Can I Say](https://open.spotify.com/track/6HVlPPWZcwAQOtvPbNnJMI) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [What Can I Say](https://open.spotify.com/album/3VO4UKvjQDYYseML7IyGJN) | 2:42 |
 | 32 | [Latest Trends \(feat\. A Boogie wit da Hoodie\) \- Remix](https://open.spotify.com/track/5IEV9dsY2iqC8ICtjAw0ER) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Latest Trends \(feat\. A Boogie wit da Hoodie\) \[Remix\]](https://open.spotify.com/album/7jsv1OYZ1fspWgtFtdaEZf) | 3:17 |
 | 33 | [Who Woulda Thought](https://open.spotify.com/track/7qWJlnmU20sX2zQU6UkZxx) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:49 |
-| 34 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
-| 35 | [Question Us](https://open.spotify.com/track/2NG11shSzyFFwd3z8yJTGa) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Question Us](https://open.spotify.com/album/54NmUOZk0EwYG03X3Ppnz3) | 3:32 |
+| 34 | [Question Us](https://open.spotify.com/track/2NG11shSzyFFwd3z8yJTGa) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Question Us](https://open.spotify.com/album/54NmUOZk0EwYG03X3Ppnz3) | 3:32 |
+| 35 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
 | 36 | [Back 2 Back](https://open.spotify.com/track/4o48inbA3UIzhN6bXmw7mq) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [Dirtbike Lb](https://open.spotify.com/artist/3LxQ9uN2B3DAn7riENlpcQ), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Cold Feet](https://open.spotify.com/album/4PoW2QPYyGG7KqLYffTtym) | 3:08 |
 | 37 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [JNR CHOI](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 |
 | 38 | [Make It Out](https://open.spotify.com/track/4rs6ragYtEcQKKymPvTjW3) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Make It Out](https://open.spotify.com/album/6t85lyv6xJR1K7jRIItTXP) | 2:52 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 | 45 | [Time](https://open.spotify.com/track/4eJsS3MQMHUgkGLOJONyN7) | [Brandz](https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl), [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [25/8](https://open.spotify.com/album/17RR2AT87P8UELwlelwM7b) | 3:04 |
 | 46 | [Sit Back](https://open.spotify.com/track/7E9N70fhyaUnhgMl9OlRgF) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Sit Back](https://open.spotify.com/album/02MX06GlX0M5zl7XSg1b54) | 3:00 |
 | 47 | [Kirkobain](https://open.spotify.com/track/4RCqh5udSylWxKkW3pEDRI) | [Kirky](https://open.spotify.com/artist/2fzNiCEzgdhft2I2PiaB8h) | [Kirkobain](https://open.spotify.com/album/7lKr2UPDsbDBv0fjLNFv2h) | 2:43 |
-| 48 | [Larger](https://open.spotify.com/track/2rsFK7wXrpF6Y8SuHl6N61) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ) | [Larger](https://open.spotify.com/album/4FFqRS78x1EkxKTib3dKJV) | 2:32 |
-| 49 | [Come Ouu \(feat\. Jrilla\)](https://open.spotify.com/track/5AZfN1S0gAbaMtgrOFoxsD) | [SELLO](https://open.spotify.com/artist/6GdZAjpf8BRRnbBWLaiFZ7), [JRILLA](https://open.spotify.com/artist/29Xl0H2RxIYmnodIPU5Jw1) | [SELLÓTAPE](https://open.spotify.com/album/2FxKuexnnZpUS2g23JC8zY) | 3:18 |
+| 48 | [Come Ouu \(feat\. Jrilla\)](https://open.spotify.com/track/5AZfN1S0gAbaMtgrOFoxsD) | [SELLO](https://open.spotify.com/artist/6GdZAjpf8BRRnbBWLaiFZ7), [JRILLA](https://open.spotify.com/artist/29Xl0H2RxIYmnodIPU5Jw1) | [SELLÓTAPE](https://open.spotify.com/album/2FxKuexnnZpUS2g23JC8zY) | 3:18 |
+| 49 | [Larger](https://open.spotify.com/track/2rsFK7wXrpF6Y8SuHl6N61) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ) | [Larger](https://open.spotify.com/album/4FFqRS78x1EkxKTib3dKJV) | 2:32 |
 | 50 | [Platonic](https://open.spotify.com/track/7MpWkFfg0wLMCvo53ChsPF) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv) | [Platonic](https://open.spotify.com/album/6fBFIDG05ozVbtZYoMx1Bu) | 2:18 |
 | 51 | [Signals](https://open.spotify.com/track/3z32rAkX5UzIp9jwoNjcjD) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [Signals](https://open.spotify.com/album/2eKKYq1k31wypkignW6pL7) | 2:44 |
 | 52 | [Know Your Worth](https://open.spotify.com/track/3qRZfZFalWv7Cu0XZJd6yv) | [Isong](https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z) | [Know Your Worth](https://open.spotify.com/album/4vJEXjkTlqYhoJVhUExrGz) | 3:15 |
-| 53 | [Quiet](https://open.spotify.com/track/5Y3Mj308BxTie361t8iyLt) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ), [Jada O'Neill](https://open.spotify.com/artist/67XWu4IXgDzcwqrx6zvyfi) | [Quiet](https://open.spotify.com/album/0bW473EJyGNL1UkHzoY3jz) | 2:32 |
-| 54 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
+| 53 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
+| 54 | [Quiet](https://open.spotify.com/track/5Y3Mj308BxTie361t8iyLt) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ), [Jada O'Neill](https://open.spotify.com/artist/67XWu4IXgDzcwqrx6zvyfi) | [Quiet](https://open.spotify.com/album/0bW473EJyGNL1UkHzoY3jz) | 2:32 |
 | 55 | [Hood Love](https://open.spotify.com/track/6GWXCiPbAyWf6gn09jRrtC) | [Laurena Volanté](https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu) | [RnDrill](https://open.spotify.com/album/2WhlhHXlA3xrM4MBAE1Xvo) | 2:34 |
 | 56 | [Nebula](https://open.spotify.com/track/4e33Gpk6gvBA78S5RgZLGB) | [Lloyd Luther](https://open.spotify.com/artist/6AtOBnmVBGL5a9hZ4WFi6p) | [Nebula](https://open.spotify.com/album/1DOEJ6QPTu2mum2ZbJnrEn) | 3:02 |
 | 57 | [GET IT TOGETHER](https://open.spotify.com/track/54EGc9OibAphFj1hMFgedw) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [GET IT TOGETHER](https://open.spotify.com/album/4RUxPcYOy8IL3ACwlIXEfu) | 2:20 |

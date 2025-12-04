@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 137496,
+  "num_followers": 137495,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
+        "name": "Mais de N\u00f3s",
+        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174361,
+      "name": "Mais de N\u00f3s",
+      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
+    },
+    {
+      "added_at": "2025-11-25 18:54:11",
+      "album": {
         "name": "Areia Fina",
         "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 211200,
       "name": "Areia Fina",
       "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
-    },
-    {
-      "added_at": "2025-11-25 18:54:11",
-      "album": {
-        "name": "Mais de N\u00f3s",
-        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174361,
-      "name": "Mais de N\u00f3s",
-      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -571,26 +571,6 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
-        "name": "Dia Branco",
-        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 147899,
-      "name": "Dia Branco",
-      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
-    },
-    {
-      "added_at": "2025-11-25 18:54:11",
-      "album": {
         "name": "Al\u00f4 Al\u00f4, Como Vai?",
         "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
       },
@@ -623,18 +603,22 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
-        "name": "Mar\u00e9",
-        "url": "https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l"
+        "name": "Dia Branco",
+        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
       },
       "artists": [
         {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
         }
       ],
-      "duration_ms": 203493,
-      "name": "Seu Pensamento",
-      "url": "https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv"
+      "duration_ms": 147899,
+      "name": "Dia Branco",
+      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -651,6 +635,22 @@
       "duration_ms": 199944,
       "name": "Brother, Father, Sister And Mother",
       "url": "https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3"
+    },
+    {
+      "added_at": "2025-11-25 18:54:11",
+      "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Seu Pensamento",
+      "url": "https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -711,30 +711,6 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
-        "name": "O Futuro N\u00e3o Demora",
-        "url": "https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
-        },
-        {
-          "name": "Edgar",
-          "url": "https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "Sonar",
-      "url": "https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG"
-    },
-    {
-      "added_at": "2025-11-25 18:54:11",
-      "album": {
         "name": "Quem Tem Um Amigo (Tem Tudo)",
         "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 246533,
       "name": "Quem Tem Um Amigo (Tem Tudo) (Remix) (feat. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid)",
       "url": "https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3"
+    },
+    {
+      "added_at": "2025-11-25 18:54:11",
+      "album": {
+        "name": "O Futuro N\u00e3o Demora",
+        "url": "https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        },
+        {
+          "name": "Edgar",
+          "url": "https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z"
+        }
+      ],
+      "duration_ms": 170293,
+      "name": "Sonar",
+      "url": "https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
-        "name": "Baby 95",
-        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 318237,
-      "name": "Baby 95",
-      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
-    },
-    {
-      "added_at": "2025-11-25 18:54:11",
-      "album": {
         "name": "A Pele do Futuro",
         "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 283137,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/4eSjkLKo82UM5sQEwA72jw"
+    },
+    {
+      "added_at": "2025-11-25 18:54:11",
+      "album": {
+        "name": "Baby 95",
+        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 318237,
+      "name": "Baby 95",
+      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
-        "name": "Te Amo L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Decis\u00e3o de Te Amar",
-      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
-    },
-    {
-      "added_at": "2025-11-25 18:54:11",
-      "album": {
         "name": "SAGRADO, Vol 2",
         "url": "https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 222834,
       "name": "Coisas do Amor (Me Chama)",
       "url": "https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX"
+    },
+    {
+      "added_at": "2025-11-25 18:54:11",
+      "album": {
+        "name": "Te Amo L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Decis\u00e3o de Te Amar",
+      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
     },
     {
       "added_at": "2025-11-25 18:54:11",

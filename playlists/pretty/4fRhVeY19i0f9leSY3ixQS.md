@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,055 likes - 271 songs - 15 hr 26 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,056 likes - 275 songs - 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,5 +279,9 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 269 | [Piras](https://open.spotify.com/track/1zfvzrHSoyScG5H9tWhpY9) | [No Drop For Us](https://open.spotify.com/artist/4miQtink0mV5twP3iWXFlw) | [Antesis, Pt\. 2](https://open.spotify.com/album/2VsJwTv5rzrQ4jMAdlesz0) | 2:58 |
 | 270 | [Zero Bullshit](https://open.spotify.com/track/1o0CgT5iLjXXhaQ7IcYHl6) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Zero Bullshit](https://open.spotify.com/album/5BGxbWMYET1qi1aNQ0esDz) | 4:02 |
 | 271 | [Silhouette Dans Le Désert](https://open.spotify.com/track/1nYPDlyYuMLqMFrIUOSDhG) | [Pixel In A Box](https://open.spotify.com/artist/3cBTA11xDzx4RJH9ST1U2s) | [Silhouette Dans Le Désert](https://open.spotify.com/album/1zApmSAcMWqHzUtSLPecmG) | 3:42 |
+| 272 | [LEGACY](https://open.spotify.com/track/1f1FyrCDwtLWOwrsouJrS7) | [Ashe B](https://open.spotify.com/artist/3HgtNDjt6RduA1udWp3sbQ) | [LEGACY](https://open.spotify.com/album/6QVGvi9ltKtk9qMNyhCmoV) | 3:15 |
+| 273 | [Dirty Road](https://open.spotify.com/track/1mPxBtfu7Qad4RCOWK8SNF) | [JACK FLINT](https://open.spotify.com/artist/3C9CMQQDcbCQ9uUkg2ribC) | [Dirty Road](https://open.spotify.com/album/3NlyK2erdevSrtUhHEBIkD) | 5:41 |
+| 274 | [Self Destruct](https://open.spotify.com/track/1FbDbjWWRYjB14tfx8xqPS) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Self Destruct](https://open.spotify.com/album/10fAkS3LWHtTb3LL4027T1) | 5:09 |
+| 275 | [Mud, Sweat, and Tears](https://open.spotify.com/track/2acNWnoObRre52q1zphDrJ) | [The Unk Skunk](https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe) | [Mischief and Mayhem](https://open.spotify.com/album/0IonnFQaTjZvRJAj3d896O) | 3:02 |
 
-Snapshot ID: `AAAH6/LDGERfEZhdbR0DEmnVJWnhLhxr`
+Snapshot ID: `AAAH7/h+R0hIhGPhMp17P35Hw1Hx5G82`

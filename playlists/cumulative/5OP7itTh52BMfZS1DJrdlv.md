@@ -4,7 +4,7 @@
 
 > Christmas Songs 🎅 Classic Christmas Playlist 🎄 2025 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-192 songs - 10 hr 10 min
+193 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Take Me Home For Christmas](https://open.spotify.com/track/72HP2M4jjw4t0AIGdEVGEF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Take Me Home For Christmas](https://open.spotify.com/album/5nzOzmqaWGkrlfWfk9Jrfh) | 3:23 | 2024-10-04 | 2025-07-02 |
 | [Tangled in Tinsel](https://open.spotify.com/track/7yAs6GOr6RKjfinavy167N) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 3:25 | 2023-12-09 | 2024-12-11 |
 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 | 2025-07-01 |  |
-| [That's Christmas to Me](https://open.spotify.com/track/2U9kDk5mlHYunC7PvbZ8KX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:02 | 2025-07-01 |  |
+| [That's Christmas to Me](https://open.spotify.com/track/2U9kDk5mlHYunC7PvbZ8KX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:02 | 2025-07-01 | 2025-12-04 |
 | [The Christmas Song](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 4:18 | 2023-12-09 | 2025-07-02 |
 | [The Christmas Song \(Chestnuts Roasting on an Open Fire\)](https://open.spotify.com/track/6m0vO299PSkO0Zl5F4Gvd0) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:25 | 2025-09-19 |  |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2025-07-01 |  |
@@ -171,6 +171,7 @@
 | [The Christmas Sweater](https://open.spotify.com/track/4neC8JZBnxcwVXb9hrKe3I) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:43 | 2023-12-09 | 2025-07-02 |
 | [The First Noel](https://open.spotify.com/track/25W3eewfp10geV3fzWIGq3) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [The First Noel](https://open.spotify.com/album/2fzlF3ddXnOulkkIq44NpI) | 4:21 | 2024-12-10 | 2025-07-02 |
 | [The Little Drummer Boy \- Remastered 2006](https://open.spotify.com/track/0pAT3JUEjIiqUkwxE0vbBQ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 3:00 | 2025-07-01 |  |
+| [The Power of Love](https://open.spotify.com/track/0sE9ZTxMxYneIUAEHN4Tg7) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 4:05 | 2025-12-03 |  |
 | [The Power of Love](https://open.spotify.com/track/7FTyjQwlWyg0AeghomXjVY) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:05 | 2023-12-09 | 2024-11-05 |
 | [Think of Christmas](https://open.spotify.com/track/60ypavjPmJKbrcoDLd7NJH) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:50 | 2023-12-09 |  |
 | [This Christmas](https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 3:51 | 2025-07-01 | 2025-09-20 |

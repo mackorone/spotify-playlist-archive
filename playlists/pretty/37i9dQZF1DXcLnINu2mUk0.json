@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Murta",
-  "num_followers": 52994,
+  "num_followers": 52988,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,26 @@
     {
       "added_at": "2025-11-28 00:00:07",
       "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 201962,
+      "name": "S\u00f3 D\u00e1",
+      "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
+    },
+    {
+      "added_at": "2025-11-28 00:00:07",
+      "album": {
         "name": "Chakras",
         "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 196384,
       "name": "Chakras",
       "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
-    },
-    {
-      "added_at": "2025-11-28 00:00:07",
-      "album": {
-        "name": "ALTA COSTURA",
-        "url": "https://open.spotify.com/album/1W9sthlkh5jxTd0NloMCnJ"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "FRANKIEONTHEGUITAR",
-          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Como Seria? / Amor S\u00f3brio",
-      "url": "https://open.spotify.com/track/7uekYsGKTZM2LfyjB87x0Y"
     },
     {
       "added_at": "2025-11-28 00:00:07",
@@ -739,18 +739,22 @@
     {
       "added_at": "2025-11-28 00:00:07",
       "album": {
-        "name": "MDID",
-        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+        "name": "ALTA COSTURA",
+        "url": "https://open.spotify.com/album/1W9sthlkh5jxTd0NloMCnJ"
       },
       "artists": [
         {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
         }
       ],
-      "duration_ms": 135160,
-      "name": "CABARET",
-      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
+      "duration_ms": 183092,
+      "name": "Como Seria? / Amor S\u00f3brio",
+      "url": "https://open.spotify.com/track/7uekYsGKTZM2LfyjB87x0Y"
     },
     {
       "added_at": "2025-11-28 00:00:07",
@@ -771,6 +775,22 @@
     {
       "added_at": "2025-11-28 00:00:07",
       "album": {
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 135160,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
+    },
+    {
+      "added_at": "2025-11-28 00:00:07",
+      "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 229244,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb"
-    },
-    {
-      "added_at": "2025-11-28 00:00:07",
-      "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 201962,
-      "name": "S\u00f3 D\u00e1",
-      "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
     },
     {
       "added_at": "2025-11-28 00:00:07",
@@ -867,26 +867,6 @@
     {
       "added_at": "2025-11-28 00:00:07",
       "album": {
-        "name": "Solteiros",
-        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 179023,
-      "name": "Solteiros",
-      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
-    },
-    {
-      "added_at": "2025-11-28 00:00:07",
-      "album": {
         "name": "Ninfoman\u00edaca",
         "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 171000,
       "name": "Ninfoman\u00edaca",
       "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
+    },
+    {
+      "added_at": "2025-11-28 00:00:07",
+      "album": {
+        "name": "Solteiros",
+        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 179023,
+      "name": "Solteiros",
+      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
     },
     {
       "added_at": "2025-11-28 00:00:07",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-11-28 00:00:07",
       "album": {
-        "name": "Fala-me A Verdade",
-        "url": "https://open.spotify.com/album/5HXZqmE9FWCR5r87YlI7eJ"
-      },
-      "artists": [
-        {
-          "name": "Bia Caboz",
-          "url": "https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a"
-        },
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        }
-      ],
-      "duration_ms": 172804,
-      "name": "Fala-me A Verdade",
-      "url": "https://open.spotify.com/track/215AyS6uVbzOkoaFgLJyVC"
-    },
-    {
-      "added_at": "2025-11-28 00:00:07",
-      "album": {
         "name": "Pequenos Gigantes",
         "url": "https://open.spotify.com/album/4LtlaMrX1rb0KkAir2DUH3"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 164000,
       "name": "Quem Tem O Teu <3",
       "url": "https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP"
+    },
+    {
+      "added_at": "2025-11-28 00:00:07",
+      "album": {
+        "name": "Pa Sempre",
+        "url": "https://open.spotify.com/album/18dGvU6h50URVrpWBrgbkK"
+      },
+      "artists": [
+        {
+          "name": "Ne Jah",
+          "url": "https://open.spotify.com/artist/4ZVxO3ClFvgb4f7HUD74HL"
+        },
+        {
+          "name": "Rislene",
+          "url": "https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR"
+        }
+      ],
+      "duration_ms": 191764,
+      "name": "Pa Sempre",
+      "url": "https://open.spotify.com/track/2Wa6u5amiftMSpAVKDr3Qp"
     },
     {
       "added_at": "2025-11-28 00:00:07",
@@ -1299,22 +1299,22 @@
     {
       "added_at": "2025-11-28 00:00:07",
       "album": {
-        "name": "Pa Sempre",
-        "url": "https://open.spotify.com/album/18dGvU6h50URVrpWBrgbkK"
+        "name": "Fala-me A Verdade",
+        "url": "https://open.spotify.com/album/5HXZqmE9FWCR5r87YlI7eJ"
       },
       "artists": [
         {
-          "name": "Ne Jah",
-          "url": "https://open.spotify.com/artist/4ZVxO3ClFvgb4f7HUD74HL"
+          "name": "Bia Caboz",
+          "url": "https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a"
         },
         {
-          "name": "Rislene",
-          "url": "https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR"
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
         }
       ],
-      "duration_ms": 191764,
-      "name": "Pa Sempre",
-      "url": "https://open.spotify.com/track/2Wa6u5amiftMSpAVKDr3Qp"
+      "duration_ms": 172804,
+      "name": "Fala-me A Verdade",
+      "url": "https://open.spotify.com/track/215AyS6uVbzOkoaFgLJyVC"
     },
     {
       "added_at": "2025-11-28 00:00:07",

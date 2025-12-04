@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31211,
+  "num_followers": 31208,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAAAkCXUVgmwcRpljueBNais3",
+  "snapshot_id": "aS4sAAAAAABWFAI1eI0ho7yuOGiUSMt4",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "Voc\u00ea Mais Deus",
+      "url": "https://open.spotify.com/track/1QspfOPnutOLAV6y7nE1gK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100 Anos do Movimento Pentecostal",
         "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "Voc\u00ea Mais Deus",
-      "url": "https://open.spotify.com/track/1QspfOPnutOLAV6y7nE1gK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamante (2010)",
         "url": "https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 271586,
       "name": "Derrama Shekin\u00e1h",
       "url": "https://open.spotify.com/track/1oyCby60fRcl15uEGLuggq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "T\u00f4 na Estrada",
+      "url": "https://open.spotify.com/track/6GUBGxoOA48cTTeOplSlBa"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
       "duration_ms": 362987,
       "name": "Deixa Senhor",
       "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 221146,
-      "name": "T\u00f4 na Estrada",
-      "url": "https://open.spotify.com/track/6GUBGxoOA48cTTeOplSlBa"
     },
     {
       "added_at": null,
@@ -871,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+        "name": "Damares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 328106,
-      "name": "Ouve Senhor",
-      "url": "https://open.spotify.com/track/5P8Qk47rzGjMyfAMSkyc8x"
+      "duration_ms": 540720,
+      "name": "O Deus que Faz (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5QLgebw9fQi8YI4OeZqXxW"
     }
   ],
   "unique_name": "This Is Damares",

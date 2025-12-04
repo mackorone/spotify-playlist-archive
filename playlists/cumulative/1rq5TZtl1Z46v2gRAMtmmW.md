@@ -4,7 +4,7 @@
 
 > 
 
-478 songs - 1 day 7 hr 30 min
+479 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Slumber](https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Slipping Into Color](https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO) | 3:45 | 2023-09-22 | 2024-01-24 |
 | [Small Sanctuary](https://open.spotify.com/track/6sRuzyGwCabMtnMZXcoakQ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Small Sanctuary](https://open.spotify.com/album/2SIWee6TyrGjpNliYVvbfH) | 3:38 | 2023-11-15 | 2024-05-04 |
 | [Small Sanctuary \- nimino Remix](https://open.spotify.com/track/3edXY8UqTv1SEC6JOrfBPQ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Small Sanctuary \(nimino Remix\)](https://open.spotify.com/album/33ws6D4NAo3jubkN9o7BOQ) | 4:12 | 2023-12-11 | 2024-02-03 |
+| [Smile On My Face](https://open.spotify.com/track/4ube140Sc6I4YXTVJSrrJr) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Smile On My Face](https://open.spotify.com/album/75T1Da2YB3joxiWpu69dVw) | 2:54 | 2025-12-03 |  |
 | [Snow Globes](https://open.spotify.com/track/3OM2VlABYKmzQRFVJuiQMy) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Snow Globes](https://open.spotify.com/album/1cdB6veqHH2BhCURbjNV5s) | 9:13 | 2022-01-19 | 2022-06-14 |
 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 | 2024-07-24 | 2024-10-12 |
 | [softscars](https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/6D1djmwpqsx5Y611ieEAXr) | 3:26 | 2023-09-15 | 2024-04-13 |

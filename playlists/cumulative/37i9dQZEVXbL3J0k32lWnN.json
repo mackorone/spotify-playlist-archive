@@ -12778,7 +12778,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 181794,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -12814,7 +12814,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -39244,7 +39244,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -39774,7 +39774,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 213588,
       "name": "Tidsrejsen 2 (Fra DRs Julekalender)",
       "url": "https://open.spotify.com/track/6GYyME16S63CNvpx75DkTu"
@@ -42553,6 +42553,24 @@
     },
     {
       "album": {
+        "name": "Vintermiraklet (Valdes Jul)",
+        "url": "https://open.spotify.com/album/69dtNdBstM6IVTBIKeeAxV"
+      },
+      "artists": [
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173156,
+      "name": "Vintermiraklet - Valdes Jul",
+      "url": "https://open.spotify.com/track/36rMpQGbl2YULy0uZ9sCd0"
+    },
+    {
+      "album": {
         "name": "FORZA",
         "url": "https://open.spotify.com/album/7mD8Ze6PRguxWvcTTpvhhi"
       },
@@ -43990,7 +44008,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > <a href="https://www.instagram.com/p/DRuZ7pdDNAY/?img\_index=1">Il re della trap torna sul trono\. XDVR Reloaded compie 10 anni</a>, venerdì esce <a href="spotify:prerelease:2obZ4UZwQgDnSvT6lb6cAK">XDVR ANNIVERSAR10</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,059 likes - 58 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,953 likes - 58 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-195 songs - 9 hr 20 min
+196 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Beautiful Morning](https://open.spotify.com/track/2hgYVIsC4Bf5mBrNUlOaUE) | [Artemis](https://open.spotify.com/artist/5QtH96QxDC56UY5ZRAxI5C) | [A Beautiful Morning](https://open.spotify.com/album/7edfrheVW25c7AfjMLQ8Ix) | 2:30 | 2025-04-01 |  |
 | [A Lake Almost Still](https://open.spotify.com/track/5Ggw3iFi1C3BzAfihTX0Nu) | [Adored Swan](https://open.spotify.com/artist/4l336DEMdfVDdYuPzhp4tp) | [A Lake Almost Still](https://open.spotify.com/album/5DchAi775MrqmFUbjRBzXq) | 2:17 | 2023-10-23 | 2025-02-20 |
 | [A Little Blue](https://open.spotify.com/track/2amxnls3sy5GChJp52wOQE) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [A Little Blue](https://open.spotify.com/album/0mE29gC0shDYMixT7ouFS1) | 2:37 | 2025-01-15 |  |
+| [A New Wave](https://open.spotify.com/track/6rVPuBfXzKQCfloRxatSXs) | [Circular Motions](https://open.spotify.com/artist/36Vt0UA3d6xl8GpzdlINva) | [A New Wave](https://open.spotify.com/album/56mwvzRQCVTuIw8ZSDenMl) | 3:01 | 2025-12-03 |  |
 | [Aabha \- Sound Bath](https://open.spotify.com/track/4CGYBCKiaSm5Y5oqn7xZIh) | [Amrita Ananda](https://open.spotify.com/artist/17ph9VKUlu3hc0liTAhYWP) | [Aabha \- Sound Bath](https://open.spotify.com/album/5SNx9VaBDuGycrI7lxJnfl) | 2:52 | 2023-10-23 |  |
 | [Above the Clouds](https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Above the Clouds](https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT) | 2:55 | 2023-10-23 |  |
 | [Abyss](https://open.spotify.com/track/1MLXR6OqagKLfIsUv5MHfV) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [Abyss](https://open.spotify.com/album/6sWwvTF9xh2XXWcY6yhpuQ) | 2:12 | 2024-07-08 | 2025-02-17 |
@@ -182,7 +183,7 @@
 | [The Cove](https://open.spotify.com/track/7pRyNDcMVEezLVkZ1P2PEC) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [The Cove](https://open.spotify.com/album/3g0Z1vEQD7u16dn2XTtapr) | 2:01 | 2024-06-03 |  |
 | [The Little Cabin](https://open.spotify.com/track/0MPufbIEaLbtQYtsO2MoF9) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Little Cabin](https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse) | 2:55 | 2024-03-01 |  |
 | [The North Sea](https://open.spotify.com/track/5kR1w0nEgRVJi28Y3v445V) | [Tundriunas](https://open.spotify.com/artist/38zGrr9psTPxaS1oCBb63z) | [The North Sea](https://open.spotify.com/album/7CBWzwXLxmfXco1i9Kza09) | 1:54 | 2023-10-23 | 2024-09-05 |
-| [The Oread](https://open.spotify.com/track/6xSWr0jRvuzwy6hbwKbw0z) | [Agrafa](https://open.spotify.com/artist/1ksaI0pL8HAyzS6KZqVDWu) | [The Oread](https://open.spotify.com/album/2UcL3gsKoZWbEVgJmc3T0L) | 2:40 | 2025-10-02 |  |
+| [The Oread](https://open.spotify.com/track/6xSWr0jRvuzwy6hbwKbw0z) | [Agrafa](https://open.spotify.com/artist/1ksaI0pL8HAyzS6KZqVDWu) | [The Oread](https://open.spotify.com/album/2UcL3gsKoZWbEVgJmc3T0L) | 2:40 | 2025-10-02 | 2025-12-04 |
 | [The Shining Sea](https://open.spotify.com/track/4FfGK1TKJRymLGoPXjkhHl) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 3:10 | 2023-10-26 | 2025-06-29 |
 | [The Tower of Embellion](https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [The Tower of Embellion](https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8) | 3:08 | 2023-10-23 | 2025-10-14 |
 | [Trearddur Bay](https://open.spotify.com/track/0QLK0YU0s1NEdwdguhih0p) | [Lawrence Libert](https://open.spotify.com/artist/4bdis3Cw3TaQPyW8pps6vE), [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [A Place To Call Home](https://open.spotify.com/album/6CDFfPGj11bEgFeQ8CMUPg) | 3:35 | 2024-09-04 |  |

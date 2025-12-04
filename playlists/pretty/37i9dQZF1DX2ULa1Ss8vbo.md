@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,794 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,820 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 | 31 | [Boolavogue](https://open.spotify.com/track/6dXBgGcBKxOeNQFWmBDTo2) | [Brendan Bowyer](https://open.spotify.com/artist/6CynFO9vn6MsOOdLptSPwg) | [Brendan Bowyer's Ireland](https://open.spotify.com/album/6GRzetvyCVfVLek5WANDRA) | 3:42 |
 | 32 | [The Foggy Dew](https://open.spotify.com/track/52bGJTusAslWsvpPguiFn6) | [The Wolfe Tones](https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau) | [25th Anniversary](https://open.spotify.com/album/7fTHb1SDietYPoesmOnDNh) | 3:27 |
 | 33 | [The Irish Rover](https://open.spotify.com/track/2K7lZQojcmdcrl7rkvY3mL) | [Ronnie Drew](https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2) | [Pure Irish Pub Songs](https://open.spotify.com/album/7lYYpatEqemfpuOajr9w3a) | 2:58 |
-| 34 | [Sonny](https://open.spotify.com/track/6xO1Egci5AmEX0nqrz7JGh) | [Mary Black](https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Dolores Keane](https://open.spotify.com/artist/6nYVwBK8nCQCYlb7rA763B) | [Twenty Five Years\-Twenty Five Songs](https://open.spotify.com/album/6w06lhQcIlyfGKEzQGF8FQ) | 4:09 |
+| 34 | [Sonny](https://open.spotify.com/track/6xO1Egci5AmEX0nqrz7JGh) | [Mary Black](https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA), [Emmylou Harris & Dolores Keane](https://open.spotify.com/artist/2F5xYKmrB2BNGKTNbdY4lv), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Dolores Keane](https://open.spotify.com/artist/6nYVwBK8nCQCYlb7rA763B) | [Twenty Five Years\-Twenty Five Songs](https://open.spotify.com/album/6w06lhQcIlyfGKEzQGF8FQ) | 4:09 |
 | 35 | [A Pair of Brown Eyes](https://open.spotify.com/track/32soEc9h0wDy1BEjV5egeh) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 5:01 |
 | 36 | [Weile Waila](https://open.spotify.com/track/5ECXINnJLnuZPBR87EULUh) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a), [Ronnie Drew](https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2) | [Definitive Pub Songs Collection](https://open.spotify.com/album/0LUkfcP3XT922V0uhE3SDQ) | 2:24 |
 | 37 | [Marble Halls \- 2009 Remaster](https://open.spotify.com/track/3smqY3VDKQ4HLfvdFMCEuG) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Shepherd Moons](https://open.spotify.com/album/6ZuPbMe6CvQKl1nvAy0nZm) | 3:54 |

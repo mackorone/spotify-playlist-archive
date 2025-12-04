@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 246355,
+  "num_followers": 246374,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAABpqEh5/Di2mODMd31SXUEH",
+  "snapshot_id": "aS4sAAAAAADrWOtr4D4W7hfdGoJBbeJj",
   "tracks": [
     {
       "added_at": null,
@@ -443,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali E Radici",
-        "url": "https://open.spotify.com/album/2L2i5rfV3tWOUTrJhXXp6R"
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
       "artists": [
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Parla con me",
-      "url": "https://open.spotify.com/track/7ItTMytYO4hyglSAn2C9xE"
+      "duration_ms": 323902,
+      "name": "Si bastasen un par de canciones (feat. Andrea Bocelli)",
+      "url": "https://open.spotify.com/track/5DMrZTtGf26xlo3dZ5T0Md"
     },
     {
       "added_at": null,
@@ -479,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+        "name": "Ali E Radici",
+        "url": "https://open.spotify.com/album/2L2i5rfV3tWOUTrJhXXp6R"
       },
       "artists": [
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
         }
       ],
-      "duration_ms": 323902,
-      "name": "Si bastasen un par de canciones (feat. Andrea Bocelli)",
-      "url": "https://open.spotify.com/track/5DMrZTtGf26xlo3dZ5T0Md"
+      "duration_ms": 240400,
+      "name": "Parla con me",
+      "url": "https://open.spotify.com/track/7ItTMytYO4hyglSAn2C9xE"
     },
     {
       "added_at": null,

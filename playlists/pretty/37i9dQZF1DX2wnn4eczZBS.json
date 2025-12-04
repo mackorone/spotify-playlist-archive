@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11004,
+  "num_followers": 11008,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-12-01 15:31:55",
       "album": {
+        "name": "In De Steek",
+        "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "In De Steek",
+      "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
+    },
+    {
+      "added_at": "2025-12-01 15:31:55",
+      "album": {
         "name": "Spijt Is Iets Voor Later",
         "url": "https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 265997,
       "name": "dichtbij, veraf",
       "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
-    },
-    {
-      "added_at": "2025-12-01 15:31:55",
-      "album": {
-        "name": "In De Steek",
-        "url": "https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "In De Steek",
-      "url": "https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj"
     },
     {
       "added_at": "2025-12-01 15:31:55",

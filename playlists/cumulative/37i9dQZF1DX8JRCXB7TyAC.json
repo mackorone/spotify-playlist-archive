@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Bigde Yaar",
+        "url": "https://open.spotify.com/album/21iJNiPssQYFwFX2As2epk"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "Bigde Yaar",
+      "url": "https://open.spotify.com/track/0iyU2GAtKO32yGeNwwpxrt"
+    },
+    {
+      "album": {
         "name": "Binde",
         "url": "https://open.spotify.com/album/3GLVHpysgsLtisASRLPmWt"
       },
@@ -2160,7 +2178,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 136538,
       "name": "Lootere",
       "url": "https://open.spotify.com/track/4Y20wcBIVQzwFxzzcRKplm"

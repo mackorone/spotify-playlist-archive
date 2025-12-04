@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 83860,
+  "num_followers": 83867,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAAA3SZ8UWjCW0g0pJxXtOxWl",
+  "snapshot_id": "aS4sAAAAAACO/WazXHWE7iTHnfsofEeM",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 177693,
-      "name": "Let Them Eat War",
-      "url": "https://open.spotify.com/track/0734v426krcGYoB7d3763w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 55306,
       "name": "Change Of Ideas",
       "url": "https://open.spotify.com/track/5xesgknt9epKNcaMq6irot"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 177693,
+      "name": "Let Them Eat War",
+      "url": "https://open.spotify.com/track/0734v426krcGYoB7d3763w"
     },
     {
       "added_at": null,

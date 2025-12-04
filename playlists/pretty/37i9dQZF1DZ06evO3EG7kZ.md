@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,281 likes - 27 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,276 likes - 27 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EG7kZ.md) - [plain]
 | 26 | [Bluey Titelsong \(German Version\)](https://open.spotify.com/track/5cYNCZOYRnKoNtsBlX1Xc1) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu) | [Bluey Titelsong \(German Version\)](https://open.spotify.com/album/0oRfkNavThhul9SgWb9Jrj) | 1:04 |
 | 27 | [Le générique de Bluey \(French Version\)](https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu) | [Le générique de Bluey \(French Version\)](https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi) | 1:04 |
 
-Snapshot ID: `aSzagAAAAAC9tPOYvlV3Vanz80y2/XLC`
+Snapshot ID: `aS4sAAAAAAC7ry+J7dthO/TleKjdUKSm`

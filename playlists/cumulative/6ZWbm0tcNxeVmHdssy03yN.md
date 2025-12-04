@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-5,586 songs - 12 day 6 hr 56 min
+5,587 songs - 12 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3290,6 +3290,7 @@
 | [music when i'm high](https://open.spotify.com/track/6G5tQfK3nNmhj594Kr4L9M) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [music when i'm high](https://open.spotify.com/album/2J5njZ2zlJY9FsJcXZNcoK) | 3:08 | 2025-11-14 |  |
 | [MUST BE NICE](https://open.spotify.com/track/2VQ893a8AQi4ZK1TpTskta) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [MUST BE NICE](https://open.spotify.com/album/7BpfEaU2MoGK3SW8UrRP59) | 2:28 | 2022-04-22 | 2022-06-11 |
 | [Mwazzara](https://open.spotify.com/track/2xnWcSGPkMxer6nRITC0HJ) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q) | [Mwazzara](https://open.spotify.com/album/6lPsMAVhKrEgpQ3gJBPcGC) | 3:17 | 2025-04-04 | 2025-05-24 |
+| [My Blood](https://open.spotify.com/track/0DyB0NOOPkrBIRHF7cHqov) | [Danama](https://open.spotify.com/artist/5kjg1V3FLw9FHcFKW5NaG3) | [Lame Excuse](https://open.spotify.com/album/7FBQalvKjzEz4krnVBS1Uw) | 3:36 | 2025-12-03 |  |
 | [My Body \(Stand up\)](https://open.spotify.com/track/0ueGtXFk9SpHbfJLgVElMq) | [Mariechan](https://open.spotify.com/artist/6uUSNroJE7n5EvrPre1VCI), [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj), [Gigi Lamayne](https://open.spotify.com/artist/3405LTbL2jP8J0gVQK3087), [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [My Body \(Stand Up\)](https://open.spotify.com/album/4uM8MdyGYZPV1HaWhHT8xV) | 3:32 | 2020-12-08 | 2020-12-12 |
 | [My City](https://open.spotify.com/track/7mCHa2dWCNBfvPdtM7SpTz) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [MY CITY](https://open.spotify.com/album/303jEDPXjZZ3jLNQsSpkuv) | 2:51 | 2020-11-03\* | 2020-11-07 |
 | [My City](https://open.spotify.com/track/2P9ExFxXy14bh37CEuqsZE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [AGAINST ALL ODDS](https://open.spotify.com/album/1xutecVmBomJ4LFjzxnOPo) | 2:49 | 2020-11-14 | 2021-03-19 |

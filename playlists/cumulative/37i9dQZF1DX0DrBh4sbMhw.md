@@ -4,7 +4,7 @@
 
 > ang lalim
 
-294 songs - 18 hr 9 min
+295 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g) | 3:04 | 2024-10-14 | 2025-10-31 |
 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 | 2024-07-17 | 2025-10-12 |
 | [in another life](https://open.spotify.com/track/2OcsYbiC1s7hXyhRZirf3K) | [Zion Aguirre](https://open.spotify.com/artist/5U09RsRxa8IQ9GYtIsxY3d) | [in another life](https://open.spotify.com/album/5cvdRWWh28Uh6ZprLNUici) | 3:12 | 2023-10-18 | 2024-07-19 |
-| [In Another World](https://open.spotify.com/track/2TTTiaXJZJn7y4ZC6YGXlv) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [In Another World](https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3) | 2:55 | 2025-11-24 |  |
+| [In Another World](https://open.spotify.com/track/2TTTiaXJZJn7y4ZC6YGXlv) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [In Another World](https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3) | 2:55 | 2025-11-24 | 2025-12-04 |
 | [In Her Eyes](https://open.spotify.com/track/6W2EYludfqFY2xo66FUf6y) | [Tabitha Nauser](https://open.spotify.com/artist/7EY3xvBhvVnAGIN4hyGIUk) | [In Her Eyes](https://open.spotify.com/album/3q3X6rYyxoeJoyrJd3b71F) | 3:20 | 2025-11-05 | 2025-12-02 |
 | [IN YOUR EYES](https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:34 | 2025-04-14 | 2025-09-04 |
 | [intentions](https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [alone tonight](https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY) | 3:45 | 2024-10-14 | 2025-04-15 |
@@ -206,6 +206,7 @@
 | [Pagitan](https://open.spotify.com/track/09l7DSBPUiqqyDEeQ2au3o) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Pagitan](https://open.spotify.com/album/6rE38U5oGh0hSRz73clhBA) | 3:01 | 2025-11-24 | 2025-12-02 |
 | [Pakiusap](https://open.spotify.com/track/3lHvGgtL4OPyfTkmF8fWv7) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Balik\-tanaw](https://open.spotify.com/album/4trBemFPhex5qU3515inkl) | 5:04 | 2025-12-01 |  |
 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 | 2024-10-14 | 2025-11-08 |
+| [Panaginip](https://open.spotify.com/track/6wcjLOGIdmw8BUaRho4c9L) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Panaginip](https://open.spotify.com/album/0LQNdoYar00bkYYmKZxwQI) | 5:17 | 2025-12-03 |  |
 | [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 | 2025-09-17 | 2025-11-06 |
 | [Pelikula](https://open.spotify.com/track/5CHxZuUwZqeK7WU4fAQ0ub) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pelikula](https://open.spotify.com/album/4NkcWiR6GiARbl7ANX9m4u) | 3:24 | 2024-06-05 | 2024-06-12 |
 | [Pelikula](https://open.spotify.com/track/663vZfMh88Uo2bfTx6wiE4) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pelikula](https://open.spotify.com/album/4Ufwb1ZIfcSK4GKGzfZipb) | 3:24 | 2023-10-18 | 2023-11-11 |

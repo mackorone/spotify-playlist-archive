@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 80521,
+  "num_followers": 80542,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
         "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 227435,
       "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
       "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Invierno",
-        "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 255217,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 227992,
       "name": "Mirada Speed",
       "url": "https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 255217,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi"
+        "name": "Pala",
+        "url": "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
         }
       ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR"
+      "duration_ms": 302573,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/5Dt2gX8GCNJ85oWOlNUlTB"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -919,34 +919,18 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Catching Eyes",
-        "url": "https://open.spotify.com/album/23e5nDOtNtNou7pfR431YI"
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/5yJS8oNKYDsDAy06z4QCIi"
       },
       "artists": [
         {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         }
       ],
-      "duration_ms": 249533,
-      "name": "Catching Eyes",
-      "url": "https://open.spotify.com/track/4GmMP0OFOFa1IyKAAloN1z"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Pala",
-        "url": "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 302573,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/5Dt2gX8GCNJ85oWOlNUlTB"
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/27GHlIbddzX5qDalREVoDR"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -963,6 +947,22 @@
       "duration_ms": 228543,
       "name": "Su\u00e9ltame, Bogot\u00e1",
       "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Catching Eyes",
+        "url": "https://open.spotify.com/album/23e5nDOtNtNou7pfR431YI"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Catching Eyes",
+      "url": "https://open.spotify.com/track/4GmMP0OFOFa1IyKAAloN1z"
     },
     {
       "added_at": "2024-06-28 21:13:36",

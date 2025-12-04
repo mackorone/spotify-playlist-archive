@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1VoxprVZJXLqp9yp6Shxjq.md) - [plain]
 
 > Best of 80s pop, rock, and new wave top hits from iconic bands and artists like Madonna, Phil Collins, and Tina Turner\. All the biggest throwback songs for your 80s dance party!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 52,836 likes - 101 songs - 7 hr 1 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 52,832 likes - 101 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

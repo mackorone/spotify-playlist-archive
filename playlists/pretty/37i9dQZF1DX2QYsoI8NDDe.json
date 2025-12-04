@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Carolina Ross y Denise Gutierrez",
-  "num_followers": 581119,
+  "num_followers": 581109,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
+        "name": "Pagana",
+        "url": "https://open.spotify.com/album/5Nye8aOQ9pfltqffBpQ5A0"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Pagana",
+      "url": "https://open.spotify.com/track/56WRqTs2M4St71G3G6Y9Df"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
         "name": "LA MALA",
         "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 144602,
       "name": "LA MALA",
       "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/0ZN91M5K6PqOe2IyUqluYR"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 153216,
-      "name": "Nadie Se Va Como Lleg\u00f3",
-      "url": "https://open.spotify.com/track/3P2dOkNphBVfbuQ3kXU4nf"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/0ZN91M5K6PqOe2IyUqluYR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 153216,
+      "name": "Nadie Se Va Como Lleg\u00f3",
+      "url": "https://open.spotify.com/track/3P2dOkNphBVfbuQ3kXU4nf"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/3vEE0iDumS43v1DyGyZSAS"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 191020,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/4VLWNKMVtSKCdpZIiUuzAf"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
-        "name": "Pagana",
-        "url": "https://open.spotify.com/album/5Nye8aOQ9pfltqffBpQ5A0"
-      },
-      "artists": [
-        {
-          "name": "RIA",
-          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Pagana",
-      "url": "https://open.spotify.com/track/56WRqTs2M4St71G3G6Y9Df"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "F\u00c9NIX",
-        "url": "https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 197288,
-      "name": "F\u00c9NIX",
-      "url": "https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
         "name": "Pr\u00e9stame A Mi Padre",
         "url": "https://open.spotify.com/album/4vC3q7GhMdHIRFkZWlWXc9"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 188366,
       "name": "Pr\u00e9stame A Mi Padre",
       "url": "https://open.spotify.com/track/12AmwFlLtAcAqmjplvRHbg"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
+        "name": "F\u00c9NIX",
+        "url": "https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 197288,
+      "name": "F\u00c9NIX",
+      "url": "https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "Que Siga Pasando",
-        "url": "https://open.spotify.com/album/1agHYBrfRg36wXg1S51P3p"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Que Siga Pasando",
-      "url": "https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
         "name": "Bola de traviezos",
         "url": "https://open.spotify.com/album/4iybnYN9TsaEJOTYRZnMYN"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 132645,
       "name": "Bola de traviezos",
       "url": "https://open.spotify.com/track/6Jrx0ateAS43r7f9ugzxr0"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
+        "name": "Que Siga Pasando",
+        "url": "https://open.spotify.com/album/1agHYBrfRg36wXg1S51P3p"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Que Siga Pasando",
+      "url": "https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "T\u00fa, Solamente T\u00fa",
-        "url": "https://open.spotify.com/album/2vSo3dxG5oktb1HKdI1Mof"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 202219,
-      "name": "T\u00fa, Solamente T\u00fa",
-      "url": "https://open.spotify.com/track/71NhyYmqQL4TcCmVvLZG5i"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
         "name": "Los Caminos de la Vida",
         "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 228436,
       "name": "Los Caminos de la Vida",
       "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
+        "name": "T\u00fa, Solamente T\u00fa",
+        "url": "https://open.spotify.com/album/2vSo3dxG5oktb1HKdI1Mof"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 202219,
+      "name": "T\u00fa, Solamente T\u00fa",
+      "url": "https://open.spotify.com/track/71NhyYmqQL4TcCmVvLZG5i"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/4mWjo0GCQ0LaFZOrZppIEI"
+      },
+      "artists": [
+        {
+          "name": "Domenica",
+          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
+        }
+      ],
+      "duration_ms": 177150,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/2yTBoj98BbfJx72n3Npbt2"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
         "name": "CHIQUIS - BEE SIDE",
         "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/4mWjo0GCQ0LaFZOrZppIEI"
+        "name": "Antes de Ti",
+        "url": "https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5"
       },
       "artists": [
         {
-          "name": "Domenica",
-          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
         }
       ],
-      "duration_ms": 177150,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/2yTBoj98BbfJx72n3Npbt2"
+      "duration_ms": 214552,
+      "name": "Antes de Ti",
+      "url": "https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -1499,22 +1515,6 @@
       "duration_ms": 217576,
       "name": "Ilesa",
       "url": "https://open.spotify.com/track/3kiUuHVGQznTwWeU3UfBBP"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
-        "name": "Antes de Ti",
-        "url": "https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 214552,
-      "name": "Antes de Ti",
-      "url": "https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "El Ojeroso",
-        "url": "https://open.spotify.com/album/31jbzeLIeq8yEob26RkTjP"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "El Ojeroso",
-      "url": "https://open.spotify.com/track/5zn0QKpWGANfRa0K5G8oX6"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
         "name": "mi mundo kawaii",
         "url": "https://open.spotify.com/album/3OaTo7T5LVBfIVc5DtuOIN"
       },
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "Ning\u00fan Color Tiene Due\u00f1o",
-        "url": "https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu"
+        "name": "El Ojeroso",
+        "url": "https://open.spotify.com/album/31jbzeLIeq8yEob26RkTjP"
       },
       "artists": [
         {
-          "name": "Majo Cornejo",
-          "url": "https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn"
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Ning\u00fan Color Tiene Due\u00f1o",
-      "url": "https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu"
+      "duration_ms": 157560,
+      "name": "El Ojeroso",
+      "url": "https://open.spotify.com/track/5zn0QKpWGANfRa0K5G8oX6"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
+        "name": "Ning\u00fan Color Tiene Due\u00f1o",
+        "url": "https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu"
+      },
+      "artists": [
+        {
+          "name": "Majo Cornejo",
+          "url": "https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Ning\u00fan Color Tiene Due\u00f1o",
+      "url": "https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
         "name": "Al Olvido",
         "url": "https://open.spotify.com/album/4SEU3UedBgW7TYvCmPYhz2"
       },
@@ -1727,6 +1727,22 @@
       "duration_ms": 198533,
       "name": "Al Olvido",
       "url": "https://open.spotify.com/track/3KGzELBfeMGnI9tSWyMNgU"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
+        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
+      },
+      "artists": [
+        {
+          "name": "Priscila y Sus Balas De Plata",
+          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+        }
+      ],
+      "duration_ms": 529000,
+      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -1747,22 +1763,6 @@
       "duration_ms": 206390,
       "name": "Por Mi No Queda",
       "url": "https://open.spotify.com/track/4rmfEI2D7je50xC0NZsCR9"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
-        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
-      },
-      "artists": [
-        {
-          "name": "Priscila y Sus Balas De Plata",
-          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
-        }
-      ],
-      "duration_ms": 529000,
-      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -1815,6 +1815,22 @@
       "duration_ms": 177200,
       "name": "La Del Proceso",
       "url": "https://open.spotify.com/track/6Uvpogq0rwi7oan9JokAKe"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
+        "name": "Puerto Vallarta",
+        "url": "https://open.spotify.com/album/3hJkB9v08nfpilXVYcdm3O"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rojo",
+          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
+        }
+      ],
+      "duration_ms": 145584,
+      "name": "Puerto Vallarta",
+      "url": "https://open.spotify.com/track/55VkXZ8ItTchyGX7g4g0Jj"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -1875,22 +1891,6 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "Puerto Vallarta",
-        "url": "https://open.spotify.com/album/3hJkB9v08nfpilXVYcdm3O"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Rojo",
-          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
-        }
-      ],
-      "duration_ms": 145584,
-      "name": "Puerto Vallarta",
-      "url": "https://open.spotify.com/track/55VkXZ8ItTchyGX7g4g0Jj"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
         "name": "Las Morras",
         "url": "https://open.spotify.com/album/1hUbp2MmNLyqivPFkvYrYw"
       },
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "Deja Que Salga La Luna",
-        "url": "https://open.spotify.com/album/1AqW1mbKegwXQfTCeTdxOT"
-      },
-      "artists": [
-        {
-          "name": "Isaveli Laina",
-          "url": "https://open.spotify.com/artist/37dfV12XY35kkD8roaOSnj"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Deja Que Salga La Luna",
-      "url": "https://open.spotify.com/track/7I8Y1UM2J2IDqXxpSjfrJB"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/3TJFoKzARj4Zoz8BaTDqR8"
       },
@@ -1975,22 +1959,18 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "Decid\u00ed No Amarte M\u00e1s",
-        "url": "https://open.spotify.com/album/6i2TPa1oe7awd3ZZDaMYWt"
+        "name": "Deja Que Salga La Luna",
+        "url": "https://open.spotify.com/album/1AqW1mbKegwXQfTCeTdxOT"
       },
       "artists": [
         {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Isaveli Laina",
+          "url": "https://open.spotify.com/artist/37dfV12XY35kkD8roaOSnj"
         }
       ],
-      "duration_ms": 227152,
-      "name": "Decid\u00ed No Amarte M\u00e1s",
-      "url": "https://open.spotify.com/track/59MvagSItdlMaZZrka4rfR"
+      "duration_ms": 234374,
+      "name": "Deja Que Salga La Luna",
+      "url": "https://open.spotify.com/track/7I8Y1UM2J2IDqXxpSjfrJB"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -2011,6 +1991,26 @@
       "duration_ms": 227160,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
+        "name": "Decid\u00ed No Amarte M\u00e1s",
+        "url": "https://open.spotify.com/album/6i2TPa1oe7awd3ZZDaMYWt"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 227152,
+      "name": "Decid\u00ed No Amarte M\u00e1s",
+      "url": "https://open.spotify.com/track/59MvagSItdlMaZZrka4rfR"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "No Molestar",
-        "url": "https://open.spotify.com/album/6QfHgoQP9ffJeXSxN5yCjJ"
-      },
-      "artists": [
-        {
-          "name": "Sabine",
-          "url": "https://open.spotify.com/artist/7yYwMLyDomWvLopr8vsJZK"
-        }
-      ],
-      "duration_ms": 150451,
-      "name": "No Molestar",
-      "url": "https://open.spotify.com/track/2anEYGSetLZpadRjFEcBV2"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
         "name": "Busca Otro Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6fvx4HALVK3h4cGd24v6IQ"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 229077,
       "name": "Busca Otro Amor (En Vivo)",
       "url": "https://open.spotify.com/track/612bRKznhv8gN6Jwsr5IPX"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
+        "name": "No Molestar",
+        "url": "https://open.spotify.com/album/6QfHgoQP9ffJeXSxN5yCjJ"
+      },
+      "artists": [
+        {
+          "name": "Sabine",
+          "url": "https://open.spotify.com/artist/7yYwMLyDomWvLopr8vsJZK"
+        }
+      ],
+      "duration_ms": 150451,
+      "name": "No Molestar",
+      "url": "https://open.spotify.com/track/2anEYGSetLZpadRjFEcBV2"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "Tiene Que Ser Asi",
-        "url": "https://open.spotify.com/album/0fAt4fJFcXM5y7nsWkfRnY"
-      },
-      "artists": [
-        {
-          "name": "Laura Denisse y Los Brillantes",
-          "url": "https://open.spotify.com/artist/2l3rQuhAwI4rxZryE8Zze5"
-        }
-      ],
-      "duration_ms": 223354,
-      "name": "Tiene Que Ser Asi",
-      "url": "https://open.spotify.com/track/0fk72JN9bOGS1be11ift5a"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
         "name": "Si Ya Te Valgo",
         "url": "https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 149500,
       "name": "Si Ya Te Valgo",
       "url": "https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
+        "name": "Tiene Que Ser Asi",
+        "url": "https://open.spotify.com/album/0fAt4fJFcXM5y7nsWkfRnY"
+      },
+      "artists": [
+        {
+          "name": "Laura Denisse y Los Brillantes",
+          "url": "https://open.spotify.com/artist/2l3rQuhAwI4rxZryE8Zze5"
+        }
+      ],
+      "duration_ms": 223354,
+      "name": "Tiene Que Ser Asi",
+      "url": "https://open.spotify.com/track/0fk72JN9bOGS1be11ift5a"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "Cosas que sorprenden a la audiencia",
-        "url": "https://open.spotify.com/album/5we19HT5xmqq0QCGOVL6uv"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Mis Cuarenta",
-      "url": "https://open.spotify.com/track/1KJt4L1dkAQHGMZOFFkSTc"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
         "name": "Andar Conmigo",
         "url": "https://open.spotify.com/album/0S8Kpysk5NR2tAGDzBSWFp"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 216346,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/3Wnl55R6ugwDNEGYnTnAHz"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
+        "name": "Cosas que sorprenden a la audiencia",
+        "url": "https://open.spotify.com/album/5we19HT5xmqq0QCGOVL6uv"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Mis Cuarenta",
+      "url": "https://open.spotify.com/track/1KJt4L1dkAQHGMZOFFkSTc"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -2323,22 +2323,6 @@
       "duration_ms": 177000,
       "name": "NADIE TE NECESITA",
       "url": "https://open.spotify.com/track/2MQd8ifA2TMa0YoRJSKQo9"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
-        "name": "Barba Roja",
-        "url": "https://open.spotify.com/album/2h2xSixS13I4bzooLfgFc2"
-      },
-      "artists": [
-        {
-          "name": "Angel Sauceda",
-          "url": "https://open.spotify.com/artist/7aeVRZsc7JRvt7QrMa3CJP"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Barba Roja",
-      "url": "https://open.spotify.com/track/0KA3KHouC1755ZwZDxMWhs"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -2375,6 +2359,22 @@
       "duration_ms": 192540,
       "name": "Fan de Su Relaci\u00f3n",
       "url": "https://open.spotify.com/track/1mAhrhjWDdwWArEYvMHthd"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
+        "name": "Barba Roja",
+        "url": "https://open.spotify.com/album/2h2xSixS13I4bzooLfgFc2"
+      },
+      "artists": [
+        {
+          "name": "Angel Sauceda",
+          "url": "https://open.spotify.com/artist/7aeVRZsc7JRvt7QrMa3CJP"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Barba Roja",
+      "url": "https://open.spotify.com/track/0KA3KHouC1755ZwZDxMWhs"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "Podemos (No Volver a la Ciudad)",
-        "url": "https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 187765,
-      "name": "Podemos (No Volver a la Ciudad)",
-      "url": "https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
         "name": "Te Di",
         "url": "https://open.spotify.com/album/5MKsupkTGHJjOVlwd4JsaN"
       },
@@ -2555,18 +2539,18 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "En el ayer",
-        "url": "https://open.spotify.com/album/56cZ4b60XUfGXWGhuep26P"
+        "name": "Podemos (No Volver a la Ciudad)",
+        "url": "https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO"
       },
       "artists": [
         {
-          "name": "Zepoleth",
-          "url": "https://open.spotify.com/artist/6F2bsudwUEEEvq5HKHQrxo"
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 183935,
-      "name": "Dime si da igual",
-      "url": "https://open.spotify.com/track/11nGz96L2i6Swhx1p28W6X"
+      "duration_ms": 187765,
+      "name": "Podemos (No Volver a la Ciudad)",
+      "url": "https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -2583,6 +2567,22 @@
       "duration_ms": 126365,
       "name": "Miro La Luna",
       "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
+        "name": "En el ayer",
+        "url": "https://open.spotify.com/album/56cZ4b60XUfGXWGhuep26P"
+      },
+      "artists": [
+        {
+          "name": "Zepoleth",
+          "url": "https://open.spotify.com/artist/6F2bsudwUEEEvq5HKHQrxo"
+        }
+      ],
+      "duration_ms": 183935,
+      "name": "Dime si da igual",
+      "url": "https://open.spotify.com/track/11nGz96L2i6Swhx1p28W6X"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -2619,34 +2619,18 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "Que Tal?",
-        "url": "https://open.spotify.com/album/3xX5hsUxsPjiK5MHKvm1U8"
+        "name": "Soltera Y Feliz",
+        "url": "https://open.spotify.com/album/3yHeioC8KTfFDQjMOempwP"
       },
       "artists": [
         {
-          "name": "Rocio Jasso",
-          "url": "https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b"
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
         }
       ],
-      "duration_ms": 260500,
-      "name": "Que Tal?",
-      "url": "https://open.spotify.com/track/4yeodKx69oHZKlG0p1d4An"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
-        "name": "Crazy For You",
-        "url": "https://open.spotify.com/album/28q8xTu7rw32YvwxHUb8p6"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Divas de Cindy Shea",
-          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
-        }
-      ],
-      "duration_ms": 260302,
-      "name": "Crazy For You",
-      "url": "https://open.spotify.com/track/5P7NBYTfGR5IXAmf9TgCTG"
+      "duration_ms": 158800,
+      "name": "Soltera Y Feliz",
+      "url": "https://open.spotify.com/track/34uYkzHOB1btTUOHqk1PpR"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -2667,18 +2651,34 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "Soltera Y Feliz",
-        "url": "https://open.spotify.com/album/3yHeioC8KTfFDQjMOempwP"
+        "name": "Crazy For You",
+        "url": "https://open.spotify.com/album/28q8xTu7rw32YvwxHUb8p6"
       },
       "artists": [
         {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
         }
       ],
-      "duration_ms": 158800,
-      "name": "Soltera Y Feliz",
-      "url": "https://open.spotify.com/track/34uYkzHOB1btTUOHqk1PpR"
+      "duration_ms": 260302,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/5P7NBYTfGR5IXAmf9TgCTG"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
+        "name": "Que Tal?",
+        "url": "https://open.spotify.com/album/3xX5hsUxsPjiK5MHKvm1U8"
+      },
+      "artists": [
+        {
+          "name": "Rocio Jasso",
+          "url": "https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b"
+        }
+      ],
+      "duration_ms": 260500,
+      "name": "Que Tal?",
+      "url": "https://open.spotify.com/track/4yeodKx69oHZKlG0p1d4An"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -2715,6 +2715,22 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
+        "name": "Extssy Model",
+        "url": "https://open.spotify.com/album/7DhbdfUr9NdpgPCjQpSPt4"
+      },
+      "artists": [
+        {
+          "name": "Designo Celestial",
+          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+        }
+      ],
+      "duration_ms": 197077,
+      "name": "Extssy Model",
+      "url": "https://open.spotify.com/track/10votWvfohmtOJisWbux01"
+    },
+    {
+      "added_at": "2025-11-21 06:00:20",
+      "album": {
         "name": "Malas Rachas (En Vivo)",
         "url": "https://open.spotify.com/album/1X4gdfZlmk4bU5F9kPsPEo"
       },
@@ -2747,18 +2763,18 @@
     {
       "added_at": "2025-11-21 06:00:20",
       "album": {
-        "name": "Extssy Model",
-        "url": "https://open.spotify.com/album/7DhbdfUr9NdpgPCjQpSPt4"
+        "name": "Canci\u00f3n Mixteca",
+        "url": "https://open.spotify.com/album/0a1E8N0bliZhY5BRsrSNcx"
       },
       "artists": [
         {
-          "name": "Designo Celestial",
-          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+          "name": "Vicky Terrazas",
+          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
         }
       ],
-      "duration_ms": 197077,
-      "name": "Extssy Model",
-      "url": "https://open.spotify.com/track/10votWvfohmtOJisWbux01"
+      "duration_ms": 182815,
+      "name": "Canci\u00f3n Mixteca",
+      "url": "https://open.spotify.com/track/3bHiyULgixfvtCVi6uOWcs"
     },
     {
       "added_at": "2025-11-21 06:00:20",
@@ -2775,22 +2791,6 @@
       "duration_ms": 217500,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/3TdA1RbLEPsg3xYyUOy60b"
-    },
-    {
-      "added_at": "2025-11-21 06:00:20",
-      "album": {
-        "name": "Canci\u00f3n Mixteca",
-        "url": "https://open.spotify.com/album/0a1E8N0bliZhY5BRsrSNcx"
-      },
-      "artists": [
-        {
-          "name": "Vicky Terrazas",
-          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
-        }
-      ],
-      "duration_ms": 182815,
-      "name": "Canci\u00f3n Mixteca",
-      "url": "https://open.spotify.com/track/3bHiyULgixfvtCVi6uOWcs"
     },
     {
       "added_at": "2025-11-21 06:00:20",

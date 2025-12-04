@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,759 likes - 52 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,755 likes - 52 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 38 | [Perfect Life](https://open.spotify.com/track/1lCic9SNC6dEaYY0mokFsj) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Perfect Life](https://open.spotify.com/album/47TFvHtoVAsNYGUGl9Jv1G) | 3:57 |
 | 39 | [Night Light](https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Night Light](https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ) | 3:40 |
 | 40 | [Nites Like This](https://open.spotify.com/track/4embgb4NT5OjzIVMqx50jz) | [Choir Boy](https://open.spotify.com/artist/2EvEdhJhS6JhayAsJZyAyL) | [Gathering Swans](https://open.spotify.com/album/1SgyxFqDtKdvHYbUoGhEw8) | 5:43 |
-| 41 | [Zed \- Curses Remix](https://open.spotify.com/track/6Vqf3dFg1xVGs4Qbe7gQOu) | [Pergola](https://open.spotify.com/artist/3QnxaOYxRgBHdoE1jlcTA0), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Zed \(Curses Remix\)](https://open.spotify.com/album/2eC9FxSDyl9Qq1soed4252) | 8:53 |
+| 41 | [Zed \- Curses Remix](https://open.spotify.com/track/6Vqf3dFg1xVGs4Qbe7gQOu) | [Pergola](https://open.spotify.com/artist/5Nv274cnLelReTvAGO8B2Q), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Zed \(Curses Remix\)](https://open.spotify.com/album/2eC9FxSDyl9Qq1soed4252) | 8:53 |
 | 42 | [Dream City \- Zombies in Miami Remix](https://open.spotify.com/track/7rga4644v3lEKofgz7Dixp) | [Benjamin Fröhlich](https://open.spotify.com/artist/3FT44aaqR7vqBzvXCZPjn1), [Zombies In Miami](https://open.spotify.com/artist/42ZWiibQTSxTJSBV7oziPy) | [Dream City \(Zombies in Miami Remix\)](https://open.spotify.com/album/7x9uJV4q15h8V48UBWEBa6) | 7:01 |
 | 43 | [Cacao](https://open.spotify.com/track/1nSN9rqjOt5aNHC7rfSR84) | [ASA MOTO](https://open.spotify.com/artist/0zRfSoVzQ7hRt9y3yUFoqw) | [Cacao](https://open.spotify.com/album/69D7rfUFB9nCNzkb3OmN1t) | 5:02 |
 | 44 | [Motion Sickness](https://open.spotify.com/track/4GsjpgN5cD2QpaXNVfcCrA) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Lionheart](https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd) | 3:13 |

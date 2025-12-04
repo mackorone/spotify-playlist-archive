@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Emma Beko
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,188 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,189 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 13 | [Milquetoast](https://open.spotify.com/track/4dDV4PY0AMF9e9oRBsHla3) | [Hélène Barbier](https://open.spotify.com/artist/2b6PbrllP38ILGLTkdcrZz) | [Milquetoast](https://open.spotify.com/album/6b3lLjWwLRbksC0vHNG72T) | 2:20 |
 | 14 | [Adieux](https://open.spotify.com/track/42sl6gsdJVJICsTcIHXS5b) | [Carences](https://open.spotify.com/artist/7I02FqOdSUVUkRU6l9IDlC) | [Violences](https://open.spotify.com/album/55nG03ltAhwElNsGbRSyd4) | 3:11 |
 | 15 | [COUTEAU](https://open.spotify.com/track/1csO66FzWCIZvadh0k7w17) | [Louis\-Charles](https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU) | [COUTEAU](https://open.spotify.com/album/75oXz8akEJyvrxpKWnvyIk) | 2:49 |
-| 16 | [Demain je pars](https://open.spotify.com/track/4bcBIZQBBmIhbVUoA5RSxO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Demain je pars](https://open.spotify.com/album/3UIdlDGFLJdkmX8J1z3kgi) | 3:29 |
+| 16 | [DEMAIN JE PARS](https://open.spotify.com/track/4bcBIZQBBmIhbVUoA5RSxO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [DEMAIN JE PARS](https://open.spotify.com/album/3UIdlDGFLJdkmX8J1z3kgi) | 3:29 |
 | 17 | [Éthanol](https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe) | [Charlie Juste](https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd) | [Velours et Acide](https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy) | 3:35 |
 | 18 | [Lazare](https://open.spotify.com/track/3nFebxOfpi9y8mJuAJTxSg) | [Carences](https://open.spotify.com/artist/7I02FqOdSUVUkRU6l9IDlC) | [Lazare](https://open.spotify.com/album/3exLAmkRm2mwJM8gKlt51P) | 2:06 |
 | 19 | [Nos histoires](https://open.spotify.com/track/3r1HqBnEXT0nFpzJclSNdY) | [Luell](https://open.spotify.com/artist/69ppGySHiv20JuivlJ8M5T) | [Nos histoires](https://open.spotify.com/album/6TDYPIPIxcrAG0Xn0r9Rxm) | 3:31 |

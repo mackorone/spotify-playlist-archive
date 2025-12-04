@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 33310,
+  "num_followers": 33317,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Name Your Sorrow",
+        "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
+      },
+      "artists": [
+        {
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+        }
+      ],
+      "duration_ms": 230984,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Lustre",
         "url": "https://open.spotify.com/album/4476oK9dDwXluywz166CT1"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Name Your Sorrow",
-        "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
-      },
-      "artists": [
-        {
-          "name": "Pillow Queens",
-          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
-        }
-      ],
-      "duration_ms": 230984,
-      "name": "Heavy Pour",
-      "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Dulling The Horns",
         "url": "https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/60blq04fivxFDr2whVvM5r"
-      },
-      "artists": [
-        {
-          "name": "Telescreens",
-          "url": "https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz"
-        }
-      ],
-      "duration_ms": 243792,
-      "name": "Floods",
-      "url": "https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Cold World",
         "url": "https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 197026,
       "name": "Cold World",
       "url": "https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/60blq04fivxFDr2whVvM5r"
+      },
+      "artists": [
+        {
+          "name": "Telescreens",
+          "url": "https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz"
+        }
+      ],
+      "duration_ms": 243792,
+      "name": "Floods",
+      "url": "https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0"
     },
     {
       "added_at": "2024-12-04 12:15:00",

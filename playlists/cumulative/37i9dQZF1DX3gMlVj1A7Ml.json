@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Ascult\u0103 la volum maxim vocile feminine din Rom\u00e2nia. O edi\u021bie special\u0103, cu-curat\u0103 al\u0103turi de Misha Miller .",
-  "name": "EQUAL ROM\u00c2NIA",
+  "description": "De la editorii no\u0219tri, highlights EQUAL Rom\u00e2nia din 2025. Voci feminine la volum maxim! Cover: Irina Rimes",
+  "name": "Best of EQUAL Rom\u00e2nia 2025",
   "tracks": [
     {
       "album": {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 146060,
       "name": "123",
       "url": "https://open.spotify.com/track/0pCKsqEg4wmOFCVDCY9fMV"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "A fost mai simplu s\u0103 pleci",
       "url": "https://open.spotify.com/track/1YpYFebQmJE6r7wk0hZcQ4"
@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Go Outside And Hug A Tree",
+        "url": "https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x"
+      },
+      "artists": [
+        {
+          "name": "Valeria Stoica",
+          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187813,
+      "name": "All We Wanna Do",
+      "url": "https://open.spotify.com/track/382hNnA07eYyWZ86qJR61I"
+    },
+    {
+      "album": {
         "name": "Am ales",
         "url": "https://open.spotify.com/album/4Zhwwgl06xlit08mHlQO9X"
       },
@@ -426,7 +444,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Am\u00e2ndoi",
       "url": "https://open.spotify.com/track/3sSs3h5nQ7fmIL91dKynhv"
@@ -520,7 +538,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 142153,
       "name": "Arde",
       "url": "https://open.spotify.com/track/0FOZ5aKf4AUKl2jT9nJf5j"
@@ -644,7 +662,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 222352,
       "name": "Aud",
       "url": "https://open.spotify.com/track/71j6MDsl7DHrk64dnL5KKR"
@@ -800,7 +818,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 164500,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3N6AhbiagcojnXm4GiugHk"
@@ -836,7 +854,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 141714,
       "name": "Bilet doar dus",
       "url": "https://open.spotify.com/track/0eT9x6eqtQzMqzBUYr3FDu"
@@ -894,7 +912,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 166100,
       "name": "boy toy",
       "url": "https://open.spotify.com/track/0a9QpSht1d4RXIIv23mB4Y"
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 150964,
       "name": "Chasing the Dust",
       "url": "https://open.spotify.com/track/4UeFnKoo6dspzAON0PhoB6"
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 184093,
       "name": "Cum ar fi",
       "url": "https://open.spotify.com/track/1CPhzveRlYIm4cfSPLd2wr"
@@ -1571,6 +1589,28 @@
     },
     {
       "album": {
+        "name": "Cancel Culture",
+        "url": "https://open.spotify.com/album/35AgiQflCImmCiONnAetsh"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        },
+        {
+          "name": "BRUJA",
+          "url": "https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/1kJZcZ9lGFv7wRvLEr8mA7"
+    },
+    {
+      "album": {
         "name": "Dale Beso",
         "url": "https://open.spotify.com/album/06By1Fi0JUMIyo5LKqR64a"
       },
@@ -1662,7 +1702,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 169317,
       "name": "Dau cu soare",
       "url": "https://open.spotify.com/track/1ioXFsU6X9BA1q1PhPjHV4"
@@ -1854,7 +1894,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 167204,
       "name": "Deja Vu - Facem Cum Vrei Tu",
       "url": "https://open.spotify.com/track/3jM74umuS30nF49vLRxiMV"
@@ -1966,7 +2006,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 189000,
       "name": "Dilaila",
       "url": "https://open.spotify.com/track/5U9WUYbAGQNl7USD1SOYoN"
@@ -2172,7 +2212,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 170769,
       "name": "Drama Mama",
       "url": "https://open.spotify.com/track/23Sg5f0tFLRsAFGwDmZ5Bj"
@@ -2190,7 +2230,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 200133,
       "name": "Du-m\u0103",
       "url": "https://open.spotify.com/track/0PreNoTB6N78d5x7Rc1Ftw"
@@ -2429,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Every Minute",
+        "url": "https://open.spotify.com/album/3DlcR3CXs2qOOeFglWEpYo"
+      },
+      "artists": [
+        {
+          "name": "Otilia",
+          "url": "https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147524,
+      "name": "Every Minute",
+      "url": "https://open.spotify.com/track/4K7I2o2LKZHfpjUSK5LfQV"
+    },
+    {
+      "album": {
         "name": "F Ya New B",
         "url": "https://open.spotify.com/album/12Fy9FbaGybW4oqwiRfGfO"
       },
@@ -2462,7 +2520,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 143505,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/26L8DBVuNze7p4Awek9je5"
@@ -2534,7 +2592,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 166046,
       "name": "Favourite Type",
       "url": "https://open.spotify.com/track/42ItZdypZFPKI5HVZW1rBY"
@@ -2700,7 +2758,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 245393,
       "name": "Fricile tale",
       "url": "https://open.spotify.com/track/0cpJ4uF77qKnSayUiO8q9V"
@@ -3054,7 +3112,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 173469,
       "name": "Iart\u0103-m\u0103 tu",
       "url": "https://open.spotify.com/track/0RKB0DezMhni9wvfMyd4P8"
@@ -3628,7 +3686,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 145225,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/7FCfmPvVg178BfChQFat7g"
@@ -3700,7 +3758,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 149760,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2Qzvu6KH3kzdvagAG3lzDg"
@@ -3736,7 +3794,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 170666,
       "name": "Lume, Lume",
       "url": "https://open.spotify.com/track/4cIvBXueYjHnD27zCLFKLh"
@@ -3885,6 +3943,42 @@
     },
     {
       "album": {
+        "name": "made you cry",
+        "url": "https://open.spotify.com/album/35jHspHi3rG9PUkuEPhgjY"
+      },
+      "artists": [
+        {
+          "name": "Alessiah",
+          "url": "https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "made you cry",
+      "url": "https://open.spotify.com/track/1Dd6rQWeJCWRDULkmN5ioJ"
+    },
+    {
+      "album": {
+        "name": "Magazin non-stop",
+        "url": "https://open.spotify.com/album/74AFOMtEPOoh9eO8Xenag1"
+      },
+      "artists": [
+        {
+          "name": "Paulina",
+          "url": "https://open.spotify.com/artist/0yAUtLRMEcXNoj53IUJSSR"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159592,
+      "name": "Magazin non-stop",
+      "url": "https://open.spotify.com/track/2EyxuF1ytKxuBbAs41yxQO"
+    },
+    {
+      "album": {
         "name": "Mai frumoas\u0103",
         "url": "https://open.spotify.com/album/1Q1NpQ3hluy4lde1v0fvwx"
       },
@@ -3932,7 +4026,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 164000,
       "name": "Mai tineri ca azi",
       "url": "https://open.spotify.com/track/39SEQDm5lTJ6cATOCP9ta2"
@@ -4200,7 +4294,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 167058,
       "name": "M\u0103rgele",
       "url": "https://open.spotify.com/track/6Ich0o7kRHXBsHhdD7FEXN"
@@ -4666,7 +4760,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 172653,
       "name": "Numai una",
       "url": "https://open.spotify.com/track/0OEKRaMZgxBfwdHZdFW8il"
@@ -4832,7 +4926,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 200208,
       "name": "Odat\u0103 cu tine",
       "url": "https://open.spotify.com/track/0fzgmoPAUti8kUAqWSxOuA"
@@ -4850,7 +4944,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 242805,
       "name": "Of, Leli\u021b\u0103 M\u0103rioar\u0103",
       "url": "https://open.spotify.com/track/4cqvKhRlDybT1oQELhc01Q"
@@ -5154,7 +5248,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 162874,
       "name": "Placeri",
       "url": "https://open.spotify.com/track/4qkrbaeJQlt5BmP9qGr4xr"
@@ -5310,7 +5404,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 179104,
       "name": "Prin Bucuresti",
       "url": "https://open.spotify.com/track/0E1Q4Se6b7Y1xehxBtBhVl"
@@ -5350,7 +5444,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 176326,
       "name": "pune-ma pe raft",
       "url": "https://open.spotify.com/track/4U2IMH491AJCZPCI17x0vZ"
@@ -5368,7 +5462,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 151428,
       "name": "Push It",
       "url": "https://open.spotify.com/track/5QxMPQDcRaYThurJz6KYhx"
@@ -5426,7 +5520,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 178500,
       "name": "Quitarte To",
       "url": "https://open.spotify.com/track/5BmQtBlMkDPmPpBGze2jQL"
@@ -5470,6 +5564,24 @@
       "duration_ms": 165600,
       "name": "Recrut \u00een dragoste",
       "url": "https://open.spotify.com/track/2Y3paI7MbiZVSkLmItht4H"
+    },
+    {
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/06Vq3jgojYIxrG8pfuZgqb"
+      },
+      "artists": [
+        {
+          "name": "Ioana Ignat",
+          "url": "https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/4oi4v63lDDiyKJTPMHOwma"
     },
     {
       "album": {
@@ -5578,7 +5690,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 187714,
       "name": "Rug\u0103ciune",
       "url": "https://open.spotify.com/track/0Rru0FOIQzO7zmAojcrPb8"
@@ -5618,7 +5730,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 154434,
       "name": "Sah mat",
       "url": "https://open.spotify.com/track/5shkcq1Ln9XivPCYPqyJ2a"
@@ -5896,7 +6008,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 139615,
       "name": "Spune-mi cum",
       "url": "https://open.spotify.com/track/71CPWhkGylkefUT13VsNZm"
@@ -6110,7 +6222,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 196285,
       "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
       "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"
@@ -6190,6 +6302,28 @@
       "duration_ms": 176641,
       "name": "Talk To You Later",
       "url": "https://open.spotify.com/track/21oI1ZMVYeXW2MFhgSjhoK"
+    },
+    {
+      "album": {
+        "name": "Tare",
+        "url": "https://open.spotify.com/album/78xBZMTSLWqwL2DBwbQWU1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra C\u0103pit\u0103nescu",
+          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
+        },
+        {
+          "name": "Majii",
+          "url": "https://open.spotify.com/artist/7dsJ48XWkEN9Ax8WDzdxe7"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182270,
+      "name": "Tare",
+      "url": "https://open.spotify.com/track/6ViHgzRaVfXPzyjQXUHrSq"
     },
     {
       "album": {
@@ -6276,7 +6410,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 152195,
       "name": "Terapeut",
       "url": "https://open.spotify.com/track/0MBqiVN3MEimgjEE4afSiO"
@@ -6356,7 +6490,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 173478,
       "name": "Timp, Unde Ma Duci?",
       "url": "https://open.spotify.com/track/7MZP14mGVWXr5p8V3aNgWD"
@@ -6414,7 +6548,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 142776,
       "name": "Trandafiri",
       "url": "https://open.spotify.com/track/36I8NX3Isr82GZ2C01UTDI"
@@ -6682,7 +6816,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 171721,
       "name": "VACAY",
       "url": "https://open.spotify.com/track/1CutUMtI4rkedIHL1An2ky"
@@ -6726,7 +6860,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 171692,
       "name": "Valurile",
       "url": "https://open.spotify.com/track/1vQDjSMicarftyzQoK53xr"
@@ -6744,7 +6878,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 182995,
       "name": "Vantule",
       "url": "https://open.spotify.com/track/4xDmuhNr1tkmO8HHQIdR2L"
@@ -6904,7 +7038,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 163144,
       "name": "Vina \u0102luia",
       "url": "https://open.spotify.com/track/79j6CffmMRKv39bBk3xjoD"
@@ -6980,7 +7114,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Wanna Dance",
       "url": "https://open.spotify.com/track/36aRixhy4ldbh6eNrKu1up"
@@ -7060,7 +7194,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 156032,
       "name": "Yalla",
       "url": "https://open.spotify.com/track/5QO1TtF3elqCrIyBVMbBLe"

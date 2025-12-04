@@ -4,7 +4,7 @@
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-175 songs - 9 hr 31 min
+176 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Armstrong](https://open.spotify.com/track/1mR2KQy1rN55wbCr0rfAqN) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Sa Majesté Le Jazz](https://open.spotify.com/album/0vTAUALKHMjkO2kVzxIqZB) | 3:17 | 2025-07-24 | 2025-12-03 |
 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 | 2022-01-20 |  |
 | [Au café de la paix](https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les ronds de carotte](https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw) | 4:05 | 2022-01-20 |  |
-| [Baudelaire](https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:26 | 2022-01-20 |  |
+| [Baudelaire](https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:26 | 2022-01-20 | 2025-12-04 |
 | [Black Trombone](https://open.spotify.com/track/5D3Lo6FozaIKCmdO4JwUIU) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:36 | 2022-01-20 | 2022-11-16 |
 | [Boum](https://open.spotify.com/track/2jmnsU9irersAKdgxJwmGz) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 2:08 | 2022-01-20 | 2023-08-19 |
 | [Brigitte dit vrai](https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Dans la peau](https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG) | 2:12 | 2022-06-10 |  |
@@ -180,6 +180,7 @@
 | [Un jour de différence](https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb) | 3:23 | 2022-01-20 |  |
 | [Une histoire de plage](https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 1:53 | 2022-06-10 | 2023-08-19 |
 | [Vous Qui Passez Sans Me Voir](https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Soirée](https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy) | 3:09 | 2022-06-10 |  |
+| [Vous qui passez sans me voir](https://open.spotify.com/track/64i5LywVv08H1SJBoYE9S0) | [Jean Sablon](https://open.spotify.com/artist/6YEl2IpAe6z72xXx8EqCa1) | [French Songs from France: The French Swinging Troubadour \(International French Stars\)](https://open.spotify.com/album/3qIK8oFTLL6lETrmOQMAjO) | 3:06 | 2025-12-03 |  |
 | [À La Tour Eiffel](https://open.spotify.com/track/71RkxMNJzFk80bo0p4OFnp) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Entre eux deux](https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7) | 3:53 | 2022-05-19 | 2022-08-30 |
 | [À quoi ça sert l'amour](https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Um Rio](https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf) | 4:14 | 2022-02-08 |  |
 | [Ça valait la peine](https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV) | [Coralie Clement](https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4) | [Salle des pas perdus](https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY) | 1:51 | 2022-01-20 | 2023-08-19 |

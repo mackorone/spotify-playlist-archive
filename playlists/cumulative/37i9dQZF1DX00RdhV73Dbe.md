@@ -148,6 +148,6 @@
 | [You Can Do It](https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/5BYQxikCnimaiq5qQNgTbb) | 3:48 | 2023-04-13 | 2024-04-19 |
 | [You Can Do It](https://open.spotify.com/track/74usZNReO4g4j5aZ0yAmBw) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/4gugFhu1ub505iAzsuhZJi) | 3:48 | 2023-04-13 |  |
 | [You Got Me](https://open.spotify.com/track/69kzyQ9A2dvjP2du4rKUYg) | [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01) | [Buy Now](https://open.spotify.com/album/2RvLZ50JEGP1qaZ1WAYmD6) | 3:29 | 2023-04-13 |  |
-| [Zed \- Curses Remix](https://open.spotify.com/track/6Vqf3dFg1xVGs4Qbe7gQOu) | [Pergola](https://open.spotify.com/artist/3QnxaOYxRgBHdoE1jlcTA0), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Zed \(Curses Remix\)](https://open.spotify.com/album/2eC9FxSDyl9Qq1soed4252) | 8:53 | 2023-04-13 |  |
+| [Zed \- Curses Remix](https://open.spotify.com/track/6Vqf3dFg1xVGs4Qbe7gQOu) | [Pergola](https://open.spotify.com/artist/5Nv274cnLelReTvAGO8B2Q), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Zed \(Curses Remix\)](https://open.spotify.com/album/2eC9FxSDyl9Qq1soed4252) | 8:53 | 2023-04-13 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

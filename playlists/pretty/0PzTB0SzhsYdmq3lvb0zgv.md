@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0PzTB0SzhsYdmq3lvb0zgv.md) - [plain]
 
 ### [Coffee house \| Café Lounge \| Chill Vibes](https://open.spotify.com/playlist/0PzTB0SzhsYdmq3lvb0zgv)
 
-> Chill acoustic, mellow pop en singer\-songwriter muziek voor focus, ontspanning, studeren en werken\. Coffeehouse vibes, lounge sfeer en rustige achtergrondmuziek\. Musique de café, ambiance relax, musique acoustique, café lounge, musique de fond pour travail et étude.
+> Chill acoustic, mellow pop and singer\-songwriter tracks for focus, relaxation, studying and working\. Coffeehouse vibes and calm background music for a cozy café or lounge mood \|\| Rustige playlist voor focus, ontspanning, studeren en werken, met ontspannen vibes voor een knusse lounge of café sfeer
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 192,238 likes - 230 songs - 12 hr 27 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 192,219 likes - 230 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/0PzTB0SzhsYdmq3lvb0zgv.md) - [plain]
 | 229 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 |
 | 230 | [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 |
 
-Snapshot ID: `AAAuW6zvTWQjrfj430Zt7Fthu3VKbgua`
+Snapshot ID: `AAAuX0j6a0J/Y5hw6zoYT4Nsy5zjEQAX`

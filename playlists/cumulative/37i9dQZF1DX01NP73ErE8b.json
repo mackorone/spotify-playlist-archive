@@ -3757,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "Schiena",
+        "url": "https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211453,
+      "name": "L'Amore Non Mi Basta",
+      "url": "https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI"
+    },
+    {
+      "album": {
         "name": "L'amore \u00e8 tutto",
         "url": "https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B"
       },

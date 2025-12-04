@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: 171",
-  "num_followers": 21283,
+  "num_followers": 21288,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -11,8 +11,8 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "HELLO!",
+        "url": "https://open.spotify.com/album/0Fby1ANupBwwDm8bFjf8nz"
       },
       "artists": [
         {
@@ -20,8 +20,8 @@
           "url": "https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 132068,
+      "name": "SUPERSONIC",
       "url": "https://open.spotify.com/track/38crZaLQqe7sBLR2zI8U74"
     },
     {
@@ -275,8 +275,8 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ENSEMBLE",
+        "url": "https://open.spotify.com/album/6ntl6HHJTYj14wPZGfyWcc"
       },
       "artists": [
         {
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
+        "name": "\u30e6\u30fc\u30d5\u30a9\u30fc\u3092\u898b\u306b\u3044\u3053\u3046",
+        "url": "https://open.spotify.com/album/06F3cSHA1gV6zjeA9PUaxB"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        },
+        {
+          "name": "\u30cd\u30af\u30e9\u30a4\u30c8\u30fc\u30ad\u30fc",
+          "url": "https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws"
+        }
+      ],
+      "duration_ms": 215744,
+      "name": "\u30e6\u30fc\u30d5\u30a9\u30fc\u3092\u898b\u306b\u3044\u3053\u3046",
+      "url": "https://open.spotify.com/track/3M4zaCSxhUx6Ru3fvdOY1n"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
         "name": "\u672a\u5b8c\u6210\u306b\u77ac\u3044\u3066",
         "url": "https://open.spotify.com/album/6mfn5VZJ7MVTLnCz2FKHsF"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 264152,
       "name": "\u305d\u308c\u3057\u304b\u8a00\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
-        "name": "\u30e6\u30fc\u30d5\u30a9\u30fc\u3092\u898b\u306b\u3044\u3053\u3046",
-        "url": "https://open.spotify.com/album/06F3cSHA1gV6zjeA9PUaxB"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u8b5c",
-          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
-        },
-        {
-          "name": "\u30cd\u30af\u30e9\u30a4\u30c8\u30fc\u30ad\u30fc",
-          "url": "https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws"
-        }
-      ],
-      "duration_ms": 215744,
-      "name": "\u30e6\u30fc\u30d5\u30a9\u30fc\u3092\u898b\u306b\u3044\u3053\u3046",
-      "url": "https://open.spotify.com/track/3M4zaCSxhUx6Ru3fvdOY1n"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "bouquet",
-        "url": "https://open.spotify.com/album/5z5GxAqdv2RFBZPcqKEl53"
-      },
-      "artists": [
-        {
-          "name": "Oisicle Melonpan",
-          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "\u30af\u30ea\u30fc\u30e0\u30bd\u30fc\u30c0",
-      "url": "https://open.spotify.com/track/1j58n5vsSxrHnmusrfxeqz"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
         "name": "\u30a2\u30ca\u30b6\u30fc\u30c0\u30a4\u30d0\u30fc\u30b7\u30c6\u30a3",
         "url": "https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 227360,
       "name": "\u30ab\u30c6\u30b4\u30e9\u30a4\u30ba",
       "url": "https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
+        "name": "bouquet",
+        "url": "https://open.spotify.com/album/5z5GxAqdv2RFBZPcqKEl53"
+      },
+      "artists": [
+        {
+          "name": "Oisicle Melonpan",
+          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "\u30af\u30ea\u30fc\u30e0\u30bd\u30fc\u30c0",
+      "url": "https://open.spotify.com/track/1j58n5vsSxrHnmusrfxeqz"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
-        "url": "https://open.spotify.com/album/63Sxmw5ldkRVOk5yiRARBn"
-      },
-      "artists": [
-        {
-          "name": "berry meet",
-          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
-      "url": "https://open.spotify.com/track/69ZuItVMLZ5SHpiYEW6Fca"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
         "name": "\u30ef\u30f3\u30bf\u30a4\u30e0\u30a8\u30d4\u30ed\u30fc\u30b0",
         "url": "https://open.spotify.com/album/4yuDiUMUIfaEItFEyTWcme"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 214222,
       "name": "\u30ef\u30f3\u30bf\u30a4\u30e0\u30a8\u30d4\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/5ihqyte3hZEibOp2xFDAkm"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
+        "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/63Sxmw5ldkRVOk5yiRARBn"
+      },
+      "artists": [
+        {
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/69ZuItVMLZ5SHpiYEW6Fca"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1511,26 +1511,18 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/50hmckAxnEiUNUA2rx2Fxh"
+        "name": "\u661f\u306e\u4e0b",
+        "url": "https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6"
       },
       "artists": [
         {
-          "name": "sanetii",
-          "url": "https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy"
-        },
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        },
-        {
-          "name": "\u3056\u3089\u3070\u3093\u3057",
-          "url": "https://open.spotify.com/artist/3MU1QugoEIeuNgHBfEeUij"
+          "name": "Enfants",
+          "url": "https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn"
         }
       ],
-      "duration_ms": 132154,
-      "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/3LwGHyXnRDA76mFfR79ZF3"
+      "duration_ms": 206166,
+      "name": "\u661f\u306e\u4e0b",
+      "url": "https://open.spotify.com/track/5CJha8pwdV4XJhWGa7b2EA"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1551,18 +1543,26 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "\u661f\u306e\u4e0b",
-        "url": "https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6"
+        "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/50hmckAxnEiUNUA2rx2Fxh"
       },
       "artists": [
         {
-          "name": "Enfants",
-          "url": "https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn"
+          "name": "sanetii",
+          "url": "https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy"
+        },
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        },
+        {
+          "name": "\u3056\u3089\u3070\u3093\u3057",
+          "url": "https://open.spotify.com/artist/3MU1QugoEIeuNgHBfEeUij"
         }
       ],
-      "duration_ms": 206166,
-      "name": "\u661f\u306e\u4e0b",
-      "url": "https://open.spotify.com/track/5CJha8pwdV4XJhWGa7b2EA"
+      "duration_ms": 132154,
+      "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/3LwGHyXnRDA76mFfR79ZF3"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "SILVER",
-        "url": "https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY"
+        "name": "\u93e1\u3088\u93e1",
+        "url": "https://open.spotify.com/album/4VxZf7TIjbjt3zzQzGcesI"
       },
       "artists": [
         {
-          "name": "Cody\u30fbLee(\u674e)",
-          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+          "name": "YUTORI-SEDAI",
+          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
         }
       ],
-      "duration_ms": 241433,
-      "name": "\u672a\u77e5",
-      "url": "https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd"
+      "duration_ms": 252620,
+      "name": "\u93e1\u3088\u93e1",
+      "url": "https://open.spotify.com/track/1uwKym8nRJTOth3KYqU5Ja"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

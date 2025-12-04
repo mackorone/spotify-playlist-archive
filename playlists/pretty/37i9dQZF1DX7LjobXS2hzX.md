@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Aswell
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,577 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,569 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 3 | [Last Name](https://open.spotify.com/track/7fHldbxnhn9KhxvT9yaZZh) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Last Name](https://open.spotify.com/album/1tpSQrRlwWshSnANDCu8FO) | 3:10 |
 | 4 | [dis moi où, dis moi quand \(feat\. Hubert Lenoir\)](https://open.spotify.com/track/3eitktT0QgkNa5OgTGp5hK) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [dis moi où, dis moi quand \(feat\. Hubert Lenoir\)](https://open.spotify.com/album/2L4olMUsbxenCeSKa5Yqhf) | 2:36 |
 | 5 | [Tant pis pour elle](https://open.spotify.com/track/2GDZe8GdXd0LoUtpVpMUVy) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/0D7w7NEXkbNnhMLDm1tawk) | 2:38 |
-| 6 | [Demain je pars](https://open.spotify.com/track/4bcBIZQBBmIhbVUoA5RSxO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Demain je pars](https://open.spotify.com/album/3UIdlDGFLJdkmX8J1z3kgi) | 3:29 |
+| 6 | [DEMAIN JE PARS](https://open.spotify.com/track/4bcBIZQBBmIhbVUoA5RSxO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [DEMAIN JE PARS](https://open.spotify.com/album/3UIdlDGFLJdkmX8J1z3kgi) | 3:29 |
 | 7 | [Ballon\-sonde](https://open.spotify.com/track/699SpD5VkpC4PKGgnvK13g) | [JF Pauzé](https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d) | [Les amours de seconde main](https://open.spotify.com/album/3Hesk7w0WcahDmMjpTybob) | 2:58 |
 | 8 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 |
 | 9 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |

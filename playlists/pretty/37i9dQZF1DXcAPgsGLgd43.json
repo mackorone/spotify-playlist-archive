@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 103710,
+  "num_followers": 103783,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,18 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
-        "name": "Cuando Te Veo",
-        "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
+        "name": "Magalenha",
+        "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
       },
       "artists": [
         {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
         }
       ],
-      "duration_ms": 223731,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
+      "duration_ms": 174375,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
     },
     {
       "added_at": "2025-11-28 20:16:47",
@@ -991,18 +987,22 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
-        "name": "Magalenha",
-        "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
+        "name": "Cuando Te Veo",
+        "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 174375,
-      "name": "Magalenha",
-      "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
+      "duration_ms": 223731,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
     },
     {
       "added_at": "2025-11-28 20:16:47",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
+        "name": "Rintintin",
+        "url": "https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73"
+      },
+      "artists": [
+        {
+          "name": "M\u00cbSTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Rintintin",
+      "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
+    },
+    {
+      "added_at": "2025-11-28 20:16:47",
+      "album": {
         "name": "Lo Que Soy",
         "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
-        "name": "Rintintin",
-        "url": "https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73"
-      },
-      "artists": [
-        {
-          "name": "M\u00cbSTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Rintintin",
-      "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
-    },
-    {
-      "added_at": "2025-11-28 20:16:47",
-      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
       },
@@ -1535,6 +1535,30 @@
       "duration_ms": 187200,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
+    },
+    {
+      "added_at": "2025-11-28 20:16:47",
+      "album": {
+        "name": "OBSESION",
+        "url": "https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd"
+      },
+      "artists": [
+        {
+          "name": "Peppe Citarella",
+          "url": "https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB"
+        },
+        {
+          "name": "Aaron Sevilla",
+          "url": "https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX"
+        },
+        {
+          "name": "Yas Cepeda",
+          "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "OBSESION",
+      "url": "https://open.spotify.com/track/2Xv7APjqwJ7wY5nr7DGyHH"
     },
     {
       "added_at": "2025-11-28 20:16:47",
@@ -1563,30 +1587,6 @@
       "duration_ms": 253770,
       "name": "Viagem Ao Centro Do Eu (Coragem)",
       "url": "https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo"
-    },
-    {
-      "added_at": "2025-11-28 20:16:47",
-      "album": {
-        "name": "OBSESION",
-        "url": "https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd"
-      },
-      "artists": [
-        {
-          "name": "Peppe Citarella",
-          "url": "https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB"
-        },
-        {
-          "name": "Aaron Sevilla",
-          "url": "https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX"
-        },
-        {
-          "name": "Yas Cepeda",
-          "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "OBSESION",
-      "url": "https://open.spotify.com/track/2Xv7APjqwJ7wY5nr7DGyHH"
     },
     {
       "added_at": "2025-11-28 20:16:47",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
-        "name": "Barah\u00fanda",
-        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
-      },
-      "artists": [
-        {
-          "name": "Monge",
-          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
-        }
-      ],
-      "duration_ms": 139082,
-      "name": "Barah\u00fanda",
-      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
-    },
-    {
-      "added_at": "2025-11-28 20:16:47",
-      "album": {
         "name": "Siente la Conexi\u00f3n",
         "url": "https://open.spotify.com/album/1FidVVYkjZfocPwCtx0qAw"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 165000,
       "name": "Siente la Conexi\u00f3n",
       "url": "https://open.spotify.com/track/0iI2lSnf0OZALakei4eCfj"
+    },
+    {
+      "added_at": "2025-11-28 20:16:47",
+      "album": {
+        "name": "Barah\u00fanda",
+        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
+      },
+      "artists": [
+        {
+          "name": "Monge",
+          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
+        }
+      ],
+      "duration_ms": 139082,
+      "name": "Barah\u00fanda",
+      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
     },
     {
       "added_at": "2025-11-28 20:16:47",

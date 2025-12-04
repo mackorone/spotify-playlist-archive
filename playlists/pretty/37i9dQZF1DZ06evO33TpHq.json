@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 60258,
+  "num_followers": 60282,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAADU0DVMuli4Hd0XN0U8WWFW",
+  "snapshot_id": "aS4sAAAAAACBMR/Q4bOKVFoDTmO4++IK",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psalm 8 (Hall\u00e9)",
+        "url": "https://open.spotify.com/album/52RP6I8Cdgw9OG4u8vqqJm"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Psalm 8 (Hall\u00e9)",
+      "url": "https://open.spotify.com/track/5gpm7e3PJgsxHH8bLKNAwC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Children of God Acoustic Sessions",
         "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 231400,
       "name": "Song In My Soul (feat. Hollyn)",
       "url": "https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psalm 8 (Hall\u00e9)",
-        "url": "https://open.spotify.com/album/52RP6I8Cdgw9OG4u8vqqJm"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Psalm 8 (Hall\u00e9)",
-      "url": "https://open.spotify.com/track/5gpm7e3PJgsxHH8bLKNAwC"
     },
     {
       "added_at": null,

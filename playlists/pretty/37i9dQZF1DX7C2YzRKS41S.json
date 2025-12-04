@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 144738,
+  "num_followers": 144752,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "When The Wind Blows (Private Sessions)",
+        "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 244393,
+      "name": "When The Wind Blows - Private Sessions",
+      "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "La\u00e7os",
         "url": "https://open.spotify.com/album/51sijugqSA8tgMswbFjupX"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 240585,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/1WrHBBRPokbuJSon8AGlA9"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
-        "name": "When The Wind Blows (Private Sessions)",
-        "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 244393,
-      "name": "When The Wind Blows - Private Sessions",
-      "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "A Encomenda da Minha Vida",
+        "url": "https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 178644,
+      "name": "A Encomenda da Minha Vida",
+      "url": "https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "VEJA BABY (Vers\u00e3o Alternativa)",
         "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 202500,
       "name": "VEJA BABY - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
-        "name": "A Encomenda da Minha Vida",
-        "url": "https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 178644,
-      "name": "A Encomenda da Minha Vida",
-      "url": "https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -871,26 +871,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Milton + esperanza",
-        "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        }
-      ],
-      "duration_ms": 276906,
-      "name": "A Day in the Life",
-      "url": "https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "Passageiro",
         "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 219574,
       "name": "Passageiro",
       "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "Milton + esperanza",
+        "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "duration_ms": 276906,
+      "name": "A Day in the Life",
+      "url": "https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "Can\u00e7\u00f5es do Velho Mundo",
+        "url": "https://open.spotify.com/album/7p7mpxc8y8SWZFDuXhoENq"
+      },
+      "artists": [
+        {
+          "name": "Teago Oliveira",
+          "url": "https://open.spotify.com/artist/02MYQC9MXXfOcrIwvc4dIS"
+        }
+      ],
+      "duration_ms": 216658,
+      "name": "Eu Nasci Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/06vVPyS7i9LBu6eoBgCBqf"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Ana Ca\u00f1as Canta Belchior",
-        "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 273834,
-      "name": "Medo de Avi\u00e3o",
-      "url": "https://open.spotify.com/track/6NNHvJiNoWUOB6QthRA7S1"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "\u00c1guas do Teu Mar",
         "url": "https://open.spotify.com/album/3W1DLnpz0egsPFHcJdnoEB"
       },
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Can\u00e7\u00f5es do Velho Mundo",
-        "url": "https://open.spotify.com/album/7p7mpxc8y8SWZFDuXhoENq"
+        "name": "Ana Ca\u00f1as Canta Belchior",
+        "url": "https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K"
       },
       "artists": [
         {
-          "name": "Teago Oliveira",
-          "url": "https://open.spotify.com/artist/02MYQC9MXXfOcrIwvc4dIS"
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
         }
       ],
-      "duration_ms": 216658,
-      "name": "Eu Nasci Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/06vVPyS7i9LBu6eoBgCBqf"
+      "duration_ms": 273834,
+      "name": "Medo de Avi\u00e3o",
+      "url": "https://open.spotify.com/track/6NNHvJiNoWUOB6QthRA7S1"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

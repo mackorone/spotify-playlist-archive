@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 465,
+  "num_followers": 479,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAECYq+ZWN3YhVTw04bDSDWVxkp34tx",
+  "snapshot_id": "AAAED0DvhOTRsU1XmN6v83ORRRXUQClW",
   "tracks": [
     {
       "added_at": "2025-11-20 17:10:09",
@@ -308,8 +308,8 @@
       },
       "artists": [
         {
-          "name": "Vagabond-321",
-          "url": "https://open.spotify.com/artist/4bdOom5fRimwszocItXymk"
+          "name": "Vagabond",
+          "url": "https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK"
         }
       ],
       "duration_ms": 192085,
@@ -1755,6 +1755,102 @@
       "duration_ms": 180000,
       "name": "constant headache",
       "url": "https://open.spotify.com/track/1vD1cFbR2aI1h5pEDSRREQ"
+    },
+    {
+      "added_at": "2025-12-03 15:26:22",
+      "album": {
+        "name": "The Hook",
+        "url": "https://open.spotify.com/album/2OOTX25BaTsbeoSL5yvNWy"
+      },
+      "artists": [
+        {
+          "name": "PR\u00ddNCESS",
+          "url": "https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "The Hook",
+      "url": "https://open.spotify.com/track/1d56JDKGyZatnz6RRJjHcO"
+    },
+    {
+      "added_at": "2025-12-03 15:31:32",
+      "album": {
+        "name": "Diagnostics",
+        "url": "https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0"
+      },
+      "artists": [
+        {
+          "name": "The Galacticas",
+          "url": "https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Diagnostics",
+      "url": "https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev"
+    },
+    {
+      "added_at": "2025-12-03 15:42:21",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm"
+      },
+      "artists": [
+        {
+          "name": "The Fuzes",
+          "url": "https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA"
+        }
+      ],
+      "duration_ms": 144347,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5"
+    },
+    {
+      "added_at": "2025-12-03 15:51:00",
+      "album": {
+        "name": "Warrior Chords\"",
+        "url": "https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO"
+      },
+      "artists": [
+        {
+          "name": "Armen Matevosyan",
+          "url": "https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Warrior Chords\"",
+      "url": "https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF"
+    },
+    {
+      "added_at": "2025-12-03 16:14:26",
+      "album": {
+        "name": "Time to Heal",
+        "url": "https://open.spotify.com/album/4f704M5LVep2ENY3BM7SKG"
+      },
+      "artists": [
+        {
+          "name": "Pin Dog",
+          "url": "https://open.spotify.com/artist/57B5OFNTlSQZ4aofUvFRZR"
+        }
+      ],
+      "duration_ms": 193290,
+      "name": "Time to Heal",
+      "url": "https://open.spotify.com/track/6TNPl5MZg4c0lkuJbvn5Hc"
+    },
+    {
+      "added_at": "2025-12-03 16:15:40",
+      "album": {
+        "name": "I RAGAZZI DEL 2020",
+        "url": "https://open.spotify.com/album/1WIXpY3RQ4b8pHn40b1nP8"
+      },
+      "artists": [
+        {
+          "name": "SULABU",
+          "url": "https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ"
+        }
+      ],
+      "duration_ms": 271244,
+      "name": "I RAGAZZI DEL 2020",
+      "url": "https://open.spotify.com/track/4KqNZui4229o3aQu6i175G"
     }
   ],
   "unique_name": "Unsigned Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,652 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,661 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 24 | [Something You Can Be Proud Of](https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Something You Can Be Proud Of](https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD) | 3:28 |
 | 25 | [Make It Through](https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Make It Through](https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm) | 3:12 |
 | 26 | [The Reminder](https://open.spotify.com/track/6INilJMURz2ptArultdEDl) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The Reminder](https://open.spotify.com/album/3x29opvwVFDFXpxRzNzgYp) | 4:02 |
-| 27 | [Touch The Sky](https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 4:22 |
-| 28 | [He Who Is To Come](https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [He Who Is To Come](https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP) | 5:16 |
+| 27 | [He Who Is To Come](https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [He Who Is To Come](https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP) | 5:16 |
+| 28 | [Touch The Sky](https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 4:22 |
 | 29 | [Cloud](https://open.spotify.com/track/1OWwOQxvXElGhT7PX5acpn) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Cloud](https://open.spotify.com/album/4DbQACQLLMvxUF9ooleJOT) | 4:03 |
 | 30 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 |
 | 31 | [I Set My Hope \(Hymn For A Deconstructing Friend\)](https://open.spotify.com/track/6WOMNb2YNHE3HhTo3w0KCx) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [I Set My Hope On Jesus](https://open.spotify.com/album/2Tk1ntQrATbl2G05ncpJDK) | 4:15 |

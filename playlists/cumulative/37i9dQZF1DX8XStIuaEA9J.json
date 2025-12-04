@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134485,
+      "name": "Am I sick?",
+      "url": "https://open.spotify.com/track/5QDdLCGbthqLgXt4Vr3UBF"
+    },
+    {
+      "album": {
         "name": "\u6620\u753b",
         "url": "https://open.spotify.com/album/3nKQTGFwJHHACw7hBo0yNx"
       },
@@ -4530,6 +4548,24 @@
       "duration_ms": 143240,
       "name": "FORGIVE ME",
       "url": "https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9"
+    },
+    {
+      "album": {
+        "name": "FORMULA",
+        "url": "https://open.spotify.com/album/0NrdUxMMeAT84c5A138MAW"
+      },
+      "artists": [
+        {
+          "name": "ALPHA DRIVE ONE",
+          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "FORMULA",
+      "url": "https://open.spotify.com/track/40s2ADMVQuDfwxxz77VamE"
     },
     {
       "album": {
@@ -13782,24 +13818,6 @@
       "duration_ms": 247605,
       "name": "Touring",
       "url": "https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "date_added": "2025-12-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/5QDdLCGbthqLgXt4Vr3UBF"
     },
     {
       "album": {

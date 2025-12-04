@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-274 songs - 12 hr 51 min
+277 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Boreal Forest](https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Exploring Nature](https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV) | 2:06 | 2023-04-13 |  |
 | [Boundless](https://open.spotify.com/track/6dSrhf4rQ75pgEGRtPcmRq) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Boundless](https://open.spotify.com/album/1HjsGOiExaQWXmw4SMTGrh) | 3:07 | 2024-04-01 | 2025-02-11 |
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-03-03 | 2025-06-12 |
+| [by our brook](https://open.spotify.com/track/5D2j9P6XAjC1KTHWgCtKCD) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [by our brook](https://open.spotify.com/album/6gsmlzO7pBVwDq6NBpDKTB) | 2:36 | 2025-12-03 |  |
 | [By The Window](https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [By The Window](https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ) | 2:30 | 2023-03-03 | 2025-04-25 |
 | [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 | 2023-09-01 | 2023-09-29 |
 | [Calm Moments](https://open.spotify.com/track/5dnkSxcgzgsVdUgsFNfpGB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Calm Moments](https://open.spotify.com/album/1BHKyjHNueZeBCFeAmCsRj) | 2:41 | 2024-08-23 |  |
@@ -61,7 +62,7 @@
 | [Clearing](https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Clearing](https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS) | 2:40 | 2024-01-25 |  |
 | [Clearing Away](https://open.spotify.com/track/3mT1CQmG7ndvpqDLidJ7rf) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Clearing Away](https://open.spotify.com/album/3ioIRza0mtQiHvBfnZnIqk) | 2:51 | 2025-02-21 |  |
 | [Compassion](https://open.spotify.com/track/5tfjNUVtd6wbHnIwGUuHA8) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Compassion](https://open.spotify.com/album/6MLWy4hrYqW1T3Z3bghUQd) | 3:07 | 2023-10-06 | 2025-11-28 |
-| [Cosmic Dance](https://open.spotify.com/track/1oMatzw8UlXeirPYtqb2Wn) | [Willow Skies](https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc) | [Cosmic Dance](https://open.spotify.com/album/7pHSVI92ueYjhSvgrMwbVW) | 2:44 | 2025-09-04 |  |
+| [Cosmic Dance](https://open.spotify.com/track/1oMatzw8UlXeirPYtqb2Wn) | [Willow Skies](https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc) | [Cosmic Dance](https://open.spotify.com/album/7pHSVI92ueYjhSvgrMwbVW) | 2:44 | 2025-09-04 | 2025-12-04 |
 | [Cosmic Major](https://open.spotify.com/track/2bKMFV6ZR0RqQ0Gb6hPPDx) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Cosmic Major](https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF) | 2:13 | 2024-01-25 |  |
 | [Creekside](https://open.spotify.com/track/00gniJGV3T78LoCmTeSbKM) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Creekside](https://open.spotify.com/album/1GlqsJCYxTMCqI9ZxKCo3n) | 2:32 | 2025-05-16 |  |
 | [Cucurbita](https://open.spotify.com/track/3N1HAd8IP2Iv6fJMeuL4q8) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Cucurbita](https://open.spotify.com/album/2obGcH5exzGCZdlO3oDnFL) | 1:25 | 2023-07-06 | 2023-07-22 |
@@ -159,7 +160,7 @@
 | [Morning Sun](https://open.spotify.com/track/6tZqBZ52QjlSwA6T25QoLu) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Morning Sun](https://open.spotify.com/album/7eyodgyWN4cgXKGyIYYyq8) | 2:39 | 2024-02-06 | 2024-08-24 |
 | [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 | 2023-10-26 |  |
 | [Nature Bliss](https://open.spotify.com/track/3Nzp9VkySXdVllcziVz7l4) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Nature Bliss](https://open.spotify.com/album/0eJzRC2Xb0h99ZZa9D2Of6) | 3:05 | 2025-05-16 |  |
-| [Nature's Balance](https://open.spotify.com/track/4VVK46fpmG16sD5eM5jSoK) | [Vox Lumi](https://open.spotify.com/artist/3pmnzN7hw5uBer8FWezNQ3) | [Nature's Balance](https://open.spotify.com/album/4Ycr0QB6Kl1KtSdL95Xv4V) | 2:44 | 2025-09-24 |  |
+| [Nature's Balance](https://open.spotify.com/track/4VVK46fpmG16sD5eM5jSoK) | [Vox Lumi](https://open.spotify.com/artist/3pmnzN7hw5uBer8FWezNQ3) | [Nature's Balance](https://open.spotify.com/album/4Ycr0QB6Kl1KtSdL95Xv4V) | 2:44 | 2025-09-24 | 2025-12-04 |
 | [Nature's Calling](https://open.spotify.com/track/1GwNF0VSW51XuLCyyj2HON) | [Evie May](https://open.spotify.com/artist/0UpCHJTp9iC8xQ43AyVDF4) | [Nature's Calling](https://open.spotify.com/album/6I1focCEQmsmoKj2XhabC0) | 1:55 | 2023-03-03 | 2024-09-05 |
 | [Nature's Energy](https://open.spotify.com/track/03kNewVwapP82UDyaYHns8) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Nature's Energy](https://open.spotify.com/album/4dF4uAh7ElOl6BfncIdZf2) | 2:40 | 2025-09-24 |  |
 | [Nemuru](https://open.spotify.com/track/7ijrcNdiapZN38vYSvavTz) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Nemuru](https://open.spotify.com/album/5FdIDykBzbqefQiBt0RByS) | 2:48 | 2023-09-01 |  |
@@ -175,6 +176,7 @@
 | [On Quietude](https://open.spotify.com/track/5JiXbtZhm8I6O62S3NHqzi) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [On Quietude](https://open.spotify.com/album/5Rdpc4zu0Mv5401DI3V7qB) | 2:48 | 2024-03-05 | 2025-06-12 |
 | [On the Cottage Floor](https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:46 | 2023-03-03 | 2024-11-23 |
 | [One last call](https://open.spotify.com/track/5NJyS0aFGLhFW35NmEnnS8) | [Phases of You](https://open.spotify.com/artist/04f6XeDUKqybwfbSheAoWv) | [Entre tus manos](https://open.spotify.com/album/5loAom6m6jvgODXh7J3QqK) | 2:14 | 2023-03-03 | 2023-07-22 |
+| [Onwards](https://open.spotify.com/track/0Hzikv1GwB1MdJwqFl9iVf) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Onwards](https://open.spotify.com/album/2ViDH9sOAqf6poxE0d3aMz) | 2:44 | 2025-12-03 |  |
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-03-03 | 2025-06-12 |
 | [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 | 2024-02-06 | 2025-11-19 |
 | [Panacea](https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Panacea](https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f) | 2:46 | 2024-05-01 |  |
@@ -249,6 +251,7 @@
 | [The Other Side](https://open.spotify.com/track/1v6nckXVbN34PqeQ0xBFIN) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Other Side](https://open.spotify.com/album/3uRJ68qiLsiWtYWo9JLHSV) | 2:49 | 2025-05-16 |  |
 | [The River Song](https://open.spotify.com/track/0jzdpv1d3C0k76jenFwPKI) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [The River Song](https://open.spotify.com/album/2obhenLWAFKvEz8J4Lza9q) | 2:44 | 2025-01-15 |  |
 | [The Sparrow](https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [The Old Grandfather Clock](https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu) | 3:12 | 2023-03-03 | 2025-06-12 |
+| [The Stream And It's Rippling Beauty](https://open.spotify.com/track/4Em82D0AnHc37y5m714r94) | [State Of Tranquility](https://open.spotify.com/artist/3MF7nYOg59ZVk4hYtJuIwU) | [The Stream And Its Rippling Beauty](https://open.spotify.com/album/71QnkxSIsoSUJhhN06hB6U) | 2:46 | 2025-12-03 |  |
 | [The Teacher Within](https://open.spotify.com/track/3RPnZneI5lPdM5lMTsYUWR) | [Bias Beats](https://open.spotify.com/artist/2rufsSjAC70jRPV2oOxscT) | [The Teacher Within](https://open.spotify.com/album/5QdaV8dVbKPircWmgYw38v) | 2:46 | 2025-09-24 |  |
 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 | 2023-03-03 | 2025-06-12 |
 | [Thorns of Life](https://open.spotify.com/track/0hnmVaXmMT3F9LalPEkEYJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Thorns of Life](https://open.spotify.com/album/1WZAh7SNiSuPIVH4B8PE5m) | 4:23 | 2025-02-21 |  |
@@ -268,7 +271,7 @@
 | [Vibo Nuovo](https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Vibo Nuovo](https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i) | 3:34 | 2024-03-01 |  |
 | [Volans In Silva](https://open.spotify.com/track/00KRNJUSfPviEiGgV09vq3) | [Bo Beauve](https://open.spotify.com/artist/6WhIXLtC2VSVq70ZepAKel) | [Volans In Silva](https://open.spotify.com/album/7icpgFKWyNPsM0P93bXhCG) | 3:06 | 2023-03-03 | 2025-05-17 |
 | [Wait](https://open.spotify.com/track/2T1ybUcEfgC1Z4XUXw5GlZ) | [Aubrey Fornier](https://open.spotify.com/artist/3d8Ky2p7PzmNYDvPcJxGM9) | [Wait](https://open.spotify.com/album/4LtHbWd6Dgd7xApLzpzzp9) | 1:54 | 2023-03-03 | 2023-10-07 |
-| [Waking \(Tari Valley\)](https://open.spotify.com/track/6U8HTRVUqlOt1j1l9jwOv0) | [Jason Singh](https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Nature's Voice II](https://open.spotify.com/album/7BOuKe4Ftn2UPMoEdQSCCu) | 3:50 | 2025-09-24 |  |
+| [Waking \(Tari Valley\)](https://open.spotify.com/track/6U8HTRVUqlOt1j1l9jwOv0) | [Jason Singh](https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Nature's Voice II](https://open.spotify.com/album/7BOuKe4Ftn2UPMoEdQSCCu) | 3:50 | 2025-09-24 | 2025-12-04 |
 | [Wandering With You](https://open.spotify.com/track/1bDD3OfhHYTdcvxox0xS6y) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Wandering With You](https://open.spotify.com/album/6GxxS66QbX86sbYd5BP2sh) | 2:48 | 2025-01-15 |  |
 | [Water \(Forest Remix\)](https://open.spotify.com/track/4RFqW2PC8h0OOc3tktqbOi) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Water \(Forest Remix\)](https://open.spotify.com/album/3HduVWmZBFVhKbs5HPpcnd) | 2:16 | 2024-04-01 | 2025-02-22 |
 | [Wave](https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF) | [The Lagoon](https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA) | [Wave](https://open.spotify.com/album/16S959NluCJSWVpybU2jb8) | 3:51 | 2023-03-03 | 2024-04-14 |

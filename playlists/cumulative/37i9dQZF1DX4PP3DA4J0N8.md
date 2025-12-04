@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-208 songs - 9 hr 56 min
+209 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 4:00 | 2022-03-25 | 2022-04-29 |
 | [dense leaf canopy](https://open.spotify.com/track/03iPmLyIVO7H74oPOnOP4G) | [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [arkansas rain](https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY) | 3:03 | 2025-07-24 |  |
 | [Distant Thunder in the East of the City](https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Rain](https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4) | 3:03 | 2022-03-25 | 2024-03-27 |
-| [Down Stream](https://open.spotify.com/track/7x50aLAvwia2rd5YX5Jz2a) | [Drifting Streams](https://open.spotify.com/artist/7GdXNgwObAO7mvdQcDT0Yo) | [Down Stream](https://open.spotify.com/album/51pQpU9fLo5xTjSBQ4NwtP) | 5:14 | 2022-03-25 |  |
+| [Down Stream](https://open.spotify.com/track/7x50aLAvwia2rd5YX5Jz2a) | [Drifting Streams](https://open.spotify.com/artist/7GdXNgwObAO7mvdQcDT0Yo) | [Down Stream](https://open.spotify.com/album/51pQpU9fLo5xTjSBQ4NwtP) | 5:14 | 2022-03-25 | 2025-12-04 |
 | [Drifting Through Birdsong](https://open.spotify.com/track/6VvQIvgcal9w3tOgd76blm) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Drifting Through Birdsong](https://open.spotify.com/album/6P490oFAW66ie6kcwq7PDH) | 2:50 | 2025-09-23 |  |
 | [Dripping Wet Leaves and Thunder](https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Thunderstorms vol II](https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg) | 3:48 | 2022-03-25 |  |
 | [Drops Of Skies](https://open.spotify.com/track/7b2LGKVoG029pfEgI0Jnmk) | [Bewegtes](https://open.spotify.com/artist/1PPezRWISDkSzw4EPlDcDg) | [Drops Of Skies](https://open.spotify.com/album/4wopG570SslotxhJVt1WC8) | 2:53 | 2022-03-25 |  |
@@ -110,6 +110,7 @@
 | [Morning Bird Symphony](https://open.spotify.com/track/2DG4GclEMtxZEFbXixAGxq) | [Himalaya Nature](https://open.spotify.com/artist/7IlmN5ipzDWqSbLNsjDMU8) | [Himalaya Bird Sounds](https://open.spotify.com/album/5SfxNMY6MyEfia4wV0vv7x) | 4:36 | 2022-03-25 |  |
 | [Morning in Scotland](https://open.spotify.com/track/3wNGiwpHA6AMTSlLN71IjW) | [Hermelo](https://open.spotify.com/artist/0sJWDshSokRwvOqYo7W3iV) | [Morning in Scotland](https://open.spotify.com/album/176L5jSWsdkfgou23TPydl) | 1:53 | 2023-09-20 |  |
 | [Morning Rain](https://open.spotify.com/track/4rOmpvrIMLau6Hig9GSmp1) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:10 | 2022-03-25 |  |
+| [Multiple birds at dawn](https://open.spotify.com/track/031M3L3hN4j19SKjYuRo1i) | [Watertowers](https://open.spotify.com/artist/7DcNhZNSWzYyhuDm2SyQnt) | [Multiple birds at dawn](https://open.spotify.com/album/6xdKRRuxNPQGGNv74XTD2p) | 4:03 | 2025-11-11 |  |
 | [Nature Night\-time](https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 | 2022-03-25 |  |
 | [Nature Sounds](https://open.spotify.com/track/0aiIxhhNwCZcUF4foUSpNa) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:08 | 2022-03-25 |  |
 | [Nature's Lullaby in the Woods](https://open.spotify.com/track/1JRIbiSwqm7iIQDYzizyOU) | [Al Watts](https://open.spotify.com/artist/3rO74EVuCb94fxyCJk1aYx) | [Serene Forest Soundscape](https://open.spotify.com/album/7faX5hZBNDnAopDM3j28nj) | 2:52 | 2023-09-20 |  |

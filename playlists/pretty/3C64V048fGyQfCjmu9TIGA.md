@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3C64V048fGyQfCjmu9TIGA.md) - [plain]
 
 ### [90s HITS \| TOP 100 SONGS](https://open.spotify.com/playlist/3C64V048fGyQfCjmu9TIGA)
 
-> The best of the 1990s classics, 90s throwbacks, 90s R&amp;B, 90s Pop, 90s Songs, 90s Music, 90s Alternative and more from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.
+> The best of the 1990s classics, NYE, 90s throwbacks, New Years, 90s R&amp;B, New Years Eve, 90s Pop, Party, 90s Songs, 90s Music, 90s Alternative and more from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,457,693 likes - 145 songs - 9 hr 59 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,457,927 likes - 145 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/3C64V048fGyQfCjmu9TIGA.md) - [plain]
 | 144 | [Are You Ready](https://open.spotify.com/track/7A1odihHBrI8n9k0Fefh2j) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:10 |
 | 145 | [Pure Massacre](https://open.spotify.com/track/7qCIP5KHYy9HuXbEEWzmC7) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:58 |
 
-Snapshot ID: `AAAJqwzuUPI4e5nqrEZSiWN4V1UrB1a5`
+Snapshot ID: `AAAJrLjh9mcqhnibHaFla7ZiXLbc0v/3`

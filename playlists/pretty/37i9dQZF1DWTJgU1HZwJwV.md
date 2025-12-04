@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,614 likes - 141 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,670 likes - 141 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,27 +15,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 5 | [Despegue](https://open.spotify.com/track/2AC6EchHotWs5LgJKZgH5B) | [N\. Polanka](https://open.spotify.com/artist/0CRAXi7CXKjGQvBbqAN53Q) | [Despegue](https://open.spotify.com/album/6HmMiJUll7sgw4L40sWZEA) | 2:16 |
 | 6 | [Lighthouse](https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Lighthouse](https://open.spotify.com/album/5MQlIqR3JoQ1cJy8SJBMo0) | 2:32 |
 | 7 | [Marylebone](https://open.spotify.com/track/06AYaxQIhxBrj98jEamqOk) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Marylebone](https://open.spotify.com/album/3PSMw5VfGeWMGL1X86N3gf) | 2:33 |
-| 8 | [Presence](https://open.spotify.com/track/65PwJhpGEDq3T9ifVlSM4r) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Presence](https://open.spotify.com/album/7spT1eTyS8gj0L8MHBX69x) | 2:27 |
-| 9 | [Everwarm](https://open.spotify.com/track/4vVHHh42oRLxw4McSyWED2) | [Yumi Ima](https://open.spotify.com/artist/0TVrvag1CbzyEzo93LPCba) | [Everwarm](https://open.spotify.com/album/41ezKIzkNkok0R3aBcdyLU) | 2:49 |
-| 10 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 |
-| 11 | [Close To Home](https://open.spotify.com/track/1yKZOimGS312NRcpwjhsXd) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [Close To Home](https://open.spotify.com/album/5dhdPcBxiWEroTeOjsdgQ4) | 2:33 |
-| 12 | [Aporia](https://open.spotify.com/track/4XGgC3C5xkUlK7KZvxrvFO) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Aporia](https://open.spotify.com/album/2soT3wxQELu7yXSph3b4J8) | 1:57 |
+| 8 | [Everwarm](https://open.spotify.com/track/4vVHHh42oRLxw4McSyWED2) | [Yumi Ima](https://open.spotify.com/artist/0TVrvag1CbzyEzo93LPCba) | [Everwarm](https://open.spotify.com/album/41ezKIzkNkok0R3aBcdyLU) | 2:49 |
+| 9 | [Presence](https://open.spotify.com/track/65PwJhpGEDq3T9ifVlSM4r) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Presence](https://open.spotify.com/album/7spT1eTyS8gj0L8MHBX69x) | 2:27 |
+| 10 | [Aporia](https://open.spotify.com/track/4XGgC3C5xkUlK7KZvxrvFO) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Aporia](https://open.spotify.com/album/2soT3wxQELu7yXSph3b4J8) | 1:57 |
+| 11 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 |
+| 12 | [Close To Home](https://open.spotify.com/track/1yKZOimGS312NRcpwjhsXd) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [Close To Home](https://open.spotify.com/album/5dhdPcBxiWEroTeOjsdgQ4) | 2:33 |
 | 13 | [Solis](https://open.spotify.com/track/1szHxvHkt6Q5AOmhy3waph) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Solis](https://open.spotify.com/album/7nIUMBa5guEzQ3YqZiwG6Q) | 2:14 |
 | 14 | [Ordinary Sunday](https://open.spotify.com/track/0bdtCy7wrMYa7gc8mCo955) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Ordinary Sunday](https://open.spotify.com/album/4y2UZDXDXi233wq6ozCNG7) | 2:44 |
-| 15 | [Open Plain](https://open.spotify.com/track/0kEVXbpsHvWRrwxw5V4ztc) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Open Plain](https://open.spotify.com/album/2vvuoGBQR3Lk5mFYyK6Qzh) | 2:52 |
-| 16 | [Presence in the Present](https://open.spotify.com/track/1P1atoWaatAcMCw5w8E8Sf) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Presence in the Present](https://open.spotify.com/album/7eITvCHxiVyJ0N9ZeisGQE) | 2:21 |
-| 17 | [Still Waiting](https://open.spotify.com/track/2Ny8lpQv4F5sKHtRQglRVn) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Still Waiting](https://open.spotify.com/album/4t9Wak4mJNhpUCwa7VxMCX) | 2:05 |
-| 18 | [Point of Return](https://open.spotify.com/track/7cFmjmSlKLJ4nwQrG9Q3mw) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [Point of Return](https://open.spotify.com/album/3Rcai3wjFJvLfqpYiJCuUq) | 2:34 |
+| 15 | [Presence in the Present](https://open.spotify.com/track/1P1atoWaatAcMCw5w8E8Sf) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Presence in the Present](https://open.spotify.com/album/7eITvCHxiVyJ0N9ZeisGQE) | 2:21 |
+| 16 | [Open Plain](https://open.spotify.com/track/0kEVXbpsHvWRrwxw5V4ztc) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Open Plain](https://open.spotify.com/album/2vvuoGBQR3Lk5mFYyK6Qzh) | 2:52 |
+| 17 | [Point of Return](https://open.spotify.com/track/7cFmjmSlKLJ4nwQrG9Q3mw) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [Point of Return](https://open.spotify.com/album/3Rcai3wjFJvLfqpYiJCuUq) | 2:34 |
+| 18 | [Still Waiting](https://open.spotify.com/track/2Ny8lpQv4F5sKHtRQglRVn) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Still Waiting](https://open.spotify.com/album/4t9Wak4mJNhpUCwa7VxMCX) | 2:05 |
 | 19 | [Into the Great Wide Open](https://open.spotify.com/track/6n4uJgCeX4oXACixVgvkmI) | [Ralph Couvert](https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa) | [Into the Great Wide Open](https://open.spotify.com/album/5GhkjZNNEEIHeezbA1wuiX) | 2:11 |
 | 20 | [Slowly Moments](https://open.spotify.com/track/0mnj0mPIYL05zr8WAHS9MN) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Slowly Moments](https://open.spotify.com/album/3as2aYAMd8ZPbo4WZI5UgG) | 2:06 |
 | 21 | [The Rain Comes](https://open.spotify.com/track/5zpgmMQ46DVTr97ZwFDcAG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [The Rain Comes](https://open.spotify.com/album/6R7wD5TChs18vFNeX4jzin) | 2:40 |
 | 22 | [Heart and Hope](https://open.spotify.com/track/4Nylyd2DTfsIl7blLQasEl) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Heart and Hope](https://open.spotify.com/album/45A7m4PmaQLy25YbeEscno) | 2:12 |
-| 23 | [Stretch Through](https://open.spotify.com/track/5lwzLUn70mmFyHmX28Lfte) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Stretch Through](https://open.spotify.com/album/5GN2Ge30Mptqc9hpVCmZZH) | 2:18 |
-| 24 | [Outono](https://open.spotify.com/track/5yo0kYmqHkg7tMPJv3GKKR) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Outono](https://open.spotify.com/album/1ZMGYAg9qKw7q1ScwxuVlZ) | 3:15 |
-| 25 | [Peaceful Return](https://open.spotify.com/track/3CkQEF6uprf58gOeLe3Mdj) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Peaceful Return](https://open.spotify.com/album/0cfeRbS106R8lu6MBZaEbW) | 2:34 |
+| 23 | [Peaceful Return](https://open.spotify.com/track/3CkQEF6uprf58gOeLe3Mdj) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Peaceful Return](https://open.spotify.com/album/0cfeRbS106R8lu6MBZaEbW) | 2:34 |
+| 24 | [Stretch Through](https://open.spotify.com/track/5lwzLUn70mmFyHmX28Lfte) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Stretch Through](https://open.spotify.com/album/5GN2Ge30Mptqc9hpVCmZZH) | 2:18 |
+| 25 | [Outono](https://open.spotify.com/track/5yo0kYmqHkg7tMPJv3GKKR) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Outono](https://open.spotify.com/album/1ZMGYAg9qKw7q1ScwxuVlZ) | 3:15 |
 | 26 | [Silhouette](https://open.spotify.com/track/0hf6nqWArHwj5Uq99oF1rj) | [Mauro Petrone](https://open.spotify.com/artist/2PRWHHZKOawoThzol1h3N5) | [Silhouette](https://open.spotify.com/album/1w8IkoO4XyXNvhu1PBBu0q) | 2:53 |
-| 27 | [Time and Place](https://open.spotify.com/track/465NurnKJ1EsWgaC22fcPF) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [Time and Place](https://open.spotify.com/album/1WTakpwWY5PKIthddkNPKz) | 2:46 |
-| 28 | [Sunlight](https://open.spotify.com/track/300nsu06HwLi0mLzCYz8LI) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Sunlight](https://open.spotify.com/album/4Xk4xXeHvBnyAiT4ztAHbe) | 2:29 |
+| 27 | [Wonder](https://open.spotify.com/track/340KkTWH44nG5CZ8bkeGl8) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Wonder](https://open.spotify.com/album/5odlqR0pcxQgpfDdHXoBAt) | 2:41 |
+| 28 | [Time and Place](https://open.spotify.com/track/465NurnKJ1EsWgaC22fcPF) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [Time and Place](https://open.spotify.com/album/1WTakpwWY5PKIthddkNPKz) | 2:46 |
 | 29 | [The Dreamer](https://open.spotify.com/track/4JeCz2VmJDfpdw5nJUg7kV) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Dreamer](https://open.spotify.com/album/1MWZ3bhElou5DzdnnjnKVs) | 2:21 |
 | 30 | [Only Briefly](https://open.spotify.com/track/1ZdHCofnzXzQG262Z0sNyb) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Only Briefly](https://open.spotify.com/album/4v16VnIVhC9FWgRWHluvLG) | 2:07 |
 | 31 | [Nostalgic](https://open.spotify.com/track/5q5otSq5s8JRENndQRisZJ) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Nostalgic](https://open.spotify.com/album/2sAoh43R2UOHgKF5cuNiuk) | 2:53 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 140 | [Afternoon in May](https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:22 |
 | 141 | [Fairytale](https://open.spotify.com/track/1nG96s85Zw3DVnG24onptC) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Fairytale](https://open.spotify.com/album/4f3CoCIOgJGOPgdZLu8ycA) | 2:28 |
 
-Snapshot ID: `AAAAAMmBimD034izKgp6HG/1mLp/i8yF`
+Snapshot ID: `AAAAAGN9FfdprVvRtTeXCqZHkMi1PWEc`

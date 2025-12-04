@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-138 songs - 6 hr 44 min
+139 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Empty](https://open.spotify.com/track/6JyGAC8zA00sLviSTy7eUm) | [Ivy Quainoo](https://open.spotify.com/artist/7wUvXN7DpyN99eIzMa9pcn) | [Wildfires](https://open.spotify.com/album/7JpIZ91RWOIau5eUIkuAxK) | 3:04 | 2024-01-29 |  |
 | [Even If \- Radio Edit](https://open.spotify.com/track/4koe2WwwF3Jl2szNq01ZPB) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Danceaholic](https://open.spotify.com/album/6EfnzpMmmCXUcASE77MeVc) | 3:22 | 2024-01-29 |  |
 | [Faster Than A Bullet](https://open.spotify.com/track/3z3kH4Sg3MhusVawon7xYm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [CLUBLIFE, VOL\. 5: CHINA](https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0) | 3:26 | 2024-01-29 |  |
-| [Fighting with Yourself](https://open.spotify.com/track/026eW4z5Obgw0rENV11IlY) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Dizzyonatightrope](https://open.spotify.com/album/2InVsPk7FnDASgJHAeOu3Y) | 3:39 | 2024-01-29 |  |
+| [Fighting with Yourself](https://open.spotify.com/track/026eW4z5Obgw0rENV11IlY) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Dizzyonatightrope](https://open.spotify.com/album/2InVsPk7FnDASgJHAeOu3Y) | 3:39 | 2024-01-29 | 2025-12-04 |
+| [Fighting With Yourself](https://open.spotify.com/track/5q2UQ1AMd1BstayUHaFdDJ) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [dizzyonatightrope](https://open.spotify.com/album/1LDb4Gg7jMfELMEU7mdWWT) | 3:39 | 2025-12-03 |  |
 | [Finest Hour](https://open.spotify.com/track/5i6cpztx0qKfT956tyjOYL) | [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [III](https://open.spotify.com/album/6kRcnLqICpLeA2NVmmlkIc) | 3:43 | 2024-01-29 |  |
 | [Flavor \(feat\. Vikina\)](https://open.spotify.com/track/3nNmvyxfIb1Mf3lGnlmyqY) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 2:56 | 2024-01-29 |  |
 | [Frenchy Mon Amour](https://open.spotify.com/track/6T85zjJmZfeJ5Ryhkz0juJ) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:16 | 2024-01-29 |  |

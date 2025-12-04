@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 419693,
+  "num_followers": 419680,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Another Friday Night / Hot Heavy Summer / Sister",
-        "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 229291,
-      "name": "Hot Heavy Summer",
-      "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Another Friday Night / Hot Heavy Summer / Sister",
+        "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 229291,
+      "name": "Hot Heavy Summer",
+      "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -711,54 +711,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "The Jacket",
-        "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 259181,
-      "name": "Everything Is Simple",
-      "url": "https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Snowplow",
         "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
@@ -779,6 +731,38 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "The Jacket",
+        "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 259181,
+      "name": "Everything Is Simple",
+      "url": "https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "strongboi",
         "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 369116,
       "name": "butter",
       "url": "https://open.spotify.com/track/7sliU9EeA9R6PbQA0uPj17"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Human Emotion",
+        "url": "https://open.spotify.com/album/5yld1EKD0F5Q442upp44Up"
+      },
+      "artists": [
+        {
+          "name": "Small Forward",
+          "url": "https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Human Emotion",
+      "url": "https://open.spotify.com/track/2RZikbqD9j1SRch0eh7Y97"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Human Emotion",
-        "url": "https://open.spotify.com/album/5yld1EKD0F5Q442upp44Up"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
       "artists": [
         {
-          "name": "Small Forward",
-          "url": "https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh"
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Human Emotion",
-      "url": "https://open.spotify.com/track/2RZikbqD9j1SRch0eh7Y97"
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "The Blues Have Blown Away",
-        "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
+        "name": "Shape of Silence",
+        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
       },
       "artists": [
         {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        },
-        {
-          "name": "Josh Oliver",
-          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
         }
       ],
-      "duration_ms": 167400,
-      "name": "The Blues Have Blown Away",
-      "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
+      "duration_ms": 200355,
+      "name": "Causing Trouble",
+      "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1079,18 +1075,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Shape of Silence",
-        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
+        "name": "The Blues Have Blown Away",
+        "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
       },
       "artists": [
         {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        },
+        {
+          "name": "Josh Oliver",
+          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
         }
       ],
-      "duration_ms": 200355,
-      "name": "Causing Trouble",
-      "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
+      "duration_ms": 167400,
+      "name": "The Blues Have Blown Away",
+      "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Joy'All",
-      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Fish Pond Fish",
         "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 231066,
       "name": "A Light On In The Dark",
       "url": "https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 316360,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
         }
       ],
-      "duration_ms": 316360,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
+      "duration_ms": 224493,
+      "name": "Joy'All",
+      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Redwood Tree",
-        "url": "https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep"
-      },
-      "artists": [
-        {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
-        }
-      ],
-      "duration_ms": 170894,
-      "name": "Redwood Tree",
-      "url": "https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "We Are Olympians",
         "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 297453,
       "name": "Olympians - Acoustic",
       "url": "https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Redwood Tree",
+        "url": "https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 170894,
+      "name": "Redwood Tree",
+      "url": "https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Narcissist - EP",
-        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
-      },
-      "artists": [
-        {
-          "name": "Cale Tyson",
-          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Not Healthy Anymore",
-      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Begin Again - EP",
         "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 287693,
       "name": "Third Way",
       "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Narcissist - EP",
+        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
+      },
+      "artists": [
+        {
+          "name": "Cale Tyson",
+          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Not Healthy Anymore",
+      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
-      },
-      "artists": [
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/6OzPiCJQmxVRKgYlD5XMMJ"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 236483,
       "name": "Shine",
       "url": "https://open.spotify.com/track/2hxxoC0rF7UkUuaY9Lagjx"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Wilderness Within You",
-        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 230366,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Green to Gold",
         "url": "https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 237985,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Wilderness Within You",
+        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 230366,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2211,6 +2211,26 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "On A Beach",
+        "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
+      },
+      "artists": [
+        {
+          "name": "Hayden",
+          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 245656,
+      "name": "On A Beach",
+      "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Big Star (Alt)",
         "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
       },
@@ -2239,26 +2259,6 @@
       "duration_ms": 318718,
       "name": "Any Dreams?",
       "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "On A Beach",
-        "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
-      },
-      "artists": [
-        {
-          "name": "Hayden",
-          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
-        },
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 245656,
-      "name": "On A Beach",
-      "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Coast is Waiting",
-        "url": "https://open.spotify.com/album/4xX4BwmeS60sarX6Xl1uA3"
-      },
-      "artists": [
-        {
-          "name": "Mo Lowda & the Humble",
-          "url": "https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk"
-        }
-      ],
-      "duration_ms": 219674,
-      "name": "Coast is Waiting",
-      "url": "https://open.spotify.com/track/3AiLVjiTCo3cgDXbe7hhmn"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Witchknife",
         "url": "https://open.spotify.com/album/1yBHbpoM08NNjVNpxN8UhP"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 191172,
       "name": "Witchknife",
       "url": "https://open.spotify.com/track/5zSX509s3P2f4wU2dMut49"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Coast is Waiting",
+        "url": "https://open.spotify.com/album/4xX4BwmeS60sarX6Xl1uA3"
+      },
+      "artists": [
+        {
+          "name": "Mo Lowda & the Humble",
+          "url": "https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk"
+        }
+      ],
+      "duration_ms": 219674,
+      "name": "Coast is Waiting",
+      "url": "https://open.spotify.com/track/3AiLVjiTCo3cgDXbe7hhmn"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2423,30 +2423,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "All Of The Women [Feat. Sa-Roc] (dim star remix)",
-        "url": "https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
-        {
-          "name": "Sa-Roc",
-          "url": "https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg"
-        },
-        {
-          "name": "dim star",
-          "url": "https://open.spotify.com/artist/3XH0xpgD87ICnmkcvi1Vq3"
-        }
-      ],
-      "duration_ms": 279504,
-      "name": "All Of The Women [Feat. Sa-Roc] - dim star remix",
-      "url": "https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "FODDER",
         "url": "https://open.spotify.com/album/1EddVMg0glN4iWtW9261ll"
       },
@@ -2483,18 +2459,26 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/1tvSxaTCXwwBK6vEYnj06T"
+        "name": "All Of The Women [Feat. Sa-Roc] (dim star remix)",
+        "url": "https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK"
       },
       "artists": [
         {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Sa-Roc",
+          "url": "https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg"
+        },
+        {
+          "name": "dim star",
+          "url": "https://open.spotify.com/artist/3XH0xpgD87ICnmkcvi1Vq3"
         }
       ],
-      "duration_ms": 232160,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/6SDYoxCRLB3nuaq9mEKpgk"
+      "duration_ms": 279504,
+      "name": "All Of The Women [Feat. Sa-Roc] - dim star remix",
+      "url": "https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2511,6 +2495,22 @@
       "duration_ms": 239056,
       "name": "Promises",
       "url": "https://open.spotify.com/track/7z2MAtdSKCY0bAVy2ItYP0"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1tvSxaTCXwwBK6vEYnj06T"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/6SDYoxCRLB3nuaq9mEKpgk"
     }
   ],
   "unique_name": "Modern Eclectic",

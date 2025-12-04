@@ -1,6 +1,6 @@
 {
   "description": "Sortez les pantalons pattes d\u2018eph et les chemises en satin !",
-  "num_followers": 140457,
+  "num_followers": 140440,
   "original_name": "Disco Club",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
+        "name": "Wordy Rappinghood",
+        "url": "https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3"
+      },
+      "artists": [
+        {
+          "name": "Tom Tom Club",
+          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+        }
+      ],
+      "duration_ms": 335000,
+      "name": "Genius Of Love",
+      "url": "https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
         "name": "Time Is Slipping Away",
         "url": "https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 274226,
       "name": "I'll Never Forget (My Favorite Disco)",
       "url": "https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
-        "name": "Wordy Rappinghood",
-        "url": "https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3"
-      },
-      "artists": [
-        {
-          "name": "Tom Tom Club",
-          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
-        }
-      ],
-      "duration_ms": 335000,
-      "name": "Genius Of Love",
-      "url": "https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ"
     },
     {
       "added_at": "2025-08-29 16:41:35",

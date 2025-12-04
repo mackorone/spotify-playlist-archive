@@ -1789,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "30 Anos no Brasil (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3jUyGPU73lq7Iu4GdKnaVh"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232214,
+      "name": "Tempo de Crescer / Cacos Pelo Ch\u00e3o / Ele \u00e9 Por Mim / Vaso de Alabastro - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Elm0HTj8WhCED9LZdiNT2"
+    },
+    {
+      "album": {
         "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
         "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
       },
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 218128,
       "name": "Tua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/6hpoiNQJcl8rVg3xaxBZzI"

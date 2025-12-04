@@ -1,6 +1,6 @@
 {
   "description": "Easy listening pop that feels sunny wherever you are ",
-  "num_followers": 963964,
+  "num_followers": 963959,
   "original_name": "Sunny Day",
   "owner": {
     "name": "Spotify",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-06-25 03:01:58",
       "album": {
-        "name": "From Chaos",
-        "url": "https://open.spotify.com/album/3TRn4uDntIyJV3bnu2Mnn1"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 206973,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl"
-    },
-    {
-      "added_at": "2025-06-25 03:01:58",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 207506,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
+    },
+    {
+      "added_at": "2025-06-25 03:01:58",
+      "album": {
+        "name": "From Chaos",
+        "url": "https://open.spotify.com/album/3TRn4uDntIyJV3bnu2Mnn1"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 206973,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl"
     },
     {
       "added_at": "2025-06-25 03:01:58",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-06-25 03:01:58",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2025-06-25 03:01:58",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 230546,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
+    },
+    {
+      "added_at": "2025-06-25 03:01:58",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     }
   ],
   "unique_name": "Sunny Day",

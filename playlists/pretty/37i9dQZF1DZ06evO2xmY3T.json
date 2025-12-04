@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 687621,
+  "num_followers": 687629,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAABP5JXAvxA99n++okG/oPxx",
+  "snapshot_id": "aS4sAAAAAAC/GLcZUoB2mpmxd1yK3Dmy",
   "tracks": [
     {
       "added_at": null,
@@ -787,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA? (Bonus Edition)",
-        "url": "https://open.spotify.com/album/3WBwrf7k30GHdYeQaSWXSz"
+        "name": "Rumors (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy"
       },
       "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 141376,
-      "name": "Don\u2019t Do Too Much",
-      "url": "https://open.spotify.com/track/3V1K9dBBNhQYsOKUmkcgFg"
+      "duration_ms": 172832,
+      "name": "Rumors (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"
     }
   ],
   "unique_name": "This Is Cardi B",

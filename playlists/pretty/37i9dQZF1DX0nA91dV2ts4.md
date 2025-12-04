@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : Thug Life
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,421 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,467 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 | 72 | [Rangola](https://open.spotify.com/track/6wVOOB9VyG0udgj4xhYWhq) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Ghajini \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gtR7jv2x4VpKEKWeqVqqh) | 4:26 |
 | 73 | [Achacho \- From "Aranmanai 4"](https://open.spotify.com/track/5eSoySxUnx3xsm0FHFgHiv) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kharesma Ravichandran](https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Achacho \(From "Aranmanai 4"\)](https://open.spotify.com/album/38v7imWGztnKKx1SZuf5o3) | 3:13 |
 | 74 | [Ranjithame](https://open.spotify.com/track/2fCstGYgGJgg62gD3UeHmX) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Varisu](https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy) | 4:47 |
-| 75 | [Maamadura](https://open.spotify.com/track/6EJ1ki4Dcf6in9eidtPSNZ) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Jigarthanda DoubleX \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS) | 2:48 |
+| 75 | [Maamadura](https://open.spotify.com/track/6EJ1ki4Dcf6in9eidtPSNZ) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Jigarthanda DoubleX \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS) | 2:48 |
 
 Snapshot ID: `AAAAAEDooLsrV0+oS4Kh48+1b6Dgpq/d`

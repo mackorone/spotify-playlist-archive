@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 136550,
+  "num_followers": 136568,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAAB0RHQ8LfrVNeLZdo5P4sTx",
+  "snapshot_id": "aS4sAAAAAAC+kkP+EIN8Kx/aVFvmXOes",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Love",
-        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 337510,
-      "name": "For You to Love",
-      "url": "https://open.spotify.com/track/04pwMsaIQlhwVFst7ttivM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Power Of Love",
         "url": "https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 275119,
       "name": "Don't Want to Be a Fool",
       "url": "https://open.spotify.com/track/2rgMQNOF91LdmJClQAgqW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Any Love",
+        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 337510,
+      "name": "For You to Love",
+      "url": "https://open.spotify.com/track/04pwMsaIQlhwVFst7ttivM"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Secret Love",
-        "url": "https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 335470,
-      "name": "I Can Make It Better",
-      "url": "https://open.spotify.com/track/70NmePXQxL3b688VuLSFae"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 315840,
       "name": "The Impossible Dream",
       "url": "https://open.spotify.com/track/6IJKQ0Qx44YypTSxOMc5AM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Secret Love",
+        "url": "https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 335470,
+      "name": "I Can Make It Better",
+      "url": "https://open.spotify.com/track/70NmePXQxL3b688VuLSFae"
     }
   ],
   "unique_name": "This Is Luther Vandross",

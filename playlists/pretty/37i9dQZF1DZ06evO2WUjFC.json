@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAADpR5ZeoPCKjS7C7Z1xFMPO",
+  "snapshot_id": "aS4sAAAAAAAkhIJo60pfocil1hj29m5D",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 192209,
-      "name": "HARLEY DAVIDSON",
-      "url": "https://open.spotify.com/track/2gpWbtFRftigx6WSXF7eLP"
+      "duration_ms": 174590,
+      "name": "PLAKA",
+      "url": "https://open.spotify.com/track/2guRQXwtWXSs2fdjqApG5N"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 185391,
-      "name": "Mami - En Vivo",
-      "url": "https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8"
+      "duration_ms": 304553,
+      "name": "Fiesta En La Sierra - En Vivo",
+      "url": "https://open.spotify.com/track/0c3DUDq57IkEAx39hxbzul"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 174590,
-      "name": "PLAKA",
-      "url": "https://open.spotify.com/track/2guRQXwtWXSs2fdjqApG5N"
+      "duration_ms": 192209,
+      "name": "HARLEY DAVIDSON",
+      "url": "https://open.spotify.com/track/2gpWbtFRftigx6WSXF7eLP"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 304553,
-      "name": "Fiesta En La Sierra - En Vivo",
-      "url": "https://open.spotify.com/track/0c3DUDq57IkEAx39hxbzul"
+      "duration_ms": 185391,
+      "name": "Mami - En Vivo",
+      "url": "https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 226943,
-      "name": "Anillo Grabado (Live)",
-      "url": "https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT"
+      "duration_ms": 258340,
+      "name": "Mujer Mujer (Live)",
+      "url": "https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 258340,
-      "name": "Mujer Mujer (Live)",
-      "url": "https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg"
+      "duration_ms": 226943,
+      "name": "Anillo Grabado (Live)",
+      "url": "https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con La Cochi (En Vivo)",
-        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 145160,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Negra a Negra",
         "url": "https://open.spotify.com/album/7LCKyNYcDIA6pHGmGxxuGp"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 165640,
       "name": "De Negra a Negra",
       "url": "https://open.spotify.com/track/2PJfn1KMAIupqjdHOvp1AY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con La Cochi (En Vivo)",
+        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 145160,
+      "name": "Los Botones Azules - En Vivo",
+      "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
     },
     {
       "added_at": null,
@@ -852,13 +852,13 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "Gente Del Rancho",
-          "url": "https://open.spotify.com/artist/6BbZzab6fVZzep3FvLjLUt"
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
         }
       ],
-      "duration_ms": 203221,
-      "name": "LOS PLEBES ATREVIDOS - En Vivo",
-      "url": "https://open.spotify.com/track/4bwHmvfQC2Vs6uhze1h1yM"
+      "duration_ms": 258081,
+      "name": "QUIERO SABER DE TI - En Vivo",
+      "url": "https://open.spotify.com/track/5vWV0zWKlv1ugGn93MOTnH"
     },
     {
       "added_at": null,
@@ -936,13 +936,13 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+          "name": "Gente Del Rancho",
+          "url": "https://open.spotify.com/artist/6BbZzab6fVZzep3FvLjLUt"
         }
       ],
-      "duration_ms": 258081,
-      "name": "QUIERO SABER DE TI - En Vivo",
-      "url": "https://open.spotify.com/track/5vWV0zWKlv1ugGn93MOTnH"
+      "duration_ms": 203221,
+      "name": "LOS PLEBES ATREVIDOS - En Vivo",
+      "url": "https://open.spotify.com/track/4bwHmvfQC2Vs6uhze1h1yM"
     },
     {
       "added_at": null,
@@ -967,34 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Falsas Amistades",
-        "url": "https://open.spotify.com/album/3lKRwrXHui6cdacGQ4kbFT"
+        "name": "Los Andares De Alfredo",
+        "url": "https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi"
       },
       "artists": [
-        {
-          "name": "Nuevo Regimen",
-          "url": "https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8"
-        },
-        {
-          "name": "Grupo Xclusivo",
-          "url": "https://open.spotify.com/artist/3ow1pOzmEWbtGbqtMUXHdq"
-        },
-        {
-          "name": "El Buffalo",
-          "url": "https://open.spotify.com/artist/2TeBC9zX5PmG0YzvtGIbWe"
-        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "Los De Finix",
-          "url": "https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz"
+          "name": "Los Migueles De Miguel Montoya",
+          "url": "https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns"
         }
       ],
-      "duration_ms": 224757,
-      "name": "Falsas Amistades",
-      "url": "https://open.spotify.com/track/4181MRYP7YRi0xeTLSqmnl"
+      "duration_ms": 181040,
+      "name": "Los Andares De Alfredo",
+      "url": "https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5"
     }
   ],
   "unique_name": "This Is Danny Felix",

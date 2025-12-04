@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj8mmxDwyIM.md) - [plain]
 
 > Listen to the music from Hazbin Hotel, season 2 coming to Prime Video soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,398 likes - 37 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,801 likes - 37 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj8mmxDwyIM.md) - [plain]
 | 36 | [More Than Anything \- Reprise](https://open.spotify.com/track/0Kq2P8gDwYTc2OdiHknX7F) | [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 1:00 |
 | 37 | [Finale](https://open.spotify.com/track/6dss2WRbaDVKw4vpZlNxSv) | [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Christian Borle](https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG), [Joel Perez](https://open.spotify.com/artist/1OFyMXmkzPqt8a5MZ1ue5h), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA), [Krystina Alabado](https://open.spotify.com/artist/4xL2eFX2i8uGTzi2tT3b3u), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 3:50 |
 
-Snapshot ID: `AAAAAEeM6U6Gl0+8NiP9OQYy07Q0r8A3`
+Snapshot ID: `AAAAAJgKPCF8Un6FwJPpz2Ts8e8PlY9+`

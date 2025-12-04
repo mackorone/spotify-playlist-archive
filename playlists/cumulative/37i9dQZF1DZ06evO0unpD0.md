@@ -4,7 +4,7 @@
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-116 songs - 10 hr 28 min
+117 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Calculer](https://open.spotify.com/track/6JOHho02kKHH0r6wnTGXse) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 4:18 | 2023-03-26 |  |
 | [Chérie](https://open.spotify.com/track/6LjZwFV1feGUZyCz0zXZi0) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono](https://open.spotify.com/album/3Kp6AmA5EEW5vKwU8qAJmY) | 4:01 | 2025-04-25 | 2025-10-14 |
 | [Chérie](https://open.spotify.com/track/6ki0DHqBJJHtQjZ9FoM3n6) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Chérie](https://open.spotify.com/album/61uRI4s6CyYitUSVQNsqhr) | 4:01 | 2025-03-08 | 2025-04-25 |
+| [Chérie s'en va](https://open.spotify.com/track/1NnUiWQ5GKOcEdPJSyHquJ) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Talé](https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql) | 6:18 | 2025-12-04 |  |
 | [Cono](https://open.spotify.com/track/7cms6JQGv9q2iA2XN35V0n) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 6:01 | 2024-11-03 |  |
 | [Cono](https://open.spotify.com/track/3HMQXE2tma5gy9LOcgf0QR) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/0f9D2ul5epWCta3847KfNR) | 6:01 | 2024-02-09 | 2024-11-03 |
 | [Cono](https://open.spotify.com/track/3Qx1zzq02YSVa1UMzApnQx) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Anthology](https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839) | 6:02 | 2021-12-28 | 2023-03-21 |
@@ -108,7 +109,7 @@
 | [Tu vas me manquer](https://open.spotify.com/track/06ulHZy7LxFa5WHOb0ywWT) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 5:49 | 2025-09-28 |  |
 | [Tu Vas Me Manquer](https://open.spotify.com/track/5f1cJCTLgiXHNzB1bkxSUJ) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/2w5jzSHxjRMv1yvepTnO8Z) | 5:49 | 2021-12-28 | 2023-03-27 |
 | [Wamba](https://open.spotify.com/track/4Mr2YyX1Sk0vSJlOwOoQ5J) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 4:45 | 2021-12-29 | 2022-10-08 |
-| [Waraya](https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 6:05 | 2021-12-28 |  |
+| [Waraya](https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 6:05 | 2021-12-28 | 2025-12-04 |
 | [We Are All Africans](https://open.spotify.com/track/6frehrOUQYph3hpqJQvsUn) | [Mzee](https://open.spotify.com/artist/69COTYkIcm05ulpx4qfvgV), [Rafiki](https://open.spotify.com/artist/2VhIcPYW2csXTCEQCSincR), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Timhamba](https://open.spotify.com/album/7KtNzZvqQ4R0FFIecKrh0x) | 6:28 | 2022-05-07 | 2022-08-08 |
 | [We Will Not Go](https://open.spotify.com/track/0Het9TxYRogHzBHy7uRXCe) | [J\. Ralph](https://open.spotify.com/artist/2GPriNLwjGv7sjsgIex8Wv), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [We Will Not Go \(From The Virunga Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zdVN4O8J16RAoXMC7D6kt) | 3:28 | 2023-04-05 | 2023-04-10 |
 | [Were Were](https://open.spotify.com/track/38AJOtjMA9DgnWsTmnAAMf) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 4:54 | 2021-12-28 |  |

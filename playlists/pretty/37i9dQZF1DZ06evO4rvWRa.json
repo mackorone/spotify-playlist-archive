@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1639048,
+  "num_followers": 1638947,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAABu4vxcSrxyWNLrHJDv3JB1",
+  "snapshot_id": "aS4sAAAAAADtBL4e/LQic6QlEXWeCTmg",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "Heart over Mind",
+      "url": "https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Habits (From Delta Force Game)",
         "url": "https://open.spotify.com/album/6JC5LFS1ZhuNjN31EMfWWX"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 190926,
       "name": "Old Habits (From Delta Force Game)",
       "url": "https://open.spotify.com/track/5tKCXGkAsVCQW2Wce51Gs3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 189391,
-      "name": "Heart over Mind",
-      "url": "https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm"
     },
     {
       "added_at": null,
@@ -891,22 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE"
+        "name": "That's What I Like (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         },
         {
-          "name": "Anne Gudrun",
-          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 136421,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT"
+      "duration_ms": 195888,
+      "name": "That's What I Like - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
     },
     {
       "added_at": null,
@@ -939,22 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's What I Like (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S"
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
         }
       ],
-      "duration_ms": 195888,
-      "name": "That's What I Like - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
+      "duration_ms": 136421,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT"
     },
     {
       "added_at": null,

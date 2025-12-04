@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Natalia Lacunza
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,415 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,426 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 30 | [bachata mía](https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [PALACIO DE LUX](https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X) | 3:14 |
 | 31 | [la mexicana](https://open.spotify.com/track/75XfhrDL2yrVaQoA0UOJrf) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [la mexicana](https://open.spotify.com/album/0nOehCw2widLGFPYBw8j7N) | 2:57 |
 | 32 | [cómo fue?](https://open.spotify.com/track/15Aul3u9ToI1iFuUZU9IMa) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [cómo fue? \(with Greeicy\)](https://open.spotify.com/album/4HH1vAy9muN9ay1SZiogE2) | 3:45 |
-| 33 | [Vueltas](https://open.spotify.com/track/3NOh7776jasagqty3zVeNQ) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Luvi](https://open.spotify.com/artist/395SLIAX2XkMnxHTBwhOQH) | [Vueltas](https://open.spotify.com/album/5HcviOncbzoFlvhfyak5Pk) | 2:57 |
+| 33 | [vueltas](https://open.spotify.com/track/3NOh7776jasagqty3zVeNQ) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Luvi](https://open.spotify.com/artist/395SLIAX2XkMnxHTBwhOQH) | [vueltas](https://open.spotify.com/album/5HcviOncbzoFlvhfyak5Pk) | 2:57 |
 | 34 | [EL OTRO TÚ](https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT) | [Sam Eli](https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG) | [EL OTRO TÚ](https://open.spotify.com/album/6o2mMA8R9374vi2KVc3DPl) | 2:52 |
 | 35 | [Laguaira](https://open.spotify.com/track/5KvNhkT5A9NgqqOFlVGr41) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Laguaira](https://open.spotify.com/album/0h4vfGz23WR5qRROSe629E) | 2:48 |
 | 36 | [Lárgate](https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Lárgate](https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit) | 3:00 |

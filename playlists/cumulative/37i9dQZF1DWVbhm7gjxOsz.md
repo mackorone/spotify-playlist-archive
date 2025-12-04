@@ -4,7 +4,7 @@
 
 > Crusin' is not a crime, it's a lifestyle!
 
-190 songs - 11 hr 9 min
+191 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [I Do Love You](https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 2:57 | 2023-05-01 |  |
 | [I Do Love You](https://open.spotify.com/track/75FAk9JQHHLecKEZ8OZxpK) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Disco Nights \(Expanded Edition\)](https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum) | 4:48 | 2023-05-01 |  |
 | [I Like The Way You Love Me](https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:43 | 2023-05-01 |  |
-| [I Like the Way You Love Me](https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM) | [I Like the Way You Love Me](https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR) | 2:26 | 2023-05-01 |  |
+| [I Like the Way You Love Me](https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM) | [I Like the Way You Love Me](https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR) | 2:26 | 2023-05-01 | 2025-12-04 |
 | [I Love You for All Seasons](https://open.spotify.com/track/7tZFmAL5qNhry1hCWIUyng) | [Monica Rocha](https://open.spotify.com/artist/5hmUF4owAsrwthZ4K5k5dy), [Malik Malo](https://open.spotify.com/artist/3CvU8v4vOHDYPw6G7rPqWZ) | [I Love You for All Seasons](https://open.spotify.com/album/06difTfbdKd1uUlYeOxllX) | 3:16 | 2023-05-01 |  |
 | [I Love You for All Seasons](https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy) | [The Fuzz](https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t) | [Sisters of Soul; the Sweeter Voices of Soul](https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l) | 3:04 | 2023-05-01 |  |
 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 | 2023-05-01 |  |
@@ -123,6 +123,7 @@
 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/6korvxtUEyt590jUFOfADm) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The 12" Collection And More \(Funk Essentials\)](https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH) | 6:15 | 2023-05-01 | 2024-04-19 |
 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Best Of The Gap Band](https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL) | 6:16 | 2024-01-05 |  |
 | [Para Ti](https://open.spotify.com/track/1XDNcwL86oqMj6tYnLuoN8) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Para Ti](https://open.spotify.com/album/6Np9PitP673ZpxHs9F8T5M) | 3:09 | 2025-05-23 |  |
+| [Please Mr\. Postman](https://open.spotify.com/track/2Hz74hdth1lpe1kbTsk60L) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF) | 2:29 | 2025-05-23 |  |
 | [Please Mr\. Postman \- Single Version / Mono](https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Please Mr\. Postman](https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V) | 2:28 | 2023-05-01 | 2024-04-19 |
 | [Porque Te Quiero](https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo) | [La Mission](https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG), [Orlando Torriente](https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno) | [Songs from La Mission \(Original Motion Soundtrack\)](https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ) | 4:11 | 2023-05-01 |  |
 | [Pure Intentions \(feat\. Gabriella\)](https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Pure Intentions](https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP) | 2:56 | 2024-01-05 |  |

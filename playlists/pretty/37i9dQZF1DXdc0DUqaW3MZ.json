@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 372834,
+  "num_followers": 372876,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
+        "name": "Ma Jo Lo",
+        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
+      },
+      "artists": [
+        {
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Ma Jo Lo",
+      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 169943,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
-        "name": "Ma Jo Lo",
-        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
-      },
-      "artists": [
-        {
-          "name": "Midas the Jagaban",
-          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Ma Jo Lo",
-      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
     }
   ],
   "unique_name": "Soultronic",

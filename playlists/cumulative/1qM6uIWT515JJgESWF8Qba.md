@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-72 songs - 4 hr 15 min
+75 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-11-13 |  |
 | [Borderline](https://open.spotify.com/track/4jyWOoKSEY0zOTadmguLrL) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Borderline](https://open.spotify.com/album/5naCmg7cIFEsG4tuHeaKll) | 5:04 | 2025-11-04 |  |
 | [Bring Your Love](https://open.spotify.com/track/05PP999Sbm9nVpjINfBNDB) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Bring Your Love](https://open.spotify.com/album/4qe45XUNWmGqzffApM2cZx) | 2:24 | 2025-11-26 |  |
+| [Burn It Down \- '25](https://open.spotify.com/track/077M4QbpESAeYneFBGqRdW) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 6:25 | 2025-12-03 |  |
 | [Canyons](https://open.spotify.com/track/1NiGcE5wYngPZhF68MZI6l) | [Terrestrials](https://open.spotify.com/artist/0IgtGoVVy0B7ZdqwLIkKCW) | [Iridescent](https://open.spotify.com/album/55jRuQeHf0XDZub51E3aVv) | 3:17 | 2025-11-03 |  |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-05 |  |
 | [Cold as Ice](https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Cold as Ice](https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM) | 3:07 | 2025-09-08 |  |
@@ -46,6 +47,7 @@
 | [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 | 2025-11-04 |  |
 | [King Tide](https://open.spotify.com/track/0oOfLzw44wpabfgz4GcZhU) | [The Fu King](https://open.spotify.com/artist/35TcrL9g3yu0tOfiTB4rVZ) | [From The Tide](https://open.spotify.com/album/0EQLgTtAsgyeQV9V1OmUPF) | 4:05 | 2025-11-08 |  |
 | [La Muerte No Es El Final](https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [La Muerte No Es El Final](https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2) | 5:01 | 2025-12-01 |  |
+| [Lie \- '25](https://open.spotify.com/track/6pJJ8YphCAGDA89qMMhKPr) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 6:02 | 2025-12-03 |  |
 | [Little Flint Lighter \- Single Version](https://open.spotify.com/track/5wKplKbLsM9GT7JnDy9TGh) | [Ceramic Doves](https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2) | [Little Flint Lighter](https://open.spotify.com/album/6VpPtIIYiPZjbDuAWWHfdD) | 3:19 | 2025-09-19 |  |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-11-04 |  |
 | [LOVE ME, KISS ME, KILL ME](https://open.spotify.com/track/2WrOFJ7oNXuhGMfMoTz13y) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 2:42 | 2025-10-31 | 2025-11-21 |
@@ -65,7 +67,7 @@
 | [Pumping on Your Stereo](https://open.spotify.com/track/0XBCiN9V5wtPDTtAZjwXlX) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 2:38 | 2025-11-03 |  |
 | [Reflection](https://open.spotify.com/track/1xHsQvCBHhiwOipWezwwGH) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Reflection](https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6) | 2:40 | 2025-11-13 |  |
 | [Reveal](https://open.spotify.com/track/66VkLOO259SrOeyGRMoD0n) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Reveal](https://open.spotify.com/album/21O7YHeOghdgNHX1E76AeC) | 3:54 | 2025-11-13 |  |
-| [Saville](https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww) | [Vagabond\-321](https://open.spotify.com/artist/4bdOom5fRimwszocItXymk) | [No Future](https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g) | 3:12 | 2025-09-08 |  |
+| [Saville](https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww) | [Vagabond](https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK) | [No Future](https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g) | 3:12 | 2025-09-08 |  |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
 | [Sugar Husk](https://open.spotify.com/track/5z1wdXc7CubJyvWkSqT8g6) | [Novelistme](https://open.spotify.com/artist/1x8JnJjZPlFO4UciBRXMQb) | [Sugar Husk](https://open.spotify.com/album/6FlVAZQscsAXMcXhtrNETh) | 2:13 | 2025-10-31 |  |
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-10-28 |  |
@@ -73,6 +75,7 @@
 | [Television War](https://open.spotify.com/track/4YvWj5XMgtHAqORatyJuVP) | [Brenso](https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE) | [Television War](https://open.spotify.com/album/2cZkYUiZXfQ3XLhUxsuFVm) | 2:09 | 2025-11-26 |  |
 | [The Last On the List](https://open.spotify.com/track/68s4TaClnKwrtGW9A8Rcvt) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Don't Forget the Roll](https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk) | 3:49 | 2025-10-13 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 |  |
+| [This is under control.](https://open.spotify.com/track/600eSAScJN873sbh9virWp) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [This is under control.](https://open.spotify.com/album/6sSQkIGAZJR1QiYMCtHQds) | 3:48 | 2025-12-03 |  |
 | [thought ya do](https://open.spotify.com/track/7gvfCu73H2PTccxVNK6Xtn) | [Dylan Sherry](https://open.spotify.com/artist/47SpsruvmDVLTAuRZqAEMH) | [Infrequencies](https://open.spotify.com/album/4UocYoi60pviXOv5jwzuOX) | 3:20 | 2025-11-11 |  |
 | [tried](https://open.spotify.com/track/4tpbidJIGZLC0aAEC6odzb) | [Shunk](https://open.spotify.com/artist/359TdwOBcq9EK1vT8IuQ5J) | [tried](https://open.spotify.com/album/462ANaG1kidEM2E9L9JbzK) | 4:17 | 2025-11-11 |  |
 | [Tutorial](https://open.spotify.com/track/47B3frEw513yOcHQszXEqi) | [Lapsus Planck](https://open.spotify.com/artist/4WOU1o49ftt4wBvNmDXvp0) | [VADO PERMANENTE](https://open.spotify.com/album/5dCYBocsu4n4TQ0UIUHqjP) | 2:58 | 2025-11-07 |  |

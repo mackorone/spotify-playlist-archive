@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-03-02",
-  "description": "Pagodeira apresenta... O Melhor do Pagode 2024.",
-  "name": "O Melhor de Pagodeira 2024",
+  "description": "Pagodeira apresenta... O Melhor do Pagode 2025.",
+  "name": "O Melhor de Pagodeira 2025",
   "tracks": [
     {
       "album": {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 218687,
       "name": "2022",
       "url": "https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W"
@@ -111,6 +111,46 @@
     },
     {
       "album": {
+        "name": "Sorriso Eu Gosto No Pagode Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/77QevCGF34qBZFHieBRyu5"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163963,
+      "name": "80 Anos - Ao Vivo",
+      "url": "https://open.spotify.com/track/456jHlePrLkYsOlzG0tnHr"
+    },
+    {
+      "album": {
+        "name": "Mais Uma Noite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6QVC5XuYxelhZI97xYsyNq"
+      },
+      "artists": [
+        {
+          "name": "Bruno Diegues",
+          "url": "https://open.spotify.com/artist/77BRZxLjoqGGTrra6Sx8uP"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186026,
+      "name": "A Cara Do Problema - Ao Vivo",
+      "url": "https://open.spotify.com/track/1cdckc07NhPDAcDz1De5mJ"
+    },
+    {
+      "album": {
         "name": "Respeita Minha Hist\u00f3ria 2",
         "url": "https://open.spotify.com/album/5nEWrZ8zyD5omIMxwhIFPZ"
       },
@@ -141,6 +181,24 @@
     },
     {
       "album": {
+        "name": "Revela\u00e7\u00e3o 30 Anos: O Nosso Samba Virou Religi\u00e3o!, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/39pTNskJhORlMMPDTZY0oH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172767,
+      "name": "A Fila Anda - Ao Vivo",
+      "url": "https://open.spotify.com/track/47EEgS4GK27ZTSA82EmIWI"
+    },
+    {
+      "album": {
         "name": "A Longo Prazo (Ao Vivo)",
         "url": "https://open.spotify.com/album/7zrhF0dK9Cv2I44CZTvPvm"
       },
@@ -160,6 +218,28 @@
       "duration_ms": 195847,
       "name": "A Longo Prazo - Ao Vivo",
       "url": "https://open.spotify.com/track/3SsKY5ErjmuWMAl0WJH5IH"
+    },
+    {
+      "album": {
+        "name": "A Noite Toda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5RBwe7r1H6U90GwFUNAxzi"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194258,
+      "name": "A Noite Toda - Ao Vivo",
+      "url": "https://open.spotify.com/track/4mCvVX5Ar2myHEX1cgEtam"
     },
     {
       "album": {
@@ -216,7 +296,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 197450,
       "name": "A Partir de Agora",
       "url": "https://open.spotify.com/track/4KYr8bownTQ87RuxH2D1ct"
@@ -234,7 +314,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 152798,
       "name": "A Tr\u00eas - Ao Vivo",
       "url": "https://open.spotify.com/track/5vDSHedLkLx5RkfUGyGjno"
@@ -321,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Amor ou Ressentimento",
+        "url": "https://open.spotify.com/album/2X2OyxL5P0wBToVT29irgF"
+      },
+      "artists": [
+        {
+          "name": "Mannda Lym",
+          "url": "https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151048,
+      "name": "Amor ou Ressentimento",
+      "url": "https://open.spotify.com/track/4FRk1wmtB9JfFey0xEpNM9"
+    },
+    {
+      "album": {
         "name": "TO FEEL ALIVE EP",
         "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
       },
@@ -350,7 +448,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 153410,
       "name": "Antes de Trair - Ao Vivo",
       "url": "https://open.spotify.com/track/30uS0GbtQwpbANpwVllkRv"
@@ -393,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Ferrugem para sofrer",
+        "url": "https://open.spotify.com/album/6jEmC33SRYtKFvGXRz6Ikh"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Apagar (Fundo Raso)",
+      "url": "https://open.spotify.com/track/7lZrRxcqaKvrtY76PLyPBD"
+    },
+    {
+      "album": {
         "name": "Ferrugem 10 Anos, Vol. 1: O In\u00edcio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm"
       },
@@ -408,10 +524,28 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 198678,
       "name": "Apaguei Pra Todos - Ao Vivo",
       "url": "https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8"
+    },
+    {
+      "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167528,
+      "name": "Aquele Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6IFF888dQ0P6ilbj4kL6G8"
     },
     {
       "album": {
@@ -452,6 +586,24 @@
       "duration_ms": 227520,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
+    },
+    {
+      "album": {
+        "name": "Banjo E Bon\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/02yzZwEiWu5iGYoLDFyFVd"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229131,
+      "name": "Banjo E Bon\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3n9qVrN5kbErDCj51tJvEE"
     },
     {
       "album": {
@@ -540,6 +692,28 @@
       "duration_ms": 196730,
       "name": "Billie Bossa Nova",
       "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
+    },
+    {
+      "album": {
+        "name": "Pagode do Peric\u00e3o, Pt. 1 (Ao Vivo Em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/6vRNRN9J1xEbHX5XJUM8xN"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236968,
+      "name": "Boca Louca - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7EBFdBg38UyZnJVJDO05Wk"
     },
     {
       "album": {
@@ -659,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Tardezinha 10 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3UgYfwqy70pI8e01cJtNtp"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169871,
+      "name": "Caixa Postal - Ao Vivo",
+      "url": "https://open.spotify.com/track/72jA1tDosuqZClsbaw9hve"
+    },
+    {
+      "album": {
         "name": "Cala a Boca E Me Beija (Ao Vivo)",
         "url": "https://open.spotify.com/album/7EP5VwnJ67tBF7NDKgLWTm"
       },
@@ -682,7 +874,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 172775,
       "name": "Cala a Boca e Me Beija",
       "url": "https://open.spotify.com/track/0wQk9yKAKFL1ARgyoTyLeq"
@@ -718,7 +910,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 201010,
       "name": "Calend\u00e1rio",
       "url": "https://open.spotify.com/track/5x1U49G1AA2SIlmWtKIm9H"
@@ -947,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Pixote nas Alturas",
+        "url": "https://open.spotify.com/album/2nrEnTyvU4N7yhTIsSxcCd"
+      },
+      "artists": [
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189436,
+      "name": "Cora\u00e7\u00e3o e Cadeado",
+      "url": "https://open.spotify.com/track/1L5Uiwe36wa9Y2MjMCX3JR"
+    },
+    {
+      "album": {
         "name": "Ferrugem em Casa 2 (Bloco 1) [Ao Vivo]",
         "url": "https://open.spotify.com/album/46xmD0eirM5ttp8NBf6JSP"
       },
@@ -976,7 +1186,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 195794,
       "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
       "url": "https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g"
@@ -994,10 +1204,32 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 193222,
       "name": "Cora\u00e7\u00e3o Quebrado",
       "url": "https://open.spotify.com/track/6Ic0vDAv2KgsiPcxIIcPgg"
+    },
+    {
+      "album": {
+        "name": "Mais Uma Noite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6QVC5XuYxelhZI97xYsyNq"
+      },
+      "artists": [
+        {
+          "name": "Bruno Diegues",
+          "url": "https://open.spotify.com/artist/77BRZxLjoqGGTrra6Sx8uP"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191957,
+      "name": "Curva - Ao Vivo",
+      "url": "https://open.spotify.com/track/3y8K3fMJr5SHlnaJKnH1UR"
     },
     {
       "album": {
@@ -1034,7 +1266,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 178345,
       "name": "Daquele Jeit\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3VFsBiWWSXWggPrGHVpYIO"
@@ -1060,6 +1292,28 @@
       "duration_ms": 174301,
       "name": "Daria Tudo - Ao Vivo",
       "url": "https://open.spotify.com/track/7zFscGIctVxkUNY8IrmOKH"
+    },
+    {
+      "album": {
+        "name": "Pagonejo B\u00e3o - Vol. 02 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7c9JFzc1kixcgEajic0Rsn"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "De Ex Pra Ex - Ao Vivo",
+      "url": "https://open.spotify.com/track/4oc28L9dSyeJdXW4cgYYR2"
     },
     {
       "album": {
@@ -1176,7 +1430,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 153045,
       "name": "Despedida De Solteiro - Ao Vivo",
       "url": "https://open.spotify.com/track/0ojITFsiarLcH7qzJvseWj"
@@ -1212,7 +1466,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 205363,
       "name": "Do Sof\u00e1 de Casa",
       "url": "https://open.spotify.com/track/4z8D0HSuCWrZq9D0fsu7QC"
@@ -1277,6 +1531,32 @@
     },
     {
       "album": {
+        "name": "Mixturadin 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EdYWax248PUzYVSdVCgZI"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163300,
+      "name": "Duvido - Ao Vivo",
+      "url": "https://open.spotify.com/track/14KMQgJYGx0WMwmSLRnlHd"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1332,7 +1612,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 186157,
       "name": "Ela Terminou No WhatsApp - Ao Vivo",
       "url": "https://open.spotify.com/track/41YAs2W3C3xPHuDLQIPnvM"
@@ -1379,6 +1659,28 @@
     },
     {
       "album": {
+        "name": "Elixir",
+        "url": "https://open.spotify.com/album/5XAz2CGZR28YpdaJ9cvbpg"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263838,
+      "name": "Elixir",
+      "url": "https://open.spotify.com/track/7uI3uYghcCTdPBYdr6qODT"
+    },
+    {
+      "album": {
         "name": "Sorte (Ao Vivo / EP01)",
         "url": "https://open.spotify.com/album/5KNpDTmQLlebpsHsGQ90pK"
       },
@@ -1394,10 +1696,32 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 197367,
       "name": "Em Busca Da Minha Sorte - Ao Vivo",
       "url": "https://open.spotify.com/track/6jds4N5VX0XVcC3TNT9cC7"
+    },
+    {
+      "album": {
+        "name": "Conectado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7xdsreORoctNrTXOC1NjQ2"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170562,
+      "name": "Em Qualquer Cama - Ao Vivo",
+      "url": "https://open.spotify.com/track/5SN6A6hsIF0DDKcWIDHbPL"
     },
     {
       "album": {
@@ -1434,7 +1758,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 167461,
       "name": "Envolvidassa - Ao vivo",
       "url": "https://open.spotify.com/track/58YugncKXiOntxQl2Yq8NX"
@@ -1452,7 +1776,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 326201,
       "name": "Erro Gostoso / Mal Acostumado / A Gente Se Entrega",
       "url": "https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y"
@@ -1514,7 +1838,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 191279,
       "name": "Eu Mudo",
       "url": "https://open.spotify.com/track/6X0VQENAwTzVS0gPxZCiQl"
@@ -1543,6 +1867,28 @@
     },
     {
       "album": {
+        "name": "Minhas Andan\u00e7as",
+        "url": "https://open.spotify.com/album/3yPJ9jMG3NUaCYKPsfrGNL"
+      },
+      "artists": [
+        {
+          "name": "Cleber Augusto",
+          "url": "https://open.spotify.com/artist/4zH4meR9JXGrpwJx0v8BVh"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273843,
+      "name": "Falso Her\u00f3i",
+      "url": "https://open.spotify.com/track/1bmvdEz3pszPxIuCfofLvL"
+    },
+    {
+      "album": {
         "name": "Numanice #3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
       },
@@ -1558,7 +1904,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 154164,
       "name": "Falta de Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb"
@@ -1594,7 +1940,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 298871,
       "name": "FEBRE",
       "url": "https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3"
@@ -1649,6 +1995,28 @@
     },
     {
       "album": {
+        "name": "Fica com Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0I2TaOTi00hnXngSGoP4RA"
+      },
+      "artists": [
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199871,
+      "name": "Fica com Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/5W7OZVxOtnQsPVLOEUvu1G"
+    },
+    {
+      "album": {
         "name": "Diferent\u00e3o 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1LwkJFwTJKcWycn5C11tFL"
       },
@@ -1664,10 +2032,46 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 161627,
       "name": "Fica Light - Ao Vivo",
       "url": "https://open.spotify.com/track/00fvESDIdvUiIZ3ORv58rK"
+    },
+    {
+      "album": {
+        "name": "Pagode no Parque",
+        "url": "https://open.spotify.com/album/2IUjvCKoyjjQR3K94JE3MF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167925,
+      "name": "Fiz Quase Tudo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5b8XSUjHxvoJpZz0eZlHoa"
+    },
+    {
+      "album": {
+        "name": "Pagodyando nas Alturas Vol. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0c9LmbBceBgx8thG1QUZ1u"
+      },
+      "artists": [
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146144,
+      "name": "Foca na Gente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6XmZJrCxwz2GDTRGe8kz0i"
     },
     {
       "album": {
@@ -1726,7 +2130,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 168067,
       "name": "Franqueza",
       "url": "https://open.spotify.com/track/0HPNUPrE5yRDpRMvSHvCiI"
@@ -1766,7 +2170,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 186474,
       "name": "Fulana - Ao Vivo",
       "url": "https://open.spotify.com/track/4LzLQ9o55WLhLPeqOxVAK0"
@@ -1792,7 +2196,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 228568,
       "name": "Garota Nota 100",
       "url": "https://open.spotify.com/track/1ZyrfB6T0Cm9wFXAjJQQWE"
@@ -2027,6 +2431,28 @@
     },
     {
       "album": {
+        "name": "Deu M\u00f3 Love (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fmArF0w2Er2iyCB6WwgUw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Doze por Oito",
+          "url": "https://open.spotify.com/artist/4OV4NRRx75QfGAA2AUvG0q"
+        },
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159658,
+      "name": "Homem de Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/2FjFRumfvPuebJr1HuTFUh"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2D37uNhXgherfImusGBKTx"
       },
@@ -2189,6 +2615,28 @@
     },
     {
       "album": {
+        "name": "Minhas Andan\u00e7as",
+        "url": "https://open.spotify.com/album/3yPJ9jMG3NUaCYKPsfrGNL"
+      },
+      "artists": [
+        {
+          "name": "Cleber Augusto",
+          "url": "https://open.spotify.com/artist/4zH4meR9JXGrpwJx0v8BVh"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217900,
+      "name": "Im\u00e3",
+      "url": "https://open.spotify.com/track/3kjg24Ovz5BfTbOvIHrFDL"
+    },
+    {
+      "album": {
         "name": "Numanice #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
       },
@@ -2324,6 +2772,24 @@
       "duration_ms": 149900,
       "name": "just like magic",
       "url": "https://open.spotify.com/track/7Dx9Z6Aon1qPS2N0rHSWTe"
+    },
+    {
+      "album": {
+        "name": "Pagode do Peric\u00e3o, Pt. 1 (Ao Vivo Em Bras\u00edlia)",
+        "url": "https://open.spotify.com/album/6jC7cboBgGm1iIQtXABACV"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7eMaIFYaKQ5IdlQwT0jjwU"
     },
     {
       "album": {
@@ -2469,6 +2935,28 @@
     },
     {
       "album": {
+        "name": "Mania Especial: Milthinho, Vol. 2",
+        "url": "https://open.spotify.com/album/2rsRFJB28YPlvYm1LDZmtF"
+      },
+      "artists": [
+        {
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+        },
+        {
+          "name": "Mania do Brasil",
+          "url": "https://open.spotify.com/artist/7qX0K6BkuG9e9Hio2tWcE8"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224722,
+      "name": "Maior Barato",
+      "url": "https://open.spotify.com/track/5xrOwoxaAKovm3FcbbMQ0s"
+    },
+    {
+      "album": {
         "name": "Numanice #2",
         "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
       },
@@ -2520,7 +3008,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 167027,
       "name": "Maliciosa - Ao Vivo",
       "url": "https://open.spotify.com/track/3CJiho39iutZrDxQG5Vubl"
@@ -2542,7 +3030,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 176247,
       "name": "Matadinha De Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/3XqhtjiycwDxCpGqUFTtlW"
@@ -2648,7 +3136,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 197027,
       "name": "Me Bloqueia (Ao Vivo)",
       "url": "https://open.spotify.com/track/0rosNwHC9T8YNu3EvXLPfX"
@@ -2692,7 +3180,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 180755,
       "name": "Mem\u00f3rias - Ao Vivo",
       "url": "https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab"
@@ -2776,7 +3264,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 233149,
       "name": "Minha Eterna Prometida",
       "url": "https://open.spotify.com/track/6PUDdH1CskysUnnmWBzw7S"
@@ -2842,7 +3330,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 202879,
       "name": "Minha Raz\u00e3o de Viver - Ao Vivo",
       "url": "https://open.spotify.com/track/1YIw0efzAoMxB2J04iwey6"
@@ -2965,6 +3453,28 @@
     },
     {
       "album": {
+        "name": "Ao Vivo em Bras\u00edlia, Vol. 1",
+        "url": "https://open.spotify.com/album/02U19KFr1JisFjQWYLhk7B"
+      },
+      "artists": [
+        {
+          "name": "Kamisa 10",
+          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163637,
+      "name": "Na Mesma L\u00edngua - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nMH8Vv9XSBO7WvDvFdK7r"
+    },
+    {
+      "album": {
         "name": "Tomando aire",
         "url": "https://open.spotify.com/album/45YfDCDKgKlBeAA0VIDLIT"
       },
@@ -3055,6 +3565,32 @@
     },
     {
       "album": {
+        "name": "S\u00f3 VVamo Sunset (Ao Vivo)",
+        "url": "https://open.spotify.com/album/552JgFjFaUfcDdx8Kx4SdN"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Ayla",
+          "url": "https://open.spotify.com/artist/4LAIEyVpU7BhGGdXIRvbLe"
+        },
+        {
+          "name": "Mannda Lym",
+          "url": "https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284379,
+      "name": "Nike e Shortinho / Desencana - Ao Vivo",
+      "url": "https://open.spotify.com/track/2l1fgtVMhwKdmkbhOc9ySl"
+    },
+    {
+      "album": {
         "name": "Ningu\u00e9m Merece Amar Sozinho",
         "url": "https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0"
       },
@@ -3128,7 +3664,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 168805,
       "name": "Nosso Primeiro Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
@@ -3237,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Te Mere\u00e7o",
+        "url": "https://open.spotify.com/album/1ULFpp9CJG4LBi5VlwbyzK"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219357,
+      "name": "N\u00e3o Te Mere\u00e7o",
+      "url": "https://open.spotify.com/track/1jjpREr7VVD0z1EOyXQNaz"
+    },
+    {
+      "album": {
         "name": "Oi, Prazer BG! Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0ev4mqX85Oa3g2TnNYN4LO"
       },
@@ -3292,6 +3846,42 @@
       "duration_ms": 176642,
       "name": "O Mundo D\u00e1 Voltas",
       "url": "https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq"
+    },
+    {
+      "album": {
+        "name": "O Mundo Girou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KOVeWjd9LxDRLtroqf1Yp"
+      },
+      "artists": [
+        {
+          "name": "Robinho",
+          "url": "https://open.spotify.com/artist/0FKMbv813ULLLmjFPZ19wp"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "O Mundo Girou - Ao Vivo",
+      "url": "https://open.spotify.com/track/7iirmwNm5ZryOSXxw6Jj0r"
+    },
+    {
+      "album": {
+        "name": "Obrigado Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/25sAX6GQ3Vcs0FL7997U5T"
+      },
+      "artists": [
+        {
+          "name": "Pagode Restaura",
+          "url": "https://open.spotify.com/artist/57XFcSi83RxJN7TiOiIs5C"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202562,
+      "name": "Obrigado Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/0UXOixWIeq56y2ClXOP7bW"
     },
     {
       "album": {
@@ -3383,6 +3973,28 @@
     },
     {
       "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192367,
+      "name": "P do Pecado - Ao Vivo",
+      "url": "https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M"
+    },
+    {
+      "album": {
         "name": "Close Friends (Ao Vivo)",
         "url": "https://open.spotify.com/album/0JDiWK0YzOeg45K86BLY8S"
       },
@@ -3402,6 +4014,28 @@
       "duration_ms": 155471,
       "name": "Pacote Completo - Ao Vivo",
       "url": "https://open.spotify.com/track/24jcjW1en6iWOIRPysbbD3"
+    },
+    {
+      "album": {
+        "name": "Papel de Ot\u00e1rio",
+        "url": "https://open.spotify.com/album/49YIhCVfyKRjPYgFJTeoZI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150623,
+      "name": "Papel de Ot\u00e1rio",
+      "url": "https://open.spotify.com/track/10TooKY9p8e0Pget0v26lo"
     },
     {
       "album": {
@@ -3463,6 +4097,28 @@
     },
     {
       "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162325,
+      "name": "Pela \u00daltima Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/6B7ot6Wlqf7zt3FCkYl2FJ"
+    },
+    {
+      "album": {
         "name": "Pensando Em N\u00f3s Dois",
         "url": "https://open.spotify.com/album/1S83eAHHYicWwgzJ4EKYQ0"
       },
@@ -3499,6 +4155,28 @@
     },
     {
       "album": {
+        "name": "Pagode do Diferent\u00e3o 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2A5gjIozPAntj0PypxxUD2"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146302,
+      "name": "Pequenos Detalhes - Ao Vivo",
+      "url": "https://open.spotify.com/track/47jV631sYJ2vmTb37M1Jck"
+    },
+    {
+      "album": {
         "name": "TDP20 - Nossa Hist\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/5jy0SRd09cU87HeQgJ9BAQ"
       },
@@ -3514,7 +4192,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 162000,
       "name": "Pintando o Sete - Ao Vivo",
       "url": "https://open.spotify.com/track/1amlpgAcU9NZSX7QZY8eec"
@@ -3539,6 +4217,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3 VVamo Sunset, Part. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/73L5lCkfDpEaDgN84rJQLp"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147384,
+      "name": "Pode Ficar Com a Raz\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/7wWubpTaYsLXLvpDkJ4PLd"
+    },
+    {
+      "album": {
         "name": "Energia Benzadeus (Ao Vivo)",
         "url": "https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2"
       },
@@ -3554,7 +4254,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 204058,
       "name": "Polo Norte - Ao Vivo",
       "url": "https://open.spotify.com/track/0z7RgAmjARzMoYMb42XGUv"
@@ -3572,7 +4272,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 167832,
       "name": "Por Enquanto / Cita\u00e7\u00e3o: Meu Bem Querer - Ao Vivo",
       "url": "https://open.spotify.com/track/2d5fHYUDBXByMgA7sgbhtj"
@@ -3616,6 +4316,44 @@
       "duration_ms": 214783,
       "name": "Posturada - Ao Vivo",
       "url": "https://open.spotify.com/track/7EaVareROxLwkLAsQ5iqrt"
+    },
+    {
+      "album": {
+        "name": "Pra Decidir (Os Caras Da Rua)",
+        "url": "https://open.spotify.com/album/1rfEA3P0h79oqpulZMK7KG"
+      },
+      "artists": [
+        {
+          "name": "FM O Dia",
+          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        },
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        },
+        {
+          "name": "Fabinho",
+          "url": "https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN"
+        },
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "Pra Decidir (Os Caras Da Rua)",
+      "url": "https://open.spotify.com/track/1puFSNhtsa9enn7SVe6oPU"
     },
     {
       "album": {
@@ -3714,10 +4452,32 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 186736,
       "name": "Problema Emocional / Brilho No Olhar - Ao Vivo",
       "url": "https://open.spotify.com/track/7dI9v9Wh3gFDX6QgcCbCGX"
+    },
+    {
+      "album": {
+        "name": "Encontrin 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2RIjCFQCL1Ty97rsqpUO76"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Tony Salles",
+          "url": "https://open.spotify.com/artist/65wb6r9GvL7JUySeWfDD9q"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180693,
+      "name": "Pulseirinha Vip - Ao Vivo",
+      "url": "https://open.spotify.com/track/3sh9WH8gmlUimZdak31IVE"
     },
     {
       "album": {
@@ -3772,10 +4532,36 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 179820,
       "name": "Quatro Da Manh\u00e3",
       "url": "https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0"
+    },
+    {
+      "album": {
+        "name": "Mixturadin 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EdYWax248PUzYVSdVCgZI"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213453,
+      "name": "Quem Vai Ter Coragem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4iYFuiLIosygfXELIVNKom"
     },
     {
       "album": {
@@ -3848,7 +4634,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 165703,
       "name": "Resenha das Minas - Ao Vivo",
       "url": "https://open.spotify.com/track/13Cy9XAuRSkKDvPkSXWiNZ"
@@ -3866,7 +4652,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 229095,
       "name": "Rob\u00f4 - Spotify Singles",
       "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
@@ -3888,6 +4674,24 @@
       "duration_ms": 207065,
       "name": "Rodovia - Ao Vivo",
       "url": "https://open.spotify.com/track/4ZBvsjIuLAGWyuJ7dVjCMi"
+    },
+    {
+      "album": {
+        "name": "Sunset (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/0zAbaQQgbaGoAyUtT1rvvo"
+      },
+      "artists": [
+        {
+          "name": "Doce Encontro",
+          "url": "https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190208,
+      "name": "Roubada - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UlAw2UD38ufgp9IHzbZ0q"
     },
     {
       "album": {
@@ -3960,7 +4764,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 167256,
       "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
       "url": "https://open.spotify.com/track/0SzZVQw0tEazwNko6bdKwS"
@@ -4058,7 +4862,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 151828,
       "name": "Sentada Malvada - Ao Vivo",
       "url": "https://open.spotify.com/track/3OxbXLLHrcd9LCRBDe25yc"
@@ -4167,6 +4971,28 @@
     },
     {
       "album": {
+        "name": "Conectado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/74rIkSTznr1xdBR95W1433"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203877,
+      "name": "Sou C\u00e9u Ou Ch\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4nmqqawaYL9r1I2bzPtrsN"
+    },
+    {
+      "album": {
         "name": "Sorriso Maroto As Antigas (Ao Vivo)",
         "url": "https://open.spotify.com/album/3JerPKp1t9OlQBPG1Uhou4"
       },
@@ -4182,7 +5008,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 204170,
       "name": "Sou Eu e Mais Ningu\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/4RcdmqR8KhRfGJ1XWxL8Dg"
@@ -4200,7 +5026,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 199537,
       "name": "Sou Pagodeiro (Love Yourself) - Ao Vivo",
       "url": "https://open.spotify.com/track/6sWrtSw5H8crwA6fR4dyFb"
@@ -4280,6 +5106,32 @@
       "duration_ms": 205750,
       "name": "Superei - Ao Vivo",
       "url": "https://open.spotify.com/track/6y6K1HJL6RFBfQZVuVLX2j"
+    },
+    {
+      "album": {
+        "name": "Mixturadin 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EdYWax248PUzYVSdVCgZI"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Kamisa 10",
+          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235312,
+      "name": "Suposto Namorado - Ao Vivo",
+      "url": "https://open.spotify.com/track/2U3oR7BF3c1qKdm2G4RY2Y"
     },
     {
       "album": {
@@ -4418,7 +5270,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 210200,
       "name": "Tapa e Palavr\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/7gdaZmF2F60rkouj9puA5Y"
@@ -4436,7 +5288,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 167715,
       "name": "Tchau, Amor! - Ao Vivo",
       "url": "https://open.spotify.com/track/4v2VIAHoo3GK7tccOTKrfC"
@@ -4454,7 +5306,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 172885,
       "name": "Te Amo, Viu - Ao Vivo",
       "url": "https://open.spotify.com/track/2wdxVZ9pPuqgMSb7kCiYyH"
@@ -4476,6 +5328,24 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "album": {
+        "name": "Teu Jeitinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/3xmYjG7NfO1DUS5bPXVgsH"
+      },
+      "artists": [
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197650,
+      "name": "Teu Jeitinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/5yg8FJ7qIHq2TfzLzmxfTs"
     },
     {
       "album": {
@@ -4571,6 +5441,24 @@
     },
     {
       "album": {
+        "name": "Tomando Coragem",
+        "url": "https://open.spotify.com/album/0VvLmV2wk6OPiP4nIFq8S9"
+      },
+      "artists": [
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167096,
+      "name": "Tomando Coragem",
+      "url": "https://open.spotify.com/track/2bdFsHwkpmJTD588l2WiUL"
+    },
+    {
+      "album": {
         "name": "P\u00f4r do Suel Em Recife - Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6jECCDUrfJfdFrxWckhzqJ"
       },
@@ -4586,10 +5474,28 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 162282,
       "name": "Tomara - Ao Vivo",
       "url": "https://open.spotify.com/track/19cGIoYcXIn6fRa2sjqUQJ"
+    },
+    {
+      "album": {
+        "name": "Pagode do Diferent\u00e3o 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2A5gjIozPAntj0PypxxUD2"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157397,
+      "name": "Tortura - Ao Vivo",
+      "url": "https://open.spotify.com/track/0CR7xCXgBdErtTS68LtW5e"
     },
     {
       "album": {
@@ -4677,6 +5583,28 @@
     },
     {
       "album": {
+        "name": "T\u00f4 Em Outro Momento (Ao vivo)",
+        "url": "https://open.spotify.com/album/20ub4kpA4BoWdB8hC40Bq5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clareou",
+          "url": "https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q"
+        },
+        {
+          "name": "Mr. Dan",
+          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211950,
+      "name": "T\u00f4 Em Outro Momento - Ao Vivo",
+      "url": "https://open.spotify.com/track/2tqA0XMa8Caiu3051oki76"
+    },
+    {
+      "album": {
         "name": "T\u00f4 Sentindo Falta",
         "url": "https://open.spotify.com/album/008M0S57XJtqyqOlK1H5g6"
       },
@@ -4692,6 +5620,24 @@
       "duration_ms": 190647,
       "name": "T\u00f4 Sentindo Falta",
       "url": "https://open.spotify.com/track/2EONSRu7JnCe75ZERnURp3"
+    },
+    {
+      "album": {
+        "name": "Pagode no Parque",
+        "url": "https://open.spotify.com/album/2IUjvCKoyjjQR3K94JE3MF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294728,
+      "name": "Um Amor Gigante / Faz Falta - Ao Vivo",
+      "url": "https://open.spotify.com/track/3iB3dA4XnehcvVZWlabjva"
     },
     {
       "album": {
@@ -4757,6 +5703,28 @@
     },
     {
       "album": {
+        "name": "Vagabundo de Sorte",
+        "url": "https://open.spotify.com/album/4vzFgH9GJ8lEbkHneEhIBu"
+      },
+      "artists": [
+        {
+          "name": "Gabrielzinho",
+          "url": "https://open.spotify.com/artist/0fqfWVF68BfV7RFPemHhDs"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Vagabundo de Sorte",
+      "url": "https://open.spotify.com/track/2zoR8bSz5zEvJvfbNxqtTf"
+    },
+    {
+      "album": {
         "name": "Close Friends (Ao Vivo)",
         "url": "https://open.spotify.com/album/0JDiWK0YzOeg45K86BLY8S"
       },
@@ -4798,7 +5766,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 160864,
       "name": "Vamo de Pagodin",
       "url": "https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K"
@@ -4824,6 +5792,24 @@
       "duration_ms": 229847,
       "name": "Vencedor - Ao Vivo",
       "url": "https://open.spotify.com/track/61MLU3vQw6R8yIBb9fNbtk"
+    },
+    {
+      "album": {
+        "name": "Mixturadin 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EdYWax248PUzYVSdVCgZI"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177287,
+      "name": "Vergonha no Pagode - Ao Vivo",
+      "url": "https://open.spotify.com/track/2SItLs3xlJqj7qGsuRluzY"
     },
     {
       "album": {
@@ -4882,10 +5868,32 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 154170,
       "name": "Vitamina C - Ao Vivo",
       "url": "https://open.spotify.com/track/2jpbtp5N679x92uB8s8p9h"
+    },
+    {
+      "album": {
+        "name": "Viver S\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7AwzX2Z2FkGltFmEByrj8P"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201418,
+      "name": "Viver S\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/5D6QOnczIgLTlUIaqDy9Sq"
     },
     {
       "album": {
@@ -4940,10 +5948,32 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 235875,
       "name": "Voc\u00ea Sempre Ser\u00e1 / N\u00e3o D\u00e1 Pra Resistir - Ao Vivo",
       "url": "https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo em Bras\u00edlia, Vol. 1",
+        "url": "https://open.spotify.com/album/02U19KFr1JisFjQWYLhk7B"
+      },
+      "artists": [
+        {
+          "name": "Kamisa 10",
+          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146186,
+      "name": "Voc\u00ea \u00e9 Meu M\u00f4 - Ao Vivo",
+      "url": "https://open.spotify.com/track/42zNChmGeInCxnuFS3HQps"
     },
     {
       "album": {
@@ -4976,7 +6006,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 180964,
       "name": "Vou Querer De Novo - Ao Vivo",
       "url": "https://open.spotify.com/track/0r6cDEfBNDm4PmgCismo1G"
@@ -5092,10 +6122,36 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 235929,
       "name": "\u00c1udio Acelerado - Ao Vivo",
       "url": "https://open.spotify.com/track/7EvM44lG2JPLWUYraI1r7M"
+    },
+    {
+      "album": {
+        "name": "T\u00e1 na Mente e no Cora\u00e7\u00e3o, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/34Ilqrh75FZDk2T3p3bPvm"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1 Na Mente",
+          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
+        },
+        {
+          "name": "Rony Lucio",
+          "url": "https://open.spotify.com/artist/1vTOFf3Fkf6ElO9P1oBuCm"
+        },
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235929,
+      "name": "\u00c1udio Acelerado - Ao Vivo",
+      "url": "https://open.spotify.com/track/0FF7EHx7ECkRo3sUVYyrNV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXxlTjrCu8cE"

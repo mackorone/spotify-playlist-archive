@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat Robin Packalen, VIIVI, Ed Sheeran, HUGO..\. ja moni muu  🎶
 
-8,983 songs - 19 day 18 hr 45 min
+8,984 songs - 19 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2901,6 +2901,7 @@
 | [Hold My Hand](https://open.spotify.com/track/5Fluzm3bOgU8RT0RzJDj0I) | [Park 7](https://open.spotify.com/artist/6MI2OSinCWc1HYWSGjDhfh) | [Hold My Hand](https://open.spotify.com/album/62thKOwiBeEfDgxKzCJkt2) | 3:03 | 2024-11-14 | 2024-11-22 |
 | [Hold On](https://open.spotify.com/track/5epIutw673nAVaHOxSV86H) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Hold On](https://open.spotify.com/album/2LuIRTbkUXCJfSLxMq9tJb) | 2:56 | 2024-05-09 | 2024-05-17 |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-12 | 2025-06-20 |
+| [Hold On](https://open.spotify.com/track/5reWe6VIloY1CNYhzdApCl) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Hold On](https://open.spotify.com/album/40Ksd3AVHtWcZbExDuuxVL) | 3:41 | 2025-11-27 |  |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-14 | 2024-11-22 |
 | [Hold On You](https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Hold On You](https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM) | 2:32 | 2025-07-04 | 2025-07-11 |
 | [HOLD STILL](https://open.spotify.com/track/5KGfOmCztRFeXGrU2r3WGi) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [HOLD STILL](https://open.spotify.com/album/6yn7dxLTwyBv6SbTkTOuxK) | 2:51 | 2025-07-04 | 2025-07-11 |

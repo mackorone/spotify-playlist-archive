@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 24599,
+  "num_followers": 24606,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -248,13 +248,25 @@
       },
       "artists": [
         {
-          "name": "Karin Kent",
-          "url": "https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU"
+          "name": "Adele Bloemendaal",
+          "url": "https://open.spotify.com/artist/0pNIifC8tolZOMkQi08w7L"
+        },
+        {
+          "name": "Leen Jongewaard",
+          "url": "https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10"
+        },
+        {
+          "name": "Piet Romer",
+          "url": "https://open.spotify.com/artist/4P4zMmwrUImvXjHD6WcdkR"
+        },
+        {
+          "name": "Choir",
+          "url": "https://open.spotify.com/artist/6T1zPwkNslEt3YD1SckRd9"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Dans Je De Hele Nacht Met Mij?",
-      "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
+      "duration_ms": 163120,
+      "name": "We Zijn Toch Op De Wereld Om Mekaar Te Helpen, Nietwaar",
+      "url": "https://open.spotify.com/track/2GhrEcT6XFmV63N0COZB0s"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -280,25 +292,13 @@
       },
       "artists": [
         {
-          "name": "Adele Bloemendaal",
-          "url": "https://open.spotify.com/artist/0pNIifC8tolZOMkQi08w7L"
-        },
-        {
-          "name": "Leen Jongewaard",
-          "url": "https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10"
-        },
-        {
-          "name": "Piet Romer",
-          "url": "https://open.spotify.com/artist/4P4zMmwrUImvXjHD6WcdkR"
-        },
-        {
-          "name": "Choir",
-          "url": "https://open.spotify.com/artist/6T1zPwkNslEt3YD1SckRd9"
+          "name": "Karin Kent",
+          "url": "https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU"
         }
       ],
-      "duration_ms": 163120,
-      "name": "We Zijn Toch Op De Wereld Om Mekaar Te Helpen, Nietwaar",
-      "url": "https://open.spotify.com/track/2GhrEcT6XFmV63N0COZB0s"
+      "duration_ms": 159000,
+      "name": "Dans Je De Hele Nacht Met Mij?",
+      "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Egbert Douwe",
-          "url": "https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Kom Uit De Bedstee M'n Liefste",
-      "url": "https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Die Goeie Ouwe Tijd 2 - Top 100",
         "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 174960,
       "name": "Patsy",
       "url": "https://open.spotify.com/track/0GJX7vXqS15TlMaNR2myR6"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Egbert Douwe",
+          "url": "https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Kom Uit De Bedstee M'n Liefste",
+      "url": "https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollandse Hits Top 100",
-        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hoes",
-          "url": "https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Oh Was Ik Maar Bij Moeder Thuis Gebleven",
-      "url": "https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste van Armand",
         "url": "https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 159381,
       "name": "Swiebertje",
       "url": "https://open.spotify.com/track/6ffETXUkqnGug5hev2G765"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Hollandse Hits Top 100",
+        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hoes",
+          "url": "https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Oh Was Ik Maar Bij Moeder Thuis Gebleven",
+      "url": "https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Beste Amsterdamse Hits Ooit",
-        "url": "https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk"
-      },
-      "artists": [
-        {
-          "name": "Sjakie Schram",
-          "url": "https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i"
-        }
-      ],
-      "duration_ms": 149866,
-      "name": "Glaasje Op ... Laat Je Rijden",
-      "url": "https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Zingt",
         "url": "https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 493800,
       "name": "Wil u een stekkie? In een rijtuigie. Op een mooie Pinksterdag. M'n opa.",
       "url": "https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Trea Dobbs",
+          "url": "https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe"
+        }
+      ],
+      "duration_ms": 152626,
+      "name": "Ik Vraag Het Aan De Sterren",
+      "url": "https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+        "name": "De Beste Amsterdamse Hits Ooit",
+        "url": "https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk"
       },
       "artists": [
         {
-          "name": "Trea Dobbs",
-          "url": "https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe"
+          "name": "Sjakie Schram",
+          "url": "https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i"
         }
       ],
-      "duration_ms": 152626,
-      "name": "Ik Vraag Het Aan De Sterren",
-      "url": "https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb"
+      "duration_ms": 149866,
+      "name": "Glaasje Op ... Laat Je Rijden",
+      "url": "https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk"
     },
     {
       "added_at": "2024-07-19 06:41:15",

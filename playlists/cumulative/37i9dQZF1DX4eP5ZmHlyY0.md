@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: RIIZE
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ALPHA DRIVE ONE
 
-817 songs - 1 day 20 hr 46 min
+818 songs - 1 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Fly Up](https://open.spotify.com/track/0S24FhekyRbihACHFwgPjs) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw) | 2:58 | 2025-05-19 | 2025-11-25 |
 | [For Real?](https://open.spotify.com/track/11yJ2iAqlWsk9CngMujJou) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [For Real?](https://open.spotify.com/album/2ZlTmzWp67lhdApzMdmwWV) | 3:10 | 2025-03-25 | 2025-07-02 |
 | [Forever Blue](https://open.spotify.com/track/5Epzmc0vxSjClQORKZnl34) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [Forever Blue](https://open.spotify.com/album/002n8cm17f4VQz5Y2LWYVy) | 2:59 | 2024-02-20 | 2024-03-06 |
+| [FORMULA](https://open.spotify.com/track/7z81drJrJ391T2RRwFLNTk) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [FORMULA](https://open.spotify.com/album/47uqilRXlk7qLpre3yubx5) | 3:08 | 2025-12-03 |  |
 | [Fraktsiya](https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Fraktsiya](https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6) | 3:12 | 2025-03-06 | 2025-03-18 |
 | [Freaking Happy](https://open.spotify.com/track/1HDW9vo3mnVbkQ02FIGgbC) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Freaking Happy](https://open.spotify.com/album/19mziDAG9iXSpHdJrKgKYb) | 3:11 | 2023-11-23 | 2024-02-07 |
 | [FREEZE](https://open.spotify.com/track/3eCsrRgvTNzCSrGUESA5OX) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Kick Out, Flip Now!](https://open.spotify.com/album/4BonBofCFd9r6PRTSA0blD) | 2:36 | 2025-05-26 | 2025-09-23 |
@@ -317,7 +318,7 @@
 | [ICU](https://open.spotify.com/track/5Pgmc96e272kcUaSdpOKZt) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LXVE to DEATH](https://open.spotify.com/album/3a4bClE54cq2SVLsNuXyMV) | 4:01 | 2025-10-24 |  |
 | [ICY](https://open.spotify.com/track/6BeB2dYQXOhwsg3m5MIh3t) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO \(Special Edition\)](https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE) | 3:21 | 2024-10-01 | 2025-03-07 |
 | [ID feat\. RYOKI \(BE:FIRST\), RYUKI \(MAZZEL\), JIMMY \(PSYCHIC FEVER\), FELIP](https://open.spotify.com/track/2cXkFKFgEW5Myc0yNy6CqL) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm), [RYUKI](https://open.spotify.com/artist/5uqXBEdoZzQXLRd8L77GoL), [JIMMY](https://open.spotify.com/artist/1Pl13n0hdE6rHDthDbBwZ1), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [ID feat\. RYOKI \(BE:FIRST\), RYUKI \(MAZZEL\), JIMMY \(PSYCHIC FEVER\), FELIP](https://open.spotify.com/album/2aI04mIDKNeBLfZHxKEF9Q) | 3:32 | 2025-03-06 | 2025-03-10 |
-| [IDOLIC](https://open.spotify.com/track/6KLZBODqWczsc4fXRUuYWM) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [IDOLIC](https://open.spotify.com/album/4g5PqnMKgixcNPECzAG545) | 2:57 | 2025-09-30 |  |
+| [IDOLIC](https://open.spotify.com/track/6KLZBODqWczsc4fXRUuYWM) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [IDOLIC](https://open.spotify.com/album/4g5PqnMKgixcNPECzAG545) | 2:57 | 2025-09-30 | 2025-12-04 |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-03-06 | 2025-05-20 |
 | [if you wanna](https://open.spotify.com/track/3CuGOVC8ML0TrQJ68RvwfP) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Syndrome](https://open.spotify.com/album/6xwwk8iEemDRT8eOcg3rOM) | 2:28 | 2025-11-02 |  |
 | [IKUK](https://open.spotify.com/track/1CjaEVRcMcHJs6K6JcsBg4) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Dear.M](https://open.spotify.com/album/47FAjLG2fBhDBgb4mRHMQT) | 2:48 | 2025-03-06 | 2025-04-09 |

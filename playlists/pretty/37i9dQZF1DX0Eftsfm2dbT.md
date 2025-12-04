@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Skaai
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,487 likes - 92 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,484 likes - 92 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 8](https://open.spotify.com/track/5QDdLCGbthqLgXt4Vr3UBF) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Am I sick?](https://open.spotify.com/track/5QDdLCGbthqLgXt4Vr3UBF) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Gnarly](https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn) | 2:14 |
 | 2 | [Wax On Wax Off \(feat\. R\-指定, NENE, 鎮座DOPENESS & C.O.S.A.\) \[\-Japan Remix\-\]](https://open.spotify.com/track/34JggEOSRwhBnBU0CXCQn3) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Okinawan Wuman](https://open.spotify.com/album/2uISnRUJM9lnew7KyI3z9z) | 4:14 |
 | 3 | [+81 Connect Call\_LEX](https://open.spotify.com/track/5kvWpgwZwWRrihDuBFdcy9) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [+81 Connect Call\_LEX](https://open.spotify.com/album/6Z74Ydqdowpr5P1jp9ROr5) | 0:12 |
 | 4 | [完璧だ](https://open.spotify.com/track/6g8l6gJv0a8IKH6g8tjeQ1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Original](https://open.spotify.com/album/41lYxB0nIApx4nWMCTJBlh) | 2:30 |

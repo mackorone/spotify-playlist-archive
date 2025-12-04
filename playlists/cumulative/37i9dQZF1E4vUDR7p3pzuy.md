@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With Synthetik Blonde, Julien\-K, JUST LIZZY and more
+> With Synthetik Blonde, JUST LIZZY, Julien\-K and more
 
 107 songs - 6 hr 55 min
 

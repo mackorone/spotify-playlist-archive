@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 434569,
+  "num_followers": 434580,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-11-21 15:04:34",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 307172,
+      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+    },
+    {
+      "added_at": "2025-11-21 15:04:34",
+      "album": {
         "name": "me cuesta hablar",
         "url": "https://open.spotify.com/album/4spdgnGkbsTubgVbkhdKfa"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 180225,
       "name": "me cuesta hablar",
       "url": "https://open.spotify.com/track/7J2yiSiENs7Yexe08XW9h6"
-    },
-    {
-      "added_at": "2025-11-21 15:04:34",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 307172,
-      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
     },
     {
       "added_at": "2025-11-21 15:04:34",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-11-21 15:04:34",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
-      },
-      "artists": [
-        {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "The Great Unknown",
-      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
-    },
-    {
-      "added_at": "2025-11-21 15:04:34",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 286400,
       "name": "Older Chests",
       "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
+    },
+    {
+      "added_at": "2025-11-21 15:04:34",
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "The Great Unknown",
+      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
     },
     {
       "added_at": "2025-11-21 15:04:34",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-11-21 15:04:34",
       "album": {
-        "name": "A la muerte",
-        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
-      },
-      "artists": [
-        {
-          "name": "Hidrogenesse",
-          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
-        }
-      ],
-      "duration_ms": 295500,
-      "name": "A la muerte",
-      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
-    },
-    {
-      "added_at": "2025-11-21 15:04:34",
-      "album": {
         "name": "No tenemos tiempo",
         "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2025-11-21 15:04:34",
       "album": {
+        "name": "A la muerte",
+        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "duration_ms": 295500,
+      "name": "A la muerte",
+      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
+    },
+    {
+      "added_at": "2025-11-21 15:04:34",
+      "album": {
         "name": "Ando despistado",
         "url": "https://open.spotify.com/album/7kzkw8zloj5wvdidrbKL0Q"
       },
@@ -1311,26 +1311,6 @@
       "duration_ms": 280337,
       "name": "Ando despistado",
       "url": "https://open.spotify.com/track/1bKazzhvfzjjheK5qpmwqt"
-    },
-    {
-      "added_at": "2025-11-21 15:04:34",
-      "album": {
-        "name": "Lejos De M\u00e1s",
-        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        },
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "Lejos De M\u00e1s",
-      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
     },
     {
       "added_at": "2025-11-21 15:04:34",
@@ -1383,6 +1363,26 @@
       "duration_ms": 176160,
       "name": "Time (For You)",
       "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
+    },
+    {
+      "added_at": "2025-11-21 15:04:34",
+      "album": {
+        "name": "Lejos De M\u00e1s",
+        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Lejos De M\u00e1s",
+      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
     },
     {
       "added_at": "2025-11-21 15:04:34",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-11-21 15:04:34",
       "album": {
-        "name": "Mandela Place",
-        "url": "https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 213563,
-      "name": "Mandela Place",
-      "url": "https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5"
-    },
-    {
-      "added_at": "2025-11-21 15:04:34",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 183217,
       "name": "Killing Time - Acoustic Version",
       "url": "https://open.spotify.com/track/0XKs0GqvtMEACEwdTPBXVL"
+    },
+    {
+      "added_at": "2025-11-21 15:04:34",
+      "album": {
+        "name": "Mandela Place",
+        "url": "https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 213563,
+      "name": "Mandela Place",
+      "url": "https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5"
     },
     {
       "added_at": "2025-11-21 15:04:34",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2025-11-21 15:04:34",
       "album": {
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
+      },
+      "artists": [
+        {
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
+        }
+      ],
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
+    },
+    {
+      "added_at": "2025-11-21 15:04:34",
+      "album": {
         "name": "Temblor (Acoustic)",
         "url": "https://open.spotify.com/album/5oGici7sHKSYRUA43Tq3aZ"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 189000,
       "name": "Temblor - Acoustic",
       "url": "https://open.spotify.com/track/0aumVHW0j8EjIrKeUedEcE"
-    },
-    {
-      "added_at": "2025-11-21 15:04:34",
-      "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
-      },
-      "artists": [
-        {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
-        }
-      ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2025-11-21 15:04:34",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2025-11-21 15:04:34",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 144744,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
-    },
-    {
-      "added_at": "2025-11-21 15:04:34",
-      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 216800,
       "name": "5AM",
       "url": "https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT"
+    },
+    {
+      "added_at": "2025-11-21 15:04:34",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 144744,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
     },
     {
       "added_at": "2025-11-21 15:04:34",
@@ -2023,38 +2023,6 @@
     {
       "added_at": "2025-11-21 15:04:34",
       "album": {
-        "name": "N'Spiral",
-        "url": "https://open.spotify.com/album/1w8bz5v9X5d9CcS9YdAXVH"
-      },
-      "artists": [
-        {
-          "name": "KINKY LOVER",
-          "url": "https://open.spotify.com/artist/6atnQAeriB4Ql9r9MuVlIm"
-        }
-      ],
-      "duration_ms": 159191,
-      "name": "N'Spiral",
-      "url": "https://open.spotify.com/track/3dk9vO0cxFpSZf320v1SfR"
-    },
-    {
-      "added_at": "2025-11-21 15:04:34",
-      "album": {
-        "name": "Lim\u00e3o",
-        "url": "https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow"
-      },
-      "artists": [
-        {
-          "name": "navxja",
-          "url": "https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh"
-        }
-      ],
-      "duration_ms": 217043,
-      "name": "Lim\u00e3o",
-      "url": "https://open.spotify.com/track/0ND0hIRaK0GfPYIqELyp2Z"
-    },
-    {
-      "added_at": "2025-11-21 15:04:34",
-      "album": {
         "name": "Albino Rhino",
         "url": "https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo"
       },
@@ -2075,18 +2043,34 @@
     {
       "added_at": "2025-11-21 15:04:34",
       "album": {
-        "name": "Arena C\u00f3smica",
-        "url": "https://open.spotify.com/album/17natVn3YDYFfM4tKCKxPg"
+        "name": "Lim\u00e3o",
+        "url": "https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow"
       },
       "artists": [
         {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+          "name": "navxja",
+          "url": "https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh"
         }
       ],
-      "duration_ms": 219040,
-      "name": "Arena C\u00f3smica",
-      "url": "https://open.spotify.com/track/2Tp2TJMsvmdpqZkdlkwE0w"
+      "duration_ms": 217043,
+      "name": "Lim\u00e3o",
+      "url": "https://open.spotify.com/track/0ND0hIRaK0GfPYIqELyp2Z"
+    },
+    {
+      "added_at": "2025-11-21 15:04:34",
+      "album": {
+        "name": "N'Spiral",
+        "url": "https://open.spotify.com/album/1w8bz5v9X5d9CcS9YdAXVH"
+      },
+      "artists": [
+        {
+          "name": "KINKY LOVER",
+          "url": "https://open.spotify.com/artist/6atnQAeriB4Ql9r9MuVlIm"
+        }
+      ],
+      "duration_ms": 159191,
+      "name": "N'Spiral",
+      "url": "https://open.spotify.com/track/3dk9vO0cxFpSZf320v1SfR"
     },
     {
       "added_at": "2025-11-21 15:04:34",
@@ -2107,6 +2091,22 @@
       "duration_ms": 163000,
       "name": "Loco",
       "url": "https://open.spotify.com/track/2nidVZkBzER1GHhwTP5owz"
+    },
+    {
+      "added_at": "2025-11-21 15:04:34",
+      "album": {
+        "name": "Arena C\u00f3smica",
+        "url": "https://open.spotify.com/album/17natVn3YDYFfM4tKCKxPg"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "Arena C\u00f3smica",
+      "url": "https://open.spotify.com/track/2Tp2TJMsvmdpqZkdlkwE0w"
     },
     {
       "added_at": "2025-11-21 15:04:34",

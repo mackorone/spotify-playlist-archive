@@ -8493,8 +8493,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ENSEMBLE",
+        "url": "https://open.spotify.com/album/6ntl6HHJTYj14wPZGfyWcc"
       },
       "artists": [
         {
@@ -10365,6 +10365,24 @@
     },
     {
       "album": {
+        "name": "HELLO!",
+        "url": "https://open.spotify.com/album/0Fby1ANupBwwDm8bFjf8nz"
+      },
+      "artists": [
+        {
+          "name": "171",
+          "url": "https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132068,
+      "name": "SUPERSONIC",
+      "url": "https://open.spotify.com/track/38crZaLQqe7sBLR2zI8U74"
+    },
+    {
+      "album": {
         "name": "WORLD END LOVESONG",
         "url": "https://open.spotify.com/album/5Zzwn2idgQRbBbodMeJvrV"
       },
@@ -11064,24 +11082,6 @@
       "duration_ms": 247605,
       "name": "Touring",
       "url": "https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "171",
-          "url": "https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v"
-        }
-      ],
-      "date_added": "2025-12-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/38crZaLQqe7sBLR2zI8U74"
     },
     {
       "album": {
@@ -23650,7 +23650,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 241433,
       "name": "\u672a\u77e5",
       "url": "https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd"
@@ -26286,7 +26286,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 252620,
       "name": "\u93e1\u3088\u93e1",
       "url": "https://open.spotify.com/track/1uwKym8nRJTOth3KYqU5Ja"

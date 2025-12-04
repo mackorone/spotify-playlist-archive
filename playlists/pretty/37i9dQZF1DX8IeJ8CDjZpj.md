@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > Siempre juntos siempre 🖤🤍 ¡Nos vemos del 24 al 30 de Noviembre en la Casa CD9!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,739 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,893 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4080997,
+  "num_followers": 4080982,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAAAuSGcvdfgco93BZJxuv8Jx",
+  "snapshot_id": "aS4sAAAAAADeHL02Ge3yhzeEIlmqEMvT",
   "tracks": [
     {
       "added_at": null,
@@ -827,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
       },
       "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 296880,
-      "name": "Like Toy Soldiers",
-      "url": "https://open.spotify.com/track/6CN3e26iQSj1N5lomh0mfO"
+      "duration_ms": 288866,
+      "name": "Patiently Waiting",
+      "url": "https://open.spotify.com/track/6C781pluv3BPxGHHCUJNYc"
     },
     {
       "added_at": null,
@@ -871,22 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
       "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 288866,
-      "name": "Patiently Waiting",
-      "url": "https://open.spotify.com/track/6C781pluv3BPxGHHCUJNYc"
+      "duration_ms": 296880,
+      "name": "Like Toy Soldiers",
+      "url": "https://open.spotify.com/track/6CN3e26iQSj1N5lomh0mfO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best in house music
 
-715 songs - 1 day 22 hr 36 min
+716 songs - 1 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Brazilian Love Song \(Jengi Remix\)](https://open.spotify.com/track/1pAXNItTnpF2RcsFiPgwGc) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Brazilian Love Song \(Jengi Remix\)](https://open.spotify.com/album/21GGi7gu8ZBKDSMusMMAAv) | 4:21 | 2022-05-12 | 2023-08-17 |
 | [Brazilian Love Song \- Jengi Remix](https://open.spotify.com/track/2tnyg4zVfxjkKPgTBPBTiM) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Original Classic \(Deluxe\)](https://open.spotify.com/album/3GBPiIdlQgVpCPArj6XrFi) | 4:21 | 2024-02-29 | 2024-04-19 |
 | [Break of Dawn](https://open.spotify.com/track/4kDVpUSD89ekHthAEAoxaI) | [Bruut 99](https://open.spotify.com/artist/3UidWDUg2sJXEC082bnbHc) | [Break Of Dawn](https://open.spotify.com/album/1dUtenrYFrFy1VBjn2dvxM) | 2:52 | 2025-03-20 | 2025-06-21 |
+| [Brighter Days](https://open.spotify.com/track/1EFa8N3RrJ9OxeeoAkJneQ) | [Gissa](https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo), [Big Moses](https://open.spotify.com/artist/6DKgXuhMTT7HOhCBGkSOy1), [Kenny Bobien](https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS) | [Brighter Days](https://open.spotify.com/album/5FRhHIfVMry7aAFYUCLtMN) | 3:17 | 2025-12-01 |  |
 | [Bring It](https://open.spotify.com/track/08TT6T9qJ90dg1XffEGG8d) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [Renato S](https://open.spotify.com/artist/2M9nsWRUhhvYvfZmOYgTwZ) | [Bring It](https://open.spotify.com/album/5wLprLYTiAT0n8mkt76Shp) | 2:06 | 2022-04-14 | 2022-07-29 |
 | [Bring The Heat](https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Bring The Heat](https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK) | 2:37 | 2023-05-25 | 2024-09-13 |
 | [Bumaye](https://open.spotify.com/track/6S3rsvPKi3Ott975IiX6uM) | [Harvee](https://open.spotify.com/artist/1FLgCYPTBcH24x0uoSyGj0) | [Funky Pills EP](https://open.spotify.com/album/0jecp2tQw667mrgK0ikhIV) | 3:34 | 2025-05-19 | 2025-06-13 |
@@ -417,7 +418,7 @@
 | [Me & U](https://open.spotify.com/track/66CevqpUKEplNsJBuHIqlb) | [Albert Harvey](https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [ME & U](https://open.spotify.com/album/5KdzO0y6PM3DTTykeaBQNU) | 2:34 | 2025-06-27 | 2025-09-02 |
 | [Medicine](https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1) | [Marcus Cito](https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC) | [Medicine](https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb) | 2:35 | 2022-04-14 | 2024-03-01 |
 | [Mi Casa](https://open.spotify.com/track/43TMaeqLiJnxTzWjlU6sLW) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Kilian Viera](https://open.spotify.com/artist/4zyLmvoAbCvtkAY2efG4Em) | [Mi Casa](https://open.spotify.com/album/0XYcKUadr4cTE8pMu7UcVC) | 3:33 | 2022-07-07 | 2022-07-25 |
-| [Mi Vida](https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Mi Vida EP](https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI) | 2:32 | 2025-09-15 |  |
+| [Mi Vida](https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Mi Vida EP](https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI) | 2:32 | 2025-09-15 | 2025-12-04 |
 | [Mia Pembe \(Mojjo Remix\)](https://open.spotify.com/track/2RiT2JG41HYuW8T5W7fXS9) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mia Pembe \(Mojjo Remix\)](https://open.spotify.com/album/6Z7gdgNRG6swQcWqBFx3R4) | 3:09 | 2024-08-01 | 2025-06-06 |
 | [Midnight Shuffle](https://open.spotify.com/track/4V3axp2qr68IFTsbXzitSs) | [Mauve](https://open.spotify.com/artist/3hvW3ZEkSYNbIAp9P5C0KC) | [State of Mind](https://open.spotify.com/album/7j1TH8kjZ0UqDpzHabv29a) | 6:06 | 2022-04-14 | 2022-07-29 |
 | [Milan \[Magazzini Generali\] \- Full Sax Mix](https://open.spotify.com/track/3sKXJ4LQ3UzecvBdtuWol9) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Mauro Capitale](https://open.spotify.com/artist/7n0JKnLWFw5nlpJNwdL1Hc) | [Spaces and Places](https://open.spotify.com/album/4Q4G4hrAms9J3mYmofZlrT) | 5:59 | 2022-12-21 | 2024-06-14 |

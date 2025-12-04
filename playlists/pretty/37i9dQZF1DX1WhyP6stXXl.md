@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,895 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,830 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 62 | [Hope](https://open.spotify.com/track/4tm3MZMgL2dl9GiM28xjSO) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Hope](https://open.spotify.com/album/2Vfz6k1QhyCQmALT22N42G) | 1:34 |
 | 63 | [The Girl in the Bubble](https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 3:40 |
 | 64 | [Casual Love](https://open.spotify.com/track/3gCcmDho1HLvBfJZhAy0bj) | [Hanna Rautzenberg](https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y) | [Casual Love](https://open.spotify.com/album/21EUgoXjdXNEKnP1xYg0u2) | 3:06 |
-| 65 | [Faking My Own Death](https://open.spotify.com/track/7reMkEYc7mI4ts95CCda5V) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Outsider EP](https://open.spotify.com/album/7baG4gdejfEZXntLmNXPp9) | 2:49 |
+| 65 | [Faking My Own Death](https://open.spotify.com/track/7reMkEYc7mI4ts95CCda5V) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Outsider](https://open.spotify.com/album/7baG4gdejfEZXntLmNXPp9) | 2:49 |
 | 66 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
 | 67 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 |
 | 68 | [Mean To Me](https://open.spotify.com/track/1WuAlAbeVDmMF8nmSUMGuD) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Mean To Me](https://open.spotify.com/album/5IIRP1vjVpiFrJQkdVQSFA) | 2:04 |

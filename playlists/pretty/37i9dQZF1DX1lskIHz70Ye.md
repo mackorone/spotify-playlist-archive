@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,062 likes - 86 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,071 likes - 86 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 6 | [Sun Beam](https://open.spotify.com/track/5cUqHAqFyRdoh1d84IExHD) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Sun Beam](https://open.spotify.com/album/7Hcg1wCXtBKqxljQFcgywZ) | 3:19 |
 | 7 | [Lascia Fare A Me](https://open.spotify.com/track/6w9aMtE5ZxHnOrfzSkDuTs) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Lascia Fare A Me](https://open.spotify.com/album/293fwp3wtlduTDJxkRVUOv) | 3:05 |
 | 8 | [Portinari](https://open.spotify.com/track/35USnhAKetfjiZ21ywcU8a) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Portinari](https://open.spotify.com/album/7yeFLW7Tdz9if068I3nWEn) | 2:15 |
-| 9 | [Summer Soon](https://open.spotify.com/track/4VZ2YB3Gt6EhYE7uTmMuBy) | [Oddn](https://open.spotify.com/artist/3EJCkCtqUOD8WWdMB3BqCN) | [Summer Soon](https://open.spotify.com/album/7GeHByUQuBxbAkUZuvHsxg) | 2:34 |
-| 10 | [Antiques](https://open.spotify.com/track/5Ma7R5NkweVB9H39IfxVjm) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [Antiques](https://open.spotify.com/album/47Y0BDt1BR8iuRLwBiOfzG) | 3:16 |
+| 9 | [Antiques](https://open.spotify.com/track/5Ma7R5NkweVB9H39IfxVjm) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [Antiques](https://open.spotify.com/album/47Y0BDt1BR8iuRLwBiOfzG) | 3:16 |
+| 10 | [Summer Soon](https://open.spotify.com/track/4VZ2YB3Gt6EhYE7uTmMuBy) | [Oddn](https://open.spotify.com/artist/3EJCkCtqUOD8WWdMB3BqCN) | [Summer Soon](https://open.spotify.com/album/7GeHByUQuBxbAkUZuvHsxg) | 2:34 |
 | 11 | [Stars](https://open.spotify.com/track/1vF22s3CRpZRbOuplV9jql) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Stars](https://open.spotify.com/album/020pJe0xdiidQg4fW2oHRU) | 2:15 |
 | 12 | [Madame Señora](https://open.spotify.com/track/3N3Oyfhwsf3Y9xkpgxDnck) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Madame Señora](https://open.spotify.com/album/3RncnfVEmFPkZB92PQl0HD) | 2:18 |
 | 13 | [Preciosa](https://open.spotify.com/track/0QCxaAab6D7LfafCUEKgzb) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Preciosa](https://open.spotify.com/album/0pglYJR5nQuBRyBjYiNfgN) | 2:34 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 85 | [Por Mi Algun Dia Vendras](https://open.spotify.com/track/51FyeJufmEKsnAvs0UXfpw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Por Mi Algun Dia Vendras](https://open.spotify.com/album/6W9Mi99vA15orWdmxqptJu) | 3:03 |
 | 86 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 |
 
-Snapshot ID: `AAAAAKVvpQH1AA2EZOmq/P2aJ3+QRadE`
+Snapshot ID: `AAAAABsW3+8Kv+Mvv5O92G8BqxNR6roh`

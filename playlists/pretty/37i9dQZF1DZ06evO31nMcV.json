@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 24620,
+  "num_followers": 24623,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAACEFRk0HAI8kIlmO7Iuote2",
+  "snapshot_id": "aS4sAAAAAADIDG7hbBvsLdxYX80vJOkC",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/1SOVb18kGeGYYr1tkOVcFV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Piano Whisperer",
         "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 237705,
       "name": "September Song",
       "url": "https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/1SOVb18kGeGYYr1tkOVcFV"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 216625,
-      "name": "Story of You",
-      "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Piano Whisperer",
         "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 268613,
       "name": "Music Box",
       "url": "https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 216625,
+      "name": "Story of You",
+      "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
     },
     {
       "added_at": null,

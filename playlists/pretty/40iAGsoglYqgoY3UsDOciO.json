@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 506,
+  "num_followers": 510,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABWSti76KuNblRkPRjcoPvbg1iBMHf",
+  "snapshot_id": "AAABW1UOWBfQU/vg/jbF5EqVUWMdwnCJ",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -7999,6 +7999,38 @@
       "duration_ms": 208079,
       "name": "Tralandia",
       "url": "https://open.spotify.com/track/3uNmUUM3dmgQmTjxkUcgTw"
+    },
+    {
+      "added_at": "2025-12-03 22:01:06",
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/7eP4kNqiMv83qNMEo1iJGq"
+      },
+      "artists": [
+        {
+          "name": "Sweet Strings",
+          "url": "https://open.spotify.com/artist/7EjtlZUiHcqkeGSrolQABK"
+        }
+      ],
+      "duration_ms": 225208,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3tVJg0d42IEEfGLT6Sre7k"
+    },
+    {
+      "added_at": "2025-12-03 22:02:06",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/17Nicg9iwMRlxA3Ovl1bAS"
+      },
+      "artists": [
+        {
+          "name": "Blakestyle",
+          "url": "https://open.spotify.com/artist/0YxbMKrZgTOUWYeOdBgdoy"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/5CGpPbUiTBtjVm5dCRvZbH"
     }
   ],
   "unique_name": "New Music Daily",

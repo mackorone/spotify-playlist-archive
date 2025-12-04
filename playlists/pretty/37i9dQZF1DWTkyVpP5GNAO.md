@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Barak
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,616 likes - 80 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,651 likes - 80 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

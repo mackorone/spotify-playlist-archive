@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 155805,
+  "num_followers": 155778,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-09-23 10:00:46",
       "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4"
-      },
-      "artists": [
-        {
-          "name": "Naturalis",
-          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
-        }
-      ],
-      "duration_ms": 183028,
-      "name": "Distant Thunder in the East of the City",
-      "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
-    },
-    {
-      "added_at": "2025-09-23 10:00:46",
-      "album": {
         "name": "Temperate Rainforest Sounds",
         "url": "https://open.spotify.com/album/0LY9Tily5yuPkUxAa4jyou"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 191500,
       "name": "Temperate Rainforest Sounds",
       "url": "https://open.spotify.com/track/3av7HNGWI6Xvg8eXt9NOYr"
+    },
+    {
+      "added_at": "2025-09-23 10:00:46",
+      "album": {
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4"
+      },
+      "artists": [
+        {
+          "name": "Naturalis",
+          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
+        }
+      ],
+      "duration_ms": 183028,
+      "name": "Distant Thunder in the East of the City",
+      "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
     },
     {
       "added_at": "2025-09-23 10:00:46",

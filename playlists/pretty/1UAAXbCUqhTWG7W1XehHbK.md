@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 587 likes - 136 songs - 7 hr 59 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 587 likes - 137 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,5 +144,6 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 134 | [GYPSY GIRL](https://open.spotify.com/track/6QJgtgwOBQRAm3rXI0fQ4f) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [GYPSY GIRL](https://open.spotify.com/album/4LwRyoHz6c7T5Hwj9f0lqS) | 3:13 |
 | 135 | [Come Out](https://open.spotify.com/track/4MePv6tLO4aFyFjkm1m1dc) | [This Is Love](https://open.spotify.com/artist/3T0I2xTHjHXFnGJJmvrkQw) | [Come Out](https://open.spotify.com/album/1pJioJgZeEVjsuuJvNVbyv) | 3:24 |
 | 136 | [Pygmalion](https://open.spotify.com/track/3q5iE5DGjm52i3KawsnbNe) | [SoliAres](https://open.spotify.com/artist/2y5fGjgsbruMPGTfrh2S7B) | [Pygmalion](https://open.spotify.com/album/4XRfovNWHvvqmBc8O3uXiI) | 3:18 |
+| 137 | [may be](https://open.spotify.com/track/2fbhU9BAN9DMHUJmVd2WER) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [may be](https://open.spotify.com/album/3r5LuwbKuUEhGt1fO0q0Z6) | 3:27 |
 
-Snapshot ID: `AAADZm7d+0ciFxgVASj5GHeRCHqd2ibY`
+Snapshot ID: `AAADZ47NmUbaVRuTczt743tKvPsDVO6W`

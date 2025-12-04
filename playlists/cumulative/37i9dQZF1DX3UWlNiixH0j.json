@@ -1269,8 +1269,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "TAIDOU",
+        "url": "https://open.spotify.com/album/0mQ8cxxLjNl2bKUna63yaR"
       },
       "artists": [
         {
@@ -2709,8 +2709,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Inc",
+        "url": "https://open.spotify.com/album/05DGT91gvVgf8lUdkUzAPV"
       },
       "artists": [
         {
@@ -14539,6 +14539,24 @@
     },
     {
       "album": {
+        "name": "1,000,000,000 Attack",
+        "url": "https://open.spotify.com/album/4mHAbcnlBrUJVD2jOR788P"
+      },
+      "artists": [
+        {
+          "name": "Massage Attack",
+          "url": "https://open.spotify.com/artist/3yibwwxuLJdr6jH9BCrgPk"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184502,
+      "name": "Junk Corner On My Mind",
+      "url": "https://open.spotify.com/track/4FBrAZGGWjZmvrSjWZvV5v"
+    },
+    {
+      "album": {
         "name": "junkie",
         "url": "https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw"
       },
@@ -18259,6 +18277,24 @@
     },
     {
       "album": {
+        "name": "Middle of the Night",
+        "url": "https://open.spotify.com/album/2AM8BTx7qcCawZmjsddXzn"
+      },
+      "artists": [
+        {
+          "name": "REJAY",
+          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Middle of the Night",
+      "url": "https://open.spotify.com/track/5ObofrulUfverBVhR1nMg3"
+    },
+    {
+      "album": {
         "name": "midnight zombies are alright",
         "url": "https://open.spotify.com/album/0l41Q5pc1JOfJFoSNujZK5"
       },
@@ -19540,6 +19576,28 @@
       "duration_ms": 220227,
       "name": "Naked",
       "url": "https://open.spotify.com/track/0aCe9Q11Xmo5wEs2nzGsar"
+    },
+    {
+      "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "Iwasaki Momoko",
+          "url": "https://open.spotify.com/artist/2Ox5tp4o6x2jaX2FsFHmT1"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223232,
+      "name": "Namima (feat. Iwasaki Momoko)",
+      "url": "https://open.spotify.com/track/4Dcueowk30gOeL8lGv54ks"
     },
     {
       "album": {
@@ -24321,8 +24379,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Voyager 2",
+        "url": "https://open.spotify.com/album/4wZutJAT3wdCB6UyejvJay"
       },
       "artists": [
         {
@@ -31668,24 +31726,6 @@
       "duration_ms": 247472,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "date_added": "2025-12-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/4Dcueowk30gOeL8lGv54ks"
     },
     {
       "album": {
@@ -48028,7 +48068,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 221000,
       "name": "\u65c5\u3068\u30d5\u30a7\u30ea\u30fc",
       "url": "https://open.spotify.com/track/2G4N1lcrce2qPsxdMHgG7b"
@@ -52150,7 +52190,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 264654,
       "name": "\u8a00\u8449\u306e\u5148",
       "url": "https://open.spotify.com/track/6r9AjPVYzjMpKQJpU1EbRJ"

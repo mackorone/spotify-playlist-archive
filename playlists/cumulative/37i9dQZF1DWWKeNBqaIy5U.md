@@ -4,7 +4,7 @@
 
 > The gentle sound of some of the greatest voices and instrumentalists in Jazz\. Your Jazz dinner soundtrack.
 
-127 songs - 8 hr 19 min
+128 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Forever and Always](https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Forever and Always](https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU) | 3:58 | 2025-02-04 |  |
 | [Gee Baby, Ain't I Good To You](https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 4:01 | 2025-02-04 |  |
 | [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2025-02-04 |  |
+| [Groove Waltz](https://open.spotify.com/track/4JI1z2ExhzqYbnTyG5bNX6) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Impulse Story](https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5) | 5:28 | 2025-02-04 |  |
 | [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2025-02-04 |  |
 | [Holding Onto Dawn](https://open.spotify.com/track/27yLQgeE70oyihRLEorqRy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Holding Onto Dawn](https://open.spotify.com/album/0JNJYL6httnFWoLYXh6JAE) | 3:14 | 2025-02-04 |  |
 | [Honeysuckle Rose](https://open.spotify.com/track/41Wj6aJKyggH33OYBo3ezY) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 3:13 | 2025-02-04 |  |
@@ -64,7 +65,7 @@
 | [I Saw You Across the Room](https://open.spotify.com/track/04Vlww85iHY4GOpHmSsSVl) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [I Saw You Across the Room](https://open.spotify.com/album/2MNqQEzYKkKBOCp9Z0gsg6) | 3:53 | 2025-02-04 |  |
 | [I Sing This Song for You](https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:38 | 2025-02-04 |  |
 | [I Wish I Knew](https://open.spotify.com/track/3oGqQ3Ly4wzilxFo4puTn9) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 4:50 | 2025-02-04 |  |
-| [I'll Walk Alone](https://open.spotify.com/track/7GdYQNZikjPn7uIE9AvimQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [But Beautiful](https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq) | 3:33 | 2025-02-04 |  |
+| [I'll Walk Alone](https://open.spotify.com/track/7GdYQNZikjPn7uIE9AvimQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [But Beautiful](https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq) | 3:33 | 2025-02-04 | 2025-12-04 |
 | [I'm in a Mess \(feat\. Samara Joy\)](https://open.spotify.com/track/67EzBKdJSiSZmq9q5Ustyz) | [Pasquale Grasso](https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY), [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I'm in a Mess \(feat\. Samara Joy\)](https://open.spotify.com/album/1KSkbrGOskyPFd5IVecxnj) | 2:54 | 2025-02-04 |  |
 | [I'm Lost](https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:29 | 2025-02-04 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/2DZdof9VHreWvnCBAuhNr2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 5:03 | 2025-02-04 |  |

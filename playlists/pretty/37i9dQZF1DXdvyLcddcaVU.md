@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,737 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,772 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 2 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
 | 3 | [LOVE YOU](https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [LOVE YOU](https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq) | 2:27 |
 | 4 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 |
-| 5 | [SALE ÉTAT](https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SALE ÉTAT](https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV) | 3:22 |
-| 6 | [Toute la nuit](https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [Toute la nuit](https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS) | 3:18 |
-| 7 | [Broken](https://open.spotify.com/track/0GJDGLuxjVb0R8cmd7rDtg) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [Broken](https://open.spotify.com/album/5NMTxVJVU0GfqNfHdZniv3) | 3:32 |
-| 8 | [Ballon D'or](https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 3:26 |
+| 5 | [Ballon D'or](https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 3:26 |
+| 6 | [SALE ÉTAT](https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SALE ÉTAT](https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV) | 3:22 |
+| 7 | [Toute la nuit](https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [Toute la nuit](https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS) | 3:18 |
+| 8 | [Broken](https://open.spotify.com/track/0GJDGLuxjVb0R8cmd7rDtg) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [Broken](https://open.spotify.com/album/5NMTxVJVU0GfqNfHdZniv3) | 3:32 |
 | 9 | [Movie](https://open.spotify.com/track/1k9oEJse03hhCI21JiOK4g) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Movie](https://open.spotify.com/album/3t1LD12LY64mEVWWKfbMeM) | 2:23 |
 | 10 | [Dios mio](https://open.spotify.com/track/75j2xe6h9eVzT30yQz7bhC) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La spé \(Deluxe\)](https://open.spotify.com/album/0s57BzP2tt9Ysm3ZsAu89d) | 3:01 |
 | 11 | [Paddle](https://open.spotify.com/track/3tIib0N5bPFPlt9DmUwLvh) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Paddle](https://open.spotify.com/album/3N0kExPq7hOiPnp3oRfecd) | 2:18 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [People You Know](https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:14 |
 | 90 | [Respire fort](https://open.spotify.com/track/14KogTtMWr07LMu5E66IrS) | [Jeanne](https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ) | [Respire fort](https://open.spotify.com/album/5sQnc8AUDkAWRBjnNSXR3h) | 2:51 |
 
-Snapshot ID: `AAAAAANYUlUUOjrTKQCSHk46hSAL7Qc2`
+Snapshot ID: `AAAAAD4j/obX2/tSKXssYZ2JdnwqdZD3`

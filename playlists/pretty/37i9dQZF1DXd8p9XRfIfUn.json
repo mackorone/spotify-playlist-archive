@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 80595,
+  "num_followers": 80591,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "FBI",
-        "url": "https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 152773,
-      "name": "FBI",
-      "url": "https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Un Poquito",
         "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 166050,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "FBI",
+        "url": "https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 152773,
+      "name": "FBI",
+      "url": "https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -903,18 +903,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Mi Primer Amor",
-        "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
+        "name": "Profuga",
+        "url": "https://open.spotify.com/album/7nfQMiQI7qyUqAz2feazuc"
       },
       "artists": [
         {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+          "name": "Alex Got",
+          "url": "https://open.spotify.com/artist/16fOP8AoBwsszz9nX0qbnX"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 181413,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
+      "duration_ms": 201811,
+      "name": "Profuga",
+      "url": "https://open.spotify.com/track/5kLnAf93pPAcEnIzzghQEL"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -939,22 +943,18 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Profuga",
-        "url": "https://open.spotify.com/album/7nfQMiQI7qyUqAz2feazuc"
+        "name": "Mi Primer Amor",
+        "url": "https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF"
       },
       "artists": [
         {
-          "name": "Alex Got",
-          "url": "https://open.spotify.com/artist/16fOP8AoBwsszz9nX0qbnX"
-        },
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
         }
       ],
-      "duration_ms": 201811,
-      "name": "Profuga",
-      "url": "https://open.spotify.com/track/5kLnAf93pPAcEnIzzghQEL"
+      "duration_ms": 181413,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz"
     },
     {
       "added_at": "2025-09-18 23:00:14",

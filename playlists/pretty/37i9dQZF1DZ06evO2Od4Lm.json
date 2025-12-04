@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 129663,
+  "num_followers": 129690,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAADmWedaM7ZEt2rcKBJ9kpWa",
+  "snapshot_id": "aS4sAAAAAACiIyDYWrYEFBcIQpxxFUO5",
   "tracks": [
     {
       "added_at": null,
@@ -159,18 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+        "name": "Compass Rosa",
+        "url": "https://open.spotify.com/album/5FSBw9r6XSmbVzZGjhveDh"
       },
       "artists": [
+        {
+          "name": "Mina Tindle",
+          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
+        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 249259,
-      "name": "Will Anybody Ever Love Me?",
-      "url": "https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe"
+      "duration_ms": 205846,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/4ryTbqZx61oRvsmJ5oWmx1"
     },
     {
       "added_at": null,
@@ -191,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compass Rosa",
-        "url": "https://open.spotify.com/album/5FSBw9r6XSmbVzZGjhveDh"
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
       },
       "artists": [
-        {
-          "name": "Mina Tindle",
-          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
-        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 205846,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/4ryTbqZx61oRvsmJ5oWmx1"
+      "duration_ms": 249259,
+      "name": "Will Anybody Ever Love Me?",
+      "url": "https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe"
     },
     {
       "added_at": null,
@@ -843,22 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aporia",
-        "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
+        "name": "We Should Be Together",
+        "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Rosie Thomas",
+          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
         },
         {
-          "name": "Lowell Brams",
-          "url": "https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 32699,
-      "name": "Palinodes",
-      "url": "https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB"
+      "duration_ms": 211946,
+      "name": "We Should Be Together",
+      "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
     }
   ],
   "unique_name": "This Is Sufjan Stevens",

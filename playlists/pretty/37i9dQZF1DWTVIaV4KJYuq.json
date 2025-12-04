@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 707428,
+  "num_followers": 707431,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 236666,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "What's Going On - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "California Dreamin",
         "url": "https://open.spotify.com/album/561Ly3AThHF8GOSY0tm0Al"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 208524,
       "name": "California Dreamin - Acoustic Mix",
       "url": "https://open.spotify.com/track/4FmVtdjLVhzHpNuBhMF8Wj"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "What's Going On - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Five Years",
-        "url": "https://open.spotify.com/album/73Rq2ZuDni5smSCDB03St0"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Junkies",
-          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
-        }
-      ],
-      "duration_ms": 263493,
-      "name": "Five Years",
-      "url": "https://open.spotify.com/track/71Nk88z1SInD0QNYMs9rNR"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Didn't Want to Have to Do It",
         "url": "https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 264362,
       "name": "Didn't Want to Have to Do It",
       "url": "https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Five Years",
+        "url": "https://open.spotify.com/album/73Rq2ZuDni5smSCDB03St0"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Junkies",
+          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+        }
+      ],
+      "duration_ms": 263493,
+      "name": "Five Years",
+      "url": "https://open.spotify.com/track/71Nk88z1SInD0QNYMs9rNR"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 312173,
+      "name": "With A Little Help From My Friends",
+      "url": "https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 190110,
       "name": "A Case of You",
       "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 312173,
-      "name": "With A Little Help From My Friends",
-      "url": "https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81"
     }
   ],
   "unique_name": "Classic Covers",

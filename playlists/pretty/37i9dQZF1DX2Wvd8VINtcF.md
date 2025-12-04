@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨DJ Suzy ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,013 likes - 286 songs - 15 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,018 likes - 286 songs - 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 40 | [Torn](https://open.spotify.com/track/2O6Mv8sXIf75IDFPjZf9n7) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Torn](https://open.spotify.com/album/4sCdSD8XURIiTDZx3yJzAq) | 3:02 |
 | 41 | [Over You](https://open.spotify.com/track/5Y6haMzLdn7wCyStXJNStG) | [theophilia](https://open.spotify.com/artist/3SWQx1YIz6i5AgeL3htTS1) | [Over You](https://open.spotify.com/album/4q2QsmcyEa9Qbzl6oRoEK9) | 2:16 |
 | 42 | [Push & Pull](https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Push & Pull](https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ) | 3:19 |
-| 43 | [voltage \(see you again\)](https://open.spotify.com/track/2vfxj67f2qeZz4uofyoPvw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Varg2™](https://open.spotify.com/artist/04a2VQx9ugpu52cCZ9404V), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f), [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [voltage \(see you again\)](https://open.spotify.com/album/4ecy3N3LBwEIJhLHPjEZ4J) | 3:20 |
+| 43 | [voltage \(see you again\)](https://open.spotify.com/track/2vfxj67f2qeZz4uofyoPvw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f), [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [voltage \(see you again\)](https://open.spotify.com/album/4ecy3N3LBwEIJhLHPjEZ4J) | 3:20 |
 | 44 | [Beto’s Horns \- fred remix](https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [Beto’s Horns \(fred remix\)](https://open.spotify.com/album/4CC0Q6wTtZ15OWHtNTGvnU) | 3:46 |
 | 45 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
 | 46 | [OLIVER!](https://open.spotify.com/track/2LneG51NHSyyGtHHz9mQ7S) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP), [Vilma Crow](https://open.spotify.com/artist/4icj46kOysWSwY501WX8Ww) | [OLIVER!](https://open.spotify.com/album/4ytPA0zpbAip5PphgdRIZ5) | 2:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5thgM7jqBNJ.md) - [plain]
 
 > The official playlist for the entire series of Big Boys\. Watch all episodes on <a href="https://www.channel4.com/programmes/big\-boys">Channel 4 Streaming!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,517 likes - 111 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,516 likes - 111 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

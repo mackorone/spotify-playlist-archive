@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Lisa Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,439 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,418 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 6 | [De Verte](https://open.spotify.com/track/24ilUvYVzOQ3bezUYj2QC1) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [De Verte](https://open.spotify.com/album/6tQJ5JvF9PUMvrhHM9wr88) | 3:18 |
 | 7 | [Als We Vallen](https://open.spotify.com/track/1bz0zQFZGNVEVSarOUAv53) | [Kiya](https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9) | [Als We Vallen](https://open.spotify.com/album/5Qf92KQ3yRb5s6f9KKkCzM) | 3:29 |
 | 8 | [Kapot](https://open.spotify.com/track/6a6RwdVkTtsjF15DCfi4Wz) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Kapot](https://open.spotify.com/album/2QAQiSleQ9tMNjchs39yXD) | 2:40 |
-| 9 | [Noorderlicht](https://open.spotify.com/track/2yy0FHQvXgj9tZHceIjZpL) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Noorderlicht](https://open.spotify.com/album/2hWs52poL7yBwoRYNTQ4MP) | 3:12 |
+| 9 | [Noorderlicht](https://open.spotify.com/track/2yy0FHQvXgj9tZHceIjZpL) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Noorderlicht](https://open.spotify.com/album/2hWs52poL7yBwoRYNTQ4MP) | 3:14 |
 | 10 | [Meisje Uit De Klas](https://open.spotify.com/track/03Grq5CXpufuCb15u4gAe5) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Meisje Uit De Klas](https://open.spotify.com/album/6Ae8zbMgk5k3GByZV0sUP3) | 3:10 |
 | 11 | [Woensdag](https://open.spotify.com/track/2uPSbhD8EF8VcE8SY82OGf) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Woensdag](https://open.spotify.com/album/5UNGlTJNPHvD2YhTvJgKRc) | 2:21 |
 | 12 | [⁠Tot Het Eind Van Mij](https://open.spotify.com/track/5MSrJGjtJy0eu2Z0oRXYlP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [⁠Tot Het Eind Van Mij](https://open.spotify.com/album/2juwxLM6gQlTe5bPlMn70n) | 2:44 |

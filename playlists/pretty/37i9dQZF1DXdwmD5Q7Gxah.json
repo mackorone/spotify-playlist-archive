@@ -1,13 +1,45 @@
 {
-  "description": "<a href=\"https://loremandfriends.substack.com/p/smerz-daniel-caesar-and-the-dawn\">November newsletter w/ Daniel Caesar & Smerz is live \ud83d\udcff</a> Cover: The Hellp",
-  "num_followers": 1186633,
+  "description": "<a href=\"https://loremandfriends.substack.com/p/smerz-daniel-caesar-and-the-dawn\">November newsletter w/ Daniel Caesar & Smerz is live \ud83d\udcff</a> Cover: Cameron Winter",
+  "num_followers": 1186542,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALqL2pVvliHbw5LI8KPulgiN+GWG",
+  "snapshot_id": "AAAAANBy6nVtHErzdrGvws+rW8FFux9D",
   "tracks": [
+    {
+      "added_at": "2025-12-03 12:33:35",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "duration_ms": 198386,
+      "name": "Love Takes Miles",
+      "url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
+    },
+    {
+      "added_at": "2025-04-18 04:00:55",
+      "album": {
+        "name": "Headphones On",
+        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
+    },
     {
       "added_at": "2025-11-21 05:00:40",
       "album": {
@@ -23,6 +55,38 @@
       "duration_ms": 226426,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN"
+    },
+    {
+      "added_at": "2025-12-03 12:33:35",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "duration_ms": 251637,
+      "name": "Nausica\u00e4 (Love Will Be Revealed)",
+      "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N"
+    },
+    {
+      "added_at": "2025-12-03 12:33:35",
+      "album": {
+        "name": "Dusty",
+        "url": "https://open.spotify.com/album/7deK3zxoJuFhDhZAguSOvt"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 245776,
+      "name": "Dusty",
+      "url": "https://open.spotify.com/track/3YAbD6ZmkXerUDg7GY15zZ"
     },
     {
       "added_at": "2025-11-14 03:28:25",
@@ -41,6 +105,86 @@
       "url": "https://open.spotify.com/track/7JKv0qkYYjv50LaQ9fMUlz"
     },
     {
+      "added_at": "2025-11-14 03:28:25",
+      "album": {
+        "name": "If You Know Me / Wild Horses",
+        "url": "https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "If You Know Me",
+      "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
+    },
+    {
+      "added_at": "2025-11-13 18:51:46",
+      "album": {
+        "name": "Chains of Love",
+        "url": "https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "Chains of Love",
+      "url": "https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK"
+    },
+    {
+      "added_at": "2025-09-12 04:00:21",
+      "album": {
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
+    },
+    {
+      "added_at": "2025-08-02 15:54:29",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": "2025-12-03 12:36:56",
+      "album": {
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
+    },
+    {
       "added_at": "2025-11-24 16:53:11",
       "album": {
         "name": "In Twos",
@@ -55,6 +199,54 @@
       "duration_ms": 166897,
       "name": "In Twos",
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
+    },
+    {
+      "added_at": "2025-10-24 04:00:31",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 188271,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
+    },
+    {
+      "added_at": "2025-11-10 20:42:56",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "Reliquia",
+      "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
+    },
+    {
+      "added_at": "2025-11-05 22:17:58",
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 226283,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
     },
     {
       "added_at": "2025-11-21 05:00:40",
@@ -93,6 +285,218 @@
       "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
     },
     {
+      "added_at": "2025-03-13 17:25:37",
+      "album": {
+        "name": "Object Permanence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "I'll Take It",
+      "url": "https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY"
+    },
+    {
+      "added_at": "2025-11-05 21:42:50",
+      "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/3q2koL9KwKQxUue4hn8oWg"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 213145,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx"
+    },
+    {
+      "added_at": "2025-07-11 04:00:24",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-07-11 04:00:24",
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "added_at": "2025-03-19 14:58:50",
+      "album": {
+        "name": "Equus Asinus",
+        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 174927,
+      "name": "Heavenly Flow",
+      "url": "https://open.spotify.com/track/2lOTK5uAzQ4OmRPXo2oAFX"
+    },
+    {
+      "added_at": "2025-09-26 04:00:24",
+      "album": {
+        "name": "hang on the wall what you kill",
+        "url": "https://open.spotify.com/album/6wTZVm4bY9bTV57xS4G4b2"
+      },
+      "artists": [
+        {
+          "name": "emory",
+          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
+        }
+      ],
+      "duration_ms": 147348,
+      "name": "hang on the wall what you kill",
+      "url": "https://open.spotify.com/track/3ThXubZEb1x9U8AgfYCq8c"
+    },
+    {
+      "added_at": "2025-10-10 04:00:19",
+      "album": {
+        "name": "Images of Love",
+        "url": "https://open.spotify.com/album/6IMqlvUqKnLU9DT9yTAwHf"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 233221,
+      "name": "Images of Love",
+      "url": "https://open.spotify.com/track/3hwcyPxCMgnYwhgAPJye4r"
+    },
+    {
+      "added_at": "2025-03-21 17:10:45",
+      "album": {
+        "name": "SAYA",
+        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 219294,
+      "name": "SHELL ( OF A MAN )",
+      "url": "https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u"
+    },
+    {
+      "added_at": "2025-09-26 04:00:24",
+      "album": {
+        "name": "Second Sleep / Star Eyes",
+        "url": "https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Second Sleep",
+      "url": "https://open.spotify.com/track/47N21fn8V8IN392MGlicT5"
+    },
+    {
+      "added_at": "2025-09-03 17:34:38",
+      "album": {
+        "name": "Theorem",
+        "url": "https://open.spotify.com/album/6tZ5imvrDkSs3zvexiVHYk"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Theorem",
+      "url": "https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt"
+    },
+    {
+      "added_at": "2025-05-22 19:27:26",
+      "album": {
+        "name": "You got time and I got money",
+        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 271583,
+      "name": "You got time and I got money",
+      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
+    },
+    {
+      "added_at": "2025-04-25 21:28:01",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/0JV0FSaxRPredegMlY1tYi"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 256795,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/6ynQk8NlYeRv0KnrCU0ppi"
+    },
+    {
+      "added_at": "2025-04-18 21:56:36",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo"
+      },
+      "artists": [
+        {
+          "name": "Horse Vision",
+          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
+        },
+        {
+          "name": "Tiffi M",
+          "url": "https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5"
+        }
+      ],
+      "duration_ms": 183875,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/75H2T9O2y4b5JlORHVZlBe"
+    },
+    {
       "added_at": "2025-11-07 03:49:15",
       "album": {
         "name": "Singles",
@@ -129,38 +533,6 @@
       "url": "https://open.spotify.com/track/52Q6vz0SAAazElTsVjIYLv"
     },
     {
-      "added_at": "2025-11-05 22:17:58",
-      "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 226283,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
-    },
-    {
-      "added_at": "2025-11-14 03:28:25",
-      "album": {
-        "name": "If You Know Me / Wild Horses",
-        "url": "https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8"
-      },
-      "artists": [
-        {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "If You Know Me",
-      "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
-    },
-    {
       "added_at": "2025-12-02 17:31:19",
       "album": {
         "name": "pains of falling in love",
@@ -179,22 +551,6 @@
       "duration_ms": 128627,
       "name": "pains of falling in love",
       "url": "https://open.spotify.com/track/6JVl0PrnA0cT45eXHAGQBP"
-    },
-    {
-      "added_at": "2025-11-13 18:51:46",
-      "album": {
-        "name": "Chains of Love",
-        "url": "https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "Chains of Love",
-      "url": "https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK"
     },
     {
       "added_at": "2025-11-14 03:28:25",
@@ -299,22 +655,6 @@
       "duration_ms": 171311,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/7I1uAxTOm7pbSncfMMI1Nt"
-    },
-    {
-      "added_at": "2025-11-05 21:42:50",
-      "album": {
-        "name": "Do It",
-        "url": "https://open.spotify.com/album/3q2koL9KwKQxUue4hn8oWg"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 213145,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx"
     },
     {
       "added_at": "2025-10-17 04:01:01",
@@ -577,38 +917,6 @@
       "url": "https://open.spotify.com/track/3qKYZAvIbxsxMtBLDucDz6"
     },
     {
-      "added_at": "2025-10-24 04:00:31",
-      "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 188271,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
-    },
-    {
-      "added_at": "2025-11-10 20:42:56",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "Reliquia",
-      "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
-    },
-    {
       "added_at": "2025-11-14 03:28:25",
       "album": {
         "name": "sick to my stomach",
@@ -853,22 +1161,6 @@
       "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
     },
     {
-      "added_at": "2025-09-26 04:00:24",
-      "album": {
-        "name": "hang on the wall what you kill",
-        "url": "https://open.spotify.com/album/6wTZVm4bY9bTV57xS4G4b2"
-      },
-      "artists": [
-        {
-          "name": "emory",
-          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
-        }
-      ],
-      "duration_ms": 147348,
-      "name": "hang on the wall what you kill",
-      "url": "https://open.spotify.com/track/3ThXubZEb1x9U8AgfYCq8c"
-    },
-    {
       "added_at": "2025-10-17 04:01:01",
       "album": {
         "name": "After EP 2",
@@ -883,22 +1175,6 @@
       "duration_ms": 208386,
       "name": "The Field",
       "url": "https://open.spotify.com/track/07lAcpDgwODHa2tQsSGZfL"
-    },
-    {
-      "added_at": "2025-10-10 04:00:19",
-      "album": {
-        "name": "Images of Love",
-        "url": "https://open.spotify.com/album/6IMqlvUqKnLU9DT9yTAwHf"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 233221,
-      "name": "Images of Love",
-      "url": "https://open.spotify.com/track/3hwcyPxCMgnYwhgAPJye4r"
     },
     {
       "added_at": "2025-10-24 04:00:31",
@@ -1151,22 +1427,6 @@
     {
       "added_at": "2025-09-26 04:00:24",
       "album": {
-        "name": "Second Sleep / Star Eyes",
-        "url": "https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Second Sleep",
-      "url": "https://open.spotify.com/track/47N21fn8V8IN392MGlicT5"
-    },
-    {
-      "added_at": "2025-09-26 04:00:24",
-      "album": {
         "name": "lucre",
         "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
       },
@@ -1281,22 +1541,6 @@
       "url": "https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO"
     },
     {
-      "added_at": "2025-09-12 04:00:21",
-      "album": {
-        "name": "Mark William Lewis",
-        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
-    },
-    {
       "added_at": "2025-09-10 20:00:56",
       "album": {
         "name": "Yellow",
@@ -1343,22 +1587,6 @@
       "duration_ms": 171653,
       "name": "Angels",
       "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
-    },
-    {
-      "added_at": "2025-09-03 17:34:38",
-      "album": {
-        "name": "Theorem",
-        "url": "https://open.spotify.com/album/6tZ5imvrDkSs3zvexiVHYk"
-      },
-      "artists": [
-        {
-          "name": "ear",
-          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Theorem",
-      "url": "https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt"
     },
     {
       "added_at": "2025-09-05 04:30:02",
@@ -1893,22 +2121,6 @@
       "url": "https://open.spotify.com/track/48f6WJoZEU1TgKsapzSy9m"
     },
     {
-      "added_at": "2025-05-22 19:27:26",
-      "album": {
-        "name": "You got time and I got money",
-        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 271583,
-      "name": "You got time and I got money",
-      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
-    },
-    {
       "added_at": "2025-06-04 15:37:18",
       "album": {
         "name": "Backseat",
@@ -2025,22 +2237,6 @@
       "url": "https://open.spotify.com/track/5zlxkhxG7ICPmq8x3GSPy8"
     },
     {
-      "added_at": "2025-08-02 15:54:29",
-      "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
       "added_at": "2025-08-08 04:02:53",
       "album": {
         "name": "rOe",
@@ -2155,22 +2351,6 @@
       "duration_ms": 210386,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/2R1GNetV5KogQx7h1b8tgg"
-    },
-    {
-      "added_at": "2025-07-11 04:00:24",
-      "album": {
-        "name": "moisturizer",
-        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 204475,
-      "name": "mangetout",
-      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "added_at": "2025-07-22 23:48:15",
@@ -2339,22 +2519,6 @@
       "duration_ms": 161173,
       "name": "Harley",
       "url": "https://open.spotify.com/track/35hgaNam8alvYUy7FHBAJl"
-    },
-    {
-      "added_at": "2025-07-11 04:00:24",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "added_at": "2025-07-11 04:00:24",
@@ -2637,22 +2801,6 @@
       "url": "https://open.spotify.com/track/1cIYTz9oCqdEQSVvkXGmH4"
     },
     {
-      "added_at": "2025-03-13 17:25:37",
-      "album": {
-        "name": "Object Permanence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "I'll Take It",
-      "url": "https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY"
-    },
-    {
       "added_at": "2025-05-09 04:00:06",
       "album": {
         "name": "I'll Be Waving As You Drive Away",
@@ -2683,22 +2831,6 @@
       "duration_ms": 220762,
       "name": "Headlock - Spotify Singles",
       "url": "https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG"
-    },
-    {
-      "added_at": "2025-04-18 04:00:55",
-      "album": {
-        "name": "Headphones On",
-        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 240308,
-      "name": "Headphones On",
-      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
     },
     {
       "added_at": "2025-06-02 17:40:17",
@@ -2961,42 +3093,6 @@
       "url": "https://open.spotify.com/track/154zZbZJdhfdxKMYhnQUvq"
     },
     {
-      "added_at": "2025-04-25 21:28:01",
-      "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/0JV0FSaxRPredegMlY1tYi"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 256795,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/6ynQk8NlYeRv0KnrCU0ppi"
-    },
-    {
-      "added_at": "2025-04-18 21:56:36",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo"
-      },
-      "artists": [
-        {
-          "name": "Horse Vision",
-          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
-        },
-        {
-          "name": "Tiffi M",
-          "url": "https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5"
-        }
-      ],
-      "duration_ms": 183875,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/75H2T9O2y4b5JlORHVZlBe"
-    },
-    {
       "added_at": "2025-04-25 14:40:29",
       "album": {
         "name": "I Heard That Noise",
@@ -3111,38 +3207,6 @@
       "duration_ms": 205250,
       "name": "GODSTAINED",
       "url": "https://open.spotify.com/track/2IbtNIdNlVelpPNaRYEZdJ"
-    },
-    {
-      "added_at": "2025-03-19 14:58:50",
-      "album": {
-        "name": "Equus Asinus",
-        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 174927,
-      "name": "Heavenly Flow",
-      "url": "https://open.spotify.com/track/2lOTK5uAzQ4OmRPXo2oAFX"
-    },
-    {
-      "added_at": "2025-03-21 17:10:45",
-      "album": {
-        "name": "SAYA",
-        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 219294,
-      "name": "SHELL ( OF A MAN )",
-      "url": "https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u"
     },
     {
       "added_at": "2025-02-14 05:00:17",

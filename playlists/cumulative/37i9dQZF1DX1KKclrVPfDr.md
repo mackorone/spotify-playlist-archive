@@ -4,7 +4,7 @@
 
 > भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं.
 
-53 songs - 3 hr 17 min
+54 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Bagiya](https://open.spotify.com/track/48ZAPt4dLgYko0T1rCfimu) | [Mini Pandey](https://open.spotify.com/artist/5K9cn9P6AjHu5ggNjmfHOZ) | [Bagiya](https://open.spotify.com/album/7iCkRMBw9irsgzQqYch68r) | 3:44 | 2025-09-15 |  |
 | [BIYAH WALI GAARI 4](https://open.spotify.com/track/0JQoXV8FpAoEk3y76Ijtd5) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Stuti Sinha](https://open.spotify.com/artist/3wEyqO1YSZgsVq8GZGbLjI), [Nikita Rai](https://open.spotify.com/artist/2QfXJZBwgrkWDaiQ9bI89k) | [BIYAH WALI GAARI 4](https://open.spotify.com/album/0T6JdIksx9g5fBmdfs6n0j) | 2:57 | 2025-09-15 |  |
 | [CHALNI KE CHALAL DULHA](https://open.spotify.com/track/0iDQnB8DpnYxIYWqFf91bF) | [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Nikhil Mahadev Jha](https://open.spotify.com/artist/6TJ7A6sHeJcOiZBltd9Bbo) | [CHALNI KE CHALAL DULHA](https://open.spotify.com/album/6RxeSlE552Lce1IyBU3ALw) | 2:27 | 2025-09-15 |  |
-| [Chalni Ke Chalal Dulha](https://open.spotify.com/track/1l7SGuQSAKSk00MVkql6tc) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chalni Ke Chalal Dulha](https://open.spotify.com/album/2uYu24aJPKY3Be3BMYzdYe) | 3:32 | 2025-09-15 |  |
+| [Chalni Ke Chalal Dulha](https://open.spotify.com/track/1l7SGuQSAKSk00MVkql6tc) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chalni Ke Chalal Dulha](https://open.spotify.com/album/2uYu24aJPKY3Be3BMYzdYe) | 3:32 | 2025-09-15 | 2025-12-04 |
 | [Chunariya Me Daag](https://open.spotify.com/track/33gZWrLzwxrN96b5XMoNyW) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Chunariya Me Daag](https://open.spotify.com/album/3nBMUTEwGmDmu8hHIZT1ii) | 4:36 | 2025-09-15 |  |
 | [CHUTKI BHAR SENURA](https://open.spotify.com/track/4LQ8sY86aDpaVOYLhlRNs6) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO) | [CHUTKI BHAR SENURA](https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy) | 4:50 | 2025-09-15 |  |
 | [Chutki Bhar Senura](https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chutki Bhar Senura](https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w) | 6:52 | 2025-09-15 |  |
@@ -57,6 +57,7 @@
 | [Samdhi Ji \(Wedding Song 2\)](https://open.spotify.com/track/1LFXcEokQkhnzhl3b00F5S) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Shatakshi Chakraborty](https://open.spotify.com/artist/0sHqr4WJZKAFNTZHQGClzA) | [Samdhi Ji \(Wedding Song 2\)](https://open.spotify.com/album/6LV5DklKkSNVEPzLa2cZjZ) | 2:54 | 2025-11-12 |  |
 | [SAWARIYA](https://open.spotify.com/track/3yq59mQFfnqp8oh1Dxi8VC) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [SAWARIYA](https://open.spotify.com/album/5rKYTYpHErvjHQwoDZAfMT) | 3:26 | 2025-09-15 |  |
 | [Senura Chhodave La Gaon](https://open.spotify.com/track/03OMZYOx4xz6gCs3drFx2e) | [Priyanka Singh](https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M) | [Senura Chhodave La Gaon](https://open.spotify.com/album/3xNSBgYyybfL3GvmueMqzv) | 5:21 | 2025-09-15 |  |
+| [Siya Ji Bahiniya Hamar Ho](https://open.spotify.com/track/0zzDLkQ54dX9t8k5piwWj0) | [Anamika Jha](https://open.spotify.com/artist/4qsnWD4hRuNphRxmWOsUuw) | [Siya Ji Bahiniya Hamar Ho](https://open.spotify.com/album/1WDGOMkyIgQrWfmOlJ2M8R) | 3:17 | 2025-12-02 |  |
 | [Sone Ke Sinhorwa \- From "Mehaan"](https://open.spotify.com/track/0NahhEHM4OiXZ3m8a7Vcef) | [Khushi Kakkar](https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu), [RR Pankaj](https://open.spotify.com/artist/2lfDVEQdxB082sSkJFqfb7) | [Sone Ke Sinhorwa \(From "Mehaan"\)](https://open.spotify.com/album/451b2pGI9EXSSncT0aYLeu) | 2:43 | 2025-11-27 |  |
 | [Sone Ke Supuliya](https://open.spotify.com/track/22UpBY3kHUUkAFMMA3Olxu) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Sone Ke Supuliya](https://open.spotify.com/album/5hE79CfvhWGGWbKd5KImz1) | 4:36 | 2025-09-15 |  |
 | [Tani Tani Sa Baat](https://open.spotify.com/track/1bJ6kc3V8OaJtFh1dgcgTa) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Tani Tani Sa Baat](https://open.spotify.com/album/23xQHa7AAa7bn1qIq049EB) | 4:43 | 2025-09-15 |  |

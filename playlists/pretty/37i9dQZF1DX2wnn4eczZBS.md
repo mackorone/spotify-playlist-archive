@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Elmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,004 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,008 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 33 | [Bidden In De Moshpit](https://open.spotify.com/track/0vV4dhunlGBFmQfkz1QGDB) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Bidden In De Moshpit](https://open.spotify.com/album/4JtRnHZ4Kk3DEYsUPNXEQx) | 3:07 |
 | 34 | [Voor Alles](https://open.spotify.com/track/3YwGI3M4iKIb0eCR8s0Dn7) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Voor Alles](https://open.spotify.com/album/3UlV5dLrM7tvIaXceGMUWp) | 3:50 |
 | 35 | [Dansen met de dood](https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Dansen met de dood](https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7) | 3:24 |
-| 36 | [Spijt Is Iets Voor Later](https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Spijt Is Iets Voor Later](https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8) | 3:09 |
-| 37 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
-| 38 | [In De Steek](https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [In De Steek](https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw) | 2:48 |
+| 36 | [In De Steek](https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [In De Steek](https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw) | 2:48 |
+| 37 | [Spijt Is Iets Voor Later](https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Spijt Is Iets Voor Later](https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8) | 3:09 |
+| 38 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
 | 39 | [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 |
 | 40 | [Leonie](https://open.spotify.com/track/2HNMx0HXsZRbOMzaCGh3dP) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Leonie](https://open.spotify.com/album/3lkGd1lTZMQXRbmH4FFGhS) | 3:16 |
 | 41 | [De zon](https://open.spotify.com/track/7GA05wHXs1jgfQCHA327Zf) | [Willem Ardui](https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY) | [De zon](https://open.spotify.com/album/0p9R6TOrMBUzlzDkulEEFs) | 2:43 |

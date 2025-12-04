@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 506 likes - 441 songs - 21 hr 19 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 510 likes - 443 songs - 21 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -449,5 +449,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 439 | [Starhero](https://open.spotify.com/track/7hX6Maampqji3vHpftrHGV) | [RorreN](https://open.spotify.com/artist/3RhESwqU21m7aa1x1X0Cnu) | [Starhero \(Love Story\)](https://open.spotify.com/album/1eqSFzJ2c6ihj3MrN4jmyr) | 2:13 |
 | 440 | [On Display, Pt\. 3](https://open.spotify.com/track/5wM2zCngggufalq4pnvYI3) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [On Display, Pt\. 3](https://open.spotify.com/album/2s8PuynnrQhk13zYrlEJSN) | 1:56 |
 | 441 | [Tralandia](https://open.spotify.com/track/3uNmUUM3dmgQmTjxkUcgTw) | [ARTIN & ROMAN DJ](https://open.spotify.com/artist/3CgomiE7lP85mKvgn66knC) | [Tralandia](https://open.spotify.com/album/0xNYINEGK0TD7Ggw30syAu) | 3:28 |
+| 442 | [Bam Bam](https://open.spotify.com/track/3tVJg0d42IEEfGLT6Sre7k) | [Sweet Strings](https://open.spotify.com/artist/7EjtlZUiHcqkeGSrolQABK) | [Bam Bam](https://open.spotify.com/album/7eP4kNqiMv83qNMEo1iJGq) | 3:45 |
+| 443 | [Everything](https://open.spotify.com/track/5CGpPbUiTBtjVm5dCRvZbH) | [Blakestyle](https://open.spotify.com/artist/0YxbMKrZgTOUWYeOdBgdoy) | [Everything](https://open.spotify.com/album/17Nicg9iwMRlxA3Ovl1bAS) | 2:42 |
 
-Snapshot ID: `AAABWSti76KuNblRkPRjcoPvbg1iBMHf`
+Snapshot ID: `AAABW1UOWBfQU/vg/jbF5EqVUWMdwnCJ`

@@ -3002,7 +3002,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 217559,
       "name": "Ayer te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/0NJlUo1cI8d7MLH7dhd64n"
@@ -12098,7 +12098,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 243409,
       "name": "En Tu Lugar",
       "url": "https://open.spotify.com/track/0yXVHnHLmcx1KI7oqLQhtQ"
@@ -13592,7 +13592,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 268519,
       "name": "FEAR",
       "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
@@ -17213,6 +17213,24 @@
     },
     {
       "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "album": {
         "name": "i was only temporary",
         "url": "https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m"
       },
@@ -17678,7 +17696,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 194325,
       "name": "Instante",
       "url": "https://open.spotify.com/track/6DLgDBSKFVHDfuYImcGGnd"
@@ -24533,6 +24551,24 @@
     },
     {
       "album": {
+        "name": "The Chordettes' Best",
+        "url": "https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN"
+      },
+      "artists": [
+        {
+          "name": "The Chordettes",
+          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143613,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/5VbwM8nvvQLXcwsZUwgm9K"
+    },
+    {
+      "album": {
         "name": "MTG - RITMO ZELDA",
         "url": "https://open.spotify.com/album/62R2H85ZiKLp0lYHPprQWV"
       },
@@ -24692,6 +24728,24 @@
       "duration_ms": 135659,
       "name": "MUEVELOU",
       "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
+    },
+    {
+      "album": {
+        "name": "MUEVELOU (VAD BOYZ)",
+        "url": "https://open.spotify.com/album/3SBLiHy5lYFjQnBByC6sPV"
+      },
+      "artists": [
+        {
+          "name": "VVS Cartel",
+          "url": "https://open.spotify.com/artist/3PXpDp3qRaUWwIx1jaLjFQ"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143034,
+      "name": "MUEVELOU (VAD BOYZ)",
+      "url": "https://open.spotify.com/track/0ajmfRRaA0m7St5E3BWq9X"
     },
     {
       "album": {
@@ -29636,7 +29690,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 158769,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
@@ -32464,7 +32518,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 190298,
       "name": "Sentimiento",
       "url": "https://open.spotify.com/track/1MX1Ljy6jZxeYelRNSgUgW"
@@ -42380,7 +42434,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 243800,
       "name": "\u00bfQu\u00e9 tiene ella que no tenga yo?",
       "url": "https://open.spotify.com/track/0Iv4KPEczcBl3LTNFioq7X"

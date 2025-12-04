@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women at full volume. Cover - Param",
-  "name": "EQUAL India",
+  "description": "Best tracks from EQUAL India in 2025. Cover - Jonita Gandhi",
+  "name": "Best of EQUAL India",
   "tracks": [
     {
       "album": {
@@ -840,7 +840,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 189333,
       "name": "Ankhen Na Churao",
       "url": "https://open.spotify.com/track/0fZsiXFpZqsMvlhDQCaO1V"
@@ -976,7 +976,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 242047,
       "name": "Aur Mohabbat Kitni Karoon - Reprise",
       "url": "https://open.spotify.com/track/0d2VNQNLaNPwx195QyBPel"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 172636,
       "name": "Awaara",
       "url": "https://open.spotify.com/track/6e57KndbKvAeQzzSXiNjbn"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 166987,
       "name": "Bailamos",
       "url": "https://open.spotify.com/track/5esNqE5Xsg87T9VC7lgc81"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 150000,
       "name": "Bairagi",
       "url": "https://open.spotify.com/track/0V5oH9auubxDafdSA4zRXd"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 129945,
       "name": "Barbaad Reprise - Female",
       "url": "https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 136818,
       "name": "Jaane De",
       "url": "https://open.spotify.com/track/0S6wcmBlvyX2GUWuAHKdFp"
@@ -5507,6 +5507,24 @@
     },
     {
       "album": {
+        "name": "Jutti Meri (Live)",
+        "url": "https://open.spotify.com/album/3R2cCLXlBCGtV7TKDN1AoE"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208381,
+      "name": "Jutti Meri (Live)",
+      "url": "https://open.spotify.com/track/6v4OWxDDulyvjWfRXPjA8Y"
+    },
+    {
+      "album": {
         "name": "Shamshera",
         "url": "https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx"
       },
@@ -5946,7 +5964,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 227826,
       "name": "Kehna Galat Galat",
       "url": "https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL"
@@ -6744,7 +6762,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 158714,
       "name": "Lelo",
       "url": "https://open.spotify.com/track/33H7mhRLOM0dLYaQmLCt4H"
@@ -6796,7 +6814,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 234913,
       "name": "Leta Jaijo Re | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/16yMLqQledh43yQ788cGzc"
@@ -8318,7 +8336,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 165483,
       "name": "Nachiye",
       "url": "https://open.spotify.com/track/6aXM25vKINzOpyGvXGBCke"
@@ -8646,7 +8664,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 196000,
       "name": "NASAMAJH",
       "url": "https://open.spotify.com/track/7nEC8xTPHR0hXpD2N5n1ex"
@@ -8816,7 +8834,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 145025,
       "name": "Nazar",
       "url": "https://open.spotify.com/track/6E7vS08PptIEpZW1PNeN01"
@@ -8990,6 +9008,28 @@
       "duration_ms": 212330,
       "name": "Noorie (Two Sides)",
       "url": "https://open.spotify.com/track/7risGuzd163RL7b7lqZCrz"
+    },
+    {
+      "album": {
+        "name": "O Mahiya",
+        "url": "https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY"
+      },
+      "artists": [
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174411,
+      "name": "O Mahiya",
+      "url": "https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz"
     },
     {
       "album": {
@@ -9302,7 +9342,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 157647,
       "name": "Pal Pal - Female Version",
       "url": "https://open.spotify.com/track/7CcEGoVkPTe6cFpvi3keyv"
@@ -9836,7 +9876,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 120923,
       "name": "Pols",
       "url": "https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d"
@@ -9902,7 +9942,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 155744,
       "name": "Putt Jatt Da",
       "url": "https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn"
@@ -10450,7 +10490,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 231153,
       "name": "Ranjhana (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/0RAQ4y6mgiDgbBnGeABGWX"
@@ -10472,7 +10512,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 158617,
       "name": "Ranjheya",
       "url": "https://open.spotify.com/track/3EyFLvf2phMoveVeyHjYtl"
@@ -10900,7 +10940,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 253469,
       "name": "Saasu Maa",
       "url": "https://open.spotify.com/track/4l8OKmEhloJwVezJDHW59k"
@@ -11077,6 +11117,44 @@
     },
     {
       "album": {
+        "name": "Sahiba",
+        "url": "https://open.spotify.com/album/5ZbqiWukRFxq8zwllvK3YT"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Vijay Deverakonda",
+          "url": "https://open.spotify.com/artist/3k1eCPRO0dE0Q9YsRfh4vn"
+        },
+        {
+          "name": "Radhikka Madan",
+          "url": "https://open.spotify.com/artist/2zkXEdYr7MxUFhS9xF48UB"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        },
+        {
+          "name": "Aditya Sharma",
+          "url": "https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217148,
+      "name": "Sahiba",
+      "url": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
+    },
+    {
+      "album": {
         "name": "Shor in the City (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6"
       },
@@ -11152,7 +11230,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 167045,
       "name": "Saiyyan Na Maane",
       "url": "https://open.spotify.com/track/1k2YAgMhCzveYZkNcloocK"
@@ -11226,7 +11304,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 184171,
       "name": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
       "url": "https://open.spotify.com/track/2EFi7ey45Za7sxgRZWdmWd"
@@ -11248,7 +11326,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Sajnaa",
       "url": "https://open.spotify.com/track/4aRzjWbBsjLkAezPWqvRSu"
@@ -11882,7 +11960,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 275266,
       "name": "Sonchadi | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv"
@@ -12294,7 +12372,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 211261,
       "name": "Tere Zikr Mein",
       "url": "https://open.spotify.com/track/1HZIW6kTWEgFjgItSxdtox"
@@ -12596,7 +12674,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 209376,
       "name": "Thukraaya Kyun",
       "url": "https://open.spotify.com/track/7gwUQpTcZHmWItPqDraji0"
@@ -13116,10 +13194,36 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-04",
       "duration_ms": 194640,
       "name": "Tum Mere Na Huye - From \u201cThamma\u201d",
       "url": "https://open.spotify.com/track/1YbEjKKjS790uQkR0XCQ95"
+    },
+    {
+      "album": {
+        "name": "Tum Mere Na Huye (From \u201cThamma\u201d)",
+        "url": "https://open.spotify.com/album/7jAkBw3P85Q4b96Ecfs9XA"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "Tum Mere Na Huye - From \u201cThamma\u201d",
+      "url": "https://open.spotify.com/track/33wyJm0ojRHTBzzmHy70IB"
     },
     {
       "album": {

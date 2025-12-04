@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1098858,
+  "num_followers": 1098726,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Venus Copper Rose",
-        "url": "https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95"
+        "name": "Lighten Up",
+        "url": "https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI"
       },
       "artists": [
         {
-          "name": "Aiden Ayers",
-          "url": "https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2"
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
         }
       ],
-      "duration_ms": 181438,
-      "name": "Here If You Want Me",
-      "url": "https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE"
+      "duration_ms": 231226,
+      "name": "Mind/Heart",
+      "url": "https://open.spotify.com/track/0s1mJLXycS02GAPs95tbcy"
     }
   ],
   "unique_name": "Morning Acoustic",

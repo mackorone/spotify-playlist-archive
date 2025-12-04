@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,641 likes - 190 songs - 11 hr 10 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,623 likes - 190 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,24 +63,24 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 53 | [Wildfire](https://open.spotify.com/track/4FJEw0qNeSEhVlGLo7v2PV) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [Wildfire](https://open.spotify.com/album/6ZA1Cxe3FccC6if4Uj2Q4V) | 3:24 |
 | 54 | [Slow](https://open.spotify.com/track/7hu12rbRPRXUrIIPgOtQdQ) | [SENTO](https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG) | [Slow](https://open.spotify.com/album/1upqDmr3k5vqbejQwrZks5) | 3:13 |
 | 55 | [Southern Rivers](https://open.spotify.com/track/3gbZuaUwaP1QwkQB7f5kJy) | [SAMAH](https://open.spotify.com/artist/2WuQDuMHPsi8aDYzuwcZKi) | [Southern Rivers](https://open.spotify.com/album/5kJzlBAh1H7aNvsCf2mSJQ) | 2:36 |
-| 56 | [Country Couture](https://open.spotify.com/track/3GGuzrItqbNteGf7ncWfoo) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Country Couture](https://open.spotify.com/album/0WExxYdniG73u2ODYW2ZGR) | 3:14 |
-| 57 | [A Roadie \(Some\)](https://open.spotify.com/track/62KRy6vbzdbxdYagoJ7jmv) | [Olive Light](https://open.spotify.com/artist/1MJX8SRpJR5KuMZwlVPFBL) | [A Roadie \(Some\)](https://open.spotify.com/album/1N2y7npauaGxN5XDRQdV5m) | 2:10 |
-| 58 | [Nighthawk \- Reprise](https://open.spotify.com/track/1HadQI0LBZKqF2J6iTRn0t) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Nighthawk \(Reprise\)](https://open.spotify.com/album/6CRDx0qW96wAyZYoylUg8v) | 3:11 |
-| 59 | [crush on you](https://open.spotify.com/track/5GVQVwmCcRODQZeCKOKmQx) | [Jess Josie Lee](https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz) | [crush on you](https://open.spotify.com/album/4ngOF7s46wshNjpkz7Y29z) | 2:08 |
-| 60 | [Summer Rain](https://open.spotify.com/track/0NogzhrSyGF10iDdxhYsgn) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Summer Rain](https://open.spotify.com/album/1N02cw4Zj5zYY0UVyLGUxg) | 2:56 |
-| 61 | [OUTTA YOUR MIND](https://open.spotify.com/track/7Co2H1e4aOidZddRcUOkRK) | [Midnight Pool Party](https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z) | [OUTTA YOUR MIND](https://open.spotify.com/album/2eMtcAvN9ARn5ZgWXU5d60) | 3:36 |
-| 62 | [Green Juice](https://open.spotify.com/track/3JeKMTJ3ibFajHazqlZXiI) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Devotion & The Black Divine](https://open.spotify.com/album/7CojnTD4egy26jrFMeiXKD) | 4:23 |
-| 63 | [Fast Talk \- Country Version](https://open.spotify.com/track/5KQoQvGVBFTdN7uHAeuo8Z) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [Fast Talk \(Country Version\)](https://open.spotify.com/album/6yz1potKS8NWwppKpNfiHl) | 2:59 |
-| 64 | [Velvet Fire](https://open.spotify.com/track/28RZfi7szB8jCZiws7YnsU) | [SlagneY](https://open.spotify.com/artist/4v4ypppwNjPLgjfyQprtmR) | [Velvet Fire](https://open.spotify.com/album/0Vl6lfMoVuTBwk1SfbRtll) | 2:56 |
-| 65 | [Savanna](https://open.spotify.com/track/1Yi2vwd6G0xFuKHydFImB7) | [Ignatius](https://open.spotify.com/artist/4KaYaCjRR42kLDmAvSfzqf) | [Savanna](https://open.spotify.com/album/3KWiOcD3c0VjUoGItTUq4K) | 2:28 |
-| 66 | [Leave](https://open.spotify.com/track/0nLJwlHN1oWp90y00bIWx7) | [AyoDéa](https://open.spotify.com/artist/6ZsNvTWmFPgGvnlEXzoKEU), [Tiran](https://open.spotify.com/artist/7yrzOokhxdgwUXXDHecsgy) | [Aurore](https://open.spotify.com/album/3Qd0dF6AInsP9pRPSodlZy) | 2:28 |
-| 67 | [Shadows in the Shade](https://open.spotify.com/track/5OYwZXAaT4TlhzRzNDZQu2) | [Sounds of Roo](https://open.spotify.com/artist/1i8dGxAJcYqOwR9N8gdz92) | [Shadows in the Shade](https://open.spotify.com/album/047XVQo9BAVInbhj3v1ckR) | 3:30 |
-| 68 | [Back To You](https://open.spotify.com/track/0FhkCNueW9luZor6Fld58p) | [Sophia Wells](https://open.spotify.com/artist/0CqZRjHvwgJ9RhQwPrfsap) | [Back To You](https://open.spotify.com/album/621XvwpJl561ZbXo6J0Nzj) | 4:07 |
-| 69 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 |
-| 70 | [Wake Up](https://open.spotify.com/track/5fXw9pR5MtbdJ5gBU3vxva) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Space Isn't Such A Bad Place To Die](https://open.spotify.com/album/2ZyhzIOmofcGwEYN9kqPoj) | 1:32 |
-| 71 | [Hypnotize](https://open.spotify.com/track/18mZ0jyw3dAWDgYUeTEQYD) | [Lala Chloe](https://open.spotify.com/artist/777UkFnLnvKiAJqlecalxh) | [Hypnotize](https://open.spotify.com/album/0fTacOnCz5mHZNdvbhzz97) | 4:15 |
-| 72 | [Free](https://open.spotify.com/track/7m9yuaJTaPof0035V7FxI7) | [YOUNGTONES](https://open.spotify.com/artist/34MK0bzFb12zkGF9ILYFQG) | [Free](https://open.spotify.com/album/2T2N9FXZxmwlLv0FFrWJkm) | 3:14 |
-| 73 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 |
+| 56 | [A Roadie \(Some\)](https://open.spotify.com/track/62KRy6vbzdbxdYagoJ7jmv) | [Olive Light](https://open.spotify.com/artist/1MJX8SRpJR5KuMZwlVPFBL) | [A Roadie \(Some\)](https://open.spotify.com/album/1N2y7npauaGxN5XDRQdV5m) | 2:10 |
+| 57 | [Nighthawk \- Reprise](https://open.spotify.com/track/1HadQI0LBZKqF2J6iTRn0t) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Nighthawk \(Reprise\)](https://open.spotify.com/album/6CRDx0qW96wAyZYoylUg8v) | 3:11 |
+| 58 | [crush on you](https://open.spotify.com/track/5GVQVwmCcRODQZeCKOKmQx) | [Jess Josie Lee](https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz) | [crush on you](https://open.spotify.com/album/4ngOF7s46wshNjpkz7Y29z) | 2:08 |
+| 59 | [Summer Rain](https://open.spotify.com/track/0NogzhrSyGF10iDdxhYsgn) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Summer Rain](https://open.spotify.com/album/1N02cw4Zj5zYY0UVyLGUxg) | 2:56 |
+| 60 | [OUTTA YOUR MIND](https://open.spotify.com/track/7Co2H1e4aOidZddRcUOkRK) | [Midnight Pool Party](https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z) | [OUTTA YOUR MIND](https://open.spotify.com/album/2eMtcAvN9ARn5ZgWXU5d60) | 3:36 |
+| 61 | [Green Juice](https://open.spotify.com/track/3JeKMTJ3ibFajHazqlZXiI) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Devotion & The Black Divine](https://open.spotify.com/album/7CojnTD4egy26jrFMeiXKD) | 4:23 |
+| 62 | [Fast Talk \- Country Version](https://open.spotify.com/track/5KQoQvGVBFTdN7uHAeuo8Z) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [Fast Talk \(Country Version\)](https://open.spotify.com/album/6yz1potKS8NWwppKpNfiHl) | 2:59 |
+| 63 | [Velvet Fire](https://open.spotify.com/track/28RZfi7szB8jCZiws7YnsU) | [SlagneY](https://open.spotify.com/artist/4v4ypppwNjPLgjfyQprtmR) | [Velvet Fire](https://open.spotify.com/album/0Vl6lfMoVuTBwk1SfbRtll) | 2:56 |
+| 64 | [Savanna](https://open.spotify.com/track/1Yi2vwd6G0xFuKHydFImB7) | [Ignatius](https://open.spotify.com/artist/4KaYaCjRR42kLDmAvSfzqf) | [Savanna](https://open.spotify.com/album/3KWiOcD3c0VjUoGItTUq4K) | 2:28 |
+| 65 | [Leave](https://open.spotify.com/track/0nLJwlHN1oWp90y00bIWx7) | [AyoDéa](https://open.spotify.com/artist/6ZsNvTWmFPgGvnlEXzoKEU), [Tiran](https://open.spotify.com/artist/7yrzOokhxdgwUXXDHecsgy) | [Aurore](https://open.spotify.com/album/3Qd0dF6AInsP9pRPSodlZy) | 2:28 |
+| 66 | [Shadows in the Shade](https://open.spotify.com/track/5OYwZXAaT4TlhzRzNDZQu2) | [Sounds of Roo](https://open.spotify.com/artist/1i8dGxAJcYqOwR9N8gdz92) | [Shadows in the Shade](https://open.spotify.com/album/047XVQo9BAVInbhj3v1ckR) | 3:30 |
+| 67 | [Back To You](https://open.spotify.com/track/0FhkCNueW9luZor6Fld58p) | [Sophia Wells](https://open.spotify.com/artist/0CqZRjHvwgJ9RhQwPrfsap) | [Back To You](https://open.spotify.com/album/621XvwpJl561ZbXo6J0Nzj) | 4:07 |
+| 68 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 |
+| 69 | [Wake Up](https://open.spotify.com/track/5fXw9pR5MtbdJ5gBU3vxva) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Space Isn't Such A Bad Place To Die](https://open.spotify.com/album/2ZyhzIOmofcGwEYN9kqPoj) | 1:32 |
+| 70 | [Hypnotize](https://open.spotify.com/track/18mZ0jyw3dAWDgYUeTEQYD) | [Lala Chloe](https://open.spotify.com/artist/777UkFnLnvKiAJqlecalxh) | [Hypnotize](https://open.spotify.com/album/0fTacOnCz5mHZNdvbhzz97) | 4:15 |
+| 71 | [Free](https://open.spotify.com/track/7m9yuaJTaPof0035V7FxI7) | [YOUNGTONES](https://open.spotify.com/artist/34MK0bzFb12zkGF9ILYFQG) | [Free](https://open.spotify.com/album/2T2N9FXZxmwlLv0FFrWJkm) | 3:14 |
+| 72 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 |
+| 73 | [Country Couture](https://open.spotify.com/track/3GGuzrItqbNteGf7ncWfoo) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Country Couture](https://open.spotify.com/album/0WExxYdniG73u2ODYW2ZGR) | 3:14 |
 | 74 | [BMF](https://open.spotify.com/track/6uhsCywVYs0A9wWf0IE81N) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 3:00 |
 | 75 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 |
 | 76 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 189 | [Fixin' Too](https://open.spotify.com/track/6sTmdvCm99X0hRQ9cWEOqZ) | [James Hollingsworth](https://open.spotify.com/artist/7wNAA6B6VDlkAuwSlgfLeV), [Molly Lovette](https://open.spotify.com/artist/173IW0WbY02WURT81tkEEr) | [Fixin' Too](https://open.spotify.com/album/74YSx5IzX11H1wA6m9Ugpm) | 3:37 |
 | 190 | [Bring Me a Flower](https://open.spotify.com/track/3XBex8T8fOGuiJR7rLnYwS) | [Baldy Crawlers](https://open.spotify.com/artist/55h3BL4HJGVYVRkQF9L3z1) | [Bring Me a Flower](https://open.spotify.com/album/5GZ4MhgpDyA2JoMjD0RzAQ) | 3:35 |
 
-Snapshot ID: `AAA16ZYxJGnpicX0riV5Z3/3nUdjcPn8`
+Snapshot ID: `AAA161CsUhlaPQO0AoQc3ZrtJXz6jnBX`

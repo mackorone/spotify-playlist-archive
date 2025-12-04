@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 
 > “now i am become death, the destroyer of worlds.”
 
-[carolina <3](https://open.spotify.com/user/ninasantos11) - 100,238 likes - 101 songs - 6 hr 24 min
+[carolina <3](https://open.spotify.com/user/ninasantos11) - 100,375 likes - 102 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,6 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 | 99 | [Domestic Pressures](https://open.spotify.com/track/2dHnIe0JsqshUnyzcMMOhW) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:37 |
 | 100 | [American Prometheus](https://open.spotify.com/track/2nBqwc3h3psFgPF1J0v24T) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 2:37 |
 | 101 | [The Theory of Everything](https://open.spotify.com/track/5fJD7wh9yoSTpl9d5rgl7l) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 1:08 |
+| 102 | [No Sacrifice, No Victory](https://open.spotify.com/track/1uTvwVSXCOO4l8GVIpfngl) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [Transformers: The Score](https://open.spotify.com/album/2bTtOvLX0HONkxoQx3ir7U) | 2:57 |
 
-Snapshot ID: `AAAAZkzMqOLTlPMsLEWFGQbtXsKTNvVi`
+Snapshot ID: `AAAAZxeRzo4iCP8xB0MgEHUNHrAGHwow`

@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81957,
+  "num_followers": 81956,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAADW3w0nZX5Wj8hsaOqEVUZf",
+  "snapshot_id": "aS4sAAAAAACCn6cgOAMEURYWw488uMTK",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 275905,
+      "name": "Garota",
+      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00f4-Zaico",
         "url": "https://open.spotify.com/album/5dhlzcGI3mrhm08aDWjWPM"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 158783,
       "name": "M\u00f4-Zaico",
       "url": "https://open.spotify.com/track/2nR85tpgwRpO8ogN5ZfhnD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teoria do Ciclo da \u00c1gua",
-        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 275905,
-      "name": "Garota",
-      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
     },
     {
       "added_at": null,
@@ -1055,22 +1055,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duo",
-        "url": "https://open.spotify.com/album/2HP5e9qI6Iw6anUJujeD3t"
+        "name": "viciado em mim",
+        "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
       },
       "artists": [
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         },
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 129766,
-      "name": "Te Ver de Novo",
-      "url": "https://open.spotify.com/track/5cnO8RIivzQcedCfg0bLvI"
+      "duration_ms": 194760,
+      "name": "viciado em mim",
+      "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
     },
     {
       "added_at": null,
@@ -1099,22 +1099,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "viciado em mim",
-        "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
+        "name": "Duo",
+        "url": "https://open.spotify.com/album/2HP5e9qI6Iw6anUJujeD3t"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         }
       ],
-      "duration_ms": 194760,
-      "name": "viciado em mim",
-      "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
+      "duration_ms": 129766,
+      "name": "Te Ver de Novo",
+      "url": "https://open.spotify.com/track/5cnO8RIivzQcedCfg0bLvI"
     },
     {
       "added_at": null,
@@ -1135,6 +1135,26 @@
       "duration_ms": 197114,
       "name": "A Culpa \u00c9 Minha",
       "url": "https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desmoronar",
+        "url": "https://open.spotify.com/album/7DsJeTsbZrDzkgdMMTx6uv"
+      },
+      "artists": [
+        {
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "Desmoronar",
+      "url": "https://open.spotify.com/track/7f24oT0v5BiURjxYVjfZD0"
     },
     {
       "added_at": null,
@@ -1171,26 +1191,6 @@
       "duration_ms": 216888,
       "name": "A Milh\u00e3o",
       "url": "https://open.spotify.com/track/77PlJsyMjReAoMmtx41oq8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desmoronar",
-        "url": "https://open.spotify.com/album/7DsJeTsbZrDzkgdMMTx6uv"
-      },
-      "artists": [
-        {
-          "name": "Pedro Qualy",
-          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "Desmoronar",
-      "url": "https://open.spotify.com/track/7f24oT0v5BiURjxYVjfZD0"
     },
     {
       "added_at": null,

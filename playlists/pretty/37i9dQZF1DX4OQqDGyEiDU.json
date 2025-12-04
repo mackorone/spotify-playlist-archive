@@ -735,22 +735,6 @@
     {
       "added_at": "2025-12-02 15:00:30",
       "album": {
-        "name": "\u5929\u30ce\u5f31 (feat. Mayumi Morinaga)",
-        "url": "https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH"
-      },
-      "artists": [
-        {
-          "name": "164",
-          "url": "https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "\u5929\u30ce\u5f31",
-      "url": "https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO"
-    },
-    {
-      "added_at": "2025-12-02 15:00:30",
-      "album": {
         "name": "\u82b1\u306b\u98a8",
         "url": "https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 225748,
       "name": "\u82b1\u306b\u98a8",
       "url": "https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6"
+    },
+    {
+      "added_at": "2025-12-02 15:00:30",
+      "album": {
+        "name": "\u5929\u30ce\u5f31 (feat. Mayumi Morinaga)",
+        "url": "https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH"
+      },
+      "artists": [
+        {
+          "name": "164",
+          "url": "https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "\u5929\u30ce\u5f31",
+      "url": "https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO"
     },
     {
       "added_at": "2025-12-02 15:00:30",

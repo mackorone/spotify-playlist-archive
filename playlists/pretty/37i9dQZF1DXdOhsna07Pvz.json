@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 101653,
+  "num_followers": 101727,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP"
-      },
-      "artists": [
-        {
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "Fullg\u00e1s",
-      "url": "https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Marcos Valle",
         "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP"
+      },
+      "artists": [
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Fullg\u00e1s",
+      "url": "https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 205945,
-      "name": "Bixinho",
-      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "2 \u00e9 Demais",
         "url": "https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG"
       },
@@ -543,22 +527,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Duas Cidades",
-        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        }
-      ],
-      "duration_ms": 246280,
-      "name": "Lucro (Descomprimindo)",
-      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Conto de Areia",
         "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
       },
@@ -571,6 +539,38 @@
       "duration_ms": 178613,
       "name": "O Mar Serenou",
       "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 205945,
+      "name": "Bixinho",
+      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Duas Cidades",
+        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "Lucro (Descomprimindo)",
+      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Roda de Funk",
-        "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
-      },
-      "artists": [
-        {
-          "name": "Funk Como Le Gusta",
-          "url": "https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Nem um Dia (JAH-VAN)",
         "url": "https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut"
       },
@@ -815,18 +795,38 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Los Sebosos Postizos Interpretam Jorge Ben Jor",
-        "url": "https://open.spotify.com/album/4nGU7VtQYF9rIpN0cXrThb"
+        "name": "Roda de Funk",
+        "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
       },
       "artists": [
         {
-          "name": "Los Sebosos Postizos",
-          "url": "https://open.spotify.com/artist/6J3woQCTe8Tk7APW7vjy4H"
+          "name": "Funk Como Le Gusta",
+          "url": "https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
         }
       ],
-      "duration_ms": 248106,
-      "name": "Minha Teimosia, uma Arma pra Te Conquistar",
-      "url": "https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj"
+      "duration_ms": 191560,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "20 Grandes \u00caxitos",
+        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Swing da Cor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "20 Grandes \u00caxitos",
-        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
+        "name": "Los Sebosos Postizos Interpretam Jorge Ben Jor",
+        "url": "https://open.spotify.com/album/4nGU7VtQYF9rIpN0cXrThb"
       },
       "artists": [
         {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+          "name": "Los Sebosos Postizos",
+          "url": "https://open.spotify.com/artist/6J3woQCTe8Tk7APW7vjy4H"
         }
       ],
-      "duration_ms": 215600,
-      "name": "Swing da Cor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
+      "duration_ms": 248106,
+      "name": "Minha Teimosia, uma Arma pra Te Conquistar",
+      "url": "https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Realce",
-        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Realce",
-      "url": "https://open.spotify.com/track/6991iMrfqqHjYSPzsobNeW"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Braseiro",
         "url": "https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 233426,
       "name": "Pelas Tabelas",
       "url": "https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Mais Que Um Momento",
+        "url": "https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq"
+      },
+      "artists": [
+        {
+          "name": "Em\u00edlio Santiago",
+          "url": "https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt"
+        }
+      ],
+      "duration_ms": 252147,
+      "name": "O Amigo De Nova York",
+      "url": "https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Mais Que Um Momento",
-        "url": "https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq"
-      },
-      "artists": [
-        {
-          "name": "Em\u00edlio Santiago",
-          "url": "https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt"
-        }
-      ],
-      "duration_ms": 252147,
-      "name": "O Amigo De Nova York",
-      "url": "https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -1083,6 +1067,38 @@
       "duration_ms": 232937,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Realce",
+        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Realce",
+      "url": "https://open.spotify.com/track/6991iMrfqqHjYSPzsobNeW"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Conto de Areia",
+        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Conto De Areia",
+      "url": "https://open.spotify.com/track/2BAja01vq4rH7KthUMNGnE"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1107,22 +1123,6 @@
       "duration_ms": 185544,
       "name": "Chega",
       "url": "https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Conto de Areia",
-        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Conto De Areia",
-      "url": "https://open.spotify.com/track/2BAja01vq4rH7KthUMNGnE"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1183,22 +1183,18 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Duas Cidades",
-        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
+        "name": "Chacrinha - O Musical",
+        "url": "https://open.spotify.com/album/0BA8MBSI22zv5YhFeAUEHe"
       },
       "artists": [
         {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Marcio Victor",
-          "url": "https://open.spotify.com/artist/3yC2gBgxQcQ4m90ltqAir9"
+          "name": "Sidney Magal",
+          "url": "https://open.spotify.com/artist/5rTeMryHu78OcG49ySDHU1"
         }
       ],
-      "duration_ms": 238040,
-      "name": "Playsom",
-      "url": "https://open.spotify.com/track/3xeqZUMpHsLO1UEoTIwHBO"
+      "duration_ms": 194440,
+      "name": "Meu Sangue Ferve Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/7DFmmRFl6ms2E9FNCVyM0T"
     }
   ],
   "unique_name": "Baile Maravilha",

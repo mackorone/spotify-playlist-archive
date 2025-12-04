@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 23242,
+  "num_followers": 23253,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAAC2g8LM7KAsbDskDoIPJJBw",
+  "snapshot_id": "aS4sAAAAAAC03DicgGjEaB+rTcL/pmMw",
   "tracks": [
     {
       "added_at": null,
@@ -170,11 +170,15 @@
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
         }
       ],
-      "duration_ms": 182960,
-      "name": "Horse",
-      "url": "https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN"
+      "duration_ms": 215800,
+      "name": "Devils Gate (with Kevin Gates)",
+      "url": "https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp"
     },
     {
       "added_at": null,
@@ -238,15 +242,11 @@
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Devils Gate (with Kevin Gates)",
-      "url": "https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp"
+      "duration_ms": 182960,
+      "name": "Horse",
+      "url": "https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "King Gampo",
+        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Survivor's Guilt",
         "url": "https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 187406,
       "name": "Bawse",
       "url": "https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "King Gampo",
-        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
     },
     {
       "added_at": null,

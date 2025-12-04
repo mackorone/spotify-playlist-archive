@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 85599,
+  "num_followers": 85608,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSzagAAAAACb20EIsWKfoahd/nBohvA7",
+  "snapshot_id": "aS4sAAAAAAAHPOtmRbYEHcfs1Nl6i0Uj",
   "tracks": [
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Nos Dieron Las Diez",
-        "url": "https://open.spotify.com/album/72Ln8Hf1BHgUunmZlWBsRM"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        },
-        {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
-        }
-      ],
-      "duration_ms": 314947,
-      "name": "Y Nos Dieron Las Diez",
-      "url": "https://open.spotify.com/track/1JsxBaKdAavIvcbUrUISgG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 176440,
       "name": "El Nido (with Edith M\u00e1rquez)",
       "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Nos Dieron Las Diez",
+        "url": "https://open.spotify.com/album/72Ln8Hf1BHgUunmZlWBsRM"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        },
+        {
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+        }
+      ],
+      "duration_ms": 314947,
+      "name": "Y Nos Dieron Las Diez",
+      "url": "https://open.spotify.com/track/1JsxBaKdAavIvcbUrUISgG"
     },
     {
       "added_at": null,

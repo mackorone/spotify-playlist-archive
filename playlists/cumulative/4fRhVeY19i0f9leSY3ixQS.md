@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-267 songs - 15 hr 14 min
+271 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Desgraça Meritocrata](https://open.spotify.com/track/2toM8JC9BuVV2KWvNI3byX) | [Punkzilla!](https://open.spotify.com/artist/195RH0AAkd21C90BDdtaP9) | [Lutar pela Paz](https://open.spotify.com/album/5ivEjlX5im8gx8jEKzyTyx) | 2:29 | 2025-11-15 |  |
 | [Devil With The Black Dress On](https://open.spotify.com/track/6vYQkUxIR0CpiJk5qg1Uwn) | [Sarah & The Silent Poets](https://open.spotify.com/artist/13K8ORHx1WpF9cCTQwQVcB) | [Devil With The Black Dress On](https://open.spotify.com/album/1McZnjNxg94UudFY94fRzo) | 2:27 | 2025-10-27 |  |
 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2025-11-28 |  |
+| [Dirty Road](https://open.spotify.com/track/1mPxBtfu7Qad4RCOWK8SNF) | [JACK FLINT](https://open.spotify.com/artist/3C9CMQQDcbCQ9uUkg2ribC) | [Dirty Road](https://open.spotify.com/album/3NlyK2erdevSrtUhHEBIkD) | 5:41 | 2025-12-03 |  |
 | [Dog With A Gun](https://open.spotify.com/track/6UXxbsBlfREafW9nLMVmLM) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [The Rest Of The Story](https://open.spotify.com/album/7temZ6v1c69UOhyXHq6vOp) | 2:58 | 2025-11-11 |  |
 | [Dolph](https://open.spotify.com/track/0GoKtzEgA455NyLjtH5bDy) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Let's Get Weird](https://open.spotify.com/album/3KveBk3jR1fOlbyGzdTo0D) | 2:56 | 2025-08-03 |  |
 | [Dolph](https://open.spotify.com/track/6FlY53xu0LHevNFnw1HB45) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Dolph](https://open.spotify.com/album/42MbX8qpDUAlZTyUpMR89h) | 2:56 | 2025-08-03 |  |
@@ -132,6 +133,7 @@
 | [Last Dance](https://open.spotify.com/track/7pCxiJ03tUx5u1ZkaUIsT0) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [Nervous Systems](https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml) | 3:17 | 2025-11-28 |  |
 | [Le train](https://open.spotify.com/track/0LTYYJCdBhTmVCtWnjz3uW) | [Steel Bridges](https://open.spotify.com/artist/7Ct3XHfBxKz4nFpgYCLx8Z) | [Le train](https://open.spotify.com/album/2MhFsSKQemBr4bTgpJNbPv) | 3:36 | 2025-11-17 |  |
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2025-11-16 |  |
+| [LEGACY](https://open.spotify.com/track/1f1FyrCDwtLWOwrsouJrS7) | [Ashe B](https://open.spotify.com/artist/3HgtNDjt6RduA1udWp3sbQ) | [LEGACY](https://open.spotify.com/album/6QVGvi9ltKtk9qMNyhCmoV) | 3:15 | 2025-12-03 |  |
 | [Lights On \(remaster\)](https://open.spotify.com/track/7DCTOYXUyV6cy661CqGXmE) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:38 | 2025-09-18 |  |
 | [Lights On \- Pickap.art Remix](https://open.spotify.com/track/0qxPhlhVqAVlVucL7TLSMt) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs), [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 2:48 | 2025-09-18 |  |
 | [Like A Phoenix](https://open.spotify.com/track/2fxhKNbUWjZHijIaufQ3O9) | [Esprit D'Air](https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD) | [Aeons](https://open.spotify.com/album/13ClQsOANOW8waXYZPQ72W) | 3:37 | 2025-11-07 |  |
@@ -147,6 +149,7 @@
 | [MMA Rooky](https://open.spotify.com/track/4X3UDaLkq8RpXhSiClheX0) | [32 Ohm](https://open.spotify.com/artist/1vgzRUPEZ8l3fszpEET43S) | [MMA Rooky](https://open.spotify.com/album/5rMyxWrIEFLf8boJPLa5PU) | 3:05 | 2025-11-10 |  |
 | [Mosh Pit](https://open.spotify.com/track/4Altxk4i8D6xIdkuySj5UO) | [Angelo](https://open.spotify.com/artist/1jBGWZRphBTMVcPLjxEuzC) | [Hellhound](https://open.spotify.com/album/0thfiUsL5V6uRLFA9bIOMj) | 2:14 | 2025-11-16 |  |
 | [Mountainside](https://open.spotify.com/track/67pdwschvXYd3FnxYtvc5s) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 3:43 | 2025-11-15 |  |
+| [Mud, Sweat, and Tears](https://open.spotify.com/track/2acNWnoObRre52q1zphDrJ) | [The Unk Skunk](https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe) | [Mischief and Mayhem](https://open.spotify.com/album/0IonnFQaTjZvRJAj3d896O) | 3:02 | 2025-12-03 |  |
 | [My Love's on Fire](https://open.spotify.com/track/6vMWFWIgBAlPQeagClw0Ss) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Lamp and Table](https://open.spotify.com/album/6prKFt1sVLA54zP2pnTI7p) | 3:00 | 2025-11-29 |  |
 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 | 2025-11-27 |  |
 | [Navegar](https://open.spotify.com/track/5606xQIACqM23GMKHXzSYb) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Navegar](https://open.spotify.com/album/1fgXaSiEIUH3zeaUTpCJ9g) | 3:14 | 2025-10-30 |  |
@@ -194,6 +197,7 @@
 | [Screams in the Silence \(Lo Prado Murder\)](https://open.spotify.com/track/5Y8TNTSVJlieoTVpyqen40) | [Diametral](https://open.spotify.com/artist/0fb1AtENNaAJXuxlCyRHnd) | [Screams in the Silence \(Lo Prado Murder\)](https://open.spotify.com/album/2xval52WhfLtSOJXblynr7) | 4:03 | 2025-11-16 |  |
 | [Searchlights](https://open.spotify.com/track/053X0nqmnEYzlLgQ4kuHC3) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:12 | 2025-08-03 |  |
 | [Secret Ive Kept](https://open.spotify.com/track/2wEDn3xrlM2sl8AYMomUEn) | [Unders](https://open.spotify.com/artist/3hrtWqTWO3ZRGYgS7CCAm4) | [Secret Ive Kept](https://open.spotify.com/album/7fOQzg0OXncPxI8xE9v6U0) | 5:36 | 2025-11-03 |  |
+| [Self Destruct](https://open.spotify.com/track/1FbDbjWWRYjB14tfx8xqPS) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Self Destruct](https://open.spotify.com/album/10fAkS3LWHtTb3LL4027T1) | 5:09 | 2025-12-03 |  |
 | [Sensiz kaldım bu şehirde](https://open.spotify.com/track/24zGYsfbvpFJEP9CtI8shr) | [Sefa Gümüştakım](https://open.spotify.com/artist/68pWu4Vj6PfXu7B2qYCavq) | [Sensiz kaldım bu şehirde](https://open.spotify.com/album/4ap8ZnW7p2Z149NrTvypMX) | 2:54 | 2025-11-17 |  |
 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 | 2025-12-01 |  |
 | [Shadows Devour](https://open.spotify.com/track/2hK8q1XtpUgJg5oNWR1zlx) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [Shadows Devour](https://open.spotify.com/album/5GrEGsmB0efkNI478LlFnt) | 4:04 | 2025-11-11 |  |

@@ -4,7 +4,7 @@
 
 > “now i am become death, the destroyer of worlds.”
 
-101 songs - 6 hr 24 min
+102 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Mountains](https://open.spotify.com/track/0Sg3UL7f40ulmTh0Xwr6qY) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 3:39 | 2023-08-28 |  |
 | [Natural Light](https://open.spotify.com/track/2zM7Ato6xDOi8ten4qn7Cm) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Natural Light](https://open.spotify.com/album/43wcKhgYUpeh2cwvBtqDYc) | 5:35 | 2023-10-23 |  |
 | [New Home](https://open.spotify.com/track/707BRCe5feUySwv7141QeA) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home](https://open.spotify.com/album/7udCFvvaTpsOjlfEYOs5wj) | 2:06 | 2023-10-23 |  |
+| [No Sacrifice, No Victory](https://open.spotify.com/track/1uTvwVSXCOO4l8GVIpfngl) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [Transformers: The Score](https://open.spotify.com/album/2bTtOvLX0HONkxoQx3ir7U) | 2:57 | 2025-12-03 |  |
 | [November](https://open.spotify.com/track/2NGhKPZdZk2pPZinWphTzh) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Konzerthausorchester Berlin](https://open.spotify.com/artist/5HxMHFsUWX0VqOlmsoGrTj), [Jonathan Stockhammer](https://open.spotify.com/artist/2PIjtepywKZwGT0mZIumrW) | [Voyager \- Essential Max Richter](https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd) | 6:07 | 2023-08-28 |  |
 | [Nuvole Bianche](https://open.spotify.com/track/3weNRklVDqb4Rr5MhKBR3D) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Una Mattina](https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c) | 5:57 | 2023-10-23 |  |
 | [On the Nature of Daylight](https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:11 | 2023-09-04 |  |
