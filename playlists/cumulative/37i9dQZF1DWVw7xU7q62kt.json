@@ -898,7 +898,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 125926,
       "name": "Behind The Moon",
       "url": "https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI"
@@ -8827,6 +8827,24 @@
     },
     {
       "album": {
+        "name": "Off Season",
+        "url": "https://open.spotify.com/album/5vRoR47aGF8yoTvUmWcCdD"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Kluzek",
+          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Off Season",
+      "url": "https://open.spotify.com/track/71O6ntodzPWh3czF1rzhse"
+    },
+    {
+      "album": {
         "name": "Offering",
         "url": "https://open.spotify.com/album/7fbn9InFw31qxZDBjoql2U"
       },
@@ -10125,6 +10143,24 @@
     },
     {
       "album": {
+        "name": "A Past Sense",
+        "url": "https://open.spotify.com/album/0ysFoBRstjhHjRzEkWnZi7"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164634,
+      "name": "Reconnect",
+      "url": "https://open.spotify.com/track/0Z26Ihwa0Hqu04dShSElLi"
+    },
+    {
+      "album": {
         "name": "Recourse",
         "url": "https://open.spotify.com/album/0qAGPDk6ykXQdgrJE6ibU1"
       },
@@ -10278,7 +10314,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 110470,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/7Bh91Wfl19vDFPYlKMYIB4"

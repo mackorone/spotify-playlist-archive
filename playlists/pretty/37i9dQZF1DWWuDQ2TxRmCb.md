@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,359 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,374 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yaad Tumari Aayi \(From "Bhoomi 2025"\)](https://open.spotify.com/track/4Hcr5UDuZsVDo3UYhnukVG) | [Pawandeep Rajan](https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Suresh Rajan](https://open.spotify.com/artist/5g70zjT9kNXPgJJQuLgiZs) | [Yaad Tumari Aayi \(From "Bhoomi 2025"\)](https://open.spotify.com/album/35PnJQ4gDiAoE1NrH4abgp) | 4:21 |
 | 2 | [Latthay Di Chaadar](https://open.spotify.com/track/0QOJABRwcIx5WfzILs47eJ) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Latthay Di Chaadar \- Single](https://open.spotify.com/album/2gGa9X08pMWC5FNB9ShgG8) | 3:35 |
 | 3 | [Matkar Maya Ko Ahankar](https://open.spotify.com/track/18dts4OqWOQTGFlMTGodkk) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3) | [Panchrang](https://open.spotify.com/album/4qsUOnusaOfaWLEVye5ekB) | 6:05 |
-| 4 | [PAHADI \- The Folk Songs of Uttarakhand](https://open.spotify.com/track/6MudeRVwxBN1I3O5NatJr1) | [Nupur Pant](https://open.spotify.com/artist/3pNCgNatbtoJEkbElk3hwa) | [PAHADI \- The Folk Songs of Uttarakhand](https://open.spotify.com/album/7dxTMBgwfCR7MZUDqYwPnY) | 4:19 |
+| 4 | [PAHADI \- The Folk Songs of Uttarakhand](https://open.spotify.com/track/6MudeRVwxBN1I3O5NatJr1) | [Nupur Pant](https://open.spotify.com/artist/6arp3B1YmxXRdj2osDWz6Z) | [PAHADI \- The Folk Songs of Uttarakhand](https://open.spotify.com/album/7dxTMBgwfCR7MZUDqYwPnY) | 4:19 |
 | 5 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
 | 6 | [Ma Rewa](https://open.spotify.com/track/7uFmDBVg8GgP7WohbiG3ci) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Kandisa](https://open.spotify.com/album/4MBagMMRFRIvXGcg0Ph6rI) | 6:38 |
 | 7 | [Maniyara](https://open.spotify.com/track/6P4iBQHUdjUIq0LmIakVb1) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Maniyara](https://open.spotify.com/album/2cXwQQsZFpgbNJQ90hv3VU) | 3:19 |

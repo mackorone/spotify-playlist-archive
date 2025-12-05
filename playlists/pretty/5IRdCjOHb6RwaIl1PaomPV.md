@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from Major Lazer, Bennett Coast, and Pegassi.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,662 likes - 100 songs - 5 hr 44 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,658 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 26 | [Theorem](https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Theorem](https://open.spotify.com/album/6tZ5imvrDkSs3zvexiVHYk) | 2:12 |
 | 27 | [Pressure](https://open.spotify.com/track/5IM7K2NbI81E02JR48ggbS) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pressure](https://open.spotify.com/album/66QnzKFEFwji6nKdd2EiH3) | 4:05 |
 | 28 | [Sinai Ray](https://open.spotify.com/track/4A3ri9SFKKgv5ydmHMAbhQ) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Sinai Ray](https://open.spotify.com/album/5KpoV1UIqmmkVAkZjG4SGs) | 3:49 |
-| 29 | [Shake It To The Max \(FLY\) \- Major Lazer Remix](https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Shake It To The Max \(FLY\) \(Major Lazer Remix\)](https://open.spotify.com/album/5ILhc6FDbh6qqA22QLjnoh) | 2:50 |
+| 29 | [Shake It To The Max \(FLY\) \[Major Lazer Remix\]](https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\) \[Major Lazer Remix\]](https://open.spotify.com/album/5ILhc6FDbh6qqA22QLjnoh) | 2:50 |
 | 30 | [GANGSTA](https://open.spotify.com/track/6FE2GKFS8DqrPZx45AOuyQ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [GANGSTA](https://open.spotify.com/album/0s4zRYCurz2MGs79EgfN0t) | 2:12 |
 | 31 | [Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Airglow](https://open.spotify.com/album/2aPKoJXKtbfzZHbI6gVzyB) | 4:50 |
 | 32 | [touch grass](https://open.spotify.com/track/5swQzUvPEeYFfI8KDezHth) | [notinbed](https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8), [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [unknown reasons](https://open.spotify.com/album/1pY9tTjFfRMV2tbSrxZLqL) | 3:45 |

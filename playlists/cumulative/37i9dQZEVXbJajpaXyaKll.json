@@ -9718,7 +9718,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 190833,
       "name": "Dos Locos",
       "url": "https://open.spotify.com/track/2rIw5oE9MjacQgsWjks1dy"
@@ -12698,7 +12698,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 224584,
       "name": "FAN DE TUS BATALLAS",
       "url": "https://open.spotify.com/track/0wWeyZw0lTsckWpWraSQ5Z"
@@ -14542,7 +14542,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 228520,
       "name": "Gratitud",
       "url": "https://open.spotify.com/track/0yOtvnLnBnjk5BzqsB6JRN"
@@ -14928,7 +14928,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 176750,
       "name": "hasta que vuelvas a abrazarme",
       "url": "https://open.spotify.com/track/0omqaRQcwFxKhCLTS2Bp70"
@@ -15146,7 +15146,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -18756,6 +18756,24 @@
       "duration_ms": 256743,
       "name": "Last Night - Anyma x Layton Giordani Remix",
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
+    },
+    {
+      "album": {
+        "name": "Latin Girl",
+        "url": "https://open.spotify.com/album/53xsR06Xh6R2Px5WdvlYSr"
+      },
+      "artists": [
+        {
+          "name": "Claudia Arenas",
+          "url": "https://open.spotify.com/artist/24wta7UgS2WWnMg1p7T8Po"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162956,
+      "name": "Latin Girl",
+      "url": "https://open.spotify.com/track/16ujZ51awmDzVgwda3o8Qr"
     },
     {
       "album": {
@@ -25994,7 +26012,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 145709,
       "name": "Obra de Arte",
       "url": "https://open.spotify.com/track/6R16BTwpTs53y3RIwTx4Gv"
@@ -29016,6 +29034,10 @@
         {
           "name": "Locura Mix",
           "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        },
+        {
+          "name": "VERNAZ",
+          "url": "https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57"
         }
       ],
       "date_added": "2025-11-18",
@@ -29444,7 +29466,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 125711,
       "name": "QUIERO AMARTE",
       "url": "https://open.spotify.com/track/09l76TiKhPfZTLhkLxFeFM"
@@ -38184,10 +38206,28 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 245333,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/5H5IL8XRPLcLsnc8sci1z5"
+    },
+    {
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "album": {

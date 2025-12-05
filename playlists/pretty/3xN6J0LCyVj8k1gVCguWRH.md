@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,623 likes - 190 songs - 11 hr 10 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,617 likes - 190 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,19 +184,19 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 174 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 175 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 176 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 177 | [Boo Hoo](https://open.spotify.com/track/0UMkemnTmMckoOVCx5P21c) | [Captain Smooth](https://open.spotify.com/artist/2UtWiyu82GLeeTadC6fg1y) | [Kream Dream](https://open.spotify.com/album/6yvM0QU6955zAHHKZ6QXWa) | 2:43 |
-| 178 | [DON'T TALK LOVE](https://open.spotify.com/track/2PA3Yn1G97kAZb6pXkMO9e) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [DON'T TALK LOVE](https://open.spotify.com/album/6cko37BVuOWQJAbvefiLDc) | 3:00 |
-| 179 | [Get it Back](https://open.spotify.com/track/1OwmWEXP52wtotfyGwRJQ6) | [Alex Charles](https://open.spotify.com/artist/57p5pJde1DB1FyVeP55OCv) | [Get it Back](https://open.spotify.com/album/1p9I7UFkaeldWvFHuyxUkE) | 2:59 |
-| 180 | [Blue Skies](https://open.spotify.com/track/6QaKExKN419g7gBelKzg5r) | [Neelais](https://open.spotify.com/artist/0OeOKwCIlRePkSfI6rHovu) | [Blue Skies](https://open.spotify.com/album/0aR1KbnvCSSfEtaKPWopcT) | 3:38 |
-| 181 | [Coming Home](https://open.spotify.com/track/3uqGIYADyBceNgeHAQ9bFY) | [Rachel Curtis](https://open.spotify.com/artist/6DkII9PFxB8CETfB5qqr9W) | [Coming Home](https://open.spotify.com/album/4T7RcIUperANlCm9UWNn1o) | 3:42 |
-| 182 | [ELEVATE](https://open.spotify.com/track/3aTMVZcfzMgbNNO6xYOiHo) | [Leona Berlin](https://open.spotify.com/artist/0E8W46zqpbupCQg9MJwsTJ), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb) | [ELEVATE](https://open.spotify.com/album/2rxiESw3SbuyXpofO2O8mP) | 3:49 |
-| 183 | [Wave](https://open.spotify.com/track/3H6bnpPLEqneA1PexEuE7y) | [Flat Tired](https://open.spotify.com/artist/2Y1sOmiozhulmwbiYMDcnO) | [Better Part of the Year](https://open.spotify.com/album/42kLu4f2e3uu9nXfha3FUG) | 3:40 |
-| 184 | [Homebreaker](https://open.spotify.com/track/0k6ixgoVB4gM9t761l1QBn) | [Ghostmind](https://open.spotify.com/artist/1jYyLqefRBIBE7gH9U5MzJ) | [Come Over...](https://open.spotify.com/album/0BYku6XK0hbqYyRWMcLwAH) | 2:58 |
-| 185 | [We Made It](https://open.spotify.com/track/5BF59OP3Fin0OyucX3S1Vw) | [Welcome2hills](https://open.spotify.com/artist/7xCL2844XqfWaBLZtVDAmz) | [We Made It](https://open.spotify.com/album/2Jwa1Ybl2a0GCbGHhNHYyN) | 2:33 |
-| 186 | [GANGSTA LOVA](https://open.spotify.com/track/3806Dxb58EbTzpEEkvDsAm) | [Sharapova](https://open.spotify.com/artist/1MNKZzR6MpbfVJp8Qn8MKQ) | [GANGSTA LOVA](https://open.spotify.com/album/13dR12604nBAAQReC182f7) | 2:32 |
-| 187 | [New World of Jazz](https://open.spotify.com/track/3Rjo66mKkZSxZs3qLdDTHx) | [BobbyG63](https://open.spotify.com/artist/0MRVqpiuMlUX4XDs1LDyNg) | [New World of Jazz](https://open.spotify.com/album/7st5XtbrvhguP0sx5ArrZG) | 2:35 |
-| 188 | [Fragments](https://open.spotify.com/track/5MtFKgN0y2xhrPxqTRvSaq) | [Saint Sulpice](https://open.spotify.com/artist/3y5zh9y3262XjWRZxLLMBu) | [The Ides of March](https://open.spotify.com/album/2XrJJTibYl6JSrMd5IsLu7) | 3:44 |
-| 189 | [Fixin' Too](https://open.spotify.com/track/6sTmdvCm99X0hRQ9cWEOqZ) | [James Hollingsworth](https://open.spotify.com/artist/7wNAA6B6VDlkAuwSlgfLeV), [Molly Lovette](https://open.spotify.com/artist/173IW0WbY02WURT81tkEEr) | [Fixin' Too](https://open.spotify.com/album/74YSx5IzX11H1wA6m9Ugpm) | 3:37 |
-| 190 | [Bring Me a Flower](https://open.spotify.com/track/3XBex8T8fOGuiJR7rLnYwS) | [Baldy Crawlers](https://open.spotify.com/artist/55h3BL4HJGVYVRkQF9L3z1) | [Bring Me a Flower](https://open.spotify.com/album/5GZ4MhgpDyA2JoMjD0RzAQ) | 3:35 |
+| 177 | [Made to Break](https://open.spotify.com/track/6gzMGo0UXNal1s8rZVjabn) | [Maria Marr](https://open.spotify.com/artist/3BHfGA2YnJqPZVkcGuDQ0W) | [Made to Break](https://open.spotify.com/album/67c615HHnkpDwi2B5smz0n) | 3:30 |
+| 178 | [Boo Hoo](https://open.spotify.com/track/0UMkemnTmMckoOVCx5P21c) | [Captain Smooth](https://open.spotify.com/artist/2UtWiyu82GLeeTadC6fg1y) | [Kream Dream](https://open.spotify.com/album/6yvM0QU6955zAHHKZ6QXWa) | 2:43 |
+| 179 | [DON'T TALK LOVE](https://open.spotify.com/track/2PA3Yn1G97kAZb6pXkMO9e) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [DON'T TALK LOVE](https://open.spotify.com/album/6cko37BVuOWQJAbvefiLDc) | 3:00 |
+| 180 | [Get it Back](https://open.spotify.com/track/1OwmWEXP52wtotfyGwRJQ6) | [Alex Charles](https://open.spotify.com/artist/57p5pJde1DB1FyVeP55OCv) | [Get it Back](https://open.spotify.com/album/1p9I7UFkaeldWvFHuyxUkE) | 2:59 |
+| 181 | [Blue Skies](https://open.spotify.com/track/6QaKExKN419g7gBelKzg5r) | [Neelais](https://open.spotify.com/artist/0OeOKwCIlRePkSfI6rHovu) | [Blue Skies](https://open.spotify.com/album/0aR1KbnvCSSfEtaKPWopcT) | 3:38 |
+| 182 | [Coming Home](https://open.spotify.com/track/3uqGIYADyBceNgeHAQ9bFY) | [Rachel Curtis](https://open.spotify.com/artist/6DkII9PFxB8CETfB5qqr9W) | [Coming Home](https://open.spotify.com/album/4T7RcIUperANlCm9UWNn1o) | 3:42 |
+| 183 | [ELEVATE](https://open.spotify.com/track/3aTMVZcfzMgbNNO6xYOiHo) | [Leona Berlin](https://open.spotify.com/artist/0E8W46zqpbupCQg9MJwsTJ), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb) | [ELEVATE](https://open.spotify.com/album/2rxiESw3SbuyXpofO2O8mP) | 3:49 |
+| 184 | [Wave](https://open.spotify.com/track/3H6bnpPLEqneA1PexEuE7y) | [Flat Tired](https://open.spotify.com/artist/2Y1sOmiozhulmwbiYMDcnO) | [Better Part of the Year](https://open.spotify.com/album/42kLu4f2e3uu9nXfha3FUG) | 3:40 |
+| 185 | [Homebreaker](https://open.spotify.com/track/0k6ixgoVB4gM9t761l1QBn) | [Ghostmind](https://open.spotify.com/artist/1jYyLqefRBIBE7gH9U5MzJ) | [Come Over...](https://open.spotify.com/album/0BYku6XK0hbqYyRWMcLwAH) | 2:58 |
+| 186 | [We Made It](https://open.spotify.com/track/5BF59OP3Fin0OyucX3S1Vw) | [Welcome2hills](https://open.spotify.com/artist/7xCL2844XqfWaBLZtVDAmz) | [We Made It](https://open.spotify.com/album/2Jwa1Ybl2a0GCbGHhNHYyN) | 2:33 |
+| 187 | [GANGSTA LOVA](https://open.spotify.com/track/3806Dxb58EbTzpEEkvDsAm) | [Sharapova](https://open.spotify.com/artist/1MNKZzR6MpbfVJp8Qn8MKQ) | [GANGSTA LOVA](https://open.spotify.com/album/13dR12604nBAAQReC182f7) | 2:32 |
+| 188 | [New World of Jazz](https://open.spotify.com/track/3Rjo66mKkZSxZs3qLdDTHx) | [BobbyG63](https://open.spotify.com/artist/0MRVqpiuMlUX4XDs1LDyNg) | [New World of Jazz](https://open.spotify.com/album/7st5XtbrvhguP0sx5ArrZG) | 2:35 |
+| 189 | [Fragments](https://open.spotify.com/track/5MtFKgN0y2xhrPxqTRvSaq) | [Saint Sulpice](https://open.spotify.com/artist/3y5zh9y3262XjWRZxLLMBu) | [The Ides of March](https://open.spotify.com/album/2XrJJTibYl6JSrMd5IsLu7) | 3:44 |
+| 190 | [Fixin' Too](https://open.spotify.com/track/6sTmdvCm99X0hRQ9cWEOqZ) | [James Hollingsworth](https://open.spotify.com/artist/7wNAA6B6VDlkAuwSlgfLeV), [Molly Lovette](https://open.spotify.com/artist/173IW0WbY02WURT81tkEEr) | [Fixin' Too](https://open.spotify.com/album/74YSx5IzX11H1wA6m9Ugpm) | 3:37 |
 
-Snapshot ID: `AAA161CsUhlaPQO0AoQc3ZrtJXz6jnBX`
+Snapshot ID: `AAA17jraWAl4eP3e4XV8Li843cxwkbRL`

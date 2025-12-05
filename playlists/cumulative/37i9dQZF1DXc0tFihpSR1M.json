@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 183333,
       "name": "Den Jeg Vil Ha",
       "url": "https://open.spotify.com/track/7JYQQZAzLJA3ZwhdUfzWUM"
@@ -5156,7 +5156,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 215991,
       "name": "Oppe p\u00e5 m\u00e5nen",
       "url": "https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg"
@@ -5929,6 +5929,24 @@
     },
     {
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/3tffwNpUA42EvmJ2O2NLGl"
+      },
+      "artists": [
+        {
+          "name": "Kristina Moe Hals",
+          "url": "https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157524,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/4mPmG1qvK98PXeNhLVFMVB"
+    },
+    {
+      "album": {
         "name": "Skin and Bones",
         "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
       },
@@ -6496,7 +6514,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 132493,
       "name": "Taking Back My Love",
       "url": "https://open.spotify.com/track/2bwyIxi9KIplXtJqWijfqS"

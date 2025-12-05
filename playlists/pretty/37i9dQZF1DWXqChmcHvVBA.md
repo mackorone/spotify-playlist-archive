@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 elaggume
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,248 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,381 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PUTERÍ4](https://open.spotify.com/track/1IgrATr9zMmRjtFVFY6O7s) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [PUTERÍ4](https://open.spotify.com/album/1lkzZ6bQyw3lWsviJs8HAD) | 2:24 |
+| 1 | [PUTERÍ4](https://open.spotify.com/track/1IgrATr9zMmRjtFVFY6O7s) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [PUTERÍ4](https://open.spotify.com/album/1lkzZ6bQyw3lWsviJs8HAD) | 2:24 |
 | 2 | [Taliban](https://open.spotify.com/track/1kzWx8cffYd227uxzjEJfd) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [Taliban](https://open.spotify.com/album/1oS4XQRu86koOUONLN1bjx) | 2:04 |
 | 3 | [FÓRMULA 1 RKT](https://open.spotify.com/track/35Tz5jiNw7gg0SKFEznYtH) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [VAINY](https://open.spotify.com/artist/41mes6x3rlUZzgRAyB8jYG) | [FÓRMULA 1 RKT](https://open.spotify.com/album/5UhpSYl6XzQErzARLGhfA7) | 2:41 |
 | 4 | [Baila Como Trompo](https://open.spotify.com/track/5OQlRaEmlLBZprwGStV2se) | [Eze Remix](https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT) | [Baila Como Trompo](https://open.spotify.com/album/6BKCmDCh1qHYM4Jlz9BgrZ) | 1:45 |

@@ -4059,6 +4059,28 @@
     },
     {
       "album": {
+        "name": "The Partycrasher",
+        "url": "https://open.spotify.com/album/4rwbRBvVsKL96gZQcaHTCT"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Chuckie",
+          "url": "https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167111,
+      "name": "The Partycrasher",
+      "url": "https://open.spotify.com/track/2uHGci4XJywAICJ1D54Xgq"
+    },
+    {
+      "album": {
         "name": "The Underground",
         "url": "https://open.spotify.com/album/6T9qtE0RP4nPe6eZsGMMu7"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 567331,
+  "num_followers": 567347,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS4sAAAAAAAQx55RMbXS6IlwG2+v8QSh",
+  "snapshot_id": "aS99gAAAAADxCkTJn0MRmGYAhD7uEd4k",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Capitalist (Deluxe)",
+        "url": "https://open.spotify.com/album/23Zi1sfUFkw4L4TC1vrLdy"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/22VW5d6k6HT0SQ8MUEXuDz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way of the Fist",
         "url": "https://open.spotify.com/album/5WKUwwYLzwSJAwMCrxhCdj"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 224500,
       "name": "When The Seasons Change - 2025 VERSION",
       "url": "https://open.spotify.com/track/5Foosa9NbYvaEwqbtOSoTL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Capitalist (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Coming Down",
-      "url": "https://open.spotify.com/track/6C9lTm35wDzu7OchmxNbji"
     },
     {
       "added_at": null,

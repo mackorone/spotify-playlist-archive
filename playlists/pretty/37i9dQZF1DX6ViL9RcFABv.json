@@ -1,15 +1,35 @@
 {
-  "description": "Uma playlist de pura alma pop! Foto: ZARKO",
-  "num_followers": 121446,
+  "description": "Uma playlist de pura alma pop! Foto: B\u00e1rbara Tinoco, Mari Froes",
+  "num_followers": 121441,
   "original_name": "Pop PT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMuy8YYknh87KNAjH5AEbXgqER8p",
+  "snapshot_id": "AAAAAD8zpad4r+VxddX6j1Fe8jxi2l4x",
   "tracks": [
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Tem l\u00e1 uma tristeza",
+        "url": "https://open.spotify.com/album/3rwON1RikuIdaY40Di9CzY"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Tinoco",
+          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+        },
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/2vJSZKsp32wkF2nDGlGzhn"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "Tem l\u00e1 uma tristeza",
+      "url": "https://open.spotify.com/track/3QjkUHKTlsbiKsROCPYZF2"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "SIMBIOSE",
         "url": "https://open.spotify.com/album/3qslggfh46RL2JGy8p1kHg"
@@ -29,7 +49,27 @@
       "url": "https://open.spotify.com/track/0Z7kEnuStWYC1MOOfAnM4u"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "J\u00e1 N\u00e3o Saio",
+        "url": "https://open.spotify.com/album/4iqIaovHEWSGNWtfRmRVEd"
+      },
+      "artists": [
+        {
+          "name": "\u00c1TOA",
+          "url": "https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7"
+        },
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "duration_ms": 201156,
+      "name": "J\u00e1 N\u00e3o Saio",
+      "url": "https://open.spotify.com/track/082OgsZCbOvptVV5p5t6fV"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Carta de Despedida",
         "url": "https://open.spotify.com/album/07alfjhg3pejQxssBb6AYi"
@@ -45,47 +85,7 @@
       "url": "https://open.spotify.com/track/0HEWSiwrNCjYHEVRakHMPM"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Amor de Novo",
-        "url": "https://open.spotify.com/album/56J65g9s0WdfikpU6cXDun"
-      },
-      "artists": [
-        {
-          "name": "NAPA",
-          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 198339,
-      "name": "Amor de Novo",
-      "url": "https://open.spotify.com/track/3XFumfdcMhErSPnDxuo1AN"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Porta",
-        "url": "https://open.spotify.com/album/36So3FFFMjKgyqHNeapjPt"
-      },
-      "artists": [
-        {
-          "name": "Criss Calisto",
-          "url": "https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX"
-        },
-        {
-          "name": "Mariana Pereira",
-          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Porta",
-      "url": "https://open.spotify.com/track/6Bhp11fTz3Ulk6sUJ2kT4k"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Casar \u00c9 pra Esquecer",
         "url": "https://open.spotify.com/album/0zHXkr6XD0iQEHYM8b35or"
@@ -101,23 +101,7 @@
       "url": "https://open.spotify.com/track/5zA1oOmQh2v32sij1Whsms"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Conta-Me Tudo",
-        "url": "https://open.spotify.com/album/6CWn5xi4sogN7kQOVz3Zjy"
-      },
-      "artists": [
-        {
-          "name": "Olavo Bilac",
-          "url": "https://open.spotify.com/artist/2xTUv9D4QKnzKc0bvbpkJT"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Conta-Me Tudo",
-      "url": "https://open.spotify.com/track/7zz6eumA7xoGgDt6bkvknu"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Amor de Agosto",
         "url": "https://open.spotify.com/album/43OLhOCAzmBiNuoNS856NS"
@@ -137,7 +121,47 @@
       "url": "https://open.spotify.com/track/6wVVIGFQdgQkYYEaYcGC2M"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Amor de Novo",
+        "url": "https://open.spotify.com/album/56J65g9s0WdfikpU6cXDun"
+      },
+      "artists": [
+        {
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 198339,
+      "name": "Amor de Novo",
+      "url": "https://open.spotify.com/track/3XFumfdcMhErSPnDxuo1AN"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Porta",
+        "url": "https://open.spotify.com/album/36So3FFFMjKgyqHNeapjPt"
+      },
+      "artists": [
+        {
+          "name": "Criss Calisto",
+          "url": "https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX"
+        },
+        {
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Porta",
+      "url": "https://open.spotify.com/track/6Bhp11fTz3Ulk6sUJ2kT4k"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Amor Antigo",
         "url": "https://open.spotify.com/album/3Wp15P2TDQhsgFAFxlRO9C"
@@ -153,123 +177,7 @@
       "url": "https://open.spotify.com/track/0A7EhW7szUKXijk50SQ489"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "depressa",
-        "url": "https://open.spotify.com/album/1RPD3MhUfYvdwsxgkIcc0c"
-      },
-      "artists": [
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "depressa",
-      "url": "https://open.spotify.com/track/6LZ3uIrpEAqTh7xWNANHO9"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "S\u00f3 Existo Contigo",
-        "url": "https://open.spotify.com/album/3H9BKvBxbel1z3lFbgY57r"
-      },
-      "artists": [
-        {
-          "name": "Diogo Pi\u00e7arra",
-          "url": "https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf"
-        },
-        {
-          "name": "Satiro",
-          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
-        }
-      ],
-      "duration_ms": 207869,
-      "name": "S\u00f3 Existo Contigo",
-      "url": "https://open.spotify.com/track/6KSp8SF1M4DmlO3FA3JU9G"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Caos Bonito",
-        "url": "https://open.spotify.com/album/3w01VXywki7NFr8UsRq2sr"
-      },
-      "artists": [
-        {
-          "name": "Khiaro",
-          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
-        },
-        {
-          "name": "Lu\u00eds Fialho",
-          "url": "https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8"
-        }
-      ],
-      "duration_ms": 167543,
-      "name": "Caos Bonito",
-      "url": "https://open.spotify.com/track/4gm7Bwnmhgmh4HLYDmVrhv"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Contigo para Sempre",
-        "url": "https://open.spotify.com/album/0nAkeLSbAEFN1H9gr3rwGI"
-      },
-      "artists": [
-        {
-          "name": "Khiaro",
-          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
-        },
-        {
-          "name": "Miguel Moura",
-          "url": "https://open.spotify.com/artist/2RNVpVAfgEuFNxHOILyK9q"
-        }
-      ],
-      "duration_ms": 167624,
-      "name": "Contigo para Sempre",
-      "url": "https://open.spotify.com/track/3ci2RTjkUdQhmbVyh7Or0T"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Porta 43",
-        "url": "https://open.spotify.com/album/50OKNeNLgVWU6VmiQ1zkeD"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00eds Trigacheiro",
-          "url": "https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH"
-        },
-        {
-          "name": "Diogo Pi\u00e7arra",
-          "url": "https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf"
-        }
-      ],
-      "duration_ms": 165140,
-      "name": "Porta 43",
-      "url": "https://open.spotify.com/track/5AaxgkscZPjOR9kQr0QAUf"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Desejo da 00:00",
-        "url": "https://open.spotify.com/album/6w0JVDeVvLToirDcaG5Xze"
-      },
-      "artists": [
-        {
-          "name": "Margarida Vasconcelos",
-          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
-        },
-        {
-          "name": "Morais",
-          "url": "https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Desejo da 00:00",
-      "url": "https://open.spotify.com/track/3UUAzP5LCKEdQBfAZBkQH0"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "1,2,3",
         "url": "https://open.spotify.com/album/5Xs8nxboPVHDW58CgrOO9Z"
@@ -289,27 +197,7 @@
       "url": "https://open.spotify.com/track/1qgpFwDcdus9ahuhwJT5su"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Ficar \u00d3ai",
-        "url": "https://open.spotify.com/album/03GkXezi0YyOGnE5AbGrfX"
-      },
-      "artists": [
-        {
-          "name": "D.A.M.A",
-          "url": "https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y"
-        },
-        {
-          "name": "Z\u00e9 Amaro",
-          "url": "https://open.spotify.com/artist/4RPhwXdkeoT1IYQ1sQIEvi"
-        }
-      ],
-      "duration_ms": 192499,
-      "name": "Ficar \u00d3ai",
-      "url": "https://open.spotify.com/track/1nDOYhM8Xl18RAEzoN3ZAU"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Tu na Tua",
         "url": "https://open.spotify.com/album/1LWWdusOyQN5J3BfpXtFeO"
@@ -333,7 +221,143 @@
       "url": "https://open.spotify.com/track/0dKgbCUSt2Ig01fWrPriHk"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        },
+        {
+          "name": "Noninho Navarro",
+          "url": "https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "depressa",
+        "url": "https://open.spotify.com/album/1RPD3MhUfYvdwsxgkIcc0c"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "depressa",
+      "url": "https://open.spotify.com/track/6LZ3uIrpEAqTh7xWNANHO9"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Porta 43",
+        "url": "https://open.spotify.com/album/50OKNeNLgVWU6VmiQ1zkeD"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00eds Trigacheiro",
+          "url": "https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH"
+        },
+        {
+          "name": "Diogo Pi\u00e7arra",
+          "url": "https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf"
+        }
+      ],
+      "duration_ms": 165140,
+      "name": "Porta 43",
+      "url": "https://open.spotify.com/track/5AaxgkscZPjOR9kQr0QAUf"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "S\u00f3 Existo Contigo",
+        "url": "https://open.spotify.com/album/3H9BKvBxbel1z3lFbgY57r"
+      },
+      "artists": [
+        {
+          "name": "Diogo Pi\u00e7arra",
+          "url": "https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf"
+        },
+        {
+          "name": "Satiro",
+          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+        }
+      ],
+      "duration_ms": 207869,
+      "name": "S\u00f3 Existo Contigo",
+      "url": "https://open.spotify.com/track/6KSp8SF1M4DmlO3FA3JU9G"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Caos Bonito",
+        "url": "https://open.spotify.com/album/3w01VXywki7NFr8UsRq2sr"
+      },
+      "artists": [
+        {
+          "name": "Khiaro",
+          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
+        },
+        {
+          "name": "Lu\u00eds Fialho",
+          "url": "https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8"
+        }
+      ],
+      "duration_ms": 167543,
+      "name": "Caos Bonito",
+      "url": "https://open.spotify.com/track/4gm7Bwnmhgmh4HLYDmVrhv"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Contigo para Sempre",
+        "url": "https://open.spotify.com/album/0nAkeLSbAEFN1H9gr3rwGI"
+      },
+      "artists": [
+        {
+          "name": "Khiaro",
+          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
+        },
+        {
+          "name": "Miguel Moura",
+          "url": "https://open.spotify.com/artist/2RNVpVAfgEuFNxHOILyK9q"
+        }
+      ],
+      "duration_ms": 167624,
+      "name": "Contigo para Sempre",
+      "url": "https://open.spotify.com/track/3ci2RTjkUdQhmbVyh7Or0T"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Desejo da 00:00",
+        "url": "https://open.spotify.com/album/6w0JVDeVvLToirDcaG5Xze"
+      },
+      "artists": [
+        {
+          "name": "Margarida Vasconcelos",
+          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
+        },
+        {
+          "name": "Morais",
+          "url": "https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Desejo da 00:00",
+      "url": "https://open.spotify.com/track/3UUAzP5LCKEdQBfAZBkQH0"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Pobre Ex-Namorado",
         "url": "https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc"
@@ -349,7 +373,43 @@
       "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Ficar \u00d3ai",
+        "url": "https://open.spotify.com/album/03GkXezi0YyOGnE5AbGrfX"
+      },
+      "artists": [
+        {
+          "name": "D.A.M.A",
+          "url": "https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y"
+        },
+        {
+          "name": "Z\u00e9 Amaro",
+          "url": "https://open.spotify.com/artist/4RPhwXdkeoT1IYQ1sQIEvi"
+        }
+      ],
+      "duration_ms": 192499,
+      "name": "Ficar \u00d3ai",
+      "url": "https://open.spotify.com/track/1nDOYhM8Xl18RAEzoN3ZAU"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Conta-Me Tudo",
+        "url": "https://open.spotify.com/album/6CWn5xi4sogN7kQOVz3Zjy"
+      },
+      "artists": [
+        {
+          "name": "Olavo Bilac",
+          "url": "https://open.spotify.com/artist/2xTUv9D4QKnzKc0bvbpkJT"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Conta-Me Tudo",
+      "url": "https://open.spotify.com/track/7zz6eumA7xoGgDt6bkvknu"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "P\u00f4r do Sol",
         "url": "https://open.spotify.com/album/656nGI6shKfsEFNGBZTOKA"
@@ -365,7 +425,7 @@
       "url": "https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Terra da Maria",
         "url": "https://open.spotify.com/album/6R6BRuvu1YriFFhTUN5Xwe"
@@ -381,7 +441,7 @@
       "url": "https://open.spotify.com/track/7DMur7xPMYpRiECi6lfhCJ"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Respirar",
         "url": "https://open.spotify.com/album/5ufqNkX3GmQuODOMFADd0H"
@@ -401,7 +461,7 @@
       "url": "https://open.spotify.com/track/3Fwap1UvFz66uQUPfUqvZq"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Avisem Que Eu Cheguei",
         "url": "https://open.spotify.com/album/1J4QrDcxhhfETVIzljTOhU"
@@ -417,7 +477,7 @@
       "url": "https://open.spotify.com/track/12Cw7loqrdJdLCWCaGDSkn"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Fotografia",
         "url": "https://open.spotify.com/album/7rDps2hoMmlQ0Es9aEfsNI"
@@ -433,7 +493,7 @@
       "url": "https://open.spotify.com/track/1PGMVcH0H0inovcdD6jYdk"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Amar Pela Metade / Aimer \u00c0 Moiti\u00e9",
         "url": "https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu"
@@ -449,43 +509,7 @@
       "url": "https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "D\u2261Z",
-        "url": "https://open.spotify.com/album/0LMnsJ0zRyzy1uGRBj7bne"
-      },
-      "artists": [
-        {
-          "name": "Diogo Pi\u00e7arra",
-          "url": "https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf"
-        },
-        {
-          "name": "Bandidos do Cante",
-          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Tu e Eu (com Bandidos do Cante)",
-      "url": "https://open.spotify.com/track/2qKvjnvUzkRnN6KMI24ror"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Noutra Vida",
-        "url": "https://open.spotify.com/album/5GpaLygIn24UXpH36imoZk"
-      },
-      "artists": [
-        {
-          "name": "Mariana Pereira",
-          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Noutra Vida",
-      "url": "https://open.spotify.com/track/0kJXz31nxbsfwQT5IPvYZY"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Faz Outra Vez",
         "url": "https://open.spotify.com/album/5NxoPo1gmJ5POG0TTVoTp2"
@@ -501,7 +525,7 @@
       "url": "https://open.spotify.com/track/0UjYB39jfS5spHci8WZZMg"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Recantigas - As Can\u00e7\u00f5es de Miguel Ara\u00fajo",
         "url": "https://open.spotify.com/album/39eVM72MnmYcyNIiDVLmwj"
@@ -521,7 +545,7 @@
       "url": "https://open.spotify.com/track/0FfRzV2SWi46X02Hi8dO4P"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Lei do Retorno",
         "url": "https://open.spotify.com/album/6oKy4TpygzC3aPOCUVX3Ru"
@@ -537,7 +561,7 @@
       "url": "https://open.spotify.com/track/4FCoecP6PECXmIt2b2zVHr"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Tudo Ao Mesmo Tempo",
         "url": "https://open.spotify.com/album/2YF6gKJWmS5ZZEKsGPonH1"
@@ -553,7 +577,7 @@
       "url": "https://open.spotify.com/track/0roOynoUgJjttisZcczNuA"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Culpa",
         "url": "https://open.spotify.com/album/0H0mlWjw55S9P9c4VbnVEZ"
@@ -569,7 +593,7 @@
       "url": "https://open.spotify.com/track/7IlNHRy6LWaMGFBPLfHMTu"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "I Can Still Love",
         "url": "https://open.spotify.com/album/12jgmWssKQ0wT9dRUUB5py"
@@ -585,7 +609,7 @@
       "url": "https://open.spotify.com/track/2In8B9cHgnwPilUSOSzbmJ"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Tanto Tempo",
         "url": "https://open.spotify.com/album/2ItHTcdJBMsxn1q4zjf9Fr"
@@ -601,7 +625,7 @@
       "url": "https://open.spotify.com/track/003pENpxbAlWY7nMscpC05"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Quanto Tempo Tem",
         "url": "https://open.spotify.com/album/0fN3KrSOFJ89X9NXPhSvke"
@@ -625,27 +649,7 @@
       "url": "https://open.spotify.com/track/2Ydka52H6YTx151H9uB9Lf"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        },
-        {
-          "name": "Noninho Navarro",
-          "url": "https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Beijo",
         "url": "https://open.spotify.com/album/2KnncUYSx94xd8rox89Rrw"
@@ -673,7 +677,43 @@
       "url": "https://open.spotify.com/track/3303s19agScDaCsPYdCu7i"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "D\u2261Z",
+        "url": "https://open.spotify.com/album/0LMnsJ0zRyzy1uGRBj7bne"
+      },
+      "artists": [
+        {
+          "name": "Diogo Pi\u00e7arra",
+          "url": "https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf"
+        },
+        {
+          "name": "Bandidos do Cante",
+          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Tu e Eu (com Bandidos do Cante)",
+      "url": "https://open.spotify.com/track/2qKvjnvUzkRnN6KMI24ror"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Noutra Vida",
+        "url": "https://open.spotify.com/album/5GpaLygIn24UXpH36imoZk"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Noutra Vida",
+      "url": "https://open.spotify.com/track/0kJXz31nxbsfwQT5IPvYZY"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Plano B - Parte 1",
         "url": "https://open.spotify.com/album/2oLjFcjNEEE92R8KCFSpsC"
@@ -689,7 +729,7 @@
       "url": "https://open.spotify.com/track/12mSyoPyGcxkh97T4vQl6L"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Elavoko",
         "url": "https://open.spotify.com/album/4XKaZTBjVImGWm0Gf6MRNZ"
@@ -709,7 +749,7 @@
       "url": "https://open.spotify.com/track/4qXWdphJIdbn30k1rwMSUR"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Agrade\u00e7o o Convite",
         "url": "https://open.spotify.com/album/6SNSPAuZsb2kTu73RI4zeF"
@@ -725,7 +765,7 @@
       "url": "https://open.spotify.com/track/4sgpCuqIyYOtNlev2etggH"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Neon",
         "url": "https://open.spotify.com/album/2agHYvaOG5tQDdrqTbIROJ"
@@ -741,7 +781,7 @@
       "url": "https://open.spotify.com/track/4QESMUZ1rDbPBc8Gvi1QZB"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "nada do que eu disse",
         "url": "https://open.spotify.com/album/6yWNz284A9KIXZr2g4CkY1"
@@ -757,39 +797,7 @@
       "url": "https://open.spotify.com/track/50tpEJgTMfjeCJjiMYvWoV"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "\u00c9s S\u00f3 Tu",
-        "url": "https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 174174,
-      "name": "\u00c9s S\u00f3 Tu",
-      "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Devia ter-te tra\u00eddo",
-        "url": "https://open.spotify.com/album/3OpgV1IE8F8vkjLMHAjtPJ"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Tinoco",
-          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
-        }
-      ],
-      "duration_ms": 174030,
-      "name": "Devia ter-te tra\u00eddo",
-      "url": "https://open.spotify.com/track/3RNYR0QH08mHepukqQ7kLZ"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Patroa",
         "url": "https://open.spotify.com/album/32C3J9lftiE87G55F5ThXW"
@@ -805,7 +813,23 @@
       "url": "https://open.spotify.com/track/3uSTx9xWkf7RTHdxRefuQ2"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Devia ter-te tra\u00eddo",
+        "url": "https://open.spotify.com/album/3OpgV1IE8F8vkjLMHAjtPJ"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Tinoco",
+          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+        }
+      ],
+      "duration_ms": 174030,
+      "name": "Devia ter-te tra\u00eddo",
+      "url": "https://open.spotify.com/track/3RNYR0QH08mHepukqQ7kLZ"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Rio do Esquecimento (Feiras Novas)",
         "url": "https://open.spotify.com/album/52NrtbltfK9K8k23ehS78D"
@@ -821,27 +845,23 @@
       "url": "https://open.spotify.com/track/7L371LhPhHqD6n3M1wZnyd"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
-        "name": "Tiques de Rico",
-        "url": "https://open.spotify.com/album/3077eqHhvWjs1OoudI0gxn"
+        "name": "\u00c9s S\u00f3 Tu",
+        "url": "https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz"
       },
       "artists": [
         {
-          "name": "Os Quatro e Meia",
-          "url": "https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE"
-        },
-        {
-          "name": "Miguel Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi"
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 217013,
-      "name": "Tiques de Rico",
-      "url": "https://open.spotify.com/track/1SgsfPW9jh3LdicCpr0ggh"
+      "duration_ms": 174174,
+      "name": "\u00c9s S\u00f3 Tu",
+      "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "For The Broken-Hearted",
         "url": "https://open.spotify.com/album/3CuloWCtToU89U6iyBYS2Z"
@@ -857,7 +877,39 @@
       "url": "https://open.spotify.com/track/56uetQSeOmm7afx8sKrOyq"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "D\u00e1 C\u00e1 Um Bacalhau",
+        "url": "https://open.spotify.com/album/69RGd1xW6QsLVTfLwdNgGu"
+      },
+      "artists": [
+        {
+          "name": "Ana Bacalhau",
+          "url": "https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF"
+        }
+      ],
+      "duration_ms": 138084,
+      "name": "D\u00e1 C\u00e1 Um Bacalhau",
+      "url": "https://open.spotify.com/track/7caPKea4LdKLgZbj8y5ZnN"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "O Sol Sangra",
+        "url": "https://open.spotify.com/album/4AfScAWMMdGMPVPy5A8SVl"
+      },
+      "artists": [
+        {
+          "name": "Amor Perdido",
+          "url": "https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs"
+        }
+      ],
+      "duration_ms": 101599,
+      "name": "O Sol Sangra",
+      "url": "https://open.spotify.com/track/5bnpbLonAjSXl0npflo8iq"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Moleirinha",
         "url": "https://open.spotify.com/album/1N9eikIKeoqhxkIeWAUe3K"
@@ -889,39 +941,7 @@
       "url": "https://open.spotify.com/track/56jU6taZOBOHZvL61KSLIJ"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "D\u00e1 C\u00e1 Um Bacalhau",
-        "url": "https://open.spotify.com/album/69RGd1xW6QsLVTfLwdNgGu"
-      },
-      "artists": [
-        {
-          "name": "Ana Bacalhau",
-          "url": "https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF"
-        }
-      ],
-      "duration_ms": 138084,
-      "name": "D\u00e1 C\u00e1 Um Bacalhau",
-      "url": "https://open.spotify.com/track/7caPKea4LdKLgZbj8y5ZnN"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "O Sol Sangra",
-        "url": "https://open.spotify.com/album/4AfScAWMMdGMPVPy5A8SVl"
-      },
-      "artists": [
-        {
-          "name": "Amor Perdido",
-          "url": "https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs"
-        }
-      ],
-      "duration_ms": 101599,
-      "name": "O Sol Sangra",
-      "url": "https://open.spotify.com/track/5bnpbLonAjSXl0npflo8iq"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Dava A Volta Ao Mundo",
         "url": "https://open.spotify.com/album/5uYvLUlVw3l4z3jplzw8Zg"
@@ -941,39 +961,7 @@
       "url": "https://open.spotify.com/track/09qfLOE6qHLUoBediT6JXu"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Algu\u00e9m Real A\u00ed?",
-        "url": "https://open.spotify.com/album/1WlSgYzDk7O9BVxbJHf5Iv"
-      },
-      "artists": [
-        {
-          "name": "Margarida Vasconcelos",
-          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
-        }
-      ],
-      "duration_ms": 210645,
-      "name": "Algu\u00e9m Real A\u00ed?",
-      "url": "https://open.spotify.com/track/69WLTpCM5wiPAIctk3Hv3X"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Eu Vou Estar Aqui",
-        "url": "https://open.spotify.com/album/0hSZS39PhwxqSMCTsdW8IS"
-      },
-      "artists": [
-        {
-          "name": "Excesso",
-          "url": "https://open.spotify.com/artist/0D7DHoP1NH76HwLb4pWFKW"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Eu Vou Estar Aqui",
-      "url": "https://open.spotify.com/track/7F1LSrJYxdVgc7VakwZLTI"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/6YhpLTkiukZuaBakQkdMfa"
@@ -989,23 +977,7 @@
       "url": "https://open.spotify.com/track/2FgjjNgPHjlqsrAfooIQei"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Pa Qu\u00ea?",
-        "url": "https://open.spotify.com/album/69atZMQiuCuX5pl8jlPZiB"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 176102,
-      "name": "Pa Qu\u00ea?",
-      "url": "https://open.spotify.com/track/24D8iaNYZIlZEplxSeCZOr"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "A Viagem",
         "url": "https://open.spotify.com/album/4IVB1cL3uZrOxyaMLsQzcR"
@@ -1025,23 +997,7 @@
       "url": "https://open.spotify.com/track/3TAtUFZ4wLgh6jDmemLQa5"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Terra",
-        "url": "https://open.spotify.com/album/2vzhWutGnNrKF4RcY67Z7I"
-      },
-      "artists": [
-        {
-          "name": "Edmundo In\u00e1cio",
-          "url": "https://open.spotify.com/artist/04CmgOhFRROgjxTnL7dKlR"
-        }
-      ],
-      "duration_ms": 210813,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/0TL2XSmtFw1Qd9Fsm8y0dj"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Rosas",
         "url": "https://open.spotify.com/album/2QiuQExVUJU7DE9HeQvWUs"
@@ -1057,7 +1013,7 @@
       "url": "https://open.spotify.com/track/2XKzPHmQWgRpJGrRuCLJbk"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Maria do Caf\u00e9",
         "url": "https://open.spotify.com/album/6bwB05lzSxzjf9McKQWxKC"
@@ -1073,43 +1029,7 @@
       "url": "https://open.spotify.com/track/32h70zsAWUjdJXV26dGBvJ"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Mantra (Living Room Sessions)",
-        "url": "https://open.spotify.com/album/0BlQqX8I4gCGxn6f8GTTAu"
-      },
-      "artists": [
-        {
-          "name": "SYRO",
-          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Pessoa - Living Room Sessions",
-      "url": "https://open.spotify.com/track/0dnFk4Ey4ETEHlp03hV1XL"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Entre N\u00f3s",
-        "url": "https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
-        {
-          "name": "Gama WNTD",
-          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Vou continuar",
-      "url": "https://open.spotify.com/track/7I83T3YEHN1IbToCu3btAQ"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/4fQQ9JtLpmIFQHb84cq9ep"
@@ -1129,7 +1049,79 @@
       "url": "https://open.spotify.com/track/1xoubW0lb0QniLQB1Y8zf5"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Tiques de Rico",
+        "url": "https://open.spotify.com/album/3077eqHhvWjs1OoudI0gxn"
+      },
+      "artists": [
+        {
+          "name": "Os Quatro e Meia",
+          "url": "https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE"
+        },
+        {
+          "name": "Miguel Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Tiques de Rico",
+      "url": "https://open.spotify.com/track/1SgsfPW9jh3LdicCpr0ggh"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Mantra (Living Room Sessions)",
+        "url": "https://open.spotify.com/album/0BlQqX8I4gCGxn6f8GTTAu"
+      },
+      "artists": [
+        {
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Pessoa - Living Room Sessions",
+      "url": "https://open.spotify.com/track/0dnFk4Ey4ETEHlp03hV1XL"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Terra",
+        "url": "https://open.spotify.com/album/2vzhWutGnNrKF4RcY67Z7I"
+      },
+      "artists": [
+        {
+          "name": "Edmundo In\u00e1cio",
+          "url": "https://open.spotify.com/artist/04CmgOhFRROgjxTnL7dKlR"
+        }
+      ],
+      "duration_ms": 210813,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/0TL2XSmtFw1Qd9Fsm8y0dj"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Entre N\u00f3s",
+        "url": "https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Vou continuar",
+      "url": "https://open.spotify.com/track/7I83T3YEHN1IbToCu3btAQ"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Leva Tudo",
         "url": "https://open.spotify.com/album/0c0ybHUuK8uVqzhX3kHfcN"
@@ -1149,23 +1141,7 @@
       "url": "https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3siFdTrUNLxFNkRV2ksiwQ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Pereira",
-          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "Supera\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0WYwgdwCr4fdNADvinbWBX"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Desliza",
         "url": "https://open.spotify.com/album/4XfQRVwDQnE6Rd0OX8sTER"
@@ -1181,43 +1157,7 @@
       "url": "https://open.spotify.com/track/5CYWaMpBev0t7JgscBAeYv"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Amor Borderline (Doutor)",
-        "url": "https://open.spotify.com/album/3ZfKdr84Q5Fgqdch2X5XA4"
-      },
-      "artists": [
-        {
-          "name": "CAROLINA DE DEUS",
-          "url": "https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH"
-        }
-      ],
-      "duration_ms": 172501,
-      "name": "Amor Borderline (Doutor)",
-      "url": "https://open.spotify.com/track/6ZamBK5t2OJECKYVuWdrlt"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Quem?",
-        "url": "https://open.spotify.com/album/0b9TMwvS4N9kWOhVpeScG6"
-      },
-      "artists": [
-        {
-          "name": "Miguel Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi"
-        },
-        {
-          "name": "Ant\u00f3nio Zambujo",
-          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
-        }
-      ],
-      "duration_ms": 246500,
-      "name": "Quem?",
-      "url": "https://open.spotify.com/track/363AFD0D8LSXIDhgJMnms9"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Cinco e Meia",
         "url": "https://open.spotify.com/album/1gelKP5jeCV5HzqPOp9TWH"
@@ -1237,7 +1177,7 @@
       "url": "https://open.spotify.com/track/6KGVT9dt9Avdo3uKXWt2me"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Como Tens Estado",
         "url": "https://open.spotify.com/album/4UdQsscUHyDclkcoFm60QG"
@@ -1253,7 +1193,7 @@
       "url": "https://open.spotify.com/track/2gEhamLKrRmJJqanA7uVm1"
     },
     {
-      "added_at": "2025-11-28 00:00:06",
+      "added_at": "2025-12-05 00:00:34",
       "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/4O4Z2HgACr41aZ66X0jmL7"
@@ -1271,6 +1211,74 @@
       "duration_ms": 213040,
       "name": "Drama",
       "url": "https://open.spotify.com/track/6N1z5XlUcO67JA1XxTdIsu"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Quem?",
+        "url": "https://open.spotify.com/album/0b9TMwvS4N9kWOhVpeScG6"
+      },
+      "artists": [
+        {
+          "name": "Miguel Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi"
+        },
+        {
+          "name": "Ant\u00f3nio Zambujo",
+          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Quem?",
+      "url": "https://open.spotify.com/track/363AFD0D8LSXIDhgJMnms9"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Eu Vou Estar Aqui",
+        "url": "https://open.spotify.com/album/0hSZS39PhwxqSMCTsdW8IS"
+      },
+      "artists": [
+        {
+          "name": "Excesso",
+          "url": "https://open.spotify.com/artist/0D7DHoP1NH76HwLb4pWFKW"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "Eu Vou Estar Aqui",
+      "url": "https://open.spotify.com/track/7F1LSrJYxdVgc7VakwZLTI"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Amor Borderline (Doutor)",
+        "url": "https://open.spotify.com/album/3ZfKdr84Q5Fgqdch2X5XA4"
+      },
+      "artists": [
+        {
+          "name": "CAROLINA DE DEUS",
+          "url": "https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH"
+        }
+      ],
+      "duration_ms": 172501,
+      "name": "Amor Borderline (Doutor)",
+      "url": "https://open.spotify.com/track/6ZamBK5t2OJECKYVuWdrlt"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3siFdTrUNLxFNkRV2ksiwQ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "Supera\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0WYwgdwCr4fdNADvinbWBX"
     }
   ],
   "unique_name": "Pop PT",

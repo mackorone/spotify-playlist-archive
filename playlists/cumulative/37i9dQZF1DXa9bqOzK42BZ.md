@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Rose Muhando
 
-295 songs - 1 day 1 hr 20 min
+296 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 | 2022-06-24 | 2023-09-08 |
 | [Victory Belongs To Jesus \(Live\)](https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart \(Live\)](https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB) | 5:44 | 2022-06-24 | 2022-11-13 |
 | [Vinakamilika](https://open.spotify.com/track/2ZIO3PTsc9fPcReItUXTb3) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Vinakamilika](https://open.spotify.com/album/1rWb2lyPR9VE2kaJsFzYDA) | 6:53 | 2022-06-24 | 2023-06-16 |
+| [Vyote Vyangu](https://open.spotify.com/track/34wSbg3s4fFm7ItUuc5KCn) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Vyote Vyangu](https://open.spotify.com/album/5SQ1UjFzy7DzRJ5J9UiHpT) | 3:06 | 2025-12-05 |  |
 | [Waiting on You](https://open.spotify.com/track/5RjpRcqQheQlV6X0t1lq6T) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Waiting on You](https://open.spotify.com/album/141PfZ1HufWI7JluBmnmwi) | 4:33 | 2024-08-16 | 2025-03-21 |
 | [Walivuka Bahari](https://open.spotify.com/track/3CFKRg3IFez8ohXZh4KkMz) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Walivuka Bahari](https://open.spotify.com/album/0PRORcHoJD83CWsJH895hP) | 6:35 | 2022-06-24 | 2023-03-11 |
 | [Wananiuliza \(feat\. Guardian Angel & Eko Dydda\) \[Remix\]](https://open.spotify.com/track/0zZ7A2D0630Khn1XjK97Ei) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Eko Dydda](https://open.spotify.com/artist/0F0AWv6Giki7xrNkzI27hs) | [Wananiuliza \(feat\. Guardian Angel & Eko Dydda\) \[Remix\]](https://open.spotify.com/album/2vjaKH7kynbPkkJsz5z414) | 3:21 | 2025-03-28 | 2025-05-30 |

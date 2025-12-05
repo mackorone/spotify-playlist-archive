@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Livrea in cover della playlist dell'R&B italiano 🫀
+> YOF in cover della playlist dell'R&B italiano 🫀
 
-945 songs - 1 day 22 hr 37 min
+948 songs - 1 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [ACAB \(Amami Come Ameresti Bambi\)](https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/40KoQYdYFrIcHYn0wGrC2i) | 3:20 | 2023-10-12 | 2024-04-14 |
 | [ACAB \(Amami Come Ameresti Bambi\) \(feat\. Willie Peyote\)](https://open.spotify.com/track/7wPnxFMOuItwcb7HpwuRNQ) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Medusa](https://open.spotify.com/album/5tx0yaRmuyoBbWf4RnorOv) | 3:20 | 2024-04-12 | 2024-04-16 |
 | [Accussì](https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Accussì](https://open.spotify.com/album/3k19bFL6YN6EEezYhA9ofi) | 3:09 | 2022-05-05 | 2022-06-10 |
+| [acqua alta](https://open.spotify.com/track/2NO4VRLAdLxxfY5FmKqUbP) | [gorin](https://open.spotify.com/artist/022EvcUNFcshDKtoHlXYDS) | [acqua alta](https://open.spotify.com/album/7AwQchAvZcqRT5Xru3RfO5) | 2:52 | 2025-12-04 |  |
 | [Acqua Calma](https://open.spotify.com/track/6NccmfD7OI6arg2C6oZCwk) | [Ale](https://open.spotify.com/artist/4H65GddFK5t9XF60MtbVCX) | [Acqua Calma](https://open.spotify.com/album/71jeIpJNmUPD9K1eZ7b2hA) | 3:13 | 2024-05-09 | 2024-06-14 |
 | [Acqua Minerale](https://open.spotify.com/track/5GtPxUha4OOD8nJd5OivDC) | [Yna](https://open.spotify.com/artist/2c6DcIhUo15Ry8pZ7PPfau) | [Acqua Minerale](https://open.spotify.com/album/5mpTGhBlmd5swIoRlGL2cs) | 2:31 | 2025-03-27 | 2025-06-13 |
 | [Acquario & Scorpione](https://open.spotify.com/track/6gafnI4O74FPg2l78XZEgl) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [Acquario & Scorpione](https://open.spotify.com/album/4cDyy2xlGdSLJSevWQosQn) | 2:51 | 2023-04-13 | 2024-02-23 |
@@ -148,7 +149,7 @@
 | [Capita](https://open.spotify.com/track/3Lve3UdDi0J2hdCVED05Rl) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Capita](https://open.spotify.com/album/0SFoxBDFHXZGFevTRDTqdA) | 2:45 | 2023-03-23 | 2023-06-09 |
 | [Cartier](https://open.spotify.com/track/2qRv0ExcJ4Hyqqm4CTg1Gm) | [Joana](https://open.spotify.com/artist/6ETXNuvHYlQcCmfsgBI4s9) | [Cartier](https://open.spotify.com/album/3CVuAiTH0LQNp4pSB3Mmjb) | 2:54 | 2022-07-28 | 2022-12-02 |
 | [Casa](https://open.spotify.com/track/2h72ZCOgOwCLhTIdLBgRne) | [YOF](https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4) | [Lambda](https://open.spotify.com/album/0GU2uQF3HuEs5H57DnfY0d) | 2:34 | 2024-11-21 | 2025-11-14 |
-| [casa nostra](https://open.spotify.com/track/6RJBjN0wwVP2A30rnYMi7k) | [Henna](https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX) | [casa nostra](https://open.spotify.com/album/1bwnI5Xx4kiG1vrSchI7Rk) | 2:21 | 2025-10-16 |  |
+| [casa nostra](https://open.spotify.com/track/6RJBjN0wwVP2A30rnYMi7k) | [Henna](https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX) | [casa nostra](https://open.spotify.com/album/1bwnI5Xx4kiG1vrSchI7Rk) | 2:21 | 2025-10-16 | 2025-12-05 |
 | [CASSIOPEA](https://open.spotify.com/track/7i6tbPGFbaACOw0shXx26I) | [Chiara Grispo](https://open.spotify.com/artist/5nDEqav82qoReyDvxDs0l8) | [CASSIOPEA](https://open.spotify.com/album/2ssgKtNXgzQxH4iUhhWegs) | 2:33 | 2023-01-12 | 2023-03-10 |
 | [Catania](https://open.spotify.com/track/6qKFECzVLpAtAkKEr4rR9V) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Catania](https://open.spotify.com/album/2A6056JqZgERDnkuAfLCLh) | 3:11 | 2023-06-22 | 2023-07-21 |
 | [Catena](https://open.spotify.com/track/2pKikj8zRj9cLjWm1ngM1r) | [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC) | [Catena](https://open.spotify.com/album/6483X446suoGQDcMIATLTI) | 2:58 | 2022-06-30 | 2022-10-07 |
@@ -178,7 +179,7 @@
 | [CLICHÉ](https://open.spotify.com/track/09DwUc09Xu29mUPnq6eaSZ) | [Laura Di Lenola](https://open.spotify.com/artist/2ZcZ2OBjYjxxIfAXyumxJu), [Giulia Gentile](https://open.spotify.com/artist/7JbwWU3XpzJGDBKMesXECT), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [CLICHÉ](https://open.spotify.com/album/7H5QX47IRNMnMX7ZqylRnl) | 2:54 | 2025-11-13 |  |
 | [Cliché](https://open.spotify.com/track/4sCu7KuollkAt9xFFC7upq) | [Vinnie](https://open.spotify.com/artist/6n1k2UH7sL13ZVm2FXZFz6) | [Cliché](https://open.spotify.com/album/5c71nbw4lllzQE8AKXO7yH) | 2:57 | 2022-05-05 | 2022-09-09 |
 | [COLD](https://open.spotify.com/track/68Hw42cJIFcUnF364etWtX) | [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [COLD](https://open.spotify.com/album/3VNViiWGXdYoD27WEsOWi4) | 1:29 | 2024-06-06 | 2025-07-11 |
-| [Collana di perle](https://open.spotify.com/track/5YWvO7ZaRf4hgSGlqHFgb3) | [Iside](https://open.spotify.com/artist/7M52ZML6b1vagpxPL87Ny3) | [Collana di perle](https://open.spotify.com/album/6BeKSD1H9wFKG6mnxmQ7Pl) | 3:05 | 2025-10-09 |  |
+| [Collana di perle](https://open.spotify.com/track/5YWvO7ZaRf4hgSGlqHFgb3) | [Iside](https://open.spotify.com/artist/7M52ZML6b1vagpxPL87Ny3) | [Collana di perle](https://open.spotify.com/album/6BeKSD1H9wFKG6mnxmQ7Pl) | 3:05 | 2025-10-09 | 2025-12-05 |
 | [Collirio](https://open.spotify.com/track/09BP5HR8iQdhRDWQuTBBs3) | [Karo](https://open.spotify.com/artist/4t8Wy4slFXJK31m7WpiIB4) | [Collirio](https://open.spotify.com/album/2oS36I3iHPKCdX0VEszZl2) | 3:06 | 2025-07-03 |  |
 | [COLLISIONE](https://open.spotify.com/track/3E1TuHUDzlbquMmvkzbSqS) | [CARRESE](https://open.spotify.com/artist/0o03kaFDzK8R1hSe3mRepL) | [CRISALIDE](https://open.spotify.com/album/37XoPU9JXgqWCR2pW0utiP) | 3:34 | 2025-05-22 | 2025-07-25 |
 | [Come cani](https://open.spotify.com/track/40YHkyxx36ynhnW706UPdf) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Diario di scavo](https://open.spotify.com/album/1LLc5FsqVPcmEEjKkTM3Dv) | 1:56 | 2025-05-16 | 2025-07-25 |
@@ -524,6 +525,7 @@
 | [Mi Gira La Testa](https://open.spotify.com/track/114YeEt2XdzX57hb96uG7B) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [Mi Gira La Testa](https://open.spotify.com/album/5IH5AeO5aTumznJO9IL3vX) | 2:52 | 2023-06-08 | 2023-09-15 |
 | [Mi piace](https://open.spotify.com/track/1FVJXPTCvJRsr3H359CuRV) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Intro](https://open.spotify.com/album/0ZEM5B4oMJk6EAhOaekSDk) | 3:11 | 2023-06-22 | 2024-02-02 |
 | [Mi Spaventi Ancora](https://open.spotify.com/track/3WIuDBfnkq1Y6eWoRliqbg) | [Elsa](https://open.spotify.com/artist/6dimF6LZP2Y3GWwHtb6ihj) | [Mi Spaventi Ancora](https://open.spotify.com/album/0DBPhVQ9lv9w3xjwzvCXDL) | 3:04 | 2025-10-09 | 2025-11-14 |
+| [mia](https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr) | [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Nessuna](https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM) | 2:14 | 2025-12-04 |  |
 | [MIA](https://open.spotify.com/track/6Ls80JLIa598r1HcZmLsP0) | [YOF](https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4) | [MIA](https://open.spotify.com/album/6iEciEURpyky6O3yswFcRC) | 3:45 | 2024-10-24 | 2025-06-13 |
 | [Midnight](https://open.spotify.com/track/38zBWUqKuUgXRgP7xIvE2s) | [Naomi](https://open.spotify.com/artist/3dbuSqzwPQGqucy4evhJUB) | [Midnight](https://open.spotify.com/album/6FyyqpFQV4ozDqKwzgT3cI) | 2:48 | 2023-01-26 | 2023-05-05 |
 | [MILANO](https://open.spotify.com/track/33mBz8kHUd3j9Sf2fnL0S1) | [AISHA](https://open.spotify.com/artist/78S0OMZxZhxSE5WxSzJoCf) | [MILANO](https://open.spotify.com/album/7Av7omyGt9WMtZhln5aAP4) | 2:41 | 2023-04-20 | 2024-04-16 |
@@ -652,7 +654,7 @@
 | [Parisien](https://open.spotify.com/track/6cSaFsSlu0KpsGSCjDMkVm) | [GALLI](https://open.spotify.com/artist/5mBJ4KEcCGC9A92wlI4Mue), [poivediamo](https://open.spotify.com/artist/0RKXkIFbxgg9qO6QoJbKsu) | [Parisien](https://open.spotify.com/album/06xiiIgtEDYOVWd1rSFBrE) | 2:40 | 2023-12-21 | 2024-01-05 |
 | [PARLAME 'E TE \(con Federico Di Napoli & O'Tsunami\)](https://open.spotify.com/track/5hdEy03sDt2rk2hDMGUIUg) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [PARLAME 'E TE \(con Federico Di Napoli & O'Tsunami\)](https://open.spotify.com/album/4ruBCav6dbun5BYOPQq2hd) | 2:53 | 2023-08-31 | 2023-10-27 |
 | [parole dette male](https://open.spotify.com/track/72FMKiJcDj3jjUFJgLvZ5Q) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [parole dette male](https://open.spotify.com/album/2xfmbz3t4vbIQITzKJrmXd) | 3:06 | 2023-02-09 | 2023-09-15 |
-| [parole di troppo](https://open.spotify.com/track/5MBFbx7JjleoCKSYPH4Qnm) | [Martina Vinci](https://open.spotify.com/artist/0iG27dVYGCX3ggvmijHV5t) | [parole di troppo](https://open.spotify.com/album/3IK9e2n3RT4iXPmEvyhU0I) | 3:15 | 2025-10-09 |  |
+| [parole di troppo](https://open.spotify.com/track/5MBFbx7JjleoCKSYPH4Qnm) | [Martina Vinci](https://open.spotify.com/artist/0iG27dVYGCX3ggvmijHV5t) | [parole di troppo](https://open.spotify.com/album/3IK9e2n3RT4iXPmEvyhU0I) | 3:15 | 2025-10-09 | 2025-12-05 |
 | [Pas pour toi](https://open.spotify.com/track/4ScqPc9ABKT0czGYbc0HLK) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Pas pour toi](https://open.spotify.com/album/5kw4tP7YxEDnEvJm4Hj2N2) | 3:19 | 2022-06-30 | 2022-07-29 |
 | [Passatempo](https://open.spotify.com/track/70URplGTkPeSuAEISU5SxS) | [VIMINE](https://open.spotify.com/artist/0K1uWTds9AnxHTy8RJQxEH) | [Passatempo](https://open.spotify.com/album/4kZbt4bD50aQgRAg6tJwC5) | 2:47 | 2022-05-19 | 2022-09-16 |
 | [PATTO COL DIAVOLO](https://open.spotify.com/track/41hFBsAuQAwTITdJJ46ufA) | [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Una cosetta così](https://open.spotify.com/album/0jpi4GMUNZE8ABIsDpdhbw) | 4:44 | 2025-01-09 | 2025-03-21 |
@@ -686,6 +688,7 @@
 | [PRIMA DI DORMIRE](https://open.spotify.com/track/3FUU1k4zS5zkRZMtaZyNtZ) | [ADEN](https://open.spotify.com/artist/1MGI412HT7J4Ay0zGkmHbN) | [PRIMA DI DORMIRE](https://open.spotify.com/album/50yfVMIklbtgjEH7tzrilX) | 2:53 | 2025-10-16 |  |
 | [Primo Maggio](https://open.spotify.com/track/6DllcZhyq5frXtj7ZO4vas) | [LALA](https://open.spotify.com/artist/0GAwP5umLMloA0CjmqAXdt) | [Primo Maggio](https://open.spotify.com/album/3lX9ZDENH2iawKdTI2cHck) | 2:51 | 2024-04-15 | 2024-05-10 |
 | [principio](https://open.spotify.com/track/6cq9sfMJP7K5MuoOXQq3Np) | [nora lang](https://open.spotify.com/artist/1dl2ZT5IwLGsyKrOf2SSkh) | [principio](https://open.spotify.com/album/2aTMtJ3F2OJFsWlclqMC9N) | 2:30 | 2025-01-30 | 2025-06-20 |
+| [PRIVACY \(feat\. CoCo, Sissi\)](https://open.spotify.com/track/6l1vqZqrb3UOVjANkzdOIJ) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [CHI AMA NON DIMENTICA](https://open.spotify.com/album/0fnLXLFy55LD2UCeIVBo6B) | 3:01 | 2025-12-04 |  |
 | [Pugili](https://open.spotify.com/track/2kmvumjb6kvFzcfW48mqRU) | [Mockingjay](https://open.spotify.com/artist/5dl9wMnmcUlbKZBwVjno0r) | [Pugili](https://open.spotify.com/album/5LeKSfh9Nh3V15v3A43SMG) | 3:26 | 2024-04-25 | 2024-07-05 |
 | [PUGNI](https://open.spotify.com/track/7zaTBr6rFLeH9aYJx43DFJ) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [GIOVANE CUORE](https://open.spotify.com/album/1lF5COKED067Xj4KghvDtQ) | 2:37 | 2023-06-08 | 2024-02-02 |
 | [Puoi Toccarmi \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/track/0Rgf6lKDVDjg3ZuaYCeN4F) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [Manifesto](https://open.spotify.com/album/0SgiOs3fQQ3Rw6oj4nfeIF) | 4:08 | 2025-07-03 |  |

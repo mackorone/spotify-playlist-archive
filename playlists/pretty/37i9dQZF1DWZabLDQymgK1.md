@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,706 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,711 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [White Horse](https://open.spotify.com/track/3FeQweSLSbVkLcPDZuTiGX) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 3:57 |
-| 2 | [Do You Wanna Funk?](https://open.spotify.com/track/708DnJC8l1b4Bf4xg0GiBv) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO), [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Do Ya Wanna Funk](https://open.spotify.com/album/38ftZ2jxwlJof8nxwo34Ma) | 6:54 |
+| 2 | [Do You Wanna Funk?](https://open.spotify.com/track/708DnJC8l1b4Bf4xg0GiBv) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO), [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [All I Need](https://open.spotify.com/album/38ftZ2jxwlJof8nxwo34Ma) | 6:54 |
 | 3 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
 | 4 | [Plaything](https://open.spotify.com/track/6wIeea8ZJXsGB4QCGICSjC) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Plaything / Like](https://open.spotify.com/album/4zhnnXeezlwuPXyl0Ozt0z) | 6:03 |
 | 5 | [Closing Shot \- Radio Edit](https://open.spotify.com/track/5CcJXOp5pTsh4rZRMiiNJp) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/4FTzWteiP0vCyT9h3dz7G3) | 4:28 |

@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-426 songs - 22 hr 2 min
+427 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [soulforge](https://open.spotify.com/track/1Hs54M8NA5vCBPj9a786TN) | [dezoliar](https://open.spotify.com/artist/0KRNE8E0XAJKKHtSakLr85), [glossier](https://open.spotify.com/artist/0NS84XuaSPJTVRebjWQi7v), [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [soulforge](https://open.spotify.com/album/3QLh11hZLqxnad5iseuVQY) | 2:14 | 2025-07-22 |  |
 | [Spark](https://open.spotify.com/track/4EXmIFpNVoe3syAh51AA5d) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m) | [Spark](https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv) | 2:55 | 2022-05-17 | 2023-08-11 |
 | [Spicy](https://open.spotify.com/track/5vW5kWcgzgxEO28b2yaNJj) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Southby](https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA), [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657), [Conni](https://open.spotify.com/artist/3V0uGOh5VeIp99phDIgWqU) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 2:44 | 2025-07-25 |  |
+| [SPINNING](https://open.spotify.com/track/6S2x7Yuaz0koabEMabL32E) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [SPINNING](https://open.spotify.com/album/1TY1VOy9ESMbjAC0F7LHv0) | 3:41 | 2025-12-04 |  |
 | [Spirit](https://open.spotify.com/track/7w72YAANcgERnbpqcW4C5B) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Spirit](https://open.spotify.com/album/2egaLUBXUvyDbUBgi5iLzh) | 2:55 | 2022-07-12 | 2022-08-06 |
 | [Stars](https://open.spotify.com/track/6ycR39gJUREuGH48AOZH6l) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Stars](https://open.spotify.com/album/5b25BqNPFg6bgjIdEscHA4) | 3:48 | 2023-08-10 |  |
 | [Station 2](https://open.spotify.com/track/04SPo2Vjc1vmBl0oUs8GV5) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Station 2](https://open.spotify.com/album/4FjGUXNhRKcZl7ZoWUD24R) | 3:04 | 2022-02-03 | 2022-09-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,701 likes - 116 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,728 likes - 116 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

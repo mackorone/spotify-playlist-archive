@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Die On This Hill (At KOKO)",
+        "url": "https://open.spotify.com/album/5KldQvtRfCs7SQdJj7vOne"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233708,
+      "name": "Die On This Hill - At KOKO",
+      "url": "https://open.spotify.com/track/0vYVxe1X7QOpzyIJzyVG3O"
+    },
+    {
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/29uwnLOApt6HvRw3Ll83vG"
       },
@@ -1800,7 +1818,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 184800,
       "name": "maman - acoustique",
       "url": "https://open.spotify.com/track/4XelDEmRacldzskbbclmQY"

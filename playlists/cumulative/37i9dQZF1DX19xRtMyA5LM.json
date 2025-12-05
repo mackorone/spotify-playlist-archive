@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: Jack",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: Rits",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -404,7 +404,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 126553,
       "name": "AUDI",
       "url": "https://open.spotify.com/track/2z4aCFqMlVPR4mFRLBYQsI"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 173225,
       "name": "Ballie",
       "url": "https://open.spotify.com/track/66rXMEm5GJsAXEbhuLks50"
@@ -572,6 +572,24 @@
       "duration_ms": 161582,
       "name": "Banlieue",
       "url": "https://open.spotify.com/track/1GNQaqjUla0JLBM8bLxdL7"
+    },
+    {
+      "album": {
+        "name": "Beemsterstraat",
+        "url": "https://open.spotify.com/album/4fIC1wHhQghmmJZS5QmFJT"
+      },
+      "artists": [
+        {
+          "name": "SKEEKS",
+          "url": "https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140978,
+      "name": "Beemsterstraat",
+      "url": "https://open.spotify.com/track/41htoqaciyMHG4NELcoI6h"
     },
     {
       "album": {
@@ -924,7 +942,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 177238,
       "name": "Cole Palmer",
       "url": "https://open.spotify.com/track/5NgKjKEhbOoGDGlYXELt48"
@@ -1438,6 +1456,24 @@
       "duration_ms": 175000,
       "name": "Four Seasons",
       "url": "https://open.spotify.com/track/4rE4wH0M37WexhVZN4XDgi"
+    },
+    {
+      "album": {
+        "name": "Frero",
+        "url": "https://open.spotify.com/album/68wWdT1PdnGk3f6MEd4zqV"
+      },
+      "artists": [
+        {
+          "name": "CC",
+          "url": "https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116756,
+      "name": "Frero",
+      "url": "https://open.spotify.com/track/5Sa1kJ5fYrziM3d5q3Vy05"
     },
     {
       "album": {
@@ -2314,6 +2350,28 @@
       "duration_ms": 158709,
       "name": "Knieblessure",
       "url": "https://open.spotify.com/track/0ImxzJIYD7irNZR9yUuRT0"
+    },
+    {
+      "album": {
+        "name": "Andere Man",
+        "url": "https://open.spotify.com/album/4F7HRc2bLbvOWKA2IoOisH"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244989,
+      "name": "Koning Winter (feat. Chivv)",
+      "url": "https://open.spotify.com/track/3tX0OsoZ6u4l20LN3narOr"
     },
     {
       "album": {
@@ -3227,6 +3285,40 @@
     },
     {
       "album": {
+        "name": "ORIGINAL",
+        "url": "https://open.spotify.com/album/7cskRHFG3WHGxv1BRXDPRH"
+      },
+      "artists": [
+        {
+          "name": "Rockywhereyoubeen",
+          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Avie",
+          "url": "https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i"
+        },
+        {
+          "name": "Orco",
+          "url": "https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7"
+        },
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "ORIGINAL",
+      "url": "https://open.spotify.com/track/5cGVzKtpAVYJakSGLg323D"
+    },
+    {
+      "album": {
         "name": "Springplank 2 (Deluxe)",
         "url": "https://open.spotify.com/album/2H3WpgJ9cxgjMcVSwAJTlL"
       },
@@ -3586,6 +3678,24 @@
       "duration_ms": 175058,
       "name": "Prijs",
       "url": "https://open.spotify.com/track/3ElTmYcOU3GiCjahzceRti"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165937,
+      "name": "Prijskaart - Intro",
+      "url": "https://open.spotify.com/track/3iqHnpBdeVvXti6wAEAz23"
     },
     {
       "album": {
@@ -4010,7 +4120,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 149793,
       "name": "Slide",
       "url": "https://open.spotify.com/track/6jAc3YHbqtYNZh8s7VjTMX"
@@ -4448,7 +4558,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 225312,
       "name": "To the Max",
       "url": "https://open.spotify.com/track/5XjhvR5rKcug7q8DKyxzlm"
@@ -4474,6 +4584,42 @@
       "duration_ms": 195349,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/02SkhSShsYpPPAmqwdJi6B"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Rits",
+          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/7cgggy3ha5vFg1J96sI93o"
+    },
+    {
+      "album": {
+        "name": "TRANQUILLO",
+        "url": "https://open.spotify.com/album/2hIBuW8ozqyF7Uv8D6gC8G"
+      },
+      "artists": [
+        {
+          "name": "Gregossan",
+          "url": "https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166071,
+      "name": "TRANQUILLO",
+      "url": "https://open.spotify.com/track/7yCQnZXobkhuUhou4F9kog"
     },
     {
       "album": {
@@ -4528,7 +4674,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 158350,
       "name": "Uitleg",
       "url": "https://open.spotify.com/track/0lnivkeapkbfg6I4HGsSB1"
@@ -5062,7 +5208,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 189000,
       "name": "zeg minder",
       "url": "https://open.spotify.com/track/2qdj9PwjhStrQPgYVIlLJs"

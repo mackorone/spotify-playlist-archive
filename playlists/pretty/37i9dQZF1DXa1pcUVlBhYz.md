@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Storm Mollison
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,125 likes - 73 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,123 likes - 73 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 52 | [Street Wave](https://open.spotify.com/track/7wNSIsR4P9KocevzBFKoR8) | [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d), [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW) | [Lift Off](https://open.spotify.com/album/6yE8MgmmLOSmPWF2tNf2Xa) | 12:47 |
 | 53 | [Gorilla](https://open.spotify.com/track/3C3KiDRo8j7K9jHVOZL6fn) | [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Gorilla](https://open.spotify.com/album/6NBi7dtoFW2OR2YnoKe9qX) | 3:22 |
 | 54 | [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 |
-| 55 | [Shake It To The Max \(FLY\) \- Major Lazer Remix](https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Shake It To The Max \(FLY\) \(Major Lazer Remix\)](https://open.spotify.com/album/5ILhc6FDbh6qqA22QLjnoh) | 2:50 |
+| 55 | [Shake It To The Max \(FLY\) \[Major Lazer Remix\]](https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\) \[Major Lazer Remix\]](https://open.spotify.com/album/5ILhc6FDbh6qqA22QLjnoh) | 2:50 |
 | 56 | [NEW JAZZ SCHMELL](https://open.spotify.com/track/7ykuqDu99KoMR4rrIMYjo4) | [HiTech](https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X) | [HONEYPAQQ Vol\. 1](https://open.spotify.com/album/39a65YwPV02rR2sHpA9qe6) | 2:32 |
 | 57 | [Strip Game](https://open.spotify.com/track/37rsmkJYg9z8vYSFaZawyp) | [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII), [gum.mp3](https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa), [Leon English](https://open.spotify.com/artist/3DDQP8jWMbEJbnSWyYb5pC) | [Strip Game](https://open.spotify.com/album/1OZmAf8L5vZRqxuICq6xaA) | 5:59 |
 | 58 | [One One Time](https://open.spotify.com/track/1FeAGhoYss8MkCih7wNd0I) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [One One Time](https://open.spotify.com/album/6CZs48MveP2X8GlqoKJm2j) | 3:04 |

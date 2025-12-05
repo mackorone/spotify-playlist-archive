@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Leatherette in cover",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Thomas Raggi in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 159376,
       "name": "(la mia testa)",
       "url": "https://open.spotify.com/track/0RvGbzqDHWR8jAIC2eUxjL"
@@ -2088,10 +2088,28 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 146302,
       "name": "Ariete",
       "url": "https://open.spotify.com/track/68SJKltlLTfb1FhsQFVYuV"
+    },
+    {
+      "album": {
+        "name": "Arise I",
+        "url": "https://open.spotify.com/album/4MUmMs8ubQqlUkwuwwRmDV"
+      },
+      "artists": [
+        {
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196240,
+      "name": "Arise I",
+      "url": "https://open.spotify.com/track/3UmcTDmRpuS2GuMeaFNNHH"
     },
     {
       "album": {
@@ -4458,7 +4476,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 159260,
       "name": "Campione",
       "url": "https://open.spotify.com/track/2OAio52m2m08JzvRXKF31F"
@@ -5040,6 +5058,28 @@
       "duration_ms": 135333,
       "name": "Castle Night",
       "url": "https://open.spotify.com/track/0Hrja85o2Z7Wd7pEsmnwjS"
+    },
+    {
+      "album": {
+        "name": "MASQUERADE",
+        "url": "https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo"
+      },
+      "artists": [
+        {
+          "name": "Thomas Raggi",
+          "url": "https://open.spotify.com/artist/7h78e3zJw6pDP7JzBqQUsN"
+        },
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172416,
+      "name": "CAT GOT YOUR TONGUE (with Kasabian) - prod. Tom Morello",
+      "url": "https://open.spotify.com/track/7AOwgVctI9mwZta4wAw3qI"
     },
     {
       "album": {
@@ -6946,7 +6986,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 193646,
       "name": "CUORE RIBELLE",
       "url": "https://open.spotify.com/track/3sjivOY68R65JimhZFEbkl"
@@ -8716,6 +8756,24 @@
       "duration_ms": 139511,
       "name": "EMPTY HEART",
       "url": "https://open.spotify.com/track/2HOQ6xXPLCqAGiivOKmjVo"
+    },
+    {
+      "album": {
+        "name": "End of the Year",
+        "url": "https://open.spotify.com/album/3UghR5qoMeGM9YQTZ9uwpw"
+      },
+      "artists": [
+        {
+          "name": "TA GA DA",
+          "url": "https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199892,
+      "name": "End of the Year",
+      "url": "https://open.spotify.com/track/55JcTxVmBC4bVeO42IoRPh"
     },
     {
       "album": {
@@ -11334,6 +11392,36 @@
       "duration_ms": 141323,
       "name": "GET ROWDY",
       "url": "https://open.spotify.com/track/0wgmtqKdAKnOAFtR4b1mGB"
+    },
+    {
+      "album": {
+        "name": "MASQUERADE",
+        "url": "https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo"
+      },
+      "artists": [
+        {
+          "name": "Thomas Raggi",
+          "url": "https://open.spotify.com/artist/7h78e3zJw6pDP7JzBqQUsN"
+        },
+        {
+          "name": "Nic Cester",
+          "url": "https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP"
+        },
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        },
+        {
+          "name": "Chad Smith",
+          "url": "https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182132,
+      "name": "GETCHA! (with Nic Cester, Jet & Chad Smith) - prod. Tom Morello",
+      "url": "https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk"
     },
     {
       "album": {
@@ -13968,7 +14056,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 247733,
       "name": "Invincibile",
       "url": "https://open.spotify.com/track/2unSwkECQYdoKizAR9sCdg"
@@ -13990,6 +14078,24 @@
       "duration_ms": 194027,
       "name": "Invisibile",
       "url": "https://open.spotify.com/track/2Arm5lPwb1mUayrzYy6EZN"
+    },
+    {
+      "album": {
+        "name": "Invisible Resistance",
+        "url": "https://open.spotify.com/album/5Ksi6Eti6m3Ca2a7sTouVs"
+      },
+      "artists": [
+        {
+          "name": "Mefisto Brass",
+          "url": "https://open.spotify.com/artist/4o80wdLKsjTke6wFkQdC47"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222545,
+      "name": "Invisible Resistance",
+      "url": "https://open.spotify.com/track/2rVDvlMIpTJIUCWh8Zfwvv"
     },
     {
       "album": {
@@ -14829,6 +14935,24 @@
     },
     {
       "album": {
+        "name": "Galactic Night Pt.2: L'arca dei nuovi maestri",
+        "url": "https://open.spotify.com/album/6jCpV1oeLl7kEwW7uEhDia"
+      },
+      "artists": [
+        {
+          "name": "Festa del Perdono",
+          "url": "https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184940,
+      "name": "L'arca dei nuovi maestri",
+      "url": "https://open.spotify.com/track/5ONA8c8ZexzY8sMx8YwFEr"
+    },
+    {
+      "album": {
         "name": "l'arte pi\u00f9 assurda",
         "url": "https://open.spotify.com/album/31DV1IlD67pbVMzGcLBOcl"
       },
@@ -15086,7 +15210,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 197413,
       "name": "La Diavoletto",
       "url": "https://open.spotify.com/track/5UsjmEA6m4yRbB0Ib1hEg9"
@@ -16063,6 +16187,24 @@
     },
     {
       "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/3JYVaLMq6QBneVXbymOmHd"
+      },
+      "artists": [
+        {
+          "name": "Painted Vein",
+          "url": "https://open.spotify.com/artist/1Yz4iQXuDT8WRluhIxYHLa"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213751,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/7s7khJzZY9msU7ylxVJCd9"
+    },
+    {
+      "album": {
         "name": "Leggenda Pe' na sera - La Forza (VIII)",
         "url": "https://open.spotify.com/album/1F4FZfLKdZTTjQVQb0XaZQ"
       },
@@ -16684,7 +16826,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 162900,
       "name": "Lontano",
       "url": "https://open.spotify.com/track/0cbHjSd3Lz5dDlfVhGgqud"
@@ -19050,6 +19192,24 @@
       "duration_ms": 259213,
       "name": "Nabucodonosor",
       "url": "https://open.spotify.com/track/5mA4Cos6BfYdAbstzE1Ood"
+    },
+    {
+      "album": {
+        "name": "Nati Inciampati",
+        "url": "https://open.spotify.com/album/723h0rH3uw8CQ8LKj3mPYQ"
+      },
+      "artists": [
+        {
+          "name": "SPEAKEASY",
+          "url": "https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225365,
+      "name": "Nati Inciampati",
+      "url": "https://open.spotify.com/track/0mF3hBVmWoJj0JFpGXfxwh"
     },
     {
       "album": {
@@ -24435,6 +24595,24 @@
     },
     {
       "album": {
+        "name": "Ricordi",
+        "url": "https://open.spotify.com/album/5JpzCQH4KimLOWZlj5XFpZ"
+      },
+      "artists": [
+        {
+          "name": "Atlante",
+          "url": "https://open.spotify.com/artist/0xLBGvXZZt5vhuTOtqXrvY"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/5M5NTwHNNLgoOKSMoatBEk"
+    },
+    {
+      "album": {
         "name": "RIFUGIO",
         "url": "https://open.spotify.com/album/5EmY22mrqKRj22pOfERXmv"
       },
@@ -26073,6 +26251,24 @@
     },
     {
       "album": {
+        "name": "Shores",
+        "url": "https://open.spotify.com/album/7FVZl9evgiXBTdiiIqposY"
+      },
+      "artists": [
+        {
+          "name": "Earthset",
+          "url": "https://open.spotify.com/artist/27FihPbgJOaSdAyq9kgb9t"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301043,
+      "name": "Shores",
+      "url": "https://open.spotify.com/track/2j67lcVuHb853Li20wB95Y"
+    },
+    {
+      "album": {
         "name": "Showu",
         "url": "https://open.spotify.com/album/13luLECarR62ppW5Eou17m"
       },
@@ -27632,7 +27828,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 169565,
       "name": "stupido e facile",
       "url": "https://open.spotify.com/track/3ZZcoJMcgDGAp6vKFYRYHU"
@@ -29237,6 +29433,24 @@
     },
     {
       "album": {
+        "name": "FIVE EGGS",
+        "url": "https://open.spotify.com/album/6Pv0otbP9L0QWHxBvtBlpC"
+      },
+      "artists": [
+        {
+          "name": "Dumbo Gets Mad",
+          "url": "https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185987,
+      "name": "Torre Velasca",
+      "url": "https://open.spotify.com/track/6mndwtQ1j1YZ4gbRmLEkQX"
+    },
+    {
+      "album": {
         "name": "Animali",
         "url": "https://open.spotify.com/album/0QyUJdtQoZYZ2TfXCWRagB"
       },
@@ -29342,6 +29556,28 @@
       "duration_ms": 159520,
       "name": "TRAGEDIA MODERNA",
       "url": "https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu"
+    },
+    {
+      "album": {
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/3qUuPrWf5NjWR29GdcpJnt"
+      },
+      "artists": [
+        {
+          "name": "WEL",
+          "url": "https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v"
+        },
+        {
+          "name": "Why Everyone Left",
+          "url": "https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160083,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/2VFEjS42V3FvfLaBTDWKKP"
     },
     {
       "album": {
@@ -29558,7 +29794,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 219434,
       "name": "TROPPA PUBBLICIT\u00c0",
       "url": "https://open.spotify.com/track/1cupmwZiaoP36x7lIPkQoY"
@@ -30302,6 +30538,24 @@
       "duration_ms": 204601,
       "name": "Un istante",
       "url": "https://open.spotify.com/track/1QEnFPeGqRVdXROMPEiIX5"
+    },
+    {
+      "album": {
+        "name": "Lontani abbastanza",
+        "url": "https://open.spotify.com/album/5tnSVEB87ReCCJKjp9BO9l"
+      },
+      "artists": [
+        {
+          "name": "Aida",
+          "url": "https://open.spotify.com/artist/5uyVp3NFeumolvASoIWWXp"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255712,
+      "name": "Un luned\u00ec",
+      "url": "https://open.spotify.com/track/2ZmvctLeedlKoL8PslMpfh"
     },
     {
       "album": {

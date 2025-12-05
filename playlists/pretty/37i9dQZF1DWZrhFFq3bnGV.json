@@ -1,13 +1,33 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Sliver",
-  "num_followers": 113480,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Societeit de Harmonie, Natasya Elvira",
+  "num_followers": 113499,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACZKbGoDLvtcALvNbWJN4Ovv5dOJ",
+  "snapshot_id": "AAAAAEz3oY1OctfPg4l0QN9vYClYtjNs",
   "tracks": [
+    {
+      "added_at": "2025-12-04 20:00:25",
+      "album": {
+        "name": "Petir",
+        "url": "https://open.spotify.com/album/1paDGm5DF3qD6j0jPCfSMh"
+      },
+      "artists": [
+        {
+          "name": "Societeit de Harmonie",
+          "url": "https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9"
+        },
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        }
+      ],
+      "duration_ms": 146188,
+      "name": "Petir",
+      "url": "https://open.spotify.com/track/54pQxeXhe2uA9ZkD8gk7aX"
+    },
     {
       "added_at": "2025-11-27 18:00:32",
       "album": {

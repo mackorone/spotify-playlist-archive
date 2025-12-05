@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Jassin, Edwin Rosen",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Berq, Paula Hartmann",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -788,7 +788,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 143669,
       "name": "4000 Grad",
       "url": "https://open.spotify.com/track/072I9eZXzqc4FTcihvofjR"
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 171214,
       "name": "anthony",
       "url": "https://open.spotify.com/track/74U5rV0btSqg1JlzmbNOvP"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 272000,
       "name": "Athena.",
       "url": "https://open.spotify.com/track/3KmZ2jOha2rVbY4UbVNYdr"
@@ -2434,6 +2434,24 @@
       "duration_ms": 204275,
       "name": "Augen sind rot",
       "url": "https://open.spotify.com/track/4AKX4MsoqMnhrJ2qDh3tCJ"
+    },
+    {
+      "album": {
+        "name": "augen zu:auf",
+        "url": "https://open.spotify.com/album/1hBRNebqswtEj9HLGILMAI"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150779,
+      "name": "augen zu:auf",
+      "url": "https://open.spotify.com/track/4CiYWQI7YtNCzTtF1XxK0h"
     },
     {
       "album": {
@@ -3894,7 +3912,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 149132,
       "name": "Blut und Wasser",
       "url": "https://open.spotify.com/track/45lL0A8LVqcX3ISo3NKxj0"
@@ -5718,6 +5736,28 @@
       "duration_ms": 88000,
       "name": "Die Sterne",
       "url": "https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad"
+    },
+    {
+      "album": {
+        "name": "die welt geht vor die hunde",
+        "url": "https://open.spotify.com/album/2WDVP6HevVbI5AmJZqunYY"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171864,
+      "name": "die welt geht vor die hunde",
+      "url": "https://open.spotify.com/track/3uIHHIE5MiDrPj0YdpfeDO"
     },
     {
       "album": {
@@ -7935,6 +7975,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "lovehead",
+          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165461,
+      "name": "fanta lustig",
+      "url": "https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE"
+    },
+    {
+      "album": {
         "name": "Farben",
         "url": "https://open.spotify.com/album/720iPf3MprVFWIerPdiuH9"
       },
@@ -9960,7 +10018,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 124200,
       "name": "glasaugen",
       "url": "https://open.spotify.com/track/6djkV1yYg9Bbm99sogepBZ"
@@ -10420,6 +10478,24 @@
       "duration_ms": 139915,
       "name": "Haifischbecken",
       "url": "https://open.spotify.com/track/2sL7gSkWNsHU3zEMT67edU"
+    },
+    {
+      "album": {
+        "name": "Haifischbecken",
+        "url": "https://open.spotify.com/album/6rfaLEpqZaRoEIg1Q8JP27"
+      },
+      "artists": [
+        {
+          "name": "Yasola",
+          "url": "https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192204,
+      "name": "Haifischbecken",
+      "url": "https://open.spotify.com/track/2ppiU0ulKCsMTbA72tUa5k"
     },
     {
       "album": {
@@ -12975,6 +13051,28 @@
     },
     {
       "album": {
+        "name": "juli",
+        "url": "https://open.spotify.com/album/74Ol3ScDT8UobOYD6e5Ba9"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        },
+        {
+          "name": "freddy",
+          "url": "https://open.spotify.com/artist/1wZSsamMhiSbUH81WUUNik"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162201,
+      "name": "juli",
+      "url": "https://open.spotify.com/track/0rbvydYLBS92meYf6S0b7D"
+    },
+    {
+      "album": {
         "name": "Juli",
         "url": "https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR"
       },
@@ -13308,7 +13406,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 172405,
       "name": "KANDY PAINT",
       "url": "https://open.spotify.com/track/0zG9TepWDTc8nmINN9sKja"
@@ -13896,7 +13994,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 152405,
       "name": "kind",
       "url": "https://open.spotify.com/track/0tuKgkTNhji7ygQAQ8PU4w"
@@ -14203,6 +14301,28 @@
     },
     {
       "album": {
+        "name": "Gegenteil von Gl\u00fcck",
+        "url": "https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252813,
+      "name": "Knopf",
+      "url": "https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO"
+    },
+    {
+      "album": {
         "name": "Koffer",
         "url": "https://open.spotify.com/album/1GaRHGGzkqxaeUfEX77ZIg"
       },
@@ -14438,6 +14558,24 @@
       "duration_ms": 214087,
       "name": "Kreise Durch Die Stadt",
       "url": "https://open.spotify.com/track/2Q8YCUUqYP0K01bcs6RBVB"
+    },
+    {
+      "album": {
+        "name": "Kreislauf",
+        "url": "https://open.spotify.com/album/3uZtKPX2VrGNnIIH6M1mV4"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228271,
+      "name": "Kreislauf",
+      "url": "https://open.spotify.com/track/63u7y0YEzhZxsh7Blg6kEa"
     },
     {
       "album": {
@@ -15923,6 +16061,24 @@
     },
     {
       "album": {
+        "name": "Luftschloss",
+        "url": "https://open.spotify.com/album/5V95AEIQjYt8Nyi8ZDNJTF"
+      },
+      "artists": [
+        {
+          "name": "amelie",
+          "url": "https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Luftschloss",
+      "url": "https://open.spotify.com/track/0ytjzXzOlaeQ9aSf0tuY8D"
+    },
+    {
+      "album": {
         "name": "Erinnerst du dich",
         "url": "https://open.spotify.com/album/6HGoY1yJ9SvuXzbZz5k037"
       },
@@ -15934,7 +16090,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 150400,
       "name": "Luftschloss",
       "url": "https://open.spotify.com/track/1NJ1BkSyT0PAcbCPOQmtmJ"
@@ -16356,7 +16512,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 292480,
       "name": "Mars",
       "url": "https://open.spotify.com/track/2pBJ5niLIzgziC8MsL7A4F"
@@ -17134,7 +17290,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 123820,
       "name": "Monobloc",
       "url": "https://open.spotify.com/track/2IhPaNuIuFIFE7r4eOgOhh"
@@ -19375,6 +19531,24 @@
     },
     {
       "album": {
+        "name": "poly",
+        "url": "https://open.spotify.com/album/3sjkeYKldsVyjX30BBe7o2"
+      },
+      "artists": [
+        {
+          "name": "Leon Wiesmann",
+          "url": "https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200961,
+      "name": "poly",
+      "url": "https://open.spotify.com/track/51tSxmzv9ihPf4G9ExE3YQ"
+    },
+    {
+      "album": {
         "name": "Pornos im Bett",
         "url": "https://open.spotify.com/album/2weTrhDqRtdQODZ6z4bDVd"
       },
@@ -21325,6 +21499,24 @@
     },
     {
       "album": {
+        "name": "seht ihr nicht",
+        "url": "https://open.spotify.com/album/4iWsaNsrCtN9CxkezlAve8"
+      },
+      "artists": [
+        {
+          "name": "mathi",
+          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173205,
+      "name": "seht ihr nicht",
+      "url": "https://open.spotify.com/track/1vN8sBtdKTaP72Gi8pW5rD"
+    },
+    {
+      "album": {
         "name": "Seifenblase",
         "url": "https://open.spotify.com/album/452pLNzYYdjvWsVlIc0i08"
       },
@@ -21412,7 +21604,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 179960,
       "name": "Seit wir erwachsen sind",
       "url": "https://open.spotify.com/track/4m18s3OAsBUspP2IxQ6xP8"
@@ -22722,6 +22914,24 @@
       "duration_ms": 127206,
       "name": "Spaghetti (bitte k\u00fcss mich)",
       "url": "https://open.spotify.com/track/14a2h2TpfHk3wj7WZBH91W"
+    },
+    {
+      "album": {
+        "name": "spa\u00df am glas",
+        "url": "https://open.spotify.com/album/37RCFSxjxhHmexsikCrM78"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142777,
+      "name": "spa\u00df am glas",
+      "url": "https://open.spotify.com/track/6l2mUaALK4zninxazzwFTN"
     },
     {
       "album": {

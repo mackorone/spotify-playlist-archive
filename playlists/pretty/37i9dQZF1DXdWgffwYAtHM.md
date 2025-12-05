@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Creators do mês: <a href="spotify:show:6tm0VBIICzSjddzmSN7BmS">Irrisório Show</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,872 likes - 11 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,871 likes - 11 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 10 | [amizades na vida adulta](https://open.spotify.com/episode/1SAKNmLH847SKGVvWnwf4O) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 15:43 |
 | 11 | [\#180\. Conturbado](https://open.spotify.com/episode/1IMdhTHWEqDT3KtVpkDUSf) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 32:00 |
 
-Snapshot ID: `AAAAAKYo8mS9j0jmiarfkPTvRvo68f5Q`
+Snapshot ID: `AAAAAGcXX2UWUeAH74+MOdDTH+dqsem1`

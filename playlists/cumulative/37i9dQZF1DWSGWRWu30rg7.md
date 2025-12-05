@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
-> Temukan beragam musik dari talenta segar dalam negri\. Cover: Satrio Pamungkas
+> Temukan beragam musik dari talenta segar dalam negri\. Cover: RACH?
 
-5,293 songs - 13 day 12 hr 3 min
+5,300 songs - 13 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [\(Cepat\) Pulang](https://open.spotify.com/track/5MVPEnPjfYE48P5fQDCcby) | [Ostribe](https://open.spotify.com/artist/7mUgxHH5FnALOqsUrCfxyu), [Elisabeth Rosalia](https://open.spotify.com/artist/4BrfMCrIonMhZI4nQj3iHj) | [\(Cepat\) Pulang](https://open.spotify.com/album/2cCzwaI7pNaSq1mGismG5R) | 5:10 | 2023-05-18 | 2023-06-02 |
 | [\(Dia\) Baru Putus](https://open.spotify.com/track/6ys70HEh9z5pQQkFFLsEBp) | [Yefta James](https://open.spotify.com/artist/53JE15MHpLCg3CTaphdiQQ) | [\(Dia\) Baru Putus](https://open.spotify.com/album/5VZwE0iVL9VStJ5BLOetPf) | 5:11 | 2024-02-08 | 2024-02-23 |
 | [\(Ne\)ver in My Life](https://open.spotify.com/track/655Kut0QcoaCPgGFvyDodz) | [Angie Krisnawan](https://open.spotify.com/artist/0pZy95MXIJ3Ui3YgMti7nQ) | [\(Ne\)ver in My Life](https://open.spotify.com/album/4L2mC7NyBRcFjCme1sxTdX) | 2:52 | 2024-05-02 | 2024-06-01 |
+| [\(NO\)STALGIA](https://open.spotify.com/track/75FuKBIZqdI5FiMFKWSUZF) | [DAYFAIR](https://open.spotify.com/artist/3grE5TqsfwLPsljwMAnPEl), [N0en](https://open.spotify.com/artist/2gv3tIgZWNY7aCgha1y6cs) | [\(NO\)STALGIA](https://open.spotify.com/album/5gf4SHNy7X21805le62wgA) | 3:13 | 2025-12-04 |  |
 | [\(Tanpa\) Orang Dalam](https://open.spotify.com/track/4vwhbvq90bfPLRobwtG0hE) | [Tarrzankota](https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2), [YOSH](https://open.spotify.com/artist/2wHazSJnTevLiiJzn70GX7) | [\(Tanpa\) Orang Dalam](https://open.spotify.com/album/7ty4V3XzW1WGfM0WjdBJLP) | 2:00 | 2022-05-05 | 2022-05-20 |
 | [\(Te\)enage Years](https://open.spotify.com/track/19PnJNaQ7sxWBdsLjITicp) | [Angie Kris](https://open.spotify.com/artist/0h4oxekpd6qHoZrj6RWmEv), [Justin Anda](https://open.spotify.com/artist/0wk3mzjBEjxFTkqA57Mx2V) | [Might Be Teen Insanity](https://open.spotify.com/album/0KavCPtgeb4V2rDwgPQdvT) | 2:58 | 2024-12-19 | 2025-02-07 |
 | [+Pikiran Liar+](https://open.spotify.com/track/6vxp3DYpk7xZUDPzYy96c5) | [Chūsha](https://open.spotify.com/artist/14qvOZ9N420mYXnkGfR2Ly) | [+Pikiran Liar+](https://open.spotify.com/album/1Sen6t8aUUo3s6HIW4Ob7z) | 2:34 | 2023-06-22 | 2023-07-07 |
@@ -1107,6 +1108,7 @@
 | [Di Ujung Nanti](https://open.spotify.com/track/5PPey6b0hClnIW1CtYgS4G) | [Ezraa](https://open.spotify.com/artist/20XiR3qSxCwkUp0htFoDDP), [Emanuel Aji](https://open.spotify.com/artist/5FYYQzEtcNyNpkJrSR5aeo) | [Di Ujung Nanti](https://open.spotify.com/album/3ORZorvqGE8iEo6g4Rw2NZ) | 3:41 | 2023-08-17 | 2023-09-01 |
 | [Di Ujung Pagi](https://open.spotify.com/track/3ksgqLsQ5nNNCFw9nlk2t9) | [Cocolite](https://open.spotify.com/artist/143AiWSohasQDmU3z93zap) | [GENERASI](https://open.spotify.com/album/2rNazgXMUbeBuY3OoOrWx2) | 4:58 | 2025-09-18 | 2025-10-17 |
 | [Di Zaman Ini](https://open.spotify.com/track/2l7scnouCkSI1uSLTB3KIh) | [Liberalmistik](https://open.spotify.com/artist/4EDN1l1UYxlYmtRcpbwNi9) | [Di Zaman Ini](https://open.spotify.com/album/57tmPFQPSP7RgRjbHr4O6u) | 4:36 | 2024-09-19 | 2024-10-12 |
+| [Dia](https://open.spotify.com/track/1f3hhBtP2kjN8Oz5WVP66Y) | [Putri Jasmin](https://open.spotify.com/artist/6Pl3FO3ZfzNMhQtHWnXe1O) | [Dia](https://open.spotify.com/album/4zTUuam3j7T9KjRVjYVibM) | 4:19 | 2025-12-04 |  |
 | [Dia](https://open.spotify.com/track/0fZfGuXeSL9O9algr4Yjmn) | [Sanctuary Moon](https://open.spotify.com/artist/6dK7kZMMPNAkkPmt9Ndjfu) | [Dia](https://open.spotify.com/album/5H0zzM5egYxwgD7GoQpjGg) | 3:34 | 2022-02-03 | 2022-02-18 |
 | [Dia Bukan Milikku](https://open.spotify.com/track/6JmwcjjjoxOUz8FkaHIt7Z) | [Navis Adhytia](https://open.spotify.com/artist/69vr05FSoXpwLAKb9OPJV8) | [Dia Bukan Milikku](https://open.spotify.com/album/5YcmNHbYjBDuD8IYYmSS1i) | 4:40 | 2023-07-27 | 2023-08-12 |
 | [Dia Hilang](https://open.spotify.com/track/4W7BhHaY9VSCY2eG9MTDPE) | [Rigaskara](https://open.spotify.com/artist/2cfQKHwOPRF2UyEiKLexPW) | [Dia Hilang](https://open.spotify.com/album/2kU3Nm9GcM0fmBQpu7IP4E) | 2:50 | 2024-11-29 | 2025-01-10 |
@@ -1203,6 +1205,7 @@
 | [Don’t Leave Me on My Own](https://open.spotify.com/track/1gKFMTNytZMo9WJPbFp33R) | [Mega Bhu](https://open.spotify.com/artist/30hNhIAEL9CI7804oMJXS6) | [Don’t Leave Me on My Own](https://open.spotify.com/album/6YKpHOd0WryEUAWsvFVma2) | 4:42 | 2023-01-12 | 2023-01-27 |
 | [Doomscroll](https://open.spotify.com/track/5loVsCO8rzOGRv0samlLzK) | [GVSDAN](https://open.spotify.com/artist/6LsMIGrfvZsKnxVCM4NGuX) | [Self\-Loop](https://open.spotify.com/album/7j7wGmcB7ukQlbRsg7fDPR) | 3:02 | 2025-02-13 | 2025-03-14 |
 | [Dopamine](https://open.spotify.com/track/6nIdc63CNRI3CqmqFrTXiN) | [Atha Rafif](https://open.spotify.com/artist/6DFJ8h0sIeIpd39fcliTwa) | [Dopamine](https://open.spotify.com/album/1zSFbB5v2xqSBdwboNu5Oh) | 4:12 | 2023-04-27 | 2023-05-19 |
+| [Dopamine](https://open.spotify.com/track/3aie1YivGTXPvouvVAMl9h) | [RACH?](https://open.spotify.com/artist/2Ha1m0lk3Eo8FyDa6eNfgd) | [Dopamine](https://open.spotify.com/album/3ThSbVY6TuSGjbkJGOVFPp) | 3:59 | 2025-12-04 |  |
 | [Doping](https://open.spotify.com/track/1KJyQngPZYS22OAsXS0iNA) | [Garux](https://open.spotify.com/artist/30En3Y1GXkqhvf9AGz7sTV) | [Doping](https://open.spotify.com/album/6WpYVa8NWpLVK8ndgUpqcK) | 4:14 | 2023-10-19 | 2023-11-10 |
 | [DORA, DORA](https://open.spotify.com/track/2Mwcvy4acEJu50hwLTXIZj) | [Tacbo](https://open.spotify.com/artist/5224c570dMiD896ZBEr7YW) | [DORA, DORA](https://open.spotify.com/album/4ExDDeQeeFVKiBNA0cPHuk) | 2:43 | 2023-09-07 | 2023-09-23 |
 | [Double Happiness \- Freestyle](https://open.spotify.com/track/17nt31Y4kYcgnIewfwxIfW) | [Davi Sol](https://open.spotify.com/artist/3zJT799hLRH5sT6AucfyPD) | [Double Happiness \(Freestyle\)](https://open.spotify.com/album/415fpCbsmyIl1XDlxeErUt) | 3:05 | 2023-06-08 | 2023-06-23 |
@@ -1766,6 +1769,7 @@
 | [HEALING](https://open.spotify.com/track/21HyRSI1QHYIPkxWWqQAxG) | [MIRO](https://open.spotify.com/artist/6sV7aktTOOdO9fWAlwAlx8) | [HEALING](https://open.spotify.com/album/7d0QWFDtUjMFZW8RxNlHfR) | 3:30 | 2022-02-24 | 2022-03-11 |
 | [Healing Dreams](https://open.spotify.com/track/2OvD7nNSfeAeP5TIkpFlWW) | [Thesar](https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP), [Ria Zipie](https://open.spotify.com/artist/2ljjjQySqVBzkhABSUX8oa), [Jonathan Ceasar](https://open.spotify.com/artist/4N71Gznhu7HRtSGEAgFFxh) | [Healing Dreams](https://open.spotify.com/album/28fIwCAee0C0HmVJOT0pja) | 2:46 | 2023-10-05 | 2023-10-27 |
 | [Heals](https://open.spotify.com/track/5npkfypTIG1Qht2mMFJIeg) | [Girl and Her Bad Mood](https://open.spotify.com/artist/6OrXXlULRd9rXVeFIzLbFr) | [Heals](https://open.spotify.com/album/1g79ovkZBPuIBm0mWrgqHv) | 4:14 | 2023-09-19 | 2023-10-06 |
+| [Heart](https://open.spotify.com/track/0whopGrUiGyu4x0Xdv1SKG) | [Cella Eve](https://open.spotify.com/artist/1B9ph8JJgqcDtTsTKcjJvV) | [Heart](https://open.spotify.com/album/6zDg5BoGqcsd8vAqYJ5Xou) | 3:14 | 2025-12-04 |  |
 | [Heart Of Ours](https://open.spotify.com/track/5eGdTjxMaJpbsh1MumZaMG) | [Radinal](https://open.spotify.com/artist/7jtCIfuhpqFUoFax7JE0Jg) | [Heart Of Ours](https://open.spotify.com/album/5MheIdiAYy7wB9NH9zK9x9) | 3:38 | 2023-08-24 | 2023-09-08 |
 | [Heart On The Floor](https://open.spotify.com/track/4cRs6JgmNt9Hu9KWEugaFr) | [Jaybag](https://open.spotify.com/artist/6fVPj9LNi7dgkG1luLMOCx) | [Road Trippin](https://open.spotify.com/album/7BXfx3SULl2aXArAd3VWXl) | 1:48 | 2022-09-22 | 2022-10-07 |
 | [Heart Shaped Box](https://open.spotify.com/track/6ZBAbywnnN884MojuPt305) | [Toska Avenue](https://open.spotify.com/artist/2ttCVRurEbaNBTTwiRvoK0) | [Heart Shaped Box](https://open.spotify.com/album/76Eahi1XXuAIwqAbWXR3Sy) | 4:28 | 2024-01-11 | 2024-02-09 |
@@ -2043,6 +2047,7 @@
 | [Iman Tak Sama](https://open.spotify.com/track/72Eo4HcqAvjql6x3hgNSwT) | [ALVIN JO](https://open.spotify.com/artist/27kMVI6507dLjT2eyUuOdu) | [Iman Tak Sama](https://open.spotify.com/album/6F4OC89RLIM9rLhksCTGwX) | 4:43 | 2022-11-30 | 2023-01-13 |
 | [IMMA GO NOW](https://open.spotify.com/track/2fHUiVm7PVELTnvXYTaCHe) | [Tarrzankota](https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2), [YOSH](https://open.spotify.com/artist/2wHazSJnTevLiiJzn70GX7) | [GENESIS](https://open.spotify.com/album/39uvywC9ucxHGlD91DhhQC) | 1:25 | 2023-03-02 | 2023-03-18 |
 | [Impase](https://open.spotify.com/track/7mswqg2hFcscrElFcsJNlt) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Impase](https://open.spotify.com/album/3JypizCqKtKtbl7wRV3iO0) | 3:58 | 2022-07-07 | 2022-08-06 |
+| [Imperfectly Loving You](https://open.spotify.com/track/0GSaYeJWAyxelH3zIg9DT6) | [Nathalie Ezmeralda](https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0) | [Imperfectly Loving You](https://open.spotify.com/album/1giYPn8McTAvoltqDVU1WZ) | 3:50 | 2025-12-04 |  |
 | [IMPLICATED](https://open.spotify.com/track/50JccTURPvYde2pcARbEgz) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [IMPLICATED](https://open.spotify.com/album/0coC3q1V4LfDXCBwUBXb8K) | 3:01 | 2022-07-07 | 2022-08-06 |
 | [Imprisoned](https://open.spotify.com/track/2EDIGgTs3POI7KIOtI0gZV) | [Azel](https://open.spotify.com/artist/0OT9xBxbo4EZ1y4GkdVXCb) | [Imprisoned](https://open.spotify.com/album/5YbulrH5FAK6iorm63bOAv) | 4:02 | 2025-08-14 | 2025-09-19 |
 | [In a Dream](https://open.spotify.com/track/5g7yc8xn6DoHepHQ7Ibgfy) | [Arsa](https://open.spotify.com/artist/7kBtFbxYd9VEjLiAanHdll) | [In a Dream](https://open.spotify.com/album/2TTCDbwyNqIFVcCo53UYcD) | 3:45 | 2023-03-09 | 2023-03-25 |
@@ -2131,6 +2136,7 @@
 | [It ain't you](https://open.spotify.com/track/0Ne0t0utWCqFd9uQkHGvrU) | [Sabrina Soetomo](https://open.spotify.com/artist/3EveEev3WbVFqsjRDoeJAH) | [It ain't you](https://open.spotify.com/album/28vzGPEmuL1p0Zstvkb11w) | 3:37 | 2023-09-28 | 2023-10-20 |
 | [IT COULD'VE BEEN BEAUTIFUL](https://open.spotify.com/track/2mpGpBvwGPF7XdzuSEZJfJ) | [Fei Luthfy](https://open.spotify.com/artist/6GhEoCWMk9i6AcAtxixauj) | [IT COULD'VE BEEN BEAUTIFUL](https://open.spotify.com/album/5Jv783QD5KPneIE5mdlD35) | 2:51 | 2022-11-24 | 2022-12-01 |
 | [It Don't Mean a Thing](https://open.spotify.com/track/53kdKA8W4Fh6L5OKxPBUOA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [CINEMA\. extended](https://open.spotify.com/album/4SO2qY7jxlQqc5dghBj4Jt) | 2:01 | 2024-12-05 | 2025-01-17 |
+| [It Hurts A Little](https://open.spotify.com/track/53yLJQ8cpghI7pBjVuMknH) | [Nadine Kei](https://open.spotify.com/artist/0MunFmmsHxcruu9oGeFjKL) | [It Hurts A Little](https://open.spotify.com/album/4sHcqOCnxE9n4glm0OVpoi) | 4:19 | 2025-12-04 |  |
 | [It Is Gonna Be Okay](https://open.spotify.com/track/7kEbmbrBmMnmCXgIeFDfMQ) | [Tiya Rima](https://open.spotify.com/artist/2soMazDNpF3MhIRDhrvD5v) | [It Is Gonna Be Okay](https://open.spotify.com/album/0luICB1u02rVONzAR43DuF) | 1:42 | 2023-07-27 | 2023-08-04 |
 | [It Wasn't Love](https://open.spotify.com/track/6sTrIqgqmcfFdXYcDDWS1X) | [Jacqueline Caroline](https://open.spotify.com/artist/52LJzMsGNONHXMC3F0YTeq) | [Trust Issues, Pt\. 1](https://open.spotify.com/album/1ZzZnkSs5Typ92fW6yhRgM) | 4:02 | 2022-01-06 | 2022-01-14 |
 | [It'll Get Better \(Again\)](https://open.spotify.com/track/2BjKGk0h9r2wiP3hza26yP) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [It'll Get Better \(Again\)](https://open.spotify.com/album/53BqgoPA1dgKjtDFIs4ZU9) | 4:23 | 2023-02-03 | 2023-02-17 |
@@ -2362,6 +2368,7 @@
 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 | 2024-02-22 | 2024-03-29 |
 | [Katakanlah](https://open.spotify.com/track/2amvo8crQG0NXuDyb4oufo) | [Maira](https://open.spotify.com/artist/575IqK1Km1I86w0e3OzVAL) | [Katakanlah](https://open.spotify.com/album/5wuapuSpdDsAqDrxmPtHzz) | 3:19 | 2024-03-29 | 2024-05-03 |
 | [Katanya](https://open.spotify.com/track/489czOzRHMZAoU1Bgf4ieu) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Katanya](https://open.spotify.com/album/4LNMKFfhDe2m0kaaFB8jOX) | 4:07 | 2022-02-17 | 2022-03-05 |
+| [Katarina](https://open.spotify.com/track/45DEzRMDRgbQ8QucNWz7gZ) | [Echoes, We Hide](https://open.spotify.com/artist/7Akoo8rfOBUP1aWUvPYOnI) | [Katarina](https://open.spotify.com/album/7mG2JwxAi8FcwWX8fOn6MF) | 4:14 | 2025-12-04 |  |
 | [Katarina, Peri & Para Kurcaci](https://open.spotify.com/track/4sSFuAWY5RXsEGZzllYIiy) | [Nona Sepatu Kaca](https://open.spotify.com/artist/1dl0ubPoe0cD2Du6nujVJE), [Febrina Claudya](https://open.spotify.com/artist/4ZT4Q0ly3RLUZoJlIAr1AN) | [Katarina, Peri & Para Kurcaci](https://open.spotify.com/album/3L56sYZXleFyfotA7Vq4Bo) | 3:32 | 2022-08-05 | 2022-08-20 |
 | [Kau](https://open.spotify.com/track/014H6Cqmh6d3uipoUQlcOE) | [electra](https://open.spotify.com/artist/61CXIZRAsSrDrKcyiSPE9l) | [Kau](https://open.spotify.com/album/16znXN6vyEmm5Z8ZvLQTaj) | 3:50 | 2024-05-31 | 2024-06-21 |
 | [KAU](https://open.spotify.com/track/2StT1rOm6d6wDTA5uU9xMn) | [Qudrah](https://open.spotify.com/artist/2LbwwDPJD7VPgWcwMwBpci) | [KAU](https://open.spotify.com/album/54GsaDa8knyOB9T6hPBbIO) | 4:28 | 2023-08-31 | 2023-09-20 |

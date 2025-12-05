@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Argentina.",
-  "num_followers": 92468,
+  "num_followers": 92497,
   "original_name": "Top Songs - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MMOsUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MMT7eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-11-28 14:08:49",
@@ -846,6 +846,10 @@
         {
           "name": "Locura Mix",
           "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        },
+        {
+          "name": "VERNAZ",
+          "url": "https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57"
         }
       ],
       "duration_ms": 144468,

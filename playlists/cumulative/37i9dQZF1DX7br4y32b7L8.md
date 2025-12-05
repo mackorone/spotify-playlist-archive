@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-822 songs - 1 day 17 hr 7 min
+823 songs - 1 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-09 | 2024-03-14 |
 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2024-04-18 |  |
 | [Ma quale idea](https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:22 | 2024-07-10 | 2024-09-12 |
+| [Ma3lish](https://open.spotify.com/track/5jgJqp4mhsH71FF9BzwNK5) | [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Ma3lish](https://open.spotify.com/album/7aS8YWy94ntIBOiazPPbur) | 3:33 | 2025-12-04 |  |
 | [Mac of Kentucky \- Remix](https://open.spotify.com/track/1I3kc0antKgJUR1YtEZTaK) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Mac of Kentucky \(Remix\)](https://open.spotify.com/album/4WtawYvfpDLEeMAbZcrQG3) | 2:20 | 2025-10-09 |  |
 | [Macarena](https://open.spotify.com/track/0JCxROyTcCmn2NlmKozQBp) | [Stavros Martina](https://open.spotify.com/artist/17ynEC4GysdLM4R66FmghW) | [Macarena](https://open.spotify.com/album/15x23pLQyRifNSNESswpN0) | 2:22 | 2023-11-16 |  |
 | [Mad Love](https://open.spotify.com/track/6ImEBuxsbuTowuHmg3Z2FO) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [High Expectations](https://open.spotify.com/album/2X7koaJ4bojj8zMqacqIhW) | 2:49 | 2023-03-24 | 2023-05-10 |

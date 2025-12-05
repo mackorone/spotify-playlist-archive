@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Niki the Unicorn",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Whyte",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -668,6 +668,28 @@
       "duration_ms": 166064,
       "name": "AXIS",
       "url": "https://open.spotify.com/track/5HHtUofAVLVozGHHsLdKPn"
+    },
+    {
+      "album": {
+        "name": "Baby Boy",
+        "url": "https://open.spotify.com/album/549ynqcRbUT6dcmBYZG9HK"
+      },
+      "artists": [
+        {
+          "name": "\u88f4\u9821 JASMINE",
+          "url": "https://open.spotify.com/artist/7IfIkJW46w68wyd4TofUtu"
+        },
+        {
+          "name": "HUR+",
+          "url": "https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178636,
+      "name": "Baby Boy",
+      "url": "https://open.spotify.com/track/2P99LWeCKpbzsWX38lc97x"
     },
     {
       "album": {
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 251217,
       "name": "DOVE",
       "url": "https://open.spotify.com/track/0c7bWZxmcn4SYbTzAWaVmV"
@@ -1982,7 +2004,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 178955,
       "name": "eyes off u.",
       "url": "https://open.spotify.com/track/0hRXZJO5rCxvWfcUXHPTmN"
@@ -2102,7 +2124,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 227733,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/3KozdeD4NNXxgWa0s4N8I6"
@@ -2444,7 +2466,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 186000,
       "name": "Fresh Love in Seoul",
       "url": "https://open.spotify.com/track/4x2bRMktn2RaM8AIcjJyjb"
@@ -3484,7 +3506,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 205563,
       "name": "In My Dreams (You're Not Extinct)",
       "url": "https://open.spotify.com/track/16xxMRn4v1fKbPvA9wVm1H"
@@ -4724,7 +4746,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 163979,
       "name": "Never Cared",
       "url": "https://open.spotify.com/track/4ffXYtI1nWJ09AnZszP1h0"
@@ -5922,7 +5944,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 227213,
       "name": "Robot Revolution",
       "url": "https://open.spotify.com/track/1oFZdO313TxVIMrurGaaWa"
@@ -7365,6 +7387,24 @@
     },
     {
       "album": {
+        "name": "TISSUE",
+        "url": "https://open.spotify.com/album/3hHCByhoqcY2I1dfjth0Le"
+      },
+      "artists": [
+        {
+          "name": "Hazel \u6d77\u67d4",
+          "url": "https://open.spotify.com/artist/49ATqmv4TE5NpaMrlj13cO"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "TISSUE",
+      "url": "https://open.spotify.com/track/56UNozDGwGf1d9mWuxY2vL"
+    },
+    {
+      "album": {
         "name": "TM5",
         "url": "https://open.spotify.com/album/6bcSWPvJuknMw9XEf0pYgx"
       },
@@ -7588,6 +7628,24 @@
       "duration_ms": 232895,
       "name": "Toyota Spaceship",
       "url": "https://open.spotify.com/track/2OCu6qR1jNXxcRjmDanycv"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Whyte",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd"
     },
     {
       "album": {
@@ -7942,7 +8000,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 169086,
       "name": "We Talk To iPhone But Not Our Best Friend",
       "url": "https://open.spotify.com/track/3D4xcSrCguzXYb5BqPWq1Z"
@@ -8496,7 +8554,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 227538,
       "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
       "url": "https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r"
@@ -9520,7 +9578,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 196860,
       "name": "\u611b\u4e0d\u5b9c\u9072 Not Too Late",
       "url": "https://open.spotify.com/track/6XuUa1kXTmQ68DBCi8j9OB"
@@ -9578,7 +9636,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 184137,
       "name": "\u6211\u4e0d\u61c2",
       "url": "https://open.spotify.com/track/3JfR9BPmSh2Xcjhlh2fbxD"
@@ -10106,6 +10164,28 @@
       "duration_ms": 205371,
       "name": "\u6b63\u60f3\u8457\u4f60\u5462",
       "url": "https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry"
+    },
+    {
+      "album": {
+        "name": "\u6b64\u523b\u6c38\u9060 (\u96fb\u5f71\u300a\u90a3\u5f35\u7167\u7247\u88e1\u7684\u6211\u5011\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/1hT0DFMs074DDYbtYk98q7"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i"
+        },
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237980,
+      "name": "\u6b64\u523b\u6c38\u9060 - \u4e2d\u5ba2\u97d3\u7248 - \u96fb\u5f71\u300a\u90a3\u5f35\u7167\u7247\u88e1\u7684\u6211\u5011\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/6AZXmfnTgCuCfoZPTyCDS5"
     },
     {
       "album": {

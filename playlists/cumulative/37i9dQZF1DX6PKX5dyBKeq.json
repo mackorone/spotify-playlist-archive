@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK, co-curated with Central Cee.",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Pozer",
   "name": "Rap UK",
   "tracks": [
     {
@@ -18668,7 +18668,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 179439,
       "name": "High End Fashion",
       "url": "https://open.spotify.com/track/0RleUkCUxQ8X1JMhiXmVSf"
@@ -28787,6 +28787,28 @@
     },
     {
       "album": {
+        "name": "Nonchalant",
+        "url": "https://open.spotify.com/album/2cviWMLKGdqmjXNtq1ESdZ"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        },
+        {
+          "name": "Horrid1",
+          "url": "https://open.spotify.com/artist/6BmZMwPlspsjzleRVb8rTZ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151764,
+      "name": "Nonchalant",
+      "url": "https://open.spotify.com/track/4usbXc7kKixh1pN7qrnzZd"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/7jrM2dAzQWlu8WYTGnyhHo"
       },
@@ -37760,7 +37782,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 164321,
       "name": "Stand & Lean (feat. Klyrae)",
       "url": "https://open.spotify.com/track/0tW0bo00lF4a0xNOCXy5tL"
@@ -43910,6 +43932,28 @@
       "duration_ms": 177103,
       "name": "What's Good",
       "url": "https://open.spotify.com/track/1MN3iFMSQ8dfqNAZMyUp5h"
+    },
+    {
+      "album": {
+        "name": "What's Good?",
+        "url": "https://open.spotify.com/album/5AgPQFMIbH3uxH16asz5eE"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        },
+        {
+          "name": "Kasst 8",
+          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152112,
+      "name": "What's Good?",
+      "url": "https://open.spotify.com/track/1cgCdZT8tfdtNDTIbt5zVA"
     },
     {
       "album": {

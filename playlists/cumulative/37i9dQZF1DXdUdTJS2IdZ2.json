@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Dominic Chin, Gail Belmonte, Kevin Brendan",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: Estelle Fly",
   "name": "Rising 65",
   "tracks": [
     {
@@ -446,7 +446,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 165436,
       "name": "Ain't the Same",
       "url": "https://open.spotify.com/track/15KqGIpBfvccRhvtcPRRSU"
@@ -4098,7 +4098,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 105091,
       "name": "Don't bother",
       "url": "https://open.spotify.com/track/7MxtRoOs9yEObkP9udWmBl"
@@ -6129,6 +6129,24 @@
     },
     {
       "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/06Z6NmunCkEomOqxsUk6p2"
+      },
+      "artists": [
+        {
+          "name": "Estelle Fly",
+          "url": "https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "gone",
+      "url": "https://open.spotify.com/track/6OnGw0pHS9SHpGkTN1ySyz"
+    },
+    {
+      "album": {
         "name": "GONE \u6d41\u5931\u7684\u611b",
         "url": "https://open.spotify.com/album/3qGAPfN0P2BHsv7pWwlvJU"
       },
@@ -8002,6 +8020,24 @@
       "duration_ms": 221642,
       "name": "i'll be blue",
       "url": "https://open.spotify.com/track/6nAFCPM6BBa7vYNQ7OjfpD"
+    },
+    {
+      "album": {
+        "name": "i'll come home for christmas",
+        "url": "https://open.spotify.com/album/03BJN2WyYfPkZumWWg8ksL"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169311,
+      "name": "i'll come home for christmas",
+      "url": "https://open.spotify.com/track/6If6uoFvUhdAm8ZEQkZU76"
     },
     {
       "album": {
@@ -10401,6 +10437,32 @@
     },
     {
       "album": {
+        "name": "Make Your Wish",
+        "url": "https://open.spotify.com/album/0hQvf3wMTWzEPwKQ7GRJcf"
+      },
+      "artists": [
+        {
+          "name": "Chingay Parade SG",
+          "url": "https://open.spotify.com/artist/6r79I3nPCiSnS7QD6AtkRf"
+        },
+        {
+          "name": "Max Lee",
+          "url": "https://open.spotify.com/artist/05Tcpgbg73qbz4Gydgndv5"
+        },
+        {
+          "name": "Bertyverse",
+          "url": "https://open.spotify.com/artist/24anHHf6LvNWhpbkd80ZiA"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "Make Your Wish",
+      "url": "https://open.spotify.com/track/5jANkFUQ9vV3UdgE2s25qK"
+    },
+    {
+      "album": {
         "name": "Malas",
         "url": "https://open.spotify.com/album/2EMGt0uKB3vUZvcZCVKm0C"
       },
@@ -10790,7 +10852,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 262285,
       "name": "Midsummer Mansion",
       "url": "https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4"
@@ -14673,6 +14735,24 @@
     },
     {
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/4E1fGcosxVVwOXagB0urMX"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272489,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/7hLeWn6DmpzX2cZB7aFSzA"
+    },
+    {
+      "album": {
         "name": "LIFELINE",
         "url": "https://open.spotify.com/album/6Q0e8xJ7BgfJXbHi2ggjGG"
       },
@@ -16561,6 +16641,24 @@
     },
     {
       "album": {
+        "name": "The Same Way",
+        "url": "https://open.spotify.com/album/27CimWr87X6NOeermmKvsf"
+      },
+      "artists": [
+        {
+          "name": "Gail Belmonte",
+          "url": "https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192812,
+      "name": "The Same Way",
+      "url": "https://open.spotify.com/track/6YzAmHufze27oHeKNZ19su"
+    },
+    {
+      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/5at109EzEkz7HZxHxmBnlV"
       },
@@ -16842,6 +16940,28 @@
       "duration_ms": 251135,
       "name": "This Is Where I Belong",
       "url": "https://open.spotify.com/track/0wmlYrQkULIWG644vC5fnE"
+    },
+    {
+      "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/3J7za6CUKFTiB3MesVdJH9"
+      },
+      "artists": [
+        {
+          "name": "JustJaewin",
+          "url": "https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6"
+        },
+        {
+          "name": "Charis",
+          "url": "https://open.spotify.com/artist/624di24HXgttjdzLB0MgNW"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/27N2vaDgIOJyqm3CG79BpI"
     },
     {
       "album": {
@@ -18139,6 +18259,24 @@
     },
     {
       "album": {
+        "name": "Weekend Plans",
+        "url": "https://open.spotify.com/album/1OZSLxTWhOdHtYmK8wrsLO"
+      },
+      "artists": [
+        {
+          "name": "WHYLUCAS",
+          "url": "https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Weekend Plans (Stage Edit)",
+      "url": "https://open.spotify.com/track/3RqmsjVGuvk9MtpRSNBTmv"
+    },
+    {
+      "album": {
         "name": "Weighted Blankets",
         "url": "https://open.spotify.com/album/2fCZZGIq61ZvZdnndpTyRR"
       },
@@ -18956,7 +19094,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 178461,
       "name": "your name",
       "url": "https://open.spotify.com/track/0aYgHZWLxI5ZxxbiYfOxMX"
@@ -18996,6 +19134,24 @@
       "duration_ms": 187241,
       "name": "YOURS (TONIGHT)",
       "url": "https://open.spotify.com/track/15tHdxOUY51MdJkxbA73jX"
+    },
+    {
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/06Z6NmunCkEomOqxsUk6p2"
+      },
+      "artists": [
+        {
+          "name": "Estelle Fly",
+          "url": "https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167478,
+      "name": "ZONE",
+      "url": "https://open.spotify.com/track/6uAQtMephSqoizW8vufKjK"
     },
     {
       "album": {
@@ -19212,7 +19368,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 213000,
       "name": "\u4e16\u754c\u7684\u61f7\u7591",
       "url": "https://open.spotify.com/track/4XV1EjtMwYqSPGdy5UAL15"
@@ -19568,6 +19724,24 @@
       "duration_ms": 309700,
       "name": "\u5167\u5fc3\u6709\u4e00\u628a\u8072\u97f3",
       "url": "https://open.spotify.com/track/1Fd95Ud11xyxXI1C2ER2on"
+    },
+    {
+      "album": {
+        "name": "\u5168\u4e16\u754c",
+        "url": "https://open.spotify.com/album/7ikMtrucViIdJRcNvmSypi"
+      },
+      "artists": [
+        {
+          "name": "Boon Hui Lu",
+          "url": "https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251052,
+      "name": "\u5168\u4e16\u754c",
+      "url": "https://open.spotify.com/track/4d6xihy3AWfDNpt5n60dKn"
     },
     {
       "album": {
@@ -20281,6 +20455,24 @@
     },
     {
       "album": {
+        "name": "\u5fc3\u75db\u5411\u8ab0\u8aaa",
+        "url": "https://open.spotify.com/album/3f0BRRBhaPxYRbOzHWQUBy"
+      },
+      "artists": [
+        {
+          "name": "Ah5ive the Band",
+          "url": "https://open.spotify.com/artist/7xeAey43hE64qU2CaN759N"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256808,
+      "name": "\u5fc3\u75db\u5411\u8ab0\u8aaa",
+      "url": "https://open.spotify.com/track/3ncDz2UFVSk6Oih9UeGd5E"
+    },
+    {
+      "album": {
         "name": "\u5fc3\u82e5\u6709\u98ce\u5343\u4e07\u91cc",
         "url": "https://open.spotify.com/album/4WnxOYxgjJurNOT3vBzhx7"
       },
@@ -20752,6 +20944,24 @@
       "duration_ms": 265750,
       "name": "\u6709\u8a71\u6c92\u8aaa",
       "url": "https://open.spotify.com/track/5a59iCKJGGzVqZBDLRBD0J"
+    },
+    {
+      "album": {
+        "name": "\u6765\u731c\u8c1c\u8bed",
+        "url": "https://open.spotify.com/album/6QEoeYvrGCtHO6pLRb8hxl"
+      },
+      "artists": [
+        {
+          "name": "Tosh Rock",
+          "url": "https://open.spotify.com/artist/73260xfmc9eKPFBHXy8rlZ"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122517,
+      "name": "\u6765\u731c\u8c1c\u8bed",
+      "url": "https://open.spotify.com/track/66eeuCR08DTdFsvxDTpyhE"
     },
     {
       "album": {

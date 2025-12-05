@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 551 likes - 2,074 songs - 5 day 1 hr 28 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 551 likes - 2,081 songs - 5 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -492,7 +492,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 482 | [Beside U](https://open.spotify.com/track/4qCpULRWzhWbmlYebMiX9v) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9), [DatBoi 23](https://open.spotify.com/artist/4vKO24n3S0KcjQmsuPkb3g) | [Rotten Melodies](https://open.spotify.com/album/31cLKUhgugZvtrd0bvzioa) | 2:03 |
 | 483 | [Siempre para de llover](https://open.spotify.com/track/3FMMoSoVM7ZZ3YolfVycNX) | [Coira](https://open.spotify.com/artist/0MoAJPO9JHW51LRLgQtUG7) | [Siempre para de llover](https://open.spotify.com/album/5V2pXJu57uywMzBMUX2hnD) | 3:01 |
 | 484 | [Starway](https://open.spotify.com/track/0gyIJhHCAiHomoCVjKy1e4) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Starway](https://open.spotify.com/album/55uH46ZFBeq5qLooD5Xy9f) | 3:02 |
-| 485 | [Moon on August 14th](https://open.spotify.com/track/2xjCPIgwM5Iavgn3alDw3X) | [GUANG](https://open.spotify.com/artist/7lK0lC3OWgxVcb5xTIvdx4) | [To Boat the Light](https://open.spotify.com/album/2hg88cMeST8dfU2WqZsZnG) | 3:08 |
+| 485 | [Moon on August 14th](https://open.spotify.com/track/2xjCPIgwM5Iavgn3alDw3X) | [GUANG](https://open.spotify.com/artist/4AMmQAW2MrAuQb9XoBvctO) | [To Boat the Light](https://open.spotify.com/album/2hg88cMeST8dfU2WqZsZnG) | 3:08 |
 | 486 | [空中楼閣](https://open.spotify.com/track/0Gb836QTJZGtinUPk2Zy9R) | [ノウルシ](https://open.spotify.com/artist/7jGulqxcpIc1o3cRDNDn2z) | [空中楼閣](https://open.spotify.com/album/0UCI5Ni1catuq1jlVc98qE) | 3:31 |
 | 487 | [THE MOURNING SONG \(Outra\)](https://open.spotify.com/track/07gEvK6RH2YnYV83xZHiPM) | [Marley Angel](https://open.spotify.com/artist/3cpd6XFLnAniWkOu74xZxA) | [THE MORNING AFTER ACT I](https://open.spotify.com/album/4q27kPFyhbaFj2qNuQGgPi) | 2:33 |
 | 488 | [Yes Indeed](https://open.spotify.com/track/5FKWy1peJkFRRKMw2szXwF) | [Brett Gadbois](https://open.spotify.com/artist/0Gi7exuLQeqjQvm7N6rhfJ) | [Yes Indeed](https://open.spotify.com/album/0LdpfrDJgysfpoBJOD4HJ8) | 2:58 |
@@ -2043,7 +2043,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2033 | [Mary's Lamb](https://open.spotify.com/track/4wA5bR2acrQ6tAJuheentG) | [Halley Gentil](https://open.spotify.com/artist/3nL0tRCAJTGnw11PHM4UNg) | [Mary's Lamb](https://open.spotify.com/album/6AIklyNJeqZI3yofH9k9bM) | 3:15 |
 | 2034 | [Regrets](https://open.spotify.com/track/1UHIaL6ZF9aiiPJ8opT5sJ) | [Pete Gardiner](https://open.spotify.com/artist/5sjhK0fScmb7HXin42rUaT) | [Songs That Wrote Me](https://open.spotify.com/album/1i06gAGF1H4OYzBcP5pgKN) | 3:19 |
 | 2035 | [Corrado](https://open.spotify.com/track/1QXGkSB2T1pNR8hDT2mFoO) | [Le Pietre di Mara](https://open.spotify.com/artist/7hv4rQbq0zehg96NzK4i5M) | [Corrado](https://open.spotify.com/album/3YvkiNefWVg45wCKtcsG1c) | 0:48 |
-| 2036 | [Sea Day](https://open.spotify.com/track/50XjtTSz3jKUVgZru25dMa) | [GWC](https://open.spotify.com/artist/2W1ZXa693lrtnmk2IrUydI) | [Sixth Album](https://open.spotify.com/album/4oQxGtwLnhiogBInr9a79s) | 3:04 |
+| 2036 | [Sea Day](https://open.spotify.com/track/50XjtTSz3jKUVgZru25dMa) | [GWC](https://open.spotify.com/artist/6l7dIYO3oQXMuHKQwaRpFc) | [Sixth Album](https://open.spotify.com/album/4oQxGtwLnhiogBInr9a79s) | 3:04 |
 | 2037 | [Славно](https://open.spotify.com/track/01gLdhCCNYtDeTO2vZ10uu) | [Dieori22](https://open.spotify.com/artist/1pT9dipei03s1GwAseDiC1) | [Славно](https://open.spotify.com/album/2DWIUxzOAYZvOhgjMLqb1k) | 4:10 |
 | 2038 | [The weight of freedom](https://open.spotify.com/track/4gVKItkWjVQZNbTLQb9Tb8) | [Samadhi Radio](https://open.spotify.com/artist/1Xo5Iukw1wJ05KCIy9STI8) | [When time runs dry](https://open.spotify.com/album/151onIPEKJjuyooQEEVfKE) | 4:15 |
 | 2039 | [Siamo perduti](https://open.spotify.com/track/2KFK8mkYe4OwT2XxDcZlcm) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Siamo perduti](https://open.spotify.com/album/4j9UylK8c7HBB9dTqsZ3Ub) | 3:31 |
@@ -2082,5 +2082,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2072 | [I DON´T WANNA WORK](https://open.spotify.com/track/3L3BwVldv7DV7Htk4BHHMd) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [I DON´T WANNA WORK](https://open.spotify.com/album/0l4EpsXzxsBtbf85eQFaX3) | 2:59 |
 | 2073 | [A New Start](https://open.spotify.com/track/0POrdlvaCWTkBU35uIHoUb) | [Rexlambo](https://open.spotify.com/artist/0I83Jj4OE4Y102cx1R5mjV) | [A New Start](https://open.spotify.com/album/5O7CIXlNUk2TOgHFeeNnph) | 2:22 |
 | 2074 | [Heard](https://open.spotify.com/track/5tLvNgShXJlHc5XoA8gqs4) | [orkopolo](https://open.spotify.com/artist/77CvD64H5WdfuhZT1UzJVW) | [Prizefighter](https://open.spotify.com/album/0SfIYY2pmwuy27PKhTyT33) | 4:42 |
+| 2075 | [Soul Song](https://open.spotify.com/track/5jk9drHYAkS0GatUSZkObS) | [Michael J Tinker](https://open.spotify.com/artist/7vf3jj90AWBUccLAs4Twus) | [Soul Song](https://open.spotify.com/album/3EW9b9Efiesp9HFyFJmmSm) | 3:09 |
+| 2076 | [Jean Jackets in June](https://open.spotify.com/track/5tqQHPwOJW9TGfu5PPJ0Vh) | [Protagonist](https://open.spotify.com/artist/0GGweWaK18jB7DStgHn5id) | [Jean Jackets in June](https://open.spotify.com/album/0qjbqvrZkJ4pJMh9ups42M) | 4:35 |
+| 2077 | [Not Tonight](https://open.spotify.com/track/63MjfO2vV7bum1wYnGp7hM) | [Thought Fox](https://open.spotify.com/artist/0oJtH8Mmh8JAoC8nVpro0h) | [Not Tonight](https://open.spotify.com/album/2aD9xCdjJe25KNVWUM8hUj) | 4:27 |
+| 2078 | [Be My Vision \(Hallelujah\)](https://open.spotify.com/track/6De6TugTjDof65byiPH7Mu) | [Honey Ribar](https://open.spotify.com/artist/1O72lyfUkS9GlDtqgavp9c) | [Be My Vision \(Hallelujah\)](https://open.spotify.com/album/63LiqwbeQHf6MsYSRLGVUu) | 2:21 |
+| 2079 | [No Room](https://open.spotify.com/track/1wy9ZIgHUeVokyB2ez1vbc) | [Olivia Farabaugh](https://open.spotify.com/artist/1tmqcd1USna0bubmfMsNoP) | [No Room](https://open.spotify.com/album/1i3fFcrYpwhyZPqHaGWAE7) | 4:09 |
+| 2080 | [IYKYK](https://open.spotify.com/track/2MHZg1SAC5jCuTNsm9uO6Y) | [Jenny Palacios](https://open.spotify.com/artist/1TpnyAngai2yGUjI7OKFp8) | [IYKYK](https://open.spotify.com/album/2kACKOnRggw9oPwu2sJcRb) | 2:56 |
+| 2081 | [Inima\-mi tremura](https://open.spotify.com/track/7kIagru5T0fMq0ayx0oXeX) | [ROMAREL](https://open.spotify.com/artist/66rsNxE5kHbHrp8jJsg504) | [Inima\-mi tremura](https://open.spotify.com/album/4S2cIThoQjDYIW1G2GJViI) | 3:02 |
 
-Snapshot ID: `AAAIqPmJFLrMhqL8kc9HjQ2CJEXrt728`
+Snapshot ID: `AAAIr130Llo3/IX59f6ja5J4Q9YOE6DX`

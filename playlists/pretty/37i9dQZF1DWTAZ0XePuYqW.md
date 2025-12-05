@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > SadBoi's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,239 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,266 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 36 | [tell me why](https://open.spotify.com/track/3mLagm04j1TXJ7yCGobz2C) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [tell me why](https://open.spotify.com/album/5OFjCMmSiIGxIfj83dDQjg) | 3:12 |
 | 37 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 |
 | 38 | [SPACE INVADER](https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SPACE INVADER](https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL) | 4:34 |
-| 39 | [Shake It To The Max \(FLY\) \- Major Lazer Remix](https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Shake It To The Max \(FLY\) \(Major Lazer Remix\)](https://open.spotify.com/album/5ILhc6FDbh6qqA22QLjnoh) | 2:50 |
+| 39 | [Shake It To The Max \(FLY\) \[Major Lazer Remix\]](https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\) \[Major Lazer Remix\]](https://open.spotify.com/album/5ILhc6FDbh6qqA22QLjnoh) | 2:50 |
 | 40 | [DAMAGE](https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy) | [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [METAL TAIL](https://open.spotify.com/album/743P9G9do6QUrn31c7Y7p1) | 2:58 |
 | 41 | [Brand New](https://open.spotify.com/track/20bwjMLtBeWBu5AGvyUoKJ) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Brand New](https://open.spotify.com/album/0u3xhApvlJaSq0z8GHswV5) | 2:05 |
 | 42 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:45 |

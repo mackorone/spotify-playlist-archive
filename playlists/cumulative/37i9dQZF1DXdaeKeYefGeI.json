@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 192771,
       "name": "Alle Tijd - met strijkkwartet",
       "url": "https://open.spotify.com/track/4qMCB0CBcOx3iAVabVgDxm"
@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Claudia De Breij",
+          "url": "https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276600,
+      "name": "Dans",
+      "url": "https://open.spotify.com/track/47JBXznQqDtATWPNBZPwBc"
+    },
+    {
+      "album": {
         "name": "Dans",
         "url": "https://open.spotify.com/album/1B06jjcIW0wLEpsvmPpps2"
       },
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 276459,
       "name": "Dedgum",
       "url": "https://open.spotify.com/track/7LE3hwnttxvHo8iI0oOFaz"
@@ -1969,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Jij bent hier (El Ultimo Adios - NL vertaling S. Bos)",
+        "url": "https://open.spotify.com/album/5wqWxEZynyEWO1wX0kSBw5"
+      },
+      "artists": [
+        {
+          "name": "Stef Bos",
+          "url": "https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225160,
+      "name": "Jij bent hier (El Ultimo Adios - NL vertaling S. Bos)",
+      "url": "https://open.spotify.com/track/7Gq7tMZK3KWFeYyagw3E3y"
+    },
+    {
+      "album": {
         "name": "Ik heb het licht nog aan",
         "url": "https://open.spotify.com/album/0vvi9TiyQgtvo3ca91HpQ9"
       },
@@ -2859,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "Mozart",
+        "url": "https://open.spotify.com/album/5pnNp1EZ2cE779PVOF4UBI"
+      },
+      "artists": [
+        {
+          "name": "Alex Roeka",
+          "url": "https://open.spotify.com/artist/7yZlxklSzsDJIpuRRwe6bO"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290281,
+      "name": "Mozart",
+      "url": "https://open.spotify.com/track/5FOTypYBBL4A502G1zQ9nz"
+    },
+    {
+      "album": {
         "name": "Neem Me Mee",
         "url": "https://open.spotify.com/album/6YmoIcfsjJVggNYE7gzPwk"
       },
@@ -3184,7 +3238,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 193093,
       "name": "Papa",
       "url": "https://open.spotify.com/track/6NP6BCW2M2I4vdcnXMAvjl"

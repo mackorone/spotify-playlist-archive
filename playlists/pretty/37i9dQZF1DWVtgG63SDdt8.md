@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Sondae
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,348 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,384 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 68 | [Reconcile](https://open.spotify.com/track/0kwxLxk4mOu7dxOvx1j5KH) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [Anaia Lachelle](https://open.spotify.com/artist/1NmhUoVAOWlfYx3kM12HWn), [Selah the Corner](https://open.spotify.com/artist/5RGpSLDa24rgCKsKIiGuwn) | [Reconcile](https://open.spotify.com/album/08o7VD0wePnrskUg6w3Er7) | 3:22 |
 | 69 | [WDGS?](https://open.spotify.com/track/2zUNPs0yTdzmkSPe2hOnoG) | [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc) | [WDGS?](https://open.spotify.com/album/6ys5cQLc7b5UwcV6xkUTRV) | 2:22 |
 | 70 | [Counting My Days](https://open.spotify.com/track/74hqeI4Zs5nQNc93DwlSsA) | [Mogli the Iceburg](https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy) | [Counting My Days](https://open.spotify.com/album/4gyxoruxDJFbeWPmPPsteL) | 2:23 |
-| 71 | [We Ain't Done](https://open.spotify.com/track/6qh64QAS2e42wYSEL0etKA) | [Craig Watson](https://open.spotify.com/artist/0qmeVfudDBEsOUdHjcGqnA), [Baruch](https://open.spotify.com/artist/1JJatMe7XfhF9S9qmftWp5), [Ron Smith](https://open.spotify.com/artist/2DUfLI2fU4uLOTYckG1syo) | [We Ain't Done](https://open.spotify.com/album/4QYbXbCDOByPpRd9pjIAuX) | 2:42 |
+| 71 | [We Ain't Done](https://open.spotify.com/track/6qh64QAS2e42wYSEL0etKA) | [Craig Watson](https://open.spotify.com/artist/0qmeVfudDBEsOUdHjcGqnA), [Baruch](https://open.spotify.com/artist/1JJatMe7XfhF9S9qmftWp5), [Ron Smith](https://open.spotify.com/artist/2DUfLI2fU4uLOTYckG1syo) | [We Ain't Done](https://open.spotify.com/album/4QYbXbCDOByPpRd9pjIAuX) | 2:39 |
 | 72 | [Movin'](https://open.spotify.com/track/3GMAWqfLysQyx0b5kPJve9) | [JustCordell](https://open.spotify.com/artist/4kyOIXivEHCVnJOfSo6lYn) | [Movin'](https://open.spotify.com/album/1LGEQX1mObwzgTq6s1TBxJ) | 2:20 |
 | 73 | [dark like](https://open.spotify.com/track/3W8zXtycMwKq79WPenYg5Q) | [Rob Nor](https://open.spotify.com/artist/0U9HHUbYkMfs2jcuhFTdlo), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Taelor Gray](https://open.spotify.com/artist/581tKXVRFKxu6aSyhYMqan) | [dark like velvet](https://open.spotify.com/album/4Hqcb6lbWItEEPSuIVAVzP) | 3:27 |
 | 74 | [Walk On The Water](https://open.spotify.com/track/1XWMdc2qi661xSSnYcGLo7) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb) | [Walk On The Water](https://open.spotify.com/album/3Up0KMnnJcDVak5lOu3b1o) | 2:19 |

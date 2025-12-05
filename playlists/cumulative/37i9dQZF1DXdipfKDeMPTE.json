@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "dream garden",
+        "url": "https://open.spotify.com/album/5Idv7CsthuLu48CSGnB63M"
+      },
+      "artists": [
+        {
+          "name": "softflow",
+          "url": "https://open.spotify.com/artist/7bpXsZz8CK2r8QWptlceTP"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118938,
+      "name": "dream garden",
+      "url": "https://open.spotify.com/track/08FjONQVdAlGYOPKGWCzGs"
+    },
+    {
+      "album": {
         "name": "Dream ON",
         "url": "https://open.spotify.com/album/1pCrJ0Ortb3rbhiUaWbkfU"
       },
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 167142,
       "name": "Falling",
       "url": "https://open.spotify.com/track/41x6WguVMsx9Mn0omCYMCO"
@@ -6168,7 +6186,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 132923,
       "name": "maria",
       "url": "https://open.spotify.com/track/5ils8VsSUSs5WqRpgCgXKY"
@@ -10516,6 +10534,24 @@
       "duration_ms": 169180,
       "name": "Surfer",
       "url": "https://open.spotify.com/track/6liPFI7LwVYrWAlVGxE4ZD"
+    },
+    {
+      "album": {
+        "name": "Surreal",
+        "url": "https://open.spotify.com/album/4fv2vJWa2WHVXuvPu0ASjf"
+      },
+      "artists": [
+        {
+          "name": "Plaxon",
+          "url": "https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122287,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/0s3WYGajXAcIufs12otFiC"
     },
     {
       "album": {

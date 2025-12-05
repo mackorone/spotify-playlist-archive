@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Mt. Zion",
+        "url": "https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "Dusty Bibles",
+      "url": "https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA"
+    },
+    {
+      "album": {
         "name": "Dusty Bibles",
         "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
       },

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 479,
+  "num_followers": 478,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAED0DvhOTRsU1XmN6v83ORRRXUQClW",
+  "snapshot_id": "AAAEETuMfJgmU9m3Mnuh3zk8eKNTDjw/",
   "tracks": [
     {
       "added_at": "2025-11-20 17:10:09",
@@ -1851,6 +1851,38 @@
       "duration_ms": 271244,
       "name": "I RAGAZZI DEL 2020",
       "url": "https://open.spotify.com/track/4KqNZui4229o3aQu6i175G"
+    },
+    {
+      "added_at": "2025-12-04 09:53:49",
+      "album": {
+        "name": "Blue Hands",
+        "url": "https://open.spotify.com/album/3PzzUiNtsYSDMRNhSPL1yT"
+      },
+      "artists": [
+        {
+          "name": "Faisal Ryan",
+          "url": "https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Blue Hands",
+      "url": "https://open.spotify.com/track/1w3oIrfHqtPdFLt7sn4rwy"
+    },
+    {
+      "added_at": "2025-12-04 09:54:15",
+      "album": {
+        "name": "Let's Do It Again",
+        "url": "https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "duration_ms": 268933,
+      "name": "Let's Do It Again",
+      "url": "https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO"
     }
   ],
   "unique_name": "Unsigned Rock",

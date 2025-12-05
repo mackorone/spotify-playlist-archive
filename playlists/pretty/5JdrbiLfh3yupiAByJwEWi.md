@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JdrbiLfh3yupiAByJwEWi.md) - [plain]
 
 > The best party hits from the decade that gave you Katy Perry, Rihanna, Lady Gaga and more! Cover: Nelly Furtado
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 15,281 likes - 100 songs - 6 hr 36 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 15,278 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

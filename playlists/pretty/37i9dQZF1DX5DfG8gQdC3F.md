@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ed Sheeran, Lil Uzi Vert, Central Cee, Meltt, Ryan Harris and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,388 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,354 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 34 | [Chica Galáctica \- W Sound 07](https://open.spotify.com/track/623kbEIDhzRFLVk1r8cBTm) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chica Galáctica \(W Sound 07\)](https://open.spotify.com/album/4LG03Cn7TgdxBrujUG7ah2) | 3:07 |
 | 35 | [Colour On The Wall](https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:18 |
 | 36 | [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 |
-| 37 | [ta fête 🎂 \(avec Rymz\)](https://open.spotify.com/track/4M1tHAk5f5HxChga0Xf8Re) | [Cruzito](https://open.spotify.com/artist/4StDLRKg8Jtp0qmE35907p), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [La Voix Du Barrio](https://open.spotify.com/album/6PHw6RBYMkXe4C2Rot735C) | 2:10 |
+| 37 | [ta fête 🎂 \(avec Rymz\)](https://open.spotify.com/track/4M1tHAk5f5HxChga0Xf8Re) | [Cruzito](https://open.spotify.com/artist/4StDLRKg8Jtp0qmE35907p), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [La Voix Du Barrio](https://open.spotify.com/album/6PHw6RBYMkXe4C2Rot735C) | 2:11 |
 | 38 | [Forget](https://open.spotify.com/track/4fSZBTepMlI7bqbbpqLpLj) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Final Bo$$](https://open.spotify.com/album/2ThN4SQsDDccLMLRyHES5u) | 3:27 |
 | 39 | [Tempa Wine](https://open.spotify.com/track/0A9obIXOVkx2HXs7Lhf0Xv) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Tempa](https://open.spotify.com/artist/464FYjDR479Kkym3Fhb19g), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Tempa Wine](https://open.spotify.com/album/1RMsT8WLJPGkIbFAItBspd) | 2:26 |
 | 40 | [Carnavoile](https://open.spotify.com/track/2XvidBX68bjkIS5nuEuxqb) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3) | [CO2](https://open.spotify.com/album/40ZUHqyTGLHBiT8Do4oEEx) | 3:10 |

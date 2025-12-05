@@ -508,7 +508,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 166363,
       "name": "BEACH",
       "url": "https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "End Of Day Bop",
       "url": "https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV"
@@ -2490,7 +2490,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 114392,
       "name": "Kamada",
       "url": "https://open.spotify.com/track/1XktyM1GKgmZ7gNKDMBSyC"
@@ -3864,6 +3864,24 @@
       "duration_ms": 96015,
       "name": "Rainy Sunset",
       "url": "https://open.spotify.com/track/25vxIGdd9SRtYCQGnTWXdu"
+    },
+    {
+      "album": {
+        "name": "Polo Beats",
+        "url": "https://open.spotify.com/album/0aCbGwTjoC0h4F6SJN2OzE"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98181,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/4kSWrE6OOHPJt4TizgkckZ"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Paul Partohap
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Weda Mauve
 
-544 songs - 1 day 7 hr 47 min
+548 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Game of Love](https://open.spotify.com/track/4k3oDf9y3XJ9buBQU7qbGb) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Game of Love](https://open.spotify.com/album/3ieOrO22LhBP4hPPI7OVLB) | 1:55 | 2025-07-10 |  |
 | [Gentle Agreement](https://open.spotify.com/track/5qAMhRsnjUtrY6Y9XJEkk6) | [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Gentle Agreement](https://open.spotify.com/album/7F7VLs071GYrSmTEzqRjJ8) | 3:30 | 2024-07-25 | 2024-11-29 |
 | [Get 2 U](https://open.spotify.com/track/6qdsmy31Lw9o5QtgFQ6XO4) | [Bayu Risa](https://open.spotify.com/artist/3YaBuuR6wR9wAxwB1G9SN8), [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj) | [Get 2 U](https://open.spotify.com/album/2gEp6DORyfYH7FddJa0i98) | 3:15 | 2025-10-30 |  |
+| [Get By](https://open.spotify.com/track/37c8f4PsddXAHrMftJ6sVb) | [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj) | [Get By](https://open.spotify.com/album/7C6CbxuBRZdcASW5ZFFsu3) | 3:22 | 2025-12-04 |  |
 | [Get It Wrong](https://open.spotify.com/track/5uR0cwWtzvrlJrrDfg4ePY) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [Get It Wrong](https://open.spotify.com/album/2K3fBzHN62qn1cIp5umUDy) | 3:32 | 2024-12-12 | 2025-09-30 |
 | [Get Over Him](https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Get Over Him](https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA) | 3:06 | 2024-06-27 | 2025-01-24 |
 | [Ghosted](https://open.spotify.com/track/5cLfmkJs0JD99L26pudHYn) | [Ronaldo Caniggia](https://open.spotify.com/artist/4yAwquliWNhiaSyRiHenYQ) | [Ghosted](https://open.spotify.com/album/5bWUz6FrUd72zdcmHfMJpl) | 2:47 | 2025-10-23 |  |
@@ -264,6 +265,7 @@
 | [Is It Love?](https://open.spotify.com/track/31M7Jau1Yoi6ilPLlhrVbQ) | [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [Is It Love?](https://open.spotify.com/album/1kJkNIfeNPT7aBL03sT4L7) | 3:15 | 2025-01-30 | 2025-10-31 |
 | [Isn't It Romantic?](https://open.spotify.com/track/1x5Xlm3uF84c6brdgeBxoH) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Duo MobySade](https://open.spotify.com/artist/7cOjhMwF2kd9ngOO3aA9EU) | [Isn't It Romantic?](https://open.spotify.com/album/7j03BBCzOQrBVJxmuIlxva) | 4:34 | 2024-06-27 | 2024-10-11 |
 | [It Don't Mean a Thing](https://open.spotify.com/track/53kdKA8W4Fh6L5OKxPBUOA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [CINEMA\. extended](https://open.spotify.com/album/4SO2qY7jxlQqc5dghBj4Jt) | 2:01 | 2024-12-05 | 2025-08-08 |
+| [It Hurts A Little](https://open.spotify.com/track/53yLJQ8cpghI7pBjVuMknH) | [Nadine Kei](https://open.spotify.com/artist/0MunFmmsHxcruu9oGeFjKL) | [It Hurts A Little](https://open.spotify.com/album/4sHcqOCnxE9n4glm0OVpoi) | 4:19 | 2025-12-04 |  |
 | [It's My Time](https://open.spotify.com/track/555IyOfem2b26xijZsVWql) | [Mikha Tambayong](https://open.spotify.com/artist/39Q7seDI6P5tEMTTeHOyGG) | [It's My Time](https://open.spotify.com/album/1B0KOdf7hQQ860e8UJYQMK) | 4:21 | 2025-05-01 | 2025-10-31 |
 | [It's Okay To Not Be Okay](https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Okay To Not Be Okay](https://open.spotify.com/album/3drslecLxKxhkqFX3JRQbe) | 3:29 | 2025-02-13 |  |
 | [It's On You](https://open.spotify.com/track/4fAHdVOZW7QgKJPmdZ4YPg) | [MRNMRS](https://open.spotify.com/artist/7vF0eLf5ZAqtSqOTKwLikU) | [Bashed Up](https://open.spotify.com/album/3jmdvDzUJuP7pDHAtINytm) | 3:50 | 2025-03-13 | 2025-05-09 |
@@ -372,6 +374,7 @@
 | [OMG](https://open.spotify.com/track/2o2zzWKX9QQx58dxb8UIbd) | [New Sound Generation](https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD), [Keianka](https://open.spotify.com/artist/5RTv9Js6nOCOPChuTA6bu9), [Willy Winarko](https://open.spotify.com/artist/1ZF0HA5IH5YwG99h7RgYfI) | [OMG](https://open.spotify.com/album/5vF7Gl5Psqn8e0B9ZdzGVV) | 2:42 | 2025-04-17 | 2025-05-09 |
 | [On It](https://open.spotify.com/track/1ETUIsy5AB0vRex8R5XnKj) | [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Midnight Notion](https://open.spotify.com/album/6B0zS4VpKLy0R7WyeaetbI) | 5:40 | 2024-06-27 | 2024-09-27 |
 | [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-06-27 | 2024-10-11 |
+| [ONE LAST KISS](https://open.spotify.com/track/14Wjf3fxtkuc5MZPKo9Ioo) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [PACK UR BAGS, \- Side A](https://open.spotify.com/album/5wcoEGFxeGYx71LmcDFNmv) | 3:52 | 2025-12-04 |  |
 | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/album/28GoAqZtvVBLerde573OJD) | 3:47 | 2024-10-17 | 2025-01-24 |
 | [Only Time](https://open.spotify.com/track/3enHMAuRZoSl6bnUq9yJmZ) | [Arthur Xavael](https://open.spotify.com/artist/0VP0nG3LvAeJrIT9JeesR1) | [Only Time](https://open.spotify.com/album/3iVk8hSGH7VQ4Uu5FU8CDS) | 3:34 | 2025-10-23 |  |
 | [only us tonight](https://open.spotify.com/track/0zStg9YMWWNqOdhCWeMDIR) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX) | [only us tonight](https://open.spotify.com/album/1yJbMkMWhMWWfCsV4gBy06) | 3:12 | 2025-06-26 | 2025-08-08 |
@@ -531,6 +534,7 @@
 | [what about we.](https://open.spotify.com/track/29500ynLp5KW47YhREJGF1) | [beenmind](https://open.spotify.com/artist/1XZvnhUO8BhpPo6P3q3zba) | [lovexickal](https://open.spotify.com/album/5l2ra1zglhLBDTxwvnTCoa) | 2:48 | 2024-06-27 | 2024-07-27 |
 | [What are We?](https://open.spotify.com/track/4huTFGlzP6EZIDgwxuGXT6) | [Stanley Hao](https://open.spotify.com/artist/2zyCIsZHG0cCF3ttinGHVz), [Pelin](https://open.spotify.com/artist/2K4c57tnoM6U3Oy7b5KFUB) | [What are We?](https://open.spotify.com/album/0TGO3NpFcVGaAjKSIN88EW) | 3:24 | 2025-03-27 |  |
 | [What I Feel](https://open.spotify.com/track/1PGNxyuK7fScstRsOiwkyc) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [What I Feel](https://open.spotify.com/album/5at426bQhyBfRE6SoOf3X8) | 4:26 | 2025-11-06 |  |
+| [what if we both loved each other still?](https://open.spotify.com/track/7bTrKXKGFsfzBbFyEw1z5g) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [PISCEE](https://open.spotify.com/artist/0pLM4IyW9R8mqxe9t36ikW) | [what if we both loved each other still?](https://open.spotify.com/album/1h5jJC1l85dOW2UTXULsZ4) | 3:55 | 2025-12-04 |  |
 | [Where Are You Christmas?](https://open.spotify.com/track/2pCXRjuPLX8ZOtHqMzJY7X) | [Meda Kawu](https://open.spotify.com/artist/2Fn8lD5ZQhmXzQOAmTEppr) | [Christmas According To...](https://open.spotify.com/album/5yMeGEZolGBWuiPIDZIi6K) | 2:44 | 2024-12-05 | 2025-03-14 |
 | [Where Do We Go](https://open.spotify.com/track/5kiytJIDxoUhGHN3rUCJqE) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Where Do We Go](https://open.spotify.com/album/6RRlckOrJ2nXRWw2mFsP6j) | 3:23 | 2024-06-27 | 2024-10-11 |
 | [Where the Wind Takes Me](https://open.spotify.com/track/1p7SGM0ojsAVGuWtXkgeTa) | [Shania Yan](https://open.spotify.com/artist/1bycmYZBIFs1GndFBYtlSX) | [Where the Wind Takes Me](https://open.spotify.com/album/6tpOkpi2e1pYqXGkZa6neQ) | 3:50 | 2025-02-28 | 2025-10-31 |

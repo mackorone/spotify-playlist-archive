@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Sof\u00eda Amores.",
-  "num_followers": 21179,
+  "num_followers": 21184,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-12-02 23:01:13",
       "album": {
+        "name": "Se te est\u00e1 olvidando",
+        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
+      },
+      "artists": [
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "duration_ms": 167856,
+      "name": "Se te est\u00e1 olvidando",
+      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
+    },
+    {
+      "added_at": "2025-12-02 23:01:13",
+      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 146189,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F"
-    },
-    {
-      "added_at": "2025-12-02 23:01:13",
-      "album": {
-        "name": "Se te est\u00e1 olvidando",
-        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
-      },
-      "artists": [
-        {
-          "name": "SAZZA",
-          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
-        }
-      ],
-      "duration_ms": 167856,
-      "name": "Se te est\u00e1 olvidando",
-      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
     },
     {
       "added_at": "2025-12-02 23:01:13",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-12-02 23:01:13",
       "album": {
-        "name": "una chica buena de manual",
-        "url": "https://open.spotify.com/album/2Ujaf4ZyGp4u3hSTCXNfVY"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "una chica buena de manual",
-      "url": "https://open.spotify.com/track/7A0bfUrsnuc1JgIz6y5EMR"
-    },
-    {
-      "added_at": "2025-12-02 23:01:13",
-      "album": {
         "name": "Si me muero ma\u00f1ana",
         "url": "https://open.spotify.com/album/4PMkMQqNq63gjMRz5sRWQw"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 257250,
       "name": "Si me muero ma\u00f1ana",
       "url": "https://open.spotify.com/track/5TxfmcbrqqMnlhKYIpf1ou"
+    },
+    {
+      "added_at": "2025-12-02 23:01:13",
+      "album": {
+        "name": "una chica buena de manual",
+        "url": "https://open.spotify.com/album/2Ujaf4ZyGp4u3hSTCXNfVY"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "una chica buena de manual",
+      "url": "https://open.spotify.com/track/7A0bfUrsnuc1JgIz6y5EMR"
     },
     {
       "added_at": "2025-12-02 23:01:13",

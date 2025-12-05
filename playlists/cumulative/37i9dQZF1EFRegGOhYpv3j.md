@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-111 songs - 5 hr 50 min
+112 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Lose You Too](https://open.spotify.com/track/3GIyiJDNjbXESMWxrgARDg) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Act II: COUNTRYSTAR](https://open.spotify.com/album/7cuMWFxEYkP7NLm7sRR62W) | 3:30 | 2025-07-13 |  |
 | [Lose You Too](https://open.spotify.com/track/5KIZ2mEfechClRNZqq0X0S) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Lose You Too](https://open.spotify.com/album/0NRMQWeLiLHKubdUSAzz2V) | 3:30 | 2025-05-22 | 2025-07-14 |
 | [love in the living room](https://open.spotify.com/track/2kZINzKJ48m68G97jlDm89) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 3:10 | 2024-04-03 |  |
+| [Mama’s Kitchen Table](https://open.spotify.com/track/2OBVa4LxkAtrMPV8LUeEkg) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Faded Polaroids](https://open.spotify.com/album/4m06yfaG7MOFcwPtZ6hMYT) | 2:17 | 2025-12-04 |  |
 | [mandela effect](https://open.spotify.com/track/6mvZMZaPix0TNCRYObsLI0) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [less than three](https://open.spotify.com/album/3yHXeIqPAFAFEAoxeErVZX) | 2:52 | 2024-04-03 |  |
 | [Maybe Don’t?](https://open.spotify.com/track/5h9IjiO5qNtQgXrZUYWxqU) | [Clarke Burns](https://open.spotify.com/artist/6YSwAuCYqkMo7cCTd3wkVh) | [Maybe Don’t?](https://open.spotify.com/album/413h2NXjHd1Dq1OVjqkr7p) | 2:58 | 2025-11-06 |  |
 | [NO SAD SONGS](https://open.spotify.com/track/7bL7jrv7ZOlSotkWa7UNuR) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 2:52 | 2024-04-03 |  |

@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 221693,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
@@ -6559,6 +6559,28 @@
     },
     {
       "album": {
+        "name": "Cityboys Attitude",
+        "url": "https://open.spotify.com/album/6Ocr3jf1Opxm12ZQchH0sq"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        },
+        {
+          "name": "SHINDRUM",
+          "url": "https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212349,
+      "name": "Have I Asked You",
+      "url": "https://open.spotify.com/track/6ntNYbDZwSmYiQAaqTYo01"
+    },
+    {
+      "album": {
         "name": "Hear Me Out",
         "url": "https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ"
       },
@@ -7198,7 +7220,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 207560,
       "name": "I Can\u2032t Let You Go (Feat. zin, PENOMECO)",
       "url": "https://open.spotify.com/track/632zGKeiF91cwghhKkUPWE"
@@ -8098,7 +8120,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 223000,
       "name": "Last Long",
       "url": "https://open.spotify.com/track/0ZYToKEN7zHYF9OmG8TA57"

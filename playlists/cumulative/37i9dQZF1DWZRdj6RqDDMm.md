@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Nöel Mio
 
-593 songs - 1 day 9 hr 7 min
+596 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Faithful God](https://open.spotify.com/track/5lqmPZ1uxjkxaNjGAhdfTb) | [Broda Harrison](https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t) | [Faithful God](https://open.spotify.com/album/5jq55ifAun0slziKxFkIfk) | 2:30 | 2023-10-20 | 2024-01-12 |
 | [Faithfulness](https://open.spotify.com/track/2oslblHv8mLtujL18UEpCK) | [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [Beauty Ben](https://open.spotify.com/artist/5r4o4ePBQDLWdQe1ALggze), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Faithfulness](https://open.spotify.com/album/4rjbbRkKwW2bX7JxOMx7jT) | 2:43 | 2025-01-30 |  |
 | [Fame + Glory](https://open.spotify.com/track/37cfMfkJsM4HqXPZKTypN3) | [Jacquelyn Owens](https://open.spotify.com/artist/5LuRJ0imIOJypW35FwRFAd) | [Fame + Glory](https://open.spotify.com/album/2rugJIKtAj6Go282XMjnBX) | 2:56 | 2025-03-14 | 2025-05-02 |
+| [Far Far](https://open.spotify.com/track/3HJv7EgAFZQJrNGAZQemi4) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Far Far](https://open.spotify.com/album/334ovjV48rjW7uZAv395fV) | 2:35 | 2025-12-05 |  |
 | [Favoured](https://open.spotify.com/track/3MV5F5mXmSwV4SfDQtltEw) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Favoured](https://open.spotify.com/album/2DUMgEaK0BuGQ0zZ7KMl5g) | 2:50 | 2025-02-21 |  |
 | [Feranmi](https://open.spotify.com/track/2JH55XBLdOV3suc4Bt6MwR) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Feranmi](https://open.spotify.com/album/5CHHe2aQR8M5i0xfbCjkmN) | 2:50 | 2025-03-14 | 2025-05-30 |
 | [Fight for you](https://open.spotify.com/track/3QeNyBGX005E5rFdyqxxUs) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [Fight for you](https://open.spotify.com/album/44IjNnyK7MQ8W42rHG70Vo) | 2:51 | 2023-10-20 | 2024-01-19 |
@@ -373,6 +374,7 @@
 | [No Trouble](https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [No Trouble](https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB) | 2:50 | 2023-10-20 | 2024-04-06 |
 | [No Turning Back](https://open.spotify.com/track/6X06ssOplf4RQb1L48qZVX) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Lofi & Jesus: Sober Journal](https://open.spotify.com/album/000LlWeGQHw4GGOY7gj2rn) | 3:26 | 2025-01-31 | 2025-02-28 |
 | [No worries "Hakuna Matata"](https://open.spotify.com/track/4LPNjHRpM05jnwnOvNnOv7) | [Olawale Godwin Ogunleye](https://open.spotify.com/artist/5HiUycuLo5NBzSGHaSPBDv) | [No worries "Hakuna Matata"](https://open.spotify.com/album/1pCGqsVRRsVCNazBr3O7j5) | 3:25 | 2025-08-01 | 2025-09-05 |
+| [Not A Man](https://open.spotify.com/track/7z8Xz0y7g8Edd5XFpBMZlg) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Not A Man](https://open.spotify.com/album/0kSOEznkAQGUU9aNgoIQHN) | 3:46 | 2025-12-05 |  |
 | [Not Alone](https://open.spotify.com/track/1AhlSnL6e6WP5gRBTZfru6) | [Aydeji](https://open.spotify.com/artist/02abeDILFY7L8Rt1N7NisI), [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7) | [First](https://open.spotify.com/album/4MquUNoaNXgXOPWAHutN2V) | 3:19 | 2024-09-06 | 2024-11-08 |
 | [Not Alone](https://open.spotify.com/track/4F9M0pKsSgkJIpyWRxvF9Y) | [Mbonelyn](https://open.spotify.com/artist/3romvxmdAxsvhY5vhf5NWE), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO), [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3) | [Not Alone](https://open.spotify.com/album/7GRdLNNetjhHaz2dDdLfpz) | 2:46 | 2023-12-01 | 2024-01-26 |
 | [Not My Will \( Live \)](https://open.spotify.com/track/2SKJFXD7b31nX4yD8W41ZT) | [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Not My Will \( Live \)](https://open.spotify.com/album/2MC1vGGqfZWGLBFKnIIYPd) | 9:44 | 2025-01-30 |  |
@@ -508,6 +510,7 @@
 | [Thank You Lord](https://open.spotify.com/track/3bzFiK4uI7V9LBpZYJXXyc) | [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu), [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Thank You Lord](https://open.spotify.com/album/2x3ppzGnZuZQVEbSelnN4g) | 3:09 | 2025-05-30 | 2025-06-13 |
 | [Thankful](https://open.spotify.com/track/0QJnoEolnrjOTgnkxqFYX7) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Thankful](https://open.spotify.com/album/1u46x7OT5i10TzU83ec0lh) | 2:44 | 2024-08-09 | 2024-10-25 |
 | [Thankful](https://open.spotify.com/track/4cl4l1Jmxg8NOAU2i4jKH0) | [Teddy krane](https://open.spotify.com/artist/22Qjyplj5Bih1Q4jpU0Ina) | [Thankful](https://open.spotify.com/album/3yViS17TbS3XSYrMm312jh) | 3:02 | 2024-11-22 | 2025-01-10 |
+| [The Good News: TGN](https://open.spotify.com/track/1ZWqe0v7n342eT9fITFGb6) | [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO), [Charis\-Rehoboth](https://open.spotify.com/artist/4oMf6vCW0Qe2xL4dNAu6yR), [Tobi Kay](https://open.spotify.com/artist/6PXX89E2IHh8zpEZ7o5129) | [The Good News: TGN](https://open.spotify.com/album/3fWacQIZnUl4SnAth4v9DO) | 3:21 | 2025-12-05 |  |
 | [The Life](https://open.spotify.com/track/1Wp8BKu4JsFvUfHhyxaThS) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [The Life](https://open.spotify.com/album/0r83zIYgyDomUxX8zOTqPb) | 2:45 | 2024-07-19 | 2024-10-04 |
 | [The Light](https://open.spotify.com/track/6KQTXAGQoSxHMjd9xXIEtw) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [Kingdom Mission](https://open.spotify.com/album/46hmWwofq4WLReMxBz5Ynw) | 1:37 | 2024-01-05 | 2024-02-02 |
 | [The Lord's Prayer](https://open.spotify.com/track/1kuaNWvKkZJMmy56xRAZSn) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [The Lord's Prayer](https://open.spotify.com/album/79tdBvikn5OHJewT3LQZOJ) | 2:00 | 2025-08-22 | 2025-09-19 |

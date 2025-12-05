@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=qSgYDzOCSyqt8\_\-ZdbhLCQ>Dumi Mkokstad</a>"
 
-433 songs - 1 day 21 hr 43 min
+435 songs - 1 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Isazelo Singishiye Ngedwa](https://open.spotify.com/track/7LWLrnHh0nMayLZblimXMy) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Isazelo Singishiye Ngedwa](https://open.spotify.com/album/4CXvH3FjVBhDiLKiEcjjLe) | 11:15 | 2023-09-22 | 2024-02-02 |
 | [Isinqumo](https://open.spotify.com/track/2bwuBjjf8N1jKv6eWSBlQF) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Isinqumo](https://open.spotify.com/album/0x1vIEmngKKTXTECnvTVIg) | 6:07 | 2024-08-23 | 2024-10-18 |
 | [Izandla Zethu Ziyakubanjwa](https://open.spotify.com/track/3l8KixA9Yzo4WlGSSkmFQ2) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Izandla Zethu Ziyakubanjwa](https://open.spotify.com/album/1ZF3qPtV1Hx0pRquLM6oYX) | 5:05 | 2023-12-29 | 2024-05-17 |
+| [Izindela Zakhe \- Live at The Playhouse](https://open.spotify.com/track/3rOm6rtALrqKEoBjwhY9Rr) | [Ntokozo Ngongoma](https://open.spotify.com/artist/5IGR73moHopegctzMOpM10) | [Izindela Zakhe \(Live at The Playhouse\)](https://open.spotify.com/album/44qTX6pyLy6y5TNrhy3SzW) | 6:28 | 2025-12-05 |  |
 | [Izindlela Zakhe](https://open.spotify.com/track/1rNykgPiUeIbxGVzDXL6t3) | [Ntokozo Ngongoma](https://open.spotify.com/artist/5IGR73moHopegctzMOpM10) | [Izindlela Zakhe](https://open.spotify.com/album/24xdSohbhBFnCyBG82EqYq) | 6:51 | 2024-03-29 | 2024-04-05 |
 | [Izinto](https://open.spotify.com/track/6rxSBpVdlznmxuoSZhCObs) | [mashka](https://open.spotify.com/artist/5TW7STulWrwTaRCN9EBVbh) | [Lokollohang](https://open.spotify.com/album/16Kbg0yliilgW4RRL9wX9b) | 3:42 | 2025-07-11 | 2025-08-08 |
 | [iZono Zami](https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp) | [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [iZono Zami](https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b) | 5:19 | 2024-03-22 |  |
@@ -158,6 +159,7 @@
 | [Jesus Reigns \(Remix\) \(feat\. Khaya Mthethwa\)](https://open.spotify.com/track/2ghE8KoNrcqUUTBERLTdQP) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Adoration](https://open.spotify.com/album/3YK4Pkalw9PrD92s6Kmjdk) | 6:33 | 2025-07-18 | 2025-09-19 |
 | [Jesus You're My Life](https://open.spotify.com/track/4FevVgFnOyVXsSabEjxzWn) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Jesus You're My Life](https://open.spotify.com/album/28EZ5NhHoBM3W3Ovj97uhF) | 6:12 | 2022-04-28 | 2023-03-18 |
 | [Joy, Peace and Happiness](https://open.spotify.com/track/7M7f0aEGP5JLB6Se7JBoE7) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Joy, Peace and Happiness](https://open.spotify.com/album/2YGfKSGwmRBVzXLyXzTwpa) | 4:13 | 2023-09-29 | 2023-10-27 |
+| [Joyous Medley](https://open.spotify.com/track/6eaKEKK7Yq5N2GSRDpZs5S) | [Esethu Siwe](https://open.spotify.com/artist/6pADaqMmY4SSfMhwcJGKci) | [Joyous Melody](https://open.spotify.com/album/1btk9nWo6DvXgJ8I0rZJFw) | 11:00 | 2025-12-05 |  |
 | [Judgement Day](https://open.spotify.com/track/3QUgyfxDE3PeRUpF0naBqr) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Hope](https://open.spotify.com/album/0FL96MMnLWqynSbzfKV8to) | 4:21 | 2022-09-22 | 2023-03-18 |
 | [Just Like A Tree](https://open.spotify.com/track/2ZWav7R2tEyJrXcY1VYXAD) | [Thobekile](https://open.spotify.com/artist/33RHB2uEq3urURGwHRw01o) | [Thobekile](https://open.spotify.com/album/5f5t7Nqs1RwHBD8w8j6KKF) | 4:22 | 2024-05-31 | 2024-08-16 |
 | [Ka Letsatsi \(Live\)](https://open.spotify.com/track/1DTTtfBgaYraBfSE6PSy5L) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Ka Letsatsi \(Live\)](https://open.spotify.com/album/3c1ewMB80rH1CBHLkL4U7N) | 4:03 | 2023-07-21 | 2023-11-17 |

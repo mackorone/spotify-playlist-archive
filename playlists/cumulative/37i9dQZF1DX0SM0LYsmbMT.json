@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 84750,
       "name": "Afternoondriftaway",
       "url": "https://open.spotify.com/track/1pZbr9MATtsf8HZq1Z0qAz"
@@ -6366,7 +6366,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 120000,
       "name": "Balcony Daze",
       "url": "https://open.spotify.com/track/7IowvBph1ihjDaSleU5wO3"
@@ -11850,7 +11850,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 120000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/7kVTOC6WG9TnIy1VXUhhdk"
@@ -20930,7 +20930,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 124444,
       "name": "Dreamy",
       "url": "https://open.spotify.com/track/2i0nSD9xy9IPohXe9RVSwb"
@@ -24058,7 +24058,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 109629,
       "name": "Exquisite",
       "url": "https://open.spotify.com/track/6whiiL6HjC9222gjDxVo9H"
@@ -25792,7 +25792,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 98007,
       "name": "Floatation Device",
       "url": "https://open.spotify.com/track/01tvFzm8PrgWSwpNlrbBAd"
@@ -25818,7 +25818,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 142134,
       "name": "Floatin'",
       "url": "https://open.spotify.com/track/0SwMW7AfosFNOwCIkzi4Rn"
@@ -28724,7 +28724,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 132075,
       "name": "Gesmis 4 Children",
       "url": "https://open.spotify.com/track/4nrIYNcJ6gXlpI5fSEpOE0"
@@ -33260,7 +33260,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 125581,
       "name": "Holidays",
       "url": "https://open.spotify.com/track/79C924jHKaiuKHgf3wIQfP"
@@ -45338,7 +45338,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 136846,
       "name": "Low Tide",
       "url": "https://open.spotify.com/track/7DvFefh4tcbBPuqlLZkYlY"
@@ -46928,7 +46928,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 124750,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1Be6BhtTjQfvPZbx5H3k6t"
@@ -67660,7 +67660,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 93157,
       "name": "Shelterlude",
       "url": "https://open.spotify.com/track/5plJesIAxOAGcudkX85J95"
@@ -67918,7 +67918,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Showtime",
       "url": "https://open.spotify.com/track/5u95NsXeEC3yt1O2BbdFJ9"
@@ -72060,7 +72060,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 150646,
       "name": "Spring",
       "url": "https://open.spotify.com/track/2ETNAXWeEKrJeYK8Rrr5lr"
@@ -74134,6 +74134,28 @@
       "duration_ms": 134055,
       "name": "Sugarhill",
       "url": "https://open.spotify.com/track/3eIEUv2k9dyhEEdPCcDrNG"
+    },
+    {
+      "album": {
+        "name": "Suite 8",
+        "url": "https://open.spotify.com/album/6zlTwu4W93EGNO9mBToGTP"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Suite 8",
+      "url": "https://open.spotify.com/track/2gT8jhUQ5BXEBLNTePmlR1"
     },
     {
       "album": {
@@ -85658,7 +85680,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 146781,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl"

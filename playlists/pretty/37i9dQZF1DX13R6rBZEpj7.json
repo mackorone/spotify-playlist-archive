@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 272083,
+  "num_followers": 272145,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-11-27 15:07:22",
       "album": {
-        "name": "Front to Back",
-        "url": "https://open.spotify.com/album/2RNeEPPKorasuMrEU6vFS3"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        }
-      ],
-      "duration_ms": 147107,
-      "name": "Front to Back",
-      "url": "https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP"
-    },
-    {
-      "added_at": "2025-11-27 15:07:22",
-      "album": {
         "name": "Watch The Skank",
         "url": "https://open.spotify.com/album/01CQfqMHQFq4S0ogijNGwJ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 181714,
       "name": "Watch The Skank",
       "url": "https://open.spotify.com/track/49zk3dTYmYjtXK6UnG18Er"
+    },
+    {
+      "added_at": "2025-11-27 15:07:22",
+      "album": {
+        "name": "Front to Back",
+        "url": "https://open.spotify.com/album/2RNeEPPKorasuMrEU6vFS3"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 147107,
+      "name": "Front to Back",
+      "url": "https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP"
     },
     {
       "added_at": "2025-11-27 15:07:22",
@@ -811,30 +811,6 @@
     {
       "added_at": "2025-11-27 15:07:22",
       "album": {
-        "name": "No Bad Vibes (Denon Reed Remix)",
-        "url": "https://open.spotify.com/album/0a9IivRuZVKAoxJUdlssq3"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        }
-      ],
-      "duration_ms": 164994,
-      "name": "No Bad Vibes - Denon Reed Remix",
-      "url": "https://open.spotify.com/track/2CVARGo9Awb6cOWvz970fl"
-    },
-    {
-      "added_at": "2025-11-27 15:07:22",
-      "album": {
         "name": "ON JOB",
         "url": "https://open.spotify.com/album/0P8FoWrMOpB4JZWdvJzzvy"
       },
@@ -847,22 +823,6 @@
       "duration_ms": 198002,
       "name": "ON JOB",
       "url": "https://open.spotify.com/track/0QgRQ5uxzGcRFcjXU0bt9L"
-    },
-    {
-      "added_at": "2025-11-27 15:07:22",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5MJzCkYEcWOL8dcDy3PWZG"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/0Vdfm8WQtpVNAuPcmJjIQ6"
     },
     {
       "added_at": "2025-11-27 15:07:22",
@@ -883,6 +843,46 @@
       "duration_ms": 134166,
       "name": "No Lie - BL3SS Remix",
       "url": "https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u"
+    },
+    {
+      "added_at": "2025-11-27 15:07:22",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5MJzCkYEcWOL8dcDy3PWZG"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/0Vdfm8WQtpVNAuPcmJjIQ6"
+    },
+    {
+      "added_at": "2025-11-27 15:07:22",
+      "album": {
+        "name": "No Bad Vibes (Denon Reed Remix)",
+        "url": "https://open.spotify.com/album/0a9IivRuZVKAoxJUdlssq3"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "duration_ms": 164994,
+      "name": "No Bad Vibes - Denon Reed Remix",
+      "url": "https://open.spotify.com/track/2CVARGo9Awb6cOWvz970fl"
     },
     {
       "added_at": "2025-11-27 15:07:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-11-27 15:07:22",
       "album": {
-        "name": "If You Could Be My Sweetheart",
-        "url": "https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt"
-      },
-      "artists": [
-        {
-          "name": "Chad Harrison",
-          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "If You Could Be My Sweetheart",
-      "url": "https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW"
-    },
-    {
-      "added_at": "2025-11-27 15:07:22",
-      "album": {
         "name": "I Would Like (Chad Harrison Remix)",
         "url": "https://open.spotify.com/album/4xxWSRWNVwwJioB2mzUq1s"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 187708,
       "name": "I Would Like - Chad Harrison Remix",
       "url": "https://open.spotify.com/track/6sg47dyQ26ACbci6MmTBoy"
+    },
+    {
+      "added_at": "2025-11-27 15:07:22",
+      "album": {
+        "name": "If You Could Be My Sweetheart",
+        "url": "https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt"
+      },
+      "artists": [
+        {
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "If You Could Be My Sweetheart",
+      "url": "https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW"
     },
     {
       "added_at": "2025-11-27 15:07:22",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2025-11-27 15:07:22",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2GcTWVCHl9KR00vBbMv7Uj"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        },
-        {
-          "name": "msft",
-          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
-        }
-      ],
-      "duration_ms": 153126,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r"
-    },
-    {
-      "added_at": "2025-11-27 15:07:22",
-      "album": {
         "name": "Club Orthodontics",
         "url": "https://open.spotify.com/album/2H9QqWVpc5FwkrIZzCPWG3"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 152871,
       "name": "No Chase",
       "url": "https://open.spotify.com/track/6mFBj2KS2sWIBFya5dO36K"
+    },
+    {
+      "added_at": "2025-11-27 15:07:22",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2GcTWVCHl9KR00vBbMv7Uj"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "msft",
+          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+        }
+      ],
+      "duration_ms": 153126,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r"
     },
     {
       "added_at": "2025-11-27 15:07:22",

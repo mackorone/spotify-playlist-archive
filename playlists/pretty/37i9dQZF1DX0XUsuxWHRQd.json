@@ -1,12 +1,12 @@
 {
   "description": "New music from Central Cee,  Lil Baby and Lil Uzi Vert",
-  "num_followers": 15840619,
+  "num_followers": 15839611,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALHVPi9TmiOffsylSJWzQrhssaL9",
+  "snapshot_id": "AAAAABtdKnivXm3/JKmUZF4Iq3W6II+e",
   "tracks": [
     {
       "added_at": "2025-12-01 16:39:14",
@@ -179,6 +179,22 @@
       "duration_ms": 277765,
       "name": "The Boy Who Played the Harp",
       "url": "https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN"
+    },
+    {
+      "added_at": "2025-12-04 05:00:28",
+      "album": {
+        "name": "Tha Carter II",
+        "url": "https://open.spotify.com/album/5qyUw6x9fjZPoQHUwuDu39"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 263546,
+      "name": "Fireman",
+      "url": "https://open.spotify.com/track/0V8Lfj3q1JyiKNBkHiQR4k"
     },
     {
       "added_at": "2025-12-01 16:39:14",

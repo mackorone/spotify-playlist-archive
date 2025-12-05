@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: YONAKA",
+  "description": "The UK's biggest rock playlist. Cover: Gretel",
   "name": "The Rock List",
   "tracks": [
     {
@@ -2356,6 +2356,24 @@
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
+    },
+    {
+      "album": {
+        "name": "conditions of an orphan// deluxe edition",
+        "url": "https://open.spotify.com/album/2OdZk5p5RrHPW1dsQihqhj"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177606,
+      "name": "birthday card// - Bonus Track",
+      "url": "https://open.spotify.com/track/2Ge2MmDxZgnjY9Vfj8PLC9"
     },
     {
       "album": {
@@ -4736,6 +4754,24 @@
       "duration_ms": 290309,
       "name": "Darkness Always Wins",
       "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
+    },
+    {
+      "album": {
+        "name": "Darkness Be My Friend",
+        "url": "https://open.spotify.com/album/1ZQ8MvbrziIkVTnE4eMkc8"
+      },
+      "artists": [
+        {
+          "name": "Gretel",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259859,
+      "name": "Darkness Be My Friend",
+      "url": "https://open.spotify.com/track/7DJjr6ix7iKXyevtSCfYCD"
     },
     {
       "album": {
@@ -11886,7 +11922,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 174190,
       "name": "Marsh",
       "url": "https://open.spotify.com/track/3reEx8EkW36Ni2h1A1MUfE"
@@ -14856,7 +14892,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 118280,
       "name": "PIG",
       "url": "https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM"
@@ -15552,6 +15588,24 @@
       "duration_ms": 176706,
       "name": "R.I.P. ME",
       "url": "https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd"
+    },
+    {
+      "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/4CUDtJPM5tSFOgj8g7YU3g"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272880,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/7oViH3tXp5dpqSTOfnBmef"
     },
     {
       "album": {
@@ -17012,7 +17066,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 152808,
       "name": "silence",
       "url": "https://open.spotify.com/track/3idm1kijXVuNPP4eqTyQCH"
@@ -18350,7 +18404,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 197385,
       "name": "Swamped",
       "url": "https://open.spotify.com/track/58TNAizQRjprUNUE0QWB87"
@@ -19428,6 +19482,24 @@
       "duration_ms": 162306,
       "name": "The System",
       "url": "https://open.spotify.com/track/6rU6rWzTjHUTVaJ9DG4TVm"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202973,
+      "name": "The Treadmill",
+      "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
     },
     {
       "album": {

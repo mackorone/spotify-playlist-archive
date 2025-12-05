@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: ZARKO
+> Uma playlist de pura alma pop! Foto: Bárbara Tinoco, Mari Froes
 
-373 songs - 19 hr 42 min
+375 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Agosto](https://open.spotify.com/track/1U3gNlN90I6TMGEs2KCOvH) | [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF) | [Agosto](https://open.spotify.com/album/4LFDZ4pCM49hjqBZiNTKkO) | 3:22 | 2025-02-21 | 2025-06-27 |
 | [Agradeço o Convite](https://open.spotify.com/track/4sgpCuqIyYOtNlev2etggH) | [Los Romeros](https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI) | [Agradeço o Convite](https://open.spotify.com/album/6SNSPAuZsb2kTu73RI4zeF) | 2:35 | 2025-10-23 |  |
 | [Algo Mais](https://open.spotify.com/track/38DUG8SHze3qRmZ8ECNUm5) | [Milhanas](https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC) | [Algo Mais](https://open.spotify.com/album/6Th9hsMeGTf9MKs9kwUBQh) | 3:05 | 2024-11-22 | 2025-04-11 |
-| [Alguém Real Aí?](https://open.spotify.com/track/69WLTpCM5wiPAIctk3Hv3X) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Alguém Real Aí?](https://open.spotify.com/album/1WlSgYzDk7O9BVxbJHf5Iv) | 3:30 | 2025-10-02 |  |
+| [Alguém Real Aí?](https://open.spotify.com/track/69WLTpCM5wiPAIctk3Hv3X) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Alguém Real Aí?](https://open.spotify.com/album/1WlSgYzDk7O9BVxbJHf5Iv) | 3:30 | 2025-10-02 | 2025-12-05 |
 | [Amar Pela Metade](https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Amar Pela Metade / Aimer À Moitié](https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu) | 3:06 | 2024-09-19 |  |
 | [AMAR\-TE \- A COLORS SHOW](https://open.spotify.com/track/3LintSc7Y6RlQAsJT9aJPc) | [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN) | [AMAR\-TE \- A COLORS SHOW](https://open.spotify.com/album/0hRkh7InnZ2mgmqylauavI) | 3:40 | 2024-11-01 | 2024-11-15 |
 | [Amigos Coloridos](https://open.spotify.com/track/4A006qfhftf2y12JKLyxoK) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Amigos Coloridos](https://open.spotify.com/album/67hN41imzmwzYlQuI2FN05) | 3:44 | 2024-07-11 | 2025-11-14 |
@@ -196,6 +196,7 @@
 | [Juras](https://open.spotify.com/track/0bMU79dbvAax22hvi3u7ot) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm) | [Juras](https://open.spotify.com/album/7FOLSM4KO0yF63KEN3ZZMZ) | 2:48 | 2025-01-17 | 2025-04-25 |
 | [Juro Por Deus](https://open.spotify.com/track/4jEU6KEAcFEYYccgskquRC) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Juro Por Deus](https://open.spotify.com/album/50qOcNKLf2jN82oeDQsCsE) | 3:38 | 2025-10-31 | 2025-11-28 |
 | [Já Não Há Pardais No Céu](https://open.spotify.com/track/39aiQ1JrN5XB6JHMTa03m6) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Já Não Há Pardais No Céu](https://open.spotify.com/album/7tn6orwNXJ0V45s0H0piuR) | 3:55 | 2025-02-07 | 2025-10-17 |
+| [Já Não Saio](https://open.spotify.com/track/082OgsZCbOvptVV5p5t6fV) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Já Não Saio](https://open.spotify.com/album/4iqIaovHEWSGNWtfRmRVEd) | 3:21 | 2025-12-05 |  |
 | [Já Não Sais Daqui](https://open.spotify.com/track/2CmzvlSWvxgcHBiydvp34s) | [Virgul](https://open.spotify.com/artist/0qe3I1MOY8oFj3DuoWNwbq), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Mais Do Que Entreter](https://open.spotify.com/album/690AQaXuqmKzMX70LIxcqW) | 3:24 | 2025-05-22 | 2025-10-31 |
 | [Já vem tarde](https://open.spotify.com/track/24UYhN68e1cW0PzAm4kdN9) | [Adriana Lua](https://open.spotify.com/artist/2yxeGLtzDAClpA5DyrEAw7), [Catarina Rocha](https://open.spotify.com/artist/0JzqHNRRhNPkberFy0CUAJ) | [Já vem tarde](https://open.spotify.com/album/5KVDYR7g3btnFcIGNwnnmH) | 4:19 | 2025-01-31 | 2025-02-21 |
 | [Laura](https://open.spotify.com/track/5NMMTzbGgo0DlzavWqlSe2) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [10:56 \(Branco\)](https://open.spotify.com/album/2EsbHiZhhZkGSXukGC2k72) | 2:56 | 2024-10-24 | 2024-11-08 |
@@ -261,7 +262,7 @@
 | [Ondas Do Mar](https://open.spotify.com/track/57U5uPOSahT6Cis5IgPw6g) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Ondas Do Mar](https://open.spotify.com/album/22sH7NUz2saNvEwVx1YOgD) | 2:00 | 2024-06-27 | 2024-07-27 |
 | [Outra vez](https://open.spotify.com/track/7A9xkQbFCU9ynZeptsMlAk) | [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [Outra vez](https://open.spotify.com/album/3yWpMdltdVtWr4IB0ZWWRU) | 3:17 | 2024-09-26 | 2024-10-11 |
 | [Outro Planeta](https://open.spotify.com/track/5gowKvKBEEpQhdAL2Qklhe) | [Virgul](https://open.spotify.com/artist/0qe3I1MOY8oFj3DuoWNwbq) | [Outro Planeta](https://open.spotify.com/album/2QEjRxraeyKj7iYlLLQUCM) | 3:04 | 2024-07-04 | 2025-03-14 |
-| [Pa Quê?](https://open.spotify.com/track/24D8iaNYZIlZEplxSeCZOr) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Pa Quê?](https://open.spotify.com/album/69atZMQiuCuX5pl8jlPZiB) | 2:56 | 2025-09-11 |  |
+| [Pa Quê?](https://open.spotify.com/track/24D8iaNYZIlZEplxSeCZOr) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Pa Quê?](https://open.spotify.com/album/69atZMQiuCuX5pl8jlPZiB) | 2:56 | 2025-09-11 | 2025-12-05 |
 | [Palavra](https://open.spotify.com/track/6Hk29yO1M35m5MECkNqmTU) | [AVALANCHE](https://open.spotify.com/artist/1BRFw2SgH5VM5P0FLmFp3z), [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9), [MALVA](https://open.spotify.com/artist/0ZGeXDeVRYGrf8dA3sFzGE), [NED FLANGER](https://open.spotify.com/artist/0qXCs4mrJ9VsOQPVddtg9f) | [Palavra](https://open.spotify.com/album/2TsejDRzCPzJzQZDWNpGey) | 2:26 | 2025-05-15 | 2025-06-27 |
 | [Patroa](https://open.spotify.com/track/3uSTx9xWkf7RTHdxRefuQ2) | [Archie](https://open.spotify.com/artist/6BQmTsPNeH0wmWXxa1CF4P) | [Patroa](https://open.spotify.com/album/32C3J9lftiE87G55F5ThXW) | 2:50 | 2025-09-18 |  |
 | [Paz Podre](https://open.spotify.com/track/7fHOxKxCrLoIaWSJNeMvhm) | [João Só](https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he) | [Nos Tempos Livres](https://open.spotify.com/album/1yUSOrIyaHeUfNQOKKTJqW) | 2:16 | 2024-11-22 | 2024-12-06 |
@@ -350,6 +351,7 @@
 | [Tanta Pena](https://open.spotify.com/track/7mUs8RjGaraHXBS07nZo6A) | [André ViaMonte](https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct), [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0) | [Tanta Pena](https://open.spotify.com/album/1MaAT3WQf8oKhaRBRML60M) | 3:36 | 2025-06-26 | 2025-08-15 |
 | [Tanto Tempo](https://open.spotify.com/track/003pENpxbAlWY7nMscpC05) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Tanto Tempo](https://open.spotify.com/album/2ItHTcdJBMsxn1q4zjf9Fr) | 3:45 | 2025-09-18 |  |
 | [Telefone Estragado](https://open.spotify.com/track/6jbj7rIgPoimjgB9SXlP81) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Telefone Estragado](https://open.spotify.com/album/5a8Yvj8bqm5h6FsLe9SmJ7) | 3:01 | 2025-05-08 | 2025-05-23 |
+| [Tem lá uma tristeza](https://open.spotify.com/track/3QjkUHKTlsbiKsROCPYZF2) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT), [Mari Froes](https://open.spotify.com/artist/2vJSZKsp32wkF2nDGlGzhn) | [Tem lá uma tristeza](https://open.spotify.com/album/3rwON1RikuIdaY40Di9CzY) | 2:40 | 2025-12-05 |  |
 | [Temos Pena!](https://open.spotify.com/track/1i2t55Ls2wNthz6QDUUfDC) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Temos Pena!](https://open.spotify.com/album/3Y8NyBrhqvvHAu5ZEeLMML) | 3:14 | 2024-11-15 | 2025-05-09 |
 | [Tentar \(outra vez\)](https://open.spotify.com/track/5WUEmlPYQQ2dMmSR7vJFA0) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Tentar \(outra vez\)](https://open.spotify.com/album/3kB71aZrSpAFafaof9jPA1) | 2:36 | 2025-04-24 | 2025-10-24 |
 | [Tento Na Língua](https://open.spotify.com/track/38ujKy5Qyv2s4mEW9JmqIG) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU), [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Tento Na Língua](https://open.spotify.com/album/0JZzrTOlEMIsUV5lGXgtOx) | 3:15 | 2025-03-21 | 2025-10-24 |

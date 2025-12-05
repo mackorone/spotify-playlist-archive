@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Marina Satti, Tso",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Stavento, Anastasia ",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 207457,
       "name": "AN",
       "url": "https://open.spotify.com/track/1bJkO9a9TtPsac9HwYYcM3"
@@ -567,6 +567,28 @@
     },
     {
       "album": {
+        "name": "Anemos",
+        "url": "https://open.spotify.com/album/1CHEOeLIjns4RCOMziny6E"
+      },
+      "artists": [
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198360,
+      "name": "Anemos",
+      "url": "https://open.spotify.com/track/1ot6Dg7Sn77aL45m7O6aYG"
+    },
+    {
+      "album": {
         "name": "Ap' Ton Ourano",
         "url": "https://open.spotify.com/album/2BjaxMiv8oijoLmSLV6l6d"
       },
@@ -644,7 +666,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 157419,
       "name": "APOTIPOMA",
       "url": "https://open.spotify.com/track/0SKdTC5SI6vLGcgi6DT25q"
@@ -746,7 +768,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 256000,
       "name": "Asteromata - Playmen & Valeron Remix",
       "url": "https://open.spotify.com/track/7nATmzzvbhxLeMgkXHONld"
@@ -1958,6 +1980,28 @@
       "duration_ms": 170571,
       "name": "GIA SENA",
       "url": "https://open.spotify.com/track/1xjRL0LTJHQt6kMjwv55Kf"
+    },
+    {
+      "album": {
+        "name": "Gia Sena Pou Latrevo",
+        "url": "https://open.spotify.com/album/4R8CJqVRPReE9rKhhM86hz"
+      },
+      "artists": [
+        {
+          "name": "Stavento",
+          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
+        },
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190549,
+      "name": "Gia Sena Pou Latrevo",
+      "url": "https://open.spotify.com/track/3ke3c38UR92nhiofYhQv5a"
     },
     {
       "album": {
@@ -3810,7 +3854,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 155859,
       "name": "SEPTEMVRIS",
       "url": "https://open.spotify.com/track/5hmdNbAmYjdFTFKhW6vl3g"
@@ -4197,6 +4241,24 @@
     },
     {
       "album": {
+        "name": "To Sagapw",
+        "url": "https://open.spotify.com/album/2wSHAUfxb1PQyOqWkvbjRS"
+      },
+      "artists": [
+        {
+          "name": "DJ Stephan",
+          "url": "https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195505,
+      "name": "To Sagapw",
+      "url": "https://open.spotify.com/track/60VwRmtFziGwPfhklepBZT"
+    },
+    {
+      "album": {
         "name": "To Tango Tis Nefelis",
         "url": "https://open.spotify.com/album/3l99PmvReKh8FgbxlcWGl9"
       },
@@ -4256,6 +4318,24 @@
       "duration_ms": 177240,
       "name": "Tour\u00edsta",
       "url": "https://open.spotify.com/track/2XTxnII8KE0wRoIqyf3nsx"
+    },
+    {
+      "album": {
+        "name": "Tragoudao Dinata",
+        "url": "https://open.spotify.com/album/3MvFgf053daWKzR5EcL6vK"
+      },
+      "artists": [
+        {
+          "name": "Stelios Rokkos",
+          "url": "https://open.spotify.com/artist/01GDS9NmGwhzHm2VjbZFcG"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189024,
+      "name": "Tragoudao Dinata",
+      "url": "https://open.spotify.com/track/1zbPYnhRaPooiirF9rc4j1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 21306,
+  "num_followers": 21320,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-09-26 04:00:17",
       "album": {
+        "name": "Caf\u00e9 de Barcelona",
+        "url": "https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 158314,
+      "name": "Caf\u00e9 de Barcelona",
+      "url": "https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr"
+    },
+    {
+      "added_at": "2025-09-26 04:00:17",
+      "album": {
         "name": "Te Lo Voy a Decir",
         "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 210000,
       "name": "qu\u00e9 tal te va??",
       "url": "https://open.spotify.com/track/5CoyINOf5MRUEOqLMuxtTc"
-    },
-    {
-      "added_at": "2025-09-26 04:00:17",
-      "album": {
-        "name": "Caf\u00e9 de Barcelona",
-        "url": "https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 158314,
-      "name": "Caf\u00e9 de Barcelona",
-      "url": "https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr"
     },
     {
       "added_at": "2025-09-26 04:00:17",

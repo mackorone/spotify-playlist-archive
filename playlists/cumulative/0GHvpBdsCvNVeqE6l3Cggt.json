@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Echoes Of The Unseen",
+        "url": "https://open.spotify.com/album/3ScFhqwhhxKJlsTdkzSmOU"
+      },
+      "artists": [
+        {
+          "name": "Coleus",
+          "url": "https://open.spotify.com/artist/0grvUIIGuaFZQuCyqkGRhC"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128767,
+      "name": "petals",
+      "url": "https://open.spotify.com/track/0GsXXXDp8JNIPHuZ8EpOb7"
+    },
+    {
+      "album": {
         "name": "Archive",
         "url": "https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH"
       },

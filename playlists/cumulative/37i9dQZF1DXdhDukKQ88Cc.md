@@ -4,7 +4,7 @@
 
 > 🔥 de største nye rap hits i dk 🔥
 
-469 songs - 20 hr 6 min
+473 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/3VWuGvgAaYMB6bSNevfozD) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 2:37 | 2023-11-10 | 2024-09-13 |
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK) | 2:37 | 2024-02-08 | 2024-04-19 |
 | [911](https://open.spotify.com/track/1JufAqONpGBVcy8tQffI14) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [911](https://open.spotify.com/album/7AmzcJSCXx4xQgZSFs0kov) | 2:41 | 2024-06-20 | 2024-11-01 |
+| [9UP](https://open.spotify.com/track/1MfIbHpoii4rUHNzcqdil3) | [9Boogie](https://open.spotify.com/artist/6GywQ2ZouwXkm6NuLig6iu) | [9UP](https://open.spotify.com/album/3SniuwFZUBeIeDsBVLD1DM) | 2:05 | 2025-12-04 |  |
 | [AFIA](https://open.spotify.com/track/7J1jKRUJlMslfsVIZKx3ra) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFIA](https://open.spotify.com/album/06AoWxxRjXZhruttcclMo1) | 2:28 | 2024-09-27 | 2025-04-18 |
 | [Akwaaba](https://open.spotify.com/track/1nYrS7KLuFZnAiNUIDIKa5) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Akwaaba](https://open.spotify.com/album/06Z4yqeIkR2LiU0RnGnWVL) | 2:34 | 2025-09-25 | 2025-10-17 |
 | [Al Natural](https://open.spotify.com/track/36ngzzst9vzwwhT1gUmKqu) | [LARS](https://open.spotify.com/artist/3HVQBn5gaUiC8cwPwOb1ao) | [Al Natural](https://open.spotify.com/album/1tHla93ZMIoR4XGMUio1hO) | 2:12 | 2025-08-21 | 2025-09-12 |
@@ -68,6 +69,7 @@
 | [BLING BLAW](https://open.spotify.com/track/11uBjAczlKEf00u19iS1ZN) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [BLING BLAW](https://open.spotify.com/album/35oZ325EhPKXnVmv8AOfZq) | 2:08 | 2025-11-13 |  |
 | [Bling Blow](https://open.spotify.com/track/7vvPtbWQ6cna3R9OXspTdG) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [Bling Blow](https://open.spotify.com/album/20E3eDgNBD57mnDQOkDhog) | 2:26 | 2025-01-09 | 2025-03-14 |
 | [Blomstre](https://open.spotify.com/track/5FtMd8nPM4ZYcpB9X5k6Bm) | [Milbo](https://open.spotify.com/artist/7hdXOb76rDsDAe3ZdDstT3) | [Blomstre](https://open.spotify.com/album/5obACcDnMly85XtfJqyt14) | 2:17 | 2025-07-17 | 2025-08-01 |
+| [BOBBY WORLD](https://open.spotify.com/track/6lHbKNAZzgZo7hW0t7euw1) | [BobbyFRL](https://open.spotify.com/artist/1hdtK0dS0TRkuqfXH7GG7B) | [BOBBY WORLD](https://open.spotify.com/album/250Uaf0OHO0r50brY2ArJD) | 3:38 | 2025-12-04 |  |
 | [Bobler](https://open.spotify.com/track/6zoMh03Bp5aAJhnb46ej03) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Menneskelige Tendenser](https://open.spotify.com/album/7wb25FsDjGO0sL1BTNqVHd) | 3:16 | 2025-11-13 |  |
 | [Bombay \(feat\. Belly\)](https://open.spotify.com/track/5XfLvZjDEwgOjpLNKS0Nv0) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Bombay \(feat\. Belly\)](https://open.spotify.com/album/75anG1EjD6Ui4MV3wY1YXb) | 2:16 | 2024-07-11 | 2024-09-13 |
 | [Booty Up](https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:03 | 2024-08-08 | 2025-02-28 |
@@ -424,6 +426,7 @@
 | [To Gange](https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 1:56 | 2024-08-07 | 2025-02-28 |
 | [Topfart](https://open.spotify.com/track/2EbLz05DxMmuiEQv7zgNrY) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Topfart](https://open.spotify.com/album/2acA3wjr4eYsfX7WCWEXF6) | 2:34 | 2024-02-22 | 2024-04-05 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 | 2024-09-13 |
+| [TRACKSUIT](https://open.spotify.com/track/2GPVSfBMy7WD6AZc8I99KE) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [TRACKSUIT](https://open.spotify.com/album/0HxUpNDh9DhsxeMJyRCeZJ) | 2:15 | 2025-12-04 |  |
 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 | 2024-09-19 |  |
 | [Tropical \(feat\. Gilli\)](https://open.spotify.com/track/52raIkLsg4Qhfb80DqzitG) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Tropical \(feat\. Gilli\)](https://open.spotify.com/album/1BiMjrMjAmDcXQh06wAKLH) | 2:11 | 2025-07-31 | 2025-09-26 |
 | [Trump](https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Trump](https://open.spotify.com/album/4FOR6AyYhKQZfYNBaMZzsx) | 2:02 | 2025-05-15 | 2025-06-06 |
@@ -460,6 +463,7 @@
 | [Vi Okay](https://open.spotify.com/track/7tJHSRwoQJdMGLadmoc2no) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Vi Okay](https://open.spotify.com/album/4Ec3biM4N7LKBx5Iy0cQiN) | 2:48 | 2025-08-28 | 2025-10-17 |
 | [Vildmænd](https://open.spotify.com/track/1ESzQo3s0jP6j82ekke3yL) | [Edo6k](https://open.spotify.com/artist/1OyJnaSDsPqfU4Y1T7AcNa), [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Vildmænd](https://open.spotify.com/album/3GGmoAUIWFrFOZ4DVK5BcU) | 2:26 | 2025-07-17 | 2025-08-01 |
 | [Vind & Vejr](https://open.spotify.com/track/6ncJC6JbgYPUz1VBwTxKdo) | [9Boogie](https://open.spotify.com/artist/6GywQ2ZouwXkm6NuLig6iu) | [Vind & Vejr](https://open.spotify.com/album/4i7DoeevkdJSudXrgMVDt4) | 2:16 | 2025-10-02 | 2025-10-24 |
+| [VIP!](https://open.spotify.com/track/1pr286IhjshR9JEbhqP0gs) | [K4BZ](https://open.spotify.com/artist/2TIlWsBmdZBgR2qstq6NM1) | [](https://open.spotify.com/album/null) | 1:37 | 2025-12-04 |  |
 | [VÅGEN](https://open.spotify.com/track/0imtF0Mddv5FVKQUUgcG3R) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [VÅGEN](https://open.spotify.com/album/14UkKDJNK0LOqFWJvlg3LL) | 2:43 | 2024-12-12 | 2025-01-17 |
 | [Welcome To The Party](https://open.spotify.com/track/4SzFMT8u6xd8PJy9e7MFUl) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Welcome To The Party](https://open.spotify.com/album/0Ygeof958pxuFxmOptZlHX) | 2:35 | 2023-12-08 | 2024-05-14 |
 | [WHIP](https://open.spotify.com/track/5FXf7c1DvnUgYBcRqVQJls) | [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh) | [WHIP](https://open.spotify.com/album/5WTSkqMuWHQ1GZNcmIi7x3) | 2:17 | 2024-11-28 | 2025-01-17 |

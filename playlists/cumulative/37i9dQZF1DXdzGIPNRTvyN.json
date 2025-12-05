@@ -5269,6 +5269,24 @@
     },
     {
       "album": {
+        "name": "Sanare",
+        "url": "https://open.spotify.com/album/4LuiLAqAxCysmYYYEcr0SC"
+      },
+      "artists": [
+        {
+          "name": "Kai Stellar",
+          "url": "https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183614,
+      "name": "Sanare",
+      "url": "https://open.spotify.com/track/7qjuGqempfRgK5czZIheLn"
+    },
+    {
+      "album": {
         "name": "Wandering Mind",
         "url": "https://open.spotify.com/album/5xdnfDa5waDfIgSu7M6KGF"
       },
@@ -5518,7 +5536,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 216000,
       "name": "Silver & Gold",
       "url": "https://open.spotify.com/track/4OrQu62Uv8X5xW5nJ0Hhfr"

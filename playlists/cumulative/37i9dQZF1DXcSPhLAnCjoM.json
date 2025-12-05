@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Autrement\" de Julien Lieb est le Grand Hit de la semaine",
+  "description": "\"L'horizon\" de Pierre Garnier est le Grand Hit de la semaine",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -276,10 +276,28 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 172413,
       "name": "Avec ou sans",
       "url": "https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH"
+    },
+    {
+      "album": {
+        "name": "C amir\u00b2",
+        "url": "https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Avec toi",
+      "url": "https://open.spotify.com/track/1j8Yt6ZhiyAAq7voD6z5ja"
     },
     {
       "album": {
@@ -3835,6 +3853,24 @@
     },
     {
       "album": {
+        "name": "Mieux que moi",
+        "url": "https://open.spotify.com/album/31qQHs1Y0ZL3McKKTQdA6S"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215919,
+      "name": "Mieux que moi",
+      "url": "https://open.spotify.com/track/582fzdZiGTRxGigvLVZ7V7"
+    },
+    {
+      "album": {
         "name": "Mille fois",
         "url": "https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU"
       },
@@ -3976,7 +4012,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 155290,
       "name": "Nous",
       "url": "https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq"
@@ -5251,6 +5287,24 @@
     },
     {
       "album": {
+        "name": "Gamin des sables",
+        "url": "https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161266,
+      "name": "Tout l'or du monde",
+      "url": "https://open.spotify.com/track/6TxZK3SClZIkrdE89ZoYFJ"
+    },
+    {
+      "album": {
         "name": "Tout pour moi",
         "url": "https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl"
       },
@@ -5580,7 +5634,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 157894,
       "name": "\u00c0 tes c\u00f4t\u00e9s",
       "url": "https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1"

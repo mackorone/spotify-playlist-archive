@@ -4,12 +4,13 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-117 songs - 4 hr 27 min
+119 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Lovely Day](https://open.spotify.com/track/4uvjetG9h0f3ctvZsW4DQR) | [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ), [Taki Brano](https://open.spotify.com/artist/3kegRO5fvrXxqOrUiEbtOG), [Sphere of Hip\-Hop](https://open.spotify.com/artist/4zjVwGsBMdMZcxUKKCUbIU) | [A Lovely Day](https://open.spotify.com/album/4cWkIl6WR5IvMeJFQNyebA) | 1:49 | 2024-10-18 | 2024-11-09 |
-| [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 | 2024-10-18 |  |
+| [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 | 2024-10-18 | 2025-12-05 |
+| [All Nighter](https://open.spotify.com/track/4XkfovbQ3GVlGzDCUD1bkR) | [Sunny Léo](https://open.spotify.com/artist/2w5KiJbmzmpynhshcjodYG) | [All Nighter](https://open.spotify.com/album/6ZvDaTQavm4C1lLu6LVuGv) | 2:05 | 2025-12-04 |  |
 | [Amnesia](https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Amnesia](https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67) | 2:25 | 2024-10-18 |  |
 | [Anti Wave](https://open.spotify.com/track/28bRH9L22ZKrm6vo8QE9uI) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Anti Wave](https://open.spotify.com/album/59VRp76KnBFAvAMC1G59Kz) | 2:30 | 2024-10-18 | 2024-11-09 |
 | [At Night](https://open.spotify.com/track/3WjbjxOaLEtdti9V8Y30qC) | [Brø](https://open.spotify.com/artist/7bT0YuIs8yW2B9Ey8Ybawu), [Hilaria](https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [At Night](https://open.spotify.com/album/5bE0IQ8W5gOcxO5Ctv69zH) | 1:48 | 2025-11-28 |  |
@@ -24,6 +25,7 @@
 | [Big Fish](https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Big Fish](https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT) | 2:35 | 2024-10-18 | 2025-09-06 |
 | [Bottled Message](https://open.spotify.com/track/1jPB55XVsJo36Q7qnqr5v4) | [Coltsfoot](https://open.spotify.com/artist/2yWG9itzl6vVT4af2DPZoS) | [Bottled Message](https://open.spotify.com/album/0rgTLDn3rZBDe2facgkYWe) | 2:00 | 2024-10-18 |  |
 | [broth](https://open.spotify.com/track/1V07rv74k9FinkehDGR14N) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [broth](https://open.spotify.com/album/4r5vFtlHvYzp23Xn34Oj8Y) | 3:06 | 2024-10-18 |  |
+| [carried away](https://open.spotify.com/track/34FP14ijUNATgcZNrDEXv9) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [carried away](https://open.spotify.com/album/2FEqkomwFPCPL6OtyoL42h) | 2:22 | 2025-12-04 |  |
 | [Cherry Orchards](https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv) | [Fuzzy Donut](https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY) | [Northern Lights](https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY) | 2:29 | 2024-10-18 |  |
 | [chime in](https://open.spotify.com/track/5h5NfrIjeZifGJkZs34WQt) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [chime in](https://open.spotify.com/album/1fl0OTa13ShDyOcZVlLDca) | 2:14 | 2024-10-18 | 2025-11-08 |
 | [chuli](https://open.spotify.com/track/2ImZV0z7y8R68StmTUR9gH) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [chuli](https://open.spotify.com/album/4SxVO3YXiuWNgliaiMnwU0) | 2:04 | 2024-11-15 |  |
@@ -44,7 +46,7 @@
 | [Endless](https://open.spotify.com/track/4CRhSBDTG5VQHbwYtVVDYe) | [Brø](https://open.spotify.com/artist/7bT0YuIs8yW2B9Ey8Ybawu), [Hilaria](https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP) | [Endless](https://open.spotify.com/album/3ijTFD3sB9h3JpvMIgEvg1) | 2:00 | 2025-11-14 |  |
 | [Ends](https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Ends](https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc) | 2:22 | 2024-10-18 |  |
 | [far away](https://open.spotify.com/track/0GDif8AtYRv3jfjwlzY1Uv) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [far away](https://open.spotify.com/album/0V9WA2gseFiULcVV56sB08) | 2:04 | 2025-10-16 |  |
-| [Fika](https://open.spotify.com/track/5jyT2q8NpSWblcifLzsAuY) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Vanisher](https://open.spotify.com/album/4iQPUoFL9Z5jpIb4qtXGh8) | 2:12 | 2024-10-18 |  |
+| [Fika](https://open.spotify.com/track/5jyT2q8NpSWblcifLzsAuY) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Vanisher](https://open.spotify.com/album/4iQPUoFL9Z5jpIb4qtXGh8) | 2:12 | 2024-10-18 | 2025-12-05 |
 | [fika](https://open.spotify.com/track/3HcQcCDKDa5a1rRhH7fsPn) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [fika](https://open.spotify.com/album/0DqHffRxIV0AoPVIl6uZJq) | 1:44 | 2024-10-18 |  |
 | [First Things First](https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [First Things First](https://open.spotify.com/album/26GxtM80uLUiS82C069HQm) | 2:06 | 2024-10-18 |  |
 | [Fizzdrop](https://open.spotify.com/track/14l5zv6ljXUgG3bfYmCljP) | [Fracta Aurea](https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL) | [Fizzdrop](https://open.spotify.com/album/03mzD1HsaCjfPvZQcu2awn) | 2:17 | 2025-11-07 |  |

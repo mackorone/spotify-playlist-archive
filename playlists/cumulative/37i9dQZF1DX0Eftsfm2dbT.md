@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Skaai
 
-2,114 songs - 4 day 10 hr 48 min
+2,115 songs - 4 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2083,6 +2083,7 @@
 | [白蛇](https://open.spotify.com/track/3TTMaN48ezRIHnPZ4hbkZr) | [WANYUDO](https://open.spotify.com/artist/6sbOlTXOJR1c34gS9ESTSm) | [白蛇](https://open.spotify.com/album/3GmCHwgdPewPIdLTwUSqAY) | 3:05 | 2025-02-04 | 2025-02-19 |
 | [百鬼夜行](https://open.spotify.com/track/3aq2WFMHb3zM9Ltjt59YxG) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [百鬼夜行](https://open.spotify.com/album/6MQ5X2QZOJRFJIYkUgJWul) | 3:49 | 2024-04-09 | 2024-06-19 |
 | [知らねえ Remix](https://open.spotify.com/track/4vQanu3HhXI82o0Vghk8nm) | [Shingo Nishinari](https://open.spotify.com/artist/4ZQ9CEFBY5RItFpuaIb51I), [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [知らねえ Remix](https://open.spotify.com/album/7041d4CyFP85TKGWCMV3or) | 3:39 | 2024-07-09 | 2024-07-17 |
+| [石ころからダイヤ \(feat\. Benjazzy\) \- Remix](https://open.spotify.com/track/29RjBYu76QWpFjuDknEV8M) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [Benjazzy](https://open.spotify.com/artist/48YMnYuzafQxVYz7Dxmekl) | [石ころからダイヤ \(feat\. Benjazzy\) \[Remix\]](https://open.spotify.com/album/6z0jtsLODvaqiV9KDAtPf6) | 3:31 | 2025-12-04 |  |
 | [破魔矢 \-Hamaya\-](https://open.spotify.com/track/1rGPTIQKMIOCMl4Jtz01bj) | [DJ KRUSH](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [再生 \-Saisei\-](https://open.spotify.com/album/2ZsPB06xAX5ALJ6cLQISrq) | 3:47 | 2024-02-20 | 2024-04-24 |
 | [秋水](https://open.spotify.com/track/1E5EM4h8tGgagAMH2gONBU) | [LIX](https://open.spotify.com/artist/1JAZbuGZ0MkSvdjPIbGPMd), [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [秋水](https://open.spotify.com/album/3RzO9ugZsf7Co3DqccUgo0) | 2:55 | 2023-10-10 | 2023-10-25 |
 | [稼ごう](https://open.spotify.com/track/4JMvzpPGlIaYUGapXxAJ1h) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [億万長者](https://open.spotify.com/album/2eZvursJChaG1LSVwXaQ3c) | 2:26 | 2025-03-25 | 2025-06-04 |

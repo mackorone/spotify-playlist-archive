@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec ESTL
+> Les  meilleures nouveautés de la chanson française avec Heroe
 
-252 songs - 13 hr 58 min
+254 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Flou](https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Flou](https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro) | 2:21 | 2025-01-16 | 2025-06-13 |
 | [fou](https://open.spotify.com/track/3PlgqWBKQ7uItZOS0lACbp) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [réparer](https://open.spotify.com/album/5gJhca2FaL4ruf9nKSpMIu) | 2:36 | 2024-06-27 | 2024-10-18 |
 | [FVL](https://open.spotify.com/track/6Z07cvmuFdFHTcT7wtIVVu) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [FVL](https://open.spotify.com/album/05BrGpbesMwG2ObSrejFQQ) | 3:45 | 2024-06-27 | 2024-10-04 |
+| [Gabrielle](https://open.spotify.com/track/5R9dBL7sZSMhALmcHuEs5f) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [](https://open.spotify.com/album/null) | 3:20 | 2025-12-04 |  |
 | [Good to know](https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [No Big Deal](https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU) | 3:06 | 2025-04-17 | 2025-09-12 |
 | [Grand\-mère](https://open.spotify.com/track/5t6WasNuGNuc7u4cqPcjCq) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Grand\-mère](https://open.spotify.com/album/5h32dU86HS9BxewTJGpULm) | 3:58 | 2025-08-07 | 2025-10-17 |
 | [Göttingen](https://open.spotify.com/track/0HaDRiZRxQxOeFyPravR5E) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Göttingen](https://open.spotify.com/album/5OKx6hoqVE0gygiOIjVsKS) | 3:09 | 2024-06-27 | 2024-11-22 |
@@ -151,6 +152,7 @@
 | [Les astres](https://open.spotify.com/track/0hohLgH1EscBU1JDi60o8G) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Les astres](https://open.spotify.com/album/1Thifz0MQKV9J6uqpz7Tbg) | 4:00 | 2024-09-26 | 2025-06-13 |
 | [Les battements du cœur](https://open.spotify.com/track/3TJb4Bi0FFec1NSf3SWQz6) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Les battements du cœur](https://open.spotify.com/album/7i5WbGyIr7aqoGL5g673kv) | 3:14 | 2024-10-17 | 2024-10-23 |
 | [Les battements du cœur](https://open.spotify.com/track/67K5HMqmUyVflF3xjQ5MpZ) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Rêveur, Rêveur](https://open.spotify.com/album/3kqttZxgp69ma3RYmscTdB) | 3:14 | 2025-01-23 | 2025-06-27 |
+| [Les beaux jours](https://open.spotify.com/track/5Px41y2EdKE7Hv8cDWVCop) | [Luns](https://open.spotify.com/artist/79WvCJUXoRYgn8UaNMBGOD) | [](https://open.spotify.com/album/null) | 3:48 | 2025-12-04 |  |
 | [Les derniers jours de pluies \- Edit Version](https://open.spotify.com/track/3DYKwNNBw82vXKTCvOuYGZ) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Les derniers jours de pluies \(Edit version\)](https://open.spotify.com/album/31hyMyNSBb4Sc3qCvNPJwT) | 2:57 | 2024-10-03 | 2025-02-07 |
 | [Les désirs fatigués des navires d’argent](https://open.spotify.com/track/5yWjsQylhePlSIF14zcWvT) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Paris Amour](https://open.spotify.com/album/3dvIlg1tuKOqYaAU8eYFJ5) | 3:37 | 2025-09-11 |  |
 | [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 | 2024-09-27 |
@@ -175,7 +177,7 @@
 | [Manteau chagrin](https://open.spotify.com/track/5QLlufXqdXZEcvrAmtqFvR) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Manteau chagrin](https://open.spotify.com/album/70Gb0hozJ6iIx6gOZxxchY) | 4:13 | 2025-05-29 | 2025-09-12 |
 | [Marcher droit](https://open.spotify.com/track/5QcbSS53QWUHTiKDYBHuHM) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Marcher droit](https://open.spotify.com/album/1HwrjAGvdyfIvl3RCRBEfp) | 4:01 | 2024-09-26 | 2025-01-24 |
 | [mes nuits à toi](https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [dans ma maison](https://open.spotify.com/album/5sa26UmvekC0g0AeJsxArm) | 2:52 | 2025-07-17 | 2025-09-27 |
-| [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 | 2025-07-31 |  |
+| [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 | 2025-07-31 | 2025-12-05 |
 | [Mode d'emploi](https://open.spotify.com/track/3EsRNFcFTVtCyHYtVhMa4P) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Mode d'emploi](https://open.spotify.com/album/1WxJGF9ruFXR0wroN8DWHN) | 3:30 | 2024-06-27 | 2024-11-08 |
 | [Mon amour](https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Confession](https://open.spotify.com/album/2thXDAJEb9XlzTpi8JN0h6) | 4:08 | 2025-10-23 |  |
 | [Mon épaule](https://open.spotify.com/track/20uMoMNEt8BxWdOP7m19hj) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:43 | 2024-11-21 | 2025-04-11 |
@@ -231,7 +233,7 @@
 | [Tempo](https://open.spotify.com/track/4T35yNYrx1CKgy5xghD4aE) | [ICI](https://open.spotify.com/artist/3WHh5pUavDApGmUcpC389V) | [Tempo](https://open.spotify.com/album/3AgM6WhCUcITGdaDKnblSf) | 3:24 | 2024-12-19 | 2025-05-16 |
 | [Thelma et Louise](https://open.spotify.com/track/4WabBsw8o8lgMmJeSNirUz) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Thelma et Louise](https://open.spotify.com/album/6ob1nfJYrRIGZbTD9hJ5ZJ) | 2:40 | 2025-10-09 |  |
 | [Toi là\-bas](https://open.spotify.com/track/1M1Zd745JBEteL4kWvknkG) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Toi là\-bas](https://open.spotify.com/album/6aJpWeCK0o8oTonGKWpUOb) | 4:09 | 2025-02-06 | 2025-03-07 |
-| [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:54 | 2025-07-10 |  |
+| [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:54 | 2025-07-10 | 2025-12-05 |
 | [Tour du Monde](https://open.spotify.com/track/7kAQ5yUq5uuJfSzHunHWAR) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Tour du Monde](https://open.spotify.com/album/7HhfRpFv1nIuFA3C2xYNka) | 3:24 | 2025-10-09 |  |
 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 | 2024-11-07 | 2025-03-21 |
 | [Tout fait pour](https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout fait pour](https://open.spotify.com/album/55unj2AEwXhyHcesIt55jx) | 3:26 | 2025-10-23 |  |

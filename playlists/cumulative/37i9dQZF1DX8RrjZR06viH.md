@@ -2,7 +2,7 @@
 
 ### [høst i lufta](https://open.spotify.com/playlist/37i9dQZF1DX8RrjZR06viH)
 
-> Høsten er her! 🍂
+> høst hele året! 🍂
 
 281 songs - 14 hr 38 min
 

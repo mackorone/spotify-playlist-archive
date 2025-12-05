@@ -2,7 +2,7 @@
 
 ### [after school club 🪄](https://open.spotify.com/playlist/37i9dQZF1DX24HW7kIIcEV)
 
-> Mitchie and Shane forever!!
+> T is for...
 
 122 songs - 6 hr 39 min
 

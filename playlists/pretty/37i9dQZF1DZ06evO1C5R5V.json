@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 36815,
+  "num_followers": 36826,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS4sAAAAAAAG/J1kEbBIPCofAerYdd9j",
+  "snapshot_id": "aS99gAAAAABIwQR8j1PL37GJlJq+OEsz",
   "tracks": [
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
+        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 170866,
-      "name": "Pi\u00e9nsalo Bien",
-      "url": "https://open.spotify.com/track/7fPPYqgfosDlvpKlmU6UHj"
+      "duration_ms": 231410,
+      "name": "En los A\u00f1os Treintas",
+      "url": "https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
-        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 231410,
-      "name": "En los A\u00f1os Treintas",
-      "url": "https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw"
+      "duration_ms": 170866,
+      "name": "Pi\u00e9nsalo Bien",
+      "url": "https://open.spotify.com/track/7fPPYqgfosDlvpKlmU6UHj"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Trabajo del Hombre",
-        "url": "https://open.spotify.com/album/2fe3rIIOfAZ1goUT1Q7lb4"
+        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
+        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 239243,
-      "name": "El Trabajo del Hombre",
-      "url": "https://open.spotify.com/track/3lAwswdOC4L8ng6X6VJy9p"
+      "duration_ms": 194676,
+      "name": "Saber Amar",
+      "url": "https://open.spotify.com/track/0bcTjLBR0N4AHAlkIIlVNM"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
-        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 194676,
-      "name": "Saber Amar",
-      "url": "https://open.spotify.com/track/0bcTjLBR0N4AHAlkIIlVNM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Que Se Comparte",
         "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 177911,
       "name": "Por los Gluteos de Mi Novia",
       "url": "https://open.spotify.com/track/7hcMjVJ5x1qVPQu39Szpqn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Trabajo del Hombre",
+        "url": "https://open.spotify.com/album/2fe3rIIOfAZ1goUT1Q7lb4"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 239243,
+      "name": "El Trabajo del Hombre",
+      "url": "https://open.spotify.com/track/3lAwswdOC4L8ng6X6VJy9p"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c1nimas",
-        "url": "https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Una Oportunidad",
-      "url": "https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 267059,
       "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c1nimas",
+        "url": "https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Una Oportunidad",
+      "url": "https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm"
     },
     {
       "added_at": null,

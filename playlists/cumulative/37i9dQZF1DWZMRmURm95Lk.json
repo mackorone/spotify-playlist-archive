@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Beat e rime, oggi come una volta. Caparezza in cover.",
+  "description": "Beat e rime, oggi come una volta. Noyz in cover.",
   "name": "Radici Hip-Hop",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 204081,
       "name": "Amore puro",
       "url": "https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 246000,
       "name": "Ancora luned\u00ec",
       "url": "https://open.spotify.com/track/0g6Mzl2iSnKcFeH1XK8zsO"
@@ -7643,6 +7643,28 @@
     },
     {
       "album": {
+        "name": "Milano Odia",
+        "url": "https://open.spotify.com/album/6uh77jo8NwNgNTpNZaZAm1"
+      },
+      "artists": [
+        {
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147086,
+      "name": "Milano Odia",
+      "url": "https://open.spotify.com/track/59LFIvMzdEANGmvNbAvHLQ"
+    },
+    {
+      "album": {
         "name": "Milano violenta",
         "url": "https://open.spotify.com/album/6f5pYXcdeKhi19Mxkr945q"
       },
@@ -9408,6 +9430,24 @@
       "duration_ms": 267000,
       "name": "Pezzi sparsi",
       "url": "https://open.spotify.com/track/1ps5LD9MCffeLAaneaVQDG"
+    },
+    {
+      "album": {
+        "name": "Musica Triste",
+        "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159893,
+      "name": "PHRATE",
+      "url": "https://open.spotify.com/track/6R4abO7BpM4lAJCqrCPpLm"
     },
     {
       "album": {
@@ -12683,6 +12723,32 @@
     },
     {
       "album": {
+        "name": "Tom Waits",
+        "url": "https://open.spotify.com/album/20w9EPYvfsEohr19Y8xup9"
+      },
+      "artists": [
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        },
+        {
+          "name": "Ice One",
+          "url": "https://open.spotify.com/artist/6Fa7NNjFGrHEEsUdvln23o"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231076,
+      "name": "Tom Waits",
+      "url": "https://open.spotify.com/track/0JTZlRQOjceOdAR82InuCe"
+    },
+    {
+      "album": {
         "name": "Training Day",
         "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
       },
@@ -13084,7 +13150,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 202885,
       "name": "Una Volta Sola",
       "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"

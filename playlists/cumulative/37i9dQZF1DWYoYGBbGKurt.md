@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,080 songs - 3 day 8 hr 30 min
+2,082 songs - 3 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Aquarius](https://open.spotify.com/track/0s5dpPXE8slpfRHg1Hsyxf) | [OnurOHA](https://open.spotify.com/artist/59GI9tAkVAL2QjhOBRLPVZ) | [Aquarius](https://open.spotify.com/album/07HkwGY6fscrm88zYDUcIw) | 2:10 | 2021-12-07 | 2022-07-01 |
 | [Aquatic Crystals](https://open.spotify.com/track/4pUOWikHwi87jPXYtwwb3v) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Aquatic Crystals](https://open.spotify.com/album/2cUBsQeqRMJ3NqNVJsRW3U) | 2:05 | 2021-12-07 | 2022-10-29 |
 | [Aqvarium](https://open.spotify.com/track/2cxPPGC9CnvChZPaOidB6v) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [Aqvarium](https://open.spotify.com/album/22wOdocRS19zmobJ9Tdylj) | 2:36 | 2021-12-07 | 2022-07-29 |
-| [Arboreous](https://open.spotify.com/track/4yu1zpAy9PDX2p8NVdtXm1) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM), [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Dreamscape Jams](https://open.spotify.com/album/4pHBPlUYS6mg28OpyK7viH) | 1:59 | 2024-08-23 |  |
+| [Arboreous](https://open.spotify.com/track/4yu1zpAy9PDX2p8NVdtXm1) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM), [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Dreamscape Jams](https://open.spotify.com/album/4pHBPlUYS6mg28OpyK7viH) | 1:59 | 2024-08-23 | 2025-12-05 |
 | [Are We There Yet](https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV) | [Velvet Haven](https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F) | [Are We There Yet](https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ) | 2:34 | 2023-10-20 | 2025-06-14 |
 | [Artful Haze](https://open.spotify.com/track/0Xlthct8SOi0gAdnn2GbRT) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Artful Haze](https://open.spotify.com/album/7etSid2yKrfknqNM8Tqs0Q) | 2:40 | 2021-12-07 | 2022-09-23 |
 | [Artifacts](https://open.spotify.com/track/0X3tR78eWkLh5yBDBXb1tF) | [Hi Hotel](https://open.spotify.com/artist/5XpDsM9N17TONXweroKN59) | [Cassette](https://open.spotify.com/album/2Q6LqD1dFcW7IuekRJ9C01) | 3:42 | 2021-12-07 | 2022-09-10 |
@@ -566,6 +566,7 @@
 | [enigma](https://open.spotify.com/track/11S8UADg3yxqn4qN5BL1rX) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [here & now](https://open.spotify.com/album/16qrP8mCCWcpNa7kmSAQN0) | 2:05 | 2022-11-11 | 2023-09-16 |
 | [Equestrian](https://open.spotify.com/track/3Urbo21kJRxtduvPLLohSw) | [Fast Flux](https://open.spotify.com/artist/3jndf0YYCbrGOLFij8XuFs) | [Equestrian](https://open.spotify.com/album/4JbtghsxndrWDN2eVtHJXt) | 3:00 | 2022-11-25 | 2023-09-02 |
 | [escape](https://open.spotify.com/track/55aZtxTW9S0w80j5rswRtN) | [Lily of The Valley](https://open.spotify.com/artist/5aaaOy8v47CPgiLzGZriXH) | [escape](https://open.spotify.com/album/7vaiznSfiBHbBB0WJ36xFZ) | 2:41 | 2025-07-24 | 2025-10-04 |
+| [Escape](https://open.spotify.com/track/6vF4LLcHVYeWAKNV7JT7VV) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [Escape](https://open.spotify.com/album/2z9VbBhqV4YexR3UX6tAeJ) | 2:30 | 2025-12-04 |  |
 | [Escape To The Sky](https://open.spotify.com/track/68R0fvE7qpHxdTtMFRnn9W) | [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Escape To The Sky](https://open.spotify.com/album/1KYq3bCj42k7VqMJ8nZNhU) | 2:49 | 2022-08-12 | 2022-10-29 |
 | [Espresso Dreams](https://open.spotify.com/track/5RxXQDO8DJ3dKnvTeQUadQ) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Spoonful Of Soup](https://open.spotify.com/album/1NvgkHRMAM7qlDyFqXsa4S) | 2:32 | 2021-12-07 | 2022-05-20 |
 | [Esther](https://open.spotify.com/track/05TgG5O8CRsokhihROyskF) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Don’t Forget Me](https://open.spotify.com/album/6x2eS7AgwuPqpGkbb3jloG) | 1:44 | 2022-05-20 | 2024-08-24 |
@@ -691,7 +692,7 @@
 | [Forever](https://open.spotify.com/track/53cGF33DzLDkkEd3miPsXb) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Forever](https://open.spotify.com/album/1usxVaF7JxC8feu6ppND24) | 1:14 | 2023-07-13 | 2024-02-09 |
 | [forever autumn](https://open.spotify.com/track/2uqj6IfPhqZ2iQfbMir9dE) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [forever autumn](https://open.spotify.com/album/6GygYK0kjFS30JfVHFFTUe) | 1:26 | 2022-12-02 | 2023-09-29 |
 | [forever u](https://open.spotify.com/track/09ad02bYg9sh8EWHN0wcu1) | [day zee](https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L) | [forever u](https://open.spotify.com/album/3P8lqEQDnG9AEXOgZAXZHs) | 2:27 | 2022-08-05 | 2022-08-12 |
-| [Forgotten Dreams](https://open.spotify.com/track/1YjAqVamDxZouwyHBfsap3) | [Holy Jamie](https://open.spotify.com/artist/0GM7yT54YHIyH0bXYCzD9u) | [Forgotten Dreams](https://open.spotify.com/album/0sZbZJCsTpcQSYwmTeGyyy) | 2:00 | 2024-07-19 |  |
+| [Forgotten Dreams](https://open.spotify.com/track/1YjAqVamDxZouwyHBfsap3) | [Holy Jamie](https://open.spotify.com/artist/0GM7yT54YHIyH0bXYCzD9u) | [Forgotten Dreams](https://open.spotify.com/album/0sZbZJCsTpcQSYwmTeGyyy) | 2:00 | 2024-07-19 | 2025-12-05 |
 | [Forgotten Notes](https://open.spotify.com/track/7s9D30tidyLGaPCRMnTPCs) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Forgotten Notes](https://open.spotify.com/album/6vGfj5wUI07Va1Nh3uO3zd) | 2:18 | 2022-09-30 | 2023-11-11 |
 | [fountain groove](https://open.spotify.com/track/57T37kTmfHDxh2KlvxkXMc) | [corks](https://open.spotify.com/artist/3RWlxqdxSRrZZw18robbZI) | [fountain groove](https://open.spotify.com/album/3rjoilHuOHYe3XysMbtWoo) | 2:07 | 2022-07-15 | 2023-08-22 |
 | [fountains](https://open.spotify.com/track/46ereS3wNR84tLaCJUnjJF) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [fountains](https://open.spotify.com/album/78FRv7QbicT2tx0kMEztYu) | 1:50 | 2024-02-23 | 2025-05-24 |
@@ -1240,6 +1241,7 @@
 | [Morning Light](https://open.spotify.com/track/2VuL7nGbgTYHsDDBtxZZGq) | [Golden Mist](https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK) | [Morning Light](https://open.spotify.com/album/3Jl1tF2jc5QA4JExZkEerL) | 2:05 | 2025-11-21 |  |
 | [morning lights](https://open.spotify.com/track/3oP7lfDx2Ja3EDGDz91dfZ) | [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [morning lights](https://open.spotify.com/album/6ciKqYmuOOnzIRVewUP6Qs) | 3:04 | 2022-05-13 | 2022-11-12 |
 | [Morning Sunlight](https://open.spotify.com/track/4tzVbVBUPakPZPP7jkk4p2) | [Rosia!](https://open.spotify.com/artist/1CWzJQYVTc2Sdkz9Thq4Zu), [Cotton Vibe](https://open.spotify.com/artist/1orUqu05S86SBh8EFjdxHB) | [Beyond The World](https://open.spotify.com/album/4jpwJ3CIoKYZ3ZyYv9nm7J) | 1:56 | 2022-07-22 | 2022-07-29 |
+| [Mostly Mine](https://open.spotify.com/track/513MdRzWL0kO9JXmXGv6C6) | [Phlo X](https://open.spotify.com/artist/7wpjhdiboISbPKE8SBwCet) | [Mostly Mine](https://open.spotify.com/album/2aodd4uLYU7rBJqIz6t0Et) | 2:36 | 2025-12-04 |  |
 | [Moths](https://open.spotify.com/track/1fPDT8ofsWYmPA1x80mjyJ) | [Dolow](https://open.spotify.com/artist/4a45hyniqH4TLiUs5rzZsX) | [Moths](https://open.spotify.com/album/26VMqOfJxBeN9xUbqJpUpc) | 1:55 | 2022-06-03 | 2022-11-12 |
 | [motion sickness](https://open.spotify.com/track/6sErXObQgIrSMmgcpesq3T) | [Jack All](https://open.spotify.com/artist/4rtQc0T0U3nCqAV6BwmOO4) | [motion sickness](https://open.spotify.com/album/3HWkbWtUqQWM12u2HHknGr) | 4:15 | 2024-04-12 | 2024-12-06 |
 | [motocross love](https://open.spotify.com/track/3eEZVrPI3dOaO5HBbeyqoV) | [cocomatic](https://open.spotify.com/artist/68RI1Gq2m4D1HdQxkLAezg) | [journey unknown](https://open.spotify.com/album/2gmCuY6e1US8TEKVBpXEsS) | 1:19 | 2021-12-07 | 2022-06-03 |

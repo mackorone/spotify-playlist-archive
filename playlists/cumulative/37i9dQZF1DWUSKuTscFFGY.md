@@ -2,7 +2,7 @@
 
 ### [Nouveautés Pop](https://open.spotify.com/playlist/37i9dQZF1DWUSKuTscFFGY)
 
-> Découvrez les meilleures nouveautés pop\. Photo : Ed Sheeran
+> Découvrez les meilleures nouveautés pop\. Photo : Tate McRae
 
 770 songs - 1 day 15 hr 39 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Abdukiba, Vanillah & Alikiba ",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jux",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 179000,
       "name": "Anna",
       "url": "https://open.spotify.com/track/0J2lnnCp5UNeoT9PxV3sFq"
@@ -4807,6 +4807,32 @@
     },
     {
       "album": {
+        "name": "Kuokota",
+        "url": "https://open.spotify.com/album/3qCkBRoCpgU297HVuKyiPT"
+      },
+      "artists": [
+        {
+          "name": "Fama",
+          "url": "https://open.spotify.com/artist/31gxuhZWlaTdq7awtYBkeE"
+        },
+        {
+          "name": "Marlaw",
+          "url": "https://open.spotify.com/artist/2Mubfa0R9X7HoCHatHctGL"
+        },
+        {
+          "name": "TID",
+          "url": "https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242076,
+      "name": "Kuokota",
+      "url": "https://open.spotify.com/track/66VHnhffxhc26mAnqeu6sF"
+    },
+    {
+      "album": {
         "name": "Kupenda",
         "url": "https://open.spotify.com/album/6GzRBHBJs4SG8AoaGwAaTe"
       },
@@ -5508,6 +5534,24 @@
       "duration_ms": 182654,
       "name": "Maji",
       "url": "https://open.spotify.com/track/6lIV7uqVybFzB2aZKvDwXw"
+    },
+    {
+      "album": {
+        "name": "MAJO / SEE BODY",
+        "url": "https://open.spotify.com/album/4ITZ8yzAWfUEbNjR4SYrpC"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "MAJO",
+      "url": "https://open.spotify.com/track/3iNaSkn53KpB0DM6MvC64r"
     },
     {
       "album": {
@@ -12002,7 +12046,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 223628,
       "name": "Wazimu (feat. Jaivah)",
       "url": "https://open.spotify.com/track/66MV06pAlAaVXYwcgFgYf4"

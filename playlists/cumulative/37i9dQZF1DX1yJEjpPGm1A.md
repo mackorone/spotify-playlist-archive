@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-89 songs - 5 hr 53 min
+92 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aloha](https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs) | 4:04 | 2024-12-19 |  |
 | [ALWAYS](https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Descendants Of The Sun Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu) | 3:25 | 2024-12-19 |  |
 | [Always and Forever](https://open.spotify.com/track/4XoNHcpISsSFeil5pDoXCO) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Always and Forever](https://open.spotify.com/album/2rakJkUUTAjBQmsgI0BJQd) | 3:43 | 2025-04-22 |  |
+| [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/2mM8FBNml8EU36pkultmhu) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Always be with you \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/album/5o92RLFD3ppuTFHOwqmG3r) | 4:11 | 2025-12-04 |  |
 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 | 2024-12-19 |  |
 | [Amazing You](https://open.spotify.com/track/6Obj7Vj37gWWqWCbS5PuYH) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Amazing You](https://open.spotify.com/album/2dTSzrGO5IhAXCfxDKP6s8) | 5:00 | 2025-10-21 |  |
 | [Be My Shelter, Hold Me Close](https://open.spotify.com/track/13TYjE0MVF38mPzkveRDxm) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Motel California OST Part.1](https://open.spotify.com/album/5SLDQJy85mmRg9AekUpap6) | 3:47 | 2025-10-15 |  |
@@ -22,6 +23,7 @@
 | [Beauty of my life](https://open.spotify.com/track/2nuYQ6OTqjwzHw34SJiaF8) | [Kim Young Geun](https://open.spotify.com/artist/2gYn9xPkHXRkKnVnzRc4RZ) | [Beauty of my life](https://open.spotify.com/album/5XQTrStexFPEdhcCSLGvKe) | 4:28 | 2025-07-29 |  |
 | [Because of You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/7gJiI5P6Djq6mwy2c4rjte) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Would You Marry Me?, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3PUiaIOXsMRHw4n8Cn7NgT) | 4:00 | 2025-11-04 |  |
 | [Before Love](https://open.spotify.com/track/2lKrSfIqw1HKPZt8SMSk14) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [Before Love](https://open.spotify.com/album/12NS4M30oqznlTJPmBWMC0) | 4:05 | 2025-10-21 |  |
+| [Compass](https://open.spotify.com/track/7vsi3yaLMIHz6ZgY1QeVTf) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Classic](https://open.spotify.com/album/3mpbMQ43egeunRgwxeup5C) | 3:23 | 2025-12-04 |  |
 | [Confession Is Not Flashy](https://open.spotify.com/track/584hTOO20B2WKK8PjPB1Gw) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2D5vry1OpxezOMaUEkCGd3) | 3:48 | 2025-07-01 |  |
 | [Daily confession](https://open.spotify.com/track/0MJqWFARd7JwuYOIAhIX9V) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Daily confession](https://open.spotify.com/album/1PD73S3rXG09xdi3XuquVb) | 3:24 | 2025-07-22 |  |
 | [End of a Day, You](https://open.spotify.com/track/7Duak2HtivO27BYZwtySxh) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [End of a Day, You \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/2q9PZG2z894mvnAMSzYdik) | 4:31 | 2025-09-18 |  |
@@ -29,6 +31,7 @@
 | [eternally](https://open.spotify.com/track/6T8sCCkNMRYSh0fy6OU8px) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [eternally](https://open.spotify.com/album/26E5Y1olZdeeJLIJuujCTP) | 4:23 | 2025-10-15 |  |
 | [every moment with you](https://open.spotify.com/track/0a9YcS9sCCTBmN8ZTffX3p) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Jang Beom June 3rd](https://open.spotify.com/album/6sQXDlp5kXH6DKJuMYTqFc) | 3:59 | 2025-04-22 |  |
 | [Everyday with You](https://open.spotify.com/track/1KFlYzWk8EMJY94RzM84MC) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 2](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:44 | 2024-12-19 |  |
+| [Fairytale](https://open.spotify.com/track/3QGVqALPnJCiHgFmXWUoM7) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Fairytale](https://open.spotify.com/album/576lPsLjry1tcvu6XlTYNP) | 3:10 | 2025-12-04 |  |
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2024-12-19 |  |
 | [Flower Road](https://open.spotify.com/track/7A9tpogI4hJOYFY9NLzw7z) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [WITH](https://open.spotify.com/album/78uIPc5c1GZKGJZNpc89sI) | 3:50 | 2024-12-19 |  |
 | [For Love](https://open.spotify.com/track/7FVkGnEexHtiavZSDL4wZT) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Our Blues, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/2bWjPAcoUxP7t3FWChijzl) | 3:33 | 2024-12-19 | 2025-06-24 |

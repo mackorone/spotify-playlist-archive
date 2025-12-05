@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring BAYLI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,545 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,560 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 46 | [Lord Juice](https://open.spotify.com/track/4DfNWMjPyXaTp1vFmLS2FK) | [LOVEFOXY](https://open.spotify.com/artist/11pW7chJfzATeandApxMBo) | [Lord Juice](https://open.spotify.com/album/1FMeJkRqOe0k3p5Yhomeny) | 5:57 |
 | 47 | [DUMB](https://open.spotify.com/track/0MjEo1XEsPYgvQt47omDGh) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Cortisa Star](https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG) | [DUMB](https://open.spotify.com/album/0JvzjSnr0WNFbUlhSGkK0W) | 2:22 |
 | 48 | [Feral](https://open.spotify.com/track/4QiiW2b1WvzxZWD4KTCJNj) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [Feral](https://open.spotify.com/album/5Zfo9kRvYbXmI9euFtAYLe) | 3:28 |
-| 49 | [Smoking section](https://open.spotify.com/track/3S53THByW096a79eIXnsXz) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Smoking section](https://open.spotify.com/album/714PQIsdn0zzDfSaGEWiX5) | 2:42 |
+| 49 | [SMOKING SECTION](https://open.spotify.com/track/3S53THByW096a79eIXnsXz) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [SMOKING SECTION](https://open.spotify.com/album/714PQIsdn0zzDfSaGEWiX5) | 2:42 |
 | 50 | [JIGGLE](https://open.spotify.com/track/1sZ42vLRrC1zU7V6YYbnQw) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J) | [JIGGLE](https://open.spotify.com/album/5W9YXLtkI2TDeWOlFRIXF4) | 2:45 |
 | 51 | [Bikini](https://open.spotify.com/track/31CzWV6WdEgqsdYqO7d7Ik) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Bikini](https://open.spotify.com/album/2SgvSyaCqdi5w8pGbJOfME) | 2:39 |
 | 52 | [FREAKEE](https://open.spotify.com/track/6JDNT4jCx90o5lh2HxpOP5) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [FREAKEE](https://open.spotify.com/album/62yHlLrHrCpFhXy4zoUmVR) | 2:40 |

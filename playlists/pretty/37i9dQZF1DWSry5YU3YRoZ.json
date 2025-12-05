@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 11237,
+  "num_followers": 11238,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,26 @@
     {
       "added_at": "2025-12-03 04:20:57",
       "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/6s8W1vDLKT7deGBvI42eW4"
+      },
+      "artists": [
+        {
+          "name": "n@di",
+          "url": "https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI"
+        },
+        {
+          "name": "Jang Jae Sung",
+          "url": "https://open.spotify.com/artist/1zz7NH3kiTsLinbIof7qIN"
+        }
+      ],
+      "duration_ms": 200609,
+      "name": "Shore",
+      "url": "https://open.spotify.com/track/0Ld42IxP9PdoWTvGdplbTu"
+    },
+    {
+      "added_at": "2025-12-03 04:20:57",
+      "album": {
         "name": "Fine",
         "url": "https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 184653,
       "name": "The Little",
       "url": "https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt"
-    },
-    {
-      "added_at": "2025-12-03 04:20:57",
-      "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/6s8W1vDLKT7deGBvI42eW4"
-      },
-      "artists": [
-        {
-          "name": "n@di",
-          "url": "https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI"
-        },
-        {
-          "name": "Jang Jae Sung",
-          "url": "https://open.spotify.com/artist/1zz7NH3kiTsLinbIof7qIN"
-        }
-      ],
-      "duration_ms": 200609,
-      "name": "Shore",
-      "url": "https://open.spotify.com/track/0Ld42IxP9PdoWTvGdplbTu"
     },
     {
       "added_at": "2025-12-03 04:20:57",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-12-03 04:20:57",
       "album": {
-        "name": "Demo songs",
-        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
-        }
-      ],
-      "duration_ms": 246874,
-      "name": "dear heart",
-      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
-    },
-    {
-      "added_at": "2025-12-03 04:20:57",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/5sXb3IWnfelEvKB7zzW0nV"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 283146,
       "name": "Scent Of Night",
       "url": "https://open.spotify.com/track/719AXwgUQbtIc3Dg1l4lg9"
+    },
+    {
+      "added_at": "2025-12-03 04:20:57",
+      "album": {
+        "name": "Demo songs",
+        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "duration_ms": 246874,
+      "name": "dear heart",
+      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
     },
     {
       "added_at": "2025-12-03 04:20:57",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-12-03 04:20:57",
       "album": {
-        "name": "Night you went away",
-        "url": "https://open.spotify.com/album/7IyhdnLq6eepb1UlrC4ngp"
-      },
-      "artists": [
-        {
-          "name": "SUNGHWI",
-          "url": "https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR"
-        }
-      ],
-      "duration_ms": 218637,
-      "name": "Night you went away (Korean Ver.) (Vocal. Kim gyeol)",
-      "url": "https://open.spotify.com/track/23clB8BECFpgtKMCHtalKA"
-    },
-    {
-      "added_at": "2025-12-03 04:20:57",
-      "album": {
         "name": "When the World Sleeps",
         "url": "https://open.spotify.com/album/1asK5482jnmpbHtelSbSED"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 282440,
       "name": "When the World Sleeps",
       "url": "https://open.spotify.com/track/5QG2oaaLqR3SO9EgWKrBPE"
+    },
+    {
+      "added_at": "2025-12-03 04:20:57",
+      "album": {
+        "name": "Night you went away",
+        "url": "https://open.spotify.com/album/7IyhdnLq6eepb1UlrC4ngp"
+      },
+      "artists": [
+        {
+          "name": "SUNGHWI",
+          "url": "https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR"
+        }
+      ],
+      "duration_ms": 218637,
+      "name": "Night you went away (Korean Ver.) (Vocal. Kim gyeol)",
+      "url": "https://open.spotify.com/track/23clB8BECFpgtKMCHtalKA"
     },
     {
       "added_at": "2025-12-03 04:20:57",

@@ -4,7 +4,7 @@
 
 > Open your mind to these classics from the golden era of New Age music.
 
-82 songs - 16 hr 24 min
+84 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Ever New](https://open.spotify.com/track/6nXk3XcfNmwtig7acQxRbc) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:08 | 2021-08-20 |  |
 | [Fergana](https://open.spotify.com/track/3BqqN5jhO7H41ziAUGdIyr) | [Klaus Wiese](https://open.spotify.com/artist/2uvdsw07VR5CuNk9NvQ1kr) | [Samarkand](https://open.spotify.com/album/4uqo1AjPmDQFnhB4rNfvkd) | 5:16 | 2021-08-20 |  |
 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 | 2022-05-19 |  |
-| [First Chakra Keynote C \(Red\) \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/6x1khtu5MTHO4f98zA1AkX) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R) | 2:51 | 2021-08-20 |  |
+| [First Chakra Keynote C \(Red\) \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/6x1khtu5MTHO4f98zA1AkX) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R) | 2:51 | 2021-08-20 | 2025-12-05 |
 | [First Stage \- A](https://open.spotify.com/track/3MvBKhKe9mI1idiBgKjORo) | [OSHO](https://open.spotify.com/artist/63Cd2A4y0kWaLw0yxYjo2F), [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Osho Chakra Sounds Meditation™](https://open.spotify.com/album/2zhADYsVJ3SCwjPBH5neZM) | 14:36 | 2021-08-20 |  |
 | [Forest I](https://open.spotify.com/track/1OOWBKG1rigxUbM6HHso6G) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Forest/Mountain](https://open.spotify.com/album/01rVoq4sFduuosgPmo3uui) | 6:34 | 2021-08-20 |  |
 | [Freedom at the 45th Floor](https://open.spotify.com/track/2mDbBQ9Abwo3AV1cbc14Uk) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/5DHqPXz2CqfjzynPDQACSw) | 4:34 | 2021-08-20 |  |
@@ -46,9 +46,11 @@
 | [Glide II](https://open.spotify.com/track/5rBdnTSaWqveEuoYBNF0iF) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Glide/Star Gazer](https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K) | 5:43 | 2021-08-20 |  |
 | [Golden Cloud Layers](https://open.spotify.com/track/426vkEldQjsWIMCEx26Wee) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/4nsIXN8ladhBrdhXHeye51) | 6:36 | 2022-06-22 | 2024-04-19 |
 | [Golden Cloud Layers](https://open.spotify.com/track/46doTykO7orQMvEZg58BCE) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/7JO8XrLsnzmn6cBP5kyMUH) | 6:36 | 2021-08-20 |  |
+| [Gravity Of Love](https://open.spotify.com/track/3RSMFb9dHXNWZw8YwYGepI) | [Enigma](https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt) | [The Screen Behind The Mirror](https://open.spotify.com/album/7DYEllaK5Cxa2cbcCF1QDV) | 3:58 | 2025-12-04 |  |
 | [In the magic of Cosmos](https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [In the magic of Cosmos](https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1) | 2:07 | 2021-08-20 |  |
 | [L'Azzuro](https://open.spotify.com/track/7icrlwHpkpnxEL2tVrdOxV) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 5:12 | 2021-08-20 |  |
 | [Lovesong from the Mountains](https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 7:58 | 2022-01-14 |  |
+| [May It Be](https://open.spotify.com/track/1wIQ2Nm0raqOapHK4bCD3J) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [May It Be](https://open.spotify.com/album/6o6RblnNPtSpuIdv5p2cZe) | 3:31 | 2025-12-04 |  |
 | [Memories](https://open.spotify.com/track/5Fryu3Yxywb5F5y1UmiC8I) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Rainforest Magic](https://open.spotify.com/album/4kSD8egAl0J8Ogyw0Srxgi) | 5:07 | 2021-08-20 |  |
 | [Memories \(30th Anniversary Edition\)](https://open.spotify.com/track/2CF37Au2wj7LyGuYgYNHfv) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Rainforest Magic \(30th Anniversary Edition\)](https://open.spotify.com/album/4nS6sm03QTuB9vat0HBbe1) | 5:08 | 2022-06-22 | 2024-04-19 |
 | [Morning Light Silhouettes 1](https://open.spotify.com/track/7qhqxUZim8dgGAe7dzhVlR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 7:31 | 2021-08-20 |  |

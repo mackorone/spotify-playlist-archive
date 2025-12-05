@@ -4,7 +4,7 @@
 
 > NSFW
 
-175 songs - 8 hr 48 min
+176 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 | 2024-04-19 |  |
 | [Holding Hands in Public](https://open.spotify.com/track/29lNjiF1YhmL5DKPPZam1M) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Underwater](https://open.spotify.com/album/0KVPTGdsC0QkJEYOsork9Y) | 3:26 | 2024-02-09 | 2025-07-18 |
 | [HOME](https://open.spotify.com/track/4MKnbbcCLbuTMWo8JBk8ej) | [2am](https://open.spotify.com/artist/54avHNJAk1hlKRoqrbVx2d), [Karabo](https://open.spotify.com/artist/2nPtQTbG4YCBrkSftUoiG3) | [FOR YOU, FOREVER](https://open.spotify.com/album/6q8rLOzjZMAGt2M1f4syHl) | 3:22 | 2024-03-08 | 2025-07-11 |
-| [Horniwell](https://open.spotify.com/track/5JCtLt4IBW4xPqkCQbAd8h) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Horniwell](https://open.spotify.com/album/1THuhe8DKeitDiHGrbo0Dn) | 3:03 | 2025-02-14 |  |
+| [Horniwell](https://open.spotify.com/track/5JCtLt4IBW4xPqkCQbAd8h) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Horniwell](https://open.spotify.com/album/1THuhe8DKeitDiHGrbo0Dn) | 3:03 | 2025-02-14 | 2025-12-05 |
 | [How Love Works \(Interlude\)](https://open.spotify.com/track/5RGvKpEAYaYF5N9UtBVb0g) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 1:00 | 2024-02-09 | 2025-03-29 |
 | [Hurt](https://open.spotify.com/track/6iF7xOU7oyzahJZEcAt2UX) | [TAYORISTAR](https://open.spotify.com/artist/7a3geJwKwstBq2ZEarVcA6), [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [PISHON](https://open.spotify.com/artist/5UwnnlEa1IDJQ0IJK1ZAJe) | [Hurt](https://open.spotify.com/album/2FLZXXnM5fkm98vuSfNq7i) | 2:52 | 2025-01-17 | 2025-11-07 |
 | [Imagine](https://open.spotify.com/track/7IbsxxISy0r2wLxkstEmue) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g) | [Imagine + Blessing](https://open.spotify.com/album/05kIAyW9B3GjgQ1QhtpE5v) | 2:51 | 2025-06-27 |  |
@@ -114,6 +114,7 @@
 | [On My Way](https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [On My Way](https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE) | 3:56 | 2025-02-28 |  |
 | [only u](https://open.spotify.com/track/2zmzogiVnesAdiv7FIoEfk) | [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [only u](https://open.spotify.com/album/3PigDoDoicbL7txnqGx0Uz) | 2:04 | 2024-08-02 |  |
 | [Oroma](https://open.spotify.com/track/3o24yEM5aaiJIkJvdVmOH8) | [Afrobeats Central](https://open.spotify.com/artist/5CnUroTELSGtd9HXmXOgaB), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Oroma](https://open.spotify.com/album/4gGIM7deWJhmmVli9JGskW) | 2:16 | 2025-07-04 |  |
+| [OTS](https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [](https://open.spotify.com/album/null) | 3:46 | 2025-12-05 |  |
 | [OUTTA MY HEAD](https://open.spotify.com/track/1Cqz8B8mNo2ZACTbMwnHTt) | [2am](https://open.spotify.com/artist/54avHNJAk1hlKRoqrbVx2d), [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [OUTTA MY HEAD](https://open.spotify.com/album/2KoRFKvQOePwjRIc9esZmT) | 3:12 | 2024-03-08 | 2025-09-26 |
 | [PARADIGM](https://open.spotify.com/track/6oDWFKFA0XZGCc5fm8te31) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [PARADIGM](https://open.spotify.com/album/6qTkzqGS5T1oeoqWcuKQGQ) | 3:15 | 2024-10-04 | 2025-03-22 |
 | [PAST MYSELF](https://open.spotify.com/track/7dHrE8omPpvgst2M9ZEQmf) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [PAST MYSELF](https://open.spotify.com/album/0ZXOuk6KcYEGrYoXTlh3y2) | 2:40 | 2024-03-08 | 2025-11-07 |

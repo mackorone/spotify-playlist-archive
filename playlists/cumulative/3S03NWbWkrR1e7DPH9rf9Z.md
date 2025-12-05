@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-219 songs - 10 hr 44 min
+220 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [The Last Standing](https://open.spotify.com/track/1OMvHzjGMufKVXRy6jKLYJ) | [J.C.Zhou](https://open.spotify.com/artist/1sFuJZ0Jb9VuGpD19g580l) | [The Last Standing](https://open.spotify.com/album/0MvgqXy67k9g2ekumbpBIu) | 3:10 | 2025-07-04 |  |
 | [The Motto \- Tiësto’s VIP Mix](https://open.spotify.com/track/6NNpXXkpPDZKxdavZbVhwJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto \(Tiësto’s VIP Mix\)](https://open.spotify.com/album/7meBQmZlwafCUPOAXAaYOQ) | 3:26 | 2025-07-04 |  |
 | [The Oldskool](https://open.spotify.com/track/7E6PttMltdug1odSoOUaLg) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Oldskool](https://open.spotify.com/album/1s7HIcHIZ1XFwRF4dZ32Km) | 2:43 | 2025-07-04 |  |
+| [The Partycrasher](https://open.spotify.com/track/2uHGci4XJywAICJ1D54Xgq) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chuckie](https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ) | [The Partycrasher](https://open.spotify.com/album/4rwbRBvVsKL96gZQcaHTCT) | 2:47 | 2025-12-04 |  |
 | [The Underground](https://open.spotify.com/track/1Tc3d5Dy9W3dlZ6yi22Aph) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [The Underground](https://open.spotify.com/album/6T9qtE0RP4nPe6eZsGMMu7) | 2:27 | 2025-07-04 |  |
 | [The Universe](https://open.spotify.com/track/0CPThntTHsJm49TukWOgRA) | [NGD Project](https://open.spotify.com/artist/43ljqQ6a2nZ0VVjv3ocf9q), [BakuBoy & Austin Blake](https://open.spotify.com/artist/26afvz5CUjIiv1DrD2xc6O), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [The Universe](https://open.spotify.com/album/63bP1SKaNirB4IkfLSrc58) | 2:43 | 2025-07-04 |  |
 | [This Is What It Feels Like \- Armin van Buuren 2023 Remix](https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [This Is What It Feels Like \(Armin van Buuren 2023 Remix\)](https://open.spotify.com/album/1PYA8Uh3CwoUSuXtMrHhBL) | 3:39 | 2025-07-04 |  |

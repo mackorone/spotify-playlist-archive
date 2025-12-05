@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-677 songs - 2 day 8 hr 23 min
+678 songs - 2 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Benefit](https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Benefit](https://open.spotify.com/album/67V2Bol3ar6ZqB5PXL7MQ8) | 6:59 | 2025-10-17 |  |
 | [Bigger](https://open.spotify.com/track/1kV7EtGG52g3BsqzkLHZVy) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Bigger](https://open.spotify.com/album/2At2AXk7Zt0AdAElt4GTM1) | 2:12 | 2025-05-30 | 2025-06-27 |
 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 | 2025-06-06 |
+| [Blessed](https://open.spotify.com/track/3aNOA9cf8vm3YSuMzhbLdG) | [Ezekiel Okesola](https://open.spotify.com/artist/1UVWelRHKzIEOm4n6jhTcU), [Odunayo Adebayo](https://open.spotify.com/artist/0ukVYetuAqUosMYWIw4cRa) | [Blessed](https://open.spotify.com/album/2sj5bxQeRTlWGg9YPoXfxS) | 10:02 | 2025-11-07 |  |
 | [Blessed](https://open.spotify.com/track/7fgogLsPWxBlvCK9SBcMKn) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Blessed](https://open.spotify.com/album/4lSKv0ZqMxMwRyvSGWWT9A) | 2:48 | 2025-06-20 | 2025-09-15 |
 | [Blessed Assurance](https://open.spotify.com/track/37OLhQWWM8dWaYDs0GItih) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Tianney](https://open.spotify.com/artist/72wmDDFZa4ll8WjCtmbV5Y) | [Blessed Assurance](https://open.spotify.com/album/0wUF4IL8w0covkEUfJiVMG) | 2:38 | 2025-10-10 | 2025-10-29 |
 | [Blessed Be Your Name](https://open.spotify.com/track/19naPYtiHYPNmXUNfHVnj3) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Blessed Be Your Name](https://open.spotify.com/album/2bPxiD3QggQ6JLOr8O890p) | 5:11 | 2025-05-30 | 2025-09-12 |
@@ -320,7 +321,7 @@
 | [Jehovah, You are the Most High / Jehovah Eh / Haachinje / Tomutenda Nei / Dancing in Your Light \- Praise Medley](https://open.spotify.com/track/5NbW6HlZHQ2feIrjUw1hSu) | [Janet Manyowa](https://open.spotify.com/artist/2V1T3MYbswPUiHMy02slMH) | [Jehovah, You are the Most High / Jehovah Eh / Haachinje / Tomutenda Nei / Dancing in Your Light \(Praise Medley\)](https://open.spotify.com/album/1O14EQo4yplyxrRYVy190w) | 13:53 | 2025-06-06 | 2025-06-27 |
 | [Jeso O Ntekane \(Reprise\) \- Live](https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s) | [Jesus To The City, Vol\. 2 \(Live\)](https://open.spotify.com/album/23pioDsK0GY8oM0lRTaFuU) | 3:06 | 2024-03-15 | 2024-05-24 |
 | [Jesu](https://open.spotify.com/track/0fAPkHRtJxBGa5rm2eaG54) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6), [Eyitayo](https://open.spotify.com/artist/6Kap9dyPjFhrJOBK0fbhx0) | [Jesu](https://open.spotify.com/album/4dRsOegj5MMdaPk3gWTlf7) | 8:44 | 2025-08-01 | 2025-10-03 |
-| [Jesu](https://open.spotify.com/track/6jFCdVRqIwHlITjft7Qz6h) | [Leke Benson](https://open.spotify.com/artist/6ViFGBRU6q7GUEk8RwmaVV), [Pastor Courage](https://open.spotify.com/artist/0ByL5gLiuqqmE6QgZesLbl) | [Jesu](https://open.spotify.com/album/3k83RGUi6osFXufDe6Ix9O) | 4:46 | 2025-07-25 |  |
+| [Jesu](https://open.spotify.com/track/6jFCdVRqIwHlITjft7Qz6h) | [Leke Benson](https://open.spotify.com/artist/6ViFGBRU6q7GUEk8RwmaVV), [Pastor Courage](https://open.spotify.com/artist/0ByL5gLiuqqmE6QgZesLbl) | [Jesu](https://open.spotify.com/album/3k83RGUi6osFXufDe6Ix9O) | 4:46 | 2025-07-25 | 2025-12-05 |
 | [Jesu \- Live](https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Generation Intimacy \(Live\)](https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ) | 13:37 | 2025-07-25 |  |
 | [Jesu Tiṣe](https://open.spotify.com/track/1zXDwgJUsywfAxMcCmdLqg) | [Helen Yawson](https://open.spotify.com/artist/3ChtrSrR4Klo88Gkp3mCc0) | [Jesu Tiṣe](https://open.spotify.com/album/2cE9hDKzcMxO9W70zivKJZ) | 5:00 | 2025-04-19 | 2025-04-25 |
 | [Jesus](https://open.spotify.com/track/3jmhduNlWjLP5WFAVGnBFA) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Jesus](https://open.spotify.com/album/0D5Z2iIhORhu3pjdzLsbke) | 4:36 | 2025-06-27 | 2025-07-18 |

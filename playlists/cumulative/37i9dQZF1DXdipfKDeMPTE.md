@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-649 songs - 1 day 0 hr 43 min
+651 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [dozen](https://open.spotify.com/track/5kfiW0zjkX0ykCCphv3KpG) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [dozen](https://open.spotify.com/album/0dizKykE5UNTDJ3qgAHjPw) | 2:02 | 2024-03-01 |  |
 | [dr\. jyhkel](https://open.spotify.com/track/2rRgGBo9LusvTW9iFzxAqM) | [skylarks](https://open.spotify.com/artist/1d1Go2fDIrLgYVWCnrvKow) | [dr\. jyhkel](https://open.spotify.com/album/64SXdegWLZtEFAevppKenc) | 2:08 | 2022-05-20 | 2023-01-18 |
 | [Dream Drift](https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Dream Drift](https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi) | 2:04 | 2024-07-12 | 2025-11-08 |
+| [dream garden](https://open.spotify.com/track/08FjONQVdAlGYOPKGWCzGs) | [softflow](https://open.spotify.com/artist/7bpXsZz8CK2r8QWptlceTP) | [dream garden](https://open.spotify.com/album/5Idv7CsthuLu48CSGnB63M) | 1:58 | 2025-12-04 |  |
 | [Dream ON](https://open.spotify.com/track/6NLzpxi7PZH1K1tsLqpmeh) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Dream ON](https://open.spotify.com/album/1pCrJ0Ortb3rbhiUaWbkfU) | 1:47 | 2022-05-20 | 2022-09-17 |
 | [dreamer](https://open.spotify.com/track/50wBtdwuGSO0L5X9Q7eppN) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [dreamer](https://open.spotify.com/album/5BpBhwWIOvIePyrPrWFWfH) | 2:30 | 2024-10-25 |  |
 | [dreams](https://open.spotify.com/track/0yOOs2EQ7TVdWgyqCgyPHt) | [red tractor](https://open.spotify.com/artist/3UGz8jlq36MaFJp4ZofFju) | [dreams](https://open.spotify.com/album/3VQuvegVDWXkELr2p5nvIP) | 2:01 | 2024-06-28 |  |
@@ -190,7 +191,7 @@
 | [exhale](https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [exhale](https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I) | 2:47 | 2023-12-22 | 2024-08-31 |
 | [exhibit](https://open.spotify.com/track/1fpsnAclSI1pNpcujuFCgr) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [exhibit](https://open.spotify.com/album/3CydxB2cJBwnEn1eaUBXJp) | 2:29 | 2024-11-21 |  |
 | [Facet](https://open.spotify.com/track/20daDJKdGNH1doL5LQYSVl) | [Manganese Sprinter](https://open.spotify.com/artist/3a9R6p2JMCzIPmdXA7d2yK) | [Facet](https://open.spotify.com/album/72mc2K3D3LfSf8PidsfH7i) | 3:28 | 2023-04-11 | 2023-10-01 |
-| [Falling](https://open.spotify.com/track/41x6WguVMsx9Mn0omCYMCO) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Falling](https://open.spotify.com/album/2PC3BMAAknWwEBMvepVhhK) | 2:47 | 2023-09-29 |  |
+| [Falling](https://open.spotify.com/track/41x6WguVMsx9Mn0omCYMCO) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Falling](https://open.spotify.com/album/2PC3BMAAknWwEBMvepVhhK) | 2:47 | 2023-09-29 | 2025-12-05 |
 | [Fascinations of Style](https://open.spotify.com/track/1oHZim30tpQXfZks6sgRrd) | [Madbank](https://open.spotify.com/artist/0PWa4U2yMdW9jOhrKv6SzI) | [Savage Hearts](https://open.spotify.com/album/719kSTPTYUbFa2ovAq0igN) | 2:40 | 2022-06-03 | 2022-09-17 |
 | [februari](https://open.spotify.com/track/3JgaOQmOicWORcIhT15lKR) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [februari](https://open.spotify.com/album/4yepmDwB3WNfE4IHbk7ywL) | 2:47 | 2022-05-20 | 2023-01-18 |
 | [Fender Bender](https://open.spotify.com/track/6hogWoj5zE1i8pLS7pyXwz) | [Alkis Siokis](https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O) | [Fender Bender](https://open.spotify.com/album/2xhosSPWPwfqIfPLRCtDYT) | 2:39 | 2022-05-20 | 2022-07-08 |
@@ -338,7 +339,7 @@
 | [madman pt.2](https://open.spotify.com/track/7vHYnKhPPPDBbUWHGavEtu) | [Cookie Jar](https://open.spotify.com/artist/3pMW594atvqTgp3Uj1IpGF) | [madman pt.2](https://open.spotify.com/album/0b7rCk19T7HawxNWrbEFKZ) | 2:27 | 2022-05-20 | 2022-09-17 |
 | [Magnetic](https://open.spotify.com/track/12exH3zKBHGUAob63h2S9i) | [Major Mélanger](https://open.spotify.com/artist/3QSBaA0B5mA2WrHmUR3GoH) | [Magnetic](https://open.spotify.com/album/7cHRwTQLAEEcRlcMZEYiCu) | 1:29 | 2022-10-14 | 2023-01-18 |
 | [majesty](https://open.spotify.com/track/7zmlnEYfe8WoO17JSrp0Vi) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [majesty](https://open.spotify.com/album/1ZeWCYweISZtipIM5u9ICL) | 2:46 | 2022-05-20 | 2022-09-30 |
-| [maria](https://open.spotify.com/track/5ils8VsSUSs5WqRpgCgXKY) | [Mumblo](https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z) | [maria](https://open.spotify.com/album/5Kzx0gtAvaCh46KOD1FIze) | 2:12 | 2024-11-29 |  |
+| [maria](https://open.spotify.com/track/5ils8VsSUSs5WqRpgCgXKY) | [Mumblo](https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z) | [maria](https://open.spotify.com/album/5Kzx0gtAvaCh46KOD1FIze) | 2:12 | 2024-11-29 | 2025-12-05 |
 | [Marijus](https://open.spotify.com/track/6tRkeOgUtC4irbNYlGX6cC) | [Colin Jubilee](https://open.spotify.com/artist/0DNgrGKyrlJRgQm1AF7oZ8) | [Marijus](https://open.spotify.com/album/4fZ55qsRlCk4cZK06WUmNh) | 2:46 | 2023-09-04 |  |
 | [Medusa](https://open.spotify.com/track/4VyooeBRSH5rE3fcCUeiy6) | [Twindex](https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0), [lov sum](https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs) | [Medusa](https://open.spotify.com/album/6XQ4oZ3q7qqoys2Zl06Sgr) | 1:55 | 2024-08-22 |  |
 | [mellow](https://open.spotify.com/track/2a4h0dv6sfDs8UN4p54RN3) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [mellow](https://open.spotify.com/album/0FNTsPW58jkxgq6X5GWGfc) | 1:57 | 2022-05-20 | 2023-01-18 |
@@ -571,6 +572,7 @@
 | [Sunshine](https://open.spotify.com/track/5h0n0jJhZm6zWuEciF0TrN) | [aki\_](https://open.spotify.com/artist/5ieQ7RZaGQqEoKspB6Ho5L) | [Blue Sky](https://open.spotify.com/album/5nlguCfIN0dqhs7Q2Ij0Eq) | 1:33 | 2022-09-02 | 2023-09-26 |
 | [Supercalifragilistic](https://open.spotify.com/track/4GJSBizltiVQLwPwI3Q0CP) | [Dubtrack](https://open.spotify.com/artist/7649N0LXjp4mVaHfuLqcGo) | [Supercalifragilistic](https://open.spotify.com/album/5ShNcVs7JPP5z9PbJRFrcm) | 2:13 | 2022-05-20 | 2022-06-10 |
 | [Surfer](https://open.spotify.com/track/6liPFI7LwVYrWAlVGxE4ZD) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Surfer](https://open.spotify.com/album/5N1GRInd6KhqgeD0QMvk5E) | 2:49 | 2024-11-29 |  |
+| [Surreal](https://open.spotify.com/track/0s3WYGajXAcIufs12otFiC) | [Plaxon](https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM) | [Surreal](https://open.spotify.com/album/4fv2vJWa2WHVXuvPu0ASjf) | 2:02 | 2025-12-04 |  |
 | [Sushi Brain](https://open.spotify.com/track/6qsaBLpqxkxCkS2pUYDslr) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Sushi Brain](https://open.spotify.com/album/3zwdMxlU8Ups7n2ZyJwL9B) | 2:14 | 2023-10-13 | 2023-11-18 |
 | [Swanky](https://open.spotify.com/track/0e0xXMD45kb4aJWrTBRTZ4) | [Maravilho5a](https://open.spotify.com/artist/13HgpUbnhaZEQvRTtijJiS) | [Swanky](https://open.spotify.com/album/1xg4Zte2w2Ub9Re7tLpLRV) | 2:03 | 2023-01-06 | 2024-07-27 |
 | [Sway](https://open.spotify.com/track/4JQXiDS4X6XG5u59BhaxIC) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA), [Mortal K.O\. Lab](https://open.spotify.com/artist/7K4mechJNIRVfDwzNDgCFl) | [Sway](https://open.spotify.com/album/0PWsdhx7UbCYB4MR8Gd8hW) | 2:42 | 2022-12-09 | 2023-10-01 |

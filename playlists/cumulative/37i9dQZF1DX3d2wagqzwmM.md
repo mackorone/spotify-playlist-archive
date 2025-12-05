@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-646 songs - 1 day 8 hr 48 min
+647 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [Rock My Body \(with Sash!\) \- W&W x R3HAB VIP Remix](https://open.spotify.com/track/65Iiyhh7rD0vq0bmCPz2YK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with SASH!\) \[W&W x R3HAB VIP Remix\]](https://open.spotify.com/album/435wMn4soTVne8q2Ayjpj0) | 2:48 | 2023-08-10 | 2025-03-07 |
 | [Rock The House](https://open.spotify.com/track/7u95bREFrttCYkHUEARwYG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Rock The House](https://open.spotify.com/album/14CcOmDbh7oVvFJgXLIx63) | 2:17 | 2024-12-03 | 2025-01-11 |
 | [Rocking With The Best](https://open.spotify.com/track/2jPWHAWKupwkn9aSeS8qfH) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Rocking With The Best](https://open.spotify.com/album/1lp0OBDlot2MRaPUMwa8vP) | 2:45 | 2024-12-17 | 2025-03-08 |
-| [Rockstar Rave \- Extended Mix](https://open.spotify.com/track/1RCn9CiipgZ49rNV7lquqc) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [Rockstar Rave](https://open.spotify.com/album/1a4BXtziLRL6Q3XQOt6XWV) | 3:37 | 2024-12-03 |  |
+| [Rockstar Rave \- Extended Mix](https://open.spotify.com/track/1RCn9CiipgZ49rNV7lquqc) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [Rockstar Rave](https://open.spotify.com/album/1a4BXtziLRL6Q3XQOt6XWV) | 3:37 | 2024-12-03 | 2025-12-05 |
 | [Rollin Up](https://open.spotify.com/track/2GtAvkQM9hMpM4mRoSIHwX) | [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Van Heden](https://open.spotify.com/artist/7ARg1U4yL7yEnaE3pf1gN0), [A\-Trick](https://open.spotify.com/artist/4IR7Q0Fqnx1jC3oiHz4TBW) | [Rollin Up](https://open.spotify.com/album/3THVd9cRFXnUKP3JLph0ZP) | 2:39 | 2023-01-19 | 2023-02-20 |
 | [Rolling](https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Rolling](https://open.spotify.com/album/5hIEv7z1BwnIceZkS5mVpy) | 2:44 | 2025-07-10 |  |
 | [ROOTS](https://open.spotify.com/track/3zPDsxPKmSGPh5OrdDHVuX) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [ROOTS](https://open.spotify.com/album/0tJtaoY8U81yyKCbXDean8) | 2:58 | 2023-07-27 | 2023-10-08 |
@@ -579,6 +579,7 @@
 | [The Motto \- Tiësto’s VIP Mix](https://open.spotify.com/track/6NNpXXkpPDZKxdavZbVhwJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto \(Tiësto’s VIP Mix\)](https://open.spotify.com/album/7meBQmZlwafCUPOAXAaYOQ) | 3:26 | 2022-04-14 | 2023-08-25 |
 | [The Navigator \- Radio Edit](https://open.spotify.com/track/1s4H1Bp57OQFBdbi1I8ZDx) | [Vorwerk](https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC), [Jørg](https://open.spotify.com/artist/52azdvkWc7jk4hPhxtgc0z) | [The Navigator](https://open.spotify.com/album/4i8v0wJ8FdBvowLELbRsRY) | 3:40 | 2022-12-27 | 2023-01-03 |
 | [The Party](https://open.spotify.com/track/32y6qGOhUtglh7PnffMAoV) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [The Party](https://open.spotify.com/album/3Kuep7SMF8iUO42jAWwEBj) | 2:11 | 2024-03-14 | 2024-03-30 |
+| [The Partycrasher](https://open.spotify.com/track/2uHGci4XJywAICJ1D54Xgq) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chuckie](https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ) | [The Partycrasher](https://open.spotify.com/album/4rwbRBvVsKL96gZQcaHTCT) | 2:47 | 2025-12-04 |  |
 | [The Passenger \(LaLaLa\) \[feat\. MOKABY\] \- Gabry Ponte Festival Mix](https://open.spotify.com/track/0LpWBNqyyn81WnoILV9mxV) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [MOKABY](https://open.spotify.com/artist/3AXI2Qfty5IVrmtQzi8weo) | [The Passenger \(LaLaLa\) \[feat\. MOKABY\] \[Gabry Ponte Festival Mix\]](https://open.spotify.com/album/4FzZTh4CGJ6WJhR84F2T2o) | 2:42 | 2022-04-14 | 2022-07-29 |
 | [The Phoenix](https://open.spotify.com/track/3FQ7o0hI7lM1j9DfLKl7RJ) | [REVLIN](https://open.spotify.com/artist/3pScnrwwm1UK3sczkyDq33) | [The Phoenix](https://open.spotify.com/album/13GDnb6X5qI16ZyNbuHPDr) | 3:52 | 2022-04-14 | 2022-04-21 |
 | [The Playground](https://open.spotify.com/track/6otJQ1BMqoWjOXZb2KtgaQ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [The Playground](https://open.spotify.com/album/6tEEZtViXnvNeS5pFcY9fz) | 3:02 | 2023-09-21 | 2023-10-19 |

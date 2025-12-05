@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ALPHA DRIVE ONE
 
-818 songs - 1 day 20 hr 50 min
+820 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [Poet \| Artist](https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Poet \| Artist](https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED) | 3:24 | 2025-05-26 |  |
 | [PON PON](https://open.spotify.com/track/08kBgPUw9RiK6AnIlJEmTQ) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [PON PON](https://open.spotify.com/album/4SB1HUM8BP75vtj0my6Ekp) | 2:45 | 2025-04-17 | 2025-06-13 |
 | [POP](https://open.spotify.com/track/474IDrcGgQOTgIgmQaVy48) | [WILD BLUE](https://open.spotify.com/artist/4qgBzbI2ncLyF2fEGf8GTm) | [POP](https://open.spotify.com/album/2JE6aYA45Vspg1kH2Ch84z) | 2:39 | 2025-03-25 | 2025-04-25 |
-| [POP LIFE](https://open.spotify.com/track/7adbiAgsfhYCSiwGrsLPV8) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [POP LIFE](https://open.spotify.com/album/02RkMgfCqoe4rbknn84VjO) | 3:05 | 2025-09-30 |  |
+| [POP LIFE](https://open.spotify.com/track/7adbiAgsfhYCSiwGrsLPV8) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [POP LIFE](https://open.spotify.com/album/02RkMgfCqoe4rbknn84VjO) | 3:05 | 2025-09-30 | 2025-12-05 |
 | [Poppin’](https://open.spotify.com/track/7d2dl4KOfhTsw6lADzK9ta) | [Cool\-X](https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl) | [ENSEMBLE](https://open.spotify.com/album/4GfyEsSpRhbv8tOIuxnJPv) | 3:11 | 2025-02-11 | 2025-03-07 |
 | [Poppin’](https://open.spotify.com/track/0Li0jmcIZI1KDZ00Hfn1Xp) | [Cool\-X](https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl) | [Poppin’](https://open.spotify.com/album/0HO1vTjbfohJXItDbPi8NY) | 3:11 | 2024-03-19 | 2024-04-03 |
 | [poppop](https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:02 | 2025-04-14 | 2025-07-16 |
@@ -523,7 +523,7 @@
 | [RAINBOWxPATROL](https://open.spotify.com/track/3XIbyNrlsz7pUvGSmP62sH) | [AMPTAKxCOLORS](https://open.spotify.com/artist/2ZdbtKGxrjGGn8xFp5V5e8) | [RAINBOWxPATROL \(Special Edition\)](https://open.spotify.com/album/7ibYbymQeDEPORP2mq1nK2) | 3:36 | 2024-03-19 | 2024-03-27 |
 | [READY 2 RUMBLE](https://open.spotify.com/track/1Vj1oP3Z1PJXsU2HpgEPvO) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [VCF](https://open.spotify.com/album/3mNJ0XCdr6TbY3TPN0k0tn) | 2:54 | 2025-09-09 | 2025-11-05 |
 | [Ready to Jump](https://open.spotify.com/track/1pATsjibjLcbIZEYQjB11j) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 3:21 | 2023-11-23 | 2023-11-29 |
-| [REAL](https://open.spotify.com/track/6UIhFUYpyk55YwQi1JecSS) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [REAL](https://open.spotify.com/album/11kKgA1NAj4H37YBB04LyK) | 3:21 | 2025-11-24 |  |
+| [REAL](https://open.spotify.com/track/6UIhFUYpyk55YwQi1JecSS) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [REAL](https://open.spotify.com/album/11kKgA1NAj4H37YBB04LyK) | 3:21 | 2025-11-24 | 2025-12-05 |
 | [REALLY LOVE](https://open.spotify.com/track/4VWa5wRCtiHRwmN4nTppp7) | [Ryuji Imaichi](https://open.spotify.com/artist/70OLJdY31J0j1JgNcLsvSc) | [R](https://open.spotify.com/album/75QefD9UMZNVTj90r0RXW5) | 2:07 | 2024-06-25 | 2024-07-31 |
 | [Reason](https://open.spotify.com/track/7qqxXmYJxkWzDFyVisW5Cm) | [EXILE](https://open.spotify.com/artist/6zGmypGQUBXD4ZC9EbfMme) | [Reason](https://open.spotify.com/album/3O9KOYys6M3UjMJzyV30ll) | 3:23 | 2023-11-23 | 2024-02-14 |
 | [REC](https://open.spotify.com/track/26yzKuzFT1zs6h8kEZcvPF) | [Tensaibonjin](https://open.spotify.com/artist/1ELi8EtBddXdfm2QdYCtVj) | [REC](https://open.spotify.com/album/046uGXSIwWXsuyBRs4fV0t) | 2:53 | 2024-01-23 | 2024-01-25 |
@@ -737,6 +737,7 @@
 | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/track/7soLL3HJ0wmOtIC6Sxse5a) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/album/6l408RTEZpuoijgcEgDlxF) | 3:46 | 2025-05-29 | 2025-07-11 |
 | [“超”勝手に仕上がれ](https://open.spotify.com/track/2nsaIqfTeFqsIeqE5N4QSD) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:24 | 2024-07-30 | 2024-08-07 |
 | [あっちむいてほい](https://open.spotify.com/track/0rQfEhcOvcB5NW4V4VD47q) | [NEWS](https://open.spotify.com/artist/2Sw8snRnez7gVPNd9UU07o) | [あっちむいてほい](https://open.spotify.com/album/765plafXxbIYdlm7Uodkme) | 2:47 | 2024-11-05 | 2024-11-20 |
+| [ずっとずっと](https://open.spotify.com/track/1tRjtiooTUAuML3E8MeExz) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [ずっとずっと](https://open.spotify.com/album/5EVvEVgIATRL4P1TrwHhSU) | 3:26 | 2025-12-04 |  |
 | [それぞれ。](https://open.spotify.com/track/4IDv79DIXD5H0pimT4fL0m) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 3:57 | 2023-11-28 | 2023-12-13 |
 | [はじめまして](https://open.spotify.com/track/0o7bRi57o5jUchsIEqsnQJ) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [はじめまして](https://open.spotify.com/album/1NxUUrCisudNTH7BGZu3Fj) | 2:27 | 2025-06-28 | 2025-09-23 |
 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 | 2024-07-09 | 2025-03-07 |
@@ -756,6 +757,7 @@
 | [ギラギラサマー](https://open.spotify.com/track/2sHxORfEwQLuFCINxl0znD) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [ギラギラサマー](https://open.spotify.com/album/02HW2ZpiMq4sURnpLKJ5Im) | 3:24 | 2025-06-02 | 2025-06-18 |
 | [ギリスト！](https://open.spotify.com/track/44uiC9r2lNtWHMx3yp5qDg) | [上田竜也](https://open.spotify.com/artist/4s1pQdzt4S8cLMXDD19qG0) | [ギリスト！](https://open.spotify.com/album/4nr0X5zAvguICJI22rvMXg) | 3:15 | 2024-02-13 | 2024-03-20 |
 | [コトノハ](https://open.spotify.com/track/0jNEPqWXbouIlDCEhghFXZ) | [LAST FIRST](https://open.spotify.com/artist/55KR3eoKZN5BiquvkzHl6m) | [コトノハ \(Type\-B\)](https://open.spotify.com/album/0wPo0S4BOzf72jK5BCEJoF) | 4:43 | 2024-02-06 | 2024-02-14 |
+| [サンタさんへ。](https://open.spotify.com/track/0wrgXZ4dSl8LPm3ddP0YRz) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [サンタさんへ。](https://open.spotify.com/album/335QvsExORHN7FSMC2xxOs) | 3:55 | 2025-12-04 |  |
 | [シブヤ 午後6時](https://open.spotify.com/track/48u2iW5oJKCzTHdP1d6bNc) | [ICEx](https://open.spotify.com/artist/36eLruAH70vIII9ppzQ5QP) | [シブヤ 午後6時](https://open.spotify.com/album/67FCElXIveudgnyB5o908R) | 3:50 | 2023-12-12 | 2023-12-14 |
 | [スキャンダラスKISS〜 final act〜](https://open.spotify.com/track/1dJhaxmN10PVj8dKF9QiOu) | [CUBERS](https://open.spotify.com/artist/5b0vNm8SlsmAMchGD7akjQ) | [スキャンダラスKISS〜 final act〜](https://open.spotify.com/album/5Yhw12fyac5fHJhMhJTuUC) | 4:30 | 2024-01-23 | 2024-01-31 |
 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 | 2023-11-23 | 2024-10-02 |

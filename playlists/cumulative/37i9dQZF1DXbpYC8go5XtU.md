@@ -4,7 +4,7 @@
 
 > Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now.
 
-313 songs - 23 hr 33 min
+318 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Fluidity](https://open.spotify.com/track/6kLTau4KL6Sy7DUvDZkhgY) | [formless cascade](https://open.spotify.com/artist/18tc2zBN94cjKYRDUa5ogZ), [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Fluidity](https://open.spotify.com/album/4xR9MRNqVlCWqSmMp9xOEX) | 2:38 | 2025-03-14 |  |
 | [Fondo](https://open.spotify.com/track/6o5KpITPKjxpNx4pKVn0M7) | [August Deware](https://open.spotify.com/artist/4JkwQIDvHhzRTVVs6JcxjZ) | [Wings](https://open.spotify.com/album/25M0lmZ3Pm2tZcEaHtHWuF) | 2:43 | 2021-12-22 | 2024-09-05 |
 | [For The Summer, Or Forever](https://open.spotify.com/track/61NedbqrI3b0o8piJjQZu0) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb) | [For The Summer, Or Forever](https://open.spotify.com/album/4fZV90dhfZIM0370Dw999y) | 4:01 | 2021-12-22 | 2024-08-24 |
+| [Forest](https://open.spotify.com/track/665u1nqjaFcFzfaVT13JxX) | [where??](https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL) | [Forest](https://open.spotify.com/album/3yoAfGF2WIgVFt1iqHwVGX) | 2:53 | 2025-12-04 |  |
 | [Forest Chants](https://open.spotify.com/track/0Gk5QocXtg1m7i4I501T62) | [Domy Castellano](https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO) | [Forest Chants](https://open.spotify.com/album/4edbEdAQLiIySgyIQdFrGU) | 3:05 | 2025-03-14 |  |
 | [forest fall](https://open.spotify.com/track/4VqK9ZR5KFfcK8JuDDmkbl) | [Claudio Manu](https://open.spotify.com/artist/1qjGStWWGtXWsnNk7n6ty9) | [forest fall](https://open.spotify.com/album/3P7eY7szqpvjxTtAhWWdvX) | 2:30 | 2021-12-22 | 2022-07-09 |
 | [Forest Hymn](https://open.spotify.com/track/4Q0W8BvXVmKjMM1kANzGbq) | [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj) | [Migration](https://open.spotify.com/album/2xUyRkDGB0ViQVJtaVYVVO) | 3:46 | 2023-01-20 |  |
@@ -121,6 +122,7 @@
 | [Inpour](https://open.spotify.com/track/4lShevCVGTcmaE51KyB87e) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Darkest Place](https://open.spotify.com/album/6Os8YfXapiTML5ZJIXmVfp) | 4:29 | 2021-12-22 | 2024-12-19 |
 | [Intentions](https://open.spotify.com/track/7pzRLdm6APmgaCPOTRjGNH) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Intentions](https://open.spotify.com/album/7IfSzw8eV3ngDKCDLqpAGI) | 2:40 | 2024-11-11 | 2025-03-15 |
 | [Into The Blue](https://open.spotify.com/track/3QYlpiYbm1tzXa0yKvKvo6) | [Low Altitude](https://open.spotify.com/artist/0e8l4k008v3EwUopLVq2hq) | [Waves](https://open.spotify.com/album/0LY7LfnH8SE6f1hOVwTKNf) | 3:54 | 2022-05-18 |  |
+| [Intro: Light](https://open.spotify.com/track/1huHuJXvuU7k2SPI8sqDOo) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo) | [Intro: Light](https://open.spotify.com/album/5AeSYSEBXVICWxayxqT4Ui) | 3:28 | 2025-12-04 |  |
 | [Japanese Meditation](https://open.spotify.com/track/4OG6VAfkY5Z2ZiDsitnjDs) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 3:00 | 2021-12-22 | 2024-09-05 |
 | [Kannon](https://open.spotify.com/track/4vxVU7azXS6qfpR1iIG15I) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5), [takayama naoko](https://open.spotify.com/artist/1RtPxS3LU1mjAvSZDgnEJL) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:55 | 2023-01-06 | 2024-09-05 |
 | [Kono Yoni Yomeri \(Sono 2\)](https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kakashi](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb) | 2:20 | 2021-12-22 | 2022-08-13 |
@@ -132,6 +134,7 @@
 | [Leaves Breathing](https://open.spotify.com/track/04b4ZyKr2YbUGruDUWG3wa) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Leaves Breathing](https://open.spotify.com/album/0c9RZQfZNbk4TdqJFQDbT5) | 3:18 | 2022-04-08 | 2023-10-03 |
 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 | 2025-05-23 |  |
 | [Letting Go Of All Things](https://open.spotify.com/track/5rheZ8USO2YqMMV8gjPN3T) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK), [Ludvig Cimbrelius](https://open.spotify.com/artist/4UYn3kO0ZItHQzibMCqNv6) | [Clouds and Waves](https://open.spotify.com/album/2XXW74ft0AGkR32Triofua) | 4:56 | 2021-12-22 | 2022-10-15 |
+| [LICHT](https://open.spotify.com/track/6b9ISqw8KlXu4tbG2bLuqV) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [LICHT](https://open.spotify.com/album/2wUjZqdRflZRYB3kE1YXUM) | 3:22 | 2025-12-04 |  |
 | [Light Divides](https://open.spotify.com/track/4B6Ee3S5nYDCLwNV6NGJr2) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Light Divides](https://open.spotify.com/album/5UJ0Lp5fyujxiwFz6PIXcF) | 3:34 | 2024-09-04 |  |
 | [Lost Woods](https://open.spotify.com/track/3kB6DqvwMcPqDdTnmspybi) | [happo.](https://open.spotify.com/artist/5DRgQ5TDIwDVupnWxfd8lv) | [Lost Woods](https://open.spotify.com/album/27kEJssSAjbdqQAHkAG6JL) | 2:19 | 2023-10-02 | 2024-12-19 |
 | [Malcolm Island](https://open.spotify.com/track/1NeZTpeHRlDNvRPzca28w9) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Malcolm Island](https://open.spotify.com/album/0N8SfW6iM2CbH3bMolVVzF) | 3:01 | 2022-03-10 | 2023-10-06 |
@@ -285,6 +288,7 @@
 | [Tøbrud \- Lauge Rework](https://open.spotify.com/track/0coBasrJK8ecdjCGZ6U9qz) | [Markus Artved](https://open.spotify.com/artist/56Lcxu3hpu6GKumNTmOq2f), [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY) | [Tøbrud \(Lauge Rework\)](https://open.spotify.com/album/6yT13rXUuG71lqZ9foXiXm) | 2:24 | 2025-05-23 |  |
 | [Und](https://open.spotify.com/track/0Zseawrdx3aB2JJp0UbknM) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:24 | 2021-12-22 | 2023-12-09 |
 | [Under The Thunder](https://open.spotify.com/track/4L7K2qGigEOYYfAtpgIswc) | [Now Unlimited](https://open.spotify.com/artist/1D1sQVMQGI56YYpFMeO7xS) | [Euphoric Forest](https://open.spotify.com/album/6HrO27BUeHUoFvTKNljTcr) | 2:00 | 2022-11-11 |  |
+| [Unknowns](https://open.spotify.com/track/1ZMgKmbatGf214ZvycQlB0) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM), [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Unknowns](https://open.spotify.com/album/1HN3DE6wswND1WdySdbhiI) | 4:07 | 2025-12-04 |  |
 | [Vienna](https://open.spotify.com/track/2CZm12Kpg0i9o5h07ZEgNb) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 2:11 | 2021-12-22 | 2023-01-09 |
 | [Vienna](https://open.spotify.com/track/2lKNGpiuqPUnQTbhMYjJ9T) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Gradients](https://open.spotify.com/album/4j1o6OTO5ff3UABzIqHnhx) | 2:11 | 2023-01-06 | 2023-09-09 |
 | [Vienna](https://open.spotify.com/track/6PibtWZknVsZQ47haQGrQ7) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Vienna](https://open.spotify.com/album/3r31xSQ3tlMN2CGbY9tMlq) | 2:11 | 2023-01-06 | 2023-01-14 |
@@ -301,6 +305,7 @@
 | [Whales](https://open.spotify.com/track/4iZyoZ5YJtKtgOeDoU5HF0) | [Tsugi\-Hagi](https://open.spotify.com/artist/0bEvPjEKvNenhsbb5G1Dsf), [Republyric](https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP) | [Whales](https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP) | 3:23 | 2023-01-16 | 2025-06-28 |
 | [What If](https://open.spotify.com/track/6Ze6f6eCLCSbxuTHtwyC68) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [What If](https://open.spotify.com/album/3LbiSkkcnKQHE8l69UpMFr) | 3:14 | 2021-12-22 | 2025-03-15 |
 | [When you wake up](https://open.spotify.com/track/187SW6fgMUcjJbLUCEbPhr) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [Beauty Sleep Aroma \-beautiful morning\- recommended by an aroma therapist](https://open.spotify.com/album/4QKtfFBTibqhnZb4GnLp6G) | 6:02 | 2022-07-08 | 2022-08-13 |
+| [where do we go from here?](https://open.spotify.com/track/3SdWY5olOJEGX9HgFfxQAV) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [a liturgy for grief](https://open.spotify.com/album/3NJ6tjPObrYxycf1iQOGGl) | 4:36 | 2025-12-04 |  |
 | [Whisper at a Party](https://open.spotify.com/track/6pcotNzRig5MZqmYn6dvF2) | [Isaac Helsen](https://open.spotify.com/artist/01xVhqpSuHMXiHWwby8ySK) | [Remnants Series](https://open.spotify.com/album/2MXjXBNtnGLctV5n0tXGBv) | 6:56 | 2021-12-22 | 2024-07-25 |
 | [White Noise Healing](https://open.spotify.com/track/3eSZTtujc1pECv2f7quQ7l) | [Johan Davidsson](https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi) | [White Noise Healing](https://open.spotify.com/album/70qwfAg7xQ7piR2D9OZGkj) | 3:54 | 2024-12-18 | 2025-03-15 |
 | [Wichita Mountains](https://open.spotify.com/track/67fVPmujVatZQlXCSWhtPG) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Wichita Mountains](https://open.spotify.com/album/3N4j0oJHO52kbWtY2pthj3) | 2:50 | 2025-05-23 |  |

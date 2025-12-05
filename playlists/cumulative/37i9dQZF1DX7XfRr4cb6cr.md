@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-333 songs - 1 day 4 hr 14 min
+334 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Heaven Will Come](https://open.spotify.com/track/4XL9nn0qDcLA25X88wxmrw) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Shards](https://open.spotify.com/album/06SyCXtsiegtbVJpJ7kNWm) | 4:48 | 2025-02-27 |  |
 | [Helicidae](https://open.spotify.com/track/10UtFKrrp7SLBlK2CKJlQP) | [Anna Peaker](https://open.spotify.com/artist/2Gc36Og6RjLwi0dwB6EE9N) | [Helicidae](https://open.spotify.com/album/7B8g3dBjoR1j3UHSJBRYlA) | 5:16 | 2024-05-28 | 2025-02-28 |
 | [Himmelskib](https://open.spotify.com/track/0xYPApZy4jkoLahwQVAyyy) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Himmelskib](https://open.spotify.com/album/5Uqh5meF5vlmBuKpsQ7dnG) | 3:55 | 2023-12-01 |  |
-| [Hljóð](https://open.spotify.com/track/0bA8nk6Ho0cElAoAOIh2Cs) | [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1), [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B) | [Vast](https://open.spotify.com/album/0JXyLUDcW8E6ZDhCWq2aqr) | 7:59 | 2022-01-21 |  |
+| [Hljóð](https://open.spotify.com/track/0bA8nk6Ho0cElAoAOIh2Cs) | [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1), [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B) | [Vast](https://open.spotify.com/album/0JXyLUDcW8E6ZDhCWq2aqr) | 7:59 | 2022-01-21 | 2025-12-05 |
 | [hoffnungslos](https://open.spotify.com/track/5MhMBqo6XXhgEqPaj4lg7G) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [hoffnungslos](https://open.spotify.com/album/4VXvX0ustBlGvyZ9wpp1Jj) | 2:56 | 2023-08-25 |  |
 | [Homa](https://open.spotify.com/track/1hCyLVZYTG3GjBTXEFdawT) | [Bahrambient](https://open.spotify.com/artist/15y9zAEE8UaiSmdmbG6gja) | [Homa](https://open.spotify.com/album/6u9jVwEsvyq612WbntzIwV) | 3:16 | 2023-03-10 | 2025-03-08 |
 | [Honest Labour \(feat\. HforSpirit\)](https://open.spotify.com/track/3reCdVXmx9UVQlLhzqAh8H) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [HforSpirit](https://open.spotify.com/artist/3EFHV7IDQxHCNlFljVrMUu) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 3:51 | 2022-02-04 | 2022-08-18 |
@@ -220,6 +220,7 @@
 | [Pipopapipo](https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Los Desamores de Dewey Martino](https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg) | 3:36 | 2023-04-21 | 2024-04-19 |
 | [Pipopapipo](https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Pipopapipo](https://open.spotify.com/album/1wlyTNXfFZO1FAqXekM9rP) | 3:36 | 2022-01-28 | 2023-06-14 |
 | [Pordeno Me](https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Pordeno Me](https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju) | 2:29 | 2025-01-31 | 2025-11-29 |
+| [pour le poème \(flou v\)](https://open.spotify.com/track/5abIAZR04R2tdeASvQxcQN) | [Passa Tempo](https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu) | [A/B \(moments bleus la nuit\)](https://open.spotify.com/album/3OOiHyGZA02nQCVxdM6pLE) | 2:24 | 2025-12-04 |  |
 | [Power Down the Heart](https://open.spotify.com/track/1zh6auj09toxNxeux8cwQP) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA) | [Power Down the Heart](https://open.spotify.com/album/1tvoBGiMufBZK8Ky33Ljab) | 3:41 | 2025-07-03 | 2025-08-08 |
 | [Prelude for Halloween 1](https://open.spotify.com/track/3s5Qgp2Wsuvpt2qNG0sXKo) | [J\. M\. Quintana Cámara](https://open.spotify.com/artist/17uGmjKhL5hlpn6e7dg2Vm) | [Preludes for Halloween Vol\. I](https://open.spotify.com/album/6sbfcYlYMGdTHJJ6QSImiN) | 1:28 | 2022-10-14 | 2023-10-06 |
 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 | 2022-01-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 60004,
+  "num_followers": 60018,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS4sAAAAAAAAuYx33ev4gYb+nQBoxWZd",
+  "snapshot_id": "aS99gAAAAACmQZQ0UYcdR7qkqVmA5b1F",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Making Of Five Leaves Left",
-        "url": "https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD"
+        "name": "Made To Love Magic",
+        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 222560,
-      "name": "Strange Face - 1st Sound Techniques Session, March / 1968",
-      "url": "https://open.spotify.com/track/1qeSUdnJcj6bE6X6p3GK54"
+      "duration_ms": 157813,
+      "name": "Rider On The Wheel",
+      "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made To Love Magic",
-        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
+        "name": "The Making Of Five Leaves Left",
+        "url": "https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 157813,
-      "name": "Rider On The Wheel",
-      "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
+      "duration_ms": 222560,
+      "name": "Strange Face - 1st Sound Techniques Session, March / 1968",
+      "url": "https://open.spotify.com/track/1qeSUdnJcj6bE6X6p3GK54"
     },
     {
       "added_at": null,
@@ -418,11 +418,15 @@
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        },
+        {
+          "name": "Gabrielle Drake",
+          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
         }
       ],
-      "duration_ms": 179386,
-      "name": "Milk And Honey",
-      "url": "https://open.spotify.com/track/7bsSdjF8UgqleAaBTTiYql"
+      "duration_ms": 115960,
+      "name": "All My Trials",
+      "url": "https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML"
     },
     {
       "added_at": null,
@@ -486,15 +490,11 @@
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        },
-        {
-          "name": "Gabrielle Drake",
-          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
         }
       ],
-      "duration_ms": 115960,
-      "name": "All My Trials",
-      "url": "https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML"
+      "duration_ms": 179386,
+      "name": "Milk And Honey",
+      "url": "https://open.spotify.com/track/7bsSdjF8UgqleAaBTTiYql"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 
 
-1,242 songs - 2 day 16 hr 19 min
+1,244 songs - 2 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [imreallytrynaf\*ckwichu](https://open.spotify.com/track/6dPPmvsoMacSlVCSfNC2mk) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Husel](https://open.spotify.com/artist/4mRwHKm2edtTqp0NXoQ1aC) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:32 | 2023-03-10 | 2023-12-14 |
 | [In and Out](https://open.spotify.com/track/2oWaHVTGvuFk38iBRVRAaO) | [Lud Foe](https://open.spotify.com/artist/0Cu32uCaqDJYQADOev92Et) | [No Hooks](https://open.spotify.com/album/6cbmULrZWVHJ0G0P4DDWLb) | 3:59 | 2024-09-15 | 2024-11-06 |
 | [In Control](https://open.spotify.com/track/5IdAcHb4cwtexqMlOojWhR) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 3:01 | 2022-08-15 | 2023-12-14 |
+| [In the Mood \(feat\. Kanye West & Roy Ayers\)](https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 3:55 | 2025-12-04 |  |
 | [Inergee](https://open.spotify.com/track/3UJiZWtjt7Ifj557nU8awJ) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Dumb and Dumb3r](https://open.spotify.com/album/6WYfNdcfLHoI37nwA3dLdG) | 2:50 | 2022-09-29 | 2023-12-14 |
 | [Inergee Too](https://open.spotify.com/track/7pZZmGHmmwnUL29KHGxVaK) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Dum and Dumber Too](https://open.spotify.com/album/36t3hvr9NDOKn6y3NVBAlu) | 2:36 | 2022-10-28 | 2023-05-09 |
 | [Inside My Head!](https://open.spotify.com/track/0TapjhV7ADxz1FEk5VDlyF) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 1:37 | 2022-08-27 | 2023-04-12 |
@@ -1083,6 +1084,7 @@
 | [Thank You \- Radio Edit](https://open.spotify.com/track/1boN869O5BJIYgX7ANzC4B) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [elijahdior](https://open.spotify.com/artist/6e7qUgEO2fWE5dt2PMXGdB) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 1:27 | 2022-08-05 | 2023-04-12 |
 | [That's Love Ft\. Mac Miller & Heather Victoria](https://open.spotify.com/track/0xunt5HuJyD4uQAzjR1icK) | [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [The Wonder Years](https://open.spotify.com/album/0SnnejMBMdgkNyS4XqJBL4) | 3:30 | 2025-07-01 |  |
 | [The Bees Knees](https://open.spotify.com/track/1n4eqIG0RRUCuPT4vnsVlv) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 5:25 | 2023-03-20 | 2024-04-24 |
+| [The Bizness](https://open.spotify.com/track/22wlZ0k1c3BSZuZpHkqAnl) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 4:22 | 2025-12-04 |  |
 | [The Caves Of Altamira](https://open.spotify.com/track/4IBoDzxcRRRhQ6dozP28aQ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [The Royal Scam](https://open.spotify.com/album/1Sur33x6g7tvdd9GQnHhhu) | 3:33 | 2025-05-05 |  |
 | [The Detox](https://open.spotify.com/track/1rWYoUOprzYyzlxL9so9jF) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:30 | 2023-01-27 | 2023-03-07 |
 | [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 | 2022-07-09 | 2023-05-09 |

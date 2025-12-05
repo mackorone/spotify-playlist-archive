@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3921179,
+  "num_followers": 3921261,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Sound of You (ft TEED)",
-        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 236528,
-      "name": "Sound of You (ft TEED)",
-      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "Caught Up In The Fire",
         "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 223538,
       "name": "Caught Up In The Fire",
       "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "Sound of You (ft TEED)",
+        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 236528,
+      "name": "Sound of You (ft TEED)",
+      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
+      },
+      "artists": [
+        {
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/1dykSfMKD0vYaCH9Rp338Y"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 156137,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
-      },
-      "artists": [
-        {
-          "name": "ANDREA CALABRIA",
-          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 215435,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
         "name": "Me and You (feat. Vancouver Sleep Clinic)",
         "url": "https://open.spotify.com/album/3I2DyDuoBgTndybTZM0W8B"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 215435,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "SWEET LOVIN",
         "url": "https://open.spotify.com/album/0J02fKiJmJp7DKyEI3lQjR"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 188346,
       "name": "SWEET LOVIN",
       "url": "https://open.spotify.com/track/5FyaFI5pYPGdhKC6z4Gm0e"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "Beside You",
+        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1295,22 +1311,6 @@
       "duration_ms": 369798,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
-        "name": "Beside You",
-        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1379,18 +1379,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Teahupoo",
-        "url": "https://open.spotify.com/album/7t395XjOwd8MjYHEsI1tgr"
+        "name": "Wanna Know",
+        "url": "https://open.spotify.com/album/3QLPxAh68K1z8bLdE2uMFL"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Jack Willard",
+          "url": "https://open.spotify.com/artist/0DIqQmQ7dKsuCPx6LDJWK7"
+        },
+        {
+          "name": "Lovlee",
+          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
         }
       ],
-      "duration_ms": 202926,
-      "name": "Teahupoo",
-      "url": "https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR"
+      "duration_ms": 218709,
+      "name": "Wanna Know",
+      "url": "https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1415,22 +1419,34 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Wanna Know",
-        "url": "https://open.spotify.com/album/3QLPxAh68K1z8bLdE2uMFL"
+        "name": "Teahupoo",
+        "url": "https://open.spotify.com/album/7t395XjOwd8MjYHEsI1tgr"
       },
       "artists": [
         {
-          "name": "Jack Willard",
-          "url": "https://open.spotify.com/artist/0DIqQmQ7dKsuCPx6LDJWK7"
-        },
-        {
-          "name": "Lovlee",
-          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 218709,
-      "name": "Wanna Know",
-      "url": "https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9"
+      "duration_ms": 202926,
+      "name": "Teahupoo",
+      "url": "https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1451,18 +1467,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+        "name": "Diamonds (Further Than I Ever Was)",
+        "url": "https://open.spotify.com/album/2UpwdJFrDOlYt6Na23mIV6"
       },
       "artists": [
         {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
         }
       ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+      "duration_ms": 296597,
+      "name": "Diamonds (Further Than I Ever Was)",
+      "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1491,26 +1511,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Diamonds (Further Than I Ever Was)",
-        "url": "https://open.spotify.com/album/2UpwdJFrDOlYt6Na23mIV6"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "The Boxer Rebellion",
-          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
-        }
-      ],
-      "duration_ms": 296597,
-      "name": "Diamonds (Further Than I Ever Was)",
-      "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "Maitri",
         "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 177391,
       "name": "Maitri",
       "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
-        "name": "Give Me Life",
-        "url": "https://open.spotify.com/album/2uQ78onkVkQm9JEfVK78tN"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 213113,
-      "name": "Give Me Life",
-      "url": "https://open.spotify.com/track/1VIFS9J23S0zWLbs5U0f2X"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
+        "name": "Give Me Life",
+        "url": "https://open.spotify.com/album/2uQ78onkVkQm9JEfVK78tN"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 213113,
+      "name": "Give Me Life",
+      "url": "https://open.spotify.com/track/1VIFS9J23S0zWLbs5U0f2X"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5HLuvzfYjnLfeBqrjh356f"
       },
@@ -1615,22 +1615,6 @@
       "duration_ms": 238065,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/0CVdlEsyxVK5dikxkx6FOR"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
-        "name": "Senses of Comfort",
-        "url": "https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Senses of Comfort",
-      "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1651,6 +1635,22 @@
       "duration_ms": 256721,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "Senses of Comfort",
+        "url": "https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Senses of Comfort",
+      "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/10Yl1eszSwWygwQU4DyAkX"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 185301,
+      "name": "JADED",
+      "url": "https://open.spotify.com/track/5XWTqhkU9fLenlOkOrPa7I"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
         "name": "i don't know what to say",
         "url": "https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5"
       },
@@ -1851,22 +1867,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "JADED",
-        "url": "https://open.spotify.com/album/10Yl1eszSwWygwQU4DyAkX"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 185301,
-      "name": "JADED",
-      "url": "https://open.spotify.com/track/5XWTqhkU9fLenlOkOrPa7I"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Above Ground",
-        "url": "https://open.spotify.com/album/6g2Kkgl27P6CjSFenP7vKl"
-      },
-      "artists": [
-        {
-          "name": "Klaverson",
-          "url": "https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7BtBDYrdtBmGEXCuPOSf98"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "Postcards / All Access",
         "url": "https://open.spotify.com/album/2ldKEjyuNyzWPhYmE7Pjrk"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 213750,
       "name": "Postcards",
       "url": "https://open.spotify.com/track/68lz5UGhqfbGivPA6BCDWF"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "Above Ground",
+        "url": "https://open.spotify.com/album/6g2Kkgl27P6CjSFenP7vKl"
+      },
+      "artists": [
+        {
+          "name": "Klaverson",
+          "url": "https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7BtBDYrdtBmGEXCuPOSf98"
     },
     {
       "added_at": "2025-11-21 05:00:29",

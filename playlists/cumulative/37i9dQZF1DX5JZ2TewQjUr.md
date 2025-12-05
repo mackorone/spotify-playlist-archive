@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Carson Leung
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Wantamnam 我地希望
 
-1,570 songs - 3 day 16 hr 47 min
+1,574 songs - 3 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [ANIMAL](https://open.spotify.com/track/622KzomkoRZAhj6aJ422y3) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV) | [ANIMAL](https://open.spotify.com/album/3NWp4o5sMQgelznuJkpvOF) | 2:13 | 2024-02-01 | 2024-05-10 |
 | [Annabelle](https://open.spotify.com/track/1tyv2KT1wqkJVuGlBf3KBE) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Annabelle](https://open.spotify.com/album/4Lb1ip97KpMT1OZjc1Q9i8) | 2:09 | 2025-10-02 |  |
 | [Another Life](https://open.spotify.com/track/6AaJtwlagk4mY5PQZMyiHt) | [SpotlessMind](https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf) | [Another Life](https://open.spotify.com/album/2XKZZcZQTfpKQf1g4KuSSn) | 2:22 | 2024-07-04 | 2024-11-15 |
+| [Anti Gravity](https://open.spotify.com/track/59sVH0jMXyONQa2txKqP41) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Anti Gravity](https://open.spotify.com/album/0dGwIH1AheLi9rDyNvIgj2) | 3:08 | 2025-12-04 |  |
 | [anxious](https://open.spotify.com/track/3TqRFOLubjHoe8Abc3IzHX) | [mue](https://open.spotify.com/artist/4nINHlTXP0sDUGWHmf4cLi) | [anxious](https://open.spotify.com/album/5dn2YPsJahpqLmyFzPF9ap) | 2:47 | 2024-11-14 | 2025-02-14 |
 | [anxious feat\. SOPHY](https://open.spotify.com/track/419zO93ONXdKpUcwImSGIw) | [mue](https://open.spotify.com/artist/4nINHlTXP0sDUGWHmf4cLi), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [anxious feat\. SOPHY](https://open.spotify.com/album/2DAESLVQPlIqaEOKjiLT2e) | 2:47 | 2025-01-16 | 2025-05-30 |
 | [Any any way](https://open.spotify.com/track/6ti4TzNsirstOt93DGpQj7) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Any any way](https://open.spotify.com/album/6bxgVxFRZbv16LYikFLB7L) | 2:53 | 2024-02-15 | 2024-05-10 |
@@ -800,6 +801,7 @@
 | [Sight](https://open.spotify.com/track/4YrMQvibYkbFr1hT4TDj9h) | [Oh! Sheep](https://open.spotify.com/artist/6J1qygxBY60B6lwIBTYTTU) | [Sight](https://open.spotify.com/album/6JINo7ryCS8YmYnk6zzPdS) | 3:13 | 2025-03-20 | 2025-07-11 |
 | [signals](https://open.spotify.com/track/4pwRNo6lhuKEcG3L73P380) | [mue](https://open.spotify.com/artist/4nINHlTXP0sDUGWHmf4cLi) | [signals](https://open.spotify.com/album/6TgDjGJVslGBOnoxQ7Lhls) | 3:33 | 2024-04-18 | 2024-11-15 |
 | [Silver Moon](https://open.spotify.com/track/6XBRnNyelYVa16iYTWXWqN) | [薛德勇 Monkey](https://open.spotify.com/artist/3JwDfxWk8xVPg2ia8CN3MS) | [Silver Moon](https://open.spotify.com/album/08ZaD67fJjapODvopQrDxX) | 3:09 | 2024-06-06 | 2024-11-15 |
+| [Simone Rocha Thug](https://open.spotify.com/track/2X99rzpKtPdSbFiSHljUZA) | [YoungQueenz](https://open.spotify.com/artist/4L55QUybdNNklpqnecZ5Bl), [N.O.L.Y](https://open.spotify.com/artist/3oVNwwOcAofPChamgAzlN1), [Floyd Cheung](https://open.spotify.com/artist/5ECLyxj4xrSQVnGog6odCm), [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7) | [龍寨 DT2](https://open.spotify.com/album/3hoEwenP4PhKl6SszVgd4V) | 3:54 | 2025-12-04 |  |
 | [Sin Trigger](https://open.spotify.com/track/1b8ysxE26bqztpEAVaGrfT) | [Hong Kong Express](https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf) | [Sin Trigger](https://open.spotify.com/album/3WxaGezM6hZS2bdSQnxWt5) | 4:49 | 2022-11-03 | 2023-02-03 |
 | [Sit Back](https://open.spotify.com/track/3eRpYdmINHbNdRuKu3g6oB) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [Sit Back](https://open.spotify.com/album/6rydU2ZTAOpaLZl3Qi7YVv) | 5:07 | 2023-11-30 | 2024-02-16 |
 | [SIXTY\-SIX](https://open.spotify.com/track/3h2fLjxLIqSw4ofgzcZ3oQ) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd) | [SIXTY\-SIX](https://open.spotify.com/album/613Q224A1tQIUJYa0PDLBq) | 3:01 | 2024-06-27 | 2024-11-15 |
@@ -1020,6 +1022,7 @@
 | [Willow](https://open.spotify.com/track/054AmGa7s4Pq9X9nmtJvCz) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Kowloon Demos](https://open.spotify.com/album/7ySns1kCZwDoIoVVTzuCBK) | 3:17 | 2024-07-25 | 2024-11-15 |
 | [Winter Daze](https://open.spotify.com/track/2m7wBWhRALlfXybW7yg4Xp) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14), [Mr Koo](https://open.spotify.com/artist/63Jj7uHeJZ9ygXaesiq6MF) | [Train of Thought](https://open.spotify.com/album/236OMmp7gg7LAWTwGDARCj) | 3:31 | 2023-06-08 | 2023-11-03 |
 | [Wish You Were Here](https://open.spotify.com/track/1FNtvuoIWsRUKGdyL4bKtj) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Wish You Were Here](https://open.spotify.com/album/6q9OBv5S89kMEhIeowv4S5) | 2:57 | 2024-12-12 | 2025-04-25 |
+| [Wishlist](https://open.spotify.com/track/5JmDcBEAvOQJ5m4nx3AF9S) | [ALITZ](https://open.spotify.com/artist/7fwnSGugEZKjdV3aTji7Dy) | [Wishlist](https://open.spotify.com/album/7v6GMAIJ3H2aS8IMpvbFP2) | 3:16 | 2025-12-04 |  |
 | [Witch](https://open.spotify.com/track/1DAlrq5j3Y6eVburtC4K1I) | [milos](https://open.spotify.com/artist/6SqVZR2beS3E0tzj6LTSn6) | [Witch](https://open.spotify.com/album/0VAsugkwDAl2fs8spQLdoY) | 4:07 | 2023-08-17 | 2023-12-01 |
 | [WITHOUT ME](https://open.spotify.com/track/002yzqyjtaiZblyHSmmeS5) | [ben chow](https://open.spotify.com/artist/3O9Vari0d5odpXVPlRT04w) | [WITHOUT ME](https://open.spotify.com/album/1IEkO3DC6WV5MlpHpnkJlK) | 2:08 | 2024-02-01 | 2024-05-10 |
 | [Without You](https://open.spotify.com/track/2bqfD3YhJTpHJsuwmfG1hI) | [thisisgrant](https://open.spotify.com/artist/1kAFDd4QiDBpkhMB4O0rzZ) | [Without You](https://open.spotify.com/album/5fbfTUERZ5wQTOPjep5d7m) | 3:02 | 2023-02-23 | 2023-07-14 |
@@ -1344,6 +1347,7 @@
 | [月後](https://open.spotify.com/track/2XVmxvFfD4DukqOE4yNCN7) | [惡夢扭蛋](https://open.spotify.com/artist/3ncvp8T5o3rj75jezVG2lt) | [月後](https://open.spotify.com/album/7glic7027atzTWpfkT48ue) | 4:07 | 2022-05-26 | 2022-06-10 |
 | [有一種痛叫做腳趾尾的痛](https://open.spotify.com/track/7l2YMrLgpSecBjv79zAbhu) | [東涌事發](https://open.spotify.com/artist/6ClTWrZnl5uWikZC82fhAT) | [有一種痛叫做腳趾尾的痛](https://open.spotify.com/album/1cdr9AAD6W4WzHVv2btbtC) | 3:28 | 2023-11-02 | 2024-01-05 |
 | [有啲嘢唔講得](https://open.spotify.com/track/3B7HiByTGUFZucAnzgUxIw) | [Wolfe](https://open.spotify.com/artist/5BS8OU8Qoy4brGmgm6X2pA) | [有啲嘢唔講得](https://open.spotify.com/album/6bjo2tylboKAk7YFUfnva1) | 3:03 | 2022-05-26 | 2022-07-29 |
+| [有時候 Sometimes](https://open.spotify.com/track/5JCRM4tFTAVqWDyChuzXoJ) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [有時候 Sometimes](https://open.spotify.com/album/4cDnYwcPI1Eq1iElWPBidy) | 4:11 | 2025-12-04 |  |
 | [有邊個想做廢青](https://open.spotify.com/track/34dGK3a62hFVge22O19gUW) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl), [Kmicgor@Ragpickers](https://open.spotify.com/artist/2NgXoMxmFivqsMVGVny2KK) | [有邊個想做廢青](https://open.spotify.com/album/5oRZfgSR9mnt0ojjiI86Q9) | 4:42 | 2023-01-19 | 2023-05-26 |
 | [有邊個清楚我。](https://open.spotify.com/track/3maqosSuSnOu478FqXFOfQ) | [NTopic](https://open.spotify.com/artist/3MUbd9Eo7TQznhqjzxSVuQ) | [有邊個清楚我。](https://open.spotify.com/album/2B6pEEuilt4nSwALRHBqkI) | 2:59 | 2023-12-14 | 2024-02-16 |
 | [朋友 Friends](https://open.spotify.com/track/2U9O0fN1B7rxe9t2nDiIYc) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd), [Alexandria山大](https://open.spotify.com/artist/1rcKfUbYC6TigViuaL9moo) | [朋友 Friends](https://open.spotify.com/album/6ySSLqTZBP3NAgcT5K5Nlp) | 5:01 | 2025-11-06 |  |

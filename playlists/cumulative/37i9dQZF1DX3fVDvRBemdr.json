@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste releases Hollands & Volks. Cover: Toon Schut",
+  "description": "De nieuwste releases Hollands & Volks. Cover: Donnie, Sven Versteeg & LA$$A",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -2213,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "Een Dag Niet Gelachen",
+        "url": "https://open.spotify.com/album/4rSAI90WhB1jvUv0xkAOMa"
+      },
+      "artists": [
+        {
+          "name": "Chris Bauer",
+          "url": "https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144200,
+      "name": "Een Dag Niet Gelachen",
+      "url": "https://open.spotify.com/track/3f9ox3NTcvBctWb0VyPRdA"
+    },
+    {
+      "album": {
         "name": "Een Druppeltje Geluk",
         "url": "https://open.spotify.com/album/1Gyh2UyLO4xNOwjKxtAiJ7"
       },
@@ -3761,6 +3779,24 @@
     },
     {
       "album": {
+        "name": "Ik Mis Je",
+        "url": "https://open.spotify.com/album/5HpNi57j4T6yJhrF2t4GRM"
+      },
+      "artists": [
+        {
+          "name": "Patrick Dano",
+          "url": "https://open.spotify.com/artist/2ei5DwyFArbRyis2L5MY4Z"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206925,
+      "name": "Ik Mis Je",
+      "url": "https://open.spotify.com/track/2Q6HUBRiD7hQoAz4EuMU9F"
+    },
+    {
+      "album": {
         "name": "Ik moet naar huis toe gaan",
         "url": "https://open.spotify.com/album/7xqovgg1V8CqM4Jcrx8Uk2"
       },
@@ -4797,6 +4833,32 @@
     },
     {
       "album": {
+        "name": "Kroegentocht",
+        "url": "https://open.spotify.com/album/1wl7El00tpdFrdCqC8kPMP"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "Kroegentocht",
+      "url": "https://open.spotify.com/track/4La3UzkRZnOUmF4b5Dfton"
+    },
+    {
+      "album": {
         "name": "Kroegtijger",
         "url": "https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi"
       },
@@ -5626,7 +5688,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 170476,
       "name": "Maria",
       "url": "https://open.spotify.com/track/3HXPkduF7PBUK6VwCvqmi2"
@@ -5922,7 +5984,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 175614,
       "name": "Nachtenlang",
       "url": "https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936"
@@ -8192,7 +8254,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 152167,
       "name": "Wat Heb Je Gedaan ?",
       "url": "https://open.spotify.com/track/0IljWFpIc75avph7Bk93Oa"

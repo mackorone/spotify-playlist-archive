@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> The new wave of Latin pop 🌊 Cover: Natalia Lacunza
+> The new wave of Latin pop 🌊 Cover: Yami Safdie & Carín León
 
-1,105 songs - 2 day 7 hr 8 min
+1,106 songs - 2 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,7 @@
 | [Fondo de Pantalla](https://open.spotify.com/track/4r203GMLp7XHzDXslZMfzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Fondo de Pantalla](https://open.spotify.com/album/4cvJOfmAspEV4TMihhle73) | 2:41 | 2023-01-13 | 2023-02-24 |
 | [fotomatón](https://open.spotify.com/track/1qP9Rf8ZNIjrFGzrG536Xa) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [fotomatón](https://open.spotify.com/album/0gfREg7H8EjjVIhkfuYDlI) | 2:29 | 2024-07-19 | 2024-09-07 |
 | [Francotirador](https://open.spotify.com/track/6HB9W0nlPELfOC6212oOhN) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Francotirador](https://open.spotify.com/album/1Pen9l4kglBO8TIn1kwarb) | 2:23 | 2024-09-20 | 2024-11-30 |
-| [frenas](https://open.spotify.com/track/76lfpkdpqNwLjAsOpzcKKr) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [frenas](https://open.spotify.com/album/6APQW90Wb5DLzX0GdeHI9h) | 2:46 | 2025-10-10 |  |
+| [frenas](https://open.spotify.com/track/76lfpkdpqNwLjAsOpzcKKr) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [frenas](https://open.spotify.com/album/6APQW90Wb5DLzX0GdeHI9h) | 2:46 | 2025-10-10 | 2025-12-05 |
 | [Freno](https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Freno](https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd) | 3:34 | 2022-10-04 | 2023-01-14 |
 | [Fruta](https://open.spotify.com/track/5Esz3DUyatyxURTtdX9IQx) | [Ana Isabelle](https://open.spotify.com/artist/69vrWFbPlmkfQjMKojkeqG) | [Meraki](https://open.spotify.com/album/3l11vMVyJbnMiW0u4g01s5) | 3:03 | 2024-05-31 | 2024-06-22 |
 | [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 | 2024-02-02 | 2024-04-06 |
@@ -774,6 +774,7 @@
 | [Perdón](https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Perdón](https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu) | 2:46 | 2023-02-24 | 2023-03-04 |
 | [Perdón](https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [Perdón](https://open.spotify.com/album/2jlVRYddldWw0PvazEfALS) | 2:35 | 2022-12-02 | 2022-12-17 |
 | [Permanente](https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Permanente](https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz) | 3:55 | 2022-12-23 | 2023-02-05 |
+| [Pero Yo Sí](https://open.spotify.com/track/4prlsQZ6dYQLTHAua1SqcR) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Querida Yo](https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4) | 2:37 | 2025-12-04 |  |
 | [Perro Es Perro](https://open.spotify.com/track/3fYStiduJeyLoraptOBWLD) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Perro Es Perro](https://open.spotify.com/album/3PXimCd1eMcfJFCAfCy9gC) | 2:51 | 2022-03-21 | 2022-06-18 |
 | [Perspectiva](https://open.spotify.com/track/0nlqSRcepWQ1KpQQzGV6Ju) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que Puede Pasar](https://open.spotify.com/album/7cxK8DbJ1Sk5xvAyf9pbHC) | 2:31 | 2025-11-07 |  |
 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 | 2024-06-07 | 2024-09-07 |

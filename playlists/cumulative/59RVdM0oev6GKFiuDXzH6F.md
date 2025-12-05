@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,032 songs - 2 day 4 hr 53 min
+1,034 songs - 2 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [En El Party](https://open.spotify.com/track/5kfGxBTuS10GawxZJn8nJe) | [Kide \(IT\)](https://open.spotify.com/artist/3clh5nUUfRr2oB9FCBP8CU), [Enrey](https://open.spotify.com/artist/3QfW1vNOZSUUE1aQeOAC8X) | [En El Party](https://open.spotify.com/album/7Byx9IkZ0ockhmVczj3HTL) | 2:38 | 2023-11-03 | 2024-09-26 |
 | [End Of The Beginning](https://open.spotify.com/track/2IJigwZlLAeBa16rlYrD1x) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [End Of The Beginning](https://open.spotify.com/album/4O46V5aJRyrYiINs18RI78) | 3:40 | 2023-12-08 | 2024-09-26 |
 | [Energy](https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Energy](https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb) | 3:02 | 2023-03-31 | 2023-04-15 |
+| [Entrance](https://open.spotify.com/track/61qsLCbqMIYKWcHi0QRv9q) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Add\-us](https://open.spotify.com/artist/2LjaWk8PYlB8M4Cz6MLHGJ) | [Entrance](https://open.spotify.com/album/6vnQGepBinBhQjBUdm1hxL) | 3:16 | 2025-12-04 |  |
 | [Entre Tu Y Yo](https://open.spotify.com/track/5FIfBuscza9UTc8WQowToi) | [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Entre Tu Y Yo](https://open.spotify.com/album/6XjGiOvPTKXu55Z4x6vTlA) | 2:33 | 2023-08-25 | 2023-09-26 |
 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 | 2025-06-12 |  |
 | [Eternity \(with Timmy Trumpet\) \[Club Mix\]](https://open.spotify.com/track/5rRO0glAM4AOwZny2WENEh) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Eternity \(with Timmy Trumpet\) \[Club Mix\]](https://open.spotify.com/album/139tE0AGe2onXyEQAJKvaw) | 2:24 | 2023-10-06 | 2024-09-26 |
@@ -303,6 +304,7 @@
 | [Free Your Mind](https://open.spotify.com/track/2kYWI4tyVrFvh3XIXTHVhd) | [ELYX](https://open.spotify.com/artist/0yHnhg6YZHrFZ0Dg1LRe7w) | [Free Your Mind](https://open.spotify.com/album/4hub8pUiQAnKLXIHQ60wtU) | 2:44 | 2024-10-03 | 2025-01-09 |
 | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 | 2025-03-20 |  |
 | [Fuego](https://open.spotify.com/track/45GXyr5LIIMAgKK1zc2IWT) | [Fede Rego](https://open.spotify.com/artist/1givwtQXh3LZPSiVqnQdzN) | [Fuego](https://open.spotify.com/album/3okRVbjoH7anbOb5vFYfpc) | 2:17 | 2024-04-03 | 2024-04-13 |
+| [Gangs](https://open.spotify.com/track/3WezBIRbCDGGyubCukbWtg) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU) | [Gangs](https://open.spotify.com/album/4SIE13lxlsup06K7K6JkJS) | 3:29 | 2025-12-04 |  |
 | [Garage Guess](https://open.spotify.com/track/6Vt9pOm3FGqyO9QUC1TOdd) | [Miguel Bastida](https://open.spotify.com/artist/5wHxSZdr7rIyqlFJxH1gCM), [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [GOUX](https://open.spotify.com/artist/1YANF2Clk0VpRNG3HPu5B1) | [Garage Guess](https://open.spotify.com/album/65hObxzSLruVlkRnWLaTQg) | 2:18 | 2025-11-14 |  |
 | [GENESIS](https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [GENESIS](https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y) | 3:28 | 2024-01-26 | 2024-09-26 |
 | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/track/7b5Eu8Mp5uB4MPjT3Kh3WF) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Fabian Farell](https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY), [Derb](https://open.spotify.com/artist/3mPVA7KPcWK2iKju5lLFc8), [Krys Tha Sis](https://open.spotify.com/artist/4FnvX9uPMfR9upQ4ByiBuO) | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/album/6sU8MVFcuQwitiDPKGFmwT) | 2:20 | 2024-10-10 | 2025-01-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Mariano Mellino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,352 likes - 103 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,357 likes - 103 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 77 | [Haciendo Saturar \(Tayhana Remix\)](https://open.spotify.com/track/79WOaiXVf1Bs6tm9VKLe1U) | [MissLupe](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j), [TAYHANA](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Haciendo Saturar Remixes](https://open.spotify.com/album/3a3ohZXXEyvWJhfRyA7fff) | 4:52 |
 | 78 | [Lost](https://open.spotify.com/track/6K906xiuKqP7SUug3yorZg) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Lost](https://open.spotify.com/album/1BxxvKyVX85z5HB50C5mh7) | 3:56 |
 | 79 | [Rising Dawn](https://open.spotify.com/track/0tn0gK7b5Dua8lfS6ZmgjW) | [LondonGround](https://open.spotify.com/artist/1KrOwCpc0OZhhJIW3wWgl8) | [Rising Dawn](https://open.spotify.com/album/28oBFfFi3NP7NF1UAthhZu) | 4:12 |
-| 80 | [Volver \- Mixed](https://open.spotify.com/track/6B96cwbgKr7LcnTVdcubJf) | [Martín Dubiansky](https://open.spotify.com/artist/2G0Wxv6zcebQJXq1NFKU4M) | [Hypnotic Subterfuge](https://open.spotify.com/album/4oAfHSI1itVbK1jcAN6AaV) | 4:56 |
+| 80 | [Volver \- Mixed](https://open.spotify.com/track/6B96cwbgKr7LcnTVdcubJf) | [Martín Dubiansky](https://open.spotify.com/artist/2G0Wxv6zcebQJXq1NFKU4M) | [Hypnotic Subterfuge: Ethereal Techno](https://open.spotify.com/album/4oAfHSI1itVbK1jcAN6AaV) | 4:56 |
 | 81 | [What I Do \- Acrobatik Remix](https://open.spotify.com/track/7tpcW6OE8VI7eryrRhziPG) | [Czerniak](https://open.spotify.com/artist/6JFxwqgvXyszozOZs7d9pg), [INNËR.ofc](https://open.spotify.com/artist/5zvFKig7W0PDsWRpU2OtFW), [Acrobatik](https://open.spotify.com/artist/2koOspPBEWwfAZBYN8BIMv) | [What I Do \(Acrobatik Remix\)](https://open.spotify.com/album/6FmfxhyE8a7xjrK28qEDPq) | 5:04 |
 | 82 | [No Explanation Needed](https://open.spotify.com/track/50dt4blYipSqcesDYgn4Kq) | [Cristian Hidalgo](https://open.spotify.com/artist/6SkhEYWmCaNbsiNv87HzfQ) | [Been Here Before](https://open.spotify.com/album/6K7h5Fl6Jtu3kAicTlH6lO) | 8:03 |
 | 83 | [Mushrooms \- VegaZ SL Remix \- Mixed](https://open.spotify.com/track/4ah25aaGmCtfPI2Q4qP34X) | [goodkidd](https://open.spotify.com/artist/3TsQkwBefRbM07sSS8fpSR), [Gastón Rodríguez \(AR\)](https://open.spotify.com/artist/1AK2nEhsVnIzaV74hVsAtm), [VegaZ SL](https://open.spotify.com/artist/35TmmeuoCIFr1xEP8DazE0) | [Noche Galactica, Vol\. 11 \(DJ Mix\)](https://open.spotify.com/album/6higzHaZhDAVNtZSLKVDfD) | 5:15 |

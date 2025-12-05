@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20430,
+  "num_followers": 20436,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "The Invisible Man",
+        "url": "https://open.spotify.com/album/6dxjNrYNXkEVTIhjypB0nQ"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 365656,
+      "name": "The Invisible Man",
+      "url": "https://open.spotify.com/track/5yojQqvfXYyUu4NnYbFrjW"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Life's a Bitch, I Just Need an Early Night",
         "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 275156,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/7qipQLUoNRpQrxRgrzbFoU"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "The Invisible Man",
-        "url": "https://open.spotify.com/album/6dxjNrYNXkEVTIhjypB0nQ"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 365656,
-      "name": "The Invisible Man",
-      "url": "https://open.spotify.com/track/5yojQqvfXYyUu4NnYbFrjW"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Price You Pay",
-        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Price You Pay",
-      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Figures On The Wall",
         "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 182546,
       "name": "Figures On The Wall",
       "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Price You Pay",
+        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Price You Pay",
+      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -755,18 +755,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "RISING",
-        "url": "https://open.spotify.com/album/2H8Mzv6DpIEgPzUGYJSQES"
+        "name": "Super Sad Generation",
+        "url": "https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 146200,
-      "name": "Inna city",
-      "url": "https://open.spotify.com/track/2iSMEkcCtJNmnFqKEjl7Uo"
+      "duration_ms": 187626,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "RISING",
+        "url": "https://open.spotify.com/album/2H8Mzv6DpIEgPzUGYJSQES"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 146200,
+      "name": "Inna city",
+      "url": "https://open.spotify.com/track/2iSMEkcCtJNmnFqKEjl7Uo"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Ride With Me",
         "url": "https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R"
       },
@@ -799,38 +815,6 @@
       "duration_ms": 232573,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Super Sad Generation",
-        "url": "https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Life's a Bitch, I Just Need an Early Night",
-        "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 282773,
-      "name": "Paradise Pending",
-      "url": "https://open.spotify.com/track/5eIoAHYIchR8fy07BIU5lF"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -851,6 +835,22 @@
       "duration_ms": 164171,
       "name": "Sex N' Drugs",
       "url": "https://open.spotify.com/track/3wGe2HZz3Krnb5pvN50uf4"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Life's a Bitch, I Just Need an Early Night",
+        "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "Paradise Pending",
+      "url": "https://open.spotify.com/track/5eIoAHYIchR8fy07BIU5lF"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Will Smith",
-        "url": "https://open.spotify.com/album/6GUTrIRyW7aLEMmmHQEKFV"
-      },
-      "artists": [
-        {
-          "name": "BEASTIE",
-          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
-        }
-      ],
-      "duration_ms": 126153,
-      "name": "Will Smith",
-      "url": "https://open.spotify.com/track/4oQHOvfACi3uh67gujOGAa"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/7xkXsOZbSh9qFLRQJwNCkk"
       },
@@ -1143,6 +1127,38 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Will Smith",
+        "url": "https://open.spotify.com/album/6GUTrIRyW7aLEMmmHQEKFV"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "duration_ms": 126153,
+      "name": "Will Smith",
+      "url": "https://open.spotify.com/track/4oQHOvfACi3uh67gujOGAa"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Golden House",
+        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 162644,
+      "name": "Golden House",
+      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Jet Plane 5000",
         "url": "https://open.spotify.com/album/3noTnaZZqXuflfPKDokgfJ"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Golden House",
-        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 162644,
-      "name": "Golden House",
-      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Feel A Way",
         "url": "https://open.spotify.com/album/5Et4BGkwJu1peujLFzOtM4"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 154124,
       "name": "Feel A Way",
       "url": "https://open.spotify.com/track/1dbmyZIJPifnlKNWjnS3Ke"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "No Place for Patience, Vol. 3",
+        "url": "https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "Pingu",
+      "url": "https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "No Place for Patience, Vol. 3",
-        "url": "https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l"
+        "name": "New Hands/Writers Block",
+        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Liv Walker",
+          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
         }
       ],
-      "duration_ms": 162120,
-      "name": "Pingu",
-      "url": "https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd"
+      "duration_ms": 174015,
+      "name": "New Hands/Writers Block",
+      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1271,22 +1287,6 @@
       "duration_ms": 121359,
       "name": "A While Now",
       "url": "https://open.spotify.com/track/7IoaHWlY2nd7OQl79TVxoM"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "New Hands/Writers Block",
-        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
-      },
-      "artists": [
-        {
-          "name": "Liv Walker",
-          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
-        }
-      ],
-      "duration_ms": 174015,
-      "name": "New Hands/Writers Block",
-      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Elevator Music",
-        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
-      },
-      "artists": [
-        {
-          "name": "KhakiKid",
-          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
-        }
-      ],
-      "duration_ms": 138775,
-      "name": "Babybrown",
-      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Be My Friend",
         "url": "https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 207759,
       "name": "Be My Friend",
       "url": "https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Elevator Music",
+        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "duration_ms": 138775,
+      "name": "Babybrown",
+      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "White Doves",
-        "url": "https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc"
-      },
-      "artists": [
-        {
-          "name": "Aanya Martin",
-          "url": "https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY"
-        }
-      ],
-      "duration_ms": 284120,
-      "name": "White Doves",
-      "url": "https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "honey lemon tea",
         "url": "https://open.spotify.com/album/694WwGLnOXDg8Mh44e4FbT"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 139370,
       "name": "honey lemon tea (feat. Jaydonclover)",
       "url": "https://open.spotify.com/track/7FSlGYVKwVDfi1J1DD8daS"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "White Doves",
+        "url": "https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc"
+      },
+      "artists": [
+        {
+          "name": "Aanya Martin",
+          "url": "https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY"
+        }
+      ],
+      "duration_ms": 284120,
+      "name": "White Doves",
+      "url": "https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Took My Heart",
-        "url": "https://open.spotify.com/album/4uhayZ7yExOD4Cq3QZ1yi8"
+        "name": "A Lot",
+        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
       },
       "artists": [
         {
-          "name": "00ab",
-          "url": "https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo"
+          "name": "0RACL3",
+          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Took My Heart",
-      "url": "https://open.spotify.com/track/2vvvuTHoXC7NssfRG2RQXI"
+      "duration_ms": 167507,
+      "name": "A Lot",
+      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
     }
   ],
   "unique_name": "the night bus",

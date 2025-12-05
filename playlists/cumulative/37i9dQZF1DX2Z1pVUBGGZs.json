@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries, featuring Just For Fun \ud83c\udf39",
+  "description": "a playlist without boundaries, featuring AmiiFy \ud83c\udf3c",
   "name": "Our Generation",
   "tracks": [
     {
@@ -9161,6 +9161,28 @@
     },
     {
       "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/3X6Ef05LmeZcewtqZ6PxNM"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        },
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171961,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3NmT8Lem5MY63PEUf3iDKj"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/1JAD1lnNb3shHDqzMQpljy"
       },
@@ -10770,7 +10792,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 153802,
       "name": "Sleeping Away My Prime",
       "url": "https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn"
@@ -10854,6 +10876,24 @@
       "duration_ms": 188870,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
+    },
+    {
+      "album": {
+        "name": "Smoking With Your Best Friend",
+        "url": "https://open.spotify.com/album/08sTrvYkaMClsRS1qYwdDS"
+      },
+      "artists": [
+        {
+          "name": "AmiiFy",
+          "url": "https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "Smoking With Your Best Friend",
+      "url": "https://open.spotify.com/track/5mEGyGaEIb6miGVSDTSrfb"
     },
     {
       "album": {
@@ -13142,7 +13182,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 184133,
       "name": "Walk All Over You",
       "url": "https://open.spotify.com/track/1RsBQ3yupjXE6dTbP8gPbl"

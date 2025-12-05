@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica per un autunno non proprio felice (Naska in cover)",
+  "description": "musica per un inverno non proprio felice (chiello in cover)",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -2580,6 +2580,24 @@
       "duration_ms": 154960,
       "name": "Ascolta",
       "url": "https://open.spotify.com/track/2tX4EAq6MsQcncVfrNE1EP"
+    },
+    {
+      "album": {
+        "name": "astronave",
+        "url": "https://open.spotify.com/album/236U5NpxOiUVPHAaZv6EF8"
+      },
+      "artists": [
+        {
+          "name": "OTTOBRE",
+          "url": "https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231785,
+      "name": "astronave",
+      "url": "https://open.spotify.com/track/5ESGP5FwMJnsZYfyEtuVYB"
     },
     {
       "album": {
@@ -5191,6 +5209,46 @@
     },
     {
       "album": {
+        "name": "Cielo Grigio (feat. Plant)",
+        "url": "https://open.spotify.com/album/5WkyxI4cph8ReVE8NNkaZH"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Plant",
+          "url": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "Cielo Grigio (feat. Plant)",
+      "url": "https://open.spotify.com/track/4JRAxjoqcBLtmi5qiMxsdQ"
+    },
+    {
+      "album": {
+        "name": "Cura Per Le Anime Spezzate",
+        "url": "https://open.spotify.com/album/08BU4nKcsKzmivUyQxYazP"
+      },
+      "artists": [
+        {
+          "name": "DelCapo",
+          "url": "https://open.spotify.com/artist/4zzKTiRX6jxpItedTFCliy"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209217,
+      "name": "Cimitero",
+      "url": "https://open.spotify.com/track/0kOLQhIoj0FMLFKd58Xgg5"
+    },
+    {
+      "album": {
         "name": "cineblog01",
         "url": "https://open.spotify.com/album/24vhim1cU42AC6Kmm9dQXj"
       },
@@ -6368,7 +6426,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 207428,
       "name": "Crisalide",
       "url": "https://open.spotify.com/track/34ZMOxkn8cc1Z7hFnEgoTo"
@@ -10665,6 +10723,24 @@
     },
     {
       "album": {
+        "name": "FRedDo CiNIcO",
+        "url": "https://open.spotify.com/album/7oWvaYDIzc4ZfmGKinKHrK"
+      },
+      "artists": [
+        {
+          "name": "FANTASMA DI ME",
+          "url": "https://open.spotify.com/artist/3nnxeSXklp4PjXcjxfxe5l"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207830,
+      "name": "FRedDo CiNIcO",
+      "url": "https://open.spotify.com/track/2BE3WlW9IK0foSVLnBM5ub"
+    },
+    {
+      "album": {
         "name": "Fried Rice",
         "url": "https://open.spotify.com/album/4i1Tx8xN9dlwNmMaa8KLPj"
       },
@@ -13350,7 +13426,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 231937,
       "name": "industria figlia",
       "url": "https://open.spotify.com/track/4cKbfeCLnzQX6MVEp1ca9w"
@@ -16019,6 +16095,24 @@
     },
     {
       "album": {
+        "name": "Lupo",
+        "url": "https://open.spotify.com/album/0ePE6lDiP6xKXGlZBGvzwR"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Lupo",
+      "url": "https://open.spotify.com/track/6Xor8h6MTmxcpt99DgR3bl"
+    },
+    {
+      "album": {
         "name": "l\u2019ultimo fiato",
         "url": "https://open.spotify.com/album/72iiKFqxuYUONBjAh9pupv"
       },
@@ -17460,7 +17554,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 173333,
       "name": "morsi",
       "url": "https://open.spotify.com/track/69iXs4uerCkXNVitNBDiT1"
@@ -19046,6 +19140,24 @@
       "duration_ms": 178061,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3N4XsYIpsw9yXEZjOATeFM"
+    },
+    {
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/5YPEPtEBuSjupH2kdToiVO"
+      },
+      "artists": [
+        {
+          "name": "Jaga",
+          "url": "https://open.spotify.com/artist/7AAFYgSxErhteV58nPph6R"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/38Rgj4ULtT6L6mUd86J5XO"
     },
     {
       "album": {
@@ -27287,7 +27399,7 @@
     },
     {
       "album": {
-        "name": "Tagliocomevoglioquestecazzodichitarre",
+        "name": "TAGLIOCOMEVOGLIOQUESTECAZZODICHITARRE",
         "url": "https://open.spotify.com/album/79mpBsLld0s38Nu9gYu0EG"
       },
       "artists": [
@@ -27300,7 +27412,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 108883,
-      "name": "Tagliocomevoglioquestecazzodichitarre",
+      "name": "TAGLIOCOMEVOGLIOQUESTECAZZODICHITARRE",
       "url": "https://open.spotify.com/track/3nP3HjbhaDkDBoABuWxASf"
     },
     {
@@ -27392,7 +27504,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 172760,
       "name": "Te l'avevo detto",
       "url": "https://open.spotify.com/track/0ZUPm1XuImtDZmw2NvoC9L"
@@ -28377,6 +28489,28 @@
     },
     {
       "album": {
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/3qUuPrWf5NjWR29GdcpJnt"
+      },
+      "artists": [
+        {
+          "name": "WEL",
+          "url": "https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v"
+        },
+        {
+          "name": "Why Everyone Left",
+          "url": "https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160083,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/2VFEjS42V3FvfLaBTDWKKP"
+    },
+    {
+      "album": {
         "name": "La mia stanza (Deluxe)",
         "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
       },
@@ -28744,7 +28878,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 190628,
       "name": "Tutto finisce",
       "url": "https://open.spotify.com/track/5rQkXMZCldrhaJxtVRalAh"
@@ -29232,7 +29366,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 169668,
       "name": "UN GRIDO SOTT'ACQUA",
       "url": "https://open.spotify.com/track/2iXq7cQ2NOUBhq19rYDHRK"
@@ -29938,7 +30072,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 128988,
       "name": "VERTIGINI",
       "url": "https://open.spotify.com/track/6So3lKx8scVF8ZHgrS7MPj"

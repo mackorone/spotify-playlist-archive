@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 
 > Introducing the hottest classical music of 2025🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,637 likes - 177 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,918 likes - 177 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 | 176 | [Violin Concerto BWV 1042 in E Major: Violin Concerto BWV 1042 in E Major: I\. Allegro](https://open.spotify.com/track/3nxaPqAOxUxkLhIhbvmv4t) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Freiburger Barockorchester](https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai), [Gottfried Von Der Goltz](https://open.spotify.com/artist/4Jq1SP0L2atkSMv5wNOU66) | [Bach: Violin Concertos](https://open.spotify.com/album/3S6qaM2ijmVtz68R6QMlPs) | 7:33 |
 | 177 | [Hungarian Dance No\. 5 in G Minor, WoO 1](https://open.spotify.com/track/4quC8GgYCGt7umJpINBkCf) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Czech Symphony Orchestra](https://open.spotify.com/artist/6dBBpd1zW3iywDqNt0UVOk), [Michaela Rózsa Růžičková](https://open.spotify.com/artist/4aJLdYVDr0f2IZzUvvYjW4) | [Hungarian Dance No\. 5 in G Minor, WoO 1](https://open.spotify.com/album/7nPUgaShBV3BBA2gAxlYMw) | 3:03 |
 
-Snapshot ID: `AAAAAJyHtpqjYir/2gV25G/wMaucF+SQ`
+Snapshot ID: `AAAAAJtR0KVGgp1M8yYYfjkix/XifSe9`

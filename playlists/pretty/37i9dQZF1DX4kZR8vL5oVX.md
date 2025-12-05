@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,057 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,068 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 21 | [PATRONNE](https://open.spotify.com/track/1uqD8JUp0YGMvq8WxzEBfn) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [PATRONNE](https://open.spotify.com/album/3JQAZwkShZeDz59VWrrw8Y) | 2:46 |
 | 22 | [Paparazzi](https://open.spotify.com/track/45oOc9i3JNWCAWEAUZ53g9) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [La Dame](https://open.spotify.com/album/1XmeiDJ7WhLJhhKHSMBAH5) | 2:45 |
 | 23 | [Cinq minutes pile](https://open.spotify.com/track/3sK1QpuwOUoHZ0cS2kg2e4) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Re;;;Virer nos vies](https://open.spotify.com/album/5PV9cPrGuGEFMZkdydxVP8) | 2:41 |
-| 24 | [Amnésie](https://open.spotify.com/track/5H274lItLc0KSM4JvsqoBi) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Amnésie](https://open.spotify.com/album/1Bpq09iisUkqIugjY6PLLP) | 3:31 |
+| 24 | [J'aime la vie](https://open.spotify.com/track/4TnLb2oo7Yvl9cLOArHGJW) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [](https://open.spotify.com/album/null) | 3:45 |
 | 25 | [Multicolor](https://open.spotify.com/track/5OWI9J06tPRpg1IpEBKy98) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Multicolor](https://open.spotify.com/album/2Ww9xmOzbhV8JeA9RirgXT) | 2:58 |
 | 26 | [IL L'A DIT.](https://open.spotify.com/track/12CfmXuv8BQklxaRsgVfFa) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [IL L'A DIT.](https://open.spotify.com/album/295cnEMEY4UNgVQvLgFtz2) | 3:27 |
 | 27 | [LECHOIX](https://open.spotify.com/track/49p3bg5Djy5Znzf8LuiSJk) | [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [LECHOIX](https://open.spotify.com/album/0a4G89bmaoVLyHNNQTCIpv) | 3:50 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 40 | [Baratin](https://open.spotify.com/track/0h6g68cbe1G5E4acldFj4l) | [Aïshé](https://open.spotify.com/artist/0d332SkvomPxlORvEKIrBo) | [Baratin](https://open.spotify.com/album/0ltbj3HWntrupqtGwObdae) | 2:51 |
 | 41 | [Lumière](https://open.spotify.com/track/6mvTCFeBuH2bXk4zulYmfj) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Lumière](https://open.spotify.com/album/5mM3Ote0tfxsDy4GjlneHq) | 3:01 |
 | 42 | [La vie d'adulte](https://open.spotify.com/track/66T50cTiM4S2ZWjmShqFtR) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [La vie d'adulte](https://open.spotify.com/album/5Jdaaeg0l1beLCMMIiXWhv) | 3:19 |
-| 43 | [Ma génération](https://open.spotify.com/track/03LiGSAkhvwbLalXIHlyu0) | [Illustre](https://open.spotify.com/artist/3zWDZmpcKFgq64NUbXlNEy) | [Ma génération](https://open.spotify.com/album/7ddonuzRgTYCZps8fdYo9K) | 3:40 |
+| 43 | [Histoire de vie](https://open.spotify.com/track/2J9YsIz5e2isHECguiQBdq) | [Illustre](https://open.spotify.com/artist/3zWDZmpcKFgq64NUbXlNEy) | [Ceci n'est pas une vague.](https://open.spotify.com/album/05ETUp38xfAaZcK5te2lT4) | 4:00 |
 | 44 | [summer1](https://open.spotify.com/track/0rJtuVlhDkwgyddZpkChKe) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [summer1](https://open.spotify.com/album/7G7sc7S8H489o4Mth2Rzdw) | 2:28 |
 | 45 | [Peine de cœur](https://open.spotify.com/track/3m5i0c3EYeDy3X4K07ZxG9) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Peine de cœur](https://open.spotify.com/album/4uBkPFsUo3jgpH9lmBwner) | 1:57 |
 | 46 | [NO STRESS](https://open.spotify.com/track/6XfYPlcJGR48xgye2kSOmw) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [NO STRESS](https://open.spotify.com/album/1Zgq9rZDRCkWZX9JZq98BJ) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Ce que tu me fais](https://open.spotify.com/track/0ZiJe4BToIugXNAWqDyYBP) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Ce que tu me fais](https://open.spotify.com/album/2yL3QxmcGIdKXqZEGcj2tl) | 2:18 |
 | 50 | [BAD MOOD..\. 不爽](https://open.spotify.com/track/75YtxP66kQ3KgDGkDtTqNJ) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [BAD MOOD..\. 不爽](https://open.spotify.com/album/0SoFSs8bJ4lcjZ0lVr7FX2) | 2:58 |
 
-Snapshot ID: `AAAAALwwmQwUbRCCrt3ru9eyHlBSdUGz`
+Snapshot ID: `AAAAAMkVSpkTStqzD0RCyyT5B8WzZHmy`

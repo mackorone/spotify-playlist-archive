@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Murta",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o",
   "name": "Seda",
   "tracks": [
     {
@@ -1078,6 +1078,24 @@
       "duration_ms": 156280,
       "name": "Antes e Depois",
       "url": "https://open.spotify.com/track/1DM05DVGVhtQVgrlOXgO8V"
+    },
+    {
+      "album": {
+        "name": "Antigamente",
+        "url": "https://open.spotify.com/album/67C3Jbhb6j21kCAYF6Fmgx"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Antigamente",
+      "url": "https://open.spotify.com/track/0nzxggtFw6r1Irsxrs99bO"
     },
     {
       "album": {
@@ -5214,7 +5232,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 186146,
       "name": "EYES NEVER LIE",
       "url": "https://open.spotify.com/track/4t1wuqoPdoaDMd9gZNJt01"
@@ -6140,6 +6158,32 @@
       "duration_ms": 170013,
       "name": "FORA",
       "url": "https://open.spotify.com/track/3bFmGUEfyQ0SfutenxwTer"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        },
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Fora do Normal (feat. Nenny & Chelsea Dinorath)",
+      "url": "https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU"
     },
     {
       "album": {
@@ -7172,7 +7216,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 194000,
       "name": "Inimigos",
       "url": "https://open.spotify.com/track/5gS76MFf3uUdoz6x4RTpT4"

@@ -4,10 +4,11 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-199 songs - 11 hr 6 min
+206 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#swaggedout](https://open.spotify.com/track/4ZEZhAKusdv0GxV1Fz8pMD) | [zune](https://open.spotify.com/artist/2wgR2adhW6drxUphtvmX1y), [ElWhy](https://open.spotify.com/artist/4ipQYeYS9VZUP9jvgxfxyP) | [\#swaggedout](https://open.spotify.com/album/08OK1qBqhC0ZZk3msSlGZL) | 2:04 | 2025-12-04 |  |
 | [\(Can I?\) Love myself](https://open.spotify.com/track/6bvXoNZVVMQTsWUTelbS8J) | [Xada](https://open.spotify.com/artist/5diCtzsJj7orehU5EMytKj) | [\(Can I?\) Love myself](https://open.spotify.com/album/2XRRVlWacz4t6AS5SBKn5g) | 3:41 | 2025-11-01 | 2025-12-01 |
 | [2 0 4 5](https://open.spotify.com/track/3mS5wAqw8WxYGw4Hdc0hag) | [Wyatt Leach](https://open.spotify.com/artist/6Rl58oDVByLhttQgFkTTW1) | [2 0 4 5](https://open.spotify.com/album/1NXZMjp4olFbvITfoegqea) | 2:21 | 2025-11-30 |  |
 | [A mani vuote](https://open.spotify.com/track/7GbUksy2hbn9Y4in8VU8rN) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [A mani vuote](https://open.spotify.com/album/5KOYdCWPstaraOwRpsK2xK) | 3:12 | 2025-11-22 |  |
@@ -32,6 +33,8 @@
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-11-08 | 2025-12-01 |
 | [Beautiful Girl](https://open.spotify.com/track/0GAPwPYqnrNZSHQLVkvSJd) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg) | [Beautiful Girl](https://open.spotify.com/album/5IVREI1bhPqSeTug9WM9k9) | 3:00 | 2025-11-01 | 2025-12-01 |
 | [Bet that](https://open.spotify.com/track/18qtR7u4LsdxpE5klxjSDk) | [Kolé](https://open.spotify.com/artist/5VDjK8aCkf2lBzHEolVdsd) | [Bet that](https://open.spotify.com/album/56z9uaeTezKa2eK4gnMUxW) | 1:45 | 2025-11-13 |  |
+| [Black Butterfly](https://open.spotify.com/track/1ayzm5eskvnKXY9aqL927Y) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Black Butterfly](https://open.spotify.com/album/0t79bLTGTN3IjGFmusISln) | 2:22 | 2025-12-04 |  |
+| [Blue Pill](https://open.spotify.com/track/0ipO5eSuRjb8jWRuKHk2La) | [PAOLA](https://open.spotify.com/artist/2sk7Ti4LsPXdgjRWJ5k6Ny) | [Blue Pill](https://open.spotify.com/album/3mIVDAuuN0hAZOSDLWnbHx) | 2:50 | 2025-12-04 |  |
 | [Break These Chains](https://open.spotify.com/track/3axpdtLJYG1k7lIXCTBWzK) | [Mícheál Hillen](https://open.spotify.com/artist/7fMUnhujgqoUxpLolw4uhG) | [Break These Chains](https://open.spotify.com/album/1ardTUvHlmUNtTOgApTwog) | 2:59 | 2025-11-05 | 2025-12-01 |
 | [Brian and Old Tom](https://open.spotify.com/track/7yyrFEH3eQQK2pL4ynhsge) | [MORRS](https://open.spotify.com/artist/62gqmfoVxMEKTdB426eb4I) | [Brian and Old Tom](https://open.spotify.com/album/1Mcn2OsWWMIvtAdlxNOStf) | 3:57 | 2025-11-17 |  |
 | [business](https://open.spotify.com/track/7GzQsc9DxAnoKr5rSeqJoj) | [Jee Well](https://open.spotify.com/artist/0C6N0y19PZxXkjJgMwAlG2) | [business](https://open.spotify.com/album/5cEvNlLn6x8YkzePWRPv4B) | 3:22 | 2025-11-13 |  |
@@ -153,6 +156,7 @@
 | [Sally Feels Bad](https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Sally Feels Bad](https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa) | 3:01 | 2025-11-30 |  |
 | [Say](https://open.spotify.com/track/3riDQLqEBfI8VdOHoqqiV8) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Recognize](https://open.spotify.com/album/10lOKU6lpAZ6up58TCYNsR) | 4:00 | 2025-11-11 | 2025-12-01 |
 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 | 2025-11-11 | 2025-12-01 |
+| [Share the Time](https://open.spotify.com/track/4ki7evOfn3UGZrAJWB6mQ1) | [Telmar Basement](https://open.spotify.com/artist/5Ciapx4vtgLVF7JFCrJwxG) | [Refreezer](https://open.spotify.com/album/5Ai7nAjTEBZyglBLmCuhj5) | 2:57 | 2025-12-04 |  |
 | [Sin aire](https://open.spotify.com/track/5cOfPn6Krz3MKoBiOKDtJV) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Sin aire](https://open.spotify.com/album/51FfR6nXySt8MN06vr84bh) | 2:37 | 2025-11-05 | 2025-12-01 |
 | [Skydance](https://open.spotify.com/track/15zR06FbjuduwqCaFYs4gw) | [DeLee](https://open.spotify.com/artist/03QtwFNNguDpdprkrCZuz0) | [Skydance](https://open.spotify.com/album/0QuAlKoAMPIogPdcITmRXB) | 2:52 | 2025-11-02 | 2025-12-01 |
 | [Slam Dunk](https://open.spotify.com/track/0asprWWnSSVaYhWvmRKDgb) | [Aishe](https://open.spotify.com/artist/6lXZYPpYrkt4jbBawRJ6qA) | [Slam Dunk](https://open.spotify.com/album/6IMcApH01rfqNtTdvWEoN6) | 2:03 | 2025-11-17 |  |
@@ -168,6 +172,7 @@
 | [Sunburned In Scotland](https://open.spotify.com/track/2gVum3evW4JCKUUh7udCvd) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Sunburned In Scotland](https://open.spotify.com/album/54I0EcPsLP0o51GZpHYeTQ) | 2:53 | 2025-11-03 | 2025-12-01 |
 | [Superstar](https://open.spotify.com/track/7KeNKunMRtD0kLDr0NpjDg) | [Valarie Hill](https://open.spotify.com/artist/5rPY7Ifiv1oaetOtv3vjid) | [Superstar](https://open.spotify.com/album/2gDQ8TbmYKJSnERvC8BMx0) | 2:30 | 2025-11-01 | 2025-12-01 |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-01 |
+| [Tears](https://open.spotify.com/track/19ky0ma1R4uoD4Pr5qDZXM) | [Swink](https://open.spotify.com/artist/17UK86hbSdJ53N6jEHOLIB) | [Tears](https://open.spotify.com/album/0Y9gc7GLoIyCQBSEErfSxF) | 3:56 | 2025-12-04 |  |
 | [That Girl](https://open.spotify.com/track/0ckv5piv2C88O9zejIsY4V) | [Kunnel Dtag](https://open.spotify.com/artist/0HXuhB5PCSq1LE1ZIZIA2k), [Swaggboss](https://open.spotify.com/artist/5lCK0L28sGSnogU6t1Y6KG) | [That Girl](https://open.spotify.com/album/1ZVgF25vYEIAn9jA1C3rIQ) | 3:29 | 2025-11-01 | 2025-12-01 |
 | [The Best](https://open.spotify.com/track/3h4AGD1ov5A3MQvm6Yq9eQ) | [Abanny](https://open.spotify.com/artist/4i9kor3ZKQGq6B1GIhclrx) | [The Best](https://open.spotify.com/album/7v5en12K7q4GaJYFzWxHHH) | 2:28 | 2025-11-10 | 2025-12-01 |
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-11-30 |  |
@@ -194,6 +199,7 @@
 | [Vals de Muertos](https://open.spotify.com/track/0fbYJDN2AphsRkF9rosfjW) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [Vals de Muertos](https://open.spotify.com/album/0XlaajVRABYgWwkTVlLCTd) | 3:45 | 2025-11-03 | 2025-12-01 |
 | [VAMOS!](https://open.spotify.com/track/4HPh05Go7vxyYpqQb3xLs1) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X), [Wszołek](https://open.spotify.com/artist/5EGOQRzEzTxqczyOwRIhKm) | [VAMOS!](https://open.spotify.com/album/0aHzsFNtkvrltOfK1ed20g) | 1:49 | 2025-11-10 | 2025-12-01 |
 | [Volver a Brillar](https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Volver a Brillar](https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN) | 4:51 | 2025-11-16 |  |
+| [Waste Your Life Away](https://open.spotify.com/track/3eabOltffS3CrKuJ0lSkL5) | [No Consent](https://open.spotify.com/artist/7jg6RKGiaiKYF7QJ3bigxW) | [Waste Your Life Away](https://open.spotify.com/album/61RNd1AYukexfLY2M9PgT6) | 2:56 | 2025-12-04 |  |
 | [What I Need](https://open.spotify.com/track/1grZNRqYvC7DAfgrgZI0sP) | [Shwah](https://open.spotify.com/artist/3tKCUuSFC6w2dMOdxWDOVQ) | [What I Need](https://open.spotify.com/album/0AkgS5mr0RnX863tboGE1e) | 3:16 | 2025-11-17 |  |
 | [Where Love Became a Ghost](https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Where Love Became a Ghost](https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP) | 4:31 | 2025-12-03 |  |
 | [WHO WANIT](https://open.spotify.com/track/1ZuOFw34Hc2F4Y5ZHyWicC) | [Nine25](https://open.spotify.com/artist/086QvHRXKmteZ1yHzqXhCZ) | [WHO WANIT](https://open.spotify.com/album/2rqEMvPa7Hfud194Iehqt6) | 2:37 | 2025-11-17 |  |
@@ -205,6 +211,7 @@
 | [Y2KBABY](https://open.spotify.com/track/7bS1ITQT3u1KZtPLfBZFls) | [Young Scorcher](https://open.spotify.com/artist/68GhZVQrGi3cjHwDfas3IX) | [Y2KBABY](https://open.spotify.com/album/7dLJQj3yZQGHL5ujjpSalx) | 2:14 | 2025-11-17 |  |
 | [You Got the Feeling](https://open.spotify.com/track/4k6zhS7VG4AadaoJHpcb3k) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Evolution of Love](https://open.spotify.com/album/3lal0yLRsw3QQ1PiuqN3aL) | 4:13 | 2025-11-24 |  |
 | [You Never Died](https://open.spotify.com/track/3JBFbPQRqufCifcueo0BeG) | [Boneyard Lily](https://open.spotify.com/artist/4X258WlI0oC78zl7HC2jMn) | [You Never Died](https://open.spotify.com/album/57brjzlWROvtNLEMsNNnem) | 3:38 | 2025-11-11 | 2025-12-01 |
+| [young frankenstein](https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8) | [open](https://open.spotify.com/artist/0BGu5l3ttSeSQq7yhqBTjB) | [young frankenstein](https://open.spotify.com/album/3HUqK5fRKaBOMUJGJFYPrf) | 2:59 | 2025-12-04 |  |
 | [Дилеми](https://open.spotify.com/track/0S65e6R28vFpOoZTGTlubn) | [Gosh](https://open.spotify.com/artist/4TVuWA1a4rWfnUM6UxKfE0) | [Дилеми](https://open.spotify.com/album/0S2yXqK0zKkR2MfO31L8Hk) | 2:16 | 2025-11-22 |  |
 | [Женщина](https://open.spotify.com/track/6nMGOXJqekVgIfJWUjyMQt) | [Эрик Шарипов](https://open.spotify.com/artist/4wZEqo5Khk8Dmam8PLe5xq) | [Женщина](https://open.spotify.com/album/1EauWCGwFOiE58e8Gq6Efp) | 3:04 | 2025-11-11 | 2025-12-01 |
 

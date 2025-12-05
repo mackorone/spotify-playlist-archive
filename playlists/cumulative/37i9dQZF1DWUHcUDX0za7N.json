@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Zaylevelten",
+  "description": "Hip hop and rap music from Nigeria. Cover: TML Vibes",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -4912,7 +4912,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 168648,
       "name": "Folasade",
       "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
@@ -9948,6 +9948,32 @@
       "duration_ms": 185115,
       "name": "Otedola",
       "url": "https://open.spotify.com/track/0RTNc1RQqIviHjZIqcZmsm"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Efosa",
+          "url": "https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226174,
+      "name": "OTS",
+      "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
     },
     {
       "album": {

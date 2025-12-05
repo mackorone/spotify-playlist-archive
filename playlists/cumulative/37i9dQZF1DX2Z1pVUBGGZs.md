@@ -2,9 +2,9 @@
 
 ### [Our Generation](https://open.spotify.com/playlist/37i9dQZF1DX2Z1pVUBGGZs)
 
-> a playlist without boundaries, featuring Just For Fun 🌹
+> a playlist without boundaries, featuring AmiiFy 🌼
 
-761 songs - 1 day 14 hr 29 min
+763 songs - 1 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [oyster](https://open.spotify.com/track/1oK8MgS9QKWFLC8VpZ15UB) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [oyster](https://open.spotify.com/album/6pfeou37tIaZ3cBjomd0cb) | 3:00 | 2025-03-28 | 2025-05-09 |
 | [Panic!](https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Panic!](https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ) | 2:45 | 2024-10-10 | 2025-01-17 |
 | [paper doll](https://open.spotify.com/track/6bNg1NJzBC8HErlyiCJCYV) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [paper doll](https://open.spotify.com/album/10F8JH1StBCcOea8iSJwhS) | 3:15 | 2025-05-29 | 2025-07-04 |
+| [Paranoia](https://open.spotify.com/track/3NmT8Lem5MY63PEUf3iDKj) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [Paranoia](https://open.spotify.com/album/3X6Ef05LmeZcewtqZ6PxNM) | 2:51 | 2025-12-05 |  |
 | [Paris](https://open.spotify.com/track/07Ub5Xr2d5UjKAKJXNMP52) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Paris](https://open.spotify.com/album/1JAD1lnNb3shHDqzMQpljy) | 2:22 | 2025-11-28 |  |
 | [Paris](https://open.spotify.com/track/0DQ1ufVX26xAlUv9wu70sO) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx), [Zander](https://open.spotify.com/artist/61w5YWu30HuH0qRSsCdJ54) | [Paris](https://open.spotify.com/album/049mrMrFaAmuZfZpUReoTP) | 4:03 | 2025-10-31 |  |
 | [PE3](https://open.spotify.com/track/4Zk6SD3tUXJ8ShYmvrA9ne) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [PE3](https://open.spotify.com/album/3uBk7P0msuy6PNVzrjOfRb) | 3:08 | 2024-09-05 | 2024-11-01 |
@@ -591,11 +592,12 @@
 | [Skeletons](https://open.spotify.com/track/4BqgUcV7mhUwLbO18JQrqW) | [3lijah](https://open.spotify.com/artist/0kDEuNVNp2RC9VUThcATI1) | [Skeletons](https://open.spotify.com/album/3H2EzKT4dEZmfNcRKnVAV1) | 2:41 | 2025-08-07 | 2025-10-03 |
 | [slack](https://open.spotify.com/track/7EfA4kiIZJebf3fIHiO0Ge) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [slack / she's all that i need](https://open.spotify.com/album/6ZAEBW95fQsflooTxmkLmY) | 2:40 | 2025-05-15 | 2025-07-18 |
 | [Sleep Sand](https://open.spotify.com/track/05r5lM3VJryT5CDbixrdP8) | [Ellen Sara](https://open.spotify.com/artist/3hnGJC7h6OAHMOiOt805oN) | [Sleep Sand](https://open.spotify.com/album/29q4mFloO25STFp0fMvKbB) | 3:56 | 2025-08-14 | 2025-09-26 |
-| [Sleeping Away My Prime](https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Sleeping Away My Prime](https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK) | 2:33 | 2025-10-16 |  |
+| [Sleeping Away My Prime](https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Sleeping Away My Prime](https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK) | 2:33 | 2025-10-16 | 2025-12-05 |
 | [Sleepless](https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec), [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 4:13 | 2024-10-17 | 2025-02-21 |
 | [Sleepwalking](https://open.spotify.com/track/11Qe0MH9WwFiaQZ8dtBBdS) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Sleepwalking](https://open.spotify.com/album/0CK8pqt7olvBoIyCUKQ9sH) | 3:34 | 2024-08-08 | 2024-10-04 |
 | [Slow](https://open.spotify.com/track/5fNbVMnWVg75szSuIGNlEF) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Slow](https://open.spotify.com/album/5rYfSiqpX9Xod683VeAnMx) | 2:45 | 2024-11-01 | 2024-11-22 |
 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 | 2025-09-11 |  |
+| [Smoking With Your Best Friend](https://open.spotify.com/track/5mEGyGaEIb6miGVSDTSrfb) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [Smoking With Your Best Friend](https://open.spotify.com/album/08sTrvYkaMClsRS1qYwdDS) | 2:52 | 2025-12-05 |  |
 | [SNATCH](https://open.spotify.com/track/7LK7M9Be9tlv7HXrKiq8eA) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [SNATCH](https://open.spotify.com/album/2Hl7jM5QWJnu7383I67YmV) | 3:01 | 2025-02-21 | 2025-05-16 |
 | [Snow White](https://open.spotify.com/track/45mmAFhB2L79faaul6n8If) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/0fPlfyidFYMTYn14faHYl9) | 3:13 | 2025-08-07 | 2025-09-05 |
 | [Snug as a Bug](https://open.spotify.com/track/3xSw2RvLeI4nh9NGDIUIUh) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [Snug as a Bug](https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn) | 2:59 | 2025-01-31 | 2025-05-09 |
@@ -719,7 +721,7 @@
 | [violence'66](https://open.spotify.com/track/4hn32lVKaO7sL631XTQbv9) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [violence'66](https://open.spotify.com/album/5Wr1AmrdioU5kwjdBY64ld) | 3:01 | 2024-06-27 | 2024-07-19 |
 | [Vows](https://open.spotify.com/track/5nohCawT6TUJ0Nl3kqCaFj) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X), [Ezra Skys](https://open.spotify.com/artist/2Ay5ctNDFzQQz4fWV3DGMT) | [Vows](https://open.spotify.com/album/23wr2De8ynNEpUTWjLXyQZ) | 3:11 | 2025-10-02 | 2025-11-21 |
 | [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 | 2024-06-27 | 2024-07-19 |
-| [Walk All Over You](https://open.spotify.com/track/1RsBQ3yupjXE6dTbP8gPbl) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 3:04 | 2025-09-25 |  |
+| [Walk All Over You](https://open.spotify.com/track/1RsBQ3yupjXE6dTbP8gPbl) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 3:04 | 2025-09-25 | 2025-12-05 |
 | [Wannabe](https://open.spotify.com/track/5spRRlyU71WlxkwRX0q8fC) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Wannabe](https://open.spotify.com/album/67DYnzxx4D2I1PbIjGR7Tz) | 2:59 | 2025-05-15 | 2025-10-31 |
 | [Watchin' U](https://open.spotify.com/track/6fGSaSn3veQ0wNU8Q8cKhU) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Watchin' U](https://open.spotify.com/album/2q5RS4MQHN27EUUnfw6a32) | 3:02 | 2025-05-22 | 2025-07-04 |
 | [We Don't Need to Do Forever](https://open.spotify.com/track/3h0M8iNNIJBe7IOWCRf5Nd) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [daydreamers](https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG) | 2:36 | 2024-11-15 | 2024-11-29 |

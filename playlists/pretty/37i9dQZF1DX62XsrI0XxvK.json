@@ -1,13 +1,49 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Jordan Susanto",
-  "num_followers": 13637,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Naomi Ivo",
+  "num_followers": 13642,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOl9pVcOu3yaE48+PISE0Q6JA4ky",
+  "snapshot_id": "AAAAALI6T6Lc4+kaodqGdQdfRQEC1QbW",
   "tracks": [
+    {
+      "added_at": "2025-12-04 20:00:25",
+      "album": {
+        "name": "Addiction (Acoustic)",
+        "url": "https://open.spotify.com/album/3t8LQCTAuhNLUtOGnUPMoz"
+      },
+      "artists": [
+        {
+          "name": "Naomi Ivo",
+          "url": "https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g"
+        }
+      ],
+      "duration_ms": 155610,
+      "name": "Addiction - Acoustic",
+      "url": "https://open.spotify.com/track/2FfiwEFWDceK0TlkpAwLIH"
+    },
+    {
+      "added_at": "2025-12-04 20:00:25",
+      "album": {
+        "name": "(NO)STALGIA",
+        "url": "https://open.spotify.com/album/5gf4SHNy7X21805le62wgA"
+      },
+      "artists": [
+        {
+          "name": "DAYFAIR",
+          "url": "https://open.spotify.com/artist/3grE5TqsfwLPsljwMAnPEl"
+        },
+        {
+          "name": "N0en",
+          "url": "https://open.spotify.com/artist/2gv3tIgZWNY7aCgha1y6cs"
+        }
+      ],
+      "duration_ms": 193465,
+      "name": "(NO)STALGIA",
+      "url": "https://open.spotify.com/track/75FuKBIZqdI5FiMFKWSUZF"
+    },
     {
       "added_at": "2025-11-27 17:30:01",
       "album": {

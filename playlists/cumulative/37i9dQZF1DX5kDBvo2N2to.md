@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-456 songs - 1 day 0 hr 14 min
+458 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Absolute Romance](https://open.spotify.com/track/4BRUTaXQsb1hWUV7tY6vei) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Absolute Romance](https://open.spotify.com/album/5dqduEZyQ0G5E6wOf9HyQM) | 3:09 | 2025-02-27 | 2025-05-16 |
 | [Affären \(feat\. Dolce\)](https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T) | [Affären \(feat\. Dolce\)](https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE) | 3:45 | 2024-08-08 | 2024-10-15 |
 | [Ain’t The Feeling](https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Ain’t The Feeling](https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf) | 2:45 | 2025-09-18 |  |
+| [airbnb](https://open.spotify.com/track/0jI4rRanywrjRGZ11kCH6A) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [airbnb](https://open.spotify.com/album/20UCFy6Ao03mynhw2oEqOo) | 2:53 | 2025-12-04 |  |
 | [Aj aj aj](https://open.spotify.com/track/58d0Vr4RlIysOjy7KLDfOd) | [Isak Friberg](https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx) | [Aj aj aj](https://open.spotify.com/album/0c0eCmaKMewlC0AsZCKeZp) | 3:40 | 2025-09-25 | 2025-10-03 |
 | [Aldrig gå](https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Aldrig gå](https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d) | 3:07 | 2025-04-11 | 2025-08-08 |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-16 | 2025-09-26 |
@@ -212,6 +213,7 @@
 | [I'm So Sorry](https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Headache](https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ) | 4:00 | 2024-11-08 | 2025-04-27 |
 | [Idioti](https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Idioti](https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe) | 3:13 | 2024-06-28 | 2025-02-22 |
 | [Igen](https://open.spotify.com/track/3RNTLflckFVMuAQq42qT1j) | [Huset](https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54), [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Igen](https://open.spotify.com/album/2OEdLFHWLWmbJd9Gvg2Ggb) | 2:08 | 2025-09-04 | 2025-09-14 |
+| [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 | 2025-12-04 |  |
 | [Ikväll måste nånting hända](https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Ikväll måste nånting hända](https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI) | 3:39 | 2025-04-03 | 2025-11-07 |
 | [Ikväll tar vi över stan](https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz) | 3:30 | 2024-11-08 | 2025-05-23 |
 | [Imagine Paradise](https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Imagine Paradise](https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b) | 3:57 | 2024-06-28 | 2024-09-22 |
@@ -276,7 +278,7 @@
 | [Lupins In Blue \- Harry Hayes Remix](https://open.spotify.com/track/33gniadkmUayASOPuTQnLb) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X), [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Lupins In Blue \(Harry Hayes Remix\)](https://open.spotify.com/album/7mI6yE9duwF1z3vlBVoiT1) | 2:57 | 2024-09-19 | 2025-03-09 |
 | [Längesen](https://open.spotify.com/track/7BkMhRsjtKNl1O38dFz9de) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Längesen](https://open.spotify.com/album/33yREDH6p24DwWopavOqVJ) | 3:11 | 2025-05-15 | 2025-08-22 |
 | [Låta Dig Gå](https://open.spotify.com/track/4d3UATZjyBqff5U6Cbs08h) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Låta Dig Gå](https://open.spotify.com/album/4aVb3fj8jMFZa8WJq3NPqh) | 3:22 | 2024-06-28 | 2024-08-09 |
-| [Madame](https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Madame](https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf) | 2:14 | 2025-09-01 |  |
+| [Madame](https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Madame](https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf) | 2:14 | 2025-09-01 | 2025-12-05 |
 | [MAJOR CONTEST](https://open.spotify.com/track/3pCWAgzVZ84h10NLQpXQay) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [MAJOR CONTEST](https://open.spotify.com/album/7unvBth5M8c46usYzfA6KP) | 3:07 | 2025-09-11 | 2025-10-17 |
 | [Maskinen är tillbaka](https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf) | [Maskinen är tillbaka](https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm) | 2:19 | 2024-06-28 | 2025-03-14 |
 | [MATTER](https://open.spotify.com/track/47QalI5Og1vXqbBblXjnir) | [NAVII](https://open.spotify.com/artist/4WzIyUXg4knXtXjuFxwW9l) | [MATTER](https://open.spotify.com/album/0BkB3Hwmw0aQ7VgVC3mI9V) | 2:45 | 2024-08-15 | 2024-09-13 |
@@ -292,7 +294,7 @@
 | [Mirrors](https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Mirrors](https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv) | 3:38 | 2024-06-28 | 2024-08-30 |
 | [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 | 2025-06-13 |  |
 | [Missing You](https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Missing You](https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW) | 2:44 | 2024-09-13 | 2025-05-09 |
-| [MISUNDERSTAND](https://open.spotify.com/track/2cGLPWT5DTBQdvjbf5Gh82) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [PURE ILLUSION](https://open.spotify.com/album/4Pd2CKdgaxt3GHa2sVqkj0) | 2:29 | 2025-11-13 |  |
+| [MISUNDERSTAND](https://open.spotify.com/track/2cGLPWT5DTBQdvjbf5Gh82) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [PURE ILLUSION](https://open.spotify.com/album/4Pd2CKdgaxt3GHa2sVqkj0) | 2:29 | 2025-11-13 | 2025-12-05 |
 | [Mitt hjärta av guld](https://open.spotify.com/track/7Ma4xWMBilJP90yLC5H3ZY) | [Lia Lindstén](https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM) | [Mitt hjärta av guld](https://open.spotify.com/album/0q9XvbSVVLkA8F14Oqaz0i) | 2:50 | 2025-06-05 |  |
 | [Mjukt ljus](https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Mjukt ljus](https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe) | 2:40 | 2025-09-18 |  |
 | [Moln & Sommarregn](https://open.spotify.com/track/18q6GQAd9VK6IRzz6xofKN) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW) | [Moln & Sommarregn](https://open.spotify.com/album/67TZQ41vEtrLZbxWzzG9vT) | 3:07 | 2025-05-01 | 2025-10-17 |

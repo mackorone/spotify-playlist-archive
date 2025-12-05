@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: T.I Blaze",
+  "description": "From the trenches. Through the streets.\nCover: Shallipopi",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -276,6 +276,28 @@
       "duration_ms": 154357,
       "name": "Advice Me",
       "url": "https://open.spotify.com/track/445ySymTQJEJ27mCnQXiqh"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Afa Relax Oo (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/4MMVmyb2AsdDjXkytVrqwJ"
     },
     {
       "album": {
@@ -1461,6 +1483,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/7A07lS4vDCUUvuHzorS1ZW"
+    },
+    {
+      "album": {
         "name": "Cana",
         "url": "https://open.spotify.com/album/5s4ar9DdtC49mMO7nkOpDi"
       },
@@ -2036,7 +2080,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 158023,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/7eOLTVEwZIbtXudBAyYc66"
@@ -3046,7 +3090,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 195997,
       "name": "Fuji Fusion",
       "url": "https://open.spotify.com/track/5KenjWAk3sGXR2yMThHGFZ"
@@ -3130,6 +3174,24 @@
       "duration_ms": 134559,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
+    },
+    {
+      "album": {
+        "name": "Gbadun",
+        "url": "https://open.spotify.com/album/2ahvpjZlukIsYBGbyxbONo"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134237,
+      "name": "Gbadun",
+      "url": "https://open.spotify.com/track/5UAccC7HziB1MxaXpte7h8"
     },
     {
       "album": {
@@ -3676,7 +3738,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"

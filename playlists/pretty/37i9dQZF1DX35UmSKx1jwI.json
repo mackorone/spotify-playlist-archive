@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 141484,
+  "num_followers": 141492,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1RhSZpacB3qtqujj4hgMeI"
+      },
+      "artists": [
+        {
+          "name": "TiMO ODV",
+          "url": "https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt"
+        }
+      ],
+      "duration_ms": 203220,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/5uwCM3ggK3z2hV71R2gODy"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
         "name": "Hey Baby (feat. Gia Koka)",
         "url": "https://open.spotify.com/album/0wMS7Uv7zvR9e7xCTqo39u"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 177545,
       "name": "Hey Baby (feat. Gia Koka)",
       "url": "https://open.spotify.com/track/3bNIlJBpwgwFNnFuSjH6Uh"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/1RhSZpacB3qtqujj4hgMeI"
-      },
-      "artists": [
-        {
-          "name": "TiMO ODV",
-          "url": "https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt"
-        }
-      ],
-      "duration_ms": 203220,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/5uwCM3ggK3z2hV71R2gODy"
     },
     {
       "added_at": "2024-07-24 13:57:08",

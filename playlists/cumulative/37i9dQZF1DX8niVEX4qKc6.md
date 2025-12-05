@@ -4,7 +4,7 @@
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Franco Masciarelli y Sofia Macchi.
 
-216 songs - 12 hr 37 min
+217 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Como vos \- En vivo](https://open.spotify.com/track/2On90QefesETPtJw7LePV2) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ), [Vitali Sessions](https://open.spotify.com/artist/0qygzhCoNDqxeoer3H2M4Y) | [Vitali Sessions \#3 \(En vivo\)](https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1) | 3:18 | 2023-08-18 | 2024-04-07 |
 | [Compañera](https://open.spotify.com/track/6rJpF9GjPCKYBoT0uZ4Z8h) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Compañera](https://open.spotify.com/album/3vT85abmiDXT1fiaCFUJPQ) | 3:37 | 2025-03-28 | 2025-08-06 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ACOUSTIC SESSION](https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7) | 2:41 | 2023-12-23 | 2024-08-24 |
+| [Crece \(Acústico\)](https://open.spotify.com/track/5kPdxVvjwCkDR27btIkzMp) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [Crece](https://open.spotify.com/album/4DiTaC9GBxuSWzuywZVP9x) | 3:40 | 2025-11-25 |  |
 | [Cuando me miras \- En Vivo](https://open.spotify.com/track/3jnFc8CGNFNoZbmVPiOJT8) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf), [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Piano y Voz \- En Vivo](https://open.spotify.com/album/4aypkcILEDFTr4XSKAUoNO) | 3:41 | 2024-08-29 | 2024-10-18 |
 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 | 2023-08-18 |  |
 | [Cómo Eran las Cosas \- En Vivo](https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Desde Adentro \- Impuesto de Fe \(En Vivo\)](https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi) | 2:57 | 2023-08-18 |  |
@@ -156,7 +157,7 @@
 | [Otro Día](https://open.spotify.com/track/6b1w4TmYneGyuyyI9LWorG) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:41 | 2023-12-08 | 2024-01-12 |
 | [PAJARITOS \- Versión Acústica](https://open.spotify.com/track/0PJ0aybhM9AFMgCb7nZCbM) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s), [Julia Bravo](https://open.spotify.com/artist/3yHrPHfdJj50JT6LqtsgQl) | [PAJARITOS \(Versiones\)](https://open.spotify.com/album/31DWQYCVs3CcqoSFLxTYtn) | 4:06 | 2024-08-23 | 2025-02-21 |
 | [Paloma \- Romaphonic](https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Romaphonic Sessions](https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl) | 4:39 | 2024-01-11 |  |
-| [Pandas en Japón \- Acústico](https://open.spotify.com/track/2ob6QjzizEyGvQgj3HrJQ7) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Acústicos](https://open.spotify.com/album/0CpzPGJKSOOKMqHUTruxkh) | 3:29 | 2025-08-01 |  |
+| [Pandas en Japón \- Acústico](https://open.spotify.com/track/2ob6QjzizEyGvQgj3HrJQ7) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Acústicos](https://open.spotify.com/album/0CpzPGJKSOOKMqHUTruxkh) | 3:29 | 2025-08-01 | 2025-12-05 |
 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 | 2023-08-18 |  |
 | [Pasos Al Costado](https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turf](https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV) | 4:31 | 2023-10-26 |  |
 | [PELÍCULA](https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PELÍCULA](https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L) | 2:58 | 2023-12-23 |  |

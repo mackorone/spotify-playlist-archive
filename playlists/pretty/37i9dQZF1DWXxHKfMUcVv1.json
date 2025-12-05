@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 125466,
+  "num_followers": 125474,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Aut\u00e9ntico Rock. Grandes \u00c9xitos del Rock Paraguayo",
-        "url": "https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ"
-      },
-      "artists": [
-        {
-          "name": "S.K.A.",
-          "url": "https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Que Divague",
-      "url": "https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Me Haces Falta",
         "url": "https://open.spotify.com/album/1LAAMDXoeGYZkOsW8omDwW"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 204950,
       "name": "Me Haces Falta",
       "url": "https://open.spotify.com/track/2p5HdaHUaVSpIhSyqSAGjG"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Aut\u00e9ntico Rock. Grandes \u00c9xitos del Rock Paraguayo",
+        "url": "https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ"
+      },
+      "artists": [
+        {
+          "name": "S.K.A.",
+          "url": "https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Que Divague",
+      "url": "https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -867,22 +867,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "\u00c9xitos los Chiches Vallenatos",
-        "url": "https://open.spotify.com/album/1KpRYCfdhi4dnnCNdGvdcU"
+        "name": "Estaci\u00f3n Lunar",
+        "url": "https://open.spotify.com/album/4Ub0A1BZ6b4wGetZC8KrbI"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Joshua Dietrich",
+          "url": "https://open.spotify.com/artist/4vPrmLDojtC3tm1jXb4XfM"
         }
       ],
-      "duration_ms": 282286,
-      "name": "A Tu Ventana",
-      "url": "https://open.spotify.com/track/3Qczr3h4wRl74fio8VFv4b"
+      "duration_ms": 196778,
+      "name": "Estaci\u00f3n Lunar",
+      "url": "https://open.spotify.com/track/2enrZW8F0pWuC5oNvIyQ0L"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

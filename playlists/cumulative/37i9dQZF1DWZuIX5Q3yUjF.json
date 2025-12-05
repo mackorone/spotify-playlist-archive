@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Livrea in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "YOF in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -576,6 +576,24 @@
       "duration_ms": 189600,
       "name": "Accuss\u00ec",
       "url": "https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy"
+    },
+    {
+      "album": {
+        "name": "acqua alta",
+        "url": "https://open.spotify.com/album/7AwQchAvZcqRT5Xru3RfO5"
+      },
+      "artists": [
+        {
+          "name": "gorin",
+          "url": "https://open.spotify.com/artist/022EvcUNFcshDKtoHlXYDS"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172153,
+      "name": "acqua alta",
+      "url": "https://open.spotify.com/track/2NO4VRLAdLxxfY5FmKqUbP"
     },
     {
       "album": {
@@ -2776,7 +2794,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 141467,
       "name": "casa nostra",
       "url": "https://open.spotify.com/track/6RJBjN0wwVP2A30rnYMi7k"
@@ -3364,7 +3382,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 185305,
       "name": "Collana di perle",
       "url": "https://open.spotify.com/track/5YWvO7ZaRf4hgSGlqHFgb3"
@@ -10165,6 +10183,24 @@
     },
     {
       "album": {
+        "name": "Nessuna",
+        "url": "https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM"
+      },
+      "artists": [
+        {
+          "name": "Altea",
+          "url": "https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134924,
+      "name": "mia",
+      "url": "https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr"
+    },
+    {
+      "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/6iEciEURpyky6O3yswFcRC"
       },
@@ -12736,7 +12772,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 195937,
       "name": "parole di troppo",
       "url": "https://open.spotify.com/track/5MBFbx7JjleoCKSYPH4Qnm"
@@ -13378,6 +13414,32 @@
       "duration_ms": 150716,
       "name": "principio",
       "url": "https://open.spotify.com/track/6cq9sfMJP7K5MuoOXQq3Np"
+    },
+    {
+      "album": {
+        "name": "CHI AMA NON DIMENTICA",
+        "url": "https://open.spotify.com/album/0fnLXLFy55LD2UCeIVBo6B"
+      },
+      "artists": [
+        {
+          "name": "Voga",
+          "url": "https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i"
+        },
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        },
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181720,
+      "name": "PRIVACY (feat. CoCo, Sissi)",
+      "url": "https://open.spotify.com/track/6l1vqZqrb3UOVjANkzdOIJ"
     },
     {
       "album": {

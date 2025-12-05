@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Anggi Marito",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Bilal Indrajaya, Maudy Ayunda",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -4257,6 +4257,28 @@
     },
     {
       "album": {
+        "name": "Kau",
+        "url": "https://open.spotify.com/album/0SrMQeyrsJtjFRlcJ62hsi"
+      },
+      "artists": [
+        {
+          "name": "Bilal Indrajaya",
+          "url": "https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De"
+        },
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Kau",
+      "url": "https://open.spotify.com/track/0jFovC9t5QSMURqjV5sDHk"
+    },
+    {
+      "album": {
         "name": "Kau Rumahku",
         "url": "https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO"
       },
@@ -4298,6 +4320,28 @@
       "duration_ms": 251091,
       "name": "Kau Selalu Di Hati",
       "url": "https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv"
+    },
+    {
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3bQFQlIUQ6r9rJTUz7UFqE"
+      },
+      "artists": [
+        {
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        },
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203428,
+      "name": "Kawin Lari",
+      "url": "https://open.spotify.com/track/5WAJ1kIil0o08sVXUwG26o"
     },
     {
       "album": {
@@ -5400,6 +5444,24 @@
       "duration_ms": 220500,
       "name": "Malam Rawan",
       "url": "https://open.spotify.com/track/6JBojdxAPtcPNfhFqmZEBt"
+    },
+    {
+      "album": {
+        "name": "Malam-malam",
+        "url": "https://open.spotify.com/album/3sZCsnRE7cxcT5eLgktca2"
+      },
+      "artists": [
+        {
+          "name": "Wijaya 80",
+          "url": "https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259500,
+      "name": "Malam-malam",
+      "url": "https://open.spotify.com/track/1N2wyU2ZAyGL0expxN7WuO"
     },
     {
       "album": {
@@ -9750,6 +9812,24 @@
       "duration_ms": 224608,
       "name": "Terima Kasih",
       "url": "https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe"
+    },
+    {
+      "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/7ANg72ntvphbDfeRfNryMN"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118264,
+      "name": "terima kasih dariku.",
+      "url": "https://open.spotify.com/track/0WsLJaWG3RGOh3JbxPurve"
     },
     {
       "album": {

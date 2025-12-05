@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Memphis LK
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,753 likes - 164 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,734 likes - 164 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 6 | [Hold You Close](https://open.spotify.com/track/3oAkenLgVAQNhZMYPr2xQx) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hold You Close](https://open.spotify.com/album/5kUj5N8dkfn9PMX35xX4oC) | 4:01 |
 | 7 | [Head Bang](https://open.spotify.com/track/5gMc7k4JeLOilc0h4UdEGT) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [Head Bang](https://open.spotify.com/album/48gPiuKnAIPgrzrq9fR6Z4) | 3:15 |
 | 8 | [Noises + JT](https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:07 |
-| 9 | [Keep Suffering](https://open.spotify.com/track/3WlZq0r2ujGvuRE57F6SIr) | [Tommy Holohan](https://open.spotify.com/artist/19KYorPPDJewrAXMeoZccy) | [Keep Suffering](https://open.spotify.com/album/2JKTz7lHiy7bpk342TRC26) | 4:00 |
+| 9 | [Keep Suffering](https://open.spotify.com/track/3WlZq0r2ujGvuRE57F6SIr) | [Tommy Holohan](https://open.spotify.com/artist/19KYorPPDJewrAXMeoZccy), [Effective Power](https://open.spotify.com/artist/36kMcKss9g9TzV8tQ2r8nD) | [Keep Suffering](https://open.spotify.com/album/2JKTz7lHiy7bpk342TRC26) | 4:00 |
 | 10 | [Lotus](https://open.spotify.com/track/5MS7BCBeZ8FdXhiFMYBKWT) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Lotus](https://open.spotify.com/album/09mqnSBXKIcaCs0TUFv0Ca) | 3:34 |
 | 11 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 |
 | 12 | [RELOAD](https://open.spotify.com/track/7xX0oWVBcxrAHsi3pitDDx) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [RELOAD](https://open.spotify.com/album/7g8sxS3WQzcxfEGEJKLp7E) | 2:58 |

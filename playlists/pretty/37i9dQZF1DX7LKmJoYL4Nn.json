@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 61906,
+  "num_followers": 61918,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-10-28 15:00:03",
       "album": {
+        "name": "\u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u300f8th Anniversary song\u300cOne with One\u300d (2023 Ver.)",
+        "url": "https://open.spotify.com/album/36KMa5R5FWUtwpI8wC1EEb"
+      },
+      "artists": [
+        {
+          "name": "ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/4MCDJV5XahmKPes1Ccc7YO"
+        }
+      ],
+      "duration_ms": 259706,
+      "name": "One with One - 2023 Ver.",
+      "url": "https://open.spotify.com/track/7j5H4YKvzjWbifzdWYd9cu"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
         "name": "ALKALOID \u2715 Valkyrie\u300cArtistic Partisan\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 FUSION UNIT SERIES 03",
         "url": "https://open.spotify.com/album/6ACmXBrsotvnyZV4aLAfSf"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 262453,
       "name": "Blooming World",
       "url": "https://open.spotify.com/track/2zVq6bOrdoPQpcUiQShAiv"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f \u6d41\u661f\u968a",
-        "url": "https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u5cef \u7fe0(CV.\u6e21\u8fba \u62d3\u6d77)",
-          "url": "https://open.spotify.com/artist/0uE5wXj5AQljxyMhD6HBsO"
-        }
-      ],
-      "duration_ms": 227306,
-      "name": "Green to the sky",
-      "url": "https://open.spotify.com/track/5YcgW76CzIVxuUzCPfZjCi"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

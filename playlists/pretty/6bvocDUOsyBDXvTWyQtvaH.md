@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 
 > christmas lofi \| lofi cozy christmas \| lofi instrumentals \| lofi winter \| holiday lofi \| lofi chill beats \| winter jazz chillhop beats \|  xmas lofi 🎄🎹
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,738 likes - 55 songs - 2 hr 1 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,742 likes - 55 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

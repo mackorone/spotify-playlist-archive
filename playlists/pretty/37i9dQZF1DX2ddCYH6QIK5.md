@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > This year’s best new music by independent artists and labels chosen by our editors\. Cover: lovehead, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,116 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,153 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

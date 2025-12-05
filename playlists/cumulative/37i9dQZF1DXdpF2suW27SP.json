@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Papillon entra na zona. ",
+  "description": "Mizzy Miles entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 190866,
       "name": "10 DE 10",
       "url": "https://open.spotify.com/track/4DHizmz3J3wzhHUJsHwkHk"
@@ -676,6 +676,28 @@
       "duration_ms": 298710,
       "name": "A Chuva",
       "url": "https://open.spotify.com/track/1YRkd0TdNgiCi3xaxC6RsD"
+    },
+    {
+      "album": {
+        "name": "A Salva\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4Xvv4e47lj9JiCsFCKTZni"
+      },
+      "artists": [
+        {
+          "name": "Prod\u00edgio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "Valete",
+          "url": "https://open.spotify.com/artist/32rAgIN6jhUQYhyoKa8agj"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243635,
+      "name": "A Salva\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6UEv8n4yNipFSnLBp2d8wA"
     },
     {
       "album": {
@@ -1421,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Antigamente",
+        "url": "https://open.spotify.com/album/67C3Jbhb6j21kCAYF6Fmgx"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Antigamente",
+      "url": "https://open.spotify.com/track/0nzxggtFw6r1Irsxrs99bO"
+    },
+    {
+      "album": {
         "name": "Apaga o Meu N\u00famero",
         "url": "https://open.spotify.com/album/6eobNuVuaVKafZKIPAKvuP"
       },
@@ -1852,7 +1892,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 151254,
       "name": "Baile do Bunker",
       "url": "https://open.spotify.com/track/6OTs7JQzrQx19bENOa2Nks"
@@ -5608,7 +5648,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 241813,
       "name": "El Chapo",
       "url": "https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH"
@@ -6152,7 +6192,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 237134,
       "name": "Estrada (feat. Slow J & ProfJam)",
       "url": "https://open.spotify.com/track/7EUmkQTk9tt93C5J746OzL"
@@ -6914,6 +6954,32 @@
       "duration_ms": 210459,
       "name": "Fora D`horas",
       "url": "https://open.spotify.com/track/5P6kaslzOJ0E2dNjV3GMEU"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        },
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Fora do Normal (feat. Nenny & Chelsea Dinorath)",
+      "url": "https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU"
     },
     {
       "album": {
@@ -11176,7 +11242,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 162461,
       "name": "Namast\u00ea",
       "url": "https://open.spotify.com/track/6UX58IdFIop2M8OAXbj6rA"
@@ -12278,7 +12344,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 293617,
       "name": "O Sangue",
       "url": "https://open.spotify.com/track/2A8h4FG29NPaqGQxOmBM5n"
@@ -12428,6 +12494,24 @@
       "duration_ms": 120937,
       "name": "Olhos Abertos",
       "url": "https://open.spotify.com/track/1ZU28X1i4SvCnp27mxgG0G"
+    },
+    {
+      "album": {
+        "name": "OMBRO AMIGO",
+        "url": "https://open.spotify.com/album/1V5vNTXFK7oMHkLKOcNP3B"
+      },
+      "artists": [
+        {
+          "name": "BUH BUH",
+          "url": "https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "OMBRO AMIGO",
+      "url": "https://open.spotify.com/track/2bhQVnVDVp6SopfqsnRUEh"
     },
     {
       "album": {
@@ -14247,6 +14331,24 @@
     },
     {
       "album": {
+        "name": "Quem D\u00e1 Costas \u00c9 Presa",
+        "url": "https://open.spotify.com/album/3dv42dU6BcR96jJZ5Am01K"
+      },
+      "artists": [
+        {
+          "name": "Holly Hood",
+          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "Quem D\u00e1 Costas \u00c9 Presa",
+      "url": "https://open.spotify.com/track/6HudAnk1daR6C9cor9qMbF"
+    },
+    {
+      "album": {
         "name": "Stilo De Vida",
         "url": "https://open.spotify.com/album/6v9TIamLIRxVHsKXbDaI0Y"
       },
@@ -14368,6 +14470,32 @@
       "duration_ms": 137513,
       "name": "Racks!",
       "url": "https://open.spotify.com/track/0IhX0CYSuEeRwGZ9JiuRg5"
+    },
+    {
+      "album": {
+        "name": "Radiante",
+        "url": "https://open.spotify.com/album/4bqR2RU9tbz1FkLy5CGVH3"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308181,
+      "name": "Radiante",
+      "url": "https://open.spotify.com/track/2DdIXdp6VsXfzzLt9pvstJ"
     },
     {
       "album": {

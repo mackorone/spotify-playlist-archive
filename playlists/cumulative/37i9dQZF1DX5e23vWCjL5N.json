@@ -5281,6 +5281,24 @@
     },
     {
       "album": {
+        "name": "Musica Triste",
+        "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159893,
+      "name": "PHRATE",
+      "url": "https://open.spotify.com/track/6R4abO7BpM4lAJCqrCPpLm"
+    },
+    {
+      "album": {
         "name": "INTROSPEZIONE",
         "url": "https://open.spotify.com/album/0j6Fj7S8xJ2yab0paEHRPI"
       },
@@ -6700,6 +6718,32 @@
       "duration_ms": 160589,
       "name": "T\u00eate \u00e0 T\u00eate",
       "url": "https://open.spotify.com/track/7Ijd2b9eRQ2P37MfyP4ewP"
+    },
+    {
+      "album": {
+        "name": "Musica Triste",
+        "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190653,
+      "name": "UNA SIGA FA (feat. Papa V & Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/57VBA6mBbbbdt7zuMjI5Ll"
     },
     {
       "album": {

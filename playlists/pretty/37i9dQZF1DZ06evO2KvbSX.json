@@ -1,12 +1,12 @@
 {
   "description": "This is Lewis Capaldi. The essential tracks, all in one playlist.",
-  "num_followers": 798588,
+  "num_followers": 798643,
   "original_name": "This Is Lewis Capaldi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS4sAAAAAAC52Y81KCKm13nt6h6x2ubh",
+  "snapshot_id": "aS99gAAAAADmDqrGTWhN7ByBxJJcrBrK",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everytime (BBC Radio 1 Live Lounge)",
-        "url": "https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 181583,
-      "name": "Everytime - BBC Radio 1 Live Lounge",
-      "url": "https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
         "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 219693,
       "name": "Let It Roll",
       "url": "https://open.spotify.com/track/4lRSeOZ97LHOFDk5A0opcq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everytime (BBC Radio 1 Live Lounge)",
+        "url": "https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 181583,
+      "name": "Everytime - BBC Radio 1 Live Lounge",
+      "url": "https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw"
     },
     {
       "added_at": null,

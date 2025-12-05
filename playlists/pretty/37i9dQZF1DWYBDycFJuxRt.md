@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/342467">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,380 likes - 68 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,376 likes - 68 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 32 | [FLOOR KILLER](https://open.spotify.com/track/06yl8aXO4iFjn7ZSBfJgvA) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [Cosaqu](https://open.spotify.com/artist/44ZQx3QiQvIGWhspW2PJwZ), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7) | [FLOOR KILLER](https://open.spotify.com/album/768ehJ52yeXVWGqxbUOZ5a) | 3:04 |
 | 33 | [TRAVELING \(feat\. GamBall\)](https://open.spotify.com/track/5Koz3ppFpXzObRuNm7O9dL) | [DJ JAM](https://open.spotify.com/artist/429uK9aePbJMBV2siIj2u8), [GamBall](https://open.spotify.com/artist/1jGj3rxYOEXXD6QfmWDi0U) | [TRAVELING \(feat\. GamBall\)](https://open.spotify.com/album/3fc7gERDqqcKmMR5j4wVdh) | 1:55 |
 | 34 | [SOS](https://open.spotify.com/track/0PyM2uuaQ0S8iI4KpElhnX) | [MOMMO](https://open.spotify.com/artist/0DJ2a4raJuSFLSDxKYNwE5) | [SOS](https://open.spotify.com/album/0WMNYuYbeit8ys8ZdH1dCE) | 3:46 |
-| 35 | [Callng](https://open.spotify.com/track/5uE61Hgy7nIiLvVVczJRl6) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [Callng](https://open.spotify.com/album/14cpZqduLlAIOhIVaRTn3m) | 3:15 |
+| 35 | [Calling](https://open.spotify.com/track/5uE61Hgy7nIiLvVVczJRl6) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [Calling](https://open.spotify.com/album/14cpZqduLlAIOhIVaRTn3m) | 3:15 |
 | 36 | [YUUREI](https://open.spotify.com/track/1oAN5mex2e0YWMwfNFagI0) | [HARUKATOMIYUKI](https://open.spotify.com/artist/6NEfWGRmyUfFmRTzlfWUWl) | [YUUREI](https://open.spotify.com/album/3lmb0FXf97GocC4do674uu) | 3:40 |
 | 37 | [Underneath the Lights](https://open.spotify.com/track/2NOeS29mW1tNJ9oEuw0njn) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Underneath the Lights](https://open.spotify.com/album/1Ooh0rrEUtMuFq0bNTpJf5) | 3:56 |
 | 38 | [イイキモチ](https://open.spotify.com/track/5UrVscqqwuI0HVTX9hyWXu) | [来海](https://open.spotify.com/artist/110vAH5DWtQ3fBywg7vNmE) | [イイキモチ](https://open.spotify.com/album/0y3McNnJ4LqheEjzyz4zwh) | 3:50 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 43 | [Monsters and Heroes](https://open.spotify.com/track/1a8WYSRzWIxLFKh8SuCvJA) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [Dawn](https://open.spotify.com/album/7p0jc2nd2hFGyakoVmpwHq) | 3:47 |
 | 44 | [参?](https://open.spotify.com/track/1raAmqAEnFqTGbhx0hiHZg) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [参?](https://open.spotify.com/album/0lzX67dxF9EAPHy4HZnfiU) | 3:00 |
 | 45 | [恋心](https://open.spotify.com/track/2KLKb3xWkMymUWHeEjGALl) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [恋心](https://open.spotify.com/album/0pLBKaXBFCZBNTj9Kw59jk) | 3:18 |
-| 46 | [TENTEKO MINE](https://open.spotify.com/track/0hEs1ONsl8sC4NXRbEtBhd) | [KENTACATS](https://open.spotify.com/artist/0bmFxuu38S0esyG6Dwqeik), [森](https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I) | [CMS\`S WHREHOUSE](https://open.spotify.com/album/0UQ09S88Zsvx5sdxraMvbC) | 4:52 |
+| 46 | [TENTEKO MINE feat, 森](https://open.spotify.com/track/0hEs1ONsl8sC4NXRbEtBhd) | [KENTACATS](https://open.spotify.com/artist/0bmFxuu38S0esyG6Dwqeik), [森](https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I) | [CMS\`S WAREHOUSE](https://open.spotify.com/album/0UQ09S88Zsvx5sdxraMvbC) | 4:52 |
 | 47 | [anything](https://open.spotify.com/track/1ecBRPBDN4kCEQlii3LvX9) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [anything](https://open.spotify.com/album/7CmJfGgXPBYKjspZzO8M1l) | 5:21 |
 | 48 | [Slow Dance](https://open.spotify.com/track/1MeDraGgSPJFiKqGe2ut0I) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [Slow Dance](https://open.spotify.com/album/21ldoafpPUXYygujfajuJb) | 4:26 |
 | 49 | [特等席](https://open.spotify.com/track/2q3NyVetNxDjSoHGlHCnZ5) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [sweetest, me \(Deluxe Edition\)](https://open.spotify.com/album/1BQMabrdj2ETMR2YCXD3mJ) | 3:52 |

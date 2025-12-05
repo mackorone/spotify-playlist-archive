@@ -4,7 +4,7 @@
 
 > Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-65 songs - 3 hr 5 min
+66 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bachke Bachke \(feat\. Yarah\)](https://open.spotify.com/track/2uWZ7EGddFlA1DJ3Rzzvs2) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:30 | 2025-10-17 |  |
 | [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 | 2025-10-17 |  |
 | [Black & White](https://open.spotify.com/track/5r7mDmA3VHkGIJ02hTmIyw) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Genesis](https://open.spotify.com/album/6YHC60k9beomffsmaPNADw) | 3:08 | 2025-11-21 |  |
+| [By My Side](https://open.spotify.com/track/2mt3QHYbKBMdSTIfzSFsYH) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [By My Side](https://open.spotify.com/album/4EUcKOcd9grLl1kOoauO7s) | 2:56 | 2025-12-04 |  |
 | [Chacha](https://open.spotify.com/track/2tKAXlASKQjzo0SJJvO9Yj) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [36](https://open.spotify.com/album/11NyVFBpwIuBZz5Ia1ZcsA) | 3:00 | 2025-11-03 |  |
 | [Chobara](https://open.spotify.com/track/1c2a8g61JDgnqXNE1ZcLLk) | [Sewak Nokhriya](https://open.spotify.com/artist/5LwDJiia8RYTAOVk2CHO23), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Chobara](https://open.spotify.com/album/5zzawH8gh7Z5WONTejtkMo) | 3:01 | 2025-11-19 |  |
 | [Delhi To Cali](https://open.spotify.com/track/2JBkmnFIuUNtCAzjLB6zof) | [Mananveer Singh](https://open.spotify.com/artist/3C0VF9Zgo9UMMF6CFTL9qG), [DPON DASH](https://open.spotify.com/artist/4bY5J8e8VjNcVUqz6hEyst), [KriB](https://open.spotify.com/artist/5k7GzpQLfDqmDFaq4Vbgrx) | [Delhi To Cali](https://open.spotify.com/album/6cP5tglcelAmqIOImkV3tT) | 2:39 | 2025-10-17 | 2025-11-12 |
@@ -40,7 +41,7 @@
 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 | 2025-10-17 |  |
 | [Jinniyan](https://open.spotify.com/track/46TlSsFIAtUmaNKpPUQaIE) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Jinniyan](https://open.spotify.com/album/7pJ7siqSx1vj04RZqv9gaz) | 3:18 | 2025-10-17 | 2025-11-04 |
 | [Kaatilana](https://open.spotify.com/track/4gAYB5yzeYrQ0jz13FmFOV) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Push Kahlon](https://open.spotify.com/artist/3FV1d5JZKT5LjoMbBhZoBP), [Rippy Grewal](https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj) | [Kaatilana](https://open.spotify.com/album/0nBHaOa8XXkIB0e3YAYnxf) | 3:12 | 2025-11-24 |  |
-| [KALA JADOO](https://open.spotify.com/track/5zDZ4Yzo38pFeyfMS1Oo98) | [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [KALA JADOO](https://open.spotify.com/album/3wnuRJKW9gBIeG2hrP3Tf4) | 2:46 | 2025-11-03 |  |
+| [KALA JADOO](https://open.spotify.com/track/5zDZ4Yzo38pFeyfMS1Oo98) | [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [KALA JADOO](https://open.spotify.com/album/3wnuRJKW9gBIeG2hrP3Tf4) | 2:46 | 2025-11-03 | 2025-12-05 |
 | [KI HAAL AA](https://open.spotify.com/track/6pO0mc6cJ4WucFd84PoJ5z) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [KI HAAL AA](https://open.spotify.com/album/7573uBv6gwUul2QoS94G2J) | 2:35 | 2025-10-24 | 2025-11-20 |
 | [Kina Chir](https://open.spotify.com/track/2jrKt7TeBeDtmLBZ3grQQj) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [The Lifestyle](https://open.spotify.com/album/5NItYzWWEkAU380h80suCw) | 3:36 | 2025-10-17 |  |
 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 | 2025-10-17 |  |

@@ -26808,7 +26808,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -32242,7 +32242,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 193255,
       "name": "La Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5NK5vkJQCtC721Ut1OvHYj"
@@ -33154,7 +33154,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 226298,
       "name": "LAS NOCHES",
       "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
@@ -40978,10 +40978,28 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 143034,
       "name": "MUEVELOU (VAD BOYZ)",
       "url": "https://open.spotify.com/track/0ajmfRRaA0m7St5E3BWq9X"
+    },
+    {
+      "album": {
+        "name": "MUEVELOU - VAD BOYZ",
+        "url": "https://open.spotify.com/album/4L7DyInr3nDb9xoEUgJ09c"
+      },
+      "artists": [
+        {
+          "name": "VVS Cartel",
+          "url": "https://open.spotify.com/artist/3PXpDp3qRaUWwIx1jaLjFQ"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143545,
+      "name": "MUEVELOU - VAD BOYZ",
+      "url": "https://open.spotify.com/track/1bGTNBFsiED1OUr1p1oVCU"
     },
     {
       "album": {
@@ -46855,6 +46873,28 @@
     },
     {
       "album": {
+        "name": "Pase y Toque",
+        "url": "https://open.spotify.com/album/0ZV9e0ldua8Z1uO5r9f42s"
+      },
+      "artists": [
+        {
+          "name": "Gama CT Music",
+          "url": "https://open.spotify.com/artist/6FGvlDEPZ4LYMEO9U6wIoy"
+        },
+        {
+          "name": "Luis Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/1H9zU2hjrw02Bx0F265xe0"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208653,
+      "name": "Pase y Toque",
+      "url": "https://open.spotify.com/track/7jWd9ho1Cb14FlVzgXJEXf"
+    },
+    {
+      "album": {
         "name": "Pase Y Toque",
         "url": "https://open.spotify.com/album/7nA3R4NBNkuyOVRqS3Q6EQ"
       },
@@ -46888,7 +46928,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 208653,
       "name": "Pase Y Toque",
       "url": "https://open.spotify.com/track/2bEPM7tp7d0B6dEGyYpFWq"
@@ -69326,7 +69366,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 207026,
       "name": "YOKO",
       "url": "https://open.spotify.com/track/5JHB8QusYhTWdRw2KJekj6"

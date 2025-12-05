@@ -4,14 +4,14 @@
 
 > It's giving those vibes\. Cover: Odeal
 
-191 songs - 8 hr 47 min
+192 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+31621301535, it’s me!](https://open.spotify.com/track/1TTLUl9soGs2aQXKcWgKpO) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [+31621301535, it’s me!](https://open.spotify.com/album/2Q8BsPhS5JMCvvpN1SXkNS) | 2:16 | 2025-07-17 | 2025-08-05 |
 | [1+1 \(Outside\)](https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [1+1 \(Outside\)](https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ) | 2:38 | 2025-07-17 | 2025-11-01 |
 | [10/10](https://open.spotify.com/track/57QRmivEkTh1jC6S3rt4u4) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [deims deims deims](https://open.spotify.com/album/3KMu63c6EQF0bS6ugJZuZA) | 2:54 | 2025-10-31 |  |
-| [4 Life](https://open.spotify.com/track/3FgyRZdZPuKR2Uyu0ovhZ5) | [Rocher](https://open.spotify.com/artist/2gVPi9fTLuumDLlkRn2G5j) | [4 Life](https://open.spotify.com/album/5NCtJqXYAZKKsIqVllMcy6) | 2:38 | 2025-07-17 |  |
+| [4 Life](https://open.spotify.com/track/3FgyRZdZPuKR2Uyu0ovhZ5) | [Rocher](https://open.spotify.com/artist/2gVPi9fTLuumDLlkRn2G5j) | [4 Life](https://open.spotify.com/album/5NCtJqXYAZKKsIqVllMcy6) | 2:38 | 2025-07-17 | 2025-12-05 |
 | [4, 5 Shots](https://open.spotify.com/track/2eeKFKWZLnoQQX886943f1) | [Nerra](https://open.spotify.com/artist/3pshrBCH7nXMlaUVtP4zpz) | [4, 5 Shots](https://open.spotify.com/album/7enM3yCOBeuT89LUnKsdX4) | 2:30 | 2025-09-26 |  |
 | [45 Degrees](https://open.spotify.com/track/1a4X5tScmXNc7lNffSuVnt) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [45 Degrees](https://open.spotify.com/album/0WFuXgv0uFx8JUhICNe8N5) | 2:20 | 2025-07-17 | 2025-10-17 |
 | [5 In De Nacht \(feat\. Ronnie Flex\)](https://open.spotify.com/track/1RC3n8iZgTi3mb0yU619zq) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [5 In De Nacht \(feat\. Ronnie Flex\)](https://open.spotify.com/album/746kcPHvl2QXI25D8cOUaZ) | 2:45 | 2025-07-17 |  |
@@ -66,6 +66,7 @@
 | [F¥N $HT](https://open.spotify.com/track/59V7drgGsLs431y6cMT94B) | [OCS](https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap), [Oathmademedoit](https://open.spotify.com/artist/3Fqp4iKgoCzmPLWXqv46KO) | [F¥N $HT](https://open.spotify.com/album/5rP2t2qbQ2JHvxxsiaT5iI) | 2:46 | 2025-08-07 |  |
 | [Gbosa](https://open.spotify.com/track/40UDxARSxMZWkj6iqirUK8) | [Toluwa](https://open.spotify.com/artist/4xtmLIFUpUopqHWjhECWUM) | [Japa](https://open.spotify.com/album/5mt8XNHrI47ZfBYu45nZDV) | 2:45 | 2025-08-07 |  |
 | [Geef Jezelf](https://open.spotify.com/track/2sWS28WjvL9ZYi1CPMOPeL) | [Figo Gang](https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7), [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Geef Jezelf](https://open.spotify.com/album/0EkDtPXnniA8Lwld9j8BCM) | 2:26 | 2025-07-17 | 2025-08-27 |
+| [Geen Optie](https://open.spotify.com/track/1paoqM4S9a6X39SfZ9dK9R) | [Romeo Donk](https://open.spotify.com/artist/1sYqtLf2UW19ZjKhmdPAY0) | [Geen Optie](https://open.spotify.com/album/00ztR0v3r8Kw6d00mOyM9X) | 1:53 | 2025-12-04 |  |
 | [GEVAARLIJK](https://open.spotify.com/track/3ogMU4L0IEnBKFOt43b57M) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL) | [GEVAARLIJK](https://open.spotify.com/album/1w2i8BKXT4NLZ58sluSaku) | 2:37 | 2025-11-07 |  |
 | [Gewond geraakt](https://open.spotify.com/track/4t1c62awOwIpsMLOfmbUR0) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Gewond geraakt](https://open.spotify.com/album/6uKWwGIrPrKybBoK1t1w4S) | 2:42 | 2025-07-17 | 2025-09-19 |
 | [Goodboy \(Kweku\)](https://open.spotify.com/track/3g3nt6cCAUIgJ3pRl0pRb5) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Chopstix](https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt) | [Goodboy \(Kweku\)](https://open.spotify.com/album/7xU0cELrg6Fd24DAviWORg) | 3:34 | 2025-11-20 |  |

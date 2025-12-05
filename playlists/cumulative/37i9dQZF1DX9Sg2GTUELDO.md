@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Amy Lo
+> 感受女聲力量。Cover: Jaime 張天穎
 
-609 songs - 1 day 12 hr 10 min
+611 songs - 1 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [I kinda feel like going home](https://open.spotify.com/track/1WA1STD9PGm3lOq6SwKVa4) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [nardey](https://open.spotify.com/artist/7tHQPahicLUO5EdLyo5V28) | [Human Heart](https://open.spotify.com/album/46UcZkRj4FkwY9vNb89gij) | 2:25 | 2024-06-27 | 2025-09-12 |
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2024-06-27 | 2025-09-12 |
 | [I Sleep](https://open.spotify.com/track/3jCvUjMqkmRm2Zvx8dcH7l) | [黃心穎](https://open.spotify.com/artist/24FbcOEOUyJ2HtRGxOTZi4) | [I Sleep](https://open.spotify.com/album/1tUVDfBW2ianIvJPK8zLXI) | 4:04 | 2024-06-27 | 2025-09-12 |
+| [i told a.i\. about you](https://open.spotify.com/track/5QM25irleGTsA8QHLfnz71) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [i told a.i\. about you](https://open.spotify.com/album/3k3HK8TSUeNa4RwR9oQQjm) | 3:14 | 2025-12-04 |  |
 | [I tried…](https://open.spotify.com/track/2pzJnD7U4PsgoxekmC4FVG) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [I tried…](https://open.spotify.com/album/28r7fW3baua6CY9BCalrrB) | 2:58 | 2025-02-13 |  |
 | [i wish i could](https://open.spotify.com/track/1PjOMAmUb14E9WGkCVGcMR) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [Based On True Stories](https://open.spotify.com/album/0nvkolp7jXcubRKImPEHML) | 4:01 | 2025-08-14 |  |
 | [I'm all in](https://open.spotify.com/track/6DOQ5xzq3ettktmBvuGKoN) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [I'm all in](https://open.spotify.com/album/1oG32Y9h5eGRJIUhYt8Q96) | 4:40 | 2024-06-27 | 2025-09-12 |
@@ -145,6 +146,7 @@
 | [nothing](https://open.spotify.com/track/5hXRD8nfoT25akHgDO5LUo) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [nothing](https://open.spotify.com/album/3FXaIHcRPFMBDdCV1gYPRT) | 4:49 | 2025-01-23 |  |
 | [nothing about you](https://open.spotify.com/track/0DhPLOi5pwaNzH74yI82wM) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [nothing about you](https://open.spotify.com/album/5nWghT9U5ZdEiQOeB4rYPC) | 3:01 | 2025-01-02 |  |
 | [NOW](https://open.spotify.com/track/0KrR4Lk6WeGj3oZFq94JHt) | [UNI](https://open.spotify.com/artist/6RsSt1g3GiD3Svzf4DUPYR) | [NOW](https://open.spotify.com/album/7zWGB6nY6AnK8pKfSLuWFf) | 2:52 | 2024-10-03 | 2025-09-12 |
+| [Oh December](https://open.spotify.com/track/0FrWryWujXP7A5K9nXyAU6) | [Georgina 陳樂頤](https://open.spotify.com/artist/4JO14JxctLwBDIdQh8rWyZ) | [Oh December](https://open.spotify.com/album/1p35bw0GnY7Wp0EpE74Vpw) | 2:09 | 2025-12-04 |  |
 | [omw2u](https://open.spotify.com/track/5rckGAJIVOXMYwkjl0LREw) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [willow tree \(more! there's more!\)](https://open.spotify.com/album/5C6ZbCBOEK4iAotPDFAXct) | 3:28 | 2025-03-27 | 2025-09-12 |
 | [On My Way](https://open.spotify.com/track/0h3SKxxvHNH3qtFUMtu1dk) | [Lokyi@EOS](https://open.spotify.com/artist/4Xvv5Voh7NnKzkh1JoYh3N) | [On My Way](https://open.spotify.com/album/6HbD9kVjMDCqgsEVOxNJmX) | 3:05 | 2024-08-08 | 2025-09-12 |
 | [One Last Time](https://open.spotify.com/track/5X84tcnongIeGjTk9T2F3z) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [One Last Time](https://open.spotify.com/album/7bfzD9Ict7jfAxVdg1dgrf) | 3:38 | 2024-07-18 | 2025-09-12 |

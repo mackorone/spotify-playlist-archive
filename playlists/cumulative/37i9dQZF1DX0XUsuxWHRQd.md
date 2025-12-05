@@ -4,7 +4,7 @@
 
 > New music from Central Cee,  Lil Baby and Lil Uzi Vert
 
-2,578 songs - 5 day 13 hr 34 min
+2,579 songs - 5 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,6 +709,7 @@
 | [Finesse Out The Gang Way \(feat\. Lil Baby\)](https://open.spotify.com/track/15bnyEOUVRkwWlxR4F7xzF) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Voice \(Deluxe\)](https://open.spotify.com/album/47kzblYQZC439seeROq90P) | 3:06 | 2021-01-29 | 2021-04-24 |
 | [Finished](https://open.spotify.com/track/3FyGiWiU8N0hDaKmEgmx3r) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Finished](https://open.spotify.com/album/5XqEi2D7r0RIlJ6YRIAM8D) | 2:43 | 2025-08-09 | 2025-08-16 |
 | [Fire Your Manager \(feat\. Playboi Carti\)](https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 3:53 | 2025-08-01 | 2025-09-20 |
+| [Fireman](https://open.spotify.com/track/0V8Lfj3q1JyiKNBkHiQR4k) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/5qyUw6x9fjZPoQHUwuDu39) | 4:23 | 2025-12-04 |  |
 | [First Class](https://open.spotify.com/track/4MUkRNmCgbcoAVu5BuNVgp) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [First Class](https://open.spotify.com/album/4mExpZsm6TkXyE8jXfmNEq) | 3:11 | 2019-10-18 | 2019-10-25 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-08 | 2022-07-02 |
 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u) | 2:22 | 2023-08-18 | 2023-10-27 |

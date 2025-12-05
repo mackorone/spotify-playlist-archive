@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-150 songs - 7 hr 58 min
+151 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Daylight \- Acoustic](https://open.spotify.com/track/38rp6FLYxF43GhnLcb99wu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight \(Reimagined\)](https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ) | 3:25 | 2023-09-26 |  |
 | [Deep Down \(Acoustic Version\) \(feat\. Never Dull\)](https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(Acoustic Version\) \(feat\. Never Dull\)](https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH) | 3:08 | 2022-12-21 | 2023-10-03 |
 | [Desire \(with Sam Smith\) \- Acoustic](https://open.spotify.com/track/5EUZq2pJJi1X2yRHzAeDWJ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\) \[Acoustic\]](https://open.spotify.com/album/15fFDWyVcxknsTGmJ2q354) | 3:05 | 2023-09-26 | 2024-09-13 |
+| [Die On This Hill \- At KOKO](https://open.spotify.com/track/0vYVxe1X7QOpzyIJzyVG3O) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill \(At KOKO\)](https://open.spotify.com/album/5KldQvtRfCs7SQdJj7vOne) | 3:53 | 2025-12-04 |  |
 | [Die With A Smile \- Acoustic](https://open.spotify.com/track/3sDIlJZzYNHtnSuuOxvTal) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/29uwnLOApt6HvRw3Ll83vG) | 4:11 | 2024-11-21 |  |
 | [Disease \- The Antidote Live](https://open.spotify.com/track/6Sxj0dNAoW0X0uC8o5cGm3) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/0wY9KJ2kxRz6jZkvAfpDU2) | 4:34 | 2025-01-30 | 2025-05-30 |
 | [Don't Call Me Up \- Acoustic](https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Don't Call Me Up \(Acoustic\)](https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr) | 3:32 | 2022-12-21 | 2023-03-27 |
@@ -100,7 +101,7 @@
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6) | 3:04 | 2022-12-21 | 2024-06-15 |
 | [Love Should Be Easy \- Acoustic](https://open.spotify.com/track/1Uf2Jb951trOKmxJZS7HOl) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy \(Acoustic Versions\)](https://open.spotify.com/album/2nrnsrqfLugfpWe1trssSu) | 3:20 | 2023-12-08 | 2024-01-12 |
 | [Lovers In A Past Life \(with Rag'n'Bone Man\) \- Acoustic](https://open.spotify.com/track/5lC9PmD9LGzqO1ejuLYkym) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\) \[Acoustic\]](https://open.spotify.com/album/69qYAZY38cFMWCp3KbcvH4) | 3:09 | 2024-04-12 | 2025-05-23 |
-| [maman \- acoustique](https://open.spotify.com/track/4XelDEmRacldzskbbclmQY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [maman \(acoustique\)](https://open.spotify.com/album/081z71DA1Zxex0sPR2QBTY) | 3:04 | 2025-04-17 |  |
+| [maman \- acoustique](https://open.spotify.com/track/4XelDEmRacldzskbbclmQY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [maman \(acoustique\)](https://open.spotify.com/album/081z71DA1Zxex0sPR2QBTY) | 3:04 | 2025-04-17 | 2025-12-05 |
 | [miss me \(when you're gone\) \- \[sad version\] \[Acoustic\]](https://open.spotify.com/track/6UWXV4zk4zJCzJQZXHifBX) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) \[remixes\]](https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t) | 3:50 | 2023-06-02 | 2023-11-04 |
 | [miss me \(when you’re gone\) \(sad version\) \(Acoustic\)](https://open.spotify.com/track/52vl4KA0ATWJ6Mf7QChsd3) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) remixes](https://open.spotify.com/album/1pEipsUVstkQ8cbB1hSr8I) | 3:50 | 2023-11-02 | 2024-01-06 |
 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2024-03-14 | 2024-06-01 |

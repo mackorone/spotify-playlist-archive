@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Ukweli & Xenia Manasseh
 
-293 songs - 16 hr 27 min
+295 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 | 2021-12-28 | 2022-06-17 |
 | [Maisha](https://open.spotify.com/track/5ZkpQo8ETp8Vei3eiv3oM7) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Maisha](https://open.spotify.com/album/65o3bGR1inlQ6qqSQqu3c2) | 3:16 | 2024-09-26 | 2024-11-08 |
 | [Malaika](https://open.spotify.com/track/5J4SDAQfgnAE90ErS4dO4u) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/4jmj60YuyEMwANIOck2jFV) | 3:42 | 2021-12-28 | 2022-07-15 |
-| [Maovu](https://open.spotify.com/track/5aBy7xqkQ7UzSXe9jLNmD3) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 3:48 | 2024-11-07 |  |
+| [Maovu](https://open.spotify.com/track/5aBy7xqkQ7UzSXe9jLNmD3) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 3:48 | 2024-11-07 | 2025-12-05 |
 | [Mapenzi](https://open.spotify.com/track/0VKokjztRSUUcukN6cRmkF) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Mapenzi](https://open.spotify.com/album/6Qh6nUBfyw30o9ejaqv5ok) | 3:53 | 2025-09-04 |  |
 | [Marry U Twice](https://open.spotify.com/track/7Fct3aClhWyZjF600Hz7Kw) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [With Love, Charisma](https://open.spotify.com/album/4j0s1s8NsDwqvCNxBoZLVa) | 3:37 | 2025-02-13 | 2025-02-21 |
 | [Mbali \- Stripped Version](https://open.spotify.com/track/1XCI64DmbFXhxXKTWqILgG) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Mbali \(Stripped Version\)](https://open.spotify.com/album/6rVwUsa69ADOMkAH6ZOPx8) | 3:20 | 2023-02-23 | 2023-03-25 |
@@ -200,6 +200,7 @@
 | [Number 1\(suzziah\)](https://open.spotify.com/track/3KVQiUuR3nryLGUHFrjwdS) | [Le Band](https://open.spotify.com/artist/2hLEmduiwx7r05B3XryCmT) | [Le Band Hits](https://open.spotify.com/album/2yuyAtoGCCrGhor3FNwfLc) | 3:57 | 2025-02-13 | 2025-02-21 |
 | [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 | 2022-09-01 | 2024-03-23 |
 | [Nyumbani](https://open.spotify.com/track/2eQeiHxv9epzbWsUQk1vPK) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Nyumbani](https://open.spotify.com/album/2gVOyoQ48YDu35k3Zk3zpu) | 3:07 | 2025-02-13 | 2025-02-21 |
+| [OH COME](https://open.spotify.com/track/3GbKKWAHa8cBNoK1aEoztf) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [ROSIE K](https://open.spotify.com/artist/00S43DmWWiMQCWXBw6ZggU), [TUNJAY](https://open.spotify.com/artist/79cKQVnKajMHzWIw4G8y6o) | [COLD CHRISTMAS: A Colossal rendition](https://open.spotify.com/album/6cqOMO1qtf4PuxE6HtM28O) | 3:59 | 2025-12-04 |  |
 | [Olive\(ia\)](https://open.spotify.com/track/1xm5zaifC3MYTw8049ypZA) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Olive\(ia\)](https://open.spotify.com/album/1zUN2ALJ1OYmPYfES7oVGG) | 3:07 | 2025-02-13 | 2025-02-21 |
 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 | 2022-11-11 |
 | [Only You \- A COLORS SHOW](https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Only You \- A COLORS SHOW](https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk) | 2:46 | 2023-11-02 | 2024-10-11 |
@@ -236,7 +237,7 @@
 | [Shea Butter Baby](https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Shea Butter Baby](https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt) | 2:33 | 2022-04-28 | 2022-09-23 |
 | [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-22 | 2025-03-07 |
 | [Shuga Mami](https://open.spotify.com/track/3igr48adSH8n7DD8Uuob4m) | [Ayrosh](https://open.spotify.com/artist/3eUpzhdVQkVaAKWn09Ka8l) | [Shuga Mami](https://open.spotify.com/album/2V00KW0quSNc1b6QgUNPNY) | 3:38 | 2025-02-13 | 2025-02-21 |
-| [Side Chick](https://open.spotify.com/track/6XeOjWznRQ6WWTelTBUCsZ) | [ItsYaba](https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j), [Jefflawgan](https://open.spotify.com/artist/5ciu7LFuG7PZSGPzIS8jav) | [Side Chick](https://open.spotify.com/album/3GOgVhlZZdyehCcVFmFwx3) | 3:50 | 2025-03-28 |  |
+| [Side Chick](https://open.spotify.com/track/6XeOjWznRQ6WWTelTBUCsZ) | [ItsYaba](https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j), [Jefflawgan](https://open.spotify.com/artist/5ciu7LFuG7PZSGPzIS8jav) | [Side Chick](https://open.spotify.com/album/3GOgVhlZZdyehCcVFmFwx3) | 3:50 | 2025-03-28 | 2025-12-05 |
 | [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 | 2021-12-28 | 2023-12-01 |
 | [Skin](https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:39 | 2023-09-21 | 2024-03-29 |
 | [slow burning.](https://open.spotify.com/track/5U5lHDAuwPX1XjJ4cAWqps) | [3N!](https://open.spotify.com/artist/3FvZoL8GYFyC4AsZUxfAtc), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [slow burning.](https://open.spotify.com/album/7uf5Mi12fGexmZfETSpI1Y) | 3:32 | 2025-09-19 |  |
@@ -250,6 +251,7 @@
 | [Sorry](https://open.spotify.com/track/5CSH0TMDXX7eTtiwhaq3OY) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/3fkE3ayLgO9KcqxBWWUh5N) | 3:52 | 2024-03-07 | 2024-04-19 |
 | [sorry it didn't work out](https://open.spotify.com/track/2C7AVrBA3vu2mg1zBu0pHk) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Legacy](https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha) | 2:29 | 2022-03-31 | 2023-03-31 |
 | [sorry it didn't work out](https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [sorry it didn't work out](https://open.spotify.com/album/5BP6SX5xnt4qvitpCBVKJw) | 2:29 | 2022-03-31 | 2022-10-09 |
+| [Stories Untold](https://open.spotify.com/track/3aoDp1jGeLHZTsb5kGH4jg) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Shudu Musida](https://open.spotify.com/artist/1rE20iFWfaTa3G1kZR98rK) | [Stories Untold](https://open.spotify.com/album/7cuX7LdNYkaSsi4YxNyq7j) | 3:58 | 2025-12-04 |  |
 | [Subira](https://open.spotify.com/track/1pEgScIqHkA61slc7ZrArz) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Cedz Imagination](https://open.spotify.com/artist/2bsB3f3Lx5jYFHQe9MzrBR) | [Subira](https://open.spotify.com/album/4qNx4rrK7EG5HYWflIt8iB) | 3:01 | 2025-09-19 |  |
 | [Suddenly](https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh) | [Audrey Hinya](https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG), [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5) | [Suddenly](https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey) | 3:47 | 2022-09-30 | 2023-02-24 |
 | [Sugar Rush](https://open.spotify.com/track/3JJ6IAPfrrJPV2fOGQZYGl) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/1UqJeAHLAQh2g5M8QCdei5) | 3:49 | 2025-02-13 | 2025-02-21 |

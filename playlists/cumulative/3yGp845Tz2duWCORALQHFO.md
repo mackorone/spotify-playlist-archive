@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,443 songs - 10 day 2 hr 57 min
+4,444 songs - 10 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Beautiful People \- Seth Hills Remix](https://open.spotify.com/track/3Ygd31O6zd47a3qCjLnITy) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [Beautiful People \(Seth Hills Remix\)](https://open.spotify.com/album/0X4kIs7U2I7HEL1DDNU8DM) | 3:52 | 2025-03-28 | 2025-04-11 |
 | [Beauty In My Scars](https://open.spotify.com/track/7KrAiFu8YRzzthWq8vQ4zf) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Beauty In My Scars](https://open.spotify.com/album/6PJ0petvsBFreXzZffWmv2) | 3:37 | 2025-04-11 | 2025-04-19 |
 | [Because The Night](https://open.spotify.com/track/3hoRe0k9UrK1CWKtBpG6uu) | [Lexa Hill](https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI), [The Young Punx](https://open.spotify.com/artist/3gkX03yW2WrvcDMp04TKjN) | [Because The Night](https://open.spotify.com/album/7htB2ZHN9CsW5jhE0LFTZd) | 2:44 | 2025-07-28 | 2025-08-02 |
+| [BEEN THRU THIS B4](https://open.spotify.com/track/2LvoElzUyNXnOitj2dmrHF) | [Willy Beaman](https://open.spotify.com/artist/0ZdCJB39o81l85QK7PgTTe), [2SIIK23](https://open.spotify.com/artist/7MdCCOefFPgwU9PvwyCB0w) | [BEEN THRU THIS B4](https://open.spotify.com/album/5QYkduH8vIHSml9yVoy8yV) | 3:22 | 2025-12-04 |  |
 | [Beethoven's Aria Für Elise](https://open.spotify.com/track/3auOQTnNNJZaKJl2nlDtGv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Beethoven's Aria Für Elise](https://open.spotify.com/album/60arWJQ36tblu7ootxVhAJ) | 2:29 | 2025-04-18 | 2025-04-25 |
 | [Before I Go](https://open.spotify.com/track/7cRN38N0djEeO6YDFAtHrc) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [vanru](https://open.spotify.com/artist/0BLfDCxhXd4mFmVv1KjJjV) | [Before I Go](https://open.spotify.com/album/1GSUJcKaEBCio5XhM6mWE3) | 2:36 | 2025-11-21 | 2025-11-29 |
 | [Before I Let You Go \(feat\. MarcLo\)](https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X) | [To The World](https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa) | 2:19 | 2024-08-30 | 2024-09-06 |

@@ -4,11 +4,12 @@
 
 > Music from “Girls Band Cry” ©東映アニメーション
 
-59 songs - 2 hr 42 min
+60 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Answer to Extreme](https://open.spotify.com/track/5dPzG4Qv2hAPV60adG25UC) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Answer to Extreme](https://open.spotify.com/album/4OpXV7tSWTnMRwNlLInW6R) | 2:33 | 2024-04-04 | 2024-04-19 |
+| [arrow](https://open.spotify.com/track/2cMp5waSgbghwMw51zOeZI) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [arrow](https://open.spotify.com/album/3GaQmKjQDfRB4HTgfgnWZw) | 3:08 | 2025-12-04 |  |
 | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/track/0SFw1KwH6ltFqzrhST2hGs) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/album/0IxVu1A7uA7WTCHJcOuHAm) | 1:01 | 2024-04-04 | 2024-04-06 |
 | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/track/19jDmN4iPdxdKIgnAQkRqC) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/album/7gk75EjUFhKFdRWPsF4HU1) | 1:01 | 2024-04-06 |  |
 | [Bleeding Hearts](https://open.spotify.com/track/6XjjysW84F31LxB5GDVbZ8) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Bleeding Hearts](https://open.spotify.com/album/55YkdMjpfnqPo2zIFux1BJ) | 3:41 | 2024-04-04 | 2024-04-19 |

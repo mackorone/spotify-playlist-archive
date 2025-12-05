@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-647 songs - 1 day 11 hr 39 min
+649 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Fall For You](https://open.spotify.com/track/64CiQjNwzi8rk7rkBmv8ep) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:12 | 2024-02-27 |  |
 | [Fashion](https://open.spotify.com/track/5mLzwojsbbNFUMnF7HYgsY) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:03 | 2024-02-27 |  |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2024-02-27 |  |
+| [Feel Something](https://open.spotify.com/track/0rNwCsE9Pbkr0Hl5LfnSKz) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Chloe Bennet](https://open.spotify.com/artist/1oW1uPMASwfRMEtRdsnO1P), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Very Jonas Christmas Movie \(Original Soundtrack\)](https://open.spotify.com/album/1IJDQOKfMGSDKy1St3nJVc) | 3:08 | 2025-12-04 |  |
 | [Feel Something](https://open.spotify.com/track/3HqvvZJdmNOLGZZitJsMDh) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Feel Something](https://open.spotify.com/album/7fv9RsUms9XwSPNq0LB4lN) | 1:42 | 2024-02-27 | 2024-04-05 |
 | [FEEL SOMETHING DIFFERENT](https://open.spotify.com/track/5STe0hPlbFwIk0OkjNRJLa) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [elated!](https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1) | 3:27 | 2024-02-27 |  |
 | [Feeling Myself](https://open.spotify.com/track/6sQX0TZHZqgmH7klY8Yhsm) | [Don Pareon](https://open.spotify.com/artist/2wbqbzaMDno0XiQGqZIUGp) | [Ghettogod](https://open.spotify.com/album/1oKIzcTFOozVAPfmCTcbcd) | 3:48 | 2024-06-29 | 2025-06-28 |
@@ -229,6 +230,7 @@
 | [Hit Me Again \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/6c12PkO6SiZ2hLczuRSNSX) | [Johnathan Nieves](https://open.spotify.com/artist/0ycCR1MDf5h3Q6dnlUbDgW), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:06 | 2024-02-27 | 2025-06-28 |
 | [Home](https://open.spotify.com/track/6Ncr1lCYnE3JHwtVK4nLAx) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [NRG 105](https://open.spotify.com/album/6PKB6B0RPSG7aOFcoeDNXZ) | 3:52 | 2024-02-27 | 2025-06-28 |
 | [Home \- From The Motion Picture "Ferdinand"](https://open.spotify.com/track/3ljbxs1TzSdmNFUYPDz50H) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Olé el viaje de Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DdHSJKH7HD2sdaG0HA7DW) | 3:00 | 2025-06-27 |  |
+| [Home Alone](https://open.spotify.com/track/1y9tWIZvkOumFGxzsVGbUk) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Andrew Barth Feldman](https://open.spotify.com/artist/7JdtavLedJga3j8YZlff5R), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Very Jonas Christmas Movie \(Original Soundtrack\)](https://open.spotify.com/album/1IJDQOKfMGSDKy1St3nJVc) | 2:55 | 2025-12-04 |  |
 | [HOME RUN \(feat\. raychel jay\)](https://open.spotify.com/track/7C4TlgLBNgHnD4nH3T8gx4) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [raychel jay](https://open.spotify.com/artist/7zjhhasa5SAMXbDcbmhkoj) | [MANGOTALE](https://open.spotify.com/album/2Xk4f4SBqao4quex0MFLy3) | 2:24 | 2024-02-27 |  |
 | [Home With You](https://open.spotify.com/track/0SHVPx5dQaqBi1um98oWlf) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [First Time \- EP](https://open.spotify.com/album/0ViYtdxPRPslcrPfqwJE9b) | 3:01 | 2024-02-27 |  |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/5UHHuxxYFnuE5KBbpl4Hzu) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/3wLMnrlPtVSADxalu9kIxK) | 2:47 | 2024-02-27 |  |

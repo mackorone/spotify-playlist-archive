@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 24 | [On You \- Radio Edit](https://open.spotify.com/track/3XyrVgRNgHzCjvr4lPUlza) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [On You](https://open.spotify.com/album/0SregtuDjXDnCdsQ8xj1Bt) | 2:50 |
 | 25 | [Cloud 9](https://open.spotify.com/track/64Ro5vbtGnPaxm38QgtLAv) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:08 |
 | 26 | [Favourite Thing](https://open.spotify.com/track/73LjriGJyUfbAzygL9kCpu) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [FEARLESS](https://open.spotify.com/album/1K6Ysz8y164For9ImmTMtO) | 3:14 |
-| 27 | [+PARADOX171115+](https://open.spotify.com/track/7Etcft70udZGn6uy3PSPvo) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [In The Name Of Love 2](https://open.spotify.com/album/3LkYHeJbCoO41fjaLjaccW) | 3:12 |
-| 28 | [Enough](https://open.spotify.com/track/2Uot7WNye4lcCxLzJ9ACuA) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [JESS](https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE) | 3:01 |
+| 27 | [Enough](https://open.spotify.com/track/2Uot7WNye4lcCxLzJ9ACuA) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [JESS](https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE) | 3:01 |
+| 28 | [+PARADOX171115+](https://open.spotify.com/track/7Etcft70udZGn6uy3PSPvo) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [In The Name Of Love 2](https://open.spotify.com/album/3LkYHeJbCoO41fjaLjaccW) | 3:12 |
 | 29 | [Drive](https://open.spotify.com/track/4DFhK8Ir9LuzDYDRfVaoU3) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC) | [Drive](https://open.spotify.com/album/2eG9IWHSefV6uhnhmZJWos) | 3:36 |
 | 30 | [OMG](https://open.spotify.com/track/29Jeg15T0emRfj4AXBbcvu) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:13 |
 | 31 | [Careless](https://open.spotify.com/track/5PvkALN63JsKpLL6uRxtZn) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Careless](https://open.spotify.com/album/21DtFhR9FY6p2fFCwUdy0w) | 2:48 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 60 | [TRU RIDDIM](https://open.spotify.com/track/62pCWKXxzz85jX9lZ8cxAB) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [MOREFIRE 2](https://open.spotify.com/album/3ddg45dZCiS99mmdepomv4) | 2:28 |
 | 61 | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp) | [Kevin The Bear](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2) | 1:51 |
 
-Snapshot ID: `AcDRJgAAAABbIvy7DYFlfprQGD8OWx0t`
+Snapshot ID: `AcDWxgAAAACzjltwHOf5S6n3l4QxVv9M`

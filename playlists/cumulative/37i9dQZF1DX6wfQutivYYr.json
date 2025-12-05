@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Ornella Vanoni sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "RAYE sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -1325,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "Mediterraneo",
+        "url": "https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200590,
+      "name": "Dai che fai",
+      "url": "https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4"
+    },
+    {
+      "album": {
         "name": "DAMME 'NA MANO",
         "url": "https://open.spotify.com/album/0Ibc5Vj9Her5t4YIl9uYM7"
       },
@@ -1830,6 +1848,32 @@
       "duration_ms": 188081,
       "name": "FENTANYL (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/4kDi7X5sgqF0aM74aPBWSc"
+    },
+    {
+      "album": {
+        "name": "FUNNY GAMES",
+        "url": "https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178934,
+      "name": "FINALE DIVERSO (feat. Shiva)",
+      "url": "https://open.spotify.com/track/5fJioNT3gcSavYrplGXmqF"
     },
     {
       "album": {
@@ -2648,7 +2692,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 274000,
       "name": "L'appuntamento",
       "url": "https://open.spotify.com/track/5PnEkOUOFnk0wMI71JwddQ"
@@ -3272,7 +3316,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 209193,
       "name": "MONEY (feat. Artie 5ive, Gu\u00e8)",
       "url": "https://open.spotify.com/track/3jkW1GQ8BYvue3Fh5Ec2bO"
@@ -5082,7 +5126,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 145960,
       "name": "Tu Mi Piaci (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2"

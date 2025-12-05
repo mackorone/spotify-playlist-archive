@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YongYong & Jayci yucca\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 이츠 \(IT'S\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,087 songs - 2 day 18 hr 14 min
+1,088 songs - 2 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [I Will Give You Everything](https://open.spotify.com/track/2pW1y2KEOrgSFJyzgU8LvZ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [\[Vol.48\] You Hee yul's Sketchbook : 26th Voice 'Sketchbook X Jannabi'](https://open.spotify.com/album/1mzynYOm6D6r6hAOUEFjIv) | 3:32 | 2022-04-12 | 2022-07-17 |
 | [I Will Remember You](https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 | 2023-01-10 | 2023-01-26 |
 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-09 | 2025-05-20 |
-| [I'll be here](https://open.spotify.com/track/5GDdCurVrBxfN1IkRRzksB) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [I'll be here](https://open.spotify.com/album/6FUOytpOQW7lukkRPPLXLk) | 3:18 | 2025-12-01 |  |
+| [I'll be here](https://open.spotify.com/track/5GDdCurVrBxfN1IkRRzksB) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [I'll be here](https://open.spotify.com/album/6FUOytpOQW7lukkRPPLXLk) | 3:18 | 2025-12-01 | 2025-12-05 |
 | [I'll Find You](https://open.spotify.com/track/3GHSrN23rQc5qntnr6PtZO) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snap and Spark \(Original Soundtrack\) Part.1](https://open.spotify.com/album/4xle0IjB9CUNbG9NW8xnWz) | 3:22 | 2024-03-21 | 2024-05-10 |
 | [I'll Love You All The Time](https://open.spotify.com/track/1BOYINiqYpWhrKSbMFen5Q) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [I'll Love You All The Time \(Art by Tae Hyunyoung\)](https://open.spotify.com/album/3mp2QXg2VvlNSflsQbULAQ) | 2:48 | 2024-04-09 | 2024-05-10 |
 | [I'll Never Love Again](https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [I’ll Never Love Again](https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN) | 3:45 | 2025-09-24 |  |
@@ -570,6 +570,7 @@
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-12 | 2023-07-08 |
 | [MAISON](https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:05 | 2023-07-25 | 2024-11-07 |
 | [Make My Sadness a Cloud](https://open.spotify.com/track/6ow8tgEnUParRV3jltPcYW) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [Make My Sadness a Cloud](https://open.spotify.com/album/7bOoPZZa4Ztb5CBHU04sqC) | 5:43 | 2024-12-02 | 2025-02-06 |
+| [Matricaria](https://open.spotify.com/track/2sxrVejCO5cJ55MaVCTqAt) | [LUAMEL](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [LUAMEL](https://open.spotify.com/album/2uAy27mdjWXEs26M3zZ1ZE) | 3:44 | 2025-12-04 |  |
 | [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 | 2025-05-07 | 2025-07-19 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 | 2025-05-07 | 2025-07-04 |
 | [Mayfly](https://open.spotify.com/track/1wOpjD9audwpeOYg5JFhAo) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Mayfly](https://open.spotify.com/album/4Zk04mU6yWGluTvNw4VCPt) | 4:02 | 2023-12-26 | 2024-05-10 |

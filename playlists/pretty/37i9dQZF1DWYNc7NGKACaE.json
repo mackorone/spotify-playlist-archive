@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84354,
+  "num_followers": 84330,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,30 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA (REMIX)",
+        "url": "https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE"
+      },
+      "artists": [
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        },
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        },
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA - REMIX",
+      "url": "https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Put0 & Cheiroso (Speed Plug)",
         "url": "https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D"
       },
@@ -335,30 +359,6 @@
       "duration_ms": 159937,
       "name": "Put0 & Cheiroso (Speed Plug)",
       "url": "https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA (REMIX)",
-        "url": "https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE"
-      },
-      "artists": [
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        },
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        },
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA - REMIX",
-      "url": "https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Se a Saudade Bater (Workout Version)",
+        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
+      },
+      "artists": [
+        {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        }
+      ],
+      "duration_ms": 131280,
+      "name": "Se a Saudade Bater (Workout Version)",
+      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Ele Te Bota Soca Soca (Speed Up)",
         "url": "https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 128759,
       "name": "Ele Te Bota Soca Soca - Speed Up",
       "url": "https://open.spotify.com/track/548LVIsbvfP70STa240ZeI"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Se a Saudade Bater (Workout Version)",
-        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
-      },
-      "artists": [
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        }
-      ],
-      "duration_ms": 131280,
-      "name": "Se a Saudade Bater (Workout Version)",
-      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "BOMBEI AQUELA MSC DO INVEJOSO",
-        "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
-      },
-      "artists": [
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "BOMBEI AQUELA MSC DO INVEJOSO",
-      "url": "https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Florxs Speed Up",
         "url": "https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 176040,
       "name": "Florxs Speed Up",
       "url": "https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "BOMBEI AQUELA MSC DO INVEJOSO",
+        "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
+      },
+      "artists": [
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "BOMBEI AQUELA MSC DO INVEJOSO",
+      "url": "https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W"
     },
     {
       "added_at": "2024-07-08 19:10:57",

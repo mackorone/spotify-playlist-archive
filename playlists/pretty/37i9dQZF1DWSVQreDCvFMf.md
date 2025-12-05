@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Amiel Sol
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,682 likes - 105 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,712 likes - 105 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 3 | [Pakikinggan Kita](https://open.spotify.com/track/6NV6wEZlMjZCHXtv3b3Ehv) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Pagsibol](https://open.spotify.com/album/5olTvzPNVcYGJ8UYCJoUnh) | 4:35 |
 | 4 | [Take It To The Roof](https://open.spotify.com/track/0iP5DWmX7dbpxpKot3VzOR) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [HAPPY ACCIDENTS VOL\. 2 \(DELUXE EDITION\)\)](https://open.spotify.com/album/5NTTN3eW7xR3eTcRRD9VFV) | 3:14 |
 | 5 | [rupok](https://open.spotify.com/track/5v5Jhp7OZAejrWbqPQ2y2D) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [rupok](https://open.spotify.com/album/3ICK3HtCmXATv3IKUZsDPt) | 3:06 |
-| 6 | [Clingy](https://open.spotify.com/track/6TTt3qfJjMsQWzARMRCNzq) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP), [Kate Lucero](https://open.spotify.com/artist/1SdZxFV68TbpSkcXCSfvYF) | [Clingy](https://open.spotify.com/album/5LDcYO9XbhB07Ul929cY6B) | 3:18 |
+| 6 | [Clingy](https://open.spotify.com/track/6TTt3qfJjMsQWzARMRCNzq) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP), [Kate Lucero](https://open.spotify.com/artist/68zMRaBN30RjKDpvSa25mq) | [Clingy](https://open.spotify.com/album/5LDcYO9XbhB07Ul929cY6B) | 3:18 |
 | 7 | [Diwa](https://open.spotify.com/track/6amh8Fbb7OU1soIt5u4IAJ) | [NaÏV](https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF) | [Diwa](https://open.spotify.com/album/0ooCc2OFGobyXWxRMnTQ5G) | 4:10 |
 | 8 | [i love you, too](https://open.spotify.com/track/70t6LYwnGLkAIQlHSpqMWR) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [true orange](https://open.spotify.com/album/1eWaVsgQhg4BXn2UowMT9O) | 3:12 |
 | 9 | [Was It Just A Dream?](https://open.spotify.com/track/203DY4imMNmOI5WAJYRi5A) | [Sam Cruz](https://open.spotify.com/artist/4p91hHPvWouBFg3Fgtw03o) | [Was It Just A Dream?](https://open.spotify.com/album/0M0QHpZfBj3bkqqvlXkjJp) | 3:46 |

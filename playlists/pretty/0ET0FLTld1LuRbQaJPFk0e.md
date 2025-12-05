@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ET0FLTld1LuRbQaJPFk0e.md) - [plain]
 
 > Only Rock Music
 
-[Gee Nelson](https://open.spotify.com/user/marijkeschouten85) - 636 likes - 46 songs - 2 hr 53 min
+[Gee Nelson](https://open.spotify.com/user/marijkeschouten85) - 635 likes - 46 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

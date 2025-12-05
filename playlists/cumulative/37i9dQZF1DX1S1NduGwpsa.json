@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Jowee Omicil",
+  "description": "The best jazz new releases. Cover: Flore Benguigui",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 247088,
       "name": "Bibimbop",
       "url": "https://open.spotify.com/track/0eRg65r2d4t5kNslt2MnJ0"
@@ -2620,6 +2620,24 @@
       "duration_ms": 192515,
       "name": "Cargo of Oranges",
       "url": "https://open.spotify.com/track/42WTvRYrLPG3CVivyVqmde"
+    },
+    {
+      "album": {
+        "name": "Pacifiques Biches",
+        "url": "https://open.spotify.com/album/3T8qoyOqISNu86H92G7Enu"
+      },
+      "artists": [
+        {
+          "name": "Florian Pellissier Quintet",
+          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Carnaval de Barranquilla Radio Edit",
+      "url": "https://open.spotify.com/track/1B9puk4a8v3SPB1kxQqyEz"
     },
     {
       "album": {
@@ -4148,6 +4166,24 @@
       "duration_ms": 324000,
       "name": "Dirty Mariposa",
       "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
+    },
+    {
+      "album": {
+        "name": "More Understanding Than A Man / Dis, quand reviendras-tu ?",
+        "url": "https://open.spotify.com/album/4LiyJkRKcsoEvQjZ0cT70T"
+      },
+      "artists": [
+        {
+          "name": "Flore Benguigui & The Sensible Notes",
+          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376600,
+      "name": "Dis, quand reviendras-tu ?",
+      "url": "https://open.spotify.com/track/0jMD8lrNmuSPBE4hYFIjS7"
     },
     {
       "album": {
@@ -9990,7 +10026,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 239989,
       "name": "MARIA (BFFWSA)",
       "url": "https://open.spotify.com/track/7dP95WcTBwVJTGaV71VpYa"
@@ -16583,6 +16619,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/4ykySjQAxiSpS5xNU8R25s"
+    },
+    {
+      "album": {
         "name": "Transe",
         "url": "https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL"
       },
@@ -16890,7 +16944,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 159331,
       "name": "Uno Mas",
       "url": "https://open.spotify.com/track/5keJdI76Sc8wf1jZwCts4G"

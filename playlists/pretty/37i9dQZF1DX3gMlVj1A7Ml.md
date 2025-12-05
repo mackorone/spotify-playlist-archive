@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > De la editorii noștri, highlights EQUAL România din 2025\. Voci feminine la volum maxim! Cover: Irina Rimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,538 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,545 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

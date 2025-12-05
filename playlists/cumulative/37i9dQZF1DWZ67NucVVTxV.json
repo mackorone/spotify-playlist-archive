@@ -1719,6 +1719,28 @@
     },
     {
       "album": {
+        "name": "Be Happy",
+        "url": "https://open.spotify.com/album/34vMoHhwLNN5kg0G76nzdP"
+      },
+      "artists": [
+        {
+          "name": "Duncan Mighty",
+          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243157,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/2yAJrUiP3IRQaQtgTvPV1f"
+    },
+    {
+      "album": {
         "name": "Because of Money",
         "url": "https://open.spotify.com/album/2VcO8zgDs50YQTe3WnPbmL"
       },
@@ -16022,6 +16044,24 @@
       "duration_ms": 159000,
       "name": "Yaya Toure",
       "url": "https://open.spotify.com/track/5FuI6UM6CTxzaN0P0wbZ0i"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/5Uk4XgT6I0lgBagWcrtCsT"
     },
     {
       "album": {

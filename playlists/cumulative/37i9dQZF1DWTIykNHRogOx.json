@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec ESTL",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Heroe",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -1220,6 +1220,28 @@
       "duration_ms": 225662,
       "name": "FVL",
       "url": "https://open.spotify.com/track/6Z07cvmuFdFHTcT7wtIVVu"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Waxx",
+          "url": "https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV"
+        },
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/5R9dBL7sZSMhALmcHuEs5f"
     },
     {
       "album": {
@@ -2715,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Luns",
+          "url": "https://open.spotify.com/artist/79WvCJUXoRYgn8UaNMBGOD"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228973,
+      "name": "Les beaux jours",
+      "url": "https://open.spotify.com/track/5Px41y2EdKE7Hv8cDWVCop"
+    },
+    {
+      "album": {
         "name": "Les derniers jours de pluies (Edit version)",
         "url": "https://open.spotify.com/album/31hyMyNSBb4Sc3qCvNPJwT"
       },
@@ -3166,7 +3206,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 303106,
       "name": "Mille vagues",
       "url": "https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B"
@@ -4198,7 +4238,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 174736,
       "name": "ton ventre",
       "url": "https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM"

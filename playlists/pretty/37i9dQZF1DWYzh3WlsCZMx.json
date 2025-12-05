@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 43318,
+  "num_followers": 43327,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
@@ -699,26 +699,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Drip",
-        "url": "https://open.spotify.com/album/28gUzgrYJ8VKt5dMPUomad"
-      },
-      "artists": [
-        {
-          "name": "Kiddo Marv",
-          "url": "https://open.spotify.com/artist/6HOYSQk7Npiuuy5KDdJQ3o"
-        },
-        {
-          "name": "Major Nine",
-          "url": "https://open.spotify.com/artist/4Ve9PxCRMHIcErb2b6rpLu"
-        }
-      ],
-      "duration_ms": 193657,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/4i9cDBfSVF9r9X0jGNmNoj"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Hoodrat (feat. AzSwaye & Pjay)",
         "url": "https://open.spotify.com/album/4aBeGq3hlU2z7c6EvKjHpc"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 156734,
       "name": "Hoodrat (feat. AzSwaye & Pjay)",
       "url": "https://open.spotify.com/track/0YrYVhq0EukTxojdqLh2Sj"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/28gUzgrYJ8VKt5dMPUomad"
+      },
+      "artists": [
+        {
+          "name": "Kiddo Marv",
+          "url": "https://open.spotify.com/artist/6HOYSQk7Npiuuy5KDdJQ3o"
+        },
+        {
+          "name": "Major Nine",
+          "url": "https://open.spotify.com/artist/4Ve9PxCRMHIcErb2b6rpLu"
+        }
+      ],
+      "duration_ms": 193657,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/4i9cDBfSVF9r9X0jGNmNoj"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-921 songs - 2 day 1 hr 5 min
+923 songs - 2 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [Love Letter \- okgiorgio Remix](https://open.spotify.com/track/28ns7nKVVgCTFr8XR2qA5o) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [Spinback Remixes](https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu) | 3:44 | 2024-05-16 | 2025-08-13 |
 | [love me just a little \- sunset mix](https://open.spotify.com/track/3rhY6sSxPZ7edYUmPlOEdL) | [Rammor](https://open.spotify.com/artist/73147xL7gw2ilXfbVPzTuw) | [love me just a little \(sunset mix\)](https://open.spotify.com/album/0njlMrkZMRgBANWXV8YqFP) | 2:54 | 2023-07-07 | 2024-01-06 |
 | [Love Me Right](https://open.spotify.com/track/0gFtdNsqdG2Nb4F3S5yW4r) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk), [Jeanne Taylor](https://open.spotify.com/artist/1HnArnhrvMb1hHokXaZ6aR), [Davis](https://open.spotify.com/artist/1UMFvfUUhddeehpyd7D8dw) | [Love Me Right](https://open.spotify.com/album/6wqO50mJ8BsZ3M1SQv2oFV) | 2:40 | 2025-08-11 |  |
+| [Love of My Life](https://open.spotify.com/track/1okTdVJviY0tCQqMevNlrG) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Love of My Life](https://open.spotify.com/album/4FUeq1yUrVwEQYRB0vNcK5) | 2:36 | 2025-12-04 |  |
 | [Love The Time](https://open.spotify.com/track/0xEoyl1r3IxcrGwBu6MyyQ) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Love The Time](https://open.spotify.com/album/06EdHzWzopCaCibluEkorL) | 2:05 | 2024-02-29 | 2025-08-13 |
 | [Love Tonight](https://open.spotify.com/track/4O08MXwFgXuoyjmbz8boTe) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Love Tonight](https://open.spotify.com/album/1E7EGXHRWEh1fD66BIUVE5) | 3:20 | 2024-10-03 | 2025-08-13 |
 | [Love Who You Love](https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Love Who You Love](https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY) | 3:59 | 2025-11-07 |  |
@@ -643,6 +644,7 @@
 | [Regret The Morning](https://open.spotify.com/track/4Sj4ZeOPAcdAhYplVbezI0) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Regret The Morning](https://open.spotify.com/album/6tU5eRh9yr1IOBr5vUdx4D) | 2:46 | 2024-02-22 | 2025-08-13 |
 | [Renaissance](https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Renaissance](https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA) | 2:31 | 2023-10-26 | 2024-07-06 |
 | [Resenären](https://open.spotify.com/track/5fwSydkuyJTqAhrPfvM5wr) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Resenären](https://open.spotify.com/album/4ooplbpUcmkYThvwnMLj0Q) | 7:02 | 2024-04-25 | 2025-08-13 |
+| [Rest Easy](https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rest Easy](https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38) | 2:47 | 2025-12-04 |  |
 | [Revolving door \- Lavern remix](https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Revolving door \(remixes\)](https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg) | 2:51 | 2025-04-17 |  |
 | [Right Back](https://open.spotify.com/track/2tCTOwYL6cCTfUVrs7R1rk) | [CHEEKS](https://open.spotify.com/artist/3yeAenPW5DfjuousCOdek9) | [Right Back](https://open.spotify.com/album/3y2TSW4nIQBT810itSLXSY) | 2:03 | 2023-05-16 | 2024-01-06 |
 | [Right Before Our Eyes](https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Right Before Our Eyes](https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd) | 3:04 | 2023-05-18 | 2024-01-06 |

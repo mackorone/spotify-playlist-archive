@@ -2,9 +2,9 @@
 
 ### [\#vainsuomihitit](https://open.spotify.com/playlist/37i9dQZF1DWUvzPS8uIABd)
 
-> Tämän hetken kovimmat suomihitit\. Kannessa Senya.
+> Tämän hetken kovimmat suomihitit.
 
-836 songs - 1 day 17 hr 44 min
+838 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Jossain sä oot](https://open.spotify.com/track/2ZvQ60llWT1r7KbTAsozYW) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Jossain sä oot](https://open.spotify.com/album/6LN6ZANO9lhVSZNFf1i8ou) | 3:37 | 2025-11-20 |  |
 | [Jouluks kotiin](https://open.spotify.com/track/0lPnlw2OqYerwBT9MyoLex) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Jouluks kotiin](https://open.spotify.com/album/0YvTm6IHgUXyUr8Ywow0rn) | 2:44 | 2024-12-12 | 2025-01-03 |
 | [Juhannusyö](https://open.spotify.com/track/2lwbCSDiToiRgz0W79aW3D) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv), [Kake Randelin](https://open.spotify.com/artist/2ECoOJ3zAmnbZoCwTaf9A2) | [Juhannusyö / Mökkielämää](https://open.spotify.com/album/41GFDVxUGZTYn18GLNlOZV) | 3:15 | 2024-07-02 | 2024-08-30 |
+| [Juhlapöydässä \(feat\. Jaakko Kulta\)](https://open.spotify.com/track/1fACAoe2jRmjgB9IdQlmj1) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS), [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Juhlapöydässä \(feat\. Jaakko Kulta\)](https://open.spotify.com/album/3aK3PETPWUAx9StKsbQJeN) | 3:20 | 2025-12-04 |  |
 | [Jumalat juhlivat öisin](https://open.spotify.com/track/1cTUxnoy0BqVpSs43J3mpV) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Jumalat juhlivat öisin](https://open.spotify.com/album/2oj7x1lNyktgT53TG3eJdv) | 2:53 | 2025-09-04 | 2025-09-27 |
 | [Juon ja jumppaan](https://open.spotify.com/track/5SjADIv6H2BYyaD9MSzlC1) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Juon ja jumppaan](https://open.spotify.com/album/6KxrU1ashG04xYChIqCmKS) | 3:48 | 2025-11-20 |  |
 | [Juostaan \(feat\. Sexmane\)](https://open.spotify.com/track/5Yn8jOYR59KhHQdhwiQdXO) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Juostaan \(feat\. Sexmane\)](https://open.spotify.com/album/7iRrwEdTiGkPZN8foy5XQ7) | 3:21 | 2024-07-02 | 2024-09-06 |
@@ -823,6 +824,7 @@
 | [Yksi, kaksi ...tuoppia ja taksi \(Vain elämää kausi 15\)](https://open.spotify.com/track/5Ojn0w97U4M45vT4IiJ287) | [Neon 2](https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN), [Jussi Rainio](https://open.spotify.com/artist/3rOa6CkFm3mFJLGxvl9uDD) | [Yksi, kaksi ...tuoppia ja taksi \(Vain elämää kausi 15\)](https://open.spotify.com/album/1WixdxqHYZBAyjsaldb4RP) | 3:02 | 2024-09-19 | 2024-09-27 |
 | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC) | 2:24 | 2025-11-06 |  |
 | [Ykskaks](https://open.spotify.com/track/62Kv9Gj43kBZxu03OHFOjP) | [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k) | [Ykskaks](https://open.spotify.com/album/4SjCBFoMWnUVeiKhhs7stc) | 2:44 | 2024-08-29 | 2024-09-20 |
+| [Yleismurheilija](https://open.spotify.com/track/7ctx8QVSzkBszLcm2W3ykB) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Yleismurheilija](https://open.spotify.com/album/1EUbT5DupnwfYd9Sn6mNfd) | 3:30 | 2025-12-04 |  |
 | [Yliajattelen sua](https://open.spotify.com/track/3cYXxC2KHuhx1NxiN04g0t) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Yliajattelen sua](https://open.spotify.com/album/5tfV5vwt0S0PMbMZAbkLVp) | 2:51 | 2024-07-04 | 2024-08-23 |
 | [Ylibuukattu](https://open.spotify.com/track/0tHGD8lfEjbIYgG28aVyDz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Ylibuukattu](https://open.spotify.com/album/738LkmjU8QxUmHtOq6Waoh) | 2:49 | 2025-05-08 | 2025-05-23 |
 | [Ylpee](https://open.spotify.com/track/0YiG81JSChnCxKCk5CoRD1) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ylpee](https://open.spotify.com/album/2XWl2i4w4RDGOCAe8bEU4o) | 3:09 | 2024-09-26 | 2025-01-03 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS4sAAAAAAAtCrrgu4rHTZNS2shdaTZb",
+  "snapshot_id": "aS99gAAAAAAO2Tp4aynNYExtypilwDt/",
   "tracks": [
     {
       "added_at": null,
@@ -422,11 +422,23 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+        },
+        {
+          "name": "Maeve Gilchrist",
+          "url": "https://open.spotify.com/artist/389WRgo5xrmZWgpleecYa5"
         }
       ],
-      "duration_ms": 307007,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
+      "duration_ms": 307887,
+      "name": "Last Night Reprise (feat. Cautious Clay, Kaki King, Maeve Gilchrist)",
+      "url": "https://open.spotify.com/track/35IhAAciJPseghP7KlBhVU"
     },
     {
       "added_at": null,
@@ -796,9 +808,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 290909,
-      "name": "Not Trapped Yet",
-      "url": "https://open.spotify.com/track/7bhsMQY2L8XyqcWEPXyNUK"
+      "duration_ms": 209898,
+      "name": "Housing Supply",
+      "url": "https://open.spotify.com/track/3WQg3BLWkZd3VaLNoavV0u"
     }
   ],
   "unique_name": "This Is Arooj Aftab",

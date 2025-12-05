@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Blue Hands",
+        "url": "https://open.spotify.com/album/3PzzUiNtsYSDMRNhSPL1yT"
+      },
+      "artists": [
+        {
+          "name": "Faisal Ryan",
+          "url": "https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167833,
+      "name": "Blue Hands",
+      "url": "https://open.spotify.com/track/1w3oIrfHqtPdFLt7sn4rwy"
+    },
+    {
+      "album": {
         "name": "Rmlm",
         "url": "https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa"
       },
@@ -1112,6 +1130,24 @@
       "duration_ms": 223829,
       "name": "Let Me Be Your Dog",
       "url": "https://open.spotify.com/track/2bp1R3ksi5vIXXcNQSd7KB"
+    },
+    {
+      "album": {
+        "name": "Let's Do It Again",
+        "url": "https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268933,
+      "name": "Let's Do It Again",
+      "url": "https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9CLqcbJJD9.md) - [plain]
 
 > Celebrate World Sleep Day with this collection of peaceful tracks, in partnership with the World Sleep Society.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,152 likes - 91 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,159 likes - 91 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

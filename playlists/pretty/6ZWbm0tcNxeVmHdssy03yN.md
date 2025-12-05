@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 49,813 likes - 116 songs - 5 hr 51 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 49,827 likes - 116 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 17 | [Cara a Cara](https://open.spotify.com/track/1FVloGP4skYfDv6I2qdrlD) | [Sabor Canela y un Poquito de Café](https://open.spotify.com/artist/0M3NXdPUruoUxCF7nSVjeZ) | [CUMBIA MASTER SESSION](https://open.spotify.com/album/13nrETA2nSEW499EpEmpJp) | 2:16 |
 | 18 | [Sin Rumbo](https://open.spotify.com/track/71ESrD1M1KZDS3J61gGKRw) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Sin Rumbo](https://open.spotify.com/album/2c5wxvRhIqdd1RSOk2ff2o) | 3:24 |
 | 19 | [heartache](https://open.spotify.com/track/31h6ZSWtzHF60lkg6IEylD) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [true orange](https://open.spotify.com/album/1eWaVsgQhg4BXn2UowMT9O) | 3:35 |
-| 20 | [All Strings Attached](https://open.spotify.com/track/6rhwQ8GoJhZnEHiJTnAMvN) | [NVY](https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa) | [All Strings Attached](https://open.spotify.com/album/7556rNXZPVQyVzWRYlbgAf) | 2:30 |
+| 20 | [All Strings Attached](https://open.spotify.com/track/6rhwQ8GoJhZnEHiJTnAMvN) | [NVY](https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa), [Illuminhadi](https://open.spotify.com/artist/5XAv2ZKaRm5PHhWAMFFkSf) | [All Strings Attached](https://open.spotify.com/album/7556rNXZPVQyVzWRYlbgAf) | 2:30 |
 | 21 | [Run](https://open.spotify.com/track/08LjUrT7qr7yCxilesFIyU) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [ZaZa Fest](https://open.spotify.com/album/5cVnPrNQ4UZm2mniwOR9mu) | 2:20 |
 | 22 | [Justify](https://open.spotify.com/track/7lvWVI3diu50eevJ4u8QNX) | [Solomon Fox](https://open.spotify.com/artist/3Cit7qPJ2qWQrIuidej4Tj), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Sweetteeth](https://open.spotify.com/album/3Y4SMHwKptgaDwb4n33zWk) | 4:40 |
 | 23 | [Do It Big](https://open.spotify.com/track/3xBqR4457WvdXF0nkZeP5k) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Do It Big / TTU](https://open.spotify.com/album/6SUhix4vL6c3kt8Bz7h4pa) | 2:33 |

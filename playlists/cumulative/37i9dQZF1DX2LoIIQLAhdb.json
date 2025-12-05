@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Monsieur Nov",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tayc x Abou Tall",
   "name": "R&Bae",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 146865,
       "name": "3AM in San Francisco",
       "url": "https://open.spotify.com/track/1fHl2iP3wNPBVIj6RUjXue"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 189500,
       "name": "ANDALE",
       "url": "https://open.spotify.com/track/5nXf4EqLFBMcjQlBkdpRrw"
@@ -2545,6 +2545,28 @@
     },
     {
       "album": {
+        "name": "BLUE 2",
+        "url": "https://open.spotify.com/album/2El95Sjx3E9J46E6F5A1B1"
+      },
+      "artists": [
+        {
+          "name": "Yena Blue",
+          "url": "https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4"
+        },
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Dedans",
+      "url": "https://open.spotify.com/track/4KtN92VvzPx04D8w9QvmvP"
+    },
+    {
+      "album": {
         "name": "Demoiselle",
         "url": "https://open.spotify.com/album/3d84xx6ylXxDnLMQIzMHF4"
       },
@@ -3086,7 +3108,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 158263,
       "name": "D\u00e9sarmer",
       "url": "https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC"
@@ -3224,7 +3246,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 140000,
       "name": "ENCORE",
       "url": "https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU"
@@ -4466,7 +4488,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 140733,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/6rHoscPV4WpcW0TYmxGX0U"
@@ -5329,6 +5351,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Abou Tall",
+          "url": "https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "LA NUIT",
+      "url": "https://open.spotify.com/track/4pHVdkN98bY0UoEHcvGVMw"
+    },
+    {
+      "album": {
         "name": "La Pluie",
         "url": "https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ"
       },
@@ -5459,6 +5503,24 @@
     },
     {
       "album": {
+        "name": "LECHOIX",
+        "url": "https://open.spotify.com/album/0a4G89bmaoVLyHNNQTCIpv"
+      },
+      "artists": [
+        {
+          "name": "NAYRA",
+          "url": "https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230551,
+      "name": "LECHOIX",
+      "url": "https://open.spotify.com/track/49p3bg5Djy5Znzf8LuiSJk"
+    },
+    {
+      "album": {
         "name": "Premier souffle",
         "url": "https://open.spotify.com/album/46qJPZhur04U9SGPzhNZKJ"
       },
@@ -5474,6 +5536,28 @@
       "duration_ms": 158786,
       "name": "Lentement",
       "url": "https://open.spotify.com/track/5iAmmra4TKlT2zXT11pf7h"
+    },
+    {
+      "album": {
+        "name": "Les Mots",
+        "url": "https://open.spotify.com/album/6CYMffTfmeFxEewRVKptDF"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206255,
+      "name": "Les Mots",
+      "url": "https://open.spotify.com/track/5liA8qCrPwHJklLDy0RMBi"
     },
     {
       "album": {
@@ -6448,6 +6532,28 @@
       "duration_ms": 153762,
       "name": "Mi amor",
       "url": "https://open.spotify.com/track/6hxhsDAQbz2ZH3KBVpprFj"
+    },
+    {
+      "album": {
+        "name": "Miel (feat. Lisandro Cuxi)",
+        "url": "https://open.spotify.com/album/76ewade2CAsGJbWeKVj9LB"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        },
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146333,
+      "name": "Miel (feat. Lisandro Cuxi)",
+      "url": "https://open.spotify.com/track/5s0A1dh578tudMzR8mNnfU"
     },
     {
       "album": {

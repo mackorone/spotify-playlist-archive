@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Harley",
+  "description": "Tracks popping off in the Afro scene. Cover: Shallipopi",
   "name": "Afro Station",
   "tracks": [
     {
@@ -2218,7 +2218,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 171138,
       "name": "Baratin",
       "url": "https://open.spotify.com/track/0h6g68cbe1G5E4acldFj4l"
@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 197288,
       "name": "Belinda",
       "url": "https://open.spotify.com/track/03pv8d28pqb7edfT6JvwzD"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 166532,
       "name": "Big Man Ting (feat. Stefflon Don & Egnever)",
       "url": "https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk"
@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 206968,
       "name": "BIG TIME (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
@@ -9247,6 +9247,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197956,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
+    },
+    {
+      "album": {
         "name": "in love with us",
         "url": "https://open.spotify.com/album/0IlLTDo99PpMqQKMnvLN3f"
       },
@@ -10319,6 +10341,28 @@
     },
     {
       "album": {
+        "name": "Kay Kay (feat. Jeeba)",
+        "url": "https://open.spotify.com/album/5opUXC6KGNFwcniFmzGsDb"
+      },
+      "artists": [
+        {
+          "name": "Papi Del Sol",
+          "url": "https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H"
+        },
+        {
+          "name": "Jeeba",
+          "url": "https://open.spotify.com/artist/1o6J9M8kEghvucyX8q9OiY"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155604,
+      "name": "Kay Kay (feat. Jeeba)",
+      "url": "https://open.spotify.com/track/2hdKGD5H2G2AaqGwFwHOJo"
+    },
+    {
+      "album": {
         "name": "Bully Season Vol.2 : Pretty Girls Love Afrobeats",
         "url": "https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c"
       },
@@ -10432,7 +10476,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 173076,
       "name": "King Solo",
       "url": "https://open.spotify.com/track/1ouhG4YvAkBvaRD154DxhX"
@@ -12599,6 +12643,28 @@
     },
     {
       "album": {
+        "name": "Miel (feat. Lisandro Cuxi)",
+        "url": "https://open.spotify.com/album/76ewade2CAsGJbWeKVj9LB"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        },
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146333,
+      "name": "Miel (feat. Lisandro Cuxi)",
+      "url": "https://open.spotify.com/track/5s0A1dh578tudMzR8mNnfU"
+    },
+    {
+      "album": {
         "name": "Tayo",
         "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
       },
@@ -13902,7 +13968,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 170013,
       "name": "Nights In The Sun (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
@@ -14677,6 +14743,28 @@
     },
     {
       "album": {
+        "name": "On A Low",
+        "url": "https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs"
+      },
+      "artists": [
+        {
+          "name": "Elestee",
+          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136062,
+      "name": "On A Low",
+      "url": "https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR"
+    },
+    {
+      "album": {
         "name": "On Avance",
         "url": "https://open.spotify.com/album/2wbjr0A2y2DEAIBeLwbHYU"
       },
@@ -14947,6 +15035,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110063,
+      "name": "Opeuhh (feat. KeBlack)",
+      "url": "https://open.spotify.com/track/3k9Il6m7lJ9qufXyahvEhH"
+    },
+    {
+      "album": {
         "name": "Afroland : Bleu Nuit",
         "url": "https://open.spotify.com/album/1fmvqeOzCZji4DcGVFZtLa"
       },
@@ -15178,7 +15288,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 191865,
       "name": "PANAMA",
       "url": "https://open.spotify.com/track/3GR6yHgiEj1FVYzIj77mQO"
@@ -17588,6 +17698,24 @@
       "duration_ms": 149387,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/3u0tINIZfFZtvXoODwujic"
+    },
+    {
+      "album": {
+        "name": "Smooth Boy",
+        "url": "https://open.spotify.com/album/7eUGHFdB2vChzStX6avBQ0"
+      },
+      "artists": [
+        {
+          "name": "Hulk",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Smooth Boy",
+      "url": "https://open.spotify.com/track/26vQYGNXtd4Qz3yavoq2J7"
     },
     {
       "album": {

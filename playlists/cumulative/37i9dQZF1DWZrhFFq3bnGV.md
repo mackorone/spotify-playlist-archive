@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Sliver
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Societeit de Harmonie, Natasya Elvira
 
-280 songs - 19 hr 25 min
+281 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Perjalanan](https://open.spotify.com/track/2Xzzv1HLYnxLkeGwMeQyC3) | [5Petani](https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp) | [Perjalanan](https://open.spotify.com/album/12e9PBz29sAkDK3SuBCX3j) | 4:56 | 2023-03-03 | 2023-08-25 |
 | [Perjumpaan Kita](https://open.spotify.com/track/0XrhqWIImjM7MlImOZUXZX) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt), [Dian Sastrowardoyo](https://open.spotify.com/artist/2z03bPWIFofruoPDCNj7GG) | [Detik Waktu \#2 : Perjalanan Karya Cipta Candra Darusman](https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB) | 4:45 | 2022-09-02 | 2023-07-14 |
 | [Pernah Muda](https://open.spotify.com/track/5Mi1HrLmE9tAz8VhTFhsCm) | [Deredia](https://open.spotify.com/artist/2suoGMN4uGe4gCBFwfkfoz) | [Pernah Muda](https://open.spotify.com/album/5ws56GVot5fiNNHtS2TvzR) | 3:30 | 2025-11-06 |  |
+| [Petir](https://open.spotify.com/track/54pQxeXhe2uA9ZkD8gk7aX) | [Societeit de Harmonie](https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9), [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [Petir](https://open.spotify.com/album/1paDGm5DF3qD6j0jPCfSMh) | 2:26 | 2025-12-04 |  |
 | [Piccadilly](https://open.spotify.com/track/4an0lMBXVVuvjp62nNiAJT) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Two of a Kind](https://open.spotify.com/album/5Wv1AZE2RhdRLhKmrL1jtm) | 4:36 | 2022-09-02 | 2025-02-07 |
 | [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 | 2024-06-06 |  |
 | [Promesa](https://open.spotify.com/track/1smsqbB2XigojjpaWhbrZA) | [Bass G](https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ) | [Baciare / To Kiss](https://open.spotify.com/album/1I6kZIPX729gCglmRUG78h) | 3:52 | 2023-03-03 | 2023-08-18 |

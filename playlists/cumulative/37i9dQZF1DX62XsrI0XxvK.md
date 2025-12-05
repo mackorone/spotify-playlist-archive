@@ -2,16 +2,18 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Jordan Susanto
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Naomi Ivo
 
-198 songs - 11 hr 51 min
+200 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(NO\)STALGIA](https://open.spotify.com/track/75FuKBIZqdI5FiMFKWSUZF) | [DAYFAIR](https://open.spotify.com/artist/3grE5TqsfwLPsljwMAnPEl), [N0en](https://open.spotify.com/artist/2gv3tIgZWNY7aCgha1y6cs) | [\(NO\)STALGIA](https://open.spotify.com/album/5gf4SHNy7X21805le62wgA) | 3:13 | 2025-12-04 |  |
 | [321 I'm Callin'](https://open.spotify.com/track/175z25mCfPPPSLKgXPYRAi) | [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [321 I'm Callin'](https://open.spotify.com/album/6aJRcWfTIFfNc1GB44zggV) | 2:48 | 2024-10-03 | 2025-05-30 |
 | [a feeling](https://open.spotify.com/track/6TPUbm9rVuawjfbbz88c58) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Doves, '25 on Blank Canvas](https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU) | 3:05 | 2025-02-27 |  |
 | [A Seat For You \(feat\. Quinn Oulton\)](https://open.spotify.com/track/4PTvtwE3FMkwRYRpgNJckO) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [A Seat For You \(feat\. Quinn Oulton\)](https://open.spotify.com/album/2YmzK6yQ9pZuR9ZQPyX4gJ) | 3:10 | 2025-04-17 | 2025-08-01 |
 | [ADDICTION](https://open.spotify.com/track/62yN59Z49wkOnPByz4VzWI) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [ADDICTION](https://open.spotify.com/album/7c1IM0Lwuv0NzcFAt6FVSp) | 2:29 | 2025-07-17 |  |
+| [Addiction \- Acoustic](https://open.spotify.com/track/2FfiwEFWDceK0TlkpAwLIH) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Addiction \(Acoustic\)](https://open.spotify.com/album/3t8LQCTAuhNLUtOGnUPMoz) | 2:35 | 2025-12-04 |  |
 | [Again](https://open.spotify.com/track/1VyIAhJTXnOPH2tS0XmxTK) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Again](https://open.spotify.com/album/0Yea9WMntfl4PY8JdYfFqh) | 3:34 | 2025-08-07 |  |
 | [Against All The Odds](https://open.spotify.com/track/5HevQCX2dDxGXDmQOYDXkc) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Merangkai](https://open.spotify.com/album/4qAa6aWYwW1do7TQyBMz7z) | 4:14 | 2025-05-16 |  |
 | [All of Our Friends](https://open.spotify.com/track/5n04xhk5uLiRODhnms3eow) | [Melisa Lestira](https://open.spotify.com/artist/5TAIXdOUxvx8CK65DG00KV) | [All of Our Friends](https://open.spotify.com/album/50ZCoF9liqAOOS5Q41Sdhc) | 4:17 | 2025-05-29 | 2025-10-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Aswell
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,569 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,562 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 28 | [Briller \- Golden \- version française](https://open.spotify.com/track/4Zg2p0S5G6dxF3xCmRBv3R) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [Alexiane Broque](https://open.spotify.com/artist/5qIdeu6LWidREML9dzL0WD), [Jeanne Jérosme](https://open.spotify.com/artist/55MG6lE79B7ClZe6nMSnrK), [Clotilde Verry](https://open.spotify.com/artist/5QrZth2MNx8LlLnzkVaqKr), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [Golden \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/album/2FZ9yvgjgkzgcvvRMLx9Ab) | 3:12 |
 | 29 | [m'enfuir d'ici](https://open.spotify.com/track/5MzrIFmRok1Z0sI1VwlAyT) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [m'enfuir d'ici](https://open.spotify.com/album/4T4Y6yYlwkz1tVvFjXaKHQ) | 2:42 |
 | 30 | [Les belles journées](https://open.spotify.com/track/149PVFd63moqGMo0wWWOV4) | [BlackLife](https://open.spotify.com/artist/7rgPkJCE9ppxsVKX6szjRZ), [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Les belles journées](https://open.spotify.com/album/1ZdtDnS8g7rp7kWqO1MbJC) | 2:35 |
-| 31 | [Tout ce qui compte](https://open.spotify.com/track/4Ww3l19uyZ2CKDV3PaHmWu) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [Tout ce qui compte](https://open.spotify.com/album/2Y5X6oYsqlRBqoofr3URHJ) | 3:07 |
+| 31 | [Tout ce qui compte](https://open.spotify.com/track/4Ww3l19uyZ2CKDV3PaHmWu) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt) | [Tout ce qui compte](https://open.spotify.com/album/2Y5X6oYsqlRBqoofr3URHJ) | 3:07 |
 | 32 | [La Dérive](https://open.spotify.com/track/2OEXpDNX0IIdwq0LlIeide) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Re;;;Virer nos vies](https://open.spotify.com/album/0XOrOrjjI1GBF6PmXWSk3O) | 2:59 |
 | 33 | [Not What’s Going On](https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5) | 2:54 |
 | 34 | [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(10th Anniversary Edition\)](https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb) | 3:14 |

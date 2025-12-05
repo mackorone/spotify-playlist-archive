@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-970 songs - 2 day 13 hr 44 min
+971 songs - 2 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Años Luz](https://open.spotify.com/track/2q6SILTaiw23fbn69NSqXm) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Loba](https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9) | 3:41 | 2024-10-12 |  |
 | [Baby](https://open.spotify.com/track/4AMNVe8rOzR1uR0HOlIc3w) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:06 | 2024-01-29 |  |
 | [Baby Doll](https://open.spotify.com/track/3CUgMeKdZlHUyMIH5o6Ufd) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:43 | 2024-03-10 |  |
+| [Baby!](https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:40 | 2025-12-04 |  |
 | [Back For More](https://open.spotify.com/track/63eKGyalhj3iFSVyzqKaoF) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [ULTRAVIOLET](https://open.spotify.com/album/75LxF9bnfpeimog46qoQJl) | 3:08 | 2024-06-20 |  |
 | [Backseat Love](https://open.spotify.com/track/3IIB1NI2xpbJ3iXg4Fc2DC) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 2:48 | 2025-06-27 |  |
 | [Backseat Love](https://open.spotify.com/track/1Y8COhjk0mv8ok2aJV9mly) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Suspended Kid](https://open.spotify.com/album/6fxq6rO03F1ElbvfVkJhzY) | 3:40 | 2024-06-20 |  |
@@ -391,7 +392,7 @@
 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 | 2024-01-29 |  |
 | [Hot Sauce To Go](https://open.spotify.com/track/5h5jpwhruo6Mzwwl27C8Jw) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Kiss Of Death](https://open.spotify.com/album/3P7zOlM3IYKqW7f4Px6WKv) | 3:56 | 2024-06-20 | 2025-11-26 |
 | [Hot Thing \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3JxDy5oyoxfjDZQBcuQErB) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Looking 4 Myself \(Expanded Edition\)](https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g) | 3:27 | 2024-06-20 |  |
-| [Hot\-n\-Fun](https://open.spotify.com/track/3o3kju9CMP1JxKsjLOpQhp) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Nothing \(Deluxe Explicit Version\)](https://open.spotify.com/album/1yy1UWlWsmbOJzQmcHlMyx) | 3:24 | 2024-01-29 | 2025-12-04 |
+| [Hot\-n\-Fun](https://open.spotify.com/track/3o3kju9CMP1JxKsjLOpQhp) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Nothing \(Deluxe Explicit Version\)](https://open.spotify.com/album/1yy1UWlWsmbOJzQmcHlMyx) | 3:24 | 2024-01-29 |  |
 | [House Party](https://open.spotify.com/track/1OxxhfpPAaggNcWB2WAnpJ) | [Guitar Dreamers](https://open.spotify.com/artist/4n79tc6TJlvs0oMdy307bR) | [Guitar Dreamers Acoustic Renditions of Sam Hunt](https://open.spotify.com/album/4yoK6KZ4rwauXWOCxaTDWK) | 3:06 | 2024-06-20 |  |
 | [How Does It Feel?](https://open.spotify.com/track/2tnDCiCPQd7NdheD0EaSnR) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 3:35 | 2025-06-27 |  |
 | [Hug Me](https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Trey Parker](https://open.spotify.com/artist/0NnoRcD3WkqC9aouHyE8YY) | [Despicable Me 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c) | 2:20 | 2024-01-29 |  |

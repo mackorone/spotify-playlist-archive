@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,288 songs - 2 day 1 hr 16 min
+1,290 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Endless Trial](https://open.spotify.com/track/6khoEFdFHEJvKpEqjscyXc) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Endless Trial](https://open.spotify.com/album/2X5s9BJcQ3kWg3eMr9sIiI) | 1:48 | 2022-08-12 | 2024-05-21 |
 | [Enjoy](https://open.spotify.com/track/7feSrht6OcaDya6Un742qQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Enjoy](https://open.spotify.com/album/7BdAV4twF950bjoesRSrta) | 1:50 | 2022-05-20 | 2025-01-11 |
 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 | 2021-11-10 | 2022-07-22 |
+| [Escape](https://open.spotify.com/track/6vF4LLcHVYeWAKNV7JT7VV) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [Escape](https://open.spotify.com/album/2z9VbBhqV4YexR3UX6tAeJ) | 2:30 | 2025-12-04 |  |
 | [Essence](https://open.spotify.com/track/6TsfMWf0hyOq0ReOC1tPo2) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Essence](https://open.spotify.com/album/0ufT8iY30Fvqvr5DAU8LOw) | 2:36 | 2021-11-10 | 2023-04-12 |
 | [Eternal Minds](https://open.spotify.com/track/1hI8kgl7nOWmpWDS4TPPqa) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Eternal Minds](https://open.spotify.com/album/7Drd5CWkI3dxigj0DVHiLL) | 2:20 | 2023-10-13 | 2025-07-16 |
 | [Ethereal](https://open.spotify.com/track/1ThCIYjM5j5UWPRd39PEd8) | [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Ethereal](https://open.spotify.com/album/1fIKqOS8o1aNSwloiSAUz3) | 2:48 | 2025-01-10 | 2025-02-20 |
@@ -625,7 +626,7 @@
 | [Life](https://open.spotify.com/track/7lzdvV0WJPgEK3BFBVv9QV) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Life](https://open.spotify.com/album/06zhjwSw4KeDhxJJj7QX3h) | 2:03 | 2023-03-16 | 2025-07-16 |
 | [life is a balloon](https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [comic sans](https://open.spotify.com/album/5pG11FB3kK2GNbFpW4w6Vu) | 1:44 | 2021-11-10 | 2022-04-08 |
 | [Life Tools](https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Life Tools](https://open.spotify.com/album/38hMfjKQMQTUYpbtku1KRK) | 1:44 | 2021-11-10 | 2022-05-27 |
-| [Lifted](https://open.spotify.com/track/2TiPnK5thdkQPHpGJDhf4m) | [Lumini](https://open.spotify.com/artist/2cbLFoYZjIj973sMYSZRpu), [Chill Denis](https://open.spotify.com/artist/4gOKqVqVRQCGUrc70alpbr) | [Lifted](https://open.spotify.com/album/1tRGn7tdLi2a4Z9MHxNZOM) | 2:29 | 2022-11-25 |  |
+| [Lifted](https://open.spotify.com/track/2TiPnK5thdkQPHpGJDhf4m) | [Lumini](https://open.spotify.com/artist/2cbLFoYZjIj973sMYSZRpu), [Chill Denis](https://open.spotify.com/artist/4gOKqVqVRQCGUrc70alpbr) | [Lifted](https://open.spotify.com/album/1tRGn7tdLi2a4Z9MHxNZOM) | 2:29 | 2022-11-25 | 2025-12-05 |
 | [Lights](https://open.spotify.com/track/4MlmBmPtPM6s9Cfam4Atu2) | [Hiyo](https://open.spotify.com/artist/56BK0gldl5Dfmoy7V2R02u) | [Lights](https://open.spotify.com/album/14JM0balFbJSoo8seVRfmB) | 2:09 | 2022-05-27 | 2023-09-22 |
 | [Like Yesterday](https://open.spotify.com/track/0tIvW9b2qB122R6LW4RGGp) | [Lab Progression](https://open.spotify.com/artist/1KWvzy2ks6bKSBD3rMj5yk), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Jammin Berries](https://open.spotify.com/artist/46TWlcFSSZbWiB9k9n0P8o) | [Like Yesterday](https://open.spotify.com/album/5C4cp7PXSS7LqEEEe9WIIX) | 2:08 | 2023-09-15 | 2025-07-16 |
 | [Lilac](https://open.spotify.com/track/7tYIZwtQh934BkuvteWU7a) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Angelic](https://open.spotify.com/album/4Eo23frSvhsRh6vDMwuqku) | 2:07 | 2021-11-10 | 2022-07-29 |
@@ -856,6 +857,7 @@
 | [Palace in The Sky](https://open.spotify.com/track/4pzMiVfo8eUDYILNcrMKmx) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Finding Beauty](https://open.spotify.com/album/4tyVFwW3TMK03VlD5Gl7uf) | 2:33 | 2021-11-10 | 2022-07-22 |
 | [Palm Beach](https://open.spotify.com/track/7HSwYc1zmjCeQjmzgp6YtB) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 1:52 | 2021-11-10 | 2023-03-18 |
 | [Paper Plane](https://open.spotify.com/track/7C3jWjgrThp6qP0KS6zZwy) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE) | [Paper Plane](https://open.spotify.com/album/4MAjQfYWQYYzkFaVrt7jGD) | 2:08 | 2021-11-10 | 2022-10-15 |
+| [Paper Windows](https://open.spotify.com/track/0JIqyyarux3DtN48uZfbw3) | [Moonloop](https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg) | [Paper Windows](https://open.spotify.com/album/2JcGpnC8CG5U9GNZo4Civc) | 2:04 | 2025-12-04 |  |
 | [Pass It On](https://open.spotify.com/track/6W14nPKn5Xro5bg98uTM33) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Pass It On](https://open.spotify.com/album/50qapmoJ4j60haCzDTp9hX) | 2:15 | 2021-11-10 | 2022-07-22 |
 | [passion](https://open.spotify.com/track/61gU1pAQvkVNk634ziWeAJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [passion](https://open.spotify.com/album/5q6jCRB7axn9V3JbHKfdbW) | 2:26 | 2024-02-02 |  |
 | [Past Midnight](https://open.spotify.com/track/7BRIAMsYoDibVWzelRRxne) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L), [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S) | [Past Midnight](https://open.spotify.com/album/01tzaLa2yzvxwlswYjUv1v) | 1:56 | 2022-11-25 | 2023-11-18 |
@@ -1152,7 +1154,7 @@
 | [Tidal Dream](https://open.spotify.com/track/447zVLZbjxNYmeWSm5cm6x) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [Tidal Dream](https://open.spotify.com/album/6VpMu9NroBHtc6GsIAPJsy) | 2:40 | 2025-11-25 |  |
 | [Time \- Birds of the West Remix](https://open.spotify.com/track/1kl3d9lcw2OaIx1I3JmfLS) | [Karmacoda](https://open.spotify.com/artist/4X45nKUBNLpHB92NUo3TQE), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Time \(Birds of the West Remix\)](https://open.spotify.com/album/5FO1Dap8bsOhZ98WMy5Vv5) | 2:59 | 2022-09-09 | 2023-10-06 |
 | [Time Out](https://open.spotify.com/track/0XucO4F8DbXgABJvfDgY8F) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Layandar](https://open.spotify.com/artist/3SE9JR8Ors7GGbUWHYjgsv), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Time Out](https://open.spotify.com/album/7b3ICAYEyq0JiGVZZgEIth) | 2:14 | 2022-06-10 | 2023-09-22 |
-| [Time To Fly](https://open.spotify.com/track/4lnTZHXAvMOuQSeAI4pp8o) | [KLYKA](https://open.spotify.com/artist/0OWKTmghewHnHIJzyYjSPP) | [Time To Fly](https://open.spotify.com/album/4LRz5K5TPO3MQDw5Iavkeb) | 1:44 | 2022-12-09 |  |
+| [Time To Fly](https://open.spotify.com/track/4lnTZHXAvMOuQSeAI4pp8o) | [KLYKA](https://open.spotify.com/artist/0OWKTmghewHnHIJzyYjSPP) | [Time To Fly](https://open.spotify.com/album/4LRz5K5TPO3MQDw5Iavkeb) | 1:44 | 2022-12-09 | 2025-12-05 |
 | [Time Voyagers](https://open.spotify.com/track/1zuzGuafawLRigw1I1NW8M) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Time Voyagers](https://open.spotify.com/album/2hqJIu5LcnkOJ4ou5ezxPe) | 2:37 | 2022-11-25 | 2023-04-28 |
 | [Time's Memories](https://open.spotify.com/track/6MEdygUrQQcTBonYYMhb7g) | [MY7O](https://open.spotify.com/artist/29bFz21OCfBIhQ7RoAfI5z) | [Time's Memories](https://open.spotify.com/album/2wxkse9MOM5dNrzu2U32PV) | 2:12 | 2022-07-22 | 2023-10-06 |
 | [Timeless](https://open.spotify.com/track/29fn9cpQP5bXvTOQiJrUfq) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Timeless](https://open.spotify.com/album/3GhCdZi59qYMUNbHTvDdsp) | 2:21 | 2023-05-19 | 2025-07-16 |

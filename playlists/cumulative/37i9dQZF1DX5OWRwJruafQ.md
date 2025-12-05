@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-754 songs - 1 day 11 hr 57 min
+755 songs - 1 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 | 2025-03-10 |  |
 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 | 2024-01-05 |  |
 | [Salsa](https://open.spotify.com/track/5Mucj4DOIk5ADhSEGUQNQK) | [Akki Singh](https://open.spotify.com/artist/2yBmVcWWS9JMaigPqVkZuu), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Urban Singh](https://open.spotify.com/artist/2RoHJpBTtlOZ891LYhsRqE), [Preet Zayne](https://open.spotify.com/artist/3LOUhtcczFGQg0uNQUxI6c) | [Salsa](https://open.spotify.com/album/5axXGLpHifpJuW4JFyEaph) | 3:05 | 2024-04-15 | 2024-04-24 |
+| [Salute](https://open.spotify.com/track/1uxVdOrmHL5Rsi7mtEGwZv) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Salute](https://open.spotify.com/album/1vBE1y0cPiVrJ6ntTBAQUc) | 3:33 | 2025-12-04 |  |
 | [Sangeet](https://open.spotify.com/track/39V6hSkf2ib8CgwgiaHfbO) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Rap Star Reloaded](https://open.spotify.com/album/6zVDnyx2GYjD4eLNtYEqyt) | 2:43 | 2024-04-22 | 2024-04-27 |
 | [Sanghastyle](https://open.spotify.com/track/0HYEmFPFusPRA8YmiM4eAA) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Interstellar](https://open.spotify.com/album/6ZKnxmNE5nuLHa4mtwZfRF) | 3:16 | 2025-11-05 | 2025-11-22 |
 | [Sanjay Dutt](https://open.spotify.com/track/6IN08l8EkriTzXQ1KFCb9Y) | [Vadda Grewal](https://open.spotify.com/artist/0l25Af4xjrqTYCHUxkrs0c), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Sanjay Dutt](https://open.spotify.com/album/6UHTNreKfTn9Mr7Wyh3Ptv) | 2:37 | 2024-10-22 | 2024-11-21 |
@@ -742,7 +743,7 @@
 | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK) | 2:40 | 2023-10-17 | 2023-10-24 |
 | [Whatcha Doin'](https://open.spotify.com/track/4qQnXwD4XtiWq4PfjQoTbo) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 2:17 | 2023-10-26 | 2023-11-17 |
 | [Whatcha Doin'](https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:17 | 2023-10-06 | 2025-04-18 |
-| [Whip](https://open.spotify.com/track/7J3etpiNIaZvwvuRC9A74B) | [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Whip](https://open.spotify.com/album/6GaaBurWUFqaEGBqm3ph6h) | 2:57 | 2025-11-03 |  |
+| [Whip](https://open.spotify.com/track/7J3etpiNIaZvwvuRC9A74B) | [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Whip](https://open.spotify.com/album/6GaaBurWUFqaEGBqm3ph6h) | 2:57 | 2025-11-03 | 2025-12-05 |
 | [WHIPZ](https://open.spotify.com/track/6iXe41VKKp4qhUHkck3PLn) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [WHIPZ](https://open.spotify.com/album/5wHzhNd4mvCJDLElJ4863a) | 2:15 | 2023-06-23 | 2024-08-13 |
 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 | 2023-06-19 | 2024-03-05 |
 | [Who's Who](https://open.spotify.com/track/5w3Ali1DzhSM2EZXRdemJR) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [The Blueprint](https://open.spotify.com/album/72dsaX2bPjbD1UuwSteXUx) | 2:11 | 2023-09-22 | 2023-10-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Barsena Bestandhi\n",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Wali\n",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Addiction (Acoustic)",
+        "url": "https://open.spotify.com/album/3t8LQCTAuhNLUtOGnUPMoz"
+      },
+      "artists": [
+        {
+          "name": "Naomi Ivo",
+          "url": "https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155610,
+      "name": "Addiction - Acoustic",
+      "url": "https://open.spotify.com/track/2FfiwEFWDceK0TlkpAwLIH"
+    },
+    {
+      "album": {
         "name": "Adilkah",
         "url": "https://open.spotify.com/album/6mg7IFvjhK7gqyuLJYtY7z"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 204587,
       "name": "Ai",
       "url": "https://open.spotify.com/track/6qeLyF5vcvcYhTVB6etSSN"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 182000,
       "name": "Beri Aku Kesempatan",
       "url": "https://open.spotify.com/track/3yb7fJpijqncdBtr3YDVAT"
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 184000,
       "name": "Berselimut Di Batin",
       "url": "https://open.spotify.com/track/4vGdIIsEc8TgMO6gOg8seQ"
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 262459,
       "name": "Bintang Dalam Hatimu",
       "url": "https://open.spotify.com/track/2OHwJvco9ub4A55zbbrqHZ"
@@ -2672,7 +2690,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 210337,
       "name": "Cerita Kita",
       "url": "https://open.spotify.com/track/0ffC3YHWNiJ0KZoKcXiUYu"
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 235931,
       "name": "Cinta Tak Nyata",
       "url": "https://open.spotify.com/track/387AE8j51DFoEKWRx8e1mF"
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 232394,
       "name": "Cinta Terindah",
       "url": "https://open.spotify.com/track/3wGL3DfKTQ4IM9dHk0IyS0"
@@ -4180,7 +4198,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 237619,
       "name": "Gugur Bunga",
       "url": "https://open.spotify.com/track/65iFnANVYihc3ak6MejUIL"
@@ -4704,7 +4722,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 231600,
       "name": "Iman Tak Restui",
       "url": "https://open.spotify.com/track/4psG16wWeWACDW2POXCcnT"
@@ -4722,7 +4740,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 256744,
       "name": "Impiana",
       "url": "https://open.spotify.com/track/1EeFK5aBBJi2kpgLPAA9XH"
@@ -8262,6 +8280,24 @@
       "duration_ms": 229666,
       "name": "Nasib Suami Di Akhir Bulan",
       "url": "https://open.spotify.com/track/02oUCOLqEaUAiMlsFhMtQi"
+    },
+    {
+      "album": {
+        "name": "Nina Belum Bobo",
+        "url": "https://open.spotify.com/album/29cTzI5hY9f89JBpEzHUXa"
+      },
+      "artists": [
+        {
+          "name": "Wali",
+          "url": "https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Nina Belum Bobo",
+      "url": "https://open.spotify.com/track/1mNQ7jy4kDAFNqTnaFrgXX"
     },
     {
       "album": {
@@ -13792,7 +13828,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 239984,
       "name": "Untukmu",
       "url": "https://open.spotify.com/track/4coSx2yoUpzrADZ42ThwxH"

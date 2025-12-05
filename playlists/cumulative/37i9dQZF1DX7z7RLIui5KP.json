@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Fena Gitu",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Arrow Bwoy",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 182178,
       "name": "Extra Ordinary",
       "url": "https://open.spotify.com/track/0AkMzBiOJXYwRLwip67XJT"
@@ -872,6 +872,24 @@
       "duration_ms": 238329,
       "name": "Jathum",
       "url": "https://open.spotify.com/track/1eLfR17JX1nLBhduLrRTjB"
+    },
+    {
+      "album": {
+        "name": "Just for You",
+        "url": "https://open.spotify.com/album/46fEoFxwJ8iG9x6NpiaDlb"
+      },
+      "artists": [
+        {
+          "name": "Wendy Kimani",
+          "url": "https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193648,
+      "name": "Just for You",
+      "url": "https://open.spotify.com/track/6nC60raDUJJwfrIGVURfmg"
     },
     {
       "album": {
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 158400,
       "name": "Ni Yetu Si Wawili",
       "url": "https://open.spotify.com/track/6w9evw5EgN0UWVgV0SJVsA"
@@ -2154,6 +2172,28 @@
       "duration_ms": 152777,
       "name": "TRUE LOVE",
       "url": "https://open.spotify.com/track/7fYxFqeGTfr9IvVBrWAyvO"
+    },
+    {
+      "album": {
+        "name": "Tumewaka (feat. Watendawili)",
+        "url": "https://open.spotify.com/album/5EnhsYf7p2yFdhqd1ReGDG"
+      },
+      "artists": [
+        {
+          "name": "Arrow Bwoy",
+          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+        },
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209585,
+      "name": "Tumewaka (feat. Watendawili)",
+      "url": "https://open.spotify.com/track/2U3JPdRdWygADeO36alrJU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,614 likes - 307 songs - 15 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,617 likes - 307 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

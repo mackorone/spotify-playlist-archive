@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: YongYong & Jayci yucca) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc774\uce20 (IT'S)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -7910,7 +7910,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 198026,
       "name": "I'll be here",
       "url": "https://open.spotify.com/track/5GDdCurVrBxfN1IkRRzksB"
@@ -10446,6 +10446,24 @@
       "duration_ms": 343746,
       "name": "Make My Sadness a Cloud",
       "url": "https://open.spotify.com/track/6ow8tgEnUParRV3jltPcYW"
+    },
+    {
+      "album": {
+        "name": "LUAMEL",
+        "url": "https://open.spotify.com/album/2uAy27mdjWXEs26M3zZ1ZE"
+      },
+      "artists": [
+        {
+          "name": "LUAMEL",
+          "url": "https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224183,
+      "name": "Matricaria",
+      "url": "https://open.spotify.com/track/2sxrVejCO5cJ55MaVCTqAt"
     },
     {
       "album": {

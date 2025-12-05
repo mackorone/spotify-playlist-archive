@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAfUsb5jILdnkBnCYXtVnwzEiyl6LAj",
+  "snapshot_id": "AAAfVIUiBNUlTwbLFrmabCb4+3O01kx2",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -7019,6 +7019,50 @@
       "duration_ms": 323760,
       "name": "Da Graveyard",
       "url": "https://open.spotify.com/track/04Rz403IY7QUqgfrTWX6OU"
+    },
+    {
+      "added_at": "2025-12-04 19:50:28",
+      "album": {
+        "name": "Eardrum",
+        "url": "https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "In the Mood (feat. Kanye West & Roy Ayers)",
+      "url": "https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo"
+    },
+    {
+      "added_at": "2025-12-04 22:23:17",
+      "album": {
+        "name": "Stakes Is High",
+        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 262062,
+      "name": "The Bizness",
+      "url": "https://open.spotify.com/track/22wlZ0k1c3BSZuZpHkqAnl"
     }
   ],
   "unique_name": "main ",

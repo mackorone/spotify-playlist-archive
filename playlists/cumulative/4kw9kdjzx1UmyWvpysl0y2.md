@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,131 songs - 2 day 15 hr 14 min
+1,132 songs - 2 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,6 +710,7 @@
 | [Oathbreaker](https://open.spotify.com/track/4aOAyCYrwbArMtLVxCoxS7) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Oathbreaker](https://open.spotify.com/album/5k6igGirKlpB3qYyVavB9W) | 3:35 | 2025-09-08 | 2025-11-28 |
 | [Oblivion](https://open.spotify.com/track/0QHo2C0zCM4paxa04PsJhU) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [Oblivion](https://open.spotify.com/album/1sZLwBJEGFLtRDHtrS2Xl2) | 2:32 | 2025-02-20 | 2025-05-17 |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-02 | 2022-08-13 |
+| [obvious](https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [undux](https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9) | 3:32 | 2025-12-04 |  |
 | [October](https://open.spotify.com/track/3dI7bW8OnWBUCCeBNwQ08J) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [October](https://open.spotify.com/album/1qPdose5MyZE37xgnGKz1e) | 2:38 | 2022-10-11 | 2022-12-10 |
 | [Odyssey](https://open.spotify.com/track/07S4ihGvHe1jcWfagHL83s) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Odyssey](https://open.spotify.com/album/1xyjWXsA94Bj6T1WAhnOUV) | 4:15 | 2024-04-02 | 2024-06-19 |
 | [ok](https://open.spotify.com/track/3yDg9UhdWmFlHsaJaN0GRI) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [ok](https://open.spotify.com/album/3beDdopYTPW97ZlnjWhBzm) | 2:45 | 2023-01-25 | 2023-04-12 |

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,635 songs - 4 day 3 hr 22 min
+1,637 songs - 4 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [From Kyrenia with Dub](https://open.spotify.com/track/2muyzyWGVXjh3Y1FPFmgOt) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn), [Christina Polycarpou](https://open.spotify.com/artist/2PCMlcbkDj6yAKfGgYWdF8) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:03 | 2024-03-23 |  |
 | [From The Dawn Of Creation](https://open.spotify.com/track/7sa3OGpUO1qogG0YrZHrgb) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA) | [From The Dawn Of Creation](https://open.spotify.com/album/543tO7P8CKY6CqEPsCgGPC) | 3:47 | 2024-03-25 |  |
 | [From The Dub Of Creation](https://open.spotify.com/track/6pVqKk6bYpupJISm27cShY) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA) | [From The Dawn Of Creation](https://open.spotify.com/album/543tO7P8CKY6CqEPsCgGPC) | 3:44 | 2024-03-25 |  |
+| [FRONTIER SNOW](https://open.spotify.com/track/6qW4799c2YhHshgwyVgXOl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FRONTIER SNOW](https://open.spotify.com/album/3S8GuBbOqtyIN5EqF5KiC2) | 3:19 | 2025-12-05 |  |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2023-03-15 |  |
 | [Fuego en la Tormenta](https://open.spotify.com/track/0csItzvJBsYcK8bjTlAzrj) | [Antiguos Jovenes](https://open.spotify.com/artist/36iNwhnUFPuwJ3Ga8D4V4G) | [Fuego en la Tormenta](https://open.spotify.com/album/4lD9hMYLzkC3MxyP1x1bMp) | 2:57 | 2025-08-28 |  |
 | [Fumo Di Londra](https://open.spotify.com/track/5eVtrTLC1gkT3GX5S3boLB) | [\-\->FrAmE!](https://open.spotify.com/artist/0300JDaLzNwXHEnpBwkkgP), [Bers Bane](https://open.spotify.com/artist/6IiwgMhZQASrSm6oVpSkhx) | [Fumo Di Londra](https://open.spotify.com/album/34CE9Sc9KFNtSUZ3bfBYah) | 2:28 | 2024-06-24 |  |
@@ -746,6 +747,7 @@
 | [Jumping Jack \(HIIT 30\-10\)](https://open.spotify.com/track/5IduPfsFyeiWbgcjOk6udP) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [JUMPING HIIT](https://open.spotify.com/album/2Nafl7nCnwqeY7R8bc8SKD) | 1:24 | 2024-03-08 |  |
 | [Just Another Day](https://open.spotify.com/track/6cqJPYDQ0nB8t0sTtZtbU0) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 4:31 | 2024-05-01 |  |
 | [just hit a jugg](https://open.spotify.com/track/59rUAYNrN9PUVhs3YTRctV) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [just hit a jugg](https://open.spotify.com/album/7l4KjCqSzWOItEDJF5FKXT) | 1:36 | 2025-10-21 |  |
+| [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/track/1nlL8h5SlpHQRc7zDWgE7R) | [ski mask BIG daddy](https://open.spotify.com/artist/63AMuOyMwnLVlOWMskZ6B5) | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/album/0nN0VqilWsN1XwMbNz8WmK) | 2:56 | 2025-12-05 |  |
 | [Just the Thing](https://open.spotify.com/track/0TnbWHg68Z0fLDl4HYV31r) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 2:43 | 2025-05-02 |  |
 | [Just the Way You Are](https://open.spotify.com/track/4OFDrbVd4DghiROQDaUOEo) | [Shaunie Littlehawk](https://open.spotify.com/artist/57gkrsc5LCKSx5HhayMdRS) | [Just the Way You Are](https://open.spotify.com/album/5R6L1PsDpq7aQyjCjSIiDl) | 3:36 | 2025-08-27 |  |
 | [Kann es sein](https://open.spotify.com/track/2qalkc1bt00V1tJQEqPIqr) | [Sophie Elora](https://open.spotify.com/artist/0Usozu4rpNTwvf5hmNZjEH) | [Kann es sein](https://open.spotify.com/album/2Z7cggJZERFnOp1h9alMH3) | 4:37 | 2025-06-11 |  |

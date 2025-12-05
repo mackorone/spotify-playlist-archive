@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,481 songs - 12 day 18 hr 12 min
+5,482 songs - 12 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,7 +665,7 @@
 | [Bright](https://open.spotify.com/track/7BAUtkWAdGoFLbFbjdqMfr) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Bright](https://open.spotify.com/album/6uNRomKIuONC2y8ljKqvQV) | 2:39 | 2021-06-19 | 2021-07-04 |
 | [Bright Spot II](https://open.spotify.com/track/2MQpOygB884YZAm56yjsLw) | [Blue Canopy](https://open.spotify.com/artist/4DafnLqAVXnrI6C0IAkhGE), [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Bright Spot II](https://open.spotify.com/album/7naMJmjNKKoMdJdadE9fhw) | 3:29 | 2024-04-26 | 2024-05-09 |
 | [BRIGHTER DAY](https://open.spotify.com/track/4G5pwamHl8oO31tPX4cF9j) | [Brian Loyde](https://open.spotify.com/artist/3YChbpxtV506Tup3EwFbJH) | [BRIGHTER DAY](https://open.spotify.com/album/7MM4IZJQ0mZmAnFgjLouYy) | 3:22 | 2024-11-22 | 2024-12-05 |
-| [Bring Me a Flower](https://open.spotify.com/track/3XBex8T8fOGuiJR7rLnYwS) | [Baldy Crawlers](https://open.spotify.com/artist/55h3BL4HJGVYVRkQF9L3z1) | [Bring Me a Flower](https://open.spotify.com/album/5GZ4MhgpDyA2JoMjD0RzAQ) | 3:35 | 2025-11-24 |  |
+| [Bring Me a Flower](https://open.spotify.com/track/3XBex8T8fOGuiJR7rLnYwS) | [Baldy Crawlers](https://open.spotify.com/artist/55h3BL4HJGVYVRkQF9L3z1) | [Bring Me a Flower](https://open.spotify.com/album/5GZ4MhgpDyA2JoMjD0RzAQ) | 3:35 | 2025-11-24 | 2025-12-05 |
 | [Bring On The Flood](https://open.spotify.com/track/3SrfAYezqfrkRkwjyj9ff7) | [Tasks](https://open.spotify.com/artist/4h0UTYf2qb7E9j0a7I2uZ8) | [The Grand Dissatisfaction](https://open.spotify.com/album/34uEvpv8GbYYllW1AHtBWg) | 4:06 | 2024-12-27 | 2025-01-08 |
 | [Bring On The Rain](https://open.spotify.com/track/1GbOsJIOKcxek838AvxYI6) | [PEP SAMMARTINO](https://open.spotify.com/artist/05G2yJEqbjhaBKN0pk4urS) | [Bring On The Rain](https://open.spotify.com/album/4YhFg9BuYVOVrrYFxVfYe2) | 4:00 | 2023-04-18 | 2023-05-02 |
 | [Broken](https://open.spotify.com/track/4pyRniHDVjQTgMmuO2g0v9) | [Ian\-Carl](https://open.spotify.com/artist/65AuEMrdDZ9qfUTxdkKwVd) | [Broken](https://open.spotify.com/album/1PBwnGxQyvgUUL09o7fqUG) | 4:15 | 2024-10-18 | 2024-10-30 |
@@ -2935,6 +2935,7 @@
 | [MAD](https://open.spotify.com/track/6zgvXX52nlSRVsY5mfkT8u) | [EDGAR](https://open.spotify.com/artist/39xSftp91F9zeLu20DMwLc) | [MAD](https://open.spotify.com/album/6ezAMUKxAeflPDY2snEV86) | 2:11 | 2024-11-06 | 2024-11-18 |
 | [Made For You](https://open.spotify.com/track/3B606PqErjw7lH5JX8fu0P) | [Cam Jacob](https://open.spotify.com/artist/2JflNykExIgJnKcH52LF4y) | [Made For You](https://open.spotify.com/album/3FAYXGkcFedqgduRgoIQeD) | 3:42 | 2024-03-29 | 2024-04-21 |
 | [Made It](https://open.spotify.com/track/5aI2VUmejj1Ywzj0tQLYH6) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 3:18 | 2020-08-20 | 2023-08-28 |
+| [Made to Break](https://open.spotify.com/track/6gzMGo0UXNal1s8rZVjabn) | [Maria Marr](https://open.spotify.com/artist/3BHfGA2YnJqPZVkcGuDQ0W) | [Made to Break](https://open.spotify.com/album/67c615HHnkpDwi2B5smz0n) | 3:30 | 2025-12-04 |  |
 | [Madonna](https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Madonna](https://open.spotify.com/album/2uNNQws3ix4ZyVxueGd2un) | 3:12 | 2022-02-25 | 2022-03-17 |
 | [Madrid](https://open.spotify.com/track/10sylM2mGMVbFFx0j34nOQ) | [Ozin](https://open.spotify.com/artist/3VY9hWsvkxG3zzfoS72U93) | [Madrid](https://open.spotify.com/album/7rtUrDuq6hVwqmOIjUXUIg) | 2:39 | 2023-05-26 | 2023-06-17 |
 | [MADZI HA VIVI WO](https://open.spotify.com/track/2iaMpnTbPqLKhTQtUynBIV) | [MAWUTOR](https://open.spotify.com/artist/0HsQ9qg3fF5Zc7YmN2MVJs) | [MADZI HA VIVI WO](https://open.spotify.com/album/3pxHoL10LypBx8a0uJfwuE) | 5:05 | 2025-03-07 | 2025-03-18 |

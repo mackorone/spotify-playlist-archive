@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 153698,
       "name": "Aff im Kopf",
       "url": "https://open.spotify.com/track/21nuXb9yhcyA91gRVVBpfI"
@@ -6334,7 +6334,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 100746,
       "name": "Bless the Telephone",
       "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
@@ -13030,7 +13030,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 105569,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1p7K0GCeGcRexeVApuIKnN"
@@ -16876,7 +16876,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "Gar nichts",
       "url": "https://open.spotify.com/track/2YkxFSMwunJ7V5tzpctFRR"
@@ -19370,7 +19370,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -21326,10 +21326,28 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 138158,
       "name": "I Believe I Rise",
       "url": "https://open.spotify.com/track/59zeXiQgNYdPSxcjKwqmpM"
+    },
+    {
+      "album": {
+        "name": "I Believe I Rise",
+        "url": "https://open.spotify.com/album/30l6DqPsJMGfCSBLUOgnfE"
+      },
+      "artists": [
+        {
+          "name": "Sourcesas",
+          "url": "https://open.spotify.com/artist/1zSuOwMvVAue3MgbEJT5hE"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138168,
+      "name": "I Believe I Rise",
+      "url": "https://open.spotify.com/track/61boY2bSJSrYt20SLrENts"
     },
     {
       "album": {
@@ -29220,7 +29238,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 176374,
       "name": "Marlboro Mann",
       "url": "https://open.spotify.com/track/2G3JHWVQP9mI4bWFf1NQvG"
@@ -35290,7 +35308,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -38588,7 +38606,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 104647,
       "name": "SAVE U",
       "url": "https://open.spotify.com/track/3B0yfh6T70EwViMhNf7k07"
@@ -48167,6 +48185,28 @@
     },
     {
       "album": {
+        "name": "We Are Charlie Kirk",
+        "url": "https://open.spotify.com/album/42f1jkD2cQCaAtN3E81cSK"
+      },
+      "artists": [
+        {
+          "name": "22xlstl",
+          "url": "https://open.spotify.com/artist/4OM1oMd7QgznACLRI70AAx"
+        },
+        {
+          "name": "dj diddlyblud",
+          "url": "https://open.spotify.com/artist/2v17bjhudupnNFbiiVWv0k"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224853,
+      "name": "We Are Charlie Kirk",
+      "url": "https://open.spotify.com/track/74EGMROdYEhlDCrVV9inY2"
+    },
+    {
+      "album": {
         "name": "Charlie Kirk Forever Alive",
         "url": "https://open.spotify.com/album/2a854F8IkCKnrB2vEIc4qJ"
       },
@@ -48178,7 +48218,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 224479,
       "name": "We Are Charlie Kirk",
       "url": "https://open.spotify.com/track/5nC5a57UgrSg1mUxsz1P9D"

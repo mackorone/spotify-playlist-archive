@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,551 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,764 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 96 | [Dime Pa Que](https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Trap Tumbado](https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb) | 2:38 |
 | 97 | [Scarface](https://open.spotify.com/track/0NMfbBpDkMp4WnAOnRFoiw) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Scarface](https://open.spotify.com/album/0zoPlDSldE5qdPaoOzSqvn) | 3:45 |
 | 98 | [Criminal](https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Criminal](https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG) | 3:40 |
-| 99 | [Jacaranda](https://open.spotify.com/track/0k5kd8IQULAW4hJBwndWs5) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Dubbel Dutch](https://open.spotify.com/artist/08k2TtlE1pYESgljfijLaI) | [Jacaranda](https://open.spotify.com/album/1COowOCt7cVvoduGgX5cuu) | 3:04 |
-| 100 | [Malportau](https://open.spotify.com/track/4jLFEYbIYqNWnxbuLEf7z5) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Malportau](https://open.spotify.com/album/2vfsczLvfRlioZqTWfoaDx) | 3:33 |
+| 99 | [Malportau](https://open.spotify.com/track/4jLFEYbIYqNWnxbuLEf7z5) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Malportau](https://open.spotify.com/album/2vfsczLvfRlioZqTWfoaDx) | 3:33 |
+| 100 | [Jacaranda](https://open.spotify.com/track/0k5kd8IQULAW4hJBwndWs5) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Dubbel Dutch](https://open.spotify.com/artist/08k2TtlE1pYESgljfijLaI) | [Jacaranda](https://open.spotify.com/album/1COowOCt7cVvoduGgX5cuu) | 3:04 |
 
 Snapshot ID: `AAAAAPWzYNGTXYZ6ojqIT3eVuZ0VwLP8`

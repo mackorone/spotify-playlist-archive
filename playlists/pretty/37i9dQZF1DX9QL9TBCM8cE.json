@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 29530,
+  "num_followers": 29533,
   "original_name": "THE IDOLM@STER SHINY COLORS",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-02-28 16:30:31",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 05",
+        "url": "https://open.spotify.com/album/3UigZQb1RxyalZQMokQdNV"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
+          "url": "https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q"
+        }
+      ],
+      "duration_ms": 226433,
+      "name": "Give me some more...",
+      "url": "https://open.spotify.com/track/1xPgiEVUAqnK8akH4rynmR"
+    },
+    {
+      "added_at": "2025-02-28 16:30:31",
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 02",
         "url": "https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 283813,
       "name": "\u3068\u3042\u308b\u82f1\u96c4\u305f\u3061\u306e\u7269\u8a9e",
       "url": "https://open.spotify.com/track/4UHCUxs8gDbMyiKyLqzKKa"
-    },
-    {
-      "added_at": "2025-02-28 16:30:31",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 04",
-        "url": "https://open.spotify.com/album/5mmghdMKxtWt5QaAMLqGWQ"
-      },
-      "artists": [
-        {
-          "name": "HO-KA-GO CLIMAX GIRLS",
-          "url": "https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz"
-        }
-      ],
-      "duration_ms": 280346,
-      "name": "\u3088\u308a\u307f\u3061\u30b5\u30f3\u30bb\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/2W314eFGeZXq122e15weQI"
     },
     {
       "added_at": "2025-02-28 16:30:31",
@@ -431,18 +431,18 @@
     {
       "added_at": "2025-02-28 16:30:31",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 05",
-        "url": "https://open.spotify.com/album/3UigZQb1RxyalZQMokQdNV"
+        "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 04",
+        "url": "https://open.spotify.com/album/5mmghdMKxtWt5QaAMLqGWQ"
       },
       "artists": [
         {
-          "name": "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
-          "url": "https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q"
+          "name": "HO-KA-GO CLIMAX GIRLS",
+          "url": "https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz"
         }
       ],
-      "duration_ms": 226433,
-      "name": "Give me some more...",
-      "url": "https://open.spotify.com/track/1xPgiEVUAqnK8akH4rynmR"
+      "duration_ms": 280346,
+      "name": "\u3088\u308a\u307f\u3061\u30b5\u30f3\u30bb\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/2W314eFGeZXq122e15weQI"
     },
     {
       "added_at": "2025-02-28 16:30:31",

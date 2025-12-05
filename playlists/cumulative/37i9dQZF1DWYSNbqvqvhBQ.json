@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe tijdloze muziek. Cover: Chef'Special",
+  "description": "Nieuwe tijdloze muziek. Cover: Eros Ramazzotti",
   "name": "Altijd Goed",
   "tracks": [
     {
@@ -1811,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "First Rodeo",
+        "url": "https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223985,
+      "name": "Call You Home",
+      "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
+    },
+    {
+      "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
@@ -2565,6 +2583,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Tom Smith",
+          "url": "https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251301,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/6vVMaiofg4IFJtn8yYqQ8x"
+    },
+    {
+      "album": {
         "name": "Roomies",
         "url": "https://open.spotify.com/album/6AROQ6N0Rmu5UopIesoiyv"
       },
@@ -2638,7 +2674,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 210317,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/5EOhI3uwuyUnGshN7CsRqI"
@@ -3951,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/23WTkcOd1rOmmEinugyrF9"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244199,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5dmkqmGXCi8IK1fuVilhYX"
+    },
+    {
+      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/1Zf6FuiWwnpPz1qZvulsmF"
       },
@@ -4016,7 +4070,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 213312,
       "name": "Girl In Red",
       "url": "https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO"
@@ -7567,6 +7621,24 @@
     },
     {
       "album": {
+        "name": "Man\u00b4s World",
+        "url": "https://open.spotify.com/album/14HRvUqcPa7Hq6ZLKlCPnW"
+      },
+      "artists": [
+        {
+          "name": "Rilan & The Bombardiers",
+          "url": "https://open.spotify.com/artist/1yawxcvEJTTtsz2aX3yruE"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Man\u00b4s World",
+      "url": "https://open.spotify.com/track/4dygO1bnzmJ4OjTZr6PnCA"
+    },
+    {
+      "album": {
         "name": "Leveller",
         "url": "https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe"
       },
@@ -9367,6 +9439,24 @@
     },
     {
       "album": {
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/6MzwLnpf99FUDAUwpzRJuB"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135145,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c"
+    },
+    {
+      "album": {
         "name": "Rebeccula",
         "url": "https://open.spotify.com/album/1uvgrQwbFgJ21wXCpPJLib"
       },
@@ -9692,7 +9782,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 247125,
       "name": "Safe Haven",
       "url": "https://open.spotify.com/track/2zyRqo9sfyxle2aNEU1dgv"
@@ -9844,7 +9934,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 183374,
       "name": "Scary Movie",
       "url": "https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0"
@@ -12158,7 +12248,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 295473,
       "name": "The Way Home",
       "url": "https://open.spotify.com/track/6XHRuH6M8oBFOaVLz3abUx"

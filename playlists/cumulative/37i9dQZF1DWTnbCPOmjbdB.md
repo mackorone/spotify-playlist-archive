@@ -2,9 +2,9 @@
 
 ### [Polskie hity](https://open.spotify.com/playlist/37i9dQZF1DWTnbCPOmjbdB)
 
-> Najlepsze polskie piosenki na czasie\. Cover: Bletka
+> Najlepsze polskie piosenki na czasie\. Cover: Jonatan
 
-703 songs - 1 day 10 hr 18 min
+704 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Podnoszę Się](https://open.spotify.com/track/7r3X63EZjGmxSF8S5m2rHF) | [Diana Ciecierska](https://open.spotify.com/artist/4Jp2wKMl0kEaveqzJ8pvaC) | [Podnoszę Się](https://open.spotify.com/album/7sWZbNyuYaLkAMJAR2evue) | 2:21 | 2025-05-08 | 2025-05-23 |
 | [Podzieleni](https://open.spotify.com/track/3mmj8GIFLanQtRTzirkr8S) | [LUNARIA](https://open.spotify.com/artist/1XsO4JN3QWw3kliCrrKXaP) | [Lśnienie](https://open.spotify.com/album/5knnuHZ1d3YwfQVAPVxlnX) | 3:43 | 2025-05-29 | 2025-06-17 |
 | [Pokaż Twarz \(tą naprawdę\)](https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Wachlarz Wad EP](https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe) | 2:04 | 2024-08-15 | 2024-09-20 |
+| [Pokoje](https://open.spotify.com/track/1MECqA3gqjqJh9HFTynhKx) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Pokoje](https://open.spotify.com/album/3MBFKv4w1n4e7INgy7v2N6) | 4:22 | 2025-12-04 |  |
 | [POKOLOROWANA](https://open.spotify.com/track/6mPLPjlONvnJTPtQo6ia8u) | [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [POKOLOROWANA](https://open.spotify.com/album/4jt1eGcqa1i36BAlXN8Dm1) | 3:11 | 2025-09-25 | 2025-11-28 |
 | [POLSKI SPIDERMAN](https://open.spotify.com/track/7Hq0pMuSXqNf4S2gmZ5aS3) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [POLSKI SPIDERMAN](https://open.spotify.com/album/38GbDZRfoJ9ErpePeEUaWr) | 2:37 | 2025-04-17 | 2025-06-06 |
 | [POMALUJ MÓJ ŚWIAT](https://open.spotify.com/track/5AOkd7BJEmVj3pxRhW072C) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [POMALUJ MÓJ ŚWIAT](https://open.spotify.com/album/6rmMDwIEyRMHsfx1x9SwV6) | 3:08 | 2024-09-12 | 2025-01-24 |
@@ -707,7 +708,7 @@
 | [ŚPISZ](https://open.spotify.com/track/7wegE7NWGJwWXcGvzKY4Mb) | [Hi Hania](https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [ŚPISZ](https://open.spotify.com/album/0AQ8YEkgWiuRQYETt71Pv2) | 2:03 | 2025-09-25 | 2025-10-31 |
 | [Śrubka](https://open.spotify.com/track/42HCLyg66bqYWCPU3wqyMS) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Śrubka](https://open.spotify.com/album/2i4XVKYPGzTpFiesqiGpDj) | 4:10 | 2024-07-01 | 2024-07-05 |
 | [Światło](https://open.spotify.com/track/4JstfIokwiPbk8uce2aQgb) | [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV) | [Światło](https://open.spotify.com/album/43371cfLWq5f9MOdujQPFm) | 2:51 | 2025-10-30 | 2025-11-14 |
-| [Życie, używki, kariera](https://open.spotify.com/track/4ZA0UrTvbVchyZUN3pXNfc) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Spektrum uczuć](https://open.spotify.com/album/5UaBEg5wbwohA7Kulzyfrr) | 2:03 | 2025-11-13 |  |
+| [Życie, używki, kariera](https://open.spotify.com/track/4ZA0UrTvbVchyZUN3pXNfc) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Spektrum uczuć](https://open.spotify.com/album/5UaBEg5wbwohA7Kulzyfrr) | 2:03 | 2025-11-13 | 2025-12-05 |
 | [ŻYCZENIE](https://open.spotify.com/track/5NCbw8iGoUGHmUfmfKfgSL) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [ŻYCZENIE](https://open.spotify.com/album/5uuqDKz4fqciOPrua2DMEP) | 2:53 | 2024-07-25 | 2024-08-23 |
 | [Życzenie](https://open.spotify.com/track/1fQHKxZhGY3uZRVlPqZelN) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Życzenie](https://open.spotify.com/album/3ac0IKoGhbTx4NlJgZvBAL) | 2:47 | 2025-04-03 | 2025-04-25 |
 | [👩‍❤️‍👨](https://open.spotify.com/track/4wb0tiHtOUiEqhR4NKwSFp) | [Linia Nocna](https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe) | [👩‍❤️‍👨](https://open.spotify.com/album/5s9dplQwHJK8LmzepvzvvK) | 2:27 | 2025-06-05 | 2025-06-20 |

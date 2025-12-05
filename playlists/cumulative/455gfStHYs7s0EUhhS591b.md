@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-234 songs - 13 hr 46 min
+235 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Inner City Angels](https://open.spotify.com/track/66Sd7TDvvrsOtRTo13ZFnD) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [Echoes](https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN) | 4:00 | 2025-06-19 |  |
 | [Into The Sun](https://open.spotify.com/track/1BSx14NN0neEd0NOkqfRcB) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Weekend Players](https://open.spotify.com/artist/5ucaLl0pdpWeigdCevjf6i) | [Into The Sun](https://open.spotify.com/album/68Z0N3jeqDLhMHlrwL2wPk) | 2:50 | 2025-06-19 |  |
 | [Intracity \- Original Mix](https://open.spotify.com/track/27SyjyowIBBihbN6Etf0qY) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Intracity](https://open.spotify.com/album/5iJZ8SgQ3LC7t1nMb2lXWZ) | 7:56 | 2025-07-18 |  |
+| [Iris \(My Love\)](https://open.spotify.com/track/59XkOP6G7Pa5Okiyi0HpT6) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [Iris \(My Love\)](https://open.spotify.com/album/4gsSkPd9X4RtFzv2Fg5xAk) | 2:35 | 2025-12-05 |  |
 | [Jabberwock \- Alternative Afterhours Version](https://open.spotify.com/track/4lbi9jeIy8rmXCKS54wmHx) | [Skyscraper](https://open.spotify.com/artist/6Wfqk51nF026WOoqCQRDlj), [Andy Bury](https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU) | [Jabberwock](https://open.spotify.com/album/055J508g1qn2t9OD3ebjy1) | 6:12 | 2025-06-19 |  |
 | [Kaya](https://open.spotify.com/track/61BhZ6WMBXRqmeuYbBgzM3) | [Androma](https://open.spotify.com/artist/5dlDKfWqGuEpQgaizvuWYh), [Teddy Beats](https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB) | [Kaya](https://open.spotify.com/album/1v36GRsrfRsekT9bBKVkRQ) | 2:45 | 2025-06-19 |  |
 | [Keep On](https://open.spotify.com/track/5Ntoe29uygTlzA6mfJb7wM) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Keep On](https://open.spotify.com/album/4fqRyP6PThPIZ7i3c9BJoN) | 2:38 | 2025-06-19 |  |

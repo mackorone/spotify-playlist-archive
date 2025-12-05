@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,969 likes - 160 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,971 likes - 160 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 | 29 | [Stuff Happens](https://open.spotify.com/track/5P8IscbDdPt4qvzpKO8z8W) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Echoes and Other Songs](https://open.spotify.com/album/6pfEUFLGik0vypQgyQyAYL) | 6:56 |
 | 30 | [Montara](https://open.spotify.com/track/4famptoWqwFx2MbWfggr69) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Pera Krstajic](https://open.spotify.com/artist/3kNkllh7QAhy7282M8f1mW) | [Something For Real](https://open.spotify.com/album/4uRZHwcyqpdfdxgVwvIO2K) | 8:09 |
 | 31 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 |
-| 32 | [Melissa](https://open.spotify.com/track/6ypmZgQLHp12CmqiURO8vZ) | [Django Festival All Stars](https://open.spotify.com/artist/3qfsfDeal6JCGP4VQegk6W) | [Live at Birdland & More!](https://open.spotify.com/album/1I8I2GFC5Z7KD4SipG06Zg) | 4:20 |
+| 32 | [Melissa](https://open.spotify.com/track/6ypmZgQLHp12CmqiURO8vZ) | [Django Festival Allstars](https://open.spotify.com/artist/3qfsfDeal6JCGP4VQegk6W) | [Live at Birdland & More!](https://open.spotify.com/album/1I8I2GFC5Z7KD4SipG06Zg) | 4:20 |
 | 33 | [Things Are Gonna Change](https://open.spotify.com/track/29N4uPY6Z8dLKCWvjZkkfA) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN), [Lealani](https://open.spotify.com/artist/75tAH33KAd0BiKI23i27NK) | [Things Are Gonna Change](https://open.spotify.com/album/0jUNhpJpFgX2zmjLhnPZLa) | 2:58 |
 | 34 | [Run To It \(The CP Song\)](https://open.spotify.com/track/6Lb7lH15OsyGlwmmjaAVz8) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [Evergreen](https://open.spotify.com/album/5M8eXGXY9ds3L7qSAMY5me) | 5:13 |
 | 35 | [Butterscotch](https://open.spotify.com/track/5vBTPqFYIU2CjbDMzBW92a) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In The Moment \(IA11 Edition\)](https://open.spotify.com/album/3P8kRuEOtAkQYUfMHM7kcJ) | 2:39 |

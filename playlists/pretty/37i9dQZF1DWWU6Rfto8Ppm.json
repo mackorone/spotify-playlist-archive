@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3854416,
+  "num_followers": 3855116,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2025-11-20 14:36:58",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 157023,
-      "name": "En La Cama (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg"
-    },
-    {
-      "added_at": "2025-11-20 14:36:58",
-      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 295533,
       "name": "Mis Ojos Lloran Por Ti",
       "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
+    },
+    {
+      "added_at": "2025-11-20 14:36:58",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 157023,
+      "name": "En La Cama (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg"
     },
     {
       "added_at": "2025-11-20 14:36:58",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-11-20 14:36:58",
       "album": {
-        "name": "The King Of Dance",
-        "url": "https://open.spotify.com/album/0ReZGnwwE1cwqgyIwOfluR"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Bailando por Ahi",
-      "url": "https://open.spotify.com/track/4QJznEbuwYc5CnPzI7xAZy"
-    },
-    {
-      "added_at": "2025-11-20 14:36:58",
-      "album": {
         "name": "Reggaeton Viejo",
         "url": "https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 234026,
       "name": "Por Amar A Ciegas",
       "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
+    },
+    {
+      "added_at": "2025-11-20 14:36:58",
+      "album": {
+        "name": "The King Of Dance",
+        "url": "https://open.spotify.com/album/0ReZGnwwE1cwqgyIwOfluR"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Bailando por Ahi",
+      "url": "https://open.spotify.com/track/4QJznEbuwYc5CnPzI7xAZy"
     },
     {
       "added_at": "2025-11-20 14:36:58",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-11-20 14:36:58",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "Guasa, Guasa",
-      "url": "https://open.spotify.com/track/6sfBQReZH9v9tYSs82Xt1O"
-    },
-    {
-      "added_at": "2025-11-20 14:36:58",
-      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 276573,
       "name": "Deja",
       "url": "https://open.spotify.com/track/1uLAKESXylbYIK2tSMh7XT"
+    },
+    {
+      "added_at": "2025-11-20 14:36:58",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Guasa, Guasa",
+      "url": "https://open.spotify.com/track/6sfBQReZH9v9tYSs82Xt1O"
     },
     {
       "added_at": "2025-11-20 14:36:58",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2025-11-20 14:36:58",
       "album": {
+        "name": "In Business",
+        "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
+    },
+    {
+      "added_at": "2025-11-20 14:36:58",
+      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 178933,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0798D5Kod1iRzqIVaRlpZJ"
-    },
-    {
-      "added_at": "2025-11-20 14:36:58",
-      "album": {
-        "name": "In Business",
-        "url": "https://open.spotify.com/album/19fKTAQbJ8UodMP8tlxBZN"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/52W3DIwmJpaab0M2jMwHAc"
     },
     {
       "added_at": "2025-11-20 14:36:58",
@@ -2691,22 +2691,6 @@
     {
       "added_at": "2025-11-20 14:36:58",
       "album": {
-        "name": "Flow La Discoteca Special Edition",
-        "url": "https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX"
-      },
-      "artists": [
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 225348,
-      "name": "Yo Voy A Llegar",
-      "url": "https://open.spotify.com/track/6vakABC8veui722qtIXy18"
-    },
-    {
-      "added_at": "2025-11-20 14:36:58",
-      "album": {
         "name": "Nerdside",
         "url": "https://open.spotify.com/album/34KerrXrPoanlVl1MtO2HG"
       },
@@ -2719,6 +2703,22 @@
       "duration_ms": 240000,
       "name": "La Fuga",
       "url": "https://open.spotify.com/track/4fhjhwazrEfayRC7l52TZ0"
+    },
+    {
+      "added_at": "2025-11-20 14:36:58",
+      "album": {
+        "name": "Flow La Discoteca Special Edition",
+        "url": "https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 225348,
+      "name": "Yo Voy A Llegar",
+      "url": "https://open.spotify.com/track/6vakABC8veui722qtIXy18"
     },
     {
       "added_at": "2025-11-20 14:36:58",
@@ -2787,22 +2787,6 @@
     {
       "added_at": "2025-11-20 14:36:58",
       "album": {
-        "name": "Megahitz Volumen Uno",
-        "url": "https://open.spotify.com/album/3KUOR2fvyW563YjY7byQ5U"
-      },
-      "artists": [
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 262407,
-      "name": "Maniatica",
-      "url": "https://open.spotify.com/track/2FxV7yyyfkByIGmUp1o1dY"
-    },
-    {
-      "added_at": "2025-11-20 14:36:58",
-      "album": {
         "name": "Calle 13 (Explicit Version)",
         "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
       },
@@ -2815,6 +2799,22 @@
       "duration_ms": 230240,
       "name": "Se Vale To-To",
       "url": "https://open.spotify.com/track/3SXo6PO3z3C0laMLCK9T7h"
+    },
+    {
+      "added_at": "2025-11-20 14:36:58",
+      "album": {
+        "name": "Megahitz Volumen Uno",
+        "url": "https://open.spotify.com/album/3KUOR2fvyW563YjY7byQ5U"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 262407,
+      "name": "Maniatica",
+      "url": "https://open.spotify.com/track/2FxV7yyyfkByIGmUp1o1dY"
     },
     {
       "added_at": "2025-11-20 14:36:58",
@@ -2911,6 +2911,22 @@
     {
       "added_at": "2025-11-20 14:36:58",
       "album": {
+        "name": "Quiero Una Chica",
+        "url": "https://open.spotify.com/album/24onBhnqUpvHxa86tmKpNe"
+      },
+      "artists": [
+        {
+          "name": "Latin Dreams",
+          "url": "https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX"
+        }
+      ],
+      "duration_ms": 175673,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/1QYQaNlkmzIol3BdqFtGqb"
+    },
+    {
+      "added_at": "2025-11-20 14:36:58",
+      "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR"
       },
@@ -2927,22 +2943,6 @@
       "duration_ms": 239223,
       "name": "Yo Voy A Legar (feat. Zion)",
       "url": "https://open.spotify.com/track/0m2CS9McLcfM6UNtUBagyn"
-    },
-    {
-      "added_at": "2025-11-20 14:36:58",
-      "album": {
-        "name": "Quiero Una Chica",
-        "url": "https://open.spotify.com/album/24onBhnqUpvHxa86tmKpNe"
-      },
-      "artists": [
-        {
-          "name": "Latin Dreams",
-          "url": "https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX"
-        }
-      ],
-      "duration_ms": 175673,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/1QYQaNlkmzIol3BdqFtGqb"
     },
     {
       "added_at": "2025-11-20 14:36:58",
@@ -3031,22 +3031,6 @@
     {
       "added_at": "2025-11-20 14:36:58",
       "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Dame Lo Que Quiero",
-      "url": "https://open.spotify.com/track/71sr98qRCe9ppXFv2QCQr1"
-    },
-    {
-      "added_at": "2025-11-20 14:36:58",
-      "album": {
         "name": "Los Verdaderos",
         "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
       },
@@ -3063,6 +3047,22 @@
       "duration_ms": 261306,
       "name": "Como Curar",
       "url": "https://open.spotify.com/track/62AhexN6mMJiNwKcjmY4QZ"
+    },
+    {
+      "added_at": "2025-11-20 14:36:58",
+      "album": {
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Dame Lo Que Quiero",
+      "url": "https://open.spotify.com/track/71sr98qRCe9ppXFv2QCQr1"
     },
     {
       "added_at": "2025-11-20 14:36:58",
@@ -3119,22 +3119,6 @@
     {
       "added_at": "2025-11-20 14:36:58",
       "album": {
-        "name": "The Royalty",
-        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Tuve un Sueno",
-      "url": "https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08"
-    },
-    {
-      "added_at": "2025-11-20 14:36:58",
-      "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR"
       },
@@ -3155,6 +3139,22 @@
       "duration_ms": 195816,
       "name": "No Quiere Novio (remix) [feat. Nejo & Tego Calderon]",
       "url": "https://open.spotify.com/track/5XxOOXTiDicBrQXv0PAAH6"
+    },
+    {
+      "added_at": "2025-11-20 14:36:58",
+      "album": {
+        "name": "The Royalty",
+        "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Tuve un Sueno",
+      "url": "https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08"
     },
     {
       "added_at": "2025-11-20 14:36:58",
@@ -3215,6 +3215,22 @@
     {
       "added_at": "2025-11-20 14:36:58",
       "album": {
+        "name": "Back to Basics",
+        "url": "https://open.spotify.com/album/3jtdZLQVtCIgm7KRugV413"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Mala y Descarada",
+      "url": "https://open.spotify.com/track/0ItvgDqMVPkJ2sYiTCld5l"
+    },
+    {
+      "added_at": "2025-11-20 14:36:58",
+      "album": {
         "name": "Masterpiece: Nuestra Obra Maestra",
         "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
       },
@@ -3231,22 +3247,6 @@
       "duration_ms": 225453,
       "name": "Si la Ves (feat. Cruzito)",
       "url": "https://open.spotify.com/track/5tTfhWFI9lt6FE8Emp1U6x"
-    },
-    {
-      "added_at": "2025-11-20 14:36:58",
-      "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/3jtdZLQVtCIgm7KRugV413"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Mala y Descarada",
-      "url": "https://open.spotify.com/track/0ItvgDqMVPkJ2sYiTCld5l"
     },
     {
       "added_at": "2025-11-20 14:36:58",
@@ -3771,26 +3771,18 @@
     {
       "added_at": "2025-11-20 14:36:58",
       "album": {
-        "name": "La Reunion",
-        "url": "https://open.spotify.com/album/7tZ6A3h843NyVgqtOD4e8Q"
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
       },
       "artists": [
         {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
         }
       ],
-      "duration_ms": 303542,
-      "name": "Aparentemente",
-      "url": "https://open.spotify.com/track/5RCcvZz5i0rckjbCTSPL1s"
+      "duration_ms": 199110,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
     },
     {
       "added_at": "2025-11-20 14:36:58",

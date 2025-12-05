@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "aquatic dreams",
+        "url": "https://open.spotify.com/album/1ghtZfEeR7HEBDemlnBekI"
+      },
+      "artists": [
+        {
+          "name": "$imba",
+          "url": "https://open.spotify.com/artist/6ZPRXOOs0K9EipFamTz2YP"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142961,
+      "name": "aquatic dreams",
+      "url": "https://open.spotify.com/track/2ovRozE2MFU29FKcRhiGVT"
+    },
+    {
+      "album": {
         "name": "Arcticano",
         "url": "https://open.spotify.com/album/3JLxWSqzrADdJNY8A17u8V"
       },
@@ -12849,6 +12867,24 @@
     },
     {
       "album": {
+        "name": "Paper Windows",
+        "url": "https://open.spotify.com/album/2JcGpnC8CG5U9GNZo4Civc"
+      },
+      "artists": [
+        {
+          "name": "Moonloop",
+          "url": "https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124615,
+      "name": "Paper Windows",
+      "url": "https://open.spotify.com/track/0JIqyyarux3DtN48uZfbw3"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41"
       },
@@ -14760,7 +14796,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 139714,
       "name": "roadtrip",
       "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
@@ -15862,7 +15898,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 135384,
       "name": "Skyfall",
       "url": "https://open.spotify.com/track/3bJzOdQK2t4bY88yCfGduZ"

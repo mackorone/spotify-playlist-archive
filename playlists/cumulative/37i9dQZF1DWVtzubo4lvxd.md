@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-318 songs - 12 hr 15 min
+319 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Away with the Fairies](https://open.spotify.com/track/6Yp6bCLd4IWur1yL2Xirrk) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Away with the Fairies](https://open.spotify.com/album/1zfbxCBx19QGZoGsiivrcA) | 2:46 | 2022-04-15 | 2022-07-24 |
 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 | 2022-04-15 | 2024-03-13 |
 | [Barry](https://open.spotify.com/track/1AkNp3Q3ygwZrTZ20TBuTw) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz) | [Timbits III \- Last Timbit of the Night](https://open.spotify.com/album/77DdAbZ2rKTZwCnD537QNt) | 3:44 | 2022-04-15 | 2022-07-19 |
-| [BEACH](https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 2:46 | 2022-04-15 |  |
+| [BEACH](https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 2:46 | 2022-04-15 | 2025-12-05 |
 | [belas](https://open.spotify.com/track/4AiI4vY2SnkfGN6MbZpXtf) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/03rTwruRPImbzxnhEmO0wa) | 3:01 | 2022-04-15 | 2023-01-16 |
 | [belas](https://open.spotify.com/track/6OXNlUd6vv5Kwz5kPezGhD) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf) | 3:01 | 2022-04-15 | 2024-03-13 |
 | [Birth](https://open.spotify.com/track/2IuahHLicmQfUD0JgZk5ME) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Birth](https://open.spotify.com/album/2SxPIjuvVoJiDM673eB7hU) | 2:39 | 2022-04-15 | 2025-09-10 |
@@ -76,7 +76,7 @@
 | [Divine](https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Divine](https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR) | 2:27 | 2022-04-15 |  |
 | [Dont.Be.Afraid.](https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk) | [DVLTVN](https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb) | [The Blyat Tapes,Vol.1](https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu) | 1:25 | 2022-04-15 |  |
 | [End Credits](https://open.spotify.com/track/0IQGNx2y8xUec752lNCUQk) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [End Credits](https://open.spotify.com/album/2COxCYzeNwCOcAQSGu80Fg) | 2:52 | 2022-04-15 |  |
-| [End Of Day Bop](https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [End Of Day Bop](https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2) | 2:40 | 2024-03-12 | 2025-10-30 |
+| [End Of Day Bop](https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [End Of Day Bop](https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2) | 2:40 | 2024-03-12 |  |
 | [Ero.S](https://open.spotify.com/track/1b6OSVdinsZxbEwPNAUlu3) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Er0.S](https://open.spotify.com/album/6jdViZSOG4G4uDG0bNq4tB) | 3:52 | 2022-04-15 | 2022-07-27 |
 | [Eurobar](https://open.spotify.com/track/5ChhBE0mTj38vORD8En6Fy) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Eurobar](https://open.spotify.com/album/6oBg64rGviEgWXWjVxTkhZ) | 1:53 | 2022-04-15 | 2022-07-29 |
 | [Everywhere Home](https://open.spotify.com/track/5iEcmnWLroqZNsDOeLdAqw) | [Aytun](https://open.spotify.com/artist/7cPjAZYOPseCzqxvEoqeLY), [Can Menek](https://open.spotify.com/artist/0scw6tyxsoUys8IX5GzoZJ), [DJ Daddy E](https://open.spotify.com/artist/00oHhGfAfmXp67aR5QrkRQ) | [Everywhere Home](https://open.spotify.com/album/3hSioPf1pQddF0pUKDK2s0) | 4:10 | 2022-04-15 | 2022-07-29 |
@@ -137,7 +137,7 @@
 | [jocelyn](https://open.spotify.com/track/2ectLlq6GLnwUCX12tlEHc) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [longing for you](https://open.spotify.com/album/5g1Wmg2jW2F11eX4aNKcBV) | 1:13 | 2022-04-15 | 2022-11-19 |
 | [Jocelyn](https://open.spotify.com/track/6c17BmTDCcOk9SRdCW8gPv) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [Longing for You](https://open.spotify.com/album/2MHX68LB8hbdFvuOu9bxvD) | 1:13 | 2022-04-15 | 2023-11-08 |
 | [Joy](https://open.spotify.com/track/2zipR1XbPTWpoKedTbeiuW) | [MFakka](https://open.spotify.com/artist/4AwWk21kRgNYUqldVgdjJC), [johto](https://open.spotify.com/artist/7B2DA6KU0k3hJaENyOBXB4), [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Sweet Journey](https://open.spotify.com/album/3cvSg8qQkJXbgfW3hxerbh) | 1:16 | 2022-04-15 | 2022-07-21 |
-| [Kamada](https://open.spotify.com/track/1XktyM1GKgmZ7gNKDMBSyC) | [Butterscotch](https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD) | [Kamada](https://open.spotify.com/album/7xvKSspZYZ8vbHQe8DjGTh) | 1:54 | 2024-03-12 |  |
+| [Kamada](https://open.spotify.com/track/1XktyM1GKgmZ7gNKDMBSyC) | [Butterscotch](https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD) | [Kamada](https://open.spotify.com/album/7xvKSspZYZ8vbHQe8DjGTh) | 1:54 | 2024-03-12 | 2025-12-05 |
 | [Killing Time](https://open.spotify.com/track/3WgPd7FVAvSxjjfdeS7wj4) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Killing Time](https://open.spotify.com/album/6mrxtNyOo55rEMAKJvBO3r) | 2:02 | 2022-04-15 | 2022-07-29 |
 | [KOINOYOKAN](https://open.spotify.com/track/17ZTFbtUE5u8R8AYPItoEo) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg), [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv) | [the SUNFLOWER](https://open.spotify.com/album/61qxOIQv8dWCD3rfcSjkub) | 2:34 | 2022-04-15 | 2022-07-29 |
 | [Ladybug](https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv) | [Lucid Dreams](https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0) | 1:56 | 2022-04-15 | 2024-03-13 |
@@ -211,6 +211,7 @@
 | [Popsicle](https://open.spotify.com/track/4ckgfk6svzgE1FmYWbJiCl) | [Funk Andrews](https://open.spotify.com/artist/7qHVz54RdRADqyKWnvmYUh) | [Popsicle](https://open.spotify.com/album/5B0i573qDyP4p5fMp1zLvJ) | 2:26 | 2022-04-15 | 2022-07-25 |
 | [Puff Lah](https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:53 | 2022-04-15 |  |
 | [Rainy Sunset](https://open.spotify.com/track/25vxIGdd9SRtYCQGnTWXdu) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4) | [Balcony Nights](https://open.spotify.com/album/5vcxv6HYrkhPaZxROaoomB) | 1:36 | 2022-04-15 | 2022-07-29 |
+| [Real Life](https://open.spotify.com/track/4kSWrE6OOHPJt4TizgkckZ) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Polo Beats](https://open.spotify.com/album/0aCbGwTjoC0h4F6SJN2OzE) | 1:38 | 2024-03-12 |  |
 | [reefers](https://open.spotify.com/track/3lf0ibMyyCIbV1iHAtNgn4) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [late night bumps, Vol\. 1](https://open.spotify.com/album/5HMngAXSRRcbc3wJstGpuV) | 1:15 | 2022-04-15 | 2022-11-20 |
 | [reunion](https://open.spotify.com/track/0TRS0L5H57ETh3S8hzrVrJ) | [Egger](https://open.spotify.com/artist/52VGhCTWuqf5fIdUqBtYkR), [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb) | [sunshine](https://open.spotify.com/album/2IwVdi0kbIlmkf16UpP71I) | 2:17 | 2022-04-15 | 2022-07-27 |
 | [ridley road](https://open.spotify.com/track/4F3obAUvUPgEmPWiFIaMvi) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [ridley road](https://open.spotify.com/album/06OqKg0tT2nX1oUqmbLVe6) | 2:24 | 2024-03-12 | 2025-09-12 |

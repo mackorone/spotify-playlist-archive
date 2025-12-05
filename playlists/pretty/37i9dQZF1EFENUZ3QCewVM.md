@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 126 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 | 127 | [Bad Things](https://open.spotify.com/track/2WohVyEZGP97bXdj4wDwWt) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/08rpf5AHpxiAbye9mD7hoN) | 3:10 |
 
-Snapshot ID: `AcDRJgAAAAAxqxxTDWcJ1FpGwcZkQE5/`
+Snapshot ID: `AcDWvAAAAADAKwQSf00klmZEm7GNZS30`

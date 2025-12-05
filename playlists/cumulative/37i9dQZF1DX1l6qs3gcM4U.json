@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Mr. Carly",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Jay Oliver",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Borboleta",
+        "url": "https://open.spotify.com/album/6gophRB4MNtz8N76v5RLnI"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200976,
+      "name": "Borboleta",
+      "url": "https://open.spotify.com/track/21a6vJwFlcR20It6ZGLQGa"
+    },
+    {
+      "album": {
         "name": "Boss",
         "url": "https://open.spotify.com/album/6fqxi82on9spYcoqiQ5mRl"
       },
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 238084,
       "name": "Colete",
       "url": "https://open.spotify.com/track/1krMTQdB1x1BG7eXhXh4AO"
@@ -4461,6 +4479,28 @@
     },
     {
       "album": {
+        "name": "Gucci",
+        "url": "https://open.spotify.com/album/5fqTQIn58Pplgxac7DxzYK"
+      },
+      "artists": [
+        {
+          "name": "Dj Bodysoul",
+          "url": "https://open.spotify.com/artist/4fHXLLQgjmECYUGmpaTKNC"
+        },
+        {
+          "name": "SALIMA CHICA",
+          "url": "https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159470,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/55YjkKc9coxXYdzXyfNZrV"
+    },
+    {
+      "album": {
         "name": "Habiba",
         "url": "https://open.spotify.com/album/2M6a8IxqKAnp4axXKNkDuI"
       },
@@ -4868,7 +4908,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 214512,
       "name": "Je T\u2019Aime",
       "url": "https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0"
@@ -4962,7 +5002,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 184583,
       "name": "Just For the Night",
       "url": "https://open.spotify.com/track/70WccVpx1GZaOhrfqU8WN2"
@@ -5186,7 +5226,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 198067,
       "name": "KANORMAL",
       "url": "https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw"
@@ -5344,6 +5384,32 @@
       "duration_ms": 193710,
       "name": "Kuyar Assim",
       "url": "https://open.spotify.com/track/4UZNXdjwzKLk6NC5Iq8E8v"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "MOR3NO",
+          "url": "https://open.spotify.com/artist/6AMhf6PcVHkmKuCP4zrfVr"
+        },
+        {
+          "name": "Deejay Rifox",
+          "url": "https://open.spotify.com/artist/3Hl21P35ibOe7iYpN0fDMs"
+        },
+        {
+          "name": "EVAS BABY",
+          "url": "https://open.spotify.com/artist/33OpKOqdE4pty4ZlCUvv1b"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "KUYARE",
+      "url": "https://open.spotify.com/track/0K6a25WIganXN9PnzrjQXh"
     },
     {
       "album": {
@@ -5748,6 +5814,24 @@
       "duration_ms": 192641,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
+    },
+    {
+      "album": {
+        "name": "Madalena",
+        "url": "https://open.spotify.com/album/7dznIjW86LBSKDro66TR5a"
+      },
+      "artists": [
+        {
+          "name": "Afroplug",
+          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197839,
+      "name": "Madalena",
+      "url": "https://open.spotify.com/track/5uhYUE6Tp9cbuMjNmW3l9g"
     },
     {
       "album": {
@@ -6690,7 +6774,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 202032,
       "name": "Monarquia",
       "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
@@ -7110,7 +7194,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 236000,
       "name": "Nha Preta",
       "url": "https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp"
@@ -9153,6 +9237,28 @@
     },
     {
       "album": {
+        "name": "Rebola Muchacha",
+        "url": "https://open.spotify.com/album/4GQsGvPeY7lkJ4era6bxtM"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Belostary",
+          "url": "https://open.spotify.com/artist/6tNmEW9EEAcLAWzDujw7jC"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186210,
+      "name": "Rebola Muchacha",
+      "url": "https://open.spotify.com/track/0fOEO84TsBJbsQmZfzFLVZ"
+    },
+    {
+      "album": {
         "name": "Ref\u00fagio",
         "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
       },
@@ -9514,7 +9620,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 215532,
       "name": "Se Quiser",
       "url": "https://open.spotify.com/track/1uw5ooSrwVBBM4s1AoX8tQ"
@@ -11481,6 +11587,28 @@
     },
     {
       "album": {
+        "name": "T\u00e1 Na Moda",
+        "url": "https://open.spotify.com/album/5hyonNjyw1rM4AWPkOAsDX"
+      },
+      "artists": [
+        {
+          "name": "Twenty Fingers",
+          "url": "https://open.spotify.com/artist/3hZ2JuVlcM4yFRDwPUSXvC"
+        },
+        {
+          "name": "Hernani",
+          "url": "https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151423,
+      "name": "T\u00e1 Na Moda",
+      "url": "https://open.spotify.com/track/3jJlb1Q5xrZjcCVhf1UnJP"
+    },
+    {
+      "album": {
         "name": "T\u00e1 Quase",
         "url": "https://open.spotify.com/album/6nWLu1jvS3QE4SzzkAysuv"
       },
@@ -11886,6 +12014,24 @@
       "duration_ms": 228333,
       "name": "Vem Dan\u00e7ar",
       "url": "https://open.spotify.com/track/0DhlDgtPyO4Mm9UTlDNEnt"
+    },
+    {
+      "album": {
+        "name": "Vem Relaxar",
+        "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172962,
+      "name": "Vem Relaxar",
+      "url": "https://open.spotify.com/track/1e55OqUQMPI9kG2NhG5Dm5"
     },
     {
       "album": {

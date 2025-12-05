@@ -6,8 +6,28 @@
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "AAAVxa8K2slIkeoJbHM4XEhl8tH9kkv1",
+  "snapshot_id": "AAAVyDGi+UGOyB06k2PY8wm4nYYC1bAa",
   "tracks": [
+    {
+      "added_at": "2025-12-04 15:33:51",
+      "album": {
+        "name": "The Partycrasher",
+        "url": "https://open.spotify.com/album/4rwbRBvVsKL96gZQcaHTCT"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Chuckie",
+          "url": "https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "The Partycrasher",
+      "url": "https://open.spotify.com/track/2uHGci4XJywAICJ1D54Xgq"
+    },
     {
       "added_at": "2025-11-21 16:09:10",
       "album": {

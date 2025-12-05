@@ -1,13 +1,101 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Dec 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 05 Dec 04:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWfZGy6e0EGKePZlQpG2jxyDN9xio1",
+  "snapshot_id": "AAAWgYP5bDrR7872yLgJ4onVInSqvs3y",
   "tracks": [
+    {
+      "added_at": "2025-12-04 19:04:15",
+      "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 194631,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb"
+    },
+    {
+      "added_at": "2025-12-05 04:04:07",
+      "album": {
+        "name": "I Still Create",
+        "url": "https://open.spotify.com/album/0A8AvUQ22Y2ZtbjvniXSh9"
+      },
+      "artists": [
+        {
+          "name": "YonKaGor",
+          "url": "https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq"
+        }
+      ],
+      "duration_ms": 233224,
+      "name": "I Still Create",
+      "url": "https://open.spotify.com/track/0IqTgwWU2syiSYbdBEromt"
+    },
+    {
+      "added_at": "2025-12-04 19:04:15",
+      "album": {
+        "name": "MONDAY - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2tcooZLhliuKYR5da5BAgT"
+      },
+      "artists": [
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        },
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 246709,
+      "name": "MONDAY - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2HUYmOmEMZC59UhCKokzAp"
+    },
+    {
+      "added_at": "2025-12-05 04:04:07",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 238182,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B"
+    },
+    {
+      "added_at": "2025-12-04 19:04:15",
+      "album": {
+        "name": "Dopamine (Jamie xx Remix)",
+        "url": "https://open.spotify.com/album/0Puqp5TzMtMN1ljd8Ecae9"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 302748,
+      "name": "Dopamine - Jamie xx Remix",
+      "url": "https://open.spotify.com/track/6BRSGk5zVklP8FRLTRm8Ar"
+    },
     {
       "added_at": "2025-12-03 19:04:32",
       "album": {
@@ -171,6 +259,22 @@
       "duration_ms": 112733,
       "name": "Booga",
       "url": "https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF"
+    },
+    {
+      "added_at": "2025-12-04 19:04:15",
+      "album": {
+        "name": "Live at Ford Field",
+        "url": "https://open.spotify.com/album/46eOftG6eRzvFa1OKPzmMJ"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 132725,
+      "name": "That's How I'm Feeling - Live",
+      "url": "https://open.spotify.com/track/6JD6pSfTa6jAumxb0lc9CJ"
     },
     {
       "added_at": "2025-11-29 04:04:03",
@@ -735,114 +839,6 @@
       "duration_ms": 175004,
       "name": "phonebill.",
       "url": "https://open.spotify.com/track/0dKhAKF9EwyWYPG3vYl9CV"
-    },
-    {
-      "added_at": "2025-11-20 23:03:50",
-      "album": {
-        "name": "A PERFECT WORLD",
-        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "A PERFECT WORLD",
-      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
-    },
-    {
-      "added_at": "2025-11-26 14:04:20",
-      "album": {
-        "name": "SHRED ENVY",
-        "url": "https://open.spotify.com/album/7sIBSoqOjisoA2ln0o9UI8"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "SHRED ENVY",
-      "url": "https://open.spotify.com/track/6Wt8nvjWtW1GYO5UyjsGez"
-    },
-    {
-      "added_at": "2025-11-22 23:03:44",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/62WjM9e9gRlBD7vukuXRQq"
-      },
-      "artists": [
-        {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
-        }
-      ],
-      "duration_ms": 209250,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/06jQrdwR5Cby21cZ8hfDPa"
-    },
-    {
-      "added_at": "2025-11-20 19:03:58",
-      "album": {
-        "name": "Fuck My Computer (Frost Children Remix)",
-        "url": "https://open.spotify.com/album/3mkVo55KYmJAxy21rPssZ4"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 197956,
-      "name": "Fuck My Computer - Frost Children Remix",
-      "url": "https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f"
-    },
-    {
-      "added_at": "2025-11-26 09:04:13",
-      "album": {
-        "name": "MEDLEY DO NOVO FIM",
-        "url": "https://open.spotify.com/album/5o7pyICFvHpNysLA3IfHu5"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3s de Pau",
-          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
-        },
-        {
-          "name": "Isma",
-          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
-        },
-        {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "MEDLEY DO NOVO FIM",
-      "url": "https://open.spotify.com/track/6vsV6AFvJGnPj7QBnbKUZu"
-    },
-    {
-      "added_at": "2025-11-20 19:03:58",
-      "album": {
-        "name": "Real Shit",
-        "url": "https://open.spotify.com/album/4CvXQ6bvjOiA9N5PYMJOrn"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 159330,
-      "name": "Real Shit",
-      "url": "https://open.spotify.com/track/4CoCcdnntCmfEbOO91IgO5"
     }
   ],
   "unique_name": "New Singles Now",

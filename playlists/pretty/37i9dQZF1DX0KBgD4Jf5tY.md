@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:6K9KfaUxJIKk6qZh9a1fVG">VEROSIMILE</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,501 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,502 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 51 | [new tattoo](https://open.spotify.com/track/50wWPWpPSumhqaimfSkI8z) | [georgia, georgia](https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6) | [new tattoo](https://open.spotify.com/album/1CDXSA2wbcytZpToTKdumn) | 3:10 |
 | 52 | [Il mercato degli abbagli](https://open.spotify.com/track/76ze0LlZyLUcjAPslRQmtD) | [Ribaltavapori](https://open.spotify.com/artist/2JiNAZmisuOT8EnYwpOhFs), [Acqua Distillata](https://open.spotify.com/artist/5qPCNyvxjgOXZMHrCbZIBF) | [Volume Uno + Due](https://open.spotify.com/album/44KFbDn8ntCNCkm2wfRHTP) | 3:47 |
 | 53 | [ALTA INTENSITÀ](https://open.spotify.com/track/2O0lKlqnE8am2qWAa2V1Za) | [Miscela](https://open.spotify.com/artist/03w7n56YXEN6iFKtwLPwBN) | [ALTA INTENSITÀ](https://open.spotify.com/album/1Zuabgu1aYiuckEtyJbAFm) | 2:41 |
-| 54 | [Tagliocomevoglioquestecazzodichitarre](https://open.spotify.com/track/3nP3HjbhaDkDBoABuWxASf) | [Peri](https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl) | [Tagliocomevoglioquestecazzodichitarre](https://open.spotify.com/album/79mpBsLld0s38Nu9gYu0EG) | 1:48 |
+| 54 | [TAGLIOCOMEVOGLIOQUESTECAZZODICHITARRE](https://open.spotify.com/track/3nP3HjbhaDkDBoABuWxASf) | [Peri](https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl) | [TAGLIOCOMEVOGLIOQUESTECAZZODICHITARRE](https://open.spotify.com/album/79mpBsLld0s38Nu9gYu0EG) | 1:48 |
 | 55 | [Battito Polemico](https://open.spotify.com/track/1W5IaCPdFqSMZUhw5IcIj7) | [Miriah](https://open.spotify.com/artist/1nHS3UJE5YCtLMKm6Tgs7J) | [Battito Polemico](https://open.spotify.com/album/4Qjs0qnJ4NiyO7gCbbX4ub) | 3:00 |
 | 56 | [Torto o Ragione](https://open.spotify.com/track/12FJHOh0E62IIpWAkSp3au) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Torto o Ragione](https://open.spotify.com/album/1Uywh4wy10o24IZCFOVITq) | 2:43 |
 | 57 | [Mano al cuore](https://open.spotify.com/track/3kwMe9ckcWPCFzDE7fvqv3) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Mano al cuore](https://open.spotify.com/album/50HcRbeGjIDi1Buq8tIa1V) | 3:10 |

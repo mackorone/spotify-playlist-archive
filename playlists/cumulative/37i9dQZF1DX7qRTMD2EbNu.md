@@ -2,9 +2,9 @@
 
 ### [+233 Bars ](https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu)
 
-> Hottest bars coming live from the 233\.  Cover: Xlimkid
+> Hottest bars coming live from the 233\.  Cover: O'Kenneth
 
-843 songs - 1 day 18 hr 38 min
+845 songs - 1 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Balenciaga](https://open.spotify.com/track/3mHz3yqx958dVb2BlLoePR) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Balenciaga](https://open.spotify.com/album/5kcBkleDp2ajk9SknSxZo9) | 3:10 | 2023-10-06 | 2024-06-21 |
 | [Balenciaga](https://open.spotify.com/track/69uEEtCuEKLa7jtj8IDaaL) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Planning & Plotting](https://open.spotify.com/album/5tzGN7v8ThskOevWZtZCUS) | 3:10 | 2024-03-22 | 2024-04-19 |
 | [BALENCIAGA](https://open.spotify.com/track/1v50F7vK31Czts54YID73W) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [BALENCIAGA](https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9) | 2:20 | 2025-09-19 |  |
+| [BALENCIAGA II](https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Medikal](https://open.spotify.com/artist/60gRey0N1n5G8eqwkr2T5q), [SAMA'](https://open.spotify.com/artist/7ui140Cbq6HqiwVoYPt3oe), [Oseikrom Sikanii](https://open.spotify.com/artist/2Ub0BXAc1bXG7ocCfX4TBi), [Joey B](https://open.spotify.com/artist/1NyLwVR8aM66kvk2WJADOC) | [BALENCIAGA II](https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug) | 5:01 | 2025-12-05 |  |
 | [Balling](https://open.spotify.com/track/6Uy0HWtCberVnkKRKzWWmj) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt) | [Balling](https://open.spotify.com/album/2FqS1rete3J3Viej1Du06g) | 2:46 | 2024-05-17 | 2024-05-24 |
 | [Balotteli X](https://open.spotify.com/track/7DDk2zW6zAZto4uHlSMTiH) | [Kreptismenace](https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz) | [Balotteli X](https://open.spotify.com/album/7zBdUgAHyT2Hpu6ktioxtD) | 1:44 | 2024-02-16 | 2024-03-08 |
 | [Banana](https://open.spotify.com/track/3hAivMNpJoEXtKFJF7PRZ7) | [Kid Kwesi](https://open.spotify.com/artist/2k5bJbEP7zZz1vK1p7jRPj) | [Banana](https://open.spotify.com/album/0uJAflveTHwoNBX7ydKeH1) | 2:39 | 2024-03-08 | 2024-03-22 |
@@ -156,6 +157,7 @@
 | [Calvary](https://open.spotify.com/track/69ejQMP0zgomw1bolTsdrJ) | [Exo Xan](https://open.spotify.com/artist/3C80ZUchP2UgtoRIeZey5E) | [Calvary](https://open.spotify.com/album/66dkLgp7AaQwXoXl99mFcv) | 2:54 | 2023-12-08 | 2024-01-05 |
 | [Can't Complain](https://open.spotify.com/track/2ORUrWWJCkVXNSAfcYJNnM) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kojo Trilla](https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55) | [Can't Complain](https://open.spotify.com/album/1wjzFkD0baa2bDPSJP1dNI) | 3:16 | 2024-11-08 | 2024-12-07 |
 | [Can't Go \(feat\. Skyface SDW & CHICOGOD\)](https://open.spotify.com/track/4UZQIZUWVx9ZS5KyUzI1EP) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Chicogod](https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E) | [Straight Outta Kumerica 2](https://open.spotify.com/album/6C628yJ57EmOF3m06i0dQv) | 2:27 | 2022-07-21 | 2022-10-14 |
+| [Can't Stop](https://open.spotify.com/track/71WcXwFtMAD0hGAas2pEYF) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Can't Stop](https://open.spotify.com/album/6cCTaxR21qeaaWjdPWpo19) | 2:34 | 2025-12-05 |  |
 | [Can't Stop \(feat\. Sarkodie\)](https://open.spotify.com/track/5nylrAThl0wI4EeJuUQ6ym) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Young & Matured](https://open.spotify.com/album/7e4OZbvQBYDfCdbLHTIGbc) | 3:22 | 2024-04-19 | 2025-03-21 |
 | [Casamigos](https://open.spotify.com/track/1N9V5eZs5Y0ncpMSLBaeRF) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Casamigos](https://open.spotify.com/album/0pcchnmnVBA87xoIwY4wVa) | 2:17 | 2025-02-14 | 2025-03-01 |
 | [Casualty](https://open.spotify.com/track/6GWMQdbx4mqvS079Pd67ra) | [RICCH KID](https://open.spotify.com/artist/07EHTvbMkrkeCzLSMCxeNW) | [Casualty](https://open.spotify.com/album/3dUjvARO2Etqyt3g1HCDn3) | 2:26 | 2024-09-06 | 2024-09-20 |

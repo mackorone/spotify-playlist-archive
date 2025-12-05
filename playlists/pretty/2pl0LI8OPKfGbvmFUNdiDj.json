@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 431,
+  "num_followers": 432,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAACbZeHzEUHjhXia5Bj40vFRi1MFmvF",
+  "snapshot_id": "AAACdMJqdT+JnjNLZ0/6XeJyHaMBPx5s",
   "tracks": [
     {
       "added_at": "2025-10-21 13:53:17",
@@ -1611,6 +1611,122 @@
       "duration_ms": 271741,
       "name": "Where Love Became a Ghost",
       "url": "https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK"
+    },
+    {
+      "added_at": "2025-12-04 12:10:11",
+      "album": {
+        "name": "#swaggedout",
+        "url": "https://open.spotify.com/album/08OK1qBqhC0ZZk3msSlGZL"
+      },
+      "artists": [
+        {
+          "name": "zune",
+          "url": "https://open.spotify.com/artist/2wgR2adhW6drxUphtvmX1y"
+        },
+        {
+          "name": "ElWhy",
+          "url": "https://open.spotify.com/artist/4ipQYeYS9VZUP9jvgxfxyP"
+        }
+      ],
+      "duration_ms": 124695,
+      "name": "#swaggedout",
+      "url": "https://open.spotify.com/track/4ZEZhAKusdv0GxV1Fz8pMD"
+    },
+    {
+      "added_at": "2025-12-04 12:10:20",
+      "album": {
+        "name": "Black Butterfly",
+        "url": "https://open.spotify.com/album/0t79bLTGTN3IjGFmusISln"
+      },
+      "artists": [
+        {
+          "name": "Rafael Vidal Lykova",
+          "url": "https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "Black Butterfly",
+      "url": "https://open.spotify.com/track/1ayzm5eskvnKXY9aqL927Y"
+    },
+    {
+      "added_at": "2025-12-04 12:10:27",
+      "album": {
+        "name": "Blue Pill",
+        "url": "https://open.spotify.com/album/3mIVDAuuN0hAZOSDLWnbHx"
+      },
+      "artists": [
+        {
+          "name": "PAOLA",
+          "url": "https://open.spotify.com/artist/2sk7Ti4LsPXdgjRWJ5k6Ny"
+        }
+      ],
+      "duration_ms": 170117,
+      "name": "Blue Pill",
+      "url": "https://open.spotify.com/track/0ipO5eSuRjb8jWRuKHk2La"
+    },
+    {
+      "added_at": "2025-12-04 12:10:34",
+      "album": {
+        "name": "Waste Your Life Away",
+        "url": "https://open.spotify.com/album/61RNd1AYukexfLY2M9PgT6"
+      },
+      "artists": [
+        {
+          "name": "No Consent",
+          "url": "https://open.spotify.com/artist/7jg6RKGiaiKYF7QJ3bigxW"
+        }
+      ],
+      "duration_ms": 176938,
+      "name": "Waste Your Life Away",
+      "url": "https://open.spotify.com/track/3eabOltffS3CrKuJ0lSkL5"
+    },
+    {
+      "added_at": "2025-12-04 12:10:42",
+      "album": {
+        "name": "young frankenstein",
+        "url": "https://open.spotify.com/album/3HUqK5fRKaBOMUJGJFYPrf"
+      },
+      "artists": [
+        {
+          "name": "open",
+          "url": "https://open.spotify.com/artist/0BGu5l3ttSeSQq7yhqBTjB"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "young frankenstein",
+      "url": "https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8"
+    },
+    {
+      "added_at": "2025-12-04 12:11:08",
+      "album": {
+        "name": "Refreezer",
+        "url": "https://open.spotify.com/album/5Ai7nAjTEBZyglBLmCuhj5"
+      },
+      "artists": [
+        {
+          "name": "Telmar Basement",
+          "url": "https://open.spotify.com/artist/5Ciapx4vtgLVF7JFCrJwxG"
+        }
+      ],
+      "duration_ms": 177549,
+      "name": "Share the Time",
+      "url": "https://open.spotify.com/track/4ki7evOfn3UGZrAJWB6mQ1"
+    },
+    {
+      "added_at": "2025-12-04 12:12:12",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/0Y9gc7GLoIyCQBSEErfSxF"
+      },
+      "artists": [
+        {
+          "name": "Swink",
+          "url": "https://open.spotify.com/artist/17UK86hbSdJ53N6jEHOLIB"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/19ky0ma1R4uoD4Pr5qDZXM"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

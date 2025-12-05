@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAK3RRptBVW.md) - [plain]
 
 > Bu yıl yıldızı parlayanlar, editörlerimizin seçkisiyle\. Kapak: manifest
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,947 likes - 30 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,941 likes - 30 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAK3RRptBVW.md) - [plain]
 | 21 | [TAMAM SENSİN](https://open.spotify.com/track/6oc2WQSZv5jZ1XXFw37GiS) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [TAMAM SENSİN](https://open.spotify.com/album/3UrsDDzsM6SPz13RE47RVR) | 2:22 |
 | 22 | [İntikam Alıyorsun](https://open.spotify.com/track/1sJ3Iy4fJdou7wAAKRMHDZ) | [Başar Keklik](https://open.spotify.com/artist/5m5Z5rAO3wYF1rvJmzhv7o) | [İntikam Alıyorsun](https://open.spotify.com/album/7a1GFQ6xht7ewdFqyQchtu) | 2:49 |
 | 23 | [Bende Katilime Aşıktım](https://open.spotify.com/track/5dOsHFII8HF05Cq6BoZDOa) | [Yıldırım Elmas](https://open.spotify.com/artist/464lu5xDniFcO7vYC5K8Ox) | [Bende Katilime Aşıktım](https://open.spotify.com/album/51iuFHmvwb5h5E4oMhzmHu) | 2:41 |
-| 24 | [Yara](https://open.spotify.com/track/3pIFDu5vsPbkPYouOYsiM3) | [Enes Güneş](https://open.spotify.com/artist/7AYR5K0eZCV2XIe39SiaWG) | [Yara](https://open.spotify.com/album/0ZRiR9WVvQybVRb0VyLseB) | 2:46 |
+| 24 | [YARA](https://open.spotify.com/track/3pIFDu5vsPbkPYouOYsiM3) | [Enes Güneş](https://open.spotify.com/artist/7AYR5K0eZCV2XIe39SiaWG) | [YARA](https://open.spotify.com/album/0ZRiR9WVvQybVRb0VyLseB) | 2:46 |
 | 25 | [HITMAN](https://open.spotify.com/track/4SEPA6FVCHjCYhKCVWhKmf) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [HITMAN&VAKKO](https://open.spotify.com/album/2QfeXYMQJ7nDwWVZswDhFu) | 1:36 |
 | 26 | [Aşk Durdukça](https://open.spotify.com/track/1yBuzU3MYbsMgmuQktNq8J) | [Karaf](https://open.spotify.com/artist/3olb2kGgNI9UuUjHJpYK0o) | [Aşk Durdukça](https://open.spotify.com/album/1u6PI2FwkZRxAGyhXRpkx6) | 3:59 |
 | 27 | [Senden Hatıra](https://open.spotify.com/track/2i7XLrmbkbhIFbGwBMw2ec) | [Kerim Araz](https://open.spotify.com/artist/2xNgzwX6A9orF0QEJph5Eb), [Sevgim Yılmaz](https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO) | [Senden Hatıra](https://open.spotify.com/album/4ZSLSrIk7vuIvh18qEXELD) | 3:19 |

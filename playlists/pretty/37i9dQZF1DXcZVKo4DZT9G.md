@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 
 > Theme songs from TV/ movie series of "Crayon Shinchan"! ©臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,452 likes - 32 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,454 likes - 32 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 | 12 | [マスカット](https://open.spotify.com/track/0qUFcni7O3J4TDti1MOtRD) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [マスカット](https://open.spotify.com/album/6Gj3K8GledbLY6I6Lt1amE) | 3:22 |
 | 13 | [キミに100パーセント](https://open.spotify.com/track/3BPnFpAL02Bos8EoTLnO9R) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KPP BEST](https://open.spotify.com/album/5kyCkj26Vh8y8jne35hNR1) | 3:20 |
 | 14 | [友よ 〜 この先もずっと・・・](https://open.spotify.com/track/3A0VFRUxhqpJeOxo0rklqC) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [KETSUNOPOLIS 10](https://open.spotify.com/album/3VTcoQOyIlYaxVI7gVg8uP) | 5:15 |
-| 15 | [ロードムービー](https://open.spotify.com/track/2Yzrge2w8tRF8dFhDaV8jZ) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [STARTING OVER](https://open.spotify.com/album/1eZeTTMA1g3cm79l0yYAwG) | 5:22 |
+| 15 | [ロードムービー](https://open.spotify.com/track/2Yzrge2w8tRF8dFhDaV8jZ) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [STARTING OVER](https://open.spotify.com/album/1eZeTTMA1g3cm79l0yYAwG) | 5:23 |
 | 16 | [笑一笑　～シャオイーシャオ！～](https://open.spotify.com/track/5MxjNwjjBW9PtYreT0bV2B) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [笑一笑 ～シャオイーシャオ!～](https://open.spotify.com/album/6vseW0alPTH35JsSsY0CdQ) | 4:39 |
 | 17 | [希望山脈](https://open.spotify.com/track/4qznC3GkC2Tr1VBXKPg0lz) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [希望山脈](https://open.spotify.com/album/2oZzO3qIV95g6SHzOuFl5I) | 3:55 |
 | 18 | [OLA!!](https://open.spotify.com/track/5P9oB7xExAKtIlXd7eIfvF) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [ゆずイロハ1997\-2017](https://open.spotify.com/album/62RkaypIofhMaSsd96mWxR) | 3:25 |

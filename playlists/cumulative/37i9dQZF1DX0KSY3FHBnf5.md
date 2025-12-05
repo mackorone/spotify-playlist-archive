@@ -4,7 +4,7 @@
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-284 songs - 12 hr 22 min
+287 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Narrow Time](https://open.spotify.com/track/36P1BXZ8knkSBQwMzQ52oN) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Narrow Time](https://open.spotify.com/album/3eHE1Ic8VqFeZJZOFYsncG) | 4:19 | 2023-08-14 | 2024-10-05 |
 | [Nautilus](https://open.spotify.com/track/0VW9g4cdRdChF7vxwEqPgE) | [Zuzanna Całka](https://open.spotify.com/artist/3Ab9GXGh3yVM8Ax7W7ekDK) | [Nautilus](https://open.spotify.com/album/6y5jxntskslORAq3cg7pdH) | 4:54 | 2025-05-23 |  |
 | [Need You Again](https://open.spotify.com/track/2vxt4kG6YIub0FM8ZvUVtq) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [Dreamwalker](https://open.spotify.com/album/0wU3s8cHG6EMuakeb6fR41) | 2:25 | 2023-10-13 | 2025-06-21 |
+| [never again](https://open.spotify.com/track/3zSB6rAOw3MDd1a44fd4Wc) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4) | [never again](https://open.spotify.com/album/1dXBWamBbS6DD1cWDY6rWv) | 1:36 | 2025-12-04 |  |
 | [never the same](https://open.spotify.com/track/4mtZq8K07uhysQmouIMWD5) | [cinar](https://open.spotify.com/artist/4BuDScLx2f14Rv0C2ARnL6) | [never the same](https://open.spotify.com/album/1gneuXmFPlPTiwQsjAi9Zy) | 1:28 | 2025-04-04 |  |
 | [neversleep](https://open.spotify.com/track/58W7FwYmSLcZM8Ef0XsLMU) | [idylla](https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL) | [neversleep](https://open.spotify.com/album/6LB37h9APdtTsVsiayfQoe) | 2:08 | 2023-10-13 | 2025-02-22 |
 | [night light](https://open.spotify.com/track/7eODFTDYmIKXFjqXRIA23X) | [castle hearts](https://open.spotify.com/artist/76RNkLoEvMKNJM1OxkBRBe) | [night light](https://open.spotify.com/album/7bKSVuKP3Iodi9cGbbLDyC) | 2:41 | 2023-09-29 | 2025-10-10 |
@@ -190,6 +191,7 @@
 | [Nova](https://open.spotify.com/track/0exX2Z6w9fC0ET8w4n0iis) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH) | [Nova](https://open.spotify.com/album/0alk8zJzhETdnniJGQwOub) | 1:44 | 2025-01-31 | 2025-07-04 |
 | [Nova](https://open.spotify.com/track/6VczOdO8TqPFS82DxGaNMD) | [comet](https://open.spotify.com/artist/7hUqDEJnvDAU7TuYlC74cy) | [Nova](https://open.spotify.com/album/7uARZw0iN0XH2ioEgDhK7O) | 1:41 | 2023-08-14 | 2025-02-08 |
 | [novocaine](https://open.spotify.com/track/0LIPLcaQQiHe3OfFV8FI9n) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [novocaine](https://open.spotify.com/album/4gtW4XrOdKZBURTc2nqw5F) | 1:53 | 2023-08-25 | 2023-09-30 |
+| [novocaine wont kill the pain](https://open.spotify.com/track/5pgeMIXJQvwf0KDGM6wElh) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [novocaine wont kill the pain](https://open.spotify.com/album/0ePlvl16tyLHpRoQHRoWf8) | 2:24 | 2025-12-04 |  |
 | [now i know what i mean](https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG) | [vånda](https://open.spotify.com/artist/3w4GZ3FWiPgNCOXi4ZcCtd), [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [now i know what i mean](https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820) | 2:01 | 2025-11-07 |  |
 | [oblivion](https://open.spotify.com/track/03zgNq4xbILY2BcaLywOn0) | [cinar](https://open.spotify.com/artist/4BuDScLx2f14Rv0C2ARnL6) | [oblivion](https://open.spotify.com/album/0uXOAEODkkZcf4WfWluQQh) | 1:31 | 2025-01-31 |  |
 | [october night](https://open.spotify.com/track/6Of9hwvuPFqiEKsfuMTlf8) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [A Shimmer in the Void](https://open.spotify.com/album/573u28okxfMLC50wzehOWy) | 2:00 | 2023-10-13 |  |
@@ -282,6 +284,7 @@
 | [whatever happens](https://open.spotify.com/track/3yhIlekGzARbycsRhAWlt1) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7) | [whatever happens](https://open.spotify.com/album/2gQbLcXuFBvvRBgs5TdT9L) | 2:25 | 2023-08-14 | 2025-02-08 |
 | [When the Earth Yelled Back at Me](https://open.spotify.com/track/0zUJd5WA41CfvYmcADOo88) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Something Ephemeral](https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL) | 3:21 | 2024-10-04 |  |
 | [whispa \- slowed](https://open.spotify.com/track/1IzDFO9iFkTtiL4wN6B03R) | [echo boi](https://open.spotify.com/artist/3pLgSyPwng015fy5T1QLoq), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [whispa](https://open.spotify.com/album/3lkhSMZbaIrzQTENABk6TS) | 3:19 | 2023-09-22 | 2025-02-22 |
+| [white or maybe purple \- Slowed & Reverb](https://open.spotify.com/track/3AcMWfUDqclstlywTuYcfe) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [white or maybe purple](https://open.spotify.com/album/7g6h6355xLZelKQsSBmQge) | 2:05 | 2025-12-04 |  |
 | [winter apathy](https://open.spotify.com/track/21l3UY40uSJcFPTkwDxuhM) | [trapeia](https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD), [Hikari](https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P) | [winter apathy](https://open.spotify.com/album/5aprqn4ma9ZlK2BpUrAc9v) | 1:25 | 2025-02-28 |  |
 | [winter evening](https://open.spotify.com/track/20wmDFq36qRxNaXjMltcL5) | [sevenlies](https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7) | [winter evening](https://open.spotify.com/album/20mKpTOTnrHrV6RCJ5wUgT) | 2:08 | 2023-09-29 | 2025-10-10 |
 | [winter nostalgia](https://open.spotify.com/track/6tFPmadXV0JJsZ3L3a3YkV) | [FutureVille](https://open.spotify.com/artist/5YYDG8J9TC7S9FHyy9qgSE) | [winter nostalgia](https://open.spotify.com/album/23qIWj0gAdjGqVLJENNcdI) | 2:31 | 2023-09-29 |  |

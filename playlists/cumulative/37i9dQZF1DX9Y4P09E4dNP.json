@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: Kojo Blak and Lasmid",
+  "description": "The big Hip-Life hits rn. Cover: Reggie",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -695,6 +695,32 @@
     },
     {
       "album": {
+        "name": "Aso II",
+        "url": "https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ"
+      },
+      "artists": [
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266967,
+      "name": "Aso II",
+      "url": "https://open.spotify.com/track/2OAZTmQH3HwsVzDYeK3LDw"
+    },
+    {
+      "album": {
         "name": "Asor",
         "url": "https://open.spotify.com/album/6tyX6CWvTE1bVyYRERMGbi"
       },
@@ -1091,6 +1117,40 @@
     },
     {
       "album": {
+        "name": "BALENCIAGA II",
+        "url": "https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/60gRey0N1n5G8eqwkr2T5q"
+        },
+        {
+          "name": "SAMA'",
+          "url": "https://open.spotify.com/artist/7ui140Cbq6HqiwVoYPt3oe"
+        },
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/2Ub0BXAc1bXG7ocCfX4TBi"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/1NyLwVR8aM66kvk2WJADOC"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301530,
+      "name": "BALENCIAGA II",
+      "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
+    },
+    {
+      "album": {
         "name": "Been A Fool For You",
         "url": "https://open.spotify.com/album/22abtC7wk76NHDS3fdhopN"
       },
@@ -1344,6 +1404,32 @@
       "duration_ms": 304151,
       "name": "Bye Bye (feat. Kwabena Kwabena)",
       "url": "https://open.spotify.com/track/4FzF1MluVJKRMcwOoSgSYH"
+    },
+    {
+      "album": {
+        "name": "Can't Stop",
+        "url": "https://open.spotify.com/album/6cCTaxR21qeaaWjdPWpo19"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/71WcXwFtMAD0hGAas2pEYF"
     },
     {
       "album": {
@@ -2520,7 +2606,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 163686,
       "name": "Jaara",
       "url": "https://open.spotify.com/track/1TbSH5lB7BZy2zUSkBSzvF"
@@ -4200,7 +4286,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 228750,
       "name": "Our Wife",
       "url": "https://open.spotify.com/track/51kRliH4DuTVRV20tDRr7x"
@@ -5788,7 +5874,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 145379,
       "name": "Who Send You",
       "url": "https://open.spotify.com/track/0eiLbJ7utDTWd4XF3LCXWd"

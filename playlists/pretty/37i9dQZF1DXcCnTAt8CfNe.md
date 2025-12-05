@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,735 likes - 157 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,831 likes - 157 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 156 | [The Gathering Dusk](https://open.spotify.com/track/3uSV4d8Opejd6aCx0Phoaq) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [The Gathering Dusk](https://open.spotify.com/album/0ZYhSA0Te716xYjqTRXhbw) | 3:19 |
 | 157 | [Web of Stars](https://open.spotify.com/track/2HMMxzjvnkgFYYKXDSQGRt) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [Web of Stars](https://open.spotify.com/album/5UGtgC5RF3R3HrZ2ybLCFn) | 3:24 |
 
-Snapshot ID: `AAAAAM+g7PCwdAymL8MNbAucuB7o8vDg`
+Snapshot ID: `AAAAAHdJADh6E4HYUbCW6UcJ6snUOZrc`

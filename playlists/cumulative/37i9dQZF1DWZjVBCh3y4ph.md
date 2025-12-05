@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : Mik L x Nesly
+> Les hits zouk & kompa du moment\. Photo : Stony
 
-341 songs - 18 hr 2 min
+343 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Dis\-moi](https://open.spotify.com/track/4NxvcmdBmR04g4nsfrhMsO) | [Kueena](https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7), [Nayane](https://open.spotify.com/artist/2fphOBIhmkJp2O5Gqxlj4t) | [Dis\-moi](https://open.spotify.com/album/77QQGSVPna5U1nwnARigxr) | 3:28 | 2024-01-25 | 2024-04-12 |
 | [Distance](https://open.spotify.com/track/5gm1YR7hZceqQybXUsYJTH) | [Dory](https://open.spotify.com/artist/0cZJ5gjr184hSsTcm7PNBK) | [Distance](https://open.spotify.com/album/1pddEeJwVOkuzP6ybsjlHz) | 3:05 | 2024-07-18 | 2024-09-20 |
 | [Distance](https://open.spotify.com/track/7nsSPDkAfMev9eH1vjcknr) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Oniro](https://open.spotify.com/album/4aUmWbfmvQRvY5dq7Kwol8) | 3:13 | 2023-09-28 | 2023-10-20 |
-| [DO YOU LOVE ME ?](https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [DO YOU LOVE ME ?](https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo) | 2:49 | 2025-07-10 |  |
+| [DO YOU LOVE ME ?](https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [DO YOU LOVE ME ?](https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo) | 2:49 | 2025-07-10 | 2025-12-05 |
 | [Donne Tout](https://open.spotify.com/track/1U5gnEmalOGreRltGLpLh2) | [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3) | [Donne Tout](https://open.spotify.com/album/54PTwBFY7fgUy30qzHlviC) | 2:41 | 2025-11-20 |  |
 | [DONNE\-MOI TOUT](https://open.spotify.com/track/79cegZJZ5KhXeDMlhnvLoM) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [DONNE MOI TOUT](https://open.spotify.com/album/3lWXAEb4dAMNqPl2CFUw53) | 3:13 | 2025-10-02 | 2025-11-14 |
 | [DOUBABY](https://open.spotify.com/track/2rkpaD7yXJfPLnp8GOfBS9) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [IS THIS LOVE](https://open.spotify.com/album/2dMPaQp3cHOS7tnhR1lHKX) | 3:20 | 2025-02-27 | 2025-10-10 |
@@ -274,6 +274,7 @@
 | [Sincère](https://open.spotify.com/track/54Zqj7bYgFYCUPLJw7bzBG) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U), [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh) | [Sincère](https://open.spotify.com/album/0mrxUNC3CCGWumGxueh8Jn) | 2:07 | 2025-02-06 | 2025-04-04 |
 | [Sincère](https://open.spotify.com/track/1VFrQv1FNV5ruhAO2oNWc7) | [Manise](https://open.spotify.com/artist/7lmDLnNHkUvxWJCpqDtdf9) | [Sincère](https://open.spotify.com/album/42nh6iUDm7Ys7w2vJDujaB) | 2:41 | 2025-04-24 | 2025-05-16 |
 | [SIWO](https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [SIWO](https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr) | 3:49 | 2025-01-02 | 2025-04-11 |
+| [Slowmo](https://open.spotify.com/track/0f7WrNPKj2JQYwNnjRsnVo) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Slowmo](https://open.spotify.com/album/3tsgO9fwoqQq3ROxu5mzx3) | 3:01 | 2025-12-04 |  |
 | [Solide](https://open.spotify.com/track/59JggtITZo95KTyvVJ94e5) | [Dawatcha](https://open.spotify.com/artist/5oMhDTLFrufyB6PWSaoSoy) | [Solide](https://open.spotify.com/album/3EMDExs6V8tWgaQCrdEe0D) | 2:25 | 2025-08-07 | 2025-08-29 |
 | [Solide](https://open.spotify.com/track/0WsgDerk2mtfVSYs4ubpYM) | [Sika Rlion](https://open.spotify.com/artist/2bk4OvULWozcTHC7EMhKaA), [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Endemik](https://open.spotify.com/album/59ZSS6nE51W1pJAgGJOsVO) | 3:29 | 2025-04-24 | 2025-05-16 |
 | [Sonje Mwen](https://open.spotify.com/track/4moodqGELYeoH8KJuJAMJy) | [Dasha](https://open.spotify.com/artist/4Sax4M4m7npP5miYc4T8vd), [Tayoo](https://open.spotify.com/artist/5cuJlJjmnzoiLcqYJ9Z0gn), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT) | [Sonje Mwen](https://open.spotify.com/album/5oKlINDbr58NjRWqtVONzC) | 3:34 | 2023-09-28 | 2023-10-20 |
@@ -299,7 +300,7 @@
 | [Tellement doux](https://open.spotify.com/track/3o1osJPn6XpsoWa3S5AHDN) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/7z6iLtGQjSt4R2WOTSCW41) | 3:15 | 2024-03-07 | 2024-04-19 |
 | [Tellement doux](https://open.spotify.com/track/7fqvFVk7ZE7GzHQwcPJNdR) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/1njifPExP5d1ZwFuOFXa5j) | 3:15 | 2024-01-11 | 2024-06-28 |
 | [Tentation](https://open.spotify.com/track/4HlGzPPS4dYB39S8dIUv1q) | [Maeliah](https://open.spotify.com/artist/675TVTxu1DFIvB76rXpdYI), [DJ GIL](https://open.spotify.com/artist/7r1rLVcazYEHQlxRu1ftVE) | [Tentation](https://open.spotify.com/album/1MEssQTSYl0JzgAvT4Hmry) | 3:16 | 2025-11-20 |  |
-| [Ti Bonbon](https://open.spotify.com/track/0sesaypqeysVZ9ACRV4W0H) | [Forever Music](https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje) | [Ti Bonbon](https://open.spotify.com/album/34qqqXjgUBPhifz8mwjbpn) | 3:26 | 2025-06-12 |  |
+| [Ti Bonbon](https://open.spotify.com/track/0sesaypqeysVZ9ACRV4W0H) | [Forever Music](https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje) | [Ti Bonbon](https://open.spotify.com/album/34qqqXjgUBPhifz8mwjbpn) | 3:26 | 2025-06-12 | 2025-12-05 |
 | [Tic Tac](https://open.spotify.com/track/2n7kwiBaEjDdBzwrbKl7e1) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Tic Tac](https://open.spotify.com/album/0ZfpOUYxc42l8gNcpYoUM3) | 2:37 | 2024-07-25 | 2024-08-08 |
 | [TKT PAS](https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [TKT PAS](https://open.spotify.com/album/5EtCIE7heSTXlbxPIefyyK) | 3:26 | 2023-11-16 | 2024-09-06 |
 | [To fè mo mal](https://open.spotify.com/track/2HmsV1hijQLIqdasSbNdQC) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj) | [To fè mo mal](https://open.spotify.com/album/4Avd3PFG9e9I4PuOPE0nie) | 2:54 | 2025-01-02 | 2025-01-31 |
@@ -346,6 +347,7 @@
 | [ZABOKA](https://open.spotify.com/track/0cmtrrR2jnzH1P4hpSZy3Y) | [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [Les Copinosss](https://open.spotify.com/artist/3DbijPrwvjQw8UMhCUfMFJ) | [BBW \(Deluxe Edition\)](https://open.spotify.com/album/7GUfdWyHPqAeWLUpFidAuX) | 2:34 | 2023-11-16 | 2024-06-28 |
 | [À distance](https://open.spotify.com/track/37bITDXdVJ5LXOiHTAKy9D) | [T\-will](https://open.spotify.com/artist/3LBdfu7utAFydhM7WOyitT), [MELI](https://open.spotify.com/artist/3iJ64eVQCgZkf7jTiFcQj6) | [À distance](https://open.spotify.com/album/7h3lyJI5pQaluxKEJh1exC) | 3:59 | 2025-05-01 | 2025-05-30 |
 | [À genoux](https://open.spotify.com/track/6IayRy7xW9P2PZAtJFFDf4) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [À genoux](https://open.spotify.com/album/7JefwhJoDy84YkjD0n97K1) | 3:35 | 2025-01-16 |  |
+| [À jamais](https://open.spotify.com/track/40PRV0HzxpyYzyi8IvrxSh) | [Dangerous](https://open.spotify.com/artist/3S71irRdTM0oxf0BnrlAGh) | [À jamais](https://open.spotify.com/album/4TVLhkeCTqROVvZla4aiQU) | 2:57 | 2025-12-04 |  |
 | [À jamais](https://open.spotify.com/track/5AMi98voEjWjwdJcpZlQJL) | [Yena Blue](https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4) | [À jamais](https://open.spotify.com/album/6yBOYDmBiavESskRoLiomk) | 2:48 | 2025-11-27 |  |
 | [Âme soeur](https://open.spotify.com/track/6dheGoHZeIt4tpsgwHHHb1) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt), [Sodaade](https://open.spotify.com/artist/2aS5KzUay2KPNhkHzKylbn) | [Âme soeur](https://open.spotify.com/album/6LOobHYWDB0hjtPi2oIvom) | 3:45 | 2024-08-08 | 2024-11-22 |
 | [Ça va, ça vient](https://open.spotify.com/track/6yGVmoCCXeXcR1oHMKRYEe) | [Dory](https://open.spotify.com/artist/0cZJ5gjr184hSsTcm7PNBK), [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Ça va, ça vient](https://open.spotify.com/album/5lU2MAu1LUphevnG4NgtOZ) | 2:53 | 2025-02-20 | 2025-04-25 |

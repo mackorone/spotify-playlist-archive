@@ -4,7 +4,7 @@
 
 > My enemy nah sapa
 
-798 songs - 1 day 14 hr 2 min
+800 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Bankuba](https://open.spotify.com/track/1C6sh2CL8VHO2yvJDKjb85) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [Bankuba](https://open.spotify.com/album/3enrFoxSTqthdQJ4RvsDjn) | 2:50 | 2024-05-31 | 2024-06-15 |
 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 | 2023-06-16 | 2024-06-28 |
 | [Be Happy](https://open.spotify.com/track/43LE737cOmGyMX3IvuEw3V) | [DJ OP Dot](https://open.spotify.com/artist/57Om7dRv6u7sAOyMbQbE24), [Lyta](https://open.spotify.com/artist/2puySLEjl3BYcfWeHUWM9Q) | [Energetic Wave](https://open.spotify.com/album/3WVamTpozPiOdAtkywCGJf) | 2:39 | 2024-01-26 | 2024-03-22 |
+| [Be Happy](https://open.spotify.com/track/2yAJrUiP3IRQaQtgTvPV1f) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Be Happy](https://open.spotify.com/album/34vMoHhwLNN5kg0G76nzdP) | 4:03 | 2025-12-05 |  |
 | [Because of Money](https://open.spotify.com/track/11cndrz2YTKiRd0SyfFnqY) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Because of Money](https://open.spotify.com/album/2VcO8zgDs50YQTe3WnPbmL) | 2:52 | 2023-08-17 | 2023-09-22 |
 | [Because of Money](https://open.spotify.com/track/5kHiZGMCGtNFYOzHNXALcU) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Because of Money](https://open.spotify.com/album/3crewNeNq67trTPOYc4bPw) | 2:54 | 2023-08-17 | 2023-09-02 |
 | [Believe](https://open.spotify.com/track/2fZ7XuCUiahqDANyfVd7mv) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Believe](https://open.spotify.com/album/5qekxZ9z5PwdGpQKDejJ9c) | 2:39 | 2025-03-28 | 2025-06-28 |
@@ -796,6 +797,7 @@
 | [Yawa](https://open.spotify.com/track/5yTG1pm93xaCoNdDA6C5rd) | [Highstarlavista](https://open.spotify.com/artist/2s5bPUY4vDNWYeaktbdh9V), [Idowest](https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB) | [Yawa](https://open.spotify.com/album/3WTUET0ueedJnD2IqUhm7p) | 2:48 | 2024-03-22 | 2024-03-29 |
 | [Yawa No Dey End](https://open.spotify.com/track/4TzkFUNRNSE99Glbq1hBoe) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Yawa No Dey End](https://open.spotify.com/album/5cmg0vIsj5P4DiWOB76hBA) | 2:26 | 2022-04-28 | 2023-04-15 |
 | [Yaya Toure](https://open.spotify.com/track/5FuI6UM6CTxzaN0P0wbZ0i) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 2:39 | 2023-11-17 | 2023-12-08 |
+| [Ye](https://open.spotify.com/track/5Uk4XgT6I0lgBagWcrtCsT) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [](https://open.spotify.com/album/null) | 2:33 | 2025-12-05 |  |
 | [Yeni Abre](https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Yeni Abre](https://open.spotify.com/album/1C9Xf13fBpa09nVuwlxaWW) | 4:18 | 2023-04-27 | 2023-05-05 |
 | [YENTE](https://open.spotify.com/track/3i6rRfVlhbnbDzzsy3HAYI) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [YENTE](https://open.spotify.com/album/5m8DZH8f4b8kw2rwCHn6pG) | 2:13 | 2025-01-17 | 2025-01-22 |
 | [Yo My Gee](https://open.spotify.com/track/53p6iY4r4MSOIaYzyD66K3) | [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Yo My Gee](https://open.spotify.com/album/18MbgtAqG5FQ6MwEASjYv3) | 2:34 | 2025-02-14 | 2025-03-15 |

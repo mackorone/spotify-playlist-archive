@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。A collection of music from voice actors/ actresses in Japan\. Cover: 楠木ともり Tomori Kusunoki
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,773 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,774 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [トウキョウ・シャンディ・ランデヴ \- from CrosSing](https://open.spotify.com/track/1IVvF0ZPPZSpaj2N49sC5r) | [二ノ宮ゆい](https://open.spotify.com/artist/5kyObFcuVNXnw0OVcf5YhV) | [トウキョウ・シャンディ・ランデヴ \- from CrosSing](https://open.spotify.com/album/7IynrACLzNO2DSevTxkt3l) | 3:04 |
 | 50 | [やれんの?エンドレス](https://open.spotify.com/track/3bc9xkQiUtAUcOVFYKsCYZ) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [やれんの?エンドレス](https://open.spotify.com/album/23zmWdC1NaPS5EY5uNEERQ) | 3:16 |
 
-Snapshot ID: `AAAAAHxfqbanjq2RDRhNaUYuUnsu1wBa`
+Snapshot ID: `AAAAABh4it5ejvapQBiDTnlcl4eN+LSK`

@@ -13739,6 +13739,28 @@
     },
     {
       "album": {
+        "name": "SPINNING",
+        "url": "https://open.spotify.com/album/1TY1VOy9ESMbjAC0F7LHv0"
+      },
+      "artists": [
+        {
+          "name": "Sam Day",
+          "url": "https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U"
+        },
+        {
+          "name": "Zeli",
+          "url": "https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221793,
+      "name": "SPINNING",
+      "url": "https://open.spotify.com/track/6S2x7Yuaz0koabEMabL32E"
+    },
+    {
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/2egaLUBXUvyDbUBgi5iLzh"
       },

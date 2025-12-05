@@ -3619,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/4ZG31cHvberBVdqqKs0N9r"
+      },
+      "artists": [
+        {
+          "name": "Horizon Blue",
+          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164938,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1ZFTW5wMhwVl3lqPxtfyh0"
+    },
+    {
+      "album": {
         "name": "Light A Fire",
         "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
       },
@@ -5360,7 +5378,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 138000,
       "name": "Sandcastles",
       "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
@@ -6849,6 +6867,32 @@
     },
     {
       "album": {
+        "name": "Waiting for Tonight",
+        "url": "https://open.spotify.com/album/5M9iEs5CRPBtvNWTmNU6R4"
+      },
+      "artists": [
+        {
+          "name": "Bikini Bandits",
+          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
+        },
+        {
+          "name": "Alex Grey",
+          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
+        },
+        {
+          "name": "Tanlines",
+          "url": "https://open.spotify.com/artist/6dkbEAvVoHTs3p1WyyEwJL"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/59a87gn2pJSjKoVNl3bRDA"
+    },
+    {
+      "album": {
         "name": "Waiting in The Dark",
         "url": "https://open.spotify.com/album/7q4bmI0F7WYKWmmPYZ8bhJ"
       },
@@ -7032,7 +7076,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 162782,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/5aThtYY9UgRrOlto7TlPts"

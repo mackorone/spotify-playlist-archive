@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-135 songs - 7 hr 55 min
+136 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Cellar Door](https://open.spotify.com/track/21EAEMxSiiC8R9U4GMpN7I) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY) | 2:43 | 2025-11-14 |  |
 | [Collage Extraordinaire](https://open.spotify.com/track/6764C8IjGOlNRn3bM2UTea) | [Dustin Morris](https://open.spotify.com/artist/7HbQJe2NOklqhq93AhCfKO) | [Collage Extraordinaire](https://open.spotify.com/album/3atlAT05mjqVrtNoE0BkPx) | 3:53 | 2025-10-10 |  |
 | [Come Out](https://open.spotify.com/track/4MePv6tLO4aFyFjkm1m1dc) | [This Is Love](https://open.spotify.com/artist/3T0I2xTHjHXFnGJJmvrkQw) | [Come Out](https://open.spotify.com/album/1pJioJgZeEVjsuuJvNVbyv) | 3:24 | 2025-12-02 |  |
+| [Dear Malibu](https://open.spotify.com/track/6MXhSdqhQGJzLX2vdVK1O0) | [Pastel Atlas](https://open.spotify.com/artist/0dOOtoPeBfIwrRKMRJlda0) | [Dear Malibu](https://open.spotify.com/album/4lV1jPMuaz8odID52UUMcV) | 2:56 | 2025-12-04 |  |
 | [Digital Edition \(Game Over\)](https://open.spotify.com/track/1xGcg2b4FEezQzt2wROeLx) | [EsumMusic](https://open.spotify.com/artist/4URGAY6N1o1FdhvpqETIk0) | [Digital Edition \(Game Over\)](https://open.spotify.com/album/6FxCeenvcf2fMyyusfzP4G) | 3:30 | 2025-11-18 |  |
 | [Don't You Hear The Thunder?](https://open.spotify.com/track/06HkYDEsJfMNdcmckSUKB6) | [T\. Priestly](https://open.spotify.com/artist/3gize5K5bvjew2P9BpIMgx) | [Don't You Hear The Thunder?](https://open.spotify.com/album/7oYE5hXoMiwpcNs54TqobZ) | 2:56 | 2025-11-14 |  |
 | [Double Trouble](https://open.spotify.com/track/35gpDSDqmXHN3tJMhpyDpU) | [AYU](https://open.spotify.com/artist/1sjcTXZESni2B5F8LERoSw) | [Double Trouble](https://open.spotify.com/album/2z7YuskJOQOLrT3DJIjyxF) | 3:32 | 2025-10-15 |  |

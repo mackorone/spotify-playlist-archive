@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Taylor Swift !",
+  "description": "Le meilleur des hits avec Helena !",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -728,7 +728,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 157151,
       "name": "Beautiful Colors - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/3Tdih47Fm5lGlwc4qsqFGr"
@@ -1588,6 +1588,24 @@
       "duration_ms": 159106,
       "name": "Chez toi, chez moi",
       "url": "https://open.spotify.com/track/0gOjmVqeKWFByLqpPTTrJF"
+    },
+    {
+      "album": {
+        "name": "Chiens",
+        "url": "https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182876,
+      "name": "Chiens",
+      "url": "https://open.spotify.com/track/51qMciprNwFso3R3XioUUu"
     },
     {
       "album": {
@@ -3267,7 +3285,7 @@
     },
     {
       "album": {
-        "name": "Hors du temps",
+        "name": "HORS DU TEMPS",
         "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
       },
       "artists": [
@@ -3278,9 +3296,9 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 173887,
-      "name": "Hors du temps",
+      "name": "HORS DU TEMPS",
       "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
     },
     {
@@ -3796,7 +3814,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 158160,
       "name": "Je reste l\u00e0",
       "url": "https://open.spotify.com/track/4HiSExFM2CmSQB8wY5bHJI"
@@ -6238,7 +6256,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 173364,
       "name": "Restes d'averses - Regretting You Version",
       "url": "https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9"
@@ -6518,7 +6536,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 195121,
       "name": "SENTIMENTAL",
       "url": "https://open.spotify.com/track/7lf6EvTJtrbLKtJ1BKP3hv"
@@ -7182,7 +7200,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"

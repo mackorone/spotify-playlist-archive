@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,038 likes - 202 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,959 likes - 202 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 201 | [Nova Transit](https://open.spotify.com/track/7FxP1GBPMMmvPSpTWZ9YOv) | [Adventurine](https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW) | [Nova Transit](https://open.spotify.com/album/4i1YgFF2n2NzLI2514wsHq) | 2:32 |
 | 202 | [Die Ruhe](https://open.spotify.com/track/6Jcwp5Ts8Hs2bsyrePiuD1) | [Liana W](https://open.spotify.com/artist/3uNSzqs6o9IJ3MlxPZSFRM) | [Die Ruhe](https://open.spotify.com/album/5jy46JXqH2XOtK9vRzSXpA) | 3:23 |
 
-Snapshot ID: `AAAAACF8bHkkbDzZJ36G3VEX3Ekmm6c9`
+Snapshot ID: `AAAAAFduBrI8zm6CjeOxj/Ld7P5+E1CT`

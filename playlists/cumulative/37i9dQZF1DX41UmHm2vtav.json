@@ -1817,6 +1817,28 @@
     },
     {
       "album": {
+        "name": "Estrelar (Remix)",
+        "url": "https://open.spotify.com/album/0qBeb2YPYWZqoe0aIGWKJZ"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Estrelar - Remix",
+      "url": "https://open.spotify.com/track/0aAso5403FBbmbvwYiFs9m"
+    },
+    {
+      "album": {
         "name": "Eu Vou Pra Bahia (Felguk, Watzgood Remix)",
         "url": "https://open.spotify.com/album/6t5UoBRyZejocCUowTmzSW"
       },
@@ -4798,7 +4820,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 179512,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1AlCvRJFF2Ze5FX54uHZqb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ6NBH5aL6A.md) - [plain]
 
 > From trip\-hop to Copenhagen’s underground, ambient textures to indie twang and the Windmill scene — explore the 5 scenes shaping indie now\.   Cover: After
 
-[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 97 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ6NBH5aL6A.md) - [plain]
 | 74 | [ソファで夢を見る](https://open.spotify.com/track/3sY2TmsgA8e1dx5ZyCyJt0) | [STILLZ](https://open.spotify.com/artist/5U2OgD5Qd1SgfCP7swmDnI), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [separated at birth](https://open.spotify.com/album/5N1rxL68D9q48lPfiseq0Q) | 4:36 |
 | 75 | [Under the soil](https://open.spotify.com/track/6dZdpJJqt9vHiYUvx5Q1ao) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn) | [Garden Studies](https://open.spotify.com/album/2ABQdqpJnQWSWMgHs1j7Bp) | 4:04 |
 
-Snapshot ID: `AAAAAHdc9SBaME9w/fJ6GZZF5SKX8e9R`
+Snapshot ID: `AAAAAPD0VAhhpf5smhjFEyeTzPiQfZA6`

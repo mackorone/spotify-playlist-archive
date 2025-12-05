@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring The Yellow Diary, Siddharth Pandit, Yawar Abdal and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Utsavi Jha, Parvaaz, and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 174275,
       "name": "Achha Lagta Hai",
       "url": "https://open.spotify.com/track/6Fk9iNxw9ktkNncyb7PjwH"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 209224,
       "name": "ahista",
       "url": "https://open.spotify.com/track/1mxLwT8SQWz67LrWRkIKV4"
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 200490,
       "name": "Ban gayi main teri piya",
       "url": "https://open.spotify.com/track/5PMX0x8YZZydMRCmuuUePh"
@@ -6632,6 +6632,24 @@
       "duration_ms": 168904,
       "name": "Everybody Dances To Techno (Bulli Bainbridge Remix)",
       "url": "https://open.spotify.com/track/30EYAtDZzwHQQtTJDYXQPu"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Parvaaz",
+          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257133,
+      "name": "Faani",
+      "url": "https://open.spotify.com/track/4QXkBuMz87V3U5Rucn34pB"
     },
     {
       "album": {
@@ -11719,6 +11737,32 @@
     },
     {
       "album": {
+        "name": "Kehna Chahun",
+        "url": "https://open.spotify.com/album/1zXNfh5hgLCJ0q4GULDpSm"
+      },
+      "artists": [
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212046,
+      "name": "Kehna Chahun",
+      "url": "https://open.spotify.com/track/362zHvEKn8Wd0u8JgsNiYS"
+    },
+    {
+      "album": {
         "name": "Kehndi Hai",
         "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
       },
@@ -14436,7 +14480,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 333000,
       "name": "Madno",
       "url": "https://open.spotify.com/track/6JQGsT4utFMNXUanXvrAEd"
@@ -16372,7 +16416,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 150576,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/674Zkmjw3pxSBEyBTc7jHh"
@@ -17305,6 +17349,28 @@
     },
     {
       "album": {
+        "name": "O Dil",
+        "url": "https://open.spotify.com/album/322g9WBJfBkjtsLbaklsvT"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        },
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166071,
+      "name": "O Dil",
+      "url": "https://open.spotify.com/track/7ajb5k6A9qJPQvGaUu2Tq0"
+    },
+    {
+      "album": {
         "name": "O Maaa",
         "url": "https://open.spotify.com/album/2GjCniVKKT8c15EIP4CfBQ"
       },
@@ -17480,7 +17546,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 284210,
       "name": "Paani Ki Lehar",
       "url": "https://open.spotify.com/track/52dM9JC6FnWVOpRYDSscae"
@@ -19012,7 +19078,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 148218,
       "name": "Ratiyaan",
       "url": "https://open.spotify.com/track/6AW4SkLk5mYWpsPDz8lGXz"
@@ -20086,7 +20152,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 227878,
       "name": "Sabki Kahani",
       "url": "https://open.spotify.com/track/5Uzx2UcwkheIqUAJy9HpBw"
@@ -21394,7 +21460,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 182400,
       "name": "Sitaara",
       "url": "https://open.spotify.com/track/3ENBNV0iX1jIM5xIP6tJTj"
@@ -22086,6 +22152,24 @@
       "duration_ms": 209797,
       "name": "Talaash",
       "url": "https://open.spotify.com/track/7rOlksKyOXRJrYHRdpTt6U"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Parvaaz",
+          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360798,
+      "name": "Talafi",
+      "url": "https://open.spotify.com/track/0NTYS43eisLBBjyOo39F4X"
     },
     {
       "album": {
@@ -24652,6 +24736,24 @@
       "duration_ms": 235172,
       "name": "Ud Ke Chali",
       "url": "https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT"
+    },
+    {
+      "album": {
+        "name": "Udaan",
+        "url": "https://open.spotify.com/album/2IKuIWZXFYHQKRLnrbjx7L"
+      },
+      "artists": [
+        {
+          "name": "Antariksh",
+          "url": "https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Udaan",
+      "url": "https://open.spotify.com/track/5yL8CBAxa5ijWGKndCTG9T"
     },
     {
       "album": {

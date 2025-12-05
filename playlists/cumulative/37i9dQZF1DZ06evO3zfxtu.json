@@ -591,6 +591,32 @@
     },
     {
       "album": {
+        "name": "DIAMONDS",
+        "url": "https://open.spotify.com/album/2AnJNcfa5A7bOnIaXTcUGQ"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        },
+        {
+          "name": "CHXPO",
+          "url": "https://open.spotify.com/artist/7LpXmKNM21ez0VOsUFwOen"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "DIAMONDS",
+      "url": "https://open.spotify.com/track/2msSXNIzfvNayGsVzI1lQc"
+    },
+    {
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/6IS5tLaoTvCaWwgEahPGRV"
       },
@@ -1792,7 +1818,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 188866,
       "name": "Secret",
       "url": "https://open.spotify.com/track/5HLmbHuDV5XV3o4ycCExOa"

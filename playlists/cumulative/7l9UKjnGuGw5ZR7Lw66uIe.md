@@ -4,7 +4,7 @@
 
 > neler yaşamışım ben ya...
 
-34 songs - 1 hr 36 min
+35 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Benim Hatam](https://open.spotify.com/track/46Ebc31kxd3o3FVM2PovWy) | [Gizem](https://open.spotify.com/artist/3igRNd6ybREmpQOjHnWZyU) | [Benim Hatam](https://open.spotify.com/album/2KKKUPW7ouGBxrEjQSuDjQ) | 2:08 | 2024-03-01 |  |
 | [Derin Mevzular](https://open.spotify.com/track/65jBnp5troNslpir74QATL) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Derin Mevzular](https://open.spotify.com/album/0WvQu884CNsdFUNJt067MX) | 2:51 | 2023-06-24 |  |
 | [Geçici Heves](https://open.spotify.com/track/64WFDkSCGgg2XQwcps2QOL) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Geçici Heves](https://open.spotify.com/album/3XFjA4NrDiIP1o2zSyyTqn) | 2:41 | 2022-07-27 |  |
+| [Güzelimden](https://open.spotify.com/track/2aiG5yDdWiokTwi2d0Y03G) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Güzelimden](https://open.spotify.com/album/33XqJ0Ris5B2aQUua7t5Vz) | 3:23 | 2025-12-04 |  |
 | [Harbi Güzel](https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Harbi Güzel](https://open.spotify.com/album/65p0xMngIABEvDUFF3gYHW) | 2:55 | 2022-07-27 |  |
 | [Harbi Güzel \- Emrah Karaduman Remix](https://open.spotify.com/track/5ioJr9L1UpYqQEvjrWVVvJ) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk) | [Harbi Güzel \(Emrah Karaduman Remix\)](https://open.spotify.com/album/46nvIR1gkyEHyKlrMkdDLr) | 2:54 | 2022-07-27 | 2025-04-11 |
 | [Harbiden](https://open.spotify.com/track/61P518MTME02qGi6MeTmYm) | [Cengiz Ateş](https://open.spotify.com/artist/6XsUIOewd3g4mNOwFXpNFy) | [Harbiden](https://open.spotify.com/album/0c8ArZ4B9F6iZaEveRiRR4) | 3:02 | 2022-11-17 |  |

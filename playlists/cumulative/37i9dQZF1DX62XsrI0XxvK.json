@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Jordan Susanto",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Naomi Ivo",
   "name": "JIVVA",
   "tracks": [
+    {
+      "album": {
+        "name": "(NO)STALGIA",
+        "url": "https://open.spotify.com/album/5gf4SHNy7X21805le62wgA"
+      },
+      "artists": [
+        {
+          "name": "DAYFAIR",
+          "url": "https://open.spotify.com/artist/3grE5TqsfwLPsljwMAnPEl"
+        },
+        {
+          "name": "N0en",
+          "url": "https://open.spotify.com/artist/2gv3tIgZWNY7aCgha1y6cs"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193465,
+      "name": "(NO)STALGIA",
+      "url": "https://open.spotify.com/track/75FuKBIZqdI5FiMFKWSUZF"
+    },
     {
       "album": {
         "name": "321 I'm Callin'",
@@ -78,6 +100,24 @@
       "duration_ms": 149743,
       "name": "ADDICTION",
       "url": "https://open.spotify.com/track/62yN59Z49wkOnPByz4VzWI"
+    },
+    {
+      "album": {
+        "name": "Addiction (Acoustic)",
+        "url": "https://open.spotify.com/album/3t8LQCTAuhNLUtOGnUPMoz"
+      },
+      "artists": [
+        {
+          "name": "Naomi Ivo",
+          "url": "https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155610,
+      "name": "Addiction - Acoustic",
+      "url": "https://open.spotify.com/track/2FfiwEFWDceK0TlkpAwLIH"
     },
     {
       "album": {

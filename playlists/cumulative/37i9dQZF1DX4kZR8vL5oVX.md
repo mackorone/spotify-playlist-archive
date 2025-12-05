@@ -4,7 +4,7 @@
 
 > Les femmes montent le son.
 
-1,785 songs - 3 day 20 hr 43 min
+1,787 songs - 3 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Aloco](https://open.spotify.com/track/21jAgbrS6blGdqf9CYA7Eb) | [Meesyz](https://open.spotify.com/artist/3ygeE9AJfIQ1QmhdSHM9ZK) | [Aloco](https://open.spotify.com/album/6U718ermfsqn0RfrYa8Izt) | 2:23 | 2023-08-01 | 2023-09-06 |
 | [Alors alors](https://open.spotify.com/track/0JlZavAbSw9EOtVKQL4WMz) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Alors alors](https://open.spotify.com/album/07XX7k8Hl8YiWJD3MywmnK) | 2:45 | 2023-02-28 | 2023-04-05 |
 | [Altaïr](https://open.spotify.com/track/3MqUS4BDyK2p4L1ydqXRYT) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k) | [Altaïr](https://open.spotify.com/album/5GZSqUuKkETaKYOtEBSwD4) | 3:46 | 2022-10-04 | 2022-11-09 |
-| [Amnésie](https://open.spotify.com/track/5H274lItLc0KSM4JvsqoBi) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Amnésie](https://open.spotify.com/album/1Bpq09iisUkqIugjY6PLLP) | 3:31 | 2025-12-02 |  |
+| [Amnésie](https://open.spotify.com/track/5H274lItLc0KSM4JvsqoBi) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Amnésie](https://open.spotify.com/album/1Bpq09iisUkqIugjY6PLLP) | 3:31 | 2025-12-02 | 2025-12-05 |
 | [Amore Amore](https://open.spotify.com/track/7LTTm6nsCntagnq476M9Kr) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Amore Amore](https://open.spotify.com/album/4bxhxooxxl1BqjmgNKNz2A) | 3:20 | 2022-01-05 | 2022-02-02 |
 | [AMORE MIO](https://open.spotify.com/track/56Yrn7YPsh2i9wsmQB1MXE) | [Othélie](https://open.spotify.com/artist/7e0NJkHuckuwmgxKi4aQ7S) | [PŒ̈SI](https://open.spotify.com/album/23JAJOxVVKc64Y3x4wHOJ0) | 3:23 | 2025-08-05 | 2025-09-03 |
 | [Amour démoniaque](https://open.spotify.com/track/1Yku5BZem0tIlKOtlkaWac) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Amour démoniaque](https://open.spotify.com/album/4e9epNLQovzDZ6E5kmETAs) | 3:00 | 2022-03-07 | 2023-01-04 |
@@ -610,6 +610,7 @@
 | [Hey Boy](https://open.spotify.com/track/28goX2uKr53LeijjP2waQV) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Hey Boy](https://open.spotify.com/album/1KnLWdAOEeuSF4wGSdbas0) | 3:49 | 2022-07-05 | 2022-08-03 |
 | [Hey Bro](https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Hey Bro](https://open.spotify.com/album/2lJNU3gStbWwaudk0qrIXD) | 2:30 | 2023-04-04 | 2024-03-06 |
 | [Hi\(v\)er](https://open.spotify.com/track/4WuSTo8RA56Y6tO0intt34) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Hi\(v\)er](https://open.spotify.com/album/70x6ZVKR7rxDj3PGvau68Y) | 2:49 | 2023-04-04 | 2023-05-03 |
+| [Histoire de vie](https://open.spotify.com/track/2J9YsIz5e2isHECguiQBdq) | [Illustre](https://open.spotify.com/artist/3zWDZmpcKFgq64NUbXlNEy) | [Ceci n'est pas une vague.](https://open.spotify.com/album/05ETUp38xfAaZcK5te2lT4) | 4:00 | 2025-12-04 |  |
 | [Histoires de coeur](https://open.spotify.com/track/3DK4vJBdsr47rqpa3TTulG) | [Lisa Dann](https://open.spotify.com/artist/49Xay2fqHnpRDdXLmdj8R6) | [Histoires de coeur](https://open.spotify.com/album/4wxG668pAv8eEf4pSDyyC9) | 3:12 | 2023-06-06 | 2023-07-05 |
 | [Hiver](https://open.spotify.com/track/5qBJGiACSQVUXcLppzahnX) | [Louisadonna](https://open.spotify.com/artist/6KeEXdNCF2wHQ1kT3seHO1) | [Hiver](https://open.spotify.com/album/5PLv2kDU0pXrz3qeJF1Iiu) | 3:15 | 2023-01-03 | 2023-02-01 |
 | [Home](https://open.spotify.com/track/4bxgRDYVrjeR4phPVDgxqn) | [Coco Aikura](https://open.spotify.com/artist/57mh55SQOsnvJmDSMmCsaX) | [A Place Called Home](https://open.spotify.com/album/1E9G9VCIiWCAZo1KxTuiD3) | 3:19 | 2023-06-06 | 2023-07-05 |
@@ -676,6 +677,7 @@
 | [J'ai oublié](https://open.spotify.com/track/16GLS8pC5Ar50ev62j99J6) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [J'ai oublié](https://open.spotify.com/album/3jBvP4vX3KB5qyhPWjFzw6) | 3:03 | 2022-04-05 | 2022-05-04 |
 | [J'AI RIEN PROMIS A PERSONNE](https://open.spotify.com/track/1koW7yospuf32SBTX9Peme) | [Bromaz](https://open.spotify.com/artist/7GK4LLF93WLyMzK5MVJzmq) | [RATCORE, Vol\. 2](https://open.spotify.com/album/4OFMx2eMqGno7YePY6Dc2U) | 2:30 | 2025-09-02 | 2025-10-01 |
 | [J'aime bien](https://open.spotify.com/track/5ItIDneGkHcjO68Gdam0mU) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [J'aime bien](https://open.spotify.com/album/5rivk9lkTtNj8Qq7kn9dnK) | 2:35 | 2025-12-02 |  |
+| [J'aime la vie](https://open.spotify.com/track/4TnLb2oo7Yvl9cLOArHGJW) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [](https://open.spotify.com/album/null) | 3:45 | 2025-12-04 |  |
 | [j'aime pas les goodbye](https://open.spotify.com/track/5MJaU2ZMX1Xlr5IwNupuGV) | [Nina Battisti](https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP) | [j'aime pas les goodbye](https://open.spotify.com/album/0z1GWEkjSAtYmgU6CdkdFs) | 2:03 | 2025-11-04 |  |
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-07-04 | 2023-08-02 |
 | [J'aime toucher vous](https://open.spotify.com/track/4qxFIjVynkg4QXQIOjC893) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [J'aime toucher vous](https://open.spotify.com/album/26upCMcg7xngO75VLOtois) | 2:39 | 2024-04-02 | 2024-05-01 |
@@ -989,7 +991,7 @@
 | [Ma chérie](https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Ma chérie](https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz) | 3:01 | 2024-09-03 | 2024-10-02 |
 | [Ma dose](https://open.spotify.com/track/6uZezXA1pDL4NcwxLdrnGD) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Ma dose](https://open.spotify.com/album/2LFPrhcBAXLKzl99gVgj7z) | 2:55 | 2024-06-04 | 2024-07-03 |
 | [Ma faute](https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Les singles d'Ebony et Marine](https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ) | 3:19 | 2025-02-04 | 2025-06-04 |
-| [Ma génération](https://open.spotify.com/track/03LiGSAkhvwbLalXIHlyu0) | [Illustre](https://open.spotify.com/artist/3zWDZmpcKFgq64NUbXlNEy) | [Ma génération](https://open.spotify.com/album/7ddonuzRgTYCZps8fdYo9K) | 3:40 | 2025-12-02 |  |
+| [Ma génération](https://open.spotify.com/track/03LiGSAkhvwbLalXIHlyu0) | [Illustre](https://open.spotify.com/artist/3zWDZmpcKFgq64NUbXlNEy) | [Ma génération](https://open.spotify.com/album/7ddonuzRgTYCZps8fdYo9K) | 3:40 | 2025-12-02 | 2025-12-05 |
 | [Ma maison](https://open.spotify.com/track/6OvoSnPWS3rABAurxz3mp3) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ma maison](https://open.spotify.com/album/62hNv6Bgy9ssohDDn5a14W) | 3:04 | 2025-09-30 | 2025-11-05 |
 | [Ma Mita](https://open.spotify.com/track/6u38iCUZoCjjCBvsVCvEuF) | [Mareva Galanter](https://open.spotify.com/artist/5vG3cwU8pyX65QldIIcEca) | [Ma Mita](https://open.spotify.com/album/7iml9t2NRrqB8Y5RmnG5Mx) | 4:00 | 2023-04-04 | 2023-05-03 |
 | [Ma moitié](https://open.spotify.com/track/5cc8kWoW6SecUjRfGMel8w) | [Inèss Parks](https://open.spotify.com/artist/6O0ieEx4E2r2gEwHiXYT6x) | [Ma moitié](https://open.spotify.com/album/0rjNQPfLnySfSJbystUvSe) | 3:02 | 2022-08-02 | 2022-09-07 |

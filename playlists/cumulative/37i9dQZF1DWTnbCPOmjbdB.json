@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Bletka",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Jonatan",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -9279,6 +9279,24 @@
     },
     {
       "album": {
+        "name": "Pokoje",
+        "url": "https://open.spotify.com/album/3MBFKv4w1n4e7INgy7v2N6"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262611,
+      "name": "Pokoje",
+      "url": "https://open.spotify.com/track/1MECqA3gqjqJh9HFTynhKx"
+    },
+    {
+      "album": {
         "name": "POKOLOROWANA",
         "url": "https://open.spotify.com/album/4jt1eGcqa1i36BAlXN8Dm1"
       },
@@ -14274,7 +14292,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 123203,
       "name": "\u017bycie, u\u017cywki, kariera",
       "url": "https://open.spotify.com/track/4ZA0UrTvbVchyZUN3pXNfc"

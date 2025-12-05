@@ -4,26 +4,28 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,558 likes - 17 songs - 1 hr 9 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,560 likes - 19 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Dog Still Misses Yours](https://open.spotify.com/track/5cioFCMUCA5xeY2ZoAGKxG) | [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu) | [My Dog Still Misses Yours](https://open.spotify.com/album/7aZy1ru9Ok3oOrZWDz3mFr) | 2:54 |
-| 2 | [Landeveg](https://open.spotify.com/track/5BS8dDAiJigBAxghw9TRS4) | [Bootlegs](https://open.spotify.com/artist/06NpyvDgWUFo5YPdLkRZp3) | [Landeveg](https://open.spotify.com/album/0za2JMfPkOo73uRAEcEzch) | 2:54 |
-| 3 | [JULKLAPPEN](https://open.spotify.com/track/75jBYhYlViXpeVmpEqI5BG) | [Mejeristerna](https://open.spotify.com/artist/27P0zwyOk3CLx4sTBwj1ha) | [JULKLAPPEN](https://open.spotify.com/album/3zPusZgJcFuwJANZkqy4h1) | 2:20 |
-| 4 | [Caí por la Ventana](https://open.spotify.com/track/32h9fZQZSeLBN6TMCOXFbn) | [Colao](https://open.spotify.com/artist/3urvNCVuTKfdp7adbUjtwT) | [Caí por la Ventana](https://open.spotify.com/album/4XvS1h9hefC8VT4TTsDaFs) | 2:46 |
-| 5 | [Break you in half \- 2025 Remaster](https://open.spotify.com/track/79M4gYiV5fulZHhOhCCyvp) | [Tapefly](https://open.spotify.com/artist/2dpSj4GoCZYx6yOLsk98De) | [The Lifting of the veil \(2025 Remaster\)](https://open.spotify.com/album/6Ptxfkskt4N5HT39m2jWhf) | 4:03 |
-| 6 | [All Our Friends \(Have Moved Away\)](https://open.spotify.com/track/1IIZmZ2cBmOnIRG8USbDW7) | [Moon Landing](https://open.spotify.com/artist/2MzYWU19YFhWthKTObl0xc) | [We'll Come Back Again As Birds](https://open.spotify.com/album/1ggNgR3pk4rmRJ869MHcyg) | 4:10 |
-| 7 | [Fid\-Dlam Hemm Ġenna](https://open.spotify.com/track/0f8Nx1CyHyXZqw2EqtiInK) | [Lara Zammit](https://open.spotify.com/artist/1l70BXnAuBqJVEQMZmqnV8), [Cher Camilleri](https://open.spotify.com/artist/7GvioPS1CgtQfGj7oV18GZ) | [Fid\-Dlam Hemm Ġenna](https://open.spotify.com/album/18i5CAVL6P5MjZ4J8c8im6) | 3:53 |
-| 8 | [Meditation: Kalpas Of Post Humanitous Tranquility](https://open.spotify.com/track/0cgFdz0QHhjGd1OFrHs9eo) | [Veins Of Death](https://open.spotify.com/artist/4i1CfcmWm2HV3OXxEQYrRA) | [Eternal Bleeding](https://open.spotify.com/album/4uev699vnxzilDmJXJYmp9) | 6:37 |
-| 9 | [Time Parrots \(Hit Me Up!\)](https://open.spotify.com/track/6j8RpOuxQ9dHzK2R5nhT3m) | [Black Magic Tree](https://open.spotify.com/artist/34bwj7wH6pMjhMkHKzWNyf) | [Terra](https://open.spotify.com/album/5eI5nJUFuSiFLPfGZoYE4f) | 3:31 |
-| 10 | [Nightmares](https://open.spotify.com/track/6ugc9ZzFB89h92x2vj2Vie) | [Cloud Chopsticks](https://open.spotify.com/artist/2Kyus1yRmVr88amodppMNQ) | [Nightmares](https://open.spotify.com/album/7Dt3Ga0yNV9Wb3bDYQp4O3) | 3:51 |
-| 11 | [Strangers to daylight](https://open.spotify.com/track/41zmKlsSP9AQdUetdXlIUX) | [Viia](https://open.spotify.com/artist/0dJlEUqherv8Fo2S7sJo21) | [Stamina](https://open.spotify.com/album/7tlwijx9IMJQVxoZXGTKCz) | 2:55 |
-| 12 | [Won't You Give Me Some Love](https://open.spotify.com/track/6UQ9BHIU5AhGR0zfzCetHA) | [Red Heart](https://open.spotify.com/artist/3jfjGrdg6pXh059TIUGFFW) | [Won't You Give Me Some Love](https://open.spotify.com/album/0GhdMWSPtdh1q1RZxqwxCE) | 3:50 |
-| 13 | [Ninja Slagsmål](https://open.spotify.com/track/4P5CsSQbtJe1ZdZCqx2vss) | [Di Blå](https://open.spotify.com/artist/6CJhWUJBU10X51P1VoCbqS) | [Slaget vid Stångebro, Vol\. 2](https://open.spotify.com/album/489BbfbwwdFPv85BP9Gdt7) | 2:54 |
-| 14 | [Vi var de tysta](https://open.spotify.com/track/7zrvM0EnuPLwz1UA8H2m1S) | [Kris Dybeck](https://open.spotify.com/artist/0hGAVECFtDdYeP4OfXCGS3) | [Vi var de tysta](https://open.spotify.com/album/6NNN4rfF3bjhyUoB27V1ir) | 4:17 |
-| 15 | [Rebellion](https://open.spotify.com/track/1lohUDZDDaKs9ZEvWsrntG) | [The Loner Collective](https://open.spotify.com/artist/2gS2jUS2xz5bTIb8W8holO) | [Rebellion](https://open.spotify.com/album/2QKPFBF3iwtMLPR9JCoLrE) | 3:00 |
-| 16 | [NEED U NOW](https://open.spotify.com/track/2S2zjvjf1n3dm03wpK7rWM) | [Pretty Smile](https://open.spotify.com/artist/6rhtmUtQrmLCTbJQt6nK7C) | [NEED U NOW](https://open.spotify.com/album/5PAMQu57Vt5bHeJOaQOfos) | 4:33 |
-| 17 | [Merger of Stars](https://open.spotify.com/track/68Jr5M6dKQdQPCqXvfmDWw) | [Far Out Telescope](https://open.spotify.com/artist/3TWGpNvQOIphACAn2lMdnh) | [Pt\. I: High Palace of Science and Space](https://open.spotify.com/album/2jLJYFf5znjEGdpCfS0Kra) | 10:45 |
+| 1 | [Equinox](https://open.spotify.com/track/3p8hcI5yatFQo5F4Hu9sDc) | [Aidoneus](https://open.spotify.com/artist/1EZDd31i3d5j5Ol91UJ6d5), [Jesterbug](https://open.spotify.com/artist/2GUXgi6zx7GPeiYZOgsUAL) | [Equinox](https://open.spotify.com/album/6VIleHfkyQsT6yX6W36Upk) | 4:14 |
+| 2 | [Prelude](https://open.spotify.com/track/6jYAGsCy1zlJTW3feaLJ8S) | [Megahit](https://open.spotify.com/artist/31r426ivwXMoZRDpTOTLLA) | [](https://open.spotify.com/album/null) | 4:13 |
+| 3 | [AMPUTATE THE FAKE](https://open.spotify.com/track/7HFbRM4yb0Wrs13EoYgDG0) | [Shilpa Ananth](https://open.spotify.com/artist/3mlTRbD5Vit017KpgSvzEi) | [AMPUTATE THE FAKE](https://open.spotify.com/album/0KL1vuTamAEoHn6oVqM40Z) | 3:11 |
+| 4 | [Dance Tonight](https://open.spotify.com/track/2mPMkeBAoJjBMqI2G3evxf) | [glide](https://open.spotify.com/artist/4sJIxnsxciNWl602rXrfXT), [Guru Griff](https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8), [back pockets](https://open.spotify.com/artist/1opF8wXbUWfibFd6JYrnLx) | [Dance Tonight](https://open.spotify.com/album/5G766AzxaGLyg0gBJxjV3i) | 2:56 |
+| 5 | [Joulun Ihme](https://open.spotify.com/track/5vIVmSI5x48ZHNvynqshvB) | [Anni Luoma](https://open.spotify.com/artist/6msLxTlEfJRgRdQfwmOVfo) | [Joulun Ihme](https://open.spotify.com/album/4KOUSw0PsnoRFR8j6ECxhV) | 3:49 |
+| 6 | [Down under](https://open.spotify.com/track/5n2W7QVfRJ6Y3cxmMRfJZb) | [Maklo & Peter](https://open.spotify.com/artist/5FEnST2oN7iRafwwHdWUX7) | [Down Under](https://open.spotify.com/album/7thOSOutjOQdKL0CyKxWvV) | 2:31 |
+| 7 | [Kopparberget](https://open.spotify.com/track/2pfBczYnN1BJnrVIFu2ZFJ) | [DRÖÖG](https://open.spotify.com/artist/7eRcVh608qJnnIiYzbUYQv) | [Kopparberget](https://open.spotify.com/album/5drv8c8kqGLJSRpYRgMTby) | 3:58 |
+| 8 | [Carol of the bells](https://open.spotify.com/track/2GIX4OBbUU8ateGiDiyi6X) | [Electrofrequency](https://open.spotify.com/artist/4pFECotgget0QJ0IvK13eY) | [Carol of the bells](https://open.spotify.com/album/1b6oB6FH81aGuuWdPY11sb) | 3:14 |
+| 9 | [Häxjakt i Snetakt](https://open.spotify.com/track/4IV2IZoSU1orLPRVL0RmkI) | [Homegrown GBG](https://open.spotify.com/artist/0BNkyynKTqCj4i73fbzAWF) | [Homegrown](https://open.spotify.com/album/5zruMr40SFeavvOvLlYm8Z) | 3:56 |
+| 10 | [Cloudrider](https://open.spotify.com/track/2agVnPW0gJloto63iNW7pj) | [New Mexican Doom Cult](https://open.spotify.com/artist/2HbG1tkZuG5G6iqflnWEJp) | [Cloudrider](https://open.spotify.com/album/6pS7pYBc73NxTpqHRa6Pv1) | 5:15 |
+| 11 | [Castle of Sand](https://open.spotify.com/track/3bFJGcW7DkYKxPRTq7GHZc) | [Dull Boy](https://open.spotify.com/artist/7d1CeunjSAzNmUVE94eleY) | [Castle of Sand](https://open.spotify.com/album/2WcdJAWe4wV5bVAAauNp1p) | 2:44 |
+| 12 | [Above the Wind](https://open.spotify.com/track/47ZyP5kyDqX9TLijdcGLlO) | [Seasons of Solitude](https://open.spotify.com/artist/4b1G9i7bIjEiVjGMw47Wuf) | [Seasons of Solitude](https://open.spotify.com/album/1KMcItxQfpC1I0V9cVu7IJ) | 5:31 |
+| 13 | [The Raven](https://open.spotify.com/track/1cnOGFSeb0ZPtHZpGwWsZD) | [Indica Blues](https://open.spotify.com/artist/2jsHZkaW6a0jhYbDs5FdHG) | [The Raven](https://open.spotify.com/album/2lwItFVYgEVtMzPWHa2tE4) | 4:35 |
+| 14 | [I Wake Up](https://open.spotify.com/track/1gonYSNtSrBngQIBk2xHOh) | [RICHARD](https://open.spotify.com/artist/6lNP2dKDTMTQb64aVMh54S) | [I Wake Up](https://open.spotify.com/album/7nWc7qiOWVCb8uZhshMao3) | 4:03 |
+| 15 | [My Superhero](https://open.spotify.com/track/1rEkRl21GAYHVqmo2hHxtc) | [The Loner Collective](https://open.spotify.com/artist/2gS2jUS2xz5bTIb8W8holO) | [Ten Thousand Hours, One Minute and Twenty Three Seconds](https://open.spotify.com/album/30VlqUNCXbd2g4a18NQpC0) | 2:29 |
+| 16 | [Innan dagen gryr](https://open.spotify.com/track/0xvJE4ovWKDaB7LfX9062G) | [Amanda Snäll](https://open.spotify.com/artist/74vbC40DJYWRx5SVenXH0D) | [Innan dagen gryr](https://open.spotify.com/album/2iXUXWiNISVsW8kbAhDINz) | 3:42 |
+| 17 | [Know Way Jose](https://open.spotify.com/track/0WtG60gm5vMe22onEWBthe) | [Ash Aba Dear](https://open.spotify.com/artist/20jleEfbR1l5bZmNITbfrP) | [Keys for Sale](https://open.spotify.com/album/2F1Oo7tVjzS4NevYkyamSF) | 3:09 |
+| 18 | [Malttamaton](https://open.spotify.com/track/4Lbt6bTS6qHf56E8hMQSQJ) | [Who Stole The Lipstick](https://open.spotify.com/artist/4BHm9fdynRP04lV7J97s5T) | [Malttamaton](https://open.spotify.com/album/1clw43sYc7qwoAGIYU3ykb) | 3:21 |
+| 19 | [Confusing](https://open.spotify.com/track/5QoJPTeeiYiHPqNQgGmtfQ) | [Ottilia Säll](https://open.spotify.com/artist/74MQsaJrONSlGU01DYlPlg) | [Confusing](https://open.spotify.com/album/1njEakQ87Kx6Z86wWOe32b) | 4:05 |
 
-Snapshot ID: `AAAEaEVT+b+4UjxD0aQdZr6b7zXoFMzB`
+Snapshot ID: `AAAEauQutExdtNOx/YLV4fiFhZP7EBUH`

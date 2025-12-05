@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 393 songs - 22 hr 57 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 395 songs - 23 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -401,5 +401,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 391 | [Broken Bottles](https://open.spotify.com/track/4CajAqrgmTEYZBsM0GzWFh) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Tana Talk 3](https://open.spotify.com/album/5OsHMGOg6lRV9REoVxbcWA) | 3:58 |
 | 392 | [Street Struck](https://open.spotify.com/track/2TE1FOBGJ0h7xxIFUjppmd) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM) | [Lifestylez Ov Da Poor & Dangerous](https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD) | 4:09 |
 | 393 | [Da Graveyard](https://open.spotify.com/track/04Rz403IY7QUqgfrTWX6OU) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM) | [Lifestylez Ov Da Poor & Dangerous](https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD) | 5:23 |
+| 394 | [In the Mood \(feat\. Kanye West & Roy Ayers\)](https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 3:55 |
+| 395 | [The Bizness](https://open.spotify.com/track/22wlZ0k1c3BSZuZpHkqAnl) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 4:22 |
 
-Snapshot ID: `AAAfUsb5jILdnkBnCYXtVnwzEiyl6LAj`
+Snapshot ID: `AAAfVIUiBNUlTwbLFrmabCb4+3O01kx2`

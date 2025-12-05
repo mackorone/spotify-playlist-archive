@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Dear Malibu",
+        "url": "https://open.spotify.com/album/4lV1jPMuaz8odID52UUMcV"
+      },
+      "artists": [
+        {
+          "name": "Pastel Atlas",
+          "url": "https://open.spotify.com/artist/0dOOtoPeBfIwrRKMRJlda0"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176076,
+      "name": "Dear Malibu",
+      "url": "https://open.spotify.com/track/6MXhSdqhQGJzLX2vdVK1O0"
+    },
+    {
+      "album": {
         "name": "Digital Edition (Game Over)",
         "url": "https://open.spotify.com/album/6FxCeenvcf2fMyyusfzP4G"
       },

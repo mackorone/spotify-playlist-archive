@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree with Fall Out Boy.
 
-233 songs - 12 hr 44 min
+234 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Cry Christmas](https://open.spotify.com/track/0Dfts9Zl952vjQqdX8b3ez) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/3lO37AWae5ZscjBZ2DQAvp) | 3:17 | 2022-11-11 |  |
 | [Cry Christmas](https://open.spotify.com/track/3BI6drkCxHUnWBKpvfBfLB) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Cry Christmas](https://open.spotify.com/album/0SgFUjYNZq7DUIsNLPbJ0n) | 3:17 | 2022-12-20 | 2024-04-19 |
 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/01sU6lFqUbZufGXM4EjkXO) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [Cole Rolland](https://open.spotify.com/artist/2TV1zBJZ3hQaJpTt46DBIc) | [Jingle Bell Rock / Dance of the Sugar Plum Fairy](https://open.spotify.com/album/4XaF5rkbxBH0PArJqK6kFp) | 1:45 | 2021-11-26 |  |
+| [December](https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 3:38 | 2025-12-04 |  |
 | [December's Here](https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [December's Here](https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN) | 2:59 | 2021-11-26 | 2022-11-09 |
 | [Don't Shoot Me Santa](https://open.spotify.com/track/4GhImmgp3j9jF3i9F9P3rg) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Ryan Pardey](https://open.spotify.com/artist/7ywLsMIT1NHbZS6hxGScvm) | [Don't Shoot Me Santa](https://open.spotify.com/album/4KvNcg4EBNkmXpj4dG2Iac) | 4:03 | 2023-11-30 |  |
 | [Don't Shoot Me Santa](https://open.spotify.com/track/0VnM98fVPYamafDoW7yza7) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Ryan Pardey](https://open.spotify.com/artist/7ywLsMIT1NHbZS6hxGScvm) | [Don't Waste Your Wishes](https://open.spotify.com/album/30huok00bCQ0TxIJDtz09w) | 4:05 | 2022-11-09 | 2024-04-19 |
@@ -148,7 +149,7 @@
 | [Mistress for Christmas](https://open.spotify.com/track/5Pk7LNZbcJk7E1cSMYhqV3) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mistress for Christmas](https://open.spotify.com/album/1H08mkzymVRV8TSqf79GYj) | 3:34 | 2021-11-26 |  |
 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 | 2021-11-26 |  |
 | [My Only Wish](https://open.spotify.com/track/2b53tTiN4ooFESadfs34pf) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [A BEGINNERS Guide to Christmas](https://open.spotify.com/album/7r2MCSBcbVk5JytEts0Ju6) | 2:39 | 2021-11-26 |  |
-| [No Christmas While I'm Talking](https://open.spotify.com/track/29h1ZIoHfHxsU4Eyjpu8je) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/0yI10WNFgAsBVShQIhFXW7) | 4:25 | 2021-11-26 |  |
+| [No Christmas While I'm Talking](https://open.spotify.com/track/29h1ZIoHfHxsU4Eyjpu8je) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/0yI10WNFgAsBVShQIhFXW7) | 4:25 | 2021-11-26 | 2025-12-05 |
 | [No Christmas While I'm Talking](https://open.spotify.com/track/6wYHoJUCDNk4fQ1YOyNJHp) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/4QR9jaNP6Ifh7eqXjhAHw2) | 4:25 | 2021-11-26 | 2024-04-19 |
 | [Nothing For Christmas](https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:35 | 2021-11-26 | 2024-04-19 |
 | [Nothing For Christmas](https://open.spotify.com/track/6sy8xrx5CeHG571DFYEhmj) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Christmas Rock 2022](https://open.spotify.com/album/3GWb1IkHZyhaaEkA7wTWk4) | 3:35 | 2022-11-09 | 2022-11-13 |

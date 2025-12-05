@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 245 likes - 1,699 songs - 4 day 7 hr 18 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,701 songs - 4 day 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1707,5 +1707,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1697 | [cALYPSO cRAB](https://open.spotify.com/track/6HISIzKtm64qArW8y0ltCm) | [Summer in the Attic](https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq) | [Queso](https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD) | 2:54 |
 | 1698 | [Ruin You](https://open.spotify.com/track/5DGEFddKdHhqdBQzc33gsy) | [Maddie Hogan](https://open.spotify.com/artist/6quyQgHYbx0Hiv7sz5PPxk) | [Ruin You](https://open.spotify.com/album/7tsnbxX5EpgDphSwgxA5jR) | 3:37 |
 | 1699 | [Worst Universe](https://open.spotify.com/track/0jdnGukKtJsvQ3EfvB5m3F) | [Marcy Daydream](https://open.spotify.com/artist/6NkpRJhd9in8Syp4gT3ka9) | [Worst Universe](https://open.spotify.com/album/3ts13EAFlZY3xcN9jmN19L) | 4:07 |
+| 1700 | [FRONTIER SNOW](https://open.spotify.com/track/6qW4799c2YhHshgwyVgXOl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FRONTIER SNOW](https://open.spotify.com/album/3S8GuBbOqtyIN5EqF5KiC2) | 3:19 |
+| 1701 | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/track/1nlL8h5SlpHQRc7zDWgE7R) | [ski mask BIG daddy](https://open.spotify.com/artist/63AMuOyMwnLVlOWMskZ6B5) | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/album/0nN0VqilWsN1XwMbNz8WmK) | 2:56 |
 
-Snapshot ID: `AAAHfH1ewd/ikOafaD75dpigitFuwLjB`
+Snapshot ID: `AAAHfhI+/L80OjZndvt6fEwxzOSPhhpl`

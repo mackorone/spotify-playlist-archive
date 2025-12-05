@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Dein Deutschpop. Deine Welt. Deine Playlist. Cover: verifiziert",
+  "description": "Dein Deutschpop. Deine Welt. Deine Playlist. Cover: Ivo Martin",
   "name": "POPLAND",
   "tracks": [
     {
@@ -96,6 +96,42 @@
       "duration_ms": 148000,
       "name": "50 stufen grau",
       "url": "https://open.spotify.com/track/5byb8ihCSCwtDnmCxjJl2q"
+    },
+    {
+      "album": {
+        "name": "75 hard",
+        "url": "https://open.spotify.com/album/2j5YzOkO898q20J2JmHvRv"
+      },
+      "artists": [
+        {
+          "name": "cami",
+          "url": "https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161203,
+      "name": "75 hard",
+      "url": "https://open.spotify.com/track/4Vc8cJpMeVHMaIpiREtCGW"
+    },
+    {
+      "album": {
+        "name": "86 Tasten",
+        "url": "https://open.spotify.com/album/3NcS1cLiiMF1N4SYivstb8"
+      },
+      "artists": [
+        {
+          "name": "Thelma Malar",
+          "url": "https://open.spotify.com/artist/7bJLeTkRR8doK2Y59z6A7H"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208208,
+      "name": "86 Tasten",
+      "url": "https://open.spotify.com/track/1TOtt4yIRhIOfrP304uGXG"
     },
     {
       "album": {
@@ -638,7 +674,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 135705,
       "name": "DAS WICHTIGSTE",
       "url": "https://open.spotify.com/track/0tNIvDvRbXvj0upmLAJyB4"
@@ -1132,7 +1168,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 133751,
       "name": "Hast du kurz Zeit",
       "url": "https://open.spotify.com/track/46BjFXnWrumhdl0uvk7IwE"
@@ -1392,7 +1428,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 143086,
       "name": "Innenleben",
       "url": "https://open.spotify.com/track/1EsJ3gbfCc8cBng3HbQU0O"
@@ -1410,7 +1446,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 169253,
       "name": "Ist das ok?",
       "url": "https://open.spotify.com/track/1YRsteGM849hNObauBMGaF"
@@ -1457,6 +1493,28 @@
     },
     {
       "album": {
+        "name": "juli",
+        "url": "https://open.spotify.com/album/74Ol3ScDT8UobOYD6e5Ba9"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        },
+        {
+          "name": "freddy",
+          "url": "https://open.spotify.com/artist/1wZSsamMhiSbUH81WUUNik"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162201,
+      "name": "juli",
+      "url": "https://open.spotify.com/track/0rbvydYLBS92meYf6S0b7D"
+    },
+    {
+      "album": {
         "name": "Kann es wirklich Liebe sein?",
         "url": "https://open.spotify.com/album/7tcMUDyvyhVraEMXzKcWn1"
       },
@@ -1468,7 +1526,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 149003,
       "name": "Kann es wirklich Liebe sein?",
       "url": "https://open.spotify.com/track/0t0LC7nwcUZpLejJJuNkMG"
@@ -1551,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Kirche im Dorf",
+        "url": "https://open.spotify.com/album/3LFrLwQoU0wWUILZrOxYLh"
+      },
+      "artists": [
+        {
+          "name": "Luisa Lou",
+          "url": "https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155158,
+      "name": "Kirche im Dorf",
+      "url": "https://open.spotify.com/track/4BDbZRfPnE3tYFD5MGFLbQ"
+    },
+    {
+      "album": {
         "name": "Kirschbl\u00fcten",
         "url": "https://open.spotify.com/album/2xzh63BMkGAdHCqVBBNzrw"
       },
@@ -1570,6 +1646,28 @@
       "duration_ms": 125613,
       "name": "Kirschbl\u00fcten",
       "url": "https://open.spotify.com/track/2lfiUGX43eKM28rkbxUI9E"
+    },
+    {
+      "album": {
+        "name": "Gegenteil von Gl\u00fcck",
+        "url": "https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252813,
+      "name": "Knopf",
+      "url": "https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO"
     },
     {
       "album": {
@@ -1628,6 +1726,24 @@
       "duration_ms": 179240,
       "name": "Lang nicht hier",
       "url": "https://open.spotify.com/track/4d452ROWWkwbPKM8DEWfUx"
+    },
+    {
+      "album": {
+        "name": "Lass dich nicht ficken",
+        "url": "https://open.spotify.com/album/5X3UjKtBVdOZ5wgRstrpmO"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157243,
+      "name": "Lass dich nicht ficken",
+      "url": "https://open.spotify.com/track/3sqzMlW70MhS6sOi96VVHN"
     },
     {
       "album": {
@@ -1765,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Lieblingsmensch",
+        "url": "https://open.spotify.com/album/3bEfufNFL5cRO2AnjWdD1F"
+      },
+      "artists": [
+        {
+          "name": "JONA",
+          "url": "https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "Lieblingsmensch",
+      "url": "https://open.spotify.com/track/0T4LGniLFM0NtRKq7XIDzg"
+    },
+    {
+      "album": {
         "name": "Lovesick",
         "url": "https://open.spotify.com/album/3AwV2fmBZezk62WPGkRmuH"
       },
@@ -1866,7 +2000,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 170958,
       "name": "Mega peinlich",
       "url": "https://open.spotify.com/track/57mXYa4IBMAolt7JfIhR4u"
@@ -1964,10 +2098,28 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 130961,
       "name": "NEIN",
       "url": "https://open.spotify.com/track/6k9RYn3QeRUuJHAzek3KwS"
+    },
+    {
+      "album": {
+        "name": "Nicht an meinem Tisch",
+        "url": "https://open.spotify.com/album/5Pd21h0oZXLUNsJmBnrKCo"
+      },
+      "artists": [
+        {
+          "name": "Tabea",
+          "url": "https://open.spotify.com/artist/2Ln4MnBIgYIjosyhXvgvW3"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191727,
+      "name": "Nicht an meinem Tisch",
+      "url": "https://open.spotify.com/track/4EGzDCiY49NnqKBsltrkKx"
     },
     {
       "album": {
@@ -2004,6 +2156,24 @@
       "duration_ms": 131583,
       "name": "Nur Dein",
       "url": "https://open.spotify.com/track/35hCve0kSEyJCrd9zSii0p"
+    },
+    {
+      "album": {
+        "name": "Nur Gott wei\u00df",
+        "url": "https://open.spotify.com/album/7r2h7pk5oU4nFwC8H9cBRo"
+      },
+      "artists": [
+        {
+          "name": "Joel Brandenstein",
+          "url": "https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173724,
+      "name": "Nur Gott wei\u00df",
+      "url": "https://open.spotify.com/track/72dD14ZbShzmrCM8cv1wUJ"
     },
     {
       "album": {
@@ -2112,7 +2282,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 203196,
       "name": "Pinienb\u00e4ume",
       "url": "https://open.spotify.com/track/4eBzQbMeVBvPoG5PHx5CGF"
@@ -2148,7 +2318,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 158297,
       "name": "PRIVILEG",
       "url": "https://open.spotify.com/track/4QywMEVuLLe7VWtJrxpquX"
@@ -2310,7 +2480,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 157693,
       "name": "Spiegelbild",
       "url": "https://open.spotify.com/track/5s9NBtJ9iBoXdxNpt8b95w"
@@ -2372,6 +2542,42 @@
       "duration_ms": 145849,
       "name": "tanz vor dir",
       "url": "https://open.spotify.com/track/5TYXJjM3zoFaATkpGTTAgI"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "LOUA",
+          "url": "https://open.spotify.com/artist/2eMgeKSX8NXvMfLyoBv0eK"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4fBCUabbi7sbb80RYbyx6F"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/5vFZg9MRZdrVKaJrDy1gjE"
     },
     {
       "album": {
@@ -2632,10 +2838,28 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 186960,
       "name": "Wann trennt ihr euch",
       "url": "https://open.spotify.com/track/4SIWTBspOcTt71kRYA87td"
+    },
+    {
+      "album": {
+        "name": "Warum du?",
+        "url": "https://open.spotify.com/album/6AgNsUPOUBQkAuoVvRxUqD"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178448,
+      "name": "Warum du?",
+      "url": "https://open.spotify.com/track/7mncCi93pBWIrbtD3OE6M3"
     },
     {
       "album": {
@@ -2650,7 +2874,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 190454,
       "name": "Warum sind wir so?",
       "url": "https://open.spotify.com/track/4fBCVzfG0Usl03ExqrZsA5"
@@ -2729,6 +2953,24 @@
     },
     {
       "album": {
+        "name": "weit weg",
+        "url": "https://open.spotify.com/album/7ojXyJLatYHr2lgIbGwfvI"
+      },
+      "artists": [
+        {
+          "name": "alilo",
+          "url": "https://open.spotify.com/artist/0kL6WVb7bwtBAbhmU4wRUU"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142052,
+      "name": "weit weg",
+      "url": "https://open.spotify.com/track/3OEkbJWWQeQJVhx1xijl4d"
+    },
+    {
+      "album": {
         "name": "wei\u00dfweinen",
         "url": "https://open.spotify.com/album/0Sh1eXVABWyPbsGdU6toYl"
       },
@@ -2780,7 +3022,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 201792,
       "name": "Wenn die Welt zerbricht",
       "url": "https://open.spotify.com/track/6CoKunu9S70kREmvCeOWDN"
@@ -2874,10 +3116,28 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-05",
       "duration_ms": 152437,
       "name": "Worte wie Messer",
       "url": "https://open.spotify.com/track/7Cw8a0S1JHDCGWUh5M6aBV"
+    },
+    {
+      "album": {
+        "name": "Wunder geschehen",
+        "url": "https://open.spotify.com/album/3lucIpPPjeDMSLj27ct8FD"
+      },
+      "artists": [
+        {
+          "name": "Nico Gomez",
+          "url": "https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158724,
+      "name": "Wunder geschehen",
+      "url": "https://open.spotify.com/track/5qJr02pkHbCEcIv0101e2l"
     },
     {
       "album": {
