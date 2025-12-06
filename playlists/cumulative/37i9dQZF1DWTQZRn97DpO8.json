@@ -8335,24 +8335,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Iris Aeria",
-          "url": "https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp"
-        }
-      ],
-      "date_added": "2025-12-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/0GjJBfMN2rTHz3deKa7SAR"
-    },
-    {
-      "album": {
         "name": "Tranquille",
         "url": "https://open.spotify.com/album/0R4Wx0ucuQHUNkXPmV7eZG"
       },
@@ -8798,6 +8780,24 @@
       "duration_ms": 205488,
       "name": "Violence & Po\u00e9sie",
       "url": "https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1"
+    },
+    {
+      "album": {
+        "name": "PLC",
+        "url": "https://open.spotify.com/album/43ekkvxknlKfTwE019bzLb"
+      },
+      "artists": [
+        {
+          "name": "Iris Aeria",
+          "url": "https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160627,
+      "name": "WE CAN",
+      "url": "https://open.spotify.com/track/0GjJBfMN2rTHz3deKa7SAR"
     },
     {
       "album": {

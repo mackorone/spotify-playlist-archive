@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best heavy songs of the year\.  Cover: Spiritbox
 
-402 songs - 1 day 2 hr 30 min
+403 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,9 +211,10 @@
 | [L'Envol](https://open.spotify.com/track/49y4jrXiUxJ1XqzUmtcQje) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les Chants de l'Aurore](https://open.spotify.com/album/24nGcIMJdnThRbgxpovlpy) | 8:02 | 2024-12-04 | 2025-12-04 |
 | [Labyrinth](https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Labyrinth](https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE) | 2:40 | 2025-12-03 |  |
 | [Lachryma](https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:36 | 2025-12-03 |  |
-| [Lachryma](https://open.spotify.com/track/0UvLAFRXgH4vNzzLdcWtWs) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/37a1ehu3HGYPA07QFvWIsL) | 4:36 | 2025-12-03 |  |
+| [Lachryma](https://open.spotify.com/track/0UvLAFRXgH4vNzzLdcWtWs) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/37a1ehu3HGYPA07QFvWIsL) | 4:36 | 2025-12-03 | 2025-12-06 |
 | [Lachryma](https://open.spotify.com/track/54wo8VAO4pVYNW7yUXUysO) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/5Eas7wCEOykav8rEXNLagt) | 4:36 | 2025-12-03 |  |
 | [Last Word](https://open.spotify.com/track/4j1xC0CxFsrpx6s5SA0ZGG) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 6:17 | 2023-11-29 | 2024-12-05 |
+| [LEECH](https://open.spotify.com/track/1UhkbKn4oHsLPDWOKrLcP2) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [DEATHMATCH](https://open.spotify.com/album/1KzhjA47EIY2rX2WjKpMBR) | 3:53 | 2025-12-05 |  |
 | [Left Behind](https://open.spotify.com/track/06j7eVHrgRSt9eQSWhH3zK) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 1](https://open.spotify.com/album/6wurDqEmcCcIoria5SRmom) | 3:26 | 2023-11-29 | 2024-04-19 |
 | [Left Behind](https://open.spotify.com/track/1fELNqKkbCNDWpxJHOXuVY) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind \(Acoustic\)](https://open.spotify.com/album/3vXU8TC9EDEdmnRUoGuOb1) | 3:26 | 2023-11-29 | 2024-03-13 |
 | [Left Behind](https://open.spotify.com/track/1maPvmbIAUUw5StegWvnnb) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Forgotten](https://open.spotify.com/album/4RnQzNSS5tZCgSOSuK7dM1) | 3:26 | 2023-11-29 | 2024-12-05 |
@@ -243,7 +244,7 @@
 | [Monochrome](https://open.spotify.com/track/73SsGfqjQv6oUxDaC9w8es) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:57 | 2023-11-29 | 2024-12-05 |
 | [MONSTER](https://open.spotify.com/track/2SL0hgFdUg2nBMJapyDuAt) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [I JUST DON'T LOVE YOU ANYMORE](https://open.spotify.com/album/2QgLpBT2EWrF39esY0iIsy) | 3:24 | 2022-11-30 | 2023-11-30 |
 | [Monsters](https://open.spotify.com/track/2tifAgNsyjjL20h1QKtVTe) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Parasites & Butterflies](https://open.spotify.com/album/5uRq9tAqhsULMA35OL37Uk) | 3:31 | 2025-12-03 |  |
-| [More Than Hate](https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [More Than Hate](https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl) | 3:27 | 2025-12-03 |  |
+| [MORE THAN HATE](https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [MORE THAN HATE](https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl) | 3:27 | 2025-12-03 |  |
 | [Murder8](https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm), [Jamey Jasta](https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL) | [Murder8](https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G) | 3:48 | 2024-12-04 | 2025-12-04 |
 | [My Garden](https://open.spotify.com/track/3iFrdRxudq9yD029Q9XOat) | [Agriculture](https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY) | [The Spiritual Sound](https://open.spotify.com/album/4HxzA7GFGtbcLiCNNd4AmZ) | 5:12 | 2025-12-03 |  |
 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 | 2025-12-03 |  |

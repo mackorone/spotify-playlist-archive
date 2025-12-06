@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Tame Impala along with the hottest alternative songs right now.\n",
+  "description": "Hayley Williams along with the hottest alternative songs right now.\n",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 237809,
       "name": "At The Beach, In Every Life",
       "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 214724,
       "name": "Burnin' Up",
       "url": "https://open.spotify.com/track/3UANpPF53vX9a37CfyJELS"
@@ -5923,6 +5923,24 @@
     },
     {
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/0So4zZK0utccXG4YgZ1Be9"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155743,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/5bbJplfDGd60rFJo1m2qZE"
+    },
+    {
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8"
       },
@@ -6616,6 +6634,24 @@
       "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
+    },
+    {
+      "album": {
+        "name": "Holy Roller",
+        "url": "https://open.spotify.com/album/6pKSThvXuzbqXYuhqb1iUg"
+      },
+      "artists": [
+        {
+          "name": "The Format",
+          "url": "https://open.spotify.com/artist/3ZJC8cLts8Q8s8JbNJKsLf"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235532,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/34OEHEvy2YHHWJl1mOfHpz"
     },
     {
       "album": {

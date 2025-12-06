@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-678 songs - 2 day 8 hr 33 min
+679 songs - 2 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [Jugular Jugular](https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Jugular Jugular](https://open.spotify.com/album/4fRHMcvU4cAsebcPGqOPxn) | 4:35 | 2025-08-29 |  |
 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 | 2024-03-29 | 2025-06-06 |
 | [Karamin Haske](https://open.spotify.com/track/5VeXbNPYuhvoWQYMFZtix7) | [Moses Eze](https://open.spotify.com/artist/4S4H6Q2AjmqM9tEIeFRbMm) | [Karamin Haske](https://open.spotify.com/album/3qbjUn1047WuW54oehNbBM) | 3:33 | 2025-07-11 | 2025-07-22 |
-| [Ke Nale Modisa \- Remix](https://open.spotify.com/track/1sTIGlXxkxnnIAwpoWktEK) | [Duduza Serenade](https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI), [Hamilton Motloung](https://open.spotify.com/artist/0dmAn6BG8K1a7EI5bvPTZs), [Black Gee](https://open.spotify.com/artist/7mdB1RJv9PBUBzRSud0iUL), [Thabiso Mkhwanazi](https://open.spotify.com/artist/3NvxLxwAXqhHp0bsbXMU6U) | [Ke Nale Modisa \(Remix\)](https://open.spotify.com/album/15M8iluF41uCswp7efYdYj) | 5:24 | 2025-10-24 |  |
+| [Ke Nale Modisa \- Remix](https://open.spotify.com/track/1sTIGlXxkxnnIAwpoWktEK) | [Duduza Serenade](https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI), [Hamilton Motloung](https://open.spotify.com/artist/0dmAn6BG8K1a7EI5bvPTZs), [Black Gee](https://open.spotify.com/artist/7mdB1RJv9PBUBzRSud0iUL), [Thabiso Mkhwanazi](https://open.spotify.com/artist/3NvxLxwAXqhHp0bsbXMU6U) | [Ke Nale Modisa \(Remix\)](https://open.spotify.com/album/15M8iluF41uCswp7efYdYj) | 5:24 | 2025-10-24 | 2025-12-06 |
 | [Kele Jehovah](https://open.spotify.com/track/05NQGVJqDquur7S2UsrxG5) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [BETHEL](https://open.spotify.com/album/50MpjTelBNmWQ1UDB40RIv) | 2:11 | 2025-03-07 | 2025-05-09 |
 | [Kelee Chineke](https://open.spotify.com/track/6ptnzaxcyKNHb33Uk6DYX8) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Kelee Chineke](https://open.spotify.com/album/7LigltsueKJziItb4AwZwx) | 5:32 | 2025-11-14 |  |
 | [Keneya](https://open.spotify.com/track/7bvytgDbzEeUf2SuwNe5qs) | [Kennyice](https://open.spotify.com/artist/36fj0UBiN4y4kx2H98ofdO), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Keneya](https://open.spotify.com/album/2kPm7KcYImvvkqYoWPETLb) | 2:39 | 2024-11-22 | 2025-02-13 |
@@ -623,6 +623,7 @@
 | [Wait](https://open.spotify.com/track/7Jr30GSDrdnNnxuTUZmCAe) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Wait](https://open.spotify.com/album/2PfyWIrTlp8z4TbXffQfvU) | 9:20 | 2025-08-01 |  |
 | [Waiting](https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Waiting](https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC) | 2:22 | 2024-04-05 | 2024-05-24 |
 | [Wapi](https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wapi](https://open.spotify.com/album/6k2Mz6mqJpd0O1xSNkYGXP) | 3:34 | 2024-06-28 | 2025-05-30 |
+| [Water Into Wine](https://open.spotify.com/track/6IpGnGGovqChZSLlIKXvfk) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [Water into Wine](https://open.spotify.com/album/4JXFozDG3PEcRuRp0nlSKR) | 9:42 | 2025-11-28 |  |
 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 | 2023-09-15 | 2024-03-16 |
 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds \(Live\)](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 | 2024-06-21 | 2024-07-12 |
 | [We Bow Down](https://open.spotify.com/track/0IkGmBCu8f9m9K4gOtGQRI) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [We Bow Down](https://open.spotify.com/album/1DpLBJNOvTDBSFosEhYAKA) | 9:00 | 2024-03-30 | 2025-06-06 |

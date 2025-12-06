@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Tems.",
+  "description": "What's happening in r&b, right now \u2013 featuring Elmiene.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 114838,
       "name": "Aye Girl",
       "url": "https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9"
@@ -4890,6 +4890,24 @@
       "duration_ms": 171507,
       "name": "Cry about it! (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
+    },
+    {
+      "album": {
+        "name": "Cry Against The Wind",
+        "url": "https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260240,
+      "name": "Cry Against The Wind",
+      "url": "https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV"
     },
     {
       "album": {
@@ -10164,7 +10182,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 137142,
       "name": "I'm Still Thinking",
       "url": "https://open.spotify.com/track/4hJl3W0nDJj7cr4dLzDja4"
@@ -25424,6 +25442,24 @@
       "duration_ms": 178027,
       "name": "Who's Gonna",
       "url": "https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152210,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"
     },
     {
       "album": {

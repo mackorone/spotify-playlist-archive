@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-527 songs - 1 day 11 hr 23 min
+528 songs - 1 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Holy Ghost Party](https://open.spotify.com/track/4pR0BUUDQrgWMmGhNXyv9F) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Holy Ghost Party](https://open.spotify.com/album/40C7e9RzNO5Ayqp4bCiEpa) | 3:23 | 2025-08-22 | 2025-09-20 |
 | [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 | 2022-09-23 | 2024-11-09 |
 | [Homemade Disaster](https://open.spotify.com/track/4k4JY0DFEustCvGDCs0Ur7) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/4JoSX9ytrWjExenqs4yWrp) | 3:14 | 2020-12-14 | 2022-02-26 |
+| [Hoodoo Woman](https://open.spotify.com/track/29rU2ADe2TBKlDePc7BWV4) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Hoodoo Woman](https://open.spotify.com/album/16E63Rm7QHoDvGcrA6848S) | 3:09 | 2025-12-05 |  |
 | [Hooray Hooray](https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Hooray Hooray](https://open.spotify.com/album/49WXct9dVEokilWT2A7muj) | 4:19 | 2022-01-28 | 2022-02-26 |
 | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/track/2cMKzAbQbKwHqYQgvRvGSw) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/album/2fHbu3R5or4jVtzvHdc9OZ) | 3:58 | 2023-09-08 | 2023-10-14 |
 | [How Blues Is That \(feat\. Joe Walsh\)](https://open.spotify.com/track/1CHQ1JVroIwvFF4uyIzp5V) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [How Blues Is That \(feat\. Joe Walsh\)](https://open.spotify.com/album/5cdbGAB813CdwjVGPpcVzU) | 4:23 | 2025-06-20 | 2025-07-15 |
@@ -298,7 +299,7 @@
 | [Make Me Feel Alright](https://open.spotify.com/track/6m8QC3Gs7MAQJDQdFGjdme) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:43 | 2021-05-21 | 2022-06-04 |
 | [Malahani](https://open.spotify.com/track/0cW9utrnFumH3YpcBNVAYC) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 3:59 | 2023-03-10 | 2025-03-22 |
 | [Malahani](https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 3:59 | 2023-03-10 | 2024-04-19 |
-| [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 | 2024-03-08 |  |
+| [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 | 2024-03-08 | 2025-12-06 |
 | [Masterpiece](https://open.spotify.com/track/3tZZqzhYNqBl39I5owZsKU) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Back For Me](https://open.spotify.com/album/41bSZmBET2F5LT8Powqgur) | 3:36 | 2025-03-28 |  |
 | [Me And My Guitar](https://open.spotify.com/track/22Qh6AHPrwzgSzKFnaZZTr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:23 | 2020-12-14 | 2022-02-26 |
 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 | 2021-10-29 | 2023-05-20 |

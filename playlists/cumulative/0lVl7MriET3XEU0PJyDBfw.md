@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Submit: tstack.link&\#x2F;bassline\-therapy
 
-899 songs - 1 day 23 hr 34 min
+901 songs - 1 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Gimme Tha](https://open.spotify.com/track/07GBCD58WdWxmcWkiELHLM) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Gimme Tha](https://open.spotify.com/album/7lZxg9sozmtxqvycMITdMo) | 3:11 | 2025-08-30 | 2025-10-07 |
 | [Gimme That Bounce](https://open.spotify.com/track/0l7cfP9dZBrkkNkR7NXnQO) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/7rpTAE8nqnoD98lnhpq2Ei) | 3:37 | 2023-12-31 | 2024-01-09 |
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-12-31 | 2024-01-09 |
+| [Ginger \(Feel Good\)](https://open.spotify.com/track/4uhBxLnnPffGIlLwrVjX62) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:46 | 2025-12-05 |  |
 | [girl$ \- Nala Remix](https://open.spotify.com/track/3SPBjIab6VmLqYsrAsGuv9) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [girl$ \(Nala Remix\)](https://open.spotify.com/album/2nb7D2tsCtrmMpnM7KfxCY) | 3:27 | 2025-07-05 | 2025-09-22 |
 | [Give You](https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Give You](https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy) | 2:35 | 2024-01-08 | 2024-01-22 |
 | [Go Back \(feat\. Julia Church\) \- Kyle Watson Remix](https://open.spotify.com/track/4M02PvpMpHzt7zpI9RRLcF) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Go Back \(feat\. Julia Church\) \[Kyle Watson Remix\]](https://open.spotify.com/album/4uYMHC7geGejO4U7pxmvQ1) | 3:46 | 2025-02-16 | 2025-07-13 |
@@ -659,6 +660,7 @@
 | [Right Away](https://open.spotify.com/track/3RTr2e3x2LmEMMF5SEaabO) | [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX), [Groove Aspect](https://open.spotify.com/artist/6y0pzhdHu0IQAmqbbg6dhd) | [Right Away](https://open.spotify.com/album/1SYHVmR9FkQxkETjFEDgNe) | 2:20 | 2024-08-19 | 2024-09-05 |
 | [Right Back](https://open.spotify.com/track/2Tkxc7Zgs6IPBspdk3hzwS) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Right Back](https://open.spotify.com/album/57l4FXeuZHyAH1mTWK1fb6) | 2:51 | 2024-11-17 | 2025-02-09 |
 | [Right Back \- Jackin' Mix](https://open.spotify.com/track/5EMBRPCRLUNAuunrdrTaqW) | [Bellecour](https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY) | [Right Back](https://open.spotify.com/album/3r0r4W6OuvwdCvuWjOzbar) | 5:54 | 2024-08-19 | 2024-09-05 |
+| [Rippin'](https://open.spotify.com/track/3skqg451OGzr8wrprbiEe4) | [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e) | [The Rhythm Archives, Vol\. 2](https://open.spotify.com/album/25rzdixbu0AWaT9F5NsIwj) | 6:21 | 2025-12-05 |  |
 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 | 2024-06-23 | 2024-08-20 |
 | [Rock the Floor](https://open.spotify.com/track/1lz4gBRc57LjO9DaKmbP4Q) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Teamworx](https://open.spotify.com/artist/5AVL4JohmPpJASDshyUzQj) | [Rock the Floor](https://open.spotify.com/album/3y92Vab7bPABBKwz49yGkF) | 2:44 | 2025-03-09 | 2025-05-11 |
 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 | 2025-07-05 | 2025-09-22 |

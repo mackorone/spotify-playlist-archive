@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Bamboo Dreams",
+        "url": "https://open.spotify.com/album/2NHDNkb6kqZkZjVBr9QeIS"
+      },
+      "artists": [
+        {
+          "name": "Habre",
+          "url": "https://open.spotify.com/artist/0OPQcjuuTEFOdJ0Oy6ON3Z"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Drink of Water",
+      "url": "https://open.spotify.com/track/2jgFqyG64Rg0arE4p0pE0u"
+    },
+    {
+      "album": {
         "name": "Dunfanaghy Beach",
         "url": "https://open.spotify.com/album/3RrKj0S9sPr9Zhhpz9vFDW"
       },

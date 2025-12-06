@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Guilty of Murder",
+        "url": "https://open.spotify.com/album/75Ju0PbmPvNo0gKv4hafKv"
+      },
+      "artists": [
+        {
+          "name": "Ethan Loke",
+          "url": "https://open.spotify.com/artist/6AcVELfnTn0p70P6R6SYSg"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273771,
+      "name": "Guilty of Murder",
+      "url": "https://open.spotify.com/track/2pTVCo3HSGQO2x75b1k5PS"
+    },
+    {
+      "album": {
         "name": "Heaven knows it all",
         "url": "https://open.spotify.com/album/1odTfJfVM90OZH6u6qx7Y2"
       },
@@ -1014,6 +1032,24 @@
       "duration_ms": 315000,
       "name": "Too Much Coffee",
       "url": "https://open.spotify.com/track/4f1ZCfIiONsbE1rLvKISve"
+    },
+    {
+      "album": {
+        "name": "The Change",
+        "url": "https://open.spotify.com/album/3ogSOauc4Nns4dTm3fDk4e"
+      },
+      "artists": [
+        {
+          "name": "Neil Friedlander",
+          "url": "https://open.spotify.com/artist/3vbuWzmFvfKIz0hptCJyS7"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "Totem",
+      "url": "https://open.spotify.com/track/6H5FyHR39hnSv5rEsXAuS1"
     },
     {
       "album": {

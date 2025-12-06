@@ -802,7 +802,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 42270,
       "name": "El sonido del misterio",
       "url": "https://open.spotify.com/track/2AI9lFk3Ppkyc2wrrKvk0q"
@@ -2183,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213142,
+      "name": "Sinton\u00eda",
+      "url": "https://open.spotify.com/track/0EQ3303rUQozqo5oTqeOCn"
+    },
+    {
+      "album": {
         "name": "SINTON\u00cdA",
         "url": "https://open.spotify.com/album/2jSdSyc1yTjGJp4z0JS5LC"
       },
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 213142,
       "name": "SINTON\u00cdA",
       "url": "https://open.spotify.com/track/5sBVGidOXOt51e2hJ81Cwu"

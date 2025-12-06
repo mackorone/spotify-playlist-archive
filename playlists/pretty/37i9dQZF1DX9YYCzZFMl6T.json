@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 7322,
+  "num_followers": 7326,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
-        "name": "Christmas In A Minor Key",
-        "url": "https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 130586,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/4w76VgK8polaFYWbdauE36"
-    },
-    {
-      "added_at": "2025-11-28 00:00:02",
-      "album": {
         "name": "we did a Christmas thing",
         "url": "https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 189597,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/2Ce03QU0b8QO5tQ71Tx61R"
+    },
+    {
+      "added_at": "2025-11-28 00:00:02",
+      "album": {
+        "name": "Christmas In A Minor Key",
+        "url": "https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 130586,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/4w76VgK8polaFYWbdauE36"
     },
     {
       "added_at": "2025-11-28 00:00:02",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-11-28 00:00:02",
       "album": {
-        "name": "The Devil You Know",
-        "url": "https://open.spotify.com/album/4ftjmx3yacX5yEvFXlc8Pk"
+        "name": "Is It Far To Bethlehem?",
+        "url": "https://open.spotify.com/album/4X7AnDouIRYOU1vclZ7Nn5"
       },
       "artists": [
         {
-          "name": "Todd Snider",
-          "url": "https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5"
+          "name": "Kacy & Clayton",
+          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
         }
       ],
-      "duration_ms": 232840,
-      "name": "Happy New Year",
-      "url": "https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP"
+      "duration_ms": 202013,
+      "name": "Is It Far To Bethlehem?",
+      "url": "https://open.spotify.com/track/4ZnEbEj9GONWSV1WSRcvcD"
     }
   ],
   "unique_name": "Americana Christmas",

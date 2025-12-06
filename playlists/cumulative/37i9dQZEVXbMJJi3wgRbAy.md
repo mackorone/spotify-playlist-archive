@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,228 songs - 2 day 17 hr 1 min
+1,229 songs - 2 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [DUELE](https://open.spotify.com/track/6CzozhzNVBfxmUthlZiYm4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Emirsito](https://open.spotify.com/artist/7h4m4bjcwfXV0zPRRNUaiB) | [TRAMPA AL TIEMPO](https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77) | 2:25 | 2024-11-12 | 2024-11-17 |
 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 | 2022-11-17 | 2023-01-26 |
 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 | 2021-03-27\* | 2021-07-29 |
+| [Día de Enero](https://open.spotify.com/track/2u24GtkbktY3HB3souJdNY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral Volumen 1 \(Expanded Edition\)](https://open.spotify.com/album/0nM8pby34jgWunNBmoWXxl) | 2:53 | 2025-12-05 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-08 |
 | [eCLIPSE sOLAR](https://open.spotify.com/track/29QWLM6tRe7Yp4dvNt02JC) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [5202](https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00) | 2:28 | 2025-07-09 | 2025-07-11 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-05-07 | 2023-01-12 |
@@ -531,7 +532,7 @@
 | [la culpa \(track 11\)](https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [la culpa \(track 11\)](https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP) | 2:45 | 2025-06-23 | 2025-07-01 |
 | [La esperanza que nos une \- Versión Plena](https://open.spotify.com/track/3TBgglLE8xmpbUQVz2MaQi) | [Yamandú Orsi](https://open.spotify.com/artist/3i0c1ieeaASdblYAn8uGpe) | [La esperanza que nos une \(Versión Plena\)](https://open.spotify.com/album/01D6ZOs4nWFMgJRY78utHG) | 1:38 | 2024-11-26 | 2024-11-29 |
 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 | 2024-02-06 | 2024-08-27 |
-| [La Fuerte](https://open.spotify.com/track/09mHLXMh3rmruStxevfh3U) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:44 | 2025-12-04 |  |
+| [La Fuerte](https://open.spotify.com/track/09mHLXMh3rmruStxevfh3U) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:44 | 2025-12-04 | 2025-12-06 |
 | [La Ilusión Se Terminó](https://open.spotify.com/track/0ZLyvF5xPFVv84cJbSdJzl) | [La Misma Cuadra](https://open.spotify.com/artist/2JJXJsbTyotc9Rm0KWSTdQ) | [La Ilusión Se Terminó](https://open.spotify.com/album/3NM8jmc5YK4OmEbEOrn6FO) | 3:02 | 2025-07-19 | 2025-11-27 |
 | [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 | 2022-09-09 | 2022-10-30 |
 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 | 2022-12-02 | 2022-12-04 |

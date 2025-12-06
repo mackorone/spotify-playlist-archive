@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 470382,
+  "num_followers": 470419,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAAArzcYakc5eITO0pQlPs/Og",
+  "snapshot_id": "aTDPAAAAAAAJ460fnWXl6fnlnYV6irY/",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 169373,
-      "name": "El Muletas (En Vivo)",
-      "url": "https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 181826,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 169373,
+      "name": "El Muletas (En Vivo)",
+      "url": "https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 248453,
-      "name": "Angeles O Demonios",
-      "url": "https://open.spotify.com/track/4m2Ug8zpPU3jDA3aqbiW83"
+      "duration_ms": 209093,
+      "name": "Millones de Besos",
+      "url": "https://open.spotify.com/track/1YIOScsBgvsOV7prw6mh8I"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 209093,
-      "name": "Millones de Besos",
-      "url": "https://open.spotify.com/track/1YIOScsBgvsOV7prw6mh8I"
+      "duration_ms": 248453,
+      "name": "Angeles O Demonios",
+      "url": "https://open.spotify.com/track/4m2Ug8zpPU3jDA3aqbiW83"
     },
     {
       "added_at": null,

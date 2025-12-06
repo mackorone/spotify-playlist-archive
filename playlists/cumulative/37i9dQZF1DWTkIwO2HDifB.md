@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: MC GP,  MC leleJP,  DJ Davi DOGDOG
+> Os funks mais 🔑 do Brasil / Foto: DJ YUZAK, MC BN, Mc RN Original
 
 407 songs - 23 hr 59 min
 

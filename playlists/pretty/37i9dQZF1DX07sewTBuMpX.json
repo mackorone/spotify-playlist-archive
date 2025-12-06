@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140368,
+  "num_followers": 140365,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
-        "name": "LOCO",
-        "url": "https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Lossa",
-          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
         "name": "The Baddest",
         "url": "https://open.spotify.com/album/7KPEH7yiNZ3qDFcozl1xTV"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 171533,
       "name": "The Baddest",
       "url": "https://open.spotify.com/track/5L5wa7XXoPrleRSuwBiHHR"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
+        "name": "LOCO",
+        "url": "https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6"
     },
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
+        "name": "Dansvloerkiller",
+        "url": "https://open.spotify.com/album/1pIFdaWneZM9kRMYDsYcxD"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Dansvloerkiller",
+      "url": "https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 176892,
       "name": "Darling",
       "url": "https://open.spotify.com/track/7LtHyF0iUvR1g39UP6kI11"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
-        "name": "Dansvloerkiller",
-        "url": "https://open.spotify.com/album/1pIFdaWneZM9kRMYDsYcxD"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Dansvloerkiller",
-      "url": "https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc"
     },
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
-        "name": "Plenty Bars - EP",
-        "url": "https://open.spotify.com/album/71AOYMYwbLHEzH2UCDzQjk"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        }
-      ],
-      "duration_ms": 141552,
-      "name": "Bushokje",
-      "url": "https://open.spotify.com/track/5qeKjCFlvCwPlUK3zeBZfD"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
         "name": "PGS",
         "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 151016,
       "name": "PGS",
       "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
+        "name": "Plenty Bars - EP",
+        "url": "https://open.spotify.com/album/71AOYMYwbLHEzH2UCDzQjk"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "duration_ms": 141552,
+      "name": "Bushokje",
+      "url": "https://open.spotify.com/track/5qeKjCFlvCwPlUK3zeBZfD"
     },
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1235,6 +1235,30 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
+        "name": "Your Season",
+        "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Your Season",
+      "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
         "name": "Niet Verstandig",
         "url": "https://open.spotify.com/album/3oxxu47TjP2Krk6iz1dQ4B"
       },
@@ -1247,6 +1271,26 @@
       "duration_ms": 142875,
       "name": "Niet Verstandig",
       "url": "https://open.spotify.com/track/35BKAvxM6Thb2lN5dvqnfF"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
+        "name": "Strandje Aan De Maas",
+        "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        }
+      ],
+      "duration_ms": 206527,
+      "name": "Stunten",
+      "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
     },
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1275,26 +1319,6 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
-        "name": "Strandje Aan De Maas",
-        "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "KA",
-          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
-        }
-      ],
-      "duration_ms": 206527,
-      "name": "Stunten",
-      "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
         "name": "Tyar\u2019 En Waka",
         "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
       },
@@ -1307,30 +1331,6 @@
       "duration_ms": 161252,
       "name": "Tyar\u2019 En Waka",
       "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
-        "name": "Your Season",
-        "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
-      },
-      "artists": [
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Your Season",
-      "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
     },
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 144675,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
         "name": "Alsjeblieft",
         "url": "https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 200453,
       "name": "Alsjeblieft",
       "url": "https://open.spotify.com/track/6EqWfORn8udIwOBx6NSktf"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 144675,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
     },
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
-        "name": "Ik Kijk Soms Naar Jou",
-        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
-      },
-      "artists": [
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 182621,
-      "name": "Ik Kijk Soms Naar Jou",
-      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
         "name": "GIRLS WANNA HAVE FUN",
         "url": "https://open.spotify.com/album/7I10Tjo8NKUvesJtUrpBof"
       },
@@ -1811,26 +1795,42 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
-        "name": "Tayo",
-        "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
+        "name": "Ik Kijk Soms Naar Jou",
+        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
       },
       "artists": [
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "SO7ACE",
-          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
         }
       ],
-      "duration_ms": 162162,
-      "name": "Milli (feat. Victony)",
-      "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
+      "duration_ms": 182621,
+      "name": "Ik Kijk Soms Naar Jou",
+      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
+        "name": "Spanje",
+        "url": "https://open.spotify.com/album/2wu6po7eDveSp9XYYNjeqF"
+      },
+      "artists": [
+        {
+          "name": "Ksix",
+          "url": "https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR"
+        },
+        {
+          "name": "J.FIZ",
+          "url": "https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT"
+        },
+        {
+          "name": "Dylisa",
+          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+        }
+      ],
+      "duration_ms": 141230,
+      "name": "Spanje",
+      "url": "https://open.spotify.com/track/5pFxWvLViHHkKBFiln1vij"
     }
   ],
   "unique_name": "Pull Up Hits",

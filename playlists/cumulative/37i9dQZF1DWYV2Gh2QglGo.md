@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Orville Peck
+> The home of Canadian country music\. Cover: Tenille Arts
 
-496 songs - 1 day 2 hr 32 min
+497 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Do It Anyway](https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Do It Anyway](https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT) | 2:50 | 2024-07-19 | 2024-10-19 |
 | [Doin' What She Does](https://open.spotify.com/track/4QDfhW0gsFEKaUOJUDBwe8) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Doin' What She Does](https://open.spotify.com/album/2jXUimgUa3XMPV3qbUQNtG) | 2:56 | 2025-03-15 | 2025-08-30 |
 | [Don't Get You A Man](https://open.spotify.com/track/4F6po6MQ6FqFAOAXwCOw8Q) | [Annika](https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo) | [Don't Get You A Man](https://open.spotify.com/album/575magAMGziuTFBefWPFrz) | 3:00 | 2025-07-25 | 2025-09-20 |
+| [Don't Ruin Flowers](https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Don't Ruin Flowers](https://open.spotify.com/album/5v1j957WCGpsGwegO4UhpN) | 3:04 | 2025-12-05 |  |
 | [Dreamin'](https://open.spotify.com/track/6TMTDBM1PS4uyeoMh8ydw8) | [Brian John Harwood](https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4) | [Dreamin'](https://open.spotify.com/album/1XuyHZ3Sy84NlPQCSTlFTJ) | 3:04 | 2024-06-28 | 2024-09-28 |
 | [Drink Around](https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Drink Around](https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k) | 2:28 | 2025-06-27 |  |
 | [Drive](https://open.spotify.com/track/4pIh9QjspvYmaHU5qLWhGC) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Drive](https://open.spotify.com/album/08jNvTGmw8wnDxIYqgYHx3) | 2:56 | 2024-06-28 | 2024-08-03 |

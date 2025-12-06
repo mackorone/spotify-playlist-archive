@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212683,
+  "num_followers": 212687,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Frigid Stars",
+        "url": "https://open.spotify.com/album/3a7G9BVcIu4T3kf3jQFrk9"
+      },
+      "artists": [
+        {
+          "name": "Codeine",
+          "url": "https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "D",
+      "url": "https://open.spotify.com/track/2bMMG4vn7pHC20gj8Yb34m"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "No Depression In Heaven",
         "url": "https://open.spotify.com/album/5MLdgEFXND3EClVF1he9nn"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 290066,
       "name": "No Sense",
       "url": "https://open.spotify.com/track/7hqgpJchv39sfIWLTXkMMe"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Frigid Stars",
-        "url": "https://open.spotify.com/album/3a7G9BVcIu4T3kf3jQFrk9"
-      },
-      "artists": [
-        {
-          "name": "Codeine",
-          "url": "https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "D",
-      "url": "https://open.spotify.com/track/2bMMG4vn7pHC20gj8Yb34m"
     },
     {
       "added_at": "2025-08-07 23:00:59",

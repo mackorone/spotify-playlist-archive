@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 262793,
+  "num_followers": 262869,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Sobredosis de Amor y Salsa",
-        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        },
-        {
-          "name": "\u00d3scar Quesada",
-          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
-        }
-      ],
-      "duration_ms": 249878,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Salsa Exitos",
         "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
       },
@@ -411,6 +391,22 @@
       "duration_ms": 311800,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 344786,
+      "name": "Nadie Igual Que tu",
+      "url": "https://open.spotify.com/track/1E04xyii2FtGyCiAWgbm9k"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -431,18 +427,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP"
+        "name": "Sobredosis de Amor y Salsa",
+        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
       "artists": [
         {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        },
+        {
+          "name": "\u00d3scar Quesada",
+          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
         }
       ],
-      "duration_ms": 344786,
-      "name": "Nadie Igual Que tu",
-      "url": "https://open.spotify.com/track/1E04xyii2FtGyCiAWgbm9k"
+      "duration_ms": 249878,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Sobredosis de Amor y Salsa",
-        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        },
-        {
-          "name": "\u00d3scar Quesada",
-          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
-        }
-      ],
-      "duration_ms": 287459,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/6ADkHioGKvBpqDkXVhMZKr"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 389560,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Sobredosis de Amor y Salsa",
+        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        },
+        {
+          "name": "\u00d3scar Quesada",
+          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
+        }
+      ],
+      "duration_ms": 287459,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/6ADkHioGKvBpqDkXVhMZKr"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -599,8 +599,8 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Nuestro Aniversario",
-        "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
+        "name": "Nuestra Musica",
+        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 292306,
-      "name": "Se Me Fu\u00e9",
-      "url": "https://open.spotify.com/track/7LtdGE1jTyh9mgnmxvkyRO"
+      "duration_ms": 235853,
+      "name": "La Fiesta de 'Pilito'",
+      "url": "https://open.spotify.com/track/1SHQcgo2PhZXaICEHholIC"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 266013,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "El Sonero Del Pueblo",
         "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 254360,
       "name": "El Hombre Increible",
       "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 266013,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 261880,
-      "name": "Amantes De Otro Tiempo",
-      "url": "https://open.spotify.com/track/2NQsj4HzvWYw5VbDJRrlJY"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/49yBL8VWJ0AtHPfW6Gix6z"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 275453,
       "name": "No Soy Autom\u00e1tico",
       "url": "https://open.spotify.com/track/0jRXZABgFIsPCI7235h5u2"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 261880,
+      "name": "Amantes De Otro Tiempo",
+      "url": "https://open.spotify.com/track/2NQsj4HzvWYw5VbDJRrlJY"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 351813,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "SALSEANDO CON... UNO",
         "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 313533,
       "name": "Tu",
       "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 351813,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
     },
     {
       "added_at": "2024-07-11 00:51:42",

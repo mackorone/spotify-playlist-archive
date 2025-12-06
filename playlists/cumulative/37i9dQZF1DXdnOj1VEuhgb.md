@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Gazapizm
 
-801 songs - 1 day 12 hr 11 min
+801 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,7 +705,6 @@
 | [TEMPO](https://open.spotify.com/track/076Dr6X4H6hoAML95QVlhn) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TEMPO](https://open.spotify.com/album/1GftyXEspbaRxHj6lA2s1f) | 2:12 | 2024-08-08 | 2024-12-06 |
 | [TİKTOK](https://open.spotify.com/track/3ic4P54j8y17su29vAGYD5) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TİKTOK](https://open.spotify.com/album/22kL0LjMCNE6ssXseUGuGY) | 1:56 | 2025-10-02 | 2025-11-21 |
 | [Tom&Jerry \- Walk And Flow](https://open.spotify.com/track/3xo2UqVRVmjSXtlN83y2Ty) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk) | [Tom&Jerry \- Walk And Flow](https://open.spotify.com/album/6HccvGrEfTb01BHTDTlel7) | 1:34 | 2024-09-19 | 2024-10-04 |
-| [Track 5](https://open.spotify.com/track/55gtNEkxnIKu6LE2AuX09M) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [Trip attım](https://open.spotify.com/track/3eCpykORJcDHvDWxvrKYDu) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Trip attım](https://open.spotify.com/album/6AjvqUlpE0M92AH3cTJIAU) | 2:01 | 2023-10-05 | 2024-02-06 |
 | [TRY HARD](https://open.spotify.com/track/11ViaAOjlAqHHNpPZ7XY34) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [TRY HARD](https://open.spotify.com/album/78PEpCckDqWzBNZaXnNaO5) | 3:21 | 2025-11-13 |  |
 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 | 2023-01-10 | 2023-02-17 |
@@ -773,6 +772,7 @@
 | [Yolunda](https://open.spotify.com/track/7LELE3hnhKR0KtBLxWe3u7) | [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m), [FerzanBeats](https://open.spotify.com/artist/0te8dahx5iQeSlOYj5n8t9) | [Reboot](https://open.spotify.com/album/73WsKRheM62HOOfBb2jfer) | 3:13 | 2025-01-09 | 2025-01-24 |
 | [Yolunda "pavyon"](https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [Yolunda "pavyon"](https://open.spotify.com/album/55xd86fvi9qV5KT7oYAVnM) | 2:30 | 2023-05-04 | 2023-12-14 |
 | [YSIVII](https://open.spotify.com/track/67FJONzR4S8nS535Op1HK5) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [YSIVII](https://open.spotify.com/album/7c9vw13t8XozdjvLfOjeJF) | 3:03 | 2024-12-12 | 2024-12-27 |
+| [YÜKSEK](https://open.spotify.com/track/55gtNEkxnIKu6LE2AuX09M) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7) | [ROCKY TYPE BEAT](https://open.spotify.com/album/5VhT9e7oKByXfmjzYXa9aX) | 2:12 | 2025-12-04 |  |
 | [Yıldızlar](https://open.spotify.com/track/2FI06fNn4wAKsHnUA7GHxF) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Summerland](https://open.spotify.com/album/7yjs2zcZUYTRTQym3gxioz) | 2:13 | 2024-07-04 | 2024-09-06 |
 | [Yıldızlar](https://open.spotify.com/track/4fz5kUfUIaJ1L2alP3sgY8) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Yıldızlar](https://open.spotify.com/album/6uHgiAGhiUZQsXfATbr6vC) | 2:58 | 2024-08-08 | 2024-09-06 |
 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 | 2023-01-10 | 2023-03-03 |

@@ -4,7 +4,7 @@
 
 > A melting pot of Caribbean culture\. Cover: NESTA
 
-297 songs - 14 hr 34 min
+298 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Can't Tell Me That](https://open.spotify.com/track/2BLrKmF2k0oJllTdl4Rl9Z) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Can't Tell Me That](https://open.spotify.com/album/60iDaCjT5UltzxOzPXT4UC) | 2:34 | 2025-02-14 | 2025-04-05 |
 | [Carnival](https://open.spotify.com/track/4fmwyrPZ8cLFxOfchNXPf5) | [jussbusscamp records](https://open.spotify.com/artist/396P2eplddPOmYdfdEbCSs), [Ghaza](https://open.spotify.com/artist/0YYAqEPWlk2LpnopbbaF8l) | [Carnival](https://open.spotify.com/album/5mCdl9mYVaiJtqyzgzoAi6) | 3:17 | 2024-08-29 | 2025-10-25 |
 | [Caught Up](https://open.spotify.com/track/0STKLnexcFRqVUrlFwToAR) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Occupied Mind](https://open.spotify.com/album/5SFodcpgUUpbA72YvNIHwy) | 3:51 | 2024-08-29 | 2025-04-26 |
-| [CHAMPION](https://open.spotify.com/track/3l31DsJjIRwhzhnb0fR7J8) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [CHAMPION](https://open.spotify.com/album/7mPRKfg6QpysEIlPbybGV6) | 2:59 | 2025-11-21 |  |
+| [CHAMPION](https://open.spotify.com/track/3l31DsJjIRwhzhnb0fR7J8) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [CHAMPION](https://open.spotify.com/album/7mPRKfg6QpysEIlPbybGV6) | 2:59 | 2025-11-21 | 2025-12-06 |
 | [Champion](https://open.spotify.com/track/1qyBQ1Lmzz1EpCVupaWZSf) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [ROAD TO GREATNESS](https://open.spotify.com/album/0A7UQT8XvgYeZtuScs5HJ1) | 3:57 | 2024-08-29 |  |
 | [Chant](https://open.spotify.com/track/0T3EDAwXpUNAfzWulhAiEV) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Chant](https://open.spotify.com/album/2OzKSDi0TDhc7Vb8X9eeXe) | 2:58 | 2025-02-28 | 2025-03-15 |
 | [CHARGE UP](https://open.spotify.com/track/3GI7aoo2V7yVFaNboCIZ4C) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [CHARGE UP](https://open.spotify.com/album/1AJtGFROG3tvkm66dMCRyI) | 2:02 | 2025-08-08 |  |
@@ -72,6 +72,7 @@
 | [Cry Wolf](https://open.spotify.com/track/6I2MrEcIvtLzz2Gv6DGCAU) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Cry Wolf](https://open.spotify.com/album/255urlK7V4yakvNY6r7aUK) | 3:27 | 2025-10-10 | 2025-10-25 |
 | [Cut The Link](https://open.spotify.com/track/4vmSIXuD6f3I3Ap0RAMLmi) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Cut The Link](https://open.spotify.com/album/3uhAtGve245x44l7Yc2afC) | 3:22 | 2025-01-24 | 2025-02-08 |
 | [D N A](https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [D N A](https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8) | 3:26 | 2024-08-29 |  |
+| [Dance Pon Me](https://open.spotify.com/track/5QAkndPQOLg72jJIsHEY8n) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance Pon Me](https://open.spotify.com/album/6FYMnjlhhyoThcscYjPHqF) | 2:26 | 2025-12-05 |  |
 | [Dangerous](https://open.spotify.com/track/2MBg1KNO6H3aYHOnS8phqi) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci) | [MUSE](https://open.spotify.com/album/0yWpywE2F4Iv2xXimZC8kf) | 3:18 | 2025-02-28 | 2025-04-12 |
 | [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 | 2025-05-09 |  |
 | [Dating Szn](https://open.spotify.com/track/36VdMAYdbvsPDxq9w4fehv) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Dating Szn](https://open.spotify.com/album/0POPtgxngG9xYy2ogbHqVK) | 2:55 | 2024-12-06 |  |

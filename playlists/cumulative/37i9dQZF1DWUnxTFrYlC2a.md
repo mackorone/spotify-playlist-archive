@@ -4,7 +4,7 @@
 
 > 🍬😝 CA7RIEL & Paco Amoroso EN PORTADA
 
-265 songs - 15 hr 8 min
+268 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/71w16lRK8rcpja59L5PqmY) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Canciones en Mi](https://open.spotify.com/album/4l7m9k9na3sm2sR3BYSTsE) | 2:55 | 2025-09-08 |  |
 | [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 | 2023-07-04 | 2024-04-19 |
 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 | 2023-07-04 | 2025-07-31 |
+| [forgetyou:\(](https://open.spotify.com/track/61O1QuGxNPHb1jkesPDqmN) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [forgetyou:\(](https://open.spotify.com/album/6p9DZYw11XNJXLovSAgCpa) | 2:26 | 2025-12-05 |  |
 | [Fractúbela](https://open.spotify.com/track/5BNZcuyCkcBNIhF2DmQlWf) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Fractúbela](https://open.spotify.com/album/2bcCoVonJSVHk4Q7IYMRyf) | 4:18 | 2025-07-30 |  |
 | [Fria](https://open.spotify.com/track/4ijd1rkMYDh4D7rxi3O8Jf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:07 | 2024-04-26 | 2025-07-31 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2023-07-04 | 2025-07-31 |
@@ -118,6 +119,7 @@
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2023-07-04 | 2025-07-31 |
 | [Hey Lil Mama](https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:36 | 2024-02-23 | 2025-07-31 |
 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 | 2023-07-04 | 2025-07-31 |
+| [Hoy](https://open.spotify.com/track/74BzhQGkAHXu4pebiJqpsy) | [008RACCA](https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM) | [Hoy](https://open.spotify.com/album/2Bg8v4lqua1lqFgvjeBUhJ) | 3:41 | 2025-12-05 |  |
 | [I Got U Baby](https://open.spotify.com/track/6wL6JVI1IGhWtNELRft2f4) | [Mori](https://open.spotify.com/artist/32LRzOkIsRVT82iYmLSbBK) | [I Got U Baby](https://open.spotify.com/album/0G9itYLadLCHjpyBlW1vsk) | 4:28 | 2025-09-08 |  |
 | [I'M SO HAPPY](https://open.spotify.com/track/4kwGTSGsvfoU8pNDpdntzw) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I'M SO HAPPY](https://open.spotify.com/album/1YhROhBLGiTjyyC9lCTk7s) | 2:26 | 2025-07-30 |  |
 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 | 2023-07-04 | 2024-02-24 |
@@ -215,6 +217,7 @@
 | [Sangoloteadito](https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 3: Con Tambora](https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2) | 3:00 | 2023-07-04 | 2024-02-24 |
 | [Se fue la luz](https://open.spotify.com/track/39PPT5p915YbhBfa8GWi4H) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Se fue la luz](https://open.spotify.com/album/06apbSuVacUMztWSj9USqW) | 3:32 | 2025-07-30 |  |
 | [Se Te Va A Caer La Baba](https://open.spotify.com/track/6b06oCGEBRYgdqDzvDp9kv) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Se Te Va A Caer La Baba](https://open.spotify.com/album/1jL1MgfG1nRvwi3iDiDQoo) | 3:43 | 2023-07-04 | 2023-12-24 |
+| [SEXTO SENTIDO](https://open.spotify.com/track/3jS7jL99vwYIL1YyPOvaPS) | [008RACCA](https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM) | [SEXTO SENTIDO](https://open.spotify.com/album/6TATwrVPigKjX62kVaElpJ) | 4:12 | 2025-12-05 |  |
 | [Shabadabada](https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 3:55 | 2023-07-04 | 2025-07-31 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-07-04 | 2024-02-24 |
 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 | 2025-07-30 |  |

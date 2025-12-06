@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything ⚔️<br/>cover: charli xcx
 
-558 songs - 1 day 6 hr 5 min
+563 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-30 | 2025-07-11 |
 | [CRACK!](https://open.spotify.com/track/0mt50jzA5xVZXBfnX9X5kJ) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [CRACK!](https://open.spotify.com/album/1zQlwzmdyeWoWM1z9nVNgF) | 3:42 | 2025-07-10 |  |
 | [CRANK](https://open.spotify.com/track/5lFu1VR7s2EvuKAi6qxU0G) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CRANK](https://open.spotify.com/album/3zAXDaMbv8dr2TTw32vEnT) | 2:55 | 2025-10-23 |  |
+| [Croak Dream](https://open.spotify.com/track/206C76r5reCLqy0cP2heL3) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Croak Dream](https://open.spotify.com/album/3GYv2LHunmOdSrBy5SdGta) | 5:46 | 2025-12-05 |  |
 | [Crowd Caffeine](https://open.spotify.com/track/5NgUs4A8db3NL75hvDr4eB) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Crowd Caffeine](https://open.spotify.com/album/6eQcK3pwuno4GzjNqgNBL2) | 3:22 | 2025-04-17 | 2025-06-07 |
 | [crush \(tom verlaine\)](https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [crush \(tom verlaine\)](https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33) | 3:02 | 2024-06-07 | 2025-03-14 |
 | [Crushing!](https://open.spotify.com/track/6h4m0ZZhvGnFPrRJ8qmax1) | [Ziggy 2000](https://open.spotify.com/artist/1QTanwqlZCwb5kbYbkFI2r) | [Crushing!](https://open.spotify.com/album/1JxCqmjMtWU2HXPSNNoWgA) | 3:05 | 2025-03-28 | 2025-06-07 |
@@ -342,6 +343,7 @@
 | [Maria's Problem](https://open.spotify.com/track/7xZFi4ynabOvC3aQsRGJEp) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Maria's Problem](https://open.spotify.com/album/4sXxrzKCKTaYDJOdFuZJoL) | 4:42 | 2025-09-11 |  |
 | [Maybe We Should Break Up](https://open.spotify.com/track/2zC4naFRyKUEe3WZyvHrcX) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [Maybe We Should Break Up](https://open.spotify.com/album/5DJqdWWgK0YqToUuHmCtaH) | 2:52 | 2025-11-28 |  |
 | [MDE](https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [MDE](https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm) | 4:47 | 2025-04-03 | 2025-09-20 |
+| [Merry Go Round](https://open.spotify.com/track/4m0DUFZIHDZljTX3A9viUJ) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Merry Go Round](https://open.spotify.com/album/1CzK5nIf8Vrh3IITXTqW20) | 2:46 | 2025-12-05 |  |
 | [Messiah](https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Testament](https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG) | 4:36 | 2025-08-21 | 2025-10-24 |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2025-03-07 | 2025-03-14 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-06-07 | 2025-03-08 |
@@ -396,6 +398,7 @@
 | [Parachute](https://open.spotify.com/track/7zMxMEDYWSXlFFZITu9GEb) | [alexmaax](https://open.spotify.com/artist/5LDGjPfMzjhKcWoXL9Jbhi), [Messer](https://open.spotify.com/artist/4kOFcUhUaAuaSvpuZm02fG) | [Parachute](https://open.spotify.com/album/3MyLZoP4vc9ZLeNd0cJIoA) | 3:27 | 2025-08-07 |  |
 | [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 | 2025-09-19 | 2025-11-28 |
 | [PARALYSED](https://open.spotify.com/track/7x5siS0kelqoM5nrAniNQb) | [Delojho](https://open.spotify.com/artist/76yzZfpsxUIFE0117HYxny) | [PARALYSED](https://open.spotify.com/album/6LSSbowVEWy0WM9ALyMNGW) | 2:54 | 2025-10-02 |  |
+| [Paranoia](https://open.spotify.com/track/3NmT8Lem5MY63PEUf3iDKj) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [Paranoia](https://open.spotify.com/album/3X6Ef05LmeZcewtqZ6PxNM) | 2:51 | 2025-12-05 |  |
 | [Parkour](https://open.spotify.com/track/2hajqYPnOK4HqVc3TcW8MM) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9), [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [Stem](https://open.spotify.com/album/5wD1VsHaGFfuuuWJi8iFgY) | 4:13 | 2025-04-10 | 2025-04-25 |
 | [payphone](https://open.spotify.com/track/2hQc4L12IDzt39HFVXaz1W) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [payphone](https://open.spotify.com/album/2utfYpAREniyz7VbP2qzyg) | 3:32 | 2025-05-09 | 2025-08-08 |
 | [People like u](https://open.spotify.com/track/5UWZtOdYHckp4YC0po4Rtd) | [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH) | [People like u](https://open.spotify.com/album/37Tk22eL2uJ6Iwj4zljgyu) | 2:24 | 2025-03-07 | 2025-04-18 |
@@ -441,6 +444,7 @@
 | [Running Around \(feat\. Fousheé\)](https://open.spotify.com/track/7ltvxs2OBCccy0p7Ka4PIj) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:34 | 2024-07-18 | 2025-03-14 |
 | [RUNNING TO YOU](https://open.spotify.com/track/3c0PVr3J23etm1LntxA1ch) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x) | 4:52 | 2025-07-31 | 2025-09-12 |
 | [RUNTIME](https://open.spotify.com/track/1gc3eSzVrZQ5Km7CSVrNib) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [RUNTIME](https://open.spotify.com/album/54grq3z3PVJmPtXMHFh8on) | 2:36 | 2025-05-30 | 2025-07-11 |
+| [SADDERN RETURN](https://open.spotify.com/track/54Gpi6bYNBcLTD2c48aTP7) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [SADDERN RETURN](https://open.spotify.com/album/5yvaaQvRCrCkbbTdHWtyZ8) | 2:28 | 2025-12-05 |  |
 | [Salvation](https://open.spotify.com/track/38bCx6AbjjduaSVlgIwKZP) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:20 | 2025-03-07 | 2025-03-28 |
 | [Say That You Will Wait For Me](https://open.spotify.com/track/1cnwhilvfTskSErS8A8Ppx) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Say That You Will Wait For Me](https://open.spotify.com/album/0npGwOcpQK5h9alSSpiAJU) | 3:40 | 2024-08-08 | 2024-09-27 |
 | [Sea Song](https://open.spotify.com/track/09QzSazgCpWGzYc1jxH4Cp) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Sea Song](https://open.spotify.com/album/6pGKVJyRmucB7uAknxt4e8) | 3:38 | 2025-08-21 |  |
@@ -493,6 +497,7 @@
 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 | 2025-06-06 | 2025-07-25 |
 | [Talk](https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 3:17 | 2025-03-14 | 2025-04-04 |
 | [Tarmac](https://open.spotify.com/track/32huCokKPXpkhz38ZTibVs) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Tarmac](https://open.spotify.com/album/0e7c94lt6lbMDffB2LtfdU) | 3:10 | 2025-10-09 | 2025-11-07 |
+| [teeth](https://open.spotify.com/track/7sPPN3NNDLhQY1Eu6Ot0Da) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [\(my world is an\) oyster](https://open.spotify.com/album/5KmSOOkB1iNgd3ZBhMgmB2) | 2:58 | 2025-12-05 |  |
 | [Telephone Busy](https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Telephone Busy](https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2) | 3:15 | 2025-10-23 | 2025-11-14 |
 | [Tether](https://open.spotify.com/track/2bwSei08fWmBaxkf4vzhgh) | [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Tether / Drawing Flesh from Stone](https://open.spotify.com/album/1VxsHikxSf6sOntWeQ3yhD) | 3:52 | 2025-07-24 | 2025-10-10 |
 | [That Ass!](https://open.spotify.com/track/6H79VxoWSdAh6pGDDBgdSl) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [That Ass!](https://open.spotify.com/album/5OrJbuWr4tHiGx37U7gu0B) | 2:17 | 2025-05-15 | 2025-06-07 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere. Cover: Mikayla Geier",
+  "description": "Illuminating Asian artists everywhere. Cover: spilltab & boylife",
   "name": "Jasmine",
   "tracks": [
     {
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 173037,
       "name": "Becoming You",
       "url": "https://open.spotify.com/track/0oQkeT5rNYZ5fAWtteM2sT"
@@ -3494,7 +3494,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 182616,
       "name": "Carmen",
       "url": "https://open.spotify.com/track/2Len4tBitFcIf0sAp2zBOT"
@@ -4324,7 +4324,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 156333,
       "name": "Crazy Stupid Love",
       "url": "https://open.spotify.com/track/5ChgblPPPwyuGhga3msdns"
@@ -14775,6 +14775,24 @@
     },
     {
       "album": {
+        "name": "Navel",
+        "url": "https://open.spotify.com/album/721hRxKYhqJnIT4iBzdJox"
+      },
+      "artists": [
+        {
+          "name": "Michele Lu",
+          "url": "https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153700,
+      "name": "Navel",
+      "url": "https://open.spotify.com/track/5gbsQy66jCC97jlSQqN7CL"
+    },
+    {
+      "album": {
         "name": "Need A Moment",
         "url": "https://open.spotify.com/album/0mfsoIAe1N7g7DBKBFQBsZ"
       },
@@ -15910,6 +15928,28 @@
       "duration_ms": 165143,
       "name": "PARALLEL",
       "url": "https://open.spotify.com/track/0kmXoUQJy4k21zEz6K5jfG"
+    },
+    {
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/3X6Ef05LmeZcewtqZ6PxNM"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        },
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171961,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3NmT8Lem5MY63PEUf3iDKj"
     },
     {
       "album": {
@@ -21933,6 +21973,24 @@
     },
     {
       "album": {
+        "name": "Mind Your Business",
+        "url": "https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu"
+      },
+      "artists": [
+        {
+          "name": "James the Seventh",
+          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124878,
+      "name": "Trauma Olympics",
+      "url": "https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl"
+    },
+    {
+      "album": {
         "name": "TRAVELIN'",
         "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
       },
@@ -23148,7 +23206,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 208808,
       "name": "When I Loved You",
       "url": "https://open.spotify.com/track/6uOT7G2JvftdMvPxeSJCW5"
@@ -23510,6 +23568,24 @@
       "duration_ms": 154554,
       "name": "With You",
       "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/0m7SYiB2n6V3FNZumxHSwW"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219941,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/4fp4bybobrFHSjpG39jG64"
     },
     {
       "album": {

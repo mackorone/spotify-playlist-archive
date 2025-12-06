@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,834 songs - 5 day 4 hr 39 min
+1,835 songs - 5 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Beside You](https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Beside You](https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS) | 4:41 | 2025-08-08 |  |
 | [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-06-07 | 2025-06-23 |
 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 | 2021-08-13 | 2022-08-20 |
-| [Better Man](https://open.spotify.com/track/7BtBDYrdtBmGEXCuPOSf98) | [Klaverson](https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr) | [Above Ground](https://open.spotify.com/album/6g2Kkgl27P6CjSFenP7vKl) | 3:28 | 2025-06-27 |  |
+| [Better Man](https://open.spotify.com/track/7BtBDYrdtBmGEXCuPOSf98) | [Klaverson](https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr) | [Above Ground](https://open.spotify.com/album/6g2Kkgl27P6CjSFenP7vKl) | 3:28 | 2025-06-27 | 2025-12-06 |
 | [Better Than You Think](https://open.spotify.com/track/4JLdjEPwa80Kfn1tOl0Rdb) | [Mr\. Tape](https://open.spotify.com/artist/7ladzyDVpwhv848vat5v9P), [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 6:43 | 2020-03-17 | 2021-01-23 |
 | [Better Together](https://open.spotify.com/track/5vuQqO6halvU7BsGR5Dozk) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Better Together](https://open.spotify.com/album/0JVv4uxlYm9RicKXTSSVQF) | 3:56 | 2020-03-20 | 2020-07-18 |
 | [Between](https://open.spotify.com/track/4ZJXmXQeC0qL1nPVAWNRGd) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ) | [Between](https://open.spotify.com/album/6yMAZmRCZjavW98B0aF9Of) | 5:02 | 2022-03-04 | 2022-12-29 |
@@ -1401,6 +1401,7 @@
 | [Shallow Water \- Edit](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Shallow Water](https://open.spotify.com/album/5NOr6STbGLCzJWNXw6MUHl) | 2:56 | 2022-12-28 | 2023-01-06 |
 | [Shallow Water \- Extended](https://open.spotify.com/track/7MaOjWI7ykN9jU1TPV6smp) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Shallow Water](https://open.spotify.com/album/5NOr6STbGLCzJWNXw6MUHl) | 6:16 | 2022-12-28 | 2022-12-30 |
 | [Share A Mind](https://open.spotify.com/track/36Gx0iyRT5jcliW106GXBW) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Share A Mind](https://open.spotify.com/album/1Sway7GXif3aib9qq1rvWE) | 3:17 | 2022-03-18 | 2022-12-29 |
+| [Sharks](https://open.spotify.com/track/4t6E5uNN3z10uKMbfhnD7l) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG), [Nour](https://open.spotify.com/artist/0CbCM5ggbLC8exHu291wO9) | [Sharks](https://open.spotify.com/album/09DCeFRfvS9l9jMJ4deHnr) | 4:10 | 2025-12-05 |  |
 | [She Won't Let Me Down \(feat\. Leo Stannard\) \- French Braids Remix](https://open.spotify.com/track/5EBOsWjb6ktTuftGPIpuuF) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [She Won't Let Me Down \(feat\. Leo Stannard\) \[French Braids Remix\]](https://open.spotify.com/album/1fuhFFPL1NEP689eUne6yV) | 3:46 | 2020-03-17 | 2022-01-15 |
 | [Shelter](https://open.spotify.com/track/3ISYGHoYnu4gos6JNMfL4z) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Shelter](https://open.spotify.com/album/1dSXaXQpdXuhORM0sx6ycc) | 3:38 | 2020-05-18 | 2020-07-03 |
 | [Shimmer](https://open.spotify.com/track/4X2Qg72J6kqCGNqNfXtt4A) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Shimmer](https://open.spotify.com/album/59jjqcR0O0eWGxhG9t15aS) | 3:32 | 2022-12-28 | 2023-01-06 |

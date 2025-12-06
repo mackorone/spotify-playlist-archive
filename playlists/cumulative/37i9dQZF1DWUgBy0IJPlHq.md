@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Lily Meola
 
-692 songs - 1 day 18 hr 4 min
+692 songs - 1 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Collecting Dust](https://open.spotify.com/track/0Tm0JeMRDBd4AZr13eDclx) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Collecting Dust](https://open.spotify.com/album/5rICmJCVw98Yuu3cA7ItA4) | 2:58 | 2022-04-08 | 2022-07-30 |
 | [Colorado Blues](https://open.spotify.com/track/2a1YnK5daxSlKjfYEdTveh) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Colorado Blues](https://open.spotify.com/album/13KX0b4NxsVYMWg1akI80F) | 2:37 | 2022-02-18 | 2022-07-29 |
 | [Colorado Blues](https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 2:37 | 2022-07-22 | 2022-10-08 |
-| [Come Along as One](https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU) | [Shane Guerrette](https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq) | [](https://open.spotify.com/album/null) | 3:49 | 2025-12-05 |  |
+| [Come Along as One](https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU) | [Shane Guerrette](https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq) | [Come Along](https://open.spotify.com/album/2I2GgjfMffCEszqaxa2kWA) | 3:49 | 2025-12-05 |  |
 | [Comeback Kid](https://open.spotify.com/track/1ViNv171bw5aC5rcD9MC4M) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Comeback Kid](https://open.spotify.com/album/7vs8zVEytvdxIhIsgVYWgl) | 4:16 | 2022-09-16 | 2023-08-05 |
 | [Common Law](https://open.spotify.com/track/5aImc0JnM01Y2LYNbdAx5T) | [Zoe Cummins](https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh), [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Common Law](https://open.spotify.com/album/2l8tS2MaLm9XUkmmWhmPZi) | 3:03 | 2022-07-08 | 2023-03-04 |
 | [conversations with the moon](https://open.spotify.com/track/5slNp3QyBb4SbSxEEGoByw) | [Kitty Coen](https://open.spotify.com/artist/7MY6uLRlctB9wtKoE6DLef) | [Conversations with the Moon](https://open.spotify.com/album/4FAchfVVjOygjZHw9WiIzW) | 3:27 | 2025-10-10 |  |
@@ -620,8 +620,8 @@
 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 | 2022-03-25 | 2023-04-01 |
 | [Too Late Now](https://open.spotify.com/track/7MDNAxDgFYZY0kKTbj8Mxp) | [Cabin Boys](https://open.spotify.com/artist/5GlWWZv89kI9tJQXU0MAul) | [Cabin Fever](https://open.spotify.com/album/4OCXEMDB1088w6rgKPlvQu) | 3:46 | 2021-12-17 | 2022-02-19 |
 | [Too Late to Write a Love Song](https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Riddy Arman](https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney) | 3:14 | 2022-02-18 | 2022-08-20 |
+| [Too Many, Too Few \[Feat\. Logan Ledger\]](https://open.spotify.com/track/388Z2c3f5HZyWcX4IEEKID) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Hard Headed Woman \(Deluxe\)](https://open.spotify.com/album/22dDp8Bfxi4sfGCaGc6Jf4) | 4:16 | 2025-12-05 |  |
 | [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 | 2023-03-03 | 2024-06-08 |
-| [Track 15](https://open.spotify.com/track/388Z2c3f5HZyWcX4IEEKID) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-05 |  |
 | [Trouble](https://open.spotify.com/track/6OB6oN7g6BbcrTFoP6l7sl) | [Sophie & The Broken Things](https://open.spotify.com/artist/620A5QNUAGBCuBYOUHf0c0), [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Trouble](https://open.spotify.com/album/4zFeo0LkLXCgiYgPqKouI7) | 3:47 | 2021-12-17 | 2022-01-29 |
 | [Two Timin'](https://open.spotify.com/track/0grVSIK1Dt81ZDMnBGeJ6O) | [The Watson Twins](https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4), [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Two Timin'](https://open.spotify.com/album/404XRPTtRC0I56OL6lcACE) | 3:08 | 2022-05-20 | 2022-07-23 |
 | [Undone \- The Bonfire Sessions](https://open.spotify.com/track/2PTU97def6AeGeF9jXvVnd) | [Sons of Habit](https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp) | [Undone \(The Bonfire Sessions\)](https://open.spotify.com/album/11guXphRd7mK2C4pPL3V9W) | 4:20 | 2025-10-10 |  |

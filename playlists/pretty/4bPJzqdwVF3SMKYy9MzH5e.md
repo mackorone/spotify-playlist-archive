@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,266 songs - 5 day 1 hr 29 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,267 songs - 5 day 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2274,5 +2274,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2264 | [Fire\_Field\_187f](https://open.spotify.com/track/2ppmmh30eQGVSoN5lejhzA) | [Lil Kevo 303](https://open.spotify.com/artist/2hhB8Hr4xrLZFvTTxZjGJA) | [The Taste of Food Is My Reason for Living](https://open.spotify.com/album/1BWm6e51ExFvJMeTJ3fENH) | 2:23 |
 | 2265 | [rayquaza ex](https://open.spotify.com/track/1IhLQFzL8gWnyUUVAap7qi) | [Exodia](https://open.spotify.com/artist/0ndWKGm6Kl92RMNKdEsco1) | [rayquaza ex](https://open.spotify.com/album/6rbdJMeEdLoE9ZHlEwLp3q) | 3:28 |
 | 2266 | [Crazy](https://open.spotify.com/track/4CVqYMpHOozDjjdkb32QQY) | [False Persona](https://open.spotify.com/artist/0o9eLbvKL4PGG549qygy1o), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Crazy](https://open.spotify.com/album/4YgiVywFl6ZUK85JZQK4lL) | 4:29 |
+| 2267 | [Manalive](https://open.spotify.com/track/10anCiNBXXeO8bwcOZj0x5) | [Devilfish](https://open.spotify.com/artist/17tAp4OPhYcNmdAq1m7UNW) | [Justin Robertson: Imprint](https://open.spotify.com/album/5o4xfTM7Y9ZVVBrE5JBeI6) | 3:22 |
 
-Snapshot ID: `AAAE1MBIrDY4FIC09nCL/3I42CO9qMpI`
+Snapshot ID: `AAAE1bVMHRY06FUem6adKX+60E7ckSuL`

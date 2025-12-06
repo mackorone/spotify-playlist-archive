@@ -518,10 +518,40 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 184971,
       "name": "Het Zwarte Schaap",
       "url": "https://open.spotify.com/track/2oJanqscZDqDY7Xf6ds4FV"
+    },
+    {
+      "album": {
+        "name": "Het Zwarte Schaap (feat. De Kraaien)",
+        "url": "https://open.spotify.com/album/0YYEQHcohTupHQfHjU4DjI"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Billy The Kit",
+          "url": "https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ"
+        },
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/60TVEmoDz6TGnmT1LL7hNw"
+        },
+        {
+          "name": "De Kraaien",
+          "url": "https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184971,
+      "name": "Het Zwarte Schaap (feat. De Kraaien)",
+      "url": "https://open.spotify.com/track/3vkadfj0xElWQs4nw6eQKC"
     },
     {
       "album": {
@@ -1188,6 +1218,32 @@
     {
       "album": {
         "name": "Vaderland",
+        "url": "https://open.spotify.com/album/3Qz9HXKpkTfRpxO1tA7jAj"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/60TVEmoDz6TGnmT1LL7hNw"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208286,
+      "name": "Vaderland",
+      "url": "https://open.spotify.com/track/3gCf2tnKOsMkjSyQ8FVP5J"
+    },
+    {
+      "album": {
+        "name": "Vaderland",
         "url": "https://open.spotify.com/album/4Yu2FndCZi7jLRsDlZroxg"
       },
       "artists": [
@@ -1206,7 +1262,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 208286,
       "name": "Vaderland",
       "url": "https://open.spotify.com/track/4EncVGXlw9yTuaPXMRLTw1"

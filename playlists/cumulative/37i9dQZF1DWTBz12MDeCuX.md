@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: ZAH1DE
 
-3,116 songs - 6 day 1 hr 15 min
+3,117 songs - 6 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [blaue stunde](https://open.spotify.com/track/2oHwsGocm8rT9fdAl4SKM2) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26) | [blaue stunde](https://open.spotify.com/album/1iZSZcTejCCvMMYZ2WCrO7) | 2:56 | 2024-05-02 | 2024-06-21 |
 | [Blauer Ballon](https://open.spotify.com/track/3aeRQ9xGSLAUg1R7CZ5QKv) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [berq](https://open.spotify.com/album/0IuwP0usnrJ9wU5PEyELdn) | 2:49 | 2024-11-11 | 2024-12-06 |
 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 | 2023-11-02 | 2023-11-24 |
+| [BLEIB](https://open.spotify.com/track/5vFZg9MRZdrVKaJrDy1gjE) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [MIT JEDER FASER](https://open.spotify.com/album/29xGHjCuD2z60cdKW4Fkel) | 3:00 | 2025-12-04 |  |
 | [BLI BLA BLUB](https://open.spotify.com/track/1DPELibfYtoaXD0xNk8c2p) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn) | [BLI BLA BLUB](https://open.spotify.com/album/06dkJ3gd7g8AqMWJYK53hj) | 2:36 | 2024-02-08 | 2024-03-05 |
 | [Blick Von Dir](https://open.spotify.com/track/7BKG0RkQHjjDYekwQ0Z5ct) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [Blick Von Dir](https://open.spotify.com/album/2cSPrx75blbsrQfPYZ7lbV) | 2:08 | 2022-09-01 | 2022-10-14 |
 | [Blind](https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:30 | 2022-12-22 | 2023-01-24 |
@@ -840,6 +841,7 @@
 | [Etepetete](https://open.spotify.com/track/1h40cvRTFPEYv6nf0b2Agu) | [Cocon](https://open.spotify.com/artist/37O1JxzsmW46wxTE2qdShj) | [Etepetete](https://open.spotify.com/album/6rmGyW03KriiR2mNfDEZWw) | 2:20 | 2022-09-01 | 2022-10-11 |
 | [eternal](https://open.spotify.com/track/3f2cIOiQOcy5RxAMzl1LR4) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [eternal](https://open.spotify.com/album/1XYv9yb1agI5sw2hh91Lb4) | 1:42 | 2025-02-24 | 2025-04-11 |
 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-12-04 | 2024-02-28 |
+| [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 | 2025-12-04 |  |
 | [EUPHORIA](https://open.spotify.com/track/76TxfaszpTgpoHm7FFLvc2) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [EUPHORIA](https://open.spotify.com/album/3lbRR6P1ii0y7Hwg4Fef77) | 2:18 | 2023-07-13 | 2023-08-04 |
 | [EUPHORYA](https://open.spotify.com/track/5ZyzXl9od6agErk1qmIDlJ) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v), [S1RENA](https://open.spotify.com/artist/6CvM2CYmcK06XVbI1qI4SW), [MYT](https://open.spotify.com/artist/0q9PBbZ4ZWpyY4hK6IpXui) | [EUPHORYA](https://open.spotify.com/album/1az02hG5ykOi9sZg1ercZH) | 3:25 | 2025-09-25 | 2025-11-07 |
 | [EURODANCE](https://open.spotify.com/track/6T88MZVzI2aKcpBPjrJpyx) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [EURODANCE](https://open.spotify.com/album/0cBalxWkwvPpjNxb7XRcUv) | 2:38 | 2023-07-27 | 2023-08-30 |
@@ -883,7 +885,7 @@
 | [Fancy $hit](https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/178hg0pgag9NoDE2WLabZP) | 2:48 | 2025-10-16 |  |
 | [Fancy Footwork](https://open.spotify.com/track/52VaYLDBhX5vNd8taZxA1R) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/1GXa85hveWH03vGNxd8utP) | 3:18 | 2024-10-23 | 2024-11-12 |
 | [Fang dich](https://open.spotify.com/track/3YlfwU0qwX1vUxfpJbrgRX) | [CAN MIT ME$$R](https://open.spotify.com/artist/0yTH7O3oomQgGZ0rBKzW89) | [Fang dich](https://open.spotify.com/album/0EHRsEmA2gTZzK0mClYT5T) | 2:36 | 2023-04-20 | 2023-05-12 |
-| [fanta lustig](https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [](https://open.spotify.com/album/null) | 2:45 | 2025-12-04 |  |
+| [fanta lustig](https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [fanta lustig ep](https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm) | 2:45 | 2025-12-04 |  |
 | [Fantasy](https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:28 | 2024-11-28 | 2025-02-04 |
 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 | 2023-04-13 | 2023-04-28 |
 | [Farbenblind](https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI) | 2:28 | 2024-12-05 | 2025-02-07 |
@@ -2688,7 +2690,6 @@
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [toxic energy \(with The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-12 |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-04-17 | 2025-05-20 |
-| [Track 4](https://open.spotify.com/track/5vFZg9MRZdrVKaJrDy1gjE) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-06-16 | 2022-09-02 |
 | [TRAPPER'S LULLABY](https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [TRAPPER'S LULLABY](https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z) | 4:12 | 2025-07-24 | 2025-09-19 |

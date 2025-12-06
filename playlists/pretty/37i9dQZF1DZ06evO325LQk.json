@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 37848,
+  "num_followers": 37849,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAACtJpupZqvWssPILuyKHgfj",
+  "snapshot_id": "aTDPAAAAAAAjdG86ZsTMilQwv7Q0T87z",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunscreen",
-        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 187320,
-      "name": "Sunscreen",
-      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hi This Is Flume (Mixtape)",
         "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 287331,
       "name": "Is It Cold In The Water? (Flume & Eprom Remix)",
       "url": "https://open.spotify.com/track/04X7LXANC1Vm78k4PhNmTV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 187320,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
     },
     {
       "added_at": null,
@@ -640,7 +640,7 @@
       "added_at": null,
       "album": {
         "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI"
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
       "artists": [
         {
@@ -654,7 +654,7 @@
       ],
       "duration_ms": 117010,
       "name": "Gallop (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/5LoTztzRm8MpXriEj5k4jJ"
+      "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
     },
     {
       "added_at": null,

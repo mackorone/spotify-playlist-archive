@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4fidS28dvfw5PquLev6xtQ.md) - cumulative - [plain](/playlists/plain/4fidS28dvfw5PquLev6xtQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4fidS28dvfw5PquLev6xtQ)
 
-### [RYM Top 100 Songs \(Updated "Tuesdays"\)](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
+### [RYM Top 100 Songs \(updated every 2 weeks\)](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
 > &quot;Starless&quot;  has surpassed the great &quot;A Day in the Life&quot; but they&\#x27;ll surely flippy floppy every \(2\) week\(s\)
 

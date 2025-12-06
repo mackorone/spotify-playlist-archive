@@ -3345,6 +3345,28 @@
     },
     {
       "album": {
+        "name": "Kamaal Hai",
+        "url": "https://open.spotify.com/album/7vG3uRojLPMdBznnbpO2TR"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228461,
+      "name": "Kamaal Hai",
+      "url": "https://open.spotify.com/track/5ymJ795K518y3ACGAytG4l"
+    },
+    {
+      "album": {
         "name": "Kanwal",
         "url": "https://open.spotify.com/album/6HJGTGOa9H0t8WUv2PpxpG"
       },
@@ -5750,7 +5772,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 134389,
       "name": "Rich & Famous",
       "url": "https://open.spotify.com/track/2yvvfqZh98OuOA62Y33IwN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,754 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,818 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 40 | [Pas Jalouse](https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [MUSE](https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG) | 2:36 |
 | 41 | [PLAYER](https://open.spotify.com/track/444hAcCB1cvQ5HvRRuGRgB) | [Yaya D](https://open.spotify.com/artist/2eVtdRXEn3EcdkE3erNFDO), [Jolagreen23](https://open.spotify.com/artist/0OkDkfNPM5Wjkhsnb72brE) | [ANSTZ](https://open.spotify.com/album/34ZSFhzaiVtkLmAt0SU0na) | 3:31 |
 | 42 | [On Va Taper ÇA](https://open.spotify.com/track/51rFwalR3noTQYC7os1ySQ) | [BSF](https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon) | [On Va Taper ÇA](https://open.spotify.com/album/58hVE9Cu4LN31dXStuq6xr) | 2:24 |
-| 43 | [Com Cabelo Loirinho](https://open.spotify.com/track/6GYJ8j1sOFUxY2roCUgrxE) | [Kevin do recife](https://open.spotify.com/artist/3nbusTdXH6cs0IDPwpRmnI), [Danilo Bolado](https://open.spotify.com/artist/3oM9nGXuq8KGOPwHdFzA9w), [Dadá Boladão](https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [MC Thiaguinho do Recife](https://open.spotify.com/artist/1TfDz2vo8r72qzCaYjtTqR), [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM) | [Com Cabelo Loirinho](https://open.spotify.com/album/2HiO5CEseBdsvJtOgc3ic6) | 2:50 |
+| 43 | [Com Cabelo Loirinho](https://open.spotify.com/track/6GYJ8j1sOFUxY2roCUgrxE) | [Kevin do recife](https://open.spotify.com/artist/3nbusTdXH6cs0IDPwpRmnI), [MC Thiaguinho do Recife](https://open.spotify.com/artist/1TfDz2vo8r72qzCaYjtTqR), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Danilo Bolado](https://open.spotify.com/artist/3oM9nGXuq8KGOPwHdFzA9w), [Dadá Boladão](https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX) | [Com Cabelo Loirinho](https://open.spotify.com/album/2HiO5CEseBdsvJtOgc3ic6) | 2:50 |
 | 44 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
 | 45 | [Foutaise](https://open.spotify.com/track/1DGftqE1YlsVHcG0XbTy59) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Foutaise](https://open.spotify.com/album/77KZ2KVZCcFKnTymB1Cwpn) | 2:20 |
 | 46 | [Shatta Confessions](https://open.spotify.com/track/7zywuMtaJQL7Nz2aTCOBCU) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p) | [Shatta Confessions](https://open.spotify.com/album/4mPjrlSA27gzo3nomTW6GP) | 2:01 |

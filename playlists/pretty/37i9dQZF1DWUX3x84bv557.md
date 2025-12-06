@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop\. Cover: Lisa Rose
+> Frisse Nederlandse pop\. Cover: FLEMMING & Metejoor
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,391 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,396 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 9 | [Ik Denk Aan Jou](https://open.spotify.com/track/61fynrd8AHMoqxLLdz5RbD) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Ik Denk Aan Jou](https://open.spotify.com/album/3neg2FwR8vVtWc4bBMCoDJ) | 2:45 |
 | 10 | [Ben Je Verliefd?](https://open.spotify.com/track/0cvs1LuaTEAHmyayUg06Fy) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Ben Je Verliefd?](https://open.spotify.com/album/52bg2ZQ67d6TXMVg6Tg2uh) | 2:40 |
 | 11 | [De Verte](https://open.spotify.com/track/24ilUvYVzOQ3bezUYj2QC1) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [De Verte](https://open.spotify.com/album/6tQJ5JvF9PUMvrhHM9wr88) | 3:18 |
-| 12 | [Moe Van Jezelf](https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Moe Van Jezelf](https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo) | 2:40 |
+| 12 | [Moe Van Jezelf](https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Moe Van Jezelf](https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo) | 2:40 |
 | 13 | [Loser](https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:43 |
 | 14 | [Kapot](https://open.spotify.com/track/6a6RwdVkTtsjF15DCfi4Wz) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Kapot](https://open.spotify.com/album/2QAQiSleQ9tMNjchs39yXD) | 2:40 |
 | 15 | [Radeloos](https://open.spotify.com/track/1uEPo1m1b4BM8W2WvMVx2V) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [Radeloos](https://open.spotify.com/album/1AbaBKvEgIhbPx43G0SXyc) | 2:33 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 84 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 |
 | 85 | [Down](https://open.spotify.com/track/65y6Ak4YaKtfua7gemQaff) | [Yes\-R](https://open.spotify.com/artist/26W6sq5yZeIhzfO6d8g9NJ) | [Eastside](https://open.spotify.com/album/5nAsQYfwRlGm6wsr83Nkfi) | 2:22 |
 
-Snapshot ID: `AAAAAK7WgU8yquGx66CT6AdDRDP7g5G9`
+Snapshot ID: `AAAAAC6XkUW+J+DZSdYa2AkfHXOpWL5U`

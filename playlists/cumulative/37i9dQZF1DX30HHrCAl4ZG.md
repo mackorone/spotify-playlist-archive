@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from mercury
+> Explore all things indie rock right now\. Featuring music from Ratboys
 
-2,077 songs - 4 day 21 hr 31 min
+2,080 songs - 4 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1513,6 +1513,7 @@
 | [Roommates](https://open.spotify.com/track/1PJe0Vt9p0QaV4ZNHUwml0) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Roommates](https://open.spotify.com/album/3r7xGndKL5CJDeTxUm25ZS) | 3:34 | 2023-07-21 | 2023-09-09 |
 | [rooster](https://open.spotify.com/track/5gTYOYsiGMYVa6WVf98q1n) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [rooster](https://open.spotify.com/album/2wDHpVaU5WuuRgkn52Lp2e) | 5:35 | 2025-09-19 |  |
 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 | 2023-12-15 | 2024-02-17 |
+| [Rotting Ripe](https://open.spotify.com/track/3eVR4S2JjPF1ITdoUTMLWk) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Super Pedestrian \(Deluxe\)](https://open.spotify.com/album/58aEJcSWEzDr0ElfGJBZfW) | 3:21 | 2025-12-05 |  |
 | [Ruby](https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Ruby](https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf) | 3:03 | 2022-06-10 | 2022-10-01 |
 | [Rude Awakening](https://open.spotify.com/track/7lwHFDcmB0z3yRzxfG2pJV) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Rude Awakening](https://open.spotify.com/album/1zWz2sQDloQECeaiszhPng) | 2:23 | 2023-06-30 | 2023-09-09 |
 | [Rude Girl on Rotation](https://open.spotify.com/track/32Yyb6NbUsmieMqTL8MMyM) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Rude Girl on Rotation](https://open.spotify.com/album/2kSthXsGCZAXAFrzw1gb3u) | 2:40 | 2024-04-19 | 2024-05-18 |
@@ -1821,6 +1822,7 @@
 | [The Sulking Poet](https://open.spotify.com/track/3ZCVtNy6NDzG0SUx5VBkvH) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [The Sulking Poet](https://open.spotify.com/album/5hSG9UtXw3vBvFrQjqmIkP) | 3:34 | 2022-03-25 | 2022-04-18 |
 | [The Thief](https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [People Who Aren’t There Anymore](https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM) | 3:21 | 2024-01-26 | 2024-04-19 |
 | [The Things We Say](https://open.spotify.com/track/4XtJalA8M3CVun9WKlKZ9Q) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [The Things We Say](https://open.spotify.com/album/6zyHjq1L4I8yvAStyIfXbZ) | 3:18 | 2024-03-29 | 2024-06-22 |
+| [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-05 |  |
 | [The Water](https://open.spotify.com/track/0N0qxAHq26ZK91AcUXyq9C) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 3:23 | 2023-04-28 | 2023-07-15 |
 | [The Yips](https://open.spotify.com/track/2WgRH4OJTplHvuYsEEaNKB) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [The Yips](https://open.spotify.com/album/5hVeHAg3m0MkeW3j2vriOn) | 5:26 | 2025-07-04 |  |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2021-11-19 | 2022-04-20 |
@@ -2002,6 +2004,7 @@
 | [What's In My Head](https://open.spotify.com/track/5xu1GzyT4hYPDfb57unbeW) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [The Pit \(Bonus Track Version\)](https://open.spotify.com/album/4xUcuRAy6gGtHCfLbOK7sP) | 3:07 | 2025-07-11 |  |
 | [What's the Rush](https://open.spotify.com/track/3GymBFzWnaTpnxFm7fn7m1) | [Bikini Trill](https://open.spotify.com/artist/3th8l6KA9NpiXgf44Hrdd4) | [What's the Rush](https://open.spotify.com/album/71fQg0YnqJhqMSTnMHrV1u) | 2:54 | 2022-06-10 | 2022-06-25 |
 | [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 | 2025-05-09 |  |
+| [What’s Right?](https://open.spotify.com/track/2YXDguAdOrvWYIwbPjvAkA) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [What’s Right?](https://open.spotify.com/album/0LFDTByH4Mbn5PbBGMPkJO) | 5:14 | 2025-12-05 |  |
 | [Wheel of Change](https://open.spotify.com/track/0ce5zTXfsdmerMyCtLUoII) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Wheel of Change](https://open.spotify.com/album/3jkhNReoky0EeoIzNzwbQA) | 4:25 | 2025-06-06 |  |
 | [When He Comes Around](https://open.spotify.com/track/2ShbjyFjQJ6mRKy4NykDbU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [When He Comes Around](https://open.spotify.com/album/4Pw4LalZWzcnve0sH4ms1H) | 3:14 | 2024-12-20 | 2025-03-08 |
 | [When It Rains](https://open.spotify.com/track/1V20vefZTBfVRWsZHlL2sO) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [When It Rains](https://open.spotify.com/album/4O3VhOjF5bseqMZbUaj8EI) | 4:51 | 2023-10-20 | 2024-01-27 |

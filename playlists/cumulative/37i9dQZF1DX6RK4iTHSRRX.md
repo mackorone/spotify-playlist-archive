@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-151 songs - 6 hr 12 min
+152 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [The First Noel](https://open.spotify.com/track/2ijFTJ7XHAbD9sgcVfPy5w) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [The First Noel](https://open.spotify.com/album/66Q3ybskRWvQHk1BMNfsM6) | 1:55 | 2021-12-22 | 2025-09-03 |
 | [The Holly and the Ivy](https://open.spotify.com/track/2OrUtaBrxts1s6xPPdI3QV) | [Edward Wright](https://open.spotify.com/artist/4RyILBSzO6HaIMayAo6M4W) | [Christmas\-Peaceful Christmas Guitar Solos](https://open.spotify.com/album/6lwSZRUhZiKI1uMkx5Ao96) | 2:53 | 2024-06-10 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/2xgdBf1HwP2frbKncjEszh) | [Edward Wright](https://open.spotify.com/artist/4RyILBSzO6HaIMayAo6M4W) | [Christmas\-Peaceful Christmas Guitar Solos](https://open.spotify.com/album/6lwSZRUhZiKI1uMkx5Ao96) | 2:59 | 2021-12-22 | 2023-10-20 |
+| [The Nutcracker Suite, Op\. 71a: II.f, Dance of the Reed Pipes \- Version for Solo Guitar by Roberto Zadra](https://open.spotify.com/track/3IRTUcwhY1OK8ocdD5jTJ4) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Laura Lootens](https://open.spotify.com/artist/7I0fSWXDh8esp66RqFS7g4) | [Tchaikovsky: Dance of the Reed Pipes \(from the Nutcracker Suite, Op\. 71a\) \[Version for Solo Guitar by Roberto Zadra\]](https://open.spotify.com/album/6OmNOnej04NBqrQpblQh8f) | 2:40 | 2025-12-05 |  |
 | [Toyland](https://open.spotify.com/track/3N207kwhnDjWI2tRWfSaOG) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [I'll Be Home For Christmas](https://open.spotify.com/album/1gjQmgVD2VYajXY21Xh8UM) | 1:41 | 2023-10-27 |  |
 | [We Three Kings](https://open.spotify.com/track/2XNEx58l69F0XYNXN61OYS) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [We Three Kings](https://open.spotify.com/album/5GWb074SFDFXSq8ONiBHMV) | 2:02 | 2022-11-25 |  |
 | [We Three Kings](https://open.spotify.com/track/5NZasCNYJtdb4f7YkoaoeP) | [Jeff Wahl](https://open.spotify.com/artist/3z975VInlGLspa4qHMmZwM) | [Christmas Guitar](https://open.spotify.com/album/3DhGSShEDNgIqqecW8EqnR) | 2:23 | 2021-12-22 | 2023-09-14 |

@@ -4524,7 +4524,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 281799,
       "name": "\u56e0\u70ba\u4f60 \u6240\u4ee5\u6211",
       "url": "https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8"
@@ -6430,6 +6430,40 @@
       "duration_ms": 205074,
       "name": "\u602a\u6211\u62ce\u4e0d\u6e05",
       "url": "https://open.spotify.com/track/4rlaeVHSxRLmuefpqy91Xs"
+    },
+    {
+      "album": {
+        "name": "\u6046\u661f\u4e0d\u5fd8 Forever Forever",
+        "url": "https://open.spotify.com/album/4S1DAsonZzfrgD0ezbKApU"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "\u8a00\u627f\u65ed",
+          "url": "https://open.spotify.com/artist/1eSaqECXwVpaUzyqB1mKtr"
+        },
+        {
+          "name": "Van Ness Wu",
+          "url": "https://open.spotify.com/artist/2Lcyl3luks1H4TDORlJIUW"
+        },
+        {
+          "name": "\u5468\u6e1d\u6c11",
+          "url": "https://open.spotify.com/artist/4g9jp0JWetcgvoODC8Epzl"
+        },
+        {
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287500,
+      "name": "\u6046\u661f\u4e0d\u5fd8 Forever Forever",
+      "url": "https://open.spotify.com/track/4eyAIvfoQ8PR7ZBzjh0jW5"
     },
     {
       "album": {

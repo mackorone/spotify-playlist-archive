@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Dan + Shay
 
-439 songs - 1 day 3 hr 28 min
+440 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/3IUYqtBJqRBZoVliuNKGsg) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [The Barker Family Band](https://open.spotify.com/album/3vG7jde6SsvvX81H3PmhdN) | 3:02 | 2022-01-07 | 2022-07-25 |
 | [3 Am](https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [15 Years, the Wild Ride](https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW) | 4:32 | 2021-12-10 |  |
 | [7 Years](https://open.spotify.com/track/57IKN5kmhY7bUmiGgqNeLU) | [The Church Sisters](https://open.spotify.com/artist/7leSTijl25o8A1uihttutk) | [7 Years](https://open.spotify.com/album/02rUB4rphqzHbDCkHegQDS) | 3:42 | 2021-12-10 | 2022-07-29 |
-| [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR) | 3:36 | 2022-09-09 |  |
+| [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR) | 3:36 | 2022-09-09 | 2025-12-06 |
 | [A Country Boy Can Survive](https://open.spotify.com/track/5Xa9KNhvOogPz6hklgiHXO) | [Monarch Cast](https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [A Country Boy Can Survive](https://open.spotify.com/album/0BqsK35y12o3kJ6fePAeai) | 4:14 | 2022-01-07 | 2022-05-09 |
 | [A Lesson In Leavin’](https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [A Lesson In Leavin'](https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu) | 3:24 | 2025-07-25 |  |
 | [Ain't Going Down \(Til the Sun Comes up\)](https://open.spotify.com/track/3klE9CXDio6dDgY9yU1wKU) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Ain't Goin' Down \(Til the Sun Comes up\)](https://open.spotify.com/album/7DuXhaPbr8SI066tDEwubh) | 3:05 | 2022-03-18 | 2022-08-16 |
@@ -290,6 +290,7 @@
 | [Photograph](https://open.spotify.com/track/5nUonsVQLhAD6Qm5znhfSj) | [Monarch Cast](https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX), [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Monarch \(Original Soundtrack\) \[Season 1, Episode 2\]](https://open.spotify.com/album/5S9TYuKvpOaAq24NQJq1Yz) | 4:09 | 2022-09-16 | 2023-01-06 |
 | [Pickup Man](https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [HIXTAPE: Vol 3: DIFFTAPE \(Small Batch\)](https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy) | 3:36 | 2023-11-16 |  |
 | [Piece of My Heart](https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 4:01 | 2021-12-10 |  |
+| [Please Please Please](https://open.spotify.com/track/0o6gdGNGOuqxLSCE4txlXe) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw), [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Please Please Please](https://open.spotify.com/album/2isabKKBBT7OLiyP6i2kfj) | 3:10 | 2025-12-05 |  |
 | [Pop a Top](https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 3:05 | 2021-12-10 | 2023-01-06 |
 | [Pride \(In The Name Of Love\) \- Live](https://open.spotify.com/track/3A6OkjyymF5n9XxXgjh51X) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:17 | 2021-12-10 | 2022-07-27 |
 | [Prop Me Up Beside The Jukebox \(If I Die\)](https://open.spotify.com/track/6h50iRRuK4fpjtOLkWOtAl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Rancho Fiesta Sessions](https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv) | 3:48 | 2021-12-10 | 2022-07-19 |

@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 88005,
+  "num_followers": 87992,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Bait",
+        "url": "https://open.spotify.com/album/5DqnYPAj92aFItb4q4jc22"
+      },
+      "artists": [
+        {
+          "name": "Jordeaux",
+          "url": "https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz"
+        }
+      ],
+      "duration_ms": 133293,
+      "name": "Bait",
+      "url": "https://open.spotify.com/track/1oQ6nzW5K2z2BLOugUOZKZ"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Nothing's Changed",
         "url": "https://open.spotify.com/album/2MkmMQqVCcnXjabrvP77MS"
       },
@@ -927,38 +943,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/7r27fHeDmcrGO6qKYb1Pq1"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        }
-      ],
-      "duration_ms": 109991,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/7ClmDzu6Jm7gyJG4t5K2VZ"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Bait",
-        "url": "https://open.spotify.com/album/5DqnYPAj92aFItb4q4jc22"
-      },
-      "artists": [
-        {
-          "name": "Jordeaux",
-          "url": "https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz"
-        }
-      ],
-      "duration_ms": 133293,
-      "name": "Bait",
-      "url": "https://open.spotify.com/track/1oQ6nzW5K2z2BLOugUOZKZ"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "No Hook",
         "url": "https://open.spotify.com/album/4s7wzQo9sxeBz8TvS1uBHz"
       },
@@ -975,18 +959,38 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Sexy Back",
-        "url": "https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC"
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC"
       },
       "artists": [
         {
-          "name": "Br3nya",
-          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
+          "name": "Abnormal Sleepz",
+          "url": "https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i"
+        },
+        {
+          "name": "Ruby Wood",
+          "url": "https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Sexy Back",
-      "url": "https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55"
+      "duration_ms": 138750,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/7r27fHeDmcrGO6qKYb1Pq1"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "duration_ms": 109991,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/7ClmDzu6Jm7gyJG4t5K2VZ"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1003,6 +1007,22 @@
       "duration_ms": 147000,
       "name": "DPMO",
       "url": "https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Sexy Back",
+        "url": "https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC"
+      },
+      "artists": [
+        {
+          "name": "Br3nya",
+          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Sexy Back",
+      "url": "https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1163,22 +1183,18 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC"
+        "name": "Smoke Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C"
       },
       "artists": [
         {
-          "name": "Abnormal Sleepz",
-          "url": "https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i"
-        },
-        {
-          "name": "Ruby Wood",
-          "url": "https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK"
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
         }
       ],
-      "duration_ms": 138750,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D"
+      "duration_ms": 82038,
+      "name": "weed to my left, chip to my right",
+      "url": "https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1195,22 +1211,6 @@
       "duration_ms": 169129,
       "name": "I Was Never Phased",
       "url": "https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Smoke Sessions, Vol. 1",
-        "url": "https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C"
-      },
-      "artists": [
-        {
-          "name": "Lord Apex",
-          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
-        }
-      ],
-      "duration_ms": 82038,
-      "name": "weed to my left, chip to my right",
-      "url": "https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Next Up - S3-E47",
-        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        }
-      ],
-      "duration_ms": 141740,
-      "name": "Next Up - S3-E47, Pt.1",
-      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/2h6oR8BuGt1wRrrtiNoOI0"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 219759,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2RhaAsK4IYDmE20Vk96T9K"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Next Up - S3-E47",
+        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 141740,
+      "name": "Next Up - S3-E47, Pt.1",
+      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1467,6 +1467,42 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "9AM",
+        "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
+      },
+      "artists": [
+        {
+          "name": "Drizdoneit",
+          "url": "https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498"
+        },
+        {
+          "name": "Jbandz",
+          "url": "https://open.spotify.com/artist/4vG3ns25IXxTaMisoVaLxU"
+        }
+      ],
+      "duration_ms": 172199,
+      "name": "9AM",
+      "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Late Night Trips",
         "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
       },
@@ -1495,42 +1531,6 @@
       "duration_ms": 161232,
       "name": "Up all night",
       "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "9AM",
-        "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
-      },
-      "artists": [
-        {
-          "name": "Drizdoneit",
-          "url": "https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498"
-        },
-        {
-          "name": "Jbandz",
-          "url": "https://open.spotify.com/artist/4vG3ns25IXxTaMisoVaLxU"
-        }
-      ],
-      "duration_ms": 172199,
-      "name": "9AM",
-      "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Love Don't Change",
         "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 80613,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "High On Love",
-        "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 181044,
-      "name": "High On Love",
-      "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "High On Love",
+        "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 181044,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Day and Night (Prodbyjak)",
         "url": "https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 165405,
       "name": "No Pain",
       "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 133090,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4"
+        "name": "She Comes & Goes",
+        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
       },
       "artists": [
         {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 134193,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
     }
   ],
   "unique_name": "lofi rap",

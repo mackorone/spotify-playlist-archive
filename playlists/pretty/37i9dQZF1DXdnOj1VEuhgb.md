@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Gazapizm
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,554 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,447 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 11 | [kaybolursun](https://open.spotify.com/track/7FM47IKI0QpQLQbU1ouayH) | [Stabil](https://open.spotify.com/artist/3XjAYzwW3zGIi0OetnEIvU) | [kaybolursun](https://open.spotify.com/album/5Rhuau8RgEU96cZqcoTdeB) | 3:16 |
 | 12 | [KURŞUNLARA KAFA](https://open.spotify.com/track/1EkVunrlzRCBRydTEgIIlv) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf) | [FAM](https://open.spotify.com/album/59wTR74ppNXF7o2nRvibvC) | 2:24 |
 | 13 | [Şarkılar Sokaklara Ait](https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Şarkılar Sokaklara Ait](https://open.spotify.com/album/34hptGPWx0q7xhZ4AXJPzg) | 2:55 |
-| 14 | [Track 5](https://open.spotify.com/track/55gtNEkxnIKu6LE2AuX09M) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [YÜKSEK](https://open.spotify.com/track/55gtNEkxnIKu6LE2AuX09M) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7) | [ROCKY TYPE BEAT](https://open.spotify.com/album/5VhT9e7oKByXfmjzYXa9aX) | 2:12 |
 | 15 | [Ben Anlamam](https://open.spotify.com/track/0WSCJshw0LkgQVFaVam4Tx) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [dj.young.mes](https://open.spotify.com/artist/1qpk2zMYWrRoELQMaPZz72) | [Ben Anlamam](https://open.spotify.com/album/5jzCX7DCuD1dtrKPHom08c) | 3:19 |
 | 16 | [Felaket](https://open.spotify.com/track/30W7TM7SlCALMNcF744ztG) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [Deniz Tekin](https://open.spotify.com/artist/4TdvNk4wmn5DgBFiLDeCj0) | [Felaket](https://open.spotify.com/album/1qdsdWGRu7DTT3HsSchSgx) | 4:51 |
 | 17 | [Ağır Siklet](https://open.spotify.com/track/3AuD9RtcOSLDTX6hcxFHNH) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Ağır Siklet](https://open.spotify.com/album/0atdkROYdkGmruChEgcX1U) | 2:43 |

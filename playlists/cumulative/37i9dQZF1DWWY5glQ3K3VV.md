@@ -4,7 +4,7 @@
 
 > SPINGERE
 
-319 songs - 15 hr 44 min
+320 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [GORILLA\#1](https://open.spotify.com/track/0sTkGlYMa1y4jeD1y5yRu4) | [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3) | [GORILLA\#1](https://open.spotify.com/album/1nsRK8s3uXIw0dNGN3rWAF) | 2:38 | 2022-05-24 | 2022-06-20 |
 | [GTA \(feat\. Ghali\)](https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:08 | 2024-03-15 | 2024-10-26 |
 | [Hace Calor \- Remix](https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Hace Calor \(Remix\)](https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF) | 4:07 | 2022-12-30 | 2023-01-11 |
-| [HARD TECH](https://open.spotify.com/track/47CKxzkqTc8erp0UiuxN6o) | [Axel Cooper](https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI), [Ame 2.0](https://open.spotify.com/artist/1XlwE6XhQCFKpTmZWEDY96) | [HARD TECH](https://open.spotify.com/album/5sy8YaOuCsuJl1EOH34XBq) | 1:54 | 2025-11-06 |  |
+| [HARD TECH](https://open.spotify.com/track/47CKxzkqTc8erp0UiuxN6o) | [Axel Cooper](https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI), [Ame 2.0](https://open.spotify.com/artist/1XlwE6XhQCFKpTmZWEDY96) | [HARD TECH](https://open.spotify.com/album/5sy8YaOuCsuJl1EOH34XBq) | 1:54 | 2025-11-06 | 2025-12-06 |
 | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc) | 2:56 | 2025-02-25 |  |
 | [Hasta la vista \(feat\. ANNA\) \- Remix](https://open.spotify.com/track/4VNYRuTv8dCN0UUNJj6P4K) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DNA](https://open.spotify.com/album/4P0hxsoJsKyJRcLcQ1aGG1) | 2:25 | 2022-05-01 | 2022-07-28 |
 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 | 2022-05-01 |  |
@@ -283,6 +283,7 @@
 | [Storia Infinita \(feat\. Baby Gang\)](https://open.spotify.com/track/7kkTvEHri9CL5eXvHIAx7t) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Maltempo](https://open.spotify.com/album/5CbHK93vpzBUTSBddUm2VH) | 2:52 | 2024-03-19 | 2024-04-19 |
 | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV) | 3:17 | 2023-09-07 | 2023-12-31 |
 | [Suavemente](https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Suavemente](https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al) | 2:37 | 2022-05-12 |  |
+| [Supercar](https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Supercar](https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf) | 2:04 | 2025-12-05 |  |
 | [Tardi insieme](https://open.spotify.com/track/0jyF2iogsnyhZd5BGFtics) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Tardi insieme](https://open.spotify.com/album/7d66CkPBNjrzsAVDpRbQvT) | 2:09 | 2022-05-12 | 2022-05-15 |
 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:49 | 2022-05-01 | 2025-01-03 |
 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 | 2025-07-13 |  |

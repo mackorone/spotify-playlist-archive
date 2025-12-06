@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,298 likes - 113 songs - 6 hr 14 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,290 likes - 117 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,5 +121,9 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 111 | [Fire On The Hillside](https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Fire On The Hillside](https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv) | 3:24 |
 | 112 | [Keeps Me Sane \(feat\. The Castellows\)](https://open.spotify.com/track/16c51SfenjUgP6F36uds5e) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z), [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Keeps Me Sane \(feat\. The Castellows\)](https://open.spotify.com/album/72qbpYZ96o9bEOookAyOf0) | 3:12 |
 | 113 | [Two Step To Forget](https://open.spotify.com/track/0zWNBnhYlkkvM5f8yyUnFJ) | [Johnny 99](https://open.spotify.com/artist/0PibitZYT4dnVnmt0Iyfrz) | [Mr\. Lonely](https://open.spotify.com/album/0B3l4trJQFjQg7ZkTcXm7U) | 2:57 |
+| 114 | [Teenage Dirtbag](https://open.spotify.com/track/4syJa84yrb0E2NxJ6LTSDP) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Teenage Dirtbag](https://open.spotify.com/album/5SjHWz3cAotoRW288uJQIv) | 3:47 |
+| 115 | [Rocky Mountain Low \- feat\. Koe Wetzel](https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Rocky Mountain Low \(feat\. Koe Wetzel\)](https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN) | 2:48 |
+| 116 | [Giving Her Away](https://open.spotify.com/track/4RFHH3exrleUOwgyLbEFvJ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Giving Her Away](https://open.spotify.com/album/2pnoWZN6epQVXs2XREE8l4) | 3:33 |
+| 117 | [My Love](https://open.spotify.com/track/3jmr2o3tdbA8lWPtpCxCl5) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [My Love](https://open.spotify.com/album/38ZC9zLGxyFNQR96ABazS5) | 3:37 |
 
-Snapshot ID: `AAANkhL2OuDgcejGKwYgO2vjeoKaqShp`
+Snapshot ID: `AAANlno4/yzo5ibW7+de2zar4lI18cr+`

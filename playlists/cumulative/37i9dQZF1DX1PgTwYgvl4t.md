@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=P8rKhOF7RgKSexcLlO48SQ>Ebuka Songs</a>
 
-277 songs - 1 day 8 hr 38 min
+278 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Confessions \- Live](https://open.spotify.com/track/263bKs830B9Ae4UzgtU80Q) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Confessions](https://open.spotify.com/album/69So72vj1mzoGgOjBqZJse) | 7:24 | 2024-05-09 | 2025-03-28 |
 | [Covenant](https://open.spotify.com/track/2dHsmrbMPq88m3fwVA5Hlk) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [VERSES, Vol\. 2](https://open.spotify.com/album/0JF6vL0sJeAERjLlwpdLY8) | 8:49 | 2025-03-21 | 2025-08-08 |
 | [Covenant Keeping God](https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Covenant Keeping God](https://open.spotify.com/album/4t0pkEmKEjMyBB1sq3UjXp) | 13:56 | 2025-02-28 |  |
+| [Covenant Keeping God \- Covenant Keeping God \(Acoustic Version](https://open.spotify.com/track/6RnMzQV6j343oC7F7jXJVf) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Covenant Keeping God \[Covenant Keeping God \(Acoustic Version\]](https://open.spotify.com/album/2Avt0dJO4EbhHvleA22fW8) | 9:46 | 2025-12-05 |  |
 | [Creation Declares](https://open.spotify.com/track/47IHJyscvvcQUrBHmQJiwa) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Creation Declares](https://open.spotify.com/album/7cSUoIHIwvvpou7rgfhYjY) | 13:36 | 2025-09-26 |  |
 | [Deep Worship Medley](https://open.spotify.com/track/0IMjgpxOemOw8P9DYlIKVL) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Deep Worship Medley](https://open.spotify.com/album/5wZgcf3QmwWCHtXTo4l81w) | 4:35 | 2024-06-28 | 2025-01-03 |
 | [Deliverer \- Live](https://open.spotify.com/track/5c3CsPaBPhYcJb8N4UEv03) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Deliverer \(Live\)](https://open.spotify.com/album/13zjMXCQDasfVRhh4CXDsS) | 6:07 | 2025-09-26 |  |

@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Wali
 
-746 songs - 2 day 0 hr 47 min
+748 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Merelakan](https://open.spotify.com/track/3ZQayXj1KxVVF9sXem5wmw) | [Angie Carvalho](https://open.spotify.com/artist/6nUQOIpgG7Sf0DqSJODNmK) | [Merelakan](https://open.spotify.com/album/3yJQyg5a43YCySZIGl1IXa) | 3:49 | 2025-10-02 |  |
 | [Merindu Lagi](https://open.spotify.com/track/49cQR3bjxEndbqK2qARYds) | [Mesa Hira](https://open.spotify.com/artist/7ynP6OqOCJe3k4JTk1Tjwc), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Merindu Lagi](https://open.spotify.com/album/3b54FSMtFWyHk0CpeinEch) | 2:55 | 2025-06-05 |  |
 | [Merindumu lagi](https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Merindumu lagi](https://open.spotify.com/album/4LTGuJdFIcKgJfHjsK0lE7) | 3:38 | 2025-07-17 |  |
+| [Meski Perih](https://open.spotify.com/track/3WENCaPrHs2oVQ1zzTQvRb) | [Ronald Dewa](https://open.spotify.com/artist/2zrMuruIsDXrQIQHuLU0sj) | [Meski Perih](https://open.spotify.com/album/3EiqKc8pjPT0nJ0gcqEjjo) | 4:35 | 2025-12-05 |  |
 | [Mewek \- feat\. Helmi Utta](https://open.spotify.com/track/7jrSPYjaXjll7VqHqrmkzm) | [Kayyis](https://open.spotify.com/artist/4sDsaZuleO6kWxInPdOjcC), [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3) | [Mewek \(feat\. Helmi Utta\)](https://open.spotify.com/album/4u65zpDgyGAJnMzK8C6Oxt) | 3:59 | 2024-12-20 | 2025-03-21 |
 | [Milikku Seutuhnya](https://open.spotify.com/track/0UMrmBvG1wpKQQ1qetvSYh) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU) | [Milikku Seutuhnya](https://open.spotify.com/album/2SFeCcYE2PvbARW3CMOKeh) | 3:53 | 2024-07-25 | 2024-09-27 |
 | [Mimpi Kecil](https://open.spotify.com/track/5j2dFLajKaoNiHDplbbOx6) | [V1RST](https://open.spotify.com/artist/2kTWDbs4Ve7BgSKhNsWHGx) | [Mimpi Kecil](https://open.spotify.com/album/1tQwub2k1UiNmF2jeGrJRp) | 3:18 | 2025-11-07 |  |
@@ -674,6 +675,7 @@
 | [Tak Sehebat Dulu](https://open.spotify.com/track/20QZAN1Cc9v8piHeAoGkm8) | [ACYUTA](https://open.spotify.com/artist/3OB0l92TmjSGDLGVyaiY8s) | [Tak Sehebat Dulu](https://open.spotify.com/album/4mBpp8hGA5oj6fkmmdrxtX) | 4:00 | 2024-07-04 | 2024-08-16 |
 | [Tak Sempurna](https://open.spotify.com/track/5ypViUvh0HzHg0j79GmtQ4) | [Canti](https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ), [Adipati Dolken](https://open.spotify.com/artist/61154TXYjXtYPiPCKo5gzC) | [Tak Sempurna](https://open.spotify.com/album/4wuiLs7H4N9wn2lejXFknt) | 3:49 | 2025-07-10 | 2025-08-16 |
 | [Tak Semua Dalam Kendalimu](https://open.spotify.com/track/0YL6itujNGGD0tAKvwycsA) | [Ruang Senja](https://open.spotify.com/artist/2WSd3E18fZ6riwyEEJPQGp) | [Tak Semua Dalam Kendalimu](https://open.spotify.com/album/1bA8edzrmA2HfJnX7iNAQh) | 3:06 | 2025-09-05 | 2025-10-17 |
+| [Tak Tergantikan](https://open.spotify.com/track/58uIbiMPcNPFuGaFYtbolF) | [Ian Kasela](https://open.spotify.com/artist/3UkvERhOcWJZ6vSOs0TeAU) | [Tak Tergantikan](https://open.spotify.com/album/7woQhGP33qGDYT7W8n0JIQ) | 4:04 | 2025-12-05 |  |
 | [Tamasya di Angkasa](https://open.spotify.com/track/3ZExfEyY39Qpzt0fvsCUDn) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Tamasya di Angkasa](https://open.spotify.com/album/76HWh17AMLevhXUBvMO8Bf) | 4:21 | 2025-09-25 | 2025-11-07 |
 | [Tanah Nurani](https://open.spotify.com/track/0RbGsjGS1bEzZzLfslXjkR) | [Iksan Skuter](https://open.spotify.com/artist/2M0JEUzgcRX62pMAVlhpxy) | [Tanah Nurani](https://open.spotify.com/album/1ekZMmC7V5L0wOYfzAJp7f) | 3:44 | 2025-09-11 | 2025-10-17 |
 | [Tanda Tanya](https://open.spotify.com/track/2lkSPwVOSK1HJZwCG12O9w) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanda Tanya](https://open.spotify.com/album/3ceYHINL0M5RcqWMbr6f7j) | 3:02 | 2025-07-24 | 2025-09-26 |

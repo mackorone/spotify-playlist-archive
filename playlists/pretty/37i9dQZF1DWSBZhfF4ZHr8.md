@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Marine
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,116 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,158 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 3 | [Viens on s'aime](https://open.spotify.com/track/138obimywddp5O6o3Tceg3) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Oxygène](https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ) | 3:22 |
 | 4 | [Etincelles](https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D), [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Etincelles](https://open.spotify.com/album/1oQk2YkoJAS4RFEr1ToRKB) | 3:03 |
 | 5 | [Virile](https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Millénium](https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot) | 2:38 |
-| 6 | [Track 5](https://open.spotify.com/track/5IsEeoWPNMBzbHaBpYRGuC) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [](https://open.spotify.com/album/null) | 0:00 |
+| 6 | [Pas le meilleur](https://open.spotify.com/track/5IsEeoWPNMBzbHaBpYRGuC) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [Le rêveur du bal](https://open.spotify.com/album/7fi8Ksz3tnIFxAydBa6fFU) | 2:28 |
 | 7 | [Boule au ventre](https://open.spotify.com/track/4P3CwJ2gqym33wJKeeOl4j) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:00 |
 | 8 | [Hypersensible](https://open.spotify.com/track/16mqPjC4RwFPnH0UoDn7lA) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Hypersensible](https://open.spotify.com/album/1N2eEz2ZKhZKfjl4hQ8F8w) | 2:53 |
 | 9 | [Comme toutes les filles](https://open.spotify.com/track/45BhIKShrRfxQjuP9povgy) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Comme toutes les filles](https://open.spotify.com/album/4QQKgw54wOtdBM17hYsa3B) | 2:47 |

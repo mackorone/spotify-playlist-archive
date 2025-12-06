@@ -928,6 +928,24 @@
     {
       "album": {
         "name": "George Harrison",
+        "url": "https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276213,
+      "name": "Love Comes to Everyone",
+      "url": "https://open.spotify.com/track/1dYimSgEq46lJ30MKQP9l6"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
         "url": "https://open.spotify.com/album/49ZkNYNNscP7wzn5iFsfKV"
       },
       "artists": [
@@ -942,24 +960,6 @@
       "duration_ms": 276213,
       "name": "Love Comes to Everyone",
       "url": "https://open.spotify.com/track/5ZYXmLKf2GPYcCHCIYpxg4"
-    },
-    {
-      "album": {
-        "name": "George Harrison",
-        "url": "https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "date_added": "2021-03-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 276213,
-      "name": "Love Comes To Everyone - Remastered 2004",
-      "url": "https://open.spotify.com/track/1dYimSgEq46lJ30MKQP9l6"
     },
     {
       "album": {

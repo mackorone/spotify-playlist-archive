@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-60 songs - 3 hr 26 min
+62 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Fluxville](https://open.spotify.com/track/6fhJS4iP4w9aV2JtPRQTpK) | [the errantry](https://open.spotify.com/artist/5hvf1J6qyJy6BXOWMIL2dI) | [Fluxville](https://open.spotify.com/album/5zpgcpT42pNnOqd5mw55wB) | 2:08 | 2025-03-11 |  |
 | [Forget](https://open.spotify.com/track/57itK4sT9yWj8xL5P0vY7R) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Forget](https://open.spotify.com/album/7oiPL3Rad4NlLcu7DnQEt3) | 2:43 | 2025-11-15 |  |
 | [Green Eyes \(Watch Over Me\)](https://open.spotify.com/track/6pwPs72RyDgIQ34viROIYr) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Green Eyes \(Watch Over Me\)](https://open.spotify.com/album/42UjrAhs1ytgRyDsdVqlpH) | 4:15 | 2025-10-06 |  |
+| [Guilty of Murder](https://open.spotify.com/track/2pTVCo3HSGQO2x75b1k5PS) | [Ethan Loke](https://open.spotify.com/artist/6AcVELfnTn0p70P6R6SYSg) | [Guilty of Murder](https://open.spotify.com/album/75Ju0PbmPvNo0gKv4hafKv) | 4:33 | 2025-12-05 |  |
 | [Heaven knows it all](https://open.spotify.com/track/5tLDKW3o4f5N2f50qPfHDI) | [Travelin' Man](https://open.spotify.com/artist/4A0E3SaSEKz7lgEVsxFNLK) | [Heaven knows it all](https://open.spotify.com/album/1odTfJfVM90OZH6u6qx7Y2) | 3:41 | 2025-07-27 |  |
 | [Hi\-Vis](https://open.spotify.com/track/63TnpxCZwfookIlCXtSKAf) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Hi\-Vis](https://open.spotify.com/album/4kzThJP3YSSOhEOyH3K98O) | 3:59 | 2024-10-26 |  |
 | [Holding on to You](https://open.spotify.com/track/0MWpRl6lqpnONcnT4XCxgW) | [Jonathan Andrew Rysdon](https://open.spotify.com/artist/17WbxMg28ANXPAoBP6jgj0), [Kevin Michael Ozias](https://open.spotify.com/artist/6usveDw1gXJTzcdB3gNKSV) | [Holding On To You](https://open.spotify.com/album/7jQVM10PhJbMJ3hnQ8Y9sF) | 2:31 | 2024-07-07 |  |
@@ -62,6 +63,7 @@
 | [To The Sea](https://open.spotify.com/track/6vE5CldyUzyex2SwEd9fcW) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [To The Sea](https://open.spotify.com/album/1FOplQTQ4T0YRtM33ETBxN) | 5:22 | 2024-05-20 |  |
 | [Too Broke For Money](https://open.spotify.com/track/7b2Gsa6jg7gHWIj0Hnc29A) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Too Broke For Money](https://open.spotify.com/album/1kb6C7OYXgbehQhJ9sOZOo) | 2:03 | 2025-10-15 |  |
 | [Too Much Coffee](https://open.spotify.com/track/4f1ZCfIiONsbE1rLvKISve) | [Kevin Michael Ozias](https://open.spotify.com/artist/6usveDw1gXJTzcdB3gNKSV) | [Like Water](https://open.spotify.com/album/4Th0DeXhkWtytxF2TrYaMV) | 5:15 | 2023-05-14 |  |
+| [Totem](https://open.spotify.com/track/6H5FyHR39hnSv5rEsXAuS1) | [Neil Friedlander](https://open.spotify.com/artist/3vbuWzmFvfKIz0hptCJyS7) | [The Change](https://open.spotify.com/album/3ogSOauc4Nns4dTm3fDk4e) | 4:00 | 2025-12-05 |  |
 | [Travelling Light](https://open.spotify.com/track/6IgZxL9A57QlxNAiyhpWFs) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Travelling Light](https://open.spotify.com/album/1lUAwtajDk9ycqiNu2zThg) | 3:34 | 2025-01-04 |  |
 | [Venetian Blinds](https://open.spotify.com/track/6cYnYjZ7PfPkPpa5qBC09D) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Venetian Blinds](https://open.spotify.com/album/0gDR27rVArUKZWLcoWomwZ) | 3:59 | 2025-10-06 |  |
 | [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 | 2023-05-06 |  |

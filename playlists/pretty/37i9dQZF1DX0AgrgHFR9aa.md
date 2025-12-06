@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Pit Baccardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,028 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,024 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Seul](https://open.spotify.com/track/4pX2gTPPjYsqlnmZYu6Ijh) | [Pit Baccardi](https://open.spotify.com/artist/5Gf71JW8QjF77ELQ94JX38), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [OG](https://open.spotify.com/album/4qq8AXnP0B0HfRF6JobWwj) | 3:20 |
 | 2 | [Ce qui restera](https://open.spotify.com/track/453CZ5QOvjjiP2C9mMGfEh) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Dieu Donne, J’utilise part.1](https://open.spotify.com/album/2d7lwWCSsSZU62EuuJulKg) | 2:56 |
 | 3 | [L'usine](https://open.spotify.com/track/6SxhEpfC7K1A7d48QdXxNj) | [Frs taga](https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy) | [L'usine](https://open.spotify.com/album/3wXVPlj7mpDK2wf8GobWMD) | 3:32 |
-| 4 | [Promis ça va aller](https://open.spotify.com/track/52cu4TD46rXBKWSXkVtH8F) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [](https://open.spotify.com/album/null) | 2:17 |
+| 4 | [Promis ça va aller](https://open.spotify.com/track/52cu4TD46rXBKWSXkVtH8F) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [MASQUE\(S\)](https://open.spotify.com/album/3ZvQItD7BY41XFoJQnu9eW) | 2:17 |
 | 5 | [Sincèrement](https://open.spotify.com/track/1OvN5V9Qe7vht8obXZ5CpX) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Sincèrement](https://open.spotify.com/album/54lNAga6eMMmMQgeWhj2Cl) | 2:59 |
 | 6 | [paire polo assortis](https://open.spotify.com/track/0Gze15uCrpf2dYJb8FSFDG) | [Celestino](https://open.spotify.com/artist/6zk1BCMMPwfeVoYWYWzsUP), [STI](https://open.spotify.com/artist/4XWx64t3h7r28YLQ89xpXI) | [paire polo assortis](https://open.spotify.com/album/5VkBQO7gzFk4lkvwr6r7gV) | 3:30 |
 | 7 | [SOLDAT](https://open.spotify.com/track/7aE1A09IXb9jqyx9lsJ00e) | [Guerta](https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL) | [SOLDAT](https://open.spotify.com/album/6Gj0mMnBLqqiJSU6n3r7Ba) | 1:55 |

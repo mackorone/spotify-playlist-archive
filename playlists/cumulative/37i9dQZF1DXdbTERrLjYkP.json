@@ -6979,6 +6979,24 @@
     },
     {
       "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/6IiD5m2FkHUNSu1hVAPTGD"
+      },
+      "artists": [
+        {
+          "name": "Maeve",
+          "url": "https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/4leYuigbid3LuPNI9jDsGr"
+    },
+    {
+      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/7Ar5VPj9yQRgSSj2wrS4B4"
       },

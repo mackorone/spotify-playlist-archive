@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,230 songs - 3 day 3 hr 26 min
+1,231 songs - 3 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,6 +669,7 @@
 | [Momma](https://open.spotify.com/track/0CjJqkWOpIUXdem5hUcxAk) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 4:43 | 2022-07-08 |  |
 | [MONDAY](https://open.spotify.com/track/13VNbW9gblZQVVM2a7ZQf5) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [MONDAY](https://open.spotify.com/album/4ynZBEDB0SRtuPt7qbX6wB) | 4:03 | 2025-04-22 |  |
 | [MONDAY](https://open.spotify.com/track/3a9Qmzy2dqZsa8QAggkioN) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 4:03 | 2025-07-25 |  |
+| [MONDAY \- A COLORS SHOW](https://open.spotify.com/track/2HUYmOmEMZC59UhCKokzAp) | [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [MONDAY \- A COLORS SHOW](https://open.spotify.com/album/2tcooZLhliuKYR5da5BAgT) | 4:06 | 2025-12-05 |  |
 | [Monster](https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 6:18 | 2022-03-22 |  |
 | [Moon](https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 2:36 | 2021-10-01 |  |
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 5:17 | 2025-12-02 |  |

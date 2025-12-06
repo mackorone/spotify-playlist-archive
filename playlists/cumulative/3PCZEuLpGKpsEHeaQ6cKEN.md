@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,663 songs - 3 day 16 hr 26 min
+1,664 songs - 3 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1084,6 +1084,7 @@
 | [Perfect \(Exceeder\) \- 1991 Remix](https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Perfect \(Exceeder\) \[1991 Remix\]](https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob) | 3:20 | 2024-01-26 | 2024-08-31 |
 | [Perfect \(Exceeder\) \- \[1234 – Let Me Hear You Scream\] \- Sped Up](https://open.spotify.com/track/0JCibql9R5cuYLBFRMocPj) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\) \[1234 – Let Me Hear You Scream\] – Sped Up](https://open.spotify.com/album/3H2tjX6hu3F3vaLJPkry9D) | 2:27 | 2024-01-11 | 2024-07-10 |
 | [Perfect \(Exceeder\) \- Oliver Heldens Remix](https://open.spotify.com/track/2XoNq5vZlHC2Y1JCoEbYBY) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Perfect \(Exceeder\) \[Oliver Heldens Remix\]](https://open.spotify.com/album/1LQcx1F2omyRpPV2FYbc8Y) | 2:39 | 2024-03-21 | 2024-10-11 |
+| [Perfect Honey \(Temptation\) 2025 Rework \- Radio Edit](https://open.spotify.com/track/5iHy2EPkpdcfPJiQVsfv2J) | [Luv Foundation \(UK\)](https://open.spotify.com/artist/7wZMEsvxuWBZiMAqcy5BOP), [Ruff Loaderz](https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui), [Marc Almond](https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7) | [Perfect Honey \(Temptation\) 2025 Rework \[Radio Edit\]](https://open.spotify.com/album/3QlundS3UV2FdXQBK5vTvk) | 3:03 | 2025-12-05 |  |
 | [Phases](https://open.spotify.com/track/62dZwFD4glaESrFFPGrXAN) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Phases](https://open.spotify.com/album/608DP618oad2ENr4JzaYdT) | 3:09 | 2022-10-27 | 2022-12-09 |
 | [Phatt Bass](https://open.spotify.com/track/4BtnUDuHYvLDVsQWpc3p0d) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T), [Flymeon](https://open.spotify.com/artist/7lyQdAEhfFPi7tKkDzMMo6) | [Phatt Bass](https://open.spotify.com/album/7luHlawSbka5F3PEfm3trp) | 3:08 | 2024-10-18 | 2025-04-04 |
 | [Pia Pia](https://open.spotify.com/track/6DQ6LUgtfHYgtGl5doSYJt) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Pia Pia](https://open.spotify.com/album/3bb45MCSfDYnmEs4NGLihW) | 3:33 | 2022-08-17 | 2022-09-09 |

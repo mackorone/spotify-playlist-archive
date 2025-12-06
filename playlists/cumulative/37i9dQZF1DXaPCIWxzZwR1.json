@@ -15061,6 +15061,24 @@
     },
     {
       "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/3ISicmxJuaKEZEbKDJuOdo"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191803,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/0y9S3dw1MBzHqmTpMTTd0M"
+    },
+    {
+      "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
@@ -26006,7 +26024,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 188664,
       "name": "Moviestar",
       "url": "https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip"

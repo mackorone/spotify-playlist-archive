@@ -1,13 +1,29 @@
 {
-  "description": "The home of Canadian country music. Cover: Orville Peck",
-  "num_followers": 83418,
+  "description": "The home of Canadian country music. Cover: Tenille Arts",
+  "num_followers": 83420,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKC1cw3jjoq0tT+LREvgkJs60yXK",
+  "snapshot_id": "AAAAACer1qPlZwLZ8sgVAuQDeDKA8rq6",
   "tracks": [
+    {
+      "added_at": "2025-12-05 05:01:34",
+      "album": {
+        "name": "Don't Ruin Flowers",
+        "url": "https://open.spotify.com/album/5v1j957WCGpsGwegO4UhpN"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Don't Ruin Flowers",
+      "url": "https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX"
+    },
     {
       "added_at": "2025-11-28 05:01:04",
       "album": {

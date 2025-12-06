@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-181 songs - 10 hr 16 min
+182 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,8 +175,9 @@
 | [Unfinished](https://open.spotify.com/track/2pOds6Kh8EFPgJj12UmPKR) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:53 | 2024-02-27 |  |
 | [Unhinged](https://open.spotify.com/track/545yZeRbrPHj6wM94RgT3M) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:52 | 2024-02-27 |  |
 | [Unholy](https://open.spotify.com/track/7kzQRB3b9gp2kdjI0dLv8M) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 2:10 | 2024-02-27 |  |
-| [Universe](https://open.spotify.com/track/2bcSl0tuI5SlwXoanVsmgT) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe \(Spanish Version\)](https://open.spotify.com/album/1b6EqeN8QmEBhys23qnakF) | 2:46 | 2024-09-01 |  |
+| [Universe](https://open.spotify.com/track/2bcSl0tuI5SlwXoanVsmgT) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe \(Spanish Version\)](https://open.spotify.com/album/1b6EqeN8QmEBhys23qnakF) | 2:46 | 2024-09-01 | 2025-12-06 |
 | [Universe](https://open.spotify.com/track/6eV5QkOKCEurh9Yqew23oz) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe Pack](https://open.spotify.com/album/0nWyOSKY9XkUoqLyG5L4Zu) | 2:46 | 2024-03-21 | 2024-09-02 |
+| [Universe](https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe](https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx) | 2:46 | 2025-12-05 |  |
 | [utopia](https://open.spotify.com/track/6FJFq3GTvpPgw2xIfwmguR) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:43 | 2024-02-27 |  |
 | [Waiting In The Wings](https://open.spotify.com/track/25DDablRTX29gvd35HzSKY) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 3:27 | 2024-04-08 |  |
 | [Waiting In The Wings](https://open.spotify.com/track/2STf210R2zrYqdzEXmg9oL) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution](https://open.spotify.com/album/6ru3QyM9DiMwuzSZvqCkba) | 3:27 | 2024-03-31 | 2024-04-09 |

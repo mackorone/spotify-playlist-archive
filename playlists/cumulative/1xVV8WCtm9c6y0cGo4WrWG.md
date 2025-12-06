@@ -4,7 +4,7 @@
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Dave
 
-447 songs - 22 hr 42 min
+449 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 | 2025-04-11 |  |
 | [Lemme See](https://open.spotify.com/track/24yqhl33zaZf84naREO04L) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead \(Original Version\)](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 2:45 | 2023-11-10 | 2024-08-03 |
 | [Let Me Calm Down \(feat\. J\. Cole\)](https://open.spotify.com/track/44gmXwbdHjwQsQvsiraj14) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 4:04 | 2023-12-08 | 2024-03-16 |
+| [Let's Do It \(feat\. Playboi Carti & Skooly\)](https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:22 | 2025-12-05 |  |
 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 | 2023-11-03 | 2024-02-19 |
 | [Life's Overpriced](https://open.spotify.com/track/01RvQqoQeDmVl5AP16fnBD) | [ParisPlayedYou](https://open.spotify.com/artist/60hKJEpkdqHaeV0rAmZ1v7) | [Life’s Overpriced](https://open.spotify.com/album/26yERLMJ3N00dYAMOJSZdO) | 2:57 | 2025-05-16 |  |
 | [LIFT SERVICE](https://open.spotify.com/track/0LMKihVCUC6ZipHLX1HIb1) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE \(DELUXE\)](https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9) | 2:18 | 2025-05-02 |  |
@@ -238,6 +239,7 @@
 | [Lyfestylë \(with Lil Wayne\)](https://open.spotify.com/track/51xpNYObJdiEnbvpjoAE8E) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 3:56 | 2024-02-18 | 2024-03-02 |
 | [Maintenance Man \(feat\. Jenn Carter, Dee Billz\)](https://open.spotify.com/track/7Bi3CoMUn2T8orxoPcU71f) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h) | [Maintenance Man](https://open.spotify.com/album/60TaG6Q0X1PxlSPTo1vO85) | 2:41 | 2024-10-04 | 2025-06-07 |
 | [Maktub](https://open.spotify.com/track/5TtFmWqvNyf8PzYZWd8zmQ) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [96 Miles From Bethlehem](https://open.spotify.com/album/5HsenIoBRibaDNJr1g5ekb) | 3:28 | 2024-05-31 | 2025-04-05 |
+| [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 | 2025-12-05 |  |
 | [margiela](https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [margiela](https://open.spotify.com/album/6lCILy46F44uFdrHCunZss) | 2:18 | 2025-11-14 |  |
 | [Max Julien](https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Max Julien](https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z) | 2:50 | 2023-11-03 | 2024-06-29 |
 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2024-05-05 | 2025-01-11 |

@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Sienna Spiro
 
-1,215 songs - 2 day 13 hr 57 min
+1,217 songs - 2 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [bigger love](https://open.spotify.com/track/2VpieVmdihQUTalzU77VRh) | [Ruxley](https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P) | [bigger love](https://open.spotify.com/album/2LnQON8qXdOaXm4HaqtLKt) | 3:08 | 2024-07-18 | 2024-10-04 |
 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 | 2023-07-13 | 2023-10-13 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-10 | 2024-07-03 |
+| [Birthday Party Crash](https://open.spotify.com/track/7C2OnvqB1sia1g7ecfKTWI) | [mermaidonmars](https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX) | [Birthday Party Crash](https://open.spotify.com/album/6xrLKbz7rrtyztyshL5TwP) | 2:22 | 2025-12-05 |  |
 | [BITE THE BULLET](https://open.spotify.com/track/6pk5Z5AaQXL5E0AcGL0aA6) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [BITE THE BULLET](https://open.spotify.com/album/5E5Bh3gHUFO3ECImoixFwC) | 2:47 | 2025-07-10 | 2025-09-26 |
 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2025-10-30 |  |
 | [Blame It On You](https://open.spotify.com/track/3zaKVvx1nm5wiEBVBdMpM7) | [Mellie](https://open.spotify.com/artist/0fCB3cu52wsor5eiGb2OhK) | [Blame It On You](https://open.spotify.com/album/3iCfKKQ8KW8aicP8zadJMd) | 3:23 | 2024-01-04 | 2024-03-15 |
@@ -317,6 +318,7 @@
 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 | 2023-12-12 | 2024-03-21 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-12 | 2024-06-14 |
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-17 | 2025-08-29 |
+| [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 | 2025-12-05 |  |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-02-24 | 2023-04-14 |
 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 | 2025-01-06 | 2025-03-14 |
 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns) | 2:36 | 2023-07-21 | 2023-10-27 |
@@ -358,7 +360,7 @@
 | [First And Last](https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [First And Last](https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N) | 2:58 | 2025-08-28 | 2025-11-14 |
 | [First Original Thought](https://open.spotify.com/track/5muTft7oCwTsn2eeLyYFLy) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [First Original Thought](https://open.spotify.com/album/2rH7ACS9qrOtZ5sDXIx7OD) | 2:50 | 2025-09-25 | 2025-11-28 |
 | [Fix Myself](https://open.spotify.com/track/7jo2PagbFYgcFe85hrCC1K) | [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL) | [Fix Myself](https://open.spotify.com/album/4hnTMI84TlOjrzads18PbC) | 3:17 | 2024-06-24 | 2024-09-13 |
-| [Flatline](https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Flatline](https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw) | 2:45 | 2025-09-15 |  |
+| [Flatline](https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Flatline](https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw) | 2:45 | 2025-09-15 | 2025-12-06 |
 | [FLIGHT RISK](https://open.spotify.com/track/5gQO8Ik1hBmcDMMMjvmRtL) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FLIGHT RISK](https://open.spotify.com/album/5p1LIZxLu9O2AMzPKAR8kX) | 2:43 | 2024-02-01 | 2024-03-22 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-24 | 2023-04-15 |
 | [Fly Like Me](https://open.spotify.com/track/2EMqaQVVspxlhTeE0X1boZ) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [New Gold](https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK) | 3:02 | 2024-04-12 | 2024-04-19 |

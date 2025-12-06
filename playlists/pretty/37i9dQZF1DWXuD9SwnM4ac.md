@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Muroki
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,336 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,338 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Muse](https://open.spotify.com/track/7FPAlNpmT9aRoP00KMXcvP) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [](https://open.spotify.com/album/null) | 4:08 |
+| 1 | [Muse](https://open.spotify.com/track/7FPAlNpmT9aRoP00KMXcvP) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes A Girl](https://open.spotify.com/album/4EhxBdweaNorJI0fvl3FrQ) | 4:08 |
 | 2 | [Antarctica](https://open.spotify.com/track/0XMpYsWmc3s0ajUP3rij75) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Drive to Goldenhammer](https://open.spotify.com/album/1j5F5ZhLcFAL7tM5w6rw2k) | 3:14 |
 | 3 | [Break It Down](https://open.spotify.com/track/3DMRkPRD5W4Qu6VYMI3z9k) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Break It Down](https://open.spotify.com/album/40JyJZ1axUsGx77flis6hd) | 3:13 |
 | 4 | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D) | 3:29 |
 | 5 | [sheba](https://open.spotify.com/track/5mIFcP4S4z5igxO4fFRxXW) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [sheba](https://open.spotify.com/album/2HwMtRK3uDJathKvSQ449c) | 2:34 |
 | 6 | [This Is The World \(I Made It For You\)](https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [This Is The World \(I Made It For You\) / Nice Day](https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf) | 4:41 |
-| 7 | [Track 5](https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [Bygones](https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Fantasy](https://open.spotify.com/album/0JzyMf9Nj4j4j3akwg4fMG) | 4:00 |
 | 8 | [Strike](https://open.spotify.com/track/00klnMivJGV9VkTGKmygbe) | [Wishlist](https://open.spotify.com/artist/7KRfNZGIzB5L1QxHuknjSB) | [Strike](https://open.spotify.com/album/1YvDeUbFuQ04RWZlYYDhKu) | 4:21 |
 | 9 | [GREEN LIPS](https://open.spotify.com/track/6SzEvq5ByhDSQe5aQelWvi) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [KISSED](https://open.spotify.com/album/2OX0MlIQj7UtQfW3DDPknI) | 2:29 |
 | 10 | [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 |
 | 11 | [Two Together](https://open.spotify.com/track/59fX4bGny5fTWsQaf5GoOS) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Scatterbrains \(On Second Thought\)](https://open.spotify.com/album/4MdxAFFHMb50SApOiAnxj0) | 5:37 |
 | 12 | [In Twos](https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [In Twos](https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW) | 2:46 |
 | 13 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:55 |
-| 14 | [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [](https://open.spotify.com/album/null) | 2:50 |
+| 14 | [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:50 |
 | 15 | [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 |
 | 16 | [VAPOR // SLOW DANCE](https://open.spotify.com/track/1C0B4tGz2hIynxCBIh1Rp8) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [VAPOR // SLOW DANCE](https://open.spotify.com/album/2Hc59w2LHotID3S4CWh1a2) | 4:58 |
 | 17 | [The House That Doesn’t Exist](https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [The House That Doesn’t Exist](https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx) | 2:23 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 22 | [Normal Today](https://open.spotify.com/track/31Nc6gzU9XQ2N424Ox8RDk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Normal Today](https://open.spotify.com/album/26q3rNHs0qM9khbGaiWTcd) | 3:13 |
 | 23 | [Home](https://open.spotify.com/track/0L4uhwLa4bmIsRyvgFeTBo) | [Josef Scott](https://open.spotify.com/artist/1Ety32ivSztP0Yc9Q8cBzS) | [New England](https://open.spotify.com/album/3oID9b2Jd3A1Kxatr1OEUN) | 3:00 |
 | 24 | [Paranoia](https://open.spotify.com/track/3NmT8Lem5MY63PEUf3iDKj) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [Paranoia](https://open.spotify.com/album/3X6Ef05LmeZcewtqZ6PxNM) | 2:51 |
-| 25 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [](https://open.spotify.com/album/null) | 3:22 |
+| 25 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 |
 | 26 | [Heavyweight](https://open.spotify.com/track/6tPgbX3x5CS2DHGV63NIq5) | [The Slingers](https://open.spotify.com/artist/5qNh8YHxuINsJoj4jITDWh) | [Heavyweight](https://open.spotify.com/album/1E4mB6AWGBoMdaIk4KI4vd) | 3:58 |
 | 27 | [This Time For Real](https://open.spotify.com/track/2LDTkxBmLRr4ENG0kNQLum) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [This Time For Real](https://open.spotify.com/album/4Tv8PFvKfr1Bb4dOZq9b8Z) | 3:12 |
 | 28 | [THE DEEP \- Single Version](https://open.spotify.com/track/27fABCnOF2h2I5BOrCx24G) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [THE DEEP](https://open.spotify.com/album/4ukZMvcU8hSNMVBbcTOaqu) | 3:39 |

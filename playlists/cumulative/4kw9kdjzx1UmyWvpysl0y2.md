@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,132 songs - 2 day 15 hr 17 min
+1,133 songs - 2 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Coming Home](https://open.spotify.com/track/4wO2U9v7ho8sEGU0t3O9uq) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Coming Home](https://open.spotify.com/album/7lbBABIl4JaV5388pOs2Af) | 4:10 | 2024-06-11 | 2024-09-04 |
 | [Concentrate](https://open.spotify.com/track/1BdMg9VF7SHE9LfyrHVqzZ) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Magnetic](https://open.spotify.com/album/5WbsiwMrYMBtkAc9dUTAzB) | 3:39 | 2024-05-03 | 2024-07-25 |
 | [Connected](https://open.spotify.com/track/45hfGclwBL1fQzjO2rrdgf) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H) | [Connected](https://open.spotify.com/album/3KDFcNu9Ghk8k51e8Y4aTB) | 2:27 | 2025-06-12 | 2025-09-06 |
+| [Control](https://open.spotify.com/track/5KEIAvl6n6RtCdEuWmRcbb) | [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK), [Lily Denning](https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX) | [Control](https://open.spotify.com/album/4IgoUhWQKq4Ye3IoFfWimD) | 3:04 | 2025-12-05 |  |
 | [Crashing](https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Crashing](https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC) | 3:56 | 2023-05-17 | 2023-08-10 |
 | [Crashing Hard](https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crashing Hard](https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i) | 3:37 | 2023-11-09 | 2024-02-22 |
 | [Crashout](https://open.spotify.com/track/1H3PyvVjT4NmwJMgzI3jbr) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Crashout](https://open.spotify.com/album/6WMccOsTUBD5MjR5GOBLu6) | 3:17 | 2025-07-10 | 2025-10-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes\. Cover: Tino Martin & Re\-Play
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,136 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,154 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 35 | [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 |
 | 36 | [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 |
 | 37 | [Houden Van Haten](https://open.spotify.com/track/1nVXy0NnlDUPFIeEGuoe9S) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Houden Van Haten](https://open.spotify.com/album/5pTIrOVqiNEe0pi9pV333j) | 3:12 |
-| 38 | ['k Heb Je Lief](https://open.spotify.com/track/1J1oX6PbDhlQp6eYqCeORi) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Aflevering 1\- Paul de Leeuw\)](https://open.spotify.com/album/6OwnB4ivbi8SXG3qZeqpQB) | 4:42 |
-| 39 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 |
-| 40 | [De Stad](https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [De Stad](https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO) | 2:38 |
-| 41 | [Paraplu](https://open.spotify.com/track/1Mgx2NK4bNC1ulidw7JATx) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Paraplu](https://open.spotify.com/album/7BX3w6BBAz9Q0qlTuyHmtJ) | 3:22 |
+| 38 | [Later is morgen](https://open.spotify.com/track/378mjBshMbo50ekhtSKRPH) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Later is morgen](https://open.spotify.com/album/1vLp7a244zr0vtKgYmwDsp) | 3:29 |
+| 39 | ['k Heb Je Lief](https://open.spotify.com/track/1J1oX6PbDhlQp6eYqCeORi) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Aflevering 1\- Paul de Leeuw\)](https://open.spotify.com/album/6OwnB4ivbi8SXG3qZeqpQB) | 4:42 |
+| 40 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 |
+| 41 | [De Stad](https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [De Stad](https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO) | 2:38 |
 | 42 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 |
 | 43 | [Als Het Donker Wordt](https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu) | [Pip Lieke Lucas](https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0) | [Als Het Donker Wordt](https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY) | 2:13 |
 | 44 | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/track/5VlumpV7P0bentTmUG4471) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Nothing To Lose](https://open.spotify.com/track/4FhKH5QIbjGnha0ZNAyYVt) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Nothing To Lose](https://open.spotify.com/album/54ER6KotifvALmlVHDeyp6) | 3:04 |
 | 100 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
 
-Snapshot ID: `AAAAANq3R8IsjhrU0HlafGeTqhb8Wznf`
+Snapshot ID: `AAAAAPSzJ2Y166XKJgaONujvlvO1rEpk`

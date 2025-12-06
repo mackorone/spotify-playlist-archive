@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Changing",
+        "url": "https://open.spotify.com/album/6mTrLn3lgmcX1Wj4sZNadR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Jonas",
+          "url": "https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182467,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9"
+    },
+    {
+      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },

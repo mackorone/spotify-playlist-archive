@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Triángulo de Amor Bizarro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,604 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,620 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 22 | [Estrellas Místicas](https://open.spotify.com/track/4X9qOnPh2rxJJIgLzGgV4U) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK) | [Estrellas Místicas](https://open.spotify.com/album/0Piw9H1sb484XKgiNX5sqt) | 3:47 |
 | 23 | [DtMF](https://open.spotify.com/track/1W1eBWJdSwv5fXoDyDRlyO) | [Capros](https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM) | [DtMF](https://open.spotify.com/album/1fdsmehSRG0Z20gxiDb7ue) | 3:17 |
 | 24 | [Ciegos](https://open.spotify.com/track/5aCUsb2JPQl8RFl2VVzqXs) | [Nuevo Berlín](https://open.spotify.com/artist/1yx6TpkZhtrOHefx2nZxBI) | [Manual para perderse](https://open.spotify.com/album/6XqXcDfhF7udWZNKLzC4OV) | 3:49 |
-| 25 | [Gente pasar](https://open.spotify.com/track/5YPHG7FBN0kP48c9trm8UJ) | [Vez Era](https://open.spotify.com/artist/0CbGB2Pok6qspGdkxe0eBq) | [](https://open.spotify.com/album/null) | 4:00 |
+| 25 | [Gente pasar](https://open.spotify.com/track/5YPHG7FBN0kP48c9trm8UJ) | [Vez Era](https://open.spotify.com/artist/0CbGB2Pok6qspGdkxe0eBq) | [Vez Era](https://open.spotify.com/album/1nJWv5uHyoai8p09YEB452) | 4:00 |
 | 26 | [Día de verano](https://open.spotify.com/track/1hSw1XM3NZdNxP6JTXfPwj) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Día de verano](https://open.spotify.com/album/5dATK3E5r8R7vkZQ6KFTC2) | 3:55 |
 | 27 | [La Ley del Pobre](https://open.spotify.com/track/7x14AaXr4xkTGqoIpGWadT) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [Los Perros no Entienden Internet \(…Y Yo no Entiendo de Sentimientos\)](https://open.spotify.com/album/54ioPa0kudt4A9VPR0K3a2) | 2:52 |
 | 28 | [Rizo de gitana](https://open.spotify.com/track/5evTw8CEqIP3Ovu9LaPtsE) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Rizo de gitana](https://open.spotify.com/album/2ZQACLflzN6J7AcLaXmOhP) | 3:39 |

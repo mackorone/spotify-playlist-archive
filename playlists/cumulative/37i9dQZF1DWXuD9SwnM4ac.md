@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Muroki
 
-1,212 songs - 2 day 21 hr 41 min
+1,212 songs - 2 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [BUTTERFLIES](https://open.spotify.com/track/5Tx84RyiFBtsFrfWOnLatD) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [BUTTERFLIES](https://open.spotify.com/album/2EOiazPJKBs3af7nQOyRBW) | 2:56 | 2024-08-29 | 2024-10-11 |
 | [Butterknife](https://open.spotify.com/track/4u472hZQnq5h6noTuImsC4) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Butterknife](https://open.spotify.com/album/6Iza5nOc6WmKWctsiYqMsg) | 2:56 | 2025-05-29 | 2025-07-25 |
 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-08 | 2024-09-27 |
+| [Bygones](https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Fantasy](https://open.spotify.com/album/0JzyMf9Nj4j4j3akwg4fMG) | 4:00 | 2025-12-04 |  |
 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 | 2024-05-30 | 2024-08-02 |
 | [Call Me When You Know Better](https://open.spotify.com/track/7HjsWvIfbmPXVljKNBz1Av) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [Call Me When You Know Better](https://open.spotify.com/album/2dM1er6coNrP5nfgGjuzab) | 3:40 | 2025-05-08 | 2025-06-27 |
 | [Calling on Angels](https://open.spotify.com/track/1vlpCrH1DnqfBahibx1fJD) | [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Calling on Angels](https://open.spotify.com/album/6OVtxe0ii35Ha17BThNB1S) | 3:44 | 2025-07-10 | 2025-08-08 |
@@ -488,7 +489,7 @@
 | [Heatstroke](https://open.spotify.com/track/5FadpP8ykzhCcrJobe3OU8) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V), [YAMIKANI](https://open.spotify.com/artist/48g2TVJuHQjhIr0pjpjPk9) | [Heatstroke](https://open.spotify.com/album/328fqCLZsbYNSB9378zhAh) | 3:42 | 2025-07-10 | 2025-08-08 |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2024-08-01 | 2024-09-06 |
 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 | 2024-06-13 | 2024-08-09 |
-| [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [](https://open.spotify.com/album/null) | 2:50 | 2025-12-04 |  |
+| [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:50 | 2025-12-04 |  |
 | [Heaven Has To Happen](https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Heaven Has To Happen / The Opener](https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC) | 3:29 | 2024-08-22 | 2024-09-20 |
 | [Heavy](https://open.spotify.com/track/4gpeMWDRheQIhw0EjVmIrY) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Heavy](https://open.spotify.com/album/48bcWhdWh4rjWkpfZQ0hg3) | 2:01 | 2025-05-15 | 2025-06-27 |
 | [Heavyweight](https://open.spotify.com/track/52T1LYNEAtaUdCHbZgxixa) | [Polish Club](https://open.spotify.com/artist/2tYm7UbTKfLXw7Jsp0xyzD) | [Heavyweight](https://open.spotify.com/album/3GZLd7pAKBj55QLInCZd0t) | 4:54 | 2024-06-06 | 2024-07-12 |
@@ -746,7 +747,7 @@
 | [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 | 2025-03-27 | 2025-05-30 |
 | [Moving in Circles](https://open.spotify.com/track/5fRmjH7q1rcq2BaNbUempS) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Moving in Circles](https://open.spotify.com/album/40uBDIUIh8wvK6QyWJWh9G) | 3:57 | 2024-11-14 | 2024-12-20 |
 | [murder](https://open.spotify.com/track/61vU3oy3bEum3H92qNI4mv) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [murder](https://open.spotify.com/album/5bJ1jqT51MCasdkqAwjg51) | 3:06 | 2025-03-13 | 2025-05-16 |
-| [Muse](https://open.spotify.com/track/7FPAlNpmT9aRoP00KMXcvP) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [](https://open.spotify.com/album/null) | 4:08 | 2025-12-04 |  |
+| [Muse](https://open.spotify.com/track/7FPAlNpmT9aRoP00KMXcvP) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes A Girl](https://open.spotify.com/album/4EhxBdweaNorJI0fvl3FrQ) | 4:08 | 2025-12-04 |  |
 | [My Forever \(feat\. Cecile Believe\)](https://open.spotify.com/track/3yWtcvy5j3kbWW2TnI4jie) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [My Forever \(feat\. Cecile Believe\)](https://open.spotify.com/album/1xvKZrXhgF6s4frK5Qb6r5) | 4:04 | 2024-09-26 | 2024-11-08 |
 | [My Hair Is A Little Bit On Fire](https://open.spotify.com/track/02ALESYceJ79XmiErPZvbU) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [My Hair Is A Little Bit On Fire](https://open.spotify.com/album/6NULt5FUaTTN7rzSw7bQVZ) | 3:36 | 2024-09-19 | 2024-11-29 |
 | [My Head Is Not My Friend](https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [My Head Is Not My Friend](https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8) | 3:56 | 2024-12-19 | 2025-02-14 |
@@ -1075,7 +1076,7 @@
 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-04 | 2025-10-17 |
 | [The Sofa](https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w) | 4:26 | 2025-07-10 | 2025-08-22 |
 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-08 | 2024-09-06 |
-| [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [](https://open.spotify.com/album/null) | 3:22 | 2025-12-04 |  |
+| [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-04 |  |
 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 | 2024-07-18 | 2024-08-23 |
 | [The Way It Goes](https://open.spotify.com/track/4qHYTQ3aoUXegLFXQUWtcK) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Soon We'll All Be Smoking](https://open.spotify.com/album/0NiTx4og5ObpzpfY13SG5W) | 2:54 | 2024-07-25 | 2024-08-23 |
 | [THEN THERE'S ONE](https://open.spotify.com/track/6j12PNd68FfJIQGCqdwNBg) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [THEN THERE'S ONE](https://open.spotify.com/album/507peyvSZvyvvOGIanbXLU) | 1:19 | 2024-11-21 | 2025-01-10 |
@@ -1116,7 +1117,6 @@
 | [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 | 2025-02-20 | 2025-05-23 |
 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 | 2024-07-11 | 2024-08-09 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-11-14 |
-| [Track 5](https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [Tractor Beams](https://open.spotify.com/track/5F8SZeipQ3cEN2gZ8BxSpO) | [Tutara Peak](https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Tractor Beams](https://open.spotify.com/album/43DvYfPb4cbuQr2wnBhdh9) | 3:18 | 2024-08-01 | 2024-09-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-07-25 |
 | [Trinidad](https://open.spotify.com/track/0dklIrKepdHzKMo7ViDpyI) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Trinidad](https://open.spotify.com/album/2F5SSX6eyJQv3OJIUV1Y6x) | 3:44 | 2025-07-31 | 2025-08-22 |

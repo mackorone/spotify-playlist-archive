@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,755 likes - 20 songs - 1 hr 16 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,756 likes - 20 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 | 6 | [Begin The Sacrifice](https://open.spotify.com/track/5tvZflBKI3bKW5AR56DXBx) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Begin The Sacrifice](https://open.spotify.com/album/5Wx6aUM8Z1fPO6X6xbgHpR) | 3:58 |
 | 7 | [Stay](https://open.spotify.com/track/6cYbYWZWXWeANCn5V7ZIqS) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Stay](https://open.spotify.com/album/5jfIWCColjrn9NAfEFCbHu) | 2:27 |
 | 8 | [Ready Set Go](https://open.spotify.com/track/7Jjns4JOpPmO39eR46ABbu) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Ready Set Go](https://open.spotify.com/album/1mMFAPP0KvwAzQxTYf6XpZ) | 2:53 |
-| 9 | [More Than Hate](https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [More Than Hate](https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl) | 3:27 |
+| 9 | [MORE THAN HATE](https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [MORE THAN HATE](https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl) | 3:27 |
 | 10 | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 |
 | 11 | [While You Dream Vividly](https://open.spotify.com/track/5GPxgI80KFzh4D9D1MquvL) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [While You Dream Vividly](https://open.spotify.com/album/5aPYxQuclqouzAmXsur6El) | 4:39 |
 | 12 | [Last Goodbye](https://open.spotify.com/track/5W22FwC6Tc5sNDJw7JPmk5) | [Sinsaenum](https://open.spotify.com/artist/4IC0vJuY4fw72mSBesfO5B) | [Last Goodbye](https://open.spotify.com/album/2CtjGlQnsnRnyESkqE5826) | 6:51 |

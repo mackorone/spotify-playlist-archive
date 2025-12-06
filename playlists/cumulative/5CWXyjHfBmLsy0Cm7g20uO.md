@@ -4,7 +4,7 @@
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-131 songs - 8 hr 12 min
+133 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Shattered](https://open.spotify.com/track/2wrdYI83tqHnyWR7uqDpnC) | [d\_scent](https://open.spotify.com/artist/6dOYplTs22r4F7GlanxEMn), [Echo Viridian](https://open.spotify.com/artist/6K7KHtjsy0JMDbeWULw0pF) | [Shattered](https://open.spotify.com/album/6ihgGx3iEBgxRR24ouX4X1) | 4:00 | 2025-09-12 |  |
 | [Smash](https://open.spotify.com/track/4QD81EBUfKMFXJua8DZt6E) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [No Sweets for E.](https://open.spotify.com/album/6nLsrLoaBkpTo4ClRFq6iO) | 2:11 | 2025-09-15 |  |
 | [Soulmate](https://open.spotify.com/track/2q96dUvvTH7uawMcSHS4KY) | [Sanctions Music](https://open.spotify.com/artist/275R6p8Z6We8SDmruMiHrm) | [Soulmate](https://open.spotify.com/album/4GKh8ImFSia6Txz5aJcO1H) | 3:47 | 2024-11-18 |  |
+| [Spent / Burnt](https://open.spotify.com/track/1k97Pr8uDb3hL8Ugelecfy) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:30 | 2025-12-05 |  |
 | [Stars Align](https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stars Align](https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S) | 3:36 | 2025-11-03 |  |
 | [Stereowide: a Phenomenological Esquisse \(2025 Remaster\)](https://open.spotify.com/track/6kL7WAxYbbIq6dZKGSBDyW) | [Denis Sanlevsky](https://open.spotify.com/artist/3hVy3jR2sY6BMurVikXkvf) | [Stereowide: a Phenomenological Esquisse \(2025 Remaster\)](https://open.spotify.com/album/1SVtCSJ1dVxLeud8g7nsDi) | 6:28 | 2025-11-11 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-11-20 |  |
@@ -122,6 +123,7 @@
 | [Tower](https://open.spotify.com/track/62DUYjE1vDKC2QVOxiU0kv) | [Stranger Noises](https://open.spotify.com/artist/6cov5FqftWImT0syIKAo9l) | [Tower](https://open.spotify.com/album/07POSSaZq90n0gR4uOaJKL) | 4:19 | 2025-11-18 |  |
 | [Tripping](https://open.spotify.com/track/7dX84JjRtlN2M7dVWHFlei) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It? \(The Deluxe Edition\)](https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89) | 4:26 | 2025-10-01 |  |
 | [Twisted Love](https://open.spotify.com/track/5PWg6zzqjDOM23KMEehHU3) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [Twisted Love](https://open.spotify.com/album/01TUWdV6ADLrQTXDhTuUT3) | 3:35 | 2025-10-03 |  |
+| [Un Rato Más](https://open.spotify.com/track/13Uh63MZHQSGbAIqYisQoS) | [Ruiz de Lope](https://open.spotify.com/artist/3UxGJoUiyIIIu3LYMBelzR) | [Un Rato Más](https://open.spotify.com/album/60Nv8JoGyzxDKKiv28i5mC) | 3:08 | 2025-12-05 |  |
 | [Walking in My Shoes](https://open.spotify.com/track/3KFtQtHzNqJK2kqpdTOjtb) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Walking in My Shoes](https://open.spotify.com/album/5oWoHRRUqpx8ir0wD1Z1XJ) | 4:47 | 2025-10-06 |  |
 | [Welcome to My Life](https://open.spotify.com/track/5PKWfJZOS3TZyjaxMsamik) | [Isaac Koshy](https://open.spotify.com/artist/52aoT1UsfwI4DRWC6GT14Z) | [Welcome to My Life](https://open.spotify.com/album/5PzPbiTmQfFSrq4CfBNc2l) | 2:54 | 2025-09-22 |  |
 | [Werebear Rising](https://open.spotify.com/track/5CText9jPIkdrweJRjOPnv) | [Little Shout](https://open.spotify.com/artist/0U0obb0m4w7akKJqfTY6J3) | [Werebear Rising](https://open.spotify.com/album/3PVY6NyecRrh6nQu9yk7fV) | 3:57 | 2025-11-11 |  |

@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba UNDEAD",
+        "url": "https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR"
+      },
+      "artists": [
+        {
+          "name": "\u6714\u9593\u96f6(CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/3SlO73GGvq5EZVngxosiYS"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253880,
+      "name": "Bloody Moon Vampire",
+      "url": "https://open.spotify.com/track/3ZFGKbJOhkT07Mfm2Zpv8e"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba MaM (2018 Ver.)",
         "url": "https://open.spotify.com/album/00oCdL1ba8Esx3Rx21uzec"
       },
@@ -308,7 +326,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 262453,
       "name": "Blooming World",
       "url": "https://open.spotify.com/track/2zVq6bOrdoPQpcUiQShAiv"
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 283813,
       "name": "KISS YOURSELF",
       "url": "https://open.spotify.com/track/0szrP9bl0cIs7Pz73qxJyP"
@@ -3474,7 +3492,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 291026,
       "name": "\u4eca\u5bb5\u6708\u306e\u9928\u306b\u3066",
       "url": "https://open.spotify.com/track/3TSqHmKB8KREL3KUIbzbVF"

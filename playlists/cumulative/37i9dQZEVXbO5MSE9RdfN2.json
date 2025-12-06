@@ -6052,7 +6052,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 142857,
       "name": "Burn",
       "url": "https://open.spotify.com/track/50TaxyRVO6Fbc8bMfBalix"
@@ -7226,7 +7226,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 151555,
       "name": "cheap talks",
       "url": "https://open.spotify.com/track/0SDqhvk0rm4HzgDASA4DGC"
@@ -10620,7 +10620,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 192839,
       "name": "Don't Tread On Me",
       "url": "https://open.spotify.com/track/0iqx7tvdMSDpO5Ko187Rk0"
@@ -17560,7 +17560,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 154363,
       "name": "HOES DEPRESSED",
       "url": "https://open.spotify.com/track/3YjVhsdXUG69TeUm0XzIFZ"
@@ -32367,6 +32367,24 @@
     },
     {
       "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/2SX0qBoYe3jmkpFP6L8QBu"
+      },
+      "artists": [
+        {
+          "name": "MIND",
+          "url": "https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153722,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M"
+    },
+    {
+      "album": {
         "name": "Push Ups",
         "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
       },
@@ -43373,6 +43391,28 @@
     },
     {
       "album": {
+        "name": "We Are Charlie Kirk",
+        "url": "https://open.spotify.com/album/42f1jkD2cQCaAtN3E81cSK"
+      },
+      "artists": [
+        {
+          "name": "22xlstl",
+          "url": "https://open.spotify.com/artist/4OM1oMd7QgznACLRI70AAx"
+        },
+        {
+          "name": "dj diddlyblud",
+          "url": "https://open.spotify.com/artist/2v17bjhudupnNFbiiVWv0k"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224853,
+      "name": "We Are Charlie Kirk",
+      "url": "https://open.spotify.com/track/74EGMROdYEhlDCrVV9inY2"
+    },
+    {
+      "album": {
         "name": "Charlie Kirk Forever Alive",
         "url": "https://open.spotify.com/album/2a854F8IkCKnrB2vEIc4qJ"
       },
@@ -43384,7 +43424,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 224479,
       "name": "We Are Charlie Kirk",
       "url": "https://open.spotify.com/track/5nC5a57UgrSg1mUxsz1P9D"
@@ -44548,7 +44588,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

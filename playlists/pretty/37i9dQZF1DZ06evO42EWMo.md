@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,014 likes - 39 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,046 likes - 39 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 | 35 | [Amy Amy Amy](https://open.spotify.com/track/6lX3i8dl8gsWMfaUIgcOl6) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 4:14 |
 | 36 | [Monkey Man](https://open.spotify.com/track/5JSJQNIlsfrfuXhjKTAfDa) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Sirens of Song](https://open.spotify.com/album/6V2rjEdJenqFpZDug9maSA) | 2:45 |
 | 37 | [What It Is](https://open.spotify.com/track/79dmkAahkE4zQfAWtk3hhF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Stronger Than Me](https://open.spotify.com/album/17M1mlaV8mmeMt6oSHYxC7) | 4:43 |
-| 38 | [You Sent Me Flying / Cherry](https://open.spotify.com/track/2XVLtD3PlpQTdh81UP2grX) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 6:50 |
-| 39 | [Brother](https://open.spotify.com/track/56Arzti6qoYbWlU5cM5xQ9) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 4:13 |
+| 38 | [Brother](https://open.spotify.com/track/56Arzti6qoYbWlU5cM5xQ9) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 4:13 |
+| 39 | [You Sent Me Flying / Cherry](https://open.spotify.com/track/2XVLtD3PlpQTdh81UP2grX) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 6:50 |
 
-Snapshot ID: `aS99gAAAAACSTlQkK1Rh7Q07dteeuIPw`
+Snapshot ID: `aTDPAAAAAAAWat8x8fU5IzzWkribs7o2`

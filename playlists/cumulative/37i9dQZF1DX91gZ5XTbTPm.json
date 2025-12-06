@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: G Herbo",
+  "description": "The Midwest is always on time. Cover: Polo G",
   "name": "CST",
   "tracks": [
     {
@@ -4469,6 +4469,24 @@
     },
     {
       "album": {
+        "name": "Can't Count Me Out",
+        "url": "https://open.spotify.com/album/3Gu308gnM3Dy759MvF1Vca"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Can't Count Me Out",
+      "url": "https://open.spotify.com/track/77OO0XJ9caJhJVanaaIc6w"
+    },
+    {
+      "album": {
         "name": "Can't Hide It (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/0gIhjFBD2U7TX7O7ZGRsb4"
       },
@@ -8923,6 +8941,28 @@
     },
     {
       "album": {
+        "name": "Gangsta Graduation (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201586,
+      "name": "Gangsta Graduation (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum"
+    },
+    {
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
       },
@@ -10838,7 +10878,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 145650,
       "name": "High Tolerance",
       "url": "https://open.spotify.com/track/19PdOaQgCjuZy0kSL3aIr0"
@@ -16190,6 +16230,28 @@
       "duration_ms": 222798,
       "name": "MURDAMAN! (feat. Chief Keef)",
       "url": "https://open.spotify.com/track/32DFtWSM5SpEAHcyzW3m0A"
+    },
+    {
+      "album": {
+        "name": "Murder She Wrote",
+        "url": "https://open.spotify.com/album/1XY5OovnPuyy6B8PKDL5kE"
+      },
+      "artists": [
+        {
+          "name": "Warhol.SS",
+          "url": "https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62"
+        },
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128010,
+      "name": "Murder She Wrote",
+      "url": "https://open.spotify.com/track/77LawRSDgXGILEYA9ZgowW"
     },
     {
       "album": {
@@ -23810,7 +23872,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 128928,
       "name": "Still",
       "url": "https://open.spotify.com/track/0696F0sFWhAcKZPgih1p0E"
@@ -25298,7 +25360,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 230502,
       "name": "The Way (with XXXTENTACION)",
       "url": "https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh"

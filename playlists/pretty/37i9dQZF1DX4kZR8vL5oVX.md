@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,068 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,070 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 21 | [PATRONNE](https://open.spotify.com/track/1uqD8JUp0YGMvq8WxzEBfn) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [PATRONNE](https://open.spotify.com/album/3JQAZwkShZeDz59VWrrw8Y) | 2:46 |
 | 22 | [Paparazzi](https://open.spotify.com/track/45oOc9i3JNWCAWEAUZ53g9) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [La Dame](https://open.spotify.com/album/1XmeiDJ7WhLJhhKHSMBAH5) | 2:45 |
 | 23 | [Cinq minutes pile](https://open.spotify.com/track/3sK1QpuwOUoHZ0cS2kg2e4) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Re;;;Virer nos vies](https://open.spotify.com/album/5PV9cPrGuGEFMZkdydxVP8) | 2:41 |
-| 24 | [J'aime la vie](https://open.spotify.com/track/4TnLb2oo7Yvl9cLOArHGJW) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [](https://open.spotify.com/album/null) | 3:45 |
+| 24 | [J'aime la vie](https://open.spotify.com/track/4TnLb2oo7Yvl9cLOArHGJW) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/2tLSulOAVaq89ILmVaFE71) | 3:45 |
 | 25 | [Multicolor](https://open.spotify.com/track/5OWI9J06tPRpg1IpEBKy98) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Multicolor](https://open.spotify.com/album/2Ww9xmOzbhV8JeA9RirgXT) | 2:58 |
 | 26 | [IL L'A DIT.](https://open.spotify.com/track/12CfmXuv8BQklxaRsgVfFa) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [IL L'A DIT.](https://open.spotify.com/album/295cnEMEY4UNgVQvLgFtz2) | 3:27 |
 | 27 | [LECHOIX](https://open.spotify.com/track/49p3bg5Djy5Znzf8LuiSJk) | [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [LECHOIX](https://open.spotify.com/album/0a4G89bmaoVLyHNNQTCIpv) | 3:50 |

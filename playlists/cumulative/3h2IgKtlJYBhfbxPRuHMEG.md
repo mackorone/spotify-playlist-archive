@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
+> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Kill Safari
 
-192 songs - 10 hr 45 min
+194 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aura](https://open.spotify.com/track/538IL5DHWHdD0vRUFIfMoM) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Aura](https://open.spotify.com/album/44eYFSuXEyETT7OHV0dCZg) | 3:47 | 2023-12-01 | 2025-05-03 |
 | [Aurora](https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [ÆON:TWO](https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w) | 3:18 | 2023-12-01 | 2025-05-03 |
 | [Automaton](https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Parallel: S](https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw) | 3:51 | 2023-12-01 | 2024-11-30 |
+| [B2B2B](https://open.spotify.com/track/3GxJzJeXgjR2v4Ck3qpXtO) | [Kill Safari](https://open.spotify.com/artist/3c0nrfhZe6afmto5cvYodR), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [B2B2B](https://open.spotify.com/album/4mgCFqTuQgvGjNudy86J9L) | 1:51 | 2025-12-05 |  |
 | [Back Bus](https://open.spotify.com/track/21ceB6sHPjBtj8SCU9C1zi) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 2:57 | 2024-01-26 | 2024-11-09 |
 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 | 2024-08-12 |  |
 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 | 2023-12-01 |  |
@@ -116,6 +117,7 @@
 | [Know By Now](https://open.spotify.com/track/7wthIYYW5izwk0Dm5BoIar) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Know By Now](https://open.spotify.com/album/2AoFSRAEpmGB2klZbqf8vu) | 4:35 | 2023-12-01 |  |
 | [late night drive](https://open.spotify.com/track/1Hk1UzNwgET2DYeXy2VPw6) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [late night drive](https://open.spotify.com/album/5xNLnmqEXfe1XYXrAtyp0x) | 3:56 | 2023-12-01 | 2024-11-30 |
 | [Let's Go Back](https://open.spotify.com/track/4Lm5hfdEAxyzbTzaEejcx5) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Let's Go Back](https://open.spotify.com/album/5h2vu9JpN9xvbFll2f6KZi) | 3:31 | 2025-04-11 |  |
+| [Lightsplinter](https://open.spotify.com/track/6voYRDM3MGPat0kXsIscD3) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Lightsplinter](https://open.spotify.com/album/30tr7cMl8XO2p4yoZAqFfy) | 3:13 | 2025-12-05 |  |
 | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC) | 3:09 | 2023-12-01 |  |
 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 | 2023-12-01 |  |
 | [LONG WALK](https://open.spotify.com/track/5Lk292NbN2KEJv97g2cwAX) | [GRAIL SOUNDS](https://open.spotify.com/artist/3FwFFAF9CxERhMrf9R68l4), [CLB](https://open.spotify.com/artist/0qSxGo3EgCGfHWfFDo2zzo) | [LONG WALK](https://open.spotify.com/album/74Zd13jnHn0ee71K0OOUjc) | 3:53 | 2023-12-01 |  |

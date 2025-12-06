@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Yndling
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Andrew Aged
 
-213 songs - 12 hr 26 min
+215 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Blunt Force Trauma](https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:29 | 2025-10-17 |  |
 | [Borrow](https://open.spotify.com/track/6Ro5eA9bg0rPvY2SpfK0Yl) | [Dan English](https://open.spotify.com/artist/055lipaCR86EoOxi2CsSBh) | [Sky Record](https://open.spotify.com/album/5eaUIlyGs7Hnnl6xgwyu8Y) | 4:04 | 2025-09-26 |  |
 | [Boys In Movies](https://open.spotify.com/track/52aOlXUlDbqSu811EeWP3H) | [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI), [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [I Guess Nothing Will Be The Same](https://open.spotify.com/album/5WBpaqXvTImljfXirlFZs5) | 3:44 | 2025-03-13 | 2025-08-09 |
+| [Bygones](https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Fantasy](https://open.spotify.com/album/0JzyMf9Nj4j4j3akwg4fMG) | 4:00 | 2025-12-05 |  |
 | [Candy Says](https://open.spotify.com/track/3kqBmvGhDR5TpwWci9vMHn) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Candy says](https://open.spotify.com/album/5PKcI4pE9f3m5JFHZ1ztfM) | 3:36 | 2025-03-13 | 2025-08-09 |
 | [Carry\-On Bag](https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Carry\-On Bag](https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm) | 3:38 | 2025-05-15 | 2025-08-20 |
 | [Ceiling](https://open.spotify.com/track/7asTOYW6l14nwV8rLDCnD5) | [Issy Wood](https://open.spotify.com/artist/3nyoodEXBH2JZUcZuT4KhU) | [The Blame, Pt\. 4](https://open.spotify.com/album/77m4TmpJPNLx2mKdZGemWJ) | 3:27 | 2025-03-13 |  |
@@ -62,6 +63,7 @@
 | [E45](https://open.spotify.com/track/0w6G3E9M8EVoZMAyg76U2L) | [Dork](https://open.spotify.com/artist/3jE90CFpLX1fYiDPHqDZul) | [E45](https://open.spotify.com/album/6AkwQ74vKoFeb3ansGY171) | 3:34 | 2025-10-03 |  |
 | [Ecstatic Heads](https://open.spotify.com/track/6h8nLmwNxWrHKYm9p28oc2) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 4:39 | 2025-09-12 |  |
 | [Embarrassed Dog](https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 2:00 | 2025-03-13 |  |
+| [Emmaus](https://open.spotify.com/track/5ecTsNsx6BvWBIeXCXNEOc) | [Andrew Aged](https://open.spotify.com/artist/6MDHB1sd0dW7eI5weGsgTG) | [crown](https://open.spotify.com/album/1PGS974JDZDzm0wqGcEmuM) | 4:11 | 2025-12-05 |  |
 | [Emo Regulation](https://open.spotify.com/track/4PjdsrYAb9CWjbtT9RUwi3) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:23 | 2025-05-15 |  |
 | [Encyclopedia](https://open.spotify.com/track/6HqUDmzFUVctDXEt19IFfN) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Encyclopedia](https://open.spotify.com/album/0lVbdzWLuKqLtBU2uRaY0Q) | 2:18 | 2025-03-13 |  |
 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 | 2025-11-14 |  |

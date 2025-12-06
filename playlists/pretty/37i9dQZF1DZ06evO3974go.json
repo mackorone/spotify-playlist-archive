@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAAD6ZzaCw5dGrwCf88Nwn/UP",
+  "snapshot_id": "aTDPAAAAAABYtHPTgqXdfeb1ZF1TGZWK",
   "tracks": [
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Downtown: Life Under The Gun",
-        "url": "https://open.spotify.com/album/4buyJv1fGVn1QU6ZR6YroB"
-      },
-      "artists": [
-        {
-          "name": "August Alsina",
-          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 313253,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/0zOD30TPDwjfECV1kkUkOm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 350563,
       "name": "Flava",
       "url": "https://open.spotify.com/track/1DjbjIdKPNUVRCpyIREMeT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Downtown: Life Under The Gun",
+        "url": "https://open.spotify.com/album/4buyJv1fGVn1QU6ZR6YroB"
+      },
+      "artists": [
+        {
+          "name": "August Alsina",
+          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 313253,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0zOD30TPDwjfECV1kkUkOm"
     },
     {
       "added_at": null,

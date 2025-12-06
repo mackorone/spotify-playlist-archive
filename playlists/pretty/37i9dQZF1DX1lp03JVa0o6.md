@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: CYRIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,906 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,907 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [](https://open.spotify.com/album/null) | 3:19 |
+| 1 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 |
 | 2 | [Coming Up \(It’s Dare\)](https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Coming Up \(It’s Dare\)](https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq) | 3:00 |
 | 3 | [Think About Us](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Think About Us](https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V) | 2:58 |
 | 4 | [Fuck My Computer](https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:10 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 9 | [Cry For You \(2025\)](https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Cry For You \(2025\)](https://open.spotify.com/album/7pYLQoKHX1JlhuUyti0HwF) | 2:56 |
 | 10 | [Elevate](https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Contact](https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw) | 3:13 |
 | 11 | [All I Really Want](https://open.spotify.com/track/3lLh5lWerYHviy8hSVvtBw) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [All I Really Want](https://open.spotify.com/album/0K36Q2buZbBp4aEQQyJmQ3) | 3:13 |
-| 12 | [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [](https://open.spotify.com/album/null) | 3:25 |
+| 12 | [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 |
 | 13 | [Alive \- Alok Remix](https://open.spotify.com/track/2Pe2GeYteFLUHrCPTihWmE) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Alive \(Alok Remix\)](https://open.spotify.com/album/6n8PLpI64QEpSJLJFVqmvh) | 2:41 |
 | 14 | [Hold You Close](https://open.spotify.com/track/3oAkenLgVAQNhZMYPr2xQx) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hold You Close](https://open.spotify.com/album/5kUj5N8dkfn9PMX35xX4oC) | 4:01 |
 | 15 | [I Got Love \(feat\. Nate Dogg\)](https://open.spotify.com/track/573wEbtTrCoyZFm3HaZg1d) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [I Got Love \(feat\. Nate Dogg\)](https://open.spotify.com/album/0os5qVVj0b7pFt2ctmGMCR) | 2:12 |

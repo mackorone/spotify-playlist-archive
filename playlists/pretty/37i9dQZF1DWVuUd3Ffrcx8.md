@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: JADE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,354 likes - 47 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,338 likes - 47 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Church](https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [](https://open.spotify.com/album/null) | 3:40 |
+| 1 | [Church](https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:40 |
 | 2 | [Crush](https://open.spotify.com/track/7w93WrvlfeUQk8bwRBX14O) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Crush](https://open.spotify.com/album/00IdJ3G6RABZ6BsNx8KdDx) | 3:44 |
 | 3 | [Remember To Dance \(Little Things\)](https://open.spotify.com/track/41eIrJ4BOf6l0QzJFB1vO8) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8), [Adrián Berenguer](https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv) | [Remember To Dance \(Little Things\)](https://open.spotify.com/album/4GncEvr8CcRpYsuMSnnAvR) | 2:43 |
 | 4 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 > Our editors' picks for the best heavy songs of the year\.  Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,271 likes - 99 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,630 likes - 99 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 14 | [Glenwood](https://open.spotify.com/track/1zMtEW4SE5s3VqrmTicJaY) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [I Feel The Everblack Festering Within Me](https://open.spotify.com/album/07y8y3CSFTq48HwejrTdGw) | 6:43 |
 | 15 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 |
 | 16 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 |
-| 17 | [More Than Hate](https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [More Than Hate](https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl) | 3:27 |
+| 17 | [MORE THAN HATE](https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [MORE THAN HATE](https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl) | 3:27 |
 | 18 | [Pale Moonlight](https://open.spotify.com/track/0CPaMCUD85j07HZQi8sWXd) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Creature In The Black Night](https://open.spotify.com/album/331dpokIUtNiVsUuDPLl9h) | 3:40 |
 | 19 | [God Is A Weapon](https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [God Is A Weapon](https://open.spotify.com/album/4VzRZ2DzakebhZtsmG42lw) | 3:35 |
 | 20 | [Violent Nature](https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Zenith](https://open.spotify.com/album/6t8DxeLhrL2wq9MQLppgYb) | 3:55 |
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 90 | [Atonement \- feat\. Will Ramos](https://open.spotify.com/track/4rZH9cj1B6B0xg3rlcAZBL) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Fallen Star](https://open.spotify.com/album/710a8uCtpeZ8BCrrcU4WvC) | 3:52 |
 | 91 | [Labyrinth](https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Labyrinth](https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE) | 2:40 |
 | 92 | [Dream Stealer](https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:29 |
-| 93 | [Lachryma](https://open.spotify.com/track/0UvLAFRXgH4vNzzLdcWtWs) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/37a1ehu3HGYPA07QFvWIsL) | 4:36 |
-| 94 | [DEATH WISH](https://open.spotify.com/track/0SSvUPSqI933oIcg8eJIrj) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK), [Danny Worsnop](https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW) | [BLACK MAGIC](https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB) | 2:25 |
-| 95 | [Royally Done](https://open.spotify.com/track/3WrFmwbG5xx94GKdAzM2lB) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [We Should Be Buried Like This](https://open.spotify.com/album/0g62eTQQ85HplDFqLdMlF3) | 3:03 |
-| 96 | [KNIFE](https://open.spotify.com/track/66Gjhpjffv2VlZxx251Isw) | [20TOKENS](https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q) | [KNIFE](https://open.spotify.com/album/1lI6pgHQgbmIa6dCBHlqwm) | 3:39 |
-| 97 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 |
-| 98 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 |
-| 99 | [Smoking Mirrors](https://open.spotify.com/track/1N6IRPRoQMOzGvPuEwJpgf) | [Cold Steel](https://open.spotify.com/artist/2inu89bjNrWjp92nEqloP2), [Two\-Piece](https://open.spotify.com/artist/0T0o14UhrT9HnvmzQShxfR) | [Smoking Mirrors](https://open.spotify.com/album/1RL7cftAIjVfE6b4oQljpu) | 2:45 |
+| 93 | [DEATH WISH](https://open.spotify.com/track/0SSvUPSqI933oIcg8eJIrj) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK), [Danny Worsnop](https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW) | [BLACK MAGIC](https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB) | 2:25 |
+| 94 | [Royally Done](https://open.spotify.com/track/3WrFmwbG5xx94GKdAzM2lB) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [We Should Be Buried Like This](https://open.spotify.com/album/0g62eTQQ85HplDFqLdMlF3) | 3:03 |
+| 95 | [KNIFE](https://open.spotify.com/track/66Gjhpjffv2VlZxx251Isw) | [20TOKENS](https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q) | [KNIFE](https://open.spotify.com/album/1lI6pgHQgbmIa6dCBHlqwm) | 3:39 |
+| 96 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 |
+| 97 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 |
+| 98 | [Smoking Mirrors](https://open.spotify.com/track/1N6IRPRoQMOzGvPuEwJpgf) | [Cold Steel](https://open.spotify.com/artist/2inu89bjNrWjp92nEqloP2), [Two\-Piece](https://open.spotify.com/artist/0T0o14UhrT9HnvmzQShxfR) | [Smoking Mirrors](https://open.spotify.com/album/1RL7cftAIjVfE6b4oQljpu) | 2:45 |
+| 99 | [LEECH](https://open.spotify.com/track/1UhkbKn4oHsLPDWOKrLcP2) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [DEATHMATCH](https://open.spotify.com/album/1KzhjA47EIY2rX2WjKpMBR) | 3:53 |
 
-Snapshot ID: `AAAAALTEbz9LHNiRbBgIUn64AoWWnOZo`
+Snapshot ID: `AAAAAGSQbup7m1uF93YURcvOUXcLaEho`

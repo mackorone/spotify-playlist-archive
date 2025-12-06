@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,926 likes - 100 songs - 4 hr 33 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,923 likes - 109 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,14 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 98 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 |
 | 99 | [Committing Crime](https://open.spotify.com/track/5m7MbueSO7stc8ImJGXI8e) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Committing Crime](https://open.spotify.com/album/4ZUqAcX1dSvSiIuglPSFHq) | 2:05 |
 | 100 | [Nookie \(Pu$$y\) \(feat\. Sexyy Red\)](https://open.spotify.com/track/4MCuCTuevnlTnwm5Rekfwx) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Nookie \(Pu$$y\) \(feat\. Sexyy Red\)](https://open.spotify.com/album/4Fo1bpA5OcnIblyK26UVI3) | 3:00 |
+| 101 | [OC 2 SD](https://open.spotify.com/track/2XPw7v9vZMY0Wqk0aljcWQ) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl), [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [OC 2 SD](https://open.spotify.com/album/2kkjaza3eXFMHJTAl7m4hG) | 2:50 |
+| 102 | [G6](https://open.spotify.com/track/4knI0vlmE5L39Wl2T7rGlO) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [G6](https://open.spotify.com/album/2mwhTT6nWGYZqZinAl02SP) | 2:18 |
+| 103 | [4DG](https://open.spotify.com/track/6ES85h2HYZOVy0AWjEoSXz) | [1504 Mutebaby](https://open.spotify.com/artist/7y9XUhdoFuQfQv41hMyeVH) | [All Said And Done](https://open.spotify.com/album/0Qnb77ph9QcaZlPwFOBzNX) | 2:28 |
+| 104 | [Overly](https://open.spotify.com/track/4w63M7WjK2NGIGc8DLlXLC) | [Blo](https://open.spotify.com/artist/2gVDLJAm1sZo8jDXgmnB3z) | [Overly](https://open.spotify.com/album/1Je4JHkGxNAlFn9lktSXw2) | 2:08 |
+| 105 | [Gangsta Graduation \(feat\. G Herbo\)](https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gangsta Graduation \(feat\. G Herbo\)](https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR) | 3:21 |
+| 106 | [Like That \(bomboclatt\) \(feat\. Wizkid\)](https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 3:38 |
+| 107 | [Area 29](https://open.spotify.com/track/5st5NdZsS9ZUUWDWB22rD0) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Area 29](https://open.spotify.com/album/2MmKj63xF02bAGjkyOzAFj) | 2:09 |
+| 108 | [NOBODY BUT US](https://open.spotify.com/track/0WXgKJfigyqe6YEtdUlSMT) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [SZN](https://open.spotify.com/album/44l05EpUfDR13lc2jPpd7w) | 2:32 |
+| 109 | [Big Drip 2.0](https://open.spotify.com/track/5uPjzDgC7unz1ATFOEffxa) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Big Drip 2.0](https://open.spotify.com/album/5PAMYRKNOaFss7GUdGF90V) | 2:03 |
 
-Snapshot ID: `AAAm+K3VpN/gIYcSOHRgqi0T18TwnHMJ`
+Snapshot ID: `AAAnAY8jAp6oKdJoxZJtXvR9zHuuGRiO`

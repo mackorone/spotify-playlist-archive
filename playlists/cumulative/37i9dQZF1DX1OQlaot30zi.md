@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, Sfera, Emis Killa, Neima Ezza e molti altri.
 
-6,512 songs - 12 day 0 hr 27 min
+6,513 songs - 12 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3832,7 +3832,7 @@
 | [Mujer \(feat\. Madame\)](https://open.spotify.com/track/2B2jQ2cdbrsWs1XmjVhdrU) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 2:41 | 2022-06-23 | 2022-07-22 |
 | [Mulatto](https://open.spotify.com/track/597Vq5USkaboySwney5JOu) | [Laïoung](https://open.spotify.com/artist/4RrtqH6egYYBfJrnLkhINz) | [Mulatto](https://open.spotify.com/album/6BzjJcI6CAQPwStz0iVeE0) | 3:13 | 2025-07-03 | 2025-07-25 |
 | [MULTIFRUIT](https://open.spotify.com/track/5wYZ9tqXBt1KRNDNfWkhMs) | [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm) | [MULTIFRUIT](https://open.spotify.com/album/49rScionFCT9YeGtOH7y4x) | 2:48 | 2025-01-10 | 2025-01-31 |
-| [Multistrada](https://open.spotify.com/track/0zYLnBLn8ICr4kzLJCVRVE) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc) | [](https://open.spotify.com/album/null) | 2:43 | 2025-12-05 |  |
+| [Multistrada](https://open.spotify.com/track/0zYLnBLn8ICr4kzLJCVRVE) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 2:43 | 2025-12-05 |  |
 | [MURDER PAIN](https://open.spotify.com/track/2aM03FDpMKlXWHZ7T2j2kl) | [NMP Finesse](https://open.spotify.com/artist/7DPXH0d5qZb6Y49UduvWQa), [SPINASADBOI](https://open.spotify.com/artist/1tkoKvKdCBN70AbgbnYCE5) | [MURDER PAIN](https://open.spotify.com/album/4Eby4U7eH4kDDVHEX0UVLB) | 2:15 | 2023-11-23 | 2023-12-08 |
 | [Mure 32 Bars](https://open.spotify.com/track/3PvF6z8rDbGZ37ojY1bLbH) | [Flow Barber](https://open.spotify.com/artist/0qR7GlpTm5XPHrVMmeBR4V), [Mure](https://open.spotify.com/artist/4uZytQ288nJyALI6A7L1Y3) | [Mure 32 Bars](https://open.spotify.com/album/7J2VBcmf4qmMcTTOqLrm4m) | 1:31 | 2025-12-05 |  |
 | [Muri](https://open.spotify.com/track/63zno3PXOCGvfzlmDA8rxa) | [Leobuten](https://open.spotify.com/artist/7fjXoaHemic6BXwjhAKkFa), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg), [Il Tre Beats](https://open.spotify.com/artist/5J1hksOnqoHRR7T3JHSY19) | [Muri](https://open.spotify.com/album/02TzeTcGaI7hz1HPkQn5Ag) | 2:31 | 2023-06-08 | 2023-06-16 |
@@ -5377,6 +5377,7 @@
 | [Sidequest](https://open.spotify.com/track/5Mbfx9Qzo1xSEQqtMyHX4y) | [Kidhakku](https://open.spotify.com/artist/0SXyvXgEtR9aXwFJzuBBjU), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [Sidequest](https://open.spotify.com/album/3jbF8eJkQo7UZwqhVgPqyu) | 2:18 | 2023-08-31 | 2023-09-08 |
 | [SIEMPRE](https://open.spotify.com/track/6xzeICggqPPTytLBN9Z3BA) | [SouthSide Ciccio](https://open.spotify.com/artist/5GFocCPyR9s1EjhRCh0ZE9), [Stefy Que Pasa](https://open.spotify.com/artist/3uXmkmHWBIGWZjGV8xvM3H) | [SIEMPRE](https://open.spotify.com/album/2u72uXE5a9dy9waKg4AyMG) | 2:48 | 2022-10-20 | 2022-10-28 |
 | [Siero](https://open.spotify.com/track/1x0ic7Cqi3EtmwOap011q1) | [Dekv](https://open.spotify.com/artist/3cES5rfoG8tt9Sgw3GqJXA) | [Siero](https://open.spotify.com/album/5SyElJbig4ZBg6NyXi0yUD) | 2:09 | 2025-10-30 | 2025-11-21 |
+| [SIGNAL](https://open.spotify.com/track/2dhkJ7mUQSXIANuwrjwru5) | [Nuflex](https://open.spotify.com/artist/2ZcGLO9tHEQn8X8wkXrajS), [Korova](https://open.spotify.com/artist/4QnQEdrgSw1oDDDdJ7sQSc), [Bigghie](https://open.spotify.com/artist/2nLSzxzEXcb6ZSqSjWNnul) | [SIGNAL](https://open.spotify.com/album/7zYBsNRgHcZf4qbMcvbjvZ) | 2:42 | 2025-12-05 |  |
 | [Signor EREDITÀ](https://open.spotify.com/track/50kV072mdq16J4jQdTN9I1) | [Flextony](https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv) | [Signor EREDITÀ](https://open.spotify.com/album/0sAodB0H9k3ni5paF7OJnr) | 2:50 | 2025-02-20 | 2025-03-07 |
 | [Signor PICCHIARMI](https://open.spotify.com/track/2PZICrt6d0hyoQvWaRHZ4r) | [Flextony](https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv), [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Signor PICCHIARMI](https://open.spotify.com/album/6irrdFeevdYMY3lQC4IipW) | 2:02 | 2025-01-10 | 2025-01-31 |
 | [Signor prefetto](https://open.spotify.com/track/6woEXf6azgHVYVj43nlyJc) | [Lovegang126](https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re), [Pretty Solero](https://open.spotify.com/artist/3kgjDFMkBBMlr7DXoBYDA0), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Asp126](https://open.spotify.com/artist/7eNMxs7VUuMBoGNipu7z5G), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Ugo Borghetti](https://open.spotify.com/artist/3i6za4KlTDNe8mducqnwJi) | [Signor prefetto](https://open.spotify.com/album/2AODYSqwEVR0mtHL9DazZc) | 4:13 | 2022-05-10 | 2022-05-13 |

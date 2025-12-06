@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 283200,
       "name": "A Little More Understanding",
       "url": "https://open.spotify.com/track/6lziAsFEcJtTQuEyFtD6kw"
@@ -2583,8 +2583,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "There Is Nothing In The Dark That Isn't There In The Light",
+        "url": "https://open.spotify.com/album/3skYNW6jr0A74PoHjmu7ZB"
       },
       "artists": [
         {
@@ -2800,7 +2800,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 208176,
       "name": "Divine Feelings",
       "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
@@ -10159,6 +10159,24 @@
     },
     {
       "album": {
+        "name": "Sheets",
+        "url": "https://open.spotify.com/album/618meN4oNgOw0RVYpiVZof"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143573,
+      "name": "Sheets",
+      "url": "https://open.spotify.com/track/1D0q5fhJVl1xhRXNrvOFkb"
+    },
+    {
+      "album": {
         "name": "Shot In The Dark",
         "url": "https://open.spotify.com/album/0DPhuVtTIJDz3V6OXcbyQ0"
       },
@@ -10868,6 +10886,24 @@
       "duration_ms": 212400,
       "name": "Start Anew",
       "url": "https://open.spotify.com/track/1imtst8iS9M3nvUDu5yJj5"
+    },
+    {
+      "album": {
+        "name": "Springsteen: Deliver Me From Nowhere (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5lB2cA3xGhBlxRle2uKKXB"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Allen White",
+          "url": "https://open.spotify.com/artist/02VqsexfI15ZQ7XjBujuNJ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193310,
+      "name": "State Trooper",
+      "url": "https://open.spotify.com/track/2lJ8DobKspudEWio9U7Ptb"
     },
     {
       "album": {

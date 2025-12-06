@@ -1,13 +1,361 @@
 {
-  "description": "The best new music every Friday. Cover: Sharp Pins",
-  "num_followers": 1294882,
+  "description": "The best new music every Friday. Cover: Dove Ellis",
+  "num_followers": 1294903,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABf4wVkdJ+Cz9InLG5HcSoxIOaeA",
+  "snapshot_id": "AAAAADmxZiECo7BUMgxnDZP90sE1jxB2",
   "tracks": [
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "Images of Love (with Dominic Fike)",
+        "url": "https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 209942,
+      "name": "Images of Love (with Dominic Fike)",
+      "url": "https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "Blizzard",
+        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "Heaven Has No Wings",
+      "url": "https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "What Makes A Girl",
+        "url": "https://open.spotify.com/album/4EhxBdweaNorJI0fvl3FrQ"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 248876,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/7FPAlNpmT9aRoP00KMXcvP"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/0JzyMf9Nj4j4j3akwg4fMG"
+      },
+      "artists": [
+        {
+          "name": "Mother Soki",
+          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Bygones",
+      "url": "https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "The Treadmill",
+      "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "crown",
+        "url": "https://open.spotify.com/album/4I66uDblwwE9jw4jqSR3VQ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Aged",
+          "url": "https://open.spotify.com/artist/6MDHB1sd0dW7eI5weGsgTG"
+        }
+      ],
+      "duration_ms": 163844,
+      "name": "Crown for you",
+      "url": "https://open.spotify.com/track/6bS0BXuDlONBV3L3OTOsQ0"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/3X6Ef05LmeZcewtqZ6PxNM"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        },
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 171961,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3NmT8Lem5MY63PEUf3iDKj"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "It's Beautiful",
+        "url": "https://open.spotify.com/album/3Apif0SlvxbSJhE98Oj8Qf"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Nights In Armor (FKA Love Song)",
+      "url": "https://open.spotify.com/track/60ghrjJevnOt9WihSGmZ1B"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "\u2661",
+        "url": "https://open.spotify.com/album/2XeflvA0dNvjpX0vxukgiv"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 246442,
+      "name": "So What?",
+      "url": "https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "What\u2019s Right?",
+        "url": "https://open.spotify.com/album/0LFDTByH4Mbn5PbBGMPkJO"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "duration_ms": 314764,
+      "name": "What\u2019s Right?",
+      "url": "https://open.spotify.com/track/2YXDguAdOrvWYIwbPjvAkA"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "Cup of Loneliness / Choices",
+        "url": "https://open.spotify.com/album/7LgCssVLpa87Fg2PGBQxcC"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        },
+        {
+          "name": "Fust",
+          "url": "https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Cup of Loneliness",
+      "url": "https://open.spotify.com/track/3F81ZndWmQF7GDTX7Wz5gs"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/6ALceKygaMi66f4hNfSOUq"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 126680,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/5yhXwNpMauiItH4zsJJveb"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "criminal",
+        "url": "https://open.spotify.com/album/4IRgXrRs81Y92c0OJ5HSD4"
+      },
+      "artists": [
+        {
+          "name": "overtonight",
+          "url": "https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs"
+        }
+      ],
+      "duration_ms": 180577,
+      "name": "criminal",
+      "url": "https://open.spotify.com/track/1x2OxGkw2oBTFY6brK8T7T"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "Lay Me Down Here",
+        "url": "https://open.spotify.com/album/46TbeQjvRENXfpNpQcmiDI"
+      },
+      "artists": [
+        {
+          "name": "Them & I",
+          "url": "https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT"
+        }
+      ],
+      "duration_ms": 183250,
+      "name": "Lay Me Down Here",
+      "url": "https://open.spotify.com/track/5pYT2AHupIutq2KoZ49KWo"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "Blizzard",
+        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 268694,
+      "name": "When You Tie Your Hair Up",
+      "url": "https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/7idZcTgqv3YVPxU1QICTqQ"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 165012,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/7LqCIXtmaIByY4b5YFBCrh"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "The House That Doesn\u2019t Exist",
+        "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 143985,
+      "name": "The House That Doesn\u2019t Exist",
+      "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "Queen of Homecoming",
+        "url": "https://open.spotify.com/album/75m5Ycyw89xTYr5EpZgkoq"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "duration_ms": 151186,
+      "name": "Queen of Homecoming",
+      "url": "https://open.spotify.com/track/1jhTdcryKV2Q3fsEJrfRGr"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "cooked!",
+        "url": "https://open.spotify.com/album/2KmYsNSJU9K3DSvkMGRqb9"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/0Y4MvL6mOliZEB5uTLlX9z"
+        }
+      ],
+      "duration_ms": 172102,
+      "name": "cooked!",
+      "url": "https://open.spotify.com/track/6WhDDvt2VhXMYXiKWav8rL"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "Mona (You Stayed)",
+        "url": "https://open.spotify.com/album/6ZqCksG4t7JuzR9Ghy9ex1"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Mona (You Stayed)",
+      "url": "https://open.spotify.com/track/2J1XZqHBO7zeJAKPZGxgGN"
+    },
+    {
+      "added_at": "2025-12-05 05:00:27",
+      "album": {
+        "name": "Sleep Talk",
+        "url": "https://open.spotify.com/album/6Pu3FqCrEFPB0AZ8qa3VXN"
+      },
+      "artists": [
+        {
+          "name": "Ryann Ross",
+          "url": "https://open.spotify.com/artist/4LlusKGPaCxnefSJFNulY6"
+        }
+      ],
+      "duration_ms": 133146,
+      "name": "Sleep Talk",
+      "url": "https://open.spotify.com/track/13aezjjvW1q2meEoRMDrcn"
+    },
     {
       "added_at": "2025-11-28 05:00:24",
       "album": {
@@ -1731,26 +2079,6 @@
       "duration_ms": 224834,
       "name": "American Dreams",
       "url": "https://open.spotify.com/track/0E4RFw6MZpfXhobsr46YWW"
-    },
-    {
-      "added_at": "2025-11-07 05:00:57",
-      "album": {
-        "name": "Destiny Arrives",
-        "url": "https://open.spotify.com/album/0LHhazDiPDgrBUJ54qNqvc"
-      },
-      "artists": [
-        {
-          "name": "SPELLLING",
-          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Destiny Arrives",
-      "url": "https://open.spotify.com/track/3nt2gvGy1MIK4LWbp1V1Ch"
     },
     {
       "added_at": "2025-11-07 05:00:57",

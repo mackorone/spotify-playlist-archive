@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 66 | [Testify \(Live in LA\)](https://open.spotify.com/track/0tAfjwAoZwDJZS0KRn2SGQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Art of Love \(Live in LA\)](https://open.spotify.com/album/7575MmvKNIEh6puvpyMfoL) | 7:03 |
 | 67 | [Ghetto Earth](https://open.spotify.com/track/5NfgQXvYnftognhelAZtR8) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [The Heart, The Mind, The Soul](https://open.spotify.com/album/014ic5Pp0IrYiDZRty0wKB) | 3:31 |
 | 68 | [Waterfall](https://open.spotify.com/track/55svzLRbfbsISEmxzvpFce) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 5:10 |
-| 69 | [2AM](https://open.spotify.com/track/2eejBNyr1D9QDOxOSwS9DU) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:34 |
-| 70 | [Jeffrey](https://open.spotify.com/track/2DLxjFJOqqzMJlijtDsjMv) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Long Way Round](https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9) | 4:56 |
+| 69 | [Jeffrey](https://open.spotify.com/track/2DLxjFJOqqzMJlijtDsjMv) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Long Way Round](https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9) | 4:56 |
+| 70 | [2AM](https://open.spotify.com/track/2eejBNyr1D9QDOxOSwS9DU) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:34 |
 | 71 | [Best of Me](https://open.spotify.com/track/7FlvbdRd9ul5Ipk1Ejzmky) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 5:03 |
 | 72 | [Testimony \(Live At The Piano\)](https://open.spotify.com/track/7JVdwFrZpK9bBYiUrg5Tmn) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Live At The Piano](https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe) | 0:52 |
 | 73 | [Oh Happy Day](https://open.spotify.com/track/53sa32UDi5PwI891slKSLL) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:57 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 106 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 107 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AcDWvAAAAACU8HrH57K8nxZFbXcBEOYz`
+Snapshot ID: `AcDcXAAAAABw4YjTNuI84zRuNEHX7WzV`

@@ -1,12 +1,12 @@
 {
   "description": "This is Black Sabbath. The essential tracks, all in one playlist.",
-  "num_followers": 493401,
+  "num_followers": 493453,
   "original_name": "This Is Black Sabbath",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAADg91Kwfh8rEwULeExZTISB",
+  "snapshot_id": "aTDPAAAAAADZ3C7VmA0ph0j4etsqw/pr",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mob Rules",
-        "url": "https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "The Mob Rules",
-      "url": "https://open.spotify.com/track/5tCj1nLQ9fE2DEd3BEl8Vl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seventh Star",
         "url": "https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 269453,
       "name": "No Stranger to Love - 2009 Remaster",
       "url": "https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mob Rules",
+        "url": "https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "The Mob Rules",
+      "url": "https://open.spotify.com/track/5tCj1nLQ9fE2DEd3BEl8Vl"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/2ji4QgWCNK6Sf1Vr1RVrRb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mob Rules",
         "url": "https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 248013,
       "name": "Fluff (2009 Remaster)",
       "url": "https://open.spotify.com/track/4gUNTtPmsTzpTdJY3aZbLw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/2ji4QgWCNK6Sf1Vr1RVrRb"
     },
     {
       "added_at": null,

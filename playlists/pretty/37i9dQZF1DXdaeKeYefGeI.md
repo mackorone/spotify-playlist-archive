@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen & Gerson Main
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,581 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,593 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 |
-| 2 | [Dans](https://open.spotify.com/track/47JBXznQqDtATWPNBZPwBc) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [](https://open.spotify.com/album/null) | 4:36 |
+| 2 | [Dans](https://open.spotify.com/track/47JBXznQqDtATWPNBZPwBc) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Een hoop](https://open.spotify.com/album/4EZ4fZ33JLMzzm9DBFGavm) | 4:36 |
 | 3 | [Mama Huil Niet](https://open.spotify.com/track/3Nq9OzwDXWVRSBiM5SFSRA) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Jacqueline Govaert\)](https://open.spotify.com/album/3JV5C1wGCb3gOyIfRE2D0M) | 3:28 |
 | 4 | [We Doen Alsof](https://open.spotify.com/track/0LJ1hlleIO9JARlO2eyo2g) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [We Doen Alsof](https://open.spotify.com/album/3gOXgH4AVBI1dpnKHoxT8x) | 4:06 |
 | 5 | [Kijk Niet Achterom](https://open.spotify.com/track/3qBkuKl5sThSlYOgDoFy7X) | [Babette Van Veen](https://open.spotify.com/artist/5GUosf9oyNKzoKSzyguTax), [Soy Kroon](https://open.spotify.com/artist/16V5a3d99qj5d7xQxYD0IT) | [Kijk Niet Achterom](https://open.spotify.com/album/0fMXDvkCObFINs9pgcDKCT) | 3:58 |

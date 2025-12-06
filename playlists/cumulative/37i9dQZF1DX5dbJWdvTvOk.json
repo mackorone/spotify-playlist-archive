@@ -2439,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4stNY4vMIrQEofdz6fl1dP"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157628,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/0doV7jrfQ1qpgl1mBMjqDo"
+    },
+    {
+      "album": {
         "name": "Cinque Terre",
         "url": "https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT"
       },
@@ -7432,7 +7450,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 152642,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx"
@@ -9902,6 +9920,24 @@
       "duration_ms": 118619,
       "name": "Peaceful Serendipity",
       "url": "https://open.spotify.com/track/5xHRYoLiovEdivPfVfcIkj"
+    },
+    {
+      "album": {
+        "name": "Pebble Garden",
+        "url": "https://open.spotify.com/album/27D6azi103r9yZgj31J0Td"
+      },
+      "artists": [
+        {
+          "name": "Milan Heyes",
+          "url": "https://open.spotify.com/artist/46yZrE3PvsXkGFY6lE0EJ9"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143915,
+      "name": "Pebble Garden",
+      "url": "https://open.spotify.com/track/7FnC1HiGKlpOQXjh4bUtHh"
     },
     {
       "album": {
@@ -14356,7 +14392,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 162308,
       "name": "Violetta",
       "url": "https://open.spotify.com/track/1XVUocouRpADxhKOzXrPiJ"

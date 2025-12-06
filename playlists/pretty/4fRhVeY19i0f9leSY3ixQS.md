@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,060 likes - 300 songs - 17 hr 7 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,060 likes - 302 songs - 17 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,5 +308,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 298 | [Mirror Mirror](https://open.spotify.com/track/23QMB8EBzhdvYHLKn0JJiR) | [Daffodildos](https://open.spotify.com/artist/3ZvnRlJjmuZrmzEukWk7QE) | [Not My Cup of Tea](https://open.spotify.com/album/2AVWpAtr0dM8hdvOcoUXij) | 2:32 |
 | 299 | [I Wanna Leave](https://open.spotify.com/track/7bME0upKK5b32DwGNE7kP7) | [Hana Piranha](https://open.spotify.com/artist/0duS5yd1MThbpAipiGOpcC) | [I Wanna Leave](https://open.spotify.com/album/6AUYweQsxrLaQ9KUJNWOMw) | 4:06 |
 | 300 | [Down in A Hole](https://open.spotify.com/track/4c1vW7vyXE0BDRqRi0hOEe) | [dirth.](https://open.spotify.com/artist/4AXYaezweit6i4xoEtBoAu) | [Down in A Hole](https://open.spotify.com/album/1YGIlMHK8sPw1TgJFONB0z) | 4:19 |
+| 301 | [BREATHE](https://open.spotify.com/track/3ALJaDfdUCrARTslgZig5k) | [dmncles](https://open.spotify.com/artist/6AXQbXnTcpATjFnocZgBK3) | [BREATHE](https://open.spotify.com/album/3ngaCH0ImMqEuCnlO1F84m) | 2:34 |
+| 302 | [It's Inside](https://open.spotify.com/track/5H7NtbhuEfMQdLWwMrlEh5) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:35 |
 
-Snapshot ID: `AAAICau/7SWQWYMWtDPGMa0h6QQLV06n`
+Snapshot ID: `AAAIC2Gif0EvRSpYG77qT0khYZoHu7Du`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: FKA twigs",
+  "description": "Genre-less. Quality first always. Cover: Robyn",
   "name": "POLLEN",
   "tracks": [
     {
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 221306,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/7JWB5SERTCpz9IJCau2C9R"
@@ -2726,6 +2726,28 @@
       "duration_ms": 222741,
       "name": "Alien Love Call",
       "url": "https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3"
+    },
+    {
+      "album": {
+        "name": "Alise",
+        "url": "https://open.spotify.com/album/0FEGZgonIOc9RZUa6KucAn"
+      },
+      "artists": [
+        {
+          "name": "Jawnino",
+          "url": "https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180465,
+      "name": "Alise",
+      "url": "https://open.spotify.com/track/0MPEX4Y7YK6QfWcL9oU685"
     },
     {
       "album": {
@@ -4784,7 +4806,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 242240,
       "name": "Automatic Love",
       "url": "https://open.spotify.com/track/6TLEg0rUFLH0EF9CYfRJ7B"
@@ -9168,7 +9190,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 186605,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/1AlsoqB4bZnecGvosTYjLZ"
@@ -10090,7 +10112,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 143857,
       "name": "Carry Me Away",
       "url": "https://open.spotify.com/track/2ua2zMl11JGJuLyzkhLTxP"
@@ -16321,6 +16343,28 @@
     },
     {
       "album": {
+        "name": "Dopamine (Jamie xx Remix)",
+        "url": "https://open.spotify.com/album/0Puqp5TzMtMN1ljd8Ecae9"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302748,
+      "name": "Dopamine - Jamie xx Remix",
+      "url": "https://open.spotify.com/track/6BRSGk5zVklP8FRLTRm8Ar"
+    },
+    {
+      "album": {
         "name": "Dora",
         "url": "https://open.spotify.com/album/1EFVYHuhITenIZQgL4yAFu"
       },
@@ -17472,6 +17516,24 @@
       "duration_ms": 120800,
       "name": "Embarrassed Dog",
       "url": "https://open.spotify.com/track/5rsMJbGg6IqniuGPaCFXd9"
+    },
+    {
+      "album": {
+        "name": "crown",
+        "url": "https://open.spotify.com/album/1PGS974JDZDzm0wqGcEmuM"
+      },
+      "artists": [
+        {
+          "name": "Andrew Aged",
+          "url": "https://open.spotify.com/artist/6MDHB1sd0dW7eI5weGsgTG"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251733,
+      "name": "Emmaus",
+      "url": "https://open.spotify.com/track/5ecTsNsx6BvWBIeXCXNEOc"
     },
     {
       "album": {
@@ -32685,6 +32747,24 @@
     },
     {
       "album": {
+        "name": "Home Is True",
+        "url": "https://open.spotify.com/album/5sCZV4unPO5Hme36JC0ZFH"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252393,
+      "name": "Let Me Say This",
+      "url": "https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7"
+    },
+    {
+      "album": {
         "name": "let u in",
         "url": "https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a"
       },
@@ -34721,6 +34801,24 @@
     },
     {
       "album": {
+        "name": "Acoustics & Hood Psychedelia",
+        "url": "https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl"
+      },
+      "artists": [
+        {
+          "name": "Bav\u00e9",
+          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168947,
+      "name": "Lover's Rock",
+      "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
+    },
+    {
+      "album": {
         "name": "Lover/Friend",
         "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
       },
@@ -35714,7 +35812,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 151386,
       "name": "Manic!",
       "url": "https://open.spotify.com/track/7BGlBIWZnbe7iCj2qzolA3"
@@ -41174,7 +41272,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 156800,
       "name": "On En \u00c9tait L\u00e0 (feat. PPJ)",
       "url": "https://open.spotify.com/track/0yZRK10QpUu4iCJ28dpQli"
@@ -44537,6 +44635,24 @@
     },
     {
       "album": {
+        "name": "sankofa",
+        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195942,
+      "name": "pray 4 me",
+      "url": "https://open.spotify.com/track/60XwT8x654biUkHCInrZau"
+    },
+    {
+      "album": {
         "name": "Pray for Me",
         "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
       },
@@ -46692,7 +46808,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 157261,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/75DV6KHoL58McX0a9S8vap"
@@ -58965,6 +59081,28 @@
     },
     {
       "album": {
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/2fchM7sxsLkLCsxsHTBZP8"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211366,
+      "name": "Typewriter (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/1p5i2fVazI6bUVmwWTJfaj"
+    },
+    {
+      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
       },
@@ -59532,7 +59670,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 115000,
       "name": "USA Baby",
       "url": "https://open.spotify.com/track/29hQhpxNbzf4IDjODEZKko"

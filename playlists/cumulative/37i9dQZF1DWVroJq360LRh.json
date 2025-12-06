@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp"
+      },
+      "artists": [
+        {
+          "name": "late september",
+          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203608,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg"
+    },
+    {
+      "album": {
         "name": "Crazy in Love",
         "url": "https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk"
       },
@@ -3065,6 +3083,24 @@
     },
     {
       "album": {
+        "name": "One Dance",
+        "url": "https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8"
+      },
+      "artists": [
+        {
+          "name": "POOL KIDS",
+          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1"
+    },
+    {
+      "album": {
         "name": "One Great Mystery",
         "url": "https://open.spotify.com/album/3uF1NH3uFablZ7qbBi1Z6v"
       },
@@ -4008,7 +4044,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 205188,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN"
@@ -4246,7 +4282,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 201000,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2"

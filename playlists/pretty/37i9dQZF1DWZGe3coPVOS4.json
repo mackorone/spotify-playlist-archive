@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits.",
-  "num_followers": 17668,
+  "num_followers": 17670,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClJSH2JKSbF/qiSX//OdPiOeLy8",
+  "snapshot_id": "AAAAALVDfN+F88klwIhuB5G4bTbrVCVx",
   "tracks": [
+    {
+      "added_at": "2025-12-05 05:00:22",
+      "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/5NMcHAUKrAOiKlQK92iNNF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/67pRJVVHvUijgZlorMSUMe"
+    },
     {
       "added_at": "2025-10-31 04:00:31",
       "album": {
@@ -727,22 +743,6 @@
       "duration_ms": 207653,
       "name": "Popular",
       "url": "https://open.spotify.com/track/7B91IGnbY5PilOODVln00Z"
-    },
-    {
-      "added_at": "2025-07-20 16:36:14",
-      "album": {
-        "name": "KIDZ BOP All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 208176,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/1wgtIUJy2ustDx3IGp5d0Z"
     },
     {
       "added_at": "2025-07-20 16:36:14",

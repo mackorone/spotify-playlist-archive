@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 270000,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3tXeOQmEq6Tm5zv52sZ78D"
@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Big Crown Vaults Vol. 2",
+        "url": "https://open.spotify.com/album/6aVMpJwZmdNp7b0eV0rCIZ"
+      },
+      "artists": [
+        {
+          "name": "The Shacks",
+          "url": "https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222670,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/7KHn6MgAIRPozclZCvJ3e2"
+    },
+    {
+      "album": {
         "name": "Young, Gifted and Black",
         "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
       },
@@ -806,7 +824,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 234560,
       "name": "Even After All",
       "url": "https://open.spotify.com/track/096O9QxDBQ1xPIyLskGwbq"
@@ -1156,6 +1174,24 @@
       "duration_ms": 266973,
       "name": "How Do I Live",
       "url": "https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8"
+    },
+    {
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221335,
+      "name": "How It's Gotta Be",
+      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
     },
     {
       "album": {
@@ -1746,7 +1782,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 287000,
       "name": "More Than a Love Song",
       "url": "https://open.spotify.com/track/38D3zXvwHjwtGMUSO4mOmv"
@@ -2254,7 +2290,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 252253,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/0ZZ6MJeAl8EdIHnyNBTawA"

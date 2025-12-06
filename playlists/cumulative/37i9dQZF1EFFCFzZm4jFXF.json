@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Kings",
+        "url": "https://open.spotify.com/album/6aUaGt9dhm4ZZ1DFAgssSF"
+      },
+      "artists": [
+        {
+          "name": "THE HARA",
+          "url": "https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185874,
+      "name": "Kings",
+      "url": "https://open.spotify.com/track/4trzAGt1kMSOku8AVoYYuo"
+    },
+    {
+      "album": {
         "name": "Learn To Let Go",
         "url": "https://open.spotify.com/album/2plYHT0IWYG709H7dJyY14"
       },
@@ -2256,6 +2274,28 @@
       "duration_ms": 166788,
       "name": "Until I Die",
       "url": "https://open.spotify.com/track/6AApDhkIqCqsvQcHr52Bol"
+    },
+    {
+      "album": {
+        "name": "Violence (feat. As December Falls)",
+        "url": "https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1"
+      },
+      "artists": [
+        {
+          "name": "THE HARA",
+          "url": "https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ"
+        },
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152345,
+      "name": "Violence (feat. As December Falls)",
+      "url": "https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13"
     },
     {
       "album": {

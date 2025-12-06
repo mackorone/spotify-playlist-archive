@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: Leo王
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,003 likes - 129 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,005 likes - 129 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [最後一張紙 feat\. ?](https://open.spotify.com/track/5EctmWytLEh3DuKvwf0DlR) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [最後一張紙 feat\. ?](https://open.spotify.com/album/3iOw2Yp7cE5iVsKFIBjxSt) | 2:52 |
-| 2 | [Track 3](https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Namaste](https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Boundary](https://open.spotify.com/album/5YWyPvOYit4QbQvQ8uYZkC) | 3:00 |
 | 3 | [胡鬧](https://open.spotify.com/track/7vTuuKMozJ1EZYS0DSDQkt) | [想破頭](https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW) | [胡鬧](https://open.spotify.com/album/7FEJTeDR6mH0PLUGY3QQMO) | 2:44 |
 | 4 | [4to9](https://open.spotify.com/track/3OQLgCs6pAOUjSD5ZFa9Gr) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [4to9](https://open.spotify.com/album/04JgDtDiwmUp1Lq0vKNCYW) | 2:58 |
 | 5 | [Tower Records](https://open.spotify.com/track/6InEvTeubg1cIUYEosVUn7) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [Tower Records](https://open.spotify.com/album/3tP8aVQEljFHYPgnQuvi8w) | 2:38 |
-| 6 | [失望的山](https://open.spotify.com/track/33fBN3sd0HStBCLfRf5ntG) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [](https://open.spotify.com/album/null) | 4:21 |
+| 6 | [失望的山](https://open.spotify.com/track/33fBN3sd0HStBCLfRf5ntG) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [失望的山](https://open.spotify.com/album/69vAcNdz9Kv8EhLdECqYSI) | 4:21 |
 | 7 | [甜蜜叛逆期](https://open.spotify.com/track/7d28LbNPUkWzQ8OfheCCtM) | [the Huiting 陳惠婷](https://open.spotify.com/artist/5KSQNJyPSHZ0FS5Qc9qUVz) | [甜蜜叛逆期](https://open.spotify.com/album/5J6e5RCTPMU02ZaYs8th6G) | 4:19 |
 | 8 | [他她](https://open.spotify.com/track/73yPVPLZRoEYwVgrYt8ljQ) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [他她](https://open.spotify.com/album/0yT6VyRKb4Br53B6ggTuH8) | 4:03 |
 | 9 | [此刻永遠 \- 中客韓版 \- 電影《那張照片裡的我們》主題曲](https://open.spotify.com/track/6AZXmfnTgCuCfoZPTyCDS5) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [此刻永遠 \(電影《那張照片裡的我們》主題曲\)](https://open.spotify.com/album/1hT0DFMs074DDYbtYk98q7) | 3:57 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 17 | [那系哩欸歹誌](https://open.spotify.com/track/3ARAvvbc82RbxUBZLHmZQk) | [連穎 ERIN](https://open.spotify.com/artist/3kwAZXcfj1dX9cQKjx4SS6) | [EZ](https://open.spotify.com/album/4ZmKTmmQQDN6eKDpQ28W2I) | 3:03 |
 | 18 | [Dont Wanna Wake Up](https://open.spotify.com/track/5yeybEKpv8JzUORwYLzPBJ) | [成晞 CHANCE](https://open.spotify.com/artist/1ae7R67p3kRJfOU4L6mfII) | [Dont Wanna Wake Up](https://open.spotify.com/album/6Yq8uUobdIcCIv7teX1ZBD) | 2:11 |
 | 19 | [b.complex B群](https://open.spotify.com/track/0vD8NagzGeIJYc5DIfgJHI) | [Miss Ko 葛仲珊](https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg) | [b.complex B群](https://open.spotify.com/album/5RyttFU0mbgPmpSzPMXVgq) | 2:06 |
-| 20 | [生得好](https://open.spotify.com/track/1QoGHIBGGptUpVqCqvyoIo) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ) | [](https://open.spotify.com/album/null) | 4:09 |
+| 20 | [生得好](https://open.spotify.com/track/1QoGHIBGGptUpVqCqvyoIo) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ) | [4Reasons](https://open.spotify.com/album/5vth4gcrC8PnORzMgH5ckI) | 4:09 |
 | 21 | [925](https://open.spotify.com/track/5PZnCRP52b7amLB9M3HM44) | [7uly](https://open.spotify.com/artist/0M3cHV54QTUNKskamy2Adw) | [925](https://open.spotify.com/album/1JnI3xl2dFnWhQLFuwUVmO) | 1:52 |
 | 22 | [恨帥潮](https://open.spotify.com/track/2D9O7xCiTqaTVeEiQFzCHD) | [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL), [Macdella](https://open.spotify.com/artist/2jGajbF57J3EZGtAjeH3Q0), [EyeballRay](https://open.spotify.com/artist/363CQz6rPzByyhhWS1zUQq), [SheATH](https://open.spotify.com/artist/55WfFcEYY8iQ9UjqcRMmdA), [Yappy](https://open.spotify.com/artist/28G5rtbvCmWsjyp5G6LwMe), [Drew](https://open.spotify.com/artist/227bmsq2MvsKjnPMtxOg5i) | [恨帥潮](https://open.spotify.com/album/2NTzN4uInQCUzenhsQoFq4) | 3:27 |
 | 23 | [海](https://open.spotify.com/track/3C3q6J80Ckn7GNzjsJCGMw) | [莊蕎嫣](https://open.spotify.com/artist/377IrizAIgP241PkagDCZL) | [海](https://open.spotify.com/album/3ecGTyx7KX8HeMSxcKmF1z) | 4:34 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 42 | [Don't Make Me Wait](https://open.spotify.com/track/6hHj6clfSratDqWxtBGoJj) | [Raelyn Chen](https://open.spotify.com/artist/5f8j9XWy7cGlPSVedpEMem) | [Don't Make Me Wait](https://open.spotify.com/album/1GA3GLyCmg0baFvxmDLcmb) | 2:54 |
 | 43 | [99朵玫瑰花](https://open.spotify.com/track/1ZMI7ih6n0ZaA2j3XnqeJ8) | [Sunny&Welly](https://open.spotify.com/artist/0wV4jULHZogcVorMV6FLKT), [TJKid$$](https://open.spotify.com/artist/2nhcHpoVN1Dc7accvEX3KW), [蛋蛋EGgskriiXX](https://open.spotify.com/artist/0p5VtjGvBI3po0JgVU68Tk) | [99朵玫瑰花](https://open.spotify.com/album/5DFvLVqqonqm4MO6GszuxS) | 2:05 |
 | 44 | [丟掉吧！SAYONARA](https://open.spotify.com/track/1jgSrqfVy0IJVnsJjk5OiH) | [吉米高JIMIN](https://open.spotify.com/artist/6A0Y9UdTtlmOltkBZ1KtQo) | [丟掉吧！SAYONARA](https://open.spotify.com/album/5NsRrJm7Jg0pnlELDBO29t) | 2:54 |
-| 45 | [Tesla RidE](https://open.spotify.com/track/5vDH06AP0eCiQpQzwKNO72) | [LYNZI \(0\) 零](https://open.spotify.com/artist/4KRRAsuLAEv3HCxbYMWA5N) | [Tesla RidE](https://open.spotify.com/album/3oTsRTLMegUsS4vRuSRMBM) | 3:30 |
+| 45 | [Tesla RidE](https://open.spotify.com/track/5vDH06AP0eCiQpQzwKNO72) | [LYNZI \(0\) 零](https://open.spotify.com/artist/0M9mNoqr1c3QdLY9m36urK) | [Tesla RidE](https://open.spotify.com/album/3oTsRTLMegUsS4vRuSRMBM) | 3:30 |
 | 46 | [連鎖](https://open.spotify.com/track/0hPUoWyMHQa62YjRqIvhs3) | [STACO](https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9) | [連鎖](https://open.spotify.com/album/0IZE0KtKC8C02iPjdfsRSk) | 2:15 |
 | 47 | [台中也下雨](https://open.spotify.com/track/2NHth1nmXdNWI5vV2c3GyU) | [褚爺 Mr.True](https://open.spotify.com/artist/4GNWgGkq2VO4wtm2zHd3eA) | [台中也下雨](https://open.spotify.com/album/3hGSmHITtl99g00iL145FM) | 2:08 |
 | 48 | [Yellow Christian](https://open.spotify.com/track/7dCWVkYEspxDJWDCIqePfw) | [HenrV](https://open.spotify.com/artist/79k6W22oUEOBoquMIvQmh1) | [Yellow Christian](https://open.spotify.com/album/6z9guoEQIyr76Cn3bPo95K) | 2:51 |

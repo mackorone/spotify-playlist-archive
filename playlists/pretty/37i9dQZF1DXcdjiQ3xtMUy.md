@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Stavento, Anastasia
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,353 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,369 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gia Sena Pou Latrevo](https://open.spotify.com/track/3ke3c38UR92nhiofYhQv5a) | [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK), [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Gia Sena Pou Latrevo](https://open.spotify.com/album/4R8CJqVRPReE9rKhhM86hz) | 3:10 |
 | 2 | [IPNOS](https://open.spotify.com/track/3s1FNkbgLTtkE9zyOSg08d) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Tso](https://open.spotify.com/artist/5RPYuOBwxiNV9K3rnyowEu) | [IPNOS](https://open.spotify.com/album/0gs5CnbVeqKFHJjl763B5s) | 3:03 |
-| 3 | [Alleluia](https://open.spotify.com/track/0qToKOjoIshAsxGuSJ7DhY) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Alleluia](https://open.spotify.com/album/7oE6M8hUkUlze17Ygx4eA5) | 3:48 |
+| 3 | [Alleluia](https://open.spotify.com/track/0qToKOjoIshAsxGuSJ7DhY) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Arcade](https://open.spotify.com/artist/79GjHhMHonErm1Ulf07Urr) | [Alleluia](https://open.spotify.com/album/7oE6M8hUkUlze17Ygx4eA5) | 3:48 |
 | 4 | [Etsi Eimai Ego](https://open.spotify.com/track/3hKzxwuHuAt4vUTJIFYBy8) | [Papazó](https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ), [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [Etsi Eimai Ego](https://open.spotify.com/album/1LX8tlGm8TGYQn5sa8MQW4) | 2:42 |
 | 5 | [Anemos](https://open.spotify.com/track/1ot6Dg7Sn77aL45m7O6aYG) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Anemos](https://open.spotify.com/album/1CHEOeLIjns4RCOMziny6E) | 3:18 |
 | 6 | [Asteio](https://open.spotify.com/track/3grnI3Xh7sIjuSI6mH59Ta) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Asteio](https://open.spotify.com/album/5s8IZjqAX57I4iiMUI9kT9) | 3:19 |
-| 7 | [Den Kano Ego Gia Spiti](https://open.spotify.com/track/0ZcakqLusdcGn9vmmCUdnD) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Hybrid](https://open.spotify.com/album/4My7whJTE7G98ey208Neit) | 3:01 |
+| 7 | [Den Kano Ego Gia Spiti](https://open.spotify.com/track/0ZcakqLusdcGn9vmmCUdnD) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Arcade](https://open.spotify.com/artist/79GjHhMHonErm1Ulf07Urr) | [Hybrid](https://open.spotify.com/album/4My7whJTE7G98ey208Neit) | 3:01 |
 | 8 | [Savvato](https://open.spotify.com/track/6ULW8Q20DVR3MvwSK6yzMq) | [M.Hustler](https://open.spotify.com/artist/4DQVXkgvUChjlRvkwoLc1a), [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Savvato](https://open.spotify.com/album/1NkUIqDz4AEyWcIH8z13sk) | 3:54 |
 | 9 | [Nero](https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Nero](https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y) | 3:08 |
 | 10 | [Gata](https://open.spotify.com/track/5s8xMpKgZAJseMqyqhJLiL) | [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [Gata](https://open.spotify.com/album/3HZbiNytGIXEhBFsuhKVAz) | 2:26 |
 | 11 | [Ithopoios](https://open.spotify.com/track/7reX1GQGNZbFBM9JzVWR8S) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Ithopoios](https://open.spotify.com/album/6SvQa7qWMFLI4bl4iKVJwt) | 2:17 |
-| 12 | [To Sagapw](https://open.spotify.com/track/60VwRmtFziGwPfhklepBZT) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [To Sagapw](https://open.spotify.com/album/2wSHAUfxb1PQyOqWkvbjRS) | 3:15 |
+| 12 | [To Sagapw](https://open.spotify.com/track/60VwRmtFziGwPfhklepBZT) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [To Sagapw](https://open.spotify.com/album/2wSHAUfxb1PQyOqWkvbjRS) | 3:16 |
 | 13 | [Disco Boy](https://open.spotify.com/track/4ee7heyCvxcuffx9XMwMXO) | [Onirama](https://open.spotify.com/artist/0aFk1wZrmQnSHmbSMiZUes), [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA) | [Disco Boy](https://open.spotify.com/album/4CeM3rFBJTiF2pWxrLd9o3) | 3:12 |
 | 14 | [Tragoudao Dinata](https://open.spotify.com/track/1zbPYnhRaPooiirF9rc4j1) | [Stelios Rokkos](https://open.spotify.com/artist/01GDS9NmGwhzHm2VjbZFcG) | [Tragoudao Dinata](https://open.spotify.com/album/3MvFgf053daWKzR5EcL6vK) | 3:09 |
 | 15 | [ALLI MIA MERA](https://open.spotify.com/track/3vLK49YoLBAWtpcqpTdWCl) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [ALLI MIA MERA](https://open.spotify.com/album/5v1x1HSw8UooJFhLJmbJtm) | 3:07 |

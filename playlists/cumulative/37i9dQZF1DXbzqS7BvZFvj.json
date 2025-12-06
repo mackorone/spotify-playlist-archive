@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: A$AP Ferg",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: GloRilla",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -98,6 +98,24 @@
       "duration_ms": 161806,
       "name": "10 Second Phone Call",
       "url": "https://open.spotify.com/track/6aW3v9Y9h5Ml5zWRiUdopK"
+    },
+    {
+      "album": {
+        "name": "100days100nights",
+        "url": "https://open.spotify.com/album/0j4nMyhDhscxWa0VrgUHEN"
+      },
+      "artists": [
+        {
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108445,
+      "name": "100days100nights",
+      "url": "https://open.spotify.com/track/421kwayIuwfQWizPPST9Jx"
     },
     {
       "album": {
@@ -301,6 +319,24 @@
     },
     {
       "album": {
+        "name": "44 Bars",
+        "url": "https://open.spotify.com/album/1Kd1W0uSpaJuRUrbBvoa2D"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146410,
+      "name": "44 Bars",
+      "url": "https://open.spotify.com/track/5wCydgDC070Tym8HpjYr75"
+    },
+    {
+      "album": {
         "name": "44ever",
         "url": "https://open.spotify.com/album/3l1waWo8qk4IVtyuzKD4bx"
       },
@@ -407,6 +443,36 @@
     },
     {
       "album": {
+        "name": "6 Million",
+        "url": "https://open.spotify.com/album/3M44H9DeObJQXKK1UTOUHL"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "6 Million",
+      "url": "https://open.spotify.com/track/17WM8SkzLoAH0VBtjiHdjt"
+    },
+    {
+      "album": {
         "name": "6IX",
         "url": "https://open.spotify.com/album/0JmftTPXtS9dWj7i3c4zcK"
       },
@@ -478,6 +544,28 @@
       "duration_ms": 166013,
       "name": "6ix Pack",
       "url": "https://open.spotify.com/track/6RmSzjCKSevNrwIb7WXcKX"
+    },
+    {
+      "album": {
+        "name": "700 CLUB",
+        "url": "https://open.spotify.com/album/4nw9TlcaIoNpw2nE53nXJz"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180354,
+      "name": "700 CLUB",
+      "url": "https://open.spotify.com/track/3Jphy67bYJzDwmag3PKDAK"
     },
     {
       "album": {
@@ -1252,6 +1340,24 @@
       "duration_ms": 204094,
       "name": "Alter Ego (with JT)",
       "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+    },
+    {
+      "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134485,
+      "name": "Am I sick?",
+      "url": "https://open.spotify.com/track/5QDdLCGbthqLgXt4Vr3UBF"
     },
     {
       "album": {
@@ -2691,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "Beggin",
+        "url": "https://open.spotify.com/album/3nAUFfDsPIeldi0uIfrg3w"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105570,
+      "name": "Beggin",
+      "url": "https://open.spotify.com/track/0Jqeu9vgIoX11ITrnFS4w5"
+    },
+    {
+      "album": {
         "name": "GDLU (Preluxe)",
         "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ"
       },
@@ -2948,6 +3072,24 @@
       "duration_ms": 253760,
       "name": "Big Dog (with Lil Wayne)",
       "url": "https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6"
+    },
+    {
+      "album": {
+        "name": "Big Drip 2.0",
+        "url": "https://open.spotify.com/album/5PAMYRKNOaFss7GUdGF90V"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Big Drip 2.0",
+      "url": "https://open.spotify.com/track/5uPjzDgC7unz1ATFOEffxa"
     },
     {
       "album": {
@@ -4887,6 +5029,24 @@
     },
     {
       "album": {
+        "name": "Can't Count Me Out",
+        "url": "https://open.spotify.com/album/3Gu308gnM3Dy759MvF1Vca"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "Can't Count Me Out",
+      "url": "https://open.spotify.com/track/77OO0XJ9caJhJVanaaIc6w"
+    },
+    {
+      "album": {
         "name": "Can't Hide It (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/0gIhjFBD2U7TX7O7ZGRsb4"
       },
@@ -6690,7 +6850,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 184320,
       "name": "Different Species (feat. Gunna)",
       "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
@@ -6962,7 +7122,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 190010,
       "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
       "url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
@@ -7988,7 +8148,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 294357,
       "name": "Everybody\u2019s Looking At Me",
       "url": "https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy"
@@ -9680,7 +9840,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 207443,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y"
@@ -12596,7 +12756,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 207380,
       "name": "Imaginary Playerz",
       "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
@@ -13382,7 +13542,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 131374,
       "name": "Katsushika",
       "url": "https://open.spotify.com/track/3trjhda0OoKKmEVnVQ8Gnf"
@@ -13950,6 +14110,24 @@
       "duration_ms": 154040,
       "name": "Last Days",
       "url": "https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg"
+    },
+    {
+      "album": {
+        "name": "Last Drink",
+        "url": "https://open.spotify.com/album/4RAAZcbae57tp6h2joUZuu"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Last Drink",
+      "url": "https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj"
     },
     {
       "album": {
@@ -15701,6 +15879,24 @@
     },
     {
       "album": {
+        "name": "MARCH",
+        "url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "MARCH",
+      "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
+    },
+    {
+      "album": {
         "name": "Mardi Gras (Go Crazy) [Seoul 2 Okinawa Version]",
         "url": "https://open.spotify.com/album/56eevAZjrjGQKlctPZBtJg"
       },
@@ -16842,7 +17038,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 192676,
       "name": "Motion (feat. Sexyy Red & NaNaski)",
       "url": "https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8"
@@ -18108,7 +18304,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 293050,
       "name": "No More Old Men (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/2Jtia4fDcSP17h2UkAhg9E"
@@ -18996,7 +19192,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 118781,
       "name": "Omote II - Remix",
       "url": "https://open.spotify.com/track/5dkIeFcy0awNiHvZoQ7O0b"
@@ -19040,7 +19236,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 170066,
       "name": "On McAfee (with Baby Kia)",
       "url": "https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed"
@@ -19384,7 +19580,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 202815,
       "name": "Only Time",
       "url": "https://open.spotify.com/track/3jZr9yjhzg2GGnvhRsJiua"
@@ -19670,7 +19866,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 139850,
       "name": "Paranormal",
       "url": "https://open.spotify.com/track/5SC9k7CyYSOXoe1v8koXX9"
@@ -24182,7 +24378,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 138082,
       "name": "So Not Sorry",
       "url": "https://open.spotify.com/track/29wQKVGS415sTQmoeJ4gFg"
@@ -26344,6 +26540,28 @@
       "duration_ms": 169014,
       "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
+    },
+    {
+      "album": {
+        "name": "Thootie (feat. Tokischa)",
+        "url": "https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151611,
+      "name": "Thootie (feat. Tokischa)",
+      "url": "https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5"
     },
     {
       "album": {
@@ -29610,6 +29828,36 @@
       "duration_ms": 367539,
       "name": "Xtra McNasty (Feat. Jessi, Awich, MILLI, Ramengvrl, Lil Cherry, MIRANI, Maliibu Miitch, CAMO)",
       "url": "https://open.spotify.com/track/1uUbO4jTqULg0l0FDdVGmn"
+    },
+    {
+      "album": {
+        "name": "YAYA (Remix)",
+        "url": "https://open.spotify.com/album/6AO2thq0bHuVb984p1DsYJ"
+      },
+      "artists": [
+        {
+          "name": "Compton Av",
+          "url": "https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5"
+        },
+        {
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "YAYA - Remix",
+      "url": "https://open.spotify.com/track/6qHrLC17ZY2ZA6b7udhPps"
     },
     {
       "album": {

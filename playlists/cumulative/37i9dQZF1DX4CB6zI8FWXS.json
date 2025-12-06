@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Summer Walker",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Blxst",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -3470,7 +3470,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 219718,
       "name": "Close my eyes (feat. \u3055\u3089\u3055)",
       "url": "https://open.spotify.com/track/1J1OxxnwWDznjVujXx92VR"
@@ -5684,7 +5684,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
@@ -8324,7 +8324,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 303006,
       "name": "I Pawned It",
       "url": "https://open.spotify.com/track/3QuZncvmSvxZB8vQovrErJ"
@@ -8776,6 +8776,24 @@
       "duration_ms": 308551,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/6S6MXD4L4Zo8rUfUMTPM9i"
+    },
+    {
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/3ynxUwwaoRYf2JW8nbID9L"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4e45\u9593\u9f8d\u661f",
+          "url": "https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/3f58lbFyAK65TaTQ83JtDh"
     },
     {
       "album": {
@@ -12639,6 +12657,28 @@
     },
     {
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/47FMuuOfB9eZ0BRHmf8Jag"
+      },
+      "artists": [
+        {
+          "name": "Shane Sato",
+          "url": "https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj"
+        },
+        {
+          "name": "Oli-J",
+          "url": "https://open.spotify.com/artist/3HKiNdpPyhLNbBuRLS0tuj"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221164,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/67G0XsYUtoJDTPCAguIr0F"
+    },
+    {
+      "album": {
         "name": "Fine Ho, Stay",
         "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
@@ -13878,7 +13918,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 175414,
       "name": "out of body",
       "url": "https://open.spotify.com/track/2CNVHVI9GpqGPzgEL12jSf"
@@ -15564,7 +15604,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 154015,
       "name": "Risk Your (feat. Bonbero)",
       "url": "https://open.spotify.com/track/3VcYAT1gpB49G5gKNHQDHp"
@@ -16368,6 +16408,24 @@
       "duration_ms": 125214,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/5lSkFmFZPFO7wfmevHsnuI"
+    },
+    {
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/46l9ibv1QijZ5bgrRJL9oC"
+      },
+      "artists": [
+        {
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211805,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/4GPkOkADgYQmbDRXogss76"
     },
     {
       "album": {
@@ -21561,6 +21619,24 @@
     },
     {
       "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152210,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"
+    },
+    {
+      "album": {
         "name": "why dont we go",
         "url": "https://open.spotify.com/album/5G5Ujsxpgm9F79YNkGfE4q"
       },
@@ -22312,6 +22388,28 @@
       "duration_ms": 214038,
       "name": "Your Friends (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX"
+    },
+    {
+      "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
+          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162474,
+      "name": "Your techno (feat. Reiya Terakubo)",
+      "url": "https://open.spotify.com/track/4n8vBaC4uU13izmOyTKN3Y"
     },
     {
       "album": {

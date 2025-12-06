@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: Jaime 張天穎
 
-611 songs - 1 day 12 hr 16 min
+612 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [三人之境](https://open.spotify.com/track/6A7w1iRnVhtD4BJJcXqbTz) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [三人之境](https://open.spotify.com/album/2srLj2cAbXMvsPwM1SOvgK) | 3:38 | 2024-06-27 | 2025-09-12 |
 | [上載中](https://open.spotify.com/track/0B8WoUBod351rAw8zzgANQ) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [上載中](https://open.spotify.com/album/6ancWREeaAWceAyHlGIsDs) | 3:21 | 2024-06-27 | 2025-09-12 |
 | [下回分解](https://open.spotify.com/track/2YVmqUOuUXhTy9B0Sxi7jS) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [下回分解](https://open.spotify.com/album/0E3gCm9p3QSilrW3xlX88H) | 3:39 | 2024-06-27 | 2025-09-12 |
+| [下次不如相信自己一次](https://open.spotify.com/track/12QMaXd39fllG09BX5cyOU) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [下次不如相信自己一次](https://open.spotify.com/album/45vosktyBO6go1S2Px9zHU) | 3:49 | 2025-12-04 |  |
 | [下落不明](https://open.spotify.com/track/6LHoRKXWgmCa6m0I92sKq7) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [下落不明](https://open.spotify.com/album/42FVHjGTUMdoy9cxyyDW2o) | 3:07 | 2024-09-19 | 2025-09-12 |
 | [不冷淡不熱情](https://open.spotify.com/track/5wR1LPy7JMTHRHVSK4Zr0U) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [不冷淡不熱情](https://open.spotify.com/album/5N2mQsGWHB5XxRvq4DJlit) | 3:12 | 2024-06-27 | 2025-09-12 |
 | [不只一萬八千個世界](https://open.spotify.com/track/6dxnGw39wSMg4ni7Vvzthl) | [Vivian Chan](https://open.spotify.com/artist/7h7iZmYBCQ3EEOwJLvTx8T) | [這段時間的我正在⋯](https://open.spotify.com/album/5HPgwunguvcYk9UsFLNl6T) | 3:10 | 2024-06-27 | 2025-09-12 |

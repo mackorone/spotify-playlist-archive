@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Nash en portada.",
+  "description": "Bienvenidx a la trampa mexa. El More en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -356,10 +356,32 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 284338,
       "name": "Adios Mama",
       "url": "https://open.spotify.com/track/5ynXbvpVZ3HZoWdMeg8okp"
+    },
+    {
+      "album": {
+        "name": "ADN D BANDIDO",
+        "url": "https://open.spotify.com/album/3p70hHKgO66k7C4y1iWAnO"
+      },
+      "artists": [
+        {
+          "name": "El More",
+          "url": "https://open.spotify.com/artist/6ZkosMYAiABvJfjHlM1gkS"
+        },
+        {
+          "name": "Tennessee Beats",
+          "url": "https://open.spotify.com/artist/15Q7fFJ6GvBeEY1F4BiBir"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "ADN D BANDIDO",
+      "url": "https://open.spotify.com/track/7mYH1CXcdhEL3iMUZ01e4O"
     },
     {
       "album": {
@@ -892,6 +914,36 @@
       "duration_ms": 135572,
       "name": "Batman",
       "url": "https://open.spotify.com/track/6IMklja7dz3LwuwUdQB90j"
+    },
+    {
+      "album": {
+        "name": "Atrapado en los 2000",
+        "url": "https://open.spotify.com/album/5BI16sUUhbqNjPclquCr1z"
+      },
+      "artists": [
+        {
+          "name": "Young Nova",
+          "url": "https://open.spotify.com/artist/43jMvULXIqnc5GC0Z6gxcy"
+        },
+        {
+          "name": "Young Dune",
+          "url": "https://open.spotify.com/artist/2O6WxYXVduRSokMq8JHHkT"
+        },
+        {
+          "name": "vlone!",
+          "url": "https://open.spotify.com/artist/6Laa9522YPt4K6nguGvT8O"
+        },
+        {
+          "name": "Yaygo!",
+          "url": "https://open.spotify.com/artist/0fW0WfD617oBlUVJYVJceI"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159526,
+      "name": "bb t\u00fa y yo",
+      "url": "https://open.spotify.com/track/4q8FQzcMM3fwS7OrXVfJ4S"
     },
     {
       "album": {
@@ -3128,6 +3180,32 @@
       "duration_ms": 201650,
       "name": "Fashion Luv",
       "url": "https://open.spotify.com/track/1bYGyj9s8QPkWXDyFb8Wrt"
+    },
+    {
+      "album": {
+        "name": "feeling me",
+        "url": "https://open.spotify.com/album/36dSLz9HDPk6mTLxUWnslj"
+      },
+      "artists": [
+        {
+          "name": "xXkilljoyXx",
+          "url": "https://open.spotify.com/artist/43sJ0tQBapsUltOBl8PV1T"
+        },
+        {
+          "name": "Zerosuave",
+          "url": "https://open.spotify.com/artist/03S29rMxQEGg3TyUZWoSOH"
+        },
+        {
+          "name": "Martell",
+          "url": "https://open.spotify.com/artist/01f5wPrupidAC8zuwThUCm"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185096,
+      "name": "feeling me",
+      "url": "https://open.spotify.com/track/0dEcFcufFHs0WvOvBf7PoU"
     },
     {
       "album": {
@@ -8072,7 +8150,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 144149,
       "name": "Si un D\u00eda Est\u00e1s Sola",
       "url": "https://open.spotify.com/track/7pPsd9EqnjXAl4HjDQarF1"
@@ -8098,7 +8176,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 124698,
       "name": "Sin Dudar",
       "url": "https://open.spotify.com/track/13j7Fnpm2b6rQ9fDB7lvmK"

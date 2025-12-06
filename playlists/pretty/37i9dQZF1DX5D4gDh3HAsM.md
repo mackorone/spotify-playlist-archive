@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,930 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,629 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 99 | [Give Love on Christmas Day](https://open.spotify.com/track/4pEwwUwGSL41FJnrJ8eEei) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [Give Love on Christmas Day](https://open.spotify.com/album/0bL9SXrnTbc9Tqx1kpn2q5) | 4:45 |
 | 100 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/6NbGDUxwR2WtUSJdYOGcTP) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [O Come, O Come, Emmanuel](https://open.spotify.com/album/3TZD8xDcOESgi2CRn2u8lv) | 4:05 |
 
-Snapshot ID: `AAAAAOkXaySRaYbTYhP2UXATUsuYaGQL`
+Snapshot ID: `AAAAAKT2PlGgwLQe8XKAmdS+6WDl9Swt`

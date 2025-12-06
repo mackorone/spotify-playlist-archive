@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/0aP4dyDE4k1LUg7TAgYYRx"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -13800,7 +13800,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 186133,
       "name": "Hecha Pa' Mi",
       "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
@@ -24840,7 +24840,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 205515,
       "name": "PERVERSA - Remix",
       "url": "https://open.spotify.com/track/0esaR3jt3HS2uoDEoz4rjC"
@@ -27456,6 +27456,28 @@
       "duration_ms": 184488,
       "name": "RAKATAKA",
       "url": "https://open.spotify.com/track/7o3idT7Lan9JOye2Mtc7Sf"
+    },
+    {
+      "album": {
+        "name": "PURA FKN DOBLE P",
+        "url": "https://open.spotify.com/album/3V7rjeNTywpRLgW8s8sfra"
+      },
+      "artists": [
+        {
+          "name": "El Yeyo PP",
+          "url": "https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2"
+        },
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184492,
+      "name": "RAKATAKA",
+      "url": "https://open.spotify.com/track/0XRVd8CFpjIg4yCUUuHhbu"
     },
     {
       "album": {
@@ -36718,7 +36740,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 129705,
       "name": "Yo s\u00e9",
       "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Tapy Quintero en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Oscar Ortiz en portada.",
   "name": "Norte\u00f1o 2025",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 222922,
       "name": "A Donde Vayas - En vivo, Auditorio Pabell\u00f3n M, 2023, Monterrey, N.L",
       "url": "https://open.spotify.com/track/7oktF34XozdYCDoaEbz6Jx"
@@ -2553,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "COPILOTO",
+        "url": "https://open.spotify.com/album/3CpatKEcR5zN4wVjCs1nkp"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137663,
+      "name": "COPILOTO",
+      "url": "https://open.spotify.com/track/5I5K8CM4ypCpSQnfof0yra"
+    },
+    {
+      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -3473,6 +3491,28 @@
     },
     {
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0l4NEsMS7JI8tZYCSIsab5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Privado",
+          "url": "https://open.spotify.com/artist/4KlSPzyPWa9JKOBsaOMKaA"
+        },
+        {
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162134,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1h3qsWhQq2OTwCUnZPpNXX"
+    },
+    {
+      "album": {
         "name": "Dif\u00edcil De Creer",
         "url": "https://open.spotify.com/album/4b2ryIz8gwDs5IJQXGQAlW"
       },
@@ -4044,6 +4084,28 @@
       "duration_ms": 211500,
       "name": "El Corrido De Everardo - En Vivo",
       "url": "https://open.spotify.com/track/3rKROLx067SgcAOrZzg2v1"
+    },
+    {
+      "album": {
+        "name": "El Corrido De Lamberto",
+        "url": "https://open.spotify.com/album/19Eo4ECWtEZRRfODtSPcHp"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149750,
+      "name": "El Corrido De Lamberto",
+      "url": "https://open.spotify.com/track/0k6VZw4MiQYGfkoNSZlAqW"
     },
     {
       "album": {
@@ -5770,7 +5832,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 184578,
       "name": "Entre Copas y Recuerdos",
       "url": "https://open.spotify.com/track/1L9aruC74PW1G7LxsN14FJ"
@@ -6104,6 +6166,24 @@
       "duration_ms": 247065,
       "name": "Estilo Especial - En Vivo",
       "url": "https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm"
+    },
+    {
+      "album": {
+        "name": "#TB...Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/1YUSyCbT1KgYbc3RCXnZvf"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187578,
+      "name": "Estoy Enamorado De Ti",
+      "url": "https://open.spotify.com/track/0iWeoEW9hPrYEAoTwyNaKG"
     },
     {
       "album": {
@@ -7830,7 +7910,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 212465,
       "name": "La Llama",
       "url": "https://open.spotify.com/track/7LPRDquaRSHB0CoPsUQ9aG"
@@ -8347,6 +8427,24 @@
     },
     {
       "album": {
+        "name": "Borrachera Fito Shyruka (En Vivo)",
+        "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186133,
+      "name": "Las Calles Enlodadas (En Vivo)",
+      "url": "https://open.spotify.com/track/6isXA21iRtiZ2aIRAJXAdj"
+    },
+    {
+      "album": {
         "name": "Las Dos Cruces",
         "url": "https://open.spotify.com/album/03bmyBTbfySmUISLdPPdMj"
       },
@@ -8652,7 +8750,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 234958,
       "name": "Lo Lindo de Ti",
       "url": "https://open.spotify.com/track/7oPqmCSY51XUbOcvc2fvAn"
@@ -10084,7 +10182,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 177888,
       "name": "Mutuo",
       "url": "https://open.spotify.com/track/0YNVhxPfqDJSdrJhxduohQ"
@@ -12608,7 +12706,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 204277,
       "name": "Qui\u00e9reme Como Te Quiero",
       "url": "https://open.spotify.com/track/57Lre3TjOhUsmfJZj5H3N7"
@@ -13398,6 +13496,24 @@
       "duration_ms": 172546,
       "name": "Sin Explicaciones",
       "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
+    },
+    {
+      "album": {
+        "name": "Sin Foto de Perfil",
+        "url": "https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171833,
+      "name": "Sin Foto de Perfil",
+      "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
     },
     {
       "album": {

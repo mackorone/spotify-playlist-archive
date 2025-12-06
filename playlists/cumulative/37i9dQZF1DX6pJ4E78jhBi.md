@@ -4,11 +4,12 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-117 songs - 6 hr 19 min
+119 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Christmas Prelude No\. 1](https://open.spotify.com/track/0ngu4Q8cY5cvHHLVMbE9Nc) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [A Christmas Prelude No\. 1](https://open.spotify.com/album/4zcCzsCkRZFlEBGNLPoGGW) | 2:41 | 2024-11-15 |  |
+| [A Christmas Sonata No\. 2](https://open.spotify.com/track/1Y6bLMZZcqtKtLk4CYbsIv) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [A Christmas Sonata No\. 2](https://open.spotify.com/album/0E4B962qhzZfYVXDU7beA9) | 2:55 | 2025-12-05 |  |
 | [All I Want For Christmas Is You \- Instrumental](https://open.spotify.com/track/4FrdCx26BQaktGdIkkbthy) | [Piano Man Sam](https://open.spotify.com/artist/7JJqk0ASV8zGJiBnrQUSbI) | [The Christmas Collection](https://open.spotify.com/album/0IlX79HsNRwWdpRgtZ0qlS) | 2:52 | 2021-12-16 |  |
 | [All I Want For Christmas Is You \- Instrumental](https://open.spotify.com/track/7mqyjMcNw4nifDnyhmSAxQ) | [Piano Man Sam](https://open.spotify.com/artist/7JJqk0ASV8zGJiBnrQUSbI) | [The Christmas Collection](https://open.spotify.com/album/4PuFVka05TTduMjo0tQWMC) | 2:52 | 2021-12-16 | 2024-04-19 |
 | [Auld Lang Syne \(Arr\. Feuillâtre for Guitar\)](https://open.spotify.com/track/00CLNcXuVhmDVVGSEqXScp) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [Festive Nocturnes](https://open.spotify.com/album/6jMG6NUa2utWJ0xNKjCbMy) | 1:46 | 2025-11-03 |  |
@@ -115,6 +116,7 @@
 | [The First Noel](https://open.spotify.com/track/0f9O0RNskatv4lzUK6axjy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 3:44 | 2021-12-16 |  |
 | [The Wexford Carol](https://open.spotify.com/track/2DUq09XWvzX2QRXKs3ZMUH) | [Carducci String Quartet](https://open.spotify.com/artist/4cKOYjPLQGb79166NxfeyI) | [The Wexford Carol](https://open.spotify.com/album/2avlZClfTbrRCAMttmcPuE) | 2:37 | 2023-10-20 |  |
 | [Till Next Christmas](https://open.spotify.com/track/3WpFtDbpurmHXBp3jlCrCT) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke) | [Till Next Christmas](https://open.spotify.com/album/3d7hTNC0OGogdNx1EJMZOD) | 4:06 | 2024-11-15 |  |
+| [Variations On Jingle Bells](https://open.spotify.com/track/11QWqj7jWWbpCQZVQyG4A4) | [James Lord Pierpont](https://open.spotify.com/artist/4dQg1sHFFZrwuVN87UxJgb), [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Variations On Jingle Bells](https://open.spotify.com/album/4ZvqmV9gJTy1ayQyxmjzJa) | 2:35 | 2025-12-05 |  |
 | [Walking in the Air \- Piano Solo](https://open.spotify.com/track/1s7kwpJPuBhHVO0WuEgFmE) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei), [Joe Alexander Shepherd](https://open.spotify.com/artist/0LN3ADKCdqFQv7uJ1kZjBa) | [Walking in the Air \(Piano Solo\)](https://open.spotify.com/album/2OL3V55VQa6cl2QNpOXF2K) | 3:39 | 2021-12-16 |  |
 | [Walking in the Air \- Piano Solo](https://open.spotify.com/track/6hFwNd3XEQp56paHH8GD5g) | [Howard David Blake](https://open.spotify.com/artist/6N5z4tdsX1oGACw5lZGe72), [Joe Alexander Shepherd](https://open.spotify.com/artist/0LN3ADKCdqFQv7uJ1kZjBa) | [Walking in the Air \(Piano Solo\)](https://open.spotify.com/album/0bbA0VNAJ51xqLt4N13yks) | 3:39 | 2021-12-16 | 2024-04-19 |
 | [Waltz of the Flowers](https://open.spotify.com/track/5DO3XPbCMTvOomGzUb9oc7) | [Ashley Jackson](https://open.spotify.com/artist/0rJo9egOhkNC9N78nGkyXk) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 1:35 | 2025-11-13 |  |

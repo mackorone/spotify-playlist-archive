@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Bic Runga
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,293 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,303 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 6 | [Levitating The Knife](https://open.spotify.com/track/7pmi12axvDNLEIksxGurTf) | [T\. G\. Shand](https://open.spotify.com/artist/3vaGEkaMFBgTNhPweCAl3y) | [Levitating The Knife](https://open.spotify.com/album/053VYrjtUEP3Ea9sYH5fg4) | 3:16 |
 | 7 | [You got time and I got money \- VVTZJ EDIT](https://open.spotify.com/track/5mLchLWTDgVPJPOjmDoeAx) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [VVTZJ](https://open.spotify.com/artist/2gJxIQspPPFPuNt5RFCtsw) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 5:22 |
 | 8 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 |
-| 9 | [Track 5](https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [](https://open.spotify.com/album/null) | 0:00 |
+| 9 | [Bygones](https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Fantasy](https://open.spotify.com/album/0JzyMf9Nj4j4j3akwg4fMG) | 4:00 |
 | 10 | [\_you never really get that far\_ \(Coldplay cover\)](https://open.spotify.com/track/3LadbhRQVnK6UTtK2YzzlZ) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2 \(deluxe\)](https://open.spotify.com/album/1p8ZZz8jeRlQDUlpyxma4C) | 3:57 |
 | 11 | [Homeless Maccabee](https://open.spotify.com/track/6HmyzSvYBa3HQ61vWDKexl) | [Ben Marc](https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ), [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Homeless Maccabee](https://open.spotify.com/album/7lJxerrSsbFu61cjxIFQxM) | 2:58 |
 | 12 | [HM2BB](https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9) | [Indira Elias](https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ) | [HM2BB](https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN) | 2:13 |

@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Somewhen
 
-606 songs - 1 day 13 hr 4 min
+607 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bananas](https://open.spotify.com/track/6Hze42mslIeUDRGeq8NnlQ) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [Bananas](https://open.spotify.com/album/1bpgQaBBbuBJKFsBBCBpUT) | 3:11 | 2023-04-27 | 2023-05-06 |
 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 | 2025-02-06 | 2025-10-12 |
 | [BASS DOWN LOW](https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [BASS DOWN LOW](https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1) | 2:46 | 2024-05-23 |  |
+| [Bass Down Low \(feat\. DEV\) \[Go Version\]](https://open.spotify.com/track/0rmNe8Ds7tl1nfkj4eNJq8) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Avancada](https://open.spotify.com/artist/2LvoCyCKPikfIOquhBqRce), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Bass Down Low \(feat\. DEV\) \[Go Version\]](https://open.spotify.com/album/1FogdMMgodRlRvaZ9WXzS8) | 2:54 | 2025-11-27 |  |
 | [Bass Go](https://open.spotify.com/track/5uzDTJpmseicKPwzB9q5VG) | [Antonym](https://open.spotify.com/artist/41EaXCRp3eOibImiIUUCx5) | [Bass Go](https://open.spotify.com/album/6r9zTqop9f3suoUtKTcXZL) | 5:05 | 2025-07-10 |  |
 | [Bass Up \(feat\. 666\)](https://open.spotify.com/track/07JmyNE5PImUiiqQqa2Bk5) | [RADAR](https://open.spotify.com/artist/2vSWW48mOUHkwqWZSPgcM2), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Bass Up \(feat\. 666\)](https://open.spotify.com/album/7fkdNKHZsd6Z95RFrm5E97) | 3:05 | 2024-10-10 | 2024-10-18 |
 | [Bby](https://open.spotify.com/track/59kJK9zso5CWEUOxGaGgLg) | [Dj Cinéma Quartier Latin](https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD) | [Bby](https://open.spotify.com/album/2nGcWrbfE5EF56EEPwXFn3) | 3:05 | 2025-08-14 | 2025-08-23 |
@@ -121,7 +122,7 @@
 | [Devotion \- Show Me Love 2023 Techno Mix \- Radio Edit](https://open.spotify.com/track/5CgfZ4a0Ja2m8BoHfLqvJ0) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Devotion](https://open.spotify.com/album/5eYUa4zesuZMPPTK25IRdb) | 3:50 | 2024-01-29 | 2024-05-20 |
 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 | 2025-03-03 |  |
 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 | 2023-03-10 | 2025-05-23 |
-| [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 | 2025-06-05 |  |
+| [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 | 2025-06-05 | 2025-12-06 |
 | [Dikke Beat](https://open.spotify.com/track/1C5mmdbWD5ksvTU0gHPfao) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Dikke Beat](https://open.spotify.com/album/5IDtEkSGRVQX358ShCkQHQ) | 5:00 | 2024-10-17 | 2025-01-07 |
 | [Discotheque](https://open.spotify.com/track/1ihvzrR9IdapgBsabTbUdE) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Discotheque](https://open.spotify.com/album/3lnb8ijMj7IaGHsLXVwQ6I) | 3:02 | 2023-09-29 | 2023-10-03 |
 | [Discotheque](https://open.spotify.com/track/52QTHhxqFtON5jEaPj0AsJ) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [Davyboi](https://open.spotify.com/artist/6P4o2FYfdS5rI309RFzm9m) | [Discotheque](https://open.spotify.com/album/7n6ms4cNbejSry3W9xdOPg) | 2:52 | 2025-08-14 | 2025-08-23 |

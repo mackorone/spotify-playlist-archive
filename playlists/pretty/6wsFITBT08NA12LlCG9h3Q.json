@@ -1,12 +1,12 @@
 {
   "description": "A <a href=\"http://www.digster.fm/decades\">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.",
-  "num_followers": 145780,
+  "num_followers": 145763,
   "original_name": "90s",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAFED1isRIWBaNt58411c99M8HTs8rS",
+  "snapshot_id": "AAAFEVPxGP1ezvQUPqbG4Vkh+JUbuu+h",
   "tracks": [
     {
       "added_at": "2025-07-25 20:11:39",
@@ -23,6 +23,22 @@
       "duration_ms": 295533,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+    },
+    {
+      "added_at": "2025-04-22 23:10:10",
+      "album": {
+        "name": "Feeling Strangely Fine",
+        "url": "https://open.spotify.com/album/10EiZk1JUeEcIVXHdYkrGp"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        }
+      ],
+      "duration_ms": 273533,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/087OBLtoeS3Q6j0k6tMNAI"
     },
     {
       "added_at": "2025-09-19 20:57:06",
@@ -71,22 +87,6 @@
       "duration_ms": 140226,
       "name": "Waiting For My Ruca",
       "url": "https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P"
-    },
-    {
-      "added_at": "2025-04-22 23:10:10",
-      "album": {
-        "name": "Feeling Strangely Fine",
-        "url": "https://open.spotify.com/album/10EiZk1JUeEcIVXHdYkrGp"
-      },
-      "artists": [
-        {
-          "name": "Semisonic",
-          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
-        }
-      ],
-      "duration_ms": 273533,
-      "name": "Closing Time",
-      "url": "https://open.spotify.com/track/087OBLtoeS3Q6j0k6tMNAI"
     },
     {
       "added_at": "2025-06-20 23:30:45",

@@ -2,9 +2,9 @@
 
 ### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
-> What's happening in r&b, right now – featuring Tems.
+> What's happening in r&b, right now – featuring Elmiene.
 
-1,320 songs - 2 day 22 hr 39 min
+1,322 songs - 2 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Assumptions](https://open.spotify.com/track/0egBqATpcSau87VeLWdZQt) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Assumptions](https://open.spotify.com/album/0AligRsoUXy8NgojEVYWyM) | 2:16 | 2025-09-05 | 2025-11-22 |
 | [AT MINES](https://open.spotify.com/track/5JUCZa9TG7IPdyh5ZWeuZd) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [The Sky Is Recording Me: 100 Years Later, Vol\. 1](https://open.spotify.com/album/1dsPdpA7z3yi6po3NVLqNu) | 3:33 | 2024-09-06 | 2024-10-26 |
 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-03-04 | 2022-05-20 |
-| [Aye Girl](https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Aye Girl](https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL) | 1:54 | 2025-10-04 |  |
+| [Aye Girl](https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Aye Girl](https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL) | 1:54 | 2025-10-04 | 2025-12-06 |
 | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt) | [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/album/3yR3SqAQdeR0fGXdV4NhXu) | 2:45 | 2022-03-18 | 2022-06-11 |
 | [Azonto Fiesta \(feat\. Amaarae & Mugeez\)](https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Road To Fuego](https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux) | 2:51 | 2024-10-18 | 2025-01-25 |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2021-12-31 | 2022-05-14 |
@@ -256,6 +256,7 @@
 | [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 | 2025-01-17 | 2025-03-22 |
 | [CRUISE CONTROL](https://open.spotify.com/track/6u9t5hY9AhTREcorbRIvkY) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [CRUISE CONTROL](https://open.spotify.com/album/7Chy3P3zV9mSRQMtACbSSA) | 3:04 | 2023-07-21 | 2023-10-14 |
 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 | 2025-09-12 | 2025-10-18 |
+| [Cry Against The Wind](https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Cry Against The Wind](https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn) | 4:20 | 2025-12-05 |  |
 | [crying through my teeth \- A COLORS SHOW](https://open.spotify.com/track/2zbzndFcAtAUH4x5J2pcF7) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [crying through my teeth \- A COLORS SHOW](https://open.spotify.com/album/7ICsxmgIN0HSJh70kzlePZ) | 2:21 | 2023-08-18 | 2023-09-02 |
 | [Crysalis](https://open.spotify.com/track/43drLzaqUUPyo8YlD6PBPM) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Crysalis](https://open.spotify.com/album/5wguW4MPD9WHsp65zUUSf4) | 1:47 | 2025-07-25 | 2025-11-22 |
 | [Cuando Me Ves](https://open.spotify.com/track/6t4YfQwwCZS5NIVJelVa9y) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Cuando Me Ves](https://open.spotify.com/album/1AyO4888bABY4XyNBUvwNV) | 3:19 | 2021-12-31 | 2022-01-08 |
@@ -524,7 +525,7 @@
 | [I'll Be Good](https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [I'll Be Good](https://open.spotify.com/album/33kFKgbfzbKAh2of45JHVI) | 3:32 | 2025-03-21 | 2025-10-05 |
 | [I'm Cool With That](https://open.spotify.com/track/3dLFne62Dlao0sfEVFIs2B) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [I'm Cool With That](https://open.spotify.com/album/0c9Vcy3G2nYF8VNLfGZNGL) | 2:47 | 2021-12-31 | 2022-01-15 |
 | [i'm ready \(feat\. Odeal\)](https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [WONDERLOVE +](https://open.spotify.com/album/2T9YYatIZcgwuXx8BYpISd) | 3:26 | 2025-10-10 | 2025-11-22 |
-| [I'm Still Thinking](https://open.spotify.com/track/4hJl3W0nDJj7cr4dLzDja4) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [I'm Still Thinking](https://open.spotify.com/album/0eKxu5NJRkKWRw04qxxjL3) | 2:17 | 2025-11-21 |  |
+| [I'm Still Thinking](https://open.spotify.com/track/4hJl3W0nDJj7cr4dLzDja4) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [I'm Still Thinking](https://open.spotify.com/album/0eKxu5NJRkKWRw04qxxjL3) | 2:17 | 2025-11-21 | 2025-12-06 |
 | [I'm You](https://open.spotify.com/track/5gdzZZkkk4KcBR7zFaGWhY) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:07 | 2024-04-12 | 2024-06-22 |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-18 | 2022-05-20 |
 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 | 2022-12-30 | 2023-03-04 |
@@ -1283,6 +1284,7 @@
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-06-09 | 2023-10-07 |
 | [Who You Are \- Part 2](https://open.spotify.com/track/0DstRCjGNNG3vPkZMJEmX2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Who You Are \(Part 2\)](https://open.spotify.com/album/4hgKenc090ZE2VoxXEIWbF) | 3:47 | 2021-12-31 | 2022-01-08 |
 | [Who's Gonna](https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Who's Gonna](https://open.spotify.com/album/4PJdPJ45GyTzBrKYgJIheH) | 2:58 | 2024-05-10 | 2024-06-08 |
+| [Why](https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Why](https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes) | 2:32 | 2025-12-05 |  |
 | [WHY](https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY](https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR) | 2:59 | 2024-11-29 | 2025-02-22 |
 | [Why Can't You](https://open.spotify.com/track/2fwsmT1AbClEwHbujP4ZMr) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Why Can't You](https://open.spotify.com/album/32G58TiwHXK7qTuhK69vWZ) | 3:15 | 2025-01-17 | 2025-03-22 |
 | [WiiCKEDEST](https://open.spotify.com/track/1uh75mVDUEAlVUtIYW7r4d) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [WiiCKEDEST](https://open.spotify.com/album/7sa4JXpG1WXfGdPqofo5Aj) | 3:40 | 2025-08-22 | 2025-11-22 |

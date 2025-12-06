@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Mocco Genius
+> What is your love language? Say it in Swahili\.  Cover: Jux
 
-324 songs - 18 hr 11 min
+325 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Mae Wendi](https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:43 | 2022-05-26 | 2023-06-09 |
 | [Mahaba](https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mahaba](https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x) | 3:16 | 2023-02-16 |  |
 | [Mahaba Rundo](https://open.spotify.com/track/7IQHfseN0kGCQuUrfpfPKn) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [The Black Queen](https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri) | 2:46 | 2024-08-15 | 2025-01-31 |
+| [MAJO](https://open.spotify.com/track/3iNaSkn53KpB0DM6MvC64r) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [MAJO / SEE BODY](https://open.spotify.com/album/4ITZ8yzAWfUEbNjR4SYrpC) | 2:26 | 2025-12-05 |  |
 | [Malaika](https://open.spotify.com/track/0HmfKWUkWltmnyHFdFBA4X) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/3yPFOMzNH7EAJVDPZpyMsj) | 3:42 | 2022-05-26 | 2023-04-21 |
 | [Mali Safi](https://open.spotify.com/track/275GPFzAqqi5hEZWTvdmPU) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Prince Indah](https://open.spotify.com/artist/72UZHvETWq3aV97cVxC5VS) | [Mali Safi](https://open.spotify.com/album/7fotVPs9r5uBiCmpzidB76) | 3:58 | 2024-07-04 | 2025-02-14 |
 | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/track/1n2beraaBdeHstydRddlpI) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/album/3quhGw7vAKqk1Kudwin32W) | 2:50 | 2024-03-14 | 2024-03-22 |
@@ -149,7 +150,7 @@
 | [Mar Gaya](https://open.spotify.com/track/05Wz87UDG1UaWf9DnlbZLb) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Mar Gaya](https://open.spotify.com/album/6T4f3NNgFGBCaH3FNTGYgM) | 3:04 | 2024-06-27 | 2024-11-01 |
 | [Maradonna](https://open.spotify.com/track/4KTHSeSyn3oo4dOqxheLPn) | [Tanasha Donna](https://open.spotify.com/artist/4pCGeC6vPX6UaEZhLSucym) | [Maradonna](https://open.spotify.com/album/2FWGVLe0Dk9jmc5upTmZs2) | 3:33 | 2022-07-07 | 2022-12-10 |
 | [Marry Me \(feat\. Marioo\)](https://open.spotify.com/track/0TS6oda4nNVHwn8k9V7SJu) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 3:45 | 2022-08-25 | 2023-07-28 |
-| [Matatizo](https://open.spotify.com/track/7fAsQA1owdda1wyDRWe4GH) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Matatizo](https://open.spotify.com/album/6bUpnezEMD0cNLoGmg8t4v) | 2:53 | 2024-12-19 |  |
+| [Matatizo](https://open.spotify.com/track/7fAsQA1owdda1wyDRWe4GH) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Matatizo](https://open.spotify.com/album/6bUpnezEMD0cNLoGmg8t4v) | 2:53 | 2024-12-19 | 2025-12-06 |
 | [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 | 2023-05-11 | 2023-07-21 |
 | [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 | 2022-12-16 | 2023-05-14 |
 | [Mawenge](https://open.spotify.com/track/4NF3tGNQ7Gi9A0sHnFxPCE) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Mullaobo](https://open.spotify.com/artist/3dIcJY4xlDBBnRe8bMDZ6o) | [Mawenge](https://open.spotify.com/album/4P4Y78uV52GBdtOYhuv1un) | 4:02 | 2023-12-22 | 2024-05-03 |

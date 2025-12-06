@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "(NO)STALGIA",
+        "url": "https://open.spotify.com/album/5gf4SHNy7X21805le62wgA"
+      },
+      "artists": [
+        {
+          "name": "DAYFAIR",
+          "url": "https://open.spotify.com/artist/3grE5TqsfwLPsljwMAnPEl"
+        },
+        {
+          "name": "N0en",
+          "url": "https://open.spotify.com/artist/2gv3tIgZWNY7aCgha1y6cs"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193465,
+      "name": "(NO)STALGIA",
+      "url": "https://open.spotify.com/track/75FuKBIZqdI5FiMFKWSUZF"
+    },
+    {
+      "album": {
         "name": "43210",
         "url": "https://open.spotify.com/album/4FWtBj1ZEJTJYmRPUSiJ0u"
       },
@@ -415,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Addiction (Acoustic)",
+        "url": "https://open.spotify.com/album/3t8LQCTAuhNLUtOGnUPMoz"
+      },
+      "artists": [
+        {
+          "name": "Naomi Ivo",
+          "url": "https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155610,
+      "name": "Addiction - Acoustic",
+      "url": "https://open.spotify.com/track/2FfiwEFWDceK0TlkpAwLIH"
+    },
+    {
+      "album": {
         "name": "After All",
         "url": "https://open.spotify.com/album/0FXuhf7oz9QFTYKET9a5uF"
       },
@@ -444,7 +484,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 213000,
       "name": "AIN'T AFRAID OF LOVE",
       "url": "https://open.spotify.com/track/4tOw8pFsj43Tihuk3b0a0l"
@@ -752,7 +792,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 157142,
       "name": "Back 2 You",
       "url": "https://open.spotify.com/track/5io7Qe2zh7px5elpRJk5oC"
@@ -966,7 +1006,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 223103,
       "name": "Best",
       "url": "https://open.spotify.com/track/2M7OFg3jM19RdwxklwGTJX"
@@ -1038,7 +1078,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 200399,
       "name": "Between the Lines",
       "url": "https://open.spotify.com/track/44dbz4ly9eV6cPeIToRp0H"
@@ -2004,7 +2044,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 259500,
       "name": "crown - Extended version",
       "url": "https://open.spotify.com/track/747NwXzJbzxokNvuBTISIF"
@@ -2375,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3ThSbVY6TuSGjbkJGOVFPp"
+      },
+      "artists": [
+        {
+          "name": "RACH?",
+          "url": "https://open.spotify.com/artist/2Ha1m0lk3Eo8FyDa6eNfgd"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/3aie1YivGTXPvouvVAMl9h"
+    },
+    {
+      "album": {
         "name": "Dream Girl",
         "url": "https://open.spotify.com/album/11K3wztTjLdOChvFITyvvy"
       },
@@ -2498,7 +2556,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 253090,
       "name": "Earth",
       "url": "https://open.spotify.com/track/5TJaOJzAaDaVIiRJerkNhu"
@@ -2534,7 +2592,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 172827,
       "name": "Elevator Music",
       "url": "https://open.spotify.com/track/3JPlpg1N3G4wv5QrTOSjvR"
@@ -2740,7 +2798,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 168658,
       "name": "Fall Into You",
       "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
@@ -2940,7 +2998,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 217903,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/0qG2qBOkGXPOplavjmTs9h"
@@ -3218,7 +3276,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 228778,
       "name": "forevermore",
       "url": "https://open.spotify.com/track/5V5Ap2hQE1TziFozK3VNm6"
@@ -3236,7 +3294,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 215500,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/4alXisqShAyx5z1VFwB7on"
@@ -3598,7 +3656,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 354621,
       "name": "Givemeall",
       "url": "https://open.spotify.com/track/2ILd3ZZM7yC8aPyZ2PUTK0"
@@ -3976,7 +4034,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 214956,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1IHGk33iYHS1m5yX6ucRyl"
@@ -4084,7 +4142,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 218239,
       "name": "high",
       "url": "https://open.spotify.com/track/3idBrMwX5Kcl5e2LOEW8P3"
@@ -4200,7 +4258,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 166736,
       "name": "How Much Love's at Stake?",
       "url": "https://open.spotify.com/track/6p12a8y5vpkcp7PZa8FFvo"
@@ -4576,7 +4634,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 404849,
       "name": "I'll Love You 'Till The Day I Die",
       "url": "https://open.spotify.com/track/20hcxDegCgbbB98t5os7mF"
@@ -5390,7 +5448,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 285037,
       "name": "Lebih Indah Berpisah",
       "url": "https://open.spotify.com/track/6EtXpBUmPm7fyhUGnca7hr"
@@ -5680,7 +5738,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 175135,
       "name": "Long As",
       "url": "https://open.spotify.com/track/1o33oTcVEUuQxAYwAggNCB"
@@ -6488,7 +6546,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 164289,
       "name": "Mother Angels",
       "url": "https://open.spotify.com/track/6myB4SLfmZpPpXgPPsodyY"
@@ -6542,7 +6600,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 198948,
       "name": "My Dear, Oh Dear",
       "url": "https://open.spotify.com/track/4Nrzjx16pCRUAZ7TXikLpA"
@@ -6930,7 +6988,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 204846,
       "name": "Oh Well",
       "url": "https://open.spotify.com/track/1ZPCP9A99sslhQoGbYE4Mm"
@@ -7140,7 +7198,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 206831,
       "name": "Ordinary Day",
       "url": "https://open.spotify.com/track/1cvtW4ZA6Tfmap44lhb5GG"
@@ -7522,7 +7580,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 146400,
       "name": "Ready",
       "url": "https://open.spotify.com/track/2pCns6U2LU4gmRROcWQJiJ"
@@ -7692,7 +7750,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 225750,
       "name": "Room 17A (make up ur mind)",
       "url": "https://open.spotify.com/track/2yXOKrUhgwXqW1hdarSEEt"
@@ -7834,7 +7892,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 208051,
       "name": "sad face :(",
       "url": "https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5"
@@ -7888,7 +7946,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 232195,
       "name": "Safe Spot",
       "url": "https://open.spotify.com/track/50y0uV8SoSDYslBNZTKlhY"
@@ -8590,7 +8648,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 293089,
       "name": "Speak Of Flames",
       "url": "https://open.spotify.com/track/76hET7hfrplSsQvUxrMu7e"
@@ -9016,7 +9074,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 295568,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/3UfJsm3CYBlDolv4MzNXM4"
@@ -9830,7 +9888,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 229565,
       "name": "wait a while",
       "url": "https://open.spotify.com/track/0604KZj4wib0UOceHyQISd"
@@ -10044,7 +10102,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 204000,
       "name": "What are We?",
       "url": "https://open.spotify.com/track/4huTFGlzP6EZIDgwxuGXT6"

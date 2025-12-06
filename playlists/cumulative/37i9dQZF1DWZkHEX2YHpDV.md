@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,427 songs - 3 day 3 hr 20 min
+1,428 songs - 3 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 | [Figure 8](https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:24 | 2023-04-28 | 2024-02-24 |
 | [Figure Eight](https://open.spotify.com/track/4JbNlNqFMVs1vBOFAutXcK) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/0eU9qAlZt7kIEZnonBtixO) | 3:21 | 2021-12-10 | 2022-07-29 |
 | [Figure Eight](https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez) | 3:21 | 2022-07-08 | 2022-08-06 |
-| [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 | 2024-12-06 |  |
+| [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 | 2024-12-06 | 2025-12-06 |
 | [Fireplace](https://open.spotify.com/track/1PEvoJAIcrh3Y3SsxQrl6t) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Anemia](https://open.spotify.com/album/3EJPukArWrGXomGYPqZFeu) | 3:12 | 2023-09-22 | 2023-11-11 |
 | [Fireplace](https://open.spotify.com/track/6ltKvSyebk65SJtg5zKDXW) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Fireplace](https://open.spotify.com/album/5U2tNJNxYatUi2OV5SJAQQ) | 3:14 | 2023-07-14 | 2023-07-29 |
 | [Firestorm](https://open.spotify.com/track/4bmsOlx4HU2XYDNMjMMuby) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [Firestorm](https://open.spotify.com/album/6l5cHuFSf5pKtJYuI8qkrA) | 3:05 | 2021-12-10 | 2022-07-28 |
@@ -553,6 +553,7 @@
 | [he a bad guy](https://open.spotify.com/track/3fbsX0zkyDN3Ae2huke2ae) | [Leo IV](https://open.spotify.com/artist/0sL7q6u63eg3AuYPwImbhN), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [he a bad guy](https://open.spotify.com/album/6MpWpDk4cBNUkU2BppuuXM) | 3:04 | 2022-03-25 | 2022-04-18 |
 | [Head & Spine](https://open.spotify.com/track/1k9Eb95llEWewWSLjqwYsD) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Head & Spine](https://open.spotify.com/album/6WSv8U4e0iDs0vJOYobqb8) | 3:08 | 2024-12-06 | 2025-02-01 |
 | [Head in the Clouds](https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 2:55 | 2023-04-23 | 2024-09-21 |
+| [Head is Like a Sinking Stone](https://open.spotify.com/track/0RST1KsKG9fi3UhYkq1xMa) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Head is Like a Sinking Stone](https://open.spotify.com/album/3e38ud0QvEybSeP6fTehXS) | 3:03 | 2025-12-05 |  |
 | [Headstone](https://open.spotify.com/track/5PbNsH6E4cKPKqSTIx6sQb) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Headstone](https://open.spotify.com/album/1qBvU9jzoyXf2FnF83MvvQ) | 3:50 | 2022-01-14 | 2022-07-19 |
 | [Heart Attack](https://open.spotify.com/track/6N88MInYwIab3suehVS64N) | [Thread](https://open.spotify.com/artist/6J8HdPeALOQtOJDTPInUuS) | [Heart Attack](https://open.spotify.com/album/7F4U8IpcfCyDPk8NuOyyxw) | 3:22 | 2022-02-04 | 2022-04-29 |
 | [HEART AWAY](https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [WHERE DID ALL THE BUTTERFLIES GO?](https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM) | 3:01 | 2025-09-12 |  |

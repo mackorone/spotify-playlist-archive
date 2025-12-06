@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Skaai
 
-2,115 songs - 4 day 10 hr 52 min
+2,116 songs - 4 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Gear 5](https://open.spotify.com/track/3a3IzXws4QWyMJjpalutIi) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [SUN NO KUNI](https://open.spotify.com/album/36kBvq8ThgFCCIHuJfoPfu) | 3:46 | 2023-09-21 | 2024-04-19 |
 | [Gear 5 \- Remix](https://open.spotify.com/track/09qFuP62AreGvLsjpEoqhv) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gear 5 \(Remix\)](https://open.spotify.com/album/3p1RDGa2EFeq2T4tRIj15Q) | 3:45 | 2024-07-30 | 2024-10-05 |
 | [Generic](https://open.spotify.com/track/7ELQL5WNkem4ypfSy9IfGD) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [Generic](https://open.spotify.com/album/6jdrKgwNSbF2HcLKztFEfV) | 2:43 | 2025-10-16 | 2025-11-19 |
+| [GENZAI \- Remix](https://open.spotify.com/track/5Xw2PBolh02ty5HylmuKXW) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [LiL HiTUMABUSHi](https://open.spotify.com/artist/4rBlypcYZnbusrEjfibXZr) | [GENZAI \(Remix\)](https://open.spotify.com/album/19aBHCF7QdSdSNwxIG2H76) | 2:38 | 2025-12-04 |  |
 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 | 2023-12-06 | 2024-04-19 |
 | [Get Back](https://open.spotify.com/track/2L4TksDkTcAfZXGNjpdQqG) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/3tEL6DBYyXvtDSmQBDNog5) | 3:27 | 2024-04-18 | 2024-05-29 |
 | [Get Back \- Double Clapperz Remix](https://open.spotify.com/track/12ZDKB6VLFgbw7yxyJZ43G) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Double Clapperz](https://open.spotify.com/artist/7tMpkHHGx888nBtdiDZ1Ql) | [Get Back \(Double Clapperz Remix\)](https://open.spotify.com/album/1fZWhh4JGvQhXCvM65yGI0) | 3:42 | 2023-09-21 | 2023-12-06 |

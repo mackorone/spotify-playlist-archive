@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 135000,
       "name": "A Long Way",
       "url": "https://open.spotify.com/track/0URH3UrDV3zoeCxGCW6UEL"
@@ -218,6 +218,24 @@
       "duration_ms": 142500,
       "name": "Abandoned",
       "url": "https://open.spotify.com/track/42HAxEUm5y4tqDCqRzH82A"
+    },
+    {
+      "album": {
+        "name": "Above or Afar",
+        "url": "https://open.spotify.com/album/51x0qhbHoXdb5K2wE4QcFM"
+      },
+      "artists": [
+        {
+          "name": "The Pleasure Principle",
+          "url": "https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142977,
+      "name": "Above or Afar",
+      "url": "https://open.spotify.com/track/47ZF3hjb1uOe6pQT7rll6w"
     },
     {
       "album": {
@@ -2165,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Cloud Drift",
+        "url": "https://open.spotify.com/album/4x3hifMMnVUK3mjotTGhMs"
+      },
+      "artists": [
+        {
+          "name": "Gary Luton",
+          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127434,
+      "name": "Cloud Drift",
+      "url": "https://open.spotify.com/track/7Ag86EULfh58EOJr4caHsv"
+    },
+    {
+      "album": {
         "name": "Cloud Surfing",
         "url": "https://open.spotify.com/album/6Pnw2mMOlp8PUb4HKoqFcA"
       },
@@ -2854,7 +2890,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 179454,
       "name": "Dial In",
       "url": "https://open.spotify.com/track/74UYdNAk3qSD6U4V5DShef"
@@ -3266,6 +3302,24 @@
     {
       "album": {
         "name": "Drift",
+        "url": "https://open.spotify.com/album/0VufLrSlhKi6K8eRDXAl5x"
+      },
+      "artists": [
+        {
+          "name": "Echo Riviera",
+          "url": "https://open.spotify.com/artist/24ShSWDxrdclWlfmqCEp6U"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1PTExB2wszGPwOZAI9j7vJ"
+    },
+    {
+      "album": {
+        "name": "Drift",
         "url": "https://open.spotify.com/album/2sqIovu6Xq6rORktpPbcMa"
       },
       "artists": [
@@ -3420,7 +3474,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 132717,
       "name": "Earlybird",
       "url": "https://open.spotify.com/track/2BdKiwPRV6UbxAwdqS8iDA"
@@ -3598,7 +3652,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 142000,
       "name": "Endless Road",
       "url": "https://open.spotify.com/track/1Kqx9kj7twQEexWCa4WHUZ"
@@ -4474,7 +4528,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 182666,
       "name": "Fragile Minds",
       "url": "https://open.spotify.com/track/61xuUczLEzHQ0uXSbrVcCp"
@@ -4788,7 +4842,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 153333,
       "name": "Glissen",
       "url": "https://open.spotify.com/track/2jTzKga2LencuGjgunPajE"
@@ -5026,6 +5080,24 @@
       "duration_ms": 173031,
       "name": "grenadine",
       "url": "https://open.spotify.com/track/7ILFq1DgzrSm8vJE0GINBY"
+    },
+    {
+      "album": {
+        "name": "Guayaba",
+        "url": "https://open.spotify.com/album/4V9dDmNIgrTXeSpzS9oION"
+      },
+      "artists": [
+        {
+          "name": "Coahira",
+          "url": "https://open.spotify.com/artist/1QEfw9jXIznhQF5JoLa3jC"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Guayaba",
+      "url": "https://open.spotify.com/track/7b8W3fQIG4OzYjYjeeLxJI"
     },
     {
       "album": {
@@ -5314,6 +5386,24 @@
       "duration_ms": 134181,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7q0oj9w5wfczZRmv2JwaQ2"
+    },
+    {
+      "album": {
+        "name": "Higher Spirits",
+        "url": "https://open.spotify.com/album/0cA4MfjbeHdkKgPiRUq1PP"
+      },
+      "artists": [
+        {
+          "name": "crayg",
+          "url": "https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119397,
+      "name": "Higher Spirits",
+      "url": "https://open.spotify.com/track/1wlhboZ1uS1FrjgbotAFgy"
     },
     {
       "album": {
@@ -5688,7 +5778,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 150731,
       "name": "Iampredotto don",
       "url": "https://open.spotify.com/track/0gqQB2GBIyprIf4qJYvOHJ"
@@ -7021,6 +7111,24 @@
     },
     {
       "album": {
+        "name": "magnolia",
+        "url": "https://open.spotify.com/album/7q6dotamNRrjf1dEj4sRd1"
+      },
+      "artists": [
+        {
+          "name": "bandhagen",
+          "url": "https://open.spotify.com/artist/7efEpfTivjYIe4X8MA8CwI"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "magnolia",
+      "url": "https://open.spotify.com/track/781TPU4resUJKREWmOeJW5"
+    },
+    {
+      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/6e93BRGJ8p6Gg7Elwbb5un"
       },
@@ -8030,7 +8138,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 161624,
       "name": "Natural Capacity",
       "url": "https://open.spotify.com/track/6VRAp6MU7djkil0b7HuZNc"
@@ -8088,6 +8196,24 @@
       "duration_ms": 170006,
       "name": "Neon Avenue",
       "url": "https://open.spotify.com/track/7mse3o5ozkyUJsRSuNCdrP"
+    },
+    {
+      "album": {
+        "name": "New Beggings",
+        "url": "https://open.spotify.com/album/2P03ojKcfa1rBVt3UHyxYu"
+      },
+      "artists": [
+        {
+          "name": "stil de grain",
+          "url": "https://open.spotify.com/artist/7MtqDjgMm4TTIYrsEVLeqZ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129329,
+      "name": "New Beggings",
+      "url": "https://open.spotify.com/track/5gKhAXhM1LiJjNku3XfGEI"
     },
     {
       "album": {
@@ -11888,7 +12014,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 180180,
       "name": "Sunrays",
       "url": "https://open.spotify.com/track/3ROSFUvRBBEnTU1MrkIw5E"
@@ -13082,6 +13208,24 @@
       "duration_ms": 132080,
       "name": "u shine",
       "url": "https://open.spotify.com/track/3MzNoKBTU7YDse4ffTVDfd"
+    },
+    {
+      "album": {
+        "name": "Under the Canopy",
+        "url": "https://open.spotify.com/album/0mDwLA4hVGNM2iEfUojBzb"
+      },
+      "artists": [
+        {
+          "name": "Zaytune",
+          "url": "https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150588,
+      "name": "Under the Canopy",
+      "url": "https://open.spotify.com/track/6MIpWHRZaynHjn772lyrMJ"
     },
     {
       "album": {

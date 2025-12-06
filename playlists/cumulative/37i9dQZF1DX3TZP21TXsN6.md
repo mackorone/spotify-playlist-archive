@@ -4,7 +4,7 @@
 
 > Nieuwe tracks elke week!
 
-282 songs - 12 hr 13 min
+283 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [SD Kaart](https://open.spotify.com/track/3TcRryQZXHTrBXtA1ffgMk) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl), [Fredobeats](https://open.spotify.com/artist/11mF7q71d6HxKR4uZR4DWX) | [SD Kaart](https://open.spotify.com/album/4t1CBylzLDMvg5Bpa6YZ57) | 2:51 | 2025-12-04 |  |
 | [Señorita](https://open.spotify.com/track/0Yh80YBezb3QnIk9p8nSbI) | [Parsa](https://open.spotify.com/artist/7zq4HhXQ1Tp9LRE7MtEN9m), [Stackz](https://open.spotify.com/artist/7JaoaPra85ySxiAoKeAUQS), [73 De Pijp](https://open.spotify.com/artist/12iyh851ZpgQQ0iPIKefFJ) | [Señorita](https://open.spotify.com/album/4njkTuKqJoQP01QKqTwkCk) | 1:55 | 2025-11-06 |  |
 | [Sfeerimpressie](https://open.spotify.com/track/5ABzhtEe5v62chsaeX2cAC) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [Sfeerimpressie](https://open.spotify.com/album/12L45quyUG0gfNK2LWXZ96) | 1:46 | 2025-11-27 |  |
+| [Shinen](https://open.spotify.com/track/6jvfVmpaSEvckOrktLyw4k) | [Bailey KBC](https://open.spotify.com/artist/3Cf9anMB3CrNzdcOgeLVC4) | [Shinen](https://open.spotify.com/album/3gQ29L8H6mRoCMS7j1Xpnv) | 2:27 | 2025-12-05 |  |
 | [Slide](https://open.spotify.com/track/6jAc3YHbqtYNZh8s7VjTMX) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl), [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT) | [Slide](https://open.spotify.com/album/0Zjcplje0NavtcVorcmKJc) | 2:29 | 2025-10-31 | 2025-11-07 |
 | [Snotneus](https://open.spotify.com/track/6PkauAK5MnF4dRpbV8YdLl) | [Flo](https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy) | [Snotneus](https://open.spotify.com/album/4ocszAEfSeW9fUx37bI2ux) | 2:27 | 2025-10-31 |  |
 | [Snus & dadels](https://open.spotify.com/track/2D8B5muqNUxGv9gkeT5RhR) | [T.y](https://open.spotify.com/artist/4kZg1xYJZOlOz4ssU4kQmB), [Dyga](https://open.spotify.com/artist/3No2WaUo1cWh7mnzW3bmmw) | [Snus & dadels](https://open.spotify.com/album/5snOy7ftJhPwKgKrR8n2Kc) | 1:58 | 2025-09-25 | 2025-10-17 |

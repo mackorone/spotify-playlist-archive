@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX47UHGK8zGt8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX47UHGK8zGt8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX47UHGK8zGt8)
 
-### [Manhã Relax](https://open.spotify.com/playlist/37i9dQZF1DX47UHGK8zGt8)
+### [Manhã de Natal](https://open.spotify.com/playlist/37i9dQZF1DX47UHGK8zGt8)
 
-> Aquelas pra começar o dia de alma leve
+> gostosinho né?
 
-311 songs - 17 hr 29 min
+312 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Gigi](https://open.spotify.com/track/1W39bHsutPg1ItstVvzS2T) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 2:56 | 2022-04-01 | 2022-04-21 |
 | [Good Vibes](https://open.spotify.com/track/7lW9epMgtSyF21b3muuNDw) | [Dois é Par](https://open.spotify.com/artist/2LfLjCqLZupHpDuFWq70Zk) | [Dois é Par](https://open.spotify.com/album/2aW8hmMBYgHV3ClYmKly5H) | 2:56 | 2022-02-18 | 2022-07-29 |
 | [Guaecá](https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw) | [LUAU](https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg) | [Guaecá](https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0) | 2:36 | 2025-07-18 |  |
+| [Hibisco Com Dendê](https://open.spotify.com/track/785fLLYEhgkeymX30jypYA) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hibisco Com Dendê](https://open.spotify.com/album/5Era2mXtRq5V8MUTMZ8gtv) | 3:18 | 2025-12-05 |  |
 | [Horizonte](https://open.spotify.com/track/53M78qKCQ1PVoqnzqE94VH) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Horizonte](https://open.spotify.com/album/4InM7tZt258Z6hSGDLPpgj) | 3:23 | 2022-04-01 | 2022-05-07 |
 | [Imagina](https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Imagina](https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A) | 2:49 | 2023-10-06 |  |
 | [imagina amar assim](https://open.spotify.com/track/0PmLsegy4g7Tgmc0C9jM61) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1), [bibi](https://open.spotify.com/artist/5psPyNU0Tac7jGsyaqOFR4) | [imagina amar assim](https://open.spotify.com/album/6YMf5PbWziwj5LVrU1dLUr) | 3:00 | 2022-03-11 | 2022-06-20 |
@@ -253,7 +254,7 @@
 | [Se Fosse Normal Ser Louco?](https://open.spotify.com/track/71gGD458tFryCohEK1iJy3) | [LoreB](https://open.spotify.com/artist/7MjaGpdVZenDgXEUF4CXSz), [Cris Braun](https://open.spotify.com/artist/2JgOpjAclT7MnRKsYekXuf), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [Cheio de Vazio](https://open.spotify.com/album/0WXeAvwodZTkZg1HpFVGr0) | 2:46 | 2022-04-01 | 2022-04-20 |
 | [Se Perder](https://open.spotify.com/track/4no2z9sJGD1O2iHCCDDgEC) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Se Perder](https://open.spotify.com/album/4elS2JhpQVGLNOH2Xr0pkg) | 3:12 | 2022-02-18 | 2022-07-28 |
 | [Se Todos Fossem Iguais a Você](https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn) | [Nana, Tom, Vinicius](https://open.spotify.com/album/73qo38bDY4G4RczOWQxDtI) | 2:58 | 2022-04-01 |  |
-| [Se Um Dia Chorei](https://open.spotify.com/track/5dpNzysolHR2xCJKj4VCWZ) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Especiarias \- Ato I](https://open.spotify.com/album/5Rw3dZWSJklE8o8k6iVRnG) | 2:41 | 2025-10-03 |  |
+| [Se Um Dia Chorei](https://open.spotify.com/track/5dpNzysolHR2xCJKj4VCWZ) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Especiarias \- Ato I](https://open.spotify.com/album/5Rw3dZWSJklE8o8k6iVRnG) | 2:41 | 2025-10-03 | 2025-12-06 |
 | [Segredos da Vida](https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Segredos da Vida](https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u) | 2:22 | 2023-12-01 | 2024-01-13 |
 | [Sem Lei](https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 2:53 | 2025-04-04 |  |
 | [Sem Tu \- Acoustic](https://open.spotify.com/track/1BL0EKvMbaLfKt6FtwtzbF) | [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Sem Tu](https://open.spotify.com/album/1Rf40QwzPmtbpSxkbd9Hhh) | 2:40 | 2022-04-01 | 2022-04-19 |

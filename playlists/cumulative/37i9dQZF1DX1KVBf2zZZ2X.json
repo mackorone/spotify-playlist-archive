@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 170000,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/38GHW30hLw28Noczz5ALKg"
@@ -3314,6 +3314,24 @@
       "duration_ms": 198095,
       "name": "Quiet Soul",
       "url": "https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo"
+    },
+    {
+      "album": {
+        "name": "Raindrop Manor",
+        "url": "https://open.spotify.com/album/4xARhHojltdgbg3F0Eb2zO"
+      },
+      "artists": [
+        {
+          "name": "Tuiren",
+          "url": "https://open.spotify.com/artist/16NpFw9d7RglZF6qA07Y1G"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157404,
+      "name": "Raindrop Manor",
+      "url": "https://open.spotify.com/track/3xFNORPASQf8H8UyDFUMWC"
     },
     {
       "album": {

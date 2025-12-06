@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76VB9ZPpcap220Osx9Ktjj.md) - [plain]
 
 > <a href="https://www.rammstein.de/en/tickets/">Rammstein Tour Dates</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 90,662 likes - 22 songs - 1 hr 36 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 90,654 likes - 22 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Women of Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX2QYsoI8NDDe)
 
-> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Carolina Ross y Denise Gutierrez
+> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Carolina Ross
 
-579 songs - 1 day 7 hr 14 min
+584 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Al No Tenerte](https://open.spotify.com/track/5TOSj4RD0DP9ntUD4ng3p1) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Al No Tenerte](https://open.spotify.com/album/4eQvcIFA0g1LN7lGWm4JgH) | 3:14 | 2023-11-24 | 2025-09-27 |
 | [Al Olvido](https://open.spotify.com/track/3KGzELBfeMGnI9tSWyMNgU) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Al Olvido](https://open.spotify.com/album/4SEU3UedBgW7TYvCmPYhz2) | 3:18 | 2024-09-06 |  |
 | [Amar Y Vivir \- En Vivo](https://open.spotify.com/track/5SMGmsiSlbB0mhoM8RVBxQ) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Amar Y Vivir \(En Vivo Desde La Ciudad De México, 2017\)](https://open.spotify.com/album/4Xjf9chXOeW3SNxnARpMNT) | 3:02 | 2022-01-21 | 2023-03-04 |
+| [Amiga Traidora \- Cumbia TexMex](https://open.spotify.com/track/7aP0egv8A32jZLoO0OU56O) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amiga Traidora \(Cumbia TexMex\)](https://open.spotify.com/album/2y4Ew4yL1fhfDyNK38XmD1) | 4:09 | 2025-12-05 |  |
 | [Amor Perdido](https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Amor Perdido](https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1) | 3:20 | 2024-02-23 | 2025-10-11 |
 | [Amor Prohibido](https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:44 | 2022-01-07 | 2023-03-04 |
 | [Amor Propio](https://open.spotify.com/track/5WCl1F8tCPDECysU3yrwQ9) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [DIAMANTES VVS1](https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf) | 3:25 | 2024-10-25 | 2025-05-31 |
@@ -343,6 +344,7 @@
 | [Ni Una Mas](https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Ni Una Mas](https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W) | 2:41 | 2022-04-01 | 2022-04-20 |
 | [Ni Una Sola Palabra](https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT) | 3:44 | 2022-01-07 | 2023-03-04 |
 | [Ningún Color Tiene Dueño](https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu) | [Majo Cornejo](https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn) | [Ningún Color Tiene Dueño](https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu) | 3:25 | 2025-10-03 |  |
+| [No ando llorando](https://open.spotify.com/track/3hXskakIHPNQ7LpGXFBRBk) | [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy), [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp) | [No ando llorando](https://open.spotify.com/album/6499zFMyRIwrREHhCBXxkC) | 2:32 | 2025-12-05 |  |
 | [No Cualquiera](https://open.spotify.com/track/0W8IV6tyIu5vUonMKdkd7I) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Victor Eduardo](https://open.spotify.com/artist/3l6Z0fKebCCFlLyajThPMh) | [No Cualquiera](https://open.spotify.com/album/5t9ewPYspdQkzRhJVbTRGz) | 2:44 | 2024-04-26 | 2025-10-25 |
 | [No Es Cierto](https://open.spotify.com/track/24a8NMs0KzN0wF0WLlW25B) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [No Es Cierto](https://open.spotify.com/album/2w4KFlhTGrlXzj7GE0wvh0) | 2:31 | 2024-12-06 |  |
 | [No Fuimos](https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Fuimos](https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE) | 2:46 | 2024-10-18 | 2025-02-10 |
@@ -351,6 +353,7 @@
 | [No Le Lloro A Cabrones](https://open.spotify.com/track/73OPCyWw3fDg9xL1G04Yhy) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [No Le Lloro A Cabrones](https://open.spotify.com/album/5kerJnaVyLPuxahQ2hhhn8) | 2:50 | 2022-01-21 | 2022-06-05 |
 | [No Llega El Olvido](https://open.spotify.com/track/6GKGBJYBmRGJ6QarBjhmVM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/78I27AxTxuvAEWRfQLfcma) | 3:12 | 2022-01-07 | 2022-07-29 |
 | [No Llega el Olvido](https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:14 | 2022-05-20 | 2023-03-04 |
+| [No Llega El Olvido \(Banda\)](https://open.spotify.com/track/6Z38kXQPJiFfxow9b1NKam) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora \(Banda\)](https://open.spotify.com/album/2vpPlSBA12bNyT6cKenLvW) | 3:05 | 2025-12-05 |  |
 | [No Me Deja De Doler](https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [No Me Deja De Doler](https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ) | 2:37 | 2023-03-03 | 2025-05-26 |
 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 | 2022-01-07 | 2023-03-04 |
 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 | 2023-01-20 | 2025-10-11 |
@@ -435,6 +438,7 @@
 | [Que Se Sepa Nuestro Amor](https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Se Sepa Nuestro Amor](https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr) | 2:59 | 2022-01-07 | 2023-03-04 |
 | [Que Siga Pasando](https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Que Siga Pasando](https://open.spotify.com/album/1agHYBrfRg36wXg1S51P3p) | 3:10 | 2024-09-20 |  |
 | [Que Tal?](https://open.spotify.com/track/4yeodKx69oHZKlG0p1d4An) | [Rocio Jasso](https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b) | [Que Tal?](https://open.spotify.com/album/3xX5hsUxsPjiK5MHKvm1U8) | 4:20 | 2025-10-24 |  |
+| [Que Te Cambie La Suerte](https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2) | [Briseyda Solis](https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi) | [Que Te Cambie La Suerte](https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ) | 3:27 | 2025-12-05 |  |
 | [Que Vuelva](https://open.spotify.com/track/6h4krpn1OHlpiRDkthIcJk) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Y Seguimos Con Duranguense](https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR) | 4:18 | 2022-01-07 | 2023-03-04 |
 | [Que Vuelvas / Bebe Dame](https://open.spotify.com/track/2XrOorKhvt1a1Ed9cSegMu) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Que Vuelvas / Bebe Dame](https://open.spotify.com/album/4QCle6zCruK9W630FupUSX) | 2:56 | 2023-03-17 | 2025-10-18 |
 | [Que Vuelvas / Bebe Dame](https://open.spotify.com/track/4anE0W56Z8NKjAwAuMZA1o) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Que Vuelvas / Bebe Dame](https://open.spotify.com/album/4ogxUO5T4YutKJlGSfDiq3) | 2:56 | 2023-04-28 | 2024-04-19 |
@@ -547,6 +551,7 @@
 | [Una Vida](https://open.spotify.com/track/2sHfiuExXmc795qyMtKFlE) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Una Vida](https://open.spotify.com/album/4yIE4FFAh7Agudj7nC5EX2) | 4:29 | 2022-04-01 | 2022-04-21 |
 | [Uno de los Buenos](https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Uno de los Buenos](https://open.spotify.com/album/2AvHahqBPECo32t4COxfak) | 2:56 | 2023-03-03 | 2025-09-27 |
 | [Vanessa Guillen](https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Vanessa Guillen](https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq) | 3:27 | 2023-03-03 | 2025-09-27 |
+| [Veneno](https://open.spotify.com/track/2qFliOGGUoUCXPecNn6KZD) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [INICIOS](https://open.spotify.com/album/00OQLg0w3EJVaKy05KN46d) | 3:44 | 2025-12-05 |  |
 | [Vete](https://open.spotify.com/track/6sdyIPisM0l6okphIRIdjU) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Vete](https://open.spotify.com/album/5Op1x1Hx8j3vYjnEBLGS6v) | 2:58 | 2024-12-06 |  |
 | [Vine a Desearte Suerte \- Acustica](https://open.spotify.com/track/6rmPTbfrC2WYsyZ2jqfrYs) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Vine a Desearte Suerte \(Acustica\)](https://open.spotify.com/album/6NuONmcne6HrAWRdi5O3o2) | 2:47 | 2024-12-06 |  |
 | [Volver, Volver](https://open.spotify.com/track/2mkUBcaUq55xuCjDerewlC) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Volver, Volver](https://open.spotify.com/album/5F5Np3T8ngRs8hoNMVyI9t) | 3:16 | 2022-04-01 | 2022-05-20 |

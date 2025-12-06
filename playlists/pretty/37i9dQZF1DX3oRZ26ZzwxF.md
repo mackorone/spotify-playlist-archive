@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : døpelym
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,243 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,324 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 14 | [RASTA \(feat\. La Rvfleuze\)](https://open.spotify.com/track/53TevesyM4q1FHlQIiFITA) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [DACHIBA KOUMGBA TCHAIBA : DALSHIM](https://open.spotify.com/album/6qtytRvjDiVRsYweV2svgi) | 2:49 |
 | 15 | [SOLDAT](https://open.spotify.com/track/47Zi1azLkIGvZZXkVIOgnH) | [Paki Chenzu](https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB) | [SOLDAT](https://open.spotify.com/album/4fkctYphAu4TFbtZMSyejI) | 2:57 |
 | 16 | [Charger](https://open.spotify.com/track/5LoG4nhfVuHeWFvBAePU52) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [Charger](https://open.spotify.com/album/0iskaRfgHt8Y9iR4sym0VR) | 3:12 |
-| 17 | [Track 4](https://open.spotify.com/track/1NlOBqqVvZrgxn3ZyBGXBw) | [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa) | [](https://open.spotify.com/album/null) | 0:00 |
+| 17 | [Ghetto](https://open.spotify.com/track/1NlOBqqVvZrgxn3ZyBGXBw) | [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Noukou](https://open.spotify.com/artist/7x0IZxCa7zv3ROFI7xbLUN) | [BIG TAZE](https://open.spotify.com/album/6KY24lWvNTk447Hu9iRGKm) | 2:51 |
 | 18 | [Donne Moi](https://open.spotify.com/track/77iBU2Yk0R3P2AdKsgxIgI) | [Shapat](https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP) | [Donne Moi](https://open.spotify.com/album/7bAf60qK0LTf2CCy9O7zig) | 3:42 |
 | 19 | [Santé](https://open.spotify.com/track/5WGnX9BtRdajMRI9oS75hp) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv), [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [Santé](https://open.spotify.com/album/7FQXOFR8zUbujpNhGcjUhs) | 3:07 |
 | 20 | [Whatsapp](https://open.spotify.com/track/4oFUIXTJfKWW1sQXGwBvNy) | [Jojo le Barbu](https://open.spotify.com/artist/2vTdlbSIfq0koZNrQB2WV9), [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [Election](https://open.spotify.com/album/28wOO7sKBChGI7UaTW5Tm4) | 3:13 |

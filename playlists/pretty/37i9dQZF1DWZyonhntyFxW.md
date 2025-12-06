@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى تراكات الهيب هوب في مصر\. الغلاف: كريم أسامة
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,190 likes - 41 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,241 likes - 41 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

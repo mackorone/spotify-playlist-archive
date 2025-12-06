@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Central Cee,  Lil Baby and Lil Uzi Vert",
+  "description": "New music from Lil Baby, GloRilla and Lil Uzi Vert.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -816,6 +816,24 @@
       "duration_ms": 155720,
       "name": "4 Da Gang (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/4KIkADzoVm3A10E9qyjsQ5"
+    },
+    {
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "4 Raws",
+      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
     },
     {
       "album": {
@@ -8852,7 +8870,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 157714,
       "name": "Chanel Boy",
       "url": "https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA"
@@ -9632,7 +9650,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 189593,
       "name": "Clue",
       "url": "https://open.spotify.com/track/1JWGW7yVtvtyGjtd8gOEzb"
@@ -14774,7 +14792,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 263546,
       "name": "Fireman",
       "url": "https://open.spotify.com/track/0V8Lfj3q1JyiKNBkHiQR4k"
@@ -16923,6 +16941,28 @@
     },
     {
       "album": {
+        "name": "Gangsta Graduation (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201586,
+      "name": "Gangsta Graduation (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum"
+    },
+    {
+      "album": {
         "name": "Welcome To 4 Vegas",
         "url": "https://open.spotify.com/album/5o1mQH493nGffEPnxekTR6"
       },
@@ -18920,7 +18960,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 137733,
       "name": "Gyatt",
       "url": "https://open.spotify.com/track/6cpRVsxxwB04HEnOGddGCc"
@@ -20064,7 +20104,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 145650,
       "name": "High Tolerance",
       "url": "https://open.spotify.com/track/19PdOaQgCjuZy0kSL3aIr0"
@@ -25137,6 +25177,24 @@
     },
     {
       "album": {
+        "name": "Last Drink",
+        "url": "https://open.spotify.com/album/4RAAZcbae57tp6h2joUZuu"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Last Drink",
+      "url": "https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj"
+    },
+    {
+      "album": {
         "name": "Judas and the Black Messiah: The Inspired Album",
         "url": "https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz"
       },
@@ -25726,6 +25784,32 @@
       "duration_ms": 215380,
       "name": "Let Me Know (I Wonder Why Freestyle)",
       "url": "https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx"
+    },
+    {
+      "album": {
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Skooly",
+          "url": "https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202162,
+      "name": "Let's Do It (feat. Playboi Carti & Skooly)",
+      "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
     },
     {
       "album": {
@@ -28007,6 +28091,24 @@
     },
     {
       "album": {
+        "name": "MARCH",
+        "url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "MARCH",
+      "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
+    },
+    {
+      "album": {
         "name": "56 Nights",
         "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
       },
@@ -28586,7 +28688,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 172330,
       "name": "Middle of the Summer",
       "url": "https://open.spotify.com/track/7himplrwuuYlKAFwipmvmP"
@@ -33202,7 +33304,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 202815,
       "name": "Only Time",
       "url": "https://open.spotify.com/track/3jZr9yjhzg2GGnvhRsJiua"
@@ -37850,6 +37952,24 @@
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
+        "name": "Regular",
+        "url": "https://open.spotify.com/album/1xtnpw9zgawd67Q5AVdPqX"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146865,
+      "name": "Regular",
+      "url": "https://open.spotify.com/track/3NZ3oBrDN9D2Bi1hykwXHb"
     },
     {
       "album": {
@@ -46058,7 +46178,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 180735,
       "name": "TELL ME. FT. LIL BABY & 42 DUGG.",
       "url": "https://open.spotify.com/track/0mKK1wzmqVelwP0f0gBjhT"
@@ -51855,6 +51975,24 @@
     },
     {
       "album": {
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187678,
+      "name": "What She Like",
+      "url": "https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S"
+    },
+    {
+      "album": {
         "name": "What That Speed Bout!?",
         "url": "https://open.spotify.com/album/2MkgW6dUMTOkCXAbQSUDG5"
       },
@@ -54208,7 +54346,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 248813,
       "name": "Yuck (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
@@ -54252,6 +54390,28 @@
       "duration_ms": 226115,
       "name": "Yungen (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v"
+    },
+    {
+      "album": {
+        "name": "Zero IQ Freestyle (Never Broke Again feat. YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/4p6xg1JRnHKrNs9l1e614R"
+      },
+      "artists": [
+        {
+          "name": "Never Broke Again",
+          "url": "https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Zero IQ Freestyle (Never Broke Again feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/1L4NM8tQKYVn1lAskKn4ue"
     },
     {
       "album": {

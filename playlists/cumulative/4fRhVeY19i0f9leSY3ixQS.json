@@ -2305,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Ad Astra",
+        "url": "https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj"
+      },
+      "artists": [
+        {
+          "name": "Constant Vertex",
+          "url": "https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155106,
+      "name": "It's Inside",
+      "url": "https://open.spotify.com/track/5H7NtbhuEfMQdLWwMrlEh5"
+    },
+    {
+      "album": {
         "name": "The Way of the Rose",
         "url": "https://open.spotify.com/album/3JexvhBHllJq5Yne04ebXD"
       },

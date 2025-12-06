@@ -1,13 +1,113 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Hudson Freeman",
-  "num_followers": 167320,
+  "description": "A laid-back trip in the folk scene. Cover: Buffalo Traffic Jam",
+  "num_followers": 167310,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO85V8P2C8M5DXa1+jlUfZBl0W8D",
+  "snapshot_id": "AAAAANHJBUKSikkHfMvgk9AIKJWqt+iH",
   "tracks": [
+    {
+      "added_at": "2025-09-26 00:01:29",
+      "album": {
+        "name": "Fool's Gold",
+        "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 197539,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
+    },
+    {
+      "added_at": "2025-12-05 05:01:35",
+      "album": {
+        "name": "Little House",
+        "url": "https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Little House",
+      "url": "https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5"
+    },
+    {
+      "added_at": "2025-12-05 05:01:35",
+      "album": {
+        "name": "Landmines",
+        "url": "https://open.spotify.com/album/7LBc1RMD3yp4H2CJPK4mOZ"
+      },
+      "artists": [
+        {
+          "name": "John Shambles",
+          "url": "https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl"
+        }
+      ],
+      "duration_ms": 211711,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/1CiX4g0K5Qk5EeVVxCA5IL"
+    },
+    {
+      "added_at": "2025-12-05 05:01:35",
+      "album": {
+        "name": "Bolo Blues",
+        "url": "https://open.spotify.com/album/38zPrueVMw4hOgGryi9mhn"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 150071,
+      "name": "Bolo Blues",
+      "url": "https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN"
+    },
+    {
+      "added_at": "2025-12-05 05:01:35",
+      "album": {
+        "name": "Change of the Wind",
+        "url": "https://open.spotify.com/album/0oj2fOqxUFC0M23WMw4FXc"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 229427,
+      "name": "Change of the Wind",
+      "url": "https://open.spotify.com/track/6y0czURsSIIdDXnWlhgqxf"
+    },
+    {
+      "added_at": "2025-12-05 05:01:35",
+      "album": {
+        "name": "Chasing a Thread",
+        "url": "https://open.spotify.com/album/1HAXoXkaOW8MOzatVYeGyJ"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        },
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Chasing a Thread",
+      "url": "https://open.spotify.com/track/0VOUG1FnZ3Kbb81fIzQ7rz"
+    },
     {
       "added_at": "2025-11-21 05:01:19",
       "album": {
@@ -95,6 +195,22 @@
       "duration_ms": 188373,
       "name": "All I Am",
       "url": "https://open.spotify.com/track/6EC8WKlArPIeWznmf79OMk"
+    },
+    {
+      "added_at": "2025-12-05 05:01:35",
+      "album": {
+        "name": "Let 'Em Go",
+        "url": "https://open.spotify.com/album/5U1w2GkChTUowyfhnXMwEF"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Roy",
+          "url": "https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K"
+        }
+      ],
+      "duration_ms": 199679,
+      "name": "Let 'Em Go",
+      "url": "https://open.spotify.com/track/4nBtsK1aqOGnd1Te6Aaizc"
     },
     {
       "added_at": "2025-11-28 05:01:04",
@@ -1339,22 +1455,6 @@
     {
       "added_at": "2025-09-26 00:01:29",
       "album": {
-        "name": "i'll pray for you",
-        "url": "https://open.spotify.com/album/15lAyEjsBvdglmlOb03kOs"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 192058,
-      "name": "i'll pray for you",
-      "url": "https://open.spotify.com/track/16o3UPyNd32nLPnvJMB7OS"
-    },
-    {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
         "name": "Hardcore Band",
         "url": "https://open.spotify.com/album/3T1yBRYubBOR2qLxjBJzQO"
       },
@@ -1399,22 +1499,6 @@
       "duration_ms": 255026,
       "name": "Victory City",
       "url": "https://open.spotify.com/track/3SJPrIvTqCbrDqnZ9zuFRy"
-    },
-    {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
-        "name": "Fool's Gold",
-        "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 197539,
-      "name": "Fool's Gold",
-      "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
     },
     {
       "added_at": "2025-09-26 00:01:29",
@@ -1551,94 +1635,6 @@
       "duration_ms": 250670,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/0opvyElQZPPq405LGzfe56"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "Whose face am I",
-        "url": "https://open.spotify.com/album/5rAXZIxcvg96yLLT9M5atx"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 135642,
-      "name": "Whose face am I",
-      "url": "https://open.spotify.com/track/7hdSVanm1ob3fY8JPDMrMF"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "The Ceiling",
-        "url": "https://open.spotify.com/album/5qikq68HaaoP6uKRwzIbHG"
-      },
-      "artists": [
-        {
-          "name": "Kaeley Jade",
-          "url": "https://open.spotify.com/artist/0uHvg2Vc2T0NrCvSkbSb2t"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "The Ceiling",
-      "url": "https://open.spotify.com/track/6ZKiSLhEkjXopP9Olzz6fB"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "last night you said you missed me",
-        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "queen of the season",
-      "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
-    },
-    {
-      "added_at": "2025-09-19 00:01:10",
-      "album": {
-        "name": "Body To Body",
-        "url": "https://open.spotify.com/album/2xBsIALzD8MjPfSzlQFc1c"
-      },
-      "artists": [
-        {
-          "name": "Siibii",
-          "url": "https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi"
-        },
-        {
-          "name": "Aysanabee",
-          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "Body To Body",
-      "url": "https://open.spotify.com/track/1G4bXB1UO3uPisKXnp1xOD"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
-        "name": "These Days (with James Bay)",
-        "url": "https://open.spotify.com/album/5hMk0B7plmqHwVsWgSRyMQ"
-      },
-      "artists": [
-        {
-          "name": "Margaret Glaspy",
-          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 191934,
-      "name": "These Days (with James Bay)",
-      "url": "https://open.spotify.com/track/2kO2tdljZLnzz1dBJHeUOW"
     },
     {
       "added_at": "2025-09-12 00:01:24",

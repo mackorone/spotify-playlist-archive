@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to nov-dec 2025",
-  "num_followers": 23605,
+  "num_followers": 23610,
   "original_name": "ten years in one room",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAANeZwfYNj5Kqzgbs1LOhxmx2ScxzDm",
+  "snapshot_id": "AAANe8f88/ohBazRr7z0nBip4MRpWmYH",
   "tracks": [
     {
       "added_at": "2025-11-14 22:45:12",
@@ -475,6 +475,38 @@
       "duration_ms": 211953,
       "name": "C\u00e9u Azul",
       "url": "https://open.spotify.com/track/5Ly7IBANByS001ZInlG4C8"
+    },
+    {
+      "added_at": "2025-12-05 20:29:47",
+      "album": {
+        "name": "Ghosts of the Great Highway",
+        "url": "https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ"
+      },
+      "artists": [
+        {
+          "name": "Sun Kil Moon",
+          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
+        }
+      ],
+      "duration_ms": 332346,
+      "name": "Si, Paloma",
+      "url": "https://open.spotify.com/track/7tu29mHOe4iY2sINKAXWCR"
+    },
+    {
+      "added_at": "2025-12-05 20:55:55",
+      "album": {
+        "name": "Jessica Pratt",
+        "url": "https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 163712,
+      "name": "Streets of Mine",
+      "url": "https://open.spotify.com/track/3U4SPwYCuRGgwaASbGWi2o"
     }
   ],
   "unique_name": "ten years in one room",

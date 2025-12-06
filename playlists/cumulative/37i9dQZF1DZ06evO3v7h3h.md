@@ -4,7 +4,7 @@
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-109 songs - 7 hr 37 min
+110 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cairo](https://open.spotify.com/track/2r1nCUsFoCqFJhQijBu1p3) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 3:25 | 2025-05-28 | 2025-11-23 |
 | [Cairo](https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Cairo](https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti) | 3:25 | 2024-07-14 | 2025-05-28 |
 | [Casca](https://open.spotify.com/track/3cDLHS0s41HTWnhv8GhuJZ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:05 | 2023-09-18 | 2023-11-11 |
+| [Castelos de Papel](https://open.spotify.com/track/4AlsQRbrk5PbKhbIuuuxEt) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Portal](https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx) | 4:40 | 2025-12-06 |  |
 | [Castelos de Papel](https://open.spotify.com/track/6mKlfMjTfgYdXZ2EuiXdqK) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 4:40 | 2024-08-11 | 2025-11-28 |
 | [Coisas Dessa Vida](https://open.spotify.com/track/74lRYKTgAjPfMrR7yOdfqq) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:47 | 2023-09-18 |  |
 | [Confundindo Sábios](https://open.spotify.com/track/64VGENNsyTXX2KwSSzuQww) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [DJ Mr Brown](https://open.spotify.com/artist/17dJnYNrUDbyUIqXnoF0hu) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:58 | 2023-11-10 |  |
@@ -32,7 +33,7 @@
 | [Cê Já Teve um Sonho?](https://open.spotify.com/track/5JjMSODzrHuLDGjhQf5JNm) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 1:56 | 2023-09-18 | 2024-06-19 |
 | [Depois do Depois](https://open.spotify.com/track/49o6s1cJeFXcSyHMKtLnGg) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 3:12 | 2024-08-11 | 2025-05-31 |
 | [Depois do Depois \- RMX](https://open.spotify.com/track/7jd1NNRTjnE2iaz5TWKZpQ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Depois do Depois \(RMX\)](https://open.spotify.com/album/1c2F2ZdWqMsUs83e6M45Pa) | 3:13 | 2025-05-31 |  |
-| [Diário de Bordo 6](https://open.spotify.com/track/1NhKsK3kPy49YfFyrXaks2) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM) | [Diário de Bordo 6](https://open.spotify.com/album/3NbugjuhlSg3UudBeYxnu5) | 4:25 | 2023-09-18 |  |
+| [Diário de Bordo 6](https://open.spotify.com/track/1NhKsK3kPy49YfFyrXaks2) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM) | [Diário de Bordo 6](https://open.spotify.com/album/3NbugjuhlSg3UudBeYxnu5) | 4:25 | 2023-09-18 | 2025-12-06 |
 | [E Se](https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 4:33 | 2023-09-18 |  |
 | [Estereótipo](https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 4:46 | 2023-09-18 | 2025-01-31 |
 | [Eu](https://open.spotify.com/track/540hxebLj7w5EHhVx0lUUv) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Srta\. Paola](https://open.spotify.com/artist/63ibOFnRUQhYy6s7xypyHe) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:57 | 2023-09-18 | 2025-06-30 |

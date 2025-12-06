@@ -4,7 +4,7 @@
 
 > Best of Haryanvi Hip\-Hop! Cover: KD DESIROCK
 
-513 songs - 1 day 2 hr 2 min
+514 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Gadi Nue Chalegi](https://open.spotify.com/track/1Zn4GyTX1TxWEpLJAg0Ecp) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U) | [THE MAN BEHIND DA SOUND](https://open.spotify.com/album/6g5WK5QijDB95Lw76u7i02) | 2:03 | 2025-09-12 |  |
 | [Game](https://open.spotify.com/track/31KdHj0ESfxLwVNE1Q6MTm) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Game](https://open.spotify.com/album/5TxFY3lFpW98eErT56vUW0) | 3:34 | 2023-05-15 | 2023-06-13 |
 | [Gangsta's Paradise](https://open.spotify.com/track/6AXvpvF8WOv40zybrWNAGl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4), [Sheenam Katholic](https://open.spotify.com/artist/5GSBzF7y5fq4zb27LQ2jZY) | [Gangsta's Paradise](https://open.spotify.com/album/4eSk46CTbXcbvV3qL9c9kX) | 3:36 | 2024-02-06 | 2025-01-11 |
+| [Gg Ki Ghaintness \(From "Single Papa"\)](https://open.spotify.com/track/6C4ky0I5Mwn5TQkmXSsck4) | [Aman Pant](https://open.spotify.com/artist/3DEQO9JUqGunLxKk6UJVpE), [Shubh Khillari](https://open.spotify.com/artist/023yeIgYxp16ewVGF4i33r) | [Gg Ki Ghaintness \(From "Single Papa"\)](https://open.spotify.com/album/2TQUKPrFUd00YxbqqL6iQy) | 2:21 | 2025-12-05 |  |
 | [Ghaav](https://open.spotify.com/track/0E88ez0AnFBNkcMEcO9wAa) | [Guru Gera](https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa), [Its Aghori](https://open.spotify.com/artist/3z4OZpcpWVOxzPuGeuEWgr) | [Ghaav](https://open.spotify.com/album/7LQxbxLKaennHRN23E6Soi) | 2:56 | 2023-09-08 | 2023-09-28 |
 | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Surbhi Jyoti](https://open.spotify.com/artist/0ZwLuYX3Fe14PhonPeqd5X) | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/album/5wNK25BcVubz95drmXiBCZ) | 2:48 | 2023-10-06 |  |
 | [Ghane Gande](https://open.spotify.com/track/1rWSLMe0neIBRZi15GgfY6) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Ghane Gande](https://open.spotify.com/album/5GghzJpDq0yvH3YE0jiAWJ) | 2:56 | 2025-01-24 |  |
@@ -342,7 +343,7 @@
 | [Mote Kharche](https://open.spotify.com/track/3dNToqbycdUSywpw0ZyCOC) | [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Mote Kharche](https://open.spotify.com/album/4dQF9RxSETEd7mUdY6yTyt) | 2:44 | 2024-07-16 | 2024-07-19 |
 | [Move Back](https://open.spotify.com/track/3NENq5fDBChRZI626K1K3g) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Move Back](https://open.spotify.com/album/6o7iRip7uIr7L7dfUGDjhT) | 2:24 | 2024-12-19 | 2025-02-01 |
 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 | 2023-03-28 | 2024-08-13 |
-| [Muqabla](https://open.spotify.com/track/3Q2cbK3cfrTihZVVkcmlBH) | [AP VERMA](https://open.spotify.com/artist/1UgmkXACbaDUudvFUKKyAM), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [Muqabla](https://open.spotify.com/album/4prYBTC2KsbXj4jEeD810p) | 2:31 | 2025-11-28 |  |
+| [Muqabla](https://open.spotify.com/track/3Q2cbK3cfrTihZVVkcmlBH) | [AP VERMA](https://open.spotify.com/artist/1UgmkXACbaDUudvFUKKyAM), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [Muqabla](https://open.spotify.com/album/4prYBTC2KsbXj4jEeD810p) | 2:31 | 2025-11-28 | 2025-12-06 |
 | [Muqabla](https://open.spotify.com/track/32ewgb2rlylsOi7SYJM0Ls) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U) | [THE MAN BEHIND DA SOUND](https://open.spotify.com/album/6g5WK5QijDB95Lw76u7i02) | 2:29 | 2025-09-12 | 2025-11-15 |
 | [MY JOURNEY](https://open.spotify.com/track/0TV4X4739sqDGHFPjWm8iG) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [KING IN THE NORTH](https://open.spotify.com/album/17j95vZcDXP95NTwVBZ77s) | 2:52 | 2025-08-05 | 2025-08-23 |
 | [My Name Speaks](https://open.spotify.com/track/0DJjbAaiJK6NFiMaDTFe5y) | [Mt 35](https://open.spotify.com/artist/09Sl1J8H0dBQVeUxUCHHP6), [Lv94](https://open.spotify.com/artist/2WJBAL3GFX2OeSKd59xhur), [Mani Rana](https://open.spotify.com/artist/3BRj60pF5wpSEF0Y5nbX9H) | [My Name Speaks](https://open.spotify.com/album/2BpBWJg0HRcpxPL3Zoynn2) | 3:25 | 2025-10-14 | 2025-11-08 |

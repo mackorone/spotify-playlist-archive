@@ -4,7 +4,7 @@
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: Nelly Furtado &amp; HAYLA
 
-380 songs - 19 hr 53 min
+382 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Dancing In A Dream](https://open.spotify.com/track/0cuT0PRfkUNgSefAiy19FG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Dancing In A Dream](https://open.spotify.com/album/0sj1PJTkUkIA3V2a98whYB) | 2:38 | 2025-04-11 |  |
 | [Dancing In A Dream](https://open.spotify.com/track/3TkuEWpYUdNLvk9i6r0lnT) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Summer Rain](https://open.spotify.com/album/6nIe9tXHQdGhfBN7Vs4UJp) | 2:38 | 2025-11-13 |  |
 | [Danger In Your Eyes \(The Countdown\)](https://open.spotify.com/track/2MR4BqIUtoBLWuZDVlZDQz) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Danger In Your Eyes \(The Countdown\)](https://open.spotify.com/album/3MWTWM7ESjD7jVz8ThhVsH) | 3:32 | 2024-03-01 | 2024-05-13 |
+| [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 | 2025-12-05 |  |
 | [Destiny](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Destiny](https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p) | 2:50 | 2025-10-17 |  |
 | [Disco Nap](https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Disco Nap](https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7) | 3:13 | 2025-01-21 |  |
 | [Dissociate](https://open.spotify.com/track/4tLTaEi3Pq0kinpQBzDKL0) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Vox Rea](https://open.spotify.com/artist/4SRrbYd7KBkGdOCAekSnY1) | [Dissociate](https://open.spotify.com/album/7HQVcIyRH0o6lQDTGsBCxb) | 4:30 | 2025-09-26 | 2025-11-14 |
@@ -273,6 +274,7 @@
 | [Ready For Myself](https://open.spotify.com/track/5XOa0uzTTXrjecACgakZEJ) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm) | 3:03 | 2024-09-20 |  |
 | [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 | 2024-07-06 | 2025-01-22 |
 | [Real Love](https://open.spotify.com/track/3uXUraey5i1oKa3yYnOTia) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [BRØØKS](https://open.spotify.com/artist/0Z7MGTcXrzh7KrTpWLrHvq) | [Real Love](https://open.spotify.com/album/38siYOqyNabvKqGmmermGx) | 2:31 | 2025-09-17 |  |
+| [Real Love](https://open.spotify.com/track/2VfFPlqOQrJegFGTC2WPXn) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Alexander Jean](https://open.spotify.com/artist/2QiOMJB2UydKMR6I966ETj) | [Real Love](https://open.spotify.com/album/144IJyrL6XQHVHbmqjW1Jq) | 2:48 | 2025-12-05 |  |
 | [Reason \(with Paige Cavell\)](https://open.spotify.com/track/4OQL3tmaCuh2j6K29GgT37) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Reason \(with Paige Cavell\)](https://open.spotify.com/album/5QWzNf3o2kqWwYeZo1ZKjE) | 2:34 | 2023-10-27 | 2023-11-25 |
 | [Reckless \(2024\)](https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Reckless \(2024\)](https://open.spotify.com/album/5xMk0r8Jr3J66evlcUTMEi) | 2:10 | 2024-06-18 |  |
 | [Refuge](https://open.spotify.com/track/1PCkDEDApsRDfUIIp7uEp3) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Refuge / Ur Alive](https://open.spotify.com/album/3Hymehl5lIAtEiLctZu9xJ) | 3:21 | 2025-08-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 395 songs - 23 hr 5 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 399 songs - 23 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -403,5 +403,9 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 393 | [Da Graveyard](https://open.spotify.com/track/04Rz403IY7QUqgfrTWX6OU) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM) | [Lifestylez Ov Da Poor & Dangerous](https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD) | 5:23 |
 | 394 | [In the Mood \(feat\. Kanye West & Roy Ayers\)](https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 3:55 |
 | 395 | [The Bizness](https://open.spotify.com/track/22wlZ0k1c3BSZuZpHkqAnl) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 4:22 |
+| 396 | [Supa Emcees](https://open.spotify.com/track/6WL5Lu4vqPP1nEhfDS5ZyS) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 3:40 |
+| 397 | [Dog Eat Dog](https://open.spotify.com/track/1uXj2h6NigW5Vsp24eTJNz) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 3:38 |
+| 398 | [Betta Listen](https://open.spotify.com/track/2db8VSxfFglwMPmzjbYMS0) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 4:27 |
+| 399 | [Big Brother Beat](https://open.spotify.com/track/7c6nUOPXlVUwsvScqsBoL7) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 3:43 |
 
-Snapshot ID: `AAAfVIUiBNUlTwbLFrmabCb4+3O01kx2`
+Snapshot ID: `AAAfWByKgPYEjIuNt4qQpk/QLpjBfjfc`

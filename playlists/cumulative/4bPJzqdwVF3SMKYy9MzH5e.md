@@ -4,7 +4,7 @@
 
 > 
 
-2,292 songs - 5 day 3 hr 8 min
+2,293 songs - 5 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1253,6 +1253,7 @@
 | [Malmo](https://open.spotify.com/track/5AQ7yGPs35whBThhawCHNG) | [Mook](https://open.spotify.com/artist/5WQSzvIP7LeZnnGoJsLURa) | [Mook](https://open.spotify.com/album/6svrU9E7fgtN2m1FE0bZYx) | 3:22 | 2022-07-23 |  |
 | [Mama](https://open.spotify.com/track/0Zh3tKIphLOvQux4dA6PFZ) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:39 | 2021-08-05 |  |
 | [MamaZota](https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb) | [Arlene MC](https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET) | [MamaZota](https://open.spotify.com/album/2V5nC3TltRCZQ774WHSBq3) | 2:02 | 2025-07-18 |  |
+| [Manalive](https://open.spotify.com/track/10anCiNBXXeO8bwcOZj0x5) | [Devilfish](https://open.spotify.com/artist/17tAp4OPhYcNmdAq1m7UNW) | [Justin Robertson: Imprint](https://open.spotify.com/album/5o4xfTM7Y9ZVVBrE5JBeI6) | 3:22 | 2025-12-05 |  |
 | [Manijas](https://open.spotify.com/track/6bMFQO0shjWyrAVe1I2Nsw) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 3:25 | 2025-05-31 |  |
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2021-08-05 |  |
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2021-08-05 |  |

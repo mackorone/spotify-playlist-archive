@@ -4,7 +4,7 @@
 
 > Acoustic covers to accompany your pilates session.
 
-263 songs - 14 hr 37 min
+265 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 | 2022-08-03 |  |
 | [Cool](https://open.spotify.com/track/6lF7TSRbGXhSQhGWQyvBaX) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/4R5WjtyRwOjs0iNi2pD0MZ) | 4:03 | 2024-03-21 | 2024-04-19 |
 | [Cooped up \- Acoustic](https://open.spotify.com/track/0r8QmsNCerrYlA5gZn3wcl) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Cooped up \- Acoustic](https://open.spotify.com/album/5xhwO1iOyHUsXF9kIO6YEU) | 2:41 | 2023-02-17 |  |
+| [Crazy](https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg) | [late september](https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc) | [Crazy](https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp) | 3:23 | 2025-12-05 |  |
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2022-06-03 | 2022-12-24 |
 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 | 2023-02-17 |  |
 | [Dancing In The Dark](https://open.spotify.com/track/1bqxj84nNs2iic1dsi6h9K) | [Bear Little](https://open.spotify.com/artist/5gf3VTWJ6siWvD4xtPUfJf) | [Dancing In The Dark](https://open.spotify.com/album/6OV5a9PVlsfnMVtgKPc1Gy) | 3:17 | 2022-08-03 |  |
@@ -174,6 +175,7 @@
 | [Nutshell](https://open.spotify.com/track/4ElGaXU3jJJI5HtRpli5Tv) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Nutshell](https://open.spotify.com/album/0GZduTtg1Dj4BRGTHzYlMS) | 3:05 | 2022-01-12 |  |
 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2022-01-12 | 2023-06-23 |
 | [One](https://open.spotify.com/track/1hoSHBbsZBNvv051EjQP5D) | [Castle Theater](https://open.spotify.com/artist/66DA1SaRhtBFQo4dQ8eF3e) | [One](https://open.spotify.com/album/0bSKEEtgOoaruEJ6NKvkCk) | 3:03 | 2022-01-12 | 2023-09-01 |
+| [One Dance](https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [One Dance](https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8) | 2:32 | 2025-12-05 |  |
 | [One Great Mystery](https://open.spotify.com/track/1lTcbMQTEIYBsdPRGsWMvp) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ), [Coleske](https://open.spotify.com/artist/1kvojAelBSdRifLDP0yd1k) | [One Great Mystery](https://open.spotify.com/album/3uF1NH3uFablZ7qbBi1Z6v) | 3:34 | 2022-01-12 | 2022-06-04 |
 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 | 2024-02-23 |  |
 | [ordinary](https://open.spotify.com/track/2ledumGXyZb4RRangI0wQ0) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [ordinary](https://open.spotify.com/album/48moNiJIib1hKuK7YQ6o1m) | 3:30 | 2025-07-11 |  |
@@ -224,7 +226,7 @@
 | [Solo Dance](https://open.spotify.com/track/53QyxJU2t8lqlpIpNEl7I4) | [Amoll](https://open.spotify.com/artist/4V7hsAvT9RV1tkrexdrl00), [Oke](https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo) | [Solo Dance](https://open.spotify.com/album/0Qo80uf5060lQafB7ACdtU) | 2:34 | 2022-01-12 | 2023-06-02 |
 | [Someone I Used To Know](https://open.spotify.com/track/3cQlRg6dG0hdA2r9MWtXAW) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Someone I Used To Know](https://open.spotify.com/album/4JT9X9aNNbHLLpXF2HMBZR) | 2:21 | 2023-06-02 |  |
 | [Someone You Loved](https://open.spotify.com/track/5VhW6Px1Nxc2gTqdS4isdl) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/3BY5B7BMQJ2LwKAjw5SJu8) | 3:25 | 2022-12-23 | 2024-04-19 |
-| [Someone You Loved](https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:25 | 2022-01-12 |  |
+| [Someone You Loved](https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:25 | 2022-01-12 | 2025-12-06 |
 | [Song For You](https://open.spotify.com/track/6okQlv5v9VaJEzoxBUAx4S) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 4:17 | 2022-01-12 | 2022-08-30 |
 | [Sorry](https://open.spotify.com/track/0R47MFxB9sO8sVRw1eOwKT) | [SƎLFISH](https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP) | [Sorry](https://open.spotify.com/album/0q1Xatuz1bugixKdivEgGi) | 3:08 | 2025-07-11 |  |
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2022-01-12 | 2022-08-04 |
@@ -237,7 +239,7 @@
 | [Sure Thing \- Acoustic](https://open.spotify.com/track/0NjllBNctm9XrsGOYF87jS) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Sure Thing \- Acoustic](https://open.spotify.com/album/5Jq4l0j3Bfb88zE0PjGwdD) | 3:01 | 2023-02-17 |  |
 | [Svag \(English\)](https://open.spotify.com/track/4EpjsroU2oIiG1LkbJU4Be) | [Kim Karlsson](https://open.spotify.com/artist/7nwmNkTPe1qgRs7cAYiWFm) | [Svag \(English\)](https://open.spotify.com/album/1weAnKrU2vl9XAdL8w7M22) | 3:10 | 2022-01-12 | 2022-05-07 |
 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 | 2022-01-12 | 2022-08-04 |
-| [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 | 2022-12-23 |  |
+| [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 | 2022-12-23 | 2025-12-06 |
 | [Take me to church \- Acoustic](https://open.spotify.com/track/0aennjtfg2FjQnKDlwezNO) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Take Me To Church \(Acoustic\)](https://open.spotify.com/album/1YY1bunCgmyMCVtEsaGNvP) | 3:51 | 2022-12-23 | 2023-06-02 |
 | [Take Me With You](https://open.spotify.com/track/15hzzXpFQCJp9P2dTHUXfK) | [A Day Awaits](https://open.spotify.com/artist/1UjkFkJmV49oRNMhSN32NJ) | [Take Me With You](https://open.spotify.com/album/2MdMio4OjHlXYoe51na2ua) | 3:11 | 2022-01-12 | 2023-06-02 |
 | [Tenerife Sea](https://open.spotify.com/track/5rYipCuUMXmKr5XM3eDC1r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/0MeOIA0wwSa6nW79jy8QcZ) | 4:01 | 2022-01-12 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Flore Benguigui
 
-878 songs - 2 day 14 hr 30 min
+878 songs - 2 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Captured Time](https://open.spotify.com/track/4n4uG6LLOH4xab3V7fbrO7) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Next Stop](https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz) | 4:24 | 2022-04-14 | 2022-06-10 |
 | [Cargo of Oranges](https://open.spotify.com/track/1Vuo6uCHh9Zf3CAiu4Vr2C) | [Charlotte Reinhardt](https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4) | [Colors \(Deluxe\)](https://open.spotify.com/album/4YwQsMg3LG3z032y3KPHYE) | 3:12 | 2023-04-13 | 2023-04-15 |
 | [Cargo of Oranges](https://open.spotify.com/track/42WTvRYrLPG3CVivyVqmde) | [Charlotte Reinhardt](https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4) | [Colors \(Deluxe Edition\)](https://open.spotify.com/album/6cJxhnKH8MoueYQod1iuH1) | 3:12 | 2023-04-13 | 2023-08-18 |
+| [Carinhoso](https://open.spotify.com/track/4ykySjQAxiSpS5xNU8R25s) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [A Little Time For Love](https://open.spotify.com/album/2YNz3gcj2Uucf98VJ4OHPW) | 3:53 | 2025-12-04 |  |
 | [Carnaval de Barranquilla Radio Edit](https://open.spotify.com/track/1B9puk4a8v3SPB1kxQqyEz) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Pacifiques Biches](https://open.spotify.com/album/3T8qoyOqISNu86H92G7Enu) | 4:17 | 2025-12-04 |  |
 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 | 2024-04-11 | 2024-07-05 |
 | [Carry Me](https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [Carry Me](https://open.spotify.com/album/2wQ82L31Pd99UVfS4wJs7H) | 3:55 | 2024-04-18 | 2024-07-05 |
@@ -795,7 +796,6 @@
 | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/track/2xoKI8Q32j85vB2CsutaAd) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/album/5BixI41jRQeNxOCG4IqoLQ) | 7:44 | 2022-04-14 | 2022-04-22 |
 | [Tomorrow](https://open.spotify.com/track/2OmKfDdY4wSdvTB9YuCJ4t) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [The Return of Slick](https://open.spotify.com/album/1t2kpu4LHR0O5PsQLxSQnp) | 3:19 | 2025-10-16 |  |
 | [Top Hat, White Tie and Tails \- Live](https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella At The Hollywood Bowl: The Irving Berlin Songbook \(Live\)](https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x) | 2:46 | 2022-06-23 | 2022-08-26 |
-| [Track 4](https://open.spotify.com/track/4ykySjQAxiSpS5xNU8R25s) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [Transe](https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Transe](https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL) | 6:23 | 2023-07-20 | 2023-10-13 |
 | [Transformation](https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY) | [Pamina Beroff](https://open.spotify.com/artist/5o2LIkj5gUj33wuzmyiE7M), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Unfolding](https://open.spotify.com/album/3OGyLTv3Ijupp1zRw88e7f) | 3:58 | 2022-12-22 | 2023-03-03 |
 | [Trop beau pour être vrai](https://open.spotify.com/track/3GZQSblqvzUGvA7LmBXXSm) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 2:32 | 2023-11-02 | 2023-11-24 |

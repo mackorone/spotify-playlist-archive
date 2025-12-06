@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Rose Muhando
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,424 likes - 104 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,496 likes - 104 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

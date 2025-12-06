@@ -4,7 +4,7 @@
 
 > Dein Deutschpop\. Deine Welt\. Deine Playlist\. Cover: Ivo Martin
 
-174 songs - 7 hr 44 min
+175 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [baby T](https://open.spotify.com/track/3Xyk1vBAJvZZ8ZlkqWG8Wf) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby t](https://open.spotify.com/album/2K6Pdbsu8DDIo4SJDuDYyq) | 2:23 | 2025-11-27 |  |
 | [besser so](https://open.spotify.com/track/75a0tGKSqVuLZ8CBtkTHhC) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [besser so](https://open.spotify.com/album/7qV8IL3t34DiDgZ9CALFPP) | 2:53 | 2025-11-27 |  |
 | [Beste](https://open.spotify.com/track/3q5MXFeYu0f7XMDgqFhWJv) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Beste](https://open.spotify.com/album/6tlPvg7QG4hlG193DFDXeV) | 2:08 | 2025-11-27 |  |
+| [BLEIB](https://open.spotify.com/track/5vFZg9MRZdrVKaJrDy1gjE) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [MIT JEDER FASER](https://open.spotify.com/album/29xGHjCuD2z60cdKW4Fkel) | 3:00 | 2025-12-04 |  |
 | [Bring mich nach Haus](https://open.spotify.com/track/07NDaezeYAJ2FoXxoE8GUC) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Augen träumen Herzen sehen](https://open.spotify.com/album/4b81tOq2S4nIFWkVpcQlXy) | 3:02 | 2025-10-24 |  |
 | [CARLI](https://open.spotify.com/track/2qcUpZMfNa0KUei4T5ADNe) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [CARLI](https://open.spotify.com/album/7Ju6c2zZHZ3NtPFNGUsSoW) | 1:53 | 2025-10-24 | 2025-11-21 |
 | [Clair de Lune](https://open.spotify.com/track/1yR1WJ6isOn9L1fgt9gMff) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Clair de Lune](https://open.spotify.com/album/3VTJOuOcxEIcYThh5kBLJ6) | 3:05 | 2025-10-24 | 2025-11-21 |
@@ -97,6 +98,7 @@
 | [Kirche im Dorf](https://open.spotify.com/track/4BDbZRfPnE3tYFD5MGFLbQ) | [Luisa Lou](https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW) | [Kirche im Dorf](https://open.spotify.com/album/3LFrLwQoU0wWUILZrOxYLh) | 2:35 | 2025-12-04 |  |
 | [Kirschblüten](https://open.spotify.com/track/2lfiUGX43eKM28rkbxUI9E) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Kirschblüten](https://open.spotify.com/album/2xzh63BMkGAdHCqVBBNzrw) | 2:05 | 2025-11-27 |  |
 | [Knopf](https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY) | 4:12 | 2025-12-04 |  |
+| [Kontraste](https://open.spotify.com/track/4fBCUabbi7sbb80RYbyx6F) | [LOUA](https://open.spotify.com/artist/2eMgeKSX8NXvMfLyoBv0eK) | [Kontraste](https://open.spotify.com/album/3Gt8DxMev8l8M3Z6Tp4sLc) | 2:44 | 2025-12-04 |  |
 | [Krass dass du noch da bist](https://open.spotify.com/track/7JtI3TJQ4ofGj6uOuzgpYG) | [TOCHTER](https://open.spotify.com/artist/3ygi0RTsXTi7zPVp5Be9fR), [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Krass dass du noch da bist](https://open.spotify.com/album/4OPVu6L9hsmXUiWcTx1HyY) | 3:08 | 2025-10-24 | 2025-11-07 |
 | [Kurz alles gut](https://open.spotify.com/track/3pdH073K9d3wqoYPixv6IW) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Kurz alles gut](https://open.spotify.com/album/7heVkQTuhpdqs1Z2RL02xD) | 3:01 | 2025-11-06 |  |
 | [Lang nicht hier](https://open.spotify.com/track/4d452ROWWkwbPKM8DEWfUx) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Lang nicht hier](https://open.spotify.com/album/4628arDB54DP5t93g9txDT) | 2:59 | 2025-11-20 |  |
@@ -144,8 +146,6 @@
 | [Spürst du das auch](https://open.spotify.com/track/2ixJRQMGyC7oWRrH6CbewK) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE), [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y) | [Spürst du das auch](https://open.spotify.com/album/4r91wKpYcCe9Vu9VV25jGE) | 2:25 | 2025-10-24 | 2025-11-21 |
 | [stabiler verlierer](https://open.spotify.com/track/4uNiQsNvXabVZ0f1JvaOrK) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [stabiler verlierer](https://open.spotify.com/album/0wQXLAMpyi5q4fai0oEXPB) | 2:34 | 2025-11-27 |  |
 | [tanz vor dir](https://open.spotify.com/track/5TYXJjM3zoFaATkpGTTAgI) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [tanz vor dir](https://open.spotify.com/album/5S79DC0vOk4drHwWjRUnbM) | 2:25 | 2025-10-24 | 2025-11-07 |
-| [Track 1](https://open.spotify.com/track/4fBCUabbi7sbb80RYbyx6F) | [LOUA](https://open.spotify.com/artist/2eMgeKSX8NXvMfLyoBv0eK) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
-| [Track 4](https://open.spotify.com/track/5vFZg9MRZdrVKaJrDy1gjE) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 |  |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 |  |
 | [tu was du nicht lassen kannst.](https://open.spotify.com/track/108VJ9dXI45I6IZb2SYux8) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tu was du nicht lassen kannst.](https://open.spotify.com/album/1ElqUsxfaqFdUt3s8XlImO) | 2:31 | 2025-10-24 | 2025-11-28 |
@@ -164,6 +164,7 @@
 | [Warum sind wir so?](https://open.spotify.com/track/4fBCVzfG0Usl03ExqrZsA5) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Freigeistin](https://open.spotify.com/album/45jR67OkTrxfc2k0dQE5vs) | 3:10 | 2025-10-24 | 2025-12-05 |
 | [was bleibt dann zwischen uns?](https://open.spotify.com/track/76DasZKUhyLV7tQX1Scq4A) | [Nico Onur](https://open.spotify.com/artist/1HCkDfRlNOYkLntyxtwyDI) | [was bleibt dann zwischen uns?](https://open.spotify.com/album/1otMfAgGoXLnthOKxvG5eg) | 2:04 | 2025-10-24 | 2025-11-14 |
 | [was ich fühl](https://open.spotify.com/track/450Msk6LSW4yhRdtcedx03) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [was ich fühl](https://open.spotify.com/album/30dMPlHrOzT58edpPsKpUJ) | 2:51 | 2025-10-24 |  |
+| [Was immer du willst!](https://open.spotify.com/track/185cvCZ59Gv7CYa23IBRTo) | [Mo\-Torres](https://open.spotify.com/artist/0A8ObGbFDJOFc7SLwBqO3o) | [Was immer du willst!](https://open.spotify.com/album/7tC85wpSMHOmPmMkvJInv9) | 2:59 | 2025-12-05 |  |
 | [wasdubrauchst](https://open.spotify.com/track/31z1ElG7maZkXcsdY3zURZ) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [wasdubrauchst](https://open.spotify.com/album/4NOxb0r8oTlbXVgISY62yb) | 1:46 | 2025-10-24 | 2025-11-07 |
 | [WEGEN DIR](https://open.spotify.com/track/6RmE4KcszM9FNtVXaDiGUp) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [AZRA](https://open.spotify.com/album/5ZMMzhKyImXgTtCMsJiFbp) | 3:42 | 2025-11-27 |  |
 | [weit weg](https://open.spotify.com/track/3OEkbJWWQeQJVhx1xijl4d) | [alilo](https://open.spotify.com/artist/0kL6WVb7bwtBAbhmU4wRUU) | [weit weg](https://open.spotify.com/album/7ojXyJLatYHr2lgIbGwfvI) | 2:22 | 2025-12-04 |  |

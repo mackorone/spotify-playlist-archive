@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Ankhoï & Luch hypes us up for Tulum 26'!
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,773 likes - 372 songs - 23 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,795 likes - 372 songs - 1 day 0 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 16 | [Maabola](https://open.spotify.com/track/35AyOC5a43OPT79kZU4jKz) | [DOSAMIS](https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K) | [Maabola](https://open.spotify.com/album/68OPe7aNPyxL0hJqzsnEtb) | 3:48 |
 | 17 | [Stay](https://open.spotify.com/track/2R5YtxGWAhclm2sxUSPbm6) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Mozambo](https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi) | [Stay](https://open.spotify.com/album/4ZfQnMAV3iO6CqlZbLCkpV) | 4:25 |
 | 18 | [Do It Again](https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u) | [Betical](https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z) | [Do It Again](https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL) | 3:05 |
-| 19 | [Track 6](https://open.spotify.com/track/2AydczQdL5AH71tyttpWhz) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [](https://open.spotify.com/album/null) | 0:00 |
+| 19 | [Take Me Back](https://open.spotify.com/track/2AydczQdL5AH71tyttpWhz) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Is this even real?](https://open.spotify.com/album/5HoqdkytdUrqRqn7sxLR25) | 3:56 |
 | 20 | [I Want You Now](https://open.spotify.com/track/12D0dLy59uXdEtliQ7TvvW) | [AWAŸKEN](https://open.spotify.com/artist/2oNiJMAEXgGuZjkQ9ZERa7) | [I Want You Now](https://open.spotify.com/album/4efBqshhIk4Rn94SVOi3qB) | 7:16 |
 | 21 | [More Love](https://open.spotify.com/track/72qkEdLo7hkJcpJ5ARfvgW) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [KONXIOUS](https://open.spotify.com/artist/7ifmiN7sqthTZQuo91fOQ7) | [More Love](https://open.spotify.com/album/42uozpGHqQ5HPCegmvEtpS) | 3:46 |
 | 22 | [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 |
@@ -265,7 +265,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 255 | [Kimpton](https://open.spotify.com/track/1wxZ9pAu1nW79Toy255OFz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Kimpton](https://open.spotify.com/album/4irD2QKX4eA49YhoAhUj21) | 3:48 |
 | 256 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 |
 | 257 | [Alegria](https://open.spotify.com/track/3SrFmPoczDXSzrUTeCWZYD) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [DJ Kent](https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN) | [Alegria](https://open.spotify.com/album/2GYVyRdzg3rddBm88AEUsE) | 3:44 |
-| 258 | [Feel The Love](https://open.spotify.com/track/79VHKtRi11otZg0Bil7v1G) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Feel The Love](https://open.spotify.com/album/5n6V1LkjqA3sr4n1gz1ODx) | 3:03 |
+| 258 | [Feel The Love](https://open.spotify.com/track/79VHKtRi11otZg0Bil7v1G) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [Feel The Love](https://open.spotify.com/album/5n6V1LkjqA3sr4n1gz1ODx) | 3:03 |
 | 259 | [Oceanside \- Monkey Safari Remix](https://open.spotify.com/track/5IrIuQ6QQjvXO7p35hV1YD) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Dreamscapes Remixes Volume 1](https://open.spotify.com/album/24sjBHTwbLhn4x28C39UEr) | 4:56 |
 | 260 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 |
 | 261 | [Funky Nassau](https://open.spotify.com/track/3VxZAxFqSfJqQVfib6W4mk) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Federico Scavo](https://open.spotify.com/artist/0sPG1Yn8sWnhwDHsUbrU0F) | [Funky Nassau](https://open.spotify.com/album/53hGriNQWqe54bCfRR0lvw) | 2:17 |

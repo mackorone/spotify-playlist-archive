@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy, Alex Ortu\u00f1o y Triny y La Leyenda en portada. ",
+  "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. GERARDO D\u00cdAZ Y SU GERARQU\u00cdA en portada. ",
   "name": "Tierra Caliente",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 174066,
       "name": "Brebaje",
       "url": "https://open.spotify.com/track/3w3xwSJe6GhgqTfbVGhBbv"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 171175,
       "name": "Chaparrita Pelo Largo (En Vivo)",
       "url": "https://open.spotify.com/track/4QQG05bEpucIv2faI70XqT"
@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 198669,
       "name": "Las Envidias, los Chismes y las Traiciones",
       "url": "https://open.spotify.com/track/7zqNRqTWEAxatMuV9ZWVu7"
@@ -2218,7 +2218,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 150700,
       "name": "Me Voy Lejos (En Vivo)",
       "url": "https://open.spotify.com/track/65G6WRVvnM2V4ih2cayh4W"
@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 128333,
       "name": "Morenita Labios Rojos",
       "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
@@ -2715,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Pasito a Pasito",
+        "url": "https://open.spotify.com/album/6neYguTvvwimkTyf3yjEyi"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164613,
+      "name": "Pasito a Pasito",
+      "url": "https://open.spotify.com/track/57BNfo1TVljv47AH3RU1FP"
+    },
+    {
+      "album": {
         "name": "Los Que Nunca Se Fueron \"Poker De Reyes\" (En Vivo)",
         "url": "https://open.spotify.com/album/6a8yUZNYx5q9auEgR4etlM"
       },
@@ -2734,7 +2752,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 207883,
       "name": "Paso Del Norte (En Vivo)",
       "url": "https://open.spotify.com/track/015YEHbqmbwmwTLQJNq6xe"
@@ -3276,7 +3294,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 220589,
       "name": "Te Ves Fatal",
       "url": "https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO"

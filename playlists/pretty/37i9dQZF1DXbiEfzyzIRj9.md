@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Disclosure, Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,446 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,450 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 7 | [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 |
 | 8 | [GITA!](https://open.spotify.com/track/4BxPj1OsxYkPanOpCma6Ap) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [GITA!](https://open.spotify.com/album/6nnfGs9qbg5Ikt7neBe6iE) | 3:34 |
 | 9 | [Waiting So Long](https://open.spotify.com/track/4wRz8SyQIQ3kVtLN7ZDa3Y) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Waiting So Long](https://open.spotify.com/album/4VzKIKRGEAWBIG8vqjS3SO) | 3:54 |
-| 10 | [Track 1](https://open.spotify.com/track/309yYJktQuHXtlL7UuIiDe) | [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [](https://open.spotify.com/album/null) | 0:00 |
+| 10 | [Strike](https://open.spotify.com/track/309yYJktQuHXtlL7UuIiDe) | [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Showman](https://open.spotify.com/album/6UiKTakIrqUkWfblK4FwEe) | 4:54 |
 | 11 | [Paradise Runner](https://open.spotify.com/track/3L7TOZvbuTsxH5EM8LVHUZ) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Paradise Runner](https://open.spotify.com/album/2llFvkt14pwvA4XzsSC9I5) | 4:36 |
 | 12 | [gossip \- Chris Lake Remix](https://open.spotify.com/track/4ypboAEndfCMGxDJQa9i5w) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip \(Chris Lake Remix\)](https://open.spotify.com/album/6a0CnQt108jabqdOwKkdCv) | 2:27 |
 | 13 | [Can't Deny It](https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D) | [Can't Deny It](https://open.spotify.com/album/2tYGrcqUZ1OASP2vMwDfBJ) | 2:52 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 34 | [Give You My Luv](https://open.spotify.com/track/3BXDXkRqdIMN7wDnhbexvh) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Give You My Luv](https://open.spotify.com/album/2Bt9AMckSnsPQHndxTMb1W) | 3:24 |
 | 35 | [Mag Sway](https://open.spotify.com/track/0fq4alhnzyijE2C9HnZJts) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [OX7GEN](https://open.spotify.com/artist/5d66Nh33Gm2VLwwWmLRvmk) | [Mag Sway](https://open.spotify.com/album/1C3N9WAk9HTgvDsLN9tcjQ) | 3:24 |
 | 36 | [Magisa](https://open.spotify.com/track/5y4ZcdYDa7sqmGb5U7TyNR) | [Hiroyuki Kato](https://open.spotify.com/artist/23CiJirD3cbTXeVTFysAgq) | [Life 今](https://open.spotify.com/album/2kalbqhOKw2Eb7H4z3Ozzi) | 7:37 |
-| 37 | [Lord of the Ring Roads](https://open.spotify.com/track/4cMIvnuNc1HrIHpyzc4CnC) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [](https://open.spotify.com/album/null) | 3:49 |
+| 37 | [Lord of the Ring Roads](https://open.spotify.com/track/4cMIvnuNc1HrIHpyzc4CnC) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Lord of the Ring Roads EP](https://open.spotify.com/album/14ObeE9RJcFFE7589xGvP0) | 3:49 |
 | 38 | [Mine or Yours \(The Blessed Madonna's GODSQUAD Mix\)](https://open.spotify.com/track/5xnXw2GiPv2NhMTtOt1hlP) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Mine or Yours](https://open.spotify.com/album/3KrPn5Hsy8tyL1z73iQm23) | 5:06 |
 | 39 | [Right Now \(Rally House\)](https://open.spotify.com/track/4mmRhOeZ4Mp6avNtGwqA6r) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL) | [DJ Tools 01](https://open.spotify.com/album/6ysINpZfWpcAOX15e3hKTD) | 2:35 |
 | 40 | [Blue Planet \- Qrion Remix](https://open.spotify.com/track/4X3pXPqpLT0h36L0aIjPyy) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Blue Planet \(Qrion Remix\)](https://open.spotify.com/album/26I0CeXrVRzpknDqyKZ3vr) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Free Falling](https://open.spotify.com/track/2OtkVJa0TqrxTSFRfGapXE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Free Falling](https://open.spotify.com/album/1Bs2GHQOR8Uxiv89sbhYbC) | 3:45 |
 | 100 | [Stick Out](https://open.spotify.com/track/7rDfio21FnO5GM8rgmhADe) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Stick Out](https://open.spotify.com/album/3bKQ5GAsKs6VXRa8akWeAj) | 3:02 |
 
-Snapshot ID: `AAAAAN50wJp+bZMWAooIeKbrFxe2pm5x`
+Snapshot ID: `AAAAAIAXgQJJ04SrT9C0LJqHIB6eHZ2L`

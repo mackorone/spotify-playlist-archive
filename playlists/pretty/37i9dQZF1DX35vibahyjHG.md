@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The best songs by African women in 2025, selected by our editors\. Cover: <a href="https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK?si=9Y35PBX5R467eG2Yvm3Sww">Moliy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,919 likes - 49 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,951 likes - 49 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

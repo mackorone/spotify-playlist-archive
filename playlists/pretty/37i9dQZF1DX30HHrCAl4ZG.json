@@ -1,13 +1,29 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from mercury",
-  "num_followers": 811279,
+  "description": "Explore all things indie rock right now. Featuring music from Ratboys",
+  "num_followers": 811239,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAcYLxO3Bf3yM+BBmUFMfo/ovcvR",
+  "snapshot_id": "AAAAAJsRlSCmHpOkTOEO5pCi3RTcDoO1",
   "tracks": [
+    {
+      "added_at": "2025-12-05 19:20:48",
+      "album": {
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "The Treadmill",
+      "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
+    },
     {
       "added_at": "2025-11-14 05:00:37",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 275841,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU"
+    },
+    {
+      "added_at": "2025-12-05 19:20:48",
+      "album": {
+        "name": "Super Pedestrian (Deluxe)",
+        "url": "https://open.spotify.com/album/58aEJcSWEzDr0ElfGJBZfW"
+      },
+      "artists": [
+        {
+          "name": "Annie DiRusso",
+          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
+        }
+      ],
+      "duration_ms": 201353,
+      "name": "Rotting Ripe",
+      "url": "https://open.spotify.com/track/3eVR4S2JjPF1ITdoUTMLWk"
+    },
+    {
+      "added_at": "2025-12-05 19:20:48",
+      "album": {
+        "name": "What\u2019s Right?",
+        "url": "https://open.spotify.com/album/0LFDTByH4Mbn5PbBGMPkJO"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "duration_ms": 314764,
+      "name": "What\u2019s Right?",
+      "url": "https://open.spotify.com/track/2YXDguAdOrvWYIwbPjvAkA"
     },
     {
       "added_at": "2025-11-21 05:00:41",

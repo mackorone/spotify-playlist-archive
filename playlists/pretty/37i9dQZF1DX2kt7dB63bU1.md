@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Ledisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,982 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,031 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Minor Blues Redux](https://open.spotify.com/track/4CoxOtljview88zweWSqQI) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Songbook](https://open.spotify.com/album/4QcMPMeiiIgC6vejghEAUl) | 5:24 |
 | 2 | [I'm a Stranger Here Myself](https://open.spotify.com/track/1YRDhHyrcMjIcgEBDJKluw) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Pacific Jazz Orchestra](https://open.spotify.com/artist/4V9K5J0QHwTQldLhmzF9Xm) | [I'm a Stranger Here Myself \- Wainwright Does Weill](https://open.spotify.com/album/5vLjeCrVWZ7bckQf1r1CVc) | 3:04 |
-| 3 | [The Shadow Of Your Smile](https://open.spotify.com/track/0O4y8lpt0XUKeQwZcj8YgR) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Shadow Of Your Smile](https://open.spotify.com/album/7ojnM0aUTEKZYxwVwOrheU) | 4:36 |
+| 3 | [Carinhoso](https://open.spotify.com/track/4ykySjQAxiSpS5xNU8R25s) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [A Little Time For Love](https://open.spotify.com/album/2YNz3gcj2Uucf98VJ4OHPW) | 3:53 |
 | 4 | [If I Loved You](https://open.spotify.com/track/4QZfE0uBTRIUknpnmru7XQ) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [If I Loved You](https://open.spotify.com/album/15L2n6vVD5Gm2EE1v4ti4y) | 3:50 |
 | 5 | [Our Love Is Here to Stay](https://open.spotify.com/track/3WhovG1qE9Vi60bbm6ot9r) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD), [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Our Love Is Here to Stay](https://open.spotify.com/album/6VCxDrD0Cms6BZqdVDrpnK) | 6:21 |
 | 6 | [I'll Be A Nobody](https://open.spotify.com/track/78SlkDi5FwmQtiwG3osxc5) | [Brandon Estrada](https://open.spotify.com/artist/32s9nbMhyhXRKma5C6VusV) | [Nobody](https://open.spotify.com/album/4oeeGgoxnskIdsr6V7benD) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Pendulum](https://open.spotify.com/track/3Y5onKZN1Im4FxoTUMnEzb) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [Embraceable](https://open.spotify.com/album/4WA2EdR41dqzbluBGjIGEt) | 2:49 |
 | 100 | [Wonder in the Waiting](https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...Winter](https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg) | 4:40 |
 
-Snapshot ID: `AAAAAFiXGBw96J65aW2A2U63pJmHIN4+`
+Snapshot ID: `AAAAAO3ABUtE4IZg3FBMg1Xbw7WlrPOU`

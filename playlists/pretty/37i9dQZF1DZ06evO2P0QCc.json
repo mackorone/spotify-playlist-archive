@@ -1,29 +1,13 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 121685,
+  "num_followers": 121702,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAADvp8xFUkuKY6wNQWMFuQjX",
+  "snapshot_id": "aTDPAAAAAAC7yTgf5PKUc4QSVLPwwEyr",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonando desde el Auditorio Nacional",
-        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 327480,
-      "name": "Amargo Adi\u00f3s - Sonando desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/0zUihcOewAOyDtB5PLCApG"
-    },
     {
       "added_at": null,
       "album": {
@@ -36,9 +20,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+      "duration_ms": 228426,
+      "name": "Amargo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
     },
     {
       "added_at": null,
@@ -100,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 257240,
-      "name": "Como Un Sol",
-      "url": "https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui"
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
       "added_at": null,
@@ -172,9 +156,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 232253,
-      "name": "Sin Rencor",
-      "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
+      "duration_ms": 257240,
+      "name": "Como Un Sol",
+      "url": "https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui"
     },
     {
       "added_at": null,
@@ -231,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "Sin Rencor",
+      "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inspecci\u00f3n Retroac\u00fastica",
         "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
@@ -243,22 +243,6 @@
       "duration_ms": 255373,
       "name": "Por \u00daltima Vez",
       "url": "https://open.spotify.com/track/1xTnxlhuya4HVoF7vjqZPu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "Las Tijeras",
-      "url": "https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9"
     },
     {
       "added_at": null,
@@ -295,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "Las Tijeras",
+      "url": "https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -307,22 +307,6 @@
       "duration_ms": 223146,
       "name": "Besame Mucho",
       "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "Cara De Chango",
-      "url": "https://open.spotify.com/track/4lMHkTJe2Kcx4yJXfBaTyj"
     },
     {
       "added_at": null,
@@ -355,6 +339,22 @@
       "duration_ms": 251680,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "Cara De Chango",
+      "url": "https://open.spotify.com/track/4lMHkTJe2Kcx4yJXfBaTyj"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busco Amor",
-        "url": "https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 222138,
-      "name": "Busco Amor",
-      "url": "https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A La Larga Te Acostumbras",
         "url": "https://open.spotify.com/album/1bp7ROjR99ipXFrSuRGhvM"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 186613,
       "name": "Tengo Un Amor",
       "url": "https://open.spotify.com/track/7jpqYcKRXHfGl0pP32h0xZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busco Amor",
+        "url": "https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 222138,
+      "name": "Busco Amor",
+      "url": "https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
       "duration_ms": 224666,
       "name": "Grita",
       "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 213746,
-      "name": "El Relato",
-      "url": "https://open.spotify.com/track/7dLsthrW8ROlkLeOTglRsz"
     },
     {
       "added_at": null,
@@ -751,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska Wars Monterrey",
-        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Breve Historia de Amor y una Mujer",
-      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -779,6 +747,22 @@
       "duration_ms": 242800,
       "name": "La Tregua",
       "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska Wars Monterrey",
+        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Breve Historia de Amor y una Mujer",
+      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
     },
     {
       "added_at": null,
@@ -819,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Mala Copa",
-      "url": "https://open.spotify.com/track/7zrhd3m1VSWv8HMDXUEORm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -851,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Mala Copa",
+      "url": "https://open.spotify.com/track/7zrhd3m1VSWv8HMDXUEORm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inspecci\u00f3n Retroac\u00fastica",
         "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 236720,
       "name": "Amar O Morir",
       "url": "https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Desatinos",
+      "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
     }
   ],
   "unique_name": "This Is Inspector",

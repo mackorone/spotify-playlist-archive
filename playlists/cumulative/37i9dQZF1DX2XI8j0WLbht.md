@@ -4,7 +4,7 @@
 
 > una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-246 songs - 16 hr 3 min
+247 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Piensa en Mí](https://open.spotify.com/track/1KfCdHD9zFCzcjYYhy6dwy) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Piensa en Mí](https://open.spotify.com/album/5R0XXQDPspK5UIQQeOJg6W) | 3:28 | 2022-03-04 | 2025-05-31 |
 | [Popango](https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n) | 2:44 | 2024-09-06 | 2025-05-31 |
 | [Por Los Caminos Del Sur](https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS) | [Costa Mía Orquesta](https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL), [Vania Fortuna](https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF) | [Por Los Caminos Del Sur](https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689) | 2:38 | 2022-03-04 | 2025-05-31 |
+| [Precisa Tiempo](https://open.spotify.com/track/22tsm1x1JSXtth3JBSbbcs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Precisa Tiempo](https://open.spotify.com/album/6WG6ZR9TbX048lDG9SHDVN) | 3:38 | 2025-12-05 |  |
 | [Propuestas Imposibles](https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Propuestas Imposibles](https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb) | 3:43 | 2022-03-04 | 2025-05-31 |
 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 | 2022-03-04 | 2025-05-31 |
 | [Pérame Tantito](https://open.spotify.com/track/0jeYevrtN1UjsTQnLdc7L6) | [Karis Sea](https://open.spotify.com/artist/1hZdBi5DEE6yFOUOcfFjGq) | [Pérame Tantito](https://open.spotify.com/album/6A2JCnbH2Pem0VYZx6f9MT) | 2:01 | 2025-01-10 |  |
@@ -239,7 +240,7 @@
 | [Vas de Salida](https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Vas de Salida](https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN) | 3:02 | 2023-06-09 | 2025-05-31 |
 | [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2022-03-04 | 2025-05-31 |
 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 | 2022-03-04 | 2024-04-19 |
-| [Vete a la Chingada](https://open.spotify.com/track/0C2WEZC7zvTgjIStkYPVjm) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Cada Vez Más > :\-\(](https://open.spotify.com/album/6V5zzGUGIjRsxzMyiCxUqG) | 3:07 | 2025-05-30 |  |
+| [Vete a la Chingada](https://open.spotify.com/track/0C2WEZC7zvTgjIStkYPVjm) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Cada Vez Más > :\-\(](https://open.spotify.com/album/6V5zzGUGIjRsxzMyiCxUqG) | 3:07 | 2025-05-30 | 2025-12-06 |
 | [Vibra](https://open.spotify.com/track/4v5V92B2AHjaoJ2DnY6M8j) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Vibra](https://open.spotify.com/album/6x0BGz3cZQ68FMbMtHScOJ) | 3:18 | 2022-03-04 | 2023-02-04 |
 | [Viva tu](https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Viva tu](https://open.spotify.com/album/1mlsE7Il5lCZi83yzXj0pU) | 3:08 | 2024-05-31 | 2025-05-31 |
 | [Vivan los Humanos](https://open.spotify.com/track/3RpwYqWAH2Za8mWowJmyyi) | [La Rumorosa](https://open.spotify.com/artist/3IEgTdEwMmfG1JxfAr7tGK), [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Vivan los Humanos](https://open.spotify.com/album/1LS1ghliTvyePiYAASwxII) | 3:21 | 2022-03-04 | 2025-01-11 |

@@ -4,7 +4,7 @@
 
 > A taste of today's best bluegrass instrumentals.
 
-317 songs - 19 hr 22 min
+318 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Waiting on Vassar](https://open.spotify.com/track/2OgHEQQm0BMaA7pNzv7utB) | [Mike Barnett](https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA), [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [Portraits in Fiddles](https://open.spotify.com/album/5nBT3vs0ihbQW5Ex7w2l6K) | 5:18 | 2021-12-03 | 2025-01-11 |
 | [Watch 'At Breakdown](https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [How To Grow A Woman From The Ground](https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4) | 4:14 | 2021-12-03 |  |
 | [Waveland](https://open.spotify.com/track/0RgsjTcfbWndH0oNiSvWtx) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Universal Favorite](https://open.spotify.com/album/72BjHzwfZXDbxm1HuiXcAo) | 2:58 | 2021-12-03 | 2022-07-23 |
+| [Wayfarer](https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA) | [Whalebone](https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9) | [Woven](https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh) | 2:29 | 2025-12-05 |  |
 | [Waynesboro \- Live](https://open.spotify.com/track/3wacduUnfHODRq6QXVcBQe) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT), [Sarah Kate Morgan](https://open.spotify.com/artist/4UCdRwhNwF470fGAfVfNQa) | [Live from Bristol](https://open.spotify.com/album/7z1pLmTcUEHoOzkdfDeFhU) | 2:54 | 2023-08-25 | 2025-01-11 |
 | [Waynesboro \- Live](https://open.spotify.com/track/5ake2OCj488YQf3Frq4yWc) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT), [Sarah Kate Morgan](https://open.spotify.com/artist/4UCdRwhNwF470fGAfVfNQa) | [Live from Bristol](https://open.spotify.com/album/731zEInCmBczQ35Tn2kjZN) | 2:54 | 2023-11-24 | 2024-04-19 |
 | [We Hide And Seek](https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Americana Master Series: Best Of The Sugar Hill Years](https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS) | 6:32 | 2021-12-03 |  |
@@ -312,7 +313,7 @@
 | [West Virginia Red](https://open.spotify.com/track/5EbhjtNrZziHm68m1x0QxX) | [Danny Roberts](https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE) | [West Virginia Red](https://open.spotify.com/album/75a6zJG8thNcgXIWAnkDOC) | 2:27 | 2024-05-29 | 2025-02-04 |
 | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9) | 4:15 | 2021-12-03 | 2025-01-11 |
 | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/track/6Ws3pJjE9MeiR8WYEC4hPw) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [My Bluegrass Heart](https://open.spotify.com/album/1vO0hRLuOKXKHrMbDBlJjc) | 4:15 | 2023-11-17 | 2024-04-19 |
-| [Whiskerhead Goes to Leningrad](https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep) | [My Place in the Sun](https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH) | 3:46 | 2021-12-03 |  |
+| [Whiskerhead Goes to Leningrad](https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep) | [My Place in the Sun](https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH) | 3:46 | 2021-12-03 | 2025-12-06 |
 | [Whiskey In The Jar](https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM) | [Josep Traver](https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D), [Tom Corbett](https://open.spotify.com/artist/2Q4oe8BUjskk1xLJI6KORE) | [Whiskey in the Jar](https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q) | 2:15 | 2022-01-28 |  |
 | [Whitewater](https://open.spotify.com/track/2YUF30ewdgPzTTzzsb5jxr) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr), [Mark Schatz](https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6) | [Drive](https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z) | 3:09 | 2021-12-03 | 2022-07-23 |
 | [Wild Rag](https://open.spotify.com/track/1d7ckfsUqNHIDj77uuOx1r) | [Ole Man Kidd](https://open.spotify.com/artist/2tkOWQEUaIiUU9pXv0Lk2G) | [Wild Rag](https://open.spotify.com/album/2pdW86O9nQ1twCQmva1asc) | 4:17 | 2022-04-15 | 2022-07-18 |

@@ -1,6 +1,6 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 914625,
+  "num_followers": 914634,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
+        "name": "Dude Ranch",
+        "url": "https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 199973,
+      "name": "Josie",
+      "url": "https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
         "name": "Here's To The Mourning",
         "url": "https://open.spotify.com/album/1RfWXKUSOPbeggQ04lXABC"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 220013,
       "name": "Celebration Song",
       "url": "https://open.spotify.com/track/1uDhHTNIBF5BJQWTjKnCoa"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 255831,
-      "name": "Nightclubbing",
-      "url": "https://open.spotify.com/track/6WPGAupim73K9XQL4iIefZ"
     }
   ],
   "unique_name": "Punk Essentials",

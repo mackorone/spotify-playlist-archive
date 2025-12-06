@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Kobie Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,160 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,178 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SYDNEY 2 CROYDON \(feat\. Jords\)](https://open.spotify.com/track/2ILfqaacKKpAJX1aRPhFFG) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO), [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [SYDNEY 2 CROYDON \(feat\. Jords\)](https://open.spotify.com/album/4VkcAN5S9LgPpSgjdAe1Wd) | 2:42 |
 | 2 | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/track/6yeGECrisgtHSWaYDZBA7h) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [Stone II](https://open.spotify.com/artist/4WIa7bwGO6UbJGOa3dYy9H) | [Play My Part \(SLIDE\) \(feat\. Stone II\)](https://open.spotify.com/album/15NNhrMTBtpPI9hSSa3TFV) | 2:18 |
-| 3 | [Track 2](https://open.spotify.com/track/7sdpz5UIjPbxSyyXjV2DBR) | [Brazen Barbie](https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW) | [](https://open.spotify.com/album/null) | 0:00 |
-| 4 | [Track 1](https://open.spotify.com/track/6krHfcYbtZyka2LEZAmSjC) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [En Route](https://open.spotify.com/track/7sdpz5UIjPbxSyyXjV2DBR) | [Brazen Barbie](https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW) | [TOO BRAZEN](https://open.spotify.com/album/6A2At8Wh91FJuYKCBEkYHq) | 2:26 |
+| 4 | [On My Grind](https://open.spotify.com/track/6krHfcYbtZyka2LEZAmSjC) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Trench Kid](https://open.spotify.com/album/7F0hVXvzzxT7NY1brLbF9M) | 3:19 |
 | 5 | [She Will \(with Day1\)](https://open.spotify.com/track/17CgN1wfpepyTOyVviHS6L) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [She Will \(with Day1\)](https://open.spotify.com/album/4s3oBsSVqaIkNLvSrts2Ob) | 3:44 |
 | 6 | [Hit For The Summer](https://open.spotify.com/track/1C0Jze7rETmEE4KHiI0DiK) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Hit For The Summer](https://open.spotify.com/album/5Dji7CbPfY7EO87fl2oLlz) | 3:02 |
 | 7 | [Big Don](https://open.spotify.com/track/5eCTcda91IJHESvBpNwBnj) | [Celly](https://open.spotify.com/artist/7hNCr6bA6G1HiWjooQzCuz), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Big Don](https://open.spotify.com/album/11cK5YaX4JYHPWxzhEvee2) | 2:10 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 9 | [WORST DAY](https://open.spotify.com/track/7dAyk3QavArM6yZkpoHiPN) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Nextwavez](https://open.spotify.com/artist/3CRJjxNshxykpYvd5a68D7) | [WORST DAY](https://open.spotify.com/album/2TIyezflRXzawgN9ObGXFw) | 2:15 |
 | 10 | [Nights Like This](https://open.spotify.com/track/21bkT5EFIpmYajZKygqbya) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Nights Like This](https://open.spotify.com/album/2utoJLRx2rzYOmoYjXf8fi) | 2:09 |
 | 11 | [Since Young](https://open.spotify.com/track/4hDDez6mp0pINESkvZRSG3) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [Since Young](https://open.spotify.com/album/1ajh9U4XAfhoihLGJThHtR) | 2:37 |
-| 12 | [Track 11](https://open.spotify.com/track/1cx2ij3rr52WiEC5ZwIIYx) | [BVT](https://open.spotify.com/artist/686bTsDGJ3bTbLZMUxouUi) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [TARA NA](https://open.spotify.com/track/1cx2ij3rr52WiEC5ZwIIYx) | [BVT](https://open.spotify.com/artist/686bTsDGJ3bTbLZMUxouUi), [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [PA777IENCE](https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t) | [BUWAYA](https://open.spotify.com/album/05ysQxgB3R26Zya0Sq5hV2) | 2:59 |
 | 13 | [Storyboards](https://open.spotify.com/track/0G3bv9WgDR2UfNiECeluL8) | [your best friend jippy](https://open.spotify.com/artist/2nyEmQWHkN4klNBWnNllLZ), [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77) | [Solar Lottery](https://open.spotify.com/album/66EuLlnMKzaD0bXhFUnQCr) | 2:18 |
 | 14 | [MILKSHAKES](https://open.spotify.com/track/0VqVxeI7NA6AjlznSdz5Ho) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [MILKSHAKES](https://open.spotify.com/album/2QzVbI3gj23og6L5s90k5B) | 2:10 |
 | 15 | [CRASH OUT](https://open.spotify.com/track/5g0joA89W8BZMNNOeZQo57) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [WAMEYO](https://open.spotify.com/album/50PbsZcJA7h3IvcpTDVRTU) | 2:23 |

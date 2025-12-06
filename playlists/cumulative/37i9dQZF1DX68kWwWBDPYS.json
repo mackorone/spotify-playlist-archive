@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "morrxs chidxs haciendo m\u00fasica chida. Ola Magenta en portada.",
+  "description": "morrxs chidxs haciendo m\u00fasica chida. M\u00e9ne e Ivana en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 192162,
       "name": "114",
       "url": "https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 203906,
       "name": "Astros",
       "url": "https://open.spotify.com/track/0EHjeBjck1oNsCoKixkTlt"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 207000,
       "name": "Bby te necesito",
       "url": "https://open.spotify.com/track/3Jb29JDq7RalOKKzhKwrvg"
@@ -1315,6 +1315,28 @@
     },
     {
       "album": {
+        "name": "No Quiero Aprenderme Este Disco",
+        "url": "https://open.spotify.com/album/3rqwOO5Ze60ca27XBSEh8C"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        },
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149888,
+      "name": "Chevrolet, Mercedes-Benz",
+      "url": "https://open.spotify.com/track/1tIiTQUkUsZjQMVdGEpn4K"
+    },
+    {
+      "album": {
         "name": "Chiquitita Bum Bum",
         "url": "https://open.spotify.com/album/4rqC4KvIS1cCI91eOj66y6"
       },
@@ -1446,6 +1468,28 @@
       "duration_ms": 178800,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/7nAjHsXvOG1AQcg8t88Sas"
+    },
+    {
+      "album": {
+        "name": "yamerito",
+        "url": "https://open.spotify.com/album/6vY3TfuYOWy6gujPEE2mDS"
+      },
+      "artists": [
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        },
+        {
+          "name": "Sam Vazquez",
+          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Combinaci\u00f3n Perfecta",
+      "url": "https://open.spotify.com/track/2ipJ50C7JtNnchLOfBrqx5"
     },
     {
       "album": {
@@ -2381,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/4eA9ENmIrkRbpJoRu6WhCh"
+      },
+      "artists": [
+        {
+          "name": "Zoe del Olmos",
+          "url": "https://open.spotify.com/artist/6ILwU6BnrRLuM4VvNNQTVJ"
+        },
+        {
+          "name": "Logan Lowe",
+          "url": "https://open.spotify.com/artist/51hOX731r8dSq3dSU7uHZo"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161771,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/6hoEhGcH0Bq4r1LlM22oPm"
+    },
+    {
+      "album": {
         "name": "ella es",
         "url": "https://open.spotify.com/album/0RDuV4WmFjVHvCqKMyZWeH"
       },
@@ -2766,6 +2832,28 @@
       "duration_ms": 266000,
       "name": "Fluir y Bailar",
       "url": "https://open.spotify.com/track/54gBtxU0fmBzdWXd8vFSfF"
+    },
+    {
+      "album": {
+        "name": "forgetyou:(",
+        "url": "https://open.spotify.com/album/6p9DZYw11XNJXLovSAgCpa"
+      },
+      "artists": [
+        {
+          "name": "Billy Manhattan",
+          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "forgetyou:(",
+      "url": "https://open.spotify.com/track/61O1QuGxNPHb1jkesPDqmN"
     },
     {
       "album": {
@@ -3372,6 +3460,36 @@
       "duration_ms": 122666,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/0xEzygJMWEFdrgHqD81PCy"
+    },
+    {
+      "album": {
+        "name": "La Procesi\u00f3n",
+        "url": "https://open.spotify.com/album/2ncxCqtgpgf0PovRubdz0k"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Andrea Cruz",
+          "url": "https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6"
+        },
+        {
+          "name": "Nico Agesta",
+          "url": "https://open.spotify.com/artist/4ZahlMxxJqJ7A0FDfyf8sW"
+        },
+        {
+          "name": "Multiverso Rec",
+          "url": "https://open.spotify.com/artist/4vfh7YNp9RCsbvotgivvGd"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194750,
+      "name": "La Procesi\u00f3n",
+      "url": "https://open.spotify.com/track/6vAuz14DByEIz9DPoXrkDj"
     },
     {
       "album": {
@@ -4398,7 +4516,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 177000,
       "name": "No Me Importa",
       "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
@@ -4486,6 +4604,24 @@
       "duration_ms": 185685,
       "name": "no quiero estar aqu\u00ed",
       "url": "https://open.spotify.com/track/2KW4OWqMU780CgocKsMOZ4"
+    },
+    {
+      "album": {
+        "name": "No Quiero Recalentado",
+        "url": "https://open.spotify.com/album/1SwVQzpclr2oVzNV6GyGtN"
+      },
+      "artists": [
+        {
+          "name": "El Muchacho de los Ojos Tristes",
+          "url": "https://open.spotify.com/artist/0MDwsY5nQTWmb1TPOqVh0H"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "No Quiero Recalentado",
+      "url": "https://open.spotify.com/track/5pY8TexcepZaGIKFPfrfmU"
     },
     {
       "album": {
@@ -5266,7 +5402,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 171056,
       "name": "Qu\u00e9 Bonita T\u00fa",
       "url": "https://open.spotify.com/track/1Q0pNWXNTAAScydoafto3A"
@@ -5476,7 +5612,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 201333,
       "name": "SE MUERE UN HADA",
       "url": "https://open.spotify.com/track/1MYrQBl1x6Fl6uIzCIrqAd"
@@ -5534,7 +5670,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 213237,
       "name": "Sheep en la Gran Ciudad",
       "url": "https://open.spotify.com/track/2cauNqML2K1EBYPWSzw9Fd"
@@ -5592,6 +5728,24 @@
       "duration_ms": 171968,
       "name": "SI SALTAS YO SALTO",
       "url": "https://open.spotify.com/track/6Q7DpZhQV7gT0vWQF4haez"
+    },
+    {
+      "album": {
+        "name": "Sid & Nancy",
+        "url": "https://open.spotify.com/album/34HJPRnYX7OBNgcfmyNuGZ"
+      },
+      "artists": [
+        {
+          "name": "GRBR",
+          "url": "https://open.spotify.com/artist/5wYPbUoEPm8ZuFQ3ERsctg"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183595,
+      "name": "Sid & Nancy",
+      "url": "https://open.spotify.com/track/791drWVgeXPnAbs02qVg4o"
     },
     {
       "album": {

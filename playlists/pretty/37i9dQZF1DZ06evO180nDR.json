@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 65387,
+  "num_followers": 65475,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAACuNlLfahOfwi7YVM0wzEvd",
+  "snapshot_id": "aTDPAAAAAAC7XDXRw6MI0FdQyl/Br813",
   "tracks": [
     {
       "added_at": null,
@@ -268,13 +268,33 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 169317,
-      "name": "Supreme",
-      "url": "https://open.spotify.com/track/3g9t4SqzzMf7hEtJRS3wsy"
+      "duration_ms": 173618,
+      "name": "Boneless",
+      "url": "https://open.spotify.com/track/38rXAquFQN5OwsWA1oo6ps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Amola",
+        "url": "https://open.spotify.com/album/2ndqLXq1j0vuy3DYZJMFeY"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 174850,
+      "name": "Me Amola",
+      "url": "https://open.spotify.com/track/5uwXV9navpcEKDoiqAPASY"
     },
     {
       "added_at": null,
@@ -299,26 +319,6 @@
       "duration_ms": 162676,
       "name": "VVS",
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Amola",
-        "url": "https://open.spotify.com/album/2ndqLXq1j0vuy3DYZJMFeY"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 174850,
-      "name": "Me Amola",
-      "url": "https://open.spotify.com/track/5uwXV9navpcEKDoiqAPASY"
     },
     {
       "added_at": null,
@@ -348,13 +348,13 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 173618,
-      "name": "Boneless",
-      "url": "https://open.spotify.com/track/38rXAquFQN5OwsWA1oo6ps"
+      "duration_ms": 169317,
+      "name": "Supreme",
+      "url": "https://open.spotify.com/track/3g9t4SqzzMf7hEtJRS3wsy"
     },
     {
       "added_at": null,

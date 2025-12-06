@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: FIFTY FIFTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,037 likes - 119 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,042 likes - 119 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 7 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:51 |
 | 8 | [Remember To Dance \(Little Things\)](https://open.spotify.com/track/41eIrJ4BOf6l0QzJFB1vO8) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8), [Adrián Berenguer](https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv) | [Remember To Dance \(Little Things\)](https://open.spotify.com/album/4GncEvr8CcRpYsuMSnnAvR) | 2:43 |
 | 9 | [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 |
-| 10 | [Broken Angel \(This is Lonely Club\)](https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [](https://open.spotify.com/album/null) | 2:51 |
-| 11 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [](https://open.spotify.com/album/null) | 3:22 |
+| 10 | [Broken Angel \(This is Lonely Club\)](https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Quantum Beats](https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu) | 2:51 |
+| 11 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 |
 | 12 | [will i ever \(day bounce\)](https://open.spotify.com/track/2nxNMpGFUIlO4Lsd7M3NLz) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [will i ever \(day bounce\)](https://open.spotify.com/album/0LBmP6XLwxwJlFbY2BJL4K) | 2:51 |
 | 13 | [Diari Air Mata](https://open.spotify.com/track/17eineJLl5NXPcJ4ZXAOYR) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Diari Air Mata](https://open.spotify.com/album/1GmHkTD6SFn2Nt7VuFCapb) | 4:09 |
 | 14 | [Air Mata](https://open.spotify.com/track/1mX4Le741SPx3fos9NMreh) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Air Mata](https://open.spotify.com/album/6ILgvaCe7ITcGJqLld1rwF) | 3:20 |

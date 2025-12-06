@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-141 songs - 8 hr 10 min
+142 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Life's a Bitch \(feat\. AZ & Olu Dara\)](https://open.spotify.com/track/2LhhnqrHPWvXYveZVHLKrd) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Olu Dara](https://open.spotify.com/artist/3DQiuEWQzCUET866iZJmQ9) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 3:30 | 2025-06-28 |  |
 | [Lockjaw](https://open.spotify.com/track/6K6rqLZ7PBDx3PNA4snQzK) | [King Geedorah](https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa), [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch) | [Take Me To Your Leader](https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t) | 1:03 | 2025-03-06 |  |
 | [LUST.](https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 5:07 | 2025-07-29 |  |
+| [Me and Your Mama](https://open.spotify.com/track/0NkkbKSzQ50mAoSUbQpgLw) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni) | 6:19 | 2025-12-05 |  |
 | [Meat Grinder](https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:11 | 2025-01-13 |  |
 | [Mince Meat](https://open.spotify.com/track/4bCBiFAPiK7rquriyiHByb) | [DANGERDOOM](https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [THE MOUSE & THE MASK](https://open.spotify.com/album/6TgkNOiJxeSkVVbXV720B1) | 2:32 | 2025-03-04 |  |
 | [Molasses \(feat\. RZA\)](https://open.spotify.com/track/7lhkOb0VNnTlshwifCEoSr) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 2:16 | 2025-02-06 | 2025-04-20 |

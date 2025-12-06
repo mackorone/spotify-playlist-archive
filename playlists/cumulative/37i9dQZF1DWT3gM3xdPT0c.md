@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-458 songs - 19 hr 43 min
+460 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Past & Present](https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Past & Present](https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs) | 3:01 | 2022-03-04 | 2022-07-22 |
 | [Patience](https://open.spotify.com/track/64YCCiONF91sIVJu3oJuIx) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Patience](https://open.spotify.com/album/2owUUKY5tTrAfOuu1OG5V1) | 2:25 | 2025-05-28 | 2025-07-23 |
 | [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 | 2022-03-04 | 2023-01-20 |
+| [Pebble Garden](https://open.spotify.com/track/7FnC1HiGKlpOQXjh4bUtHh) | [Milan Heyes](https://open.spotify.com/artist/46yZrE3PvsXkGFY6lE0EJ9) | [Pebble Garden](https://open.spotify.com/album/27D6azi103r9yZgj31J0Td) | 2:23 | 2025-12-05 |  |
 | [Photos of the Sun](https://open.spotify.com/track/6pnuVKbhK0ROctyEzFpz5G) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Photos of the Sun](https://open.spotify.com/album/6rKBI95x3OvQyTnyuNYXeH) | 2:53 | 2022-03-04 | 2024-04-20 |
 | [Pinus Halepensis](https://open.spotify.com/track/5vHDaXBGHiN5AroXmGjucE) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 2:35 | 2022-03-04 | 2022-04-06 |
 | [Pipes Canyon](https://open.spotify.com/track/10QnuxhWxXnQfDIFfpTTra) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Pipes Canyon](https://open.spotify.com/album/0b4jMAmrxMk9MxLsKvB4ko) | 2:47 | 2023-01-13 | 2024-04-20 |
@@ -455,6 +456,7 @@
 | [Whispering Winds](https://open.spotify.com/track/5D9BEXCyDrVrfYGDfwl9FE) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Whispering Winds](https://open.spotify.com/album/0MIMtnfIxqRTZBz5drD61Z) | 3:42 | 2024-05-10 |  |
 | [Wholeness](https://open.spotify.com/track/1jjZPPUTXBkvAzohTyFyKR) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wholeness](https://open.spotify.com/album/2A6ZqxxcjPGoCkl8299S39) | 3:18 | 2022-03-04 | 2022-04-06 |
 | [Window From A Train](https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Window From A Train](https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT) | 2:25 | 2022-03-04 | 2022-07-22 |
+| [Windowpane](https://open.spotify.com/track/4z8qhtbowetMFJ076Bh0Ed) | [Eric Nilson](https://open.spotify.com/artist/308tHLn6CKYz3k6w5zTxFd) | [Windowpane](https://open.spotify.com/album/6H6hC4o5RAeSV9svF64R5b) | 2:37 | 2025-12-05 |  |
 | [Windward Breath](https://open.spotify.com/track/65o5SX8EGxCoPhTh31YI94) | [Playfall](https://open.spotify.com/artist/0pqHT6ERaAgl6rawFnytRS) | [Situations](https://open.spotify.com/album/5jhBDjpYs8hBJTBR1HVxxp) | 2:35 | 2022-03-04 | 2022-07-22 |
 | [Winter Solstice](https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Abenddämmerung](https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA) | 3:29 | 2023-06-02 | 2024-07-19 |
 | [Wishing You a Safe Journey](https://open.spotify.com/track/0dlktcquQYp5OBm1voX3bu) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Wishing You a Safe Journey](https://open.spotify.com/album/6kqkgmAGIZPlzZdvvQXlDY) | 2:17 | 2025-03-05 | 2025-11-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 7340,
+  "num_followers": 7343,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAAD65b6fThp2+0Nb+X1qbh5y",
+  "snapshot_id": "aTDPAAAAAACjoMXX+fslEkAT18xCDO95",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obi Ate Meso Buo",
-        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 339253,
-      "name": "Theresa",
-      "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tokrom",
         "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 390240,
       "name": "Enim A Yedi Di Sika - Asante Nkae",
       "url": "https://open.spotify.com/track/4h8KFDgpyCO4EuvUv6eSg5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obi Ate Meso Buo",
+        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 339253,
+      "name": "Theresa",
+      "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obi Ate Meso Buo",
-        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 379706,
-      "name": "Makoma Ho Toffee",
-      "url": "https://open.spotify.com/track/0UydnFZZwlYY4b3HxoExqr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awarepa Ye Anibre",
         "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 372840,
       "name": "Eye N'adom",
       "url": "https://open.spotify.com/track/60ABB1dCbHvUFNSDJfuV9Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obi Ate Meso Buo",
+        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 379706,
+      "name": "Makoma Ho Toffee",
+      "url": "https://open.spotify.com/track/0UydnFZZwlYY4b3HxoExqr"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ma To Odo Mu",
+        "url": "https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 339453,
+      "name": "Bla Bla Bla",
+      "url": "https://open.spotify.com/track/0Tii7GjTjBIf8e4cRllMy3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ahenfo Kyiniye",
         "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 369160,
       "name": "Ahenfo Kyiniye",
       "url": "https://open.spotify.com/track/2I56btX31wtV1gSAvZJXXl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma To Odo Mu",
-        "url": "https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 339453,
-      "name": "Bla Bla Bla",
-      "url": "https://open.spotify.com/track/0Tii7GjTjBIf8e4cRllMy3"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awoso\u0254",
-        "url": "https://open.spotify.com/album/13OdQBvMdf2jyt3PzRF4hh"
+        "name": "Play Boy",
+        "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 297866,
-      "name": "Nea Nyame Tumi Y\u025b",
-      "url": "https://open.spotify.com/track/7hjuGZWgPxZEUn0cSsG1f7"
+      "duration_ms": 433386,
+      "name": "Nkyekye Wo Nafe",
+      "url": "https://open.spotify.com/track/5mMcyiSOAmcyTsU1YngxZZ"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Boy",
-        "url": "https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG"
+        "name": "Awoso\u0254",
+        "url": "https://open.spotify.com/album/13OdQBvMdf2jyt3PzRF4hh"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 433386,
-      "name": "Nkyekye Wo Nafe",
-      "url": "https://open.spotify.com/track/5mMcyiSOAmcyTsU1YngxZZ"
+      "duration_ms": 297866,
+      "name": "Nea Nyame Tumi Y\u025b",
+      "url": "https://open.spotify.com/track/7hjuGZWgPxZEUn0cSsG1f7"
     },
     {
       "added_at": null,

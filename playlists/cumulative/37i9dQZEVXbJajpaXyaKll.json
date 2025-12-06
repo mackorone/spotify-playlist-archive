@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 192134,
       "name": "alg\u00fan d\u00eda",
       "url": "https://open.spotify.com/track/6vbzNURShe7v41bdR1NCRN"
@@ -12796,7 +12796,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 200412,
       "name": "Fantas\u00eda Petricor",
       "url": "https://open.spotify.com/track/7FEmuux5y4GURZTsEWw0kR"
@@ -25217,6 +25217,32 @@
     },
     {
       "album": {
+        "name": "no son dos f son clones",
+        "url": "https://open.spotify.com/album/7twEkm25LS9ctLTO9qAJSX"
+      },
+      "artists": [
+        {
+          "name": "pabloxo",
+          "url": "https://open.spotify.com/artist/4nIZ7usgzFtxmcIKj0qOST"
+        },
+        {
+          "name": "impede",
+          "url": "https://open.spotify.com/artist/3Bf3MKSYI0BirG6yO6ZXTj"
+        },
+        {
+          "name": "Eyesofdirty",
+          "url": "https://open.spotify.com/artist/5O1AiEERHteJlLKNad85L5"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "no son dos f son clones",
+      "url": "https://open.spotify.com/track/1RcouNaMz2IuEcms1DDM2n"
+    },
+    {
+      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -27452,7 +27478,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 210576,
       "name": "Pasajero",
       "url": "https://open.spotify.com/track/5wPTk2TCDDuQRfqkZukWnk"
@@ -28706,7 +28732,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 158769,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
@@ -38644,6 +38670,24 @@
       "duration_ms": 268075,
       "name": "Viajando Por El Mundo",
       "url": "https://open.spotify.com/track/4w6Wpq1KWk485krowaqUIV"
+    },
+    {
+      "album": {
+        "name": "Viaje de 10 minutos",
+        "url": "https://open.spotify.com/album/4wAGP24lGdglUi5D1Qnt1R"
+      },
+      "artists": [
+        {
+          "name": "T4CHO",
+          "url": "https://open.spotify.com/artist/78IcwShFpJmMdZK9mCOVl5"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200937,
+      "name": "Viaje de 10 minutos",
+      "url": "https://open.spotify.com/track/6DEJkboqtbqk2jX1DDe86D"
     },
     {
       "album": {

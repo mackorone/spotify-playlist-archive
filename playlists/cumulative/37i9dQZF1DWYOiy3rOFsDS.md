@@ -4,7 +4,7 @@
 
 > Romance a la antigüita con Tufic y Daphne Michelle en portada.
 
-387 songs - 22 hr 11 min
+388 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Idas y Vueltas](https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q), [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU) | [Idas y Vueltas](https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO) | 3:52 | 2021-10-16 |  |
 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 | 2025-07-11 |  |
 | [Improbable](https://open.spotify.com/track/63q0cRDrf9ggONS650fOah) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Improbable](https://open.spotify.com/album/22GqTBokcsZFpo3iIRzHZq) | 2:34 | 2024-05-17 | 2024-08-25 |
-| [Incomprensible](https://open.spotify.com/track/39eazIEoQhjlwg6u29zMnl) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Incomprensible](https://open.spotify.com/album/4zwpvu8E4Ev8iM6V76nnI3) | 3:31 | 2025-07-11 |  |
+| [Incomprensible](https://open.spotify.com/track/39eazIEoQhjlwg6u29zMnl) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Incomprensible](https://open.spotify.com/album/4zwpvu8E4Ev8iM6V76nnI3) | 3:31 | 2025-07-11 | 2025-12-06 |
 | [Infierno Favorito](https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Infierno Favorito](https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H) | 3:34 | 2025-10-24 |  |
 | [Inmensamente Frágil](https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Inmensamente Frágil](https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa) | 3:39 | 2021-10-16 | 2023-03-18 |
 | [Jacaranda](https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:11 | 2021-10-16 | 2025-07-12 |
@@ -236,6 +236,7 @@
 | [No Sabía](https://open.spotify.com/track/7pk6N0rE7NcfDYryeqsAHn) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [No Sabía](https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL) | 3:05 | 2021-10-29 | 2022-07-29 |
 | [No Soy de Aquí, Ni Soy de Allá](https://open.spotify.com/track/5rCvtkwn4Y30lfhis5s2aw) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [No Soy de Aquí, Ni Soy de Allá](https://open.spotify.com/album/7dqlEsABmYafODMP9hlNw9) | 3:27 | 2021-10-16 | 2022-07-28 |
 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 | 2021-10-16 | 2024-11-23 |
+| [Noche de Agosto](https://open.spotify.com/track/6dbrBnMyAOSYrtsTox6dho) | [Cecy Leos](https://open.spotify.com/artist/7Isargq7sZZ8hTbIx9yNsi) | [Líneas De Tiempo \(Lado A\)](https://open.spotify.com/album/73InhuRWkHcPkQKmlb2Ofz) | 2:55 | 2025-12-05 |  |
 | [Noche Estrellada](https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG) | [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj), [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Noche Estrellada](https://open.spotify.com/album/28hIv6Ed2QvHGnFsSZhupO) | 3:41 | 2024-09-20 | 2024-10-21 |
 | [Noche no te vayas](https://open.spotify.com/track/6PE19vBoiE1kMd1thjrEYD) | [Dúo Pajarito](https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc), [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [Noche no te vayas](https://open.spotify.com/album/30ptyLQeDVcUk1pwrcViIs) | 3:41 | 2024-10-25 | 2025-09-06 |
 | [Noche No Te Vayas](https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:50 | 2021-10-16 | 2024-04-19 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Braxton Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,498 likes - 85 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,508 likes - 85 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 17](https://open.spotify.com/track/1WQ1DsGnAbVhSzhvVfDITL) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Idea \#5](https://open.spotify.com/track/1WQ1DsGnAbVhSzhvVfDITL) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Not Everyone Can Go \(Deluxe\)](https://open.spotify.com/album/6iieFjF7ntXUDXDCZo0YGW) | 3:56 |
 | 2 | [Your techno \(feat\. Reiya Terakubo\)](https://open.spotify.com/track/4n8vBaC4uU13izmOyTKN3Y) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Gnarly](https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn) | 2:42 |
 | 3 | [Amami \(feat\. Minami Kizuki\)](https://open.spotify.com/track/4LgM9jizqppslT1cYDeUZT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Minami Kizuki](https://open.spotify.com/artist/3iklqyLETq25WsazEFbL29) | [Amami \(feat\. Minami Kizuki\)](https://open.spotify.com/album/4Puq2ovCYPcoFX48C10h7u) | 5:24 |
 | 4 | [Big Saaac\. \- Cleanup 10th Anniversary](https://open.spotify.com/track/3TmdJHfnGjZ56G1lMJn3nP) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [高橋佑成](https://open.spotify.com/artist/3G2zdYCaGsctXWxSZjchZv), [マーティ・ホロベック](https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj) | [Big Saaac\. \(Cleanup 10th Anniversary\)](https://open.spotify.com/album/3SJo9hEkE2q3l42jjd1Hwg) | 7:58 |

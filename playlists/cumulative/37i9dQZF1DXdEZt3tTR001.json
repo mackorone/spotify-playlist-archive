@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Cry Against The Wind",
+        "url": "https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260240,
+      "name": "Cry Against The Wind",
+      "url": "https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV"
+    },
+    {
+      "album": {
         "name": "Cumulus / Memory",
         "url": "https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN"
       },
@@ -5996,7 +6014,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 189113,
       "name": "Tennessee Heat",
       "url": "https://open.spotify.com/track/5ykYQxyoAF7NJJKW3FkZe5"

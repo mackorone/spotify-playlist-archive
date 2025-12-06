@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-136 songs - 7 hr 58 min
+137 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [My Little House](https://open.spotify.com/track/6swSxpyjkBCXSHDIcKGwor) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [All You'll Ever Be Good For](https://open.spotify.com/album/3A7FpZAud1r50Gp5Z5Wcf4) | 4:58 | 2025-08-27 |  |
 | [My Summertime](https://open.spotify.com/track/4u9Pz63jjw4Us1yQx7mDzL) | [Soren](https://open.spotify.com/artist/3JKSTkFpIBLpZwsFTdQsgt), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [My Summertime](https://open.spotify.com/album/2PMoJIyudoJWvcMGxfhJ4x) | 2:45 | 2025-11-06 |  |
 | [Nah Nah](https://open.spotify.com/track/5lD0O7BRV8tiz9lcodQ1QN) | [Tellaro](https://open.spotify.com/artist/40eY19JGg5JAtZ0FwDNOx7) | [Nah Nah](https://open.spotify.com/album/0tZ86RYyarnEXwhCmW0pXk) | 2:13 | 2025-11-18 |  |
+| [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 | 2025-12-05 |  |
 | [Never been to LA](https://open.spotify.com/track/5xiXN9SjL9IFUEx6jezoBK) | [Angelic Bipolar](https://open.spotify.com/artist/2u0uX0s7XYniiI9VY3rTfe) | [Stranded](https://open.spotify.com/album/03Mb0vrHATWhWGyc2NYKRB) | 3:43 | 2025-09-17 |  |
 | [No Compromise](https://open.spotify.com/track/1EHtBFS5j9ILFIpiNH8YLH) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [No Compromise](https://open.spotify.com/album/5JGiQTirqxqSaoZZLwNabw) | 3:43 | 2025-11-19 |  |
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2025-10-10 |  |

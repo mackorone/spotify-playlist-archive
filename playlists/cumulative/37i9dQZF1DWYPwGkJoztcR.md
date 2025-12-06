@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-140 songs - 8 hr 4 min
+141 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Moondog](https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 5:05 | 2025-06-27 |  |
 | [Morning Dawns Again](https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Morning Dawns Again](https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx) | 3:58 | 2025-09-10 |  |
 | [Never Fall In Love Again](https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Never Fall In Love Again](https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o) | 2:48 | 2025-06-27 |  |
-| [Nice To Meet You](https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Nice To Meet You](https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth) | 3:07 | 2025-06-27 |  |
+| [Nice To Meet You](https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Nice To Meet You](https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth) | 3:07 | 2025-06-27 | 2025-12-06 |
 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 | 2025-06-27 | 2025-09-04 |
 | [Northern Star](https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Northern Star](https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP) | 3:12 | 2025-10-17 |  |
 | [Not The One](https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 3:28 | 2025-09-03 |  |
@@ -117,6 +117,7 @@
 | [Sit Back Baby](https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Sit Back Baby](https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1) | 3:54 | 2025-09-25 |  |
 | [skipping stone](https://open.spotify.com/track/6gD86nnXjZPG6bMoJdPEu8) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [skipping stone](https://open.spotify.com/album/6iEIEFKB1OShW5ImoSZEFs) | 3:09 | 2025-06-27 | 2025-09-26 |
 | [Solastalgia](https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Dark Harvest, Pt\. 1](https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW) | 4:52 | 2025-09-03 |  |
+| [Someone To Lose](https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ) | [Nina June](https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ) | [Someone To Lose](https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ) | 2:40 | 2025-12-05 |  |
 | [Something](https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Nowhere Land](https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL) | 3:11 | 2025-06-27 |  |
 | [Something I Can't Fake](https://open.spotify.com/track/1M6RTeidHtMw2bvfWBJqO6) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [something i can't fake](https://open.spotify.com/album/2AdKGAN4yidTdY2HU9kFRQ) | 3:38 | 2025-09-03 |  |
 | [Still the One](https://open.spotify.com/track/5JxVAize3pjX0nFSabO9Ba) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better Now](https://open.spotify.com/album/2lSPk8E1AEcvji5Ohf1vPI) | 2:51 | 2025-06-27 | 2025-08-24 |

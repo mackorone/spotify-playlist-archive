@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,605 likes - 28 songs - 1 hr 44 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,610 likes - 30 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,5 +36,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 26 | [Woman You're Gonna Pay For This](https://open.spotify.com/track/5lLJQZOGf9MvgxFTGmJSzz) | [Wicked Lester](https://open.spotify.com/artist/4mnC6BVhObGZnXtQm4hjzH) | [Local Customs: Burned At Boddie](https://open.spotify.com/album/0JbT7bYKpJ1ESB9Y5z0aCC) | 3:24 |
 | 27 | [I Gave Up All I Had](https://open.spotify.com/track/1hTl6P4cObJLDJEMS6Saif) | [Ted Hawkins](https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU) | [Watch Your Step](https://open.spotify.com/album/3XnHTwogsnLUFhC7nZ983d) | 2:56 |
 | 28 | [Céu Azul](https://open.spotify.com/track/5Ly7IBANByS001ZInlG4C8) | [George Sauma Jr.](https://open.spotify.com/artist/4L4HRYMFxFZN78sOhoPEGI) | [George Sauma Jr.](https://open.spotify.com/album/2H2XuOZWql7j6r9GCt9H8K) | 3:31 |
+| 29 | [Si, Paloma](https://open.spotify.com/track/7tu29mHOe4iY2sINKAXWCR) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 5:32 |
+| 30 | [Streets of Mine](https://open.spotify.com/track/3U4SPwYCuRGgwaASbGWi2o) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Jessica Pratt](https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS) | 2:43 |
 
-Snapshot ID: `AAANeZwfYNj5Kqzgbs1LOhxmx2ScxzDm`
+Snapshot ID: `AAANe8f88/ohBazRr7z0nBip4MRpWmYH`

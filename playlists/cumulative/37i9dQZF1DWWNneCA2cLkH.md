@@ -4,7 +4,7 @@
 
 > These are the eclectic sounds of now\. Cover: Bic Runga
 
-665 songs - 1 day 17 hr 37 min
+665 songs - 1 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Buoyant](https://open.spotify.com/track/3AkN6y2RQ9UdqsIrF9KO9q) | [Floodlights](https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI) | [Buoyant](https://open.spotify.com/album/2kCxLD94mP78hHPgHThwh5) | 4:09 | 2025-03-06 | 2025-05-23 |
 | [Burning Out](https://open.spotify.com/track/1ZIhItiExfa56xIRSKRBhg) | [Charlie Gradon](https://open.spotify.com/artist/7vMRuONPsONKjwXBbbw2aU) | [Burning Out](https://open.spotify.com/album/4TxkGrga0nvhWNJ710ghpj) | 3:40 | 2024-06-20 | 2024-08-16 |
 | [Bus](https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Bus](https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU) | 3:23 | 2024-06-06 | 2024-09-13 |
+| [Bygones](https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Fantasy](https://open.spotify.com/album/0JzyMf9Nj4j4j3akwg4fMG) | 4:00 | 2025-12-04 |  |
 | [California Rain](https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [California Rain](https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw) | 3:23 | 2024-07-11 | 2024-08-02 |
 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-11 | 2024-09-20 |
 | [Call It What You Want](https://open.spotify.com/track/1oBGDRf6xUwTMZ2bFS8xnD) | [Majak Door](https://open.spotify.com/artist/07T4q3baUiO1NImfuaAwid) | [Fantasy Camp](https://open.spotify.com/album/06Yb2iAYePLOZtMmDvU45K) | 4:41 | 2024-07-04 | 2024-09-27 |
@@ -606,7 +607,6 @@
 | [too late to cry](https://open.spotify.com/track/34eKHpwNZMKQNakKipdW6s) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [too late to cry](https://open.spotify.com/album/2idXxEcqNJgGzD2OudZr6I) | 1:51 | 2024-06-27 | 2024-08-02 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-16 | 2024-07-12 |
 | [Total Freefall \(Simona Castricum Remix\)](https://open.spotify.com/track/4f6oAm0V8V2ypSNuaL1jMb) | [Hydra Fashion Week](https://open.spotify.com/artist/7KDqvb3BmTuHEuRdIl2tJg), [Simona Castricum](https://open.spotify.com/artist/0eNPmXReFLJMJVh1sJ1SIv) | [Total Freefall \(Simona Castricum Remix\)](https://open.spotify.com/album/0qeleL6rWB3WARMV36gHde) | 4:40 | 2025-02-27 | 2025-07-04 |
-| [Track 5](https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [Traffic](https://open.spotify.com/track/1phmrSmJ8yjMnHqcvbLZGx) | [Manwolves](https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr) | [Traffic](https://open.spotify.com/album/0KrY8ikpPgcUCjZ9u0fELl) | 3:36 | 2025-05-22 | 2025-11-07 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-12-05 |
 | [Travertine](https://open.spotify.com/track/4RDuCPDc3MOl0O5mbdfD9G) | [Pipe\-eye](https://open.spotify.com/artist/0Sh9OyckiAu6tBP2yiN6wf) | [Travertine](https://open.spotify.com/album/59ThqLEn9aaIl7jwvHoq5N) | 4:33 | 2024-10-03 | 2024-10-18 |

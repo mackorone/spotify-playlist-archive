@@ -2,7 +2,7 @@
 
 ### [just hits](https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp)
 
-> Current favorites and exciting new music\. Cover: Demi Lovato
+> Current favorites and exciting new music\. Cover: Taylor Swift
 
 1,373 songs - 2 day 23 hr 6 min
 

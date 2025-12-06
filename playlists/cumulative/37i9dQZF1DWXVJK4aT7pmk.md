@@ -2,7 +2,7 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover \- Harkirat Sangha
+> Catch the hottest Punjabi tracks\. Cover: Talwiinder
 
 192 songs - 9 hr 43 min
 

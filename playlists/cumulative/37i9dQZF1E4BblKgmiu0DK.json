@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With real silent bloom, blazingfairis, Lillix and more",
+  "description": "With blazingfairis, Lillix, Die Mannequin and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 150204,
       "name": "A Glass of Champagne",
       "url": "https://open.spotify.com/track/7k2YkYZsJfx1ArzbNsCIPS"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 220999,
       "name": "Among the Crowd",
       "url": "https://open.spotify.com/track/4I9vFDk1o5Kb48BfoUQAHj"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 219973,
       "name": "Another Thin Line",
       "url": "https://open.spotify.com/track/5DxkMDVufdj00qiVgBdWiF"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 170399,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/7J8MjmBpR2g4NAgg4GEueW"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 197439,
       "name": "Doubt creeps in",
       "url": "https://open.spotify.com/track/037eWoj8k8WNtRCAMjE688"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 220080,
       "name": "Firebeat",
       "url": "https://open.spotify.com/track/7njibZDbMF6qHgzBfXkG52"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 261071,
       "name": "Fuel the Storm",
       "url": "https://open.spotify.com/track/2kKJtM8NETOVmNPuPqZd8w"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 261981,
       "name": "Glass Eyes Cryin'",
       "url": "https://open.spotify.com/track/1pr01IymP1cUpd4efyrUzs"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 132519,
       "name": "I Stand Alone",
       "url": "https://open.spotify.com/track/2CJPGlfrJKKiSQaGFkBx0q"
@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/5SjSAIt5ruFxc8ClVzPB8B"
+      },
+      "artists": [
+        {
+          "name": "Saving Jane",
+          "url": "https://open.spotify.com/artist/3SFVchRRMmFuOi3Azi0vTo"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237720,
+      "name": "Imperfection",
+      "url": "https://open.spotify.com/track/3RVbu42FIdF875KHAkPyPn"
+    },
+    {
+      "album": {
         "name": "In New",
         "url": "https://open.spotify.com/album/56YbU1FZP0W5lZhjm5BNUg"
       },
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 134260,
       "name": "In New",
       "url": "https://open.spotify.com/track/7c8yo0HL6k2XYiqFRrxBzK"
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -1791,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/6eFRBJEQg1yGQ9RrOqeSdf"
+      },
+      "artists": [
+        {
+          "name": "OutBound",
+          "url": "https://open.spotify.com/artist/74D0Y4QChHb3RH7xvQqjB9"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177547,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/3UxIJ1rowq7qjh3XerPY4p"
+    },
+    {
+      "album": {
         "name": "Destructo Doll",
         "url": "https://open.spotify.com/album/7rKgMO4NUPEw2q8XEcv4IW"
       },
@@ -1910,7 +1946,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 198959,
       "name": "One Bad Bitch",
       "url": "https://open.spotify.com/track/5r58Ylbb1PRTCVkAJ4N3uL"
@@ -1946,7 +1982,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 228879,
       "name": "One More Night - Female Version",
       "url": "https://open.spotify.com/track/34ubCvEdy6zxhV7jhkvkk7"
@@ -2000,7 +2036,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 203167,
       "name": "Part Of You",
       "url": "https://open.spotify.com/track/6Bs4jja3M3kRObQMwWIVtV"
@@ -2241,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "Diamonds & Studs",
+        "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
+      },
+      "artists": [
+        {
+          "name": "Morningwood",
+          "url": "https://open.spotify.com/artist/5ydhCWsbFCpHyG2OhgO2og"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182786,
+      "name": "Sugarbaby",
+      "url": "https://open.spotify.com/track/61hpwV8EiNGOHCgkSL3cxc"
+    },
+    {
+      "album": {
         "name": "Inside The Hollow",
         "url": "https://open.spotify.com/album/04ZUaYNv07KLNMtKtQPCTG"
       },
@@ -2270,7 +2324,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 202560,
       "name": "Tap That",
       "url": "https://open.spotify.com/track/1Apbd1y0Umu8WtVPWKUmdJ"
@@ -2306,7 +2360,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 218076,
       "name": "The Rabbit Hole",
       "url": "https://open.spotify.com/track/7lHaQD7uOIR2OryezgtXKd"
@@ -2342,7 +2396,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 106110,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/7IiwWCfZ4tzymtKnfG4RL3"
@@ -2378,7 +2432,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 214285,
       "name": "Unspoken Expectations",
       "url": "https://open.spotify.com/track/4y6mqXn34jGfWprloqjx9Y"
@@ -2396,7 +2450,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 131250,
       "name": "Vibe Killer",
       "url": "https://open.spotify.com/track/2VTCii5cZQLzq1DKEj1dFd"
@@ -2414,7 +2468,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 198570,
       "name": "Welcome To The Badlands",
       "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"
@@ -2468,7 +2522,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 207240,
       "name": "When I Look At You",
       "url": "https://open.spotify.com/track/4K5qwd0n4YTVKYlwW0inzo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,020 likes - 63 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,061 likes - 63 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 39 | [Fairytale](https://open.spotify.com/track/1e3hPMCGrwPXYZ1DQhsiCE) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW), [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Shrek \(Original Motion Picture Score\)](https://open.spotify.com/album/6Hv7UZCLx4kCYZCY0kBbZc) | 1:26 |
 | 40 | [Making Water](https://open.spotify.com/track/0AeUTVVGVWgwPCpPGAm6sT) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [The Martian: Original Motion Picture Score](https://open.spotify.com/album/17o7ljUmsa9MusgN2BjXwV) | 2:38 |
 | 41 | [Enchanted Suite](https://open.spotify.com/track/4Mbloi1I0HIBIYPsuP5EAG) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Enchanted](https://open.spotify.com/album/13XdxzvBnVAhAtMt7uldLV) | 4:34 |
-| 42 | [The Painted Veil \- From "The Painted Veil" Original Soundtrack](https://open.spotify.com/track/3HohQPAZ5xzDs1ANErgk52) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Vincent Ségal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F), [Prague Symphony Orchestra](https://open.spotify.com/artist/6D3rLhEkc3t1zLltUNOSxg) | [The Painted Veil](https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz) | 3:17 |
+| 42 | [The Painted Veil \- From "The Painted Veil" Original Soundtrack](https://open.spotify.com/track/3HohQPAZ5xzDs1ANErgk52) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Vincent Segal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F), [Prague Symphony Orchestra](https://open.spotify.com/artist/6D3rLhEkc3t1zLltUNOSxg) | [The Painted Veil](https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz) | 3:17 |
 | 43 | [Flynn Lives](https://open.spotify.com/track/0V4wGPzv90fKur0eNvOHmI) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/40EZGFRJY2R43IPiOnFelG) | 3:22 |
 | 44 | [Come Back to Us](https://open.spotify.com/track/44sVQfPdCTGM5JLBRHUngc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 5:39 |
 | 45 | [To The Stars \- Dragonheart/Soundtrack Version](https://open.spotify.com/track/5LeCbkjJuhtqQhwXziPgUn) | [Randy Edelman](https://open.spotify.com/artist/3shMd6Vll0mOcviQ3hrk8m) | [Dragonheart](https://open.spotify.com/album/5Xdpw2hXUfkx7YCUwkD38X) | 3:14 |

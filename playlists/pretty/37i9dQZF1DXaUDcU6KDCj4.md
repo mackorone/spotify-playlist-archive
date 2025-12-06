@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Haley Heynderickx & Max García Conover
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,697 likes - 170 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,209 likes - 170 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 169 | [If I'm Honest](https://open.spotify.com/track/2Li3cWQOtrgs6YlCObuICs) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [If I'm Honest](https://open.spotify.com/album/3rzGCXJVKMrUSDQK5Zlbkq) | 3:36 |
 | 170 | [Mid July](https://open.spotify.com/track/6PsnCUm3Gx4IEB7YaQiyMm) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Mid July](https://open.spotify.com/album/6Ghj66uOHT1AIQaMzBMZnf) | 3:20 |
 
-Snapshot ID: `AAAAAPTaIbBUIWy5olobxP8GePC+LLs1`
+Snapshot ID: `AAAAACmPj3kSzbWwjUH8BMxtxDIF21XV`

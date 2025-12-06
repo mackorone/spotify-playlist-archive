@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Montesanto
 
-865 songs - 2 day 20 hr 12 min
+866 songs - 2 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Acepta](https://open.spotify.com/track/5XJIavEw1BuKXzuOVNr944) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Acepta](https://open.spotify.com/album/0VHRc2YBKViwWXQffw7Qpb) | 7:53 | 2022-09-09 | 2022-10-29 |
 | [Acepta \- Live](https://open.spotify.com/track/41AA0qum08M6IFG1GcoHNz) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Fuego & Poder \(Live\)](https://open.spotify.com/album/745LEHgUFX9cFvF68KVgBx) | 7:53 | 2022-10-28 | 2023-09-16 |
 | [Acercame \(feat\. Johnny Peña & Laila Olivera\)](https://open.spotify.com/track/4kEF0MXh1BWR0c48T7a9RS) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Como En El Cielo](https://open.spotify.com/album/144N5Ys734Sm3JHLXTTnCD) | 7:54 | 2022-02-25 | 2022-03-26 |
-| [ACERCARME \(NO HAY AMOR IGUAL\)](https://open.spotify.com/track/4St7ph3Zwd2C06nbYZUHVh) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [ACERCARME \(NO HAY AMOR IGUAL\)](https://open.spotify.com/album/5cHfVGXXYhOZ4omWhF3toe) | 6:09 | 2025-06-27 |  |
+| [ACERCARME \(NO HAY AMOR IGUAL\)](https://open.spotify.com/track/4St7ph3Zwd2C06nbYZUHVh) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [ACERCARME \(NO HAY AMOR IGUAL\)](https://open.spotify.com/album/5cHfVGXXYhOZ4omWhF3toe) | 6:09 | 2025-06-27 | 2025-12-06 |
 | [Acostumbrándome](https://open.spotify.com/track/5jcPyB4EBW37EeoDaqzDDx) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Acostumbrándome](https://open.spotify.com/album/5wqGMNYuPCxOLenWxYMdyq) | 3:22 | 2024-11-15 | 2025-05-31 |
 | [Acércate](https://open.spotify.com/track/27fuKEC4SJYyaJMcXLz9gi) | [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K), [Lirios](https://open.spotify.com/artist/1CAZ9qtjtfLQjUzDbI6U2y) | [Acércate](https://open.spotify.com/album/1CeAWuFll0nPiVbnsjSf79) | 4:28 | 2025-07-18 | 2025-08-23 |
 | [Adorarte](https://open.spotify.com/track/4UjiwbR78RsS1ZKASBNKCi) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Adorarte](https://open.spotify.com/album/0ORfXwWPcTgjSOl22fIyCE) | 4:45 | 2022-11-04 | 2023-11-11 |
@@ -227,6 +227,7 @@
 | [dIOS](https://open.spotify.com/track/6HcHD2UTjXUKrVT9oynGKj) | [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Mi Religión](https://open.spotify.com/album/3B51aJVMc4N4wUoYzC1JRb) | 3:30 | 2023-10-27 | 2024-07-19 |
 | [Dios Asi Lo Quiso](https://open.spotify.com/track/48WszbQrrjEnouJmKzNDba) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Fe](https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw) | 3:33 | 2022-02-25 | 2022-03-26 |
 | [Dios De Oportunidades](https://open.spotify.com/track/4WRBlv7X6EGE4Kh58lKB1v) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [Dios De Oportunidades](https://open.spotify.com/album/2FS3ZqmKKSDMmnBbzKhPHt) | 4:04 | 2023-09-15 | 2024-03-09 |
+| [Dios de Poder](https://open.spotify.com/track/46rMCGGUSI0kt1LOY3wHQO) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [Dios de Poder](https://open.spotify.com/album/54wyWna9wJyB0teKDc08Xk) | 8:03 | 2025-12-05 |  |
 | [Dios en Casa](https://open.spotify.com/track/5EkAXS5cUl4WPgyq8lOXSW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 4:52 | 2022-03-18 | 2022-11-12 |
 | [Dios Es Bueno](https://open.spotify.com/track/4o5eigcocInKgfuWXjBRzJ) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Vallenato Se Hizo En El Cielo](https://open.spotify.com/album/55DJMVVDfU0onoLET3nRYL) | 3:50 | 2023-03-10 | 2024-01-13 |
 | [DIOS es el que SABE](https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [DIOS es el que SABE](https://open.spotify.com/album/4LDQzDoBvcbkNCc9DUsKKg) | 2:46 | 2025-06-27 | 2025-08-30 |

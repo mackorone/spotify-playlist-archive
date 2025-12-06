@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La playlist sin fronteras, elevando a la M\u00fasica Mexicana. Cover: Peso Pluma & Tito Double P",
+  "description": "La playlist sin fronteras, elevando a la M\u00fasica Mexicana. Cover: Edgardo Nu\u00f1ez",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Historias Mal Contadas",
+        "url": "https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "7",
+      "url": "https://open.spotify.com/track/6dKDwvZWjxrAzOA57Phiik"
+    },
+    {
+      "album": {
         "name": "7 DIAS",
         "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
       },
@@ -444,6 +462,24 @@
       "duration_ms": 180688,
       "name": "7 DIAS",
       "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
+    },
+    {
+      "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/2AXbpqGa1iELh2NhmewQKn"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177160,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7xdVoNuJ67iuEhMFi6pDzo"
     },
     {
       "album": {
@@ -691,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Acto Seguido",
+        "url": "https://open.spotify.com/album/6CzhikGwMPcKThkD1TPvfs"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Gera Demara",
+          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184921,
+      "name": "Acto Seguido",
+      "url": "https://open.spotify.com/track/5mh0B9psmw5MwhZLBHlPTQ"
+    },
+    {
+      "album": {
         "name": "Adicto A Ti",
         "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
       },
@@ -742,10 +800,32 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 141500,
       "name": "Afectado",
       "url": "https://open.spotify.com/track/6Yn0bQfVdMLln9vYB31zKc"
+    },
+    {
+      "album": {
+        "name": "AFTERLIFE",
+        "url": "https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168601,
+      "name": "AFTERLIFE",
+      "url": "https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F"
     },
     {
       "album": {
@@ -800,6 +880,28 @@
       "duration_ms": 142758,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV"
+    },
+    {
+      "album": {
+        "name": "AG\u00dcITADO",
+        "url": "https://open.spotify.com/album/7m211hDuffAarROqfim9Ht"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168034,
+      "name": "AG\u00dcITADO",
+      "url": "https://open.spotify.com/track/6WMHgS1N6k0Ud6R5TQS7Yz"
     },
     {
       "album": {
@@ -1104,7 +1206,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 179706,
       "name": "Amarre",
       "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
@@ -1232,7 +1334,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 219906,
       "name": "Amo",
       "url": "https://open.spotify.com/track/0QieT45vFvqEkzrcbIz01s"
@@ -3072,7 +3174,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 195194,
       "name": "CHAMPAGNE",
       "url": "https://open.spotify.com/track/0mfemgLsr0ucLSOBOc4xJ0"
@@ -3112,7 +3214,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 163350,
       "name": "Changuito Me Apodaron",
       "url": "https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9"
@@ -3658,7 +3760,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 175162,
       "name": "Confidencial",
       "url": "https://open.spotify.com/track/41UeD03DM1lLtfJB2I7gsg"
@@ -3924,7 +4026,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 142695,
       "name": "CUANDO PIENSO EN TI",
       "url": "https://open.spotify.com/track/6oWk1racmeCi2tKfg97S61"
@@ -4146,7 +4248,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 174075,
       "name": "Cu\u00e1nto Cuesta",
       "url": "https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M"
@@ -5035,6 +5137,24 @@
     },
     {
       "album": {
+        "name": "Dos Banderas",
+        "url": "https://open.spotify.com/album/5S1KTpUqsbol9Jv4BWh1dF"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158405,
+      "name": "Dos Banderas",
+      "url": "https://open.spotify.com/track/7rQsXHsDTqqHtXS8qj8AQd"
+    },
+    {
+      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -5108,7 +5228,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 213428,
       "name": "DPM",
       "url": "https://open.spotify.com/track/5Te1pQWfOvRVCACXnWmnFG"
@@ -5625,6 +5745,24 @@
     },
     {
       "album": {
+        "name": "El Cuadrito",
+        "url": "https://open.spotify.com/album/19X5PMlS8A7H1cGQUQ1XJ5"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166954,
+      "name": "El Cuadrito",
+      "url": "https://open.spotify.com/track/75kjqC5yfd9ugvL93TF6vY"
+    },
+    {
+      "album": {
         "name": "El Cuestionario",
         "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
       },
@@ -5756,6 +5894,24 @@
       "duration_ms": 235328,
       "name": "El Doctor",
       "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
+    },
+    {
+      "album": {
+        "name": "El Ejemplar",
+        "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "El Ejemplar",
+      "url": "https://open.spotify.com/track/5CDt26cBTTD90wyM5oMZ8I"
     },
     {
       "album": {
@@ -5896,7 +6052,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 195306,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj"
@@ -7158,7 +7314,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 170938,
       "name": "Esos Ojitos",
       "url": "https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV"
@@ -7596,7 +7752,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 185179,
       "name": "Formula One",
       "url": "https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t"
@@ -7614,7 +7770,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 190431,
       "name": "Frecuencia",
       "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
@@ -8054,7 +8210,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 191375,
       "name": "Guason",
       "url": "https://open.spotify.com/track/4Wuwir9pHgQnCdSDIDgrhv"
@@ -8112,7 +8268,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 184420,
       "name": "Gula",
       "url": "https://open.spotify.com/track/4k1oaXf7i7KGHYniA8n4ul"
@@ -8152,7 +8308,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 187034,
       "name": "Haciendo Memoria",
       "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
@@ -8316,7 +8472,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 158409,
       "name": "Hello Kitty",
       "url": "https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX"
@@ -8378,7 +8534,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 284864,
       "name": "HOLLYWOOD",
       "url": "https://open.spotify.com/track/5GTBdEjZe7zEDp1N0eCZE4"
@@ -8622,7 +8778,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 198666,
       "name": "Infiltrados",
       "url": "https://open.spotify.com/track/3XOETycmR1qWPgChIki7zx"
@@ -9603,6 +9759,28 @@
     },
     {
       "album": {
+        "name": "LA NETA",
+        "url": "https://open.spotify.com/album/2bh5I7p34f5LzzXRK55gOA"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186450,
+      "name": "LA NETA",
+      "url": "https://open.spotify.com/track/2HXCXjTJZbjxr8IvfDSeNC"
+    },
+    {
+      "album": {
         "name": "La Pantera",
         "url": "https://open.spotify.com/album/0AXPYYhLk3997LVKYTreIT"
       },
@@ -10210,7 +10388,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 178252,
       "name": "Lejos Estamos Mejor",
       "url": "https://open.spotify.com/track/4jwAlalnN7RjBt3lg1H56E"
@@ -11273,6 +11451,28 @@
     },
     {
       "album": {
+        "name": "Me Amola",
+        "url": "https://open.spotify.com/album/2ndqLXq1j0vuy3DYZJMFeY"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174850,
+      "name": "Me Amola",
+      "url": "https://open.spotify.com/track/5uwXV9navpcEKDoiqAPASY"
+    },
+    {
+      "album": {
         "name": "Me Avent\u00e9",
         "url": "https://open.spotify.com/album/2FdUhksLRgWdkZoYKokHuf"
       },
@@ -11484,7 +11684,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 171788,
       "name": "Me Promet\u00ed",
       "url": "https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od"
@@ -11718,7 +11918,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 223766,
       "name": "Mi Cazuela",
       "url": "https://open.spotify.com/track/42QPBPqnMC0osKmVwYBFBX"
@@ -11736,7 +11936,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 183456,
       "name": "Mi Decisi\u00f3n",
       "url": "https://open.spotify.com/track/7sh3XoqpbDU62VcWHD7mNP"
@@ -11758,6 +11958,24 @@
       "duration_ms": 196064,
       "name": "Mi Despedida",
       "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
+    },
+    {
+      "album": {
+        "name": "Mi Entorno",
+        "url": "https://open.spotify.com/album/0xfgb2CMlCqKN5KuGqqMMj"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Mi Entorno",
+      "url": "https://open.spotify.com/track/30ECWSoejTkHDqo0yMpf6y"
     },
     {
       "album": {
@@ -12260,7 +12478,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
@@ -12558,7 +12776,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 166132,
       "name": "MU\u00d1EQUITA",
       "url": "https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9"
@@ -13118,7 +13336,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 149797,
       "name": "no lo ves",
       "url": "https://open.spotify.com/track/7qCMCckflYXyt518lLIWbb"
@@ -13954,7 +14172,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 213120,
       "name": "Pase De Pescado",
       "url": "https://open.spotify.com/track/1gl2RrnBeJ5OkgAhAAAPkz"
@@ -14012,7 +14230,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 194858,
       "name": "Pasta",
       "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
@@ -14256,7 +14474,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 199459,
       "name": "PERRA MADRE",
       "url": "https://open.spotify.com/track/5DDmtoFZGkNl1nePtYAcco"
@@ -14332,7 +14550,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 192004,
       "name": "Piedras a la Luna",
       "url": "https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu"
@@ -14402,7 +14620,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 219615,
       "name": "PINK",
       "url": "https://open.spotify.com/track/5zBI5TXKUCK9LSBY5Fou2G"
@@ -14460,7 +14678,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 203606,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
@@ -14864,7 +15082,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 186142,
       "name": "POR SUS BESOS",
       "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
@@ -15044,7 +15262,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 181064,
       "name": "Presidente",
       "url": "https://open.spotify.com/track/2q0wKlSmIWLdpCwwKjLPxZ"
@@ -15338,7 +15556,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 216746,
       "name": "Que Emoci\u00f3n",
       "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
@@ -15964,7 +16182,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 227275,
       "name": "Rigo Campos",
       "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
@@ -16393,6 +16611,46 @@
     },
     {
       "album": {
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189869,
+      "name": "SARGENTO",
+      "url": "https://open.spotify.com/track/4zi3rwIYv1Q6slxn620w8P"
+    },
+    {
+      "album": {
+        "name": "Noches Sin Fin",
+        "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237512,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/5dMuFznGXvz2qtzmhjpKy3"
+    },
+    {
+      "album": {
         "name": "SC-9",
         "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
       },
@@ -16618,7 +16876,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 208451,
       "name": "SECRETO",
       "url": "https://open.spotify.com/track/504VfM2pmclGufjypM5c59"
@@ -17094,7 +17352,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 137874,
       "name": "Sin M\u00ed",
       "url": "https://open.spotify.com/track/4CkpqTLPw14hlXxJB1r0Ba"
@@ -17548,7 +17806,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 165288,
       "name": "SOY LA CONEXION",
       "url": "https://open.spotify.com/track/1HGwlbyrEfCsNtMH8X6F79"
@@ -17639,6 +17897,28 @@
     },
     {
       "album": {
+        "name": "SUCIO DOM",
+        "url": "https://open.spotify.com/album/7bVvTqkKbAuAshshY247bZ"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "SUCIO DOM",
+      "url": "https://open.spotify.com/track/3OnkNJm1uONbtGH59P0rKq"
+    },
+    {
+      "album": {
         "name": "ONDEADO$",
         "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
@@ -17650,7 +17930,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 114913,
       "name": "SUIZA",
       "url": "https://open.spotify.com/track/7585wxMp2e3IhBq3tJAXgw"
@@ -17668,7 +17948,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 175616,
       "name": "Supercargada",
       "url": "https://open.spotify.com/track/3DDkuYCHKwRL9YwyaIbLUa"
@@ -18126,7 +18406,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 153431,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
@@ -18532,7 +18812,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 287679,
       "name": "Triple Lavada (feat. Victor Mendivil) - Remix",
       "url": "https://open.spotify.com/track/7DkOpEOBOwHg6VBj4blikS"
@@ -18685,6 +18965,32 @@
     },
     {
       "album": {
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205044,
+      "name": "tu favorito",
+      "url": "https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9"
+    },
+    {
+      "album": {
         "name": "Tu Forma De Ser",
         "url": "https://open.spotify.com/album/0GtF6udeFeF6wpWobXCQFQ"
       },
@@ -18802,7 +19108,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 177994,
       "name": "TU SANCHO",
       "url": "https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ"
@@ -19712,7 +20018,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 203333,
       "name": "WEEKND",
       "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mick Jenkins",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: De La Soul",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 137141,
       "name": "Coco Gauff",
       "url": "https://open.spotify.com/track/73NBBLGtwyehCgML05lCbb"
@@ -11973,6 +11973,28 @@
     },
     {
       "album": {
+        "name": "nun+",
+        "url": "https://open.spotify.com/album/73ELN0H3gT4jdScrsAyPfu"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Kal Banx",
+          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "nun+",
+      "url": "https://open.spotify.com/track/73QSneWdcj1fncvD8UlBi5"
+    },
+    {
+      "album": {
         "name": "Nutshell, Pt. 2 (feat. Busta Rhymes and Redman)",
         "url": "https://open.spotify.com/album/1E4Sx5ATwWX3NiEkZULHXm"
       },
@@ -17424,7 +17446,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 198447,
       "name": "The Omerta",
       "url": "https://open.spotify.com/track/0LI7gvHXbBvt6e8EORDzA1"
@@ -18220,6 +18242,28 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "album": {
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/2fchM7sxsLkLCsxsHTBZP8"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211366,
+      "name": "Typewriter (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/1p5i2fVazI6bUVmwWTJfaj"
     },
     {
       "album": {

@@ -10113,8 +10113,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Oro y Diamantes",
+        "url": "https://open.spotify.com/album/0X2wOAKXzCkRgVJzent6B3"
       },
       "artists": [
         {
@@ -23865,8 +23865,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "En El Horizonte",
+        "url": "https://open.spotify.com/album/1iHpVZuseKTjmOEdgKtLtY"
       },
       "artists": [
         {
@@ -31173,8 +31173,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Blizzard",
+        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
       },
       "artists": [
         {
@@ -57380,10 +57380,32 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 204099,
       "name": "Pikito",
       "url": "https://open.spotify.com/track/4uincenPTAa44KUmUQXbQC"
+    },
+    {
+      "album": {
+        "name": "Stendhal",
+        "url": "https://open.spotify.com/album/6iUfdDevy7HR3zYPj2BRTq"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204099,
+      "name": "Pikito",
+      "url": "https://open.spotify.com/track/61AeiFmmwjlCC4P5To6cCi"
     },
     {
       "album": {
@@ -60657,8 +60679,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "TP sur TP",
+        "url": "https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo"
       },
       "artists": [
         {
@@ -72473,6 +72495,28 @@
     },
     {
       "album": {
+        "name": "Thootie (feat. Tokischa)",
+        "url": "https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151611,
+      "name": "Thootie (feat. Tokischa)",
+      "url": "https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5"
+    },
+    {
+      "album": {
         "name": "THOR",
         "url": "https://open.spotify.com/album/5gYJw8K7Jir93oXzDycePX"
       },
@@ -74273,8 +74317,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ELLAR",
+        "url": "https://open.spotify.com/album/1PjZgyELjJiBWhABfvJ6GX"
       },
       "artists": [
         {
@@ -77879,6 +77923,28 @@
     },
     {
       "album": {
+        "name": "ma\u00f1ana, temprano",
+        "url": "https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211680,
+      "name": "VENENO",
+      "url": "https://open.spotify.com/track/3PUnHlf7ujQ9N5KUtI4jkH"
+    },
+    {
+      "album": {
         "name": "VENENO",
         "url": "https://open.spotify.com/album/59kmkzt7Id7I7MFSHxkL4y"
       },
@@ -79111,7 +79177,7 @@
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 154285,
+      "duration_ms": 159183,
       "name": "VOLVER A VERNOS",
       "url": "https://open.spotify.com/track/0kBsmwuhNpwGthzzHhDt40"
     },

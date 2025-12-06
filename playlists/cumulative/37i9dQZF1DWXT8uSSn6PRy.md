@@ -2,7 +2,7 @@
 
 ### [Hot Hits Canada](https://open.spotify.com/playlist/37i9dQZF1DWXT8uSSn6PRy)
 
-> The hottest tracks in the North with Taylor Swift.
+> The hottest tracks in the North with Tate McRae.
 
 943 songs - 2 day 1 hr 44 min
 

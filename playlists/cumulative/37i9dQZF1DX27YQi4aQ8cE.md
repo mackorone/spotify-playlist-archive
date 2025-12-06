@@ -4,7 +4,7 @@
 
 > The most calming Christmas carols.
 
-120 songs - 6 hr 42 min
+121 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [The Work of Christmas](https://open.spotify.com/track/0wlq4qRLZ7AwAlLBSCXrDF) | [Dan Forrest](https://open.spotify.com/artist/2rQzS4iX6bEMlrO4noTwIX), [The Ebor Singers](https://open.spotify.com/artist/0wjlGo6utxuSBJtSrg1hv3), [Paul Gameson](https://open.spotify.com/artist/7AiOZrlfN1ZDzH1suwyIgn) | [The Work of Christmas](https://open.spotify.com/album/3u3cZHZI7COv1IrUFolmYv) | 3:49 | 2022-12-05 |  |
 | [Thou who wast rich beyond all splendour \(Arr\. Charles Herbert Kitson & Daniel Hyde\)](https://open.spotify.com/track/6HHhxIQoyRuugG9Ncb8d8G) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Daniel Hyde](https://open.spotify.com/artist/7H6L3HVFT9SDD9TK50x21K), [Matthew Martin](https://open.spotify.com/artist/2ObaysAtEHSMzarkoV3JAp) | [Thou who wast rich beyond all splendour \(Arr\. Charles Herbert Kitson & Daniel Hyde\)](https://open.spotify.com/album/5OSb7tMCV5SgSmDGTeXIXX) | 3:33 | 2022-12-05 |  |
 | [Traditional: What Child Is This](https://open.spotify.com/track/1zryOtzpix1qwxRgraBHUB) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 2:30 | 2022-12-05 |  |
+| [Variations On Jingle Bells](https://open.spotify.com/track/11QWqj7jWWbpCQZVQyG4A4) | [James Lord Pierpont](https://open.spotify.com/artist/4dQg1sHFFZrwuVN87UxJgb), [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Variations On Jingle Bells](https://open.spotify.com/album/4ZvqmV9gJTy1ayQyxmjzJa) | 2:35 | 2025-12-05 |  |
 | [What Sweeter Music?](https://open.spotify.com/track/1gTYtzmYo72HNVlOvbkUIw) | [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN), [James Sherlock](https://open.spotify.com/artist/6E9LQo6aFo7QgIopZ58KJb) | [What Sweeter Music: Songs and Carols for Christmas](https://open.spotify.com/album/1TsZm9UbZaVYA9x24qsKuQ) | 4:45 | 2022-12-05 |  |
 | [Wild Wood Carol](https://open.spotify.com/track/1V7VEgAjZag75ZXMKZ7BIz) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Gerald Finley](https://open.spotify.com/artist/5T0TCveUmDlfkGhPIXFhrQ), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn), [City of London Sinfonia](https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL) | [The John Rutter Christmas Album](https://open.spotify.com/album/3RfvXpfCMVhoXWOXOCk7jt) | 3:08 | 2022-12-05 |  |
 

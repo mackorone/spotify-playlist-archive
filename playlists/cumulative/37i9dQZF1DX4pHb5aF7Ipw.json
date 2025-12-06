@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Fresh Punjabi Hip-Hop Tracks by Fateh",
+  "description": "Fresh Punjabi Hip-Hop Tracks by Saabi Bhinder",
   "name": "New Rap Punjabi",
   "tracks": [
     {
@@ -836,7 +836,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 134575,
       "name": "ABOVE ALL",
       "url": "https://open.spotify.com/track/1rSJkEEeq74uRP4KxVsAGF"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 187500,
       "name": "Ambar Dream",
       "url": "https://open.spotify.com/track/4AlIzNCUZCI0gyTEZLCDLR"
@@ -2833,6 +2833,36 @@
     },
     {
       "album": {
+        "name": "Blood Syndicate",
+        "url": "https://open.spotify.com/album/0BuZVhkIP8oLmp8jr7A6GY"
+      },
+      "artists": [
+        {
+          "name": "Lv Nijjar",
+          "url": "https://open.spotify.com/artist/2TVUSjd2MO6VokD436FPgB"
+        },
+        {
+          "name": "The Sam",
+          "url": "https://open.spotify.com/artist/6ePsxI5AaumPoTJ8xnsQ7E"
+        },
+        {
+          "name": "Money",
+          "url": "https://open.spotify.com/artist/7oCefMxk1dmQXCum6yvp3O"
+        },
+        {
+          "name": "Ohi Taran",
+          "url": "https://open.spotify.com/artist/4DHNQaoF6bD7sF0ykHC9ZA"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142422,
+      "name": "Blood Syndicate",
+      "url": "https://open.spotify.com/track/1mRIUDDUC7OFrddVsopDmn"
+    },
+    {
+      "album": {
         "name": "Bloody Bull",
         "url": "https://open.spotify.com/album/1nwEBYqh0rxhlpjirkaQWa"
       },
@@ -3112,7 +3142,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 153600,
       "name": "Bro",
       "url": "https://open.spotify.com/track/6bMvT9Ib9fyylFYIgY4sli"
@@ -5048,7 +5078,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 166829,
       "name": "Dirty Money",
       "url": "https://open.spotify.com/track/1QKPpDuQ9UPHfKuZusKWrp"
@@ -5488,6 +5518,28 @@
       "duration_ms": 206707,
       "name": "DXB",
       "url": "https://open.spotify.com/track/17vaaGEZlUz7b7IMKyDXvy"
+    },
+    {
+      "album": {
+        "name": "East 2 West",
+        "url": "https://open.spotify.com/album/3M5uzYqR4mDzYJ8sWMs9RB"
+      },
+      "artists": [
+        {
+          "name": "Ekkan",
+          "url": "https://open.spotify.com/artist/2VnWKIkpDJE8f6qukTmnpa"
+        },
+        {
+          "name": "Marz",
+          "url": "https://open.spotify.com/artist/5V7bS224vebOH5hCq5nlMB"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146808,
+      "name": "East 2 West",
+      "url": "https://open.spotify.com/track/4sTIvG6OAhHhyywIxpphyp"
     },
     {
       "album": {
@@ -6631,6 +6683,28 @@
     },
     {
       "album": {
+        "name": "Game On",
+        "url": "https://open.spotify.com/album/6Z4m6ZjCZO2fUEdX74Fio8"
+      },
+      "artists": [
+        {
+          "name": "Watan Sahi",
+          "url": "https://open.spotify.com/artist/60AHsnenfij85IExxs2456"
+        },
+        {
+          "name": "Nav Prince",
+          "url": "https://open.spotify.com/artist/43hVKGJyBP3vWbbMZKLQfF"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169046,
+      "name": "Game On",
+      "url": "https://open.spotify.com/track/3SPFEJwA5iIUq9BQEwpQ4A"
+    },
+    {
+      "album": {
         "name": "Vulgar",
         "url": "https://open.spotify.com/album/2dz5PHkEZ08yjMmNAOZ2pd"
       },
@@ -6806,6 +6880,28 @@
       "duration_ms": 145537,
       "name": "GGG",
       "url": "https://open.spotify.com/track/02p7bJUw1JMcP85BBSGK6q"
+    },
+    {
+      "album": {
+        "name": "Ghanta",
+        "url": "https://open.spotify.com/album/2i4gYg5tZmleJrGVhkRAST"
+      },
+      "artists": [
+        {
+          "name": "Jind Dhillon",
+          "url": "https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv"
+        },
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192486,
+      "name": "Ghanta",
+      "url": "https://open.spotify.com/track/0YQk98GK8B3O1g03CLHSOF"
     },
     {
       "album": {
@@ -7042,7 +7138,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 149472,
       "name": "GOD'S PLAN",
       "url": "https://open.spotify.com/track/508YyTi3qMhefOmMK58khF"
@@ -7214,7 +7310,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 152347,
       "name": "Gt",
       "url": "https://open.spotify.com/track/1vsMu5QVKoSOn5hMaeKKDP"
@@ -8464,7 +8560,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 171951,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/4Mth51SjYogR8pEOkUKc5x"
@@ -10389,6 +10485,32 @@
     },
     {
       "album": {
+        "name": "Low Rider",
+        "url": "https://open.spotify.com/album/28BL2zT9xYHkzQILhHdRMv"
+      },
+      "artists": [
+        {
+          "name": "Saabi Bhinder",
+          "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        },
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
+        },
+        {
+          "name": "CHEETAH",
+          "url": "https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185380,
+      "name": "Low Rider",
+      "url": "https://open.spotify.com/track/54eRJjpGrbomPpChIlVYgy"
+    },
+    {
+      "album": {
         "name": "LSD",
         "url": "https://open.spotify.com/album/6AFSLzgh1u7s7vpbBGsnjZ"
       },
@@ -11203,6 +11325,32 @@
     },
     {
       "album": {
+        "name": "6 pe 6",
+        "url": "https://open.spotify.com/album/0QFdrYn3iAu2Jl0UOl34nL"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "Deep Kalsi",
+          "url": "https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I"
+        },
+        {
+          "name": "DRJ Sohail",
+          "url": "https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173350,
+      "name": "Mindset",
+      "url": "https://open.spotify.com/track/6IuPxPZw2gKBU6ZJKNlHCn"
+    },
+    {
+      "album": {
         "name": "Mitran Di Hood (From \"Pendu Boyz\")",
         "url": "https://open.spotify.com/album/1gugWAwXrXiQzDCzejFRH6"
       },
@@ -11909,6 +12057,28 @@
     },
     {
       "album": {
+        "name": "Niri Agg",
+        "url": "https://open.spotify.com/album/3DTcSDnLLnyblffia3XOUW"
+      },
+      "artists": [
+        {
+          "name": "Sikander Kahlon",
+          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
+        },
+        {
+          "name": "Andy Grewal",
+          "url": "https://open.spotify.com/artist/5PCB0eH1q1vRmI70ibdTeh"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173620,
+      "name": "Niri Agg",
+      "url": "https://open.spotify.com/track/0paTaAAxGD66pPuabVXxNw"
+    },
+    {
+      "album": {
         "name": "Nisha Sweety",
         "url": "https://open.spotify.com/album/06E2OaiyC9N7i2eG8CdcFJ"
       },
@@ -12286,6 +12456,24 @@
       "duration_ms": 169600,
       "name": "No Talk",
       "url": "https://open.spotify.com/track/6AEOAVCOvAq7AnKrwsIQH9"
+    },
+    {
+      "album": {
+        "name": "NO VASELINE",
+        "url": "https://open.spotify.com/album/0YLz6PJBxofaYf1BujUjru"
+      },
+      "artists": [
+        {
+          "name": "Xvir Grewal",
+          "url": "https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254194,
+      "name": "NO VASELINE",
+      "url": "https://open.spotify.com/track/38SxBbg2sBzRZgiR5tR9In"
     },
     {
       "album": {
@@ -14686,7 +14874,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 212727,
       "name": "Samaa",
       "url": "https://open.spotify.com/track/5EEeZoD49sHYfRtY9ElnwU"

@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Gabby's Dollhouse
 
-957 songs - 1 day 15 hr 32 min
+960 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Brothers & Sisters](https://open.spotify.com/track/6wNMg5q7l9hBML29D45Yq1) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Brothers & Sisters](https://open.spotify.com/album/2yfEN46713k8LsXlXXyycS) | 2:51 | 2022-04-15 | 2024-01-05 |
 | [Brunch Munch](https://open.spotify.com/track/5nYJUHUJNSwVMfU5wyTq7M) | [Jeremy and Jazzy](https://open.spotify.com/artist/5frliimrTsYf5GyuXQ7WPQ) | [Brunch Munch](https://open.spotify.com/album/0ppcsJqllBj7XiORpYOtP0) | 2:04 | 2024-04-05 | 2024-08-24 |
 | [Brush Your Teeth](https://open.spotify.com/track/7yfvCVvKID415PQDqhCvYn) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f) | [GoNoodle Dance Party: What Time Is It?](https://open.spotify.com/album/6X1Y7BuCeqjZhVc2ecFheN) | 2:01 | 2025-01-10 | 2025-07-03 |
+| [Brush Your Teeth \(Caitie\)](https://open.spotify.com/track/1HgfFSz7iO1vosFVrhGDeU) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Brush Your Teeth \(Caitie\)](https://open.spotify.com/album/5Zf9R3kqErhZQ8L9KO7Bff) | 2:08 | 2025-12-05 |  |
 | [Bubble Bubble \(Be Like A Bubble!\)](https://open.spotify.com/track/0le8XTVpDL4h2owSnmGHcv) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Small But Mighty \- Hearty Hits For Living Large](https://open.spotify.com/album/1Jyc07zrfXG9kGKQQLJf3a) | 1:37 | 2024-01-05 | 2024-02-17 |
 | [Bubbles](https://open.spotify.com/track/6FtKyvGQxN3KqSLGU51MD0) | [Jenn Cleary](https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS), [Mad Dog Friedman](https://open.spotify.com/artist/1mSYpJ1EIm18MC57GLGkg7) | [All Together Now](https://open.spotify.com/album/0CKYcjCylFYsyYtfyEprNQ) | 2:52 | 2022-04-15 | 2023-10-21 |
 | [Bubbles](https://open.spotify.com/track/08Yif8kRGImGDtQIMvxVbM) | [Whistle & Trick](https://open.spotify.com/artist/4unAH8bJlqpucBxdCs7HCH) | [Bubbles](https://open.spotify.com/album/0JIx0Do9ciiaWCsLOuNDHt) | 2:53 | 2024-10-04 | 2025-03-08 |
@@ -297,6 +298,7 @@
 | [Give It A Go](https://open.spotify.com/track/0CG2r1WDiKLavxhlZ9LExa) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Give It A Go](https://open.spotify.com/album/2IRd6LarlRvkwcigpP0PXr) | 1:33 | 2022-04-15 | 2024-01-05 |
 | [Go Find the Hero in You](https://open.spotify.com/track/5AfMUMUK2W9LGrOuBu5nVG) | [Ryan’s World](https://open.spotify.com/artist/4ACrd2NmZ3uYchtI2BgtcC) | [Ryan's World the Movie: Titan Universe Adventure \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3pGFER8LsshqNcrIstuBrI) | 2:11 | 2024-08-16 | 2025-03-08 |
 | [Go Go Go](https://open.spotify.com/track/2u72fa8ggNbLzMMuCUVkUF) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Blaze and the Monster Machines](https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l) | [Rockin’ Ride\-Along Songs Vol\. 5](https://open.spotify.com/album/6UCuL9pdhRVeJVLVZ7f33Z) | 0:31 | 2024-08-23 | 2025-03-08 |
+| [Go Outside](https://open.spotify.com/track/7FXQf1goSVs2aYMvsLjliq) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq), [Pevan & Sarah](https://open.spotify.com/artist/18avlDuu2zI5Z4ESppOFvN) | [Go Outside](https://open.spotify.com/album/7DrPIibbI8WXUPtiL19vYr) | 1:23 | 2025-12-05 |  |
 | [GOAT](https://open.spotify.com/track/5pdExwm51qWeFrP6WPmCyt) | [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [GOAT](https://open.spotify.com/album/1pB5U2qhiGwYHLOpncYJH7) | 2:49 | 2024-02-09 | 2024-08-24 |
 | [Gobble Gobble Burp \- Live](https://open.spotify.com/track/2X7EQQB0gafoVKDUMLiTjo) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Moose Tube](https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa) | [Chowtown: Music With A Flair For Flavor](https://open.spotify.com/album/1KL7yu3pAhJBlbTHpybX6U) | 2:41 | 2024-11-08 | 2025-03-08 |
 | [Goin' To A Birthday](https://open.spotify.com/track/2rtz0CHDt2RwOYqXBwDqN6) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Goin' To A Birthday](https://open.spotify.com/album/5IRiwsbsT3p0lj2GenF7q8) | 2:47 | 2022-07-25 | 2023-11-04 |
@@ -582,6 +584,7 @@
 | [My Voice Is A Trumpet](https://open.spotify.com/track/3l4aDXm2sm3A7YvUwP9UbV) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [My Voice Is A Trumpet](https://open.spotify.com/album/0UPyebDii2nRtZkZFl6G1u) | 2:24 | 2022-04-15 | 2023-11-04 |
 | [My Voice Is A Trumpet](https://open.spotify.com/track/6gv2VOlgl6cFhH3GNYpah5) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [My Voice Is A Trumpet](https://open.spotify.com/album/3umsVEoAhZgKr2Q6frnDBN) | 2:24 | 2023-09-22 | 2024-01-05 |
 | [My Yellow Car](https://open.spotify.com/track/1niDmaOz2GhJKbFFIRsC8c) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [My Yellow Car](https://open.spotify.com/album/1g7iIi3FkaqeLJ3lVsFYAg) | 2:50 | 2025-07-04 |  |
+| [Mystical Magical](https://open.spotify.com/track/67pRJVVHvUijgZlorMSUMe) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Mystical Magical](https://open.spotify.com/album/5NMcHAUKrAOiKlQK92iNNF) | 2:48 | 2025-12-05 |  |
 | [Nature's Music](https://open.spotify.com/track/7w0V5I7bNJBgSLwJjcLECS) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Nature's Music](https://open.spotify.com/album/52JlxplQYigaOl8f4OfGpI) | 2:40 | 2025-09-19 |  |
 | [Neighbor](https://open.spotify.com/track/1t0zKQvPW6iQPHGnUikbgC) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Neighbor](https://open.spotify.com/album/3QG5NYtfW5HsUNRHoLVirX) | 3:56 | 2022-10-07 | 2024-01-05 |
 | [Never Gonna Give You Up](https://open.spotify.com/track/4kB590QDVAqejZUhbYwBB7) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [30 Best Pop & Rock Songs for Children](https://open.spotify.com/album/6xwYpJ7aQvSZNR3xr3OZ1b) | 3:35 | 2025-08-08 |  |

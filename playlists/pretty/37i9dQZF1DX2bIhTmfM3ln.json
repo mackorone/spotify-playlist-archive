@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 53096,
+  "num_followers": 53121,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -63,8 +63,8 @@
     {
       "added_at": "2025-12-05 00:01:17",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "A Street Kid's Diary",
+        "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
       },
       "artists": [
         {
@@ -223,8 +223,8 @@
     {
       "added_at": "2025-12-05 00:01:17",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "A Street Kid's Diary",
+        "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
       },
       "artists": [
         {
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-12-05 00:01:17",
       "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+    },
+    {
+      "added_at": "2025-12-05 00:01:17",
+      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 195600,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
-    },
-    {
-      "added_at": "2025-12-05 00:01:17",
-      "album": {
-        "name": "All The Love",
-        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "All The Love",
-      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
     },
     {
       "added_at": "2025-12-05 00:01:17",
@@ -479,22 +479,22 @@
     {
       "added_at": "2025-12-05 00:01:17",
       "album": {
-        "name": "Fuji",
-        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
+        "name": "Blue Disco",
+        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/1yvqRS5Rv6YaP79DBLgWn3"
         }
       ],
-      "duration_ms": 163826,
-      "name": "Only God Can Save Me",
-      "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
+      "duration_ms": 151304,
+      "name": "Go Shawty (It\u2019s Your Birthday)",
+      "url": "https://open.spotify.com/track/6qNA3exuFmvOzVOTPgzG5D"
     },
     {
       "added_at": "2025-12-05 00:01:17",
@@ -515,22 +515,22 @@
     {
       "added_at": "2025-12-05 00:01:17",
       "album": {
-        "name": "Blue Disco",
-        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/1yvqRS5Rv6YaP79DBLgWn3"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 151304,
-      "name": "Go Shawty (It\u2019s Your Birthday)",
-      "url": "https://open.spotify.com/track/6qNA3exuFmvOzVOTPgzG5D"
+      "duration_ms": 163826,
+      "name": "Only God Can Save Me",
+      "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
     },
     {
       "added_at": "2025-12-05 00:01:17",
@@ -563,6 +563,22 @@
       "duration_ms": 148672,
       "name": "FOR YOU",
       "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2025-12-05 00:01:17",
+      "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2025-12-05 00:01:17",
@@ -603,22 +619,6 @@
       "duration_ms": 192921,
       "name": "Hildabaci - Remix",
       "url": "https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH"
-    },
-    {
-      "added_at": "2025-12-05 00:01:17",
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2025-12-05 00:01:17",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-12-05 00:01:17",
       "album": {
+        "name": "I'm Available",
+        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 196530,
+      "name": "I'm Available",
+      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
+    },
+    {
+      "added_at": "2025-12-05 00:01:17",
+      "album": {
         "name": "Dive In",
         "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
-    },
-    {
-      "added_at": "2025-12-05 00:01:17",
-      "album": {
-        "name": "I'm Available",
-        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 196530,
-      "name": "I'm Available",
-      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
     },
     {
       "added_at": "2025-12-05 00:01:17",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-12-05 00:01:17",
       "album": {
-        "name": "Mwah!",
-        "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Mwah!",
-      "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
-    },
-    {
-      "added_at": "2025-12-05 00:01:17",
-      "album": {
         "name": "Juvie",
         "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 176975,
       "name": "\u2060State Of My Heart",
       "url": "https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5"
+    },
+    {
+      "added_at": "2025-12-05 00:01:17",
+      "album": {
+        "name": "Mwah!",
+        "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Mwah!",
+      "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
     },
     {
       "added_at": "2025-12-05 00:01:17",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-12-05 00:01:17",
       "album": {
+        "name": "Sorry I'm Busy",
+        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 142709,
+      "name": "Sorry I'm Busy",
+      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
+    },
+    {
+      "added_at": "2025-12-05 00:01:17",
+      "album": {
         "name": "US III",
         "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 186220,
       "name": "First Sight",
       "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
-    },
-    {
-      "added_at": "2025-12-05 00:01:17",
-      "album": {
-        "name": "Sorry I'm Busy",
-        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 142709,
-      "name": "Sorry I'm Busy",
-      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
     },
     {
       "added_at": "2025-12-05 00:01:17",

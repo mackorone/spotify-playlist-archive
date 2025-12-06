@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 4623,
+  "num_followers": 4625,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAADrV2YHWyjYKAM669M3ZjmU",
+  "snapshot_id": "aTDPAAAAAAAYIjXhKDa/7uL4ggZpZo6M",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feels Like Joy",
+        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Feels Like Joy",
+      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Emerging Sound, Vol. 3",
         "url": "https://open.spotify.com/album/1NIgu5W7M1HFNqNuzUmwjP"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 248984,
       "name": "What Mercy Did for Me (feat. Crystal Yates, Micah Tyler & Joshua Sherman)",
       "url": "https://open.spotify.com/track/7lKYLdBXZtYbwysK0GFnOr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feels Like Joy",
-        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Feels Like Joy",
-      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
     },
     {
       "added_at": null,
@@ -462,11 +462,15 @@
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Phil King",
+          "url": "https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz"
         }
       ],
-      "duration_ms": 202410,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v"
+      "duration_ms": 166623,
+      "name": "Headed for the Mountain (feat. Phil King)",
+      "url": "https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn"
     },
     {
       "added_at": null,
@@ -487,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
+        "name": "God Bless the Broken Road",
+        "url": "https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu"
       },
       "artists": [
         {
@@ -496,9 +500,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 259159,
-      "name": "Remember This",
-      "url": "https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk"
+      "duration_ms": 132240,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5"
     },
     {
       "added_at": null,
@@ -526,21 +530,17 @@
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        },
-        {
-          "name": "Phil King",
-          "url": "https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz"
         }
       ],
-      "duration_ms": 166623,
-      "name": "Headed for the Mountain (feat. Phil King)",
-      "url": "https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn"
+      "duration_ms": 202410,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v"
     },
     {
       "added_at": null,
       "album": {
-        "name": "God Bless the Broken Road",
-        "url": "https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu"
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 132240,
-      "name": "Come Thou Fount",
-      "url": "https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5"
+      "duration_ms": 259159,
+      "name": "Remember This",
+      "url": "https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk"
     },
     {
       "added_at": null,

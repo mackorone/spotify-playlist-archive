@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Lily Meola
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,514 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,534 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 4 | [Gone](https://open.spotify.com/track/087TB9G9VYQ8BDGOoKtbW8) | [Rambler Kane](https://open.spotify.com/artist/7k8nztcDZOpEF7BO327JCg) | [Gone](https://open.spotify.com/album/6XfYaqvXP5729clabOlMNG) | 3:32 |
 | 5 | [Suitcase](https://open.spotify.com/track/7yWUwranBTGBPpIkWaemdL) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Suitcase](https://open.spotify.com/album/2NnNFQpObfTQx8KB4XLIPD) | 2:52 |
 | 6 | [Quicksand](https://open.spotify.com/track/5EOxuZw9Ll3i0wpXq7dL1P) | [Max Alan](https://open.spotify.com/artist/5iZ49r3ayCqsUesaetPDcr) | [Quicksand](https://open.spotify.com/album/66RPAFdWSF1XdiZOnHAPNY) | 3:20 |
-| 7 | [Track 15](https://open.spotify.com/track/388Z2c3f5HZyWcX4IEEKID) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [Too Many, Too Few \[Feat\. Logan Ledger\]](https://open.spotify.com/track/388Z2c3f5HZyWcX4IEEKID) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Hard Headed Woman \(Deluxe\)](https://open.spotify.com/album/22dDp8Bfxi4sfGCaGc6Jf4) | 4:16 |
 | 8 | [Shovel](https://open.spotify.com/track/0RAJTCyUgzXqct9qXcQhjk) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Shovel](https://open.spotify.com/album/7EmzD2qF9Fa101ov4UIL8P) | 3:10 |
 | 9 | [Suffer](https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Suffer](https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV) | 3:23 |
 | 10 | [Regret It](https://open.spotify.com/track/4jAmxujHkxjywXL1SKnLcl) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 3:53 |
 | 11 | [Little Things](https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Little Things](https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ) | 3:29 |
 | 12 | [Bleached](https://open.spotify.com/track/3jS8Om0jcb87Fw4HZrrgyl) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Big Ugly](https://open.spotify.com/album/6jNbLon7QmLGibekT6RFOa) | 3:29 |
 | 13 | [When It Snows In Texas](https://open.spotify.com/track/5By307vqu6ZwxuLlkHpDRx) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [When It Snows In Texas](https://open.spotify.com/album/7A9urqXlw6unu8iR8aYaEe) | 2:46 |
-| 14 | [Come Along as One](https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU) | [Shane Guerrette](https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq) | [](https://open.spotify.com/album/null) | 3:49 |
+| 14 | [Come Along as One](https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU) | [Shane Guerrette](https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq) | [Come Along](https://open.spotify.com/album/2I2GgjfMffCEszqaxa2kWA) | 3:49 |
 | 15 | [A Million Ways](https://open.spotify.com/track/7fZ4ZgKY7BSOjfstkLPCRK) | [Marfa](https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD) | [A Million Ways](https://open.spotify.com/album/5EROzEIPWsgwvqvk3y6z6o) | 3:41 |
 | 16 | [That's My DJ](https://open.spotify.com/track/5UYrXqoasfJSq2lpuDK5Qp) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [That's My DJ / Heather](https://open.spotify.com/album/1KpWk4qerhTx1uU1LYJrGd) | 5:34 |
 | 17 | [High Road](https://open.spotify.com/track/57zCcgYEAHQQIB5uaJ0GXb) | [Jess Woodland](https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq) | [High Road](https://open.spotify.com/album/0RCAxG8f8jZUIlwaRDqbI7) | 3:51 |

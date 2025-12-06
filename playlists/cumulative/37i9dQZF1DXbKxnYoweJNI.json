@@ -13095,6 +13095,24 @@
     },
     {
       "album": {
+        "name": "Boundary",
+        "url": "https://open.spotify.com/album/5YWyPvOYit4QbQvQ8uYZkC"
+      },
+      "artists": [
+        {
+          "name": "Whyte",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180084,
+      "name": "Namaste",
+      "url": "https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd"
+    },
+    {
+      "album": {
         "name": "nap",
         "url": "https://open.spotify.com/album/60W6j38XKZdcFaikAZOWGe"
       },
@@ -18307,7 +18325,7 @@
       "artists": [
         {
           "name": "LYNZI (0) \u96f6",
-          "url": "https://open.spotify.com/artist/4KRRAsuLAEv3HCxbYMWA5N"
+          "url": "https://open.spotify.com/artist/0M9mNoqr1c3QdLY9m36urK"
         }
       ],
       "date_added": "2025-12-04",
@@ -19208,24 +19226,6 @@
       "duration_ms": 176688,
       "name": "Toyota\u5192\u96aa\u65e5\u8a18",
       "url": "https://open.spotify.com/track/0zEX5wK2EIUZBoTLMpyq3H"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Whyte",
-          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
-        }
-      ],
-      "date_added": "2025-12-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd"
     },
     {
       "album": {
@@ -35641,8 +35641,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "\u5931\u671b\u7684\u5c71",
+        "url": "https://open.spotify.com/album/69vAcNdz9Kv8EhLdECqYSI"
       },
       "artists": [
         {
@@ -55783,8 +55783,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "4Reasons",
+        "url": "https://open.spotify.com/album/5vth4gcrC8PnORzMgH5ckI"
       },
       "artists": [
         {

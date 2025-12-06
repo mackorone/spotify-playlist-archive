@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 160019,
       "name": "Answer Phone",
       "url": "https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe"
@@ -957,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Daniel's Theme",
+        "url": "https://open.spotify.com/album/0I7OCGcIxEQSSjv23zIMzr"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102327,
+      "name": "Daniel's Theme",
+      "url": "https://open.spotify.com/track/5vF5orpSWS0qxC0GsPJkq8"
+    },
+    {
+      "album": {
         "name": "Mother (Deluxe)",
         "url": "https://open.spotify.com/album/04KpcMLmydYqdD9g968PYg"
       },
@@ -1513,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak & Roses",
+        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
+      },
+      "artists": [
+        {
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354760,
+      "name": "Heartbreak & Roses",
+      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
+    },
+    {
+      "album": {
         "name": "Heaven (Butterflies)",
         "url": "https://open.spotify.com/album/1DiKwaSbeG0G4FXP3GQGb4"
       },
@@ -1632,7 +1668,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 186251,
       "name": "High and Low",
       "url": "https://open.spotify.com/track/0UAB4g9ZOrcMzHcZi2y3qo"
@@ -2044,6 +2080,24 @@
       "duration_ms": 262160,
       "name": "I'm Not Ready To Go",
       "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
+    },
+    {
+      "album": {
+        "name": "In the Works",
+        "url": "https://open.spotify.com/album/6G5sFEjLo515bziYyusTAh"
+      },
+      "artists": [
+        {
+          "name": "Kymara",
+          "url": "https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220160,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/0e9DuoeA41HOatmsPdQChK"
     },
     {
       "album": {
@@ -2642,7 +2696,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 222622,
       "name": "Love Is Pain",
       "url": "https://open.spotify.com/track/6Prd1Z03iwPmmPSPTzMBhh"
@@ -3334,10 +3388,32 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 163324,
       "name": "Please Slow Down - Rubber Bridge Version",
       "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
+    },
+    {
+      "album": {
+        "name": "Portland, Maine (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210915,
+      "name": "Portland, Maine (feat. Jordan Davis)",
+      "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
     },
     {
       "album": {
@@ -4103,6 +4179,24 @@
     },
     {
       "album": {
+        "name": "The Next Time We Meet",
+        "url": "https://open.spotify.com/album/13hRU2LNjolmWEkDnjWOiA"
+      },
+      "artists": [
+        {
+          "name": "Coos",
+          "url": "https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "The Next Time We Meet",
+      "url": "https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS"
+    },
+    {
+      "album": {
         "name": "the night we met",
         "url": "https://open.spotify.com/album/2jM0k484jzyT9xx1AayJkk"
       },
@@ -4114,7 +4208,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 166666,
       "name": "the night we met",
       "url": "https://open.spotify.com/track/6Gwbza1h3SmUhtt6mffsGm"
@@ -4724,7 +4818,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 187941,
       "name": "what it is to love",
       "url": "https://open.spotify.com/track/1D8EkYBlvHNhdZ5bEYxO12"
@@ -4768,6 +4862,24 @@
       "duration_ms": 199200,
       "name": "When I Feel This Way",
       "url": "https://open.spotify.com/track/4lpOGqNlKHARTJa4fYcDis"
+    },
+    {
+      "album": {
+        "name": "When the Party's Over",
+        "url": "https://open.spotify.com/album/0mQvScekQkBp9YPSwVPUTs"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "When the Party's Over",
+      "url": "https://open.spotify.com/track/24cC5w4hHsIWxzCeRowVkV"
     },
     {
       "album": {
@@ -4822,6 +4934,24 @@
       "duration_ms": 202106,
       "name": "Where's My Love",
       "url": "https://open.spotify.com/track/3XRDrBtoCJAMDQJgSzJ9WT"
+    },
+    {
+      "album": {
+        "name": "why does it go so fast",
+        "url": "https://open.spotify.com/album/7owCIwkHcknPYRta0usinj"
+      },
+      "artists": [
+        {
+          "name": "Ruxley",
+          "url": "https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261776,
+      "name": "why does it go so fast",
+      "url": "https://open.spotify.com/track/4vRCHXTTxQsY4pc0DqBrgP"
     },
     {
       "album": {

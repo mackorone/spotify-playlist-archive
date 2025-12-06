@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 18820,
+  "num_followers": 18828,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAABLE8QIcUrIJA/BZVLpuSCG",
+  "snapshot_id": "aTDPAAAAAACfw/UfT2zG3GKeKpuwxE8r",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chilo",
-        "url": "https://open.spotify.com/album/3ET76yiVxeZfKDxZeiFmk1"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Chilo",
-      "url": "https://open.spotify.com/track/75DkGdEjxaYj7FT0GFNypv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 164360,
       "name": "Canci\u00f3n Para Olvidarte",
       "url": "https://open.spotify.com/track/5XqnEgOf00MMHogOTTFtjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chilo",
+        "url": "https://open.spotify.com/album/3ET76yiVxeZfKDxZeiFmk1"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Chilo",
+      "url": "https://open.spotify.com/track/75DkGdEjxaYj7FT0GFNypv"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Son Las Cosas",
-        "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 171529,
-      "name": "As\u00ed Son Las Cosas",
-      "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 185346,
       "name": "Se Solicita",
       "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Son Las Cosas",
+        "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 171529,
+      "name": "As\u00ed Son Las Cosas",
+      "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
     },
     {
       "added_at": null,
@@ -499,42 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorada",
-        "url": "https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 195851,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
-        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 223960,
-      "name": "Ac\u00e1 Entre Nos - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Beso a Medias",
         "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
       },
@@ -555,6 +519,42 @@
       "duration_ms": 233091,
       "name": "Un Beso a Medias",
       "url": "https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "Ac\u00e1 Entre Nos - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enamorada",
+        "url": "https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 195851,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No M\u00e1s Canciones De Amor",
-        "url": "https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 151909,
-      "name": "No M\u00e1s Canciones De Amor",
-      "url": "https://open.spotify.com/track/5KUXDV43C0Id3obmoiMVTz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila (Deluxe)",
         "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 187720,
       "name": "Nos Gan\u00f3 El Amor",
       "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No M\u00e1s Canciones De Amor",
+        "url": "https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 151909,
+      "name": "No M\u00e1s Canciones De Amor",
+      "url": "https://open.spotify.com/track/5KUXDV43C0Id3obmoiMVTz"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tik Tik Tik",
-        "url": "https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Tik Tik Tik",
-      "url": "https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Te Apartes De M\u00ed",
         "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
       },
@@ -831,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Veracruz",
-        "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
+        "name": "Tik Tik Tik",
+        "url": "https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         },
         {
-          "name": "Jos\u00e9 Carrillo",
-          "url": "https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 222236,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
+      "duration_ms": 191546,
+      "name": "Tik Tik Tik",
+      "url": "https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd"
     },
     {
       "added_at": null,
@@ -883,6 +863,26 @@
       "duration_ms": 191040,
       "name": "Me Vas A Llorar",
       "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Veracruz",
+        "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Jos\u00e9 Carrillo",
+          "url": "https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz"
+        }
+      ],
+      "duration_ms": 222236,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
     }
   ],
   "unique_name": "This Is Majo Aguilar",

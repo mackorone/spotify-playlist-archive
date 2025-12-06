@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 551 likes - 2,081 songs - 5 day 1 hr 52 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 551 likes - 2,083 songs - 5 day 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2089,5 +2089,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2079 | [No Room](https://open.spotify.com/track/1wy9ZIgHUeVokyB2ez1vbc) | [Olivia Farabaugh](https://open.spotify.com/artist/1tmqcd1USna0bubmfMsNoP) | [No Room](https://open.spotify.com/album/1i3fFcrYpwhyZPqHaGWAE7) | 4:09 |
 | 2080 | [IYKYK](https://open.spotify.com/track/2MHZg1SAC5jCuTNsm9uO6Y) | [Jenny Palacios](https://open.spotify.com/artist/1TpnyAngai2yGUjI7OKFp8) | [IYKYK](https://open.spotify.com/album/2kACKOnRggw9oPwu2sJcRb) | 2:56 |
 | 2081 | [Inima\-mi tremura](https://open.spotify.com/track/7kIagru5T0fMq0ayx0oXeX) | [ROMAREL](https://open.spotify.com/artist/66rsNxE5kHbHrp8jJsg504) | [Inima\-mi tremura](https://open.spotify.com/album/4S2cIThoQjDYIW1G2GJViI) | 3:02 |
+| 2082 | [Harbour](https://open.spotify.com/track/4tTWnwrzZvz093lohzK4Mc) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 2:51 |
+| 2083 | [Blue Wind](https://open.spotify.com/track/6ArK2mdgK0B75CWvjqKi4H) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [One](https://open.spotify.com/album/6Nq8LT0hzTEbeMBOKKLA34) | 3:29 |
 
-Snapshot ID: `AAAIr130Llo3/IX59f6ja5J4Q9YOE6DX`
+Snapshot ID: `AAAIsYWpJmpNJSOUf42vFtK33uyO91jN`

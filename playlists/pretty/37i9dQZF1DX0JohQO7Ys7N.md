@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Ukweli & Xenia Manasseh
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,122 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,133 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stories Untold](https://open.spotify.com/track/3aoDp1jGeLHZTsb5kGH4jg) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Shudu Musida](https://open.spotify.com/artist/1rE20iFWfaTa3G1kZR98rK) | [Stories Untold](https://open.spotify.com/album/7cuX7LdNYkaSsi4YxNyq7j) | 3:58 |
+| 1 | [Stories Untold](https://open.spotify.com/track/3aoDp1jGeLHZTsb5kGH4jg) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Shudu Musida](https://open.spotify.com/artist/1rE20iFWfaTa3G1kZR98rK) | [Stories Untold](https://open.spotify.com/album/7cuX7LdNYkaSsi4YxNyq7j) | 3:59 |
 | 2 | [Niangalie](https://open.spotify.com/track/4r7vOzZFoGWxKPCd3XD95S) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Niangalie](https://open.spotify.com/album/6gNGKlPgPNgxnqeF8An26m) | 3:49 |
 | 3 | [Tamu](https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Tamu](https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg) | 3:01 |
 | 4 | [Mapenzi](https://open.spotify.com/track/0VKokjztRSUUcukN6cRmkF) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Mapenzi](https://open.spotify.com/album/6Qh6nUBfyw30o9ejaqv5ok) | 3:53 |

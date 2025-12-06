@@ -4935,6 +4935,24 @@
     },
     {
       "album": {
+        "name": "All Nighter",
+        "url": "https://open.spotify.com/album/6ZvDaTQavm4C1lLu6LVuGv"
+      },
+      "artists": [
+        {
+          "name": "Sunny L\u00e9o",
+          "url": "https://open.spotify.com/artist/2w5KiJbmzmpynhshcjodYG"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "All Nighter",
+      "url": "https://open.spotify.com/track/4XkfovbQ3GVlGzDCUD1bkR"
+    },
+    {
+      "album": {
         "name": "all of that",
         "url": "https://open.spotify.com/album/293q7RYvfWYahqOVV85gT5"
       },
@@ -7018,6 +7036,24 @@
       "duration_ms": 120000,
       "name": "Aquatic",
       "url": "https://open.spotify.com/track/7nblWjnAwB8mwEha6mzFBH"
+    },
+    {
+      "album": {
+        "name": "aquatic dreams",
+        "url": "https://open.spotify.com/album/1ghtZfEeR7HEBDemlnBekI"
+      },
+      "artists": [
+        {
+          "name": "$imba",
+          "url": "https://open.spotify.com/artist/6ZPRXOOs0K9EipFamTz2YP"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142961,
+      "name": "aquatic dreams",
+      "url": "https://open.spotify.com/track/2ovRozE2MFU29FKcRhiGVT"
     },
     {
       "album": {
@@ -19056,7 +19092,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 130960,
       "name": "cabrena",
       "url": "https://open.spotify.com/track/4NERGpa0lw2Ez1OkwDv8ty"
@@ -30836,7 +30872,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 173617,
       "name": "Day shifting",
       "url": "https://open.spotify.com/track/44pbbxxSgylituDBYNXTJj"
@@ -34772,6 +34808,24 @@
       "duration_ms": 85434,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/5Hkq9fpD3rBJ06Ua9BeBDV"
+    },
+    {
+      "album": {
+        "name": "dream garden",
+        "url": "https://open.spotify.com/album/5Idv7CsthuLu48CSGnB63M"
+      },
+      "artists": [
+        {
+          "name": "softflow",
+          "url": "https://open.spotify.com/artist/7bpXsZz8CK2r8QWptlceTP"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118938,
+      "name": "dream garden",
+      "url": "https://open.spotify.com/track/08FjONQVdAlGYOPKGWCzGs"
     },
     {
       "album": {
@@ -41012,7 +41066,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 144657,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/3ZzyjX50uAVrQ0eo59jjQI"
@@ -43414,7 +43468,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 166263,
       "name": "First Morning Light",
       "url": "https://open.spotify.com/track/0doS7jPDFuetqxRJV625Yd"
@@ -55808,7 +55862,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 117600,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/4uYTOiPscwAPkYOZyiOVuU"
@@ -75773,6 +75827,28 @@
     },
     {
       "album": {
+        "name": "Lucky Us",
+        "url": "https://open.spotify.com/album/6yqtZNZv7WgXmFd0mzSCe9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Lucky Us",
+      "url": "https://open.spotify.com/track/320YmZj1zL3TxjYVl4JQZ1"
+    },
+    {
+      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/2foHRWp4fzciaDiO2mnrhe"
       },
@@ -91712,6 +91788,28 @@
       "duration_ms": 129229,
       "name": "odd mission.",
       "url": "https://open.spotify.com/track/4mX3OJPLl9cZjSgf1NJskT"
+    },
+    {
+      "album": {
+        "name": "off grid",
+        "url": "https://open.spotify.com/album/4T5i6Lb5AaM4MeJpWiXwlg"
+      },
+      "artists": [
+        {
+          "name": "Goson",
+          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
+        },
+        {
+          "name": "So.Lo",
+          "url": "https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109687,
+      "name": "off grid",
+      "url": "https://open.spotify.com/track/2tT9LVtsqcNkeJYIfEItHA"
     },
     {
       "album": {
@@ -109460,7 +109558,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 113235,
       "name": "Secret city",
       "url": "https://open.spotify.com/track/0dQHScpc0vaNXFjAw0eVFm"
@@ -124814,6 +124912,24 @@
       "duration_ms": 154074,
       "name": "Surp",
       "url": "https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0"
+    },
+    {
+      "album": {
+        "name": "Surreal",
+        "url": "https://open.spotify.com/album/4fv2vJWa2WHVXuvPu0ASjf"
+      },
+      "artists": [
+        {
+          "name": "Plaxon",
+          "url": "https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122287,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/0s3WYGajXAcIufs12otFiC"
     },
     {
       "album": {

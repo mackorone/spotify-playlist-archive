@@ -4,7 +4,7 @@
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-76 songs - 4 hr 6 min
+77 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Everything Is Cool](https://open.spotify.com/track/3otZFpBehn0Qj5u1NZLlvT) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [A John Prine Christmas](https://open.spotify.com/album/51feGjlV8hDiJ4U7XO9Kcb) | 3:25 | 2024-09-02 | 2025-10-25 |
 | [Fishing for Christmas](https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Fishing for Christmas](https://open.spotify.com/album/4l2InyeRp1418Unpbjac3c) | 4:16 | 2024-12-20 | 2025-11-06 |
 | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ) | 3:52 | 2024-09-02 |  |
-| [Happy New Year](https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [The Devil You Know](https://open.spotify.com/album/4ftjmx3yacX5yEvFXlc8Pk) | 3:52 | 2025-11-28 |  |
+| [Happy New Year](https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [The Devil You Know](https://open.spotify.com/album/4ftjmx3yacX5yEvFXlc8Pk) | 3:52 | 2025-11-28 | 2025-12-06 |
 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/5Sl5pUXUNF3KqM8a3MG7ZO) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [OCMS XMAS](https://open.spotify.com/album/1r4kv5VvrBD8gN0C27vzKH) | 3:57 | 2025-11-28 |  |
 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 | 2024-09-02 | 2025-11-28 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7GnQsPZ4C4mecUcglkUJgr) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0Lt81n1P5yl3I35EbUrvd3) | 3:28 | 2024-09-02 |  |
@@ -41,6 +41,7 @@
 | [I'll Be Home for Christmas](https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [To: Kate \- A Benefit for Kate's Sake](https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX) | 3:45 | 2024-09-02 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/4jbe59AoOM81GJQ8tT8IZy) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [I'll Be Home for Christmas](https://open.spotify.com/album/5bniqKvnu2j876NboUuw0Y) | 2:01 | 2024-09-02 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/4w76VgK8polaFYWbdauE36) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Christmas In A Minor Key](https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C) | 2:10 | 2024-12-20 |  |
+| [Is It Far To Bethlehem?](https://open.spotify.com/track/4ZnEbEj9GONWSV1WSRcvcD) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [Is It Far To Bethlehem?](https://open.spotify.com/album/4X7AnDouIRYOU1vclZ7Nn5) | 3:22 | 2025-11-28 |  |
 | [It's Not Christmas 'Til You Come Home \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N) | 3:12 | 2024-09-02 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN) | 2:23 | 2024-09-02 |  |
 | [Kid At Christmas](https://open.spotify.com/track/7i3DdCiqRVKccOop2LaS0g) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Kid At Christmas](https://open.spotify.com/album/3GqNyb3gRyD22Cbf9coquS) | 3:23 | 2024-09-02 | 2024-12-21 |

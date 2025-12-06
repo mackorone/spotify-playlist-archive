@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats! Cover: Frank Walker, Josh Ross &amp; Norma Jean Martine.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,613 likes - 99 songs - 5 hr 20 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,609 likes - 103 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,9 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 97 | [Give It Up for Me \- deadmau5 Remix](https://open.spotify.com/track/2x37fnWK7aoxObPkTX1OK2) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Give It Up For Me \(The Remixes\)](https://open.spotify.com/album/7g7pY4oWQsWBzHAfl2CxdJ) | 6:18 |
 | 98 | [Familiars \(From the Game "World of Tanks Blitz"\)](https://open.spotify.com/track/4jaoBjvV9goyLG0o41Uhzx) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Familiars \(From the Game "World of Tanks Blitz"\)](https://open.spotify.com/album/5dbaxGVxlxtaV8vVcQ4nYF) | 6:07 |
 | 99 | [Chaos in Calm](https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Chaos in Calm](https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam) | 4:44 |
+| 100 | [I Want You \(Rules Remix\)](https://open.spotify.com/track/3pkyX9IpuD29i7yyHqE0Mv) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [I Want You](https://open.spotify.com/album/7emhEqPrwvisq5W8rdAimR) | 4:12 |
+| 101 | [The Frame](https://open.spotify.com/track/5deI7qL4D6SdLnna8B2RSW) | [ÖRA](https://open.spotify.com/artist/3fsRpP11Bpi8aiRlMi1dPj) | [The Frame](https://open.spotify.com/album/5SNz7QncFnvaMkJ5uJ6zvP) | 5:36 |
+| 102 | [In Darkness](https://open.spotify.com/track/7hqtAz51uS84jjOKfjgdIL) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Always With Me](https://open.spotify.com/album/4E3yDqnMgUfLxRYH3LDkiE) | 3:37 |
+| 103 | [FLOW STATE \(ft\. Odetari\)](https://open.spotify.com/track/4TH8lXOUGPmPx7p6jy717j) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [d00mscrvll](https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b) | [FLOW STATE \(ft\. Odetari\)](https://open.spotify.com/album/3h4QOkW5RZpYBTG8Y11mFZ) | 1:15 |
 
-Snapshot ID: `AAAiWYD1QERiBffx9M85KBtTb2VO+zA7`
+Snapshot ID: `AAAiXTW3Bvd9aPVkmEnm6QFy1d2UVBI/`

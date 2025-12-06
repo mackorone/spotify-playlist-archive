@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.
 
-540 songs - 1 day 5 hr 58 min
+544 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [ghost in my guitar \- Live from NPR's Tiny Desk](https://open.spotify.com/track/0MJ89PKzQbEnH2HFfiKLMF) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Live from NPR's Tiny Desk](https://open.spotify.com/album/7gsxS3lw5VEo6IXD6YDHPx) | 4:09 | 2024-12-06 | 2025-02-15 |
 | [Girl I Never Met](https://open.spotify.com/track/3e3ULne1BkdKR64AlZkw3x) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Girl I Never Met](https://open.spotify.com/album/00RBopMn0LvTbCOnoK15hu) | 2:57 | 2025-03-07 | 2025-05-10 |
 | [girl you're taking home](https://open.spotify.com/track/13TtTCE6v8vwTSgWJPjwLl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:04 | 2024-11-01 | 2025-03-01 |
+| [Giving Her Away](https://open.spotify.com/track/4RFHH3exrleUOwgyLbEFvJ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Giving Her Away](https://open.spotify.com/album/2pnoWZN6epQVXs2XREE8l4) | 3:33 | 2025-12-05 |  |
 | [Go Get Her](https://open.spotify.com/track/1V9vDStzw6C7pXSsIrzER2) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3cZg2kg86yLwTyMoBv5bBC) | 3:15 | 2023-11-03 | 2024-03-16 |
 | [God and a Good Man](https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [God and a Good Man](https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG) | 4:56 | 2023-11-03 | 2024-03-09 |
 | [Going Blonde](https://open.spotify.com/track/2kPgG5d0fKYhMzr7kt4ZBs) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Going Blonde](https://open.spotify.com/album/4NqtPM6LWMtAiMG0tajWXh) | 3:47 | 2025-03-28 | 2025-06-28 |
@@ -334,6 +335,7 @@
 | [Motel 6 \- Acoustic](https://open.spotify.com/track/4pZvsbjmeV2zu2BifOBw1H) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [Motel 6 \(Acoustic\)](https://open.spotify.com/album/0v46h4gJ0Cfqhf3zcraE7T) | 3:51 | 2025-08-08 |  |
 | [Moth to a Flame](https://open.spotify.com/track/2QVur9XmWWwivQntbUwvVT) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Moth to a Flame](https://open.spotify.com/album/3k89ZbjGkJJbm5hnCqx5B3) | 3:52 | 2024-06-21 | 2024-08-17 |
 | [Mulcair Road](https://open.spotify.com/track/3TqBb0sI0oXZqy9LFMQykc) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Mulcair Road](https://open.spotify.com/album/70hsR0QI8ssdyHYJhxmCbh) | 3:30 | 2025-03-07 | 2025-05-03 |
+| [My Love](https://open.spotify.com/track/3jmr2o3tdbA8lWPtpCxCl5) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [My Love](https://open.spotify.com/album/38ZC9zLGxyFNQR96ABazS5) | 3:37 | 2025-12-05 |  |
 | [My Truck, Some Weed, and a Guitar](https://open.spotify.com/track/3fz8uYbzhg08cYe7KraTWD) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [My Truck, Some Weed, and a Guitar](https://open.spotify.com/album/39XcvORWxWO8SVR8wQYHDE) | 3:16 | 2025-07-04 | 2025-08-16 |
 | [Naming Boats](https://open.spotify.com/track/49YM9koBu5gPvRDHqahE93) | [McCoy Moore](https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO) | [Naming Boats](https://open.spotify.com/album/3bbAO5CmtuHBZSnTdgaoDO) | 2:36 | 2025-06-27 |  |
 | [Narcissist \(feat\. Phix\)](https://open.spotify.com/track/5GZyD9MBTiovN2dDNeHOJr) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Phix](https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT) | [Narcissist \(feat\. Phix\)](https://open.spotify.com/album/7x3d4sBwFfaRZeXJXAY2k6) | 3:56 | 2024-02-09 | 2024-06-08 |
@@ -391,6 +393,7 @@
 | [Reverse Cowgirl](https://open.spotify.com/track/3cVfEINfdRowJNxmGwSsfx) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Reverse Cowgirl](https://open.spotify.com/album/0VTDxj9TAoXGZvE0iLBD1L) | 2:17 | 2024-11-15 | 2025-02-08 |
 | [Right Now](https://open.spotify.com/track/5HS8aICH7tjYXSBxzjE9PU) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Right Now](https://open.spotify.com/album/5c6gRadNcBezr5lzERoRsv) | 3:04 | 2024-01-12 | 2024-04-02 |
 | [River Red](https://open.spotify.com/track/7qn7OgUmfpywyHE65efNzr) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [No Town, Oklahoma](https://open.spotify.com/album/0vVhKY9X4XEWtT79ShUa7K) | 3:05 | 2024-08-16 | 2024-10-14 |
+| [Rocky Mountain Low \- feat\. Koe Wetzel](https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Rocky Mountain Low \(feat\. Koe Wetzel\)](https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN) | 2:48 | 2025-12-05 |  |
 | [Rodeo Junkies](https://open.spotify.com/track/1N0lVFEEGknDQ72ohUZTq6) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Rodeo Junkies](https://open.spotify.com/album/2AvoHg4snKcHGVxqMTOxGX) | 3:36 | 2024-09-27 | 2024-10-26 |
 | [Rolling Stoned Again](https://open.spotify.com/track/1QC5apn9Ye3gC6z2XkPtYJ) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Mellow War](https://open.spotify.com/album/0Jd8RkTQ1kqieqVlENwyJR) | 4:43 | 2024-02-02 | 2024-04-27 |
 | [Rouler](https://open.spotify.com/track/4FKSdcyZldfRBTnlOjYpvH) | [Karo Laurendeau](https://open.spotify.com/artist/0zKEf1GW5Fws8HJTcAxctz) | [Vintage](https://open.spotify.com/album/6eYV3ad7FiOyR95hbZ40jn) | 2:35 | 2024-05-03 | 2024-06-15 |
@@ -453,6 +456,7 @@
 | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX), [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa) | 3:13 | 2023-11-03 | 2025-03-29 |
 | [Takes Me Back](https://open.spotify.com/track/3DNAcQ8ChlimJiqGCmmXGz) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Takes Me Back](https://open.spotify.com/album/4LKln6SbewEf7EZcazJomd) | 3:15 | 2024-10-04 | 2025-01-18 |
 | [Taylor Swift](https://open.spotify.com/track/0ymAJvTIbJraEti1rK6KiL) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [New Money](https://open.spotify.com/album/6PgLrRwR0H7vgqHhuS5TMc) | 3:21 | 2023-11-03 | 2024-04-06 |
+| [Teenage Dirtbag](https://open.spotify.com/track/4syJa84yrb0E2NxJ6LTSDP) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Teenage Dirtbag](https://open.spotify.com/album/5SjHWz3cAotoRW288uJQIv) | 3:47 | 2025-12-05 |  |
 | [Tell Me That You Love Me](https://open.spotify.com/track/6bn1TSYp2mTSTWzwFmw9Qd) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Tell Me That You Love Me](https://open.spotify.com/album/3rZ0416mb3wRAy2O1vmAps) | 3:22 | 2025-03-07 | 2025-05-10 |
 | [Tennessee Orange](https://open.spotify.com/track/0omYsJn4G901Aag7B0NHMp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Girl in the Mirror](https://open.spotify.com/album/3pvp1aMU2i1lF6sFlsXV5J) | 3:43 | 2023-11-03 | 2024-04-27 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-02-16 | 2024-09-07 |

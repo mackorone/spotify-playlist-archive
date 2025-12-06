@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451106,
+      "name": "Dofana",
+      "url": "https://open.spotify.com/track/5j7YPAa4Dbn0RBTNxiuGRo"
+    },
+    {
+      "album": {
         "name": "Ali & Toumani",
         "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
       },

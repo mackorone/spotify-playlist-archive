@@ -1,13 +1,69 @@
 {
   "description": "New releases for the kids. Cover: Gabby's Dollhouse",
-  "num_followers": 80565,
+  "num_followers": 80659,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALQuXCsPhHjvmB8M866EVmI0WzH2",
+  "snapshot_id": "AAAAAJcMX2kb7xbPMA8MJKJZ1G7+WFsg",
   "tracks": [
+    {
+      "added_at": "2025-12-05 05:00:23",
+      "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/5NMcHAUKrAOiKlQK92iNNF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/67pRJVVHvUijgZlorMSUMe"
+    },
+    {
+      "added_at": "2025-12-05 05:00:23",
+      "album": {
+        "name": "Brush Your Teeth (Caitie)",
+        "url": "https://open.spotify.com/album/5Zf9R3kqErhZQ8L9KO7Bff"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 128875,
+      "name": "Brush Your Teeth (Caitie)",
+      "url": "https://open.spotify.com/track/1HgfFSz7iO1vosFVrhGDeU"
+    },
+    {
+      "added_at": "2025-12-05 05:00:23",
+      "album": {
+        "name": "Go Outside",
+        "url": "https://open.spotify.com/album/7DrPIibbI8WXUPtiL19vYr"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        },
+        {
+          "name": "Pevan & Sarah",
+          "url": "https://open.spotify.com/artist/18avlDuu2zI5Z4ESppOFvN"
+        }
+      ],
+      "duration_ms": 83329,
+      "name": "Go Outside",
+      "url": "https://open.spotify.com/track/7FXQf1goSVs2aYMvsLjliq"
+    },
     {
       "added_at": "2025-11-28 05:00:17",
       "album": {

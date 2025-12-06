@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 406647,
+  "num_followers": 406653,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -448,6 +448,26 @@
       },
       "artists": [
         {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "duration_ms": 208321,
+      "name": "You'll Be Back",
+      "url": "https://open.spotify.com/track/6OG1S805gIrH5nAQbEOPY3"
+    },
+    {
+      "added_at": "2025-08-29 10:42:43",
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
           "name": "Ren\u00e9e Elise Goldsberry",
           "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
         },
@@ -471,26 +491,6 @@
       "duration_ms": 186542,
       "name": "The Schuyler Sisters",
       "url": "https://open.spotify.com/track/71X7bPDljJHrmEGYCe7kQ8"
-    },
-    {
-      "added_at": "2025-08-29 10:42:43",
-      "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Groff",
-          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
-        },
-        {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
-        }
-      ],
-      "duration_ms": 208321,
-      "name": "You'll Be Back",
-      "url": "https://open.spotify.com/track/6OG1S805gIrH5nAQbEOPY3"
     },
     {
       "added_at": "2025-08-29 10:42:43",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2025-08-29 10:42:43",
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+        "name": "RENT (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ"
       },
       "artists": [
         {
-          "name": "Josh Gad",
-          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+          "name": "Rosario Dawson",
+          "url": "https://open.spotify.com/artist/5gGhRZgP9BJL9fsFdvTzeX"
         }
       ],
-      "duration_ms": 110986,
-      "name": "In Summer - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/6p6AMtWxEt4W2jc3HmpqdB"
+      "duration_ms": 234093,
+      "name": "Out Tonight",
+      "url": "https://open.spotify.com/track/5XzG0GT1WntHu1N1T2UVDJ"
     }
   ],
   "unique_name": "Hits From The Musicals",

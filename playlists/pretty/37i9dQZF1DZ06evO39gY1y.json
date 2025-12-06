@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 250439,
+  "num_followers": 250552,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAACG8QmAiwEHX2v/b4Ma7KZ8",
+  "snapshot_id": "aTDPAAAAAABnDBsDWty7B5bul7U3WkQb",
   "tracks": [
     {
       "added_at": null,
@@ -951,26 +951,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los No Tan Tristes",
-        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv"
       },
       "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 183000,
-      "name": "No Se Sobrepase",
-      "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
+      "duration_ms": 214500,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ"
     },
     {
       "added_at": null,
@@ -1003,18 +995,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv"
+        "name": "Los No Tan Tristes",
+        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
       "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 214500,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ"
+      "duration_ms": 183000,
+      "name": "No Se Sobrepase",
+      "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
     },
     {
       "added_at": null,

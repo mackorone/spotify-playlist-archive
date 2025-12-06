@@ -4,7 +4,7 @@
 
 > 
 
-788 songs - 2 day 1 hr 26 min
+789 songs - 2 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Madness Minor](https://open.spotify.com/track/5U1Uh6zz5jkO1DXqvyXDmS) | [Fracaso Inminente](https://open.spotify.com/artist/7ytoVQBwppgzLlauvYSyIu) | [Madness Minor](https://open.spotify.com/album/5bjBjdANkoBMTL7QYbF9fG) | 4:58 | 2025-06-26 |  |
 | [Magnificent Isolation](https://open.spotify.com/track/0lkC7c46BtZMhzoa76MPyT) | [Celestial Tide Pools](https://open.spotify.com/artist/0NL5CAM4QbME7BmaxB6sDD) | [Magnificent Isolation](https://open.spotify.com/album/2qpjo8eEq5avvkxvripAdq) | 2:48 | 2024-11-30 |  |
 | [Make It Look so Easy](https://open.spotify.com/track/00TvN4LCOERnGSzxjOLcy5) | [Come On Tiger](https://open.spotify.com/artist/1afu8g2MsViBZAmFWpS5ut) | [Make It Look so Easy](https://open.spotify.com/album/6CeCAMaOdV1t1BNNhdPfac) | 3:22 | 2025-07-22 |  |
+| [Make Love \(with Santa Claus\)](https://open.spotify.com/track/1SGIrtQEOHHZXTNRn80eEL) | [LOW/LATE](https://open.spotify.com/artist/7gWmJ9eJ1xHygxVUv8JpfD) | [Make Love \(with Santa Claus\)](https://open.spotify.com/album/2mb68wtdCCbUub5ad1idtp) | 2:38 | 2025-12-05 |  |
 | [Make Out With My Ex](https://open.spotify.com/track/55VkrcJsy27TeSNf7ap1uT) | [Cara Bateman](https://open.spotify.com/artist/2z7HnVNGjzUWHPTeB4z99Y) | [Daddy Issues](https://open.spotify.com/album/4H1Un79vagEH0j9WMKZKVN) | 2:20 | 2025-04-29 |  |
 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 | 2024-11-12 |  |
 | [March of Death](https://open.spotify.com/track/3XUQ8G9RnCgCzNGr5wu4So) | [The Fractal Conspiracy](https://open.spotify.com/artist/4WDXqVdmLgXcZd5iQkvrgQ) | [The Fractal Conspiracy](https://open.spotify.com/album/5BC2Nr5oz8j2tB6VcV6hvS) | 3:34 | 2025-10-09 |  |

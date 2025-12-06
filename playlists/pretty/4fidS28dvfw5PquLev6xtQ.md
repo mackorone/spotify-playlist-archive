@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain](/playlists/plain/4fidS28dvfw5PquLev6xtQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4fidS28dvfw5PquLev6xtQ)
 
-### [RYM Top 100 Songs \(Updated "Tuesdays"\)](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
+### [RYM Top 100 Songs \(updated every 2 weeks\)](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
 > &quot;Starless&quot;  has surpassed the great &quot;A Day in the Life&quot; but they&\#x27;ll surely flippy floppy every \(2\) week\(s\)
 
-[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 45 likes - 99 songs - 12 hr 52 min
+[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 46 likes - 99 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 | 98 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 |
 | 99 | [King Park](https://open.spotify.com/track/1mwvhdWyZruSSMhvOWbfCv) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Wildlife](https://open.spotify.com/album/4BDDKxyTMgE1UZh7Wzdx28) | 6:54 |
 
-Snapshot ID: `AAAB4Sh3n7EJRZhrSio0S1I/5zioCuJb`
+Snapshot ID: `AAAB4nznP2esgSxbk3XP+XZ7v+kB01GU`

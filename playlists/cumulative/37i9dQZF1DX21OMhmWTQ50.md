@@ -4,7 +4,7 @@
 
 > Gentle festive piano music to keep you focused this holiday season☕️✨
 
-67 songs - 2 hr 59 min
+68 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Away In A Manger](https://open.spotify.com/track/70UZ9eGOLGzhbihYLmlffr) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Away In A Manger](https://open.spotify.com/album/2zZFomEZg7L9D6d2o055ez) | 2:05 | 2025-10-22 |  |
 | [Blue Christmas](https://open.spotify.com/track/3du2vdssfRZmtXvajt4zBH) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Blue Christmas](https://open.spotify.com/album/4yQZZRtvEUIBgof8K8NC9w) | 2:32 | 2025-10-22 |  |
 | [Cantique De Noël](https://open.spotify.com/track/2WnkEW8F20IfnZjHToKh9V) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [The Christmas Collection](https://open.spotify.com/album/52Na0HF5eGRagKqZdE98CE) | 3:48 | 2025-10-22 |  |
+| [Carol of the Bells \- Piano Version](https://open.spotify.com/track/3volBRJGzsvTuRFM1e9p94) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Carol of the Bells \(Piano Version\)](https://open.spotify.com/album/23EO5UPnJyTpwq0i8vpvNR) | 2:45 | 2025-12-05 |  |
 | [Chestnuts Roasting on an Open Fire](https://open.spotify.com/track/0nHrf6FlFj8Px6MAnCXWUG) | [Robert Wells](https://open.spotify.com/artist/5GgQaXN58vIXabBwnkkTae), [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:18 | 2025-10-22 |  |
 | [Christ Was Born on Christmas Day](https://open.spotify.com/track/0iZ9Iwy4AaaerzRZonwm1g) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [Christ Was Born on Christmas Day](https://open.spotify.com/album/7acnYTcF9IfhdDS1qMV6VS) | 2:52 | 2025-10-22 |  |
 | [Christmas Time Is Here \- Piano](https://open.spotify.com/track/6HGtLIGtz89GQnbSV4sBcR) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 3:16 | 2025-10-22 |  |

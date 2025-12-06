@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,093 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,096 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 34 | [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 |
 | 35 | [Nooit Geweet](https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i), [Jemaine Julies](https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf) | [Nooit Geweet](https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4) | 3:16 |
 | 36 | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Shouldbeyuang](https://open.spotify.com/artist/4gkUC9MvwxJMHopT7BFmx4) | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH) | 2:52 |
-| 37 | [Die dog](https://open.spotify.com/track/3joOWQZLziJIIv1ZnFUncm) | [Ama vrant](https://open.spotify.com/artist/6VMxeGjGUjqqhfIzcvPfSm) | [Die dog](https://open.spotify.com/album/6hJ8q2qVzqDwhaj5m5Y5Rv) | 2:45 |
-| 38 | [Op My Kant](https://open.spotify.com/track/2L9OtaOBouuhjveWwvXTY7) | [Lyht Skin Native](https://open.spotify.com/artist/37IbZiNUGaNzPa8Iln2mp8) | [Op My Kant](https://open.spotify.com/album/1ZWr4PND5ALJdU4HMsguPV) | 2:49 |
+| 37 | [Op My Kant](https://open.spotify.com/track/2L9OtaOBouuhjveWwvXTY7) | [Lyht Skin Native](https://open.spotify.com/artist/37IbZiNUGaNzPa8Iln2mp8) | [Op My Kant](https://open.spotify.com/album/1ZWr4PND5ALJdU4HMsguPV) | 2:49 |
+| 38 | [Die dog](https://open.spotify.com/track/3joOWQZLziJIIv1ZnFUncm) | [Ama vrant](https://open.spotify.com/artist/6VMxeGjGUjqqhfIzcvPfSm) | [Die dog](https://open.spotify.com/album/6hJ8q2qVzqDwhaj5m5Y5Rv) | 2:45 |
 | 39 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 |
 | 40 | [Stap Soldaat](https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Stap Soldaat](https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ) | 3:10 |
 | 41 | [Hosh Pakamisa](https://open.spotify.com/track/5zgeFWjhJYldLf3FMACFEc) | [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Dedrick West Bonolo](https://open.spotify.com/artist/1mSbq1MxKee5gZdom8BH7U), [SiyaCeeBeats](https://open.spotify.com/artist/575AQek8G74rY22ifc3eTt) | [Hosh Pakamisa](https://open.spotify.com/album/4D6iPZIuBPfjXcvqm6pbd3) | 2:56 |

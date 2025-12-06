@@ -1969,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "Birthday Party Crash",
+        "url": "https://open.spotify.com/album/6xrLKbz7rrtyztyshL5TwP"
+      },
+      "artists": [
+        {
+          "name": "mermaidonmars",
+          "url": "https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Birthday Party Crash",
+      "url": "https://open.spotify.com/track/7C2OnvqB1sia1g7ecfKTWI"
+    },
+    {
+      "album": {
         "name": "BITE THE BULLET",
         "url": "https://open.spotify.com/album/5E5Bh3gHUFO3ECImoixFwC"
       },
@@ -5743,6 +5761,28 @@
     },
     {
       "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203474,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
+    },
+    {
+      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
       },
@@ -6524,7 +6564,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 165867,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz"

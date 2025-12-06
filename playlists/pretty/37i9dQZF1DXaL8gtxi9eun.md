@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: كريم محسن
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,886 likes - 40 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,887 likes - 40 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [يادي الكسفه](https://open.spotify.com/track/2aIRqlnEJ4k14TWs37eOzV) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [يادي الكسفه](https://open.spotify.com/album/1sGAurPqa4a4afDENNUEyc) | 4:08 |
 | 2 | [بحكيلك عن الأيام](https://open.spotify.com/track/0LBdR8Oub0hKQSuW9KEfvt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 4:02 |
-| 3 | [Sidi Ya Sidi](https://open.spotify.com/track/4UzpGVaCX5uGmTDnFYzWNq) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:36 |
+| 3 | [Sidi Ya Sidi](https://open.spotify.com/track/4UzpGVaCX5uGmTDnFYzWNq) | [Nancy Ajram](https://open.spotify.com/artist/3hnKbMrrOkExkPrfi905TE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:36 |
 | 4 | [Mish Adra](https://open.spotify.com/track/26rJGQLKO7eeOHVIp9XSn9) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Mish Adra](https://open.spotify.com/album/3ZEWfmuJkOwcGJOVwRiZqV) | 2:51 |
 | 5 | [طمني عن حالك](https://open.spotify.com/track/3P77jVxFvqXFq6CyOzcumc) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [طمني عن حالك](https://open.spotify.com/album/1Pcd11mLzT2TG4l7y7AisA) | 3:04 |
 | 6 | [Ebtadena](https://open.spotify.com/track/54MaPJYSZOG3SZ36dzjFC9) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 3:54 |

@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Nastasia",
+        "url": "https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE"
+      },
+      "artists": [
+        {
+          "name": "Static Switch",
+          "url": "https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164279,
+      "name": "Nastasia",
+      "url": "https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH"
+    },
+    {
+      "album": {
         "name": "Stranded",
         "url": "https://open.spotify.com/album/03Mb0vrHATWhWGyc2NYKRB"
       },

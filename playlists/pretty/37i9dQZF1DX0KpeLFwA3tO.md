@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Tigers Jaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,174 likes - 124 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,278 likes - 124 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Head is Like a Sinking Stone](https://open.spotify.com/track/0RST1KsKG9fi3UhYkq1xMa) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Head is Like a Sinking Stone](https://open.spotify.com/album/3e38ud0QvEybSeP6fTehXS) | 3:03 |
 | 2 | [Power](https://open.spotify.com/track/71nTKAppwgxvJu6bQNAND5) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Power](https://open.spotify.com/album/5iikFrd5XKGuCObq5Fxnm8) | 2:15 |
-| 3 | [Dead To Me](https://open.spotify.com/track/7aorJglabvQQl3uiyzs014) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [](https://open.spotify.com/album/null) | 3:00 |
-| 4 | [Track 1](https://open.spotify.com/track/69XI0N3Fh6XhxT7wrw8UR6) | [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [Dead To Me](https://open.spotify.com/track/7aorJglabvQQl3uiyzs014) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [WORRIED SICK](https://open.spotify.com/album/1BGcuCjKVYSPApq1wVlkYv) | 3:00 |
+| 4 | [Feel The Love](https://open.spotify.com/track/69XI0N3Fh6XhxT7wrw8UR6) | [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [MICAH MARTIN](https://open.spotify.com/album/0twWt7HV5RU2n12QgGGcBj) | 2:00 |
 | 5 | [Just a Memory](https://open.spotify.com/track/10ElMw2aUfjQgq0l9ATVXR) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Just a Memory](https://open.spotify.com/album/7ChJguOeuMu7fwDhFooODN) | 3:31 |
 | 6 | [Just Play](https://open.spotify.com/track/0ObnrJ9jGUr5bhNyhCclGI) | [Last Hounds](https://open.spotify.com/artist/61yrtlfW7trRIP8H3i9gr7), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Just Play](https://open.spotify.com/album/1EHinRwItOoEkpDGqA0KRj) | 3:28 |
 | 7 | [if u knew me before i found myself, im so sorry](https://open.spotify.com/track/2FQqlPsPnLEXLUdjMGRaSk) | [juno driver](https://open.spotify.com/artist/7L5m0WRJ3yoDNFEjGhoQrb) | [if u knew me before i found myself, im so sorry](https://open.spotify.com/album/42PHtiL3fQfO9fF7hGcFDs) | 2:10 |

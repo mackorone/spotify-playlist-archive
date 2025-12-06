@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,083,019 likes - 183 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,083,187 likes - 183 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 182 | [Hyperion](https://open.spotify.com/track/5qqXDQFD5iym4JbwO0cm8u) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Hyperion](https://open.spotify.com/album/60CcWL3HJI9suRkHew4cV1) | 3:27 |
 | 183 | [In Repose](https://open.spotify.com/track/2UejZPkslzScfSgtLeCOEj) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [In Repose](https://open.spotify.com/album/3UpFnLyROKiqYFe0gmFOjs) | 3:30 |
 
-Snapshot ID: `AAAAAMhF+NBgjJ1ykdxvRpXPyAqO08Uw`
+Snapshot ID: `AAAAAM4VJrzDZzQ6OEG6xrw2E4PT4hDm`

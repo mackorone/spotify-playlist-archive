@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Pozer
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Pozer, Kasst 8
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,984 likes - 81 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,401,060 likes - 81 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 80 | [BUSY](https://open.spotify.com/track/1peSW56EXaVDkzbHeU6TBZ) | [JugJug](https://open.spotify.com/artist/0TQrCbghgGxsHKZGkNqdyx), [Marlow P](https://open.spotify.com/artist/7g8NLtQXt19NjYo6qrkbyh) | [BUSY](https://open.spotify.com/album/1NZStWVb3AXdxG0AKEaK2L) | 4:16 |
 | 81 | [West Life](https://open.spotify.com/track/7c1VOpvkdr5aPqlv7huLlB) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Don't Die Before You're Dead](https://open.spotify.com/album/1P89eAvz1jjWXSL9wileVn) | 3:49 |
 
-Snapshot ID: `AAAAAB9U/M0Xv4rkioeMH2qJXZzQqBFB`
+Snapshot ID: `AAAAAKvkOS/0HbZzPMfACFm1DOa604Pz`

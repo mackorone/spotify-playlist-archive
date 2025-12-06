@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-818 songs - 2 day 0 hr 10 min
+820 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -626,6 +626,7 @@
 | [Shirt No.7](https://open.spotify.com/track/01kxM787BeH0WqdmCIw8jJ) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 2:30 | 2024-01-31 | 2024-03-10 |
 | [Shoot](https://open.spotify.com/track/5Jp97FprZYGlTMM0tpiMTT) | [Taxidermists](https://open.spotify.com/artist/7pigwk4t0mwGiwrbrQbEV7) | [Shoot](https://open.spotify.com/album/4h2xnaKa1f8T7ki3Fdmmmx) | 1:36 | 2025-01-27 | 2025-03-02 |
 | [Shoot from the Heart](https://open.spotify.com/track/2tuiGLoE9ZNqAamqylsafY) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Ritmo](https://open.spotify.com/album/0xwLWmM77s0319HTS6HJ4T) | 4:26 | 2024-01-05 | 2024-03-10 |
+| [Si, Paloma](https://open.spotify.com/track/7tu29mHOe4iY2sINKAXWCR) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 5:32 | 2025-12-05 |  |
 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2024-04-22 | 2024-05-16 |
 | [Siestas ahí](https://open.spotify.com/track/48ZuLtNLHM0I5DdmIo99YZ) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Siestas ahí](https://open.spotify.com/album/4cIU4zFcWB3aacaT8Je8vt) | 4:30 | 2025-12-01 |  |
 | [Signs](https://open.spotify.com/track/1xxapFhumr4nQ72HwbzTjV) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp) | [Scenic Route \- Road Less Travelled, Vol​​​.​​​ 2](https://open.spotify.com/album/1qMuvJRu4Rc7RmZPdafYU8) | 3:53 | 2024-06-20 | 2024-07-12 |
@@ -670,6 +671,7 @@
 | [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 | 2025-06-21 | 2025-07-04 |
 | [Still Feels Like Tears \[Demo\]](https://open.spotify.com/track/7oW1kR6WNzw0NRBmDFbdVj) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Distant Call \- Collected Demos 2000 \- 2006](https://open.spotify.com/album/3R66mzyY7RONq48WPfxPky) | 3:10 | 2024-11-13 | 2025-01-12 |
 | [Stopword](https://open.spotify.com/track/1D5N1zQMGM5FzTb9288syg) | [Lect Drecs](https://open.spotify.com/artist/6ABEszArkQreaHzzjQaddo) | [My Aura](https://open.spotify.com/album/2KHOwUyQMhnlFQa9dRoSI1) | 2:04 | 2024-07-12 | 2024-09-08 |
+| [Streets of Mine](https://open.spotify.com/track/3U4SPwYCuRGgwaASbGWi2o) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Jessica Pratt](https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS) | 2:43 | 2025-12-05 |  |
 | [Sua Estupidez \- Live From Teatro Tereza Raquel, Brazil/1971](https://open.spotify.com/track/3iSu4JLVjeeCMr7AIxNksR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/2cA8Oru1aDKbFaY6hBIg7X) | 3:49 | 2024-02-20 | 2024-03-10 |
 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:55 | 2024-11-13 | 2025-01-12 |
 | [Suffer Debt](https://open.spotify.com/track/3U9AaUSqjcUmWEbDenK39r) | [Truth Club](https://open.spotify.com/artist/3GdOXWzNWcFrrUD9VentQC) | [Running From the Chase](https://open.spotify.com/album/3yKcdRIr1FIFE1xQe4PCWR) | 4:05 | 2025-04-20 | 2025-05-09 |

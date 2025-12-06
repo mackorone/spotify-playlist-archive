@@ -2,9 +2,9 @@
 
 ### [Electro Corridos](https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f)
 
-> Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Oswaldo\_NR, Jorge Duran, Marcos Villalobos
+> Bien alucin con el electro, la nueva ola de la fiesta\. Cover: FLVCKAA, Regulo Caro
 
-536 songs - 1 day 3 hr 25 min
+537 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [La Mini](https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [La Mini](https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc) | 3:33 | 2022-12-30 | 2023-05-26 |
 | [La Movie](https://open.spotify.com/track/5685SxAjAOu4pQisUv5lh4) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [La Movie](https://open.spotify.com/album/51xP3NBKYax3Xqu5xOfUnm) | 2:50 | 2025-08-01 |  |
 | [La Niña II](https://open.spotify.com/track/6Wjc5mi3MN9IAJeOcImYl3) | [José Guicho](https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe) | [La Niña II](https://open.spotify.com/album/2aFDwJXGlSJhHS6SzHOik9) | 2:45 | 2024-09-20 | 2025-10-11 |
+| [La Ocasión](https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [La Ocasión](https://open.spotify.com/album/1b31iLB0KUcUq9NCtHPu6V) | 2:37 | 2025-12-05 |  |
 | [La Pantera](https://open.spotify.com/track/0TOQQZVCZdMFMxzHT6WEtD) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [La Pantera](https://open.spotify.com/album/0AXPYYhLk3997LVKYTreIT) | 3:43 | 2025-04-25 |  |
 | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa) | 3:02 | 2024-12-28 |  |
 | [La Plata Los Culos](https://open.spotify.com/track/70GXNLAHVHD9Tzp2HGSIDP) | [JUANPORDIOS!](https://open.spotify.com/artist/4DVSIgIIO92h4OdSSBBJlg), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [La Plata Los Culos](https://open.spotify.com/album/58RdZIXAYJODfBjh1QwNXk) | 3:11 | 2022-03-21 | 2022-04-20 |

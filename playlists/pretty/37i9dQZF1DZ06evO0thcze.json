@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 56858,
+  "num_followers": 56859,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAACiiaMPFOcmj5P1N62mAwrl",
+  "snapshot_id": "aTDPAAAAAACfnyBcus8lE1+5TbRIEDGs",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Monte Fuji",
+        "url": "https://open.spotify.com/album/76ShoKZtDVnABmchT2APYJ"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Monte Fuji",
+      "url": "https://open.spotify.com/track/2GEcLZkMr3wZB7zM8gRRBe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Me Pregunten",
         "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
       },
@@ -483,30 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monte Fuji",
-        "url": "https://open.spotify.com/album/76ShoKZtDVnABmchT2APYJ"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Monte Fuji",
-      "url": "https://open.spotify.com/track/2GEcLZkMr3wZB7zM8gRRBe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 164597,
       "name": "Legendarios",
       "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Mas Vale Cholo",
-      "url": "https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
       "duration_ms": 321000,
       "name": "Si Aqu\u00ed Estuvieras",
       "url": "https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Mas Vale Cholo",
+      "url": "https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Lento Y Contento",
-      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Es Que Sea Mam\u00f3n",
         "url": "https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 285000,
       "name": "No Es Que Sea Mam\u00f3n",
       "url": "https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Lento Y Contento",
+      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 235758,
-      "name": "Juntos de Noche",
-      "url": "https://open.spotify.com/track/78bRx4vkBK7jkd2akhzUHk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 222171,
       "name": "\u00bfY si bailamos?",
       "url": "https://open.spotify.com/track/34hlv8mV3qVxQZcJ4A5Aib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 235758,
+      "name": "Juntos de Noche",
+      "url": "https://open.spotify.com/track/78bRx4vkBK7jkd2akhzUHk"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
+        "name": "Metr\u00f3poli",
+        "url": "https://open.spotify.com/album/3gLMMLuVGYifw1so7zfJWl"
       },
       "artists": [
         {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
         },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Alguien Que Me Cure",
-      "url": "https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR"
+      "duration_ms": 181900,
+      "name": "Kryptonita",
+      "url": "https://open.spotify.com/track/34ha9oVnIHbvOiYZkcu0xU"
     },
     {
       "added_at": null,
@@ -1075,22 +1075,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metr\u00f3poli",
-        "url": "https://open.spotify.com/album/3gLMMLuVGYifw1so7zfJWl"
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
       },
       "artists": [
         {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
         },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 181900,
-      "name": "Kryptonita",
-      "url": "https://open.spotify.com/track/34ha9oVnIHbvOiYZkcu0xU"
+      "duration_ms": 232500,
+      "name": "Alguien Que Me Cure",
+      "url": "https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR"
     },
     {
       "added_at": null,

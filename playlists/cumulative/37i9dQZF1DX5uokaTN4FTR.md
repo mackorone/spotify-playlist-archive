@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: NOTION, Willow Kayne
+> The UK's biggest dance playlist! Cover: Disclosure, Leon Thomas
 
 718 songs - 1 day 13 hr 23 min
 

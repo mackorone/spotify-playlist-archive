@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Megan Moroney
 
-219 songs - 15 hr 30 min
+220 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Small Town USA \- Live at the Ryman](https://open.spotify.com/track/78XFo6H6HLkHRZ6DtKeuMz) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Live at the Ryman](https://open.spotify.com/album/2whvNZuhYac09csrAN05CI) | 4:07 | 2022-07-22 | 2024-04-19 |
 | [Somebody Else Will \- Live at the Ryman](https://open.spotify.com/track/0tKMXjaXtRwEmjw30dakhe) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Somebody Else Will \(Live at the Ryman\)](https://open.spotify.com/album/6ZK36pftWv1BmCI6R3UT39) | 2:48 | 2021-07-22 | 2024-05-05 |
 | [Somebody Else Will \- Live at the Ryman](https://open.spotify.com/track/47SHs54oXgZSWp56gMY0oj) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Live at the Ryman](https://open.spotify.com/album/2whvNZuhYac09csrAN05CI) | 2:48 | 2022-07-22 | 2024-04-19 |
+| [Somethin' 'Bout A Woman \- Live From Fenway Park](https://open.spotify.com/track/6pCBIdt549KZRupgHVLG02) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Thomas Rhett Live From Fenway Park](https://open.spotify.com/album/350LbZri3dtBkAMAFqvXlS) | 5:17 | 2025-12-05 |  |
 | [Something in the Orange \- Live](https://open.spotify.com/track/63Te6rFAEF37YmJ9HwqSzN) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 4:31 | 2022-12-25 |  |
 | [Sounds Like the Radio \- Live](https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Sounds Like The Radio \(Live\)](https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD) | 3:34 | 2024-06-28 |  |
 | [Sparks Fly \- Live/2011](https://open.spotify.com/track/1aBJNc2thaKyh5THWzIqHX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now World Tour Live](https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh) | 5:36 | 2021-07-22 |  |
@@ -220,7 +221,7 @@
 | [Woman, Amen \- Live](https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:52 | 2021-07-22 |  |
 | [Wreckage \- Live](https://open.spotify.com/track/5zHB9D7aOex9INWtPJt1Kb) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage \(Live\)](https://open.spotify.com/album/0kfcUkCxICzTR7iO6owi9O) | 3:31 | 2023-03-31 | 2025-03-24 |
 | [Write This Down \- Live](https://open.spotify.com/track/5AP4NeswU941cNkFxeloME) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 3:31 | 2021-07-22 |  |
-| [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 | 2021-07-22 |  |
+| [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 | 2021-07-22 | 2025-12-06 |
 | [You and Tequila \(with Grace Potter\) \- Live](https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 4:45 | 2021-07-22 |  |
 | [you don't deserve a country song \- Live from the Ryman](https://open.spotify.com/track/5L7WGjIElVTxfZ7gXYYeg0) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Alana Springsteen: Live from the Ryman](https://open.spotify.com/album/3lEZ56PjLi31aGcN3jQnk6) | 4:41 | 2025-01-25 | 2025-04-14 |
 | [You Look Good In My Shirt \- Live At The Arena At Gwinnett, GA/2008](https://open.spotify.com/track/5udl9ZZkaqeYzBKvyawlZm) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 5:18 | 2021-07-22 | 2024-05-05 |

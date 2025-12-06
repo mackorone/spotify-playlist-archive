@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. La Gusana Ciega en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Jos\u00e9 Madero en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -880,7 +880,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 229000,
       "name": "Antes de que apague el sol",
       "url": "https://open.spotify.com/track/0tzIXA7B2NkhASmE7r06vC"
@@ -3734,7 +3734,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 183703,
       "name": "DOS PARTES",
       "url": "https://open.spotify.com/track/1rk15TMH2O0wP09zOvZB5u"
@@ -5901,6 +5901,24 @@
     },
     {
       "album": {
+        "name": "Inside My Brain",
+        "url": "https://open.spotify.com/album/3Rn9VRkLbOxpDGTXOMT7n9"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Inside My Brain",
+      "url": "https://open.spotify.com/track/4DiZ4vLi89ZxLinQwqtfTC"
+    },
+    {
+      "album": {
         "name": "INVESTIDO",
         "url": "https://open.spotify.com/album/1YfLcIRbHLHVqz3cTxm7cB"
       },
@@ -6098,7 +6116,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 230400,
       "name": "kombate",
       "url": "https://open.spotify.com/track/5pzUVpoeLEiTtLcVJ3KR4r"
@@ -7619,6 +7637,24 @@
     },
     {
       "album": {
+        "name": "Marioneta",
+        "url": "https://open.spotify.com/album/6y8fsz2S0oZ3eRiuWkohuu"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "Marioneta",
+      "url": "https://open.spotify.com/track/36gN6hYRWPGbarIlCMdmby"
+    },
+    {
+      "album": {
         "name": "Markusiano",
         "url": "https://open.spotify.com/album/4KuG523Hjd9M5N9waCuwBa"
       },
@@ -7818,7 +7854,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 182906,
       "name": "Me Levant\u00e9 de la Cama",
       "url": "https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj"
@@ -12382,6 +12418,24 @@
       "duration_ms": 216774,
       "name": "Te Recuerdo",
       "url": "https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd"
+    },
+    {
+      "album": {
+        "name": "Te Veo a la Vuelta",
+        "url": "https://open.spotify.com/album/19GXDMThiWYvBe8G43iI8m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249866,
+      "name": "Te Veo a la Vuelta",
+      "url": "https://open.spotify.com/track/2EKHUoHLEHYIGhvi4s05nj"
     },
     {
       "album": {

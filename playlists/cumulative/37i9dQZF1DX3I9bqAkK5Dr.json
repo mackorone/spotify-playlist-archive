@@ -936,7 +936,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 221427,
       "name": "Cheruvai Nuvve Cherukoleva (Rewind)",
       "url": "https://open.spotify.com/track/2rXEHGGb48Nn8m7PAxe6FW"
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 243142,
       "name": "Get Away - Telugu Version",
       "url": "https://open.spotify.com/track/3qbRA9xzXAJ6s2Y6fCML8f"
@@ -4293,6 +4293,28 @@
     },
     {
       "album": {
+        "name": "Mava",
+        "url": "https://open.spotify.com/album/42rpyxxQ8QJ9hRRWkBEDkF"
+      },
+      "artists": [
+        {
+          "name": "Damini Bhatla",
+          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "Mava",
+      "url": "https://open.spotify.com/track/4DGW1TXNm20X2Z3sbts3pI"
+    },
+    {
+      "album": {
         "name": "Maya",
         "url": "https://open.spotify.com/album/39qvG5SrtnJO2gBpl9m2mf"
       },
@@ -6194,6 +6216,28 @@
       "duration_ms": 81270,
       "name": "Padha raa",
       "url": "https://open.spotify.com/track/0rfhJxxUlS4YeTPPuHUXjl"
+    },
+    {
+      "album": {
+        "name": "Padipoya",
+        "url": "https://open.spotify.com/album/2MXuHAHxSz3zvnWWlgVSvz"
+      },
+      "artists": [
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        },
+        {
+          "name": "Amala Chebolu",
+          "url": "https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Padipoya",
+      "url": "https://open.spotify.com/track/0Emzz8mcBafVhb7jgrtSmh"
     },
     {
       "album": {

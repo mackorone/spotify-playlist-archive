@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Iris Aeria
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,861 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,891 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/0GjJBfMN2rTHz3deKa7SAR) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [WE CAN](https://open.spotify.com/track/0GjJBfMN2rTHz3deKa7SAR) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [PLC](https://open.spotify.com/album/43ekkvxknlKfTwE019bzLb) | 2:40 |
 | 2 | [Godzilla](https://open.spotify.com/track/4nzbjhXRalSG0ZJwLoyujo) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [99 PBLM](https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU) | 2:59 |
 | 3 | [Comme des garçons](https://open.spotify.com/track/6MaP7l9giORNdeLaWyH3wH) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Comme des garçons](https://open.spotify.com/album/1zvuJMEZBD8uJPBQTdglJx) | 2:35 |
 | 4 | [MERCI](https://open.spotify.com/track/7nU2oIi1GfppgOWFiIhGY5) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [MERCI](https://open.spotify.com/album/05qGA2iRX4Bo406SSvoGmO) | 3:39 |

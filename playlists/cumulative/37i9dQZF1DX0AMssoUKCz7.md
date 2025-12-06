@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-750 songs - 1 day 13 hr 47 min
+751 songs - 1 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [Kids](https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Kids](https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T) | 2:21 | 2023-07-07 |  |
 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 | 2023-01-20 |  |
 | [Kiss Me](https://open.spotify.com/track/6kYkyeZHXPOj4s5swBEgvu) | [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Kiss Me](https://open.spotify.com/album/2k3nAAi31nOvj3wcuNwMYr) | 2:27 | 2023-01-20 |  |
-| [Kiss Me](https://open.spotify.com/track/5FF9vuEU85mmbQ3gijVHWP) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA) | [Kiss Me](https://open.spotify.com/album/59OIgFU8GhhmbcH2l2ipnJ) | 2:40 | 2024-05-03 |  |
+| [Kiss Me](https://open.spotify.com/track/5FF9vuEU85mmbQ3gijVHWP) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA) | [Kiss Me](https://open.spotify.com/album/59OIgFU8GhhmbcH2l2ipnJ) | 2:40 | 2024-05-03 | 2025-12-06 |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/4zWbO2jh3xzgylLksw37Fu) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Knockin' On Heaven's Door](https://open.spotify.com/album/3Zhg5HmHcCJea6KvPBf5uu) | 2:29 | 2022-09-09 |  |
 | [Know](https://open.spotify.com/track/5bXBLKAQ4MTAyKRdVbryrg) | [Monartt](https://open.spotify.com/artist/5ABls0cOLH2fiOLy1Dgb4k) | [Know](https://open.spotify.com/album/5zg7MKg4dWpJToBKfDiDKN) | 2:11 | 2023-02-10 | 2023-08-05 |
 | [Kuala Lumpur](https://open.spotify.com/track/2gK4qTOtzYQiiOW6I2bXj8) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Kuala Lumpur](https://open.spotify.com/album/4suO8UXZWFxmqEPtabQrCK) | 3:02 | 2022-05-20 | 2022-11-12 |
@@ -455,6 +455,7 @@
 | [Night Sky](https://open.spotify.com/track/29oU36Lm5HxVfiDW1aiQku) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf), [Tenjo](https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f) | [Night Sky](https://open.spotify.com/album/3SJaWpvArUXmEeGJUbp88T) | 2:29 | 2022-05-20 | 2022-11-13 |
 | [Night Sky](https://open.spotify.com/track/2jGAAhfQMS0Nz1I90uRqHv) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf), [Tenjo](https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f), [Jakob Dreams](https://open.spotify.com/artist/3ChusCE5PNXmuRuqGzJKVz) | [Night Sky](https://open.spotify.com/album/0bgqv0wbYkJTzYYRnzBRzW) | 2:29 | 2023-08-25 | 2024-01-03 |
 | [No Diggity](https://open.spotify.com/track/79T9m6YkRCgP0955CE4UCd) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [No Diggity](https://open.spotify.com/album/42vpQq9br7zBjdcX1cGiIA) | 3:08 | 2022-01-14 | 2022-04-21 |
+| [No Lele](https://open.spotify.com/track/79xQYfR1QXkwLtSxXDA7yP) | [Izulu](https://open.spotify.com/artist/602Bt3OJHI6yzw85cHoj1S), [Rolih](https://open.spotify.com/artist/5yfuJnrgpx9RtTDsYY9RBj), [Christian Meldal](https://open.spotify.com/artist/3dU4AZYmMeJ64U5eD8gbur), [Anuolu](https://open.spotify.com/artist/2QClfKJomgiVmuUfSAAU9s) | [No Lele](https://open.spotify.com/album/0EJyrlsBqa5elkhT8o7UiG) | 2:33 | 2025-11-28 |  |
 | [No Matter Where](https://open.spotify.com/track/3K6saLzBc7PtVB7ouNdcFG) | [Michael FAY](https://open.spotify.com/artist/0VGxVDRb7Ut8eN2xL7kVXi), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [No Matter Where](https://open.spotify.com/album/061bTRL8FrYvjwLOAidBht) | 2:52 | 2023-08-04 | 2024-03-06 |
 | [No Matter Where](https://open.spotify.com/track/4xhpJoHBX3MN7SKkfGjCZU) | [Michael FAY](https://open.spotify.com/artist/0VGxVDRb7Ut8eN2xL7kVXi), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [No Matter Where](https://open.spotify.com/album/1buhmZffcDbvHUa47jjRnH) | 2:52 | 2022-09-02 | 2023-07-21 |
 | [No Real Love](https://open.spotify.com/track/07B412zMWZRzwQO1M0ITKB) | [Exed](https://open.spotify.com/artist/3Wqw8JE2LIMDn9xaRL3tOI), [Dom Fricot](https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr) | [No Real Love](https://open.spotify.com/album/6J8MhEsBZ7CH5mO423HANi) | 3:07 | 2022-07-22 | 2022-09-03 |

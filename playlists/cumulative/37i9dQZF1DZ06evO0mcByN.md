@@ -4,7 +4,7 @@
 
 > This is Kemilly Santos\. The essential tracks, all in one playlist.
 
-72 songs - 6 hr 10 min
+73 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Cicatrizes \- Acústico](https://open.spotify.com/track/1BwVIZfhJtLZpDVqhIjBLi) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Cicatrizes \(Acústico\)](https://open.spotify.com/album/0WC4N0Z7RthAHJMmG3xoPX) | 4:36 | 2025-05-07 | 2025-06-11 |
 | [Cicatrizes \- Ao Vivo](https://open.spotify.com/track/00jxnrQwmeaahhChOmnJSE) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Cicatrizes \(Ao Vivo\)](https://open.spotify.com/album/3C2AY24yZRGD5MWnx8vmC5) | 7:04 | 2025-03-30 | 2025-05-07 |
 | [Cicatrizes \- Ao Vivo](https://open.spotify.com/track/6v9d7DgP3HoWwCaR8EJ5t0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Deus de Obras Completas \(Ao Vivo\)](https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F) | 7:04 | 2025-06-11 |  |
-| [Contando os Dias \- Ao Vivo](https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Contando os Dias \(Ao Vivo\)](https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X) | 6:43 | 2025-02-28 |  |
+| [Contando os Dias \- Ao Vivo](https://open.spotify.com/track/35rAJvsdm0D3HOxNdXnvIz) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Deus de Obras Completas \(Ao Vivo\)](https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F) | 6:43 | 2025-12-06 |  |
+| [Contando os Dias \- Ao Vivo](https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Contando os Dias \(Ao Vivo\)](https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X) | 6:43 | 2025-02-28 | 2025-12-06 |
 | [Cuidando \(Ao Vivo\)](https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:39 | 2023-07-09 |  |
 | [Deus de Obras Completas \- Ao Vivo](https://open.spotify.com/track/2w0ClmhcjbXhTUHwZRWDJ8) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Deus de Obras Completas \(Ao Vivo\)](https://open.spotify.com/album/3SltbYOonsngqJJyc66Qb5) | 6:24 | 2024-10-17 |  |
 | [Deus do Amanhã \- Ao Vivo](https://open.spotify.com/track/0E06zzkbqnnnzPRtysj4yT) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Pablo Gabriel](https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG) | [Deus do Amanhã \(Ao Vivo\)](https://open.spotify.com/album/2gt5VGdLBlCQ26LpV7on4F) | 5:49 | 2024-12-13 | 2025-08-01 |

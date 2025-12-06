@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Foy Vance
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,753 likes - 135 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,749 likes - 135 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-01",
-  "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Estevie",
+  "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Angela Leiva",
   "name": "Super Cumbias",
   "tracks": [
     {
@@ -140,6 +140,28 @@
       "duration_ms": 188986,
       "name": "55",
       "url": "https://open.spotify.com/track/2fkTJEDxZm7TrSqcBfPlKm"
+    },
+    {
+      "album": {
+        "name": "Amor x Dosis",
+        "url": "https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny"
+      },
+      "artists": [
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198598,
+      "name": "A Dios Le Ped\u00eda",
+      "url": "https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3"
     },
     {
       "album": {
@@ -384,6 +406,24 @@
       "duration_ms": 197276,
       "name": "Al\u00e9jate de M\u00ed",
       "url": "https://open.spotify.com/track/319ub9Pw8bNSVjY1kPsPom"
+    },
+    {
+      "album": {
+        "name": "Amiga Traidora (Cumbia TexMex)",
+        "url": "https://open.spotify.com/album/2y4Ew4yL1fhfDyNK38XmD1"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249540,
+      "name": "Amiga Traidora - Cumbia TexMex",
+      "url": "https://open.spotify.com/track/7aP0egv8A32jZLoO0OU56O"
     },
     {
       "album": {
@@ -1140,7 +1180,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 180491,
       "name": "Chimenea - En Vivo",
       "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
@@ -4851,6 +4891,28 @@
     },
     {
       "album": {
+        "name": "Me Perd\u00ed",
+        "url": "https://open.spotify.com/album/42XkPQ4Fl2wb4Lic8aqk9e"
+      },
+      "artists": [
+        {
+          "name": "Sintapia",
+          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
+        },
+        {
+          "name": "Fiamma",
+          "url": "https://open.spotify.com/artist/4wOu4vVTBMgHkts7CQJhZb"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168334,
+      "name": "Me Perd\u00ed",
+      "url": "https://open.spotify.com/track/2s1OcICSKJbtoOvXq6yeMB"
+    },
+    {
+      "album": {
         "name": "Me Prometi (Cumbia Version)",
         "url": "https://open.spotify.com/album/55j6dKcv00zwJG9C2MHHYf"
       },
@@ -5160,7 +5222,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 193605,
       "name": "Mirame (feat. Blessd) - Remix",
       "url": "https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO"
@@ -6620,7 +6682,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 168376,
       "name": "Querido Rey",
       "url": "https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS"

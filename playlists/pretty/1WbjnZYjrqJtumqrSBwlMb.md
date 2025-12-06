@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,177 songs - 3 day 0 hr 25 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,178 songs - 3 day 0 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1185,5 +1185,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1175 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
 | 1176 | [If It Only Gets Better](https://open.spotify.com/track/2Q5L6Ix8jIzF7G4u7XZVxp) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [If It Only Gets Better](https://open.spotify.com/album/6J6XOZ3BmeKnT99JuIDaFE) | 1:08 |
 | 1177 | [TOUCH THE SKY](https://open.spotify.com/track/3bfeZIvUQEmtpGs6VQKgUy) | [retroclinic](https://open.spotify.com/artist/3U5yxvcDQ3AhEM0YDBWsOU) | [Horizon Scraper](https://open.spotify.com/album/3CGRmoOQTDPWNWkt5Q7DCI) | 2:29 |
+| 1178 | [MONDAY \- A COLORS SHOW](https://open.spotify.com/track/2HUYmOmEMZC59UhCKokzAp) | [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [MONDAY \- A COLORS SHOW](https://open.spotify.com/album/2tcooZLhliuKYR5da5BAgT) | 4:06 |
 
-Snapshot ID: `AAAJf8KDOTU1805FRrvH23W6DUQ0pXGE`
+Snapshot ID: `AAAJgJ1w0AovWDkNbuDGQwjbtjtKuP4P`

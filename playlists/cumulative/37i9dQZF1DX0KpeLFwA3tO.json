@@ -11913,8 +11913,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "WORRIED SICK",
+        "url": "https://open.spotify.com/album/1BGcuCjKVYSPApq1wVlkYv"
       },
       "artists": [
         {
@@ -16226,6 +16226,24 @@
       "duration_ms": 180472,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e"
+    },
+    {
+      "album": {
+        "name": "MICAH MARTIN",
+        "url": "https://open.spotify.com/album/0twWt7HV5RU2n12QgGGcBj"
+      },
+      "artists": [
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120363,
+      "name": "Feel The Love",
+      "url": "https://open.spotify.com/track/69XI0N3Fh6XhxT7wrw8UR6"
     },
     {
       "album": {
@@ -48906,24 +48924,6 @@
       "duration_ms": 202285,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/3kMn8LV1QPBfZXZ0TTS0Pn"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "date_added": "2025-12-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/69XI0N3Fh6XhxT7wrw8UR6"
     },
     {
       "album": {

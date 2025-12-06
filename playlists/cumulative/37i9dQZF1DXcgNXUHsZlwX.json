@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 167740,
       "name": "Champagne rubis",
       "url": "https://open.spotify.com/track/4lTNJ3Zd7ehGiJahvam4Wj"
@@ -3562,6 +3562,24 @@
       "duration_ms": 206386,
       "name": "J'trouve \u00e7a beau",
       "url": "https://open.spotify.com/track/33gIRI0EOFISryPJtSVCqJ"
+    },
+    {
+      "album": {
+        "name": "Jacques",
+        "url": "https://open.spotify.com/album/5b5RqSv24AjrlpuN2fank9"
+      },
+      "artists": [
+        {
+          "name": "Louis-Charles",
+          "url": "https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207795,
+      "name": "Jacques",
+      "url": "https://open.spotify.com/track/2i5z6ihicdsAVVfa9ieGj8"
     },
     {
       "album": {
@@ -6264,7 +6282,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 273933,
       "name": "M\u00e8res",
       "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
@@ -6326,7 +6344,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 251186,
       "name": "M\u00eame les loups versent des larmes de joie",
       "url": "https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi"
@@ -9607,6 +9625,24 @@
     },
     {
       "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/0YxzumaPK6A7xM5mE5s9KA"
+      },
+      "artists": [
+        {
+          "name": "Laroie",
+          "url": "https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279417,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/686REeaDyJsoTNl6eFDFiK"
+    },
+    {
+      "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
       },
@@ -9760,6 +9796,24 @@
       "duration_ms": 223689,
       "name": "Ya s\u00e9 ya s\u00e9",
       "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+    },
+    {
+      "album": {
+        "name": "You Can Dance",
+        "url": "https://open.spotify.com/album/6aYaK2B0XlQmOPoTbIikYG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Flood",
+          "url": "https://open.spotify.com/artist/3F7GIoG742wl7pyfVz6BSx"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247019,
+      "name": "You Can Dance",
+      "url": "https://open.spotify.com/track/7qJEpe7TlhgdRSnj0uSbNZ"
     },
     {
       "album": {

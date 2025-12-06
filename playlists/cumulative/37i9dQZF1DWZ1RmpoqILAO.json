@@ -1289,6 +1289,28 @@
     },
     {
       "album": {
+        "name": "Cup of Loneliness / Choices",
+        "url": "https://open.spotify.com/album/7LgCssVLpa87Fg2PGBQxcC"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        },
+        {
+          "name": "Fust",
+          "url": "https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153573,
+      "name": "Cup of Loneliness",
+      "url": "https://open.spotify.com/track/3F81ZndWmQF7GDTX7Wz5gs"
+    },
+    {
+      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
       },

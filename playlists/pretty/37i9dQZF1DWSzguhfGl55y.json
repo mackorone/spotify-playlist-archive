@@ -1,6 +1,6 @@
 {
   "description": "In Gedenken an XATAR \ud83e\udd0d",
-  "num_followers": 658292,
+  "num_followers": 658325,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-11-05 16:45:19",
       "album": {
+        "name": "Urlaub f\u00fcrs Gehirn",
+        "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "Urlaub f\u00fcrs Gehirn",
+      "url": "https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz"
+    },
+    {
+      "added_at": "2025-11-05 16:45:19",
+      "album": {
         "name": "ALLES ODER NIX",
         "url": "https://open.spotify.com/album/5bhD7Kl3zfhdbnJiVVUXgx"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 220786,
       "name": "Ich will alles",
       "url": "https://open.spotify.com/track/3GsD3Dzap9dZrGGU9I3h0S"
-    },
-    {
-      "added_at": "2025-11-05 16:45:19",
-      "album": {
-        "name": "Urlaub f\u00fcrs Gehirn",
-        "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
-      },
-      "artists": [
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "Urlaub f\u00fcrs Gehirn",
-      "url": "https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz"
     },
     {
       "added_at": "2025-11-05 16:45:19",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-11-05 16:45:19",
       "album": {
-        "name": "4:99 - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
-      },
-      "artists": [
-        {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Mit freundlichen Gr\u00fc\u00dfen",
-      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
-    },
-    {
-      "added_at": "2025-11-05 16:45:19",
-      "album": {
         "name": "Ganz Oben (Mixtape)",
         "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 225693,
       "name": "Ein Affe und ein Pferd",
       "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
+    },
+    {
+      "added_at": "2025-11-05 16:45:19",
+      "album": {
+        "name": "4:99 - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
+      },
+      "artists": [
+        {
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Mit freundlichen Gr\u00fc\u00dfen",
+      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
     },
     {
       "added_at": "2025-11-05 16:45:19",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-11-05 16:45:19",
       "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
-      },
-      "artists": [
-        {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Cruisen",
-      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
-    },
-    {
-      "added_at": "2025-11-05 16:45:19",
-      "album": {
         "name": "Hahnenkampf",
         "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 301173,
       "name": "Walpurgisnacht",
       "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
+    },
+    {
+      "added_at": "2025-11-05 16:45:19",
+      "album": {
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+      },
+      "artists": [
+        {
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Cruisen",
+      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
     },
     {
       "added_at": "2025-11-05 16:45:19",
@@ -735,18 +735,18 @@
     {
       "added_at": "2025-11-05 16:45:19",
       "album": {
-        "name": "BLYAT",
-        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
       },
       "artists": [
         {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Nur noch Gucci",
-      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
+      "duration_ms": 231800,
+      "name": "Traumreise",
+      "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
     },
     {
       "added_at": "2025-11-05 16:45:19",
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-11-05 16:45:19",
       "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+        "name": "BLYAT",
+        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
       "artists": [
         {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Traumreise",
-      "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
+      "duration_ms": 212506,
+      "name": "Nur noch Gucci",
+      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
     },
     {
       "added_at": "2025-11-05 16:45:19",

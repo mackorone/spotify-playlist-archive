@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, Nemrud, Jon Drake and more",
+  "description": "With AlligatorX, Nemrud, Space V\u00f6lv\u00f6 and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 315221,
       "name": "Alnilam",
       "url": "https://open.spotify.com/track/0gRpx1wqzHalsr5VG4HTYs"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Art\u0131k",
       "url": "https://open.spotify.com/track/461MvyYbmNiLKMjl9dLGbG"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 251545,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/4itpcUUnmcsN7PeLohBxoV"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 284005,
       "name": "Don't Wanna Die Before I Die",
       "url": "https://open.spotify.com/track/4P0RAmlolTJXWqAc1p6ZZg"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 211175,
       "name": "Drainings of your tree",
       "url": "https://open.spotify.com/track/38atIIMI9ITuObpaQt2JFG"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 213857,
       "name": "El Reloj",
       "url": "https://open.spotify.com/track/4yjhhzgpHcV613FL9YXh6Q"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 246224,
       "name": "Every Human",
       "url": "https://open.spotify.com/track/5fFtfCy2CDrMTpcOgXgVfd"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 246112,
       "name": "Fra Aska",
       "url": "https://open.spotify.com/track/2pXhs4tYZVq6WWrxuo263c"
@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Holy Holy Holy",
+        "url": "https://open.spotify.com/album/5jVdwYhpS6tSW0DpvlLSUr"
+      },
+      "artists": [
+        {
+          "name": "Bloody Hare Studio",
+          "url": "https://open.spotify.com/artist/3Hm9AH9sEnIjQmgkcSS1Or"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "Holy Holy Holy",
+      "url": "https://open.spotify.com/track/0YwrpLAUuF5T4T3n3miz5q"
+    },
+    {
+      "album": {
         "name": "Election Day",
         "url": "https://open.spotify.com/album/4MViW7GrNe3i5OBmg2ikiM"
       },
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 241984,
       "name": "Jugando a las Cartas",
       "url": "https://open.spotify.com/track/5lMSnkZLQXGU0wyhaQldsk"
@@ -1174,10 +1192,28 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 228902,
       "name": "Kozmik Tide",
       "url": "https://open.spotify.com/track/2zAR8CHIPp822PtrU00SOd"
+    },
+    {
+      "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/4eDir6AouNe26EuEBkSjHD"
+      },
+      "artists": [
+        {
+          "name": "Duplexity",
+          "url": "https://open.spotify.com/artist/4zxVsibUzH9u7692KthQqK"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238250,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/1CmkTzCvVhq3uZJULBJqHO"
     },
     {
       "album": {
@@ -1232,7 +1268,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 193000,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/2nWIIAhtejQ3dr5mR7WHWg"
@@ -1250,7 +1286,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 277896,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/2YwNJhQDI2xwexPaffRnBf"
@@ -1272,7 +1308,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 256584,
       "name": "Light years",
       "url": "https://open.spotify.com/track/3KrIyUCo9j6sdeYOYcXbTY"
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -1384,7 +1420,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -1532,7 +1568,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 291478,
       "name": "My Mortal Coil",
       "url": "https://open.spotify.com/track/2hmXzT7IFp1nGbbhJqfv7x"
@@ -1770,7 +1806,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 184178,
       "name": "Ophiuchus",
       "url": "https://open.spotify.com/track/6FQJTurskxan5MkpoGrpYy"
@@ -1864,6 +1900,24 @@
       "duration_ms": 261826,
       "name": "Rolniak\u00f3wka",
       "url": "https://open.spotify.com/track/7zO3WNjjxIknj2aVyXXl82"
+    },
+    {
+      "album": {
+        "name": "The Downward Spiral (Redux)",
+        "url": "https://open.spotify.com/album/3j3YKE7RWBiZlDnTQyrwt5"
+      },
+      "artists": [
+        {
+          "name": "High Tone Son of a Bitch",
+          "url": "https://open.spotify.com/artist/4ZrlIuy0mkwqj8OHbcyJpw"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "Ruiner",
+      "url": "https://open.spotify.com/track/339qa3CARdSVQfcBaYhFEx"
     },
     {
       "album": {
@@ -2094,7 +2148,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 159380,
       "name": "Stargazer\u2019s Waltz",
       "url": "https://open.spotify.com/track/6G5mfPRbrtShOt7tO73XhB"
@@ -2170,7 +2224,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -2224,7 +2278,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 246607,
       "name": "Symbol of Absence",
       "url": "https://open.spotify.com/track/3aGQqnQXTlEASZuDh4d6C3"
@@ -2268,6 +2322,24 @@
       "duration_ms": 236207,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/7FlBmx5pQD1AzKi1rILX5w"
+    },
+    {
+      "album": {
+        "name": "Everything Is Not Going To Be Alright",
+        "url": "https://open.spotify.com/album/3qFc9at2wKatjdvjphTcjW"
+      },
+      "artists": [
+        {
+          "name": "Buzzard",
+          "url": "https://open.spotify.com/artist/4lPV2Ks4kacVTCX9EEJ62u"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215725,
+      "name": "Terms and Conditions Apply",
+      "url": "https://open.spotify.com/track/0sRxAObesclcIixu23x3Sy"
     },
     {
       "album": {
@@ -2372,7 +2444,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 288887,
       "name": "The Universe",
       "url": "https://open.spotify.com/track/5lvRwpvgnp3rF8syYhcSWP"
@@ -2560,7 +2632,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 346800,
       "name": "Universo",
       "url": "https://open.spotify.com/track/2XAGc1WMtq9YcLMraAmpx6"
@@ -2740,7 +2812,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 285434,
       "name": "Woven in Space and Time",
       "url": "https://open.spotify.com/track/3ICidjrpJW8SRkdzcV9ShO"
@@ -2758,7 +2830,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 332160,
       "name": "XIII",
       "url": "https://open.spotify.com/track/3ugdsdKcNyV0DNmTiPIJcW"

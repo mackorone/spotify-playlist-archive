@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "To My Father",
+        "url": "https://open.spotify.com/album/1iLYA1Er67QwAYFjs5SPkL"
+      },
+      "artists": [
+        {
+          "name": "Omar Bashir",
+          "url": "https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH"
+        }
+      ],
+      "date_added": "2025-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 723346,
+      "name": "Improvisation / Oum El Rouba",
+      "url": "https://open.spotify.com/track/1vvSYFSKMRUQTv9jaM6IyO"
+    },
+    {
+      "album": {
         "name": "Abu Nawas Rhapsody",
         "url": "https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl"
       },
@@ -678,7 +696,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 335100,
       "name": "Lamentations bipolaires",
       "url": "https://open.spotify.com/track/3j0obpF6E4yxU6fUXoQ0xu"

@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Kobie Dee
 
-1,414 songs - 2 day 17 hr 46 min
+1,414 songs - 2 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Ecstasy](https://open.spotify.com/track/7MeaeQ0ANQ8k85bsM5U4sL) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Ecstasy](https://open.spotify.com/album/45ToxCOLDheXXRvU5q31ke) | 3:11 | 2025-01-09 | 2025-05-02 |
 | [Elastic](https://open.spotify.com/track/1Tbiz2lbrKwmyXtflB6ViI) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [Elastic](https://open.spotify.com/album/6ppL4ODBvHSUm2k6cawKEw) | 2:28 | 2024-10-24 | 2024-12-20 |
 | [EMOTIONAL](https://open.spotify.com/track/3ZmN7HOgA5WdKTUW3eiDx3) | [King Roman](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [EMOTIONAL](https://open.spotify.com/album/3GKSHswwidBmM5vEoXat8I) | 3:12 | 2024-09-26 | 2024-11-08 |
+| [En Route](https://open.spotify.com/track/7sdpz5UIjPbxSyyXjV2DBR) | [Brazen Barbie](https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW) | [TOO BRAZEN](https://open.spotify.com/album/6A2At8Wh91FJuYKCBEkYHq) | 2:26 | 2025-12-04 |  |
 | [EN VIVO](https://open.spotify.com/track/3AlUIOQCz0L3ziLaqnC7UN) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [EN VIVO](https://open.spotify.com/album/2r9WWv5OcoVMdgJDYBPBQh) | 2:05 | 2022-12-08 | 2023-04-21 |
 | [ENERGY](https://open.spotify.com/track/49QvZtwqMCAJKKFbLwcMWH) | [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4), [Sol ChYld](https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz) | [ENERGY](https://open.spotify.com/album/6dl3pXZPETi952WXMmYNLB) | 1:31 | 2024-04-07 | 2024-06-14 |
 | [ENERGY II](https://open.spotify.com/track/0AfVqoSqgrwP1w6GjcxOFN) | [Gino October](https://open.spotify.com/artist/4mN7hfy6TrESlZz7DMNzQI) | [ENERGY II](https://open.spotify.com/album/2Q5ie4a94M6BwiRCglDnOd) | 3:03 | 2023-06-22 | 2023-07-14 |
@@ -890,6 +891,7 @@
 | [On Me](https://open.spotify.com/track/0UEFangrAqa2TpQI6VIK3I) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [On Me](https://open.spotify.com/album/1nfbrWZAkBG4VuKztrBcSg) | 2:45 | 2023-05-25 | 2023-10-27 |
 | [ON ME](https://open.spotify.com/track/1Oc2BByelG8e5ih7xr6K12) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [ON ME](https://open.spotify.com/album/1ZnsrQ2P0FhTRsVKLKBODI) | 2:38 | 2023-05-25 | 2023-09-15 |
 | [ON MY BACK](https://open.spotify.com/track/3NdEadbqRaZtfmMxRgAvJx) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [ON MY BACK](https://open.spotify.com/album/4MYsrNvPiMSjYCIiVms8qA) | 2:05 | 2022-05-26 | 2022-10-21 |
+| [On My Grind](https://open.spotify.com/track/6krHfcYbtZyka2LEZAmSjC) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Trench Kid](https://open.spotify.com/album/7F0hVXvzzxT7NY1brLbF9M) | 3:19 | 2025-12-04 |  |
 | [On Sight](https://open.spotify.com/track/4c5E62kOUx9UWmbcLRFeAu) | [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2), [Taylr](https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X) | [On Sight](https://open.spotify.com/album/1Qy6lDCDO6HRSDLJdsldvM) | 2:43 | 2025-07-31 | 2025-11-21 |
 | [On Tap](https://open.spotify.com/track/1dOUqkSX7JEpGsLYERZUKx) | [Miko Mal](https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7) | [On Tap](https://open.spotify.com/album/0GopUCyZSdEUxyA0fEjBjP) | 2:04 | 2024-08-30 | 2024-11-22 |
 | [One and Only](https://open.spotify.com/track/3eYFd2mVhRTPlPxD8GTqwH) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [One and Only](https://open.spotify.com/album/5QB7KUTJJwy6k4pAmsdRWl) | 2:05 | 2024-07-25 | 2024-11-29 |
@@ -1192,6 +1194,7 @@
 | [TALK TO ME](https://open.spotify.com/track/1waH1ufGsFl5k1OlnTig5z) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [TALK TO ME](https://open.spotify.com/album/2dYj0okscIb1JTktBa4Zrj) | 2:33 | 2024-11-21 | 2025-03-21 |
 | [TALKIN DIS DAT](https://open.spotify.com/track/1NtVBfmd9lCTXOpaW3t9pD) | [POOKIE](https://open.spotify.com/artist/2PZEcVX4rArVPpzqYslowq) | [TALKIN DIS DAT](https://open.spotify.com/album/04DN2Sn2XDRZc6IZhL4xks) | 2:23 | 2023-08-31 | 2023-11-24 |
 | [TANGA](https://open.spotify.com/track/4nRtVXgY76Ge63RcRFGSwB) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [TANGA](https://open.spotify.com/album/5gBfdrJyldhw4qgWKAvar0) | 2:13 | 2022-11-03 | 2022-12-02 |
+| [TARA NA](https://open.spotify.com/track/1cx2ij3rr52WiEC5ZwIIYx) | [BVT](https://open.spotify.com/artist/686bTsDGJ3bTbLZMUxouUi), [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [PA777IENCE](https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t) | [BUWAYA](https://open.spotify.com/album/05ysQxgB3R26Zya0Sq5hV2) | 2:59 | 2025-12-04 |  |
 | [Tarmeka](https://open.spotify.com/track/1nm1AuDcgsW8EDacZyr9ad) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Tarmeka](https://open.spotify.com/album/0yMhl5bMr1i2rOSKbhu6DA) | 4:29 | 2024-06-27 | 2024-08-23 |
 | [TASTY](https://open.spotify.com/track/56W1tGtrbPxrxkoQm5bgSn) | [LooneyCK](https://open.spotify.com/artist/18SXzTTuGk379MsnkTN2ks) | [TASTY](https://open.spotify.com/album/64MxAOI7qaouQesiVi0sur) | 2:00 | 2023-07-18 | 2023-09-15 |
 | [Telem How](https://open.spotify.com/track/1LvdK1HBtxQ4R5AgNYXL76) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Telem How](https://open.spotify.com/album/3gN54fWfU9nMAvgTWzR3yW) | 2:57 | 2022-11-10 | 2023-03-10 |
@@ -1260,9 +1263,6 @@
 | [Tough Love](https://open.spotify.com/track/7JmctumoH7K1lDaKlx5I6q) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [Tough Love / No Other](https://open.spotify.com/album/1WYpq3GHsaOCsHpC7ezJca) | 2:18 | 2025-10-23 | 2025-11-28 |
 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 | 2022-03-21 | 2022-07-05 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-08-16 |
-| [Track 1](https://open.spotify.com/track/6krHfcYbtZyka2LEZAmSjC) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
-| [Track 11](https://open.spotify.com/track/1cx2ij3rr52WiEC5ZwIIYx) | [BVT](https://open.spotify.com/artist/686bTsDGJ3bTbLZMUxouUi) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
-| [Track 2](https://open.spotify.com/track/7sdpz5UIjPbxSyyXjV2DBR) | [Brazen Barbie](https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/2LUxHvlSFN6iozCYnzJ5Us) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA) | 2:42 | 2022-12-04 | 2023-01-20 |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-11 | 2022-12-05 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-02 | 2023-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 27989,
+  "num_followers": 27996,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAABklrIzOOteqL21+jdQ0e7F",
+  "snapshot_id": "aTDPAAAAAABUMUwL1JrEcwIg4NQZDkiy",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Tu Amigo Ni Tu Amante",
-        "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 166773,
-      "name": "Se Burlaron Mis Amigos",
-      "url": "https://open.spotify.com/track/4U3s9W6mUbWHSZqYrXdEUv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palabras Tristes",
         "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 169920,
       "name": "Palabras Tristes",
       "url": "https://open.spotify.com/track/0mrX7N28wFzFpkkeCGLCix"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Tu Amigo Ni Tu Amante",
+        "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 166773,
+      "name": "Se Burlaron Mis Amigos",
+      "url": "https://open.spotify.com/track/4U3s9W6mUbWHSZqYrXdEUv"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Tu Amigo Ni Tu Amante",
-        "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 153240,
-      "name": "Mi Sacrificio",
-      "url": "https://open.spotify.com/track/2uUK1y1A53rggDtfqZ1AQ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apartamento Tres",
         "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 192773,
       "name": "Tres Veces Te Enga\u00f1\u00e9",
       "url": "https://open.spotify.com/track/4VPiiwdjs8gWAQLVjn0NoZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Tu Amigo Ni Tu Amante",
+        "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 153240,
+      "name": "Mi Sacrificio",
+      "url": "https://open.spotify.com/track/2uUK1y1A53rggDtfqZ1AQ0"
     },
     {
       "added_at": null,
@@ -555,18 +555,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Los Dos",
-        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+        "name": "Ni Amores Ni Deudas",
+        "url": "https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY"
       },
       "artists": [
         {
           "name": "Los Traileros Del Norte",
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        },
+        {
+          "name": "Ces\u00e1reo S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6swcGvbGZVTU3bXVWlOGif"
+        },
+        {
+          "name": "Salomon Robles",
+          "url": "https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu"
         }
       ],
-      "duration_ms": 185760,
-      "name": "Corazon Viejo",
-      "url": "https://open.spotify.com/track/4Fhyw5yQh0AFOLz8JTGZvy"
+      "duration_ms": 184000,
+      "name": "Tres Por Una",
+      "url": "https://open.spotify.com/track/7961JijxsrpZXUzWkquseT"
     },
     {
       "added_at": null,
@@ -603,26 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Amores Ni Deudas",
-        "url": "https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY"
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
       },
       "artists": [
         {
           "name": "Los Traileros Del Norte",
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        },
-        {
-          "name": "Ces\u00e1reo S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6swcGvbGZVTU3bXVWlOGif"
-        },
-        {
-          "name": "Salomon Robles",
-          "url": "https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Tres Por Una",
-      "url": "https://open.spotify.com/track/7961JijxsrpZXUzWkquseT"
+      "duration_ms": 185760,
+      "name": "Corazon Viejo",
+      "url": "https://open.spotify.com/track/4Fhyw5yQh0AFOLz8JTGZvy"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Los Dos",
-        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "El Amor De Los Dos",
-      "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atr\u00e1s Del Escenario",
         "url": "https://open.spotify.com/album/68uz1T0TeyArcH2MMVy6Kl"
       },
@@ -671,22 +655,6 @@
       "duration_ms": 159200,
       "name": "Dale Un Cuartazo Al Macho",
       "url": "https://open.spotify.com/track/5CaVmNwvbF9ryrr8RNWr7u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 171906,
-      "name": "La Francis",
-      "url": "https://open.spotify.com/track/4eFGhgj9hRAhkBRMkrPWlt"
     },
     {
       "added_at": null,
@@ -716,9 +684,25 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 166373,
-      "name": "Una Noche No",
-      "url": "https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu"
+      "duration_ms": 164866,
+      "name": "El Amor De Los Dos",
+      "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 171906,
+      "name": "La Francis",
+      "url": "https://open.spotify.com/track/4eFGhgj9hRAhkBRMkrPWlt"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 166373,
+      "name": "Una Noche No",
+      "url": "https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las M\u00e1s Pedidas, Vol. 2",
         "url": "https://open.spotify.com/album/4FYk7meQNVhlLc9XyU44xP"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 167312,
       "name": "El Medallon",
       "url": "https://open.spotify.com/track/2Zn1kNDGRoW8lvPLw8ACr4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor De Los Dos",
-        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Voy A Tratar De Olvidarte",
-      "url": "https://open.spotify.com/track/47nUD9V3Hlbt3HEAO5rcdQ"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 204000,
       "name": "Ramiro de Leon",
       "url": "https://open.spotify.com/track/6kHMzGQHRoZSqnZJzDVCJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Voy A Tratar De Olvidarte",
+      "url": "https://open.spotify.com/track/47nUD9V3Hlbt3HEAO5rcdQ"
     }
   ],
   "unique_name": "This Is Los Traileros Del Norte",

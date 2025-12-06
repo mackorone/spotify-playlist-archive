@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33854,
+  "num_followers": 33855,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-12-04 23:00:19",
       "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2025-12-04 23:00:19",
+      "album": {
         "name": "New Country (feat. Blake Shelton)",
         "url": "https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 198760,
       "name": "New Country (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr"
-    },
-    {
-      "added_at": "2025-12-04 23:00:19",
-      "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2025-12-04 23:00:19",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-12-04 23:00:19",
       "album": {
-        "name": "All Behind",
-        "url": "https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ"
+        "name": "One Deep River",
+        "url": "https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv"
       },
       "artists": [
         {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 245567,
-      "name": "All Behind",
-      "url": "https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E"
+      "duration_ms": 257346,
+      "name": "One Deep River",
+      "url": "https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ"
     },
     {
       "added_at": "2025-12-04 23:00:19",
@@ -819,34 +819,38 @@
     {
       "added_at": "2025-12-04 23:00:19",
       "album": {
-        "name": "One Deep River",
-        "url": "https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv"
+        "name": "All Behind",
+        "url": "https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ"
       },
       "artists": [
         {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
         }
       ],
-      "duration_ms": 257346,
-      "name": "One Deep River",
-      "url": "https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ"
+      "duration_ms": 245567,
+      "name": "All Behind",
+      "url": "https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E"
     },
     {
       "added_at": "2025-12-04 23:00:19",
       "album": {
-        "name": "Elderberry Wine",
-        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
+        "name": "Sugar in the Tank",
+        "url": "https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Elderberry Wine",
-      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
+      "duration_ms": 222654,
+      "name": "Sugar in the Tank",
+      "url": "https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj"
     }
   ],
   "unique_name": "Country & Americana",

@@ -4,7 +4,7 @@
 
 > Las más pegadas\. Cover: Alleh & Yorghaki
 
-354 songs - 22 hr 33 min
+355 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Búscame](https://open.spotify.com/track/1FL6Q7hHgcdeTqGWvvVZYE) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Búscame](https://open.spotify.com/album/0xzD4fqCgoO8PJ7mvVtJ7K) | 4:17 | 2021-12-03 | 2022-02-15 |
 | [Cachondea](https://open.spotify.com/track/0z1jqSzPEiblIxozrI9Tto) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Power Salsa](https://open.spotify.com/album/6sZTpQ7hYETezmf3qq3p3N) | 4:57 | 2021-12-03 | 2022-02-15 |
 | [Cada Dia Que Pasa](https://open.spotify.com/track/4P0EVqfv3bAlghLra4ueOv) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 4:57 | 2021-12-03 | 2022-02-15 |
-| [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 | 2024-08-23 |  |
+| [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 | 2024-08-23 | 2025-12-06 |
 | [Calmarme](https://open.spotify.com/track/1QSxg9SECUk143XcnMKKgc) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Calmarme](https://open.spotify.com/album/2QTppWNOvzOmf21bmIQ0Tw) | 2:37 | 2022-02-14 | 2022-02-16 |
 | [Canalla](https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:45 | 2021-12-03 | 2024-05-22 |
 | [Canción Bonita](https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Canción Bonita](https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U) | 2:49 | 2022-02-14 | 2024-05-22 |
@@ -89,6 +89,7 @@
 | [Cántalo](https://open.spotify.com/track/7MkFd0UDHlILDrhBjGZH5K) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cántalo](https://open.spotify.com/album/25a4WLnsIpQFbJ8d3SiF9y) | 3:38 | 2021-12-03 | 2022-02-15 |
 | [Cómo Olvidar \- Versión 2021](https://open.spotify.com/track/54Gc7ov5yGRn4iaGOph0jJ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Cómo Olvidar \(Versión 2021\)](https://open.spotify.com/album/6hSEwNZfaqGZ6Id9PrOMhO) | 3:46 | 2022-02-14 | 2024-05-22 |
 | [Dame Un Chance](https://open.spotify.com/track/5yKdTAu1o5pBhzp5Sv687O) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Dame Un Chance](https://open.spotify.com/album/32w1JZSompjV1g9Tm5gRYW) | 3:12 | 2021-12-03 | 2022-02-15 |
+| [Dardos](https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:03 | 2025-12-05 |  |
 | [Darte un Beso](https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:26 | 2024-05-21 |  |
 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 | 2023-01-13 | 2024-10-26 |
 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 | 2024-08-23 |  |

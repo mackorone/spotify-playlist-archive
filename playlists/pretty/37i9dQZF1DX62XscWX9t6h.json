@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 214089,
+  "num_followers": 214132,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Global Control / Invisible Invasion",
-        "url": "https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI"
-      },
-      "artists": [
-        {
-          "name": "Ammar 808",
-          "url": "https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM"
-        },
-        {
-          "name": "Susha",
-          "url": "https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Geeta duniki",
-      "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Feira De Mangaio",
         "url": "https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 156600,
       "name": "Feira De Mangaio",
       "url": "https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Global Control / Invisible Invasion",
+        "url": "https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI"
+      },
+      "artists": [
+        {
+          "name": "Ammar 808",
+          "url": "https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM"
+        },
+        {
+          "name": "Susha",
+          "url": "https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Geeta duniki",
+      "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
-      },
-      "artists": [
-        {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
-        }
-      ],
-      "duration_ms": 206430,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Gur\u00fa",
         "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 218360,
       "name": "Totomami",
       "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
+      },
+      "artists": [
+        {
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+        }
+      ],
+      "duration_ms": 206430,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
-      },
-      "artists": [
-        {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        }
-      ],
-      "duration_ms": 353965,
-      "name": "Makeda",
-      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "La Bomba",
         "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
       },
@@ -1347,22 +1331,34 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Dejate Llevar",
-        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
       },
       "artists": [
         {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
         }
       ],
-      "duration_ms": 301723,
-      "name": "Dejate Llevar",
-      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
+      "duration_ms": 353965,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Optimisme",
+        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1383,18 +1379,22 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Optimisme",
-        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
+        "name": "Dejate Llevar",
+        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
       },
       "artists": [
         {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
         }
       ],
-      "duration_ms": 185160,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
+      "duration_ms": 301723,
+      "name": "Dejate Llevar",
+      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Charango Dub",
-        "url": "https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
-        }
-      ],
-      "duration_ms": 284168,
-      "name": "Charango Dub",
-      "url": "https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Junchuch",
         "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 285241,
       "name": "Ordunun Dereleri",
       "url": "https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Charango Dub",
+        "url": "https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "duration_ms": 284168,
+      "name": "Charango Dub",
+      "url": "https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx"
     },
     {
       "added_at": "2025-09-02 19:54:46",

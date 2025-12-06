@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 97485,
+  "num_followers": 97765,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-12-04 09:14:56",
       "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/5QKSi5WVcYdS7M7T49JBF5"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/1LGpzgmVBF47TBDqOxTHRA"
+    },
+    {
+      "added_at": "2025-12-04 09:14:56",
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 256443,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
-    },
-    {
-      "added_at": "2025-12-04 09:14:56",
-      "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/5QKSi5WVcYdS7M7T49JBF5"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/1LGpzgmVBF47TBDqOxTHRA"
     },
     {
       "added_at": "2025-12-04 09:14:56",

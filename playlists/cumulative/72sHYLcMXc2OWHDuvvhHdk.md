@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-1,854 songs - 4 day 12 hr 41 min
+1,855 songs - 4 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [Happiness Is You & Me](https://open.spotify.com/track/5hj83RiRfyo9EL12BSQ0Dy) | [Paper Rainbows](https://open.spotify.com/artist/2nwA7TcMMiflanCY090NAF) | [Happiness Is You & Me](https://open.spotify.com/album/5dj3qelBa75DB3PVPmuBCm) | 2:10 | 2024-08-12 |  |
 | [Happy & Sad](https://open.spotify.com/track/1jsRBpTZPekjZ9USf6NKTF) | [Casseyt](https://open.spotify.com/artist/5xmJsQil1VMauksMXSiJwb) | [Happy & Sad](https://open.spotify.com/album/59ZKuya6yFRk06hZA5mOl6) | 3:17 | 2024-08-05 |  |
 | [HAPPY ALONE](https://open.spotify.com/track/0xX9DHbzk9OJVpxCPpDn2W) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [HAPPY ALONE](https://open.spotify.com/album/7jldSKHP9aYjKCUNskpjxz) | 3:54 | 2025-03-03 |  |
+| [Harbour](https://open.spotify.com/track/4tTWnwrzZvz093lohzK4Mc) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 2:51 | 2025-12-05 |  |
 | [Hard Rain](https://open.spotify.com/track/4wQN1bPvOdarwVfwkklCYc) | [Graveyard Choir](https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2) | [Hard Rain](https://open.spotify.com/album/3iA0owAcSxGFUUszqaCPM0) | 3:22 | 2025-10-13 |  |
 | [Hard Sense of War](https://open.spotify.com/track/2iKOEkIAAGdwcKC6ZIPr6D) | [Burton Badman](https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm) | [Hard Sense of War](https://open.spotify.com/album/6nu827ZSpICrn2fNu1BIrg) | 4:09 | 2024-07-24 |  |
 | [hard to get](https://open.spotify.com/track/1BzAFvVLhjDndpQOGFG9Sy) | [Guesswho Music](https://open.spotify.com/artist/1MRvOPip4melhNd6tWWPW1) | [hard to get](https://open.spotify.com/album/06jcVKGHygRq8LbB8BVFJg) | 2:41 | 2024-09-05 |  |

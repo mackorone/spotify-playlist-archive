@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YOUNGOHM",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Palmy",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 195189,
       "name": "1%",
       "url": "https://open.spotify.com/track/6PR5TxUGhB3SEe7lWJk4Jn"
+    },
+    {
+      "album": {
+        "name": "1% (Thai Version)",
+        "url": "https://open.spotify.com/album/2Db9K5F8BocGhxanIFEjYc"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        },
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266597,
+      "name": "1% - Thai Version",
+      "url": "https://open.spotify.com/track/2KCrZi9s5xWjmEVncXQFsW"
     },
     {
       "album": {
@@ -1555,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "Grow With The Flow",
+        "url": "https://open.spotify.com/album/3l0MMLc8ilY62qt7gh3y4I"
+      },
+      "artists": [
+        {
+          "name": "BILLKIN",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253600,
+      "name": "Grow With The Flow",
+      "url": "https://open.spotify.com/track/0Q4NvzVTC30c8R7joBS5Lj"
+    },
+    {
+      "album": {
         "name": "Hachik\u014d",
         "url": "https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR"
       },
@@ -2551,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "My Wish",
+        "url": "https://open.spotify.com/album/6sQrLLkZMUUUCDA9osad6r"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234916,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/5dEoQjGDYstRpwuGSXmfaK"
+    },
+    {
+      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
       },
@@ -2566,6 +2624,24 @@
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "album": {
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/1wYWO5DHO3FeiQT5obsg1M"
+      },
+      "artists": [
+        {
+          "name": "Palmy",
+          "url": "https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227066,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/4vRmticnTF2Vwb1ICXX7NG"
     },
     {
       "album": {
@@ -2820,7 +2896,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 143584,
       "name": "Passion Fruit",
       "url": "https://open.spotify.com/track/0gnWHXfhwbQ7hehZe76nwt"
@@ -5698,7 +5774,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 334459,
       "name": "\u0e08\u0e14\u0e08\u0e33",
       "url": "https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS"
@@ -6168,7 +6244,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 316333,
       "name": "\u0e0b\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e07",
       "url": "https://open.spotify.com/track/1lM2KWbk6nWKYq7qbMRcsb"
@@ -6726,7 +6802,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 350833,
       "name": "\u0e17\u0e34\u0e49\u0e07\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/4MEn5CNtwf4VVEfmZVcpTC"
@@ -6882,7 +6958,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 275625,
       "name": "\u0e17\u0e38\u0e01\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
       "url": "https://open.spotify.com/track/1fBIWQh21BNWLhuhXDMog1"
@@ -6904,7 +6980,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 199000,
       "name": "\u0e17\u0e38\u0e01\u0e19\u0e32\u0e17\u0e35 (THEM JEANS) (feat. SEXSKI)",
       "url": "https://open.spotify.com/track/4AzMtkdCyozL3fMoeTor6X"
@@ -6940,7 +7016,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 285843,
       "name": "\u0e17\u0e49\u0e32\u0e22\u0e1b\u0e35",
       "url": "https://open.spotify.com/track/6NnDhBn93o2CxGkwrtKVMG"
@@ -7707,6 +7783,24 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e1f\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
+        "url": "https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210612,
+      "name": "\u0e21\u0e2d\u0e07 2568",
+      "url": "https://open.spotify.com/track/4oOSJiNmrvZzhvr1OQPln2"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e2d\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e15\u0e34\u0e14 (Awkward)",
         "url": "https://open.spotify.com/album/5A9qLyfqNjHrMHyMrrGwNo"
       },
@@ -7828,7 +7922,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 260750,
       "name": "\u0e22\u0e2d\u0e21\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27 (feat. \u0e1b\u0e31\u0e4a\u0e1a Potato)",
       "url": "https://open.spotify.com/track/4WqM7sGHLOdZasaunLPzLG"
@@ -8306,6 +8400,24 @@
       "duration_ms": 177230,
       "name": "\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Close Friend)",
       "url": "https://open.spotify.com/track/3wCdrlyRJ2zuBIZRbmDVZW"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e1a\u0e08\u0e1a",
+        "url": "https://open.spotify.com/album/2VJyurdi44BExPPovCT7gq"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197327,
+      "name": "\u0e23\u0e31\u0e1a\u0e08\u0e1a",
+      "url": "https://open.spotify.com/track/0t1qPm9ZRxQve8Y6sQoSnS"
     },
     {
       "album": {
@@ -8908,6 +9020,28 @@
       "duration_ms": 225837,
       "name": "\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e1a\u0e25\u0e2d\u0e2b\u0e25\u0e31\u0e07\u0e0a\u0e31\u0e14 (Foreground)",
       "url": "https://open.spotify.com/track/1xRULAj35tkMlA4PM1KY0N"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/1hzVyYWH9voQBMYvf9PBxH"
+      },
+      "artists": [
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312592,
+      "name": "\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/4SWUrSlxJhMupgGD8zSOz1"
     },
     {
       "album": {
@@ -10358,6 +10492,28 @@
       "duration_ms": 261652,
       "name": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c (Rain wedding) [From \"\u0e27\u0e34\u0e21\u0e32\u0e19\u0e2b\u0e19\u0e32\u0e21\"]",
       "url": "https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e08\u0e32\u0e01 (missing) [feat. Anatomy Rabbit]",
+        "url": "https://open.spotify.com/album/23fqjl4BuIVzTcLEQCdU45"
+      },
+      "artists": [
+        {
+          "name": "AYLA's",
+          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
+        },
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e08\u0e32\u0e01 (missing) [feat. Anatomy Rabbit]",
+      "url": "https://open.spotify.com/track/3DWsZ2HoLoqGTp7YrCYwoh"
     },
     {
       "album": {

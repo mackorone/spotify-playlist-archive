@@ -4,7 +4,7 @@
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Whyte
 
-579 songs - 1 day 11 hr 19 min
+580 songs - 1 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [AXIS](https://open.spotify.com/track/5HHtUofAVLVozGHHsLdKPn) | [Motif Hive](https://open.spotify.com/artist/0TzZGtByDjlFroO4ZX5WnK) | [Phase](https://open.spotify.com/album/1ATYciCevArKyal1sENEtt) | 2:46 | 2025-11-06 | 2025-11-28 |
 | [Baby Boy](https://open.spotify.com/track/2P99LWeCKpbzsWX38lc97x) | [裴頡 JASMINE](https://open.spotify.com/artist/7IfIkJW46w68wyd4TofUtu), [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur) | [Baby Boy](https://open.spotify.com/album/549ynqcRbUT6dcmBYZG9HK) | 2:58 | 2025-12-04 |  |
 | [Baby Cakes](https://open.spotify.com/track/45daYf2BsGxDeWUlmX2a2Y) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:48 | 2024-09-12 | 2025-07-04 |
+| [Bad Decisions](https://open.spotify.com/track/5j2Frre1NAPZXRlPb9ZqPE) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Currently On Earth](https://open.spotify.com/album/7fxZTHkdRmh3axTjquZTiT) | 2:28 | 2025-12-05 |  |
 | [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 | 2025-09-25 |  |
 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 | 2024-01-25 | 2024-11-29 |
 | [BANDO](https://open.spotify.com/track/7kWgePJ550aDVw79A69L8a) | [A.F](https://open.spotify.com/artist/7fV3vqbqrK31dLIy3cDla9), [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw) | [B3NCH PART¥¥](https://open.spotify.com/album/2lmA4J4WhnAdeELSnFWg5V) | 3:17 | 2025-10-30 | 2025-11-28 |
@@ -246,6 +247,7 @@
 | [MY MESSAGE \(feat\. Shing02\)](https://open.spotify.com/track/0Ku3K1LUNxdjI1gvDrB9Nt) | [PUZZLEMAN](https://open.spotify.com/artist/5cqDJ1LV02tRyfWJoijkpZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [MY MESSAGE \(feat\. Shing02\)](https://open.spotify.com/album/0pzHd5dOUyYHyvgceAVXG3) | 3:22 | 2025-06-26 | 2025-10-17 |
 | [My Nova](https://open.spotify.com/track/1fFWrnl1bQo21CCLWlbSxF) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [My Nova](https://open.spotify.com/album/1hodUKU2mT3eqTaHvgdCzW) | 4:29 | 2024-11-07 | 2024-11-29 |
 | [Mystery 秘神](https://open.spotify.com/track/1FsI3AKhiYOL376oJ9adBZ) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Mystery 秘神](https://open.spotify.com/album/0iz5iVfY8aQiVDY6k3eefT) | 4:43 | 2024-02-29 | 2024-03-15 |
+| [Namaste](https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Boundary](https://open.spotify.com/album/5YWyPvOYit4QbQvQ8uYZkC) | 3:00 | 2025-12-04 |  |
 | [Name](https://open.spotify.com/track/0rHUXjS5ZBKq5ni1QNmhRj) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Seiji Kameda](https://open.spotify.com/artist/4gxF6fznAjW2jjDzjZrOka) | [World](https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1) | 3:16 | 2024-02-29 | 2024-03-15 |
 | [Natural Ability](https://open.spotify.com/track/3gJRibM7As75kcG3C2nbWJ) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 4:45 | 2024-06-13 | 2024-07-01 |
 | [NEON](https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [NEON](https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT) | 5:10 | 2024-12-05 | 2024-12-27 |
@@ -389,7 +391,6 @@
 | [Top Tier](https://open.spotify.com/track/5jmBbkBYN9Zxbr8oYQEuUE) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Top Tier](https://open.spotify.com/album/4C47vc9dpvndlfRPPAWsP0) | 2:52 | 2024-02-29 | 2024-03-15 |
 | [Toyota Spaceship](https://open.spotify.com/track/09B0Rdn6QQ879mwhxoLvD4) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [Toyota Spaceship](https://open.spotify.com/album/5VrDQZHqgwGXxOaTDvleBA) | 3:52 | 2025-02-27 | 2025-03-14 |
 | [Toyota Spaceship](https://open.spotify.com/track/2OCu6qR1jNXxcRjmDanycv) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [Toyota Spaceship](https://open.spotify.com/album/752iQMzjNevW0ZoFXPcybz) | 3:52 | 2025-09-14 | 2025-09-26 |
-| [Track 3](https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [Truffle Fries](https://open.spotify.com/track/7d2kJL5bRwgfEQU2soFUdX) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3) | [Truffle Fries](https://open.spotify.com/album/3dfdeVC6jw2RwevOfunlPk) | 3:42 | 2024-07-25 | 2024-08-23 |
 | [trust me](https://open.spotify.com/track/6riw7EvS6amwDkv7RXsQAG) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [trust me](https://open.spotify.com/album/0JmIdIzZcTUgyu0AbF5O45) | 2:48 | 2024-02-29 | 2024-03-15 |
 | [Tunes for Suly](https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Turntable in the Lift](https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk) | 7:06 | 2025-10-23 |  |

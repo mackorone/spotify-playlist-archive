@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Baarish Mein Phir",
+        "url": "https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176954,
+      "name": "Baarish Mein Phir",
+      "url": "https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw"
+    },
+    {
+      "album": {
         "name": "Baaton",
         "url": "https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4"
       },
@@ -1002,6 +1020,32 @@
       "duration_ms": 238318,
       "name": "Dastan-E-Dil (Shine Your Light)",
       "url": "https://open.spotify.com/track/1YQxlAnSeIaKb7POP2y6Vm"
+    },
+    {
+      "album": {
+        "name": "Dear Maahiya",
+        "url": "https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv"
+      },
+      "artists": [
+        {
+          "name": "Tanishka Bahl",
+          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237300,
+      "name": "Dear Maahiya",
+      "url": "https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye"
     },
     {
       "album": {
@@ -3966,7 +4010,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 192592,
       "name": "Noor",
       "url": "https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H"
@@ -5372,7 +5416,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 186051,
       "name": "Tere Saath",
       "url": "https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e"

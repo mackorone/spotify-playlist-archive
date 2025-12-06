@@ -355,6 +355,28 @@
     },
     {
       "album": {
+        "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "The Heritage Orchestra",
+          "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64598,
+      "name": "Dani's Interlude. - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/5lLTUdtHrt4xKtxIHi8eBY"
+    },
+    {
+      "album": {
         "name": "Decline",
         "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
       },
@@ -1312,7 +1334,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 71743,
       "name": "Worth It Prelude. - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/21Iu5XUOsp1Yq90ZTE51rz"

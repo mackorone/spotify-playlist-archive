@@ -1,29 +1,13 @@
 {
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0647\u0627\u0621 \u0633\u0644\u0637\u0627\u0646 ",
-  "num_followers": 419087,
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0648\u064a\u062c\u0632 \u0648\u0627\u0644\u0643\u064a\u0646\u062c ",
+  "num_followers": 419237,
   "original_name": "\u0627\u0644\u062a\u0648\u0628",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABLIV2fLhO79Ic7FSPXJsigbOnBB",
+  "snapshot_id": "AAAAAHZ0f4Kj4YAuU9h+TzDOYw7JZnf4",
   "tracks": [
-    {
-      "added_at": "2025-11-24 15:55:20",
-      "album": {
-        "name": "\u0645\u0639\u0627\u064a\u0627",
-        "url": "https://open.spotify.com/album/3usfYTZKMISwEGXbmiRdli"
-      },
-      "artists": [
-        {
-          "name": "Bahaa Sultan",
-          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
-        }
-      ],
-      "duration_ms": 192284,
-      "name": "\u0645\u0639\u0627\u064a\u0627",
-      "url": "https://open.spotify.com/track/345lSp1DYHYk3owbmodz3c"
-    },
     {
       "added_at": "2025-11-24 15:55:20",
       "album": {
@@ -43,6 +27,38 @@
       "duration_ms": 216000,
       "name": "Kalam Forsan (feat. Mohamed Mounir)",
       "url": "https://open.spotify.com/track/5Jx6LbHo5VhJSsqRvQUIDH"
+    },
+    {
+      "added_at": "2025-11-24 15:55:20",
+      "album": {
+        "name": "\u0645\u0639\u0627\u064a\u0627",
+        "url": "https://open.spotify.com/album/3usfYTZKMISwEGXbmiRdli"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "duration_ms": 192284,
+      "name": "\u0645\u0639\u0627\u064a\u0627",
+      "url": "https://open.spotify.com/track/345lSp1DYHYk3owbmodz3c"
+    },
+    {
+      "added_at": "2025-12-05 15:18:49",
+      "album": {
+        "name": "\u0645\u0627\u0644\u064a\u0634 \u063a\u064a\u0631\u0643",
+        "url": "https://open.spotify.com/album/2QYiJVjIaEF8RhAZuqdLdW"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "\u0645\u0627\u0644\u064a\u0634 \u063a\u064a\u0631\u0643",
+      "url": "https://open.spotify.com/track/1eEfcuK7pvHwu0DTADBifW"
     },
     {
       "added_at": "2025-11-24 15:55:20",
@@ -355,22 +371,6 @@
       "duration_ms": 281052,
       "name": "\u0647\u0648 \u0627\u0646\u062a \u0645\u064a\u0646",
       "url": "https://open.spotify.com/track/1qGEGcxFCJ0LhBCBSeZmqO"
-    },
-    {
-      "added_at": "2025-11-24 15:55:20",
-      "album": {
-        "name": "Khazalni",
-        "url": "https://open.spotify.com/album/6MJTt197mONL1Nsf1sP7Vh"
-      },
-      "artists": [
-        {
-          "name": "Amal Maher",
-          "url": "https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl"
-        }
-      ],
-      "duration_ms": 244090,
-      "name": "Khazalni",
-      "url": "https://open.spotify.com/track/2nzCYsxnaiaERW1u61aMYm"
     },
     {
       "added_at": "2025-11-24 15:55:20",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAACcgxG55lG52MYZHFLeYnAG",
+  "snapshot_id": "aTDPAAAAAACi39OEbw4rV9OWJzfm7V+B",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "snowing in LA",
+        "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "snowing in LA",
+      "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "girls like me don't cry (deluxe)",
         "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 184421,
       "name": "i got it",
       "url": "https://open.spotify.com/track/1FQJSuqXclVv2R0ZuAQDmB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "vapor rub",
-        "url": "https://open.spotify.com/album/3fCcpuwdbjTg2Ul2ZiWsmF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "vapor rub",
-      "url": "https://open.spotify.com/track/3rpfbgu18wx28HZJEWTlPt"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "snowing in LA",
-        "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
+        "name": "vapor rub",
+        "url": "https://open.spotify.com/album/3fCcpuwdbjTg2Ul2ZiWsmF"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 205400,
-      "name": "snowing in LA",
-      "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
+      "duration_ms": 176000,
+      "name": "vapor rub",
+      "url": "https://open.spotify.com/track/3rpfbgu18wx28HZJEWTlPt"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 166155,
+      "name": "dumb luck",
+      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 168000,
       "name": "x's & o's (feat. DCMBR)",
       "url": "https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 166155,
-      "name": "dumb luck",
-      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "holiday szn",
         "url": "https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 167352,
       "name": "holiday szn",
       "url": "https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tied Down",
-        "url": "https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Tied Down",
-      "url": "https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
       },
@@ -795,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry (deluxe)",
-        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+        "name": "Tied Down",
+        "url": "https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS"
       },
       "artists": [
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
         }
       ],
-      "duration_ms": 169143,
-      "name": "butterflies (feat. Rexx Life Raj)",
-      "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
+      "duration_ms": 163846,
+      "name": "Tied Down",
+      "url": "https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 225906,
       "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
       "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 169143,
+      "name": "butterflies (feat. Rexx Life Raj)",
+      "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
     },
     {
       "added_at": null,

@@ -1,7 +1,7 @@
 {
-  "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 252971,
-  "original_name": "Aperitivo Time",
+  "description": "ti devo raccontare di persona, facciamo ape? \ud83e\uded2",
+  "num_followers": 252958,
+  "original_name": "ape time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -555,18 +555,22 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Goodbye Country (Hello Nightclub)",
-        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/6aXN4WOPqN8TgTkIxVkQdf"
       },
       "artists": [
         {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        },
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
         }
       ],
-      "duration_ms": 300266,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
+      "duration_ms": 262763,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/5MGzRBSlXuNhN19ze9o5GY"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -607,22 +611,18 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/6aXN4WOPqN8TgTkIxVkQdf"
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
       "artists": [
         {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        },
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
         }
       ],
-      "duration_ms": 262763,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/5MGzRBSlXuNhN19ze9o5GY"
+      "duration_ms": 300266,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -663,18 +663,22 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
+        "name": "Waiting So Long",
+        "url": "https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h"
       },
       "artists": [
         {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        },
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
         }
       ],
-      "duration_ms": 393640,
-      "name": "At the River",
-      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
+      "duration_ms": 234140,
+      "name": "Waiting So Long",
+      "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -695,22 +699,18 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Waiting So Long",
-        "url": "https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
       },
       "artists": [
         {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        },
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
         }
       ],
-      "duration_ms": 234140,
-      "name": "Waiting So Long",
-      "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
+      "duration_ms": 393640,
+      "name": "At the River",
+      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Leave My Home",
-        "url": "https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 221772,
-      "name": "Leave My Home",
-      "url": "https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 367362,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
+        "name": "Leave My Home",
+        "url": "https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 221772,
+      "name": "Leave My Home",
+      "url": "https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
         "name": "Move On Up (Mark Knight Remix)",
         "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 149047,
       "name": "Move On Up (Mark Knight Remix)",
       "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
-        "name": "IT MIGHT BE THE DRUGS",
-        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 219892,
-      "name": "IT MIGHT BE THE DRUGS",
-      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -1873,6 +1873,6 @@
       "url": "https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM"
     }
   ],
-  "unique_name": "Aperitivo Time",
+  "unique_name": "ape time",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZLhUfNQOQ1p"
 }

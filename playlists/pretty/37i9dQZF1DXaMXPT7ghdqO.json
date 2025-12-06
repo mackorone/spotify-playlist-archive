@@ -1,6 +1,6 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 41762,
+  "num_followers": 41763,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
@@ -775,18 +775,22 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "\u30a2\u30a4\u30ed\u30cb",
-        "url": "https://open.spotify.com/album/24gjv9MJq3I9v1yrqT6QA1"
+        "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u3059\u305f\u30fc\u3068",
+        "url": "https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA"
       },
       "artists": [
         {
           "name": "\u3055\u3068\u307f",
           "url": "https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q"
+        },
+        {
+          "name": "\u3053\u308d\u3093",
+          "url": "https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ"
         }
       ],
-      "duration_ms": 250106,
-      "name": "\u30a2\u30a4\u30ed\u30cb",
-      "url": "https://open.spotify.com/track/160GI2uiGYENJbeh4hJIw7"
+      "duration_ms": 235986,
+      "name": "\u3067\u3053\u307c\u3053\u3052\u30fc\u3080\u3071\u30fc\u3066\u3043\u30fc",
+      "url": "https://open.spotify.com/track/6Wurqa9hoSLHlfpc8rjQNP"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -867,22 +871,18 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u3059\u305f\u30fc\u3068",
-        "url": "https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA"
+        "name": "\u30a2\u30a4\u30ed\u30cb",
+        "url": "https://open.spotify.com/album/24gjv9MJq3I9v1yrqT6QA1"
       },
       "artists": [
         {
           "name": "\u3055\u3068\u307f",
           "url": "https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q"
-        },
-        {
-          "name": "\u3053\u308d\u3093",
-          "url": "https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ"
         }
       ],
-      "duration_ms": 235986,
-      "name": "\u3067\u3053\u307c\u3053\u3052\u30fc\u3080\u3071\u30fc\u3066\u3043\u30fc",
-      "url": "https://open.spotify.com/track/6Wurqa9hoSLHlfpc8rjQNP"
+      "duration_ms": 250106,
+      "name": "\u30a2\u30a4\u30ed\u30cb",
+      "url": "https://open.spotify.com/track/160GI2uiGYENJbeh4hJIw7"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 186226,
-      "name": "\u65b0\u6625\u3089\u3073\u3085\u3063\u3068\uff01",
-      "url": "https://open.spotify.com/track/20xDe22UsxCHWZLtbQzOop"
+      "duration_ms": 194200,
+      "name": "\u30e8\u30a2\u30b1\u30a4\u30ed",
+      "url": "https://open.spotify.com/track/03QMOcvxXRRQuk4glPBBij"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 194200,
-      "name": "\u30e8\u30a2\u30b1\u30a4\u30ed",
-      "url": "https://open.spotify.com/track/03QMOcvxXRRQuk4glPBBij"
+      "duration_ms": 186226,
+      "name": "\u65b0\u6625\u3089\u3073\u3085\u3063\u3068\uff01",
+      "url": "https://open.spotify.com/track/20xDe22UsxCHWZLtbQzOop"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 142426,
-      "name": "\u8f9b\u3044\u3084\u5acc",
-      "url": "https://open.spotify.com/track/0Yce7K4Gd8F1Ir2DqJVfkU"
+      "duration_ms": 201186,
+      "name": "\u9752\u6625\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8 - Christmas Version",
+      "url": "https://open.spotify.com/track/1XEATRA9P0Eb2RuBARo0P7"
     }
   ],
   "unique_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",

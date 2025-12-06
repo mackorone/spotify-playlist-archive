@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with RL Grime",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Subtronics",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -243,6 +243,36 @@
     },
     {
       "album": {
+        "name": "6 Million",
+        "url": "https://open.spotify.com/album/3M44H9DeObJQXKK1UTOUHL"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "6 Million",
+      "url": "https://open.spotify.com/track/17WM8SkzLoAH0VBtjiHdjt"
+    },
+    {
+      "album": {
         "name": "6am Bounce",
         "url": "https://open.spotify.com/album/7KFI76Vox8h6hCCPeB5kVd"
       },
@@ -258,6 +288,24 @@
       "duration_ms": 303857,
       "name": "6am Bounce",
       "url": "https://open.spotify.com/track/3o4JurF32L4msnHzp9hcpI"
+    },
+    {
+      "album": {
+        "name": "A MILLI (Zoey's Version)",
+        "url": "https://open.spotify.com/album/0ink8dPThmkfuPT686bdUN"
+      },
+      "artists": [
+        {
+          "name": "Zoey808",
+          "url": "https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105931,
+      "name": "A MILLI (Zoey's Version)",
+      "url": "https://open.spotify.com/track/0iAigPJ2qYUiVxNasBx0eK"
     },
     {
       "album": {
@@ -400,7 +448,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 155586,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0tsq2ep6prmyRMEI1niqZv"
@@ -1086,6 +1134,28 @@
       "duration_ms": 241600,
       "name": "All We Needed",
       "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
+    },
+    {
+      "album": {
+        "name": "ALLNIGHTER",
+        "url": "https://open.spotify.com/album/4tatQg9UhiVwFbWMy8QGEp"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "ALLNIGHTER",
+      "url": "https://open.spotify.com/track/2aKPAURjIBg4SZ8U4wsVnm"
     },
     {
       "album": {
@@ -1781,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "ATTENTION!",
+        "url": "https://open.spotify.com/album/3pCVPUi80mbj9a4ytf9mSL"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186827,
+      "name": "ATTENTION!",
+      "url": "https://open.spotify.com/track/6SU8l6cjaSc3I9Ml9tGoRk"
+    },
+    {
+      "album": {
         "name": "Aura Farming",
         "url": "https://open.spotify.com/album/5RbSTWWJaRaRcehgyOVr04"
       },
@@ -1934,6 +2022,32 @@
       "duration_ms": 158297,
       "name": "AXIOM",
       "url": "https://open.spotify.com/track/6qhkbEzLyKmBlFTIGn7L8p"
+    },
+    {
+      "album": {
+        "name": "B2B2B",
+        "url": "https://open.spotify.com/album/4mgCFqTuQgvGjNudy86J9L"
+      },
+      "artists": [
+        {
+          "name": "Kill Safari",
+          "url": "https://open.spotify.com/artist/3c0nrfhZe6afmto5cvYodR"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Bro Safari",
+          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111627,
+      "name": "B2B2B",
+      "url": "https://open.spotify.com/track/3GxJzJeXgjR2v4Ck3qpXtO"
     },
     {
       "album": {
@@ -2798,6 +2912,24 @@
       "duration_ms": 140874,
       "name": "Bass Drop",
       "url": "https://open.spotify.com/track/1tBKWCgUdm3oMtUKbu9gYK"
+    },
+    {
+      "album": {
+        "name": "Dream Machine",
+        "url": "https://open.spotify.com/album/0021xj4uajtMYc2w7AyJRq"
+      },
+      "artists": [
+        {
+          "name": "Jaenga",
+          "url": "https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193883,
+      "name": "Bass Go Silly",
+      "url": "https://open.spotify.com/track/275UK4dZzVVgwWMzjRKw2i"
     },
     {
       "album": {
@@ -3728,7 +3860,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 180292,
       "name": "BLUE2TH!",
       "url": "https://open.spotify.com/track/3WlZDXyo8jPkHuCAIb3uPR"
@@ -3882,6 +4014,28 @@
       "duration_ms": 215481,
       "name": "Bodybag",
       "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
+    },
+    {
+      "album": {
+        "name": "Vaultage 004",
+        "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66206,
+      "name": "BOMB",
+      "url": "https://open.spotify.com/track/3juNrwySoU5LwadXk8BI2i"
     },
     {
       "album": {
@@ -5612,7 +5766,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 144000,
       "name": "Cheat Death",
       "url": "https://open.spotify.com/track/499VJYm4KVBfw5bnHkeNZO"
@@ -5864,7 +6018,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 245982,
       "name": "CHOPPER DUB",
       "url": "https://open.spotify.com/track/0RFJRwnUGAKZNgE9L02QAC"
@@ -6296,7 +6450,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 245070,
       "name": "Cooked",
       "url": "https://open.spotify.com/track/6r3Yfrx1ZcxKBPcrwHRJEc"
@@ -6662,7 +6816,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 139064,
       "name": "Curry Goat",
       "url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0"
@@ -7882,7 +8036,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 218482,
       "name": "Dingus",
       "url": "https://open.spotify.com/track/4xWXrhg0Vwc29lbeyHZsYt"
@@ -11048,7 +11202,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 160714,
       "name": "FIGHT OR FLIGHT",
       "url": "https://open.spotify.com/track/4uJ7Y0ux0L4zJtJCnOCYKD"
@@ -11624,6 +11778,24 @@
       "duration_ms": 229558,
       "name": "For The Love",
       "url": "https://open.spotify.com/track/1LFooC64Ibh6SaFs9Nf8f9"
+    },
+    {
+      "album": {
+        "name": "Vaultage 004",
+        "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78750,
+      "name": "FORCE MAJEURE",
+      "url": "https://open.spotify.com/track/4ebfwFBzoPZfk3TZtxsqUn"
     },
     {
       "album": {
@@ -13031,6 +13203,32 @@
     },
     {
       "album": {
+        "name": "Got Away (feat. Royal & the Serpent)",
+        "url": "https://open.spotify.com/album/1xIqw6fCGzUZWlanxsDIhf"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Got Away (feat. Royal & the Serpent)",
+      "url": "https://open.spotify.com/track/5lIW37wg5kwRWcbUYlTpuP"
+    },
+    {
+      "album": {
         "name": "Got To Me",
         "url": "https://open.spotify.com/album/5Yg5KxhC7gLu8HczlGN9Hi"
       },
@@ -13887,6 +14085,28 @@
     },
     {
       "album": {
+        "name": "GHOST WORLD",
+        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
       },
@@ -14070,6 +14290,28 @@
       "duration_ms": 156444,
       "name": "Hertz Donut",
       "url": "https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk"
+    },
+    {
+      "album": {
+        "name": "HEY BABY",
+        "url": "https://open.spotify.com/album/0Vtt0riKjApOTJMARRbodh"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "HEY BABY",
+      "url": "https://open.spotify.com/track/03PJbbMFZJymweSCacPkQm"
     },
     {
       "album": {
@@ -15616,7 +15858,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 206664,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/6hLEJ1YLR1lyAK0QFQpkN0"
@@ -15634,7 +15876,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 106226,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/30WulSOykS6OFvF3R0m4Mp"
@@ -16216,7 +16458,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 175200,
       "name": "intheclub",
       "url": "https://open.spotify.com/track/18kaPrO0CKRFFwXXaPkYMc"
@@ -16687,6 +16929,24 @@
     },
     {
       "album": {
+        "name": "Vaultage 004",
+        "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "KEEP IT COOL",
+      "url": "https://open.spotify.com/track/3aJYTbibvHA4DSQ5Zk0S6v"
+    },
+    {
+      "album": {
         "name": "Keep It Moving",
         "url": "https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag"
       },
@@ -16856,6 +17116,24 @@
       "duration_ms": 204375,
       "name": "KILLA",
       "url": "https://open.spotify.com/track/1B8rygL2m0YFYXKfxNqsG1"
+    },
+    {
+      "album": {
+        "name": "KILLAA",
+        "url": "https://open.spotify.com/album/4wwGhGHU2vY2ZTPJx5uCDh"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "KILLAA",
+      "url": "https://open.spotify.com/track/3W9fuckq8H5fCHZ0n0GCQx"
     },
     {
       "album": {
@@ -23919,6 +24197,24 @@
     },
     {
       "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/6ZAMhvsWrgPcimgGHrPb8b"
+      },
+      "artists": [
+        {
+          "name": "St. Mary",
+          "url": "https://open.spotify.com/artist/053q2D9p8VzxaIzwGZhCUM"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "Psych Ward!",
+      "url": "https://open.spotify.com/track/055fkJ4voIArpXrHhFCjWA"
+    },
+    {
+      "album": {
         "name": "PSYCHO",
         "url": "https://open.spotify.com/album/2uWgYox0lOsOQfOXVER50n"
       },
@@ -25890,7 +26186,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 218275,
       "name": "Salamander",
       "url": "https://open.spotify.com/track/51qvSn161ge7T0E4U3LsND"
@@ -27339,6 +27635,24 @@
     },
     {
       "album": {
+        "name": "Vaultage 004",
+        "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83632,
+      "name": "SIGNALS",
+      "url": "https://open.spotify.com/track/31T2P9AF4g670X8GR0pnrX"
+    },
+    {
+      "album": {
         "name": "Silence (Dimension Remix)",
         "url": "https://open.spotify.com/album/7amYzRwBHYed8cgbE3fyKn"
       },
@@ -27828,7 +28142,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 227586,
       "name": "So Many Colours",
       "url": "https://open.spotify.com/track/0HIpQEomgZmd5Kt1XHa4qu"
@@ -28358,7 +28672,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 208912,
       "name": "STAR CANNON",
       "url": "https://open.spotify.com/track/2KZ3vJPCmKh9Him926mDsH"
@@ -28380,7 +28694,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 207900,
       "name": "STARBURST",
       "url": "https://open.spotify.com/track/1QRNy9hWEOxGAxVUOcKyxH"
@@ -30388,7 +30702,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 192000,
       "name": "THE GIRLS ARE MAKING RIDDIM",
       "url": "https://open.spotify.com/track/75NAHnZKY5M5yfaBgaqpeb"
@@ -30578,6 +30892,28 @@
       "duration_ms": 186400,
       "name": "The One",
       "url": "https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU"
+    },
+    {
+      "album": {
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/7C8pJDrZvHs3c36NtzAT1X"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183724,
+      "name": "The Pit",
+      "url": "https://open.spotify.com/track/6uAlhFwFPblqVs5F2xQO4C"
     },
     {
       "album": {
@@ -31863,6 +32199,24 @@
     },
     {
       "album": {
+        "name": "Turn It Up EP",
+        "url": "https://open.spotify.com/album/2dBce4y55fqAt8dbOhI9E3"
+      },
+      "artists": [
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/1SbDt7n2aRCjB5jhk9rAJ6"
+    },
+    {
+      "album": {
         "name": "Turn It Up",
         "url": "https://open.spotify.com/album/16sNt1ZBhztm1T2oM3EgoX"
       },
@@ -31988,7 +32342,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 137379,
       "name": "UGS",
       "url": "https://open.spotify.com/track/6qWLbvEkHL64oRjX0Am9zq"
@@ -32222,6 +32576,24 @@
       "duration_ms": 240705,
       "name": "Unlucky",
       "url": "https://open.spotify.com/track/0J1LHPRO4y7yDRFscEaOGk"
+    },
+    {
+      "album": {
+        "name": "Vaultage 004",
+        "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180009,
+      "name": "UNTOUCHABLE",
+      "url": "https://open.spotify.com/track/6xSGguEknMByMWrU160kux"
     },
     {
       "album": {
@@ -34246,7 +34618,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 162266,
       "name": "XTC",
       "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"

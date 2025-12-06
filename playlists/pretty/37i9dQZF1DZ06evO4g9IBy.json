@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 171699,
+  "num_followers": 171713,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAAD5h6tOSzkAN7ID7u32MusG",
+  "snapshot_id": "aTDPAAAAAAAIiIdIsHSY57oYnhScd24b",
   "tracks": [
     {
       "added_at": null,
@@ -382,11 +382,15 @@
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 301293,
-      "name": "Nightbird - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk"
+      "duration_ms": 201826,
+      "name": "I Will Run to You - 2016 Remaster",
+      "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
     },
     {
       "added_at": null,
@@ -454,15 +458,11 @@
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 201826,
-      "name": "I Will Run to You - 2016 Remaster",
-      "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
+      "duration_ms": 301293,
+      "name": "Nightbird - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 291595,
-      "name": "Long Distance Winner",
-      "url": "https://open.spotify.com/track/4s1NQx5SmakDcTEfItAg3K"
+      "duration_ms": 435793,
+      "name": "Frozen Love",
+      "url": "https://open.spotify.com/track/7EXPUTfGz4N2Gyo5dz2cUg"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 435793,
-      "name": "Frozen Love",
-      "url": "https://open.spotify.com/track/7EXPUTfGz4N2Gyo5dz2cUg"
+      "duration_ms": 291595,
+      "name": "Long Distance Winner",
+      "url": "https://open.spotify.com/track/4s1NQx5SmakDcTEfItAg3K"
     },
     {
       "added_at": null,

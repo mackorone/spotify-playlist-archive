@@ -1,12 +1,12 @@
 {
   "description": "This is Olivia Dean. The essential tracks, all in one playlist.",
-  "num_followers": 251506,
+  "num_followers": 253430,
   "original_name": "This Is Olivia Dean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAAAcmKUHoovYA3vY4qHl6K1f",
+  "snapshot_id": "aTDPAAAAAADASo2HLOvMm4/nLypA2C6D",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ok Love You Bye",
-        "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
+        "name": "It Isn\u2019t Perfect But It Might Be (from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Reason To Stay",
-      "url": "https://open.spotify.com/track/56DxR1jHbX6xlGwZdUuN0v"
+      "duration_ms": 216000,
+      "name": "It Isn\u2019t Perfect But It Might Be - from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Isn\u2019t Perfect But It Might Be (from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg"
+        "name": "Ok Love You Bye",
+        "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 216000,
-      "name": "It Isn\u2019t Perfect But It Might Be - from \u201cBridget Jones: Mad About the Boy\u201d Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn"
+      "duration_ms": 198813,
+      "name": "Reason To Stay",
+      "url": "https://open.spotify.com/track/56DxR1jHbX6xlGwZdUuN0v"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Fall Again",
-      "url": "https://open.spotify.com/track/5zj2SeupnlWgrRnyMJOwT2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/1MmWUjcJzazvFlXZmAAGm9"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 229155,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/4Q3sVNzOHPZRijeORiAxia"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Fall Again",
+      "url": "https://open.spotify.com/track/5zj2SeupnlWgrRnyMJOwT2"
     },
     {
       "added_at": null,

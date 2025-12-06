@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Sinan Akçıl x Ece Mumay
 
-445 songs - 22 hr 20 min
+446 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Acı Türkü](https://open.spotify.com/track/5VO70YyZPKPOOBjcNyeFrz) | [Yiğit Seferoğlu](https://open.spotify.com/artist/23PyUBxakP5fM83oPh8Alc) | [Acı Türkü](https://open.spotify.com/album/6NZS77titj8EK1eyljbFdt) | 3:17 | 2025-05-08 | 2025-05-16 |
 | [Acının Seyir Defteri](https://open.spotify.com/track/5h9KIm7EeobUVGbnB3Fk1y) | [Aşkın Nur Yengi](https://open.spotify.com/artist/2fYdUIUPS7aDdWCzb8Aw2k) | [Acının Seyir Defteri](https://open.spotify.com/album/7f0M03KQBjUNlSP1zxRMcc) | 2:51 | 2024-11-21 | 2024-11-28 |
 | [Acıyla Kucaklaştım](https://open.spotify.com/track/0OP73LxXno2zdkxETjg3KF) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6VOx7oShyeQgY11InDvTZX) | 3:19 | 2024-06-27 | 2025-01-26 |
+| [Acıyla Kucaklaştım](https://open.spotify.com/track/5WK9ocd8NIPsHKZ6OcVdmw) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6syG8s0ci1qDXt2UVGJvIG) | 3:28 | 2025-12-04 |  |
 | [Acıyor Kalbim](https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Acıyor Kalbim](https://open.spotify.com/album/2svxTBuMYsgzUq6er9ROiA) | 2:08 | 2025-07-17 |  |
 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 | 2025-06-26 | 2025-11-17 |
 | [Adını Yazdım](https://open.spotify.com/track/3U2n2bDXv2X4eIxQ0Rqsbw) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Adını Yazdım](https://open.spotify.com/album/6A4vsUDLXGiDtqplTzSPon) | 2:29 | 2024-06-27 | 2024-10-02 |
@@ -56,7 +57,7 @@
 | [Balkon](https://open.spotify.com/track/2cgl9uYYvSbImdRGNxFoek) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Balkon](https://open.spotify.com/album/0oXPr9dnoS2Cjxh8SCIIA9) | 3:10 | 2025-10-16 |  |
 | [bana ne.](https://open.spotify.com/track/2aEyzvp6ViXIqfSlLi0ym5) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [bana ne.](https://open.spotify.com/album/1erJv0weFEuBlhydLcTlco) | 2:38 | 2025-09-25 | 2025-10-10 |
 | [Bana Sorma](https://open.spotify.com/track/3POiAfxKkpd0UudOnDW3JF) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bana Sorma](https://open.spotify.com/album/5lZnbBTH9sDDt2dprum2Mh) | 4:14 | 2024-06-27 | 2025-08-08 |
-| [Bari](https://open.spotify.com/track/2LBsPaKgbYgNQEqxXOKv4z) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Bari](https://open.spotify.com/album/3PxxHiHse96AihPZuhtgCa) | 2:54 | 2025-09-25 |  |
+| [Bari](https://open.spotify.com/track/2LBsPaKgbYgNQEqxXOKv4z) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Bari](https://open.spotify.com/album/3PxxHiHse96AihPZuhtgCa) | 2:54 | 2025-09-25 | 2025-12-06 |
 | [Bayılıyorum Sana](https://open.spotify.com/track/3k2xuHNxGDtiuI6rEVd3CT) | [Dodo](https://open.spotify.com/artist/5sR1YwTCIXPjYy8WoTv2jo), [Esin Kaya](https://open.spotify.com/artist/1uX30MY8BahKmbqQGI4aLA) | [Bayılıyorum Sana](https://open.spotify.com/album/32gq1d7gGgUIXPPj2WHICf) | 2:59 | 2025-07-07 |  |
 | [Bazı Gerçekler](https://open.spotify.com/track/0b2zRFEQszh31BQ38BTLXY) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Bazı Gerçekler](https://open.spotify.com/album/5Z0phY1PHicvQPrAG0gpvD) | 2:38 | 2025-02-20 | 2025-05-13 |
 | [Bedel](https://open.spotify.com/track/23cjMX6FjB8TGdRnLD5bod) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bedel](https://open.spotify.com/album/3JaSBvsF9GmTY7vjNwSHRF) | 2:37 | 2024-07-04 | 2024-08-23 |
@@ -378,7 +379,7 @@
 | [Uzun Lafın Kısası](https://open.spotify.com/track/4HJPlJMtvDUeaQ7LCNczLW) | [Ozan Doğulu](https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut), [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [130 Bpm Forte](https://open.spotify.com/album/00yuJBXaDotJUgEI2LZeQC) | 3:39 | 2024-06-27 | 2025-05-16 |
 | [Vakitsiz Geldin](https://open.spotify.com/track/4sXE51Fg8kmWLzoi9cXvun) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Aşığım Hâlâ](https://open.spotify.com/album/26zTtSG5cpSRvIS7ibxG0O) | 3:41 | 2024-06-27 | 2024-11-11 |
 | [Vaktimiz Dar Sevgilim](https://open.spotify.com/track/61J7Zh1Nj0vCive6SKdy7O) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Bir Yol Bu](https://open.spotify.com/album/2OAJgY6y0u5IIRJES9mP03) | 4:54 | 2025-05-15 | 2025-08-20 |
-| [Vazgeçmem](https://open.spotify.com/track/4NfDePPzLzpjWeAMoL4xat) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx), [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [](https://open.spotify.com/album/null) | 2:38 | 2025-12-04 |  |
+| [Vazgeçmem](https://open.spotify.com/track/4NfDePPzLzpjWeAMoL4xat) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx), [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [4K](https://open.spotify.com/album/1mPLFeBrXi3wjDJWTqjI70) | 2:38 | 2025-12-04 |  |
 | [VEDA BUSESİ](https://open.spotify.com/track/0I3tf6OIWLHGPrphkE7v8W) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [VEDA BUSESİ](https://open.spotify.com/album/7JI3SLFixTxEybtyqQdtui) | 3:21 | 2025-11-27 | 2025-12-05 |
 | [Vertigo](https://open.spotify.com/track/2h48UWdDoaf2L8fJ3y3gdw) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Vertigo](https://open.spotify.com/album/4XjYiO58q1YBE31SNDh6g5) | 2:44 | 2025-07-31 | 2025-08-08 |
 | [Yak Beni De](https://open.spotify.com/track/1o9Gp6fMVuzmnZn7Zn3phl) | [Can Toğrulca](https://open.spotify.com/artist/5Oublqcpyn3o6HaRJFJs3D) | [Yak Beni De](https://open.spotify.com/album/7s8bwVLe7opISn9fgJL7Rx) | 3:12 | 2025-11-13 |  |

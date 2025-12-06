@@ -841,6 +841,28 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0fIRjHKYAiceTTcRshmORw"
+      },
+      "artists": [
+        {
+          "name": "Zane Gulston",
+          "url": "https://open.spotify.com/artist/18rZ7Kl0Dtyla220ZktTR7"
+        },
+        {
+          "name": "Rebiirth",
+          "url": "https://open.spotify.com/artist/1Tx7L6W346dIQcAwDGdF1o"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310852,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/3cDzIY1AdJZ36kTlUxpApw"
+    },
+    {
+      "album": {
         "name": "Dali",
         "url": "https://open.spotify.com/album/0jWWd8O33jAFB46hCzNKJ4"
       },
@@ -3509,6 +3531,28 @@
     },
     {
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/3HF0INhH4RbXjFnMBHgyjI"
+      },
+      "artists": [
+        {
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "Tony Afro",
+          "url": "https://open.spotify.com/artist/2z8Lav1frQMLGIJkp1yX0H"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124034,
+      "name": "Na Luki",
+      "url": "https://open.spotify.com/track/2FOBFeadI0qRZHpU9OWty5"
+    },
+    {
+      "album": {
         "name": "Nani Alisema",
         "url": "https://open.spotify.com/album/2XX0OheMm8aOPZzyd4e3gn"
       },
@@ -4795,24 +4839,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "El Mukuka",
-          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
-        }
-      ],
-      "date_added": "2025-12-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/2FOBFeadI0qRZHpU9OWty5"
-    },
-    {
-      "album": {
         "name": "Trippy Yeah",
         "url": "https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3"
       },
@@ -5240,7 +5266,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 260928,
       "name": "Umona - Radio Edit",
       "url": "https://open.spotify.com/track/2Dx43aiYvLHgypZS30LEuq"

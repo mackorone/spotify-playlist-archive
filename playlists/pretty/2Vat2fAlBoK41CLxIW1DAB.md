@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,610 likes - 788 songs - 2 day 1 hr 26 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,610 likes - 789 songs - 2 day 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -796,5 +796,6 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 786 | [My Song](https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk) | [Lonewolves in Paradise](https://open.spotify.com/artist/4yjZvSYHEv1Esyl8Fwpe3O) | [My Song](https://open.spotify.com/album/50yKv8FDcE0UzMYXCohf8C) | 2:44 |
 | 787 | [Everything Going Well is a Bad Thing, Right?](https://open.spotify.com/track/5aiW08yblQAddo0F5Snn3O) | [All Systems Go](https://open.spotify.com/artist/3vUgiedsWyaAljWZL0MMCo) | [Everything Going Well is a Bad Thing, Right?](https://open.spotify.com/album/6bfqFc7um2xcUYApvma8KY) | 3:36 |
 | 788 | [Bubble Fight](https://open.spotify.com/track/5ZWVUGYwYbC2P1zzGi9D0B) | [Hard Softee](https://open.spotify.com/artist/4F1IzLLPomRL7g3IlrefEy) | [Bubble Fight](https://open.spotify.com/album/5JhSHliugRpGiEpKQXXwwr) | 3:26 |
+| 789 | [Make Love \(with Santa Claus\)](https://open.spotify.com/track/1SGIrtQEOHHZXTNRn80eEL) | [LOW/LATE](https://open.spotify.com/artist/7gWmJ9eJ1xHygxVUv8JpfD) | [Make Love \(with Santa Claus\)](https://open.spotify.com/album/2mb68wtdCCbUub5ad1idtp) | 2:38 |
 
-Snapshot ID: `AAADLi12axfuN/Aa7bKqBnJqBzCZhrSt`
+Snapshot ID: `AAADL81dGlSmCoRVkWkZZqbQhcY7M9L/`

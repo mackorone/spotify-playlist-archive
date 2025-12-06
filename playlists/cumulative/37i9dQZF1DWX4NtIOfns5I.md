@@ -4,7 +4,7 @@
 
 > 🍃🍃🍃 Runo Plum on the cover
 
-676 songs - 1 day 16 hr 41 min
+678 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Pup](https://open.spotify.com/track/7vxSL2veuTRQBhslhM7ENS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Pup](https://open.spotify.com/album/5aTyRZw08z72j3xy0bEJfz) | 4:17 | 2023-11-10 | 2023-12-16 |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-09-20 | 2025-02-22 |
 | [Pushing It Down and Praying \- Live from AFAS, Amsterdam](https://open.spotify.com/track/17uCITlzfTYFubzabQunsn) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying \(Live from AFAS, Amsterdam\)](https://open.spotify.com/album/5nvAnZulqUnBeC8wO3xjfM) | 3:59 | 2025-11-21 |  |
+| [Queen of Homecoming](https://open.spotify.com/track/1jhTdcryKV2Q3fsEJrfRGr) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Queen of Homecoming](https://open.spotify.com/album/75m5Ycyw89xTYr5EpZgkoq) | 2:31 | 2025-12-05 |  |
 | [Questions](https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Questions](https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU) | 4:25 | 2025-04-25 | 2025-06-21 |
 | [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2024-01-14 | 2024-03-21 |
 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 | 2024-10-11 | 2025-03-13 |
@@ -648,6 +649,7 @@
 | [What Nightmares Are Made Of](https://open.spotify.com/track/5PuWGjgbFfaxhMLiwmSzHV) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [What Nightmares Are Made Of](https://open.spotify.com/album/6lJ3GIVObuvE2xbigZOpnC) | 3:44 | 2024-07-08 | 2024-10-05 |
 | [What's In My Head](https://open.spotify.com/track/3Gogu2TwHL7dO3xK0dMgjW) | [Jia\*](https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy) | [What's In My Head](https://open.spotify.com/album/5LVcjAuHykusjEr2vETHCT) | 2:47 | 2024-12-06 | 2025-02-22 |
 | [When I get home](https://open.spotify.com/track/3SAepbmfa2jEMXu6OWrwyh) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 6:05 | 2025-05-30 |  |
+| [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 | 2025-12-05 |  |
 | [Where Did I Go Wrong](https://open.spotify.com/track/13VtzJP8HQuK6jQRJrP6xL) | [Crowe Boys](https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id) | [Where Did I Go Wrong](https://open.spotify.com/album/3zBmaB2rxw5YjX2kqUsgTa) | 2:59 | 2024-03-01 | 2025-01-18 |
 | [Where'd The Time Go?](https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Where'd The Time Go?](https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM) | 1:45 | 2023-10-20 | 2024-02-14 |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2024-05-23 | 2025-03-13 |

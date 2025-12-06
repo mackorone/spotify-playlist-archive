@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 64439,
+  "num_followers": 64449,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -241,6 +241,22 @@
       "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
     },
     {
+      "added_at": "2023-04-12 01:24:34",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Jazztepec",
+      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Raz\u00f3n de Vivir (Desde Casa)",
@@ -259,22 +275,6 @@
       "duration_ms": 254269,
       "name": "Raz\u00f3n de Vivir - Desde Casa",
       "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
-    },
-    {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Jazztepec",
-      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
       "added_at": "2023-03-16 20:51:30",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "What's The Rush? (Remastered)",
-        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
-      },
-      "artists": [
-        {
-          "name": "Joe d'Etienne Big Band",
-          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
-        }
-      ],
-      "duration_ms": 403946,
-      "name": "Temporary Insanity",
-      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 384415,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "What's The Rush? (Remastered)",
+        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+      },
+      "artists": [
+        {
+          "name": "Joe d'Etienne Big Band",
+          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+        }
+      ],
+      "duration_ms": 403946,
+      "name": "Temporary Insanity",
+      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -803,30 +803,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Triology",
-        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
-      },
-      "artists": [
-        {
-          "name": "Eddie G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
-        },
-        {
-          "name": "Alberto Medina",
-          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
-        },
-        {
-          "name": "Pablo Prieto",
-          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
-        }
-      ],
-      "duration_ms": 428720,
-      "name": "Once I Loved",
-      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Amaneceres",
         "url": "https://open.spotify.com/album/6IbnxAPwtYL8uJtgiYgJVG"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 273880,
       "name": "Amaneceres",
       "url": "https://open.spotify.com/track/21lSntIcuSdGdV0m4LesLz"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Triology",
+        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
+      },
+      "artists": [
+        {
+          "name": "Eddie G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
+        },
+        {
+          "name": "Alberto Medina",
+          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
+        },
+        {
+          "name": "Pablo Prieto",
+          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
+        }
+      ],
+      "duration_ms": 428720,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
     },
     {
       "added_at": "2021-07-28 16:44:28",

@@ -4191,6 +4191,24 @@
     },
     {
       "album": {
+        "name": "Chasing Stars",
+        "url": "https://open.spotify.com/album/6fXx4wvj5eS2LBIbJvl7Uu"
+      },
+      "artists": [
+        {
+          "name": "Floating Club",
+          "url": "https://open.spotify.com/artist/0NVIwt8ActAN9HoUOYAa0y"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Chasing Stars",
+      "url": "https://open.spotify.com/track/1haC4CXNckGTshzJvqA0T0"
+    },
+    {
+      "album": {
         "name": "Chasing Time",
         "url": "https://open.spotify.com/album/30CKaMTedX1ERtNwRwzBbA"
       },
@@ -4718,6 +4736,24 @@
       "duration_ms": 201206,
       "name": "Colorful",
       "url": "https://open.spotify.com/track/3bH6uv7ef1kS7cXVtn1EJ9"
+    },
+    {
+      "album": {
+        "name": "Colorful",
+        "url": "https://open.spotify.com/album/6RC2fmq5JJXUDmGqG3bEkT"
+      },
+      "artists": [
+        {
+          "name": "Leo Chase",
+          "url": "https://open.spotify.com/artist/72iXeoizXqiI2UK2Omdp4j"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135371,
+      "name": "Colorful",
+      "url": "https://open.spotify.com/track/4koqqSZ2EtOvEUJ2ektJ26"
     },
     {
       "album": {
@@ -15001,6 +15037,28 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5uji1zUEsxUyibQnWqhgWb"
+      },
+      "artists": [
+        {
+          "name": "Maxomar",
+          "url": "https://open.spotify.com/artist/0fs4pqQpTlESYfNfR4lDp0"
+        },
+        {
+          "name": "tamii",
+          "url": "https://open.spotify.com/artist/4ZHWBlBqCWkU5nuUbzbxOG"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168372,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6aOjQvAZ5rW5K6QaTQEXrJ"
+    },
+    {
+      "album": {
         "name": "Lonely (Forget About You)",
         "url": "https://open.spotify.com/album/4NB2aY3ss2N9jPEjKW4KMI"
       },
@@ -17042,6 +17100,28 @@
       "duration_ms": 129557,
       "name": "Murder on the Dancefloor",
       "url": "https://open.spotify.com/track/0unH8JCzUGSmsFRJToa1XN"
+    },
+    {
+      "album": {
+        "name": "Muscle Memory",
+        "url": "https://open.spotify.com/album/3sS9ItoA4J7XJKiuE4Qt60"
+      },
+      "artists": [
+        {
+          "name": "Thomas Foster",
+          "url": "https://open.spotify.com/artist/5XC8kRHSVMrwbJs9fHd2v7"
+        },
+        {
+          "name": "Maddy Lang",
+          "url": "https://open.spotify.com/artist/2t3rh4ZlHCPVj0eEWV5FHJ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Muscle Memory",
+      "url": "https://open.spotify.com/track/1zK5upN1lDZctrQ6hiTdAv"
     },
     {
       "album": {
@@ -21072,7 +21152,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 161803,
       "name": "Sad Love (feat. JAIKO)",
       "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"

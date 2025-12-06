@@ -2,9 +2,9 @@
 
 ### [All\-Nighter](https://open.spotify.com/playlist/37i9dQZF1DX692WcMwL2yW)
 
-> Stay focused with electronic and trap beats.
+> Stay focused with electronic beats and dark ambient movements.
 
-462 songs - 21 hr 21 min
+466 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All Of Them](https://open.spotify.com/track/2GmCYDUX9GR7XXBU76C0s9) | [M4YD4Y](https://open.spotify.com/artist/2kx8AVFwczHrxz0PLL25Qt) | [Imperfectionist](https://open.spotify.com/album/6Msn1kQREtbLla2wJTfDlZ) | 1:51 | 2021-04-26\* | 2022-09-17 |
 | [All the Frogs](https://open.spotify.com/track/5Zxcm8La3J8yCyPA4FpzAe) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 2:03 | 2021-04-26\* | 2022-05-27 |
 | [Alpine Cardio](https://open.spotify.com/track/1XJF5V7e96zdWnkjVwx7IU) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Alpine Cardio](https://open.spotify.com/album/2xcD3o446Bc12Um8Kb7toI) | 2:49 | 2025-09-12 |  |
+| [alps](https://open.spotify.com/track/0nTbMZhhQqq8dI3x1gA40g) | [Semaphore](https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV) | [alps](https://open.spotify.com/album/72FIAWzw9bNm8lz5jqS1Tt) | 2:14 | 2025-12-05 |  |
 | [Alright!!!](https://open.spotify.com/track/7nf0SbQqrLkwNOjLH6J4PO) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Butterscotch](https://open.spotify.com/album/2VO7rHl5HkUVeSU67nDOLI) | 3:30 | 2021-10-14 |  |
 | [Amber](https://open.spotify.com/track/1evwA28dL7t3r5eG3DOmmj) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Amber](https://open.spotify.com/album/5Ugj8cXqKSZ1YLNQ5dLTZT) | 2:48 | 2021-10-14 | 2025-02-21 |
 | [Ambivalent](https://open.spotify.com/track/5gdYkbObWnojZxaNBQ94sZ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Ambivalent](https://open.spotify.com/album/4HdRnDygvhda6ywARwXUSo) | 2:26 | 2022-01-27 |  |
@@ -44,6 +45,7 @@
 | [Basquè](https://open.spotify.com/track/6zhvPJuZKVjzv4fQelqvo0) | [Gold Birds](https://open.spotify.com/artist/5MisRKjFSK7o3bab0rojcs) | [Afterglow](https://open.spotify.com/album/0Q4O3GicWbNcxOQakY5Glc) | 3:43 | 2021-07-09 | 2024-12-07 |
 | [Battered](https://open.spotify.com/track/0bVNJhgKoLhA1vLof0fQWE) | [Dada Schism](https://open.spotify.com/artist/5Rw9ji4Ou4OecPAdmUbxoP) | [Battered](https://open.spotify.com/album/2g1seRFU1gzkxnb8iqD1ir) | 2:31 | 2025-06-24 |  |
 | [Be Kind To Yourself](https://open.spotify.com/track/0OF4LmsOwbrPsWHiC0vPh8) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Be Kind To Yourself](https://open.spotify.com/album/0mr0AFvjTiJCml6k5KWQwI) | 2:34 | 2024-11-07 |  |
+| [before the first frost](https://open.spotify.com/track/0Dhd3n3FicKdVQtFsK0fZx) | [Bevelle](https://open.spotify.com/artist/3xZSDoiLMoulwF81p3xsch) | [before the first frost](https://open.spotify.com/album/6yrXHzB7m92kobrscitTbX) | 2:18 | 2025-12-05 |  |
 | [Big Bounce](https://open.spotify.com/track/46J9LlrB4irAkEMPfEKPeY) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Move Ya Body](https://open.spotify.com/album/61L9RCKpU8NJkrqidv3Fj9) | 2:46 | 2021-06-04 | 2025-02-21 |
 | [biology](https://open.spotify.com/track/6pSB5nX8jM66CCtgB3CiZS) | [Ferrosia](https://open.spotify.com/artist/6VjLJOIiiHRO4yMv5jOB3I) | [biology](https://open.spotify.com/album/5hsk6zCapPhKRZfxclWx80) | 2:40 | 2025-09-12 | 2025-11-08 |
 | [Blackstar](https://open.spotify.com/track/6djXsgxuBxkhZ304F6f9m6) | [Zoot Lix](https://open.spotify.com/artist/1hLSwZoc1fc7nbd87G36La) | [Blackstar](https://open.spotify.com/album/77nkWEQ9KlbYGdsAx0TGng) | 3:17 | 2021-07-09 | 2022-05-14 |
@@ -59,7 +61,7 @@
 | [By Your Side](https://open.spotify.com/track/1fmDbpJLgK5KHh5vLxCbFI) | [LifestyleDidIt](https://open.spotify.com/artist/30zMAqaq1ZaiL3sCXP41If), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [By Your Side](https://open.spotify.com/album/0q3jcgUPljutZVDwHga3Rk) | 2:45 | 2022-04-08 | 2022-07-29 |
 | [C & H](https://open.spotify.com/track/7E5dWj4quPocWXIJehXinq) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [C & H](https://open.spotify.com/album/2n6RJpJnvmYuh2dVYua7fa) | 2:10 | 2021-04-26\* | 2022-06-17 |
 | [C'est bon](https://open.spotify.com/track/7nSYqEhPEN2Tti6edIHxmt) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [3FT O](https://open.spotify.com/album/4teeP77SmmE9PAUWoryDZX) | 3:19 | 2022-10-28 |  |
-| [Cali Kation](https://open.spotify.com/track/39bcm83XXUBLWmQOTsBEtK) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Cali Kation](https://open.spotify.com/album/7nAZh0OL5SAsNTY6aKAH6D) | 2:25 | 2022-05-20 |  |
+| [Cali Kation](https://open.spotify.com/track/39bcm83XXUBLWmQOTsBEtK) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Cali Kation](https://open.spotify.com/album/7nAZh0OL5SAsNTY6aKAH6D) | 2:25 | 2022-05-20 | 2025-12-06 |
 | [Careless](https://open.spotify.com/track/6OPgcI5qV8HKX0p5Ww9R7X) | [kdril](https://open.spotify.com/artist/0w2DJmwbNHnM4uDsC6cDpy) | [Better Days](https://open.spotify.com/album/0QcPBbrMEABqgXiE2A2gRQ) | 1:32 | 2022-04-22 | 2024-02-14 |
 | [Cassie](https://open.spotify.com/track/3eBVTlnu9DZ6dPWCJN5Fyz) | [Pink Oak](https://open.spotify.com/artist/18P0Pm5wkx4lfHBG0UnUrO) | [1979](https://open.spotify.com/album/70GFb2bW6tyYF7KqDJ8QfL) | 3:07 | 2022-05-27 |  |
 | [Casual](https://open.spotify.com/track/04vbqTabvnBVNS529gCjr7) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Casual](https://open.spotify.com/album/34WYto1C7tTFFiyolKmtDW) | 2:58 | 2022-09-02 |  |
@@ -133,11 +135,12 @@
 | [Extra](https://open.spotify.com/track/1m5OGKLquB59mNASxCsvkF) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Extra](https://open.spotify.com/album/7LH0JuhJc2ZT0Qbi9vcmsf) | 2:19 | 2021-04-26\* | 2022-09-09 |
 | [Face Shot](https://open.spotify.com/track/4MVhRwIat6P6WrTxbnLFbZ) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Face Shot](https://open.spotify.com/album/5GU1xNaOnJlkFM5IkoSKai) | 1:49 | 2021-09-10 | 2024-02-14 |
 | [fading focus](https://open.spotify.com/track/2FJpjltxybMUrtVlrf8dcQ) | [allbelow](https://open.spotify.com/artist/7KbyoaBgM7uMBITNzfHFi4) | [fading focus](https://open.spotify.com/album/7CEGhMe1Hh5BTGlufWBvEK) | 1:58 | 2025-11-07 |  |
+| [fading into blue](https://open.spotify.com/track/6h00zUJRDbuJXHruo6g5BU) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [fading into blue](https://open.spotify.com/album/2vD1buMh8qN9ubo01HhJ8a) | 2:56 | 2025-12-05 |  |
 | [Failed the Test](https://open.spotify.com/track/4Qp7Gjxh7G0BlVccDsS0VI) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Failed the Test](https://open.spotify.com/album/4qgKi4Q0d8uSVvf0U1KN4C) | 2:52 | 2021-06-18 | 2021-10-14 |
 | [Fake Luv](https://open.spotify.com/track/25uvOTvWRlClx8dDbIDLUm) | [thankgoditswknd](https://open.spotify.com/artist/67SFFOfdKGX7us81eILLTm) | [Fake Luv](https://open.spotify.com/album/02BYQGthBJbgKsMYrnZtfP) | 1:56 | 2022-05-20 | 2024-02-14 |
 | [Fam](https://open.spotify.com/track/47LWif6s3Lu4xv3dBb78Lu) | [Cyber Soul](https://open.spotify.com/artist/5fgkrGRJJ2FcosHfzHeXOu) | [Fam](https://open.spotify.com/album/7CIp8scELgVBXUgxfe9HBa) | 3:06 | 2021-11-10 |  |
 | [Far From Here](https://open.spotify.com/track/217ChWMhQc6TWGBa350i7m) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Into the Darkness](https://open.spotify.com/album/2jmpM7u4WhBoZumNmQHjre) | 1:52 | 2022-06-24 | 2024-02-14 |
-| [Fatso](https://open.spotify.com/track/0NzWqeHz2wnYvEJYy5D7l0) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [158 Texas](https://open.spotify.com/album/47HGt4wZttlPBYItTZURXi) | 3:05 | 2022-09-02 |  |
+| [Fatso](https://open.spotify.com/track/0NzWqeHz2wnYvEJYy5D7l0) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [158 Texas](https://open.spotify.com/album/47HGt4wZttlPBYItTZURXi) | 3:05 | 2022-09-02 | 2025-12-06 |
 | [Feathers](https://open.spotify.com/track/1bGvdepxFFYASYyjl4fgzp) | [Memoreece](https://open.spotify.com/artist/2cxOWj380KkEEUMVyHtrHn) | [Feathers](https://open.spotify.com/album/7vD9XAefjuLyVgStigf54l) | 2:43 | 2022-10-14 |  |
 | [Feeling Alone](https://open.spotify.com/track/3uk9slCejBoeFKpSd4sA1z) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Feeling Alone](https://open.spotify.com/album/7JqUV4BL2ga5zKfBQNFPpQ) | 2:21 | 2025-11-07 |  |
 | [ficus](https://open.spotify.com/track/2QBsNCb5Ih9bjHtvrsVkef) | [killtino](https://open.spotify.com/artist/3R6MCwWHzfbzkPqBIp4Pyg) | [ficus](https://open.spotify.com/album/7ur1AExkPSE4YsO1Kr4apo) | 2:49 | 2021-09-10 |  |
@@ -205,7 +208,7 @@
 | [Ipanema](https://open.spotify.com/track/35wMZtYtVpNS1sVATrU5H5) | [Elixrr River](https://open.spotify.com/artist/1PwXZbR5QgqYL93wbnBzah) | [Pad Guy](https://open.spotify.com/album/3Q3gMjDdZ9BpZhz05TqL1s) | 4:29 | 2021-10-14 | 2025-02-21 |
 | [Jaxxon](https://open.spotify.com/track/0AhsGBXcirKOnkoOnATDuI) | [Hillside Reds](https://open.spotify.com/artist/2UPmPftzM6G8utXa3RQ2MB) | [Jaxxon](https://open.spotify.com/album/2uQPnSPTSyBx4uOd7UyFQY) | 2:57 | 2022-03-04 |  |
 | [Jetset](https://open.spotify.com/track/7dGTXRCBJ3cICSy9hk7BH5) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Jetset](https://open.spotify.com/album/1dSijj9syslNHC3zNURsB5) | 2:30 | 2022-07-29 |  |
-| [Joker](https://open.spotify.com/track/7CAwp6JcKR1aIZc6unYpOV) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Joker](https://open.spotify.com/album/2VoCKMm05uZR0Rxu7Pk28P) | 3:28 | 2022-05-13 |  |
+| [Joker](https://open.spotify.com/track/7CAwp6JcKR1aIZc6unYpOV) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Joker](https://open.spotify.com/album/2VoCKMm05uZR0Rxu7Pk28P) | 3:28 | 2022-05-13 | 2025-12-06 |
 | [Journey In](https://open.spotify.com/track/4ir4jAGbMUcLpIfRGI77Ir) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 1:36 | 2021-04-26\* | 2022-05-14 |
 | [JOYFUL VS HAPPINESS](https://open.spotify.com/track/5guZOtwuwy2eIJoKOKwK0D) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [JOYFUL VS HAPPINESS](https://open.spotify.com/album/6XSdGUawSNRkrOmkKh4Tzy) | 3:16 | 2022-03-18 |  |
 | [julep](https://open.spotify.com/track/0ETX9i6qiLxEvuFV7QcjPS) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Uno Dos Tres](https://open.spotify.com/album/64bGvDTlBn0tnDpNdCUYvy) | 2:19 | 2023-01-20 |  |
@@ -252,6 +255,7 @@
 | [Marked Up](https://open.spotify.com/track/7Co6bjlT6ZHgsl2fg3Xaih) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Tainted Colors](https://open.spotify.com/album/3U5MauOzORBRc3nNHFlqOa) | 2:36 | 2021-04-26\* | 2021-10-14 |
 | [Material Culture](https://open.spotify.com/track/4j5cGnoN4zuFzSJEul5NvW) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Joke's On Us](https://open.spotify.com/album/1Luifp19S1RPreTk3D3vur) | 2:23 | 2021-06-04 | 2021-08-26 |
 | [Me Gusta](https://open.spotify.com/track/2ThRvXmltv1SkilmCu4wr0) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [The Cat's Meow](https://open.spotify.com/album/6S5Saal4XqDxBcTXQd1EoT) | 2:05 | 2022-05-27 |  |
+| [melatonin](https://open.spotify.com/track/4ncGPpQvosV0rvN5EDvVuU) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [melatonin](https://open.spotify.com/album/3kvWPRYHjJ1y86eqLFZGVF) | 2:16 | 2025-12-05 |  |
 | [Mercurius](https://open.spotify.com/track/3guR8KSDggjcN48E842Lej) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Mercury](https://open.spotify.com/album/56Ya5BBZYURMJpPANIb8Yx) | 2:31 | 2021-04-26\* | 2021-08-26 |
 | [Mesopotamia](https://open.spotify.com/track/1AQzhq2Bj2s4spmrn0UnpY) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [Mesopotamia](https://open.spotify.com/album/7HAi2VEkiPyPhSCgRt5gDf) | 2:14 | 2021-11-10 | 2022-03-05 |
 | [Meta](https://open.spotify.com/track/0sZ9fmHC8sn257DvXmi1f2) | [Backyard Ballet](https://open.spotify.com/artist/0avNlMblKvYPEmla2XWTPz) | [Meta](https://open.spotify.com/album/7b8EYqxUP2blm6c0mJ0cXK) | 4:00 | 2021-07-09 |  |
@@ -280,13 +284,13 @@
 | [Nite Flight](https://open.spotify.com/track/3AJvAH7PQB6h2P7W2KKEUN) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:11 | 2022-06-10 |  |
 | [No Club Nights](https://open.spotify.com/track/3CX9woVxbNze4MJ5EvTJeL) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [No Club Nights](https://open.spotify.com/album/66XlREt4HOxq7C4Z5qT4dI) | 3:49 | 2021-10-14 |  |
 | [No One Can Love Me Like I Do](https://open.spotify.com/track/3zwjwMgH8AkbaPndKL0Rb0) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [No One Can Love Me Like I Do](https://open.spotify.com/album/4roAGtuRhpXaDTL4gRAbJX) | 2:42 | 2021-04-26\* | 2022-05-14 |
-| [Nuttin](https://open.spotify.com/track/5U0yfmhalBtJN5gs25JGDG) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Nuttin](https://open.spotify.com/album/7MxGgLhLqVfFgOmAOcCEMn) | 2:15 | 2021-10-14 |  |
+| [Nuttin](https://open.spotify.com/track/5U0yfmhalBtJN5gs25JGDG) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Nuttin](https://open.spotify.com/album/7MxGgLhLqVfFgOmAOcCEMn) | 2:15 | 2021-10-14 | 2025-12-06 |
 | [NVM](https://open.spotify.com/track/7b6fkO1E82zlDRAxi03Wt7) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [NVM](https://open.spotify.com/album/1gGQhagIt71G0DZ37mJrg7) | 2:12 | 2024-08-30 |  |
 | [Old Life](https://open.spotify.com/track/5jTEXJdrOSS42EDMyzzfga) | [Xilo Xaxo](https://open.spotify.com/artist/2K4dC388oTw9qfuGhsK0ba) | [Old Life](https://open.spotify.com/album/5xwUo1oCtRrzKZECwFGL9X) | 4:03 | 2021-07-09 | 2022-05-14 |
 | [Omit The Feeble Meat](https://open.spotify.com/track/6MX2R5xvIUf6c6Q9cjoSJN) | [Squirrely Bass](https://open.spotify.com/artist/16szDgocdMVICKd53On8MK) | [Omit The Feeble Meat](https://open.spotify.com/album/1LiXDvjxnxdnnCiw7Xbplf) | 2:41 | 2021-06-04 | 2021-06-18 |
 | [One Call Away](https://open.spotify.com/track/2QyqR3aM0QBsgoFBALBVyR) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [One Call Away](https://open.spotify.com/album/3BwfSQ7LGLCkCAREkpcsDP) | 2:28 | 2021-11-10 | 2025-02-21 |
 | [OneTwo](https://open.spotify.com/track/0BzXb43npjCoedlPHH3W2X) | [Zig Zagger](https://open.spotify.com/artist/2zypz5VQ9xGRQkgZMQmZla) | [OneTwo](https://open.spotify.com/album/2Icm2s5LdBApWfvalmokYn) | 2:54 | 2021-04-26\* | 2021-09-10 |
-| [Onimous](https://open.spotify.com/track/1URMoYHbn66BXWNoymgg0o) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Onimous](https://open.spotify.com/album/2ZC52vxVjtHsPoBuqaDb8l) | 2:19 | 2023-07-19 |  |
+| [Onimous](https://open.spotify.com/track/1URMoYHbn66BXWNoymgg0o) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Onimous](https://open.spotify.com/album/2ZC52vxVjtHsPoBuqaDb8l) | 2:19 | 2023-07-19 | 2025-12-06 |
 | [Oopsy](https://open.spotify.com/track/3OUA1bhQpKkLH05dy9POEz) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Soul Waste](https://open.spotify.com/album/4ungK52Ght7QUuKwRc0rlF) | 2:47 | 2021-06-04 | 2022-10-29 |
 | [Operation Chaos](https://open.spotify.com/track/0sWKVy4Z3TraqZT3r70TLA) | [4Traks](https://open.spotify.com/artist/5FbfJVwTIC5N1m85sBoil0) | [Operation Chaos](https://open.spotify.com/album/5yBAcO2ny2fw5ayEvAZ9QT) | 2:52 | 2021-07-09 | 2021-10-14 |
 | [Orchid](https://open.spotify.com/track/2YCCzhXCvptKWzr2aN5Lbv) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Orchid](https://open.spotify.com/album/376EH4CpgOo1mCyj6z7nsb) | 2:34 | 2021-04-26\* | 2021-10-14 |
@@ -307,7 +311,7 @@
 | [Pollution](https://open.spotify.com/track/5bEuOEohMirZGj6kVUKTFV) | [Casiiwool](https://open.spotify.com/artist/5KutRizSdKD7jYEhULGXKu) | [Pollution](https://open.spotify.com/album/59ClEdPWnq2y8FXYCRiUTk) | 2:41 | 2024-03-26 |  |
 | [Polyphonic Plunder](https://open.spotify.com/track/11Y8lwKvl0Jv3MiLG1VPZV) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Polyphonic Plunder](https://open.spotify.com/album/5Jigk4DPxIld2zBWAZj46l) | 2:49 | 2024-08-30 |  |
 | [Powerwalk](https://open.spotify.com/track/2ph6ScN92MMhfJQfRrU1nJ) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Wheel of Life](https://open.spotify.com/album/2SwyzaK73I5ynws5UNyfyg) | 2:56 | 2021-04-26\* | 2021-06-18 |
-| [Presi Face](https://open.spotify.com/track/52v3ynq7TeiusKESiwUIRv) | [Jharee](https://open.spotify.com/artist/1h8ZzbKCnh7wCxDH8Z3iJi) | [Presi Face](https://open.spotify.com/album/2elmCoxrHi4lsKaIuMfjV7) | 3:10 | 2022-05-27 |  |
+| [Presi Face](https://open.spotify.com/track/52v3ynq7TeiusKESiwUIRv) | [Jharee](https://open.spotify.com/artist/1h8ZzbKCnh7wCxDH8Z3iJi) | [Presi Face](https://open.spotify.com/album/2elmCoxrHi4lsKaIuMfjV7) | 3:10 | 2022-05-27 | 2025-12-06 |
 | [Pride and Joy](https://open.spotify.com/track/4ShqE9f4IFXIWAkfzQlGZe) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Pride and Joy](https://open.spotify.com/album/3aYlBOUie41gTAOqwRK2Wr) | 3:10 | 2025-03-21 |  |
 | [Primetime](https://open.spotify.com/track/6ykb5iNlaQvvK2dDnKdGVq) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Midas Touch](https://open.spotify.com/album/0MZgSxNdAJyb1IN6y2Z2AE) | 2:21 | 2021-04-26\* | 2021-08-26 |
 | [Project X](https://open.spotify.com/track/1TbEJzyaY8hRgyqX2vOFs0) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Project X](https://open.spotify.com/album/6tv6vvfGMIykmGB5JDjyXT) | 3:15 | 2023-03-27 | 2024-08-31 |

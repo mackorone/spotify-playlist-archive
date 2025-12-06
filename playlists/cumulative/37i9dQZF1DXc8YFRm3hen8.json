@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 177361,
       "name": "alguien que yo no es",
       "url": "https://open.spotify.com/track/6bNKsd0yqRy9GNOBr8H3X5"
@@ -3785,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/7dBpmGvDx4TLkxcRps4Mfr"
+      },
+      "artists": [
+        {
+          "name": "Parientes",
+          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218943,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/48vROM5AxWZtBhynXjcFYi"
+    },
+    {
+      "album": {
         "name": "Levanta",
         "url": "https://open.spotify.com/album/1nJhV6uEhavtkwjZcGTNxK"
       },
@@ -5012,6 +5030,24 @@
       "duration_ms": 146139,
       "name": "no me mires as\u00ed",
       "url": "https://open.spotify.com/track/6CjDOZBy0rR88f8poJUAgV"
+    },
+    {
+      "album": {
+        "name": "Lady Garr\u00f3n",
+        "url": "https://open.spotify.com/album/5GpowTlDdjO8288epvUtWK"
+      },
+      "artists": [
+        {
+          "name": "La Grecia",
+          "url": "https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197076,
+      "name": "No Pares (S\u00ed, s\u00ed)",
+      "url": "https://open.spotify.com/track/1Q7Gq9wfgvEiQr5ErcD0Ks"
     },
     {
       "album": {
@@ -6908,7 +6944,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"

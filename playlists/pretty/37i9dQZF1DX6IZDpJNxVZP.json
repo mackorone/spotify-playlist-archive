@@ -1,13 +1,65 @@
 {
   "description": "Celebrate the season with these fun tracks",
-  "num_followers": 71185,
+  "num_followers": 71182,
   "original_name": "Kids Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACfShXs2nTBkTNg3WUJQCR/AAQ4C",
+  "snapshot_id": "AAAAADSq/C9th9gIEfVTYePh1Iskly/C",
   "tracks": [
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "We Are Elves",
+        "url": "https://open.spotify.com/album/4OW4RnyuWb3sDOYforLO5D"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 129125,
+      "name": "We Are Elves",
+      "url": "https://open.spotify.com/track/5ukNSmBxkPqqMn6WtlSxq9"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "Snowy Guy",
+        "url": "https://open.spotify.com/album/2BokL9eq9g4oL7bxlJ2m2l"
+      },
+      "artists": [
+        {
+          "name": "Teacher Peter",
+          "url": "https://open.spotify.com/artist/4qK4Sehk0WdkDGP80zo4xY"
+        }
+      ],
+      "duration_ms": 179294,
+      "name": "Snowy Guy",
+      "url": "https://open.spotify.com/track/2Gswnh7Q7Ke7ww1LPy5mq5"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "Santa Slide",
+        "url": "https://open.spotify.com/album/2cWjMJQ1AnWc6ofqTGYHCG"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 244303,
+      "name": "Santa Slide",
+      "url": "https://open.spotify.com/track/0FOBjG6E1MUNmdnBbVsPNM"
+    },
     {
       "added_at": "2025-11-28 05:39:05",
       "album": {
@@ -23,6 +75,38 @@
       "duration_ms": 238240,
       "name": "Last Christmas (Peppa's Version)",
       "url": "https://open.spotify.com/track/7LqBUQjQiq9tS5hnCYtklP"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "(There's No Place Like) Home for the Holidays",
+        "url": "https://open.spotify.com/album/3sFTN9oLLx1Uf7s9SAJdC3"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "duration_ms": 163191,
+      "name": "(There's No Place Like) Home for the Holidays",
+      "url": "https://open.spotify.com/track/2idi5I889jAesEa8GM3lQb"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "Christmas Twirls 2",
+        "url": "https://open.spotify.com/album/2oc4GpBImDKyGYesOmNof3"
+      },
+      "artists": [
+        {
+          "name": "Emma Memma",
+          "url": "https://open.spotify.com/artist/2PS0ZMl0nYZdad60L9AXs2"
+        }
+      ],
+      "duration_ms": 144066,
+      "name": "Christmas Crackers",
+      "url": "https://open.spotify.com/track/5ZrrKfTza0HPxhnPJKkeIX"
     },
     {
       "added_at": "2025-11-28 05:00:17",

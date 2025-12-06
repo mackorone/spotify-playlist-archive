@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Noyz in cover della playlist urban più grande d'Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131,528 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131,391 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Prega X Noi](https://open.spotify.com/track/2evObuXNzBUnxDlzoJ8dbf) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [XDVR ANNIVERSAR10](https://open.spotify.com/album/1VBH2Mc9wa7ZtuIHc0tA1t) | 2:23 |
-| 2 | [Take 6](https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 6](https://open.spotify.com/album/5rBSou2aGWqVv28GiYx11N) | 2:44 |
-| 3 | [FINALE DIVERSO \(feat\. Shiva\)](https://open.spotify.com/track/5fJioNT3gcSavYrplGXmqF) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [FUNNY GAMES](https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf) | 2:58 |
-| 4 | [081](https://open.spotify.com/track/5EtlojWtD8y7pnoDb80JwP) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [081](https://open.spotify.com/album/6V1z5I1Bxnxt2GixkZa2To) | 2:55 |
+| 1 | [081](https://open.spotify.com/track/5EtlojWtD8y7pnoDb80JwP) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [081](https://open.spotify.com/album/6V1z5I1Bxnxt2GixkZa2To) | 2:55 |
+| 2 | [FINALE DIVERSO \(feat\. Shiva\)](https://open.spotify.com/track/5fJioNT3gcSavYrplGXmqF) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [FUNNY GAMES](https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf) | 2:58 |
+| 3 | [Prega X Noi](https://open.spotify.com/track/2evObuXNzBUnxDlzoJ8dbf) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [XDVR ANNIVERSAR10](https://open.spotify.com/album/1VBH2Mc9wa7ZtuIHc0tA1t) | 2:23 |
+| 4 | [Take 6](https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 6](https://open.spotify.com/album/5rBSou2aGWqVv28GiYx11N) | 2:44 |
 | 5 | [Ogni Male](https://open.spotify.com/track/28v57vssZ488EEIBivY3NF) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 3:27 |
 | 6 | [COME SE NON FOSSI NEI GUAI](https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:29 |
 | 7 | [FELLINI \(feat\. Kid Yugi\)](https://open.spotify.com/track/0rjVRGqVuNwnGCxwBkBZXd) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Invincibile](https://open.spotify.com/track/5VLkfva2Q2W9FJRYPLvtL7) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Invincibile](https://open.spotify.com/album/0ioh25cYIvvplbbax3OQ45) | 2:39 |
 | 50 | [2 FRAT](https://open.spotify.com/track/3lfoDvu8QOhGX5iTK8UKsR) | [Le Scimmie](https://open.spotify.com/artist/4ZWezIz4lP1tqeBaO9eoie), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [2 FRAT](https://open.spotify.com/album/3NtgFylmX1QdICBE6QaIpB) | 3:16 |
 
-Snapshot ID: `AAAAAH6M/Epo1zwso2uFH5S4AQJHxjjf`
+Snapshot ID: `AAAAAPrSLjlRqcS2jAjGlCGrC3JybMCa`

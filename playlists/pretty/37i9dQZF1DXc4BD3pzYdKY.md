@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Andy Mineo
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,679 likes - 115 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,712 likes - 115 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 30 | [DA HEAT](https://open.spotify.com/track/7g1fl7RczZajWUclSeGTIW) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [DA HEAT](https://open.spotify.com/album/79gDgHYwMuBVAuuA1vQKhO) | 2:02 |
 | 31 | [MAN ABOVE](https://open.spotify.com/track/6j3WTzuSCJIIsgw8giRSmv) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [MAN ABOVE](https://open.spotify.com/album/2cJP4CkasNZFijvuoTLIAo) | 3:08 |
 | 32 | [GTA 6](https://open.spotify.com/track/2pTIbtODPQ9dtQuD3rPaTp) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Wordsplayed](https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO), [Magic & Bird](https://open.spotify.com/artist/3Sv0RnybkUFxZfPJJlSV2x) | [GTA 6](https://open.spotify.com/album/0ugJnZKfTyqaZYXPScO2Yy) | 2:47 |
-| 33 | [THAT'S GOD](https://open.spotify.com/track/1dhmpK7hQvaXVinvSEqES6) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [THAT'S GOD](https://open.spotify.com/album/3iB1QfQLWeVjcC9BAOZT90) | 3:34 |
+| 33 | [THAT'S GOD](https://open.spotify.com/track/1dhmpK7hQvaXVinvSEqES6) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [HOLY GIRL X HLY GRL](https://open.spotify.com/artist/2TE8gW7sPrfsioHuohzF4Y) | [THAT'S GOD](https://open.spotify.com/album/3iB1QfQLWeVjcC9BAOZT90) | 3:34 |
 | 34 | [Prodigal!](https://open.spotify.com/track/3InuSnOxwOHX5XQxcpEbcR) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Prodigal!](https://open.spotify.com/album/4adW6JJDRPlF8q2Nze0gmG) | 2:29 |
 | 35 | [ALLRIGHTYTHEN](https://open.spotify.com/track/3mzsBxurkkBrfEVVMR3S8Y) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [ALLRIGHTYTHEN](https://open.spotify.com/album/4fM8UYFTF8cT00UfNQCr3F) | 2:32 |
 | 36 | [MOVE IT!](https://open.spotify.com/track/6dZs0oUsbP92TrYTjgT0WQ) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2) | [MOVE IT!](https://open.spotify.com/album/5DppqyfNhiABXmN6lrrmnk) | 2:54 |

@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-375 songs - 19 hr 16 min
+376 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Jinni Sohni](https://open.spotify.com/track/7qEILSItgZvsQAQEQzFTDF) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Jinni Sohni](https://open.spotify.com/album/4zbgtk9MRJkw5xVTIYfQrw) | 3:27 | 2025-05-06 | 2025-07-04 |
 | [Jitt Da Swad](https://open.spotify.com/track/2QvDGjDnWnqPT3Yetnpr7v) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Music Empire](https://open.spotify.com/artist/4LqmswmlN0mAZs930MjGOt), [Sidhu Sarabjit](https://open.spotify.com/artist/56A1SYMxgHpsnzKdp4nOgc) | [Farmhouse](https://open.spotify.com/album/3pt2TFlHkZ7RPLX3sQuLvm) | 3:53 | 2025-09-30 |  |
 | [Jogi](https://open.spotify.com/track/3IsXkCbvdN0cIuNKGTJsq4) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [The Album](https://open.spotify.com/album/4M7pIA0U45CEENfXwbGB0g) | 3:11 | 2025-05-01 | 2025-05-09 |
+| [Jogiya Ve](https://open.spotify.com/track/662IKhMb0yBxeL8Vt7T9r4) | [Charu Semwal](https://open.spotify.com/artist/0FZSgBJOCewSSnUg6pzKp2), [DJ Yogii](https://open.spotify.com/artist/2kObkFKhEbrHb7cnSfrRw1), [Kiss 'N' Tell](https://open.spotify.com/artist/5a2sG2MdibGu3r7HBvvrhV), [Karan Butter](https://open.spotify.com/artist/4kMEQaUrDMJ0GID48cSf1a) | [Jogiya Ve](https://open.spotify.com/album/0KWVWJufuiwKRjM57Xz8NT) | 3:38 | 2025-12-05 |  |
 | [Johnnie Walker](https://open.spotify.com/track/7tErHOovEq5zRlmod4wrq8) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:09 | 2024-10-10 | 2025-01-09 |
 | [Jutti Jharh](https://open.spotify.com/track/2jEf6dXLaPI8yAZg7Vbeb4) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc) | [Maestro](https://open.spotify.com/album/7FSbJIEwRbshZxv6b32svd) | 2:56 | 2025-02-28 |  |
 | [Kadar](https://open.spotify.com/track/6dJ3qICD3mFsPpaGAXVme9) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 3:09 | 2025-01-08 | 2025-01-10 |
@@ -323,7 +324,7 @@
 | [Step Bhull Gyi](https://open.spotify.com/track/2wJdq8jS5hKKQHbPBjynQx) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Bhadauria](https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0) | 3:16 | 2025-01-08 |  |
 | [Still Blessed](https://open.spotify.com/track/07HEIcwXVL3RE6fbttEeAp) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Still Blessed](https://open.spotify.com/album/1Tl4m3E5DZxWKnho6jmC2x) | 2:26 | 2025-03-10 |  |
 | [Still Standing](https://open.spotify.com/track/6qJwdPK0bMWyX2ys3lZ23y) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [Underrated](https://open.spotify.com/album/2k3QwEDSQHgQLclE3Cvcov) | 2:38 | 2021-12-18 | 2023-09-02 |
-| [Stoole](https://open.spotify.com/track/7LAlUMPRkSEdTCBAzPiSTQ) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Stoole](https://open.spotify.com/album/5w95INvDMDcVJiH9NoWHRp) | 2:49 | 2025-07-16 |  |
+| [Stoole](https://open.spotify.com/track/7LAlUMPRkSEdTCBAzPiSTQ) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Stoole](https://open.spotify.com/album/5w95INvDMDcVJiH9NoWHRp) | 2:49 | 2025-07-16 | 2025-12-06 |
 | [Success Talks](https://open.spotify.com/track/7gmZMFm1iLDKefXdUMaI8y) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Success Talks](https://open.spotify.com/album/1CvVfkTzmA4rQXqPR2FsH2) | 2:08 | 2025-08-07 | 2025-10-09 |
 | [Suit](https://open.spotify.com/track/3EOBuU6ms5W3LoWlnGRTuz) | [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u), [Kumar Sahil](https://open.spotify.com/artist/2DOYxoQan00SZBMou9EETe), [Satti Chhajla](https://open.spotify.com/artist/58fF5UwcPuFTQSGznYs3IJ) | [BEYOND LIVE](https://open.spotify.com/album/35srwepK13GKWsOV5x2d7E) | 2:27 | 2025-06-16 | 2025-06-21 |
 | [Sun Jattiye \(feat\. Charnpreet Dhillon\)](https://open.spotify.com/track/7BIW2l0LjfmWqVUVdpZUAd) | [Dilbag Sandhu](https://open.spotify.com/artist/0Zm7CWUz4LPYRWaxs4JYAx), [Manpreet Hans](https://open.spotify.com/artist/0EL0VMv1reqwgvfBSrxWmT), [Charnpreet Dhillon](https://open.spotify.com/artist/42MQDEs0fRWYRGfFJyXeXq) | [Sun Jattiye \(feat\. Charnpreet Dhillon\)](https://open.spotify.com/album/1TrguiaWd1KSOrbGIA5RiK) | 3:01 | 2025-03-13 | 2025-03-20 |

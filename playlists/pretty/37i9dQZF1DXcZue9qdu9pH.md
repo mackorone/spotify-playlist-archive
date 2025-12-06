@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,810 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,815 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 49 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 |
 | 50 | [what about us](https://open.spotify.com/track/2fNDML0aFVVowxSRcEv7FV) | [DENO](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 2:37 |
 
-Snapshot ID: `AAAAADm8DXDNqsL2Ng3FvQAZ5Sw6AFsE`
+Snapshot ID: `AAAAALVl3AxSBPDJlglPUGBl75YLHVVv`

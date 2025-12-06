@@ -4999,6 +4999,28 @@
     },
     {
       "album": {
+        "name": "Country Therapy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6IaoIdtQloEUu1ANKc4MLf"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        },
+        {
+          "name": "Wynn Williams",
+          "url": "https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164059,
+      "name": "Here for the Beer",
+      "url": "https://open.spotify.com/track/5jd2LwJTwtiYyh87YjTmxD"
+    },
+    {
+      "album": {
         "name": "The Light Saw Me",
         "url": "https://open.spotify.com/album/4al4QK2Lk29ZOSr4F7DZvE"
       },
@@ -9058,7 +9080,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 219400,
       "name": "Roadrunner",
       "url": "https://open.spotify.com/track/0MyEVn9U5jVhuhIEmPKMoS"

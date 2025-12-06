@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Noyz in cover.
 
-601 songs - 1 day 9 hr 58 min
+602 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Il Battesimo \(feat\. Inoki\)](https://open.spotify.com/track/1uH3J5qTcl28NtgQnJS0EN) | [Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Il Battesimo \(feat\. Inoki\)](https://open.spotify.com/album/3JblzSFeepGWBtXHyL81fs) | 2:27 | 2025-10-09 |  |
 | [IL BUIO NELLE MANI](https://open.spotify.com/track/7JAnEkBz3SrjZRU77RQvC1) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [KLOAKA](https://open.spotify.com/album/6ptTGB6ZAA2QIBJwe0iZBF) | 2:30 | 2025-01-21 |  |
 | [Il cielo su Roma](https://open.spotify.com/track/3RoqLs6Yg8BZmPQY5V3RhQ) | [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Scienza Doppia H](https://open.spotify.com/album/3u4WgJNCy0yd3nToIOpCjo) | 4:48 | 2022-07-28 | 2024-04-19 |
-| [Il cielo su Roma](https://open.spotify.com/track/4mrWDWjC6Y9dnIMPxgIoYv) | [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Scienza Doppia H](https://open.spotify.com/album/6iP6Jd4qxKDuZix6wu7dVk) | 4:48 | 2022-05-05 |  |
+| [Il cielo su Roma](https://open.spotify.com/track/4mrWDWjC6Y9dnIMPxgIoYv) | [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Scienza Doppia H](https://open.spotify.com/album/6iP6Jd4qxKDuZix6wu7dVk) | 4:48 | 2022-05-05 | 2025-12-06 |
 | [Il coraggio di dirti](https://open.spotify.com/track/18FcA4logPoWj73sYqanLU) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Questo non è un cane](https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY) | 2:46 | 2022-09-15 | 2024-04-26 |
 | [Il fratello più grande](https://open.spotify.com/track/2mGjwej9HtVqhnxBpL1yVR) | [Azot1](https://open.spotify.com/artist/6TWqt579YNPGJCJ6CRG6un), [Zonta](https://open.spotify.com/artist/2OkeK9hCejCVIvGB403OVA) | [Il fratello più grande](https://open.spotify.com/album/7kmCyd69zKg2QKoCSDYD2n) | 2:27 | 2025-03-27 | 2025-05-17 |
 | [Il mare](https://open.spotify.com/track/3EJYbCaCVlBp5NyJA4hpNb) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Il mare](https://open.spotify.com/album/2zpk2E75vc1zFbhUrsMx1E) | 3:38 | 2022-05-12 | 2022-07-24 |
@@ -349,6 +349,7 @@
 | [Miscela](https://open.spotify.com/track/2PXCGlSOxOlDlfGe5hL2ER) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7) | [Miscela](https://open.spotify.com/album/2eNCjmqeFRuzaqymixZfl0) | 2:27 | 2023-10-05 | 2024-05-18 |
 | [MISERABILE](https://open.spotify.com/track/1U8UISHXkDT6lEXMpBOmSw) | [Macaboro](https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9) | [MISERABILE](https://open.spotify.com/album/3pw6wIkDLsG3a9BB0c4Zr1) | 2:31 | 2024-05-09 | 2025-01-10 |
 | [Modo](https://open.spotify.com/track/2o0p3cv07zS46ieNAwfKlW) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dj Kamo](https://open.spotify.com/artist/70gSqeThzMyjZt29jDdMh6), [Oyoshe](https://open.spotify.com/artist/6t49JCW50szpbRh9TuX2s8) | [Modo](https://open.spotify.com/album/2zp7KQL4JmQHf5NbQt3Ygk) | 4:03 | 2023-12-07 | 2023-12-21 |
+| [Modus Operandi](https://open.spotify.com/track/7cDrxc8g7AnIhrwFhSiV1U) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS) | [Modus Operandi](https://open.spotify.com/album/2WTTRseuCoYyC0GaKgfnqN) | 3:06 | 2025-12-04 |  |
 | [Moltisanti](https://open.spotify.com/track/3yT47dCQpoJE4Uy1Hmf9oi) | [Armani Doc](https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC), [ThinkFast](https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T), [Nex Cassel](https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP) | [GIFTED](https://open.spotify.com/album/6Sxy1EntT5Zo3xFCwyXKKs) | 3:23 | 2023-11-09 | 2024-07-19 |
 | [Momenti no](https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Mr\. Simpatia](https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf) | 4:19 | 2022-05-05 |  |
 | [Mondo Marcio Gue Pequeno \(feat\. Guè\) \- 2022 Remastered](https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Fuori di qua! \(Stories\) \[2022 Remastered\]](https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn) | 2:39 | 2022-05-05 |  |

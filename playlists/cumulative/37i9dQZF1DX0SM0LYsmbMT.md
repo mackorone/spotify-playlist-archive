@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,470 songs - 7 day 1 hr 57 min
+4,471 songs - 7 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1432,7 +1432,7 @@
 | [Georgia](https://open.spotify.com/track/02u7h45sCjGQj32LjoUZ2f) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Georgia](https://open.spotify.com/album/7yE9HYhxgl5ewadykqPr7z) | 2:17 | 2020-09-11 | 2020-12-18 |
 | [Gerocco](https://open.spotify.com/track/7p1gJlddiggTIbhCyRrGL1) | [Fab Beat](https://open.spotify.com/artist/4J9EaXhlfJgEEVaN4hPkE6), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Gerocco](https://open.spotify.com/album/2E1JAFBTWbXAZTnGrr8tAb) | 4:31 | 2020-06-16 | 2020-09-11 |
 | [Geschenkartikel](https://open.spotify.com/track/4nucsO8MZD7RkZoO99UAFS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Geschenkartikel](https://open.spotify.com/album/0Z2WHijSaoaX1geunDOJT7) | 2:16 | 2020-08-07 | 2020-12-18 |
-| [Gesmis 4 Children](https://open.spotify.com/track/4nrIYNcJ6gXlpI5fSEpOE0) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Gesmis 4 Children](https://open.spotify.com/album/5au3JWPNdThrkxbUPJUgTh) | 2:12 | 2023-10-19 |  |
+| [Gesmis 4 Children](https://open.spotify.com/track/4nrIYNcJ6gXlpI5fSEpOE0) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Gesmis 4 Children](https://open.spotify.com/album/5au3JWPNdThrkxbUPJUgTh) | 2:12 | 2023-10-19 | 2025-12-06 |
 | [Get It Right](https://open.spotify.com/track/3oyY1hhLvW5PBXDchk26RB) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Get It Right](https://open.spotify.com/album/6E3KDEJOLwQsXsCK05ksfa) | 1:28 | 2020-12-18 | 2021-06-18 |
 | [Get Jiggy](https://open.spotify.com/track/0Ju3PehBh7EtaYucnjyqpN) | [Chilles](https://open.spotify.com/artist/13uNHvieT91AQEZiuno4KU) | [Get Jiggy](https://open.spotify.com/album/4KsjfiecLj1B4yvi9J0oO4) | 1:51 | 2021-12-23 | 2022-01-07 |
 | [Get Nasty](https://open.spotify.com/track/049jvv13X6K341xRCHko8p) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Get Nasty](https://open.spotify.com/album/3HI5iGzJu1NtmtRBSOTjl9) | 1:43 | 2021-07-20 | 2021-10-01 |
@@ -2145,6 +2145,7 @@
 | [Like Night Owls](https://open.spotify.com/track/6D6WzLKZ0e7qnHsANlslAQ) | [This Is Tomorrow](https://open.spotify.com/artist/3G5wyB2uNUo9x4nFXgPrws) | [Like Night Owls](https://open.spotify.com/album/5iNSTGaMQevZHHL5EzgLhL) | 2:19 | 2021-08-19 | 2021-09-17 |
 | [Like Water](https://open.spotify.com/track/5vLmed5xWfDEiwAbkBPOQG) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Like Water](https://open.spotify.com/album/2eJNHf8JiIcGStoofUu82q) | 2:05 | 2021-08-13 | 2021-11-12 |
 | [Like You](https://open.spotify.com/track/0wycCZ0b3g2NoqZV9OtCaM) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Like You / Meant To Be](https://open.spotify.com/album/6itlc8l0JwpO0z4wvShTTt) | 3:00 | 2021-05-21 | 2021-07-30 |
+| [Likewise](https://open.spotify.com/track/48yOuSIiEx6Ub7jFabAgBc) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Likewise](https://open.spotify.com/album/5llO64v0IOmUz9FCBoR71L) | 2:20 | 2025-12-04 |  |
 | [Lil' Trumpet Thingy](https://open.spotify.com/track/0V0DUGOVmvXnLScy3efvtT) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Lil' Trumpet Thingy](https://open.spotify.com/album/7oTa6rECDXk5NcHf79aJzp) | 1:31 | 2021-03-19 | 2021-10-01 |
 | [Lilac](https://open.spotify.com/track/6hRHaEUjl2cHW2P60wPywi) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Lilac](https://open.spotify.com/album/307gPdPkvlkjMIbgoyjwL1) | 2:09 | 2022-11-24 | 2022-12-02 |
 | [Lilac](https://open.spotify.com/track/7LaS9QWfFdYjdOQ7tlZPR8) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym), [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Lilac](https://open.spotify.com/album/0PMzylqRDMWeRmlw4mTfmc) | 2:11 | 2023-08-03 | 2023-08-18 |

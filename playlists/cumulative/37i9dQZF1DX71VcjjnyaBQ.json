@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "Colors of a Journey",
+        "url": "https://open.spotify.com/album/6mhYFTBDJmg0hjy9bQz8gL"
+      },
+      "artists": [
+        {
+          "name": "Naoya Ogura",
+          "url": "https://open.spotify.com/artist/2Qvku9zSPJxzjVoOUaltc7"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262226,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/1igbSb4tcjLyJZCwHCcMfR"
+    },
+    {
+      "album": {
         "name": "Don't Ever Leave Me",
         "url": "https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb"
       },
@@ -3104,7 +3122,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 251863,
       "name": "Professor Nelson Strikes Again - Single Version",
       "url": "https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k"

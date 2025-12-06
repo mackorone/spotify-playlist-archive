@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > Anna\-My & Harrison First with the sound of the Scandi underground
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,117 likes - 255 songs - 16 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,105 likes - 255 songs - 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 3 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 |
 | 4 | [Green Nights](https://open.spotify.com/track/43OTS5qjTsNWe515us0Zd4) | [Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR) | [Green Nights](https://open.spotify.com/album/0UD0pr0kGbY2Y12hy7kVR8) | 2:33 |
 | 5 | [Caramelle](https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Caramelle](https://open.spotify.com/album/1BrC2gUEjYgGHdJQcZCsCC) | 2:00 |
-| 6 | [gossip \- bullet tooth Remix](https://open.spotify.com/track/6JG0EwtSEIDPvh7hZPWRUF) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [](https://open.spotify.com/album/null) | 2:47 |
+| 6 | [gossip \- bullet tooth Remix](https://open.spotify.com/track/6JG0EwtSEIDPvh7hZPWRUF) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Active Scenes Vol One](https://open.spotify.com/album/1J2OimouRz29Pa0bHRhXsc) | 2:47 |
 | 7 | [Mitsubishi \(feat\. Muki\)](https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Mitsubishi \(feat\. Muki\)](https://open.spotify.com/album/6CNCCnwbxxI5Q10DLWI7tC) | 2:56 |
 | 8 | [It Gets Better \- Chris Stussy Remix](https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [It Gets Better \(Chris Stussy Remix\)](https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2) | 4:12 |
 | 9 | [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 22 | [Envy](https://open.spotify.com/track/5MDr91IIzjCOLkb0nWSPK6) | [JOKS](https://open.spotify.com/artist/0r0LJWtOyD5ytquDGA4cdT) | [Envy](https://open.spotify.com/album/3M7YZBplh347Ar4VHOAVCT) | 7:11 |
 | 23 | [flight mode \- Âme Remix](https://open.spotify.com/track/3obxk1RGNTxTZWbxcnHYWx) | [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [BERNT](https://open.spotify.com/artist/3uY7CDg3g84A8y1PoYcATv), [let me you](https://open.spotify.com/artist/4D5bNOz5mLxAdGBqqvqVMS), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [flight mode \(Âme Remix\)](https://open.spotify.com/album/0h0lc2h9IHk77fxS41cpui) | 5:51 |
 | 24 | [I Want You Now](https://open.spotify.com/track/12D0dLy59uXdEtliQ7TvvW) | [AWAŸKEN](https://open.spotify.com/artist/2oNiJMAEXgGuZjkQ9ZERa7) | [I Want You Now](https://open.spotify.com/album/4efBqshhIk4Rn94SVOi3qB) | 7:16 |
-| 25 | [Track 6](https://open.spotify.com/track/2AydczQdL5AH71tyttpWhz) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [](https://open.spotify.com/album/null) | 0:00 |
+| 25 | [Take Me Back](https://open.spotify.com/track/2AydczQdL5AH71tyttpWhz) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Is this even real?](https://open.spotify.com/album/5HoqdkytdUrqRqn7sxLR25) | 3:56 |
 | 26 | [You Should Think Ahead](https://open.spotify.com/track/545JYgtVRRFHf9EcYovxGC) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [You Should Think Ahead EP](https://open.spotify.com/album/1CXrgjDFohX5TOL8oKhxHi) | 6:12 |
 | 27 | [Damn Shame](https://open.spotify.com/track/2rP2VEra1P4bCpfxu4k6uC) | [Andreas Henneberg](https://open.spotify.com/artist/32fCH0Z7B8ydcz40ybZdqg), [Tyler Hill](https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr) | [Damn Shame](https://open.spotify.com/album/0w5sW28QyEnRosZ4Kk09qv) | 5:37 |
 | 28 | [Can't Decide \- Mall Grab Remix](https://open.spotify.com/track/6HqSr1g9KGR2zEqh7TyDye) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Can't Decide \(Mall Grab Remix\)](https://open.spotify.com/album/4e2ODyBiuYVDu1v2miOSop) | 3:10 |

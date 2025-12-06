@@ -9972,7 +9972,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 283137,
       "name": "Portion Control",
       "url": "https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa"
@@ -11377,6 +11377,28 @@
     },
     {
       "album": {
+        "name": "Sorted",
+        "url": "https://open.spotify.com/album/1uuMcP0nxUbVGIShpYec21"
+      },
+      "artists": [
+        {
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+        },
+        {
+          "name": "Banshee The Great",
+          "url": "https://open.spotify.com/artist/6SPJid1jep9GWy3fDFSX8p"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227652,
+      "name": "Sorted",
+      "url": "https://open.spotify.com/track/4TDwUxtt0x4WGzvXJF2iNP"
+    },
+    {
+      "album": {
         "name": "Soup",
         "url": "https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT"
       },
@@ -11442,7 +11464,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 169945,
       "name": "Spazzatura (Italo Disco)",
       "url": "https://open.spotify.com/track/3T7dcfT2PMwybgLexpQg6V"
@@ -14026,6 +14048,24 @@
       "duration_ms": 186154,
       "name": "You Make Me Mad",
       "url": "https://open.spotify.com/track/5WyBmMS2qDyOz8O0OIQUY5"
+    },
+    {
+      "album": {
+        "name": "You're Fine, You're High",
+        "url": "https://open.spotify.com/album/2oOvCfDTv5vvyzHEPZYvjk"
+      },
+      "artists": [
+        {
+          "name": "KuleeAngee",
+          "url": "https://open.spotify.com/artist/7u56IQStytIQ51gm5haOeM"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206204,
+      "name": "You're Fine, You're High",
+      "url": "https://open.spotify.com/track/55O0VAC8CtARQO7qfjibVD"
     },
     {
       "album": {

@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,998 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,990 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Half Full](https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg) | [Levi Boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [Half Full](https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux) | 3:29 |
-| 2 | [The Sailors' Tales](https://open.spotify.com/track/1XJbj3IBytWGi2At0HjcRr) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [The Sailors' Tales](https://open.spotify.com/album/0v6YscOyjviSJ1hqRTqS4T) | 3:24 |
-| 3 | [Heart Talks](https://open.spotify.com/track/3PGZRVnlybWd3Q2lNIgNcs) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Heart Talks](https://open.spotify.com/album/0h02ch3LLJXbUsdvh05BJs) | 2:01 |
-| 4 | [Forest Hills](https://open.spotify.com/track/7aeexgGieEGhvIg7Bm0Bra) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Forest Hills](https://open.spotify.com/album/0w8cg1jEpgA7cANU4qW6ov) | 3:18 |
-| 5 | [In Our Blood \- Acoustic](https://open.spotify.com/track/4a21EACjyMtifGTF1PgheC) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [In Our Blood \(Acoustic\)](https://open.spotify.com/album/4TkThiRr9e9AAuxHYtSHLx) | 3:27 |
-| 6 | [Summertime's Close](https://open.spotify.com/track/37SFV64sDYz3Vbs6lwAjkB) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [Summertime's Close](https://open.spotify.com/album/2mh8X3Q2BcIXIK2N2iomEg) | 3:01 |
-| 7 | [Harder To Love](https://open.spotify.com/track/0oI4tNKqTOURxMAvka5d4r) | [Neil Foreman](https://open.spotify.com/artist/0GRlXaSc9udpxeUuLmP7jo) | [Harder To Love](https://open.spotify.com/album/4s400ZZn2WSPM6CaUfAsHC) | 3:39 |
-| 8 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 |
-| 9 | [Neverland](https://open.spotify.com/track/43lGfxxVamKbqlAROUy8TN) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Neverland / Chalk](https://open.spotify.com/album/6dOcx3mVozgW3EBMqwvH9T) | 3:53 |
-| 10 | [Mi Corazón](https://open.spotify.com/track/2ZW4J99gPkEHLEyUA86pL9) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Mi Corazón](https://open.spotify.com/album/1Y5gS6FbHlySA7wgWytjKb) | 3:15 |
-| 11 | [In Our Veins](https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Superfuse](https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [In Our Veins](https://open.spotify.com/album/5FRHz9MPosdmWqUWdvPGLa) | 3:40 |
-| 12 | [Swords](https://open.spotify.com/track/75ASmXxDMQf6Ntzhq1e8vg) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Swords](https://open.spotify.com/album/5bBvnFuL3lVetizlVozBuW) | 3:23 |
+| 1 | [Mi Corazón](https://open.spotify.com/track/2ZW4J99gPkEHLEyUA86pL9) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Mi Corazón](https://open.spotify.com/album/1Y5gS6FbHlySA7wgWytjKb) | 3:15 |
+| 2 | [In Our Veins](https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Superfuse](https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [In Our Veins](https://open.spotify.com/album/5FRHz9MPosdmWqUWdvPGLa) | 3:40 |
+| 3 | [Swords](https://open.spotify.com/track/75ASmXxDMQf6Ntzhq1e8vg) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Swords](https://open.spotify.com/album/5bBvnFuL3lVetizlVozBuW) | 3:23 |
+| 4 | [Half Full](https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg) | [Levi Boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [Half Full](https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux) | 3:29 |
+| 5 | [The Sailors' Tales](https://open.spotify.com/track/1XJbj3IBytWGi2At0HjcRr) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [The Sailors' Tales](https://open.spotify.com/album/0v6YscOyjviSJ1hqRTqS4T) | 3:24 |
+| 6 | [Heart Talks](https://open.spotify.com/track/3PGZRVnlybWd3Q2lNIgNcs) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Heart Talks](https://open.spotify.com/album/0h02ch3LLJXbUsdvh05BJs) | 2:01 |
+| 7 | [Forest Hills](https://open.spotify.com/track/7aeexgGieEGhvIg7Bm0Bra) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Forest Hills](https://open.spotify.com/album/0w8cg1jEpgA7cANU4qW6ov) | 3:18 |
+| 8 | [In Our Blood \- Acoustic](https://open.spotify.com/track/4a21EACjyMtifGTF1PgheC) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [In Our Blood \(Acoustic\)](https://open.spotify.com/album/4TkThiRr9e9AAuxHYtSHLx) | 3:27 |
+| 9 | [Summertime's Close](https://open.spotify.com/track/37SFV64sDYz3Vbs6lwAjkB) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [Summertime's Close](https://open.spotify.com/album/2mh8X3Q2BcIXIK2N2iomEg) | 3:01 |
+| 10 | [Harder To Love](https://open.spotify.com/track/0oI4tNKqTOURxMAvka5d4r) | [Neil Foreman](https://open.spotify.com/artist/0GRlXaSc9udpxeUuLmP7jo) | [Harder To Love](https://open.spotify.com/album/4s400ZZn2WSPM6CaUfAsHC) | 3:39 |
+| 11 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 |
+| 12 | [Neverland](https://open.spotify.com/track/43lGfxxVamKbqlAROUy8TN) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Neverland / Chalk](https://open.spotify.com/album/6dOcx3mVozgW3EBMqwvH9T) | 3:53 |
 | 13 | [Recall](https://open.spotify.com/track/2CO6d46NdjvCS46IuzN1p7) | [Renata Louisa](https://open.spotify.com/artist/0cUWBPuAswbnFpYvzNAGfE) | [Recall](https://open.spotify.com/album/6ggWukcFVdf59Y6Pp6IYn2) | 1:44 |
 | 14 | [It Takes Ten](https://open.spotify.com/track/63x35hCISEPFns7pGSv8qh) | [Levi Boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [It Takes Ten](https://open.spotify.com/album/1KdJ9Kn7lWYBv17jDUxdGd) | 3:41 |
 | 15 | [Manifestation](https://open.spotify.com/track/72kUwbFY7c0ZbLGgs8IYQw) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Manifestation](https://open.spotify.com/album/36mCsWyAK2arL5ikNX6ib0) | 3:13 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 32 | [Long Blue Light](https://open.spotify.com/track/0f3ad9J70tKjoehsC0Dbl0) | [SJ Hoffman](https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m) | [Long Blue Light](https://open.spotify.com/album/42zZDUf8aA3p7SXgayzLVO) | 3:37 |
 | 33 | [From Up Here](https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8) | 4:37 |
 | 34 | [Pillow Scream](https://open.spotify.com/track/5dt3DHWX8EnVR4QJZ0fhxI) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Pillow Scream](https://open.spotify.com/album/5tDWszKpaH5baAcFGpj6xF) | 3:10 |
-| 35 | [Funny](https://open.spotify.com/track/7FAs7aZKElmNxxhfEXH2vq) | [RAPHA](https://open.spotify.com/artist/17BfKBemmMGO5ZAK25wraW), [Looping Sessions](https://open.spotify.com/artist/6oomHOCNWr4HxwPw9LVz47) | [Funny](https://open.spotify.com/album/4WHaeKXeNf93PZXhTomq9u) | 3:40 |
+| 35 | [Funny](https://open.spotify.com/track/7FAs7aZKElmNxxhfEXH2vq) | [Looping Sessions](https://open.spotify.com/artist/6oomHOCNWr4HxwPw9LVz47), [RAPHA](https://open.spotify.com/artist/17BfKBemmMGO5ZAK25wraW) | [Funny](https://open.spotify.com/album/4WHaeKXeNf93PZXhTomq9u) | 3:40 |
 | 36 | [Queen Of Cove](https://open.spotify.com/track/0z1sXJLDzn7eAmJQgVHMCL) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Queen Of Cove](https://open.spotify.com/album/4SC6oPTwNmb7RgirUsqhzX) | 4:21 |
 | 37 | [How About a Drink?](https://open.spotify.com/track/7Mas27dGjWTu6PSiR7hntp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [How About a Drink?](https://open.spotify.com/album/1w3LJk9aI0OaDqEXtbkexz) | 2:49 |
 | 38 | [Cover To Cover](https://open.spotify.com/track/4yu891jBP6l633Fy4dBokv) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Cover To Cover](https://open.spotify.com/album/1J1VVBCKfD92IYfEZFAY9I) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [Abigail](https://open.spotify.com/track/7agIX3ge0VVzTQAJTvJH5E) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:50 |
 | 100 | [Strongest Girl](https://open.spotify.com/track/4kjgZBKYqcawEEPrKVMleZ) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Strongest Girl](https://open.spotify.com/album/6V6ikokpSTTqRoa0ZySpTu) | 3:27 |
 
-Snapshot ID: `AAAAAFDo+MKp363X713JpyBafYh/QqXD`
+Snapshot ID: `AAAAAOqjInCPdZA+By7Besn72/Iea2Qe`

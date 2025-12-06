@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-1,029 songs - 2 day 7 hr 20 min
+1,030 songs - 2 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -821,9 +821,10 @@
 | [Somebody To You](https://open.spotify.com/track/2BWWsCwuHAZFE1scLyP6Qe) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Meet The Vamps](https://open.spotify.com/album/3XDvXyhPzaPRpGoEjoQI8P) | 3:02 | 2022-07-01 | 2022-07-23 |
 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 | 2025-01-24 | 2025-03-01 |
 | [Someone Else’s Dream](https://open.spotify.com/track/0N7uBJVtUegyKXKegKgjHX) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr) | [Someone Else’s Dream](https://open.spotify.com/album/3DnnsbnubMRwgTADhTGR6f) | 3:20 | 2020-09-11 | 2022-02-12 |
-| [Somersaults](https://open.spotify.com/track/2bAxlpGBYcn03ghPQ9xwwB) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Somersaults](https://open.spotify.com/album/5OhRJIS4bSB5xPWIS875HS) | 2:54 | 2025-11-14 |  |
+| [Somersaults](https://open.spotify.com/track/2bAxlpGBYcn03ghPQ9xwwB) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Somersaults](https://open.spotify.com/album/5OhRJIS4bSB5xPWIS875HS) | 2:54 | 2025-11-14 | 2025-12-06 |
 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 | 2023-12-29 |  |
 | [Sometimes… \(with Daya & Earthgang\)](https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:42 | 2023-05-05 | 2023-08-12 |
+| [Sorted](https://open.spotify.com/track/4TDwUxtt0x4WGzvXJF2iNP) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0), [Banshee The Great](https://open.spotify.com/artist/6SPJid1jep9GWy3fDFSX8p) | [Sorted](https://open.spotify.com/album/1uuMcP0nxUbVGIShpYec21) | 3:47 | 2025-12-05 |  |
 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 | 2024-12-13 | 2025-03-01 |
 | [Space Ghost Coast To Coast \(with Bree Runway\)](https://open.spotify.com/track/4mjV2VrBj1vAOV8dFlXs7i) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Space Ghost Coast To Coast \(with Bree Runway\)](https://open.spotify.com/album/4w5ziqDWymHVdTz2Hd3BRN) | 2:55 | 2021-05-22 | 2021-08-28 |
 | [SPACE INVADER](https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SPACE INVADER](https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL) | 4:34 | 2025-08-15 | 2025-11-15 |

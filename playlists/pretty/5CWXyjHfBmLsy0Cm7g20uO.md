@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 767 likes - 133 songs - 8 hr 17 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 767 likes - 135 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,5 +141,7 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 | 131 | [Женщина](https://open.spotify.com/track/6nMGOXJqekVgIfJWUjyMQt) | [Эрик Шарипов](https://open.spotify.com/artist/4wZEqo5Khk8Dmam8PLe5xq) | [Женщина](https://open.spotify.com/album/1EauWCGwFOiE58e8Gq6Efp) | 3:04 |
 | 132 | [All The Streets Were Empty](https://open.spotify.com/track/2zVQBDD2vKOLpHyCnGiQVk) | [Noxura](https://open.spotify.com/artist/4H1RjP4HLvLn8QMRGsQTaV) | [Afterimages](https://open.spotify.com/album/0KJP6gjrr60y15M8tsPade) | 4:25 |
 | 133 | [Marionettes](https://open.spotify.com/track/2xGSnhB3VhyfMtHD7JlgqS) | [Bunar LifT](https://open.spotify.com/artist/7hMuXhNZMfLVRrnbsvhdbg) | [Marionettes](https://open.spotify.com/album/3eWKIo5H9ekwM7fk79V005) | 4:34 |
+| 134 | [Un Rato Más](https://open.spotify.com/track/13Uh63MZHQSGbAIqYisQoS) | [Ruiz de Lope](https://open.spotify.com/artist/3UxGJoUiyIIIu3LYMBelzR) | [Un Rato Más](https://open.spotify.com/album/60Nv8JoGyzxDKKiv28i5mC) | 3:08 |
+| 135 | [Spent / Burnt](https://open.spotify.com/track/1k97Pr8uDb3hL8Ugelecfy) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:30 |
 
-Snapshot ID: `AAAF0uEEHxgMW3VhyqMi+DGPvz5JPTs1`
+Snapshot ID: `AAAF1M5/KVclPwMJJ+mMjsnTx2AHC/tB`

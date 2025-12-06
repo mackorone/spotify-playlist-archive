@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAADGacWe8hY4wHzrvXkZBrnM",
+  "snapshot_id": "aTDPAAAAAAAHmdQpQNHAcSwOMNfnz95v",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 234240,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/3dYIbbqwLf6WpnnfhqriCG"
+      "duration_ms": 306360,
+      "name": "Pinche Pancho",
+      "url": "https://open.spotify.com/track/5aPW7Izp95syL826w96yO6"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 306360,
-      "name": "Pinche Pancho",
-      "url": "https://open.spotify.com/track/5aPW7Izp95syL826w96yO6"
+      "duration_ms": 234240,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/3dYIbbqwLf6WpnnfhqriCG"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Estoy Ardiendo",
-      "url": "https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teatro Metropolitan 2018 (En Vivo)",
         "url": "https://open.spotify.com/album/3jjZeLI5yIcstu7qFIDgeU"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 343613,
       "name": "Recuerdos (En Vivo)",
       "url": "https://open.spotify.com/track/2OvWNqEgX2avknXMNiJcRM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Estoy Ardiendo",
+      "url": "https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK"
     },
     {
       "added_at": null,
@@ -555,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 304800,
-      "name": "Ya No Te Tengo",
-      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pinches Mariguanos",
-        "url": "https://open.spotify.com/album/089KiimOn0i7lGJJztXELG"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 211146,
-      "name": "Pinches Mariguanos",
-      "url": "https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Presente: Mi Legado",
         "url": "https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5"
       },
@@ -599,6 +567,22 @@
       "duration_ms": 206693,
       "name": "Me Gusta Tu Chava",
       "url": "https://open.spotify.com/track/3WG2OHf4oB8eyuVEnyaD6K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 304800,
+      "name": "Ya No Te Tengo",
+      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 242000,
       "name": "Cayendo",
       "url": "https://open.spotify.com/track/1nRbnhyrtdb7bn7MGWKZrO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinches Mariguanos",
+        "url": "https://open.spotify.com/album/089KiimOn0i7lGJJztXELG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 211146,
+      "name": "Pinches Mariguanos",
+      "url": "https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ford Monttana 69",
-        "url": "https://open.spotify.com/album/7HCQ6BkdaJXCRavfAukoE3"
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 291426,
-      "name": "Pero Apareciste T\u00fa",
-      "url": "https://open.spotify.com/track/7u0Y2ZHmWqIs9FBzxFhzz6"
+      "duration_ms": 214853,
+      "name": "Derramando Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4XOXidN0LU6uX4DcJmwkyB"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+        "name": "Ford Monttana 69",
+        "url": "https://open.spotify.com/album/7HCQ6BkdaJXCRavfAukoE3"
       },
       "artists": [
         {
@@ -716,25 +716,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 214853,
-      "name": "Derramando Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4XOXidN0LU6uX4DcJmwkyB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
-        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Blues para Trabajar - En Vivo",
-      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
+      "duration_ms": 291426,
+      "name": "Pero Apareciste T\u00fa",
+      "url": "https://open.spotify.com/track/7u0Y2ZHmWqIs9FBzxFhzz6"
     },
     {
       "added_at": null,
@@ -755,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebel Cats Y Sus Amigos",
-        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
+        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
       },
       "artists": [
-        {
-          "name": "Rebel Cats",
-          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
-        },
         {
           "name": "Charlie Monttana",
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 146466,
-      "name": "D\u00e9jenme Rockanrolear",
-      "url": "https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ"
+      "duration_ms": 190026,
+      "name": "Blues para Trabajar - En Vivo",
+      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
     },
     {
       "added_at": null,
@@ -787,6 +767,26 @@
       "duration_ms": 175906,
       "name": "La Rubia",
       "url": "https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "D\u00e9jenme Rockanrolear",
+      "url": "https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Barcelona",
-        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 247200,
-      "name": "No Me la Acab\u00f3",
-      "url": "https://open.spotify.com/track/2O6PTggiZQT3kRZ20EIX1v"
+      "duration_ms": 153320,
+      "name": "Perd\u00f3name Mi Amor",
+      "url": "https://open.spotify.com/track/7Mtc9v1kK4jZjQmWi155xM"
     }
   ],
   "unique_name": "This Is Charlie Monttana",

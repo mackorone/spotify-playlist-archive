@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 71441,
+  "num_followers": 71541,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAADwjd89ErFi44+JUpUfEduE",
+  "snapshot_id": "aTDPAAAAAADxL/vKf8kcP6xjz0kVpHgr",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 164746,
+      "name": "Rap Niggas",
+      "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy",
         "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 164746,
-      "name": "Rap Niggas",
-      "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Run It",
         "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 163626,
       "name": "Who Run It",
       "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Left Eye",
+      "url": "https://open.spotify.com/track/4M6wwQvRKBKV6DPLEjEeKJ"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Left Eye",
-      "url": "https://open.spotify.com/track/4M6wwQvRKBKV6DPLEjEeKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Long Nights (feat. Thomas Rhett)",
-      "url": "https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/0jNWu1J9xoi5MYDaCCBapr"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 149767,
       "name": "No Love (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/4bA0warBsmbGTkVRFDTviU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Long Nights (feat. Thomas Rhett)",
+      "url": "https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo"
     },
     {
       "added_at": null,

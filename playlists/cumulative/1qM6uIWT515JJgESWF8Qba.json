@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Queen of the Night",
+        "url": "https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Times for the Dead",
+          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228682,
+      "name": "Queen of the Night",
+      "url": "https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy"
+    },
+    {
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6"
       },

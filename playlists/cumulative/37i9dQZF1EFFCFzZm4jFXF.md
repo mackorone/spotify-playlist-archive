@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-126 songs - 6 hr 57 min
+128 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Jump In](https://open.spotify.com/track/2p4td5ssFstuoFdSxGJwjm) | [Emma Stevens](https://open.spotify.com/artist/4ULAjXdgOJfwASBSBJFTUW) | [Light Year](https://open.spotify.com/album/2S9aF2HWF16IjwQ1RwcEgf) | 2:42 | 2024-06-13 |  |
 | [Kamikaze Camouflage](https://open.spotify.com/track/7kfq2i1lkGF0ObTD5Ke4os) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 2:34 | 2024-06-13 |  |
 | [Keep Me Young](https://open.spotify.com/track/1SO0bZ6XxtXlnRMx5UIFp2) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Keep Me Young](https://open.spotify.com/album/6uXuhIaOMfOb3eX0eMViFW) | 2:55 | 2024-06-13 |  |
+| [Kings](https://open.spotify.com/track/4trzAGt1kMSOku8AVoYYuo) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Kings](https://open.spotify.com/album/6aUaGt9dhm4ZZ1DFAgssSF) | 3:05 | 2025-12-05 |  |
 | [Learn To Let Go](https://open.spotify.com/track/0bkhYOTZjerRS8V6IzTwYP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Learn To Let Go](https://open.spotify.com/album/2plYHT0IWYG709H7dJyY14) | 3:30 | 2024-06-13 |  |
 | [Let It Be Me](https://open.spotify.com/track/3LuxBskB91L142zAYjGJgS) | [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md) | [Let It Be Me](https://open.spotify.com/album/2z39L94jrGseWNHQgUwY4g) | 3:58 | 2024-06-13 | 2025-01-10 |
 | [Light Up](https://open.spotify.com/track/4nwsFIIP3YmIVRpReo0JrC) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Remember To Remember Me](https://open.spotify.com/album/3k1r8pNLVD6Lbq0Qyr9yfk) | 3:04 | 2024-06-13 |  |
@@ -125,6 +126,7 @@
 | [Turn Off The Rain](https://open.spotify.com/track/7tI7ojD4HsrgsMGoloIm80) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Turn Off The Rain](https://open.spotify.com/album/1EYQFHfkKdrgdltWOlRnzp) | 3:39 | 2024-06-13 |  |
 | [Twój](https://open.spotify.com/track/1KZkHbHds54V05FMXfR0Uf) | [Mateusz Golicki](https://open.spotify.com/artist/3ZIGVZeygg8uw2snhprtRO) | [Twój](https://open.spotify.com/album/50wxFePh1Gwc3whyx6jKdO) | 3:06 | 2024-06-13 |  |
 | [Until I Die](https://open.spotify.com/track/6AApDhkIqCqsvQcHr52Bol) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [Until I Die](https://open.spotify.com/album/0SRVVuGlXtvlWPnjxbOpSc) | 2:46 | 2024-06-13 |  |
+| [Violence \(feat\. As December Falls\)](https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Violence \(feat\. As December Falls\)](https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1) | 2:32 | 2025-12-05 |  |
 | [Wash Over Me](https://open.spotify.com/track/3LLWFxfyC5SPaY08i6494p) | [The Beach Hut Sessions](https://open.spotify.com/artist/2HomAAHp1glbdhZh9UHAif), [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [The Beach Hut Sessions, Vol\. 1](https://open.spotify.com/album/1U2CXx9yQX4cOxOyOcRwyC) | 2:49 | 2024-06-13 |  |
 | [We’ll Be United](https://open.spotify.com/track/6gfWIbbvg58sGwn9xs0HW6) | [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [We’ll Be United](https://open.spotify.com/album/7FStOXLKUI6RKt61k4SEgF) | 2:58 | 2024-06-13 |  |
 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 | 2024-09-22 |  |

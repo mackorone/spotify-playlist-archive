@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Currently On Earth",
+        "url": "https://open.spotify.com/album/7fxZTHkdRmh3axTjquZTiT"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/5j2Frre1NAPZXRlPb9ZqPE"
+    },
+    {
+      "album": {
         "name": "MIRROR",
         "url": "https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP"
       },
@@ -4673,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "Boundary",
+        "url": "https://open.spotify.com/album/5YWyPvOYit4QbQvQ8uYZkC"
+      },
+      "artists": [
+        {
+          "name": "Whyte",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180084,
+      "name": "Namaste",
+      "url": "https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd"
+    },
+    {
+      "album": {
         "name": "World",
         "url": "https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1"
       },
@@ -7628,24 +7664,6 @@
       "duration_ms": 232895,
       "name": "Toyota Spaceship",
       "url": "https://open.spotify.com/track/2OCu6qR1jNXxcRjmDanycv"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Whyte",
-          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
-        }
-      ],
-      "date_added": "2025-12-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd"
     },
     {
       "album": {

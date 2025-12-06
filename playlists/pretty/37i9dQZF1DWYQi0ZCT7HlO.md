@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 
 > Cozy Christmas piano and a crackling log fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,528 likes - 57 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,673 likes - 57 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 | 9 | [Walking in a Winter Wonderland](https://open.spotify.com/track/3n3or2ujocN20GzYqgcHLM) | [Karla Debeljak](https://open.spotify.com/artist/5WDw9Se5TtNtU0i2ltnSkN) | [Walking in a Winter Wonderland](https://open.spotify.com/album/0p8oVtr8UkvfR1kXVGIcCw) | 2:42 |
 | 10 | [See Amid the Winter’s Snow](https://open.spotify.com/track/0L25oA9UiGHWDhzcszpGwI) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [See Amid the Winter’s Snow](https://open.spotify.com/album/1ZAf79k7yBYXRJYeFpK4z9) | 1:51 |
 | 11 | [Christmas Time Is Here](https://open.spotify.com/track/0KECgQzZvJ0O2rKD16EUx7) | [Johnny Blackwood](https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe) | [Christmas Time Is Here](https://open.spotify.com/album/250FL8QVK07VqCoHJquukf) | 1:54 |
-| 12 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/4BT4Wk0PWYFSoJdiBzZPqU) | [The Guy Downstairs](https://open.spotify.com/artist/4xE3jQ2KgDqoKkz4F4GFud) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/09SAMjkZHbIuK3QGmBH4fE) | 2:50 |
+| 12 | [Sussex Carol \- Cosy Fireplace](https://open.spotify.com/track/1QF8liNdcjjoODGETrFONz) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary \(Cosy Fireplace version\)](https://open.spotify.com/album/43oT1uFGVoZMr2x81XX6ca) | 2:24 |
 | 13 | [O Christmas Tree \(Fireside\)](https://open.spotify.com/track/0Zvi3AZ3nhWcziyGBfrtDi) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [O Christmas Tree \(Fireside\)](https://open.spotify.com/album/5HEi2OEFIBDCEK4M8mtFRD) | 1:57 |
 | 14 | [Angels We Have Heard on High](https://open.spotify.com/track/1L8R7c9TSsDjUPp0AwH9BX) | [Troy Emi](https://open.spotify.com/artist/1pqR1gDeFiZr2ot3edcQLZ) | [Angels We Have Heard on High](https://open.spotify.com/album/697h20z6KuZbIZsIXgapz9) | 3:24 |
-| 15 | [Sussex Carol \- Cosy Fireplace](https://open.spotify.com/track/1QF8liNdcjjoODGETrFONz) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary \(Cosy Fireplace version\)](https://open.spotify.com/album/43oT1uFGVoZMr2x81XX6ca) | 2:24 |
-| 16 | [I Saw Mommy Kissing Santa Claus \(Fireside\)](https://open.spotify.com/track/3P3EeCuVzzmgLpgPfaQbWR) | [Jonah Thorne](https://open.spotify.com/artist/23pmsLpKKrDU3RS2sSjJr5) | [I Saw Mommy Kissing Santa Claus \(Fireside\)](https://open.spotify.com/album/4o5KFrNzVmV5kd3436FPMO) | 2:28 |
-| 17 | [Good King Wenceslas](https://open.spotify.com/track/5fm9gX1b8jRAt5mxbFICpL) | [Rowan Hart](https://open.spotify.com/artist/1jGkEXEO2ApXkQTdlTCre5) | [Good King Wenceslas](https://open.spotify.com/album/4bL0VFyRr4U52yCyNUpzir) | 2:34 |
-| 18 | [Frosty the Snowman \(Fireplace Piano Version\)](https://open.spotify.com/track/6pIuvivHv7ZxZYbOHvJrJV) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Frosty the Snowman \(Fireplace Piano Version\)](https://open.spotify.com/album/6AQsf0YqdrrELZdnE6yzo2) | 2:04 |
-| 19 | [Mary´s Boy Child](https://open.spotify.com/track/3EcDF9yPGRxdAjiOzSO2XO) | [Jan Holdsworth](https://open.spotify.com/artist/1xefND4JiYjKNKPGc7ng1I) | [Mary´s Boy Child](https://open.spotify.com/album/1jX3qAM2iqFQOb68yDb4q5) | 2:20 |
+| 15 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/4BT4Wk0PWYFSoJdiBzZPqU) | [The Guy Downstairs](https://open.spotify.com/artist/4xE3jQ2KgDqoKkz4F4GFud) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/09SAMjkZHbIuK3QGmBH4fE) | 2:50 |
+| 16 | [Mary´s Boy Child](https://open.spotify.com/track/3EcDF9yPGRxdAjiOzSO2XO) | [Jan Holdsworth](https://open.spotify.com/artist/1xefND4JiYjKNKPGc7ng1I) | [Mary´s Boy Child](https://open.spotify.com/album/1jX3qAM2iqFQOb68yDb4q5) | 2:20 |
+| 17 | [I Saw Mommy Kissing Santa Claus \(Fireside\)](https://open.spotify.com/track/3P3EeCuVzzmgLpgPfaQbWR) | [Jonah Thorne](https://open.spotify.com/artist/23pmsLpKKrDU3RS2sSjJr5) | [I Saw Mommy Kissing Santa Claus \(Fireside\)](https://open.spotify.com/album/4o5KFrNzVmV5kd3436FPMO) | 2:28 |
+| 18 | [Good King Wenceslas](https://open.spotify.com/track/5fm9gX1b8jRAt5mxbFICpL) | [Rowan Hart](https://open.spotify.com/artist/1jGkEXEO2ApXkQTdlTCre5) | [Good King Wenceslas](https://open.spotify.com/album/4bL0VFyRr4U52yCyNUpzir) | 2:34 |
+| 19 | [Frosty the Snowman \(Fireplace Piano Version\)](https://open.spotify.com/track/6pIuvivHv7ZxZYbOHvJrJV) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Frosty the Snowman \(Fireplace Piano Version\)](https://open.spotify.com/album/6AQsf0YqdrrELZdnE6yzo2) | 2:04 |
 | 20 | [The Holly and The Ivy \(Fireside\)](https://open.spotify.com/track/0Fww3slJnym75KjhMkfBwv) | [Malachai Rourke](https://open.spotify.com/artist/6hj1rD7WdtFagcZaW8utH2) | [The Holly and The Ivy \(Fireside\)](https://open.spotify.com/album/3OzmpB2nW8bXOEXcyL1wuY) | 1:27 |
 | 21 | [Little Drummer Boy \(Fireplace Piano Version\)](https://open.spotify.com/track/7L8bARdnPXMvIow3wMTOOu) | [Francis Monet](https://open.spotify.com/artist/6zeT4iShOpxjaTsKTda1Uu) | [Little Drummer Boy \(Fireplace Piano Version\)](https://open.spotify.com/album/3pMTH88FHUz6ffsDDofZ75) | 2:41 |
 | 22 | [Merry Christmas \(Fireside\)](https://open.spotify.com/track/3YHbK1nzcc7eVbKckWCAvk) | [everall](https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX) | [Merry Christmas \(Fireside\)](https://open.spotify.com/album/1qXxHkkUQx7QtupaLqRuWL) | 2:46 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 | 56 | [Lo, How A Rose E'er Blooming \- Fireplace](https://open.spotify.com/track/4F5YPfIou0dd4hG39A8hWc) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 3:44 |
 | 57 | [12 Days of Christmas \(Fireside\)](https://open.spotify.com/track/00O8x3AiKHgWfVizSUf0Aq) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [12 Days of Christmas \(Fireside\)](https://open.spotify.com/album/6bq8e9ZJCK4r0nXYKIZZWS) | 4:05 |
 
-Snapshot ID: `AAAAAJWllO2YbPKlRGJrCZMrGGtpCEA0`
+Snapshot ID: `AAAAAFMEvRrUyBohqJYWPeimFH1mvBS8`

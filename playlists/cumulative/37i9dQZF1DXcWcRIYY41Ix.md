@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Karmento y Le Parody.
 
-967 songs - 2 day 9 hr 30 min
+968 songs - 2 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [Para Vencer](https://open.spotify.com/track/3ttxFaEM3dB1Et9QNpxCnA) | [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Basta de Música](https://open.spotify.com/album/5gLwEInVNphcUsjYQzoTRQ) | 2:55 | 2021-12-24 | 2022-04-24 |
 | [Paraguas](https://open.spotify.com/track/1cNA9ubMLg2L4EFk3GtErb) | [Juan Cerro](https://open.spotify.com/artist/3dMAwDvgNZmLZHiVlFGi6L), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Paraguas](https://open.spotify.com/album/0GfAxoI33NN4bE8ic0Jyvl) | 3:28 | 2024-01-26 | 2024-02-17 |
 | [Pardalet](https://open.spotify.com/track/0qtT3q1HMtaHzXuKctF9Wy) | [Marina Paredes](https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu), [Carmen Aciar](https://open.spotify.com/artist/0QMP0Ko9uvcExg6WQq0pWq) | [Pardalet](https://open.spotify.com/album/2hnaVR5xgqImkuYMpv1gmy) | 3:45 | 2025-10-16 |  |
+| [Parecer paloma](https://open.spotify.com/track/6e1K2uUCcuVMqdIGWMzZ2K) | [Rita Ojanguren](https://open.spotify.com/artist/1noVzLdWnsIHYoSuxlG5mr) | [Parecer paloma](https://open.spotify.com/album/7lpJReyKuhAJHKyS6T1QX8) | 4:07 | 2025-12-05 |  |
 | [Parque Chas](https://open.spotify.com/track/2gFl3pREsXYOsmXLbSD6Yl) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Parque Chas](https://open.spotify.com/album/3aPje43iWN45wTwm7h5X3b) | 3:54 | 2022-03-04 | 2022-04-21 |
 | [PARTE DE MÍ](https://open.spotify.com/track/3EuTWZwY6XaG42tg7PPlzF) | [Sara Roy](https://open.spotify.com/artist/71OOfmrGnQoJqrUIq133qs), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [ALTER EGO](https://open.spotify.com/album/26M992s8VLiUyf1hu7pyQN) | 2:45 | 2024-12-20 | 2024-12-25 |
 | [Pasajeros](https://open.spotify.com/track/0VcIILzAJwz4Psl1qFvJcS) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/0r2Xdzbp9DrRhlOQsPYMp8) | 3:30 | 2021-12-24 | 2022-07-24 |

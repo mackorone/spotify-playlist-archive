@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: StraTeGee and K3ndrick
 
-1,434 songs - 3 day 4 hr 26 min
+1,435 songs - 3 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,6 +768,7 @@
 | [Look what you've done](https://open.spotify.com/track/7KuXYbVO5fi6Re3q0iJTEN) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Look what you've done](https://open.spotify.com/album/1VwL7Cjd9Bs7gDIKAQPbv9) | 8:48 | 2023-06-16 | 2024-07-27 |
 | [Lord Arise \- Let The Enemy Be Scattered](https://open.spotify.com/track/2MmZGEYWcwNNcmHzAaXnuq) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Lord Arise \(Let The Enemy Be Scattered\)](https://open.spotify.com/album/2zN6oelCzl8mNjZ4cBM7DT) | 2:12 | 2023-08-11 | 2023-09-15 |
 | [Lord Have Mercy](https://open.spotify.com/track/5Ll2s3FBYHIE7gU8llJOLT) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Lord Have Mercy](https://open.spotify.com/album/2RgS2GZzu080o1Ed7BGI9u) | 2:48 | 2025-01-31 | 2025-02-21 |
+| [Lord Help Me](https://open.spotify.com/track/4dFuVWtqcVSb1llBSD3aJS) | [Son of Ladun S.O.L](https://open.spotify.com/artist/3D2CJK7Ve2Rgri47gUFTsg), [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh) | [Sabali](https://open.spotify.com/album/3kkWXOZ5NMj9a7aidBfR2N) | 2:57 | 2025-12-05 |  |
 | [Lord I Love You](https://open.spotify.com/track/3ir79Qy8MqA19ryKuNwUJM) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Psalmos](https://open.spotify.com/artist/2G5QxlJm0UTmeALPvIlzk3) | [Cat.a.lyst](https://open.spotify.com/album/1uvDAcJh1YJqpdz6qEEpAw) | 4:33 | 2025-10-31 |  |
 | [Lord You Are Good \- Spontaneous](https://open.spotify.com/track/53rr2POjQ9z4lO4P39Bnua) | [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ) | [Lord You Are Good \(Spontaneous\)](https://open.spotify.com/album/1DHzPKOhwivoj9n4GoOyGn) | 6:45 | 2023-10-20 | 2023-12-15 |
 | [Lost in you \(Jesus\)](https://open.spotify.com/track/1C4xfK4kTUL1IXS58PqGRU) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Psalms and Sacrifice](https://open.spotify.com/album/0Ebs0XXWCtMywrDwe1efFP) | 4:18 | 2023-12-22 | 2024-02-02 |

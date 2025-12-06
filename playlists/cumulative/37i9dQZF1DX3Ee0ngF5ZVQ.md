@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Drake Milligan
 
-718 songs - 1 day 18 hr 45 min
+719 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Hello Highway](https://open.spotify.com/track/4VZtc1T7NzTsFQfdnJZK7p) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Corazón y Cabeza](https://open.spotify.com/album/6yZOlNv2YKskr93XnhtY0a) | 3:42 | 2023-09-01 | 2025-08-09 |
 | [Hello Shitty Day](https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Hello Shitty Day](https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2) | 4:24 | 2024-09-27 | 2025-08-09 |
 | [Her Again](https://open.spotify.com/track/2oNfuIgfiEqjpCQCm61vsT) | [Mikele Buck Band](https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN) | [Her Again](https://open.spotify.com/album/3KVzQ7M0NR4Vy1bzsvlQBx) | 3:24 | 2024-03-01 | 2024-03-17 |
+| [Here for the Beer](https://open.spotify.com/track/5jd2LwJTwtiYyh87YjTmxD) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh), [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Country Therapy \(Deluxe Edition\)](https://open.spotify.com/album/6IaoIdtQloEUu1ANKc4MLf) | 2:44 | 2025-12-05 |  |
 | [Here for You](https://open.spotify.com/track/6B2dIHvZz7NgfxLN3eQAah) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/4al4QK2Lk29ZOSr4F7DZvE) | 4:51 | 2021-12-17 | 2022-03-19 |
 | [High Country](https://open.spotify.com/track/2SMxvm2rJzbPbTjwEyuFnJ) | [Jason Scott & The High Heat](https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm) | [American Grin](https://open.spotify.com/album/5zPQGBpZHiUAgwVxOHH0eM) | 3:06 | 2025-08-01 |  |
 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 | 2021-12-17 | 2022-03-19 |
@@ -495,7 +496,7 @@
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 3:06 | 2022-10-01 | 2022-10-08 |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-07-22 | 2022-10-03 |
 | [Right Now](https://open.spotify.com/track/1lKVUxGaeT8oZomwWopXB2) | [Logan Jahnke](https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg) | [Right Now](https://open.spotify.com/album/4dAmDLs6g7QFylKgLxSkdu) | 3:49 | 2022-05-13 | 2022-07-09 |
-| [Roadrunner](https://open.spotify.com/track/0MyEVn9U5jVhuhIEmPKMoS) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner](https://open.spotify.com/album/1IwH9mpPLMI4BHueMx0ExL) | 3:39 | 2024-05-17 |  |
+| [Roadrunner](https://open.spotify.com/track/0MyEVn9U5jVhuhIEmPKMoS) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner](https://open.spotify.com/album/1IwH9mpPLMI4BHueMx0ExL) | 3:39 | 2024-05-17 | 2025-12-06 |
 | [Roan & Rope](https://open.spotify.com/track/2nSlbrfoenkW5GrShzY3y0) | [L\-7 Productions](https://open.spotify.com/artist/1j4NvacWrmlJSYryFomDgW), [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U), [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj), [Jordan Smith](https://open.spotify.com/artist/02HDPzt4jfUl4w1YEHeW9P), [Kellen Smith](https://open.spotify.com/artist/5eKwxg7wyMKGn94a8qDdM9), [Jordan Lisco](https://open.spotify.com/artist/1tHSBdFPKHSdJASL6wS6ac), [Tris Munsick & the Innocents](https://open.spotify.com/artist/4cA9YGLHMsKTL921ST5tZx), [Sam Munsick](https://open.spotify.com/artist/65kwDghVUSLY1qzOfOp5no), [Kalyn Beasley](https://open.spotify.com/artist/0GkfgLbVWYsHN6eWhiEybX) | [Roan & Rope](https://open.spotify.com/album/5jgfgKWm8UoJnBKfHP5aZ6) | 3:54 | 2022-03-04 | 2022-03-19 |
 | [Rock and Roll Should Kill You](https://open.spotify.com/track/1jW9ZOTcNbDYQlrBCQtbIo) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT) | [Rock and Roll Should Kill You](https://open.spotify.com/album/3KZ75aeOckZC6j3HS853Z4) | 4:07 | 2022-08-01 | 2022-08-12 |
 | [Rodeo Clown](https://open.spotify.com/track/1dXgI4cUtHd7Ks9BbJDpx7) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Rodeo Clown](https://open.spotify.com/album/5S2COInNsyf6m9rgHpI7HM) | 3:45 | 2024-11-08 | 2025-09-01 |

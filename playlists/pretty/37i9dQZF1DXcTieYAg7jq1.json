@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Olivia Dean",
-  "num_followers": 418094,
+  "num_followers": 418237,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHn/iXIbeFTh1BYVx71MWju7w1dj",
+  "snapshot_id": "AAAAAKcEFu8SbHMsuv7ZLRJvPzeM6zg5",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:33",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 221335,
+      "name": "How It's Gotta Be",
+      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
+    },
+    {
       "added_at": "2025-11-14 05:00:29",
       "album": {
         "name": "Sex Hysteria (Deluxe)",
@@ -71,6 +87,42 @@
       "duration_ms": 177601,
       "name": "I Stay I Leave I Love I Lose",
       "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
+    },
+    {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
+    },
+    {
+      "added_at": "2025-06-13 16:00:28",
+      "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
       "added_at": "2025-11-21 05:00:33",
@@ -113,74 +165,6 @@
       "url": "https://open.spotify.com/track/56CqQv5oOJmu70guWHLTTx"
     },
     {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
-        "name": "Backstage at The Tropicana",
-        "url": "https://open.spotify.com/album/6n0q71K7sdU00uqKFh4LNS"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 171595,
-      "name": "Skin Tight Jeans",
-      "url": "https://open.spotify.com/track/4bTfq4Ndn69gwhtqC3Kfgl"
-    },
-    {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
-    },
-    {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 221335,
-      "name": "How It's Gotta Be",
-      "url": "https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL"
-    },
-    {
-      "added_at": "2025-06-13 16:00:28",
-      "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
-    },
-    {
       "added_at": "2025-10-10 14:57:28",
       "album": {
         "name": "Blind in Love",
@@ -195,6 +179,22 @@
       "duration_ms": 188000,
       "name": "Blind in Love",
       "url": "https://open.spotify.com/track/0rjoewFohsVztU43hybG2Y"
+    },
+    {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
+        "name": "Backstage at The Tropicana",
+        "url": "https://open.spotify.com/album/6n0q71K7sdU00uqKFh4LNS"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 171595,
+      "name": "Skin Tight Jeans",
+      "url": "https://open.spotify.com/track/4bTfq4Ndn69gwhtqC3Kfgl"
     },
     {
       "added_at": "2025-11-21 05:00:33",

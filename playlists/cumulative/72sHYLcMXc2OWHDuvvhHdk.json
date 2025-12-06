@@ -11575,6 +11575,24 @@
     },
     {
       "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn"
+      },
+      "artists": [
+        {
+          "name": "The Marica Frequency",
+          "url": "https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171900,
+      "name": "Harbour",
+      "url": "https://open.spotify.com/track/4tTWnwrzZvz093lohzK4Mc"
+    },
+    {
+      "album": {
         "name": "Hard Rain",
         "url": "https://open.spotify.com/album/3iA0owAcSxGFUUszqaCPM0"
       },
@@ -14857,7 +14875,7 @@
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 129312,
+      "duration_ms": 129197,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L"
     },

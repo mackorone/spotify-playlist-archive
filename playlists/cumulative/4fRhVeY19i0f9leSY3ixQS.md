@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-295 songs - 16 hr 50 min
+296 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Integration](https://open.spotify.com/track/3OJdvSdzZbYC1tXtalZaNW) | [Ape Bucket](https://open.spotify.com/artist/18wqhsjlZgcc68jrcsum08) | [Integration](https://open.spotify.com/album/4FaXkw9MRR791Q3weqGjj0) | 2:34 | 2025-11-30 |  |
 | [Intro](https://open.spotify.com/track/3y31Rv3XEaUipUJHXiojZ8) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 1:12 | 2025-08-03 |  |
 | [Is This Love](https://open.spotify.com/track/3qkIQpy37KifoBtajiiTYN) | [Stoned Waves](https://open.spotify.com/artist/6C2X50bk3vmp75os3ZQNPs) | [Until the Planets Crash](https://open.spotify.com/album/7jzDqWgpugP45YLUb24gtN) | 5:11 | 2025-12-01 |  |
+| [It's Inside](https://open.spotify.com/track/5H7NtbhuEfMQdLWwMrlEh5) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:35 | 2025-12-05 |  |
 | [IV \. Ashes of the Rose](https://open.spotify.com/track/0nBc3rOfkaZ3jxin6nJasN) | [MER](https://open.spotify.com/artist/7CvljdGrUIw9LLpCelscEN) | [The Way of the Rose](https://open.spotify.com/album/3JexvhBHllJq5Yne04ebXD) | 5:09 | 2025-11-14 |  |
 | [Iza Bella](https://open.spotify.com/track/2m33TemOMBEDzRpw1TsLhd) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:24 | 2025-11-21 |  |
 | [JinXXX](https://open.spotify.com/track/2grH4gOFNCt6mbV1e2TVyt) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 5:18 | 2025-09-16 |  |

@@ -4,11 +4,11 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Mumford & Sons, Hozier
 
-392 songs - 1 day 1 hr 23 min
+393 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(I Wanna\) Be Your Girl](https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [\(I Wanna\) Be Your Girl](https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx) | 3:36 | 2025-09-04 |  |
+| [\(I Wanna\) Be Your Girl](https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [\(I Wanna\) Be Your Girl](https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx) | 3:36 | 2025-09-04 | 2025-12-06 |
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-28 |  |
 | [100 Horses](https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [100 Horses](https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG) | 3:46 | 2025-09-04 |  |
 | [1K!](https://open.spotify.com/track/3bDle84REug8PQJdREswFG) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Kiki, You Complete Me](https://open.spotify.com/album/6VNDXYWrHAmQJrgmecdPLI) | 2:52 | 2024-08-14 | 2024-09-21 |
@@ -157,6 +157,7 @@
 | [God Gets You Back](https://open.spotify.com/track/0nGjGqo75o3dBKnBMPdr8K) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [God Gets You Back](https://open.spotify.com/album/469HjcDuXmmeyQrx2mWhWD) | 6:40 | 2024-10-06 | 2025-01-31 |
 | [God Of Everything Else](https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Clouds In The Sky They Will Always Be There For Me](https://open.spotify.com/album/2iXwKeYYKuXjalgAXtx9sd) | 3:24 | 2024-11-15 | 2025-05-09 |
 | [God Of Everything Else](https://open.spotify.com/track/1FdNGkakDRkiySWwQMhn35) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [God Of Everything Else](https://open.spotify.com/album/0DR9Msk0sSnmxlVN52exYN) | 3:24 | 2024-10-17 | 2024-11-13 |
+| [GOD SAVE THE PONY.](https://open.spotify.com/track/3QrvKxTmQWIpI9cGE3HakK) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [NATIONAL AVERAGE.](https://open.spotify.com/album/2wHHIEXgiVxTRS2EjFzMmo) | 3:09 | 2025-10-23 |  |
 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 | 2025-04-04 |  |
 | [Got to Have Love](https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Got to Have Love](https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij) | 4:52 | 2025-05-23 |  |
 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 | 2024-06-14 | 2025-02-19 |

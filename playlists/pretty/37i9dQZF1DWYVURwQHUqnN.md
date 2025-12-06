@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Theodora
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,794 likes - 49 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,800 likes - 49 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ZOU BISOU](https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:42 |
 | 2 | [Génération impolie](https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Génération impolie](https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk) | 2:21 |
 | 3 | [BLOQUÉ](https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [BLOQUÉ](https://open.spotify.com/album/5HZSEWInouI6tWp1C3ousL) | 3:21 |
-| 4 | [Je suis love](https://open.spotify.com/track/2PrfuPBFj26EHrnN4ZIzzM) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [](https://open.spotify.com/album/null) | 3:42 |
+| 4 | [Je suis love](https://open.spotify.com/track/2PrfuPBFj26EHrnN4ZIzzM) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:42 |
 | 5 | [Masterclass](https://open.spotify.com/track/4Tt8x8oI2YybS522SzJDc0) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Masterclass](https://open.spotify.com/album/4g5iHp0eensRrYH7Z95xQ8) | 2:33 |
 | 6 | [Merci](https://open.spotify.com/track/30Mt8fniwPtiBgP3rxpqZu) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Merci](https://open.spotify.com/album/72XTw1mlZbLfJpwd91cSiO) | 2:44 |
 | 7 | [Bonbon](https://open.spotify.com/track/3Lasn0k10J5Xx3nlez8N6h) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Bonbon](https://open.spotify.com/album/1ADfN6Y8bD0kgEtMYcm6dn) | 2:21 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 48 | [Commando \(feat\. Ophi\)](https://open.spotify.com/track/3HRNABcad5M45prcLaBi7n) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [Ophi](https://open.spotify.com/artist/5s16Xc4BNte6wSYcjBekbn) | [Commando \(feat\. Ophi\)](https://open.spotify.com/album/482jtcra4M9iSsrzD0sMNJ) | 3:02 |
 | 49 | [Que du réel \#4 \- Oh my God](https://open.spotify.com/track/3n3MEYOWxH32NBP78fCQjA) | [Nada](https://open.spotify.com/artist/3ITEeeUF199eEtg4xg3mzB) | [Que du réel \#4 \- Oh my God](https://open.spotify.com/album/3v8Tpyigp9O79jI8VyxtIw) | 2:25 |
 
-Snapshot ID: `AAAAABkCvRxwhJNYVJJ1m0yExAdjpnEd`
+Snapshot ID: `AAAAAAfEM0RrO2GabgUT3O7vrMrPa2Uz`

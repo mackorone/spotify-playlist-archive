@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Shallipopi
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,576 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,848 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Opeuhh \(feat\. KeBlack\)](https://open.spotify.com/track/3k9Il6m7lJ9qufXyahvEhH) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [](https://open.spotify.com/album/null) | 1:50 |
+| 1 | [Opeuhh \(feat\. KeBlack\)](https://open.spotify.com/track/3k9Il6m7lJ9qufXyahvEhH) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 1:50 |
 | 2 | [Violence](https://open.spotify.com/track/1xKTpn0PlVvu0dZoxrbgwr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Violence](https://open.spotify.com/album/25k7hGeNZ7yvgR3D51cRQB) | 2:36 |
 | 3 | [Miel \(feat\. Lisandro Cuxi\)](https://open.spotify.com/track/5s0A1dh578tudMzR8mNnfU) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Miel \(feat\. Lisandro Cuxi\)](https://open.spotify.com/album/76ewade2CAsGJbWeKVj9LB) | 2:26 |
 | 4 | [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 2:31 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 15 | [Officer, Pt\. 2](https://open.spotify.com/track/1wmJ47pSNRkxsyMyfemUPJ) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Officer, Pt\. 2](https://open.spotify.com/album/51rx6zehMft3Ud6HNw1MbR) | 3:04 |
 | 16 | [Sama Love](https://open.spotify.com/track/4KgN9W7ggYVWmg2inlVuu1) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN) | [Sama Love](https://open.spotify.com/album/5DI8jHVJnmdoxQptUC5PR1) | 2:39 |
 | 17 | [SHAKO MAKO](https://open.spotify.com/track/2eU8ChhO5OqUHKHsa6hnfs) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu) | [BABABA WORLD](https://open.spotify.com/album/1m62N99DJ1zwuRrUkPW5VC) | 2:17 |
-| 18 | [Imposter Syndrome](https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [](https://open.spotify.com/album/null) | 3:17 |
+| 18 | [Imposter Syndrome](https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Duplicity](https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq) | 3:17 |
 | 19 | [Kay Kay \(feat\. Jeeba\)](https://open.spotify.com/track/2hdKGD5H2G2AaqGwFwHOJo) | [Papi Del Sol](https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H), [Jeeba](https://open.spotify.com/artist/1o6J9M8kEghvucyX8q9OiY) | [Kay Kay \(feat\. Jeeba\)](https://open.spotify.com/album/5opUXC6KGNFwcniFmzGsDb) | 2:35 |
 | 20 | [Lalala](https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:58 |
 | 21 | [PRESIDENTIAL](https://open.spotify.com/track/2GDrvSBtD1SfNBa39kmcl0) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR), [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [PRESIDENTIAL](https://open.spotify.com/album/6xDlBkGeWBtMWm2obCj44f) | 1:57 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Pas les mots](https://open.spotify.com/track/7ldG71xkUCKIKZBxmMl2vL) | [Saaro](https://open.spotify.com/artist/7EhNT3E3h56XbuohaGE0Z1) | [+33](https://open.spotify.com/album/1Y1aXK6uMDJRJhzsZFWRAd) | 2:59 |
 | 49 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 |
 
-Snapshot ID: `AAAAADgn7j6miHQN7Sx0G52+gfGgAOJJ`
+Snapshot ID: `AAAAACe4seURAdqM1dPq5lV4fnqXVxVl`

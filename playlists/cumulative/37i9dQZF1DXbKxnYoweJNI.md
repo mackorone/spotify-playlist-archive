@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: Leo王
 
-3,666 songs - 8 day 22 hr 9 min
+3,666 songs - 8 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,6 +669,7 @@
 | [My Story](https://open.spotify.com/track/4ljRtbzdcF4XjToUcW59fO) | [Drew](https://open.spotify.com/artist/227bmsq2MvsKjnPMtxOg5i) | [My Story](https://open.spotify.com/album/3XxhDQdxlyFk2jnpcDCLa5) | 2:25 | 2025-01-16 | 2025-01-24 |
 | [MY TYPE](https://open.spotify.com/track/26tPMIn4Oditw5fqu75pNB) | [KP](https://open.spotify.com/artist/6oCNdgMKBtsIF8vp1DBwzT) | [MY TYPE](https://open.spotify.com/album/1O3xHKaiHpLA7qWEh9Jqgw) | 2:32 | 2025-05-29 | 2025-07-18 |
 | [Na$hley ADDachi pt.01 \(The Intro\)](https://open.spotify.com/track/269gua6od6n42SAwAzQEoS) | [連穎 ERIN](https://open.spotify.com/artist/3kwAZXcfj1dX9cQKjx4SS6) | [Na$hley ADDachi pt.01 \(The Intro\)](https://open.spotify.com/album/0BjWNRKqtmkPJvSjXsbt4P) | 0:57 | 2025-10-30 | 2025-11-07 |
+| [Namaste](https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Boundary](https://open.spotify.com/album/5YWyPvOYit4QbQvQ8uYZkC) | 3:00 | 2025-12-04 |  |
 | [nap](https://open.spotify.com/track/1CWZ3juLJA5WckHuXk1Fvs) | [REX](https://open.spotify.com/artist/2ll1Av1xmVEOzwNZF0ZOdX) | [nap](https://open.spotify.com/album/60W6j38XKZdcFaikAZOWGe) | 2:46 | 2025-07-17 | 2025-07-25 |
 | [NAWO Freestyle](https://open.spotify.com/track/6I7x1oRPALBTTSjsSsmwX2) | [syt](https://open.spotify.com/artist/6ANfp5ZCaNUXxHpQ6pnsrC) | [NAWO Freestyle](https://open.spotify.com/album/14jXYYMRaCXtTxKDdrz5JZ) | 2:36 | 2025-09-11 | 2025-09-19 |
 | [Nenenenepupu](https://open.spotify.com/track/1J0YrpptVFYqADSwg6E818) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi), [沙登一校合唱團](https://open.spotify.com/artist/7ehA0GVVb2NObGKv7ztyeG) | [Nenenenepupu](https://open.spotify.com/album/05YDrbvllWajQIp15q2uwx) | 2:46 | 2025-08-21 | 2025-08-29 |
@@ -936,7 +937,7 @@
 | [Tell 'Em I'm Back](https://open.spotify.com/track/7HyHaKAFbm1BQccvSwmFt0) | [Randysofty](https://open.spotify.com/artist/0lUPGIkEhgTbRCJwxDOOvn), [Panta](https://open.spotify.com/artist/4avur33LC4KqELzJ9ue5Hs) | [MRI](https://open.spotify.com/album/6DY0AtuoJj5J954eKgIjwF) | 3:38 | 2025-09-11 | 2025-09-19 |
 | [Tell me why did you lie](https://open.spotify.com/track/5kICsxN9Y8eCB9PQswYCG3) | [薛\_](https://open.spotify.com/artist/2hk9Mdvyg7NdcZJO8fUetW) | [睡了嗎，我](https://open.spotify.com/album/2xAdLK3uZeiLno9LEXh8hp) | 2:39 | 2024-10-17 | 2024-10-25 |
 | [Tell Me You're Lying](https://open.spotify.com/track/3zLDa1Blg2FglqUFAxbgAV) | [Jeffery C](https://open.spotify.com/artist/1pu8bqVGuRDYyTOQMLqv86), [Ulyss](https://open.spotify.com/artist/5bEvbRrEjpjRyHm92aY4Ly) | [Tell Me You're Lying](https://open.spotify.com/album/3d4IAze78tgMmOmWYi4zqR) | 2:46 | 2024-06-27 | 2024-08-09 |
-| [Tesla RidE](https://open.spotify.com/track/5vDH06AP0eCiQpQzwKNO72) | [LYNZI \(0\) 零](https://open.spotify.com/artist/4KRRAsuLAEv3HCxbYMWA5N) | [Tesla RidE](https://open.spotify.com/album/3oTsRTLMegUsS4vRuSRMBM) | 3:30 | 2025-12-04 |  |
+| [Tesla RidE](https://open.spotify.com/track/5vDH06AP0eCiQpQzwKNO72) | [LYNZI \(0\) 零](https://open.spotify.com/artist/0M9mNoqr1c3QdLY9m36urK) | [Tesla RidE](https://open.spotify.com/album/3oTsRTLMegUsS4vRuSRMBM) | 3:30 | 2025-12-04 |  |
 | [THANK GOD](https://open.spotify.com/track/20dZUbjKJzQIAOpfS5EcXa) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV), [阿夫Suhf](https://open.spotify.com/artist/1lIHC3tPoXBlSYQwSMoIYY) | [THANK GOD](https://open.spotify.com/album/5B1pcYq0TLVCN5MY14fKsP) | 2:34 | 2025-09-11 | 2025-10-04 |
 | [That's right](https://open.spotify.com/track/5DcXQEFGQlEpRPLkb1psWu) | [KUAN](https://open.spotify.com/artist/1Ov5jLpZ7WqZ3L2ylZtx7K), [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [That's right](https://open.spotify.com/album/6jINDh4D5agM5RojLiLZ7f) | 3:18 | 2024-08-22 | 2024-09-13 |
 | [THAT’S YA](https://open.spotify.com/track/7zBLUHFW9o5RoJGSExQuLq) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [THAT’S YA](https://open.spotify.com/album/4mb5cGYNclnLuYEJOQuzBn) | 2:28 | 2025-04-10 | 2025-05-09 |
@@ -981,7 +982,6 @@
 | [Toxic feat\. Quanzo \(Quanzo Remix\)](https://open.spotify.com/track/4aU4UIKs5i2roAWUKVwqpi) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro), [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [Toxic](https://open.spotify.com/album/6z9LHgZejziGWk7xnAPEO3) | 2:31 | 2025-05-08 | 2025-05-23 |
 | [Toxic Love](https://open.spotify.com/track/6MOPiHU3l5PIdYHz4gNtgr) | [Kr 氪](https://open.spotify.com/artist/3FwqU1d2SSqaQpod6A5ZCa) | [Toxic Love](https://open.spotify.com/album/5Y1UtEqzqyjRDxpTqgmK3S) | 2:09 | 2024-09-12 | 2024-10-18 |
 | [Toyota冒險日記](https://open.spotify.com/track/0zEX5wK2EIUZBoTLMpyq3H) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl), [夏娜 Zhana](https://open.spotify.com/artist/6n7DXHl3EDVdgMoN7CHupK) | [Toyota 冒險日記](https://open.spotify.com/album/6LdOHfPIOFCloILRp6y4qg) | 2:56 | 2025-09-18 | 2025-09-26 |
-| [Track 3](https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [Training Day](https://open.spotify.com/track/1k3TVdXf0TTFzXJmiAHB36) | [RPG](https://open.spotify.com/artist/4h50ekU1ax70sX6deaIli9), [JL22](https://open.spotify.com/artist/0Ysd9RYTjO0w8rh9jpeiEV), [Black MIC](https://open.spotify.com/artist/6w62HSgZvXKJpsSHXNPp2l), [BG8LOCC](https://open.spotify.com/artist/2lWqmnfn0X5kcU6JSOrjdE) | [Training Day](https://open.spotify.com/album/4M5GRu8w27qFOnF7Ue44A5) | 3:42 | 2025-01-09 | 2025-01-31 |
 | [Trainslate](https://open.spotify.com/track/3dkhRzJpCFkF53fyASugK7) | [老莫 ILL MO](https://open.spotify.com/artist/4JGm6vTwtCqjf0C3kxXx6y) | [火車晚了 Trainslate](https://open.spotify.com/album/1AOWY2kfNhPxmErGd0iMWA) | 2:03 | 2025-07-03 | 2025-07-18 |
 | [Trauma Fit](https://open.spotify.com/track/6fA4YNiLWiq7ErpTg41lzt) | [FH](https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF), [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2) | [Trauma Fit](https://open.spotify.com/album/6lIdajMPHvgtR2sdIZzgyC) | 3:04 | 2024-12-12 | 2025-01-10 |
@@ -1834,7 +1834,7 @@
 | [失戀歌](https://open.spotify.com/track/50iLWqLXCgx7WQ9Ac6DwG1) | [百合花](https://open.spotify.com/artist/4JGHOtt9Kj0EKZFjF8cmeL) | [萬事美妙](https://open.spotify.com/album/7ocRdAq1K2hwU8PUS9YuQ3) | 4:30 | 2024-09-12 | 2024-10-04 |
 | [失戀的女子](https://open.spotify.com/track/6KUKW4EpYpViQlV8IARaJn) | [怡岑](https://open.spotify.com/artist/0xiB9v7UHzvEha6kov2RhK) | [要到你想逃](https://open.spotify.com/album/27tif97FukE4ZaxeoyU3vy) | 3:11 | 2025-03-20 | 2025-04-11 |
 | [失控的愛](https://open.spotify.com/track/69KRzmV4gfqWcQqLDITpbQ) | [Sean Ko](https://open.spotify.com/artist/7uFDWFET9kyIE71VHeLVOm), [C.Y](https://open.spotify.com/artist/2OasGr7TmpHG8pfhWztDV8) | [失控的愛](https://open.spotify.com/album/17Kbnpl14DJuTfWW0MDqV1) | 4:25 | 2024-06-27 | 2024-07-19 |
-| [失望的山](https://open.spotify.com/track/33fBN3sd0HStBCLfRf5ntG) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [](https://open.spotify.com/album/null) | 4:21 | 2025-12-04 |  |
+| [失望的山](https://open.spotify.com/track/33fBN3sd0HStBCLfRf5ntG) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [失望的山](https://open.spotify.com/album/69vAcNdz9Kv8EhLdECqYSI) | 4:21 | 2025-12-04 |  |
 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 | 2025-07-24 | 2025-08-22 |
 | [奇怪?](https://open.spotify.com/track/6QcltYSQBRG1pdLBhku4AO) | [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX) | [下/奇怪](https://open.spotify.com/album/0hLCjDZWHS3Im3NHxo1JJP) | 3:04 | 2024-06-27 | 2024-07-19 |
 | [契約精神](https://open.spotify.com/track/5133wPF8KojCNuNJO9roQ6) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90) | [契約精神](https://open.spotify.com/album/6bJT6vkyrc1jkzW1iTBlE0) | 4:40 | 2025-11-20 | 2025-11-28 |
@@ -2899,7 +2899,7 @@
 | [生命的關於](https://open.spotify.com/track/0S54tEUDFV1Z9svTR6iwcS) | [黑豹](https://open.spotify.com/artist/0zj66XhQP4EPkat7XkBYL0) | [觀己](https://open.spotify.com/album/6AHjaNqXvdYbnTdi3a8IQs) | 4:08 | 2025-01-02 | 2025-01-24 |
 | [生存最佳解](https://open.spotify.com/track/3IvkgPAKJKj9UW7CqUO6Jx) | [邱盛揚](https://open.spotify.com/artist/4G3kw71JDrU78yBpLhyrgK) | [生存最佳解 f\(or\)=survival](https://open.spotify.com/album/4Wqxz3fCzlchj1deGyJZS4) | 2:04 | 2024-10-24 | 2024-11-01 |
 | [生存遊戲 feat\. W0LF\(S\)五堅情 \(戲劇「舊金山美容院」片尾曲\)](https://open.spotify.com/track/3Ezw8duVyNDUGjfoD6Z4po) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy), [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [戲劇「舊金山美容院」原聲帶](https://open.spotify.com/album/5yJsUaaQUVMfQJsyOD8aJ3) | 4:02 | 2025-10-23 | 2025-10-31 |
-| [生得好](https://open.spotify.com/track/1QoGHIBGGptUpVqCqvyoIo) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ) | [](https://open.spotify.com/album/null) | 4:09 | 2025-12-04 |  |
+| [生得好](https://open.spotify.com/track/1QoGHIBGGptUpVqCqvyoIo) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ) | [4Reasons](https://open.spotify.com/album/5vth4gcrC8PnORzMgH5ckI) | 4:09 | 2025-12-04 |  |
 | [生日快樂](https://open.spotify.com/track/2F0SUT1y9dr34SEKn1MZMR) | [YABE](https://open.spotify.com/artist/2cgY2IUcXDMAW2ahHpbO8M) | [生日快樂](https://open.spotify.com/album/3JzbWS6A0a5FqNeCeVlCTf) | 3:34 | 2024-10-31 | 2024-11-08 |
 | [用力的愛將我帶去遠方](https://open.spotify.com/track/2y58AH8dsNRWqzn1WaBjCS) | [TANA樂隊](https://open.spotify.com/artist/13gwGnpMwFCCXOm81Rk0Zz) | [用力的愛將我帶去遠方](https://open.spotify.com/album/4q0sWiGO5daPuoMJ9tqwPR) | 4:35 | 2024-07-18 | 2024-08-02 |
 | [男友求生欲](https://open.spotify.com/track/2pyKVk7h8Eux9QdgV9Ss48) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb) | [男友求生欲](https://open.spotify.com/album/3Bf9oHEQMHQOCuLKOC4zS3) | 2:10 | 2024-08-22 | 2024-09-13 |

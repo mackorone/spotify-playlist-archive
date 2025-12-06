@@ -8401,6 +8401,24 @@
     },
     {
       "album": {
+        "name": "Queen of Homecoming",
+        "url": "https://open.spotify.com/album/75m5Ycyw89xTYr5EpZgkoq"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151186,
+      "name": "Queen of Homecoming",
+      "url": "https://open.spotify.com/track/1jhTdcryKV2Q3fsEJrfRGr"
+    },
+    {
+      "album": {
         "name": "Questions",
         "url": "https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU"
       },
@@ -11786,6 +11804,24 @@
       "duration_ms": 365921,
       "name": "When I get home",
       "url": "https://open.spotify.com/track/3SAepbmfa2jEMXu6OWrwyh"
+    },
+    {
+      "album": {
+        "name": "Blizzard",
+        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268694,
+      "name": "When You Tie Your Hair Up",
+      "url": "https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg"
     },
     {
       "album": {

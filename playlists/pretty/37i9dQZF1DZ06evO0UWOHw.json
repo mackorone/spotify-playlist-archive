@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 15052,
+  "num_followers": 15065,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAAD0aublWrO3yWBA522nb5XZ",
+  "snapshot_id": "aTDPAAAAAADazx+J0RMayDuXLmTJQQKc",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "Cough Syrup",
+      "url": "https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tanko (feat. Terry G)",
         "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 166375,
       "name": "Skido (with Olamide)",
       "url": "https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190819,
-      "name": "Cough Syrup",
-      "url": "https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG"
     },
     {
       "added_at": null,

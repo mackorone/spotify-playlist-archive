@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Heroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,763 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,784 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [heureux](https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [failles](https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk) | 2:46 |
 | 2 | [des excuses](https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [des excuses](https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd) | 3:27 |
 | 3 | [Le printemps](https://open.spotify.com/track/4gfVA7TLcyZFXAZfIbOibg) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Le printemps](https://open.spotify.com/album/3ilAK0ebYgeH95fevozMPP) | 3:06 |
-| 4 | [Gabrielle](https://open.spotify.com/track/5R9dBL7sZSMhALmcHuEs5f) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [](https://open.spotify.com/album/null) | 3:20 |
+| 4 | [Gabrielle](https://open.spotify.com/track/5R9dBL7sZSMhALmcHuEs5f) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Étincelle 2](https://open.spotify.com/album/6iS99xyBxLHHYhm8Y3sezu) | 3:20 |
 | 5 | [Regarder passer les trains](https://open.spotify.com/track/1Lmufi10VKuJumsI9KV2NQ) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [Regarder passer les trains](https://open.spotify.com/album/1j5ehAXMc9wjpDuUWneVpt) | 4:13 |
 | 6 | [Aux enfants de demain](https://open.spotify.com/track/0FxvyCX5kTnEayJMYlkeCN) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Aux enfants de demain](https://open.spotify.com/album/1u4Nqs64gvChknGAcpsq0F) | 3:44 |
 | 7 | [Tout fait pour](https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout fait pour](https://open.spotify.com/album/55unj2AEwXhyHcesIt55jx) | 3:26 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 20 | [Tour du Monde](https://open.spotify.com/track/7kAQ5yUq5uuJfSzHunHWAR) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Tour du Monde](https://open.spotify.com/album/7HhfRpFv1nIuFA3C2xYNka) | 3:24 |
 | 21 | [Thelma et Louise](https://open.spotify.com/track/4WabBsw8o8lgMmJeSNirUz) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Thelma et Louise](https://open.spotify.com/album/6ob1nfJYrRIGZbTD9hJ5ZJ) | 2:40 |
 | 22 | [Le départ](https://open.spotify.com/track/5Q2U0R1Ije3Vbs8UCSRqpB) | [Daprinski](https://open.spotify.com/artist/6GV5jspNfwJEhOXJasfhgG) | [Le départ](https://open.spotify.com/album/1x4k4x8KnV5jxe6ayO3VwF) | 4:29 |
-| 23 | [Les beaux jours](https://open.spotify.com/track/5Px41y2EdKE7Hv8cDWVCop) | [Luns](https://open.spotify.com/artist/79WvCJUXoRYgn8UaNMBGOD) | [](https://open.spotify.com/album/null) | 3:48 |
+| 23 | [Les beaux jours](https://open.spotify.com/track/5Px41y2EdKE7Hv8cDWVCop) | [Luns](https://open.spotify.com/artist/79WvCJUXoRYgn8UaNMBGOD) | [Les bouts de papier](https://open.spotify.com/album/6bhmkHiRTt9F7uxez7SkvH) | 3:48 |
 | 24 | [à l'étroit dans ma peau](https://open.spotify.com/track/0IncMVyy8wiDGCxrTAATH8) | [SLOŃ](https://open.spotify.com/artist/2jphCk584Xja5K2n5cmfKy) | [à l'étroit dans ma peau](https://open.spotify.com/album/1D0QZFKupUcaEckobnSHix) | 3:30 |
 | 25 | [À cause ou grâce](https://open.spotify.com/track/4UaZ1EKTRqiGUhwsHtGHdG) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Labyrinthe](https://open.spotify.com/album/6Dlr1OhxAWl5JIE7bUwS6X) | 4:18 |
 | 26 | [Langage \- Orchestral](https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs \(Orchestral Odyssey\)](https://open.spotify.com/album/15FZlljjgimILw4hn7urFj) | 3:02 |

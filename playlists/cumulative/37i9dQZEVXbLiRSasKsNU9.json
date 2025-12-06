@@ -66030,7 +66030,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 201853,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3l8ACerUtJfRd0rxJJ4Gkx"
@@ -66048,7 +66048,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 201853,
       "name": "Radio",
       "url": "https://open.spotify.com/track/6jppHdy8EW9ghHlOCpGBEr"
@@ -86784,6 +86784,24 @@
     {
       "album": {
         "name": "We Are Charlie Kirk",
+        "url": "https://open.spotify.com/album/6ZOkKY4MnhzrThtnnIFm8y"
+      },
+      "artists": [
+        {
+          "name": "22xlstl",
+          "url": "https://open.spotify.com/artist/4OM1oMd7QgznACLRI70AAx"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224853,
+      "name": "We Are Charlie Kirk",
+      "url": "https://open.spotify.com/track/6JY2x6cvjNZjqdQFnEltcP"
+    },
+    {
+      "album": {
+        "name": "We Are Charlie Kirk",
         "url": "https://open.spotify.com/album/42f1jkD2cQCaAtN3E81cSK"
       },
       "artists": [
@@ -86798,7 +86816,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 224853,
       "name": "We Are Charlie Kirk",
       "url": "https://open.spotify.com/track/74EGMROdYEhlDCrVV9inY2"

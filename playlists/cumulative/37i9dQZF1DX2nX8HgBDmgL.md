@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Faheem Abdullah
 
-360 songs - 19 hr 29 min
+361 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2024-01-03 | 2024-02-23 |
 | [Kalaastar \(From "Honey 3.0"\)](https://open.spotify.com/track/0uR4wgF6ksqIEYpztFWGog) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [Honey 3.0](https://open.spotify.com/album/1M0Pn9Sjn6dxI5rxOJQW5V) | 3:27 | 2024-09-09 | 2025-08-21 |
 | [Kamaal](https://open.spotify.com/track/74MVmjqYoHBNvLghvNsKnm) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [DJ Harpz](https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA) | [Arrival](https://open.spotify.com/album/656ie0ZaD1avko2b4WpwOD) | 3:19 | 2021-11-11 | 2022-07-19 |
+| [Kamaal Hai](https://open.spotify.com/track/5ymJ795K518y3ACGAytG4l) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Kamaal Hai](https://open.spotify.com/album/7vG3uRojLPMdBznnbpO2TR) | 3:48 | 2025-12-05 |  |
 | [Kanwal](https://open.spotify.com/track/1ZriJmDC61hn2z2eajgooI) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Kanwal](https://open.spotify.com/album/6HJGTGOa9H0t8WUv2PpxpG) | 3:14 | 2025-10-17 |  |
 | [Karda Koi](https://open.spotify.com/track/6UWTPnBfiPSNPW4hnuxnjY) | [Abdullah Muzaffar](https://open.spotify.com/artist/5c5ygxVqCZIOssBiVCx80h), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Rags To Riches](https://open.spotify.com/album/4Dl84LmZHxW6zvF8Fbzj6A) | 2:50 | 2024-10-18 | 2025-03-19 |
 | [Karde Haan](https://open.spotify.com/track/6e5uhj7F0fDpXmZGRR7K20) | [Rameet Sandhu](https://open.spotify.com/artist/3DvttNUNkwPw64Hp3BFsEP), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Karde Haan](https://open.spotify.com/album/05BObTdmwnWhu1ORWjMdp7) | 3:42 | 2021-11-11 | 2022-07-19 |
@@ -267,7 +268,7 @@
 | [Rani Recognize](https://open.spotify.com/track/3xGkrOvTy1zdr86oopxcju) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [Rani Recognize](https://open.spotify.com/album/57QZa4wFbyq9sZ0iOIcJNA) | 3:16 | 2021-11-11 | 2022-07-19 |
 | [Regardless](https://open.spotify.com/track/1N5IwvKPg7PZeGi9Pvzvdo) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Regardless](https://open.spotify.com/album/6vbJkwWBaS7iKBHfQJM9ua) | 3:44 | 2025-06-23 |  |
 | [Regardless \(feat\. Robin Dey\)](https://open.spotify.com/track/6HJzJTpVgdPN40eI3BfHQT) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Robin Dey](https://open.spotify.com/artist/0ZvLuzOcZm4dxx7ycqDMYk) | [Denied](https://open.spotify.com/album/1RhKQmiNc2NqRMftCAvnoV) | 3:12 | 2022-07-18 | 2024-02-23 |
-| [Rich & Famous](https://open.spotify.com/track/2yvvfqZh98OuOA62Y33IwN) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv) | [Rich & Famous](https://open.spotify.com/album/22aqHFHsGdiLWkcyGj2fxK) | 2:14 | 2025-03-18 |  |
+| [Rich & Famous](https://open.spotify.com/track/2yvvfqZh98OuOA62Y33IwN) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv) | [Rich & Famous](https://open.spotify.com/album/22aqHFHsGdiLWkcyGj2fxK) | 2:14 | 2025-03-18 | 2025-12-06 |
 | [Right Now](https://open.spotify.com/track/1HLQtBivQjO3uXD90KUd1f) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Paradox](https://open.spotify.com/album/4LavhFaMS15dJlY57Dun7Y) | 1:56 | 2021-11-11 | 2022-07-19 |
 | [Rocket Launcher](https://open.spotify.com/track/1oHlhSevYO99K6RG2w0RXN) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Rocket Launcher](https://open.spotify.com/album/0A65EHDQRYwVEB19JOhMKw) | 2:48 | 2025-06-29 | 2025-07-25 |
 | [Rosa Rosa](https://open.spotify.com/track/6wpEuEWArgZdaSdOSCXibw) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [29 Summers](https://open.spotify.com/album/2nU4RgpGtF6rnSzcx9EJuC) | 3:17 | 2021-11-11 | 2022-07-19 |

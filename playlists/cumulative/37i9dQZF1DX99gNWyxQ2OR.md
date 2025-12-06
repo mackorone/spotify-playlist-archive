@@ -4,7 +4,7 @@
 
 > A complete collection of Chopin's Nocturnes.
 
-33 songs - 2 hr 51 min
+34 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Nocturne No\. 1 in B flat minor, Op\. 9 No\. 1](https://open.spotify.com/track/1EGFCxKCQ3isMnlPzEW8G1) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nelson Freire](https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3) | [Chopin: The Nocturnes](https://open.spotify.com/album/4Lq2ben6ERqYOQB1PM5QfB) | 5:34 | 2020-11-02 | 2025-01-11 |
 | [Nocturne No\. 1 in B flat minor, Op\. 9 No\. 1](https://open.spotify.com/track/7vIJwiFD2FKiulXzCDMvc4) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nelson Freire](https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3) | [Chopin: The Nocturnes](https://open.spotify.com/album/3E18eNdHxIZ5ri5H8dzbAD) | 5:34 | 2020-11-02 | 2024-04-19 |
 | [Nocturne No\. 1 in B\-Flat Minor, Op\. 9 No\. 1](https://open.spotify.com/track/2d6ml9Qkx8r4EjuUyrdpRV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Nocturnes](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) | 4:46 | 2025-01-10 |  |
-| [Nocturne No\. 10 in A\-Flat Major, Op\. 32 No\. 2](https://open.spotify.com/track/5uIEO6lSBDTyKXVnoJ0BWs) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Chopin: The Nocturnes](https://open.spotify.com/album/5sJtW03dyXYGzd7WRqT4Zk) | 4:49 | 2020-11-02 |  |
+| [Nocturne No\. 10 in A\-Flat Major, Op\. 32 No\. 2](https://open.spotify.com/track/5uIEO6lSBDTyKXVnoJ0BWs) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Chopin: The Nocturnes](https://open.spotify.com/album/5sJtW03dyXYGzd7WRqT4Zk) | 4:49 | 2020-11-02 | 2025-12-06 |
+| [Nocturne No\. 10 in A\-Flat Major, Op\. 32 No\. 2 \- Live](https://open.spotify.com/track/7rraZySaf1apjQntqTapFh) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Evgeny Kissin](https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ) | [Evgeny Kissin Plays Chopin \(Live\)](https://open.spotify.com/album/66l7qh3q5KoZRcGTrp45hY) | 5:52 | 2025-12-05 |  |
 | [Nocturne No\. 11 In G Minor, Op\. 37 No\. 1](https://open.spotify.com/track/6saqyONsKCCJw0gWh95LCi) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Nocturnes](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) | 5:21 | 2020-11-02 |  |
 | [Nocturne No\. 12 in G Major, Op\. 37, No\. 2](https://open.spotify.com/track/6EriOgK7cLzYsnNEHTnY36) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Nocturnes, Vol\. 2](https://open.spotify.com/album/3WnONXHPKROuUtLFKvtPQT) | 5:43 | 2020-11-02 | 2024-04-19 |
 | [Nocturne No\. 12 in G Major, Op\. 37, No\. 2](https://open.spotify.com/track/5afaoMCUH7eNssI6PJgPGC) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Nocturnes](https://open.spotify.com/album/62MhxWgysS1Dbe4fCIMHUw) | 5:44 | 2022-08-19 | 2022-11-13 |

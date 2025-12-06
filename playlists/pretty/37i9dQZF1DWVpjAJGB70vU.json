@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2119501,
+  "num_followers": 2119930,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
-        "name": "Brand New Man",
-        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "Brand New Man",
-      "url": "https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1"
-    },
-    {
-      "added_at": "2025-10-08 18:39:08",
-      "album": {
         "name": "The Tractors",
         "url": "https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 236466,
       "name": "Baby Likes To Rock It",
       "url": "https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI"
+    },
+    {
+      "added_at": "2025-10-08 18:39:08",
+      "album": {
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 178893,
+      "name": "Brand New Man",
+      "url": "https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1"
     },
     {
       "added_at": "2025-10-08 18:39:08",

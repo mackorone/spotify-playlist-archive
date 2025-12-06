@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Cool Customer",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\udca5 with Space Laces",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -192,6 +192,36 @@
       "duration_ms": 219428,
       "name": "444",
       "url": "https://open.spotify.com/track/6hsQ42klMjwmgbcuF2tDbH"
+    },
+    {
+      "album": {
+        "name": "6 Million",
+        "url": "https://open.spotify.com/album/3M44H9DeObJQXKK1UTOUHL"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "6 Million",
+      "url": "https://open.spotify.com/track/17WM8SkzLoAH0VBtjiHdjt"
     },
     {
       "album": {
@@ -560,7 +590,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 221200,
       "name": "AGAIN",
       "url": "https://open.spotify.com/track/676fXA0Z4DhqXCrz5Bm4ho"
@@ -3051,6 +3081,28 @@
     },
     {
       "album": {
+        "name": "Vaultage 004",
+        "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66206,
+      "name": "BOMB",
+      "url": "https://open.spotify.com/track/3juNrwySoU5LwadXk8BI2i"
+    },
+    {
+      "album": {
         "name": "Bone Breaker",
         "url": "https://open.spotify.com/album/04CwA0cKXWaySTpciO8vcx"
       },
@@ -3228,6 +3280,28 @@
       "duration_ms": 167176,
       "name": "BOSS FIGHT",
       "url": "https://open.spotify.com/track/4LLfFnU48vESdgSHR7WeqR"
+    },
+    {
+      "album": {
+        "name": "Vaultage 004",
+        "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68796,
+      "name": "BOUNCE LIKE THIS",
+      "url": "https://open.spotify.com/track/6ntHaO9WeYUvNLUmkwPlj2"
     },
     {
       "album": {
@@ -4190,7 +4264,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 154285,
       "name": "Cash Only",
       "url": "https://open.spotify.com/track/1P6muy1K5SQBX8F6U6bne6"
@@ -8790,7 +8864,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 164800,
       "name": "Fibonacci (Part 1)",
       "url": "https://open.spotify.com/track/18gHgIFCm364wY342l620P"
@@ -9304,6 +9378,24 @@
       "duration_ms": 226285,
       "name": "Follow the Leader",
       "url": "https://open.spotify.com/track/5pBrpQ6axw0n2jstYdQQR0"
+    },
+    {
+      "album": {
+        "name": "Vaultage 004",
+        "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78750,
+      "name": "FORCE MAJEURE",
+      "url": "https://open.spotify.com/track/4ebfwFBzoPZfk3TZtxsqUn"
     },
     {
       "album": {
@@ -10386,6 +10478,32 @@
       "duration_ms": 231529,
       "name": "Going Insane",
       "url": "https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8"
+    },
+    {
+      "album": {
+        "name": "Got Away (feat. Royal & the Serpent)",
+        "url": "https://open.spotify.com/album/1xIqw6fCGzUZWlanxsDIhf"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Got Away (feat. Royal & the Serpent)",
+      "url": "https://open.spotify.com/track/5lIW37wg5kwRWcbUYlTpuP"
     },
     {
       "album": {
@@ -13237,6 +13355,24 @@
     },
     {
       "album": {
+        "name": "KILLAA",
+        "url": "https://open.spotify.com/album/4wwGhGHU2vY2ZTPJx5uCDh"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "KILLAA",
+      "url": "https://open.spotify.com/track/3W9fuckq8H5fCHZ0n0GCQx"
+    },
+    {
+      "album": {
         "name": "Killing Machine",
         "url": "https://open.spotify.com/album/4STgH4wL9troz6flN3FeE1"
       },
@@ -13306,7 +13442,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 217714,
       "name": "Kingsound",
       "url": "https://open.spotify.com/track/6wvyABCsDRGp9hN1xNNnAe"
@@ -17276,7 +17412,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 160551,
       "name": "Play It Twice",
       "url": "https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4"
@@ -17840,7 +17976,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 221597,
       "name": "PRESSURE POINT",
       "url": "https://open.spotify.com/track/5fier3NP9cYWlvwjpXv9bZ"
@@ -18138,7 +18274,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 196000,
       "name": "PUSH IT WAY DOWN LOW",
       "url": "https://open.spotify.com/track/7AysNgZyzTipff4Q3H73mp"
@@ -18428,6 +18564,24 @@
       "duration_ms": 150000,
       "name": "Raise the Dead",
       "url": "https://open.spotify.com/track/7wij83rkAGXUP7Dc7MQihR"
+    },
+    {
+      "album": {
+        "name": "Rasta Vibe",
+        "url": "https://open.spotify.com/album/0miR28RRE7tEu3I7WKV6uR"
+      },
+      "artists": [
+        {
+          "name": "LUZCID",
+          "url": "https://open.spotify.com/artist/6Ny7ldBgUotuALx5hSFi4e"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Rasta Vibe",
+      "url": "https://open.spotify.com/track/6id2WlS5mmkjcxk2hAPsIi"
     },
     {
       "album": {
@@ -21069,6 +21223,28 @@
     },
     {
       "album": {
+        "name": "Snake Plant",
+        "url": "https://open.spotify.com/album/7ax6cMTG4sWOzPbSy5whCf"
+      },
+      "artists": [
+        {
+          "name": "EAZYBAKED",
+          "url": "https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv"
+        },
+        {
+          "name": "Ranz",
+          "url": "https://open.spotify.com/artist/3LAV9V2b82IlbsutzK7UZa"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200055,
+      "name": "Snake Plant",
+      "url": "https://open.spotify.com/track/3GXVhBdGZlqwuDUSGr5Bqp"
+    },
+    {
+      "album": {
         "name": "SO DAMN GOOD",
         "url": "https://open.spotify.com/album/4AOXWzndHo8A7gmlLj5CxF"
       },
@@ -21672,7 +21848,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 144000,
       "name": "Spooky Riddim - Strangers Remix",
       "url": "https://open.spotify.com/track/1pPTGd5ccwWRkKT36QuPiN"
@@ -23400,6 +23576,28 @@
     {
       "album": {
         "name": "The Pit",
+        "url": "https://open.spotify.com/album/7C8pJDrZvHs3c36NtzAT1X"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183724,
+      "name": "The Pit",
+      "url": "https://open.spotify.com/track/6uAlhFwFPblqVs5F2xQO4C"
+    },
+    {
+      "album": {
+        "name": "The Pit",
         "url": "https://open.spotify.com/album/0H5c8x30XclLLXZTVvRf0Y"
       },
       "artists": [
@@ -24331,6 +24529,24 @@
     },
     {
       "album": {
+        "name": "cloudburst",
+        "url": "https://open.spotify.com/album/6WIpvItr5vm7mJSSeLnyAP"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "trigger finger",
+      "url": "https://open.spotify.com/track/37GsOcMMMhFRj2Nucwdtx0"
+    },
+    {
+      "album": {
         "name": "Trip Sitter",
         "url": "https://open.spotify.com/album/6ucv7r6LJIx5XF6Ue6zQ4i"
       },
@@ -25120,7 +25336,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 166714,
       "name": "Voicenote Violence",
       "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
@@ -26056,7 +26272,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 182291,
       "name": "Wish",
       "url": "https://open.spotify.com/track/6ZcnuLd0mWgqseSnxTFMRF"

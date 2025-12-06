@@ -4,7 +4,7 @@
 
 > 
 
-1,244 songs - 2 day 16 hr 27 min
+1,248 songs - 2 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,8 +130,10 @@
 | [Besos de Fuego](https://open.spotify.com/track/4qBobmlG6sV9C1hpZ7x4k0) | [Trio Los Jaibos](https://open.spotify.com/artist/5SVbx6F5ArKll70amV3lv7) | [Trio Los Jaibos](https://open.spotify.com/album/04djFIjUp5N8BZGihJAaoM) | 2:37 | 2024-02-14 | 2025-05-21 |
 | [Best Friend](https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Best Friend](https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO) | 3:33 | 2024-08-14 | 2025-05-21 |
 | [Bet](https://open.spotify.com/track/504JCx3dJov6Fi5083r4Hb) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [BPL](https://open.spotify.com/album/5gHs4xLkr2g66PRNsvSh83) | 2:22 | 2022-07-28 | 2023-04-12 |
+| [Betta Listen](https://open.spotify.com/track/2db8VSxfFglwMPmzjbYMS0) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 4:27 | 2025-12-06 |  |
 | [bfo2](https://open.spotify.com/track/1A60dNMbkartuzixGZt2Rc) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 1:59 | 2022-07-22 | 2023-12-14 |
 | [BIG](https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:45 | 2024-12-20 | 2025-05-21 |
+| [Big Brother Beat](https://open.spotify.com/track/7c6nUOPXlVUwsvScqsBoL7) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 3:43 | 2025-12-06 |  |
 | [Big Stonëz](https://open.spotify.com/track/6vmRtsvnmfABDSE7eqeNgW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 2:47 | 2024-03-28 | 2024-11-06 |
 | [Big Tipper \(feat\. Lil Keed\)](https://open.spotify.com/track/2lcJWXNJUjjL3ycoZrpU2g) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:43 | 2023-08-21 |  |
 | [bird allegiance](https://open.spotify.com/track/1fdoecpz1y8yo74NOlMVC7) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [bird allegiance](https://open.spotify.com/album/41KloqSqoao47CGew9Pucl) | 2:18 | 2022-05-08 | 2023-12-14 |
@@ -288,6 +290,7 @@
 | [Do I Do](https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection \(Deluxe Edition\)](https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2) | 5:03 | 2025-10-10 |  |
 | [Do It Big \(feat\. Future\)](https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 3:53 | 2024-12-17 | 2025-05-21 |
 | [Do The Math](https://open.spotify.com/track/4oiZH6jg5NZIs0Wu5iNjE0) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Do The Math](https://open.spotify.com/album/2XBbCMGiy2WtWMzFaZad7m) | 1:49 | 2025-03-06 |  |
+| [Dog Eat Dog](https://open.spotify.com/track/1uXj2h6NigW5Vsp24eTJNz) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 3:38 | 2025-12-05 |  |
 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-04-05 | 2023-05-09 |
 | [DOH DOH \(feat\. Young Scooter\)](https://open.spotify.com/track/0U06Yqe0nkkJlptlr7O4uO) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [BEASTMODE 2](https://open.spotify.com/album/6Ew52HWkgfbth9ihRAq2Xd) | 3:40 | 2024-12-16 |  |
 | [Doing Nothing Else](https://open.spotify.com/track/3Yd4kZMzyg4F58YWLnMxT8) | [Sybyr](https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ) | [Doing Nothing Else](https://open.spotify.com/album/66IRglUbmpjN4qPWYVIQTR) | 3:05 | 2025-05-11 |  |
@@ -1047,6 +1050,7 @@
 | [Summer Reign \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ELl4Rhgv6oqSbqWIomjs3) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:55 | 2023-04-04 | 2023-05-09 |
 | [Summer Soft](https://open.spotify.com/track/0eGpcLG96GWVCG4Ix3qLCp) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:14 | 2025-04-14 |  |
 | [Sup Mate \(feat\. Future\)](https://open.spotify.com/track/0zNHMc1cGKe4MO5rtGtKRh) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:58 | 2023-10-03 | 2024-04-24 |
+| [Supa Emcees](https://open.spotify.com/track/6WL5Lu4vqPP1nEhfDS5ZyS) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 3:40 | 2025-12-05 |  |
 | [Superfly](https://open.spotify.com/track/2XUHR76nHGIbrj0Nzj8U9S) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [Bad Azz Mixtape, Vol\. 2](https://open.spotify.com/album/6yQqGvxwmEHheXhcyHVrSS) | 3:32 | 2025-09-07 |  |
 | [Surf \(feat\. Gunna\)](https://open.spotify.com/track/6igOR5QCn09zAVF2ikZjsV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:04 | 2024-06-24 |  |
 | [Survival Tactics](https://open.spotify.com/track/4pNT8XTKWb2vhcsqwzdXCT) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Capital Steez](https://open.spotify.com/artist/0oQuXVLDJB7J4wNff4F99l) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 3:22 | 2022-09-08 | 2023-05-09 |

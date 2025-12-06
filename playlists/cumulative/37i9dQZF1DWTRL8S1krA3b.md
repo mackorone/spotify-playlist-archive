@@ -2,9 +2,9 @@
 
 ### [New Country Christmas](https://open.spotify.com/playlist/37i9dQZF1DWTRL8S1krA3b)
 
-> This year's new country holiday songs! Cover: Lady A
+> This year's new country holiday songs! Cover: Little Big Town
 
-268 songs - 14 hr 27 min
+270 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/77aDdG4vLSFn4sEM3burtJ) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7djQadfzYqqFoggnnJiheR) | 4:05 | 2023-12-08 | 2024-10-19 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/68KV1GIAhUh5rXcH36DLsK) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/34YGDcc8ezFH94EAfVsu5Q) | 4:04 | 2024-11-01 | 2025-11-08 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0sWdvAS5A2CP2rCHEBe45J) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7Aot2bMAZtbbNU1PF8l8kB) | 3:27 | 2024-10-25 | 2025-11-08 |
+| [Have Yourself A Merry Little Christmas \- Acoustic](https://open.spotify.com/track/3Epks6QVfrlFZ0FjuGolSE) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Have Yourself A Merry Little Christmas \(Acoustic\)](https://open.spotify.com/album/4c8eSrDcABmCTIwLOmGSpS) | 2:22 | 2025-12-05 |  |
 | [Heart of the Holidays](https://open.spotify.com/track/5NmtWJfouVfDFGJUnhmjnl) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Heart of the Holidays](https://open.spotify.com/album/3l7pTfUOeqLC8qFaZ81uFm) | 2:56 | 2025-11-21 |  |
 | [Hey Mrs Claus](https://open.spotify.com/track/7lBJWiIb2xleKBPBYOaApu) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Hey Mrs Claus](https://open.spotify.com/album/3uTldWxsHatM0V8UiP8HJp) | 3:20 | 2024-11-15 | 2025-11-08 |
 | [Holiday Hoedown](https://open.spotify.com/track/04MgJSAXfX3yBvDqJFGhi6) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Favorite Time of the Year](https://open.spotify.com/album/1UbTyupZD7dSqKPk2ClqFd) | 2:34 | 2025-11-07 |  |
@@ -147,6 +148,7 @@
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/3w6YUnqUiJEYjxh0lSefSb) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/album/590drOQWjZxdv3O0BzlcKT) | 2:23 | 2025-10-03 |  |
 | [Let It Snow, Let It Snow, Let It Snow](https://open.spotify.com/track/1KGp2BlcVSKohhH5u7ZIXu) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 2:04 | 2023-11-24 | 2024-10-19 |
 | [Let The Holiday Come On In](https://open.spotify.com/track/4OfeUJAKXw4WxI4Fa8wYIh) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Jingle Jangle Rock](https://open.spotify.com/album/1s0JQejuFhR0XURqr0poWJ) | 2:47 | 2025-11-21 |  |
+| [Let There Be Peace On Earth](https://open.spotify.com/track/0wFnDm2bIyli6zEjZ81LXa) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Let There Be Peace On Earth](https://open.spotify.com/album/4h8C4GQAGVraj3BUAh58Ke) | 3:21 | 2025-12-05 |  |
 | [Lit](https://open.spotify.com/track/4MaDMS6c4NIOznjrSyDZXV) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Lit](https://open.spotify.com/album/3zjZ9kKvJY5mQrJg5INSHS) | 2:39 | 2023-11-24 | 2024-10-19 |
 | [Long Live Christmas](https://open.spotify.com/track/43Ko4Q18oegCpKVSJDoscB) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Long Live Christmas](https://open.spotify.com/album/2R2INgA6o5Ua7SpKAj8oN2) | 2:41 | 2025-11-07 |  |
 | [Mary Did You Know](https://open.spotify.com/track/1bf7ob93MJ60M2ulx10Un3) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Mary Did You Know](https://open.spotify.com/album/0VELGihA2e22w7jFeAHCCU) | 3:20 | 2023-11-24 | 2024-10-19 |

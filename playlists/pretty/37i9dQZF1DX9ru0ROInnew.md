@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,123 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,160 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 37 | [Condenado Para El Millón](https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:42 |
 | 38 | [LHNA](https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5) | [RobGz](https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LHNA](https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45) | 3:20 |
 | 39 | [Michael Myers](https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Michael Myers](https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ) | 4:11 |
-| 40 | [Subiendo De Nivel \- Remix](https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Famouz Reloaded](https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT) | 4:09 |
-| 41 | [Balenciaga](https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Balenciaga](https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj) | 3:43 |
+| 40 | [Balenciaga](https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Balenciaga](https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj) | 3:43 |
+| 41 | [Subiendo De Nivel \- Remix](https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Famouz Reloaded](https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT) | 4:09 |
 | 42 | [Vengo De Nada](https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Buen Viaje](https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m) | 3:41 |
 | 43 | [En Que País](https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [En Que País](https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm) | 3:30 |
 | 44 | [Hielo](https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:11 |

@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with The Kid LAROI
 
-999 songs - 2 day 7 hr 0 min
+1,000 songs - 2 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Honestly](https://open.spotify.com/track/19gGwhwaQUK2aQbJ03YMOo) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S) | [Honestly](https://open.spotify.com/album/3QJXbQQdY1lGrbrDfTMlJF) | 2:53 | 2024-12-06 | 2025-03-26 |
 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-03-18 | 2022-04-16 |
 | [Hot All the Time](https://open.spotify.com/track/6bkJJicRR6gduGo6ZituLh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Hot All the Time](https://open.spotify.com/album/4gAXGVFBGfDnYQL1KVEkej) | 3:01 | 2022-10-14 | 2022-10-29 |
+| [Hotel](https://open.spotify.com/track/4leYuigbid3LuPNI9jDsGr) | [Maeve](https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI) | [Hotel](https://open.spotify.com/album/6IiD5m2FkHUNSu1hVAPTGD) | 2:30 | 2025-12-05 |  |
 | [House With No Mirrors](https://open.spotify.com/track/3iPJ039BamX9MIVZQWEnnL) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Only Child](https://open.spotify.com/album/7v0KN0VlHJZrhAbSbxEZvZ) | 3:47 | 2021-12-17 | 2022-05-20 |
 | [How Am I Supposed To Love Myself?](https://open.spotify.com/track/3Fc478Rl4HYlqLYMZ5gfMT) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [How Am I Supposed To Love Myself?](https://open.spotify.com/album/3PBbBLpCuIveNKgxRQds1e) | 3:44 | 2025-11-28 |  |
 | [How Are You?](https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [How Are You?](https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69) | 2:49 | 2023-01-06 | 2023-04-09 |
@@ -564,7 +565,7 @@
 | [look what you did](https://open.spotify.com/track/1lqC1iUuA9xROuLPdR87Mt) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [look what you did](https://open.spotify.com/album/5y6B6WamjdWeACbHeijgXT) | 3:57 | 2024-07-12 | 2024-08-17 |
 | [looking for you](https://open.spotify.com/track/3PuHNz5VJXwGoWisr7Fpvi) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [looking for you](https://open.spotify.com/album/66Gsdt1XXTPPsTWE0LSuMz) | 3:22 | 2025-07-25 | 2025-09-06 |
 | [Lose Me Like You Mean It](https://open.spotify.com/track/2UzVHw7DgzRhI9o9fvEN6K) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 2:59 | 2025-03-10 | 2025-03-26 |
-| [Lose You To Love Me](https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Lose You To Love Me](https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY) | 3:26 | 2021-12-17 |  |
+| [Lose You To Love Me](https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Lose You To Love Me](https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY) | 3:26 | 2021-12-17 | 2025-12-06 |
 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2022-07-22 | 2024-04-19 |
 | [Loser](https://open.spotify.com/track/2xDqbLFSfHDlfpeUmJ4RwQ) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Loser](https://open.spotify.com/album/2gsPik2x7iO7kNb8vxHnRk) | 2:06 | 2022-03-18 | 2022-03-23 |
 | [Losing You](https://open.spotify.com/track/7nMjj2KzTdrv3DhKrFecjP) | [Mark Dohner](https://open.spotify.com/artist/0oeLTriLBq9avDlMepaN3i) | [Losing You](https://open.spotify.com/album/3dgdaTLgQIFeb1HU3xX4p0) | 3:07 | 2021-12-24 | 2022-01-10 |

@@ -4,7 +4,7 @@
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-148 songs - 7 hr 56 min
+152 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [It's Beginning to Look Like Christmas](https://open.spotify.com/track/4jwZZX8J8eN3w0FOK4FCI3) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Christmas Eve With Johnny Mathis](https://open.spotify.com/album/51b0GIhPK2EekvzycY4YpP) | 2:14 | 2023-12-08 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:32 | 2023-12-08 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/3hBXvHLlTHvnbwrPbeoyAj) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [The Classic Years: 1956\-1962](https://open.spotify.com/album/7yeVUGG3xvGjKwhM2FBItZ) | 2:10 | 2023-12-08 |  |
+| [Jingle Bell Rock](https://open.spotify.com/track/38V4hqjITF3y7iOrOewfCC) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Jingle Bell Rock](https://open.spotify.com/album/4sGclLDTwbJmRiiGy0BFWX) | 2:03 | 2025-12-05 |  |
 | [Jingle Bell Rock \- Cover of Bobby Helms](https://open.spotify.com/track/77GcYr9JP6uvJM0kPa6Nzk) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Vol\. 3](https://open.spotify.com/album/5msQHy2ZV5LjOdeqbYZl9y) | 2:32 | 2023-12-08 |  |
 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/3y8Z2sOJrBt6yKEfsZG1NY) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Christmas Hits](https://open.spotify.com/album/2ojsnLAKwDMT0k3sU0ur0x) | 2:02 | 2023-12-08 |  |
 | [Jingle Bells](https://open.spotify.com/track/4XyMqMHWGC7caBy9MPJYBG) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Christmas with Boney M.](https://open.spotify.com/album/6YvpWNisHeDQPsoqeyckYg) | 3:28 | 2023-12-08 |  |
@@ -102,6 +103,7 @@
 | [My Kind Of Present](https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:41 | 2023-12-08 |  |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/1Rc15RYGBIi10GrL0Zrfob) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Caroling at Christmas](https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1) | 4:15 | 2023-12-08 |  |
 | [Nothin' for Christmas \(with Henri René & His Orchestra and Chorus\)](https://open.spotify.com/track/3KQ4zFkjolIlvqV1FCCM56) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC), [Henri René & His Orchestra and Chorus](https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v) | [Santa Baby](https://open.spotify.com/album/49EwTx8BKdJNOQGbIAgj3l) | 2:36 | 2023-12-08 |  |
+| [Noël à Saint\-Marc](https://open.spotify.com/track/0eGOWdPULMNeq7osLRpG3X) | [Papi Jay](https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI) | [Noël à Saint\-Marc](https://open.spotify.com/album/69YDf4qtuNqJoa4IAIQ6Xr) | 3:42 | 2025-12-05 |  |
 | [O Christmas Tree \(feat\. Count Basie Big Band\)](https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie Big Band](https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO) | [A Swingin' Christmas \(feat\. Count Basie Big Band\)](https://open.spotify.com/album/5XwXBRHD4t7yKAHY5Smb8j) | 3:27 | 2023-12-08 |  |
 | [O Christmas Tree \(Glee Cast Version\)](https://open.spotify.com/track/0ItFNdmFzFHtYnf1d5KHyL) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album](https://open.spotify.com/album/7FNrLZcarhJDymYgoUQfQN) | 2:59 | 2023-12-08 |  |
 | [O Holy Night](https://open.spotify.com/track/7zfIflC7NerIvIFezj2bsk) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 5:20 | 2023-12-08 |  |
@@ -125,6 +127,7 @@
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/3zwjeUjzAm3rwojZNj05P6) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sounds Of The Season](https://open.spotify.com/album/4iryAPVDKPc8OeXghdQhBd) | 4:27 | 2023-12-08 |  |
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/6YeDjSHCDmJKgU8foiaruL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:34 | 2023-12-08 |  |
 | [Santa Claus Is Comin' To Town](https://open.spotify.com/track/5h1LioQgmLvWoRU7V4pjma) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ) | 2:39 | 2025-11-07 |  |
+| [Santa Slide](https://open.spotify.com/track/0FOBjG6E1MUNmdnBbVsPNM) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Santa Slide](https://open.spotify.com/album/2cWjMJQ1AnWc6ofqTGYHCG) | 4:04 | 2025-12-05 |  |
 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 | 2023-12-08 |  |
 | [Silent Night](https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 3:41 | 2023-12-08 |  |
 | [Silver Bells](https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:25 | 2023-12-08 |  |
@@ -140,6 +143,7 @@
 | [The Christmas Song \- Chestnuts Roasting on an Open Fire](https://open.spotify.com/track/5L0wxJpIiFg2QQsXxpa3VP) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Songs for Christmas](https://open.spotify.com/album/5eyUa8J02MonpazR034Pkk) | 3:36 | 2023-12-08 |  |
 | [The First Noel \(feat\. Ellen Reid\)](https://open.spotify.com/track/0QUIp7OoO1W78LKuFFQUBW) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL), [Ellen Reid](https://open.spotify.com/artist/5pydxcyzEN4SSstRLRgTWr) | [The First Noel \(feat\. Ellen Reid\)](https://open.spotify.com/album/6rnehgWRaQuAsnsMUDPjVm) | 3:42 | 2023-12-08 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/7FIcV2kEiO2mvvMbxU5Jkn) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Christmas Spirit](https://open.spotify.com/album/581uOc2TNDiBSHGwURmJTO) | 2:35 | 2023-12-08 |  |
+| [The Rebel Jesus](https://open.spotify.com/track/1fEyQ3bU4ubd2HtAxinjg6) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Full Rainbow of Light \(Deluxe Edition\)](https://open.spotify.com/album/3PTp8AB3JTppmkaUBBR3GY) | 4:09 | 2025-12-05 |  |
 | [There Is No Christmas Like a Home Christmas](https://open.spotify.com/track/0bXoxsKw6751ZT1BLKcgve) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [A Perry Como Christmas](https://open.spotify.com/album/6kwOEj6diw9tUSbhgIVeBP) | 3:18 | 2023-12-08 |  |
 | [This Christmas](https://open.spotify.com/track/32h59T8q2SonUPJ006lyXt) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:01 | 2023-12-08 |  |
 | [This Christmas](https://open.spotify.com/track/1kn9LSiWLTLJubW0pBXEaS) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [A Tyler Shaw Christmas](https://open.spotify.com/album/3apNqYlcREcs4GOS1k5sDL) | 2:27 | 2023-12-08 |  |

@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Rits
 
-242 songs - 10 hr 48 min
+243 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,13 +176,15 @@
 | [Pleintje](https://open.spotify.com/track/2RsZPNZAQPpodPFwHZAHJF) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Plan C](https://open.spotify.com/album/3QpD7k6aF8teVbLxMm5QPR) | 2:09 | 2025-11-27 |  |
 | [Prada Met Lak](https://open.spotify.com/track/1oNqaXbVSlob9HdtT1M8XY) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Biggie68](https://open.spotify.com/artist/2oOZnan3LTQbqc0uGajGY1) | [Prada Met Lak](https://open.spotify.com/album/2fUAbxS0t0WbUaHTOOXLXw) | 2:06 | 2025-10-30 | 2025-11-21 |
 | [Prijs](https://open.spotify.com/track/3ElTmYcOU3GiCjahzceRti) | [GOR](https://open.spotify.com/artist/5MlJLdL7eYtIn5UeOOzluz) | [Prijs](https://open.spotify.com/album/6mHOmDcSskotDXp14uAptd) | 2:55 | 2025-07-17 | 2025-08-29 |
-| [Prijskaart \- Intro](https://open.spotify.com/track/3iqHnpBdeVvXti6wAEAz23) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [](https://open.spotify.com/album/null) | 2:45 | 2025-12-04 |  |
+| [Prijskaart \- Intro](https://open.spotify.com/track/1AxLALp6JPMcNGKwLbrH8Q) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Prijskaart \- Intro](https://open.spotify.com/album/0pM4lngjlsB7a9hGUfffme) | 2:45 | 2025-12-05 |  |
+| [Prijskaart \- Intro](https://open.spotify.com/track/3iqHnpBdeVvXti6wAEAz23) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [](https://open.spotify.com/album/null) | 2:45 | 2025-12-04 | 2025-12-06 |
 | [Probleem](https://open.spotify.com/track/1OnYz9UEfqBm00YYXaczcf) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Mr\. Parra Mini Mixtape](https://open.spotify.com/album/0hkgb6mO1gVRPSOXC4H4kW) | 3:24 | 2025-09-30 |  |
 | [Proost](https://open.spotify.com/track/1yJyVyiwLfcvjoibA4WnNM) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Proost](https://open.spotify.com/album/237Q7Gxp8uPJW7oW9bHZdg) | 2:56 | 2025-10-09 | 2025-11-28 |
 | [Purosangue](https://open.spotify.com/track/36pfAgVkF5ZjqrSqAU4AN8) | [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Purosangue](https://open.spotify.com/album/1xJvxHbK2fPTbPPvI2WqXl) | 2:42 | 2025-08-07 | 2025-10-31 |
 | [Rechtsaf](https://open.spotify.com/track/79UmbzxKb0V9aPy1gFPROI) | [Momi](https://open.spotify.com/artist/2Vd0bXoPtbTy5T1T2aa5hY) | [Rechtsaf](https://open.spotify.com/album/6t643GW4SZhvCmN3z8Paal) | 2:01 | 2025-11-27 |  |
 | [Rijcke Rapper](https://open.spotify.com/track/5q6iWoas2KoltMETxhtTa8) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Rijcke Rapper](https://open.spotify.com/album/1kUmiyYTg9PLnsx62UzecU) | 2:51 | 2025-08-21 | 2025-09-12 |
 | [Risico's](https://open.spotify.com/track/1mGE91efwr1B8B2xvdG2gU) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [Risico's](https://open.spotify.com/album/6ReW5aOEI1aDDnjPerLTLq) | 2:19 | 2025-07-17 | 2025-09-19 |
+| [Rodney](https://open.spotify.com/track/7cgggy3ha5vFg1J96sI93o) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [VOOR DE RITSELAARS](https://open.spotify.com/album/2h4PDrB0ZQFYxlaY2LCmb1) | 3:08 | 2025-12-04 |  |
 | [Rondjes](https://open.spotify.com/track/4nJDZctVlsqaQhtCTPZFj2) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs) | [Vrijspel](https://open.spotify.com/album/52cIFs3jvyBOzVuun6nu0r) | 3:03 | 2025-10-30 |  |
 | [Rooie Tekens](https://open.spotify.com/track/1kveR5ZpvtT1ImeWTy8Sw9) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Rooie Tekens](https://open.spotify.com/album/6u9yVkuABzba88MMZy3J00) | 2:40 | 2025-07-24 | 2025-08-15 |
 | [Route](https://open.spotify.com/track/74b6Krkz0zbNZRLaQuSxCn) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Hakmadafack](https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz) | [Route](https://open.spotify.com/album/6hh4CYTgPSAaPGeGOHOnAn) | 2:26 | 2025-08-14 | 2025-10-17 |
@@ -217,7 +219,6 @@
 | [Tijdloos](https://open.spotify.com/track/2U1gVZP0llaQvyWJ8ITszA) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Tijdloos](https://open.spotify.com/album/27hxSiFgLM88ryP7eGAyJr) | 2:40 | 2025-10-23 | 2025-11-21 |
 | [To the Max](https://open.spotify.com/track/5XjhvR5rKcug7q8DKyxzlm) | [DjangoBeats](https://open.spotify.com/artist/5S8jlJz9AU8D2LYdfjSNOi), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ), [Shep500](https://open.spotify.com/artist/2L1iisFuoQkvqAxNv1RdpU) | [To the Max](https://open.spotify.com/album/4DSU5IvNNK26NuzPhItKSE) | 3:45 | 2025-10-16 | 2025-12-05 |
 | [TOXIC](https://open.spotify.com/track/02SkhSShsYpPPAmqwdJi6B) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [TOXIC](https://open.spotify.com/album/7DWEu6Ka60yycvREDE9XLG) | 3:15 | 2025-07-17 | 2025-08-15 |
-| [Track 2](https://open.spotify.com/track/7cgggy3ha5vFg1J96sI93o) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [TRANQUILLO](https://open.spotify.com/track/7yCQnZXobkhuUhou4F9kog) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [TRANQUILLO](https://open.spotify.com/album/2hIBuW8ozqyF7Uv8D6gC8G) | 2:46 | 2025-12-04 |  |
 | [Trendsetter](https://open.spotify.com/track/1hEc7w72T66QCtN6AbVa2R) | [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu) | [Trendsetter](https://open.spotify.com/album/4NufF0Z58ZQYF7S61NO6LI) | 2:42 | 2025-07-17 | 2025-08-15 |
 | [Turks & Caicos](https://open.spotify.com/track/5mnKGcQAPxt7YPJpf28gMo) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Turks & Caicos](https://open.spotify.com/album/3fjKPy78dV3A9HzZ2QcUZb) | 1:48 | 2025-09-11 | 2025-11-14 |

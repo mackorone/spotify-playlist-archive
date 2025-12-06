@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,510 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,511 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 10 | [Columbia \(Dirty\)](https://open.spotify.com/track/20qSuLJ90dGjpIeTekNLEC) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Columbia](https://open.spotify.com/album/68CmqCHFatt5FppZEoRWxU) | 2:58 |
 | 11 | [No Features \- feat\. Kodak Black](https://open.spotify.com/track/0jxJiq2bVLGlqLoqhdGZqz) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Recipe](https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE) | 3:28 |
 | 12 | [Hustlin'](https://open.spotify.com/track/5jc0Ksd56qSw6zZwVsvEtg) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 4:07 |
-| 13 | [DOH DOH \(feat\. Young Scooter\)](https://open.spotify.com/track/0U06Yqe0nkkJlptlr7O4uO) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [BEASTMODE 2](https://open.spotify.com/album/6Ew52HWkgfbth9ihRAq2Xd) | 3:40 |
-| 14 | [Special \(feat\. Young Scooter\)](https://open.spotify.com/track/2XjcBGdV3h5NJ1hq5NFCy0) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 4:58 |
+| 13 | [Special \(feat\. Young Scooter\)](https://open.spotify.com/track/2XjcBGdV3h5NJ1hq5NFCy0) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 4:58 |
+| 14 | [DOH DOH \(feat\. Young Scooter\)](https://open.spotify.com/track/0U06Yqe0nkkJlptlr7O4uO) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [BEASTMODE 2](https://open.spotify.com/album/6Ew52HWkgfbth9ihRAq2Xd) | 3:40 |
 | 15 | [Shooter \(feat\. Young Scooter & Yung Fresh\)](https://open.spotify.com/track/07ybMGXgr3pe4YJWzafg1Z) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Yung Fresh](https://open.spotify.com/artist/0ldQL0icSoMz9OOZcWG8Zt) | [Trap God](https://open.spotify.com/album/6SiRYxE07klRSLa8uyDQzt) | 3:36 |
 | 16 | [Life](https://open.spotify.com/track/0OTGBE7VJnIAXvgYw7E1t4) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 3:04 |
 | 17 | [Oooooh \(feat\. Young Scooter\)](https://open.spotify.com/track/5FMH3g2VYH4manoJWEDhUk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 49 | [Number Game](https://open.spotify.com/track/4mmmxpXJVKKEJxDr0umiOJ) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:12 |
 | 50 | [Super](https://open.spotify.com/track/0Vm9eDHO02oETkGrbVfZaX) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Free Bricks 2](https://open.spotify.com/album/0u1zuwdz8PmbNBMpR8jAx2) | 3:00 |
 
-Snapshot ID: `aS99gAAAAAAIjW8fqBFrWz1m5VHDfKu0`
+Snapshot ID: `aTDPAAAAAADQ8XXjISDJeD9UZ9If0R2H`

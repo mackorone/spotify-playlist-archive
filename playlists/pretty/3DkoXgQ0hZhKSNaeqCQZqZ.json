@@ -1,13 +1,45 @@
 {
   "description": "FurryRadio.com, made for furs, by furs. ",
-  "num_followers": 859,
+  "num_followers": 860,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEhZlWD+nUXecOO8zKKQMA1ArMml84",
+  "snapshot_id": "AAAEh3pQmHnEIULC8m6k/VPweMZRaSRe",
   "tracks": [
+    {
+      "added_at": "2025-12-05 22:01:34",
+      "album": {
+        "name": "d0t r4Wr",
+        "url": "https://open.spotify.com/album/3tpChLn0Ly6DHJ5fMg3oVt"
+      },
+      "artists": [
+        {
+          "name": "Mek-9",
+          "url": "https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "1 d0n7 w4nN4 w417",
+      "url": "https://open.spotify.com/track/3RCzbEvH4d2hX6DJO8sGli"
+    },
+    {
+      "added_at": "2025-12-05 22:03:30",
+      "album": {
+        "name": "Missing Before",
+        "url": "https://open.spotify.com/album/1f9pcMurXmFv1eREjYGLjj"
+      },
+      "artists": [
+        {
+          "name": "Roadkill't",
+          "url": "https://open.spotify.com/artist/5lvarDFsfZZaK87sFgg2g2"
+        }
+      ],
+      "duration_ms": 125828,
+      "name": "Missing Before",
+      "url": "https://open.spotify.com/track/4uWriDiaZ97W3rgoY5UphD"
+    },
     {
       "added_at": "2025-11-28 21:27:39",
       "album": {

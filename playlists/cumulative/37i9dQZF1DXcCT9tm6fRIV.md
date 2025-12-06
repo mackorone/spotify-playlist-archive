@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-160 songs - 9 hr 1 min
+161 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Desde El Alma \- Instrumental](https://open.spotify.com/track/7hc9R31zHkGP84yPheNFFG) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Ausencia](https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF) | 2:55 | 2022-03-18 |  |
 | [Desde El Alma \- Instrumental](https://open.spotify.com/track/3x4avp1I0TItgRFwytiTsX) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Boleros y Tangos Clásicos Mix](https://open.spotify.com/album/4FQbREiD9Anv7pc1osol0y) | 2:59 | 2022-03-18 | 2023-04-02 |
 | [Desencuentro](https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 2:38 | 2022-03-18 |  |
-| [Detrás de los Cerros](https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48) | [Orquesta Los Crayones](https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy) | [Detrás de los Cerros](https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9) | 3:10 | 2022-03-18 |  |
+| [Detrás de los Cerros](https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48) | [Orquesta Los Crayones](https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy) | [Detrás de los Cerros](https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9) | 3:10 | 2022-03-18 | 2025-12-06 |
 | [Don Agustín Bardi](https://open.spotify.com/track/4sTyyFYvesp495YKFX8erD) | [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [Viejo Zen del alma](https://open.spotify.com/album/0pzsh5nMb1GJcoIrYrDFMS) | 3:19 | 2022-03-18 | 2022-07-29 |
 | [El Abrojito](https://open.spotify.com/track/0lUpFlDOBJet7WTlJFJQuN) | [Rodolfo Mederos](https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC) | [Comunidad](https://open.spotify.com/album/1jBW7ujHXvUsfMITLJIkFB) | 4:07 | 2022-03-18 | 2022-07-29 |
 | [El Abrojito](https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan) | [Rodolfo Mederos](https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC) | [Comunidad](https://open.spotify.com/album/2W4TjCwnnCsqSnhczdVL76) | 4:07 | 2022-03-18 | 2024-04-19 |
@@ -124,6 +124,7 @@
 | [Por una Cabeza](https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 1: Gardel y Le Pera](https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ) | 2:34 | 2022-03-18 |  |
 | [Pucherito de gallina](https://open.spotify.com/track/5MAM9qZtv56hTZUA5881LR) | [Rodrigo de la Serna y El Yotivenco](https://open.spotify.com/artist/7aIqwTieeHhRsxuZbzqv8A) | [Pucherito de gallina](https://open.spotify.com/album/6531ccbkg5uE09HQ7KSBsm) | 2:27 | 2022-03-18 | 2024-04-19 |
 | [Pucherito de gallina](https://open.spotify.com/track/6YP05KGYm7oCQYyxhM7PMt) | [Rodrigo de la Serna y El Yotivenco](https://open.spotify.com/artist/7aIqwTieeHhRsxuZbzqv8A) | [Pucherito de gallina](https://open.spotify.com/album/0EuwLaxUs28LSj8ehh3MTq) | 2:27 | 2022-03-18 | 2022-07-28 |
+| [PUCHERITO DE GALLINA \(feat\. Cucuza Castiello\)](https://open.spotify.com/track/0ShtJeofEcCflCp4a5fDLU) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2), [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [ACTOS DE GENTILEZA](https://open.spotify.com/album/60zLloJjOO0RtrBvnufUMl) | 2:57 | 2025-12-05 |  |
 | [Quedemonos Aqui \- En Vivo](https://open.spotify.com/track/6Y0EIzZmLz9zWQineeK6Kz) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Andrés Linetzky](https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH) | [Intimos, Vol\. 1 en vivo en Bebop](https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg) | 3:56 | 2022-03-18 |  |
 | [Quiero Verte una Vez Más](https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID) | [Roberto Siri](https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl) | [70 Años de Tango](https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk) | 3:48 | 2022-03-18 |  |
 | [Qué Me Van a Hablar de Amor](https://open.spotify.com/track/4YIZvmqOxkKSfb2WSX6dcN) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX) | [Presentando a Julio Sosa](https://open.spotify.com/album/6xYIlPpJXfz74SvviVPm5G) | 3:12 | 2023-12-01 | 2024-04-19 |

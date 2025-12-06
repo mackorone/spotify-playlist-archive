@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31206,
+  "num_followers": 31203,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAADUJ4vQGPpryoLDRjE8DQNh",
+  "snapshot_id": "aTDPAAAAAAAsGpPHbTTGFebsOuI5ajEk",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mega Hits - Damares",
-        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 333746,
-      "name": "Alto Pre\u00e7o",
-      "url": "https://open.spotify.com/track/2azG5cPK5k6p7BMJalX9ow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Tenda (Ao Vivo)",
         "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 470263,
       "name": "A Tenda (Ao Vivo)",
       "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mega Hits - Damares",
+        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 333746,
+      "name": "Alto Pre\u00e7o",
+      "url": "https://open.spotify.com/track/2azG5cPK5k6p7BMJalX9ow"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 323200,
-      "name": "Sou o Que Sou",
-      "url": "https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terceiro C\u00e9u",
         "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 388196,
       "name": "Terceiro C\u00e9u",
       "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 323200,
+      "name": "Sou o Que Sou",
+      "url": "https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5"
     },
     {
       "added_at": null,

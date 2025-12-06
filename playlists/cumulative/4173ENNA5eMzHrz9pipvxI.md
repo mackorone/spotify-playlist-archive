@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: TH;EN
 
-1,885 songs - 3 day 18 hr 33 min
+1,886 songs - 3 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1284,6 +1284,7 @@
 | [Outlines \- Tita Lau Remix](https://open.spotify.com/track/0g21zlqQ7w7axnIDPfmAD5) | [Mike Mago](https://open.spotify.com/artist/5lwT6gFdwV3Wcol07KUiJx), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Outlines \(Tita Lau Remix\)](https://open.spotify.com/album/5PhLT283pCiZUECjfoZ1Wl) | 3:10 | 2022-07-08 | 2022-07-23 |
 | [Over Now](https://open.spotify.com/track/1VGAQkCsWmbK5TxuMWYtm3) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Over Now](https://open.spotify.com/album/2CgwKYouEa1jFyMrYVkkHA) | 3:04 | 2025-02-20 | 2025-04-19 |
 | [Overdose](https://open.spotify.com/track/1vfuTsXHo4IjThgs4CtOwa) | [JayJay](https://open.spotify.com/artist/0Er9HtStu9pbSThPMRjOEC) | [Overdose](https://open.spotify.com/album/49EemIWqDMa3KdtOmFVQ6V) | 2:49 | 2023-06-01 | 2023-06-16 |
+| [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 | 2025-12-05 |  |
 | [Overdrive](https://open.spotify.com/track/6Wr5slyHZ2FeSSDuUWFW8I) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Overdrive](https://open.spotify.com/album/3DDBRtRLtgXgJZcwr2YzYb) | 3:09 | 2023-09-15 | 2023-12-14 |
 | [Overdrive \- Wave Wave VIP Mix](https://open.spotify.com/track/38zyXjO1GzRmtahMkzUMZQ) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Overdrive \(Wave Wave VIP Mix\)](https://open.spotify.com/album/1fvjeN99HxmXVkEaARXF0Y) | 2:45 | 2023-12-08 | 2023-12-23 |
 | [Overload](https://open.spotify.com/track/7eK8NnAGrCjNA76waOYENT) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [Mert Can](https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q), [Garonzos](https://open.spotify.com/artist/251mxKacj3xUCn5AJwHH7A) | [Overload](https://open.spotify.com/album/2pMfkhLuAHNl2arl69LiGp) | 3:06 | 2022-12-01 | 2022-12-16 |

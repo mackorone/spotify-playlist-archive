@@ -1,18 +1,58 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Eknaath Kiran Goparaaju",
-  "num_followers": 42014,
+  "num_followers": 42016,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAthjvKs/ap4q/iPb8raa9erQDwz",
+  "snapshot_id": "AAAAAGXIBaKrdVsdM6VVx193Wj+4FDTE",
   "tracks": [
     {
-      "added_at": "2025-09-29 06:42:49",
+      "added_at": "2025-12-05 06:33:44",
       "album": {
-        "name": "Premey",
-        "url": "https://open.spotify.com/album/2IBdSJj5qnyc6a0g0th2Qk"
+        "name": "Padipoya",
+        "url": "https://open.spotify.com/album/2MXuHAHxSz3zvnWWlgVSvz"
+      },
+      "artists": [
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        },
+        {
+          "name": "Amala Chebolu",
+          "url": "https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Padipoya",
+      "url": "https://open.spotify.com/track/0Emzz8mcBafVhb7jgrtSmh"
+    },
+    {
+      "added_at": "2025-12-05 06:33:44",
+      "album": {
+        "name": "Mava",
+        "url": "https://open.spotify.com/album/42rpyxxQ8QJ9hRRWkBEDkF"
+      },
+      "artists": [
+        {
+          "name": "Damini Bhatla",
+          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "Mava",
+      "url": "https://open.spotify.com/track/4DGW1TXNm20X2Z3sbts3pI"
+    },
+    {
+      "added_at": "2025-11-06 07:16:45",
+      "album": {
+        "name": "Kadhanametu",
+        "url": "https://open.spotify.com/album/4pk3pLkRE5JY1W0oL9KCDy"
       },
       "artists": [
         {
@@ -24,25 +64,9 @@
           "url": "https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf"
         }
       ],
-      "duration_ms": 285499,
-      "name": "Premey",
-      "url": "https://open.spotify.com/track/1ji8IVa3DutxiWbyixwj2i"
-    },
-    {
-      "added_at": "2025-12-02 05:51:23",
-      "album": {
-        "name": "Em Tech Ra B Tech",
-        "url": "https://open.spotify.com/album/7aR1rjE3DjkdAgd34MPj6z"
-      },
-      "artists": [
-        {
-          "name": "Prem",
-          "url": "https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l"
-        }
-      ],
-      "duration_ms": 233420,
-      "name": "Em Tech Ra B Tech",
-      "url": "https://open.spotify.com/track/6SA8q9gHqnO0352sPHz8cP"
+      "duration_ms": 202581,
+      "name": "Kadhanametu",
+      "url": "https://open.spotify.com/track/0KjqwXu7zvoaaPJpG7pEXP"
     },
     {
       "added_at": "2025-10-03 03:32:29",
@@ -59,6 +83,22 @@
       "duration_ms": 220941,
       "name": "Angana",
       "url": "https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc"
+    },
+    {
+      "added_at": "2025-12-02 05:51:23",
+      "album": {
+        "name": "Em Tech Ra B Tech",
+        "url": "https://open.spotify.com/album/7aR1rjE3DjkdAgd34MPj6z"
+      },
+      "artists": [
+        {
+          "name": "Prem",
+          "url": "https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l"
+        }
+      ],
+      "duration_ms": 233420,
+      "name": "Em Tech Ra B Tech",
+      "url": "https://open.spotify.com/track/6SA8q9gHqnO0352sPHz8cP"
     },
     {
       "added_at": "2025-11-20 07:17:33",
@@ -489,26 +529,6 @@
       "url": "https://open.spotify.com/track/4NH62FwthMMwtK6223RfQb"
     },
     {
-      "added_at": "2025-11-06 07:16:45",
-      "album": {
-        "name": "Kadhanametu",
-        "url": "https://open.spotify.com/album/4pk3pLkRE5JY1W0oL9KCDy"
-      },
-      "artists": [
-        {
-          "name": "Eknaath",
-          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
-        },
-        {
-          "name": "Eknaath Kiran Goparaaju",
-          "url": "https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf"
-        }
-      ],
-      "duration_ms": 202581,
-      "name": "Kadhanametu",
-      "url": "https://open.spotify.com/track/0KjqwXu7zvoaaPJpG7pEXP"
-    },
-    {
       "added_at": "2025-10-28 03:29:12",
       "album": {
         "name": "Maguva",
@@ -813,26 +833,6 @@
       "url": "https://open.spotify.com/track/3DvSJQwkGGHbEVQN3tB5vT"
     },
     {
-      "added_at": "2025-09-10 07:04:22",
-      "album": {
-        "name": "Cheruvai Nuvve Cherukoleva (Rewind)",
-        "url": "https://open.spotify.com/album/1UHLGOufMmi6lV2E9iKkZD"
-      },
-      "artists": [
-        {
-          "name": "Avishek Majumder",
-          "url": "https://open.spotify.com/artist/2zw5aIyhFyxnCoU5rVpbeO"
-        },
-        {
-          "name": "Arpita Mukherjee",
-          "url": "https://open.spotify.com/artist/5ncTuEg7Nr4mL0SqlXLy8P"
-        }
-      ],
-      "duration_ms": 221427,
-      "name": "Cheruvai Nuvve Cherukoleva (Rewind)",
-      "url": "https://open.spotify.com/track/2rXEHGGb48Nn8m7PAxe6FW"
-    },
-    {
       "added_at": "2025-07-31 13:21:43",
       "album": {
         "name": "Kannulo Nuvve",
@@ -873,24 +873,24 @@
       "url": "https://open.spotify.com/track/4rrtLmqjnTuyg8KgsZ7d1K"
     },
     {
-      "added_at": "2025-09-04 15:03:44",
+      "added_at": "2025-09-29 06:42:49",
       "album": {
-        "name": "Get Away (Telugu Version)",
-        "url": "https://open.spotify.com/album/2Z7wfydKyJZlSy16QkcoQx"
+        "name": "Premey",
+        "url": "https://open.spotify.com/album/2IBdSJj5qnyc6a0g0th2Qk"
       },
       "artists": [
         {
-          "name": "Rajman",
-          "url": "https://open.spotify.com/artist/0hDXWKeI4LavT2j3SEorIh"
+          "name": "Eknaath",
+          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
         },
         {
-          "name": "Vaishnavi Kovvuri",
-          "url": "https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g"
+          "name": "Eknaath Kiran Goparaaju",
+          "url": "https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf"
         }
       ],
-      "duration_ms": 243142,
-      "name": "Get Away - Telugu Version",
-      "url": "https://open.spotify.com/track/3qbRA9xzXAJ6s2Y6fCML8f"
+      "duration_ms": 285499,
+      "name": "Premey",
+      "url": "https://open.spotify.com/track/1ji8IVa3DutxiWbyixwj2i"
     },
     {
       "added_at": "2025-08-04 07:20:23",

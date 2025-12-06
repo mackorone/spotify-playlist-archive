@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 203661,
+  "num_followers": 203677,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAKQuDEMHqhg9aA6g62e3OvpyRYKV",
   "tracks": [
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE"
+      },
+      "artists": [
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Vivaldi Variation (meno mosso)",
+      "url": "https://open.spotify.com/track/1L7y9wtq9PzlY42qBQCNYu"
+    },
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 137624,
       "name": "Kindred",
       "url": "https://open.spotify.com/track/1Lgp86lSj6NxeLHnr6VjXS"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
-        "name": "Pianissimo II",
-        "url": "https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE"
-      },
-      "artists": [
-        {
-          "name": "Florian Christl",
-          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Vivaldi Variation (meno mosso)",
-      "url": "https://open.spotify.com/track/1L7y9wtq9PzlY42qBQCNYu"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -1211,8 +1211,8 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "Spirituality",
-        "url": "https://open.spotify.com/album/6GqKU68AVFxcWdVf1DN53G"
+        "name": "Procyon",
+        "url": "https://open.spotify.com/album/3rJky4N4dLDxv6CkB1zC4X"
       },
       "artists": [
         {
@@ -1220,9 +1220,9 @@
           "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
         }
       ],
-      "duration_ms": 172480,
-      "name": "Perceptions",
-      "url": "https://open.spotify.com/track/1TiUzgCfUD7oGutGByCmQr"
+      "duration_ms": 186000,
+      "name": "Procyon",
+      "url": "https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "Procyon",
-        "url": "https://open.spotify.com/album/3rJky4N4dLDxv6CkB1zC4X"
+        "name": "Spirituality",
+        "url": "https://open.spotify.com/album/6GqKU68AVFxcWdVf1DN53G"
       },
       "artists": [
         {
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Procyon",
-      "url": "https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2"
+      "duration_ms": 172480,
+      "name": "Perceptions",
+      "url": "https://open.spotify.com/track/1TiUzgCfUD7oGutGByCmQr"
     }
   ],
   "unique_name": "Instrumental Reading",

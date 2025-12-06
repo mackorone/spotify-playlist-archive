@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 
 > Οι καλλιτέχνες που ακούστηκαν περισσότερο μέσα στο 2025\. Εξώφυλλο: TOQUEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,135 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,161 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 | 37 | [Nero](https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Nero](https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y) | 3:08 |
 | 38 | [DIEFTHINTIS](https://open.spotify.com/track/1R3ISkeACOnqpDDqsUV8tL) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [DIEFTHINTIS](https://open.spotify.com/album/2KLXS2kXMYkWpqwO6anvAb) | 2:21 |
 | 39 | [Money Dance](https://open.spotify.com/track/0KW4JDVbQG4FKgUHPfdzse) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Money Dance](https://open.spotify.com/album/4fxc9z6GCwSs6CJC51212J) | 2:13 |
-| 40 | [Alleluia](https://open.spotify.com/track/039IH9LjGyZnyXx7xIi6Xb) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Hybrid](https://open.spotify.com/album/4My7whJTE7G98ey208Neit) | 3:48 |
+| 40 | [Alleluia](https://open.spotify.com/track/039IH9LjGyZnyXx7xIi6Xb) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Arcade](https://open.spotify.com/artist/79GjHhMHonErm1Ulf07Urr) | [Hybrid](https://open.spotify.com/album/4My7whJTE7G98ey208Neit) | 3:48 |
 | 41 | [Anasa](https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Anasa](https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD) | 4:43 |
 | 42 | [KENTRO](https://open.spotify.com/track/1kZ2FL3WV1mAulSSrtpStg) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [KENTRO](https://open.spotify.com/album/2gMwgBh1Sw73mOataTZWfC) | 2:08 |
 | 43 | [BLOUZAKI](https://open.spotify.com/track/7eVEcqGwyn59jK1hBaFhgP) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:36 |

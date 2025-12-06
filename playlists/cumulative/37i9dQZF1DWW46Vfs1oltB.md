@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: KC\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: UNEDUCATED KID\)
 
-1,700 songs - 3 day 18 hr 51 min
+1,701 songs - 3 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,6 +773,7 @@
 | [Keep It Sexy \(MOMMAE 2\) \(Feat\. JEON SOMI\)](https://open.spotify.com/track/349vRUzitG48j0mYch7Ega) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Keep It Sexy \(MOMMAE 2\)](https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs) | 2:32 | 2025-05-23 | 2025-09-12 |
 | [KG MODE \(Feat\. NY KID\)](https://open.spotify.com/track/4mFisK0UM1MoBSFacgagEx) | [KOREANGROOVE](https://open.spotify.com/artist/51kKa2NlubrcVgPEoxUQv6), [NY Kid](https://open.spotify.com/artist/4WHZ2ZdKtRVJT09KhmToNN) | [WHITE GROOVE](https://open.spotify.com/album/5iPAzZ47yi7XXRQlz2zbAJ) | 2:52 | 2023-01-20 | 2023-03-25 |
 | [khalifa \(feat\. Young B\)](https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Jazzy Moon](https://open.spotify.com/artist/3S9b8WTUFIMJy2nFgU6a3x), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [fxxk u](https://open.spotify.com/album/7LV5SIBe5THK0xdfYOvLYh) | 4:49 | 2022-10-03 | 2022-12-10 |
+| [KILL](https://open.spotify.com/track/1TlxJTl12nTgCI0HxwRUpo) | [UNEDUCATED KID](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [MZ](https://open.spotify.com/album/0zAbsoJKJ1UlYTJpONyuVY) | 2:12 | 2025-12-05 |  |
 | [KILL THEM ALL](https://open.spotify.com/track/0Hbvm4QqvfJfe6bzBkPpGm) | [Hippie Kunda](https://open.spotify.com/artist/1E6nM6pTyYrR4XmMnRKoZR), [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [KILL THEM ALL](https://open.spotify.com/album/2Jnn0VClIgQq1qByPXtDbu) | 4:35 | 2024-12-17 | 2025-03-13 |
 | [Killawhale \(feat\. Keith Ape & JayAllday\)](https://open.spotify.com/track/1kSuvS3t4OaWkbVAz5mzPS) | [KG](https://open.spotify.com/artist/7zX4qBPeqfbRWtLdr1DXzG), [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI), [JayAllDay](https://open.spotify.com/artist/3tCFRVyQtXCCDS2em4V8wv) | [Hardhitters](https://open.spotify.com/album/4fElVO8jcZuvUQCqfatlIH) | 3:31 | 2024-06-20 | 2024-10-15 |
 | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-13 | 2025-10-22 |

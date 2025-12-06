@@ -2,7 +2,7 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop\. Cover: Lisa Rose
+> Frisse Nederlandse pop\. Cover: FLEMMING & Metejoor
 
 1,168 songs - 2 day 7 hr 52 min
 
@@ -717,7 +717,7 @@
 | [Misschien Crazy](https://open.spotify.com/track/21kjeeV4gTtHNCEMclJP0G) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Misschien Crazy](https://open.spotify.com/album/6xD6VRWEj4Nezcn39iArDU) | 2:38 | 2025-08-04 | 2025-08-15 |
 | [Misschien Is Ooit Wel Nu](https://open.spotify.com/track/3rGpDPBdkLEmjFj9JwqvpH) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Misschien Is Ooit Wel Nu](https://open.spotify.com/album/2i7QZ4WZ7FQe6Uqbz8D643) | 3:26 | 2024-04-25 | 2024-06-01 |
 | [Missen](https://open.spotify.com/track/7pUUC2DcPUbB9eSqOaT4Ji) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Missen](https://open.spotify.com/album/1TJ4nEX5ePlLKhTyAK1CL8) | 3:35 | 2023-11-02 | 2024-02-09 |
-| [Moe Van Jezelf](https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Moe Van Jezelf](https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo) | 2:40 | 2025-12-04 |  |
+| [Moe Van Jezelf](https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Moe Van Jezelf](https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo) | 2:40 | 2025-12-04 |  |
 | [Moeilijk](https://open.spotify.com/track/3t1kY2rVGBGxFjUw1kxIdD) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Moeilijk](https://open.spotify.com/album/3nATqZ2lFP9DYKDcajA8Yd) | 2:37 | 2023-02-23 | 2023-06-09 |
 | [Moment Zonder Jou](https://open.spotify.com/track/4DEQOhoCywtYBB7ykV8IGQ) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Moment Zonder Jou](https://open.spotify.com/album/5poj1NeSGNbDRavXtthovt) | 2:25 | 2023-02-23 | 2023-03-31 |
 | [Mona Lisa](https://open.spotify.com/track/15r38hNLqPpZtGHmMD0gZo) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Mona Lisa](https://open.spotify.com/album/2DhabauY6zvanAIIsC45w4) | 2:08 | 2025-10-02 | 2025-12-05 |

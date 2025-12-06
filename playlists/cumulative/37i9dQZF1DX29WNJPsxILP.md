@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Emiway Bantai & Naezy
+> Best of Hindi Hip\-Hop! Cover: Karma
 
-300 songs - 15 hr 9 min
+301 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [BAAWE](https://open.spotify.com/track/6AhYiJyXQTOjuytJ0khZBD) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 2:39 | 2025-01-17 |  |
 | [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2025-01-06 |  |
 | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/track/7fCbbPG8ClYyzKWy53N2jJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/album/1xdYAwQDw8Dp7AxD0ubUul) | 3:42 | 2023-03-10 | 2023-09-02 |
+| [Back 2 Back](https://open.spotify.com/track/29SoFgKO588lKJVnUTp10E) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [6 pe 6](https://open.spotify.com/album/0QFdrYn3iAu2Jl0UOl34nL) | 2:58 | 2025-12-05 |  |
 | [BAD GUY \(DG\)](https://open.spotify.com/track/0dTZ4voGuikJX6kI0a9v7g) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [BAD GUY \(DG\)](https://open.spotify.com/album/5oFzkhlE24nHE0Ld54UTdL) | 1:51 | 2023-03-10 | 2024-07-19 |
 | [BADA](https://open.spotify.com/track/1wXboYx3lvl38SHBj532Es) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [BADA](https://open.spotify.com/album/1lKabEz08F0w7UOmMsu8Wm) | 2:34 | 2024-09-05 | 2024-10-24 |
 | [BADA](https://open.spotify.com/track/57JgnvdInhr9wO4tvjDq2K) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [How Much a Rhyme Costs?](https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G) | 2:34 | 2024-09-30 | 2025-01-20 |
@@ -113,7 +114,7 @@
 | [Goat Dekho](https://open.spotify.com/track/0rpcam9O6KfmWqSYp4q8PM) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Goat Dekho](https://open.spotify.com/album/4IvljiJx9k9Vuog309ll8r) | 3:33 | 2023-03-10 | 2023-10-12 |
 | [God Bless You](https://open.spotify.com/track/2Q6ajrXPICNctahJ9jeiYn) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [God Bless You](https://open.spotify.com/album/3ZDNJuCmV1mlUf3Z5dLvJ2) | 2:36 | 2025-01-06 | 2025-05-17 |
 | [Gorilla \(with Rebel 7\)](https://open.spotify.com/track/7MBbENrJlmxDL8gVyNsw7o) | [Smoke](https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Khel Kood](https://open.spotify.com/album/2HQHTg4QiREEkkHAMnHxNa) | 2:21 | 2024-12-06 | 2025-01-16 |
-| [GTA NCR](https://open.spotify.com/track/5SVmwl5avNHU3clEo86jE9) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [GTA NCR](https://open.spotify.com/album/5Cji4DtVI1prgnhDMGjxTE) | 2:41 | 2023-03-10 |  |
+| [GTA NCR](https://open.spotify.com/track/5SVmwl5avNHU3clEo86jE9) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [GTA NCR](https://open.spotify.com/album/5Cji4DtVI1prgnhDMGjxTE) | 2:41 | 2023-03-10 | 2025-12-06 |
 | [GUESS](https://open.spotify.com/track/2Xv14bnP2GP8CybxqUswoK) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GUESS](https://open.spotify.com/album/576uoepdv4Ygap72dx37gA) | 2:48 | 2025-01-06 | 2025-08-16 |
 | [Gunehgar](https://open.spotify.com/track/4hzDCJUFDyk66oIBirPiCl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/12fCusmTQwk6IZxNR5xKm8) | 2:43 | 2025-01-06 |  |
 | [Haath Toh Laga](https://open.spotify.com/track/04Vcyk4f096du3nWURpqE3) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Haath Toh Laga](https://open.spotify.com/album/76fVcAIaboYxvTj2xdceIw) | 2:27 | 2024-04-09 | 2024-09-06 |

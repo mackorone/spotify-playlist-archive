@@ -4,7 +4,7 @@
 
 > Le meilleur du rap africain francophone\. Photo : døpelym
 
-211 songs - 9 hr 45 min
+211 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [GAMME 2 BOSS](https://open.spotify.com/track/0fltveHa24SP15AsxbUdOh) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu), [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [GAMME 2 BOSS](https://open.spotify.com/album/7FNEycoTOLPCJdat5EoIGs) | 2:26 | 2025-05-29 | 2025-10-03 |
 | [Garçon](https://open.spotify.com/track/6zPiqz4xy1ExPMviMZ3APi) | [Devone](https://open.spotify.com/artist/42n26sVrqcTkYhNLFQ4UFF), [Kadja](https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek) | [Garçon](https://open.spotify.com/album/7DmIq6xQeYUVCWgM4DiDc1) | 3:09 | 2025-05-29 | 2025-06-06 |
 | [GEMIMA](https://open.spotify.com/track/2iGKap7iFgqarvtDvOsHzk) | [E.J](https://open.spotify.com/artist/6ug6aCXWry7QVITLdGDjoV) | [5th DIMENSION](https://open.spotify.com/album/1emaOwFSpZg1TgP0u2Jzz8) | 2:53 | 2025-07-17 | 2025-08-29 |
+| [Ghetto](https://open.spotify.com/track/1NlOBqqVvZrgxn3ZyBGXBw) | [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Noukou](https://open.spotify.com/artist/7x0IZxCa7zv3ROFI7xbLUN) | [BIG TAZE](https://open.spotify.com/album/6KY24lWvNTk447Hu9iRGKm) | 2:51 | 2025-12-04 |  |
 | [Gnanhi](https://open.spotify.com/track/58SldGaCjTH0OgRz4Al8nO) | [Miedjia](https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX), [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv) | [Ambiance Facile 2,5](https://open.spotify.com/album/4qPa9RPwcWr1D2AciMOiLW) | 2:33 | 2025-11-20 |  |
 | [Goat](https://open.spotify.com/track/4XFrp77rakw330z3XEh3Qp) | [Meulo](https://open.spotify.com/artist/1xmIVGnS3UQ9QQp5oVvtIz), [Chamy](https://open.spotify.com/artist/7pdqEUfByowi1RO4ucWKcz) | [Goat](https://open.spotify.com/album/7b9XLdMqDrkthHIuM8B77h) | 3:16 | 2025-10-16 | 2025-12-05 |
 | [GOD BLESS](https://open.spotify.com/track/3vYAjy2MQ1D4sZnvOoLvuh) | [Tripa Gninnin](https://open.spotify.com/artist/1942Gu3Pj3kVg8SmX8T5lJ) | [GNINNIN TRAFIC](https://open.spotify.com/album/1DMDXPhs3b0yGGntCKAiQ2) | 2:09 | 2025-05-29 | 2025-06-27 |
@@ -201,7 +202,6 @@
 | [Toumalewe](https://open.spotify.com/track/5WrjbYKOe0EsZnjWML44N9) | [Babi Tape](https://open.spotify.com/artist/5BRT2SPDAaQKvZCVpbIZ2J), [Doupi Papillon](https://open.spotify.com/artist/4oBgTIQASlIZHyKNkXZWoO), [Toumalewe](https://open.spotify.com/artist/2Eyd49ijFdqRwQF7DBYyyZ), [Lamine løssa](https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6) | [BABI TAPE Vol.1](https://open.spotify.com/album/2U7lnGy6lvqtL4v5prqaPZ) | 2:21 | 2025-10-23 |  |
 | [Tous les jours](https://open.spotify.com/track/0ArHTnG4N8IOUeI1A7XfvT) | [Shapat](https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP), [Mink's](https://open.spotify.com/artist/3R5HSF8rhNgBBgeOo0slI9) | [Tous les jours](https://open.spotify.com/album/33ldjb3AqSv3FP6ZHBBtey) | 3:21 | 2025-05-29 | 2025-10-24 |
 | [Tout oublier](https://open.spotify.com/track/73XxMiR2dv0NrzPD4XpcsR) | [Kadja](https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek) | [Tout oublier](https://open.spotify.com/album/0JVTs9ACEF5of3JKBObpI0) | 4:15 | 2025-11-13 |  |
-| [Track 4](https://open.spotify.com/track/1NlOBqqVvZrgxn3ZyBGXBw) | [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [Trop parler](https://open.spotify.com/track/6PPxenjRn95x0BHTPGCcZ2) | [Vicky R](https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0), [EBOLOKO](https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR) | [Trop parler](https://open.spotify.com/album/4oQvTGkpuLmPvfkGJ2InZ9) | 2:00 | 2025-08-28 | 2025-09-12 |
 | [Trop Tard](https://open.spotify.com/track/0fJCVXvxUvwHX75ip3FPmf) | [Lamine løssa](https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [Trop Tard](https://open.spotify.com/album/5T8VWAyjFtCaWqCy9XVDkt) | 2:14 | 2025-06-26 | 2025-08-08 |
 | [TSUNAMOUSSO](https://open.spotify.com/track/3NPmCp5dbYbt4KkwxrHd7P) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv) | [MERCON2BABIÈRE](https://open.spotify.com/album/0v7GxjUA1KSWjjTavVIxRt) | 2:07 | 2025-08-07 | 2025-10-24 |

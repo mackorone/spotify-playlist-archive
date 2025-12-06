@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Jonatan
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,801 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,811 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 3 | [Komu miałabym powiedzieć?](https://open.spotify.com/track/6v3aVSYMUOKOoh7Ut70gJ9) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Komu miałabym powiedzieć?](https://open.spotify.com/album/7qplgpgnhZdVhVhIpEaGaI) | 2:32 |
 | 4 | [Niech żyje bal](https://open.spotify.com/track/2pXPUEjpV3LCkK9rv0djby) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M) | [Niech żyje bal](https://open.spotify.com/album/3dqGcvAwa84vGvmnersJxN) | 3:58 |
 | 5 | [Bruce](https://open.spotify.com/track/1huxW5YUwPYVlVNj3bUKns) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [12](https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz) | 2:50 |
-| 6 | [Pokoje](https://open.spotify.com/track/1MECqA3gqjqJh9HFTynhKx) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Pokoje](https://open.spotify.com/album/3MBFKv4w1n4e7INgy7v2N6) | 4:22 |
+| 6 | [Pokoje Ta Druga na Bis](https://open.spotify.com/track/1MECqA3gqjqJh9HFTynhKx) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Pokoje Ta Druga na Bis](https://open.spotify.com/album/3MBFKv4w1n4e7INgy7v2N6) | 4:22 |
 | 7 | [Zabierz mnie](https://open.spotify.com/track/3l4SiHIrsbFqVW1xjWZk6W) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Szkic i kontury](https://open.spotify.com/album/55Uor5uEjfvg4XaGmelGrv) | 3:17 |
 | 8 | [Odpowiedni moment](https://open.spotify.com/track/4WnJ8tdQhBWGDEHKm6y40h) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Odpowiedni moment](https://open.spotify.com/album/7lgIBV8MkGZg6u6twshy0e) | 3:14 |
 | 9 | [samoloty](https://open.spotify.com/track/2sHiHyAQZCD7oPXo1eBAbL) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [samoloty i nadprzestrzenie](https://open.spotify.com/album/0StAZ0TQ0RlUAxLOjXPne8) | 4:04 |

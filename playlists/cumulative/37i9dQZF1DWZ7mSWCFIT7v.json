@@ -5373,6 +5373,28 @@
     },
     {
       "album": {
+        "name": "Mod Break / Variated 3",
+        "url": "https://open.spotify.com/album/5oMb7WAeh5Sumsxj19dQJb"
+      },
+      "artists": [
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        },
+        {
+          "name": "Mount XLR",
+          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343343,
+      "name": "Mod Break",
+      "url": "https://open.spotify.com/track/05rByi3FspJDgfpa8JOfLl"
+    },
+    {
+      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/5sZ8D45IwJ8mNpRHf9AtGV"
       },
@@ -6136,7 +6158,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 181333,
       "name": "Persica Blossoms",
       "url": "https://open.spotify.com/track/5iynHQ9dyOKR4HDQMy1dix"

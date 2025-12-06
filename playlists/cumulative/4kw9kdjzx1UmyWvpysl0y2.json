@@ -4345,6 +4345,28 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4IgoUhWQKq4Ye3IoFfWimD"
+      },
+      "artists": [
+        {
+          "name": "Used",
+          "url": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
+        },
+        {
+          "name": "Lily Denning",
+          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184827,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/5KEIAvl6n6RtCdEuWmRcbb"
+    },
+    {
+      "album": {
         "name": "Crashing",
         "url": "https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC"
       },

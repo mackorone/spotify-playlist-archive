@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring South Arcade",
+  "description": "a little indie, a little pop, soda featuring DOUBLECAMP",
   "name": "soda",
   "tracks": [
     {
@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Afterthought",
+        "url": "https://open.spotify.com/album/27ii2TOEqyRid43g7rnu3X"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260435,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M"
+    },
+    {
+      "album": {
         "name": "Sting",
         "url": "https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet"
       },
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 153211,
       "name": "american zombie",
       "url": "https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc"
@@ -5705,6 +5723,24 @@
     },
     {
       "album": {
+        "name": "Chrono Drift",
+        "url": "https://open.spotify.com/album/04YqsNBDbAWVQFmEii8Scr"
+      },
+      "artists": [
+        {
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Damn Good Life",
+      "url": "https://open.spotify.com/track/74rRUsYZOY6MPKdt5kQMzG"
+    },
+    {
+      "album": {
         "name": "Damn, I miss you",
         "url": "https://open.spotify.com/album/0Byim1JQ7KLiOph79QbFQQ"
       },
@@ -7493,6 +7529,24 @@
     },
     {
       "album": {
+        "name": "Flowers For Every Occasion",
+        "url": "https://open.spotify.com/album/7M4LJQK8IKyFePEyhKcGo8"
+      },
+      "artists": [
+        {
+          "name": "DOUBLECAMP",
+          "url": "https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171335,
+      "name": "Everybody's Calm",
+      "url": "https://open.spotify.com/track/0Iic2wxy9aXBWz6LtwdDVF"
+    },
+    {
+      "album": {
         "name": "EVERYONE'S A STAR!",
         "url": "https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa"
       },
@@ -8262,6 +8316,24 @@
       "duration_ms": 153600,
       "name": "First Time",
       "url": "https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg"
+    },
+    {
+      "album": {
+        "name": "FKN EMBARRASSING",
+        "url": "https://open.spotify.com/album/5ly0e889q0VxQ0pzdn4rJv"
+      },
+      "artists": [
+        {
+          "name": "Charli Lucas",
+          "url": "https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198176,
+      "name": "FKN EMBARRASSING",
+      "url": "https://open.spotify.com/track/6ImHdLLd0kLFlsTyx7u4JU"
     },
     {
       "album": {
@@ -9644,6 +9716,24 @@
       "duration_ms": 198596,
       "name": "Gummy (feat. Tessa Violet) - Jean Tonique Remix",
       "url": "https://open.spotify.com/track/4BBJGxUNJaioA9JrG0Fe5a"
+    },
+    {
+      "album": {
+        "name": "Hand Me Down",
+        "url": "https://open.spotify.com/album/58EkYdO8VJ0Afby9zqsMXf"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221655,
+      "name": "Hand Me Down",
+      "url": "https://open.spotify.com/track/4YMBXgTCuJte3k4cf41a1H"
     },
     {
       "album": {
@@ -11680,7 +11770,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 198665,
       "name": "I KINDA LIKE THAT",
       "url": "https://open.spotify.com/track/5Xy68999kkCW10igZPCGv5"
@@ -16688,6 +16778,24 @@
       "duration_ms": 186254,
       "name": "Nature Song",
       "url": "https://open.spotify.com/track/05VJciw9yX9yDVTyBEWWqv"
+    },
+    {
+      "album": {
+        "name": "Navel",
+        "url": "https://open.spotify.com/album/721hRxKYhqJnIT4iBzdJox"
+      },
+      "artists": [
+        {
+          "name": "Michele Lu",
+          "url": "https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153700,
+      "name": "Navel",
+      "url": "https://open.spotify.com/track/5gbsQy66jCC97jlSQqN7CL"
     },
     {
       "album": {
@@ -26860,6 +26968,24 @@
       "duration_ms": 163392,
       "name": "With You",
       "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/0m7SYiB2n6V3FNZumxHSwW"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219941,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/4fp4bybobrFHSjpG39jG64"
     },
     {
       "album": {

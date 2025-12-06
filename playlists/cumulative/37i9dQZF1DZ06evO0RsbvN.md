@@ -4,7 +4,7 @@
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-262 songs - 13 hr 10 min
+263 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bad Luck Blues](https://open.spotify.com/track/0N9iMreCUdPW53nktm28xd) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Down the Road](https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO) | 3:04 | 2024-09-04 | 2025-06-15 |
 | [Bad Luck Blues](https://open.spotify.com/track/3yTexl91j9VkE8zyVVqXFm) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Essential Classics, Vol\. 687: Ma Rainey](https://open.spotify.com/album/3QusH6dhyXSPkw3ocjc154) | 3:06 | 2025-09-20 | 2025-11-21 |
 | [Bad Luck Blues](https://open.spotify.com/track/6sNz9fiaadP8nSIRdSDg3a) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 3:07 | 2022-08-05 | 2024-07-05 |
+| [Barrel House](https://open.spotify.com/track/25aU462UF08Z3FkHl0vgbD) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Queen Of The Blues, Vol\. 3](https://open.spotify.com/album/0zNXew0hi7WPEpybrYcQPk) | 2:58 | 2025-12-06 |  |
 | [Barrel House](https://open.spotify.com/track/44A4r4CkPQqaIIUgwWjFUV) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [First of the Great Blues Singers](https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ) | 2:59 | 2023-02-21 | 2023-02-23 |
 | [Barrel House Blues](https://open.spotify.com/track/3ZLSDAmqWiFbqe958QFITw) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Down the Road](https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO) | 2:47 | 2025-01-06 |  |
 | [Barrel House Blues](https://open.spotify.com/track/6GyagXbdWdl3QwDUkqNhFX) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:50 | 2022-08-05 | 2022-10-29 |
@@ -231,7 +232,7 @@
 | [Stack O' Lee Blues](https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [1923\-1928](https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC) | 2:57 | 2022-08-05 |  |
 | [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 | 2022-08-05 | 2025-03-28 |
 | [Stack O'Lee Blues \- Alternate Take](https://open.spotify.com/track/0XgKLbFxVt0LT3CnsxgWVg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 2:55 | 2025-03-28 |  |
-| [Stormy Sea Blues](https://open.spotify.com/track/5ruTFfl1a6p0ox63nlRpQW) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 2:43 | 2022-08-08 |  |
+| [Stormy Sea Blues](https://open.spotify.com/track/5ruTFfl1a6p0ox63nlRpQW) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 2:43 | 2022-08-08 | 2025-12-06 |
 | [Stormy Sea Blues](https://open.spotify.com/track/3ZV3VNFFPkrOhVTaQ2laML) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Midnight Moods September Blues \- Ma Rainey's Timeless Tunes](https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ) | 2:43 | 2023-12-13 | 2025-11-06 |
 | [Sweet Rough Man](https://open.spotify.com/track/62EoPZVylvGUYIAIlJj94i) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:05 | 2022-08-05 |  |
 | [Those All Night Blues](https://open.spotify.com/track/3NWcy10odYa4dR9k1bZt8D) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 3:07 | 2022-08-05 | 2024-09-17 |

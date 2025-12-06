@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > now serving: emotional cores with futuristic shells  💫 cover: daine
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,130 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,109 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MAKE IT RIGHT](https://open.spotify.com/track/2yXyDFCnB6qcAmMZA2HfEl) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [MAKE IT RIGHT](https://open.spotify.com/album/7iVJ0ApHGfPqtcj8d4XTLS) | 1:48 |
 | 2 | [Silent War](https://open.spotify.com/track/3o2yy5B9AEuw791DZMBjok) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Silent War](https://open.spotify.com/album/3pIyEjKUoytocadT9yQbAZ) | 3:59 |
-| 3 | [This Is What We Dance For](https://open.spotify.com/track/1EDcmMFvd185Foe3b64fOD) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [](https://open.spotify.com/album/null) | 3:04 |
+| 3 | [This Is What We Dance For](https://open.spotify.com/track/1EDcmMFvd185Foe3b64fOD) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:04 |
 | 4 | [Drip](https://open.spotify.com/track/7A8TjnegZwDGOhWaQetlfE) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [More is More is More](https://open.spotify.com/album/4szXUtJNCDZ17vDNcrpLm5) | 2:22 |
 | 5 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
 | 6 | [Me forever :\(](https://open.spotify.com/track/0gbSF6qGsr69EMC1mXdDpP) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [Me forever :\(](https://open.spotify.com/album/6ejhEfZ6NCucu2lC6G4rOh) | 3:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 
 > Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! © 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,674 likes - 96 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,833 likes - 96 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 | 15 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 |
 | 16 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 |
 | 17 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 |
-| 18 | [\#4【チェンソーマン】  戸谷菊之介×坂田将吾「台本を暗記して臨んだシーンとは…？」](https://open.spotify.com/episode/2whKtBEufvm8OyaEejUDFa) | [Spotify ANIZONE \- アニゾーン 【無限ガチャ】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【無限ガチャ】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 25:47 |
+| 18 | [\#4【チェンソーマン】  戸谷菊之介×坂田将吾「台本を暗記して臨んだシーンとは…？」](https://open.spotify.com/episode/2whKtBEufvm8OyaEejUDFa) | [Spotify ANIZONE \- アニゾーン 【永久のユウグレ】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【永久のユウグレ】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 25:47 |
 | 19 | [from below with love](https://open.spotify.com/track/0Sujx1DI1xIOtnQzo4wOEr) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 1:07 |
 | 20 | [our film](https://open.spotify.com/track/0JgCPcSXCLHkAss2KEvPM3) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 1:09 |
 | 21 | [silly walk](https://open.spotify.com/track/57Fce5vzw3NOfxhNlOTHHm) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 1:54 |

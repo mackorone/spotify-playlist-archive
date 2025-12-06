@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-361 songs - 21 hr 59 min
+362 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,12 +164,13 @@
 | [Hace un Mes](https://open.spotify.com/track/4eXKLkP8QUYn1Ph90npuhe) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Julio Erazo](https://open.spotify.com/artist/5MQLAzmqK0zHHmZ9yBwFZ6) | [Éxitos los Corraleros de Majagual](https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX) | 3:09 | 2024-09-01 | 2024-10-18 |
 | [Ilusiones](https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Franco Argüelles](https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q) | [Experiencias Vividas](https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq) | 4:32 | 2023-11-09 | 2024-04-19 |
 | [Junto A Tu Corazon](https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx) | [Miguel Moly](https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8) | [Y Como Se Mata El Gusano?](https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK) | 3:16 | 2023-02-03 | 2024-10-13 |
+| [La Banda Borracha](https://open.spotify.com/track/5re4akm7ImQOsyea86iSQ3) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Que Gran Relajo](https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1) | 3:23 | 2025-11-20 |  |
 | [La Bella](https://open.spotify.com/track/3PxEzDstsoGbGx4sNXwjRR) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Soy Colombiano](https://open.spotify.com/album/0widRma6o6NPjpQDALT1fW) | 4:27 | 2023-12-05 | 2024-01-24 |
 | [La Burrita](https://open.spotify.com/track/3mXlm2lIp3leSWzv1vqN2k) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani) | [Época de Oro 16 Éxitos](https://open.spotify.com/album/2fbH7juIgtukbOBqEOx9eY) | 2:37 | 2023-02-03 | 2024-10-18 |
 | [La Canoa Ranchaa](https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [10 De Colección](https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk) | 4:40 | 2023-11-09 |  |
 | [La Carrasca](https://open.spotify.com/track/4aTmc4hk31uZx9Y9DBmK02) | [Los Cantores Koko y Koronel](https://open.spotify.com/artist/38zgg80SRL5Zy7rsTDIKTF), [Hernan Gómez](https://open.spotify.com/artist/0l7EOx40o81pCVpGwizH9I) | [La Carrasca](https://open.spotify.com/album/0Vhp2cry5kU2blv6ZhRSZi) | 2:45 | 2025-10-03 | 2025-11-21 |
 | [La Casa De Fernando](https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 76 1/2](https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ) | 3:14 | 2023-12-20 |  |
-| [La Cinta Verde](https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS) | [Los Teen Agers](https://open.spotify.com/artist/2dlJdFaPxHy9C3bOKS1ZKl), [Gustavo Quintero](https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn) | [Éxitos Gustavo 'El Loko' Quintero](https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL) | 3:20 | 2023-12-20 |  |
+| [La Cinta Verde](https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS) | [Los Teen Agers](https://open.spotify.com/artist/2dlJdFaPxHy9C3bOKS1ZKl), [Gustavo Quintero](https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn) | [Éxitos Gustavo 'El Loko' Quintero](https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL) | 3:20 | 2023-12-20 | 2025-12-06 |
 | [La Colegiala](https://open.spotify.com/track/0GDWfiGkJsArr9mNYjfMa1) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 3:40 | 2024-09-01 |  |
 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 | 2023-11-09 | 2024-04-19 |
 | [La Cumbia](https://open.spotify.com/track/7EGesqNwFnNxVD6rQeJJzl) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos Pastor López \(Vol\. 3\)](https://open.spotify.com/album/2GGpYqZhDEultVBupoUoxw) | 4:05 | 2023-02-03 | 2024-09-02 |

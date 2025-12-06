@@ -4,7 +4,7 @@
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-149 songs - 10 hr 25 min
+150 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [El espacio](https://open.spotify.com/track/17oZ17aeENHR2L8FxSNTB0) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:38 | 2022-09-16 | 2025-04-14 |
 | [El espacio](https://open.spotify.com/track/7DYIAxAtdvvDQSlrQnlYRN) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT) | 4:38 | 2025-04-14 | 2025-05-14 |
 | [El misterio](https://open.spotify.com/track/1GhTst00ttJYciWs8XRo2i) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 4:16 | 2025-11-01 | 2025-11-26 |
-| [El sonido del misterio](https://open.spotify.com/track/2AI9lFk3Ppkyc2wrrKvk0q) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 0:42 | 2025-10-31 |  |
+| [El sonido del misterio](https://open.spotify.com/track/2AI9lFk3Ppkyc2wrrKvk0q) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 0:42 | 2025-10-31 | 2025-12-06 |
 | [Eras Tan Para Mi](https://open.spotify.com/track/4GbA6cGPbMohI23YgsvEne) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 4:50 | 2025-04-17 |  |
 | [Eras tan para mi](https://open.spotify.com/track/4t2vV9fvmeSBUlOarB4Eiu) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:50 | 2022-09-16 | 2025-04-17 |
 | [Esfumar](https://open.spotify.com/track/1zumR6nP8LnKma5wOvq9nB) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:27 | 2022-09-16 | 2025-04-14 |
@@ -127,7 +127,8 @@
 | [Resiste Más Que Yo](https://open.spotify.com/track/6Ykqb2Kb7GG9miWxZy9R5I) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo](https://open.spotify.com/album/2TPhgYtFdIF0xlpOK0Arp3) | 5:59 | 2025-04-15 | 2025-05-13 |
 | [Resiste Más Que Yó \- En Vivo](https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo \(En Vivo\)](https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf) | 5:59 | 2025-05-13 |  |
 | [Respeta el Flow](https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn), [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Respeta el Flow](https://open.spotify.com/album/5qab4uebsX0fXFM1byGBfw) | 2:41 | 2025-06-22 |  |
-| [SINTONÍA](https://open.spotify.com/track/5sBVGidOXOt51e2hJ81Cwu) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [SINTONÍA](https://open.spotify.com/album/2jSdSyc1yTjGJp4z0JS5LC) | 3:33 | 2025-10-04 |  |
+| [Sintonía](https://open.spotify.com/track/0EQ3303rUQozqo5oTqeOCn) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 3:33 | 2025-12-06 |  |
+| [SINTONÍA](https://open.spotify.com/track/5sBVGidOXOt51e2hJ81Cwu) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [SINTONÍA](https://open.spotify.com/album/2jSdSyc1yTjGJp4z0JS5LC) | 3:33 | 2025-10-04 | 2025-12-06 |
 | [Solo el Sol \- Remix](https://open.spotify.com/track/3TBTVJRElT9eO7WXcj2HMN) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Solo el Sol \(Remix\)](https://open.spotify.com/album/14fNTy68j4YcrIjk2aV6RN) | 6:18 | 2022-09-16 | 2023-02-22 |
 | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/track/2X7Mzcr24Zk7LyHE0JQBs9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/album/3WfMKEzc06cGLrqfyDAQ5c) | 4:04 | 2022-09-16 | 2025-04-14 |
 | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/track/5Dt4R2sq0e9BeZCmumeues) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/album/5bw2AIGO8YcpsfjFPpDdkP) | 4:04 | 2025-04-14 | 2025-05-11 |

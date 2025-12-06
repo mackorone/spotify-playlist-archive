@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Thomas Raggi in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,363 likes - 95 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,391 likes - 95 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 4 | [RADIO MOGADISCIO](https://open.spotify.com/track/335c4QTDYqNdUv5LdoaSSh) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [RADIO MOGADISCIO](https://open.spotify.com/album/12FrRDLVVHv5T5swVFdRPd) | 3:17 |
 | 5 | [Torre Velasca](https://open.spotify.com/track/6mndwtQ1j1YZ4gbRmLEkQX) | [Dumbo Gets Mad](https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO) | [FIVE EGGS](https://open.spotify.com/album/6Pv0otbP9L0QWHxBvtBlpC) | 3:05 |
 | 6 | [L'arca dei nuovi maestri](https://open.spotify.com/track/5ONA8c8ZexzY8sMx8YwFEr) | [Festa del Perdono](https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5) | [Galactic Night Pt.2: L'arca dei nuovi maestri](https://open.spotify.com/album/6jCpV1oeLl7kEwW7uEhDia) | 3:04 |
-| 7 | [CAT GOT YOUR TONGUE \(with Kasabian\) \- prod\. Tom Morello](https://open.spotify.com/track/7AOwgVctI9mwZta4wAw3qI) | [Thomas Raggi](https://open.spotify.com/artist/7h78e3zJw6pDP7JzBqQUsN), [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [MASQUERADE](https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo) | 2:52 |
+| 7 | [CAT GOT YOUR TONGUE \(with THE S.L.P\. & Kasabian\) \- prod\. Tom Morello](https://open.spotify.com/track/7AOwgVctI9mwZta4wAw3qI) | [Thomas Raggi](https://open.spotify.com/artist/7h78e3zJw6pDP7JzBqQUsN), [THE S.L.P.](https://open.spotify.com/artist/4CLxFMLXyDPDiENHddT4DA), [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [MASQUERADE](https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo) | 2:52 |
 | 8 | [Alpha Centauri](https://open.spotify.com/track/2tQBCnq4NmVO4893xO3oUJ) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Alpha Centauri](https://open.spotify.com/album/0I25bmzWmmdnSY0utd4vcm) | 4:31 |
 | 9 | [LO SAI \(CHE NON È FACILE\)](https://open.spotify.com/track/6bYkycC6x6k5eZGBuI2qEE) | [Kalpa](https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9) | [LO SAI \(CHE NON È FACILE\)](https://open.spotify.com/album/0RryZkvU9D0Iqqm8uXnnon) | 3:37 |
 | 10 | [incredibly stupidly fighting myself](https://open.spotify.com/track/4hzbHQQfdHdXmxNJPMP6HW) | [CORE MATO](https://open.spotify.com/artist/6kKPuf7rsBk0pJnZMxDLkC) | [incredibly stupidly fighting myself](https://open.spotify.com/album/7z9CcUGhsuL6lUIq4a3xwz) | 2:33 |

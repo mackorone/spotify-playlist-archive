@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,307 likes - 93 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,345 likes - 93 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 3 | [Sierra del Mar](https://open.spotify.com/track/1m4h2rplVZ3cpcWplrJYSw) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r), [Totidub](https://open.spotify.com/artist/1VTBqewro51M1puZAUn4jt) | [Sierra del Mar](https://open.spotify.com/album/2jCf17eHD4u8U7Gp3PZ4ba) | 5:17 |
 | 4 | [Alles in Einem](https://open.spotify.com/track/42wz2CePDMQJrGsILfCwnT) | [Detmolt](https://open.spotify.com/artist/1pvZ8oYPlgarVqgt3YT04D) | [Go Away](https://open.spotify.com/album/7uLjF1nnR2rDgmY66lIgiY) | 9:15 |
 | 5 | [Solar Express](https://open.spotify.com/track/2vF58RUe9BCiZ123lfQqHv) | [MiRET](https://open.spotify.com/artist/0DvhQq0PzDC5dyRoH5XCI5), [JPattersson](https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK) | [Mutual Dreams](https://open.spotify.com/album/6dcmZtl735pWyYKXhIu6Zr) | 5:28 |
-| 6 | [La Cumbia del Tarot](https://open.spotify.com/track/56wOxm78o4CJ120LDDPLTB) | [Cuarto Mundo](https://open.spotify.com/artist/3IvaAkEg7LEtQHppHQvl4B), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [La Cumbia Del Tarot](https://open.spotify.com/album/7AxiZ7ifme4qlZc6i47QLs) | 3:58 |
+| 6 | [La Cumbia del Tarot](https://open.spotify.com/track/56wOxm78o4CJ120LDDPLTB) | [Cuarto Mundo](https://open.spotify.com/artist/3IvaAkEg7LEtQHppHQvl4B), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [La Cumbia Del Tarot](https://open.spotify.com/album/7AxiZ7ifme4qlZc6i47QLs) | 3:58 |
 | 7 | [Je veux mourir avec toi \- Polo & Pan remix](https://open.spotify.com/track/1K2RkScKpu3NWaljnoB6Kp) | [Antonin](https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Je veux mourir avec toi \(Polo & Pan remix\)](https://open.spotify.com/album/4Sjk7G0RWqTBZAadRLWMtq) | 3:05 |
 | 8 | [Orange Sunrise](https://open.spotify.com/track/5OEFb4pJfvbzuniLFURC2x) | [MONKYMAN](https://open.spotify.com/artist/1OZYsEHLgv8uRLvMAywgod) | [Acid Love Story](https://open.spotify.com/album/7Bn79bi5StItRxJDoE5U7d) | 6:05 |
 | 9 | [Opéra](https://open.spotify.com/track/4fYgRHmXTFDUx5OfbK17ks) | [Emmanuel Santarromana](https://open.spotify.com/artist/5FhrpySsLZJYo3wA28qkCU) | [Métropolitain](https://open.spotify.com/album/3XrIsvTstszdSlB8YVMgGI) | 3:59 |

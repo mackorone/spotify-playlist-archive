@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > Discover the best hits of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,556 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,603 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 |
-| 2 | [Ya Albo](https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:30 |
+| 2 | [Ya Albo](https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd) | [Nancy Ajram](https://open.spotify.com/artist/3hnKbMrrOkExkPrfi905TE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:30 |
 | 3 | [Ya Helou](https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ya Helou](https://open.spotify.com/album/1BBx4oXtVMVchsEBUd5eow) | 3:05 |
 | 4 | [Wbghar](https://open.spotify.com/track/68o5JAOXXd5Zjwbwk6N5QG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Wbghar](https://open.spotify.com/album/3H3DYRKSjKC2VsiaNsirb9) | 3:09 |
 | 5 | [Tak Tak Albi](https://open.spotify.com/track/5CjPwqpFmFU9z6LsUXdetV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Tak Tak Albi](https://open.spotify.com/album/3Uxi4zHfS5wjTeFYuLgAsI) | 4:03 |

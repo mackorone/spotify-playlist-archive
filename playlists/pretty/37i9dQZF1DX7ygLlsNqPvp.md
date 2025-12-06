@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  Ko\-Jo Cue
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,795 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,811 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Distance Relationship](https://open.spotify.com/track/5ulBQnE0UZpPO0AvVSun5J) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Distance Relationship](https://open.spotify.com/album/4cs5YFk1SlTyQ70tWZaeWR) | 3:29 |
 | 50 | [OH HOW](https://open.spotify.com/track/0APdb44ONhoc4cEV5ZfLyu) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [OH HOW](https://open.spotify.com/album/66cyRHCZZYq6FkSh7YGmcF) | 3:08 |
 
-Snapshot ID: `AAAAAOMP5oLplV7tCtE27pVMGy4DqcN3`
+Snapshot ID: `AAAAACdkWuRfPAZQvbt9r2tlSfn0APG4`

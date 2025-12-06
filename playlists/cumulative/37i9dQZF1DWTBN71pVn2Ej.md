@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of future noise\. Cover: fleshwater
+> The future shape of noise\. Cover: They Are Gutting a Body of Water
 
-846 songs - 2 day 0 hr 38 min
+849 songs - 2 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 | 2024-10-21 | 2025-01-18 |
 | [I Don't Wanna Think About It Anymore](https://open.spotify.com/track/0pPwh0OAc7DR4E2mKyBUGh) | [MOY](https://open.spotify.com/artist/3Rc6Z7I5jrIAKiYnrlWb0s) | [I Don't Wanna Think About It Anymore](https://open.spotify.com/album/4zhxDBXV48RtNB0fdFNkKD) | 2:29 | 2023-08-21 | 2023-09-23 |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2022-10-28 | 2023-06-03 |
-| [I Knew We'd Talk About It One Day](https://open.spotify.com/track/1p5YXN5n2wDDun03QhSjjL) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [I Knew We'd Talk About It One Day](https://open.spotify.com/album/0NP0x5cKqz1XytxGNiiZ0y) | 3:27 | 2025-08-08 |  |
+| [I Knew We'd Talk About It One Day](https://open.spotify.com/track/1p5YXN5n2wDDun03QhSjjL) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [I Knew We'd Talk About It One Day](https://open.spotify.com/album/0NP0x5cKqz1XytxGNiiZ0y) | 3:27 | 2025-08-08 | 2025-12-06 |
 | [I Let Go](https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Let Go](https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N) | 2:21 | 2023-02-02 | 2023-03-03 |
 | [I Love it Here](https://open.spotify.com/track/5NTHNKZxjWmn71IzCFTRDi) | [The Fever Haze](https://open.spotify.com/artist/0oajdCcdxXLse9AKHRe9mq) | [I Love it Here](https://open.spotify.com/album/6R5i18OSk7zEWCvIJsTRwP) | 3:10 | 2024-03-08 | 2024-06-01 |
 | [I Loved Everyone](https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [I Loved Everyone](https://open.spotify.com/album/2y7FWBC8Do9YGRlfiYxq85) | 5:20 | 2024-11-01 |  |
@@ -521,7 +521,7 @@
 | [My Mind is Eating Me Alive](https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:38 | 2023-06-02 | 2023-07-21 |
 | [my mistake...](https://open.spotify.com/track/5gUaMx5euG5hLsjSCKImIN) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [motionblur](https://open.spotify.com/album/3zXbRvUa5RiqdGUeB1Od40) | 5:16 | 2025-07-18 |  |
 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 | 2023-03-02 |  |
-| [need to feel me](https://open.spotify.com/track/4y4zBCZRV1fGDEDqPDN5dw) | [Voiid](https://open.spotify.com/artist/5k1Hr3VeI3TXHwBh9ohm0b) | [need to feel me](https://open.spotify.com/album/3OYTt6XpWER0wKX7aRbjTQ) | 3:18 | 2024-11-15 |  |
+| [need to feel me](https://open.spotify.com/track/4y4zBCZRV1fGDEDqPDN5dw) | [Voiid](https://open.spotify.com/artist/5k1Hr3VeI3TXHwBh9ohm0b) | [need to feel me](https://open.spotify.com/album/3OYTt6XpWER0wKX7aRbjTQ) | 3:18 | 2024-11-15 | 2025-12-06 |
 | [Never Fucked Up Once](https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 2:20 | 2023-06-23 | 2023-12-15 |
 | [Never Said](https://open.spotify.com/track/2IUOd1RfWyvIBL7BgDxwKZ) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Never Said](https://open.spotify.com/album/36OeRKclwSh3QlkqEmPCSW) | 3:15 | 2025-02-21 | 2025-09-05 |
 | [Never Speak](https://open.spotify.com/track/4TtyuFuP2AfZDU8RGcxblH) | [Fake Eyes](https://open.spotify.com/artist/59Ui4tw8UnaMQ5XEBHIbSk) | [Never Speak / Faulty by Design](https://open.spotify.com/album/6pmCnigSXfVunZLcqn22tV) | 2:30 | 2024-10-04 | 2024-11-23 |
@@ -614,6 +614,7 @@
 | [Recovery](https://open.spotify.com/track/3dH1e4TOl3zW6f24jIGIH7) | [SPICE](https://open.spotify.com/artist/23MtAa9EjUqsBwCsswOvcM) | [Viv](https://open.spotify.com/album/3f6VOD9iNGbxhcx0TURhba) | 3:08 | 2022-10-21 | 2023-03-11 |
 | [Reflections](https://open.spotify.com/track/790xizyegqSM8C5eGDR0ob) | [Head Cloud](https://open.spotify.com/artist/1zjQss5oxe4XMJ2mH2ZPP6) | [Reflections](https://open.spotify.com/album/6NoiFpWHAxvbrazTOq2ndD) | 4:46 | 2024-12-16 | 2024-12-30 |
 | [Rejoice](https://open.spotify.com/track/2mnZWMlT3qedh1c5rhbA1t) | [Dull Mourning](https://open.spotify.com/artist/2j8vT8beMEewV4f0lWa2ew) | [Split](https://open.spotify.com/album/4f8uXcXR1EVyZ5v42CP60I) | 2:59 | 2022-09-06 | 2023-02-18 |
+| [Request Made](https://open.spotify.com/track/4p5X1BgVJn7IBJkPU57NMf) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [Downward \(2\)](https://open.spotify.com/album/4cPgEJ0ohF7m3Nu45aBhCO) | 1:48 | 2025-12-05 |  |
 | [respawn.](https://open.spotify.com/track/6N54fTcYiQH3gSoFChO7NS) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [respawn.](https://open.spotify.com/album/6HKEsegEdDUp45zIn3OPAr) | 2:55 | 2023-08-25 | 2024-02-17 |
 | [RICH$$$](https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [RICH$$$](https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF) | 2:59 | 2022-08-12 | 2022-10-15 |
 | [Right There With You](https://open.spotify.com/track/2oHAFre5AkwfcNemSKMb5V) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY) | 3:40 | 2023-02-24 | 2023-04-09 |
@@ -787,6 +788,7 @@
 | [Transcendental Dreaming](https://open.spotify.com/track/0m9RpKYRlU3JqCjVryK4dJ) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Transcendental Dreaming](https://open.spotify.com/album/77Hq632gLr2zvXDKSLhVbG) | 2:16 | 2024-08-02 | 2024-10-22 |
 | [Trench](https://open.spotify.com/track/3SYcQY1bdQkp8Zs8BLITmm) | [In Angles](https://open.spotify.com/artist/4hMRSjr6V19FIEftqxZsDM) | [The Light We Can't Escape](https://open.spotify.com/album/4Za5Vh1FRo6XUFwTGPtNSc) | 3:21 | 2024-11-29 |  |
 | [Tribe](https://open.spotify.com/track/68SIJ8nkxtDWaVkvGW0ob7) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Tribe](https://open.spotify.com/album/0KN1TdgMQxIWmNnmwjC9RJ) | 3:27 | 2022-10-14 | 2022-11-26 |
+| [True Blue](https://open.spotify.com/track/0XcWdP1GV04azvUukkdf2i) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [True Blue](https://open.spotify.com/album/7rKFP26qoKNGswxR4ueFAA) | 4:11 | 2025-12-05 |  |
 | [Turn Me Up](https://open.spotify.com/track/6d5YLQel1T5HgdRgeTtz1O) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Turn Me Up](https://open.spotify.com/album/0yQtcZfchPzofdgfNamsLX) | 2:07 | 2023-05-03 | 2023-10-14 |
 | [TV or Not TV](https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [TV or Not TV](https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6) | 3:40 | 2021-12-16 | 2022-03-25 |
 | [Two Tone Marionette](https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Two Tone Marionette](https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm) | 4:41 | 2022-10-28 | 2023-02-03 |
@@ -828,9 +830,10 @@
 | [Whatever's Left is Yours](https://open.spotify.com/track/6AoUnlGn3RpZHXH40A8Rko) | [Commoner](https://open.spotify.com/artist/2NFUarWBEvGVjBe4th2eeS) | [Winter Promo](https://open.spotify.com/album/01UUSTH1zGjVp4zsxKLF7I) | 3:17 | 2024-12-03 | 2025-04-05 |
 | [When I'm Dead](https://open.spotify.com/track/2kKdUQ3awNwDxivN3zFsbd) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Something Witty](https://open.spotify.com/album/3MIRAg9YarXUiDZUgb4hZV) | 2:56 | 2024-10-25 | 2025-01-25 |
 | [When It All Breaks Down](https://open.spotify.com/track/70Hz40RYlUS8GsSnIoypkT) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 4:15 | 2022-04-05 | 2022-06-10 |
-| [When The Kissing Had To Stop](https://open.spotify.com/track/15tgySeV1VTBJj49CxGyXq) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [WTKHTS](https://open.spotify.com/album/3wdUnEju5JRfZsiybbfNuC) | 3:05 | 2025-07-18 |  |
+| [When The Kissing Had To Stop](https://open.spotify.com/track/15tgySeV1VTBJj49CxGyXq) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [WTKHTS](https://open.spotify.com/album/3wdUnEju5JRfZsiybbfNuC) | 3:05 | 2025-07-18 | 2025-12-06 |
 | [Where I Lay](https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Where I Lay](https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh) | 3:36 | 2025-02-21 |  |
 | [Where You Been](https://open.spotify.com/track/0QpFMcUua64JDUl5QIh0NI) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Where You Been](https://open.spotify.com/album/27uhCm23rY7MEVQEfbLwKN) | 3:25 | 2022-10-28 | 2022-11-12 |
+| [Whip](https://open.spotify.com/track/4YM7SjY7fMIUIIdYUdkOKH) | [Poppy Wizard](https://open.spotify.com/artist/1C6oYJnXAnkYy6et1TjzbL) | [Whip](https://open.spotify.com/album/3nVTpZq1ifnXoeQ4Jh19Db) | 4:16 | 2025-12-05 |  |
 | [Who Let The Hawgz Out?](https://open.spotify.com/track/0LhLKXxOYLOJGqTqD7k4GK) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [Exercise Your Demons](https://open.spotify.com/album/04jIk2Sa4YDalTLQ9IGIyF) | 3:36 | 2022-05-12 | 2022-09-07 |
 | [Who Needs Friends](https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:10 | 2021-12-16 | 2022-03-11 |
 | [Why I Sleep](https://open.spotify.com/track/4e9Nm8avtDWcqTPK0CMk6O) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sundiver](https://open.spotify.com/album/3yEElJhMf5ZefKwMgvVRod) | 3:10 | 2024-09-30 |  |

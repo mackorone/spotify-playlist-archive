@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Die Piesangskille, Marno van der Merwe, Lianie May, Tasché  en meer!
 
-2,279 songs - 5 day 6 hr 42 min
+2,280 songs - 5 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Besonders](https://open.spotify.com/track/6vSty2JOrCagay8asSyed8) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Besonders](https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT) | 3:17 | 2024-07-25 | 2024-11-08 |
 | [Beste](https://open.spotify.com/track/4f3EqLnAHSwyKHUbk16gOD) | [Coenie](https://open.spotify.com/artist/57DecfSx9lmFD6SnFL8Xs0) | [Beste](https://open.spotify.com/album/5Mxo6mHo4NYAmOckx9l6V4) | 1:43 | 2024-11-21 | 2024-11-29 |
 | [BETER DAT DIT STIL IS](https://open.spotify.com/track/0V8nod51VGfo5PA0V9IhzA) | [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj), [Slamma D](https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb), [TIPEX](https://open.spotify.com/artist/0CTjYCxC7xHfP4knLDidPh) | [BETER DAT DIT STIL IS](https://open.spotify.com/album/36i5QEt8tERjtF8BFGK6ee) | 3:10 | 2022-10-06 | 2022-10-21 |
-| [Beter Sonder Jou](https://open.spotify.com/track/1RLSoklt2GciwI7PuidHQ2) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [](https://open.spotify.com/album/null) | 2:57 | 2025-12-04 |  |
+| [Beter Sonder Jou](https://open.spotify.com/track/1RLSoklt2GciwI7PuidHQ2) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Simptome](https://open.spotify.com/album/2rzXsd1k1jLiw3ieHBjGqb) | 2:57 | 2025-12-04 |  |
 | [Bettie Steyn](https://open.spotify.com/track/3ro14Kc1NPg72rQKQJTkbS) | [Christi van Niekerk](https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4) | [Bettie Steyn](https://open.spotify.com/album/0XrBBBIemMh42oYyyDUtoV) | 2:21 | 2025-02-20 | 2025-04-25 |
 | [Beurtkrag \(Volle sirkel\)](https://open.spotify.com/track/4FWXiYB2E0rIySzyaOrLJk) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Emma B](https://open.spotify.com/artist/6kZhCOVrizIUp4vNTaSjI3) | [Om lig te maak](https://open.spotify.com/album/0m5H9Ge7qbYA0LAfTjvdS9) | 3:08 | 2025-04-24 | 2025-05-09 |
 | [Beweeg jou deeg](https://open.spotify.com/track/7ELU9cEG1O37vfPz98Uo9i) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Beweeg jou deeg](https://open.spotify.com/album/6clDxmxiVDGKhoKUZ1LuON) | 2:58 | 2025-06-12 | 2025-09-12 |
@@ -693,6 +693,7 @@
 | [Gebore Vir Kuns](https://open.spotify.com/track/2tgxEdHbSnieZ0oDvwwHuh) | [Ruan Jordaan](https://open.spotify.com/artist/4U1HGpCBaswacsIq1KwkY1) | [Gebore Vir Kuns](https://open.spotify.com/album/2oRLjH4iZAXhpKZAxvEZbG) | 3:57 | 2023-06-29 | 2023-07-14 |
 | [Gebroke Hart Sindroom](https://open.spotify.com/track/415CBFQvc7kiaK0yfiMagU) | [Delanae](https://open.spotify.com/artist/6eJodu0wnPKw2ZBruAf1Hb) | [Gebroke Hart Sindroom](https://open.spotify.com/album/1RB6kwrKEP6P2gywnQ7oRi) | 3:44 | 2023-09-07 | 2023-09-22 |
 | [Gee Dit Nou](https://open.spotify.com/track/0Nw5t44NEImj4JuXy5mjx0) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Gee Dit Nou](https://open.spotify.com/album/6DTeEiO1K0r2lgJimBKdGL) | 4:28 | 2024-03-14 | 2024-03-22 |
+| [Gee My](https://open.spotify.com/track/63RE6HlVTqRxUa1JtWkxD2) | [EDEN](https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu) | [Gee My](https://open.spotify.com/album/4TEThWYT5kqRB5XjIgHMua) | 2:41 | 2025-12-05 |  |
 | [Gee My Jou Alles](https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Gee My Jou Alles](https://open.spotify.com/album/1ouy7jZD8agQJ2KFSMLoLD) | 3:32 | 2024-07-25 | 2024-08-30 |
 | [Geen Vrede](https://open.spotify.com/track/4Nrz4346TrtEM1o2RAnELo) | [Elsje du Toit](https://open.spotify.com/artist/6miepPtiQawx256JNyCecF) | [Geen Vrede](https://open.spotify.com/album/0M9N3Imf9ClenPXudEey8h) | 3:47 | 2024-07-18 | 2024-08-02 |
 | [Geheueloos](https://open.spotify.com/track/4Icja6CGPHNf0IvmPFDwHY) | [Greunen Parker](https://open.spotify.com/artist/68ldAEJcDpgNTXnSnckARv) | [Geheueloos](https://open.spotify.com/album/6HaiHBO64Ras9MfBvuZGwV) | 2:53 | 2024-12-05 | 2024-12-13 |
@@ -1007,7 +1008,7 @@
 | [Kan dit ek wees?](https://open.spotify.com/track/7sGr6yPM8C874lr1OvS5IU) | [Skemer](https://open.spotify.com/artist/0TGRaUc5Mdji6yvcZqnkjW) | [Kan dit ek wees?](https://open.spotify.com/album/0lYgQvVe7ZkLNQYkTxI7xZ) | 3:22 | 2025-08-07 | 2025-09-12 |
 | [Kan Jy](https://open.spotify.com/track/2rchTS4RMXhsYIwg7emgXq) | [Chxnelle](https://open.spotify.com/artist/3EoIyJg49B7L6iSuGxoPnk) | [Kan Jy](https://open.spotify.com/album/5q33yb7uPIvqhGogUYcBfM) | 2:34 | 2025-08-21 | 2025-09-12 |
 | [Kan Jy Onthou](https://open.spotify.com/track/0pILoRQW6Yvqx857FMeOvH) | [Rnk](https://open.spotify.com/artist/4wHx4YLcpQ4wBnTk0XDvCE) | [Kan Jy Onthou](https://open.spotify.com/album/6UYTOq84mOmkoEZPSQmGsF) | 3:49 | 2024-11-14 | 2024-12-20 |
-| [Kan Jy Vasdans?](https://open.spotify.com/track/6WJkpFokxpTTt0t314MI3V) | [Heidi](https://open.spotify.com/artist/0tE22XnY1KpKng29BSLOJc) | [Kan Jy Vasdans?](https://open.spotify.com/album/2TScOssP2Ky2rY52TEZNss) | 2:49 | 2025-11-07 |  |
+| [Kan Jy Vasdans?](https://open.spotify.com/track/6WJkpFokxpTTt0t314MI3V) | [Heidi](https://open.spotify.com/artist/0tE22XnY1KpKng29BSLOJc) | [Kan Jy Vasdans?](https://open.spotify.com/album/2TScOssP2Ky2rY52TEZNss) | 2:49 | 2025-11-07 | 2025-12-06 |
 | [Kan Nie Kla Nie](https://open.spotify.com/track/7r8q6ULhbibnltLbjBqPlp) | [Jacques Not Jack](https://open.spotify.com/artist/2Cx38Ieqey1xPQ8opKXgjw), [Wolkbrein](https://open.spotify.com/artist/0zIoYTFy3fLQpmw4m0fKRs) | [Kan Nie Kla Nie](https://open.spotify.com/album/3d3NmfEX9cxN2WfxvZJppU) | 2:58 | 2025-11-20 | 2025-12-05 |
 | [KANNIE WARRIE](https://open.spotify.com/track/5yjXBgnXdZDzqJIuhxgDBF) | [Andriette](https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P) | [KANNIE WARRIE](https://open.spotify.com/album/2chOPP9olG7mcTVGALmcrG) | 3:30 | 2023-11-23 | 2023-12-22 |
 | [kans om te dans](https://open.spotify.com/track/2fcdLj66x10677aMN2rX97) | [Francis Na Die Maan](https://open.spotify.com/artist/5tCDeBV5xXqighmqULCMLL) | [vincent](https://open.spotify.com/album/3p7F712SD9JVbjcwbSiHSX) | 2:54 | 2024-04-11 | 2024-04-19 |
@@ -1342,7 +1343,7 @@
 | [Moola](https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Moola](https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t) | 3:04 | 2022-11-17 | 2022-12-09 |
 | [Moot Tot Die Dood](https://open.spotify.com/track/2t8dhESLDoVvnIcOQ1UYm1) | [Leon Gropp](https://open.spotify.com/artist/6IuWDLRpLJQk3xUQoTMuYU), [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Moot Tot Die Dood](https://open.spotify.com/album/2SY9KWD7PohRRjDHPzaXSI) | 2:51 | 2024-05-23 | 2024-06-07 |
 | [Morsig](https://open.spotify.com/track/2PM1iKRKIz73N0r5wRfl5e) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Morsig](https://open.spotify.com/album/4apOG7LWrQ140OaSwLtWNs) | 3:14 | 2024-09-26 | 2024-12-06 |
-| [Mosselbaai](https://open.spotify.com/track/4PSsF6WoqCWc5VGNENqvPs) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [](https://open.spotify.com/album/null) | 2:29 | 2025-12-04 |  |
+| [Mosselbaai](https://open.spotify.com/track/4PSsF6WoqCWc5VGNENqvPs) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Simptome](https://open.spotify.com/album/2rzXsd1k1jLiw3ieHBjGqb) | 2:29 | 2025-12-04 |  |
 | [Mossies Op 'n Muntstuk](https://open.spotify.com/track/3w8nT9sbTwoqmKk8t9t5xX) | [Dozi](https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf) | [Mossies Op 'n Muntstuk](https://open.spotify.com/album/22xcMa0R3bOrpYrD1Iktg3) | 3:28 | 2025-09-25 | 2025-10-24 |
 | [Mozambique My Nou](https://open.spotify.com/track/2htWvgHH70uOyjO82LDR2t) | [Neil Somers](https://open.spotify.com/artist/1jO22tNfag5lkLQboj0npK) | [Mozambique My Nou](https://open.spotify.com/album/5bNSgQDtkHt1KSd1bDhnzP) | 3:21 | 2025-11-27 |  |
 | [Muis Van Potchefstroom](https://open.spotify.com/track/3ks2OaYWHm3KmhCIcPIVY2) | [Dozi](https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf) | [Muis Van Potchefstroom](https://open.spotify.com/album/7sAhAqPh3fdyivhI2Nyykh) | 3:25 | 2024-11-28 | 2024-12-20 |

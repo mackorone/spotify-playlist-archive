@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Mata, Sobel
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,263 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,320 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 20 | [Belly Dance](https://open.spotify.com/track/2NDY6DWsQCQFuccgid7rvE) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Belly Dance](https://open.spotify.com/album/2we9uL36F3x5YpxCCTdbpu) | 2:31 |
 | 21 | [SIE KLEI](https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y) | [javier](https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY) | [NEXT](https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo) | 1:53 |
 | 22 | [WIDZIAŁAM JUŻ WSZYSTKO](https://open.spotify.com/track/1UBZRfCnZZfggUooQCJ0Wn) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [WIDZIAŁAM JUŻ WSZYSTKO](https://open.spotify.com/album/3QoWaIRGAKUa5L3eIzAQP7) | 2:50 |
-| 23 | [pitstop](https://open.spotify.com/track/0VBnwF6Po9MH1rFwku4bYv) | [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [](https://open.spotify.com/album/null) | 2:28 |
+| 23 | [pitstop](https://open.spotify.com/track/0VBnwF6Po9MH1rFwku4bYv) | [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [kino femina](https://open.spotify.com/album/3TeSDt6pM7wud4LcqNwYze) | 2:28 |
 | 24 | [POKOLOROWANA](https://open.spotify.com/track/6mPLPjlONvnJTPtQo6ia8u) | [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [POKOLOROWANA](https://open.spotify.com/album/4jt1eGcqa1i36BAlXN8Dm1) | 3:11 |
 | 25 | [OULALALA](https://open.spotify.com/track/3rz1MnWuYAwTuTFM95qlai) | [Francuz Mordo](https://open.spotify.com/artist/2HbB4FfGWI8U5NsLgUZ5ao), [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [pieruun](https://open.spotify.com/artist/5LObVYVi0keR5Eplsk6Od1) | [OULALALA](https://open.spotify.com/album/6s8uzDpNWc7NZMTrXDtVOT) | 2:24 |
 | 26 | [NA BLOK](https://open.spotify.com/track/0dIrL5Jo7940G64ZwXFuP7) | [Bungee](https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy) | [NA BLOK](https://open.spotify.com/album/79HyMHo2tXJlaoJITzV5Ca) | 2:52 |

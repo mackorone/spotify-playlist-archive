@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Amiel Sol
 
-657 songs - 1 day 16 hr 50 min
+661 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Hopia](https://open.spotify.com/track/4nu366glQKT2HbdDhov3lE) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [afteryou.](https://open.spotify.com/album/4qPIKvJ3xiO7AyqPEFTlqc) | 4:42 | 2024-11-29 | 2025-04-08 |
 | [how the heart breaks](https://open.spotify.com/track/7I6bfFmLWpOkAlpGVGEEAh) | [Any Name's Okay](https://open.spotify.com/artist/1CZ6BqSNNDTbyne4SltF0e) | [how the heart breaks](https://open.spotify.com/album/6ZRvMaADj3wRCfo8MgQpUa) | 3:44 | 2025-05-23 | 2025-10-25 |
 | [Huling Pag\-Ibig](https://open.spotify.com/track/11glrCyEw3LnLxf1M6KB34) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Huling Pag\-Ibig](https://open.spotify.com/album/57Af2Iv4CAwiJmpD4ClLbi) | 3:56 | 2025-05-23 | 2025-10-25 |
+| [Huling Sandali](https://open.spotify.com/track/5leZwTgwMob3NysJNsfU1a) | [Kenan](https://open.spotify.com/artist/5MJysZm1qR5X7MmUe2QkB0) | [Huling Sandali](https://open.spotify.com/album/4bqt2PYRqVqupYG6ItVoSI) | 4:44 | 2025-12-05 |  |
 | [Humahalik](https://open.spotify.com/track/0zEn6vTXSk2is5l6kpDe0Z) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Humahalik](https://open.spotify.com/album/09gZvZkIXdW5mEmQwie7hF) | 3:55 | 2025-09-19 | 2025-11-29 |
 | [Hunyo '97](https://open.spotify.com/track/3D4qbZwiUGkWP4GayyvQ0t) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Hunyo '97](https://open.spotify.com/album/3ha1EK7hAQbQlGHow0HgQe) | 5:45 | 2025-01-01 | 2025-04-17 |
 | [I can be the one](https://open.spotify.com/track/4rgexTquOBLYzQWusUsLyb) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [I can be the one](https://open.spotify.com/album/1A8lPVdz7nGht81w9PrwKo) | 3:45 | 2025-07-18 | 2025-11-22 |
@@ -260,6 +261,7 @@
 | [kaibigan](https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [kaibigan](https://open.spotify.com/album/4evefz8rfDGKLURrEzwEzy) | 3:26 | 2024-07-19 | 2024-11-09 |
 | [Kailan Ka Uuwi \(feat\. Flow G\)](https://open.spotify.com/track/5INJWPDC31rn7ebGRQ0rN9) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Kailan Ka Uuwi \(feat\. Flow G\)](https://open.spotify.com/album/6RiqcnCb9Z6mxrXsLDEXEj) | 4:00 | 2025-10-24 |  |
 | [Kalamokungsinoka?!](https://open.spotify.com/track/5BNWRv0UGQPD2GO0mgWjgE) | [Frizzle Anne](https://open.spotify.com/artist/0nFYwBSW3uQyPErFv96mr7) | [Frizzle Anne](https://open.spotify.com/album/44ncXOw6IG6P8dXlKP3XRA) | 2:55 | 2025-04-16 | 2025-06-21 |
+| [Kalawakan](https://open.spotify.com/track/4L1cUWMpmGgfD5t6s5V5Wy) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Kalawakan](https://open.spotify.com/album/2IkFpMoOTNwKWbcxAa3RHs) | 3:59 | 2025-12-05 |  |
 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 | 2025-03-03 | 2025-10-25 |
 | [Kalul’wa](https://open.spotify.com/track/0h8VHbUeVsIaCKlPLIhYDE) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Kalul’wa](https://open.spotify.com/album/7FGbcJcmn2tXjuaYaoW5BN) | 3:11 | 2025-03-28 | 2025-07-13 |
 | [KAMEHAMEHA](https://open.spotify.com/track/4vt5xae70yXSP9jwy42q9e) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Olaholah](https://open.spotify.com/album/0HMzFaO7tbJus5v3QkmRJn) | 3:48 | 2024-09-27 | 2024-12-17 |
@@ -394,6 +396,7 @@
 | [Nanghihinayang](https://open.spotify.com/track/0KD09Op0jUc8YgMDitybS6) | [Sam Mangubat](https://open.spotify.com/artist/73dgrlUNeTLiZFL1BpNVlw), [Niel Murillo](https://open.spotify.com/artist/71tuiyVVduvkPq0ww0kyR8) | [Nanghihinayang](https://open.spotify.com/album/3HYtOpu8zHYxazypT6kBvd) | 4:20 | 2025-05-16 | 2025-10-25 |
 | [naninibago \(mapanlinlang na pahiwatig\)](https://open.spotify.com/track/4FW9aXKqd7pwgfOyyHlQj1) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [naninibago \(mapanlinlang na pahiwatig\)](https://open.spotify.com/album/2ygYBpH1Xxm7JJCgqjvbkN) | 4:26 | 2025-02-12 | 2025-05-03 |
 | [Napagod Na](https://open.spotify.com/track/4UZdLLW8Pn5xPrvNdnZJQ4) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Napagod Na](https://open.spotify.com/album/5JMLaYvckd8WSXZnC2uLeN) | 2:27 | 2024-07-02 | 2024-07-09 |
+| [NASA](https://open.spotify.com/track/2haqjiB5dQSfwovW5oiUn0) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [NASA](https://open.spotify.com/album/65qDbifeJOCSHj0IUqawlV) | 3:07 | 2025-12-05 |  |
 | [Nasan Na Ba Ako?](https://open.spotify.com/track/71wEGMZkYzllZd7P8u2FES) | [SSUNN](https://open.spotify.com/artist/1GkXuyf7W9WnQhHuBov71K) | [Nasan Na Ba Ako?](https://open.spotify.com/album/4hxtD2eFMJH1rSQXXwH4YN) | 4:50 | 2025-08-08 | 2025-11-22 |
 | [Nasusunog \(Pants On Fire\)](https://open.spotify.com/track/49DurUInR305YE8CU5MU6h) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Nasusunog \(Pants On Fire\)](https://open.spotify.com/album/2yeuyBcLVYn3PldayVr91O) | 2:50 | 2025-05-23 | 2025-10-25 |
 | [Never Ever](https://open.spotify.com/track/4acuAxO3HX8gnG0cPoHdY3) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU), [Shanice](https://open.spotify.com/artist/7d0Wq0KsjId0JcqsDg02l2) | [Never Ever](https://open.spotify.com/album/4Kgp0O7onWFiBSFfw3Fadq) | 4:07 | 2025-08-23 | 2025-11-22 |
@@ -583,6 +586,7 @@
 | [Tahanan](https://open.spotify.com/track/34ftCMquXUGlSVFrbNmlvB) | [ONSE](https://open.spotify.com/artist/6k0cB0PRw6pUa351Cr72Ix) | [Tahanan](https://open.spotify.com/album/58sYRua7cGvoT6MgwIzd8F) | 3:28 | 2025-08-01 | 2025-11-22 |
 | [Tahimik Na Buhay Kapiling Ka](https://open.spotify.com/track/6C6T5FSG8AZXgKPwZgVcNx) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Tahimik Na Buhay Kapiling Ka](https://open.spotify.com/album/49bkCXhFHLjlxxNzCDmZ5U) | 4:45 | 2025-08-23 | 2025-11-22 |
 | [Take It To The Roof](https://open.spotify.com/track/0iP5DWmX7dbpxpKot3VzOR) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [HAPPY ACCIDENTS VOL\. 2 \(DELUXE EDITION\)\)](https://open.spotify.com/album/5NTTN3eW7xR3eTcRRD9VFV) | 3:14 | 2025-11-28 |  |
+| [TAKOT](https://open.spotify.com/track/4advJOoc5XugSHZNFzv8Td) | [Reneboyz](https://open.spotify.com/artist/0fk0b65IguaWnzOyIiGYDW) | [TAKOT](https://open.spotify.com/album/2bSVYaele4e1JnmpfSeSTh) | 4:01 | 2025-12-05 |  |
 | [Talulot](https://open.spotify.com/track/1ZsLM9dWw9EsBRTpkTa9Op) | [Julia Daniel](https://open.spotify.com/artist/2hfnHpR7irs4c3gJxdRT0F) | [Talulot](https://open.spotify.com/album/3BpYVwzpUcc0AbF01GVSVv) | 3:33 | 2025-11-10 |  |
 | [tama na](https://open.spotify.com/track/7LRPZzicTkzOJ4OyFgajxT) | [Cuatro](https://open.spotify.com/artist/4dg2z4ZmSNpkBGRSSBs3Q0) | [tama na](https://open.spotify.com/album/0Q30UaqNvSu4F2zeBm1pHF) | 4:01 | 2024-11-20 | 2025-02-06 |
 | [Tanaw](https://open.spotify.com/track/28n4MIFLDKKUvZLucXGUIK) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Tanaw](https://open.spotify.com/album/1v8LGzEjnZ3rBfM7Om9Iss) | 3:46 | 2025-10-10 |  |

@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-559 songs - 1 day 8 hr 20 min
+560 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Dealing With The Best](https://open.spotify.com/track/35WmOfRHL6qsdtfjZUrrWt) | [Bare Up](https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC), [Dynamite MC](https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Dealing With The Best](https://open.spotify.com/album/0N0MHwnc7SEnxfXFl5rtgm) | 2:37 | 2025-04-17 | 2025-10-24 |
 | [Deep Blue](https://open.spotify.com/track/1GbOfnbGSjk8d1K5dlXCzX) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Deep Blue](https://open.spotify.com/album/0U1KpiK53T1hSfAKhZC6dS) | 3:35 | 2023-07-27 | 2024-02-25 |
 | [Deep Blue](https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Deep Blue](https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF) | 3:35 | 2022-10-28 | 2023-05-03 |
-| [Defcon 1](https://open.spotify.com/track/5agzYyhLRr4lYXcKahdEcF) | [Loboski](https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS), [Krasia](https://open.spotify.com/artist/6HWv9QK0gDs0yaNcGWHffV) | [Defcon 1](https://open.spotify.com/album/780qikdd8z4LSwdUkVZxwL) | 3:02 | 2025-11-28 |  |
+| [Defcon 1](https://open.spotify.com/track/5agzYyhLRr4lYXcKahdEcF) | [Loboski](https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS), [Krasia](https://open.spotify.com/artist/6HWv9QK0gDs0yaNcGWHffV) | [Defcon 1](https://open.spotify.com/album/780qikdd8z4LSwdUkVZxwL) | 3:02 | 2025-11-28 | 2025-12-06 |
 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 | 2024-07-02 | 2025-02-21 |
 | [Desire \(with Sam Smith\) \- Hannah Laing Remix](https://open.spotify.com/track/5fMCZVkIvrx6sF0oZhfFYG) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Desire \(with Sam Smith\) \[Hannah Laing Remix\]](https://open.spotify.com/album/2Vg83qJEzQy2iaRF5kF4fb) | 3:08 | 2023-12-27 | 2024-01-12 |
 | [Destiny Part II](https://open.spotify.com/track/4WPl1vqx0GIEKY62i517Xh) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Destiny Part II](https://open.spotify.com/album/42KPhKTX0egGiml5nk0AJU) | 3:46 | 2024-08-02 | 2024-11-22 |
@@ -149,6 +149,7 @@
 | [Dutty](https://open.spotify.com/track/40QBWI7oVfaKSPsRm4J0uF) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Dutty](https://open.spotify.com/album/5dfawAgRpWLQxOkQb1mT8v) | 3:30 | 2025-04-17 | 2025-11-28 |
 | [E\-Motion](https://open.spotify.com/track/58EZuTSdPxWTz9OO1bO7BR) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb), [Nick Callaghan](https://open.spotify.com/artist/0Ga5VKTk7rFifWDtVVOK6P) | [E\-Motion](https://open.spotify.com/album/7qL7aPJZ2y5h2vT7OHP18n) | 3:26 | 2023-12-27 | 2024-01-12 |
 | [Elemental](https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Elemental](https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb) | 3:17 | 2022-09-30 | 2024-02-23 |
+| [Empire](https://open.spotify.com/track/1zJnBEBuLD42Ypoaum6BOu) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k) | [Empire](https://open.spotify.com/album/4sfEJd0kHLYe0x7qTrnugx) | 3:11 | 2025-11-28 |  |
 | [Energy](https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Stush](https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT) | [Energy](https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU) | 3:32 | 2025-10-23 |  |
 | [Energy In Motion](https://open.spotify.com/track/2j3Vsq1Xxoqlvz5UJAr1ED) | [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [Energy In Motion](https://open.spotify.com/album/45HkcoHxI0wvSk2QqHMdiL) | 4:20 | 2024-06-27 | 2024-10-04 |
 | [Energy! Energy! Energy!](https://open.spotify.com/track/6LlMUGPDe5gYLHM6PJkHj2) | [Fliptrix](https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Forest DLG](https://open.spotify.com/artist/5EqF16ggJzJiRlDO4sslnw) | [Energy! Energy! Energy!](https://open.spotify.com/album/611mGDUk9CtFb7zjv35BbM) | 3:12 | 2025-07-03 | 2025-10-23 |

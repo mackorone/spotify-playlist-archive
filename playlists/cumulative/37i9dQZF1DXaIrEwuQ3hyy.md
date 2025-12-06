@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaIrEwuQ3hyy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaIrEwuQ3hyy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaIrEwuQ3hyy)
 
-### [Herbst Chillout](https://open.spotify.com/playlist/37i9dQZF1DXaIrEwuQ3hyy)
+### [Winter Chillout](https://open.spotify.com/playlist/37i9dQZF1DXaIrEwuQ3hyy)
 
-> Die cozy season geht los 🍂
+> Songs, die von innen wärmen.
 
 283 songs - 15 hr 58 min
 

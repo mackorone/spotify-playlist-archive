@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/62bReXvmroQzQfEUuTNe3Y.md) - cumulative - [plain](/playlists/plain/62bReXvmroQzQfEUuTNe3Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/62bReXvmroQzQfEUuTNe3Y)
 
-### [Chill House 2025](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
+### [Chill House 2026](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
 
-> Chill tracks to vibe or relax to in 2025\. Updated weekly!
+> Chill tracks to vibe or relax to for 2026\. Updated weekly!
 
-509 songs - 1 day 4 hr 23 min
+511 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Show Me](https://open.spotify.com/track/4WQtQMbcS53c7k50ddOr9A) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Show Me](https://open.spotify.com/album/7hOMWAtuSvc46C0GpWJlVr) | 2:25 | 2024-02-09 |  |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-04-15 |  |
 | [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 | 2024-07-26 | 2025-01-18 |
+| [Silver Lines](https://open.spotify.com/track/75X2LLppcaCG2mm6RcxyoI) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Daydream Affiliate](https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV) | [Silver Lines](https://open.spotify.com/album/3bYQbjzkFPmTiqEd9vXV1u) | 3:37 | 2025-12-05 |  |
 | [Sky and Sand](https://open.spotify.com/track/3ZSqMer9RLSglvi18bWXYV) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)](https://open.spotify.com/album/1PjYHybPrB6rU3qABrNldm) | 3:50 | 2023-12-08 | 2024-01-13 |
 | [Sky Is Crying](https://open.spotify.com/track/0VH9sKPtKbkxllpqyYmJ7E) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sky Is Crying](https://open.spotify.com/album/1QMNjCy5KoPIu45sIU59s8) | 4:24 | 2021-03-26 | 2021-04-03 |
 | [Sleep Walking](https://open.spotify.com/track/11KXhIzhMQvUZBqiwkEShR) | [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu) | [Sleep Walking](https://open.spotify.com/album/0N78Ojgqv1VEpkw9sEbFF3) | 2:26 | 2023-12-08 |  |
@@ -437,6 +438,7 @@
 | [The Chase](https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt 2](https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov) | 3:13 | 2024-12-06 | 2025-07-31 |
 | [The Chase \- Rebūke Remix](https://open.spotify.com/track/2cwfGkfp1XWdfCuPcMjWnK) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [The Chase \(Rebūke Remix\)](https://open.spotify.com/album/28uhTIgM1VgRPfRPoCMtqu) | 3:08 | 2024-07-26 | 2024-09-21 |
 | [The Darkside](https://open.spotify.com/track/5xan7XL4YNpsAOL7LhXUPb) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [The Darkside](https://open.spotify.com/album/3cBZZRepesMW2Umf7NrZGJ) | 2:44 | 2023-02-17 | 2024-02-24 |
+| [the morning](https://open.spotify.com/track/3Hz9J3MMt7o8mdLDjEykeO) | [kalm](https://open.spotify.com/artist/0caSrZsazREwoaF8jFj1XM) | [the morning](https://open.spotify.com/album/3scCR0jhVdKOVq5gcjtKzA) | 2:19 | 2025-12-05 |  |
 | [The Otherside](https://open.spotify.com/track/6dVaPIowc4SX9Qm3Zj2KQq) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [The Otherside](https://open.spotify.com/album/5UesfEmQZ72n3jin1LgegB) | 3:34 | 2022-03-18 |  |
 | [The Way It Goes](https://open.spotify.com/track/0koayp1WcjhQjN5kS5JxoE) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:04 | 2025-07-30 |  |
 | [There's Another Life 4 U](https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:33 | 2023-03-31 | 2024-02-24 |

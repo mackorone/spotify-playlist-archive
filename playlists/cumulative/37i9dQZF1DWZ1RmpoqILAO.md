@@ -4,7 +4,7 @@
 
 > you met me at a very indie twang time in my life..\. Snocaps on the cover
 
-328 songs - 21 hr 5 min
+329 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-02-23 |  |
 | [Cowgirl](https://open.spotify.com/track/5SOmWCeB99slbaycsmndY8) | [Ora Cogan](https://open.spotify.com/artist/0zZHy0tQvwi4L5HNvNq0QY) | [Formless](https://open.spotify.com/album/1gGoQORTeRJPQ7fZrqJGMq) | 2:49 | 2024-09-06 |  |
 | [Cowgirl Giving](https://open.spotify.com/track/5iByVlZlOmIVTPbF34VSTM) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Cowgirl Giving](https://open.spotify.com/album/3f62q827UrlNTwvJS8v6oq) | 5:05 | 2023-07-28 |  |
+| [Cup of Loneliness](https://open.spotify.com/track/3F81ZndWmQF7GDTX7Wz5gs) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH), [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Cup of Loneliness / Choices](https://open.spotify.com/album/7LgCssVLpa87Fg2PGBQxcC) | 2:33 | 2025-12-05 |  |
 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 | 2024-04-14 | 2025-05-24 |
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-02-23 | 2024-04-19 |
 | [Curtain](https://open.spotify.com/track/66yo9SvT59QyxWe1Of6VhX) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Burnover](https://open.spotify.com/album/0C9nK6t31Xxpv6XtMakvQv) | 6:39 | 2025-09-05 |  |

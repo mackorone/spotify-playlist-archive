@@ -2,9 +2,9 @@
 
 ### [Christian Rock Hits](https://open.spotify.com/playlist/37i9dQZF1DX06wYNNUR5t6)
 
-> Recent hits from all your favorite Christian Rock artists!  Cover: Skillet
+> Recent hits from all your favorite Christian Rock artists!  Cover: Kutless
 
-101 songs - 6 hr 24 min
+102 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Black Roses White Doves](https://open.spotify.com/track/29QhQbPMhgjPrqDznx1pP1) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Black Roses White Doves](https://open.spotify.com/album/6ZbtYlMOYqRGkwxVar9f8V) | 3:29 | 2025-03-07 |  |
 | [Bottom Feed](https://open.spotify.com/track/1juIgyx6a8G5O1Tnlnf4IB) | [Mawcore](https://open.spotify.com/artist/04vYfdkQAWRKmqmsitQbea) | [Where Breaking Begins](https://open.spotify.com/album/3bsRpywxqsiSORItREzXUN) | 3:32 | 2021-04-10 |  |
 | [Breaking Free \(feat\. Lacey Sturm\)](https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:52 | 2021-04-10 | 2024-07-04 |
+| [Breakthrough](https://open.spotify.com/track/30PmBCzR76Y75XlLbheTM9) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [The Seventh Seal](https://open.spotify.com/album/1osqrxaIWzatwgzDjGuJ74) | 4:34 | 2025-12-05 |  |
 | [Breathe Again](https://open.spotify.com/track/5A83Ob2zfm00oahV4ioFNt) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Still Just Breathing](https://open.spotify.com/album/6pX8vrvmBoOg2HF8LK9Gr8) | 3:37 | 2021-04-10 | 2024-04-19 |
 | [Breathe Again](https://open.spotify.com/track/6VGItaHKo3GC7I6Ky5S57b) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Still Just Breathing](https://open.spotify.com/album/3o8qPT3byMsUolOB3915wZ) | 3:37 | 2021-04-10 |  |
 | [Closer](https://open.spotify.com/track/5dVODyGWLMoBPlmgtm86PU) | [Silversyde](https://open.spotify.com/artist/6J0UNeDm5txVjvcI7Pxqz4) | [Casting Shadows](https://open.spotify.com/album/539lpEirrlTBHMsQHgSZzm) | 3:12 | 2021-04-10 |  |
@@ -49,7 +50,7 @@
 | [Hollowed Out](https://open.spotify.com/track/23jSwzxet90GsYoKdmlMS6) | [As Cities Burn](https://open.spotify.com/artist/7eJA8CZoXCETi9axIfBFGT) | [Hollowed Out](https://open.spotify.com/album/2Y9kDOy6g5dUdMCEyMNOLj) | 3:14 | 2021-04-10 | 2024-07-04 |
 | [I Get Wicked \- Reignited](https://open.spotify.com/track/6X0sPx7iFn3xeZOZz8I2V5) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [I Get Wicked](https://open.spotify.com/album/1UIXC237ONFCTd5RE2011V) | 3:33 | 2024-07-04 |  |
 | [I Need You](https://open.spotify.com/track/6zd8T1PBe9JFHmuVnurdRp) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Unseen: The Lion And The Lamb \(Deluxe Edition\)](https://open.spotify.com/album/0LhYYU14RU6IPQ9vVMu3Yk) | 3:50 | 2021-04-10 | 2024-07-04 |
-| [I Won't Look Back](https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [I Won't Look Back](https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn) | 3:20 | 2021-04-10 |  |
+| [I Won't Look Back](https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [I Won't Look Back](https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn) | 3:20 | 2021-04-10 | 2025-12-06 |
 | [In Absence](https://open.spotify.com/track/6Hb0EqgYqfGHBs0MRC47M9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [When the End Began](https://open.spotify.com/album/0quLJsiSZAicHmyyWJefjd) | 3:30 | 2021-04-10 | 2024-11-30 |
 | [Into the Night](https://open.spotify.com/track/0YhY80vK0EXnfKqWQROSHV) | [Ignescent](https://open.spotify.com/artist/6PQENi26ZkXCUo1ksPJ7mm) | [Into the Night](https://open.spotify.com/album/4EeZaYHOvgQUoKTRH0Iueu) | 3:34 | 2021-04-10 | 2024-07-04 |
 | [It Is Finished](https://open.spotify.com/track/6hmTv34PvjSgSJIQRUhsnw) | [Sean Rodriguez](https://open.spotify.com/artist/2ifliJZxSO9sNpZY4ItwPY), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [It Is Finished](https://open.spotify.com/album/1yI817nUEoU91SOVMv8p9W) | 4:10 | 2025-02-07 |  |

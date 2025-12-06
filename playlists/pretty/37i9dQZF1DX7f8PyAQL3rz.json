@@ -1,6 +1,6 @@
 {
   "description": "dois quebrada na bola de meia, kyan e mu540",
-  "num_followers": 1417927,
+  "num_followers": 1417795,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2025-12-05 03:01:07",
       "album": {
+        "name": "808 CLUB: AFTER",
+        "url": "https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "duration_ms": 190165,
+      "name": "Mem\u00f3rias Sexuais (feat. Mc Rodrigo do CN)",
+      "url": "https://open.spotify.com/track/2HuoLn1XVy96eYDcTNwwOi"
+    },
+    {
+      "added_at": "2025-12-05 03:01:07",
+      "album": {
         "name": "Eh Noiz Ki T\u00e1",
         "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 143488,
       "name": "XT 2",
       "url": "https://open.spotify.com/track/3ESfiJEKj4V3GdATVvHZyn"
-    },
-    {
-      "added_at": "2025-12-05 03:01:07",
-      "album": {
-        "name": "808 CLUB: AFTER",
-        "url": "https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        }
-      ],
-      "duration_ms": 190165,
-      "name": "Mem\u00f3rias Sexuais (feat. Mc Rodrigo do CN)",
-      "url": "https://open.spotify.com/track/2HuoLn1XVy96eYDcTNwwOi"
     },
     {
       "added_at": "2025-12-05 03:01:07",
@@ -763,34 +763,6 @@
     {
       "added_at": "2025-12-05 03:01:07",
       "album": {
-        "name": "Eh Noiz Ki T\u00e1",
-        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "MC Rah",
-          "url": "https://open.spotify.com/artist/6ySG9bDJ4Da8NWBQqmlWKa"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 206843,
-      "name": "Sem Sentir Saudade",
-      "url": "https://open.spotify.com/track/5NTjJOysVSlvIm8S7asj94"
-    },
-    {
-      "added_at": "2025-12-05 03:01:07",
-      "album": {
         "name": "PEITO FALSO",
         "url": "https://open.spotify.com/album/0Yh7SE739Q8KPCsiW9DGff"
       },
@@ -815,6 +787,34 @@
       "duration_ms": 210461,
       "name": "PEITO FALSO",
       "url": "https://open.spotify.com/track/6NWfG69zA4RQyksIdwW7jt"
+    },
+    {
+      "added_at": "2025-12-05 03:01:07",
+      "album": {
+        "name": "Eh Noiz Ki T\u00e1",
+        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "MC Rah",
+          "url": "https://open.spotify.com/artist/6ySG9bDJ4Da8NWBQqmlWKa"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 206843,
+      "name": "Sem Sentir Saudade",
+      "url": "https://open.spotify.com/track/5NTjJOysVSlvIm8S7asj94"
     },
     {
       "added_at": "2025-12-05 03:01:07",
@@ -1003,6 +1003,78 @@
     {
       "added_at": "2025-12-05 03:01:07",
       "album": {
+        "name": "Vou Investir em Voc\u00ea",
+        "url": "https://open.spotify.com/album/6dD0kVhHYAwaMgod4HNO8g"
+      },
+      "artists": [
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Vou Investir em Voc\u00ea",
+      "url": "https://open.spotify.com/track/5RaT63XBPpeZXZ8tjlXZ4v"
+    },
+    {
+      "added_at": "2025-12-05 03:01:07",
+      "album": {
+        "name": "THE BOX MEDLEY FUNK 10 (feat. MC GP & Mc Neg\u00e3o Original)",
+        "url": "https://open.spotify.com/album/5jRLCp92otv3OFzkWS0t0e"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "Mc Brinquedo",
+          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
+        },
+        {
+          "name": "Mc Fejuca",
+          "url": "https://open.spotify.com/artist/5MB4XypfsrWtOuzKZxHnnj"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "THE BOX MEDLEY FUNK 10 (feat. MC GP, Mc Neg\u00e3o Original, Mc Brinquedo, Mc Fejuca & Ecologyk)",
+      "url": "https://open.spotify.com/track/1QB4ECV5w5xLZtbq6qGIwB"
+    },
+    {
+      "added_at": "2025-12-05 03:01:07",
+      "album": {
         "name": "Melodia&Barulho",
         "url": "https://open.spotify.com/album/1WWKBiKHbBKpuPjI6rvKYR"
       },
@@ -1163,50 +1235,6 @@
     {
       "added_at": "2025-12-05 03:01:07",
       "album": {
-        "name": "Vou Investir em Voc\u00ea",
-        "url": "https://open.spotify.com/album/6dD0kVhHYAwaMgod4HNO8g"
-      },
-      "artists": [
-        {
-          "name": "Puterrier",
-          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
-        },
-        {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Vou Investir em Voc\u00ea",
-      "url": "https://open.spotify.com/track/5RaT63XBPpeZXZ8tjlXZ4v"
-    },
-    {
-      "added_at": "2025-12-05 03:01:07",
-      "album": {
-        "name": "Teatro de um Tralha",
-        "url": "https://open.spotify.com/album/6yB9230AK3UBAdia8XvCi7"
-      },
-      "artists": [
-        {
-          "name": "DomLaike",
-          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Mulher de Ronca",
-      "url": "https://open.spotify.com/track/12qlwYHrxkIYVg94XPfhuZ"
-    },
-    {
-      "added_at": "2025-12-05 03:01:07",
-      "album": {
         "name": "Sexo Hot 2",
         "url": "https://open.spotify.com/album/1GiHRtZrCsAVQYOS5rfLqI"
       },
@@ -1231,6 +1259,26 @@
       "duration_ms": 172856,
       "name": "Sexo Hot 2",
       "url": "https://open.spotify.com/track/4qc9XsRd0x2Gdw3AzvUnhA"
+    },
+    {
+      "added_at": "2025-12-05 03:01:07",
+      "album": {
+        "name": "Teatro de um Tralha",
+        "url": "https://open.spotify.com/album/6yB9230AK3UBAdia8XvCi7"
+      },
+      "artists": [
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Mulher de Ronca",
+      "url": "https://open.spotify.com/track/12qlwYHrxkIYVg94XPfhuZ"
     },
     {
       "added_at": "2025-12-05 03:01:07",
@@ -1511,8 +1559,8 @@
     {
       "added_at": "2025-12-05 03:01:07",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Efeito Borboleta",
+        "url": "https://open.spotify.com/album/7tq63FD0LgYijNNquT8qi4"
       },
       "artists": [
         {
@@ -1543,54 +1591,6 @@
       "duration_ms": 180923,
       "name": "Sensa\u00e7\u00e3o de Poder",
       "url": "https://open.spotify.com/track/0niVaC6szmiViGBePozys1"
-    },
-    {
-      "added_at": "2025-12-05 03:01:07",
-      "album": {
-        "name": "THE BOX MEDLEY FUNK 10 (feat. MC GP & Mc Neg\u00e3o Original)",
-        "url": "https://open.spotify.com/album/5jRLCp92otv3OFzkWS0t0e"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "Mc Brinquedo",
-          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
-        },
-        {
-          "name": "Mc Fejuca",
-          "url": "https://open.spotify.com/artist/5MB4XypfsrWtOuzKZxHnnj"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "THE BOX MEDLEY FUNK 10 (feat. MC GP, Mc Neg\u00e3o Original, Mc Brinquedo, Mc Fejuca & Ecologyk)",
-      "url": "https://open.spotify.com/track/1QB4ECV5w5xLZtbq6qGIwB"
     }
   ],
   "unique_name": "creme",

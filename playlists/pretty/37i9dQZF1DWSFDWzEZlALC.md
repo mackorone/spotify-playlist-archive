@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Berq, Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,874 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,002 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 6 | [seht ihr nicht](https://open.spotify.com/track/1vN8sBtdKTaP72Gi8pW5rD) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [seht ihr nicht](https://open.spotify.com/album/4iWsaNsrCtN9CxkezlAve8) | 2:53 |
 | 7 | [Kreislauf](https://open.spotify.com/track/63u7y0YEzhZxsh7Blg6kEa) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Kreislauf](https://open.spotify.com/album/3uZtKPX2VrGNnIIH6M1mV4) | 3:48 |
 | 8 | [All die schönen Worte feat\. Faber](https://open.spotify.com/track/6d7QE9925lkSV8IxaNC55s) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4), [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [All die schönen Worte feat\. Faber](https://open.spotify.com/album/3aEYufSNb9oRDRQXBxDNi3) | 3:24 |
-| 9 | [fanta lustig](https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [](https://open.spotify.com/album/null) | 2:45 |
+| 9 | [fanta lustig](https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [fanta lustig ep](https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm) | 2:45 |
 | 10 | [leicht](https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [leicht](https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7) | 2:21 |
 | 11 | [Haifischbecken](https://open.spotify.com/track/2ppiU0ulKCsMTbA72tUa5k) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Haifischbecken](https://open.spotify.com/album/6rfaLEpqZaRoEIg1Q8JP27) | 3:12 |
 | 12 | [Luftschloss](https://open.spotify.com/track/0ytjzXzOlaeQ9aSf0tuY8D) | [amelie](https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV) | [Luftschloss](https://open.spotify.com/album/5V95AEIQjYt8Nyi8ZDNJTF) | 3:13 |

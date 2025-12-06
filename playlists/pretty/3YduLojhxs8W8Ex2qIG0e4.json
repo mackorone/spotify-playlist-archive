@@ -6,8 +6,40 @@
     "name": "Salon Blanc",
     "url": "https://open.spotify.com/user/1125193345"
   },
-  "snapshot_id": "AAAJgVZVhMA43CfQkf+Ass+jEjjrWPz1",
+  "snapshot_id": "AAAJg6n9N//vUOUBVVjdVG2qYba0PLOC",
   "tracks": [
+    {
+      "added_at": "2025-12-05 06:07:41",
+      "album": {
+        "name": "Guilty of Murder",
+        "url": "https://open.spotify.com/album/75Ju0PbmPvNo0gKv4hafKv"
+      },
+      "artists": [
+        {
+          "name": "Ethan Loke",
+          "url": "https://open.spotify.com/artist/6AcVELfnTn0p70P6R6SYSg"
+        }
+      ],
+      "duration_ms": 273771,
+      "name": "Guilty of Murder",
+      "url": "https://open.spotify.com/track/2pTVCo3HSGQO2x75b1k5PS"
+    },
+    {
+      "added_at": "2025-12-05 06:10:20",
+      "album": {
+        "name": "The Change",
+        "url": "https://open.spotify.com/album/3ogSOauc4Nns4dTm3fDk4e"
+      },
+      "artists": [
+        {
+          "name": "Neil Friedlander",
+          "url": "https://open.spotify.com/artist/3vbuWzmFvfKIz0hptCJyS7"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Totem",
+      "url": "https://open.spotify.com/track/6H5FyHR39hnSv5rEsXAuS1"
+    },
     {
       "added_at": "2025-10-14 05:46:32",
       "album": {

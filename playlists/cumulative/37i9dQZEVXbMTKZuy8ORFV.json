@@ -1579,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "RV",
+        "url": "https://open.spotify.com/album/2xV4WY7ILWk3PFghGLFQkz"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192134,
+      "name": "alg\u00fan d\u00eda",
+      "url": "https://open.spotify.com/track/6vbzNURShe7v41bdR1NCRN"
+    },
+    {
+      "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
       },
@@ -18762,7 +18780,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 211239,
       "name": "La milla extra",
       "url": "https://open.spotify.com/track/0PEP61yLiv2SQoRlaxKGSc"
@@ -24952,7 +24970,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 124751,
       "name": "M\u00e1s k amigos",
       "url": "https://open.spotify.com/track/6UvuW0XIWJAJPCgNrzG7XG"
@@ -30423,6 +30441,32 @@
     },
     {
       "album": {
+        "name": "Cancer de Amor (Vol. 3)",
+        "url": "https://open.spotify.com/album/6Qxwu3k7EXWNvHEpZB2Gii"
+      },
+      "artists": [
+        {
+          "name": "Erlinda Cruz",
+          "url": "https://open.spotify.com/artist/4luwtbngm1onimElUVzpoi"
+        },
+        {
+          "name": "Las Consentidas",
+          "url": "https://open.spotify.com/artist/67RHCfGrA0syOani47Vt0D"
+        },
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246950,
+      "name": "Quisiera Irme",
+      "url": "https://open.spotify.com/track/261NKbS4BMStkxUZUZ3B14"
+    },
+    {
+      "album": {
         "name": "Quiz\u00e1s Si Quiz\u00e1s No",
         "url": "https://open.spotify.com/album/1d0NUCxOgFKAMzu4nsbq19"
       },
@@ -32052,7 +32096,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 237056,
       "name": "Saulo",
       "url": "https://open.spotify.com/track/7BElqwdYdkTHeaabaEMgrG"
@@ -37642,7 +37686,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 153545,
       "name": "Tu Boda 3",
       "url": "https://open.spotify.com/track/6ea4nggeIREHFZHMhqo9WN"
@@ -41174,7 +41218,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 180604,
       "name": "Wish - Audiomack Trap Symphony Version",
       "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
@@ -42356,6 +42400,28 @@
       "duration_ms": 188952,
       "name": "Zombie Lady",
       "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
+    },
+    {
+      "album": {
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190822,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
     },
     {
       "album": {

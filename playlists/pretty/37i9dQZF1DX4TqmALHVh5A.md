@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : St Graal
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,813 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,838 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 5 | [Pas le temps](https://open.spotify.com/track/1fH3GLZtWqNTxDUoknAMwO) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Pas le temps](https://open.spotify.com/album/3woAumoPTvkkzSGxDsfLqM) | 3:02 |
 | 6 | [Stratégie d'évitement](https://open.spotify.com/track/62nYa9kuN26ukVARAPiszd) | [Neniu](https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I), [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Les Ailes](https://open.spotify.com/album/4AenevqGlEU6uDhZTzAErQ) | 3:00 |
 | 7 | [Le Labyrinthe](https://open.spotify.com/track/45hOGbJg68LAc6plyrSXru) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Labyrinthe](https://open.spotify.com/album/6Dlr1OhxAWl5JIE7bUwS6X) | 4:22 |
-| 8 | [Buzz](https://open.spotify.com/track/5mysBYvFfQpZobu9bCRJ6e) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [](https://open.spotify.com/album/null) | 3:06 |
+| 8 | [Buzz](https://open.spotify.com/track/5mysBYvFfQpZobu9bCRJ6e) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/2tLSulOAVaq89ILmVaFE71) | 3:06 |
 | 9 | [mais le ciel est sublime](https://open.spotify.com/track/5cfD8I77n0o74lx5I6kdjt) | [nous étions une armée](https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t) | [mais le ciel est sublime](https://open.spotify.com/album/6wlaGZBe38vEnajOPYzAOl) | 3:44 |
 | 10 | [FLEMME](https://open.spotify.com/track/1aWfRPTSnvfgn0p5niDMr1) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [FLEMME](https://open.spotify.com/album/179KOwuoogAJN7nKByOBha) | 2:27 |
 | 11 | [La vérité des baisers](https://open.spotify.com/track/1Xd6H1K9Lq1Owqux3UDsZg) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [La vérité des baisers](https://open.spotify.com/album/5ZoBThw0ygoWQ5qw5KK3nl) | 3:52 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 19 | [TÉLÉPHONE!](https://open.spotify.com/track/4X8VOk1uN2KmGTXqBlqn7r) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA), [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [TÉLÉPHONE!](https://open.spotify.com/album/1q72NUONJTQRhQalQFUNWc) | 2:32 |
 | 20 | [Naïf de Coeur](https://open.spotify.com/track/3trEKMbjxk1uzYxNYCXDRA) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Naïf de Coeur](https://open.spotify.com/album/1jUbkwlkekzGLC0FOefl6r) | 4:47 |
 | 21 | [Nuage Gris](https://open.spotify.com/track/2x02xV4vO3Ph7ndHQa4vVF) | [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs), [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Nuage Gris](https://open.spotify.com/album/4azWvnmyKImqcEkbZPnKCC) | 2:39 |
-| 22 | [Cheveux d'ange](https://open.spotify.com/track/0MRJUAOzhj6NyrDyVazBqQ) | [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [](https://open.spotify.com/album/null) | 4:03 |
+| 22 | [Cheveux d'ange](https://open.spotify.com/track/0MRJUAOzhj6NyrDyVazBqQ) | [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [Pick Up : Face B \(inédits & remixes\)](https://open.spotify.com/album/533ORxyazdy6tHNB7gI5DK) | 4:03 |
 | 23 | [Tango Montrouge](https://open.spotify.com/track/4ALUui623wOZZhsJ1h3M2V) | [Olkan & La Vipère Rouge](https://open.spotify.com/artist/7HhOFqVLUdzGOuLgazZhAC) | [Tango Montrouge](https://open.spotify.com/album/5AXn24BfwO7rlfQlLnPjKc) | 3:11 |
 | 24 | [LES FRAMBOISES](https://open.spotify.com/track/4WL4dfBOxheHyOcgPtyaZF) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [TÇPÇ!](https://open.spotify.com/album/2deUjrM2eyy0UQuImPJJlq) | 2:40 |
 | 25 | [le remède](https://open.spotify.com/track/5EH33ROUwuT0KgCKBJmMAc) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1) | [le remède](https://open.spotify.com/album/4FWg7jBdMPHOEWpJm7TXKD) | 2:21 |

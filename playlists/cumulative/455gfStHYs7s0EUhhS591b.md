@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-235 songs - 13 hr 48 min
+236 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Kidz](https://open.spotify.com/track/6QqCVQUXAO7W1bC3o62IhK) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Chill Executive Officer \(CEO\), Vol\. 34 \[Selected by Maykel Piron\]](https://open.spotify.com/album/49DZIPW5Uxtr6j3m5ZRVZs) | 2:48 | 2025-06-19 |  |
 | [Kora](https://open.spotify.com/track/7jHFgSqTGmp8znQ7JOPvzM) | [Anthelix](https://open.spotify.com/artist/47hKZZ8qty3gj4uxTCzgS9) | [Kora](https://open.spotify.com/album/3mXqrjDGNvZd1dnVKNsGhY) | 3:25 | 2025-07-18 | 2025-10-10 |
 | [Kuja](https://open.spotify.com/track/0mc7L3ul1C1s4hsXvtt905) | [Mich](https://open.spotify.com/artist/2o8ASGzE6CvIFtfBdX3X9h), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Kuja](https://open.spotify.com/album/77Fjap5FpSIKNJEiwLwelN) | 4:49 | 2025-06-19 |  |
+| [Late Night Text](https://open.spotify.com/track/7dqUcAZ9uLGDmuFm5qsGIp) | [TWO OF YOU](https://open.spotify.com/artist/0LH34iFv5AEmMRxi57FMpj) | [Late Night Text](https://open.spotify.com/album/0K6a2B6ZWMW2fLfn4nQAec) | 2:27 | 2025-12-05 |  |
 | [Leave U Here](https://open.spotify.com/track/1PitUEpajJb3g3zLpJHp0c) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Leave U Here](https://open.spotify.com/album/4OfZMe68ViqcQguGMwBxBJ) | 2:48 | 2025-07-18 |  |
 | [Leaving You](https://open.spotify.com/track/5mhVQmyRLZCOzm7u0KJZhX) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Leaving You](https://open.spotify.com/album/2EdbXpXzHbNNn7zCgx8qs8) | 3:08 | 2025-06-19 |  |
 | [Let You Down](https://open.spotify.com/track/208UTWaWWnFjuGLriXC63E) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch), [a.bech](https://open.spotify.com/artist/6gms5g1TeoEo8HsUuiWWaQ) | [Let You Down](https://open.spotify.com/album/3rmMMklQao5LtEqMooTnyL) | 2:20 | 2025-10-17 |  |

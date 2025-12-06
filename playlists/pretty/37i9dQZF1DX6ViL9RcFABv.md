@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Bárbara Tinoco, Mari Froes
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,441 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,455 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tem lá uma tristeza](https://open.spotify.com/track/3QjkUHKTlsbiKsROCPYZF2) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT), [Mari Froes](https://open.spotify.com/artist/2vJSZKsp32wkF2nDGlGzhn) | [Tem lá uma tristeza](https://open.spotify.com/album/3rwON1RikuIdaY40Di9CzY) | 2:40 |
+| 1 | [Tem lá uma tristeza](https://open.spotify.com/track/3QjkUHKTlsbiKsROCPYZF2) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Tem lá uma tristeza](https://open.spotify.com/album/3rwON1RikuIdaY40Di9CzY) | 2:40 |
 | 2 | [SERENATA](https://open.spotify.com/track/0Z7kEnuStWYC1MOOfAnM4u) | [ZARKO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf), [Aurora Pinto](https://open.spotify.com/artist/67IzblEppf2J60LZAviG9B) | [SIMBIOSE](https://open.spotify.com/album/3qslggfh46RL2JGy8p1kHg) | 2:56 |
 | 3 | [Já Não Saio](https://open.spotify.com/track/082OgsZCbOvptVV5p5t6fV) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Já Não Saio](https://open.spotify.com/album/4iqIaovHEWSGNWtfRmRVEd) | 3:21 |
 | 4 | [Carta de Despedida](https://open.spotify.com/track/0HEWSiwrNCjYHEVRakHMPM) | [Descendentes](https://open.spotify.com/artist/5DpVZE4NH0yveH86S2gcjh) | [Carta de Despedida](https://open.spotify.com/album/07alfjhg3pejQxssBb6AYi) | 2:51 |

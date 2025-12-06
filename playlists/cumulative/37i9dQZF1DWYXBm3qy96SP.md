@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover:Thomas Raggi
 
-1,769 songs - 4 day 6 hr 17 min
+1,770 songs - 4 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [Get Me Now](https://open.spotify.com/track/6OetoR6CAMTaHUdp6HQRNz) | [Every Single Day](https://open.spotify.com/artist/3tom6Rd7yUEki2wWIADtfJ) | [저글러스 OST Part.2](https://open.spotify.com/album/2Xs2EldzaW5LVgRe1sr06n) | 3:28 | 2024-01-18 | 2024-01-20 |
 | [Get Me Now](https://open.spotify.com/track/7yH7g4maEXp3dMYQYxgPXN) | [Every Single Day](https://open.spotify.com/artist/3tom6Rd7yUEki2wWIADtfJ) | [25th Anniversary Theme Songs Collection](https://open.spotify.com/album/7z2wFzBb2JNHRjTC2eGhRu) | 3:30 | 2024-01-18 | 2024-01-26 |
 | [GET NAUGHTY !](https://open.spotify.com/track/1z5GBU5eT0LxyBFAcaigHG) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [GET NAUGHTY !](https://open.spotify.com/album/3oeK4C4V2CjcpBHvIXTUQz) | 2:29 | 2023-11-30 | 2023-12-08 |
+| [Get This](https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Get This](https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH) | 3:19 | 2025-12-05 |  |
 | [Get Up Kid](https://open.spotify.com/track/6HQpMGnMQ1mVbTv0WA0u7r) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Get Up Kid](https://open.spotify.com/album/2R7PVrfhfVcGPTXI8nDVGL) | 2:58 | 2023-07-13 | 2023-07-21 |
 | [GETCHA! \(with Nic Cester, Jet & Chad Smith\) \- prod\. Tom Morello](https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk) | [Thomas Raggi](https://open.spotify.com/artist/7h78e3zJw6pDP7JzBqQUsN), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP), [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [MASQUERADE](https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo) | 3:02 | 2025-12-05 |  |
 | [Gethsemane](https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Gethsemane](https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A) | 10:51 | 2025-03-06 | 2025-05-02 |
@@ -1530,7 +1531,7 @@
 | [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 | 2023-06-22 | 2024-05-03 |
 | [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-04-14 | 2023-06-23 |
 | [The Thief](https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [People Who Aren’t There Anymore](https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM) | 3:21 | 2024-01-25 | 2024-02-02 |
-| [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [](https://open.spotify.com/album/null) | 3:22 | 2025-12-05 |  |
+| [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-05 |  |
 | [The Trench Coat Museum](https://open.spotify.com/track/784HPjRj1dFr1XfdEnJfI0) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Trench Coat Museum](https://open.spotify.com/album/08m3R76Yfe2weYDQ4sMmtG) | 8:11 | 2023-07-13 | 2023-07-21 |
 | [The Void](https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv) | 3:40 | 2023-04-20 | 2023-05-26 |
 | [The Weather](https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [The Weather](https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9) | 2:51 | 2025-07-10 | 2025-10-17 |
@@ -1652,7 +1653,7 @@
 | [wasted.](https://open.spotify.com/track/6IaWNJ6qOWlGeHBiiTtsv7) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ) | [wasted.](https://open.spotify.com/album/30XsDPphme5KwIyvzx9jys) | 3:19 | 2023-03-23 | 2023-03-31 |
 | [Wasteland](https://open.spotify.com/track/7qiMle24h8ZpMlM1MJz6bE) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Wasteland](https://open.spotify.com/album/4JcEWdNgAifwRcjqLpTY5o) | 2:53 | 2023-09-21 | 2023-09-29 |
 | [Wasterpiece](https://open.spotify.com/track/0SxY0AzOnS96W8qAvD2dAc) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Wasterpiece](https://open.spotify.com/album/1OgkglNXgSMZsMzSlDjOAg) | 3:11 | 2023-10-26 | 2023-11-10 |
-| [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 | 2025-07-17 |  |
+| [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 | 2025-07-17 | 2025-12-06 |
 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 | 2024-06-21 | 2024-09-17 |
 | [Watching Over You](https://open.spotify.com/track/2Aa40bMIuz3gIrd35mtopM) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Watching Over You](https://open.spotify.com/album/75gQW331p6jeddVDLChQ7o) | 3:14 | 2023-08-03 | 2023-08-18 |
 | [Watching The Credits](https://open.spotify.com/track/71qgKwa2bSdb2gB6Qob5qT) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/4wcu9s9C12dBnYAvpeK9QY) | 3:15 | 2023-03-30 | 2023-04-07 |

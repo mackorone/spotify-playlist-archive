@@ -4,7 +4,7 @@
 
 > This is Raveena\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 48 min
+66 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Rise](https://open.spotify.com/track/0ngdWWyCMCeCkMQNwUiN9o) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 5:34 | 2024-06-17 |  |
 | [Rise](https://open.spotify.com/track/7KqAcGYfCl2LehZXodacmu) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 5:34 | 2025-03-13 | 2025-08-06 |
 | [Rush](https://open.spotify.com/track/3XE2o2cDDT16Oq2fcM4sOe) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:05 | 2023-05-02 |  |
+| [Salt Water](https://open.spotify.com/track/4cf0fmpBq8kGEC8ccQHD1O) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:36 | 2025-12-06 |  |
 | [Seagirl](https://open.spotify.com/track/0FO4lzbW7ufcYSc1iHune9) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 3:22 | 2023-06-10 |  |
 | [Seagirl](https://open.spotify.com/track/7ssj7z5AP6V5O6Ooyeni60) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Space Heavy](https://open.spotify.com/album/36tUlc8fGxaUTv4cLmC9UJ) | 3:22 | 2023-11-10 | 2024-08-22 |
 | [Searching For Yourself \(feat\. Raveena\)](https://open.spotify.com/track/6m07gYVINo4QNYowLB3hUW) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:14 | 2023-08-27 |  |
@@ -62,7 +63,7 @@
 | [Starflower](https://open.spotify.com/track/4gQRvISGFcf9zKowPzd7M6) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 2:37 | 2023-05-02 |  |
 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 | 2023-05-02 |  |
 | [Stone \(Reprise\)](https://open.spotify.com/track/7y8iLmxJCdvy43daCDo1YM) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 0:58 | 2024-07-29 | 2024-10-05 |
-| [Stronger](https://open.spotify.com/track/7qKWAtneIWuObMgaj57yvx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:11 | 2023-05-02 |  |
+| [Stronger](https://open.spotify.com/track/7qKWAtneIWuObMgaj57yvx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:11 | 2023-05-02 | 2025-12-06 |
 | [Sun Don't Leave Me](https://open.spotify.com/track/7jwTfYyL6YFp0IUMUoHx5m) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sun Don't Leave Me](https://open.spotify.com/album/0ETZgZqH23NT9Y8tstL8B8) | 3:26 | 2025-02-16 | 2025-04-26 |
 | [Sun Don't Leave Me](https://open.spotify.com/track/6z5G57zzUs6ZJOXERIBabt) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 3:28 | 2025-04-26 |  |
 | [Sweet Time](https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sweet Time](https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h) | 4:11 | 2023-05-02 |  |

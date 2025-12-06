@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 61918,
+  "num_followers": 61930,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-10-28 15:00:03",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
+        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
+      },
+      "artists": [
+        {
+          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
+        }
+      ],
+      "duration_ms": 291026,
+      "name": "\u4eca\u5bb5\u6708\u306e\u9928\u306b\u3066",
+      "url": "https://open.spotify.com/track/3TSqHmKB8KREL3KUIbzbVF"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 EVIL NUM+\u300cRinging evil phone\u300d",
         "url": "https://open.spotify.com/album/0dd0yMYC6Kx15SETHvgkQo"
       },
@@ -1147,6 +1163,22 @@
       "duration_ms": 224546,
       "name": "Artistic Partisan",
       "url": "https://open.spotify.com/track/1vtgrIX32P8co81ow0gBd8"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba UNDEAD",
+        "url": "https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR"
+      },
+      "artists": [
+        {
+          "name": "\u6714\u9593\u96f6(CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/3SlO73GGvq5EZVngxosiYS"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Bloody Moon Vampire",
+      "url": "https://open.spotify.com/track/3ZFGKbJOhkT07Mfm2Zpv8e"
     },
     {
       "added_at": "2025-10-28 15:00:03",
@@ -1483,38 +1515,6 @@
       "duration_ms": 294266,
       "name": "Birthday of Music!",
       "url": "https://open.spotify.com/track/0TcBOfm7HGz9LR8sQdNCgc"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Knights",
-        "url": "https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP"
-      },
-      "artists": [
-        {
-          "name": "\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
-          "url": "https://open.spotify.com/artist/6OURI3uza8OUxggJF9wish"
-        }
-      ],
-      "duration_ms": 283813,
-      "name": "KISS YOURSELF",
-      "url": "https://open.spotify.com/track/0szrP9bl0cIs7Pz73qxJyP"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba MaM (2018 Ver.)",
-        "url": "https://open.spotify.com/album/00oCdL1ba8Esx3Rx21uzec"
-      },
-      "artists": [
-        {
-          "name": "MaM/\u4e09\u6bdb\u7e1e\u6591(CV.\u9ce5\u6d77\u6d69\u8f14)",
-          "url": "https://open.spotify.com/artist/6uEoSIAMWYdGObbvqfI9nd"
-        }
-      ],
-      "duration_ms": 262453,
-      "name": "Blooming World",
-      "url": "https://open.spotify.com/track/2zVq6bOrdoPQpcUiQShAiv"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

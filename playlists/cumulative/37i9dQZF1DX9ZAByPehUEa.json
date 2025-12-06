@@ -3417,6 +3417,28 @@
     },
     {
       "album": {
+        "name": "Drop It Low",
+        "url": "https://open.spotify.com/album/2nFLl4r4OmaRbrOjHlr4PP"
+      },
+      "artists": [
+        {
+          "name": "Arpy Brown",
+          "url": "https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V"
+        },
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250946,
+      "name": "Drop It Low",
+      "url": "https://open.spotify.com/track/6MMMI18jP88d2tcNl6stEt"
+    },
+    {
+      "album": {
         "name": "Drop Me a Line",
         "url": "https://open.spotify.com/album/3y1QAT5rz4z3I2r7A1Pybl"
       },
@@ -13354,7 +13376,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 267692,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/7hk2GRpkZylT42utek5fcU"

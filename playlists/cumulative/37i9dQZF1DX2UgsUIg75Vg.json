@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: Odeal",
+  "description": "Chill r&b. Cover: Karri",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -2658,7 +2658,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 199614,
       "name": "Below Zero",
       "url": "https://open.spotify.com/track/4uMoTqNdp9bfsXzAkPLtuj"
@@ -5458,6 +5458,24 @@
       "duration_ms": 150000,
       "name": "Crutch on Me",
       "url": "https://open.spotify.com/track/4z5YYKyexnNgnTF29GZSDj"
+    },
+    {
+      "album": {
+        "name": "Cry Against The Wind",
+        "url": "https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260240,
+      "name": "Cry Against The Wind",
+      "url": "https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV"
     },
     {
       "album": {
@@ -12837,6 +12855,28 @@
     },
     {
       "album": {
+        "name": "SLIDER II",
+        "url": "https://open.spotify.com/album/7EuLS6i7d3LU7eFxnbz2or"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249937,
+      "name": "is this love",
+      "url": "https://open.spotify.com/track/4qAp1newwblIcqcEBXbilL"
+    },
+    {
+      "album": {
         "name": "Is This Love?",
         "url": "https://open.spotify.com/album/69BacA7EcUTy0yOIEsYO3M"
       },
@@ -17114,7 +17154,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 279746,
       "name": "NARCISSIST?",
       "url": "https://open.spotify.com/track/1MwXXI0buiiwEsZ9d6RBZ9"
@@ -20548,6 +20588,24 @@
       "duration_ms": 131562,
       "name": "Remind You",
       "url": "https://open.spotify.com/track/23DKGdFZaYR32epRm5RQSJ"
+    },
+    {
+      "album": {
+        "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
+        "url": "https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142773,
+      "name": "RENT FREE",
+      "url": "https://open.spotify.com/track/4p8QswfuGbnvrxXuflhxZd"
     },
     {
       "album": {
@@ -26918,7 +26976,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 166133,
       "name": "UR MOTHER'S SON",
       "url": "https://open.spotify.com/track/3OvJS1ZX0QKlUZGwLUZVmz"

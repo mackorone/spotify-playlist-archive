@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,661 likes - 72 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,677 likes - 72 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kindred](https://open.spotify.com/track/1Lgp86lSj6NxeLHnr6VjXS) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K), [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Kindred](https://open.spotify.com/album/5yKSMJl7bl11ceSiMljxlC) | 2:17 |
-| 2 | [Vivaldi Variation \(meno mosso\)](https://open.spotify.com/track/1L7y9wtq9PzlY42qBQCNYu) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo II](https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE) | 2:32 |
+| 1 | [Vivaldi Variation \(meno mosso\)](https://open.spotify.com/track/1L7y9wtq9PzlY42qBQCNYu) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo II](https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE) | 2:32 |
+| 2 | [Kindred](https://open.spotify.com/track/1Lgp86lSj6NxeLHnr6VjXS) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K), [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Kindred](https://open.spotify.com/album/5yKSMJl7bl11ceSiMljxlC) | 2:17 |
 | 3 | [A Lifetime Rolls By \- annasara Rework](https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu) | [BPMoore](https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP), [annasara](https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ) | [A Lifetime Rolls By \(annasara Rework\)](https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo) | 2:56 |
 | 4 | [Dragon](https://open.spotify.com/track/28uiAcWusO4hqZneUFleyI) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Dragon](https://open.spotify.com/album/3fKmxalDLrKvgZeLITSnke) | 1:57 |
 | 5 | [Étude No\. 8: Through the Window \(C.B\. Rework\)](https://open.spotify.com/track/7hx4S1uSWXIs1eA84Ae9fy) | [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke), [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ) | [Étude No\. 8: Through the Window \(C.B\. Rework\)](https://open.spotify.com/album/6vFC1wTArDQF6MQJke7cEH) | 4:49 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 67 | [Islands](https://open.spotify.com/track/4KSdwXraUt7fy4gjbnDC7G) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Islands](https://open.spotify.com/album/4KxG2lk8yqgOaFiMEDGZVd) | 2:21 |
 | 68 | [EGUZKIA GALDU](https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [EGUZKIA GALDU](https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv) | 2:41 |
 | 69 | [Calm Water](https://open.spotify.com/track/3VHj17DOjq1Yf89SCPK0Nj) | [Elise Bordeaux](https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW) | [Calm Water](https://open.spotify.com/album/3slPGMMjH6yTnbbJ0yYv8l) | 4:20 |
-| 70 | [Perceptions](https://open.spotify.com/track/1TiUzgCfUD7oGutGByCmQr) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6GqKU68AVFxcWdVf1DN53G) | 2:52 |
+| 70 | [Procyon](https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Procyon](https://open.spotify.com/album/3rJky4N4dLDxv6CkB1zC4X) | 3:06 |
 | 71 | [Composite 03](https://open.spotify.com/track/33s1LqCz2TSaiSpcqdffu5) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Josh Hooke](https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [Composites](https://open.spotify.com/album/1GgxB4FcIhKrnrbG5qfVrU) | 3:43 |
-| 72 | [Procyon](https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Procyon](https://open.spotify.com/album/3rJky4N4dLDxv6CkB1zC4X) | 3:06 |
+| 72 | [Perceptions](https://open.spotify.com/track/1TiUzgCfUD7oGutGByCmQr) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6GqKU68AVFxcWdVf1DN53G) | 2:52 |
 
 Snapshot ID: `AAAAAKQuDEMHqhg9aA6g62e3OvpyRYKV`

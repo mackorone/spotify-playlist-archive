@@ -4,7 +4,7 @@
 
 > Conheça as novas vozes da música sertaneja! Foto: Matheus Vargas
 
-354 songs - 16 hr 55 min
+355 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Da Boca Pra Fora](https://open.spotify.com/track/6N9jEV2oY4i7FTRsC9GFNw) | [Jennifer e Stephany](https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP) | [Da Boca Pra Fora](https://open.spotify.com/album/6HnNWhAj8UtVGeuldwh9qm) | 3:21 | 2025-09-29 |  |
 | [Da Porta Pra Cama](https://open.spotify.com/track/0YWBUkM4NZfBK5bg556qGB) | [Kelvin e Kauan](https://open.spotify.com/artist/6ROKJ8cE6Y5IkqvKLSiWM1), [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Da Porta Pra Cama](https://open.spotify.com/album/4Dkah7tqcn2crk6ErhynfY) | 2:45 | 2024-12-06 | 2025-11-28 |
 | [Da Água pra Nada \- Ao Vivo](https://open.spotify.com/track/4Wj6n9e30dla0x02NT0WSN) | [Felipe & Ferrari](https://open.spotify.com/artist/06U3X2A3KTTkU7lnb2jbaj), [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju) | [Da Água pra Nada \(Ao Vivo\)](https://open.spotify.com/album/2PPhq7ze3um4lBdwMshF3c) | 2:35 | 2025-06-13 | 2025-07-12 |
+| [De São Paulo pra Goiás \- Ao Vivo](https://open.spotify.com/track/7brmhdHVul2MddNLraIqal) | [Thallys e Thiago](https://open.spotify.com/artist/0UeKlFw6vkDEQ9pSqUaoPG) | [De São Paulo pra Goiás \(Ao Vivo\)](https://open.spotify.com/album/52hMW6q9KXlAwaz8nVw1AH) | 3:08 | 2025-12-05 |  |
 | [Dedo Podre \- Ao Vivo](https://open.spotify.com/track/0cyllrwXTzj7AWfxIfNS1G) | [Buteco dos Cinco](https://open.spotify.com/artist/0eCd6SpC5FeQlBnQn8peU1), [Netto & Henrique](https://open.spotify.com/artist/7a6OmakIInI0Q0VjbYCASe) | [Dedo Podre \(Ao Vivo\)](https://open.spotify.com/album/3WC4K7hP80HFe7YhnwuRf1) | 2:52 | 2024-10-04 | 2025-03-21 |
 | [Deixa Comigo \- Ao Vivo](https://open.spotify.com/track/0cRJu8sb2Wtx7jaElJpGXd) | [Thiago & Graciano](https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD) | [Ao Vivo em Campo Grande](https://open.spotify.com/album/1LFp8sGCyinS0DuCCxW5vo) | 2:05 | 2025-11-28 |  |
 | [Deixa Ela Falar \- Ao Vivo](https://open.spotify.com/track/2X6wELEYoNbrQgfeEZ2zo7) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma), [Workshow](https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ) | [Deixa Ela Falar \(Ao Vivo\)](https://open.spotify.com/album/0J0Ry1RqOIi3da5QRsduHB) | 2:40 | 2024-06-28 | 2024-08-24 |

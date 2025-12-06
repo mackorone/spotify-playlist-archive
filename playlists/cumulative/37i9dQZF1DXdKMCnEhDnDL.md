@@ -4,7 +4,7 @@
 
 > De beste Nederlandse liedjes\. Cover: Tino Martin & Re\-Play
 
-443 songs - 22 hr 37 min
+444 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc) | 3:27 | 2024-07-18 | 2025-01-24 |
 | [Laat Mij 'M Zijn](https://open.spotify.com/track/5QVaVjxwbu9G2qVqDXUjcJ) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Meesterwerk](https://open.spotify.com/album/6tOUUlBUw8hSyZWnvzu5im) | 2:51 | 2023-09-14 | 2024-03-20 |
 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2023-02-24 | 2024-11-13 |
+| [Later is morgen](https://open.spotify.com/track/378mjBshMbo50ekhtSKRPH) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Later is morgen](https://open.spotify.com/album/1vLp7a244zr0vtKgYmwDsp) | 3:29 | 2025-12-05 |  |
 | [Layla](https://open.spotify.com/track/6FMSr8c96TqAORZ2HD9X0R) | [Artidox](https://open.spotify.com/artist/4WWh35kZbEtVmBQRT3khnE), [stanasx](https://open.spotify.com/artist/7dtn3jnlYVynQjwtdqtno7), [keremrxd](https://open.spotify.com/artist/7wsx4sDyMTp2HyXw50iJGV) | [Layla](https://open.spotify.com/album/53xBYPf2oUgNsOlw56PdqZ) | 2:45 | 2024-02-02 | 2024-04-19 |
 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-05-15 | 2024-12-13 |
 | [Layla](https://open.spotify.com/track/6w6pCi9HrZX8P4yee6Lli9) | [MiracVR](https://open.spotify.com/artist/057SJVTg46DEbNRl83KBeh), [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI) | [Layla](https://open.spotify.com/album/1MDzGxEcn8e2JEE5OAJtiu) | 2:43 | 2023-11-10 | 2023-11-18 |
@@ -316,7 +317,7 @@
 | [Papa Mama](https://open.spotify.com/track/2hNXxcymoCnK2BCMjeN9wX) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Papa Mama](https://open.spotify.com/album/2NM9yRHI77ajeqjBEZNiob) | 2:42 | 2023-02-24 | 2024-02-14 |
 | [Paracetamollen](https://open.spotify.com/track/0bSgNta3s0kIZkxuBI9PxR) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4a8kyvzqHaLx3UaasLOctt) | 2:51 | 2023-02-24 | 2025-02-28 |
 | [Paranoia](https://open.spotify.com/track/4h272DTgerbGSLboHdYefP) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Paranoia](https://open.spotify.com/album/1R3bFpMH3ySvkMArLrwFox) | 3:14 | 2024-06-27 | 2024-07-27 |
-| [Paraplu](https://open.spotify.com/track/1Mgx2NK4bNC1ulidw7JATx) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Paraplu](https://open.spotify.com/album/7BX3w6BBAz9Q0qlTuyHmtJ) | 3:22 | 2025-08-25 |  |
+| [Paraplu](https://open.spotify.com/track/1Mgx2NK4bNC1ulidw7JATx) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Paraplu](https://open.spotify.com/album/7BX3w6BBAz9Q0qlTuyHmtJ) | 3:22 | 2025-08-25 | 2025-12-06 |
 | [Parijs](https://open.spotify.com/track/3EK7adZKVgEB8NGT5zn4Ti) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Best Of The 10s: Party Hits](https://open.spotify.com/album/5P65bxTP4Bq4f6EBhsuSMU) | 3:13 | 2023-02-24 | 2023-12-22 |
 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 | 2024-03-13 | 2025-01-24 |
 | [Pauze](https://open.spotify.com/track/6AWDTrLLcEZDFn0qHKwzMW) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Pauze](https://open.spotify.com/album/74NVfvXROXqctvQhXYpLdI) | 2:32 | 2025-11-20 |  |

@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: KILIMAJARO
+> The home for alternative electronic music\. Cover: Daphni
 
-1,350 songs - 3 day 19 hr 56 min
+1,354 songs - 3 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,6 +610,7 @@
 | [IN YOUR BLOOD](https://open.spotify.com/track/2evPSkNE3z0unewvQVPoI8) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf) | [IN YOUR BLOOD](https://open.spotify.com/album/3btxaWRqZYDZxB6QtSBDnN) | 3:44 | 2023-03-08 | 2023-03-09 |
 | [In Your Eyes](https://open.spotify.com/track/4p8gYCr5djv2l74YOUgU5O) | [Blimp](https://open.spotify.com/artist/3cMgbjmQ7G6UjuJ7nS0yzx) | [In Your Eyes](https://open.spotify.com/album/3XAsjcZFl1B2xMNao6WJLD) | 4:28 | 2023-02-10 | 2023-08-25 |
 | [In\-between and Overseas](https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:25 | 2022-02-04 | 2022-05-06 |
+| [IN/ESSENCE](https://open.spotify.com/track/4dpwYuqzEY1JORYmGtooBI) | [Just Geo](https://open.spotify.com/artist/085BrKDuP4Jht2a6wwdLE5) | [IN/HARMONY](https://open.spotify.com/album/3eiy7sPhgWqCul3MWJKOph) | 2:16 | 2025-12-05 |  |
 | [in2minds](https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [in2minds](https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY) | 3:21 | 2024-09-19 | 2025-03-14 |
 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 | 2024-03-08 | 2024-08-30 |
 | [Incomplete Dreaming](https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Incomplete Dreaming](https://open.spotify.com/album/6QsZfxJ3RL8oUV32vlJ2n7) | 4:12 | 2024-07-26 | 2025-01-24 |
@@ -879,6 +880,7 @@
 | [Otomo](https://open.spotify.com/track/3VRemRqHZi7qiWzJfc684f) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Otomo](https://open.spotify.com/album/2zSMwsGd7r6fkJBoXkv3lQ) | 6:11 | 2021-11-24\* | 2022-01-08 |
 | [Our Brain is a Museum](https://open.spotify.com/track/5ZlqiOeQpgG7GUXgiI91wB) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Our Brain is a Museum](https://open.spotify.com/album/3bt2qRupHS9gUkhNVDg0ZU) | 2:20 | 2025-03-07 | 2025-08-29 |
 | [Outside](https://open.spotify.com/track/1PiLGoIdjH3qKNXphnxuVc) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv), [Tesfa Williams](https://open.spotify.com/artist/11nSfSXq7PfcDhW7gT95d6), [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20) | [Outside](https://open.spotify.com/album/5NIsbRVw7tEOYgamDo4QYV) | 4:02 | 2025-05-15 | 2025-10-10 |
+| [Ouuu](https://open.spotify.com/track/1SmNvAcTXvn6ddh6wvDnvY) | [Ghoulish](https://open.spotify.com/artist/4m1NhStbUaIZkgfbnnIQeK) | [Ouuu](https://open.spotify.com/album/1OdV7ZvnAA1NPIAb24z7Pn) | 3:35 | 2025-12-05 |  |
 | [Over](https://open.spotify.com/track/7j8ZIYTv5F5hIXY9IRIZnY) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [Over](https://open.spotify.com/album/4LdTjdQXW6E6Y1hrj9E5BS) | 3:28 | 2022-09-22 | 2023-03-03 |
 | [Oxygène \(Are You Alive?\) \[feat\. Clou\] \- Edit](https://open.spotify.com/track/04Cf6Fc3VFfk0r3x806E4u) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Oxygène \(Are You Alive?\) \[feat\. Clou\]](https://open.spotify.com/album/5HzOgRI9rnqNSpXOec0sBv) | 3:53 | 2023-05-18 | 2023-10-20 |
 | [Oxytoxin](https://open.spotify.com/track/6dAnLQly7pimsgewp5AUyX) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Oxytoxin](https://open.spotify.com/album/4B2VFLoUOpoFyiKo6DgMLI) | 4:28 | 2023-07-13 | 2023-11-17 |
@@ -921,6 +923,7 @@
 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 | 2023-08-04 | 2023-12-22 |
 | [Pliva](https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Pliva](https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh) | 4:04 | 2022-07-28 | 2022-09-16 |
 | [Pods](https://open.spotify.com/track/6lHH2Pf5R8IBuQtew5hWz8) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Pods](https://open.spotify.com/album/2yxxciiP7cj7fcuSx6WTwa) | 4:02 | 2022-05-19 | 2022-07-15 |
+| [Point Zero](https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Point Zero / Lift Me Up](https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7) | 3:11 | 2025-12-05 |  |
 | [Poison](https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:48 | 2022-09-29 | 2023-02-24 |
 | [Pollen](https://open.spotify.com/track/3SLLlwtC4vAyiaWhZ6U4pI) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Pollen](https://open.spotify.com/album/6xsuHwZZyZjzfc5GQ2QiB3) | 3:25 | 2025-05-06 | 2025-10-17 |
 | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/track/2xoeyiHgdFQtALq4bjwscy) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/album/5We5TEZ4yRugprf8QqcfmW) | 2:56 | 2022-08-19 | 2022-11-11 |
@@ -1199,6 +1202,7 @@
 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 | 2024-11-15 | 2025-02-21 |
 | [This Time](https://open.spotify.com/track/21KH3KOkTjqPM0lCoba0UC) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [This Time](https://open.spotify.com/album/20uKxxvwArcDBwXpZr7MlL) | 3:33 | 2021-11-26 | 2022-04-15 |
 | [Thousand Eyes](https://open.spotify.com/track/4LUPt50fnmLE7cppxatHZS) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Thousand Eyes](https://open.spotify.com/album/1r37pTndrgbZxF86mXbkMm) | 4:02 | 2025-11-07 |  |
+| [Three Dot](https://open.spotify.com/track/34j5OD6lAAO2LrwiMLTJXQ) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Three Dot](https://open.spotify.com/album/1fpDxLGsE3DyWw641lVaMH) | 3:42 | 2025-12-05 |  |
 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 | 2023-04-27 | 2023-09-15 |
 | [Time](https://open.spotify.com/track/5k5OO3omkVxszp63SkJL8t) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Time](https://open.spotify.com/album/4Y3TdEz3Syp6udQHO5wC37) | 3:02 | 2022-07-14 | 2022-09-30 |
 | [Time](https://open.spotify.com/track/0TM0ZhX3ue9P3vj26MHeVd) | [Jamie Hai](https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ) | [Time](https://open.spotify.com/album/0BSOgnavLMmMdUh1J6YdEa) | 3:23 | 2023-02-10 | 2023-05-19 |

@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: g0nny\(거니\)\)
 
-589 songs - 1 day 7 hr 43 min
+590 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Hate List \(Feat\. GIRIBOY\)](https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Emotional Train](https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59) | 3:08 | 2023-05-24 | 2023-10-17 |
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-28 | 2022-08-13 |
 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-09 | 2023-01-11 |
+| [Have I Asked You](https://open.spotify.com/track/6ntNYbDZwSmYiQAaqTYo01) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB) | [Cityboys Attitude](https://open.spotify.com/album/6Ocr3jf1Opxm12ZQchH0sq) | 3:32 | 2025-12-05 |  |
 | [Heart to heart](https://open.spotify.com/track/2OikEjMn13Na4ciQLamuQb) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Kim Young Geun](https://open.spotify.com/artist/2gYn9xPkHXRkKnVnzRc4RZ) | [Heart to heart](https://open.spotify.com/album/5gZJYpnMA0nogHoAV3MtfU) | 3:01 | 2025-09-18 |  |
 | [heartache](https://open.spotify.com/track/2W3eDfdnFboHHilObGYmJm) | [SO HYUN](https://open.spotify.com/artist/5VLiLdWwqGX5eyXqog2le1) | [heartache](https://open.spotify.com/album/3K83Uwok7tqoyzwxuxE2ug) | 2:44 | 2025-03-13 | 2025-06-21 |
 | [hellbound](https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [hellbound](https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo) | 3:07 | 2025-01-24 | 2025-05-21 |

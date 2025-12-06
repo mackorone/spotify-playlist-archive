@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: Stogie T",
+  "description": "Only the hottest South African rap. \nCover: Emtee",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 261482,
       "name": "Anomy",
       "url": "https://open.spotify.com/track/75fFZv3odz1eC8cwCpZBzD"
@@ -2418,6 +2418,28 @@
       "duration_ms": 230426,
       "name": "Believer",
       "url": "https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK"
+    },
+    {
+      "album": {
+        "name": "DIY 3 (Deluxe)",
+        "url": "https://open.spotify.com/album/5GTvPQuCEsIm4S6areeyOz"
+      },
+      "artists": [
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "BENITHINI NGAM'",
+      "url": "https://open.spotify.com/track/20J5QpNUHHumTHljwzmF2E"
     },
     {
       "album": {
@@ -4040,7 +4062,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 186953,
       "name": "Chop Freestyle",
       "url": "https://open.spotify.com/track/1iKSjEKuHJjTA6MmTaKCsA"
@@ -4374,7 +4396,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 150857,
       "name": "Confessions",
       "url": "https://open.spotify.com/track/2Mvyeydtq34gWUd51xAMgV"
@@ -5258,6 +5280,28 @@
       "duration_ms": 233550,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/5dH4VQKpBTtuq4JZL4joP4"
+    },
+    {
+      "album": {
+        "name": "Locked In, Lets Get Married?",
+        "url": "https://open.spotify.com/album/1DkSSJQUwQUQpH1CR9GMir"
+      },
+      "artists": [
+        {
+          "name": "Boy Nino",
+          "url": "https://open.spotify.com/artist/3jLue6lCMgZxRwmeviENqh"
+        },
+        {
+          "name": "Your Highness",
+          "url": "https://open.spotify.com/artist/6Cbs0xetz57bCUhG7wyCt7"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155513,
+      "name": "Drop Top Persona",
+      "url": "https://open.spotify.com/track/3yw3XtKrfckdMmQ0jUsG0y"
     },
     {
       "album": {
@@ -6611,6 +6655,36 @@
     },
     {
       "album": {
+        "name": "ANOMY",
+        "url": "https://open.spotify.com/album/6bvY3DZKjVySuw00B8yONl"
+      },
+      "artists": [
+        {
+          "name": "Stogie T",
+          "url": "https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Maggz",
+          "url": "https://open.spotify.com/artist/2xHKChcXy1Wkosd2wX3gPR"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401455,
+      "name": "Four Horsemen",
+      "url": "https://open.spotify.com/track/5DTaJmcXUnv65UyE9SgvX1"
+    },
+    {
+      "album": {
         "name": "Frank Lopez",
         "url": "https://open.spotify.com/album/0P9Wk1YUm0yvWvZX6xliDG"
       },
@@ -7470,7 +7544,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 165634,
       "name": "Go Getter",
       "url": "https://open.spotify.com/track/4X63AKHcEIV43wkcDke0GI"
@@ -11766,6 +11840,24 @@
       "duration_ms": 213617,
       "name": "MA",
       "url": "https://open.spotify.com/track/3NdV37jzx6noMQoQlxGuDx"
+    },
+    {
+      "album": {
+        "name": "Mabulala Amakhosi",
+        "url": "https://open.spotify.com/album/4sMsYEMw8Na5F0BlvBiKSq"
+      },
+      "artists": [
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168965,
+      "name": "Mabulala Amakhosi",
+      "url": "https://open.spotify.com/track/4SJh72AVSRZrVqbsYDM5Ez"
     },
     {
       "album": {

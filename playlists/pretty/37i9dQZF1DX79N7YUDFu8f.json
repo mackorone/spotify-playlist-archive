@@ -1,13 +1,77 @@
 {
   "description": "Lekker rustig aan doen op zaterdag met deze zachte popliedjes.",
-  "num_followers": 112998,
+  "num_followers": 112990,
   "original_name": "Easy On Saturday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFDo+MKp363X713JpyBafYh/QqXD",
+  "snapshot_id": "AAAAAOqjInCPdZA+By7Besn72/Iea2Qe",
   "tracks": [
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1Y5gS6FbHlySA7wgWytjKb"
+      },
+      "artists": [
+        {
+          "name": "Aure",
+          "url": "https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6"
+        }
+      ],
+      "duration_ms": 195792,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2ZW4J99gPkEHLEyUA86pL9"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
+        "name": "In Our Veins",
+        "url": "https://open.spotify.com/album/5FRHz9MPosdmWqUWdvPGLa"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9zanne",
+          "url": "https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3"
+        },
+        {
+          "name": "Superfuse",
+          "url": "https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f"
+        },
+        {
+          "name": "Uevo",
+          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
+        },
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        },
+        {
+          "name": "Prime8",
+          "url": "https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "In Our Veins",
+      "url": "https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ"
+    },
+    {
+      "added_at": "2025-11-13 23:00:26",
+      "album": {
+        "name": "Swords",
+        "url": "https://open.spotify.com/album/5bBvnFuL3lVetizlVozBuW"
+      },
+      "artists": [
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "duration_ms": 203300,
+      "name": "Swords",
+      "url": "https://open.spotify.com/track/75ASmXxDMQf6Ntzhq1e8vg"
+    },
     {
       "added_at": "2025-11-13 23:00:26",
       "album": {
@@ -151,70 +215,6 @@
       "duration_ms": 233265,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/43lGfxxVamKbqlAROUy8TN"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1Y5gS6FbHlySA7wgWytjKb"
-      },
-      "artists": [
-        {
-          "name": "Aure",
-          "url": "https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6"
-        }
-      ],
-      "duration_ms": 195792,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2ZW4J99gPkEHLEyUA86pL9"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
-        "name": "In Our Veins",
-        "url": "https://open.spotify.com/album/5FRHz9MPosdmWqUWdvPGLa"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9zanne",
-          "url": "https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3"
-        },
-        {
-          "name": "Superfuse",
-          "url": "https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f"
-        },
-        {
-          "name": "Uevo",
-          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
-        },
-        {
-          "name": "Thierry Ganz",
-          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
-        },
-        {
-          "name": "Prime8",
-          "url": "https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "In Our Veins",
-      "url": "https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ"
-    },
-    {
-      "added_at": "2025-11-13 23:00:26",
-      "album": {
-        "name": "Swords",
-        "url": "https://open.spotify.com/album/5bBvnFuL3lVetizlVozBuW"
-      },
-      "artists": [
-        {
-          "name": "Jack and the Weatherman",
-          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
-        }
-      ],
-      "duration_ms": 203300,
-      "name": "Swords",
-      "url": "https://open.spotify.com/track/75ASmXxDMQf6Ntzhq1e8vg"
     },
     {
       "added_at": "2025-11-13 23:00:26",
@@ -576,12 +576,12 @@
       },
       "artists": [
         {
-          "name": "RAPHA",
-          "url": "https://open.spotify.com/artist/17BfKBemmMGO5ZAK25wraW"
-        },
-        {
           "name": "Looping Sessions",
           "url": "https://open.spotify.com/artist/6oomHOCNWr4HxwPw9LVz47"
+        },
+        {
+          "name": "RAPHA",
+          "url": "https://open.spotify.com/artist/17BfKBemmMGO5ZAK25wraW"
         }
       ],
       "duration_ms": 220330,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Mocco Genius",
+  "description": "What is your love language? Say it in Swahili.  Cover: Jux",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -2555,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "MAJO / SEE BODY",
+        "url": "https://open.spotify.com/album/4ITZ8yzAWfUEbNjR4SYrpC"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "MAJO",
+      "url": "https://open.spotify.com/track/3iNaSkn53KpB0DM6MvC64r"
+    },
+    {
+      "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/3yPFOMzNH7EAJVDPZpyMsj"
       },
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 173617,
       "name": "Matatizo",
       "url": "https://open.spotify.com/track/7fAsQA1owdda1wyDRWe4GH"

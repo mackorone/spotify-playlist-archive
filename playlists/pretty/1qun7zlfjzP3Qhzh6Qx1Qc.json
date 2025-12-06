@@ -1,12 +1,12 @@
 {
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.",
-  "num_followers": 34298,
+  "num_followers": 34290,
   "original_name": "Country Smash Hits",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAANkhL2OuDgcejGKwYgO2vjeoKaqShp",
+  "snapshot_id": "AAANlno4/yzo5ibW7+de2zar4lI18cr+",
   "tracks": [
     {
       "added_at": "2025-11-07 18:45:48",
@@ -1899,6 +1899,74 @@
       "duration_ms": 177293,
       "name": "Two Step To Forget",
       "url": "https://open.spotify.com/track/0zWNBnhYlkkvM5f8yyUnFJ"
+    },
+    {
+      "added_at": "2025-12-05 18:01:54",
+      "album": {
+        "name": "Teenage Dirtbag",
+        "url": "https://open.spotify.com/album/5SjHWz3cAotoRW288uJQIv"
+      },
+      "artists": [
+        {
+          "name": "Brendan Walter",
+          "url": "https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat"
+        }
+      ],
+      "duration_ms": 227762,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/4syJa84yrb0E2NxJ6LTSDP"
+    },
+    {
+      "added_at": "2025-12-05 18:02:12",
+      "album": {
+        "name": "Rocky Mountain Low (feat. Koe Wetzel)",
+        "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Rocky Mountain Low - feat. Koe Wetzel",
+      "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
+    },
+    {
+      "added_at": "2025-12-05 18:04:26",
+      "album": {
+        "name": "Giving Her Away",
+        "url": "https://open.spotify.com/album/2pnoWZN6epQVXs2XREE8l4"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 213897,
+      "name": "Giving Her Away",
+      "url": "https://open.spotify.com/track/4RFHH3exrleUOwgyLbEFvJ"
+    },
+    {
+      "added_at": "2025-12-05 18:04:49",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/38ZC9zLGxyFNQR96ABazS5"
+      },
+      "artists": [
+        {
+          "name": "Levi Turner",
+          "url": "https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6"
+        }
+      ],
+      "duration_ms": 217620,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3jmr2o3tdbA8lWPtpCxCl5"
     }
   ],
   "unique_name": "Country Smash Hits",

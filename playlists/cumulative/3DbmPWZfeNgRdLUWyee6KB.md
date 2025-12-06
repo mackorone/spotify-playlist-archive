@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-261 songs - 15 hr 57 min
+262 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [With You](https://open.spotify.com/track/7LLHGsm4xICcdq84TIYvF4) | [TS Chris](https://open.spotify.com/artist/57Ui8J7CkhuIdZELypG3Vv) | [With You](https://open.spotify.com/album/0PKRfRbbVawBDRcjGKtJeH) | 3:35 | 2025-10-21 | 2025-11-29 |
 | [Wo wo wo wooo](https://open.spotify.com/track/1RfGQhhdSt8tdnAgy9qI6a) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Fragmento](https://open.spotify.com/album/4nhYrd1DdIpHKqWnwM18Ha) | 2:55 | 2025-11-25 |  |
 | [Yalla Harrek \(Remastered\)](https://open.spotify.com/track/7MInmuALtoO10dOUOzP6Fo) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Agnese Sielli](https://open.spotify.com/artist/0ooKJgxHk4AcUgB5GmIXsn), [Carlo Cossu](https://open.spotify.com/artist/6L8CiWpUGlQwWVS63LMiQE), [Pakhi Adhikari Kalipada](https://open.spotify.com/artist/7ozw5g9CS05d0lgbhPAmNv) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 4:53 | 2023-04-20 | 2025-11-29 |
+| [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 | 2025-12-05 |  |
 | [You're Leaving](https://open.spotify.com/track/3SsGRoRZ4nkumHu6aNwxZ2) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Andrea Pullone](https://open.spotify.com/artist/5qu2na5lSZrhmvL8OtvUks), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Giampaolo Scatozza](https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N) | [You're Leaving](https://open.spotify.com/album/4q1tPf6cWNrKRPAMKa70WD) | 3:47 | 2025-10-23 |  |
 | [Yours](https://open.spotify.com/track/0hsN42yyLbZgxUltepNIs9) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Yours](https://open.spotify.com/album/3cAZFsmpEEGhyS9IzsD99H) | 3:10 | 2025-11-26 |  |
 | [¡Sálvese quien pueda!](https://open.spotify.com/track/3N2kTdJIK0inDmclvAnXGk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [¡Sálvese quien pueda!](https://open.spotify.com/album/3ca7xs9oyiaoYsXWdBVN4G) | 3:38 | 2025-11-25 |  |

@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "MIT JEDER FASER",
+        "url": "https://open.spotify.com/album/29xGHjCuD2z60cdKW4Fkel"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180594,
+      "name": "BLEIB",
+      "url": "https://open.spotify.com/track/5vFZg9MRZdrVKaJrDy1gjE"
+    },
+    {
+      "album": {
         "name": "Augen tr\u00e4umen Herzen sehen",
         "url": "https://open.spotify.com/album/4b81tOq2S4nIFWkVpcQlXy"
       },
@@ -1671,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Kontraste",
+        "url": "https://open.spotify.com/album/3Gt8DxMev8l8M3Z6Tp4sLc"
+      },
+      "artists": [
+        {
+          "name": "LOUA",
+          "url": "https://open.spotify.com/artist/2eMgeKSX8NXvMfLyoBv0eK"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164516,
+      "name": "Kontraste",
+      "url": "https://open.spotify.com/track/4fBCUabbi7sbb80RYbyx6F"
+    },
+    {
+      "album": {
         "name": "Krass dass du noch da bist",
         "url": "https://open.spotify.com/album/4OPVu6L9hsmXUiWcTx1HyY"
       },
@@ -2545,42 +2581,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "LOUA",
-          "url": "https://open.spotify.com/artist/2eMgeKSX8NXvMfLyoBv0eK"
-        }
-      ],
-      "date_added": "2025-12-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4fBCUabbi7sbb80RYbyx6F"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
-        }
-      ],
-      "date_added": "2025-12-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/5vFZg9MRZdrVKaJrDy1gjE"
-    },
-    {
-      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh"
       },
@@ -2914,6 +2914,24 @@
       "duration_ms": 171918,
       "name": "was ich f\u00fchl",
       "url": "https://open.spotify.com/track/450Msk6LSW4yhRdtcedx03"
+    },
+    {
+      "album": {
+        "name": "Was immer du willst!",
+        "url": "https://open.spotify.com/album/7tC85wpSMHOmPmMkvJInv9"
+      },
+      "artists": [
+        {
+          "name": "Mo-Torres",
+          "url": "https://open.spotify.com/artist/0A8ObGbFDJOFc7SLwBqO3o"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Was immer du willst!",
+      "url": "https://open.spotify.com/track/185cvCZ59Gv7CYa23IBRTo"
     },
     {
       "album": {

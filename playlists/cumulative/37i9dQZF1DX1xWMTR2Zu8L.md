@@ -4,7 +4,7 @@
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-144 songs - 6 hr 45 min
+145 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Christmas Surprise](https://open.spotify.com/track/7yOgWVAYfNUcyiqD8aOmE4) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 2:32 | 2024-10-11 |  |
 | [Christmas with Zachary](https://open.spotify.com/track/4WH29YTfyDhLT1aRKG9qnq) | [Kurt Kuenne](https://open.spotify.com/artist/0xI1aYCkpcC6h8U5NqwUPt) | [Dear Zachary \(Original Motion Picture Score\)](https://open.spotify.com/album/1uc7eJA2LIAI4Dxewq7crx) | 1:37 | 2024-10-11 |  |
 | [Croissants In France](https://open.spotify.com/track/5Mkz30d4nPpwOXcHtbLktQ) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Love Actually \(Original Motion Picture Score\)](https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4) | 1:07 | 2024-10-11 |  |
+| [Dream Kitchen](https://open.spotify.com/track/0uSPdKjoeekLXlotj3pFWk) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7y1RwreSQAXU6e8MYLo6F9) | 1:35 | 2025-12-05 |  |
 | [Dreamsand Miracles](https://open.spotify.com/track/0ptDnye5g1UIwt6JYPPkKG) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Rise Of The Guardians](https://open.spotify.com/album/1PvEWLn47oTANDLuQW46Zu) | 2:20 | 2024-10-11 |  |
 | [Elsa and Anna \- From "Frozen"/Score](https://open.spotify.com/track/7sKChFvViJZ6FzQZwCuPqZ) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 2:43 | 2024-10-11 |  |
 | [End Credits](https://open.spotify.com/track/0XANx8GtPXzDjzQVqsudid) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 3:51 | 2024-10-11 |  |

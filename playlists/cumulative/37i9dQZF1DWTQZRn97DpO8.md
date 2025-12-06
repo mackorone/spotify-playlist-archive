@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯\. Photo : Iris Aeria
 
-477 songs - 23 hr 24 min
+477 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,6 @@
 | [toutes les fleurs](https://open.spotify.com/track/4105wlfhkrp2TfDJI6WdCB) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [les rêves sont dangereux](https://open.spotify.com/album/5nQ77Ms0SO65x0MASlVDBd) | 1:40 | 2024-12-12 | 2025-01-31 |
 | [Toxic girl](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:33 | 2025-09-25 |  |
 | [Toxique](https://open.spotify.com/track/6enp8sO7sF6vtFIWKnp1w7) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [RE](https://open.spotify.com/album/046Gl25POXsyC1oVLFZofO) | 2:44 | 2025-10-02 |  |
-| [Track 1](https://open.spotify.com/track/0GjJBfMN2rTHz3deKa7SAR) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [Tranquille](https://open.spotify.com/track/5hUn3qV8PbmxIsMjiCjRpF) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Tranquille](https://open.spotify.com/album/0R4Wx0ucuQHUNkXPmV7eZG) | 1:56 | 2024-01-18 | 2024-03-01 |
 | [Trigger](https://open.spotify.com/track/4PSQLIAhgfsPMOFOM9VoiT) | [Djeneva](https://open.spotify.com/artist/74Bk9HuRAbkzv775XaTS2E) | [Trigger](https://open.spotify.com/album/0N3RhNmBlxnBF5YxWy26Hu) | 2:16 | 2025-11-20 |  |
 | [Trop Mimi](https://open.spotify.com/track/4TFzHSY1EQ7pbc1cqFndW0) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Trop Mimi](https://open.spotify.com/album/68RNLV2N3LZPgWJVk2CF6c) | 2:27 | 2024-04-25 | 2024-06-28 |
@@ -476,6 +475,7 @@
 | [Vide](https://open.spotify.com/track/14fGCCjD2CDIcS2DAIyBCj) | [Tizzy Miller](https://open.spotify.com/artist/4iTNjeINIl3PGMz8HI6Mdj) | [Vide](https://open.spotify.com/album/24IP5rWcn1SY1xhkEHBnOc) | 2:01 | 2024-06-27 | 2024-08-16 |
 | [Violence](https://open.spotify.com/track/5B6u3uSnl7aBwOrwpLxsMJ) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Jusqu'à l'aube](https://open.spotify.com/album/3cuZcv4o0IuNuxPBiq0axn) | 3:08 | 2023-09-28 | 2024-02-02 |
 | [Violence & Poésie](https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn) | [Violence & Poésie](https://open.spotify.com/album/1ouOyVJEBm4gRkiWuZsbtv) | 3:25 | 2024-01-25 | 2024-03-29 |
+| [WE CAN](https://open.spotify.com/track/0GjJBfMN2rTHz3deKa7SAR) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [PLC](https://open.spotify.com/album/43ekkvxknlKfTwE019bzLb) | 2:40 | 2025-12-04 |  |
 | [WHAT U WANT](https://open.spotify.com/track/3oq7NseaUAz0ek6gBRBLZp) | [Skuna](https://open.spotify.com/artist/0Su00YAdlLw2Aetn7RZLJj), [Fencyy](https://open.spotify.com/artist/4YjYNFa9MFvUthyS1uC5Jw) | [DBHZ](https://open.spotify.com/album/0KZvqSlLHthn3KroPEtob4) | 2:15 | 2024-11-07 | 2025-01-10 |
 | [Who's Bad](https://open.spotify.com/track/7bXXKJHrBtiXx8tSf1OHUm) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin : Prequel](https://open.spotify.com/album/2Ech0WTe6WsoYZ7AJbGI2z) | 2:47 | 2024-11-28 | 2025-03-21 |
 | [Yoncé](https://open.spotify.com/track/14kKddVV5x6y9sipuT39EW) | [Lafleyne](https://open.spotify.com/artist/2HtWjfmbuI9kqQqMfLkfvh) | [GOLD DIGGER](https://open.spotify.com/album/6rWakywtTCeU6sOCu0NmNI) | 3:05 | 2024-05-02 | 2024-09-13 |

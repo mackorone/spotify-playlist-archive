@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Daria ze Śląska
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,397 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,402 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Plastelina](https://open.spotify.com/track/4RBBY31Wiola233RK0hnDu) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Plastelina](https://open.spotify.com/album/0c0Oqs1JYnqh55cyHnmv24) | 5:11 |
-| 2 | [Pokoje](https://open.spotify.com/track/1MECqA3gqjqJh9HFTynhKx) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Pokoje](https://open.spotify.com/album/3MBFKv4w1n4e7INgy7v2N6) | 4:22 |
+| 2 | [Pokoje Ta Druga na Bis](https://open.spotify.com/track/1MECqA3gqjqJh9HFTynhKx) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Pokoje Ta Druga na Bis](https://open.spotify.com/album/3MBFKv4w1n4e7INgy7v2N6) | 4:22 |
 | 3 | [Kochać inaczej \(rework\)](https://open.spotify.com/track/6HgZt9DzNOitgm4WJ4z1Fc) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [Zespół Pieśni i Tańca Śląsk](https://open.spotify.com/artist/73L5GZ2KVgguSth6DnNNpU) | [Kochać inaczej \(rework\)](https://open.spotify.com/album/6ETpfADeb7xxfKslmASavg) | 2:59 |
 | 4 | [Odpowiedni moment](https://open.spotify.com/track/4WnJ8tdQhBWGDEHKm6y40h) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Odpowiedni moment](https://open.spotify.com/album/7lgIBV8MkGZg6u6twshy0e) | 3:14 |
 | 5 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |

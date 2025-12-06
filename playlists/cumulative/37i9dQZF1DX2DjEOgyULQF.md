@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-302 songs - 14 hr 31 min
+303 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Natura Deambulatio](https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy) | [Floating Portal](https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X) | [Natura Deambulatio](https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2) | 3:30 | 2024-04-01 |  |
 | [Natural Healing](https://open.spotify.com/track/4xqHr91EEXm4qhnEeju02d) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Natural Healing](https://open.spotify.com/album/724HzfOLKOY1i1vx0f6ziy) | 3:33 | 2023-04-28 | 2024-11-05 |
 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 | 2023-04-28 | 2025-05-22 |
-| [Nature Spirit](https://open.spotify.com/track/6h0IOgeKJufk8JeSlX5Q4I) | [Inner Calmness](https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT) | [Nature Spirit](https://open.spotify.com/album/4XQd6piWXsg8bOagxKxJYV) | 2:27 | 2023-05-05 |  |
+| [Nature Spirit](https://open.spotify.com/track/6h0IOgeKJufk8JeSlX5Q4I) | [Inner Calmness](https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT) | [Nature Spirit](https://open.spotify.com/album/4XQd6piWXsg8bOagxKxJYV) | 2:27 | 2023-05-05 | 2025-12-06 |
 | [Nature Surrounded](https://open.spotify.com/track/3WRuZ3OxgT37nzDxS1feyr) | [Nordic Atmos](https://open.spotify.com/artist/3MfbMpKaXMdMo8DZkvobfn) | [Galactic Relaxation](https://open.spotify.com/album/7cGfQ8xodLAuY07fwp2YMy) | 3:06 | 2023-04-28 | 2024-06-28 |
 | [Nature's Bed](https://open.spotify.com/track/05CwrrO3RBQ8yQ0D6jxgA2) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Nature's Bed](https://open.spotify.com/album/6VBCk80s3CdZjsDbX1cTFi) | 3:11 | 2023-11-24 | 2025-05-22 |
 | [Nature's Canvas](https://open.spotify.com/track/3gn4qQjNar63wHcK5DOJYU) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Nature's Canvas](https://open.spotify.com/album/58HOen5kFIqFH0AgNn8qfs) | 2:42 | 2023-04-28 |  |
@@ -271,6 +271,7 @@
 | [The Danish Waterfall](https://open.spotify.com/track/3Himlq10H1TMaLquCj26HS) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [The Danish Waterfall](https://open.spotify.com/album/5gtlJrqr9VuRQbPPRpcDXu) | 3:00 | 2023-04-28 | 2024-08-24 |
 | [The Enchanted Forest](https://open.spotify.com/track/20AEQnFt9dyIwCa8Cpqhkv) | [Light Channel](https://open.spotify.com/artist/1QsSs3Pr4rV3E5ypP9Arda) | [The Enchanted Forest](https://open.spotify.com/album/4TSyvNaMQSh2DDn1kaSMcU) | 3:12 | 2023-04-28 |  |
 | [The Nature of Night](https://open.spotify.com/track/3aBPxsGyqG7GesgQwSmCPP) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [The Nature of Night](https://open.spotify.com/album/7hg2a7EBaV6LABrr4ZfXTM) | 3:13 | 2023-04-28 | 2025-03-06 |
+| [The Stream And It's Rippling Beauty](https://open.spotify.com/track/4Em82D0AnHc37y5m714r94) | [State Of Tranquility](https://open.spotify.com/artist/3MF7nYOg59ZVk4hYtJuIwU) | [The Stream And Its Rippling Beauty](https://open.spotify.com/album/71QnkxSIsoSUJhhN06hB6U) | 2:46 | 2025-10-24 |  |
 | [The Tone Of Willingness Nature](https://open.spotify.com/track/2GgRVa0s3OhSZ49dOlfM21) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [The Tone Of Willingness](https://open.spotify.com/album/5TMPEcTcOqawK7lYsLsSh3) | 2:44 | 2023-04-28 | 2025-11-24 |
 | [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 | 2023-04-28 | 2025-05-22 |
 | [The Universe Whitin \(Nature Sounds\)](https://open.spotify.com/track/3LK95mRAhmD7mSDKj1qDQq) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [The Universe Within](https://open.spotify.com/album/0XVYHXKxNHRGjUGfUN8ukA) | 2:13 | 2023-04-28 |  |

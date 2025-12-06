@@ -4,7 +4,7 @@
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-708 songs - 1 day 18 hr 35 min
+709 songs - 1 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Drama Queen](https://open.spotify.com/track/70zviqa16A0dlwJRhAeJr6) | [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [Drama Queen](https://open.spotify.com/album/2InWMHkWpJg8HLtxHhPLj3) | 4:14 | 2024-11-15 | 2025-02-13 |
 | [Dream Funky \- Edit](https://open.spotify.com/track/0rNMeTphPmB9cZAEKXP7Tk) | [Shabi](https://open.spotify.com/artist/5rGlP49zcapuK6wZayPfYj) | [Get Up](https://open.spotify.com/album/67EZ1BKhDEKddUcq17ycTu) | 3:12 | 2025-03-28 | 2025-05-17 |
 | [Dream Machine](https://open.spotify.com/track/4qmZWX639GLcrQijRgBk9W) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Paradise \(Bonus Edition\)](https://open.spotify.com/album/5SWlTGKudlEfbI4hfja9NJ) | 3:26 | 2025-04-18 |  |
+| [Drop It Low](https://open.spotify.com/track/6MMMI18jP88d2tcNl6stEt) | [Arpy Brown](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Drop It Low](https://open.spotify.com/album/2nFLl4r4OmaRbrOjHlr4PP) | 4:10 | 2025-12-05 |  |
 | [Drop Me a Line](https://open.spotify.com/track/7b9TR1Wl1uCFT2dWI0u7K5) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Drop Me a Line](https://open.spotify.com/album/3y1QAT5rz4z3I2r7A1Pybl) | 3:41 | 2025-03-28 | 2025-05-01 |
 | [Drowning In Your Love \(feat\. Jem Cooke\) \- Mark Knight Remix](https://open.spotify.com/track/3stfe0XW3KIF1G1MNyn238) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Drowning In Your Love \(feat\. Jem Cooke\)](https://open.spotify.com/album/36YT5gZk5ceqW9DwkxOHad) | 3:24 | 2022-01-14 | 2022-07-07 |
 | [Déjà Vous](https://open.spotify.com/track/27v3dCVeFekhgsG5h0EYG3) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Diogo Strausz](https://open.spotify.com/artist/58HWl0aH0VFAKnxfiZdVzO) | [Déjà Vous EP](https://open.spotify.com/album/71vPM5ro3LBizuBvVqSJSS) | 6:27 | 2025-06-06 | 2025-07-26 |
@@ -647,7 +648,7 @@
 | [There It Is](https://open.spotify.com/track/50LJ0nSsZQmm68gNquSTVA) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [There It Is](https://open.spotify.com/album/1ZN4V3n6xS7gTC9zDywWPK) | 3:07 | 2025-06-27 |  |
 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 | 2022-01-14 | 2024-07-13 |
 | [This Co \- TNT Edit](https://open.spotify.com/track/15HPQ6BWrEWHCrcAtclfIf) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Co](https://open.spotify.com/album/2jrEMtM8IgUlJ0u4glu0AR) | 2:45 | 2025-07-04 |  |
-| [This Feeling](https://open.spotify.com/track/7hk2GRpkZylT42utek5fcU) | [SELLIER](https://open.spotify.com/artist/1AZhiktlVxf7rt7UbJE1Vb) | [This Feeling](https://open.spotify.com/album/1Fe40jHpa9V5w0nL5SXL7F) | 4:27 | 2025-08-29 |  |
+| [This Feeling](https://open.spotify.com/track/7hk2GRpkZylT42utek5fcU) | [SELLIER](https://open.spotify.com/artist/1AZhiktlVxf7rt7UbJE1Vb) | [This Feeling](https://open.spotify.com/album/1Fe40jHpa9V5w0nL5SXL7F) | 4:27 | 2025-08-29 | 2025-12-06 |
 | [This Much Is True](https://open.spotify.com/track/21FbosjBsvyX8W7ZTqoF3J) | [Dr Packer](https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm), [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17), [Templar](https://open.spotify.com/artist/4CPGjSfPlQnTQaIPFzAQJg) | [This Much Is True](https://open.spotify.com/album/6VGtU01NlB2ISJzy3swFMj) | 3:25 | 2025-05-12 |  |
 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 | 2024-11-15 | 2025-11-29 |
 | [Ti Sento](https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5), [Antonella Ruggiero](https://open.spotify.com/artist/7xELwlmfwkTUMKJNSxN5To) | [Ti Sento](https://open.spotify.com/album/7Cm248Tj1NigR5Jujq0IJq) | 3:00 | 2023-12-22 |  |

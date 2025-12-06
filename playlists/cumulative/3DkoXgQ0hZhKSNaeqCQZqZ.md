@@ -4,10 +4,11 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-437 songs - 23 hr 7 min
+439 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1 d0n7 w4nN4 w417](https://open.spotify.com/track/3RCzbEvH4d2hX6DJO8sGli) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ) | [d0t r4Wr](https://open.spotify.com/album/3tpChLn0Ly6DHJ5fMg3oVt) | 3:00 | 2025-12-05 |  |
 | [117](https://open.spotify.com/track/7MtedgdEX5IkrcHlBoff2m) | [daniboi](https://open.spotify.com/artist/5m2b06EqeKPXJF0YfNF3pT) | [117](https://open.spotify.com/album/59JGROSR0MFlF0OaGSeDTz) | 5:55 | 2024-05-28 |  |
 | [4K CARPET](https://open.spotify.com/track/284qRqsftKxNPWrejNEewL) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [4K CARPET](https://open.spotify.com/album/6H57oq4pjohzx036mRDRsO) | 2:00 | 2025-10-04 |  |
 | [8080 west](https://open.spotify.com/track/1fryKUc8vgoUS069VaNfmZ) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida II](https://open.spotify.com/album/653nMZvSNpCmCkjqb5k7tM) | 2:52 | 2024-08-21 |  |
@@ -247,6 +248,7 @@
 | [Mint Chewing Gum, etc](https://open.spotify.com/track/0jEhzWUdib0oA0lMSkNRCB) | [Floral Tattoo](https://open.spotify.com/artist/5A9WRVGRY9QQf7RVJxVnSS) | [The Circus Egotistica or, How I Spent Most of my Life as a Lost Cause](https://open.spotify.com/album/4pdMwzzJhyhv2LkGitCEj3) | 3:44 | 2024-11-18 |  |
 | [mintbeat](https://open.spotify.com/track/62O8fbfn4KFxLQwpL81a9T) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [mintbeat](https://open.spotify.com/album/2FvUnnr64BMsoiMxXuVOiZ) | 1:51 | 2025-10-29 |  |
 | [Misfortune \(TS!Underswap\) \- Etsukko Mix](https://open.spotify.com/track/59PQDgTc2Jn64MD2MrJudE) | [PorkNDogs](https://open.spotify.com/artist/4WgYTdWcbBE7XssWdkRIBJ), [Saster](https://open.spotify.com/artist/2wh9IsIFT6RYQWGS0yzo5S) | [PorkNDogs' UTSC Classics, Vol\. 6](https://open.spotify.com/album/2XOYV5KqYLHqbymAts5OmM) | 3:04 | 2023-11-17 |  |
+| [Missing Before](https://open.spotify.com/track/4uWriDiaZ97W3rgoY5UphD) | [Roadkill't](https://open.spotify.com/artist/5lvarDFsfZZaK87sFgg2g2) | [Missing Before](https://open.spotify.com/album/1f9pcMurXmFv1eREjYGLjj) | 2:05 | 2025-12-05 |  |
 | [money](https://open.spotify.com/track/4wpwvztn5KxYhD9qDg1hxH) | [kendall :3](https://open.spotify.com/artist/2hiVR9qgIJowlO17AE5mhY) | [swallow](https://open.spotify.com/album/3AlQ6zOxf5VhlJZNlVcC40) | 4:57 | 2024-08-15 | 2025-08-13 |
 | [MONSTER](https://open.spotify.com/track/3hNR5SxXH0UYEwWSOpJMcB) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [MONSTER](https://open.spotify.com/album/6QRvEFKB3oihHwzaeUxmVK) | 3:45 | 2023-12-10 |  |
 | [Move Into The Light](https://open.spotify.com/track/7bbxdxLgGRrfaReqjfr2ts) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Move Into The Light](https://open.spotify.com/album/01P6ougy0DG5kYtE7fSuaa) | 4:28 | 2024-06-22 |  |

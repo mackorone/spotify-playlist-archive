@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 348437,
+  "num_followers": 348462,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPRBmi7aLQa3ZfP3bOWm1GUyby8c",
+  "snapshot_id": "AAAAAEYRvvWDcFeB5HvTP5b+Qwn/nfPg",
   "tracks": [
+    {
+      "added_at": "2025-12-05 05:00:16",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 219862,
+      "name": "Stuck In My Head",
+      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
+    },
     {
       "added_at": "2025-11-28 05:00:14",
       "album": {
@@ -1735,26 +1751,6 @@
       "duration_ms": 183076,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/4WOfRya3PSbwNk0ZTU8ent"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Dumpalltheguns (Feat. Danielle Ponder)",
-        "url": "https://open.spotify.com/album/7CIcz7JIpKAcogiVQXwPMq"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 293586,
-      "name": "Dumpalltheguns - Feat. Danielle Ponder",
-      "url": "https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K"
     },
     {
       "added_at": "2024-03-01 05:01:00",

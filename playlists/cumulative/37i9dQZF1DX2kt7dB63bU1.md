@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Ledisi
 
-874 songs - 2 day 12 hr 33 min
+875 songs - 2 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Can't Take That Away from Me](https://open.spotify.com/track/3mnQXluz888vO8694m8rB5) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Can't Take That Away from Me](https://open.spotify.com/album/7DqNj4dHTG1Y3yWc2SnpKP) | 3:01 | 2022-09-12 | 2023-09-16 |
 | [Can't Take That Away from Me](https://open.spotify.com/track/6gU3kujsZNf3er1OJUbZFn) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Can't Take That Away from Me](https://open.spotify.com/album/2z47YEK3jpG5k1ZcNUE0Ss) | 3:01 | 2022-09-02 | 2022-09-24 |
 | [Candy](https://open.spotify.com/track/4wFNhhPsDLz702JJravbsi) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Joshua Lee Turner](https://open.spotify.com/artist/1bfk97GO0DYNUjbNNJ0XIT) | [Just Friends](https://open.spotify.com/album/4nM0sWPWYPAkB0YkDNmNlB) | 3:18 | 2025-08-01 |  |
+| [Carinhoso](https://open.spotify.com/track/4ykySjQAxiSpS5xNU8R25s) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [A Little Time For Love](https://open.spotify.com/album/2YNz3gcj2Uucf98VJ4OHPW) | 3:53 | 2025-12-05 |  |
 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2020-10-09 | 2022-01-09 |
 | [Castles in the Air](https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo) | [Laura & Anton](https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy) | [Castles in the Air](https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S) | 3:53 | 2020-10-09 | 2022-02-19 |
 | [Cheek to Cheek](https://open.spotify.com/track/1KTaQ86FXc2K1yQg6aSWeq) | [Ed Jones](https://open.spotify.com/artist/50jTSB3cxLenKinb52wt9h), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Bastian Sjelberg](https://open.spotify.com/artist/3Rgg1JKEs7YEpXZYeEHa2z), [Kristoffer Sjelberg](https://open.spotify.com/artist/4bSEbauSFayttziimmWabS) | [Cookin' at the Swing \(Vol\. 1\)](https://open.spotify.com/album/6qE8slTHKK8ruoKt8nQaL3) | 6:29 | 2022-03-18 | 2023-02-25 |
@@ -736,7 +737,7 @@
 | [The Shadow of Your Smile](https://open.spotify.com/track/3QgG58IyMkw7OQAbklgwtv) | [BAUN](https://open.spotify.com/artist/1BF7y5gtjf0hGnTajOTR2v), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Acoustic Lounge](https://open.spotify.com/artist/7kXhE91qzHxcmDP4UxM7oz) | [The Shadow of Your Smile](https://open.spotify.com/album/2roTc7QXNI67bUrhSOfC6f) | 4:46 | 2022-06-06 | 2022-07-29 |
 | [The Shadow Of Your Smile](https://open.spotify.com/track/5JnpUlS6rpykgumUEjgKAM) | [Charles Billingsley](https://open.spotify.com/artist/25rFinQrFA85UTkU88gC5d) | [The Shadow Of Your Smile](https://open.spotify.com/album/5ww7BFvIdYeRR1t68FBo8s) | 4:24 | 2022-04-22 | 2022-07-08 |
 | [The Shadow of Your Smile](https://open.spotify.com/track/3f8XyknPqIZStelk8c04tE) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW) | [The Shadow Of Your Smile](https://open.spotify.com/album/4MEgtXTEwwJUjQ5iEpk7F4) | 4:40 | 2024-07-05 | 2024-08-03 |
-| [The Shadow Of Your Smile](https://open.spotify.com/track/0O4y8lpt0XUKeQwZcj8YgR) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Shadow Of Your Smile](https://open.spotify.com/album/7ojnM0aUTEKZYxwVwOrheU) | 4:36 | 2025-11-07 |  |
+| [The Shadow Of Your Smile](https://open.spotify.com/track/0O4y8lpt0XUKeQwZcj8YgR) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Shadow Of Your Smile](https://open.spotify.com/album/7ojnM0aUTEKZYxwVwOrheU) | 4:36 | 2025-11-07 | 2025-12-06 |
 | [The Silence](https://open.spotify.com/track/6fE9UEIXyYjyQiq4qnho4S) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [The Silence](https://open.spotify.com/album/0mB59lYkczjRkYpdcZ4dI4) | 4:25 | 2022-10-14 | 2023-02-19 |
 | [The Sorrow It Shows](https://open.spotify.com/track/7cZenJ6XodfUnnZ0wwbFih) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [The Sorrow It Shows](https://open.spotify.com/album/5gjE4MoGl4w4voVWUZxGW5) | 5:49 | 2023-01-06 | 2023-03-18 |
 | [The Sports Page](https://open.spotify.com/track/6WdBdrrrg6mDQ7Ya0iQCWT) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [The Sports Page](https://open.spotify.com/album/6AHHGogxm7K0zOgkiQC29A) | 6:21 | 2021-01-15 | 2022-02-15 |

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 117996,
+  "num_followers": 118012,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Sweet FA",
-        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "Peach Pit",
-      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Future Present Past",
         "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 264724,
       "name": "Threat of Joy",
       "url": "https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Sweet FA",
+        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "Peach Pit",
+      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "Ritual Spirit",
+        "url": "https://open.spotify.com/album/7lqu3l4C1PAZx4SBUXcoJd"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 241132,
+      "name": "Voodoo In My Blood",
+      "url": "https://open.spotify.com/track/0vs4k1mRSs01iOR5S5sd07"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Mangy Love",
         "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
       },
@@ -1035,22 +1055,6 @@
       "duration_ms": 299671,
       "name": "Bum Bum Bum",
       "url": "https://open.spotify.com/track/5Ob2Wt2IifgoFrSFrBnRZJ"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 233289,
-      "name": "Real Peach",
-      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Ritual Spirit",
-        "url": "https://open.spotify.com/album/7lqu3l4C1PAZx4SBUXcoJd"
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
       },
       "artists": [
         {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 241132,
-      "name": "Voodoo In My Blood",
-      "url": "https://open.spotify.com/track/0vs4k1mRSs01iOR5S5sd07"
+      "duration_ms": 233289,
+      "name": "Real Peach",
+      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Puberty 2",
-        "url": "https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 212183,
-      "name": "Your Best American Girl",
-      "url": "https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 213000,
       "name": "33 \u201cGOD\u201d",
       "url": "https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 212183,
+      "name": "Your Best American Girl",
+      "url": "https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Doubt (Summer Edit)",
-        "url": "https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 226857,
-      "name": "Doubt (Summer Edit)",
-      "url": "https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 245200,
       "name": "29 #Strafford APTS",
       "url": "https://open.spotify.com/track/4VZM71F8XAoLRuNyNLxwWS"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Doubt (Summer Edit)",
+        "url": "https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 226857,
+      "name": "Doubt (Summer Edit)",
+      "url": "https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN"
     },
     {
       "added_at": "2024-03-18 13:26:28",

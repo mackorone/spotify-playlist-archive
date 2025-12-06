@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,435 likes - 158 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,434 likes - 158 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 42 | [Happy](https://open.spotify.com/track/6xG7t7blddozpBf3S5we1O) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 3:01 |
 | 43 | [Sober](https://open.spotify.com/track/6NsxPxFzZ18TKBcTgxX3dh) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [JRY](https://open.spotify.com/artist/6r514fXAl2fe5cHF6HKOHW) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:26 |
 | 44 | [Save Yourself](https://open.spotify.com/track/67m00DhUHLDonJoqu1fOHx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Beautiful Lies](https://open.spotify.com/album/1UVggFtdVPqHy5WamYFu6w) | 3:34 |
-| 45 | [New Girl](https://open.spotify.com/track/6IlunOwHwe9IF7taJZo1FK) | [Reggie ‘N’ Bollie](https://open.spotify.com/artist/3qCIifFHqOTzTAC1Sww8ms) | [Uncommon Favours](https://open.spotify.com/album/4fMDLidbvqm2HbSYGaxgva) | 3:36 |
-| 46 | [Sleep at Night](https://open.spotify.com/track/08kXaWxw2QkXSQTlyH9GMc) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:12 |
+| 45 | [Sleep at Night](https://open.spotify.com/track/08kXaWxw2QkXSQTlyH9GMc) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:12 |
+| 46 | [New Girl](https://open.spotify.com/track/6IlunOwHwe9IF7taJZo1FK) | [Reggie ‘N’ Bollie](https://open.spotify.com/artist/3qCIifFHqOTzTAC1Sww8ms) | [Uncommon Favours](https://open.spotify.com/album/4fMDLidbvqm2HbSYGaxgva) | 3:36 |
 | 47 | [Unless It's With You](https://open.spotify.com/track/7fklxl8AxKiGz5fFZEglIm) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:17 |
 | 48 | [SOS \(Overboard\)](https://open.spotify.com/track/4OeXeFN1dxx3LTrjcKGSV9) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:05 |
 | 49 | [Dancing Next To Me](https://open.spotify.com/track/2VAanTPaOihruBcIsoQT1Z) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Dancing Next To Me](https://open.spotify.com/album/7iENJztCzQ9a4xsBPC0IiH) | 2:50 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 157 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 158 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcDWxgAAAABO9ukjWWRM0hdkv/3kQP8w`
+Snapshot ID: `AcDcXAAAAADf67ghvIQTLbtYwvxA8ETk`

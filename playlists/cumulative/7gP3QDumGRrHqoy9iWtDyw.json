@@ -3255,6 +3255,28 @@
     },
     {
       "album": {
+        "name": "Little Kitty",
+        "url": "https://open.spotify.com/album/0cSb96vLKmP2zmYa6C3b3V"
+      },
+      "artists": [
+        {
+          "name": "OMRI.",
+          "url": "https://open.spotify.com/artist/36jn1T9teX1BHEJYcPoazX"
+        },
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227812,
+      "name": "Little Kitty",
+      "url": "https://open.spotify.com/track/0QB2O3SvRuEU0MXyLE4osd"
+    },
+    {
+      "album": {
         "name": "Live And Direct",
         "url": "https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td"
       },

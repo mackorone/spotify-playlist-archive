@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain]
 
 ### [EUPHORIA](https://open.spotify.com/playlist/37i9dQZF1DWZ5Se2LB1C5h)
 
-> Únete a la extravaganza del neón\. RØZ en portada.
+> Únete a la extravaganza del neón\. TOMORA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,998 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,019 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SENDA](https://open.spotify.com/track/5fswOZtpTleF5VWtB4dfcP) | [DISHYPE](https://open.spotify.com/artist/2cVtX6cwi2dGV4WZDwU39q) | [SENDA](https://open.spotify.com/album/4y2NyjhWERqyrvA3uiJmOH) | 4:04 |
-| 2 | [la vuelta](https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [la vuelta](https://open.spotify.com/album/5KCeDTcZYLehMtRszwxkoD) | 3:19 |
+| 2 | [VENENO](https://open.spotify.com/track/3PUnHlf7ujQ9N5KUtI4jkH) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [mañana, temprano](https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi) | 3:31 |
 | 3 | [In And Out Of Love](https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [In And Out Of Love](https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK) | 3:46 |
-| 4 | [Respirar](https://open.spotify.com/track/6LM2zxNsXJ2I42ERHT9CZ6) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [Paco Peña](https://open.spotify.com/artist/6c9o0YxpetYtcltqJuVDql) | [Respirar](https://open.spotify.com/album/70SI0nB6fAcYjTSKaWzNlh) | 3:48 |
-| 5 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
+| 4 | [RING THE ALARM](https://open.spotify.com/track/3R5DTC9H0bV0UZkq0IfGiP) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [RING THE ALARM](https://open.spotify.com/album/2S1fF7oAMf7weRhTEZD5ET) | 5:31 |
+| 5 | [Respirar](https://open.spotify.com/track/6LM2zxNsXJ2I42ERHT9CZ6) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [Paco Peña](https://open.spotify.com/artist/6c9o0YxpetYtcltqJuVDql) | [Respirar](https://open.spotify.com/album/70SI0nB6fAcYjTSKaWzNlh) | 3:48 |
 | 6 | [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 |
-| 7 | [Put Your Bassline](https://open.spotify.com/track/3IwC6rhjOfEdswlSV6RvzX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Put Your Bassline](https://open.spotify.com/album/4NOx87J66hA6p5l2t8iyin) | 2:31 |
-| 8 | [Lose Myself](https://open.spotify.com/track/2IBAx31ol4wFnEexvFyd6l) | [NIGHT manoeuvres](https://open.spotify.com/artist/2CanvvhMZkqCFDFEOvcdNE), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh), [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Lose Myself](https://open.spotify.com/album/2T5b5FVc1L6uckwkPoQl2b) | 3:00 |
+| 7 | [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 |
+| 8 | [Put Your Bassline](https://open.spotify.com/track/3IwC6rhjOfEdswlSV6RvzX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Put Your Bassline](https://open.spotify.com/album/4NOx87J66hA6p5l2t8iyin) | 2:31 |
 | 9 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
 | 10 | [Cuando Te Veo](https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Cuando Te Veo](https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e) | 3:43 |
 | 11 | [Ya no te quiero ver](https://open.spotify.com/track/2DByHCKGgd1J66nJvChvtl) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Ya no te quiero ver](https://open.spotify.com/album/1cZiPR4BvIiTr0x9P0zzP8) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain]
 | 74 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/4s6PYL51msvsxDjME9i6OM) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/4YBSn85qXXKs13Rx5A0XsF) | 2:38 |
 | 75 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 |
 
-Snapshot ID: `AAAAAKUU6hgco+LlWacMioTWFDIVR9Vl`
+Snapshot ID: `AAAAAE6l0HZVhwW/0IgFzbRbrhPoVYfp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 
 > Bluegrass fit for the holiday season
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,097 likes - 118 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,182 likes - 118 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 | 117 | [Christmas Times A Comin' / White Christmas](https://open.spotify.com/track/4q3EM3BTl7jLqc3Bi583b3) | [Williamson Branch](https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN) | [Very Merry Christmas](https://open.spotify.com/album/5Xazc4mLRhHLaZGzqvZdKp) | 2:38 |
 | 118 | [Auld Lang Syne](https://open.spotify.com/track/1Np9WAlV2L1vMYL6TRpihk) | [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713) | [High Country Holiday](https://open.spotify.com/album/261enzJqW3CSJslLyxTCLW) | 3:07 |
 
-Snapshot ID: `AAAAAOLz6NsfHPHFW8XH8R7O2rSPjfWr`
+Snapshot ID: `AAAAANpzSvlMF6I6/H7O2IgmQN65gSYd`

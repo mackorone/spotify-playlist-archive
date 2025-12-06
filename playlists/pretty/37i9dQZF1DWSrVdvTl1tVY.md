@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Josh Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,953 likes - 154 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,042 likes - 154 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 26 | [Ladies & Gentlemen](https://open.spotify.com/track/2GkP7xIKD7Cid7VtOGdee8) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Ladies & Gentlemen](https://open.spotify.com/album/5to4X0xopHCNx4mhiAJ8ME) | 2:41 |
 | 27 | [Woman](https://open.spotify.com/track/1KBkA7QvAyCm53A6o9uOye) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Woman](https://open.spotify.com/album/30p2pErwBRznXkaGwmdrxc) | 2:48 |
 | 28 | [I Cannot](https://open.spotify.com/track/7rgnKPJ51NBGP5k20yaSHn) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [I Cannot](https://open.spotify.com/album/4jAmLhda79FRXBRTLNj9nL) | 3:09 |
-| 29 | [Deep Down](https://open.spotify.com/track/2eDT61AnxqoMv63FoT9pEg) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [](https://open.spotify.com/album/null) | 3:26 |
+| 29 | [Deep Down](https://open.spotify.com/track/2eDT61AnxqoMv63FoT9pEg) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [UNCHANED VOL.1](https://open.spotify.com/album/2JyDHxShDVPQnlLFCXcN8o) | 3:26 |
 | 30 | [Euro Flow](https://open.spotify.com/track/0QgE29v3AaacwaB1OHRUYK) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Euro Flow](https://open.spotify.com/album/0696fKl0CDhd2LXLPtNMB8) | 3:05 |
 | 31 | [Don't Forget To Breathe](https://open.spotify.com/track/0oUszHe1amsQIganTqaIa3) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Grown George](https://open.spotify.com/artist/2GibrdFDvQp6k6AtcGx5Kt) | [Don't Forget To Breathe](https://open.spotify.com/album/1cVF3YjkdoR3Jao5emLwRX) | 2:48 |
 | 32 | [Over You](https://open.spotify.com/track/7JXrx6UxFSs544gh4vxeW0) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Over You](https://open.spotify.com/album/1ybQKmpKRvTWEDzbWfKZQq) | 2:47 |

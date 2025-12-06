@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,577 likes - 100 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,570 likes - 100 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 81 | [The Cup Was Not Removed](https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR) | [The Cup Was Not Removed](https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR) | 3:56 |
 | 82 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
 | 83 | [The Anchor \(Live\)](https://open.spotify.com/track/0NkwVfWRSsrBQlo6tE6nVA) | [Life Church Music](https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2) | [Greater Things](https://open.spotify.com/album/0XeC21BGINMRdZnaPQQNPx) | 6:18 |
-| 84 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
+| 84 | [Name Above The Grave](https://open.spotify.com/track/4HfdA1C25uACbHoHTNBB7M) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Josh Farro](https://open.spotify.com/artist/4WT10NZoQlPGzXc74kvLZQ), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Volume 2](https://open.spotify.com/album/2YhG64spQTzW1fh4viu37j) | 6:39 |
 | 85 | [Calvary's Cross](https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [This Is Jesus](https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks) | 5:17 |
-| 86 | [Name Above The Grave](https://open.spotify.com/track/4HfdA1C25uACbHoHTNBB7M) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Josh Farro](https://open.spotify.com/artist/4WT10NZoQlPGzXc74kvLZQ), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Volume 2](https://open.spotify.com/album/2YhG64spQTzW1fh4viu37j) | 6:39 |
+| 86 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 | 87 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 | 88 | [Because He Lives \(Amen\) \- \[Live\]](https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 3:49 |
 | 89 | [It is Finished \- Acoustic](https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [It is Finished \(Acoustic\)](https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI) | 3:19 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 96 | [We Adore You](https://open.spotify.com/track/3jNMRPHBzue94UVUGsF9d3) | [The Vigil Project](https://open.spotify.com/artist/2Qtvrlcjx83rryARiEIPeI), [Greg&Lizzy](https://open.spotify.com/artist/54xxNWktx50xuT5G2rOiZ2) | [We Adore You](https://open.spotify.com/album/0Xk4lFyKQ91MlURQwhi4Yw) | 3:13 |
 | 97 | [Lamb of God](https://open.spotify.com/track/6BbmCHAptJbkjAgvgoycMO) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Deeper \(Deluxe Edition\)](https://open.spotify.com/album/0vjN4mUe8AAB65YurWzP7v) | 4:17 |
 | 98 | [Behold \(The King Is Calling\) \- Live](https://open.spotify.com/track/2p1MCZwVjTPOOaOGWov6eA) | [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [Behold \(The King Is Calling\) \[Live\]](https://open.spotify.com/album/6z8l97hpcXTNVvFp1rpjQP) | 13:29 |
-| 99 | [Long Live The King \- Acoustic](https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Versions\) \- EP](https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH) | 5:53 |
-| 100 | [Victorious](https://open.spotify.com/track/3vA31JbPn2wt9XtGF2jU3k) | [Radiate Worship](https://open.spotify.com/artist/3i5uup1PgNejl68RMu8kju) | [Victorious](https://open.spotify.com/album/4qTemhvdw7xJBAubwDBuXI) | 4:43 |
+| 99 | [Victorious](https://open.spotify.com/track/3vA31JbPn2wt9XtGF2jU3k) | [Radiate Worship](https://open.spotify.com/artist/3i5uup1PgNejl68RMu8kju) | [Victorious](https://open.spotify.com/album/4qTemhvdw7xJBAubwDBuXI) | 4:43 |
+| 100 | [Long Live The King \- Acoustic](https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Versions\) \- EP](https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH) | 5:53 |
 
 Snapshot ID: `AAAAAFT/3v1vEiXC38F7/K42MEjHCDwa`

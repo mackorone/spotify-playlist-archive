@@ -2,9 +2,9 @@
 
 ### [Sombreruda y nimoderrimo 🏳️‍🌈](https://open.spotify.com/playlist/37i9dQZF1DXa57Li9i9TJK)
 
-> Potras, rancherxs y la 🧀 Carolina Ross y Los Horóscopos de Durango en portada
+> Potras, rancherxs y la 🧀 Jenni Rivera en portada
 
-241 songs - 12 hr 39 min
+242 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Los Malacostumbré](https://open.spotify.com/track/6Jrp7alMvsw2Nj80XpIGba) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Los Malacostumbré](https://open.spotify.com/album/6CqGOQz33Go8fMyrZkT5nK) | 2:12 | 2024-05-10 | 2024-06-15 |
 | [Lápiz Labial](https://open.spotify.com/track/0bndT74WaGo5vnd6TLex8U) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Lápiz Labial](https://open.spotify.com/album/6FDTr5zPZrfMmeOsFaDTmt) | 2:52 | 2023-12-14 | 2024-04-19 |
 | [Madonna](https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Madonna](https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd) | 3:07 | 2024-03-08 |  |
-| [Malagradecido](https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Malagradecido](https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9) | 2:54 | 2025-10-17 |  |
+| [Malagradecido](https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Malagradecido](https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9) | 2:54 | 2025-10-17 | 2025-12-06 |
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-12-14 | 2024-09-28 |
 | [Maldita Billetera](https://open.spotify.com/track/6wghCwZvtMVV3ElbalRq9u) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Maldita Billetera](https://open.spotify.com/album/1ctchvx9rFJeAY41RvrvP8) | 3:22 | 2025-10-17 |  |
 | [MALDITO ALCOHOL](https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 4:02 | 2024-03-01 | 2024-09-21 |
@@ -148,6 +148,7 @@
 | [No es el final](https://open.spotify.com/track/0qybqPqKipt9jlyeuo4ueq) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [No es el final](https://open.spotify.com/album/1Z2rxyZayQaEMBojqzj53q) | 3:17 | 2025-02-14 | 2025-02-22 |
 | [No es normal](https://open.spotify.com/track/4FAkWvgZzt8znu3sFdSjO2) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [No es normal](https://open.spotify.com/album/78JH8LfNlJ8PR2XKKubwsu) | 3:25 | 2024-11-01 | 2024-11-16 |
 | [No Fue Lo Que Hiciste](https://open.spotify.com/track/31XQ01Q6ld5H4q7dje4VbF) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [No Fue Lo Que Hiciste](https://open.spotify.com/album/1V5GnWGLCnmsGVsWOzp0n3) | 4:02 | 2025-04-04 |  |
+| [No Llega El Olvido \(Banda\)](https://open.spotify.com/track/6Z38kXQPJiFfxow9b1NKam) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora \(Banda\)](https://open.spotify.com/album/2vpPlSBA12bNyT6cKenLvW) | 3:05 | 2025-12-05 |  |
 | [No Me Aprovechaste](https://open.spotify.com/track/1bIop0kq6LmElfwkAt4LeD) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [En Vivo Desde Japón](https://open.spotify.com/album/6lRqJciw5FLzsPSu3eKTwm) | 3:33 | 2025-05-09 | 2025-07-12 |
 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 | 2023-12-14 | 2025-12-01 |
 | [No Te Contaron Mal](https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Te Contaron Mal](https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi) | 2:36 | 2023-12-14 |  |

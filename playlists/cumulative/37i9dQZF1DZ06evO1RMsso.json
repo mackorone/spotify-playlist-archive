@@ -598,7 +598,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 155906,
       "name": "March of the Resistance",
       "url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr"
@@ -806,6 +806,28 @@
       "duration_ms": 152146,
       "name": "Secrets of the Castle",
       "url": "https://open.spotify.com/track/5PUvxyQ0STurZq4TM8yl4F"
+    },
+    {
+      "album": {
+        "name": "Sound the Bells! (Version for Full Orchestra)",
+        "url": "https://open.spotify.com/album/1hnHZtwCkiyGLpSQN2VVjM"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180653,
+      "name": "Sound the Bells! (Version for Full Orchestra)",
+      "url": "https://open.spotify.com/track/79Xn5we9hOh0zGSm40jPD5"
     },
     {
       "album": {

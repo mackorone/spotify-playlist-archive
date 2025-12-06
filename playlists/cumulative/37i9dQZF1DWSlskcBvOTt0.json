@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 516815,
       "name": "Buschtaxi",
       "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
@@ -4961,6 +4961,28 @@
     },
     {
       "album": {
+        "name": "Dirty Conga (feat. Kanis)",
+        "url": "https://open.spotify.com/album/0jsMn6RP5seglKAu0t3IAt"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        },
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257419,
+      "name": "Dirty Conga (feat. Kanis)",
+      "url": "https://open.spotify.com/track/5DMZeSnioIjR2xaQGl9vCK"
+    },
+    {
+      "album": {
         "name": "Disappear",
         "url": "https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh"
       },
@@ -6398,6 +6420,10 @@
         {
           "name": "Malou",
           "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
         }
       ],
       "date_added": "2025-04-25",
@@ -12730,7 +12756,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 217619,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/63JXEbhoCRypjCULbjX8Qw"
@@ -12906,6 +12932,28 @@
       "duration_ms": 437760,
       "name": "More & More - No Vox Mix",
       "url": "https://open.spotify.com/track/0BV51sEynTVwGWq4PPQThN"
+    },
+    {
+      "album": {
+        "name": "More Love",
+        "url": "https://open.spotify.com/album/42uozpGHqQ5HPCegmvEtpS"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        },
+        {
+          "name": "KONXIOUS",
+          "url": "https://open.spotify.com/artist/7ifmiN7sqthTZQuo91fOQ7"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "More Love",
+      "url": "https://open.spotify.com/track/72qkEdLo7hkJcpJ5ARfvgW"
     },
     {
       "album": {
@@ -14006,7 +14054,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 222840,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/64jx6PV3hXstEZ7hggGeKw"
@@ -16452,7 +16500,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 163902,
       "name": "Rintintin",
       "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"

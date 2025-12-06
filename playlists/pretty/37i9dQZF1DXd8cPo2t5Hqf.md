@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,222 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,293 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 31 | [ワールズエンド・ダンスホール \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/3mMurBEHetvgoEOJRa3biN) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 3:43 |
 | 32 | [ネガポジ＊コンティニューズ \(feat\. 初音ミク\)](https://open.spotify.com/track/3UXkX3BnQvKvYY6ZmwACSP) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [トンデモ未来空奏図](https://open.spotify.com/album/2IBRDkHVFFnFDTWQfdTKPi) | 3:07 |
 | 33 | [Hand in Hand](https://open.spotify.com/track/7kgTu64wW8N6s4GTk0ksNO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Hand in Hand](https://open.spotify.com/album/6Cu3utCV4ysD3RjaeIWE6d) | 5:12 |
-| 34 | [どりーみんチュチュ \(feat\. 巡音ルカ&初音ミク\)](https://open.spotify.com/track/5so7F3hsNWmSpjyQ4dSr2W) | [emon\(Tes.\)](https://open.spotify.com/artist/4gSRXG5tamMDAxsswktQKG), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [どりーみんチュチュ](https://open.spotify.com/album/0gDKtnl12zIMnT40j7q4wF) | 4:22 |
+| 34 | [Just Be Friends](https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ) | [Dixie Flatline](https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80) | [Just Be Friends](https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv) | 5:01 |
 | 35 | [DECORATOR](https://open.spotify.com/track/68cGngZvXl6qKGLH3joVpZ) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [DECORATOR EP](https://open.spotify.com/album/5LkJe8cxJuHd0akGg5SaTV) | 3:25 |
-| 36 | [Just Be Friends](https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ) | [Dixie Flatline](https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80) | [Just Be Friends](https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv) | 5:01 |
+| 36 | [どりーみんチュチュ \(feat\. 巡音ルカ&初音ミク\)](https://open.spotify.com/track/5so7F3hsNWmSpjyQ4dSr2W) | [emon\(Tes.\)](https://open.spotify.com/artist/4gSRXG5tamMDAxsswktQKG), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [どりーみんチュチュ](https://open.spotify.com/album/0gDKtnl12zIMnT40j7q4wF) | 4:22 |
 | 37 | [ローリンガール](https://open.spotify.com/track/3CNptmi6HPZj6lgglUafW7) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice](https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q) | 3:14 |
 | 38 | [ココロ](https://open.spotify.com/track/6gsd0653qu7ePqE2gXA2ET) | [Toraboruta](https://open.spotify.com/artist/3SF34yWtPytpoOfEz4GuW4) | [トラボティック・チューン](https://open.spotify.com/album/7ARxgUQPhcLdsGau2yblFB) | 4:42 |
 | 39 | [サンドリヨン](https://open.spotify.com/track/3nmWtDD1yyHR4EEBUSmUK0) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [SIGNALOID BOX](https://open.spotify.com/album/0IBUFc6zEx7Hl8UkoDofX2) | 4:37 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 92 | [愛言葉](https://open.spotify.com/track/7Dw7AW1UCOppByzD7BQa9O) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [相愛性理論](https://open.spotify.com/album/6Gp6rgebq9fGJtIOgDAiLe) | 4:24 |
 | 93 | [ハジメテノオト](https://open.spotify.com/track/71NH427DUc6APJ2kQ8sVZf) | [Malo](https://open.spotify.com/artist/0wiJ19KvpWKVOTUd99lLQ2) | [ハジメテノオト/未来の歌](https://open.spotify.com/album/1UHOCAkTabO99PIaH3FGPU) | 5:02 |
 | 94 | [1/6 \-out of the gravity\- \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/7aO5JsjJXsmVbmCqrrPZgS) | [vocaliod\-P\(noa\)](https://open.spotify.com/artist/7sSRpSgATx1LST4S5zy7Ca) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:20 |
-| 95 | [サンドリヨン](https://open.spotify.com/track/6BxbQXUzkX0dv4UjAhclHo) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [ReRections](https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t) | 4:37 |
-| 96 | [忘却心中](https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg) | [0\-9](https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn) | [忘却心中](https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG) | 4:13 |
+| 95 | [忘却心中](https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg) | [0\-9](https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn) | [忘却心中](https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG) | 4:13 |
+| 96 | [サンドリヨン](https://open.spotify.com/track/6BxbQXUzkX0dv4UjAhclHo) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [ReRections](https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t) | 4:37 |
 | 97 | [キャットフード \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2gNtSUrrJSgWgQUxsFKoxn) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 5:15 |
 | 98 | [二息歩行 \(feat\. 初音ミク\)](https://open.spotify.com/track/01MsqQ89M1tOEfxgWmEsWL) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [DECO\*27 VOCALOID COLLECTION 2008～2012](https://open.spotify.com/album/4F8Fq5f3JSTsG5GnJ37Ctc) | 3:03 |
 | 99 | [MEGANE](https://open.spotify.com/track/5d1pbk01azByOstUjlVjxv) | [Ultra\-Noob](https://open.spotify.com/artist/53yMKP0uZAp87VXQqVP6jC) | [MEGANE](https://open.spotify.com/album/56dO5TuLKQlCzgp8vfLb16) | 5:08 |

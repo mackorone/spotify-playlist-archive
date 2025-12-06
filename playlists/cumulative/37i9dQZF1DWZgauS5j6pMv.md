@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-494 songs - 1 day 4 hr 52 min
+495 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Doubts \- Live from Studio 54, 2022](https://open.spotify.com/track/7Fk2ITEI0s2Y6oiust9UKl) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Doubts \(Live from Studio 54, 2022\)](https://open.spotify.com/album/7zsHBrfvL0hk321iiagyAD) | 3:23 | 2022-09-02 | 2023-04-29 |
 | [Dragonball Durag \- Remix](https://open.spotify.com/track/1PrVLmXkJjh2vEhmBEKLeM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Dragonball Durag \(Remix\)](https://open.spotify.com/album/4pjJMjf9P4ZrRoGuGrdUQg) | 3:41 | 2020-11-20 | 2022-01-29 |
 | [Drip Feed](https://open.spotify.com/track/5fhIrC32KM91BM9z4OVMnh) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Drip Feed](https://open.spotify.com/album/7rrEsShvbbzukQD3TVn8cf) | 3:01 | 2023-08-25 | 2025-07-05 |
-| [Dumpalltheguns \- Feat\. Danielle Ponder](https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Dumpalltheguns \(Feat\. Danielle Ponder\)](https://open.spotify.com/album/7CIcz7JIpKAcogiVQXwPMq) | 4:53 | 2024-03-08 |  |
+| [Dumpalltheguns \- Feat\. Danielle Ponder](https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Dumpalltheguns \(Feat\. Danielle Ponder\)](https://open.spotify.com/album/7CIcz7JIpKAcogiVQXwPMq) | 4:53 | 2024-03-08 | 2025-12-06 |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-04-22 | 2023-08-19 |
 | [Ease Your Mind](https://open.spotify.com/track/0uwXneXFLt47MlgvoQDouq) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Ease Your Mind](https://open.spotify.com/album/7B5n3tOUAIyahj8TwwPLcN) | 4:44 | 2021-03-12 | 2022-05-20 |
 | [Electric](https://open.spotify.com/track/5tpCdn073tTUqDNk2gUL2Q) | [AJ McLean](https://open.spotify.com/artist/5RFf1gyPc9lMOtCq2k6tLl) | [Electric](https://open.spotify.com/album/6dwn7sFqft4CBBRbZTZr0E) | 3:12 | 2024-02-16 | 2024-05-11 |
@@ -404,6 +404,7 @@
 | [Stolen Fruit](https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Stolen Fruit](https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv) | 3:37 | 2022-03-28 | 2023-09-23 |
 | [Stone Cold Lover](https://open.spotify.com/track/0S5odtCg5QVBkKCVu3vsrl) | [Anduze](https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn) | [Aura](https://open.spotify.com/album/2TbHzkncYSsWB5xTyl4MtN) | 4:06 | 2021-09-24 | 2022-11-26 |
 | [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 | 2022-11-11 | 2024-05-18 |
+| [Stuck In My Head](https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP) | 3:39 | 2025-12-05 |  |
 | [Stuck on You](https://open.spotify.com/track/4fQR7QVHGPnA3ljpo95EjH) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/3nbmi3ESDzeTOml8Ttp5MV) | 4:32 | 2022-05-20 | 2024-03-02 |
 | [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 | 2022-05-20 | 2023-12-20 |
 | [Subway Surfing](https://open.spotify.com/track/2BEKaDo23WiAHaedEGyCUM) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Subway Surfing](https://open.spotify.com/album/6Q5FBm5B4XEvKAmaM3139n) | 3:41 | 2024-07-26 |  |

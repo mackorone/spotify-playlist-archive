@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-532 songs - 1 day 18 hr 41 min
+533 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [mindspace](https://open.spotify.com/track/3vrFEEfp42bi7aHOAXte05) | ['•\. ¸¸ .•´¯data cluster ¯'•\. ¸¸ .•´](https://open.spotify.com/artist/4VRBuSZuS0yhwvU2SIPjZL) | [mindspace](https://open.spotify.com/album/19NDetB6aFOF6mvtiqH8EN) | 4:06 | 2025-09-19 |  |
 | [Mist/Haze](https://open.spotify.com/track/51KBee4p5nVrPyLgTwpEC4) | [Friendly Chemist](https://open.spotify.com/artist/03CXtBOwnoV9TG6zNVqxrp) | [Touch of Jupiter](https://open.spotify.com/album/5e8J2ocCRv1YvvH8W8zqrr) | 5:48 | 2021-10-06 | 2022-07-26 |
 | [Mizu\-Iro](https://open.spotify.com/track/1Gg1LzqEi4eL2AV8hlTI5x) | [TENTENKO](https://open.spotify.com/artist/0Z0T5Cm2d7m8L0qCTzI6yD) | [An Antworten EP](https://open.spotify.com/album/5xJQeowjdaLP0GKJdRUjaO) | 6:28 | 2021-10-06 | 2025-07-17 |
+| [Mod Break](https://open.spotify.com/track/05rByi3FspJDgfpa8JOfLl) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX), [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [Mod Break / Variated 3](https://open.spotify.com/album/5oMb7WAeh5Sumsxj19dQJb) | 5:43 | 2025-12-05 |  |
 | [Momentum](https://open.spotify.com/track/5CvGlnk06OQD32B87F2qbt) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Momentum](https://open.spotify.com/album/5sZ8D45IwJ8mNpRHf9AtGV) | 4:25 | 2021-10-06 | 2025-07-17 |
 | [Moodified](https://open.spotify.com/track/20kr9NhtO26sVoRJVytmbz) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Juggling Dualities](https://open.spotify.com/album/5qC61iRz1ARfv0wqbPCxu4) | 6:15 | 2025-09-05 | 2025-11-15 |
 | [Morning Sun](https://open.spotify.com/track/1Si3jjKdNox3btMEcfRx0V) | [Below Clouds](https://open.spotify.com/artist/28Ml3ItdZ6mbi1q7X8hvfw) | [Morning Sun](https://open.spotify.com/album/3RRzxZkIeB5CLtTm7Fl2Lv) | 5:42 | 2022-04-12 | 2022-07-29 |
@@ -332,7 +333,7 @@
 | [Parlama](https://open.spotify.com/track/3xIQr3xDTB1OayWyjyufec) | [Konduku](https://open.spotify.com/artist/64v9ctTSV0oUJeZTFBoosp) | [Parlama](https://open.spotify.com/album/0jPL6TkST7UH2Zu9hobEpp) | 8:35 | 2021-10-06 | 2025-07-17 |
 | [Part 3](https://open.spotify.com/track/5lr9zsPpnk6XRHpNZWIHyh) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Posle Vsego](https://open.spotify.com/album/5o1DyqLkD2xTi6txPdPBS5) | 4:44 | 2022-02-18 | 2025-07-17 |
 | [PAUSE](https://open.spotify.com/track/2KBcbM9t4AhnzuDFWXgxjY) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [PAUSE](https://open.spotify.com/album/50c1nz74rz07dgXW30TYaY) | 5:18 | 2025-06-06 |  |
-| [Persica Blossoms](https://open.spotify.com/track/5iynHQ9dyOKR4HDQMy1dix) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [OrangeTone](https://open.spotify.com/artist/11AUvSX0E69Q9oQkMq3xOy) | [Persica Blossoms](https://open.spotify.com/album/6StHWBhHJka2FLesfx3QNb) | 3:01 | 2025-06-20 |  |
+| [Persica Blossoms](https://open.spotify.com/track/5iynHQ9dyOKR4HDQMy1dix) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [OrangeTone](https://open.spotify.com/artist/11AUvSX0E69Q9oQkMq3xOy) | [Persica Blossoms](https://open.spotify.com/album/6StHWBhHJka2FLesfx3QNb) | 3:01 | 2025-06-20 | 2025-12-06 |
 | [Phase](https://open.spotify.com/track/3CESG19e31e3WpUaIblz50) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Phase](https://open.spotify.com/album/3Qp1YBUgGBRpFEITXni0lk) | 3:14 | 2025-09-26 |  |
 | [Phasma Gigas](https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 4:29 | 2021-10-06 | 2025-07-17 |
 | [Piano Improvisation No\. 19](https://open.spotify.com/track/5yJicLB0k8YwdluDf9y0HN) | [Ángel Sánchez Bórges](https://open.spotify.com/artist/634XXXVQvyWqM5K0IwREcq), [Antiguo Automata Mexicano](https://open.spotify.com/artist/1DrRtaVEJaulXd9SelnyTh) | [20+ Piano Improvisations](https://open.spotify.com/album/039yd6s7qWnqox4tSf6NNB) | 2:30 | 2021-10-06 | 2025-07-17 |

@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Dry Cleaning
+> Underground indie rock gems\. Cover: Pretty Sick
 
-1,787 songs - 4 day 7 hr 6 min
+1,791 songs - 4 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Cry](https://open.spotify.com/track/6m4E54GfmxDReiIoPMPALO) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Cry](https://open.spotify.com/album/7h4rNt0Jka3I0D3wLBJqYG) | 3:49 | 2022-09-30 | 2022-10-14 |
 | [Cry Mfer](https://open.spotify.com/track/6KdDfmAxaOZ5LPow7PAyMW) | [My Idea](https://open.spotify.com/artist/7rfkR5Nc8l4eA34a7eazoW) | [Cry Mfer](https://open.spotify.com/album/1DykAscC1WTP5P0mBRJt85) | 4:14 | 2022-03-26 | 2022-05-20 |
 | [Cujo Kiddies](https://open.spotify.com/track/4pRuTo2NDiLE8HTPv9VpNE) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Cujo Kiddies](https://open.spotify.com/album/1SsCmcRJYISjfb58eK6nEE) | 3:51 | 2022-07-22 | 2022-10-15 |
+| [Cup of Loneliness](https://open.spotify.com/track/3F81ZndWmQF7GDTX7Wz5gs) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH), [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Cup of Loneliness / Choices](https://open.spotify.com/album/7LgCssVLpa87Fg2PGBQxcC) | 2:33 | 2025-12-05 |  |
 | [Cupholder](https://open.spotify.com/track/4E6Ns87WSdNsIYwxZh9KnW) | [October Tooth](https://open.spotify.com/artist/1vwb2e3nTwu2n2eDVGRFeu) | [Cupholder](https://open.spotify.com/album/4lJbfAftjJ7NsHxtiyDRXd) | 3:20 | 2021-09-10 | 2022-04-15 |
 | [Curse Your Fail](https://open.spotify.com/track/51WYRV3q8AvyOyvayez0mc) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd), [Sebastien Grainger](https://open.spotify.com/artist/5HTY4xpY9n7atMo4z8FTNh) | [Curse Your Fail](https://open.spotify.com/album/5x9rRmpiT5cXeAYTcaswFQ) | 4:43 | 2022-01-28 | 2022-04-28 |
 | [Cut Slack](https://open.spotify.com/track/2UaAx2e0UFIWE38YGdaNbS) | [Still Blank](https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71) | [Cut Slack](https://open.spotify.com/album/6Gfxlq97PFLwx3Ji4qRSWY) | 2:13 | 2025-08-22 |  |
@@ -1032,6 +1033,7 @@
 | [Mercury](https://open.spotify.com/track/0koaXm11b7sizUYJ67ebyn) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Mercury](https://open.spotify.com/album/1JgvMVfhrX7t3p2oAzO3aw) | 4:23 | 2025-07-25 |  |
 | [Mercy](https://open.spotify.com/track/0Y8pSUf21GSadiskxuRhUl) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/0bHyVYXp5wWwo7smsgGBLC) | 3:07 | 2024-03-01 | 2024-04-13 |
 | [Mercy](https://open.spotify.com/track/0uiWvlPR43hF0OkBuPY6om) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Mercy](https://open.spotify.com/album/19K8YQiKWRQ2QNGbA0dDdr) | 3:07 | 2024-01-12 | 2024-03-03 |
+| [Merry Go Round](https://open.spotify.com/track/4m0DUFZIHDZljTX3A9viUJ) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Merry Go Round](https://open.spotify.com/album/1CzK5nIf8Vrh3IITXTqW20) | 2:46 | 2025-12-05 |  |
 | [Metalhead](https://open.spotify.com/track/6vBlEMm5JlUVZok4pfVjlu) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Big Smile, Black Mire](https://open.spotify.com/album/6DPefrgbEGENBJsewlf58u) | 3:47 | 2024-11-01 | 2025-04-26 |
 | [Michigan](https://open.spotify.com/track/1WfEUgnWKJLPpuEbEj69qh) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Michigan](https://open.spotify.com/album/6GKWORJPsbQ2lLP5Sa9s6k) | 2:59 | 2024-05-17 | 2024-08-10 |
 | [Middle Man](https://open.spotify.com/track/2if8XzDccK6q3e6NBCxj1o) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Middle Man](https://open.spotify.com/album/54fId2tvhp88PlC9XtoVpD) | 2:58 | 2022-01-28 | 2022-04-16 |
@@ -1139,6 +1141,7 @@
 | [nothing special](https://open.spotify.com/track/5O03nQcevv8aSU2jvzNRpk) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [nothing special](https://open.spotify.com/album/5zBQc6QgD0o0ss1JdIjSFB) | 3:23 | 2023-01-06 | 2023-06-16 |
 | [nothing to do](https://open.spotify.com/track/4LkMLBc3HDYi7lQsaeq7C7) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [sore thumb](https://open.spotify.com/album/6EjM6iU0bqurQwwSN3Ln0T) | 3:04 | 2022-03-26 | 2022-07-09 |
 | [Nothing to Lose](https://open.spotify.com/track/6nz4mFXylnJNfw9GRSYYiG) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Laughter from the Other Room](https://open.spotify.com/album/6mW3lJAAwtzrGq6wJSFmSK) | 2:40 | 2024-02-09 | 2024-06-15 |
+| [Nothing Yet](https://open.spotify.com/track/0lPzRcmnqeVl4MyABe844F) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Nothing Yet](https://open.spotify.com/album/1WOaJer2jVEREhpnNbGpfO) | 4:24 | 2025-12-05 |  |
 | [Nowhere](https://open.spotify.com/track/0WwPT9bZCwOlqaj2G7Pojr) | [Little Guilt](https://open.spotify.com/artist/7poBjSledYHe5LE2LgOhrv) | [Nowhere](https://open.spotify.com/album/2L5u7oVg5oIoSk0a11Ef7g) | 3:12 | 2022-10-14 | 2022-12-15 |
 | [Nowhere, LA](https://open.spotify.com/track/7MmY1Y5pzY7U84sf8KH7uE) | [Why Bonnie](https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9) | [Nowhere, LA](https://open.spotify.com/album/26cITT0Klc8cspvfpH9WNH) | 3:26 | 2022-07-29 | 2023-03-11 |
 | [Nowheresville](https://open.spotify.com/track/6eCA6XPUfROV71NtlJ8jHy) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Breaking the Balls of History](https://open.spotify.com/album/6DVuykMkZf4s7P6hMlnvns) | 2:54 | 2023-01-27 | 2023-03-11 |
@@ -1379,7 +1382,7 @@
 | [sKill isSue](https://open.spotify.com/track/4XFSlBTvpkjvClOl57muno) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [sKill isSue](https://open.spotify.com/album/5KQOYZ9WKmTGpqAUSUNJET) | 1:55 | 2024-05-24 | 2024-08-31 |
 | [Skin Parade / Fade Into You \- Live At Narcissus](https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Live At Narcissus](https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1) | 5:38 | 2024-04-12 | 2024-11-09 |
 | [Sleep In](https://open.spotify.com/track/7xAh188KXyqSqxisi0HL2j) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y), [Small Crush](https://open.spotify.com/artist/5MpGrez01Tx9nl5YQ1Aseq) | [Sleep In](https://open.spotify.com/album/22TydprUERlmijzweFcqpb) | 3:28 | 2022-07-22 | 2022-09-29 |
-| [Sleeping Away My Prime](https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Sleeping Away My Prime](https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK) | 2:33 | 2025-10-17 |  |
+| [Sleeping Away My Prime](https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Sleeping Away My Prime](https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK) | 2:33 | 2025-10-17 | 2025-12-06 |
 | [Sleeping on the Ground](https://open.spotify.com/track/0mEB7kL6nknUILQyD3pzMW) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Sleeping on the Ground](https://open.spotify.com/album/4aJ3DahrixMsErIem1NFM9) | 3:03 | 2022-03-04 | 2022-04-21 |
 | [Slide's Getting Shorter](https://open.spotify.com/track/4x5QG3BeA9agfFb7bsvLQ0) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Slide's Getting Shorter](https://open.spotify.com/album/40voTLKXch9Rge7BlKR56z) | 2:19 | 2022-01-28 | 2022-04-17 |
 | [Slow Angel](https://open.spotify.com/track/7CEvfOY6Sx35SGoareC0eV) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Slow Angel](https://open.spotify.com/album/1KhhUiMSUdbyZC2WgOp4Nf) | 2:32 | 2021-03-05 | 2022-04-12 |
@@ -1456,6 +1459,7 @@
 | [Stacking Chairs](https://open.spotify.com/track/32H8YnMqJVD7OXwJZh7fIj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Stacking Chairs](https://open.spotify.com/album/0rzgO44IxONae6AEPpww41) | 3:08 | 2021-03-05 | 2022-04-29 |
 | [Standard Size Knife](https://open.spotify.com/track/56B6LqzrNp3LMp6WKVjRin) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Standard Size Knife](https://open.spotify.com/album/3NinQNOi1A2hWh5674k5sq) | 4:30 | 2025-08-22 | 2025-11-22 |
 | [Stanley](https://open.spotify.com/track/3nPzk1O9QoPggqgdHwwOly) | [Camille Schmidt](https://open.spotify.com/artist/0XGV1FXgyGB0yg6lPcfQg1) | [Stanley](https://open.spotify.com/album/5ckcYa3gP4RFF9dbeKipPV) | 2:53 | 2024-12-13 | 2025-03-22 |
+| [Star](https://open.spotify.com/track/5yhXwNpMauiItH4zsJJveb) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Star](https://open.spotify.com/album/6ALceKygaMi66f4hNfSOUq) | 2:06 | 2025-12-05 |  |
 | [Stars](https://open.spotify.com/track/5jZBhZi5ZrE3EDOdEJdHrn) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Stars](https://open.spotify.com/album/3OTRR5C4VpcZttyfQz5ouG) | 2:43 | 2022-03-26 | 2022-06-03 |
 | [Stars](https://open.spotify.com/track/3do76ccIVCbR4iEASg5HLm) | [Famous](https://open.spotify.com/artist/76pvNo3GAo5aeXBZ4jVz0k) | [The Valley](https://open.spotify.com/album/3KzOZ0ixGxaJ3VDgZMz7Io) | 3:52 | 2022-03-26 | 2022-05-20 |
 | [Start Select](https://open.spotify.com/track/5EB7K0LnzAjonrIdrLbOzu) | [Homer](https://open.spotify.com/artist/7ANZyzPbMcdINl4ZP6wmyb), [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Ensatina](https://open.spotify.com/album/2EvxK6NN9lsxwUL2GoM1ez) | 3:03 | 2024-11-15 | 2025-02-22 |
@@ -1553,7 +1557,7 @@
 | [The Link Is About to Die](https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:48 | 2022-03-26 | 2022-07-16 |
 | [the lonely girl](https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [the lonely girl](https://open.spotify.com/album/4clOUOCFf89vkXuaTs9Klf) | 3:10 | 2024-02-05 | 2024-06-15 |
 | [THE MIDDLE](https://open.spotify.com/track/4wjpgioltZ2TGkN4h6kMqd) | [PHONY](https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM) | [THE MIDDLE](https://open.spotify.com/album/009SqNhfhKPDIfa6hQRV69) | 2:04 | 2022-07-29 | 2022-09-29 |
-| [The Money Song](https://open.spotify.com/track/4ttS3N5CJaCObiwmJqMmF7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [The Money Song](https://open.spotify.com/album/4s7ThuP73QvrGYxNVTMOlj) | 2:05 | 2025-06-13 |  |
+| [The Money Song](https://open.spotify.com/track/4ttS3N5CJaCObiwmJqMmF7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [The Money Song](https://open.spotify.com/album/4s7ThuP73QvrGYxNVTMOlj) | 2:05 | 2025-06-13 | 2025-12-06 |
 | [the ocean that ate new york](https://open.spotify.com/track/3h8YKo7IZuJI5rqsUeQ3oP) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [this place isnt real](https://open.spotify.com/album/0nTEWpbV22L2jSR7sTbc2R) | 2:47 | 2023-09-01 | 2023-10-30 |
 | [The Old House](https://open.spotify.com/track/48Py2jG47hcyEbq42rNJ3M) | [Malice K](https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI) | [The Old House](https://open.spotify.com/album/6BWKgcaJZQUUqG1Zx2ptVA) | 2:55 | 2024-05-17 | 2024-07-13 |
 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 | 2022-03-26 | 2022-05-19 |

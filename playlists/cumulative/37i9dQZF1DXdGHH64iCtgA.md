@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-269 songs - 21 hr 0 min
+270 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Focus](https://open.spotify.com/track/56mCGN7S1druROilPGNe3R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:22 | 2022-05-06 | 2025-02-01 |
 | [For You](https://open.spotify.com/track/0kVrNcwLbPFYoPCHSLDc7M) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [&](https://open.spotify.com/album/0NkBeWqvEa5VnniPUCk4UW) | 4:26 | 2023-09-07 | 2023-10-02 |
 | [Fourth Rendez\-Vous](https://open.spotify.com/track/4ilhAiU52ZiHlfmQbmfhWq) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Rendez\-Vous](https://open.spotify.com/album/3YrKqMhEdhdvS3BrmKurFr) | 3:58 | 2022-06-14 | 2022-08-24 |
+| [Free Your Mind \(Channel Tres Version\)](https://open.spotify.com/track/4v2wt4SQjJpVNDmfTgEhQ7) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Free Your Mind \(Channel Tres Version\)](https://open.spotify.com/album/1UfhxDoBDTTZr8MXxePy73) | 3:08 | 2025-12-05 |  |
 | [Fresh Faced](https://open.spotify.com/track/2cr4hBM1L966JNlaNdkpRL) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Circles](https://open.spotify.com/album/2q78xap5Jv3j3Do0VIasVZ) | 4:42 | 2023-09-07 | 2023-10-02 |
 | [Fuck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Fuck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 | 2022-05-27 |  |
 | [Girlhood](https://open.spotify.com/track/5WUWlMYIoMvNL35vyxNvZ5) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ) | [Girlhood, la bande originale de Bande de Filles](https://open.spotify.com/album/7DSHUPMJdMZ8YUTzehAzaT) | 2:28 | 2023-09-07 | 2023-10-02 |
@@ -230,7 +231,7 @@
 | [Sol](https://open.spotify.com/track/2nzw5ghlLsOKEqD4EuH6qO) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [Sol De Mi Vida](https://open.spotify.com/album/4FnwfcgBFqIQoUXBccJhmV) | 3:07 | 2023-05-29 | 2024-04-19 |
 | [Solid Ground \- Virgil Abloh Remix](https://open.spotify.com/track/1ErZRORpwdSiWOqmehP4LU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Solid Ground \(Virgil Abloh Remix\)](https://open.spotify.com/album/1oHkZUFpxxYNYjLYMLClTk) | 6:21 | 2022-05-06 |  |
 | [Solitary Daze](https://open.spotify.com/track/2byiq9pZkmCmUmNK5caiRy) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Solitary Daze](https://open.spotify.com/album/5STqq58xC6FbYIB2r7a9DR) | 7:43 | 2023-10-27 | 2024-04-19 |
-| [Solitary Daze](https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Solitary Daze](https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM) | 7:43 | 2022-05-06 |  |
+| [Solitary Daze](https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Solitary Daze](https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM) | 7:43 | 2022-05-06 | 2025-12-06 |
 | [Some Nights](https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv) | [Class Fools](https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt) | [Some Nights](https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r) | 2:48 | 2023-10-01 | 2025-11-06 |
 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 | 2023-09-07 | 2023-10-02 |
 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 | 2022-05-06 |  |

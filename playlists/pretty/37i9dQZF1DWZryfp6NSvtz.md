@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Måneskin's Thomas Raggi
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,410 likes - 120 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,589 likes - 120 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 8 | [DU$T](https://open.spotify.com/track/11JfL2QjuDyyDZAwN3FhaM) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [DU$T](https://open.spotify.com/album/5Y5dHeme65jNSh7XncaKKN) | 2:31 |
 | 9 | [Facelift](https://open.spotify.com/track/0NgCmdWnPs2jIQDPPbif7m) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Dilworth](https://open.spotify.com/album/1IsOJ7IdwOxIxjhiqwvdPm) | 2:38 |
 | 10 | [HARD2TELL](https://open.spotify.com/track/4hOjT0UtqEMGbAEukb84zR) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [HARD2TELL](https://open.spotify.com/album/4aJGlUg8Cms9VtzKS4OrqA) | 2:59 |
-| 11 | [Dead To Me](https://open.spotify.com/track/7aorJglabvQQl3uiyzs014) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [](https://open.spotify.com/album/null) | 3:00 |
+| 11 | [Dead To Me](https://open.spotify.com/track/7aorJglabvQQl3uiyzs014) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [WORRIED SICK](https://open.spotify.com/album/1BGcuCjKVYSPApq1wVlkYv) | 3:00 |
 | 12 | [Intertwine](https://open.spotify.com/track/63supO6RoRwH0f9i57bvX8) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD) | [Intertwine](https://open.spotify.com/album/4efMtZswv8oUGbYA1CntZn) | 2:28 |
 | 13 | [Afterthought](https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Afterthought](https://open.spotify.com/album/27ii2TOEqyRid43g7rnu3X) | 4:20 |
 | 14 | [Torre Velasca](https://open.spotify.com/track/6mndwtQ1j1YZ4gbRmLEkQX) | [Dumbo Gets Mad](https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO) | [FIVE EGGS](https://open.spotify.com/album/6Pv0otbP9L0QWHxBvtBlpC) | 3:05 |
 | 15 | [Drag Me](https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Drag Me](https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj) | 3:06 |
 | 16 | [washing away](https://open.spotify.com/track/5YfOnS5mSh5p9LMSsQuyfS) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [washing away](https://open.spotify.com/album/5H7vC7cCGwn9sqfwjapiUv) | 3:14 |
 | 17 | [Nervous Wreck](https://open.spotify.com/track/0es8dQ6I7klbKRnwc7fkEd) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Nervous Wreck](https://open.spotify.com/album/6XjaxR9XQ7SOrfo7aCzrlv) | 3:06 |
-| 18 | [SEVENTEEN](https://open.spotify.com/track/4RvawFof8a3euSxGe832wt) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [](https://open.spotify.com/album/null) | 3:09 |
-| 19 | [State Trooper](https://open.spotify.com/track/2lJ8DobKspudEWio9U7Ptb) | [Jeremy Allen White](https://open.spotify.com/artist/02VqsexfI15ZQ7XjBujuNJ) | [](https://open.spotify.com/album/null) | 3:13 |
+| 18 | [SEVENTEEN](https://open.spotify.com/track/4RvawFof8a3euSxGe832wt) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [SCRAP](https://open.spotify.com/album/1NgqhKhq5MSf8scptfbCqb) | 3:09 |
+| 19 | [State Trooper](https://open.spotify.com/track/2lJ8DobKspudEWio9U7Ptb) | [Jeremy Allen White](https://open.spotify.com/artist/02VqsexfI15ZQ7XjBujuNJ) | [Springsteen: Deliver Me From Nowhere \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lB2cA3xGhBlxRle2uKKXB) | 3:13 |
 | 20 | [Power](https://open.spotify.com/track/71nTKAppwgxvJu6bQNAND5) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Power](https://open.spotify.com/album/5iikFrd5XKGuCObq5Fxnm8) | 2:15 |
 | 21 | [Mr\. Dada](https://open.spotify.com/track/7yW9SQ8JtScCBf1vcX8MDQ) | [Prostitute](https://open.spotify.com/artist/7fY4LrglQCCiDGUpz4ts47) | [Mr\. Dada](https://open.spotify.com/album/2F7Vj1fGcDO9HMIlGN680n) | 4:59 |
 | 22 | [Blood Runs Gold](https://open.spotify.com/track/6GIivSrrE9HLAT5Sxrg1dS) | [Oh The Larceny](https://open.spotify.com/artist/3p5nfUyEYsxx8izMCym07n) | [Blood Runs Gold](https://open.spotify.com/album/4xrjefZYWoRGq179wGfXgZ) | 2:46 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 25 | [Pissing In The Breeze](https://open.spotify.com/track/4qivfptC7pzRbkrn4TbmSW) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Pissing In The Breeze](https://open.spotify.com/album/3PpWo34YDvu2juzCCdAqac) | 3:11 |
 | 26 | [Heavy Sleeper](https://open.spotify.com/track/3jtANbi2kDWSLEPPSqn3QM) | [Annabelle Chairlegs](https://open.spotify.com/artist/1Fr1a6j80ISD0UonvFM5V6) | [Heavy Sleeper](https://open.spotify.com/album/0fItzuCfxAD7mM1Duv2OXP) | 2:22 |
 | 27 | [Where the Light Leaves](https://open.spotify.com/track/43W0zKZU9R962HlGGoHNLY) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [Where the Light Leaves](https://open.spotify.com/album/34FAgzBCmGWThMi1NVbAAh) | 1:58 |
-| 28 | [Darkness Be My Friend](https://open.spotify.com/track/7DJjr6ix7iKXyevtSCfYCD) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Darkness Be My Friend](https://open.spotify.com/album/1ZQ8MvbrziIkVTnE4eMkc8) | 4:19 |
+| 28 | [Darkness, be my friend](https://open.spotify.com/track/7DJjr6ix7iKXyevtSCfYCD) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Darkness, be my friend](https://open.spotify.com/album/1ZQ8MvbrziIkVTnE4eMkc8) | 4:19 |
 | 29 | [Whip](https://open.spotify.com/track/4YM7SjY7fMIUIIdYUdkOKH) | [Poppy Wizard](https://open.spotify.com/artist/1C6oYJnXAnkYy6et1TjzbL) | [Whip](https://open.spotify.com/album/3nVTpZq1ifnXoeQ4Jh19Db) | 4:16 |
 | 30 | [GHOST \(Reimagined\)](https://open.spotify.com/track/78oyhlScZnaKkxRYxrOYbm) | [Minute After Midnight](https://open.spotify.com/artist/1I2FT3hzoEYgxaIlCMkotA) | [GHOST \(Reimagined\)](https://open.spotify.com/album/0RVzRhaOeQsjljuLd4YTWl) | 4:07 |
 | 31 | [Home](https://open.spotify.com/track/51U7NEwrQE6b3DQuwPYHWe) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Home](https://open.spotify.com/album/4Y1qs1AU2eED4wSo7MJuQA) | 2:14 |

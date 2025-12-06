@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: My Ugly Clementine
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,693 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,736 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Won](https://open.spotify.com/track/5PXWEZsNcnhenhpICdPWRW) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [You Won](https://open.spotify.com/album/6CNDPyJnxIMKrXLC8ph3wR) | 2:45 |
-| 2 | [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [](https://open.spotify.com/album/null) | 2:50 |
+| 2 | [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:50 |
 | 3 | [Close Quarters \- From the Motel](https://open.spotify.com/track/1n7qNq4oj8Aul2Z5os3jfL) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Close Quarters \(From the Motel\)](https://open.spotify.com/album/0RcYAShzVrwu9OvNEJBMSJ) | 3:23 |
 | 4 | [Halfway Out the Door](https://open.spotify.com/track/70YdMAT7BLbm20ctHw7Ngx) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Halfway Out the Door](https://open.spotify.com/album/68Tn42x0tE0RbB549p73zg) | 2:38 |
-| 5 | [Love You Like a Rainbow](https://open.spotify.com/track/5n2yojSdwu1ClUByBFp24R) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [](https://open.spotify.com/album/null) | 3:01 |
+| 5 | [Love You Like a Rainbow](https://open.spotify.com/track/5n2yojSdwu1ClUByBFp24R) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Oh! The Ocean \(Extended Version\)](https://open.spotify.com/album/5CnkossieD4tmC9sYwUNRV) | 3:01 |
 | 6 | [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 |
-| 7 | [Deep Dive](https://open.spotify.com/track/6vVMaiofg4IFJtn8yYqQ8x) | [Tom Smith](https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM) | [](https://open.spotify.com/album/null) | 4:11 |
-| 8 | [Darkness Be My Friend](https://open.spotify.com/track/7DJjr6ix7iKXyevtSCfYCD) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Darkness Be My Friend](https://open.spotify.com/album/1ZQ8MvbrziIkVTnE4eMkc8) | 4:19 |
+| 7 | [Deep Dive](https://open.spotify.com/track/6vVMaiofg4IFJtn8yYqQ8x) | [Tom Smith](https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM) | [There Is Nothing In The Dark That Isn't There In The Light](https://open.spotify.com/album/3skYNW6jr0A74PoHjmu7ZB) | 4:11 |
+| 8 | [Darkness, be my friend](https://open.spotify.com/track/7DJjr6ix7iKXyevtSCfYCD) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Darkness, be my friend](https://open.spotify.com/album/1ZQ8MvbrziIkVTnE4eMkc8) | 4:19 |
 | 9 | [Paranoia](https://open.spotify.com/track/3NmT8Lem5MY63PEUf3iDKj) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [Paranoia](https://open.spotify.com/album/3X6Ef05LmeZcewtqZ6PxNM) | 2:51 |
 | 10 | [Maybe, Finally](https://open.spotify.com/track/4DQ2NDWgc2CKaLJc33QqE4) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Not For Lack Of Trying](https://open.spotify.com/album/5oZeGHp3f5TXuMCtEfrvEd) | 3:05 |
-| 11 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [](https://open.spotify.com/album/null) | 3:22 |
+| 11 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 |
 | 12 | [Ants on the Wall](https://open.spotify.com/track/0YD07EwSgOQe2vxUmCi3Jm) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Ants on the Wall](https://open.spotify.com/album/6EEIvilhvNeqKRdcxZo4WO) | 5:19 |
-| 13 | [Track 5](https://open.spotify.com/track/02A9GeCWcg4eesu516rFxX) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [](https://open.spotify.com/album/null) | 0:00 |
+| 13 | [Ten Years Later](https://open.spotify.com/track/02A9GeCWcg4eesu516rFxX) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Ten Years Later](https://open.spotify.com/album/6EIWGUm6N8EUXvk0Bzn1re) | 2:57 |
 | 14 | [kingdom far](https://open.spotify.com/track/0ugLU1ljjh5YYrHoPqc3ob) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [kingdom far](https://open.spotify.com/album/2tJdK1EU2qjpDPVd9mtmDd) | 3:59 |
 | 15 | [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 |
 | 16 | [The House That Doesn’t Exist](https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [The House That Doesn’t Exist](https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx) | 2:23 |
 | 17 | [All About Me](https://open.spotify.com/track/0bVBKZA6f34uzJYVgkuZJr) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [All About Me](https://open.spotify.com/album/2j2fKVWAYVIIxVbhg2wbZj) | 2:51 |
-| 18 | [Track 13](https://open.spotify.com/track/3eVR4S2JjPF1ITdoUTMLWk) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [](https://open.spotify.com/album/null) | 0:00 |
+| 18 | [Rotting Ripe](https://open.spotify.com/track/3eVR4S2JjPF1ITdoUTMLWk) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Super Pedestrian \(Deluxe\)](https://open.spotify.com/album/58aEJcSWEzDr0ElfGJBZfW) | 3:21 |
 | 19 | [The Lighthouse](https://open.spotify.com/track/1JuV4UfiBCp9UkiuQ7yMBE) | [PILLBERT](https://open.spotify.com/artist/5dZOP8vaESkt7iQqwhDGox) | [The Lighthouse](https://open.spotify.com/album/4brHkBBK8yIPOGIgB8NqVM) | 5:18 |
 | 20 | [Better Said](https://open.spotify.com/track/0DiCp82RvyDtk1u4AzLCTY) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Better Said](https://open.spotify.com/album/2cQOUGWfWd0x1uyCTDC1WE) | 2:50 |
 | 21 | [Life at the Hollywood Bowl](https://open.spotify.com/track/3Mmt393LeNjftyI4a63vtL) | [Fortuna Ehrenfeld](https://open.spotify.com/artist/7xs1dZEBvPCk2zktBhVeKb) | [Life at the Hollywood Bowl](https://open.spotify.com/album/2MajXnqfCzOiJSUbeJzda9) | 3:22 |

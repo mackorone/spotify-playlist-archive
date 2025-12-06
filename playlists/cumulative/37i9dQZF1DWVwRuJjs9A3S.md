@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie, med Svart Ridå
 
-1,042 songs - 2 day 12 hr 23 min
+1,043 songs - 2 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Heartbreakdown](https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Heartbreakdown](https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY) | 4:14 | 2025-02-06 | 2025-03-28 |
 | [Hearts Intuition](https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 3:21 | 2025-05-01 | 2025-10-10 |
 | [Heaven](https://open.spotify.com/track/67RloP5xniak0DT4jXwxX0) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Lev](https://open.spotify.com/artist/534mPnx4yc2nDRE2M8xPzn) | [Heaven](https://open.spotify.com/album/0dTP1GvdwEb3MXHks8qbYa) | 3:54 | 2024-07-25 | 2024-08-30 |
+| [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:50 | 2025-12-05 |  |
 | [heaven will have to wait](https://open.spotify.com/track/2C7Bp6NP6b1YJuA8xupPjq) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [heaven will have to wait](https://open.spotify.com/album/6W4HArAVsUvIbsOfpPYBMg) | 2:47 | 2025-06-26 | 2025-10-17 |
 | [Heavens Gate](https://open.spotify.com/track/3I5Zc4zBo4NE3SKqTtVPSO) | [Ziggy Maxwell](https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE) | [Heavens Gate](https://open.spotify.com/album/0qpYlQaTNHiHgkgf6bpJqo) | 4:34 | 2025-08-07 |  |
 | [Hedgehog](https://open.spotify.com/track/3osfNjmtev57CZjDAAgSIM) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Hedgehog](https://open.spotify.com/album/62LC3S1lmbe7JIuRryTOrs) | 2:59 | 2025-05-22 | 2025-10-10 |
@@ -913,7 +914,7 @@
 | [The story of us](https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit \(deluxe\)](https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu) | 2:23 | 2025-10-16 |  |
 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-08 | 2024-09-13 |
 | [the thing about you](https://open.spotify.com/track/6KNGUyfu8l8BTwUP0urEhQ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [the thing about you](https://open.spotify.com/album/4peXtpFElRZAgs76jHOifT) | 2:40 | 2024-06-27 | 2024-08-23 |
-| [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [](https://open.spotify.com/album/null) | 3:22 | 2025-12-04 |  |
+| [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-04 |  |
 | [The Unshaken Frame](https://open.spotify.com/track/6w6Tv5D6Od9Khtzarcl0wy) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [The Unshaken Frame](https://open.spotify.com/album/6Hdg7trGeWQZOmVt7wz8wC) | 3:29 | 2025-04-24 | 2025-07-25 |
 | [The Wannabe](https://open.spotify.com/track/2rWPq0boMTydPsl8zFqafM) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Oh My God \- That's So Me](https://open.spotify.com/album/3Pumb6shTeFPOskFWHClay) | 3:03 | 2024-09-05 | 2024-11-15 |
 | [The world of yesterday](https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The world of yesterday](https://open.spotify.com/album/3j2tB7H1Ez1HHP8dO1e5nr) | 3:32 | 2024-10-10 | 2024-11-15 |
@@ -996,7 +997,7 @@
 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 | 2024-06-27 | 2024-08-09 |
 | [When the Lavender Blooms](https://open.spotify.com/track/6o5q8AfVvepf91QadXRsXu) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [When the Lavender Blooms](https://open.spotify.com/album/3N5fQyXfKJPpQvHm3mG4pw) | 3:36 | 2025-07-24 |  |
 | [When Time Flies](https://open.spotify.com/track/7atid9fr2KS4GSbSXJASHo) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [When Time Flies](https://open.spotify.com/album/4r4SgJSpdtmsn0REjE7JrG) | 3:18 | 2025-05-01 | 2025-07-25 |
-| [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [](https://open.spotify.com/album/null) | 4:28 | 2025-12-04 |  |
+| [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 | 2025-12-04 |  |
 | [wheniseeuitallcomesback](https://open.spotify.com/track/6v1nbUdyczgSEK4xp6p9DU) | [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG), [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [Love Matt](https://open.spotify.com/artist/30bO8jaKbhrLC1yrTgvrUf) | [wheniseeuitallcomesback](https://open.spotify.com/album/6WpBQoNffwbCWOd1njvllt) | 2:48 | 2025-06-19 | 2025-10-17 |
 | [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 | 2024-12-19 | 2025-02-14 |
 | [Where's my gun](https://open.spotify.com/track/6L2L9876hsCZCa35nlb3RF) | [Nowhere Blue](https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP) | [Where's my gun](https://open.spotify.com/album/7uLl7ESICLbVQHgfV5VmyX) | 2:44 | 2025-03-07 | 2025-05-16 |

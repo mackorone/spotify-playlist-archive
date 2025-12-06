@@ -1897,6 +1897,28 @@
     },
     {
       "album": {
+        "name": "BIG TAZE",
+        "url": "https://open.spotify.com/album/6KY24lWvNTk447Hu9iRGKm"
+      },
+      "artists": [
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        },
+        {
+          "name": "Noukou",
+          "url": "https://open.spotify.com/artist/7x0IZxCa7zv3ROFI7xbLUN"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171446,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/1NlOBqqVvZrgxn3ZyBGXBw"
+    },
+    {
+      "album": {
         "name": "Ambiance Facile 2,5",
         "url": "https://open.spotify.com/album/4qPa9RPwcWr1D2AciMOiLW"
       },
@@ -3928,24 +3950,6 @@
       "duration_ms": 255928,
       "name": "Tout oublier",
       "url": "https://open.spotify.com/track/73XxMiR2dv0NrzPD4XpcsR"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Tazeboy",
-          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
-        }
-      ],
-      "date_added": "2025-12-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/1NlOBqqVvZrgxn3ZyBGXBw"
     },
     {
       "album": {

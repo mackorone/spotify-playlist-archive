@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9MSda6Nd6c.md) - [plain]
 
 > Vuoden 2025 suomalaiset läpimurtoartistit \- uusia nimiä ja tuttuja tekijöitä, jotka nousivat tänä vuonna valokeilaan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 168 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

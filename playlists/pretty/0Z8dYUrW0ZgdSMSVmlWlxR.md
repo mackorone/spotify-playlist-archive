@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 49,322 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 49,316 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,7 +209,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 199 | [boss fight](https://open.spotify.com/track/4gbX2wcq0khJfPs31icqco) | [RbowChickenn](https://open.spotify.com/artist/1HBTjjhnhRytcJDybZ8NyL) | [boss fight](https://open.spotify.com/album/5ibwn54n5IqWeAQUNPBS1Q) | 1:52 |
 | 200 | [RESTART](https://open.spotify.com/track/19scI0PjnFPPBVxX97sV0j) | [SOUTHINFERNO](https://open.spotify.com/artist/0ojJP10gc2I5f2xxR2JjKE) | [ULTIMATE DESTRUCTION](https://open.spotify.com/album/645Pb54zQjhguqIeyazBVp) | 1:55 |
 | 201 | [Mosh Pit](https://open.spotify.com/track/6fcUcPVAOkJ83JBDDaWNuo) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [OverDrive](https://open.spotify.com/artist/4WGGHN3xUu9mhDObu3Oqhp) | [Mosh Pit](https://open.spotify.com/album/5U8vM3Yx7szrvefbiTHxX5) | 2:41 |
-| 202 | [Лолихантер](https://open.spotify.com/track/6S31tv3FB6RXPR7NXZ2fCW) | [Neverlove](https://open.spotify.com/artist/6ZTZ9okCK9fUOb0N6ivKjm), [bratishkin](https://open.spotify.com/artist/4LK9n6W9HnVjN94H7iHGqH) | [Лолихантер](https://open.spotify.com/album/2f2LlExQK5ThwUMVmv2KG5) | 2:40 |
+| 202 | [Лолихантер](https://open.spotify.com/track/6S31tv3FB6RXPR7NXZ2fCW) | [Neverlove](https://open.spotify.com/artist/6ZTZ9okCK9fUOb0N6ivKjm), [bratishkin](https://open.spotify.com/artist/7Awhoh9acilj4g59mSAvoJ) | [Лолихантер](https://open.spotify.com/album/2f2LlExQK5ThwUMVmv2KG5) | 2:40 |
 | 203 | [IMMORTAL](https://open.spotify.com/track/77VfC7OJKQkAq0Wzqw8Hzq) | [JUNIOR FERRARI](https://open.spotify.com/artist/3fTPRl2uPOj1rEABgUldTt) | [IMMORTAL](https://open.spotify.com/album/1y5uBxIf3PCwcLlrSayzog) | 2:16 |
 | 204 | [DeadZone](https://open.spotify.com/track/2OgjidrCr57rMIuY7wOhgQ) | [BXGR](https://open.spotify.com/artist/3fdxkVo2kXeE4F39l26bGH) | [DeadZone](https://open.spotify.com/album/18olMobeSegLwJcEmn1JJT) | 2:03 |
 | 205 | [Drop The World](https://open.spotify.com/track/5LocRrd1ufRujH13uu3hR7) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2) | [UNSHAKABLE](https://open.spotify.com/album/33LoD04FfXQLjSaIqf9CCS) | 3:36 |

@@ -4,7 +4,7 @@
 
 > Home is where the main stage is 💙 with AFROJACK, Martin Garrix, David Guetta, and Amél
 
-868 songs - 1 day 20 hr 38 min
+869 songs - 1 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [High On Love](https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [High On Love](https://open.spotify.com/album/1RS0vAX4YynNRKyxl7DoAw) | 2:56 | 2024-05-31 | 2024-06-29 |
 | [Higher](https://open.spotify.com/track/02c0NbxXc8b3TWxUObpNUt) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Higher](https://open.spotify.com/album/3iRA5e1mvQoc4BrY8YdO8f) | 3:05 | 2025-11-07 |  |
 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 | 2022-03-18 | 2022-08-06 |
-| [Higher Off The Ground](https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Higher Off The Ground](https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a) | 3:05 | 2025-11-07 |  |
+| [Higher Off The Ground](https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Higher Off The Ground](https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a) | 3:05 | 2025-11-07 | 2025-12-06 |
 | [Higher Power \- Tiësto Remix](https://open.spotify.com/track/04zCkONaIDxTx2gDjV1yCd) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Higher Power \(Tiësto Remix\)](https://open.spotify.com/album/31uapL5Q92IadPRWycdPKK) | 3:49 | 2021-06-04 | 2022-04-21 |
 | [hold my hand](https://open.spotify.com/track/3GPmn3HANnZTlEovc2J9nt) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Sophia Gripari](https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH) | [hold my hand](https://open.spotify.com/album/0CgtiMzPmtvTM115elKHao) | 4:26 | 2024-10-25 | 2025-01-27 |
 | [Hold On](https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Hold On](https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv) | 3:24 | 2025-10-24 |  |
@@ -541,6 +541,7 @@
 | [Numb](https://open.spotify.com/track/57shGnZUQqID5cz9TiKFuE) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Distorted Dreams](https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO) | [Numb](https://open.spotify.com/album/3UnXP6zjDzDBXKr7S0RzfV) | 3:31 | 2024-07-05 | 2024-07-27 |
 | [Numb \- Alok Remix](https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Numb \(Alok Remix\)](https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf) | 2:52 | 2022-08-12 | 2023-07-29 |
 | [Oblivion](https://open.spotify.com/track/2d5KjsVCU7ryRfvEtVdTIh) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Oblivion](https://open.spotify.com/album/1W4Ubpu9smoA6FK1AjM5Ui) | 2:35 | 2023-02-03 | 2023-05-08 |
+| [obvious](https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [undux](https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9) | 3:32 | 2025-12-05 |  |
 | [Ocean](https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Ocean](https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf) | 3:16 | 2024-11-30 |  |
 | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm) | 2:13 | 2025-01-17 | 2025-08-02 |
 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 | 2021-07-23 | 2022-09-13 |

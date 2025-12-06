@@ -3681,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "Prijskaart - Intro",
+        "url": "https://open.spotify.com/album/0pM4lngjlsB7a9hGUfffme"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165937,
+      "name": "Prijskaart - Intro",
+      "url": "https://open.spotify.com/track/1AxLALp6JPMcNGKwLbrH8Q"
+    },
+    {
+      "album": {
         "name": "",
         "url": "https://open.spotify.com/album/null"
       },
@@ -3692,7 +3710,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 165937,
       "name": "Prijskaart - Intro",
       "url": "https://open.spotify.com/track/3iqHnpBdeVvXti6wAEAz23"
@@ -3824,6 +3842,28 @@
       "duration_ms": 139891,
       "name": "Risico's",
       "url": "https://open.spotify.com/track/1mGE91efwr1B8B2xvdG2gU"
+    },
+    {
+      "album": {
+        "name": "VOOR DE RITSELAARS",
+        "url": "https://open.spotify.com/album/2h4PDrB0ZQFYxlaY2LCmb1"
+      },
+      "artists": [
+        {
+          "name": "Rits",
+          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
+        },
+        {
+          "name": "Solid Circle",
+          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188516,
+      "name": "Rodney",
+      "url": "https://open.spotify.com/track/7cgggy3ha5vFg1J96sI93o"
     },
     {
       "album": {
@@ -4584,24 +4624,6 @@
       "duration_ms": 195349,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/02SkhSShsYpPPAmqwdJi6B"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Rits",
-          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
-        }
-      ],
-      "date_added": "2025-12-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7cgggy3ha5vFg1J96sI93o"
     },
     {
       "album": {

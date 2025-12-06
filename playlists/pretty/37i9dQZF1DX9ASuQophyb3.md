@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Funda Arar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,002 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,095 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 4 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 |
 | 5 | [Amatör](https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Amatör](https://open.spotify.com/album/1XfKv2avb7ICbTN97X58Bc) | 2:43 |
 | 6 | [evvel ezel](https://open.spotify.com/track/5g5qz9ITYSc7N7r0G05cob) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [evvel ezel](https://open.spotify.com/album/0aeneVMdfTNUQrbnwh5aKT) | 3:39 |
-| 7 | [Vazgeçmem](https://open.spotify.com/track/4NfDePPzLzpjWeAMoL4xat) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx), [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [](https://open.spotify.com/album/null) | 2:38 |
+| 7 | [Vazgeçmem](https://open.spotify.com/track/4NfDePPzLzpjWeAMoL4xat) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx), [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [4K](https://open.spotify.com/album/1mPLFeBrXi3wjDJWTqjI70) | 2:38 |
 | 8 | [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 |
-| 9 | [Estiğimin Rüzgarı](https://open.spotify.com/track/4cjjgWYuKMw7UOmKMiuQQD) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx), [Alisher Nazirov](https://open.spotify.com/artist/5gNDTBKYh1w8eQ9gQUhN3F) | [Estiğimin Rüzgarı](https://open.spotify.com/album/4oggasI6N7u87hHbrxzIPR) | 3:10 |
+| 9 | [Estiğimin Rüzgarı](https://open.spotify.com/track/4cjjgWYuKMw7UOmKMiuQQD) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx), [Ali Sher](https://open.spotify.com/artist/1cq1LlWDEfXZ0w8nrUVQUZ) | [Estiğimin Rüzgarı](https://open.spotify.com/album/4oggasI6N7u87hHbrxzIPR) | 3:10 |
 | 10 | [Tanrı Misafiri](https://open.spotify.com/track/31aR9GW585yf3QUDpFmZcY) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Yeniden Söylüyor](https://open.spotify.com/album/4l8vxQ7MUjHd2wJPpc5Po1) | 3:43 |
 | 11 | [Bir Başıma](https://open.spotify.com/track/591vD59s3EeTxLFH9K5OWk) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bir Başıma](https://open.spotify.com/album/3eW6cRPWUdzifoxcHAar8g) | 6:13 |
 | 12 | [Geçici Heves](https://open.spotify.com/track/6M5H5kmVKNIFjigLjENjUP) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Geçici Heves](https://open.spotify.com/album/6crH2gCQzjwTN5Tm0YK4U1) | 3:28 |

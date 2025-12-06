@@ -1,13 +1,205 @@
 {
-  "description": "A delicious mix of new songs in high rotation. Cover: Hudson Freeman",
-  "num_followers": 1940371,
+  "description": "A delicious mix of new songs in high rotation. Cover: Mother Soki",
+  "num_followers": 1940260,
   "original_name": "Indie's Top 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN32t8yATlZW6KPQwjB/vxXbeIzR",
+  "snapshot_id": "AAAAAB2tLX1zTc8Z/nFZ0+2sikXdj3x9",
   "tracks": [
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
+        "name": "Little House",
+        "url": "https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Little House",
+      "url": "https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5"
+    },
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 291190,
+      "name": "White Gloves ii",
+      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
+    },
+    {
+      "added_at": "2025-11-21 04:43:13",
+      "album": {
+        "name": "If You Know Me / Wild Horses",
+        "url": "https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "If You Know Me",
+      "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
+    },
+    {
+      "added_at": "2025-10-31 04:00:42",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 165460,
+      "name": "Pale Song",
+      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
+    },
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
+        "name": "In Twos",
+        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 166897,
+      "name": "In Twos",
+      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
+    },
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/0JzyMf9Nj4j4j3akwg4fMG"
+      },
+      "artists": [
+        {
+          "name": "Mother Soki",
+          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Bygones",
+      "url": "https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0"
+    },
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
+        "name": "Balloon Balloon Balloon",
+        "url": "https://open.spotify.com/album/4rCduWuK1sHdM4TNILadHp"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "duration_ms": 176812,
+      "name": "Popafangout",
+      "url": "https://open.spotify.com/track/7bEHAHKACvKJNtxdTmm0fG"
+    },
+    {
+      "added_at": "2025-11-21 04:43:13",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
+    },
+    {
+      "added_at": "2025-10-31 04:00:42",
+      "album": {
+        "name": "Sympathy Magic",
+        "url": "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 268886,
+      "name": "Sympathy Magic",
+      "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
+    },
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
+        "name": "A Constant Charade",
+        "url": "https://open.spotify.com/album/60rPZxVWJo6Gy8RduvuKlY"
+      },
+      "artists": [
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        }
+      ],
+      "duration_ms": 164479,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/1IbcX5yIsTavsZmZKr2OGR"
+    },
+    {
+      "added_at": "2025-12-05 15:07:29",
+      "album": {
+        "name": "crown",
+        "url": "https://open.spotify.com/album/4I66uDblwwE9jw4jqSR3VQ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Aged",
+          "url": "https://open.spotify.com/artist/6MDHB1sd0dW7eI5weGsgTG"
+        }
+      ],
+      "duration_ms": 253312,
+      "name": "Heights",
+      "url": "https://open.spotify.com/track/6fNYwXCVTEIrDQ5chYHR4Q"
+    },
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
+        "name": "insomniac",
+        "url": "https://open.spotify.com/album/3A1iTEkYhGLGUG0mZePZG8"
+      },
+      "artists": [
+        {
+          "name": "bunii",
+          "url": "https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W"
+        }
+      ],
+      "duration_ms": 99184,
+      "name": "insomniac",
+      "url": "https://open.spotify.com/track/3Xp2c6wgkYKSawJp6FyB8v"
+    },
     {
       "added_at": "2025-09-26 04:00:25",
       "album": {
@@ -27,22 +219,6 @@
       "duration_ms": 317000,
       "name": "Moon (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "Sympathy Magic",
-        "url": "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 268886,
-      "name": "Sympathy Magic",
-      "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
     },
     {
       "added_at": "2025-11-21 04:43:13",
@@ -77,20 +253,20 @@
       "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
     },
     {
-      "added_at": "2025-11-21 04:43:13",
+      "added_at": "2025-12-05 05:00:28",
       "album": {
-        "name": "If You Know Me / Wild Horses",
-        "url": "https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8"
+        "name": "Find Your Love",
+        "url": "https://open.spotify.com/album/7ffIGFj6wU4Z5CC56EmD5D"
       },
       "artists": [
         {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
         }
       ],
-      "duration_ms": 203333,
-      "name": "If You Know Me",
-      "url": "https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL"
+      "duration_ms": 190513,
+      "name": "Find Your Love",
+      "url": "https://open.spotify.com/track/34yxhgQ7fIRnT6l6LmlUxD"
     },
     {
       "added_at": "2025-10-31 04:00:42",
@@ -133,6 +309,22 @@
       "url": "https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX"
     },
     {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
+        "name": "Upstairs",
+        "url": "https://open.spotify.com/album/21GM9mt6zL9t2qcCkTIBk3"
+      },
+      "artists": [
+        {
+          "name": "TTSSFU",
+          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
+        }
+      ],
+      "duration_ms": 219180,
+      "name": "Upstairs",
+      "url": "https://open.spotify.com/track/2NOqmL7HRSm4FwpwKMuRZL"
+    },
+    {
       "added_at": "2025-11-14 02:56:38",
       "album": {
         "name": "Evangeline",
@@ -151,26 +343,6 @@
       "duration_ms": 206800,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs"
-    },
-    {
-      "added_at": "2025-11-21 04:43:13",
-      "album": {
-        "name": "JET LAGGED",
-        "url": "https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        },
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 195454,
-      "name": "JET LAGGED",
-      "url": "https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC"
     },
     {
       "added_at": "2025-11-21 04:43:13",
@@ -257,38 +429,6 @@
       "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
     },
     {
-      "added_at": "2025-11-21 04:43:13",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 247588,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
-    },
-    {
-      "added_at": "2025-11-07 03:44:05",
-      "album": {
-        "name": "Vicious Delicious",
-        "url": "https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR"
-    },
-    {
       "added_at": "2025-10-31 04:00:42",
       "album": {
         "name": "Holy Water",
@@ -351,22 +491,6 @@
       "duration_ms": 259073,
       "name": "Letters From The Day",
       "url": "https://open.spotify.com/track/6MkGpvikb539hjZWYzIyJz"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 165460,
-      "name": "Pale Song",
-      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
     },
     {
       "added_at": "2025-11-14 02:56:38",
@@ -473,6 +597,22 @@
       "url": "https://open.spotify.com/track/3MneCEeEwmHI6yG4EucrNI"
     },
     {
+      "added_at": "2025-10-31 04:00:42",
+      "album": {
+        "name": "Name the Band",
+        "url": "https://open.spotify.com/album/4bkmysvsFtwNJ77tsuKAdQ"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 92883,
+      "name": "Name the Band",
+      "url": "https://open.spotify.com/track/4Lw1vRz87nTpJ3Pb9RpQvN"
+    },
+    {
       "added_at": "2025-11-14 02:56:38",
       "album": {
         "name": "Beck n Call",
@@ -561,38 +701,6 @@
       "url": "https://open.spotify.com/track/54oWq2u1IVqanzTdyihMcg"
     },
     {
-      "added_at": "2025-08-22 04:00:32",
-      "album": {
-        "name": "Hey You",
-        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
-      },
-      "artists": [
-        {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
-        }
-      ],
-      "duration_ms": 211313,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "LOTTO",
-        "url": "https://open.spotify.com/album/0RUhLv4D06s1co2Vv6UbdT"
-      },
-      "artists": [
-        {
-          "name": "They Are Gutting a Body of Water",
-          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
-        }
-      ],
-      "duration_ms": 170370,
-      "name": "baeside k",
-      "url": "https://open.spotify.com/track/4a3kSpXYRn96Vv8JAEswG1"
-    },
-    {
       "added_at": "2025-10-03 04:00:45",
       "album": {
         "name": "Dearly Missed",
@@ -677,38 +785,6 @@
       "url": "https://open.spotify.com/track/0Sxq0LWeaTFraveN6P8Vne"
     },
     {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "Running Errands",
-        "url": "https://open.spotify.com/album/67HHtry07ZJ6oDjKe1ABYj"
-      },
-      "artists": [
-        {
-          "name": "U.S. Girls",
-          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
-        }
-      ],
-      "duration_ms": 153717,
-      "name": "Running Errands (Yesterday)",
-      "url": "https://open.spotify.com/track/2nRvPmnxd4FW7AvPY70FvQ"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "Name the Band",
-        "url": "https://open.spotify.com/album/4bkmysvsFtwNJ77tsuKAdQ"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 92883,
-      "name": "Name the Band",
-      "url": "https://open.spotify.com/track/4Lw1vRz87nTpJ3Pb9RpQvN"
-    },
-    {
       "added_at": "2025-09-25 02:15:18",
       "album": {
         "name": "lucre",
@@ -727,54 +803,6 @@
       "duration_ms": 120500,
       "name": "5",
       "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "Queen of Globes and Mirrors",
-        "url": "https://open.spotify.com/album/7eukxMrejz3e2lAa6MvI4i"
-      },
-      "artists": [
-        {
-          "name": "Sharp Pins",
-          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
-        }
-      ],
-      "duration_ms": 170405,
-      "name": "Queen of Globes and Mirrors",
-      "url": "https://open.spotify.com/track/0WVUqSVEPbxteCovUZxi3t"
-    },
-    {
-      "added_at": "2025-08-22 04:00:32",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 268410,
-      "name": "Yamaha",
-      "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "Time Time Time (I'm in the Palm of Your Hand)",
-        "url": "https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG"
-      },
-      "artists": [
-        {
-          "name": "Yndling",
-          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "Time Time Time (I'm in the Palm of Your Hand)",
-      "url": "https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD"
     },
     {
       "added_at": "2025-10-17 01:52:55",
@@ -797,22 +825,6 @@
       "url": "https://open.spotify.com/track/6leeLmx8UArqFZtqTsoUN8"
     },
     {
-      "added_at": "2025-09-19 04:00:37",
-      "album": {
-        "name": "Bleeds",
-        "url": "https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Townies",
-      "url": "https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo"
-    },
-    {
       "added_at": "2025-10-10 04:00:20",
       "album": {
         "name": "Hit My Head All Day",
@@ -829,22 +841,6 @@
       "url": "https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN"
     },
     {
-      "added_at": "2025-08-29 04:00:45",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
-    },
-    {
       "added_at": "2025-10-10 04:00:20",
       "album": {
         "name": "The Coward Forgets His Nightmare",
@@ -859,86 +855,6 @@
       "duration_ms": 212957,
       "name": "The Coward Forgets His Nightmare",
       "url": "https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb"
-    },
-    {
-      "added_at": "2025-10-31 04:00:42",
-      "album": {
-        "name": "Half-Nelson",
-        "url": "https://open.spotify.com/album/6cPsjvVs2XdGPZMwJ89C3F"
-      },
-      "artists": [
-        {
-          "name": "binki",
-          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/5UlFWR77V8IaJaa16Tz5Gd"
-    },
-    {
-      "added_at": "2025-10-10 04:00:20",
-      "album": {
-        "name": "System",
-        "url": "https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru"
-      },
-      "artists": [
-        {
-          "name": "Prewn",
-          "url": "https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "It's Only You",
-      "url": "https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW"
-    },
-    {
-      "added_at": "2025-08-29 04:00:45",
-      "album": {
-        "name": "Essex Honey",
-        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 262335,
-      "name": "Vivid Light",
-      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
-    },
-    {
-      "added_at": "2025-09-05 04:00:23",
-      "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/3UGeIKs2PcNCp4nphu9BMf"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 214142,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/6EWbV0FVnL9CHiSrMyhtpR"
-    },
-    {
-      "added_at": "2025-09-12 00:38:11",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 143592,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
     }
   ],
   "unique_name": "Indie's Top 50",

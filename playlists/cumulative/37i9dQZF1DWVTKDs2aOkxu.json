@@ -2189,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/0JzyMf9Nj4j4j3akwg4fMG"
+      },
+      "artists": [
+        {
+          "name": "Mother Soki",
+          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240813,
+      "name": "Bygones",
+      "url": "https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0"
+    },
+    {
+      "album": {
         "name": "Call It Easy",
         "url": "https://open.spotify.com/album/2OLl9MNoyQ5LBHOVjLYQy5"
       },
@@ -3129,7 +3147,7 @@
     },
     {
       "album": {
-        "name": "Darkness Be My Friend",
+        "name": "Darkness, be my friend",
         "url": "https://open.spotify.com/album/1ZQ8MvbrziIkVTnE4eMkc8"
       },
       "artists": [
@@ -3142,7 +3160,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 259859,
-      "name": "Darkness Be My Friend",
+      "name": "Darkness, be my friend",
       "url": "https://open.spotify.com/track/7DJjr6ix7iKXyevtSCfYCD"
     },
     {
@@ -12143,8 +12161,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
       },
       "artists": [
         {
@@ -12738,24 +12756,6 @@
       "duration_ms": 195306,
       "name": "Townies",
       "url": "https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Mother Soki",
-          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
-        }
-      ],
-      "date_added": "2025-12-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/7hMlmQzbBWwj0rAjELr6I0"
     },
     {
       "album": {
@@ -13491,8 +13491,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Blizzard",
+        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
       },
       "artists": [
         {

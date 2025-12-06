@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-427 songs - 22 hr 5 min
+429 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Need Ya](https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Need Ya](https://open.spotify.com/album/7shTamr3MYWd0OOIBWcwwu) | 2:40 | 2022-07-29 | 2022-08-01 |
 | [Need You](https://open.spotify.com/track/7JYG1EVlbe62e8UadeRqGV) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [YOU](https://open.spotify.com/album/6bqaOob66pWCH2dlvQU1cf) | 3:16 | 2022-02-03 | 2022-09-15 |
 | [Need You Again](https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Need You Again](https://open.spotify.com/album/3I9CFa50uQSVc7dosPzNsQ) | 3:56 | 2025-06-24 |  |
+| [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 | 2025-12-05 |  |
 | [Never Have I Felt This](https://open.spotify.com/track/1w2HhzB1ptdBzIeTh9NmxG) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This](https://open.spotify.com/album/54s0kvex9na7wTYAGWTztM) | 4:06 | 2022-02-03 | 2022-09-15 |
 | [Never Have I Felt This \- VIP](https://open.spotify.com/track/6WSwigBgXcpDVkEZ05cWuH) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This \(VIP\)](https://open.spotify.com/album/1YCHXGgn9HrKsZMHXLMbw6) | 3:12 | 2023-10-27 |  |
 | [Never Stop](https://open.spotify.com/track/6IqfGRpiDKSZLvxU3gYGSO) | [Todd Helder](https://open.spotify.com/artist/6nhsSK9KbToX3Brq0xeWbV) | [Never Stop](https://open.spotify.com/album/7F80QNYRcll7OHeOqfzuCf) | 2:37 | 2022-02-03 | 2022-09-15 |
@@ -309,6 +310,7 @@
 | [Running Away](https://open.spotify.com/track/7HJSanooTjRCfNpSY4J7lj) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Abstrakt](https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3) | [Running Away](https://open.spotify.com/album/4luyrFOvpeHNC8qpy6Ab0O) | 2:31 | 2022-04-07 | 2023-08-11 |
 | [Rush](https://open.spotify.com/track/45NFKx36T2kIrKmIRykcc3) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Rush](https://open.spotify.com/album/2yajINb11ZN7C7HtOEGJuE) | 3:32 | 2023-08-10 | 2024-06-20 |
 | [Sanity](https://open.spotify.com/track/73I1uEPTOXlyPctdC0gkDr) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Whats Gud](https://open.spotify.com/artist/2UWT2E8N95CuOsSUTyUpyS) | [Sanity](https://open.spotify.com/album/25l5Sf6FkqGBGswSXnL30m) | 2:54 | 2022-02-03 | 2022-09-15 |
+| [scars](https://open.spotify.com/track/0zB2y2HlyVWyKSAghefwzd) | [LOFIN](https://open.spotify.com/artist/3VJWdrq7JC3sVdd11NSYfx) | [scars](https://open.spotify.com/album/2lYbOAyek2e5jqilabHJHt) | 2:33 | 2025-12-05 |  |
 | [Seasons \- Futuristik & Whogaux Remix](https://open.spotify.com/track/1CZUz7vzalqzJq0khI74VL) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons \(Futuristik & Whogaux Remix\)](https://open.spotify.com/album/2Ykc9UcsTNDfD7uGyWES4W) | 3:13 | 2022-02-03 | 2022-09-15 |
 | [See You at the End](https://open.spotify.com/track/5zgkuEy6OCDPzGnt6Y6COg) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [InfiNoise](https://open.spotify.com/artist/1nEAtVkiejN4vtq2xUdQ3g), [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [Brenton Mattheus](https://open.spotify.com/artist/5L3htGbUwUCPPhVM2UtdTY) | [See You at the End](https://open.spotify.com/album/1oLhNmmT3mVd5bn5obgan9) | 4:12 | 2023-08-10 |  |
 | [Set You Free](https://open.spotify.com/track/2MZJIe78uKE7B7cFC1LNbR) | [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657) | [Set You Free](https://open.spotify.com/album/5j8yzZxVXnbVTMz5LzZA8N) | 3:14 | 2023-08-10 | 2024-11-20 |

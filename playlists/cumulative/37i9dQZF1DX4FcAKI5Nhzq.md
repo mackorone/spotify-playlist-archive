@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: RESCENE\(리센느\)\)
+> Future K\-Pop hits! \(Cover: Yim Siwan\(임시완\)\)
 
-1,529 songs - 3 day 10 hr 7 min
+1,531 songs - 3 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,7 +505,7 @@
 | [Freeze Tag](https://open.spotify.com/track/7CAZZTBrcyRj3PjENWOdBZ) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [UP2U](https://open.spotify.com/album/5javnnBjbP0ObEZafZtc7k) | 3:02 | 2022-11-24 | 2023-01-18 |
 | [FREQUENCY \- Korean Version](https://open.spotify.com/track/6a6jytQm8K7FNgPM1xrwEb) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [FREQUENCY \- The 6th Mini Album](https://open.spotify.com/album/6PmkuHFyelDURr3QlbFY3K) | 2:40 | 2024-11-25 | 2025-03-13 |
 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 | 2023-04-20 | 2023-08-04 |
-| [From \(2018\)](https://open.spotify.com/track/2Vz3vio26NGctvwnRgURsy) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [From \(2018\)](https://open.spotify.com/album/6QkDwRFFoZ3LMFdTvdyfTQ) | 3:03 | 2025-10-24 |  |
+| [From \(2018\)](https://open.spotify.com/track/2Vz3vio26NGctvwnRgURsy) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [From \(2018\)](https://open.spotify.com/album/6QkDwRFFoZ3LMFdTvdyfTQ) | 3:03 | 2025-10-24 | 2025-12-06 |
 | [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/track/6IxBnLGaM1bykNV9g2OxC3) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/album/448X9wJCby4Sqdb6fxlH3d) | 3:09 | 2025-04-08 | 2025-04-25 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 | 2022-10-15 |
 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 | 2023-01-31 | 2023-04-07 |
@@ -723,7 +723,7 @@
 | [JUMP](https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ALL IN](https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B) | 2:43 | 2023-06-08 | 2023-12-09 |
 | [Jungle](https://open.spotify.com/track/0QyLYuhCdzwVk9OkmvwAjh) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [HELLO Chapter 3: Hello, Strange Time](https://open.spotify.com/album/6w3QkgYGtf6LfiWb5iCYc1) | 3:48 | 2020-10-27 | 2021-03-10 |
 | [JUNK FOOD](https://open.spotify.com/track/5aEdNj5hYLKwSiO9vKK552) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [iykyk](https://open.spotify.com/album/4jd2zPWyPBE1mmX5MSkCH8) | 3:15 | 2023-11-15 | 2023-12-22 |
-| [Just 1 year \(Feat\. 10CM\)](https://open.spotify.com/track/2jh4TUtbiQwP7wJVDbgf3b) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Just 1 year](https://open.spotify.com/album/5rTw5MnMcD2np92ZQgcmRJ) | 3:02 | 2025-10-27 |  |
+| [Just 1 year \(Feat\. 10CM\)](https://open.spotify.com/track/2jh4TUtbiQwP7wJVDbgf3b) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Just 1 year](https://open.spotify.com/album/5rTw5MnMcD2np92ZQgcmRJ) | 3:02 | 2025-10-27 | 2025-12-06 |
 | [Just Breath](https://open.spotify.com/track/68U6oSUCvqk4MiTULbYCEd) | [JINJIN&ROCKY\(ASTRO\)](https://open.spotify.com/artist/6zJq6snkjTflfNsUOQBekK) | [Restore](https://open.spotify.com/album/6tMchqSyAKi6ePdzbaZqK6) | 3:23 | 2022-01-19 | 2022-03-12 |
 | [JUSTICE](https://open.spotify.com/track/4GyhMaDPEILMPp62PUjP3j) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[VirtuouS\]](https://open.spotify.com/album/4PkR73YJKj5RGkC7QZVpM2) | 2:59 | 2024-07-18 | 2024-10-23 |
 | [KARMA](https://open.spotify.com/track/7r0SUODm7Wq4yTpT2KKtg8) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Part II \. Chiwoo](https://open.spotify.com/album/3t29EYNXWXk1GQcNxKZATU) | 3:56 | 2021-07-14 | 2021-09-07 |
@@ -1322,6 +1322,7 @@
 | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G) | 2:42 | 2021-04-13 | 2021-06-18 |
 | [The Real](https://open.spotify.com/track/1uk5fYLx1f88DLte84Hl5j) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:10 | 2021-06-09 | 2021-09-07 |
 | [The Real \- Heung Version](https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:30 | 2021-12-13 | 2022-01-20 |
+| [The Reason](https://open.spotify.com/track/6yL5rrRJmWvfiIboskQ6IG) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 2:55 | 2025-12-05 |  |
 | [The Song](https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Together](https://open.spotify.com/album/0Ex4iuYoVnF8IBrBBIfYWU) | 4:08 | 2022-02-22 | 2022-04-29 |
 | [The Starry Night](https://open.spotify.com/track/0daiNZK6DTgP65O4mM3Iv1) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [WE : Dream Chaser](https://open.spotify.com/album/0gWM4TwSrL4t3fj4V9dfKb) | 3:17 | 2025-03-12 | 2025-04-12 |
 | [The Stealer](https://open.spotify.com/track/2DQgD8rAJLKNptQFK70ndO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 5th MINI ALBUM \[CHASE\]](https://open.spotify.com/album/6HwY3FwprtqsmMuoLnXWhT) | 3:30 | 2020-10-13\* | 2021-03-01 |
@@ -1394,6 +1395,7 @@
 | [Upside Down](https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Upside Down \- The 2nd Mini Album](https://open.spotify.com/album/6QCntvulIht3aec99G4Wrd) | 2:40 | 2025-08-26 | 2025-10-08 |
 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-24 | 2022-06-18 |
 | [US](https://open.spotify.com/track/28toOHNKaU968fvVoKA9pQ) | [Moon Jong Up](https://open.spotify.com/artist/3I9hRYYNJvENa3EcJ6c5cd) | [Moon Jong Up \- 1st Mini Album "US"](https://open.spotify.com/album/5v8Uj3vFwXfdu8eKiyhUuX) | 2:59 | 2021-07-13 | 2021-09-18 |
+| [UxYOUxU](https://open.spotify.com/track/7FMjQgcvSnAbLDFWNcL1Xu) | [CHUEI LI YU](https://open.spotify.com/artist/6d08w23ccJlF5f0I7tKlGl) | [SWEET DREAM](https://open.spotify.com/album/78sWCAEgt78WNRfwkGijgX) | 2:25 | 2025-12-05 |  |
 | [V \(Peace\) \(feat\. AKMU\)](https://open.spotify.com/track/0qsv5I5fEnRoX2Enb3mBNr) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Zip](https://open.spotify.com/album/0T3dxtCegtw8C07ZMvwIfv) | 2:28 | 2023-12-08 | 2024-02-15 |
 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 | 2021-07-14 | 2021-09-07 |
 | [Vancouver 2](https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Vancouver 2](https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq) | 3:22 | 2023-09-27 | 2023-10-28 |

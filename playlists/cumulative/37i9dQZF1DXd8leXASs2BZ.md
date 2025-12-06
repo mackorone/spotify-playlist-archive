@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: ziproom
 
-1,192 songs - 2 day 7 hr 10 min
+1,193 songs - 2 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [bottom](https://open.spotify.com/track/1X7Qz1fMx7cZcVbzE0EYgM) | [VCE NAVA](https://open.spotify.com/artist/4oG9mZoApHLm4xxMgl4giO) | [bottom](https://open.spotify.com/album/2arKpCgheIOaMs7milShBO) | 2:28 | 2025-10-07 | 2025-11-05 |
 | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/track/0yMqE8BPui92vB2It7NpWJ) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/album/44D0vIz4TIkfyRU1f4h374) | 2:37 | 2025-11-11 |  |
 | [boy](https://open.spotify.com/track/5opegTCWKUO2ucc1dP6erj) | [yovng JuJu](https://open.spotify.com/artist/5w6wByukZ9LO6Gig2BVO2H), [Bondo RX](https://open.spotify.com/artist/0zVhO60Hw9RWuFgxMXDGM5) | [Tape the Ballin 1](https://open.spotify.com/album/2XDcOjCSqZckRYHGSkgG2Z) | 3:27 | 2025-03-04 | 2025-06-04 |
+| [Brand new](https://open.spotify.com/track/6HWxcHHF26U2D7vKWR3Aa3) | [BABYWOODROSE](https://open.spotify.com/artist/1XzfqpnX0VAcE77JE21mPB) | [Trapadelic](https://open.spotify.com/album/3NouF8Oa1SAbxu4y29z4Jq) | 2:49 | 2025-12-05 |  |
 | [Brand new](https://open.spotify.com/track/2urxRM4Vlp8nbmIugWwAvv) | [jean](https://open.spotify.com/artist/0hc2fRch1am34f5Jax1O0S) | [Brand new](https://open.spotify.com/album/2O8RvNgB1rgWxZWIvtFd2W) | 2:51 | 2024-03-05 | 2024-04-17 |
 | [Bread](https://open.spotify.com/track/3L0D36dJ3YRTpYtZ6qvj56) | [ISLND](https://open.spotify.com/artist/4DbadBusjLncsspxAI9AZi), [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [Bread](https://open.spotify.com/album/2EBzeUruaTRox7C9qQd310) | 2:58 | 2024-04-24 | 2024-06-05 |
 | [Breath](https://open.spotify.com/track/68flLlR5b5RRAiLpIMImdY) | [Leopard](https://open.spotify.com/artist/1NQbVyCiHF5ZWrNBt2CN0f) | [Breath](https://open.spotify.com/album/063jvBgSHqKrLzKzoqDj6g) | 2:26 | 2025-09-02 | 2025-11-19 |
@@ -884,7 +885,7 @@
 | [SHIN GODZILLA](https://open.spotify.com/track/0UfcY8TrUJQsfvN625EslK) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [SHIN GODZILLA](https://open.spotify.com/album/17gnjom6T2EuFhT1O075bR) | 3:49 | 2025-11-25 |  |
 | [shining garbage \(feat.Kyle Unjour\)](https://open.spotify.com/track/1JOzqajclzg8IkrWJt5mHn) | [captain\-T](https://open.spotify.com/artist/7F6iv1DpeTp77tXVPITXvV), [Kyle Unjour](https://open.spotify.com/artist/6xIr39NwANZ6D9HIMSWHnq) | [Overflowing \(feat.Kyle Unjour\)](https://open.spotify.com/album/1SB89MGEo8cu3Mh6PsR1sc) | 2:15 | 2025-02-25 | 2025-05-28 |
 | [SHOGUN MODE](https://open.spotify.com/track/2UbR8t45WR9QZXAT0leht0) | [Sitissy luvit](https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5), [HUNGER](https://open.spotify.com/artist/1q0gLEvNcnAfPzBgCHG4NG) | [SHOGUN MODE](https://open.spotify.com/album/4HWkImZpqEEuPqOd8Ohy6j) | 3:47 | 2024-12-03 | 2025-03-05 |
-| [SHOPPO](https://open.spotify.com/track/03qaZc3ZS6EgP10XbzoNCW) | [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe) | [SHOPPO](https://open.spotify.com/album/74WEJex7fZF72ADuzD7DDS) | 2:20 | 2025-07-29 |  |
+| [SHOPPO](https://open.spotify.com/track/03qaZc3ZS6EgP10XbzoNCW) | [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe) | [SHOPPO](https://open.spotify.com/album/74WEJex7fZF72ADuzD7DDS) | 2:20 | 2025-07-29 | 2025-12-06 |
 | [SHOTS!!!](https://open.spotify.com/track/0WfMuEbtf6HubcgYyrlb4j) | [DJ Hazime](https://open.spotify.com/artist/5OTMloJew4RhmaLHAFyItP), [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn), [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN), [kiddy](https://open.spotify.com/artist/48MOj0FSIyfQdOJvTYDFFR) | [SHOTS!!!](https://open.spotify.com/album/024LRxaubismM0IlBLM8fP) | 4:14 | 2024-05-28 | 2024-07-17 |
 | [Show me more](https://open.spotify.com/track/5qsOUdWNzsexD6vxR3hz46) | [TEITO](https://open.spotify.com/artist/5FyZiNFoZYDUwFOXBsctGm) | [Show me more](https://open.spotify.com/album/3mS0jTaqNqhn69RaOM8UU4) | 3:48 | 2024-08-07 | 2024-09-04 |
 | [SHUGYO](https://open.spotify.com/track/3YA420WQreDr2BiFgwy3NH) | [Sirogaras](https://open.spotify.com/artist/1sMLBiE7MWNiU4fUPnvQAc), [L.B.R.L](https://open.spotify.com/artist/64eYx7GinNTcVl4s2U4NMw), [楓](https://open.spotify.com/artist/0L8NJHQYHpLt05yuyEUOlf) | [SHUGYO](https://open.spotify.com/album/1yreDcGq6oBKCdzxiB3E37) | 3:01 | 2024-08-07 | 2024-08-21 |

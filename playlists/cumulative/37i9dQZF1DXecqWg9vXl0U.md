@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring fidoisblue ✨
 
-383 songs - 20 hr 47 min
+386 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [aunque quisiera, no podría](https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [fuera de lugar](https://open.spotify.com/album/6Z73rP80ugJPA7zEhCitar) | 4:22 | 2022-03-25 | 2025-02-08 |
 | [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 | 2022-07-11 | 2025-02-08 |
 | [Axis](https://open.spotify.com/track/3pvEEzySFpo6jsZ1W2cNOS) | [Natalia Spiner](https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6) | [Axis](https://open.spotify.com/album/00q0x8KcLoNQr5B5pLfPaT) | 3:53 | 2022-07-19 | 2022-08-30 |
-| [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 |  |
+| [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 | 2025-12-06 |
 | [Bien](https://open.spotify.com/track/3WLeXmLujC9lnlT44aTvGR) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Okay!](https://open.spotify.com/album/3ZYoorCmWoiAD8DgxrcrTW) | 4:02 | 2022-03-25 | 2022-09-16 |
 | [Bijoux](https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW) | [Soap](https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB) | [Bijoux](https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC) | 4:22 | 2022-03-25 | 2022-10-15 |
 | [Bola Oro](https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Bola Oro](https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2) | 4:05 | 2023-05-19 | 2023-07-22 |
@@ -105,6 +105,7 @@
 | [dime](https://open.spotify.com/track/0NxA1fTmQ2SwS3Wg30qmoY) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [2001](https://open.spotify.com/album/0PaK28SA8stUjMFTFTdkaK) | 2:06 | 2023-09-26 | 2024-04-19 |
 | [Disco Baby](https://open.spotify.com/track/4E4Zsbxs0BcqYPeTqx0Hdx) | [Atomic Blue](https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ) | [However Many Days](https://open.spotify.com/album/05pAn3ThAYRWz7wonOwbzy) | 3:46 | 2022-03-25 | 2022-10-01 |
 | [Door Four](https://open.spotify.com/track/2o86IbNipqNVteo1j9WNHM) | [Victoria Reed](https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG) | [Door Four](https://open.spotify.com/album/0WiMvo2Ur6ixZ22ULfFfSO) | 3:26 | 2022-03-25 | 2022-07-11 |
+| [DUB COMPLEX](https://open.spotify.com/track/2rjP1QNx1liruVrTY9MlIS) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 3:04 | 2025-12-05 |  |
 | [Dulce Amargo](https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:27 | 2022-03-25 | 2022-12-10 |
 | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8) | [Coma Pony](https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9) | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2) | 3:08 | 2022-03-25 | 2022-05-17 |
 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 | 2022-03-25 | 2023-02-11 |
@@ -215,7 +216,7 @@
 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 | 2022-09-30 | 2023-02-25 |
 | [me pongo un poco sad](https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe) | [tomásss](https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw) | [me pongo un poco sad](https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U) | 3:19 | 2022-10-07 | 2024-07-06 |
 | [Me Sobran las Ganas \(Cuando Te Vas\)](https://open.spotify.com/track/18SrWIyth3DmyLgDiZfR6a) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M), [Lizi Lay](https://open.spotify.com/artist/1ePXokISu6GVKdSaw5XWic) | [Me Sobran las Ganas \(Cuando Te Vas\)](https://open.spotify.com/album/2YvrMCoIpDsOW6Cz7UD5qj) | 3:02 | 2025-02-28 |  |
-| [Melancolía](https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Melancolía](https://open.spotify.com/album/51R6Oy0Y67WZswWS4fniWD) | 3:49 | 2024-04-26 |  |
+| [Melancolía](https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Melancolía](https://open.spotify.com/album/51R6Oy0Y67WZswWS4fniWD) | 3:49 | 2024-04-26 | 2025-12-06 |
 | [Melodía de Dos \- Demo](https://open.spotify.com/track/4GwdjQUrTd2eje3yN7PUgK) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Melodía de Dos \(Demo\)](https://open.spotify.com/album/1ORGTxaHnffAYdkDmisKGZ) | 3:40 | 2022-03-25 | 2022-07-29 |
 | [mi amiga & yo](https://open.spotify.com/track/6ukxKZD87THmjrF2utaAGF) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [mi amiga & yo](https://open.spotify.com/album/6XAO4Ieu8TmJ1Fa3UBI5ms) | 2:48 | 2022-03-25 | 2022-09-03 |
 | [Mi Habitación](https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Mi Habitación](https://open.spotify.com/album/52ZsUG7LV159qKUKOyCjHF) | 2:35 | 2022-08-19 | 2022-12-08 |
@@ -304,6 +305,7 @@
 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 | 2022-08-19 | 2023-08-26 |
 | [Rewind](https://open.spotify.com/track/7aCLiSRpbxWZ0YCiQW9bDh) | [Fishlights](https://open.spotify.com/artist/3FV3XPfp73YhW5ZuYuR7KR) | [Rewind](https://open.spotify.com/album/0jbfIkQbXZEV9dVxqEKn9S) | 3:05 | 2022-03-25 | 2022-05-11 |
 | [roncola](https://open.spotify.com/track/36KSajo0NyH3eGgbS4AuJ7) | [Ankli](https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI) | [roncola](https://open.spotify.com/album/7wBnQpzEspxCuDIfBcvtH9) | 2:52 | 2022-03-25 | 2022-10-15 |
+| [Rumbos](https://open.spotify.com/track/0IIh65zsyhoEyOcoQWjBHl) | [Lulannie](https://open.spotify.com/artist/6oXyDpjRnLLErx7cflQk3O), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Delamatu](https://open.spotify.com/artist/0UyAWAMVxjvjbVr7liVO5j) | [Ficciones](https://open.spotify.com/album/4RyzdUqsoRHQ6840J4r9pT) | 3:53 | 2025-12-05 |  |
 | [San José](https://open.spotify.com/track/7pE3LLrZuzDati9VDf1XGQ) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [San José](https://open.spotify.com/album/2so16qqtYnhLLYYVwXROHO) | 3:57 | 2022-12-09 | 2023-02-04 |
 | [Sangre y Cristal](https://open.spotify.com/track/5RSfZ8sNVLUSFkr0xzs4H3) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Si un Día](https://open.spotify.com/album/4AxBZOLPSWVEYBtcmObljJ) | 1:58 | 2022-03-25 | 2022-07-29 |
 | [sanvalentín:\(](https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [sanvalentín:\(](https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9) | 4:02 | 2023-02-10 | 2023-05-27 |
@@ -349,6 +351,7 @@
 | [tous les jours](https://open.spotify.com/track/5T4r0tXN3rL8Lt7pnhVgt1) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh) | [CASI ALGO](https://open.spotify.com/album/3Gt8g4i5AEIivwI93H4zc0) | 1:43 | 2022-09-30 | 2022-11-01 |
 | [TQB](https://open.spotify.com/track/4C6844tUibAL9cSObEEukn) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [TQB](https://open.spotify.com/album/678s8RjRxY6cXhbPmdRurI) | 2:46 | 2022-03-25 | 2022-05-17 |
 | [Triste Pop](https://open.spotify.com/track/30zVKpTZnkrmKMiIcpoPlV) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Triste Pop](https://open.spotify.com/album/2zIYA9Zs3vk0yQk241Omgt) | 5:22 | 2022-09-02 | 2022-12-13 |
+| [tu nombre](https://open.spotify.com/track/6l86tnT24ec7bp1PuddTMS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tu nombre](https://open.spotify.com/album/1pw9hHStOaBhgtzmmJd4aw) | 3:31 | 2025-12-05 |  |
 | [tus mensajes](https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [clásico vol\. 1](https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r) | 2:58 | 2023-05-05 | 2025-09-20 |
 | [Tú](https://open.spotify.com/track/0xGwvVzNbl4Dym2xjsouRr) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Natsukashii](https://open.spotify.com/album/0Kkd3XWkXoV2pU15VGd6In) | 3:36 | 2024-05-31 |  |
 | [tú y yo](https://open.spotify.com/track/2ctZiTm8JNvmQsBfrr5T3g) | [fidoisblue](https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI) | [tú y yo](https://open.spotify.com/album/7JZsAk0CQI5HKLRoCDV9jm) | 2:28 | 2025-11-28 |  |
@@ -358,7 +361,7 @@
 | [un rato](https://open.spotify.com/track/22BWBU9Pwgz3M7fP1mahfk) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [un rato](https://open.spotify.com/album/0LigoTHlglv2GPl0nb2O0F) | 2:48 | 2022-03-25 | 2025-11-27 |
 | [un sueño raro](https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 3:12 | 2022-04-22 | 2023-04-01 |
 | [Una Más](https://open.spotify.com/track/3gNu60FxbcyyGiVKcUJxNf) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Una Más](https://open.spotify.com/album/7pf7WgkPT215mX6U66Z4dI) | 2:54 | 2022-03-25 | 2022-04-23 |
-| [Una noche que nunca termina](https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Una noche que nunca termina](https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi) | 3:01 | 2022-10-31 |  |
+| [Una noche que nunca termina](https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Una noche que nunca termina](https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi) | 3:01 | 2022-10-31 | 2025-12-06 |
 | [Una Sola Vez](https://open.spotify.com/track/6ppst2BmCySRxbPRIVSrfX) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Una Sola Vez](https://open.spotify.com/album/4WsPV4Bh44VtunOPOeYbmT) | 4:16 | 2022-04-08 | 2022-12-03 |
 | [Unstoppable](https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 2:00 | 2022-07-25 | 2023-05-20 |
 | [VCR](https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5) | [Atomic Rose](https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI) | [VCR](https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb) | 3:35 | 2022-09-23 | 2025-03-01 |

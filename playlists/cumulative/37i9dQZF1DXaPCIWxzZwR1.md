@@ -4,7 +4,7 @@
 
 > next gen pop<br/>Cover: Rose Gray
 
-2,350 songs - 4 day 18 hr 52 min
+2,351 songs - 4 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,6 +820,7 @@
 | [glad you're settling](https://open.spotify.com/track/1WcQiTDAFmHoldyEGAfA5w) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [glad you're settling](https://open.spotify.com/album/1O8XgrUuscfRrHUfXSfJfi) | 3:13 | 2023-09-22 | 2023-11-18 |
 | [GLAM!](https://open.spotify.com/track/4IazlP0NMBXhS1hF6H7et6) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [GLAM!](https://open.spotify.com/album/3oJkESCEfG0Q1M2xYIK63U) | 3:41 | 2021-02-16\* | 2021-02-26 |
 | [glass house \(feat\. Braden Bales\)](https://open.spotify.com/track/2wm7IiFx8bLBhLAuUFod3K) | [Ezra](https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY), [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [glass house \(feat\. Braden Bales\)](https://open.spotify.com/album/4mrdG4VhjZD8ID201pF151) | 2:56 | 2025-03-14 | 2025-09-06 |
+| [Glitter](https://open.spotify.com/track/0y9S3dw1MBzHqmTpMTTd0M) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Glitter](https://open.spotify.com/album/3ISicmxJuaKEZEbKDJuOdo) | 3:11 | 2025-12-05 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-14 | 2023-04-01 |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:26 | 2021-08-04 | 2021-08-25 |
 | [Go Bad \- From The Netflix Film “He’s All That"](https://open.spotify.com/track/0KrxLbZ5Ii6o6PmDgcWii8) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [He's All That \(Music From The Netflix Film\)](https://open.spotify.com/album/0Avy6QPpUbn3rJ5f76yimK) | 2:07 | 2021-08-28 | 2021-09-11 |
@@ -1413,7 +1414,7 @@
 | [moshpit](https://open.spotify.com/track/2mCtLEJmnn1JiY2IQGUCy4) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [moshpit](https://open.spotify.com/album/6PXSrLiT6piovfkbtM3mTs) | 3:38 | 2022-01-28 | 2022-02-26 |
 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 | 2023-09-29 | 2023-11-18 |
 | [Motion](https://open.spotify.com/track/7lOlKhTXmv4sMxyhjsWwn8) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Motion](https://open.spotify.com/album/1sC4LCKQUnTCz0fyBLBQ9L) | 3:29 | 2021-07-24 | 2021-07-31 |
-| [Moviestar](https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Moviestar](https://open.spotify.com/album/13p5cFZs4kREuDaWysHci5) | 3:08 | 2025-05-23 |  |
+| [Moviestar](https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Moviestar](https://open.spotify.com/album/13p5cFZs4kREuDaWysHci5) | 3:08 | 2025-05-23 | 2025-12-06 |
 | [Mr Loverman \(feat\. chloe moriondo\)](https://open.spotify.com/track/60GNcfTVPbKYpdgyYDqUPq) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Mr Loverman \(feat\. chloe moriondo\)](https://open.spotify.com/album/7ugpe4Tp9D5kU1UbHwmu7p) | 3:35 | 2021-03-06 | 2021-05-15 |
 | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 | 2023-08-04 | 2023-10-21 |
 | [mr useless](https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [mr useless](https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ) | 2:29 | 2024-02-16 | 2024-04-06 |

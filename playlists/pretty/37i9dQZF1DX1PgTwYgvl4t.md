@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=P8rKhOF7RgKSexcLlO48SQ>Ebuka Songs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,358 likes - 105 songs - 13 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,513 likes - 106 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,5 +113,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 103 | [We Bless You Lord \(Chant\)](https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [We Bless You Lord \(Chant\)](https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC) | 8:14 |
 | 104 | [More Than Enough](https://open.spotify.com/track/3jeP2N4ZncGyBWNsfWpXj3) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [More Than Enough](https://open.spotify.com/album/4ILIZGOexhKYEfdSaO5Q3z) | 5:00 |
 | 105 | [IRRESPONSIBLY](https://open.spotify.com/track/39hPCgdPQfCRnzrOKzh3RP) | [Nkoyo Bernice](https://open.spotify.com/artist/3sP9NQCCAx5CLmP9w9vZlH), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [IRRESPONSIBLY](https://open.spotify.com/album/0PKWB4so2FbpNt9O2e7eUT) | 12:50 |
+| 106 | [Covenant Keeping God \- Covenant Keeping God \(Acoustic Version](https://open.spotify.com/track/6RnMzQV6j343oC7F7jXJVf) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Covenant Keeping God \[Covenant Keeping God \(Acoustic Version\]](https://open.spotify.com/album/2Avt0dJO4EbhHvleA22fW8) | 9:46 |
 
 Snapshot ID: `AAAAAOR3UUFmZHv6hsz5PJXDeAzYEx3t`

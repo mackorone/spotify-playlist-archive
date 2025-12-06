@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Jonathan McReynolds
 
-195 songs - 12 hr 46 min
+196 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Jesus, Oh What A Wonderful Child](https://open.spotify.com/track/7MF4wDB1bvI0QpOwIrAIuO) | [The Collective](https://open.spotify.com/artist/56erFkbUm1ofjPhm4Klw8R), [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [A VGNBae Christmas](https://open.spotify.com/album/0U8IUFHq5HDnMOTpH5HeVj) | 4:41 | 2021-12-24 | 2024-11-18 |
 | [Jingle Bells](https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:23 | 2021-12-24 |  |
 | [Jolly Jolly Christmas](https://open.spotify.com/track/3l4g9GZb9uIyjuugmzZ6EU) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Jolly Jolly Christmas](https://open.spotify.com/album/26oW5OBv0YFbVDhZMmLCM1) | 2:22 | 2024-11-29 |  |
+| [Joy And Peace](https://open.spotify.com/track/36yPEvoCUgx7Ugfzb3iljD) | [Sensere](https://open.spotify.com/artist/5zzH3YutCE1JFaMYYte2Fh), [Adolphus Scottie Scott](https://open.spotify.com/artist/0ypuyNuV9j7t3S31fxC3Wb) | [Joy And Peace](https://open.spotify.com/album/4kQ4Q1seAg2Cxch5dNO9IK) | 3:58 | 2025-11-28 |  |
 | [Joy to the World](https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Joy to the World](https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM) | 4:04 | 2022-11-26 |  |
 | [Joy to the World](https://open.spotify.com/track/2Xarvk1Y1pX0PgQEk4jMZU) | [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K) | [Joy to the World](https://open.spotify.com/album/2ei11H4CTrurq6KYKfPwlg) | 3:34 | 2022-11-26 | 2022-12-11 |
 | [Joy To The World \(feat\. Alex Isley\)](https://open.spotify.com/track/59MIBKUD1FSQvettQGHpSz) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [In December](https://open.spotify.com/album/2ae65TpzMw6I9b8gJQG6Op) | 5:27 | 2024-11-17 |  |
@@ -182,7 +183,7 @@
 | [This Christmas](https://open.spotify.com/track/21HybBY92stwLkDGNMvB6N) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Nashe](https://open.spotify.com/artist/7J2qQLdf6V7JJM4GcVyZmz) | [This Christmas](https://open.spotify.com/album/1PehjA0qDUsDeLJY7yIZ8v) | 2:55 | 2023-12-15 | 2025-10-27 |
 | [This Christmas \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0Kdhb8UqEMYPjUMOXRQWD0) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [This Christmas \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/3X3z40mBB0GyMVX3LFRfrg) | 3:29 | 2021-12-24 |  |
 | [This Christmas Live](https://open.spotify.com/track/5LmVA12cXHnJpUGi4ky6cz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [This Christmas Live](https://open.spotify.com/album/3OJ0sHFz461MWifO2LFkvN) | 3:03 | 2021-12-24 |  |
-| [Warm](https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv) | [AO1 Collective](https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5), [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [Warm](https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC) | 2:56 | 2021-12-24 |  |
+| [Warm](https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv) | [AO1 Collective](https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5), [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [Warm](https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC) | 2:56 | 2021-12-24 | 2025-12-06 |
 | [We Adore You \- Live](https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 8:19 | 2023-11-03 | 2024-11-30 |
 | [We Adore You \- Live](https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 8:19 | 2023-12-15 | 2024-04-19 |
 | [We Three Kings](https://open.spotify.com/track/0Tvb3mQASB2LpcB28aELxy) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Star \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4AnL89Yy1KzghgRufxv2BX) | 4:06 | 2021-12-24 | 2025-10-27 |

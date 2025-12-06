@@ -4,7 +4,7 @@
 
 > El Tango está más vivo que nunca 📸 Santiago Motorizado & FLORIAN
 
-114 songs - 7 hr 6 min
+115 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Muero Sin Vos](https://open.spotify.com/track/0u7ddEKYuoTl5Z1rntL28g) | [Lilí Gardés](https://open.spotify.com/artist/7LyRikRQ83unSIemMi1z3c) | [Muero Sin Vos](https://open.spotify.com/album/0jIWSnPUndgDdmtRORsF1Q) | 2:27 | 2023-08-04 |  |
 | [Mundo Bizarro](https://open.spotify.com/track/7aqrgVAnsQ6PJD2kBo7JFb) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 4:06 | 2023-08-04 |  |
 | [Naranjo en Flor](https://open.spotify.com/track/11Wr4jrWK0DzEM03s28OOC) | [Ugo Mur](https://open.spotify.com/artist/1mYGDTWr3rwgypPbttgjkS) | [Naranjo en Flor](https://open.spotify.com/album/0tWoRmyt1H182J4jTeIwUT) | 3:17 | 2023-11-24 | 2023-12-16 |
-| [Naufragio \(TANGO\)](https://open.spotify.com/track/2AuZEVc5E1EC7tq7dwseYd) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:51 | 2024-11-04 |  |
+| [Naufragio \(TANGO\)](https://open.spotify.com/track/2AuZEVc5E1EC7tq7dwseYd) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:51 | 2024-11-04 | 2025-12-06 |
 | [Oblivion](https://open.spotify.com/track/745ECNomCDA8KOMUM1sMdR) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:03 | 2023-08-04 |  |
 | [Oblivion \- Instrumental](https://open.spotify.com/track/7HFLrJsVWyLK8AyUiRaytV) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Tanghetto Plays Piazzolla](https://open.spotify.com/album/06km1JOP7iUlcep3sSjrjj) | 4:51 | 2023-11-24 | 2025-06-16 |
 | [Otra Luna](https://open.spotify.com/track/1rIJLWJngQGHXdoeF5EQre) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 3:42 | 2023-08-04 |  |
@@ -86,6 +86,7 @@
 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 | 2023-08-04 |  |
 | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Sgoliat vs KoolTURE](https://open.spotify.com/artist/1Nj1CJBwJxilEpdplcoun1) | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8) | 3:36 | 2023-08-04 |  |
 | [Purgamorio](https://open.spotify.com/track/137izbynWsYW4PNJGuyYNQ) | [Entangados](https://open.spotify.com/artist/4JwhUf48kn5DD7iUo1ILUu) | [Purgamorio](https://open.spotify.com/album/7cdQH9TufqbcM1HT0A2cjn) | 4:34 | 2023-11-24 | 2023-12-23 |
+| [QUE NADIE SEPA MI SUFRIR](https://open.spotify.com/track/2I2nyvTQkdl4UR03Rumkx2) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [ACTOS DE GENTILEZA](https://open.spotify.com/album/60zLloJjOO0RtrBvnufUMl) | 3:01 | 2025-12-05 |  |
 | [Quiero Verte Una Vez Más \- Tango](https://open.spotify.com/track/1VtlqzEmFWttigIeYAZtQ9) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Siempre Tango](https://open.spotify.com/artist/5H7ESVqExDnW9YMScjKbAw) | [Quiero Verte Una Vez Más \(Tango\)](https://open.spotify.com/album/1brLm5hMsOCXQ7jHrRGtTH) | 3:35 | 2025-04-11 | 2025-05-11 |
 | [Ran Tan Plan](https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng) | [Tango Tripping Project](https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1) | [Ran Tan Plan](https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4) | 4:12 | 2023-11-24 |  |
 | [Regina](https://open.spotify.com/track/4HJaTZTBxNZ7kxZExuMMDr) | [Electrocutango](https://open.spotify.com/artist/2cj1R53AEPGh3hNvipWs0i) | [Felino](https://open.spotify.com/album/2fCOloYpBVq62UjAz24FhS) | 5:43 | 2023-08-04 |  |

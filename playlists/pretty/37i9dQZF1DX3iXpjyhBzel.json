@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isadora Pompeo",
-  "num_followers": 1201740,
+  "num_followers": 1201828,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-11-30 18:09:15",
       "album": {
+        "name": "Cura | EP 01",
+        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 270450,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
+    },
+    {
+      "added_at": "2025-11-30 18:09:15",
+      "album": {
         "name": "Eu Vou Fazer (Ao Vivo)",
         "url": "https://open.spotify.com/album/5qgTVU2kTbNcDmm26KLT2r"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 276551,
       "name": "Eu Vou Fazer - Ao Vivo",
       "url": "https://open.spotify.com/track/4xrPTTStNmUyjpuI5bVRxy"
-    },
-    {
-      "added_at": "2025-11-30 18:09:15",
-      "album": {
-        "name": "Cura | EP 01",
-        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 270450,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
     },
     {
       "added_at": "2025-11-30 18:09:15",
@@ -495,26 +495,6 @@
     {
       "added_at": "2025-11-30 18:09:15",
       "album": {
-        "name": "Deus Coloca O Ch\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ntpRjk2x5nSwb7eEaX2mN"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Deive Leonardo",
-          "url": "https://open.spotify.com/artist/2yXSYL4govoGkKNqq6BJQW"
-        }
-      ],
-      "duration_ms": 341540,
-      "name": "Deus Coloca O Ch\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5S0FRi4n38dDHrDl3C5MSR"
-    },
-    {
-      "added_at": "2025-11-30 18:09:15",
-      "album": {
         "name": "Toda Terra (Ao Vivo)",
         "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
       },
@@ -531,18 +511,22 @@
     {
       "added_at": "2025-11-30 18:09:15",
       "album": {
-        "name": "Melhor Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36T2efqaTFZrkuDZvU5Mgo"
+        "name": "Deus Coloca O Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ntpRjk2x5nSwb7eEaX2mN"
       },
       "artists": [
         {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Deive Leonardo",
+          "url": "https://open.spotify.com/artist/2yXSYL4govoGkKNqq6BJQW"
         }
       ],
-      "duration_ms": 340540,
-      "name": "Melhor Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4q8L1dolSG4FGfdVZLT0kD"
+      "duration_ms": 341540,
+      "name": "Deus Coloca O Ch\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5S0FRi4n38dDHrDl3C5MSR"
     },
     {
       "added_at": "2025-11-30 18:09:15",
@@ -583,26 +567,18 @@
     {
       "added_at": "2025-11-30 18:09:15",
       "album": {
-        "name": "Melhor Amigo / O Que Seria de Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7"
+        "name": "Melhor Lugar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36T2efqaTFZrkuDZvU5Mgo"
       },
       "artists": [
         {
-          "name": "Nair Nany",
-          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
-        },
-        {
-          "name": "Dimy Francisco",
-          "url": "https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8"
-        },
-        {
-          "name": "Eunice Zumbuca",
-          "url": "https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p"
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
         }
       ],
-      "duration_ms": 678000,
-      "name": "Melhor Amigo / O Que Seria de Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE"
+      "duration_ms": 340540,
+      "name": "Melhor Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4q8L1dolSG4FGfdVZLT0kD"
     },
     {
       "added_at": "2025-11-30 18:09:15",
@@ -623,6 +599,30 @@
       "duration_ms": 390733,
       "name": "Avenida do Arrependimento",
       "url": "https://open.spotify.com/track/6gFSzsRAZOG9tRPcnWwkdT"
+    },
+    {
+      "added_at": "2025-11-30 18:09:15",
+      "album": {
+        "name": "Melhor Amigo / O Que Seria de Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7"
+      },
+      "artists": [
+        {
+          "name": "Nair Nany",
+          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
+        },
+        {
+          "name": "Dimy Francisco",
+          "url": "https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8"
+        },
+        {
+          "name": "Eunice Zumbuca",
+          "url": "https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p"
+        }
+      ],
+      "duration_ms": 678000,
+      "name": "Melhor Amigo / O Que Seria de Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE"
     },
     {
       "added_at": "2025-11-30 18:09:15",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-11-30 18:09:15",
       "album": {
-        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 431470,
-      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
-    },
-    {
-      "added_at": "2025-11-30 18:09:15",
-      "album": {
         "name": "\u00c9s o Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 403538,
       "name": "\u00c9s o Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
+    },
+    {
+      "added_at": "2025-11-30 18:09:15",
+      "album": {
+        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 431470,
+      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
     },
     {
       "added_at": "2025-11-30 18:09:15",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-11-30 18:09:15",
       "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 474701,
-      "name": "Abre os Selos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
-    },
-    {
-      "added_at": "2025-11-30 18:09:15",
-      "album": {
         "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
         "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 355322,
       "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
       "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
+    },
+    {
+      "added_at": "2025-11-30 18:09:15",
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
     },
     {
       "added_at": "2025-11-30 18:09:15",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-11-30 18:09:15",
       "album": {
-        "name": "Escape / Nunca Pare de Lutar",
-        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
-      },
-      "artists": [
-        {
-          "name": "Jadson Moreno",
-          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
-        }
-      ],
-      "duration_ms": 565252,
-      "name": "Escape / Nunca Pare de Lutar",
-      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
-    },
-    {
-      "added_at": "2025-11-30 18:09:15",
-      "album": {
         "name": "Fidelidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 330921,
       "name": "Fidelidade (Ao Vivo)",
       "url": "https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq"
+    },
+    {
+      "added_at": "2025-11-30 18:09:15",
+      "album": {
+        "name": "Escape / Nunca Pare de Lutar",
+        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
+      },
+      "artists": [
+        {
+          "name": "Jadson Moreno",
+          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
+        }
+      ],
+      "duration_ms": 565252,
+      "name": "Escape / Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
     },
     {
       "added_at": "2025-11-30 18:09:15",

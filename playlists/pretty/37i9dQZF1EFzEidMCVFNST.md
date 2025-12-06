@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167 likes - 308 songs - 14 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 167 likes - 308 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 94 | [Muda De Planeta](https://open.spotify.com/track/02pratXuIvJ6NlCdmNcFhR) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Acústico Do Nada](https://open.spotify.com/album/64p7CrFGlKyEFvAnv3P0D4) | 2:07 |
 | 95 | [Se Quiser Melhorar](https://open.spotify.com/track/2GDBzFMJaokCDXWTc8edqL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos, EP3](https://open.spotify.com/album/3kEAw83xB24KyNKuLhjz1m) | 3:25 |
 | 96 | [Alcontece \- Ao Vivo](https://open.spotify.com/track/4qkmikm7bWz5RYjkCm6Bn2) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [1 Dois 3 \(Ao Vivo\)](https://open.spotify.com/album/6fVTu62HtqwjVwYwidjkVi) | 2:44 |
-| 97 | [Passa Amanhã \- Ao Vivo](https://open.spotify.com/track/5Ir9GJrn6AZNlWEcWYa7jn) | [Aviões do Forró](https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za) | [Aviões Fantasy \(Ao Vivo\)](https://open.spotify.com/album/5Uj6orMc4FQGoIvqTRKJgz) | 2:42 |
-| 98 | [Apaga Apaga Apaga](https://open.spotify.com/track/1IpIfC75FTA8l4i3RQzRbq) | [Unha Pintada Show](https://open.spotify.com/artist/0YyR6xgollAvHIMDnKog3s) | [Apaga Apaga Apaga](https://open.spotify.com/album/3S93Ed0gdYWBU9zlLW1i85) | 3:15 |
+| 97 | [Apaga Apaga Apaga](https://open.spotify.com/track/1IpIfC75FTA8l4i3RQzRbq) | [Unha Pintada Show](https://open.spotify.com/artist/0YyR6xgollAvHIMDnKog3s) | [Apaga Apaga Apaga](https://open.spotify.com/album/3S93Ed0gdYWBU9zlLW1i85) | 3:15 |
+| 98 | [Passa Amanhã \- Ao Vivo](https://open.spotify.com/track/5Ir9GJrn6AZNlWEcWYa7jn) | [Aviões do Forró](https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za) | [Aviões Fantasy \(Ao Vivo\)](https://open.spotify.com/album/5Uj6orMc4FQGoIvqTRKJgz) | 2:42 |
 | 99 | [Pode Beber](https://open.spotify.com/track/6f34JbYoEID5lpSm0b9oTq) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Pode Beber](https://open.spotify.com/album/4tyMJKJZMllDDV1wT9cqD8) | 3:00 |
 | 100 | [Onde Sofre Um Bebe Dois](https://open.spotify.com/track/5Ad7sQctusb7DAjXuV2fPP) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Coisa De Louco EP](https://open.spotify.com/album/4loAIuNE5Czk1DKMUPfPj4) | 3:08 |
 | 101 | [Pula pra Minha Vida](https://open.spotify.com/track/6Pg24lcvPKiPIZbf2ERW6t) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Acredite](https://open.spotify.com/album/0WvvOZUcB0ZZNV75w1vZXq) | 3:12 |
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 155 | [Enlouquece](https://open.spotify.com/track/0cHY38n0PeJL8gbwLO7W5K) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [EP 1](https://open.spotify.com/album/71PC8ZTWehwRt9n8Bn9Z1q) | 2:33 |
 | 156 | [Exageradamente Complicado \- Ao Vivo](https://open.spotify.com/track/6cChQo3TMJdUFYMnmRlrH8) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE) | [Esqueminha \(Ao Vivo\)](https://open.spotify.com/album/1jkahP9oeYoALozWby2xzc) | 2:31 |
 | 157 | [Qual a Chance](https://open.spotify.com/track/4YQnERjGGNexQ4igpvLDEn) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61), [Dany Bala](https://open.spotify.com/artist/4cQ6t2SYfuOGQmyeXZQSkg) | [Qual a Chance](https://open.spotify.com/album/6MVUHOTsAY2Umu43dPuTks) | 2:16 |
-| 158 | [1% Diablita](https://open.spotify.com/track/3mzHRZYupj7KIQW5ZXFz39) | [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ) | [1% Diablita](https://open.spotify.com/album/2BHodYJkofqWtW7XFMOwwv) | 2:31 |
+| 158 | [1% Diablita](https://open.spotify.com/track/5nB2nd2RBfEXbVwOD58DvO) | [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx), [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ) | [1% Diablita](https://open.spotify.com/album/7siKGu1dnEo3S1UvFIwA3m) | 2:13 |
 | 159 | [Mama Me Olhando \(feat\. DENNIS\)](https://open.spotify.com/track/2fHlQJV1L8NWcSkGTUlmZX) | [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Poesia Para Maiores, Vol\. 1 \(feat\. DENNIS\)](https://open.spotify.com/album/223DLwcAOccNfsxqvewCb7) | 2:38 |
 | 160 | [Cama Preferida](https://open.spotify.com/track/5KNw7xragsUXp9XIpWkXMk) | [Gabriel Lopes](https://open.spotify.com/artist/4PUjkcBuLz6OR3Xhm2OA1t) | [Cama Preferida](https://open.spotify.com/album/0eAZNTZiCB8FgDStthDBDO) | 2:36 |
 | 161 | [Errada ela não tá](https://open.spotify.com/track/5aSFo3IWPdDvVwbdYgXQcv) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Sol e Mar, Vol\. 1](https://open.spotify.com/album/0xDwMkd9eQMSEI8eX6DMlp) | 2:23 |
@@ -317,4 +317,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 307 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 | 308 | [Tem a Senha](https://open.spotify.com/track/2XFlvQgefJIMVGkcZfMyW2) | [Artthurzinho](https://open.spotify.com/artist/0MHUejZdGYlArcSqjUsJ8q) | [Tem a Senha](https://open.spotify.com/album/7LkNcS5pEwLDMOeRAUmceh) | 2:39 |
 
-Snapshot ID: `AcDW2gAAAAAlGRLN3fgBDP1euwEo/kuY`
+Snapshot ID: `AcDcZgAAAACDD/ZLVO3H7f8A73JKj+iU`

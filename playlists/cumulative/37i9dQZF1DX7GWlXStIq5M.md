@@ -2,7 +2,7 @@
 
 ### [Palco POP](https://open.spotify.com/playlist/37i9dQZF1DX7GWlXStIq5M)
 
-> Os hits e novos nomes do pop dividindo o mesmo palco!
+> Os hits e novos nomes do pop dividindo o mesmo palco! Foto: GABI LINS
 
 1,068 songs - 2 day 5 hr 1 min
 

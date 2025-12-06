@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 reybruja
+> rock alternativo argentino\. <br/>📷 La Grecia
 
-280 songs - 15 hr 49 min
+281 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,9 +190,10 @@
 | [No](https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU), [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Amalgama](https://open.spotify.com/album/3Wm4UI67R1RrWGe8C8OrRr) | 3:24 | 2022-03-25 | 2025-11-14 |
 | [No digas que no te avisé](https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [No digas que no te avisé](https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT) | 4:26 | 2024-08-30 |  |
 | [No Los Pueden Separar](https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [No Los Pueden Separar](https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j) | 2:22 | 2024-04-19 |  |
+| [No Pares \(Sí, sí\)](https://open.spotify.com/track/1Q7Gq9wfgvEiQr5ErcD0Ks) | [La Grecia](https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ) | [Lady Garrón](https://open.spotify.com/album/5GpowTlDdjO8288epvUtWK) | 3:17 | 2025-12-05 |  |
 | [no puedo volver](https://open.spotify.com/track/2LN4fRBRHEmhipl7OjQ9e1) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Medianoche Radio Club](https://open.spotify.com/album/1Bhx6as8YJyXPhRUS8rHj1) | 3:46 | 2022-03-25 | 2023-03-25 |
 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 | 2022-03-25 | 2024-07-13 |
-| [No tengo idea](https://open.spotify.com/track/416HsmtDS0KEpTJlyGsLJS) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [No tengo idea](https://open.spotify.com/album/5IEtotjjUIcyRkIJ743Ide) | 3:48 | 2024-05-24 |  |
+| [No tengo idea](https://open.spotify.com/track/416HsmtDS0KEpTJlyGsLJS) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [No tengo idea](https://open.spotify.com/album/5IEtotjjUIcyRkIJ743Ide) | 3:48 | 2024-05-24 | 2025-12-06 |
 | [no tengo plata](https://open.spotify.com/track/1Jpnh08qOURW1ZMLeLID2P) | [Garbage People](https://open.spotify.com/artist/4jxBa85KpvmZuD2N9Ug4s2) | [no tengo plata](https://open.spotify.com/album/1qLqFTqvXBl9JsMy4QGLYm) | 3:41 | 2024-08-23 |  |
 | [No Voy a Salir de la Cama](https://open.spotify.com/track/7gZnkVesq9YHoXpe6Jmoh4) | [La Real Academia](https://open.spotify.com/artist/4Rin3fJL3HmFKZsoJ2OzZm) | [Programa](https://open.spotify.com/album/22bH5HAEXK1gBETj87xxXm) | 2:26 | 2023-04-07 | 2024-06-22 |
 | [NOVIOS IMAGINARIOS](https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [NOVIOS IMAGINARIOS](https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00) | 4:44 | 2023-07-14 | 2023-10-28 |

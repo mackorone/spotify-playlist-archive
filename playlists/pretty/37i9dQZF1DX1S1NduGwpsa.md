@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Flore Benguigui
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,316 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,345 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 3 | [People Always Change](https://open.spotify.com/track/1fgPBVkZww9OAoVmDOJFdg) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Woman Of Faces](https://open.spotify.com/album/4EjogBoZXWpOTLhi9mxczy) | 4:50 |
 | 4 | [Carnaval de Barranquilla Radio Edit](https://open.spotify.com/track/1B9puk4a8v3SPB1kxQqyEz) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Pacifiques Biches](https://open.spotify.com/album/3T8qoyOqISNu86H92G7Enu) | 4:17 |
 | 5 | [Nature Boy](https://open.spotify.com/track/5CIU0VYLwZyIo7hwolhWph) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Nature Boy](https://open.spotify.com/album/1eaDEqo4SzXRF6HyyZKbbr) | 5:56 |
-| 6 | [Track 4](https://open.spotify.com/track/4ykySjQAxiSpS5xNU8R25s) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [](https://open.spotify.com/album/null) | 0:00 |
+| 6 | [Carinhoso](https://open.spotify.com/track/4ykySjQAxiSpS5xNU8R25s) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [A Little Time For Love](https://open.spotify.com/album/2YNz3gcj2Uucf98VJ4OHPW) | 3:53 |
 | 7 | [The Playful Listener](https://open.spotify.com/track/1O8upChPtS2EYyK3krjqy0) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Everyday Superheroes](https://open.spotify.com/album/0t29Q1FASaChkVGRq3C8QF) | 3:56 |
 | 8 | [All I See \(feat\. CUBE\)](https://open.spotify.com/track/58WKzEfGmL8Sv9inFanVs6) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU), [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [All I See EP](https://open.spotify.com/album/5WLziaNaH2Rx0FhCaFMCZp) | 4:19 |
 | 9 | [Tomorrow](https://open.spotify.com/track/2OmKfDdY4wSdvTB9YuCJ4t) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [The Return of Slick](https://open.spotify.com/album/1t2kpu4LHR0O5PsQLxSQnp) | 3:19 |

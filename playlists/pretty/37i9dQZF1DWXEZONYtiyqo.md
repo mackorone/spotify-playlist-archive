@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: JO
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,793 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,800 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Era Era](https://open.spotify.com/track/6g6GWllSGfq78lyKJ1K4lO) | [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U) | [Era Era](https://open.spotify.com/album/1buwRQ2gDx09g4xFW4ZxEq) | 2:30 |
 | 50 | [Vantule](https://open.spotify.com/track/4xDmuhNr1tkmO8HHQIdR2L) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Vantule](https://open.spotify.com/album/1mex6sLvhRckmJ5ztvZQQY) | 3:02 |
 
-Snapshot ID: `AAAAALeQV4sLuRctzCw9S9z7bs+2CgMM`
+Snapshot ID: `AAAAALUXwe9f97jRmuZWtyg+yKfk+YXx`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,560 likes - 19 songs - 1 hr 11 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,562 likes - 19 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Equinox](https://open.spotify.com/track/3p8hcI5yatFQo5F4Hu9sDc) | [Aidoneus](https://open.spotify.com/artist/1EZDd31i3d5j5Ol91UJ6d5), [Jesterbug](https://open.spotify.com/artist/2GUXgi6zx7GPeiYZOgsUAL) | [Equinox](https://open.spotify.com/album/6VIleHfkyQsT6yX6W36Upk) | 4:14 |
-| 2 | [Prelude](https://open.spotify.com/track/6jYAGsCy1zlJTW3feaLJ8S) | [Megahit](https://open.spotify.com/artist/31r426ivwXMoZRDpTOTLLA) | [](https://open.spotify.com/album/null) | 4:13 |
+| 2 | [Prelude](https://open.spotify.com/track/6jYAGsCy1zlJTW3feaLJ8S) | [Megahit](https://open.spotify.com/artist/31r426ivwXMoZRDpTOTLLA) | [Prelude](https://open.spotify.com/album/1aOHbYSMj1vxf57JtpsI9a) | 4:13 |
 | 3 | [AMPUTATE THE FAKE](https://open.spotify.com/track/7HFbRM4yb0Wrs13EoYgDG0) | [Shilpa Ananth](https://open.spotify.com/artist/3mlTRbD5Vit017KpgSvzEi) | [AMPUTATE THE FAKE](https://open.spotify.com/album/0KL1vuTamAEoHn6oVqM40Z) | 3:11 |
 | 4 | [Dance Tonight](https://open.spotify.com/track/2mPMkeBAoJjBMqI2G3evxf) | [glide](https://open.spotify.com/artist/4sJIxnsxciNWl602rXrfXT), [Guru Griff](https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8), [back pockets](https://open.spotify.com/artist/1opF8wXbUWfibFd6JYrnLx) | [Dance Tonight](https://open.spotify.com/album/5G766AzxaGLyg0gBJxjV3i) | 2:56 |
 | 5 | [Joulun Ihme](https://open.spotify.com/track/5vIVmSI5x48ZHNvynqshvB) | [Anni Luoma](https://open.spotify.com/artist/6msLxTlEfJRgRdQfwmOVfo) | [Joulun Ihme](https://open.spotify.com/album/4KOUSw0PsnoRFR8j6ECxhV) | 3:49 |

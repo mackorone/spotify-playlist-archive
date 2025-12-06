@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-4,495 songs - 9 day 23 hr 49 min
+4,496 songs - 9 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3209,8 +3209,8 @@
 | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW) | 4:00 | 2024-10-23 | 2024-12-11 |
 | [Raanjhan Aaya](https://open.spotify.com/track/0vqtlDkv6BamM6PIKM9ptz) | [Masaba](https://open.spotify.com/artist/5wqQrS5pyg3kv4FRI6I45P), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Raanjhan Aaya](https://open.spotify.com/album/1D42KMvs4ntxc04oXyY7cJ) | 2:43 | 2023-11-30 | 2023-12-02 |
 | [Rabetão De Terremoto](https://open.spotify.com/track/4swtnATsndB7VJVq0n4EQE) | [DJ CZ](https://open.spotify.com/artist/52xstrfqEahsQREdysdsgr), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw), [DJ TS](https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON), [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [Prime Funk](https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x) | [Rabetão De Terremoto](https://open.spotify.com/album/67v8jx5TDQDkewt5oMiJZn) | 1:47 | 2025-04-08 | 2025-04-30 |
-| [Radio](https://open.spotify.com/track/3l8ACerUtJfRd0rxJJ4Gkx) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/3rcJwEH6EyPPEiqsrABR4k) | 3:21 | 2025-11-30 |  |
-| [Radio](https://open.spotify.com/track/6jppHdy8EW9ghHlOCpGBEr) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/6LhMCZ3grywqUzh5LH2CND) | 3:21 | 2025-12-01 | 2025-12-05 |
+| [Radio](https://open.spotify.com/track/3l8ACerUtJfRd0rxJJ4Gkx) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/3rcJwEH6EyPPEiqsrABR4k) | 3:21 | 2025-11-30 | 2025-12-06 |
+| [Radio](https://open.spotify.com/track/6jppHdy8EW9ghHlOCpGBEr) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/6LhMCZ3grywqUzh5LH2CND) | 3:21 | 2025-12-01 |  |
 | [Radio](https://open.spotify.com/track/7i6II9P0ZbZegC4nvMzGLz) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/31vE4XyMAWFJFF8JxbJ4FJ) | 3:21 | 2025-11-26 | 2025-12-01 |
 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 | 2024-11-12 | 2024-11-15 |
 | [Rahmatun Lil’Alameen](https://open.spotify.com/track/4gcQ4sBOIX8s510XrNZQUA) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil’Alameen](https://open.spotify.com/album/0XDt4wF7I0dpj6ii47DQoF) | 3:50 | 2023-03-28 | 2023-04-05 |
@@ -4207,7 +4207,8 @@
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2023-05-13 | 2023-05-26 |
 | [Watermelon](https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60) | [John + Jane Q\. Public](https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf) | [Dinner in America Soundtrack](https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd) | 1:50 | 2024-10-03 | 2025-01-22 |
 | [Watermelon](https://open.spotify.com/track/4RcvW85krnaZmDpA9lD5qq) | [Relentless](https://open.spotify.com/artist/7a3M78qUYhXA63joz1fPyf), [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Watermelon](https://open.spotify.com/album/6vBk0iAPnrNNLYZTFdskYx) | 1:50 | 2024-10-18 | 2024-10-21 |
-| [We Are Charlie Kirk](https://open.spotify.com/track/74EGMROdYEhlDCrVV9inY2) | [22xlstl](https://open.spotify.com/artist/4OM1oMd7QgznACLRI70AAx), [dj diddlyblud](https://open.spotify.com/artist/2v17bjhudupnNFbiiVWv0k) | [We Are Charlie Kirk](https://open.spotify.com/album/42f1jkD2cQCaAtN3E81cSK) | 3:44 | 2025-12-04 |  |
+| [We Are Charlie Kirk](https://open.spotify.com/track/6JY2x6cvjNZjqdQFnEltcP) | [22xlstl](https://open.spotify.com/artist/4OM1oMd7QgznACLRI70AAx) | [We Are Charlie Kirk](https://open.spotify.com/album/6ZOkKY4MnhzrThtnnIFm8y) | 3:44 | 2025-12-05 |  |
+| [We Are Charlie Kirk](https://open.spotify.com/track/74EGMROdYEhlDCrVV9inY2) | [22xlstl](https://open.spotify.com/artist/4OM1oMd7QgznACLRI70AAx), [dj diddlyblud](https://open.spotify.com/artist/2v17bjhudupnNFbiiVWv0k) | [We Are Charlie Kirk](https://open.spotify.com/album/42f1jkD2cQCaAtN3E81cSK) | 3:44 | 2025-12-04 | 2025-12-06 |
 | [We Are Charlie Kirk](https://open.spotify.com/track/5nC5a57UgrSg1mUxsz1P9D) | [Spalexma](https://open.spotify.com/artist/0br7BhK6Vr2Bx8IEg0PEn3) | [Charlie Kirk Forever Alive](https://open.spotify.com/album/2a854F8IkCKnrB2vEIc4qJ) | 3:44 | 2025-11-24 | 2025-12-05 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-03-26 | 2024-04-17 |
 | [We Don't Need Another Hero \(Thunderdome\)](https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 4:15 | 2023-05-29 | 2023-06-02 |

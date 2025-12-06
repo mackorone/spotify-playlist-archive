@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdt7jjdf1IdF.md) - [plain]
 
 > Dengar lagu\-lagu teristimewa yang dapat membuat kita jatuh hati dan terjebak nostalgia
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,704 likes - 36 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,709 likes - 36 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

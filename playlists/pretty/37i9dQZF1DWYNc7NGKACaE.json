@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84330,
+  "num_followers": 84313,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,30 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Ananda (Speed)",
+        "url": "https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 163835,
+      "name": "Portugal (Speed)",
+      "url": "https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Put0 & Cheiroso (Speed Plug)",
         "url": "https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D"
       },
@@ -359,30 +383,6 @@
       "duration_ms": 159937,
       "name": "Put0 & Cheiroso (Speed Plug)",
       "url": "https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Ananda (Speed)",
-        "url": "https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 163835,
-      "name": "Portugal (Speed)",
-      "url": "https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi"
     },
     {
       "added_at": "2024-07-08 19:10:57",

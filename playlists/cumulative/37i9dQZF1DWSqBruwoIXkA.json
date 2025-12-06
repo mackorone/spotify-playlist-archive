@@ -6737,6 +6737,24 @@
     },
     {
       "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/6IiD5m2FkHUNSu1hVAPTGD"
+      },
+      "artists": [
+        {
+          "name": "Maeve",
+          "url": "https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/4leYuigbid3LuPNI9jDsGr"
+    },
+    {
+      "album": {
         "name": "Only Child",
         "url": "https://open.spotify.com/album/7v0KN0VlHJZrhAbSbxEZvZ"
       },
@@ -10196,7 +10214,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Memphis LK
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,734 likes - 164 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,740 likes - 164 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 163 | [need 2 know](https://open.spotify.com/track/36YhOtvu2YIULgFAJn53Vf) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7) | [need 2 know](https://open.spotify.com/album/5iGCFIqM2YJe66sFFuFaDl) | 3:27 |
 | 164 | [Heartbreaker](https://open.spotify.com/track/1ZbxhmtfdqnH3163dQ2aao) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Heartbreaker](https://open.spotify.com/album/1feZwVuZezB2ntMA3ekXyH) | 2:31 |
 
-Snapshot ID: `AAAAAA4mVQmECtLtIkgCSemwRUG5311Z`
+Snapshot ID: `AAAAAEfzyKqZ8v1wjuHixbvhYXKqSAb9`

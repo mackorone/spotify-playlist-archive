@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,162 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,203 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 5 | [Jaan 'Nisaar](https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 3:58 |
 | 6 | [Jaane De](https://open.spotify.com/track/0S6wcmBlvyX2GUWuAHKdFp) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Ginny Diwan](https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2) | [CO\-ED \(Soundtrack from the series\)](https://open.spotify.com/album/668bPHbwQ9LyYC3CDvNTI4) | 2:16 |
 | 7 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 |
-| 8 | [Kisse Kahein](https://open.spotify.com/track/5Wv4SKb47yIfogR1Ce6xRE) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg), [Alvina D'Souza](https://open.spotify.com/artist/36tNnQB56RmSvOyTmkJBvz) | [Kisse Kahein](https://open.spotify.com/album/2QuhFrkgs0MMV8xOmyi3aH) | 2:49 |
+| 8 | [Kisse Kahein](https://open.spotify.com/track/5Wv4SKb47yIfogR1Ce6xRE) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg), [Alvina D'souza](https://open.spotify.com/artist/11pk708XY9mlYHHNWLTWry) | [Kisse Kahein](https://open.spotify.com/album/2QuhFrkgs0MMV8xOmyi3aH) | 2:49 |
 | 9 | [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 |
 | 10 | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h) | 4:54 |
 | 11 | [Baat Itni Si Hai \- Unplugged](https://open.spotify.com/track/2xkyznh2fVteFDmWjUlZ9U) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baat Itni Si Hai \(Unplugged\)](https://open.spotify.com/album/0rjJuTIRRXK6KOv3UuUSvC) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Meri Kya Khata](https://open.spotify.com/track/25cu0HRFLcHsQ3DGijw4IH) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Dheerendra Gautam](https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly) | [Meri Kya Khata](https://open.spotify.com/album/121PPl7OE4kVQCUcFrLylb) | 3:02 |
 | 75 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
 
-Snapshot ID: `AAAAAJQzCuP/6Uan8aMScNG3qRaXIo3m`
+Snapshot ID: `AAAAANN5FCalbfq5W2JOLdigUqOhuO1M`

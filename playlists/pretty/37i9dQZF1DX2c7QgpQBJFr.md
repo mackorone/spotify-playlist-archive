@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Voga
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,372 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,383 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 18 | [paradiso](https://open.spotify.com/track/0Mbu7beOY6V435dfnqSAHB) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [paradiso](https://open.spotify.com/album/6zyF02pm0tFZolZHy7LoT0) | 2:44 |
 | 19 | [Mattone](https://open.spotify.com/track/46yBh1rkQjidNATQ7YeqTa) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Mattone](https://open.spotify.com/album/2g5pToFqMIpwYNyFlOPU6N) | 3:22 |
 | 20 | [Poco Poco](https://open.spotify.com/track/7z0w3nra5DuagQkcg3lxkq) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Poco Poco](https://open.spotify.com/album/3tWHV8nl35UmhbsYV7VZyL) | 2:31 |
-| 21 | [Baita](https://open.spotify.com/track/1XlPgxYmSmS1OeJiP1uS2A) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [](https://open.spotify.com/album/null) | 3:21 |
+| 21 | [Baita](https://open.spotify.com/track/1XlPgxYmSmS1OeJiP1uS2A) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [BAITA](https://open.spotify.com/album/6aJ27lvYIWcpaDdgG7aRnp) | 3:21 |
 | 22 | [Ho coltivato un fiore](https://open.spotify.com/track/5tZp1AB3M1hX8a12dtm2yP) | [Loree](https://open.spotify.com/artist/76AfunnKwnBQFzrXfrre6a) | [Ho coltivato un fiore](https://open.spotify.com/album/0eRFr3QvBj9xHjObImourJ) | 3:19 |
 | 23 | [Non Sono Tua](https://open.spotify.com/track/33W9RRg8PeHtCoVejgbqgV) | [Lumiero](https://open.spotify.com/artist/3LzPMUrVGBa352z5KZiubQ) | [Il Primo Grande Disco Di Lumiero](https://open.spotify.com/album/6ZBNyxUBIziv95eWeOKXB0) | 3:34 |
 | 24 | [Buona Vita](https://open.spotify.com/track/23xdTDG6UCik1RWC5ye9wL) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Buona Vita](https://open.spotify.com/album/2M68rKgcpb3lcg69qXwgdc) | 2:45 |

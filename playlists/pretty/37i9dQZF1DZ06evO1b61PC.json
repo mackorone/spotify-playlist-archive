@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAACeEKdiyJm8mocg50TVcMO7",
+  "snapshot_id": "aTDPAAAAAAD2VyaqOeDpvpXm/MkkP8GW",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Rise (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 188616,
+      "name": "We Rise - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Red Eye Home",
         "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
       },
@@ -575,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Rise (Jai Wolf Remix)",
-        "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 188616,
-      "name": "We Rise - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The End (Jai Wolf Club Babu Remix)",
         "url": "https://open.spotify.com/album/3f33kxanpbHtn87RAfGBuc"
       },
@@ -623,46 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
-        }
-      ],
-      "duration_ms": 283764,
-      "name": "Red Eye (feat. rei brown)",
-      "url": "https://open.spotify.com/track/5qfGgZ5GTMoauSp0JKTxu4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Water Sign (feat. Aluna)",
-        "url": "https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Water Sign (feat. Aluna)",
-      "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tennis Skirt (feat. Ella Boh) [Demo]",
         "url": "https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B"
       },
@@ -679,6 +639,26 @@
       "duration_ms": 186363,
       "name": "Tennis Skirt (feat. Ella Boh) - Demo",
       "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Water Sign (feat. Aluna)",
+      "url": "https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q"
     },
     {
       "added_at": null,
@@ -742,6 +722,26 @@
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        }
+      ],
+      "duration_ms": 283764,
+      "name": "Red Eye (feat. rei brown)",
+      "url": "https://open.spotify.com/track/5qfGgZ5GTMoauSp0JKTxu4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
       "duration_ms": 123692,
@@ -779,26 +779,6 @@
       "duration_ms": 366000,
       "name": "My Tears Could Fill A Well",
       "url": "https://open.spotify.com/track/2mJQl9Uck5RRpx5pbUUaF4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "SAYAK DAS",
-          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
-        }
-      ],
-      "duration_ms": 442868,
-      "name": "Melancholy Ave. / God Only Knows (feat. SAYAK DAS)",
-      "url": "https://open.spotify.com/track/0XDEx5srT9JpkNvvBg7D7B"
     }
   ],
   "unique_name": "This Is Jai Wolf",

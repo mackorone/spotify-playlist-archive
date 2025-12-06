@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "El amor no se escucha, se siente... Sin Bandera en portada.",
+  "description": "El amor no se escucha, se siente... Olivia Wald en portada.",
   "name": "Radio Coraz\u00f3n",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 159661,
       "name": "a m a n e c e r",
       "url": "https://open.spotify.com/track/0Jga6DNV1MRTq2wPVPA7yJ"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 228506,
       "name": "Caballero",
       "url": "https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9"
@@ -3266,7 +3266,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 207500,
       "name": "El Menos Indicado",
       "url": "https://open.spotify.com/track/2t5PlIcd44gzeaT2VEeUb5"
@@ -4580,7 +4580,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 254773,
       "name": "Inalcanzable",
       "url": "https://open.spotify.com/track/3VlS9yWZ9WkzaePi8oobTj"
@@ -7237,6 +7237,24 @@
     },
     {
       "album": {
+        "name": "Pecadora",
+        "url": "https://open.spotify.com/album/5HxKLEE75MZGKDPFPl37Hl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Pecadora",
+      "url": "https://open.spotify.com/track/1599bMWWkIn041P87kqtmB"
+    },
+    {
+      "album": {
         "name": "Perderme En Ti",
         "url": "https://open.spotify.com/album/59RS2bgrbBfBhLHL5qTCc4"
       },
@@ -7474,6 +7492,24 @@
       "duration_ms": 205762,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1pR68GqUGbbH6aogiIgjHL"
+    },
+    {
+      "album": {
+        "name": "Precisa Tiempo",
+        "url": "https://open.spotify.com/album/6WG6ZR9TbX048lDG9SHDVN"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218422,
+      "name": "Precisa Tiempo",
+      "url": "https://open.spotify.com/track/22tsm1x1JSXtth3JBSbbcs"
     },
     {
       "album": {
@@ -7780,6 +7816,28 @@
       "duration_ms": 179693,
       "name": "Que Se Sepa Nuestro Amor",
       "url": "https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym"
+    },
+    {
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7yUKcQYhS1SrCI8WVxvivK"
+      },
+      "artists": [
+        {
+          "name": "Fabiola Roudha",
+          "url": "https://open.spotify.com/artist/1zy1aRv5QcHeNCA3jyTp71"
+        },
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248251,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5M6o50hiGVr5RnFfplKxdB"
     },
     {
       "album": {
@@ -8378,6 +8436,28 @@
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "album": {
+        "name": "Si Te Quedas",
+        "url": "https://open.spotify.com/album/2YvDx3uFnG3pNfCgv7s105"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175748,
+      "name": "Si Te Quedas",
+      "url": "https://open.spotify.com/track/7vDbXop7XfI3FGyHLWGzIC"
     },
     {
       "album": {
@@ -9560,6 +9640,24 @@
       "duration_ms": 193975,
       "name": "Tiburones",
       "url": "https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM"
+    },
+    {
+      "album": {
+        "name": "Tiempos Peores",
+        "url": "https://open.spotify.com/album/6eUMXVORVyvyZSxXKM1eRq"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93600,
+      "name": "Tiempos Peores",
+      "url": "https://open.spotify.com/track/4BgWt5476DCZAPEOgj46pa"
     },
     {
       "album": {
@@ -10774,7 +10872,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 226178,
       "name": "\u00bfQu\u00e9 Significa El Amor?",
       "url": "https://open.spotify.com/track/1egFrCBbuKVQ0qKgeISFVA"

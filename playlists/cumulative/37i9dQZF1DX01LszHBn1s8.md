@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> Julia you are an absolute ICON
+> Can you hear the drums Fernando?
 
 1,650 songs - 3 day 15 hr 0 min
 

@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 211725,
       "name": "Daytona",
       "url": "https://open.spotify.com/track/6lmXLltCYZciRhKFNPofCo"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 153979,
       "name": "Dealer",
       "url": "https://open.spotify.com/track/3AJKJI3dD6rwZYnJIQyH7L"
@@ -2825,6 +2825,28 @@
     },
     {
       "album": {
+        "name": "FUXWAVE",
+        "url": "https://open.spotify.com/album/1tGwD7tn5s8bcNbArXQumh"
+      },
+      "artists": [
+        {
+          "name": "Eno",
+          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+        },
+        {
+          "name": "KARDO",
+          "url": "https://open.spotify.com/artist/3NZPZUWDcJngcu8MuBpT69"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141866,
+      "name": "FUXWAVE",
+      "url": "https://open.spotify.com/track/07sc3ly0DOs1ssCajr9kbp"
+    },
+    {
+      "album": {
         "name": "F\u00dcR IMMER",
         "url": "https://open.spotify.com/album/5zZcS8YmoeA99WdPzfxlzb"
       },
@@ -3270,6 +3292,24 @@
       "duration_ms": 124093,
       "name": "Heartbreaks",
       "url": "https://open.spotify.com/track/3NC8Zs1B4RZijkvFzXEMAa"
+    },
+    {
+      "album": {
+        "name": "Heavyweight",
+        "url": "https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp"
+      },
+      "artists": [
+        {
+          "name": "Saliou",
+          "url": "https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95049,
+      "name": "Heavyweight",
+      "url": "https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM"
     },
     {
       "album": {

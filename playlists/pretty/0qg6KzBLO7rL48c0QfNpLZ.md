@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 108,896 likes - 94 songs - 4 hr 1 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 108,867 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,11 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 92 | [Simulation](https://open.spotify.com/track/5aLP7FN6zP3lZ1MLF2whEV) | [Kkriegerz](https://open.spotify.com/artist/5RKvtuppIH0e1Nc2Wt5EiW), [ZapsyQ](https://open.spotify.com/artist/7KePhWFfr0G4X1yZwtaGjT) | [Simulation](https://open.spotify.com/album/5w4OdGTjVK2FLJw7xyxPZe) | 2:09 |
 | 93 | [Memories](https://open.spotify.com/track/4HMQcmdviIm28WNMDsbyXT) | [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM), [RODA](https://open.spotify.com/artist/39PpUkKS1ul0OKtz72q0qE) | [Memories](https://open.spotify.com/album/5rQFaeiWrJpTjfjJZeVjqj) | 2:34 |
 | 94 | [Follow](https://open.spotify.com/track/5vl7lho5HYGYCquZL7NUc1) | [Neonica](https://open.spotify.com/artist/48dGofwEMmTKNTO7bZj8WF), [Syntheticsax](https://open.spotify.com/artist/05hm1QdbuSVF4WdgzA0tFJ), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [Follow](https://open.spotify.com/album/1fdfRTfputh6cOwgTc7O3B) | 2:50 |
+| 95 | [Lonely](https://open.spotify.com/track/6aOjQvAZ5rW5K6QaTQEXrJ) | [Maxomar](https://open.spotify.com/artist/0fs4pqQpTlESYfNfR4lDp0), [tamii](https://open.spotify.com/artist/4ZHWBlBqCWkU5nuUbzbxOG) | [Lonely](https://open.spotify.com/album/5uji1zUEsxUyibQnWqhgWb) | 2:48 |
+| 96 | [Lonely](https://open.spotify.com/track/6aOjQvAZ5rW5K6QaTQEXrJ) | [Maxomar](https://open.spotify.com/artist/0fs4pqQpTlESYfNfR4lDp0), [tamii](https://open.spotify.com/artist/4ZHWBlBqCWkU5nuUbzbxOG) | [Lonely](https://open.spotify.com/album/5uji1zUEsxUyibQnWqhgWb) | 2:48 |
+| 97 | [Muscle Memory](https://open.spotify.com/track/1zK5upN1lDZctrQ6hiTdAv) | [Thomas Foster](https://open.spotify.com/artist/5XC8kRHSVMrwbJs9fHd2v7), [Maddy Lang](https://open.spotify.com/artist/2t3rh4ZlHCPVj0eEWV5FHJ) | [Muscle Memory](https://open.spotify.com/album/3sS9ItoA4J7XJKiuE4Qt60) | 2:45 |
+| 98 | [Colorful](https://open.spotify.com/track/4koqqSZ2EtOvEUJ2ektJ26) | [Leo Chase](https://open.spotify.com/artist/72iXeoizXqiI2UK2Omdp4j) | [Colorful](https://open.spotify.com/album/6RC2fmq5JJXUDmGqG3bEkT) | 2:15 |
+| 99 | [Chasing Stars](https://open.spotify.com/track/1haC4CXNckGTshzJvqA0T0) | [Floating Club](https://open.spotify.com/artist/0NVIwt8ActAN9HoUOYAa0y) | [Chasing Stars](https://open.spotify.com/album/6fXx4wvj5eS2LBIbJvl7Uu) | 2:20 |
+| 100 | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/album/6AXjoYZ10gYz5Dax6KwR03) | 2:41 |
 
-Snapshot ID: `AAAiQaY9ynELBX/j96txQGJpsGlj2ILW`
+Snapshot ID: `AAAiRneq+Nj2aS+3RcDru3GbFY6Uq73v`

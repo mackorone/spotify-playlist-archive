@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-183 songs - 8 hr 12 min
+184 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Doux](https://open.spotify.com/track/6ho42Ki13hVke3brhpCpS5) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Doux](https://open.spotify.com/album/5cZjbTGHqspFL1wUzl9YjY) | 4:12 | 2022-01-19 | 2024-12-18 |
 | [Dream in Eb](https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Dreams](https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t) | 2:25 | 2022-01-19 |  |
 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [S.J Morgan](https://open.spotify.com/artist/4xVRQYeatzgjpb5jQZkLs4) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 | 2022-01-19 | 2024-11-14 |
+| [Drink of Water](https://open.spotify.com/track/2jgFqyG64Rg0arE4p0pE0u) | [Habre](https://open.spotify.com/artist/0OPQcjuuTEFOdJ0Oy6ON3Z) | [Bamboo Dreams](https://open.spotify.com/album/2NHDNkb6kqZkZjVBr9QeIS) | 2:36 | 2025-12-05 |  |
 | [Dunfanaghy Beach](https://open.spotify.com/track/6HzRAiGTMhRBYHJpYBxLDt) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Dunfanaghy Beach](https://open.spotify.com/album/3RrKj0S9sPr9Zhhpz9vFDW) | 2:09 | 2022-01-19 | 2024-11-14 |
 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2022-02-02 | 2024-12-18 |
 | [Easy](https://open.spotify.com/track/1OP1Pxj0AeFSkVcqdc9IFQ) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [Easy](https://open.spotify.com/album/4XJPGsxGDxmk8qNylj56gb) | 2:51 | 2022-07-27 |  |

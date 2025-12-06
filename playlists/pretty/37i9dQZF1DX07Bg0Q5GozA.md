@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: TEED
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,127 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,100 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In Darkness](https://open.spotify.com/track/7hqtAz51uS84jjOKfjgdIL) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [](https://open.spotify.com/album/null) | 3:37 |
+| 1 | [In Darkness](https://open.spotify.com/track/7hqtAz51uS84jjOKfjgdIL) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Always With Me](https://open.spotify.com/album/4E3yDqnMgUfLxRYH3LDkiE) | 3:37 |
 | 2 | [Hold On](https://open.spotify.com/track/5reWe6VIloY1CNYhzdApCl) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Hold On](https://open.spotify.com/album/40Ksd3AVHtWcZbExDuuxVL) | 3:41 |
 | 3 | [Fuck Your Face](https://open.spotify.com/track/46gTZxGOWbJ8d9awEPkJYn) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Fuck Your Face](https://open.spotify.com/album/3vs02FaO7LSOr4GiGtfUcI) | 2:49 |
-| 4 | [Track 4](https://open.spotify.com/track/0OzGf8R3ZzPl9GI6K1G9k0) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [Blossom Tree](https://open.spotify.com/track/0OzGf8R3ZzPl9GI6K1G9k0) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [A Little Lucky](https://open.spotify.com/album/5Gii6pTEGox0K7UYCBqcZg) | 3:50 |
 | 5 | [Dopamine \- Jamie xx Remix](https://open.spotify.com/track/6BRSGk5zVklP8FRLTRm8Ar) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dopamine \(Jamie xx Remix\)](https://open.spotify.com/album/0Puqp5TzMtMN1ljd8Ecae9) | 5:02 |
 | 6 | [An Echo Skips A Name \- alternate take](https://open.spotify.com/track/6jJZkZvEQFAVAhZXxCupLE) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [An Echo Skips A Name \(alternate take\)](https://open.spotify.com/album/5wb2UUg4fCQXASNJxSaYTd) | 4:19 |
 | 7 | [Keep Running \- David Bay Remix](https://open.spotify.com/track/6No9mRz261anQFafV8ywnT) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Keep Running \(David Bay Remix\)](https://open.spotify.com/album/05PBoajIFE5zyRrxr17L5F) | 2:47 |
 | 8 | [Cope](https://open.spotify.com/track/6LnIqVqPQRNkiZbxO8x3bF) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Cope](https://open.spotify.com/album/42QxHnXdHax6g7xdikBDUA) | 3:12 |
 | 9 | [Stitches \- Romy Remix](https://open.spotify.com/track/1o7ZhwiE86QL36V8zsXQct) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Stitches \(Romy Remix\)](https://open.spotify.com/album/558IG2B7fNDP0wSXeBhc13) | 4:27 |
 | 10 | [Thrill of the Night](https://open.spotify.com/track/2PpHVDPumqhwDtnz1cx6bL) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Thrill Of The Night](https://open.spotify.com/album/0UpC6w0g5VZIYt2B0diLMU) | 2:52 |
-| 11 | [Summer Nights](https://open.spotify.com/track/3y84TpG8VqlJvIKud6ORkm) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [](https://open.spotify.com/album/null) | 4:19 |
+| 11 | [Summer Nights](https://open.spotify.com/track/3y84TpG8VqlJvIKud6ORkm) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Fata Morgana: Dusk](https://open.spotify.com/album/3WwHtWwcatN9LfQhLsJ422) | 4:19 |
 | 12 | [Golden Cage \- Fred Falke Remix](https://open.spotify.com/track/19XDBETDLZ2JwCUSjzN8DL) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Golden Cage \(Fred Falke Remix\)](https://open.spotify.com/album/6vwpM5BFTKL6R6bVWzr2g1) | 8:18 |
 | 13 | [Burn It!](https://open.spotify.com/track/0ADXYdnGtoEcUodPirMYXZ) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Burn It!](https://open.spotify.com/album/5TR3C0glWSRf10jWPnrsg5) | 3:19 |
 | 14 | [Come Tonight](https://open.spotify.com/track/7fmYxPPZ48G2dBX1oOE9Js) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Come Tonight](https://open.spotify.com/album/24gbyw0FstHMxPGOLUCWEs) | 4:55 |

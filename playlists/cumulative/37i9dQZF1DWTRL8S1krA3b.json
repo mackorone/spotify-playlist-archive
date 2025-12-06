@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-28",
-  "description": "This year's new country holiday songs! Cover: Lady A",
+  "description": "This year's new country holiday songs! Cover: Little Big Town",
   "name": "New Country Christmas",
   "tracks": [
     {
@@ -1669,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "Have Yourself A Merry Little Christmas (Acoustic)",
+        "url": "https://open.spotify.com/album/4c8eSrDcABmCTIwLOmGSpS"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142898,
+      "name": "Have Yourself A Merry Little Christmas - Acoustic",
+      "url": "https://open.spotify.com/track/3Epks6QVfrlFZ0FjuGolSE"
+    },
+    {
+      "album": {
         "name": "Heart of the Holidays",
         "url": "https://open.spotify.com/album/3l7pTfUOeqLC8qFaZ81uFm"
       },
@@ -2572,6 +2590,24 @@
       "duration_ms": 167456,
       "name": "Let The Holiday Come On In",
       "url": "https://open.spotify.com/track/4OfeUJAKXw4WxI4Fa8wYIh"
+    },
+    {
+      "album": {
+        "name": "Let There Be Peace On Earth",
+        "url": "https://open.spotify.com/album/4h8C4GQAGVraj3BUAh58Ke"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201806,
+      "name": "Let There Be Peace On Earth",
+      "url": "https://open.spotify.com/track/0wFnDm2bIyli6zEjZ81LXa"
     },
     {
       "album": {

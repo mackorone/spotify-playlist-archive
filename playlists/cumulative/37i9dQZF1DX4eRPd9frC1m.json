@@ -133,6 +133,24 @@
     },
     {
       "album": {
+        "name": "A MILLI (Zoey's Version)",
+        "url": "https://open.spotify.com/album/0ink8dPThmkfuPT686bdUN"
+      },
+      "artists": [
+        {
+          "name": "Zoey808",
+          "url": "https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105931,
+      "name": "A MILLI (Zoey's Version)",
+      "url": "https://open.spotify.com/track/0iAigPJ2qYUiVxNasBx0eK"
+    },
+    {
+      "album": {
         "name": "ACID",
         "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
       },
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 170201,
       "name": "fw me (dirty)",
       "url": "https://open.spotify.com/track/23bMrDNmqXJYfe8cY6Sw49"
@@ -6842,7 +6860,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 164800,
       "name": "Reaper (feat. JID)",
       "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"

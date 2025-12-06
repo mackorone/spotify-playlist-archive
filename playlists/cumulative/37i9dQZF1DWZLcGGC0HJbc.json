@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Colour On The Wall",
+        "url": "https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198189,
+      "name": "Colour On The Wall",
+      "url": "https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV"
+    },
+    {
+      "album": {
         "name": "confession",
         "url": "https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ"
       },
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 277504,
       "name": "From Up Here",
       "url": "https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf"

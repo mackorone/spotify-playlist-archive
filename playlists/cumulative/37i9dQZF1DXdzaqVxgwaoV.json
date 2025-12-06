@@ -3013,6 +3013,24 @@
     },
     {
       "album": {
+        "name": "Que Gran Relajo",
+        "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "La Banda Borracha",
+      "url": "https://open.spotify.com/track/5re4akm7ImQOsyea86iSQ3"
+    },
+    {
+      "album": {
         "name": "Soy Colombiano",
         "url": "https://open.spotify.com/album/0widRma6o6NPjpQDALT1fW"
       },
@@ -3126,7 +3144,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 200033,
       "name": "La Cinta Verde",
       "url": "https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS"

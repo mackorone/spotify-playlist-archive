@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">More info here.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,101 likes - 78 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,118 likes - 78 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 77 | [Together](https://open.spotify.com/track/3GH9z8QVq3UhepMt8qddEo) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5), [David Rodigan](https://open.spotify.com/artist/3Ecj5Hl1oHo9V7XKXdursh) | [Together / Rain](https://open.spotify.com/album/6OsZt8o1JYSbNDxHKq0FRr) | 5:03 |
 | 78 | [All I Wanna Do](https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [All I Wanna Do](https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH) | 3:04 |
 
-Snapshot ID: `AAAAAHL34VD2Xssl7Pls4ItUhxsmPQWe`
+Snapshot ID: `AAAAAMXSQmiO7GT1fVpTtx+8Uzn+1Mdr`

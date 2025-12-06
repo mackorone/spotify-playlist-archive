@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 67221,
+  "num_followers": 67300,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAADEB3ZRVyE2Q1Q7cDlU9lYb",
+  "snapshot_id": "aTDPAAAAAACv3Z2aexo0YcWMHb2uOhR6",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 346266,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
+      "duration_ms": 262893,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 262893,
-      "name": "Brown Sugar",
-      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
+      "duration_ms": 346266,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 316306,
-      "name": "The Line",
-      "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt"
+      "duration_ms": 278573,
+      "name": "Chicken Grease",
+      "url": "https://open.spotify.com/track/42uCM9saw5B3bCjEFLROlE"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 278573,
-      "name": "Chicken Grease",
-      "url": "https://open.spotify.com/track/42uCM9saw5B3bCjEFLROlE"
+      "duration_ms": 316306,
+      "name": "The Line",
+      "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt"
     },
     {
       "added_at": null,
@@ -451,26 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Blue Carpet Treatment",
-        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 282186,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi"
+      "duration_ms": 299533,
+      "name": "Ain't Nobody Home",
+      "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
     },
     {
       "added_at": null,
@@ -491,22 +487,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 299533,
-      "name": "Ain't Nobody Home",
-      "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
+      "duration_ms": 282186,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi"
     },
     {
       "added_at": null,

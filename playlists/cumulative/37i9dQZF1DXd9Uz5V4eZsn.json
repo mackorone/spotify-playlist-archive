@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "DHOO",
+        "url": "https://open.spotify.com/album/5vid39i4naS44NBPYP76IS"
+      },
+      "artists": [
+        {
+          "name": "All For Soul",
+          "url": "https://open.spotify.com/artist/5HdX7qBCsiTrzfHZdsW9kM"
+        },
+        {
+          "name": "Varun Rao",
+          "url": "https://open.spotify.com/artist/2hybncPpUQFPqcSK3ePny9"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272500,
+      "name": "Adya",
+      "url": "https://open.spotify.com/track/36cDEnnkYDSt9FGRBTGqMP"
+    },
+    {
+      "album": {
         "name": "Songs Of The River - Ganga (Soundtrack)",
         "url": "https://open.spotify.com/album/4lDuBGAfZ2ZuG180wwvezn"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1410,
+  "num_followers": 1411,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAADA9P3tPiOWkyElORptKDZE",
+  "snapshot_id": "aTDPAAAAAADMlddOtX92GQ5Zcbfe+0LL",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 302376,
-      "name": "Summer (Remastered)",
-      "url": "https://open.spotify.com/track/5Sjjk1pNHyIewQUAzQtcYZ"
+      "duration_ms": 246325,
+      "name": "Outside of Love (Remastered)",
+      "url": "https://open.spotify.com/track/1rBuKBRo2euDWbzv6JBnrd"
     },
     {
       "added_at": null,
@@ -346,11 +346,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+      "duration_ms": 194252,
+      "name": "Humbug",
+      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
     },
     {
       "added_at": null,
@@ -396,9 +400,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 246325,
-      "name": "Outside of Love (Remastered)",
-      "url": "https://open.spotify.com/track/1rBuKBRo2euDWbzv6JBnrd"
+      "duration_ms": 302376,
+      "name": "Summer (Remastered)",
+      "url": "https://open.spotify.com/track/5Sjjk1pNHyIewQUAzQtcYZ"
     },
     {
       "added_at": null,
@@ -410,15 +414,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 194252,
-      "name": "Humbug",
-      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,

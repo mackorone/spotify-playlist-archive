@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-838 songs - 1 day 11 hr 42 min
+840 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Chords In D](https://open.spotify.com/track/5j6aEvNlgkVQVIah2Zogn9) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Chords In D](https://open.spotify.com/album/2jZjzsKKH6LLi8tgsUPjWm) | 2:46 | 2025-02-19 | 2025-09-13 |
 | [Choro pra Acalmar](https://open.spotify.com/track/50e5GkpVaPnZw4JtLvBzyL) | [Eric Patelli](https://open.spotify.com/artist/1oZlAkNZzablLcx78NHA1c) | [Iguazu Falls](https://open.spotify.com/album/22IAlT7WhxkkMaNOxuM6V1) | 3:07 | 2022-07-15 | 2023-04-22 |
 | [Cidade Velha](https://open.spotify.com/track/5tT3uZPRSyEIyBHtJC2LCG) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Cidade Velha](https://open.spotify.com/album/4Rvuafq8Og3xWmpkY9Fewz) | 2:28 | 2025-04-29 | 2025-07-09 |
+| [Cinnamon](https://open.spotify.com/track/0doV7jrfQ1qpgl1mBMjqDo) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Cinnamon](https://open.spotify.com/album/4stNY4vMIrQEofdz6fl1dP) | 2:37 | 2025-12-05 |  |
 | [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 | 2023-04-21 | 2025-05-14 |
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2023-04-21 | 2023-08-26 |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-31 | 2023-04-22 |
@@ -418,7 +419,7 @@
 | [Light Across Miles](https://open.spotify.com/track/5agitWJRZZ8B9M2fqCySR9) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Light Across Miles](https://open.spotify.com/album/4ntDOg7EWMI47GceJOfBNP) | 3:03 | 2025-02-24 |  |
 | [Light in the Shadows](https://open.spotify.com/track/79AfPJ1bT8wlAXkbUvAMzO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Light in the Shadows](https://open.spotify.com/album/4VaMblRF0zOjnkpwu3dLFb) | 3:02 | 2024-10-09 |  |
 | [Light Touch](https://open.spotify.com/track/7DRiHX3VXNCkhDxtUsy6YX) | [Emanuel Nord](https://open.spotify.com/artist/2Gq8NLA4bUFNMCLKB1kx83) | [Light Touch](https://open.spotify.com/album/5cAJ8glKeq4tXSdlkjDAgj) | 1:42 | 2023-04-21 | 2023-08-26 |
-| [Lighthouse](https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Lighthouse](https://open.spotify.com/album/5MQlIqR3JoQ1cJy8SJBMo0) | 2:32 | 2024-08-13 |  |
+| [Lighthouse](https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Lighthouse](https://open.spotify.com/album/5MQlIqR3JoQ1cJy8SJBMo0) | 2:32 | 2024-08-13 | 2025-12-06 |
 | [Like A Tourist On Caminito](https://open.spotify.com/track/6alGPVL0zYvetBZiSULNiP) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Like A Tourist On Caminito](https://open.spotify.com/album/3PDesyI19q0YPY8VBjZvnd) | 3:54 | 2022-07-15 | 2022-07-29 |
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-02-24 | 2023-04-22 |
 | [Lima](https://open.spotify.com/track/6qph8rFqnbC7bUOfbmkOYP) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Lima](https://open.spotify.com/album/2hvzHcFgaOuYrcNtj6Noks) | 3:02 | 2024-05-24 |  |
@@ -556,6 +557,7 @@
 | [Pavane](https://open.spotify.com/track/47utqXLQhk4iOfHq7QvIPj) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Pavane](https://open.spotify.com/album/4KLvqHlBudcOsFD6ReSG6v) | 2:25 | 2025-03-25 |  |
 | [Peaberry](https://open.spotify.com/track/22BqJ4x6hb0oRhtyvToTon) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Peaberry](https://open.spotify.com/album/5eOtON3CwbqLE9lgeuROqA) | 2:49 | 2023-09-29 |  |
 | [Peaceful Serendipity](https://open.spotify.com/track/5xHRYoLiovEdivPfVfcIkj) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Peaceful Serendipity](https://open.spotify.com/album/38PZrESjNrvZr77Xv6zrcw) | 1:58 | 2024-02-02 | 2024-02-23 |
+| [Pebble Garden](https://open.spotify.com/track/7FnC1HiGKlpOQXjh4bUtHh) | [Milan Heyes](https://open.spotify.com/artist/46yZrE3PvsXkGFY6lE0EJ9) | [Pebble Garden](https://open.spotify.com/album/27D6azi103r9yZgj31J0Td) | 2:23 | 2025-12-05 |  |
 | [Peekskills](https://open.spotify.com/track/0Qk32yAxmSsyHmvILqfsdT) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Peekskills](https://open.spotify.com/album/0o3eEFDa3NqHEuiS8G3WjI) | 2:15 | 2025-03-05 |  |
 | [Perso nell'eternità](https://open.spotify.com/track/4VOlHgQsej9SOUCBdf8t3O) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Perso nell'eternità](https://open.spotify.com/album/1zQ2BBNPd5Qf7i3zkTqr1x) | 2:52 | 2023-04-21 | 2023-06-16 |
 | [Picturesque Dreams](https://open.spotify.com/track/079RvHezHwxo9DC7FIBzf5) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Strange Trails](https://open.spotify.com/album/2vhSHo4z27kq67g7MUfDau) | 2:10 | 2023-04-21 | 2025-05-29 |
@@ -802,7 +804,7 @@
 | [Villa Traful](https://open.spotify.com/track/0tL8cNoUgDw6Yr9GKNO6SS) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Villa Traful](https://open.spotify.com/album/2I6UeYFsvJqhwmikAXJCLF) | 3:11 | 2023-04-21 |  |
 | [Vineyard romance](https://open.spotify.com/track/0hrERSWlhyvqO1hb6EvDCS) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Vineyard romance](https://open.spotify.com/album/7jXnSO5CjtNIYU6e7g3hfa) | 2:02 | 2023-04-21 | 2025-09-13 |
 | [Vintervisa](https://open.spotify.com/track/6qFynggiuKEUNZrzjuuzWQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Vintervisa](https://open.spotify.com/album/4LVE0PGhIdMkOmfch01eKl) | 1:44 | 2023-04-21 | 2023-08-26 |
-| [Violetta](https://open.spotify.com/track/1XVUocouRpADxhKOzXrPiJ) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Violetta](https://open.spotify.com/album/17n0FEGM4SbdV0cRQ8OeTN) | 2:42 | 2025-10-20 |  |
+| [Violetta](https://open.spotify.com/track/1XVUocouRpADxhKOzXrPiJ) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Violetta](https://open.spotify.com/album/17n0FEGM4SbdV0cRQ8OeTN) | 2:42 | 2025-10-20 | 2025-12-06 |
 | [Visions](https://open.spotify.com/track/6vI1mGiTj4D8Lbi0G3Jl0z) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Visions](https://open.spotify.com/album/04JtQI5Xil1h3GCx8MyJJ8) | 2:02 | 2024-01-12 |  |
 | [Vitral](https://open.spotify.com/track/37PTKBLRzqUSXLW3e05Zuf) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Vitral](https://open.spotify.com/album/04JXDkUvyzG0vSCXf5BK6k) | 2:45 | 2025-03-10 |  |
 | [Vorfreude](https://open.spotify.com/track/098EOJ4n3mTwtlNNbxP2BL) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Vorfreude](https://open.spotify.com/album/4NrIq79Bai7tVLP7ccEToG) | 2:33 | 2022-07-15 | 2023-04-22 |

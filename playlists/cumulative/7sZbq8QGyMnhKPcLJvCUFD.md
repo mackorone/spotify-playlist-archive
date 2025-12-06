@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-798 songs - 1 day 15 hr 52 min
+800 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Need You Again](https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Need You Again](https://open.spotify.com/album/3I9CFa50uQSVc7dosPzNsQ) | 3:56 | 2025-06-24 |  |
 | [Nekozilla](https://open.spotify.com/track/5hZiyMZRVChO3RwfypsU6M) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx) | [NCS: Infinity](https://open.spotify.com/album/3AZ2LKHjvsXF3xEGUQ65Q3) | 2:48 | 2023-08-08 | 2024-01-19 |
 | [Neomorph](https://open.spotify.com/track/6W6mHDZCAcdRdFFavmru6u) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg) | [Neomorph](https://open.spotify.com/album/68jkhRlVn7skH09QaF5AzL) | 2:46 | 2022-10-26 | 2023-04-28 |
+| [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 | 2025-12-05 |  |
 | [Never Have I Felt This \- VIP](https://open.spotify.com/track/6WSwigBgXcpDVkEZ05cWuH) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This \(VIP\)](https://open.spotify.com/album/1YCHXGgn9HrKsZMHXLMbw6) | 3:12 | 2023-12-13 | 2024-08-28 |
 | [Never Knew Me](https://open.spotify.com/track/0sk6nrjHfWQZ5IvVkjTBx7) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Never Knew Me](https://open.spotify.com/album/3vF5YCTGN6BmFyqnzaAjLP) | 3:32 | 2024-05-16 | 2024-12-09 |
 | [Never Let You Down](https://open.spotify.com/track/5EeGShnS2D9qFggirp7mrT) | [Itro](https://open.spotify.com/artist/6fEZjgt9MHR4Hp3MiBRZHX) | [Never Let You Down](https://open.spotify.com/album/49h0tP9mqLdwvzosiA2Ku8) | 3:31 | 2024-01-23 | 2024-08-28 |
@@ -615,6 +616,7 @@
 | [Savannah](https://open.spotify.com/track/0ZdUHFxifUJNqo7G4aJzoF) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Philly K.](https://open.spotify.com/artist/1v8lhkt5jZgHT8xi1wYNUS) | [Savannah](https://open.spotify.com/album/71cGzXXQV7S3GWFIS57IO5) | 3:28 | 2023-08-08 | 2023-12-14 |
 | [Say Goodbye](https://open.spotify.com/track/05Tj9EuuK3me0NBJsgcgd6) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Marvin Divine](https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd) | [Say Goodbye](https://open.spotify.com/album/0RH4YAz924r8FUwRsg8Uxk) | 3:50 | 2023-08-08 | 2024-01-06 |
 | [Say To You](https://open.spotify.com/track/0tsx50hVTXTEHAS6xs57uF) | [rghvarchive](https://open.spotify.com/artist/56aLjpDNfCKl5M6SkMXo5z), [redwater](https://open.spotify.com/artist/4uFWM4R4qBU0tfTFwaTXML) | [Say To You](https://open.spotify.com/album/29FRNVXUiZWd9t2x6GzMbv) | 2:15 | 2025-10-31 |  |
+| [scars](https://open.spotify.com/track/0zB2y2HlyVWyKSAghefwzd) | [LOFIN](https://open.spotify.com/artist/3VJWdrq7JC3sVdd11NSYfx) | [scars](https://open.spotify.com/album/2lYbOAyek2e5jqilabHJHt) | 2:33 | 2025-12-05 |  |
 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 | 2022-07-05 | 2024-01-06 |
 | [Second Wind](https://open.spotify.com/track/7d9MoWBBI9sbZnsoW16z5Z) | [Matt Pridgyn](https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu) | [Second Wind](https://open.spotify.com/album/5e3cX20tXLQKMlNUxTSZ4F) | 3:12 | 2024-11-29 |  |
 | [Set It Free](https://open.spotify.com/track/5dtd0fWHWff91kiKlXxJb3) | [John Dee](https://open.spotify.com/artist/2bSxG8y5oReqlnJDxVsZbo), [Litil](https://open.spotify.com/artist/4izATJEnrbYNOBdZscfYL4), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Set It Free](https://open.spotify.com/album/3a3HBm9uLIXg8hHh0qWokg) | 3:15 | 2023-06-09 | 2023-08-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Soft and soothing beats for all your yoga practices.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,269 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,270 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 49 | [Liquid Moment](https://open.spotify.com/track/0l6oPvmPJ8b7PV2Oh0XkLI) | [oopiie](https://open.spotify.com/artist/29EJ2RABrsV5Do2YXqTlv1) | [Liquid Moment](https://open.spotify.com/album/0QzTkTDFUfs6dvWn4sFvsF) | 2:20 |
 | 50 | [in the pines](https://open.spotify.com/track/1r8icnNvDtJktIocc0pXOb) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [in the pines](https://open.spotify.com/album/3hwV3tXeDK5TSi7XUCl4q8) | 2:22 |
 
-Snapshot ID: `AAAAAGHjAI/T8XS2hT2JqMN+DuuWRV3+`
+Snapshot ID: `AAAAAFNx15OgCqIdx3r3KJtFvsldLzni`

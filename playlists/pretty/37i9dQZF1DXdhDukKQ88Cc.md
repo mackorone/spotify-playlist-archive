@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,906 likes - 53 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,895 likes - 53 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 35 | [Der Ik' Noget Imorgen](https://open.spotify.com/track/3II4mrde41VDBEBVJf2SaO) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Der Ik' Noget Imorgen](https://open.spotify.com/album/0lTI7nGxveTSafMpoEm0Lu) | 2:12 |
 | 36 | [Frank Lucas](https://open.spotify.com/track/17Tn91cG7Dz0Fl78p6MRU5) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Frank Lucas](https://open.spotify.com/album/3hn4BBea2cZzLHRZzwdmv9) | 2:13 |
 | 37 | [FOREPLAY](https://open.spotify.com/track/0B1by4Fsle0EYRagJwg8Do) | [3XB](https://open.spotify.com/artist/5mclFegO0RRuDnxI8d0dW7), [Anthon Edwards](https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti) | [FOREPLAY](https://open.spotify.com/album/6lpz0j1n2SkxI9LbbAITfr) | 2:22 |
-| 38 | [VIP!](https://open.spotify.com/track/1pr286IhjshR9JEbhqP0gs) | [K4BZ](https://open.spotify.com/artist/2TIlWsBmdZBgR2qstq6NM1) | [](https://open.spotify.com/album/null) | 1:37 |
+| 38 | [VIP!](https://open.spotify.com/track/1pr286IhjshR9JEbhqP0gs) | [K4BZ](https://open.spotify.com/artist/2TIlWsBmdZBgR2qstq6NM1) | [G44JO](https://open.spotify.com/album/5yZOICEU5FPCNpkConunz5) | 1:37 |
 | 39 | [Hvor Vi Ender Dagen](https://open.spotify.com/track/3bbwRqVUjKVA1WvDLVz7Fm) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Hvor Vi Ender Dagen](https://open.spotify.com/album/2LTeZ1R2DloKBQBKUz6lYQ) | 2:23 |
 | 40 | [Bobler](https://open.spotify.com/track/6zoMh03Bp5aAJhnb46ej03) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Menneskelige Tendenser](https://open.spotify.com/album/7wb25FsDjGO0sL1BTNqVHd) | 3:16 |
 | 41 | [TRACKSUIT](https://open.spotify.com/track/2GPVSfBMy7WD6AZc8I99KE) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [TRACKSUIT](https://open.spotify.com/album/0HxUpNDh9DhsxeMJyRCeZJ) | 2:15 |

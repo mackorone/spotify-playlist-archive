@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: U:NUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,650 likes - 76 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,651 likes - 76 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [生得好](https://open.spotify.com/track/1QoGHIBGGptUpVqCqvyoIo) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ) | [](https://open.spotify.com/album/null) | 4:09 |
+| 1 | [生得好](https://open.spotify.com/track/1QoGHIBGGptUpVqCqvyoIo) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ) | [4Reasons](https://open.spotify.com/album/5vth4gcrC8PnORzMgH5ckI) | 4:09 |
 | 2 | [恨帥潮](https://open.spotify.com/track/2D9O7xCiTqaTVeEiQFzCHD) | [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL), [Macdella](https://open.spotify.com/artist/2jGajbF57J3EZGtAjeH3Q0), [EyeballRay](https://open.spotify.com/artist/363CQz6rPzByyhhWS1zUQq), [SheATH](https://open.spotify.com/artist/55WfFcEYY8iQ9UjqcRMmdA), [Yappy](https://open.spotify.com/artist/28G5rtbvCmWsjyp5G6LwMe), [Drew](https://open.spotify.com/artist/227bmsq2MvsKjnPMtxOg5i) | [恨帥潮](https://open.spotify.com/album/2NTzN4uInQCUzenhsQoFq4) | 3:27 |
 | 3 | [胡鬧](https://open.spotify.com/track/7vTuuKMozJ1EZYS0DSDQkt) | [想破頭](https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW) | [胡鬧](https://open.spotify.com/album/7FEJTeDR6mH0PLUGY3QQMO) | 2:44 |
 | 4 | [你那麼可愛](https://open.spotify.com/track/0nepiz7jhQUYsKxYhiqSdI) | [F.F.O](https://open.spotify.com/artist/0X3YAMt7xRtQ4Mh8QyN1Tf) | [你那麼可愛](https://open.spotify.com/album/4OrWlwObVknkwwBtIG2hqN) | 3:14 |
-| 5 | [失望的山](https://open.spotify.com/track/33fBN3sd0HStBCLfRf5ntG) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [](https://open.spotify.com/album/null) | 4:21 |
+| 5 | [失望的山](https://open.spotify.com/track/33fBN3sd0HStBCLfRf5ntG) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [失望的山](https://open.spotify.com/album/69vAcNdz9Kv8EhLdECqYSI) | 4:21 |
 | 6 | [有時候 Sometimes](https://open.spotify.com/track/5JCRM4tFTAVqWDyChuzXoJ) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [有時候 Sometimes](https://open.spotify.com/album/4cDnYwcPI1Eq1iElWPBidy) | 4:11 |
 | 7 | [再见之前](https://open.spotify.com/track/4CT7KMhhnefPbU9POnDKFJ) | [GoodNight Daisy 黛西晚安区](https://open.spotify.com/artist/1XYiIpPqXiggcYiePT4BRg) | [再见之前](https://open.spotify.com/album/4tNfLdg7awtvJCxlSX5Yop) | 4:38 |
 | 8 | [我活著 \(stripped\)](https://open.spotify.com/track/7m5MZQl12gA9lR8MjhFQYn) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [我活著 \(stripped\)](https://open.spotify.com/album/1XWIfTsC1SHogPK7IVQviP) | 4:00 |

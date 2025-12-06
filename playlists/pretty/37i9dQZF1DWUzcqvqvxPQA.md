@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,227 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,232 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 55 | [Image of Love](https://open.spotify.com/track/7yx1qvTUIMmAzj7Zcmk4wI) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Image of Love](https://open.spotify.com/album/15x4tgcWqDeShCla5Ev6jK) | 3:42 |
 | 56 | [I Just Want You](https://open.spotify.com/track/1EittqeWdfzsE6y2Zuajsd) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [I Just Want You](https://open.spotify.com/album/0mcmJWcj1cymjvcv1bdT8d) | 3:12 |
 | 57 | [Autumn Fires](https://open.spotify.com/track/1HQ1ywGXL08RE0cwRcrII8) | [RIVER RIVER](https://open.spotify.com/artist/5qXb6u9r0giXGi1awbuzi1) | [Autumn Fires](https://open.spotify.com/album/2sYPnUUk5RFoT53FM2NW3r) | 3:00 |
-| 58 | [In Your Arms](https://open.spotify.com/track/6OiInKzz6lhRIm0zsgZPbm) | [Taylor Holland](https://open.spotify.com/artist/7KzdruARFX9teR1Gvxs4Q7) | [In Your Arms](https://open.spotify.com/album/1tALKveCu0CB7U8kIWqkGR) | 3:27 |
-| 59 | [I Can See The Light](https://open.spotify.com/track/3ygEyWdTZVPEOovpOiUNc8) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [I Can See The Light](https://open.spotify.com/album/1j7xBuaxkpVv4ActQXMIrK) | 3:05 |
+| 58 | [I Can See The Light](https://open.spotify.com/track/3ygEyWdTZVPEOovpOiUNc8) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [I Can See The Light](https://open.spotify.com/album/1j7xBuaxkpVv4ActQXMIrK) | 3:05 |
+| 59 | [In Your Arms](https://open.spotify.com/track/6OiInKzz6lhRIm0zsgZPbm) | [Taylor Holland](https://open.spotify.com/artist/7KzdruARFX9teR1Gvxs4Q7) | [In Your Arms](https://open.spotify.com/album/1tALKveCu0CB7U8kIWqkGR) | 3:27 |
 | 60 | [Aloha Goodbye](https://open.spotify.com/track/1BWDndcC1Padly51LgTu8z) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Aloha Goodbye](https://open.spotify.com/album/31qmUHsGqAFGllGRFmbyv3) | 2:03 |
 | 61 | [With Me \- Live At Big Fish Recording Studio](https://open.spotify.com/track/30RB1B3GEZFSzrdrF4h8Pt) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [With Me \(Live At Big Fish Recording Studio\)](https://open.spotify.com/album/5vJj5IxtBGsUkuXcbIZ1lv) | 2:50 |
 | 62 | [superbloom \- Acoustic](https://open.spotify.com/track/0sUj4GFs3WP6g8aNKx5roi) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5) | [superbloom \(Acoustic\)](https://open.spotify.com/album/2YfNOmiriEXVBMjDx501Tc) | 2:41 |

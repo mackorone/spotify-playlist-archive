@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-461 songs - 1 day 2 hr 15 min
+462 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Jag vill ha allt](https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Orion](https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf) | 3:26 | 2024-02-08 | 2024-03-15 |
 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 | 2022-11-11 |  |
 | [Jolene](https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:10 | 2022-11-11 | 2023-07-07 |
-| [Judy](https://open.spotify.com/track/120v2UQI3sr2gG5KXNTI0H) | [L.A.](https://open.spotify.com/artist/7BaLRZPbaTkb3ZgxLc5eFs), [Patricia de los Ángeles](https://open.spotify.com/artist/6hSKcdQ9djgaH0sx8z1hRB) | [Judy](https://open.spotify.com/album/4qtCTdSxpDbRGf66uUFzkE) | 3:34 | 2024-10-01 |  |
+| [Judy](https://open.spotify.com/track/120v2UQI3sr2gG5KXNTI0H) | [L.A.](https://open.spotify.com/artist/7BaLRZPbaTkb3ZgxLc5eFs), [Patricia de los Ángeles](https://open.spotify.com/artist/6hSKcdQ9djgaH0sx8z1hRB) | [Judy](https://open.spotify.com/album/4qtCTdSxpDbRGf66uUFzkE) | 3:34 | 2024-10-01 | 2025-12-06 |
 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 | 2023-04-20 | 2024-03-15 |
 | [KALO KAKO](https://open.spotify.com/track/6jEZAcHnK8vBGDq1wdcS32) | [el miyu](https://open.spotify.com/artist/3ybkQhkPO8zpkdcatHFOiO) | [KALO KAKO](https://open.spotify.com/album/0FoMIx2LHRSpu7zfsOHClB) | 2:28 | 2024-10-01 | 2024-10-14 |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-21 | 2024-08-03 |
@@ -293,6 +293,7 @@
 | [No Me Merecía La Pena](https://open.spotify.com/track/0lezFXoMcfhkGgWDwYvpJn) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [No Me Merecía La Pena](https://open.spotify.com/album/4E8avZ7MNKPAhKGmgbcLaH) | 2:51 | 2023-04-20 | 2023-05-27 |
 | [No More](https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SANTIAGO](https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY) | 3:10 | 2023-08-18 | 2023-10-24 |
 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 | 2022-11-11 |  |
+| [No quiero olvidar](https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [No quiero olvidar](https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR) | 3:21 | 2025-12-04 |  |
 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 | 2023-04-20 | 2024-04-19 |
 | [No Se Preocupe](https://open.spotify.com/track/5kxINGPGRziL4ja8KjBoAN) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.II\)](https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA) | 3:40 | 2024-12-23 | 2025-03-07 |
 | [No tenemos tiempo](https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE) | [Lia](https://open.spotify.com/artist/6eGEvxkkLYybfvt5B8CAfA) | [No tenemos tiempo](https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu) | 3:32 | 2024-10-24 |  |

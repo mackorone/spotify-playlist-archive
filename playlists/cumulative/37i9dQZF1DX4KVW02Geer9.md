@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Braxton Cook
 
-471 songs - 1 day 10 hr 1 min
+471 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Ibiza](https://open.spotify.com/track/7s0wCxjksOoFTcfp7Ikk3t) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Ibiza](https://open.spotify.com/album/2S8dRCPQLDWoRyfslTLivw) | 4:16 | 2025-01-16 | 2025-02-21 |
 | [Icarus](https://open.spotify.com/track/2gzXIH2zuVQ6omwQBvpeas) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Skylar Tang](https://open.spotify.com/artist/3i5LkHN45PzgWWyNkzh3nl), [Paul Cornish](https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON), [Philip Norris](https://open.spotify.com/artist/2im20up8riHLPljFBfanoV), [Nazir Ebo](https://open.spotify.com/artist/0Y86ZcmGk1xTdaHbMHCBtI) | [Words Fall Short](https://open.spotify.com/album/2toluYLW38SlSkSYLHscpR) | 6:24 | 2025-06-26 |  |
 | [IDEA](https://open.spotify.com/track/5MZ9qKKkXY4yekcGDyCuyh) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Into My System](https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt) | 5:37 | 2024-06-27 | 2025-01-17 |
+| [Idea \#5](https://open.spotify.com/track/1WQ1DsGnAbVhSzhvVfDITL) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Not Everyone Can Go \(Deluxe\)](https://open.spotify.com/album/6iieFjF7ntXUDXDCZo0YGW) | 3:56 | 2025-12-04 |  |
 | [ILa](https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ILa](https://open.spotify.com/album/1fgM8l7SrpH7f9qG6iK6kk) | 3:11 | 2024-06-27 | 2024-08-09 |
 | [Imaginary Magnitude](https://open.spotify.com/track/329J9HAKX1HXzg7qiUtE6f) | [Greg Foat](https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0), [Forest Law](https://open.spotify.com/artist/5Mf1H5qdqjBmqWad8RtY08) | [Midnight Wave](https://open.spotify.com/album/2kbZB80jta9imn73yW7bts) | 5:03 | 2025-06-19 | 2025-07-11 |
 | [In Black](https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [In Black](https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq) | 3:31 | 2025-08-19 |  |
@@ -409,7 +410,6 @@
 | [Tokyo](https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [DEEPER](https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL) | 4:18 | 2024-12-17 | 2025-03-14 |
 | [Tokyo Daydream](https://open.spotify.com/track/6WLnZc1eXIoGy6VOzkEV3l) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Taali](https://open.spotify.com/artist/5SkhihNXZNPmooUcbSVZho) | [1978: Revenge of The Dragon](https://open.spotify.com/album/485R0lCUZRApYWXnH2PAeh) | 3:48 | 2025-05-15 | 2025-08-01 |
 | [Tokyo Lift \(5am\)](https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Tokyo Lift \(5am\)](https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE) | 2:24 | 2025-03-13 | 2025-06-27 |
-| [Track 17](https://open.spotify.com/track/1WQ1DsGnAbVhSzhvVfDITL) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [Transient Line](https://open.spotify.com/track/4ekwaV3DkhZOWafEoKWUUZ) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [Transient Line](https://open.spotify.com/album/4eOsTT2FgzuTRqCJLqXDbH) | 4:13 | 2025-07-03 | 2025-09-26 |
 | [Transporter](https://open.spotify.com/track/0mQo8pALF313P3mtXFQj1T) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Leif Maine](https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Transformations](https://open.spotify.com/album/3pGVHliOsYNnjjQLjZaClb) | 2:27 | 2025-06-19 | 2025-08-01 |
 | [Tranxit](https://open.spotify.com/track/3J27GbmvtUh7fVmVFTH0oN) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Tranxit](https://open.spotify.com/album/4JQlMc2S92oia3nGxWETMz) | 5:39 | 2024-09-26 | 2025-02-21 |

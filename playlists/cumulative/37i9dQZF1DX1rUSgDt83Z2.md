@@ -4,7 +4,7 @@
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-191 songs - 9 hr 55 min
+192 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 | 2024-11-04 |  |
 | [It's You Or Me](https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It's You Or Me](https://open.spotify.com/album/1arwfvhx4Ox7cl84QqHCUl) | 3:54 | 2024-06-24 | 2024-11-05 |
 | [Je bent de lente](https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ruimte](https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8) | 2:44 | 2025-03-27 | 2025-06-13 |
-| [Je Draagt Het Niet Alleen](https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Beste Zangers 2024 \(Aflevering 3\- Matthijn Buwalda\)](https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq) | 3:23 | 2025-01-08 |  |
+| [Je Draagt Het Niet Alleen](https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Beste Zangers 2024 \(Aflevering 3\- Matthijn Buwalda\)](https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq) | 3:23 | 2025-01-08 | 2025-12-06 |
 | [Je Weet Pas Wat Je Hebt](https://open.spotify.com/track/1vuxcc1UDLpbbNudLtgcbL) | [Elieve](https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf) | [Je Weet Pas Wat Je Hebt](https://open.spotify.com/album/4NdhuGDtL29qQoiKUePuER) | 2:35 | 2025-04-03 | 2025-04-30 |
 | [Jij Was Alles Voor Mij](https://open.spotify.com/track/4FvK8IX6o58SuLSvDWVLU7) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Jij Was Alles Voor Mij](https://open.spotify.com/album/5BWvQ5dsckUjysCBJnQZeX) | 3:01 | 2024-12-02 | 2025-03-13 |
 | [Kamers Van Je Hart](https://open.spotify.com/track/2AGZtaBJprg0gcHae60e96) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Kamers Van Je Hart](https://open.spotify.com/album/23xvYYsPwhQD2Sc543wZf2) | 3:10 | 2025-02-20 | 2025-05-31 |
@@ -196,6 +196,7 @@
 | [zij aan zij](https://open.spotify.com/track/7j3gracBYr3MPEg3VLJ306) | [Jooz](https://open.spotify.com/artist/7hUtuXiN0XSFOjQO5OFEvY) | [zij aan zij](https://open.spotify.com/album/3Mjo5eqIC0FEcjlnTtcQc2) | 2:54 | 2024-09-12 | 2025-01-23 |
 | [Zij Bij Mij](https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN) | [Leev](https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy) | [Zij Bij Mij](https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD) | 2:12 | 2025-05-08 | 2025-11-26 |
 | [Zin In Het Leven](https://open.spotify.com/track/5dyLNO5s3BKjKYmHAj75VK) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Zin In Het Leven](https://open.spotify.com/album/4oLXbJ12gAFe9pHFliC2ON) | 3:25 | 2024-09-12 | 2025-03-21 |
+| [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 | 2025-12-05 |  |
 | [Zolang We Samen Zijn](https://open.spotify.com/track/4yt0cEaT2lpNigs3k5jCKI) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Zolang We Samen Zijn](https://open.spotify.com/album/4UIvEYoJOB6uGyHaV4uplL) | 2:55 | 2025-05-15 | 2025-06-23 |
 | [Zomaar Zomer](https://open.spotify.com/track/6y5URC59KrtzlFxWxhaq5y) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Zomaar Zomer](https://open.spotify.com/album/07sVqmOJJWQfQHdaushDSO) | 2:18 | 2024-07-22 | 2025-01-23 |
 | [Zuidas Jimmy](https://open.spotify.com/track/3YqsML7aILH28qx53cMJvQ) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Zuidas Jimmy](https://open.spotify.com/album/2CeH2PT1LLHIbaa7BuTpE2) | 2:57 | 2025-11-13 |  |

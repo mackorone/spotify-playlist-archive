@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,883 likes - 168 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,856 likes - 168 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 167 | [We Together](https://open.spotify.com/track/45hG7DYmo87yN0hQ1MeJ0C) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [We Together](https://open.spotify.com/album/6ruK7Ax6fmYBopQ22j59RU) | 2:02 |
 | 168 | [Portrait of a shade](https://open.spotify.com/track/1oAET48hdT1Bg9BM0FLIkw) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Portrait of a shade](https://open.spotify.com/album/4KKhQ4EM56Fsle0NFsOqIu) | 2:55 |
 
-Snapshot ID: `AAAAANk5wlHho2yLkp6b9tUOFfJELGe1`
+Snapshot ID: `AAAAABnxziG8exqJeD+1/bRvmKiJrWxU`

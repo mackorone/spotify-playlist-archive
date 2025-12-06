@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37633,
+  "num_followers": 37632,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAACBkf8vvgRyrnd1fFh2DJT7",
+  "snapshot_id": "aTDPAAAAAAB5BsUQSGJne2up/jKPS7ZM",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 217205,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Material Girl (feat. Taylor Hanson of Hanson)",
         "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 249240,
       "name": "Material Girl (feat. Taylor Hanson of Hanson)",
       "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 217205,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Are All Insane",
-        "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "We Are All Insane",
-      "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 197733,
       "name": "MF",
       "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Are All Insane",
+        "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "We Are All Insane",
+      "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
     },
     {
       "added_at": null,

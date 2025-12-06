@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "The Thing",
+        "url": "https://open.spotify.com/album/5EHA5GSkhMn8abc7TQTQbi"
+      },
+      "artists": [
+        {
+          "name": "The Thing",
+          "url": "https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227423,
+      "name": "Dave's TV",
+      "url": "https://open.spotify.com/track/4Y5g3iXxuyiZYDw69wPRsL"
+    },
+    {
+      "album": {
         "name": "Don't Count Me Out",
         "url": "https://open.spotify.com/album/2FePLiHwZ9hrrX53Zj4sUR"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 204161,
       "name": "Don't Count Me Out",
       "url": "https://open.spotify.com/track/0zuJsIOYKAir5r0ZcjtTLf"
@@ -1634,7 +1652,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 256500,
       "name": "Nkosi's Fantasia",
       "url": "https://open.spotify.com/track/0imRQRfzB7MW7zruc0RbLZ"
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 183000,
       "name": "O\u2019 Kay Tamis",
       "url": "https://open.spotify.com/track/1s1nPYN5ryw0OHejNO0eAV"
@@ -1836,6 +1854,24 @@
       "duration_ms": 178363,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG"
+    },
+    {
+      "album": {
+        "name": "planet you forgot me",
+        "url": "https://open.spotify.com/album/72XBcntZdEaL466I8PyFUU"
+      },
+      "artists": [
+        {
+          "name": "Leyla Ebrahimi",
+          "url": "https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365395,
+      "name": "planet you forgot me",
+      "url": "https://open.spotify.com/track/6gUvpGQR1ZS5PgqbmPaVAv"
     },
     {
       "album": {
@@ -2005,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Sedona",
+        "url": "https://open.spotify.com/album/7mIpzHi8pyp4pYudim7zwh"
+      },
+      "artists": [
+        {
+          "name": "Anna Bates",
+          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Sedona",
+      "url": "https://open.spotify.com/track/7b7ILSiNTtbn16VYqvIqrG"
+    },
+    {
+      "album": {
         "name": "SEEK",
         "url": "https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp"
       },
@@ -2142,7 +2196,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 171732,
       "name": "Sibeeria",
       "url": "https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9"
@@ -2504,7 +2558,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 255173,
       "name": "The Sun Song (Precious Energy)",
       "url": "https://open.spotify.com/track/3vmDjZ9fq7iRzJWPvzAN7K"

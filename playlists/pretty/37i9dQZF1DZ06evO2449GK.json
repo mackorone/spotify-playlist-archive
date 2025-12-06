@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 61267,
+  "num_followers": 61282,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAAAPbcuKm3WdJ2NsddvKGBz1",
+  "snapshot_id": "aTDPAAAAAAAGf8AkoQV08lF1HznsdYuA",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sancocho en Le\u00f1a",
-        "url": "https://open.spotify.com/album/0dKNHwPd4OMcsHsrW61Gm7"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Sancocho en Le\u00f1a",
-      "url": "https://open.spotify.com/track/1Z85Y8DVbysMc853oocVt8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 223461,
       "name": "El Rey del Despecho",
       "url": "https://open.spotify.com/track/27mA4YfHxrjHwsYxe8Stt1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sancocho en Le\u00f1a",
+        "url": "https://open.spotify.com/album/0dKNHwPd4OMcsHsrW61Gm7"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Sancocho en Le\u00f1a",
+      "url": "https://open.spotify.com/track/1Z85Y8DVbysMc853oocVt8"
     },
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Aranjuez",
-      "url": "https://open.spotify.com/track/6lJNdg9MAxvyvcGQU4mg4L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 244137,
       "name": "El Remate",
       "url": "https://open.spotify.com/track/4aJ1o4U8XpUMj8ZMAwZ9KD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Aranjuez",
+      "url": "https://open.spotify.com/track/6lJNdg9MAxvyvcGQU4mg4L"
     },
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 227191,
-      "name": "Pambel\u00e9",
-      "url": "https://open.spotify.com/track/6dEHpnOkqzhnclru69FXkl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 185806,
       "name": "Suero Casero",
       "url": "https://open.spotify.com/track/69PGSvAuNIxQFIqTmaAdYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 227191,
+      "name": "Pambel\u00e9",
+      "url": "https://open.spotify.com/track/6dEHpnOkqzhnclru69FXkl"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Estee Nack",
-          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
-        }
-      ],
-      "duration_ms": 228148,
-      "name": "Reflujo",
-      "url": "https://open.spotify.com/track/56uh5rHySaH3vf3jvr0dgL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 232000,
       "name": "Medellificaci\u00f3n",
       "url": "https://open.spotify.com/track/6m5azasM8eY0Q7Fs04GJNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Estee Nack",
+          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
+        }
+      ],
+      "duration_ms": 228148,
+      "name": "Reflujo",
+      "url": "https://open.spotify.com/track/56uh5rHySaH3vf3jvr0dgL"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 240608,
-      "name": "No Est\u00e1 en Venta",
-      "url": "https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 235000,
       "name": "TNT",
       "url": "https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 240608,
+      "name": "No Est\u00e1 en Venta",
+      "url": "https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 221590,
-      "name": "La Caza de Nari\u00f1o",
-      "url": "https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 202771,
       "name": "Misa de Sanazi\u00f3n",
       "url": "https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 221590,
+      "name": "La Caza de Nari\u00f1o",
+      "url": "https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15"
     },
     {
       "added_at": null,

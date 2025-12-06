@@ -4,10 +4,11 @@
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-78 songs - 8 hr 11 min
+79 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Adya](https://open.spotify.com/track/36cDEnnkYDSt9FGRBTGqMP) | [All For Soul](https://open.spotify.com/artist/5HdX7qBCsiTrzfHZdsW9kM), [Varun Rao](https://open.spotify.com/artist/2hybncPpUQFPqcSK3ePny9) | [DHOO](https://open.spotify.com/album/5vid39i4naS44NBPYP76IS) | 4:32 | 2025-12-05 |  |
 | [All Is Well](https://open.spotify.com/track/7D8qkK690DvHGcLnBZNsdw) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Archit & Smit](https://open.spotify.com/artist/7rUtLZngbHLLqBfA0QFRPc) | [Songs Of The River \- Ganga \(Soundtrack\)](https://open.spotify.com/album/4lDuBGAfZ2ZuG180wwvezn) | 3:04 | 2023-06-30 |  |
 | [Ashirwad Ki Sarhad](https://open.spotify.com/track/3g6ya03vVNzwHD3YHeJJrU) | [Kshitij Lata](https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0) | [Ashirwad Ki Sarhad](https://open.spotify.com/album/3toBKWAaiGbayskG5vf6uF) | 5:33 | 2024-02-19 |  |
 | [Awakened Hope](https://open.spotify.com/track/5Ro7n4nekpKf0FyVD7ulnv) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Break of Dawn](https://open.spotify.com/album/6crfzN6rxNXy9MCLs0Ma26) | 6:12 | 2024-08-23 |  |

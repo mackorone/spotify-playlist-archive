@@ -4,12 +4,13 @@
 
 > Stripped back vibes\. Cover:  SABRI
 
-304 songs - 17 hr 42 min
+305 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(un\)Folded](https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [\(un\)Folded](https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw) | 4:46 | 2025-08-01 |  |
 | [\*\*CUDN’T B ME\*\* \- Piano Acoustic](https://open.spotify.com/track/3tyFz7eYgDpaCdQseEQh6A) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [\*\*CUDN’T B ME \(AIN’T TAKEN EM BACK PACK\)\*\*](https://open.spotify.com/album/3Tpn3nbRhqWKuthA92nrUi) | 2:29 | 2025-07-04 |  |
+| [24HRS \- Acoustic](https://open.spotify.com/track/5lrtJGxswNUHomvQDNoc2W) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [THE AFTERHOURS \(24HRS REMIX BUNDLE\)](https://open.spotify.com/album/1PeKXYEl4kDFH2adMyhOTW) | 2:53 | 2025-12-05 |  |
 | [30 Something](https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:30 | 2025-02-21 |  |
 | [4EVER](https://open.spotify.com/track/1Jn4ikm3OMIii8DvdiRT2b) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Formed](https://open.spotify.com/album/1uAIDvZLghq5Glpcu5HSzc) | 3:17 | 2025-05-16 |  |
 | [5 a.m.](https://open.spotify.com/track/4HshkkI4dKm0ntQOBGA2mn) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [CARO](https://open.spotify.com/artist/0ItFoYHbLasAv34QofCyGl) | [Uncentered](https://open.spotify.com/album/4W2pmNWJLvFLDiGlxZ9oHO) | 4:40 | 2021-12-09 | 2022-01-26 |

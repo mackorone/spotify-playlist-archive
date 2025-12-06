@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Snarky Puppy",
+  "description": "New jazz for open minds. Cover: Out Of/Into",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -702,6 +702,24 @@
       "duration_ms": 281877,
       "name": "a path to bliss",
       "url": "https://open.spotify.com/track/3kbuCQdWh7IVhlO50gkkRd"
+    },
+    {
+      "album": {
+        "name": "A Plea",
+        "url": "https://open.spotify.com/album/0eFgrTbT424fF4zLnhF6R5"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458053,
+      "name": "A Plea",
+      "url": "https://open.spotify.com/track/7fkWpK1YcIMtM7PdMawgfY"
     },
     {
       "album": {
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 291000,
       "name": "All Will Be Fine",
       "url": "https://open.spotify.com/track/0ysvcp1D8gwqMYBPZrzceW"
@@ -5206,7 +5224,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 178620,
       "name": "bluffing in the snow",
       "url": "https://open.spotify.com/track/07Ayk9xbO4XQR2PgLicB3T"
@@ -5686,7 +5704,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 472693,
       "name": "Brothers In Arms",
       "url": "https://open.spotify.com/track/758ZxqKonvx3EBva5h2xmD"
@@ -12147,6 +12165,44 @@
     },
     {
       "album": {
+        "name": "Motion II",
+        "url": "https://open.spotify.com/album/32sjyqbMI1JdpJoKXOuWVk"
+      },
+      "artists": [
+        {
+          "name": "Out Of/Into",
+          "url": "https://open.spotify.com/artist/59COS6dQZSpIn9uz7BPgVT"
+        },
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Kendrick Scott",
+          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
+        },
+        {
+          "name": "Matt Brewer",
+          "url": "https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280986,
+      "name": "Finding Ways",
+      "url": "https://open.spotify.com/track/0AfHjDkvsE4aCDIg2wZsBa"
+    },
+    {
+      "album": {
         "name": "Fire In Detroit",
         "url": "https://open.spotify.com/album/0VEkd4NLUm337P8FrbHnDI"
       },
@@ -16409,6 +16465,24 @@
     },
     {
       "album": {
+        "name": "Not Everyone Can Go (Deluxe)",
+        "url": "https://open.spotify.com/album/6iieFjF7ntXUDXDCZo0YGW"
+      },
+      "artists": [
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236519,
+      "name": "Idea #5",
+      "url": "https://open.spotify.com/track/1WQ1DsGnAbVhSzhvVfDITL"
+    },
+    {
+      "album": {
         "name": "if, and, but only for a moment",
         "url": "https://open.spotify.com/album/3kv3Abel4uCVuLXJ4ms2Qv"
       },
@@ -18140,7 +18214,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 234829,
       "name": "Josh\u2019s Tune",
       "url": "https://open.spotify.com/track/5OzC1n0Czw35F91egvBw76"
@@ -23955,6 +24029,24 @@
     },
     {
       "album": {
+        "name": "Nite Phase",
+        "url": "https://open.spotify.com/album/1dvS7pk4PEYeQ7TnurBi5g"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Nite Phase",
+      "url": "https://open.spotify.com/track/0S5eIoMCGJEzIhy1l2GtHy"
+    },
+    {
+      "album": {
         "name": "Nitrogen",
         "url": "https://open.spotify.com/album/7eHgfsNkxLGgnuF01yH1Na"
       },
@@ -27544,7 +27636,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 296186,
       "name": "Prophet",
       "url": "https://open.spotify.com/track/5DCm4IQDLYZ9L81DOglQ3p"
@@ -36090,6 +36182,24 @@
       "duration_ms": 461893,
       "name": "The Temple Within",
       "url": "https://open.spotify.com/track/0K7jwOQTRiol9tWhFeEmb5"
+    },
+    {
+      "album": {
+        "name": "Bright Sparkling Light",
+        "url": "https://open.spotify.com/album/1odgphm2RtahCSL2ksCrn9"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 603920,
+      "name": "The Tide and the Moon",
+      "url": "https://open.spotify.com/track/4M9T3aWVBKglVwWCMOvVKX"
     },
     {
       "album": {

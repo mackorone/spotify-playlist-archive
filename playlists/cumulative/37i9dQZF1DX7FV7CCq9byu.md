@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,347 songs - 2 day 20 hr 37 min
+1,348 songs - 2 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [All My Love \- Boogie Back Remix \- Radio Edit](https://open.spotify.com/track/0sssurx9XxMwN6tstpYj1p) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH), [Boogie Back](https://open.spotify.com/artist/5EUrfNerAoXJYDfE4Mbu6o) | [All My Love \(Remixes\)](https://open.spotify.com/album/4h7oJLd8YJpOgC1pLTotan) | 3:54 | 2025-12-04 |  |
 | [All Natural](https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [All Natural](https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n) | 3:02 | 2025-09-29 | 2025-11-21 |
 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 | 2025-06-26 | 2025-08-15 |
-| [all of a sudden we move](https://open.spotify.com/track/1is4WyPrdz56pAcm4BQYsT) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [](https://open.spotify.com/album/null) | 4:01 | 2025-12-04 |  |
+| [all of a sudden we move](https://open.spotify.com/track/1is4WyPrdz56pAcm4BQYsT) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [All of a sudden we move](https://open.spotify.com/album/0m7frKvrGaPlJK4tG1zNGj) | 4:01 | 2025-12-04 |  |
 | [All The Things That I Am](https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula](https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ) | 2:46 | 2025-10-02 |  |
 | [Alla Ska Dö](https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Alla Ska Dö](https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif) | 2:46 | 2025-03-20 | 2025-05-09 |
 | [Alla Tittar På Mig](https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Alla Tittar På Mig](https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr) | 2:24 | 2025-01-17 | 2025-02-28 |
@@ -205,7 +205,7 @@
 | [Cherry Wine](https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Starflower](https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa) | 3:57 | 2025-04-04 | 2025-05-09 |
 | [Childhood](https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Childhood](https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk) | 3:02 | 2025-01-02 | 2025-02-07 |
 | [Chocolate](https://open.spotify.com/track/5YGQ29f9zUVj1gSmUxRBTv) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Chocolate](https://open.spotify.com/album/6A7f059hlBK88EB6JV2O91) | 2:25 | 2024-06-27 | 2024-07-19 |
-| [Church](https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [](https://open.spotify.com/album/null) | 3:40 | 2025-12-04 |  |
+| [Church](https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:40 | 2025-12-04 |  |
 | [Cigarettes](https://open.spotify.com/track/4r5ZYFojlAksTAtPszzMVD) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Charlie South](https://open.spotify.com/album/4CZKCYWNYJfVkXGsRl3qey) | 3:18 | 2025-11-20 |  |
 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 | 2025-08-28 | 2025-10-03 |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-27 | 2025-07-11 |
@@ -333,6 +333,7 @@
 | [Ensamt](https://open.spotify.com/track/3GVLkLhq0HnOE4lt00S7SH) | [Binky Blaise](https://open.spotify.com/artist/6wVXRQ64TTR22g2J34DfO7) | [Ensamt](https://open.spotify.com/album/1cJKvhI149K8fvJmAt7Lwo) | 1:34 | 2025-11-03 |  |
 | [Erase My Mind](https://open.spotify.com/track/5720SNCvTw7Ql4sa8a8AE6) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Hang the DJ](https://open.spotify.com/album/4lqM98HqVQpNaoCubZnQuf) | 2:54 | 2025-04-04 | 2025-05-09 |
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-17 | 2025-09-19 |
+| [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 | 2025-12-05 |  |
 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 | 2025-03-27 | 2025-05-17 |
 | [Ettor och nollor](https://open.spotify.com/track/32C06bOmyNPPW1kER79Q8e) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Pandemi, Palestina & Heartache](https://open.spotify.com/album/6lIra1LwEsGHs827ruYdwP) | 3:46 | 2025-02-13 | 2025-03-21 |
 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 | 2024-10-04 | 2024-11-23 |
@@ -1104,6 +1105,7 @@
 | [Summer Uptown](https://open.spotify.com/track/7t98lQEVYPP58rkubC03Mh) | [jasontheween](https://open.spotify.com/artist/56z8RFFEGWfUFHzvgv70SB), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Summer Uptown](https://open.spotify.com/album/085rPTSE58Xz9xAUYcfVeZ) | 2:35 | 2025-07-15 | 2025-09-12 |
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2024-06-27 | 2024-07-27 |
 | [sunday morning](https://open.spotify.com/track/0YLIjEfl8SAUnFflqly1fG) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [sunday morning](https://open.spotify.com/album/2cN1R19sC4qTGn9cnv0lSZ) | 2:20 | 2025-08-03 | 2025-09-19 |
+| [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 | 2025-12-04 |  |
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-13 | 2025-04-18 |
 | [Sunshine & Rain...](https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sunshine & Rain...](https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4) | 3:17 | 2025-03-27 | 2025-05-02 |
 | [Super Love Me](https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Super Love Me](https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa) | 4:26 | 2025-05-26 | 2025-06-27 |
@@ -1217,7 +1219,6 @@
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-16 | 2025-06-20 |
 | [Toulouse](https://open.spotify.com/track/01E1aVRPZ4qx7cGw5pE4Eo) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Toulouse](https://open.spotify.com/album/2cD3yzeftcX0qY2YV2NbHc) | 3:00 | 2024-08-29 | 2024-09-27 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-12 | 2025-02-21 |
-| [Track 7](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-15 | 2024-08-30 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-04 | 2024-08-23 |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-06-27 | 2024-08-23 |

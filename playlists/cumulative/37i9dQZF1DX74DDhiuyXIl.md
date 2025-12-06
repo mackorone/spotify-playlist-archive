@@ -4,7 +4,7 @@
 
 > 回家的路上、獨步的時刻，心情腳下難免沈重，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-749 songs - 2 day 4 hr 12 min
+750 songs - 2 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [四季予你](https://open.spotify.com/track/0upiMcFbQHH51etgz4xK0l) | [程響](https://open.spotify.com/artist/7nKA1c1Qn6nI0XA8yburf3) | [四季予你](https://open.spotify.com/album/4csJfkLKIaltiP8ALv7H0S) | 4:08 | 2022-06-06 | 2022-07-29 |
 | [四季予你](https://open.spotify.com/track/4BGkSCrjiLao1bpibNptTD) | [程響](https://open.spotify.com/artist/7nKA1c1Qn6nI0XA8yburf3) | [四季予你](https://open.spotify.com/album/25IglxVmbGUl92NJZ0Pvo9) | 4:08 | 2022-07-25 | 2024-04-19 |
 | [回憶忘不掉](https://open.spotify.com/track/0digYp7YWXIQKAe62hgBEt) | [向思思](https://open.spotify.com/artist/7jlM8w6yhqvHOYZ7y32CNX) | [回憶忘不掉](https://open.spotify.com/album/3uKCNXGANODG279LTfPPN7) | 3:28 | 2024-06-20 | 2024-07-06 |
-| [因為你 所以我](https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [因為你 所以我](https://open.spotify.com/album/0bLc2MyuEEP8eiMnd6v5Rt) | 4:41 | 2022-06-06 |  |
+| [因為你 所以我](https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [因為你 所以我](https://open.spotify.com/album/0bLc2MyuEEP8eiMnd6v5Rt) | 4:41 | 2022-06-06 | 2025-12-06 |
 | [因為愛的關係 \- 影集《看看你有多愛我》擁愛主題曲](https://open.spotify.com/track/4tbnbdGyK8cj3i4VDK7udN) | [Julia Peng](https://open.spotify.com/artist/7B4GBM2vQJvwyghdsvEV77) | [因為愛的關係 \(影集《看看你有多愛我》擁愛主題曲\)](https://open.spotify.com/album/1URu5l084qcdMfyk3zDVDc) | 3:15 | 2025-10-30 | 2025-11-07 |
 | [因為是你 \- 原創影集《火神的眼淚》片頭曲](https://open.spotify.com/track/0TqOMBOKodVMnr1NgMwOt7) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [因為是你 \(原創影集《火神的眼淚》片頭曲\)](https://open.spotify.com/album/5YSunwRv17InUanAfwwHhr) | 3:31 | 2022-06-06 | 2024-11-08 |
 | [在你不知道的时间里爱你很久 \- 电影《我在时间尽头等你》片尾曲](https://open.spotify.com/track/103IeGsEatrmA2Q4Vb1RpM) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [在你不知道的时间里爱你很久 \(电影《我在时间尽头等你》片尾曲\)](https://open.spotify.com/album/3XPJqAQ3az7bQg3H5Ohr9y) | 4:18 | 2022-06-06 | 2023-02-17 |
@@ -356,6 +356,7 @@
 | [怪咖](https://open.spotify.com/track/1v8RxIy8mbxGqBaWG2bMrW) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [怪咖](https://open.spotify.com/album/0wt7vfE7K0C6rymlxXHCvt) | 4:10 | 2023-10-08 | 2024-04-19 |
 | [怪情歌](https://open.spotify.com/track/73OrJgMs6jtWuJRKZzp5xC) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [怪情歌](https://open.spotify.com/album/0YUxM9MbmMhi4Xj0v3FrA7) | 4:11 | 2025-05-15 | 2025-11-19 |
 | [怪我拎不清](https://open.spotify.com/track/4rlaeVHSxRLmuefpqy91Xs) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [怪我拎不清](https://open.spotify.com/album/366xmmYODYQwE1rFD5qCr8) | 3:25 | 2025-02-13 | 2025-04-21 |
+| [恆星不忘 Forever Forever](https://open.spotify.com/track/4eyAIvfoQ8PR7ZBzjh0jW5) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [言承旭](https://open.spotify.com/artist/1eSaqECXwVpaUzyqB1mKtr), [Van Ness Wu](https://open.spotify.com/artist/2Lcyl3luks1H4TDORlJIUW), [周渝民](https://open.spotify.com/artist/4g9jp0JWetcgvoODC8Epzl), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [恆星不忘 Forever Forever](https://open.spotify.com/album/4S1DAsonZzfrgD0ezbKApU) | 4:47 | 2025-12-05 |  |
 | [恰似你的溫柔](https://open.spotify.com/track/1DyhxI0WNR6vlOkkR2qSnD) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [恰似你的溫柔](https://open.spotify.com/album/3vrYZg4mjuu9FbK5SnAFXY) | 5:17 | 2024-03-11 | 2024-04-19 |
 | [恰似你的溫柔](https://open.spotify.com/track/1a0qZKszfpB8tJRFLXMqpj) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [恰似你的溫柔](https://open.spotify.com/album/5T8kukxNxN2tEucny5xt66) | 5:17 | 2022-06-06 | 2024-02-02 |
 | [悼念愛情](https://open.spotify.com/track/1SlUFvL1Sqv2LAWwyyY3ux) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [狂愛](https://open.spotify.com/album/6u5UiROSaQ8bgJw0aBtcfO) | 4:00 | 2025-10-30 | 2025-11-07 |

@@ -1,13 +1,61 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43704,
+  "num_followers": 43703,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAagpjseTBmcyrlpt55eFvUGbkOizph",
+  "snapshot_id": "AAAah4SUZvfUs3riJYWuJPi1NZbK3/7d",
   "tracks": [
+    {
+      "added_at": "2025-12-05 18:08:48",
+      "album": {
+        "name": "Currently On Earth",
+        "url": "https://open.spotify.com/album/7fxZTHkdRmh3axTjquZTiT"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Make It Wet",
+      "url": "https://open.spotify.com/track/4v2PsSFdEt6wZOZK8plRR9"
+    },
+    {
+      "added_at": "2025-12-05 18:08:12",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5F3oIYcDNrKPZGRGQNgOQv"
+      },
+      "artists": [
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/40mqx07fQYXMrjRJXfLwNy"
+    },
+    {
+      "added_at": "2025-12-05 18:08:48",
+      "album": {
+        "name": "Currently On Earth",
+        "url": "https://open.spotify.com/album/7fxZTHkdRmh3axTjquZTiT"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/5j2Frre1NAPZXRlPb9ZqPE"
+    },
     {
       "added_at": "2025-11-26 17:58:08",
       "album": {

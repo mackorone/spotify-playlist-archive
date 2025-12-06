@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,025 likes - 123 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,035 likes - 123 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 53 | [Lee Mah Bounce](https://open.spotify.com/track/3zFtkXK3AAUk6CpbmbBXyK) | [Lek\-Singh](https://open.spotify.com/artist/2xjXGjIknfLJXWsZ11MfvI) | [Lee Mah Bounce](https://open.spotify.com/album/6fkqGUSabCMvUSOsoJ6vl5) | 2:41 |
 | 54 | [Golden Eagle](https://open.spotify.com/track/2u5OwJ67fLCp4w54EoOJJZ) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Golden Eagle](https://open.spotify.com/album/0P1vuAjz1CnXkkUm3XnQDG) | 2:48 |
 | 55 | [Sumati Arya](https://open.spotify.com/track/33dVebZSHCWHN4H6pV8OCY) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Sumati Arya](https://open.spotify.com/album/2bAxEHExcAAFGR1tDeWYqR) | 2:35 |
-| 56 | [Spiritual Power](https://open.spotify.com/track/6EHx08pPJzvOD5xv9K3VQv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:25 |
+| 56 | [Spiritual Power](https://open.spotify.com/track/6EHx08pPJzvOD5xv9K3VQv) | [Leona Hollin](https://open.spotify.com/artist/7EEniQMVIxPUW91MhAHi6J) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:25 |
 | 57 | [1/2 Singing Bowl \(Ascension\) \- Excerpt](https://open.spotify.com/track/4C4Cni4yKvGFthrJ3VRjfM) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Meditations](https://open.spotify.com/album/79EfVLabvmR4nUhpr2rF8s) | 4:30 |
 | 58 | [Omnipresent Lights](https://open.spotify.com/track/4JTN6NMmwPHm0KhOMv0Jc9) | [Varanasi Sunrise](https://open.spotify.com/artist/785euUD04UBt0l80YyYFVS) | [Omnipresent Lights](https://open.spotify.com/album/11bYO02nF142rNlKt0bi2u) | 2:43 |
 | 59 | [Aura](https://open.spotify.com/track/5kv8YaBfm2SZQk8YRPjXy5) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Aura Sound Bath](https://open.spotify.com/album/5aIwEEosN0woun4BzkMawo) | 3:06 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 75 | [Afternoon Çay](https://open.spotify.com/track/1VkMQiSZhw7KDYEQlPxl2I) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [Aludu Sessions](https://open.spotify.com/album/2opmjRlnm3K6NhueTKKYeh) | 2:52 |
 | 76 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 |
 | 77 | [Himalayan Healing](https://open.spotify.com/track/5VmzqruF6oSepIWbQ2kgRG) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Himalayan Healing](https://open.spotify.com/album/1PhSIQx53zfpwkUhwnAtXI) | 3:03 |
-| 78 | [Tranquil Meditation](https://open.spotify.com/track/2lxg9bg6tLnomcsffKgcfv) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:26 |
+| 78 | [Tranquil Meditation](https://open.spotify.com/track/2lxg9bg6tLnomcsffKgcfv) | [Leona Hollin](https://open.spotify.com/artist/7EEniQMVIxPUW91MhAHi6J) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:26 |
 | 79 | [संस्कृतम्](https://open.spotify.com/track/6EbrUXsMQwQbtPdW9uCDlC) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6) | 3:34 |
 | 80 | [Sonidos Tibetanos](https://open.spotify.com/track/54jEoVMgvleXzJV0v4VyP9) | [Pat McKenneth](https://open.spotify.com/artist/1lsGd9LD0B8ta57AaoBm9P) | [Sonidos de Agua Relajantes](https://open.spotify.com/album/5vlkWsUimB4NLWifc5ljyW) | 4:13 |
 | 81 | [Ray](https://open.spotify.com/track/4DZZQbBwmrheEeiVqvkpEx) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Ray](https://open.spotify.com/album/0RFSLWfMPONtCdhxIRvCPL) | 4:56 |

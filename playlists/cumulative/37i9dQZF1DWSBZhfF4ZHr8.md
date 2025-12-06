@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la variété française avec Marine
 
-392 songs - 19 hr 20 min
+392 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Pas besoin de toi](https://open.spotify.com/track/28NjRNl9MQ67pc6piNL8uZ) | [EMMA](https://open.spotify.com/artist/0p6woNDdqjwgcl4uLuCX4V) | [Pas besoin de toi](https://open.spotify.com/album/1WOnAen8RbXgxclAukfOfe) | 2:28 | 2025-10-02 | 2025-10-17 |
 | [Pas d'amour](https://open.spotify.com/track/1iDb5lwBCf664RyzyxBi9X) | [Cenzo](https://open.spotify.com/artist/7ChUrEb8MmLmLGloTbj9oL) | [Pas d'amour](https://open.spotify.com/album/7usC7IUjKjVnCetlmjHFUY) | 2:40 | 2025-04-24 | 2025-06-13 |
 | [Pas d'après](https://open.spotify.com/track/1Mqj9RgFGepZinzA1QleP5) | [Valentina](https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S) | [Pas d'après](https://open.spotify.com/album/5NSJgnOFxYZnCxNQk5OAkC) | 2:40 | 2024-06-27 | 2024-09-06 |
+| [Pas le meilleur](https://open.spotify.com/track/5IsEeoWPNMBzbHaBpYRGuC) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [Le rêveur du bal](https://open.spotify.com/album/7fi8Ksz3tnIFxAydBa6fFU) | 2:28 | 2025-12-04 |  |
 | [Perdu En Mer](https://open.spotify.com/track/0SsduTUrCZaq6Kt99XS6fS) | [Alex Roussiaux](https://open.spotify.com/artist/2gLTBD2g3G1CgXjB3sFwcV) | [Perdu En Mer](https://open.spotify.com/album/3aycKZounQ4iuQVzUY1y55) | 3:02 | 2025-11-13 |  |
 | [Petit](https://open.spotify.com/track/39I0BFHXeltCjKjVXLYw6P) | [Julien Andriana](https://open.spotify.com/artist/1IpfgEWQa7m6ERlU9NCCPX) | [Petit](https://open.spotify.com/album/2Ic3DxDRFDte2DjHsEMidH) | 3:04 | 2025-04-21 | 2025-07-04 |
 | [Petit Frère](https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Miroirs \(Edition deluxe\)](https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL) | 2:41 | 2025-01-16 | 2025-03-14 |
@@ -364,7 +365,6 @@
 | [Tout Petit](https://open.spotify.com/track/0uJdIiu2BEyI6ZZN8wijhL) | [Eko Eko](https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY) | [Tout Petit](https://open.spotify.com/album/3b8PMF3afnavT72CLkvcaf) | 2:42 | 2024-11-07 | 2025-01-31 |
 | [Toute seule \- 2024](https://open.spotify.com/track/3J1lGIvRnqJ2XmVgwi9TMP) | [Lorie](https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM), [RORI](https://open.spotify.com/artist/3P3yXPp61UWZk8MqFpneQ8) | [Hyper Lorie \(Vol\. 2\)](https://open.spotify.com/album/3DekfUe0VqOZvdjinQLPLL) | 2:20 | 2024-06-27 | 2024-07-05 |
 | [Toxic et Chic](https://open.spotify.com/track/5r1IA22XOXDAmjs7nsfBnP) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Toxic et Chic](https://open.spotify.com/album/5fpIrCqzg5z7iAmaqVHAaA) | 2:48 | 2025-09-25 |  |
-| [Track 5](https://open.spotify.com/track/5IsEeoWPNMBzbHaBpYRGuC) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-04 |  |
 | [Triste](https://open.spotify.com/track/0updbmtMXsLlh6c2W737wj) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Triste](https://open.spotify.com/album/1o6aquW9UNM6TGJZgm48be) | 3:09 | 2025-02-13 | 2025-03-28 |
 | [Trop tôt](https://open.spotify.com/track/5jIXED6iAgytXBQSmkyhGc) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Trop tôt](https://open.spotify.com/album/0b1MHM0bqn9ovncFVQs49z) | 2:51 | 2024-06-27 | 2024-08-23 |
 | [Tu l'oublieras](https://open.spotify.com/track/6aaTiVuGVBENAhGgl6O1zN) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Tu l'oublieras](https://open.spotify.com/album/4Cy87m6AZhLspaJMww5smv) | 2:34 | 2025-04-24 | 2025-06-27 |

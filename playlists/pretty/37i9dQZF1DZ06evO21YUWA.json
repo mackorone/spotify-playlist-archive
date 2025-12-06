@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5728,
+  "num_followers": 5730,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAADg7D5zO/ZycVcdlpOn+o/B",
+  "snapshot_id": "aTDPAAAAAADDuiElndMvIWlLFM85g5g+",
   "tracks": [
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 249933,
-      "name": "Eyes Are Mosaics",
-      "url": "https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj"
+      "duration_ms": 455800,
+      "name": "The Ghost Has No Home",
+      "url": "https://open.spotify.com/track/0rtfF7pfVYD5nvBQ1mPRsD"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 455800,
-      "name": "The Ghost Has No Home",
-      "url": "https://open.spotify.com/track/0rtfF7pfVYD5nvBQ1mPRsD"
+      "duration_ms": 249933,
+      "name": "Eyes Are Mosaics",
+      "url": "https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "Gaze",
-      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After The Night Falls",
         "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
@@ -647,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "Gaze",
+      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before the Day Breaks",
         "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
       },
@@ -663,6 +663,26 @@
       "duration_ms": 321226,
       "name": "A Minute, a Day, No More",
       "url": "https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Adult",
+      "url": "https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s"
     },
     {
       "added_at": null,
@@ -699,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jane 12-21",
+        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Jane 16 (For Pale Saints)",
+      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Translucence + Drift Music",
         "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
@@ -712,29 +748,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 183880,
-      "name": "Adult",
-      "url": "https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Deva C",
-      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
+      "duration_ms": 380453,
+      "name": "Spoken Roses",
+      "url": "https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA"
     },
     {
       "added_at": null,
@@ -771,38 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
       },
       "artists": [
         {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 380453,
-      "name": "Spoken Roses",
-      "url": "https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jane 12-21",
-        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "Jane 16 (For Pale Saints)",
-      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
+      "duration_ms": 231480,
+      "name": "Deva C",
+      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
       "duration_ms": 296800,
       "name": "Jane 2",
       "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "So Many Short Years Ago",
-      "url": "https://open.spotify.com/track/2Uc85kwbkEyIHop6tkQ91r"
     },
     {
       "added_at": null,
@@ -863,6 +843,46 @@
       "duration_ms": 285973,
       "name": "Winter Garden",
       "url": "https://open.spotify.com/track/3L7bmTuqQVTGi9jR9NM6s9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "Long Light",
+      "url": "https://open.spotify.com/track/7tb3d1uH2yL7duAMQPP19G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "So Many Short Years Ago",
+      "url": "https://open.spotify.com/track/2Uc85kwbkEyIHop6tkQ91r"
     },
     {
       "added_at": null,
@@ -892,9 +912,33 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 133386,
-      "name": "L'enfant Perdu - 2013 Remaster",
-      "url": "https://open.spotify.com/track/28D8V8CbAC4hXYRTU2ljeW"
+      "duration_ms": 323733,
+      "name": "Rue Casimir Delavigne (For Daniel Lentz) - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2VviNEVTRzsA8La6QA0ryg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winter Garden",
+        "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
+      },
+      "artists": [
+        {
+          "name": "Eraldo Bernocchi",
+          "url": "https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 244093,
+      "name": "Losing My Breath",
+      "url": "https://open.spotify.com/track/6mdXlrxfRugXebcFmux55L"
     },
     {
       "added_at": null,
@@ -915,42 +959,6 @@
       "duration_ms": 265573,
       "name": "The Names of Those Never Here",
       "url": "https://open.spotify.com/track/4pSAxFCffknwbI6Cdr8LXn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 234053,
-      "name": "Long Light",
-      "url": "https://open.spotify.com/track/7tb3d1uH2yL7duAMQPP19G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Pavilion Of Dreams",
-        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 859600,
-      "name": "Rosetti Noise/Chrystal Garden And A Coda",
-      "url": "https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF"
     }
   ],
   "unique_name": "This Is Harold Budd",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-143 songs - 6 hr 45 min
+144 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Permission](https://open.spotify.com/track/0c8jxG4d2i3mDBN0pxuV4L) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 3:26 | 2025-07-03 |  |
 | [Pick It Up](https://open.spotify.com/track/6NwCRGuQvKoYfUdmnzxGZw) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:26 | 2025-07-03 |  |
 | [Pushin](https://open.spotify.com/track/5ZEubdRYoxPaJlghzSWCOx) | [Elanese](https://open.spotify.com/artist/1OTRtHYPLTgj3PHNjBP7GX) | [Pushin](https://open.spotify.com/album/2vd8pxXqZb3e5HG5rStYxJ) | 2:43 | 2025-07-03 |  |
-| [random acts of violence](https://open.spotify.com/track/55qtihJPCphWfzjg0EGmmD) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [shhh](https://open.spotify.com/album/7HOeCh9vLNtzPPvV6qnjhY) | 2:01 | 2025-10-12 |  |
+| [random acts of violence](https://open.spotify.com/track/55qtihJPCphWfzjg0EGmmD) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [shhh](https://open.spotify.com/album/7HOeCh9vLNtzPPvV6qnjhY) | 2:01 | 2025-10-12 | 2025-12-06 |
+| [random acts of violence](https://open.spotify.com/track/5qst7aVLJlKCVBgK063xXh) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [shhh](https://open.spotify.com/album/2s0DXaftgOjYLlyi4O1rx7) | 2:01 | 2025-12-05 |  |
 | [random acts of violence](https://open.spotify.com/track/6L3Jegh2xmwXaDC8AVRrXy) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [shhh](https://open.spotify.com/album/3i6absni01kvSBR0Ppa9oA) | 2:01 | 2025-07-03 | 2025-10-13 |
 | [Real Thing](https://open.spotify.com/track/7bJcvljR0snEcdfmd9j0B1) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:40 | 2025-07-03 |  |
 | [Revolution](https://open.spotify.com/track/5oBpm5XEdVy2DouR4BB3RY) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [ALLISTER X](https://open.spotify.com/artist/7MtnXOqqKmjUo4a6H5VY3g) | [Revolution](https://open.spotify.com/album/32cglmsdgH5ifnHmjRFsxZ) | 2:25 | 2025-07-03 |  |

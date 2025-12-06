@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: che ecru
+> late night vibes – notifications off\. cover: SAHXL
 
-294 songs - 13 hr 33 min
+300 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,9 @@
 | [act v: there goes another vase](https://open.spotify.com/track/15qx6rElhY2QmikMKhJk8c) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:55 | 2024-05-03 | 2025-09-20 |
 | [act x: n da mornin](https://open.spotify.com/track/2BcLIOfKXWk7mz5HSyhAKO) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act x: n da mornin](https://open.spotify.com/album/3dPpOhzZ93SSz2E5qD47HR) | 2:11 | 2025-04-11 |  |
 | [act xiii: my lil shootah](https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act xiii: my lil shootah](https://open.spotify.com/album/2yYp17iNQ08pkLRU31P32C) | 2:00 | 2025-08-22 |  |
+| [Addiction](https://open.spotify.com/track/250EPvE8NZiTdFoJoU4sSO) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Addiction](https://open.spotify.com/album/2snM9P8zJFDAtWQ8Blgzbs) | 1:57 | 2025-12-05 |  |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2024-02-02 | 2025-09-20 |
+| [AGAIN](https://open.spotify.com/track/0ABnKfR4XX3D0xTUViIvcL) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [AGAIN](https://open.spotify.com/album/056sNwOFfYIzgkouMydSgn) | 2:31 | 2025-12-05 |  |
 | [Ain't Mine \(feat\. Aaron Page\)](https://open.spotify.com/track/3cFhs8Gc6zWdAAw5xHAFeB) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Ain't Mine \(feat\. Aaron Page\)](https://open.spotify.com/album/3MvMF1icYkiH7fdpXHpOBa) | 2:53 | 2025-11-14 |  |
 | [all for you](https://open.spotify.com/track/6V0TBXCbwfP3oQGoCJ7Uqi) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [all for you](https://open.spotify.com/album/195zWVS2ywArtagBSsCi88) | 3:37 | 2024-11-22 | 2025-10-18 |
 | [All You](https://open.spotify.com/track/4IM0dSMLSYjjQm2pIj1QQK) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [All You](https://open.spotify.com/album/73aiCN2KEiRbGaK6EzdiGm) | 2:42 | 2024-12-06 | 2025-09-20 |
@@ -56,6 +58,7 @@
 | [CONTAGIOUS](https://open.spotify.com/track/4L2Vv8QvsO4jfMPG3luF3z) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [CONTAGIOUS](https://open.spotify.com/album/5Pw0A6OC6N4sHCBimyfWgm) | 3:06 | 2025-10-10 |  |
 | [Control](https://open.spotify.com/track/6czZfg7WqAHuzNDhGkcvwr) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Control](https://open.spotify.com/album/4LtgBIoZXPzm42lDIUei7m) | 2:27 | 2025-03-21 |  |
 | [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 | 2025-01-17 |  |
+| [curse](https://open.spotify.com/track/5kcDKvz8ETrm8MxJy4H8nL) | [AMIRKUJO](https://open.spotify.com/artist/7nvXDn6ZoiujFBXswzAk5l) | [curse](https://open.spotify.com/album/2sXTtUVrTJD2W4vKeL8XLe) | 2:19 | 2025-12-05 |  |
 | [Customs](https://open.spotify.com/track/2MSdQcpUSU0opn77NBfk7e) | [Suubi](https://open.spotify.com/artist/7ts7O6y7ymwcgCrYbha3Si) | [Casa's Journal](https://open.spotify.com/album/1GCH6CJ00ZBX5C7NCySAyB) | 3:42 | 2025-10-17 |  |
 | [Dangerously In Love](https://open.spotify.com/track/7M5COssVtV99IUsU1HxHzS) | [Yvng Ev](https://open.spotify.com/artist/2fm64bFy2cks8y7SEMyTXN) | [Dangerously In Love](https://open.spotify.com/album/3JksmbqVD1Nj94ptBNDpBH) | 1:59 | 2024-10-25 |  |
 | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/track/15ZqvIC2zw8BWXD2hhLiAR) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/album/7qpuVhQPYGbtdkuNeoCElG) | 2:47 | 2024-09-13 | 2024-10-19 |
@@ -249,11 +252,13 @@
 | [SUNRISE](https://open.spotify.com/track/2P6rt3bjK89diw8482QQt5) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [NIVA](https://open.spotify.com/album/1VUKae81QX1lng1x78e8yp) | 1:53 | 2025-04-25 |  |
 | [Superficial](https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Superficial](https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK) | 2:14 | 2024-02-02 | 2025-03-08 |
 | [sweet nothings](https://open.spotify.com/track/3rH8TjGLB7bOEF6tjrn0Yb) | [Destiny Briona](https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [i'm not crying, u are](https://open.spotify.com/album/5XT2LoElBao7oO2l3bcJK5) | 3:55 | 2025-08-15 |  |
+| [swv](https://open.spotify.com/track/6GJc93iZwtT1sennWoDYLa) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [SLIDER II](https://open.spotify.com/album/7EuLS6i7d3LU7eFxnbz2or) | 2:42 | 2025-12-05 |  |
 | [T.M.T](https://open.spotify.com/track/2qbiXVVCJ1xnDTUy2wvS9f) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [T.M.T](https://open.spotify.com/album/3lctvMujFWicHfqCMgg68b) | 2:54 | 2025-10-24 |  |
 | [Talk To Me The Same](https://open.spotify.com/track/1izzvkVNFvyFZkmEP4IQAX) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [Talk To Me The Same](https://open.spotify.com/album/1ms0sdyuNVH6eyYoe85X6I) | 2:56 | 2025-06-06 |  |
 | [tell em](https://open.spotify.com/track/2gtkWGSTSsB2KcUsff6t5A) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [tell em / time flies](https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4) | 2:38 | 2025-01-24 | 2025-06-07 |
 | [tell em](https://open.spotify.com/track/5bO0JH6KIaALYxvzPkrKKY) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [TWENTY TWENTY TYDE](https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s) | 2:38 | 2025-04-25 |  |
 | [Tell Me](https://open.spotify.com/track/34R2RCXgGbCnMrCCOF4n6g) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [Tell Me](https://open.spotify.com/album/0uYfjQvFRgO8XhsFZhkfDR) | 2:49 | 2025-01-31 |  |
+| [Tell Me \- Remix](https://open.spotify.com/track/54tr3MfsfOI17ioN4pyUyb) | [Alfie Haile](https://open.spotify.com/artist/6LmQQxnZLoeIqAycSZfDbu), [LARIICA](https://open.spotify.com/artist/4ToRGHPORYxQMdyn7nKm9h) | [Tell Me \(Remix\)](https://open.spotify.com/album/4LiD0EZtHrFWlPmDMZr0U5) | 2:55 | 2025-12-05 |  |
 | [Tempt Me](https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Tempt Me](https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk) | 2:10 | 2024-07-26 |  |
 | [Temptress](https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Temptress](https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG) | 2:56 | 2024-10-18 |  |
 | [That's Tough](https://open.spotify.com/track/2usPqK1pQdIxR0v1kzNard) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [That's Tough](https://open.spotify.com/album/32sftiKKnCDLyLa0g72K2V) | 2:24 | 2024-03-29 | 2025-09-20 |
@@ -273,6 +278,7 @@
 | [ttuctmd](https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [ttuctmd](https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u) | 2:00 | 2024-02-02 |  |
 | [TWENTY NIGHTS](https://open.spotify.com/track/2luxd3WEcEACrORUnXvITr) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [MIDNIGHT MOTIONS](https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX) | 3:16 | 2024-02-02 | 2025-11-08 |
 | [Ufo's](https://open.spotify.com/track/6M9znukXG6XByAv3UyJrf0) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:00 | 2025-02-21 |  |
+| [unconditional interlude](https://open.spotify.com/track/4NyOKVxq3gcF4Ouiu0UzN1) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [SLIDER II](https://open.spotify.com/album/7EuLS6i7d3LU7eFxnbz2or) | 1:57 | 2025-12-05 |  |
 | [Unsettling \(feat\. Vory\)](https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:44 | 2024-02-23 | 2025-03-08 |
 | [Unsure](https://open.spotify.com/track/3PBomL6F0O1xqR6zyFlKcH) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Unsure](https://open.spotify.com/album/6b4st3oruQbvzMV4Q7wWVk) | 3:10 | 2024-03-15 | 2025-11-08 |
 | [Upperhand](https://open.spotify.com/track/6YHLJnzjbH5b5x3THQ41yq) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Late Nite Slider Music \- EP](https://open.spotify.com/album/3K7e3rKAB194KQbes13kgW) | 1:58 | 2024-12-06 |  |

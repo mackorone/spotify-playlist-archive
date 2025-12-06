@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-641 songs - 1 day 20 hr 20 min
+642 songs - 1 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Oblivion](https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Oblivion](https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza) | 3:14 | 2023-03-31 | 2025-01-25 |
 | [Oblivion](https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Thermal / Oblivion](https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl) | 3:49 | 2021-05-07 | 2023-10-04 |
 | [Obsidian](https://open.spotify.com/track/3bfAKAVYli8Sd2W9UucI1C) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Obsidian](https://open.spotify.com/album/3QiTddfAL3rBjRym5HqY6O) | 3:18 | 2021-05-28 | 2022-07-28 |
+| [obvious](https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [undux](https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9) | 3:32 | 2025-12-05 |  |
 | [Ocean Blue](https://open.spotify.com/track/1CyXdBw2TNgqtPIX3210qR) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Why Not Me EP](https://open.spotify.com/album/7s7Ht9sMJggBm89tDLs5Sp) | 5:29 | 2021-11-26 | 2022-07-28 |
 | [Odyssee \- Pt\. 2](https://open.spotify.com/track/4isQapTCsf1TvF9RkzfrCG) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Odyssee](https://open.spotify.com/album/3oH1Bgm99euvruCUUvUdSR) | 4:37 | 2021-05-07 | 2022-04-21 |
 | [Offshore](https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6) | 3:19 | 2022-05-13 | 2023-11-16 |
@@ -525,7 +526,7 @@
 | [Super Powers](https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Super Powers](https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi) | 3:32 | 2025-07-11 |  |
 | [Supermodel](https://open.spotify.com/track/3JT8wu4fht9m6m5H9VsAFz) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [Marcus Cito](https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC) | [Supermodel](https://open.spotify.com/album/0wMDrSOXPQeh6Lm2jy5LO6) | 2:52 | 2023-03-03 | 2023-04-01 |
 | [Surrender](https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Surrender](https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT) | 2:27 | 2023-05-26 | 2024-07-22 |
-| [Surrender Your Love \- Progressive Edit](https://open.spotify.com/track/2XI1oczyrtHmyZ5daThTwk) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Surrender Your Love \(Progressive Edit\)](https://open.spotify.com/album/2EeOstsC8o495Fjb86li1Z) | 3:05 | 2025-02-21 |  |
+| [Surrender Your Love \- Progressive Edit](https://open.spotify.com/track/2XI1oczyrtHmyZ5daThTwk) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Surrender Your Love \(Progressive Edit\)](https://open.spotify.com/album/2EeOstsC8o495Fjb86li1Z) | 3:05 | 2025-02-21 | 2025-12-06 |
 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 | 2023-05-19 | 2025-01-25 |
 | [Sweet Disposition \- John Summit & Silver Panda Remix](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Sweet Disposition \(John Summit & Silver Panda Remix\)](https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5) | 4:11 | 2024-01-26 | 2024-12-07 |
 | [Sweet Surrender](https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Sweet Surrender](https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W) | 3:11 | 2023-02-03 | 2024-04-13 |

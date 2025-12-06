@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Kerr Mercer
 
-975 songs - 2 day 4 hr 28 min
+976 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Hospitals](https://open.spotify.com/track/5UD6uQp41jdj91OgaTNYt6) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [How did I let this get so serious?](https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU) | 2:54 | 2025-04-04 | 2025-07-19 |
 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-04-15 | 2022-09-03 |
 | [hot summer](https://open.spotify.com/track/3gR8omUbqmDU0l38K3CpHX) | [Molly Frances](https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh) | [hot summer](https://open.spotify.com/album/6Gu94XbWCmDBCbbsHJ3SdF) | 3:32 | 2025-07-21 | 2025-10-18 |
+| [Hotel](https://open.spotify.com/track/4leYuigbid3LuPNI9jDsGr) | [Maeve](https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI) | [Hotel](https://open.spotify.com/album/6IiD5m2FkHUNSu1hVAPTGD) | 2:30 | 2025-12-05 |  |
 | [House of Cards](https://open.spotify.com/track/5lyA4FFfyi3c9bUhfFlLWe) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [House of Cards](https://open.spotify.com/album/7Ar5VPj9yQRgSSj2wrS4B4) | 3:07 | 2022-04-11 | 2022-08-13 |
 | [House Of Lies](https://open.spotify.com/track/2fDmoxD2vvCHj9XgR9wRJD) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [House Of Lies](https://open.spotify.com/album/4DwBDOqbVG4pgm7ON3X7E7) | 3:14 | 2024-01-26 | 2024-08-17 |
 | [House We Share](https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [House We Share](https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa) | 2:47 | 2022-10-07 | 2022-12-24 |

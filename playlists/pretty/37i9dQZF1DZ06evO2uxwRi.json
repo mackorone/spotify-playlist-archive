@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43031,
+  "num_followers": 43040,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aS99gAAAAADwZ0kItqoE2XR+mUm85Lms",
+  "snapshot_id": "aTDPAAAAAACakaF/5LZmYvW7nV64A9as",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 110938,
-      "name": "Cups",
-      "url": "https://open.spotify.com/track/4iG3bUKDg0F5bKPGpmHMEU"
+      "duration_ms": 178810,
+      "name": "Accidentally in Love",
+      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 210040,
-      "name": "At Least I'm Known For Something",
-      "url": "https://open.spotify.com/track/4lFvQm71y6KF1J4M6IkbOv"
+      "duration_ms": 188253,
+      "name": "This Disaster",
+      "url": "https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 178810,
-      "name": "Accidentally in Love",
-      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
+      "duration_ms": 110938,
+      "name": "Cups",
+      "url": "https://open.spotify.com/track/4iG3bUKDg0F5bKPGpmHMEU"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 188253,
-      "name": "This Disaster",
-      "url": "https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn"
+      "duration_ms": 210040,
+      "name": "At Least I'm Known For Something",
+      "url": "https://open.spotify.com/track/4lFvQm71y6KF1J4M6IkbOv"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Listen To Your Friends",
+      "url": "https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 203963,
       "name": "nothing matters (with Jordan Pundik of New Found Glory)",
       "url": "https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Without A Fight",
-        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Listen To Your Friends",
-      "url": "https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL"
     },
     {
       "added_at": null,

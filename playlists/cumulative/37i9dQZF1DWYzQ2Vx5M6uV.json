@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Ozuna, Be\u00e9le & Ovy on The Drums",
+  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Ozuna & Be\u00e9le",
   "name": "Afro Ritmo",
   "tracks": [
     {
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 237908,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
@@ -4411,6 +4411,28 @@
     },
     {
       "album": {
+        "name": "Pikito",
+        "url": "https://open.spotify.com/album/5lGdVKuivIsUF4bNSqAUQe"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204099,
+      "name": "Pikito",
+      "url": "https://open.spotify.com/track/4uincenPTAa44KUmUQXbQC"
+    },
+    {
+      "album": {
         "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
         "url": "https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN"
       },
@@ -4748,6 +4770,24 @@
       "duration_ms": 176481,
       "name": "qu\u00e9date",
       "url": "https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR"
+    },
+    {
+      "album": {
+        "name": "RAM\u00c9",
+        "url": "https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161788,
+      "name": "RAM\u00c9",
+      "url": "https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT"
     },
     {
       "album": {

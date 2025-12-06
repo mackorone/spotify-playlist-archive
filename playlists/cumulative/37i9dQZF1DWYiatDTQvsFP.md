@@ -2,7 +2,7 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> the golden era of r&b and hip\-hop with Tamia.
+> the golden era of r&b and hip\-hop with 2Pac.
 
 285 songs - 19 hr 19 min
 

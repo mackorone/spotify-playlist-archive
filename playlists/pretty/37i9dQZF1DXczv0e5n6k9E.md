@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Negros Tou Moria, SIDARTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,726 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,745 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 3 | [Lete Lete](https://open.spotify.com/track/676OyMHIOfootgShTPbJgC) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Lete Lete](https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS) | 3:33 |
 | 4 | [TAKAMURI](https://open.spotify.com/track/3jOGLfy5CVaqmsGRJViS2x) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [TAKAMURI](https://open.spotify.com/album/31YAbb1ZJUudMDrH7Aizb9) | 2:48 |
 | 5 | [SUPERSTAR](https://open.spotify.com/track/4oT1BiDu0b2P4dDWng62VB) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [SUPERSTAR](https://open.spotify.com/album/0H0yH3OAMyV7ukvJu9iWLE) | 2:02 |
-| 6 | [SYBANTIKO](https://open.spotify.com/track/4Dljmix9x2UQeruEvVYXkT) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH) | [SYBANTIKO](https://open.spotify.com/album/3diM9Y033SMzBITO06ZIZ3) | 2:29 |
+| 6 | [SYBANTIKO](https://open.spotify.com/track/4Dljmix9x2UQeruEvVYXkT) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Gamecue](https://open.spotify.com/artist/1tHXeeKi5dBepwzOvBh6ST) | [SYBANTIKO](https://open.spotify.com/album/3diM9Y033SMzBITO06ZIZ3) | 2:29 |
 | 7 | [KATHE FORA POU TON HLIO PIANO](https://open.spotify.com/track/42Nz6Td19soH4iG6objKdm) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [GYALINOS KOSMOS](https://open.spotify.com/album/6l9neRDoThD9loGS7iwBDJ) | 4:07 |
 | 8 | [PANW MOU](https://open.spotify.com/track/4Qa689Cg9mB9iaO9PT5cIO) | [Donn](https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [PANW MOU](https://open.spotify.com/album/51JcjN99mn92eLhTwcVdcq) | 1:58 |
 | 9 | [PRIN](https://open.spotify.com/track/61XXv4jimPC4D6T8egfBvp) | [Nume](https://open.spotify.com/artist/62tV1e6rfkhuGPewxuOsjD), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [KIDS WITHOUT LUCK](https://open.spotify.com/album/5rPOPnLxTj0AMiHQBQqW4j) | 3:44 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 14 | [Fylla Dafnhs](https://open.spotify.com/track/0yxfVYUQZYeK3z67SzP9Ea) | [Kako](https://open.spotify.com/artist/4Dsd6cAcZNwLHc3Gjg59vO), [Vale Tudo](https://open.spotify.com/artist/3cp2aJFQmiDGRPQqjuchx7), [Osore](https://open.spotify.com/artist/3BkpSBxHlwbVX1KZtbM2Qb) | [Fylla Dafnhs](https://open.spotify.com/album/3FVfSJbEA2AwSMwElqsPxh) | 4:41 |
 | 15 | [BRO X3](https://open.spotify.com/track/77VGUR3e39LMnXDbRTEmIB) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [BRO X3](https://open.spotify.com/album/5IdbiH01dKi84gpquKXvA4) | 3:22 |
 | 16 | [MOLOTOV](https://open.spotify.com/track/1U9oT9anqEgC7axD1Th7NT) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [MOLOTOV](https://open.spotify.com/album/7pDsDMQJ0KlmBCucDynLcQ) | 2:44 |
-| 17 | [To Sagapw](https://open.spotify.com/track/60VwRmtFziGwPfhklepBZT) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [To Sagapw](https://open.spotify.com/album/2wSHAUfxb1PQyOqWkvbjRS) | 3:15 |
+| 17 | [To Sagapw](https://open.spotify.com/track/60VwRmtFziGwPfhklepBZT) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [To Sagapw](https://open.spotify.com/album/2wSHAUfxb1PQyOqWkvbjRS) | 3:16 |
 | 18 | [RIVE](https://open.spotify.com/track/4g4U3THnCKyICIL2QnKOuy) | [Bres](https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Silly Slime](https://open.spotify.com/artist/36UIThsG09bsbei5r8Lspl) | [RIVE](https://open.spotify.com/album/3c0ctuztIQVIxGhJwxWi62) | 3:15 |
 | 19 | [Agalia](https://open.spotify.com/track/068Q1SMFDYX1sRKc2AZKvJ) | [Logos Timis](https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s), [Jaul](https://open.spotify.com/artist/2FSYs9dEFVRoRk9JsYrEhE) | [Agalia](https://open.spotify.com/album/1MHWpV7h92eaDJ7ClBtG93) | 4:55 |
 | 20 | [LET GO](https://open.spotify.com/track/1US8gNjzFXw1bmUyvcbVdY) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [LET GO](https://open.spotify.com/album/3sFh2voJMS5lsw3h3ZXCnC) | 2:09 |

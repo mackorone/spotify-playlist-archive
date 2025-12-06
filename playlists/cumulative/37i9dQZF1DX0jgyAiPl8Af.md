@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-904 songs - 1 day 15 hr 0 min
+906 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Cidade Velha](https://open.spotify.com/track/5tT3uZPRSyEIyBHtJC2LCG) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Cidade Velha](https://open.spotify.com/album/4Rvuafq8Og3xWmpkY9Fewz) | 2:28 | 2025-04-29 |  |
 | [Cinco](https://open.spotify.com/track/4pkFHpro2S9df35aesICL0) | [Albert Wenmo](https://open.spotify.com/artist/3oRcts32YJGp3vx0U7ZyKf) | [Cinco](https://open.spotify.com/album/6ha71NRebIjPObIM3ZTrSx) | 1:52 | 2022-05-27 | 2022-09-09 |
 | [Cinema Paradiso \- Love Theme](https://open.spotify.com/track/3Zl7KSDYco84BdircFgR31) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Film favorites for acoustic guitar vol 1 \(EP\)](https://open.spotify.com/album/35UxgJAP2G4fzunaQUeW2V) | 1:59 | 2021-12-08 | 2022-04-22 |
+| [Cinnamon](https://open.spotify.com/track/0doV7jrfQ1qpgl1mBMjqDo) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Cinnamon](https://open.spotify.com/album/4stNY4vMIrQEofdz6fl1dP) | 2:37 | 2025-12-05 |  |
 | [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 | 2022-10-28 | 2024-06-08 |
 | [Circulatory](https://open.spotify.com/track/5wBSexf7sFXzkcykyZPJSt) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Circulatory](https://open.spotify.com/album/5HV6BYomrXWZSyYMx8n4ct) | 3:11 | 2021-12-08 | 2022-09-03 |
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2022-05-10 | 2023-08-19 |
@@ -474,7 +475,7 @@
 | [Lullaby](https://open.spotify.com/track/7goB8XbGH0dOpuOKh33M2V) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lullaby](https://open.spotify.com/album/0gltiSlcJXlCkGICZ5hVx5) | 2:54 | 2025-03-25 |  |
 | [Lumen](https://open.spotify.com/track/6GfVl6fqJjiWYtWbaRUysl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Lumen](https://open.spotify.com/album/6xUP4LUnifBek3FCwxXXiD) | 2:36 | 2023-08-24 | 2025-03-11 |
 | [luminous](https://open.spotify.com/track/0jR7590uCLfEK8pe8bZAMC) | [Zé Barreto](https://open.spotify.com/artist/2O6o9mCeoLTDmsYBamVWBl) | [luminous](https://open.spotify.com/album/02BK5YS4DVi2adBR0grygQ) | 3:14 | 2021-12-08 | 2022-05-11 |
-| [Luna](https://open.spotify.com/track/1rvZQZNnabwvwlxGZF1pTP) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Luna](https://open.spotify.com/album/4hwoBpIAlTDBniGD8C916b) | 2:13 | 2024-05-31 |  |
+| [Luna](https://open.spotify.com/track/1rvZQZNnabwvwlxGZF1pTP) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Luna](https://open.spotify.com/album/4hwoBpIAlTDBniGD8C916b) | 2:13 | 2024-05-31 | 2025-12-06 |
 | [Lux Brumalis](https://open.spotify.com/track/2QrxZvUD1JpMLREXy3D44T) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Lux Brumalis](https://open.spotify.com/album/7xfHnRzqnzx8rQNClgi6Pm) | 2:47 | 2023-12-15 |  |
 | [Luz de Aurora](https://open.spotify.com/track/75ducgEDNEPpzIqlxuEfoO) | [Homero Alvarez](https://open.spotify.com/artist/1Fa3oDtXt1Zb84g4bnFnf1) | [Luz de Aurora](https://open.spotify.com/album/2VYRYrgfzcLODcYNPCD4xA) | 2:55 | 2022-09-02 | 2023-06-16 |
 | [Madeline](https://open.spotify.com/track/0jXI8KkVrQpZaHtKOpoSJ2) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/6pq0RlmMLCrhAKPNPKobJX) | 2:10 | 2022-10-28 | 2023-05-05 |
@@ -605,6 +606,7 @@
 | [Peace for Awhile](https://open.spotify.com/track/7rNGsE6Nrvld0AMel0QZMW) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Pure Guitar](https://open.spotify.com/album/3Kxw34FNunjYtq8fJ4HdCG) | 2:05 | 2022-05-27 | 2022-09-09 |
 | [Peaceful evenings](https://open.spotify.com/track/0nJgsQqeqEU6nYipv81Ttw) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Peaceful evenings](https://open.spotify.com/album/7irDIdlp7tl6TRe6JJdAwq) | 2:16 | 2023-12-15 | 2025-11-11 |
 | [Peaceful Serendipity](https://open.spotify.com/track/5xHRYoLiovEdivPfVfcIkj) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Peaceful Serendipity](https://open.spotify.com/album/38PZrESjNrvZr77Xv6zrcw) | 1:58 | 2024-02-02 | 2024-02-23 |
+| [Pebble Garden](https://open.spotify.com/track/7FnC1HiGKlpOQXjh4bUtHh) | [Milan Heyes](https://open.spotify.com/artist/46yZrE3PvsXkGFY6lE0EJ9) | [Pebble Garden](https://open.spotify.com/album/27D6azi103r9yZgj31J0Td) | 2:23 | 2025-12-05 |  |
 | [Peekskills](https://open.spotify.com/track/0Qk32yAxmSsyHmvILqfsdT) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Peekskills](https://open.spotify.com/album/0o3eEFDa3NqHEuiS8G3WjI) | 2:15 | 2025-03-05 |  |
 | [Pelotas](https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg) | [Maria Gastona](https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV) | [Rosa](https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7) | 2:30 | 2021-12-08 | 2022-04-22 |
 | [Perso nell'eternità](https://open.spotify.com/track/4VOlHgQsej9SOUCBdf8t3O) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Perso nell'eternità](https://open.spotify.com/album/1zQ2BBNPd5Qf7i3zkTqr1x) | 2:52 | 2022-10-28 | 2024-09-26 |
@@ -718,7 +720,7 @@
 | [Smile](https://open.spotify.com/track/2U1vBJccBgHLok37WqNUM4) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Smile](https://open.spotify.com/album/6WgzKrrzhbuZ7cnuCgXb2k) | 2:20 | 2025-01-07 | 2025-11-11 |
 | [Snowbound](https://open.spotify.com/track/1qcfNVwh2pXCbXYMkzLw8l) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Snowbound](https://open.spotify.com/album/2pDaJIUSykL55ow4EzScl0) | 2:40 | 2022-11-18 | 2023-05-13 |
 | [So Close](https://open.spotify.com/track/3wz1TYEdO1O0Y217x8fkV1) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [So Close](https://open.spotify.com/album/6Q4SI5mpUxi0dwms50VNzz) | 3:39 | 2021-12-08 | 2022-04-06 |
-| [Sofi](https://open.spotify.com/track/1E63PT29zZUjwssWUudCIX) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Sofi](https://open.spotify.com/album/6CFdDRsZbvWZGWC42iQ9wb) | 2:53 | 2025-09-30 |  |
+| [Sofi](https://open.spotify.com/track/1E63PT29zZUjwssWUudCIX) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Sofi](https://open.spotify.com/album/6CFdDRsZbvWZGWC42iQ9wb) | 2:53 | 2025-09-30 | 2025-12-06 |
 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 | 2024-12-10 |  |
 | [Soft Water](https://open.spotify.com/track/1lrY2ajxDQK8NzKtcE60Nv) | [John Henriksson](https://open.spotify.com/artist/0vd7h6G1xC8QyRvj7oJjij) | [Soft Water](https://open.spotify.com/album/2Ri8R8XqX5lrptfAJ1cSfF) | 1:40 | 2023-08-24 | 2024-02-23 |
 | [Softly Spoken](https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken \- Guitar Version](https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr) | 1:30 | 2022-06-17 | 2023-08-19 |

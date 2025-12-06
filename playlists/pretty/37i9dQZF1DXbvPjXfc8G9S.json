@@ -1,13 +1,33 @@
 {
-  "description": "Los mejores \u00e9xitos de hoy en Colombia. Foto: Blessd",
-  "num_followers": 922922,
+  "description": "Los mejores \u00e9xitos de hoy en Colombia. Foto: Ozuna, Be\u00e9le",
+  "num_followers": 922972,
   "original_name": "\u00c9xitos Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD5m0foLZ/JzesWBgdUoqj6mv3Z7",
+  "snapshot_id": "AAAAALo562EbUWhojBk3gA+udBnjCPAj",
   "tracks": [
+    {
+      "added_at": "2025-12-05 05:00:19",
+      "album": {
+        "name": "Pikito",
+        "url": "https://open.spotify.com/album/5lGdVKuivIsUF4bNSqAUQe"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 204099,
+      "name": "Pikito",
+      "url": "https://open.spotify.com/track/4uincenPTAa44KUmUQXbQC"
+    },
     {
       "added_at": "2025-11-27 23:01:10",
       "album": {
@@ -51,30 +71,6 @@
       "duration_ms": 193386,
       "name": "D\u00d3NDE",
       "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
-    },
-    {
-      "added_at": "2025-11-27 23:01:10",
-      "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 201254,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2"
     },
     {
       "added_at": "2025-11-27 23:01:10",
@@ -207,6 +203,30 @@
       "duration_ms": 281458,
       "name": "40 DE DICIEMBRE (feat. GeezyDee, CARABIN3)",
       "url": "https://open.spotify.com/track/2hScMilrNzlbD9VD88t7jD"
+    },
+    {
+      "added_at": "2025-11-27 23:01:10",
+      "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 201254,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2"
     },
     {
       "added_at": "2025-11-27 23:01:10",
@@ -483,38 +503,6 @@
       "duration_ms": 299325,
       "name": "444 - Remix",
       "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
-    },
-    {
-      "added_at": "2025-11-27 23:01:10",
-      "album": {
-        "name": "Un Dia En Mi Barrio (Remix)",
-        "url": "https://open.spotify.com/album/2wA2nVsgjQYMKWSlraEQLi"
-      },
-      "artists": [
-        {
-          "name": "Tony Monta",
-          "url": "https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        },
-        {
-          "name": "Topboy TGR",
-          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
-        },
-        {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 435000,
-      "name": "Un Dia En Mi Barrio - Remix",
-      "url": "https://open.spotify.com/track/1KiI7qXgmqlX0KzK4f985q"
     },
     {
       "added_at": "2025-11-27 23:01:10",

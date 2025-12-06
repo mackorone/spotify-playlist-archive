@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 299701,
+  "num_followers": 299821,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Desperate Youth, Blood Thirsty Babes",
+        "url": "https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 206986,
+      "name": "Staring at the Sun",
+      "url": "https://open.spotify.com/track/0tHRJGyVYXgZpeNlon6Zkl"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Hello Nasty (Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 357693,
       "name": "Sugar Kane",
       "url": "https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Desperate Youth, Blood Thirsty Babes",
-        "url": "https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 206986,
-      "name": "Staring at the Sun",
-      "url": "https://open.spotify.com/track/0tHRJGyVYXgZpeNlon6Zkl"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp"
-      },
-      "artists": [
-        {
-          "name": "Belly",
-          "url": "https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Feed the Tree",
-      "url": "https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Alien Lanes",
         "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 93306,
       "name": "Game Of Pricks",
       "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Feed the Tree",
+      "url": "https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Enter The Vaselines (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/630p98oUEIBRflGJRRInCt"
-      },
-      "artists": [
-        {
-          "name": "The Vaselines",
-          "url": "https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Son Of A Gun",
-      "url": "https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "The Power Out",
         "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 222733,
       "name": "Enter Laughing",
       "url": "https://open.spotify.com/track/3c0g53v6fO1r5uWE69zj5A"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Enter The Vaselines (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/630p98oUEIBRflGJRRInCt"
+      },
+      "artists": [
+        {
+          "name": "The Vaselines",
+          "url": "https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Son Of A Gun",
+      "url": "https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Rooney",
-        "url": "https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50"
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
       },
       "artists": [
         {
-          "name": "Rooney",
-          "url": "https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7"
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
         }
       ],
-      "duration_ms": 214120,
-      "name": "I'm Shakin'",
-      "url": "https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq"
+      "duration_ms": 211000,
+      "name": "Galaxie / Hello, Goodbye",
+      "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
     },
     {
       "added_at": "2025-01-15 04:11:50",

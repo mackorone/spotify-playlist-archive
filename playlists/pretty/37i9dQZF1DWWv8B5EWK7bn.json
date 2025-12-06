@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 205165,
+  "num_followers": 205181,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Suono Assente",
         "url": "https://open.spotify.com/album/4dxsHCE1N9S5CTHApseLiG"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 249798,
       "name": "Habadash",
       "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "wanderlust",
-        "url": "https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8"
-      },
-      "artists": [
-        {
-          "name": "naya m\u00f6",
-          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
-        }
-      ],
-      "duration_ms": 184504,
-      "name": "wanderlust",
-      "url": "https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 192283,
       "name": "Snapdragon",
       "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "wanderlust",
+        "url": "https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8"
+      },
+      "artists": [
+        {
+          "name": "naya m\u00f6",
+          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
+        }
+      ],
+      "duration_ms": 184504,
+      "name": "wanderlust",
+      "url": "https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -839,6 +839,26 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "STORY OF BLOOD",
+        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 451986,
+      "name": "STORY OF BLOOD",
+      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Deux Paradis",
         "url": "https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 182926,
       "name": "All Through The Day",
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "STORY OF BLOOD",
-        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 451986,
-      "name": "STORY OF BLOOD",
-      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Mountains",
-        "url": "https://open.spotify.com/album/7EBzr54n5Ehztv2uidEcUD"
-      },
-      "artists": [
-        {
-          "name": "Gaia Rollo",
-          "url": "https://open.spotify.com/artist/7wOLjHWA8yNGrOHHPYl4Hv"
-        }
-      ],
-      "duration_ms": 267619,
-      "name": "Mountains",
-      "url": "https://open.spotify.com/track/3f5Gku3uhFB8NnUWJywfxq"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "MERCY",
         "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 420080,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/7EBzr54n5Ehztv2uidEcUD"
+      },
+      "artists": [
+        {
+          "name": "Gaia Rollo",
+          "url": "https://open.spotify.com/artist/7wOLjHWA8yNGrOHHPYl4Hv"
+        }
+      ],
+      "duration_ms": 267619,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/3f5Gku3uhFB8NnUWJywfxq"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
-      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "NIGHT CRAWLING",
         "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
       },
@@ -1195,22 +1179,34 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "High January",
-        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
       },
       "artists": [
         {
-          "name": "Marker Starling",
-          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 266287,
-      "name": "Starved for Glamour",
-      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
+      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Rivers That You Cannot See",
+        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Rivers That You Cannot See",
+      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1231,18 +1227,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Rivers That You Cannot See",
-        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
+        "name": "High January",
+        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
       },
       "artists": [
         {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+          "name": "Marker Starling",
+          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Rivers That You Cannot See",
-      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
+      "duration_ms": 266287,
+      "name": "Starved for Glamour",
+      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1311,26 +1311,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Meditations on Crime",
-        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
       },
       "artists": [
         {
-          "name": "Meditations on Crime",
-          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
-        },
-        {
-          "name": "Gang Gang Dance",
-          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
-        },
-        {
-          "name": "Harper Simon",
-          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
         }
       ],
-      "duration_ms": 213159,
-      "name": "Crime Seed",
-      "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1355,38 +1347,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Everything Changes, Nothing Ends",
-        "url": "https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO"
-      },
-      "artists": [
-        {
-          "name": "Mark Barrott",
-          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
-        }
-      ],
-      "duration_ms": 436434,
-      "name": "January 25th",
-      "url": "https://open.spotify.com/track/0xLHax5yY9RdTZL0AkAWrl"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
-      },
-      "artists": [
-        {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "artclubdiscotheque",
         "url": "https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig"
       },
@@ -1407,6 +1367,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Everything Changes, Nothing Ends",
+        "url": "https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "duration_ms": 436434,
+      "name": "January 25th",
+      "url": "https://open.spotify.com/track/0xLHax5yY9RdTZL0AkAWrl"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Pearlies",
         "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
       },
@@ -1419,6 +1395,30 @@
       "duration_ms": 215733,
       "name": "The Presence",
       "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Meditations on Crime",
+        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
+      },
+      "artists": [
+        {
+          "name": "Meditations on Crime",
+          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
+        },
+        {
+          "name": "Gang Gang Dance",
+          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
+        },
+        {
+          "name": "Harper Simon",
+          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Crime Seed",
+      "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Al Sur",
         "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 198773,
       "name": "Al Sur",
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
-        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
+        "name": "Vandali / Stranidei",
+        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
       },
       "artists": [
         {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
         }
       ],
-      "duration_ms": 182800,
-      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
-      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
+      "duration_ms": 245520,
+      "name": "Stranidei",
+      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     }
   ],
   "unique_name": "Oblique",

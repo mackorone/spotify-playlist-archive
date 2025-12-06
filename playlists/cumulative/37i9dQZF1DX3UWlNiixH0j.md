@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: NIKO NIKO TAN TAN
 
-2,873 songs - 7 day 11 hr 30 min
+2,874 songs - 7 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [blowfish](https://open.spotify.com/track/3YzCftcZb0xgPwg2Xo77PH) | [Jumpei Kamiya](https://open.spotify.com/artist/09xofPjyi8sos3ZOHkqqel) | [numbnuts](https://open.spotify.com/album/6Nmfu4TFFaXi6qMTUQ4rsH) | 2:40 | 2025-03-04 | 2025-03-12 |
 | [Blue](https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Blue Inside You](https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA) | 3:26 | 2024-10-08 | 2025-01-08 |
 | [blue](https://open.spotify.com/track/1fjtjLFdEM5QDzElnB0GHd) | [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [7years](https://open.spotify.com/album/4jKd9zBp2V0qG86x7dEJ6v) | 3:03 | 2024-04-23 | 2024-05-01 |
-| [BLUE DIVER](https://open.spotify.com/track/3n07Xv1MuzLx76mmHn0lly) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUE DIVER](https://open.spotify.com/album/7y1qT6eKNtrlMs3QbCJ3db) | 5:28 | 2025-11-04 |  |
+| [BLUE DIVER](https://open.spotify.com/track/3n07Xv1MuzLx76mmHn0lly) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUE DIVER](https://open.spotify.com/album/7y1qT6eKNtrlMs3QbCJ3db) | 5:28 | 2025-11-04 | 2025-12-06 |
 | [Blue Hole](https://open.spotify.com/track/0nQu8qwZKAhfrbnGidJTDR) | [p/asma](https://open.spotify.com/artist/6Q1YKEC7u7P5Oc2ElTecR1) | [Color of Water](https://open.spotify.com/album/0jiePMk8x0QuV3q3tWJPig) | 4:59 | 2023-12-12 | 2023-12-20 |
 | [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 | 2023-04-04 | 2024-04-19 |
 | [Blue Qualia](https://open.spotify.com/track/2p9XQ6PRBkAEfeWml7dfCS) | [ノウルシ](https://open.spotify.com/artist/7jGulqxcpIc1o3cRDNDn2z) | [Blue Qualia](https://open.spotify.com/album/4eRSJTHYwZglClTVG5HC8h) | 3:30 | 2025-07-29 | 2025-08-06 |
@@ -1379,6 +1379,7 @@
 | [Send To You](https://open.spotify.com/track/2cZykG7K1deBkOsObi59s8) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Send To You](https://open.spotify.com/album/4ghKPVs9oz6DKp1z2ItDdn) | 3:42 | 2025-02-04 | 2025-07-09 |
 | [Seneca](https://open.spotify.com/track/7gHHYwfHJbTmqWRhYUb5j5) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Seneca](https://open.spotify.com/album/2QKA4carc9QA2FxojJbLvl) | 3:16 | 2025-08-12 | 2025-08-20 |
 | [Sense of Wonder](https://open.spotify.com/track/2sWANzUTKXFzd6PuoNT16b) | [KONCOS](https://open.spotify.com/artist/2DLMFZ9TlwJwyGzzodWpXv) | [Waltz for April](https://open.spotify.com/album/2ktDs0e3dtfhsaRQk1nOcz) | 2:24 | 2023-01-12 | 2023-01-18 |
+| [Sentimental Journey](https://open.spotify.com/track/2SQ8cSa0qW495Gw1mmvMGz) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [MUNI](https://open.spotify.com/album/3VPIqh2pDnTVTpw8igR1w2) | 3:40 | 2025-12-03 |  |
 | [Sentiments](https://open.spotify.com/track/1RV7iXLe9Ydh9J9MiXtOLm) | [Nape](https://open.spotify.com/artist/4i2HtvaNWxR0sYVRzQTT1N) | [Sentiments](https://open.spotify.com/album/5svu4CMAw8VYFyF6nxswfr) | 3:11 | 2024-07-28 | 2024-08-07 |
 | [set me free](https://open.spotify.com/track/1RMNsdSWzCivT5Db9afYuM) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/4QbwpyNyVJErLqLSLFxsmQ) | 3:50 | 2023-01-12 | 2023-01-18 |
 | [Setagaya](https://open.spotify.com/track/0oh1niXz41fTImsI1H4fZm) | [橋本薫](https://open.spotify.com/artist/1aLamjkjjLUj31zHJoVLF5) | [Setagaya](https://open.spotify.com/album/3C6roIn7emS8cYRD92w6jo) | 2:39 | 2025-09-03 | 2025-09-10 |

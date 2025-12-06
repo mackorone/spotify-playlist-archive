@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 67324,
+  "num_followers": 67370,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,26 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
         }
       ],
-      "duration_ms": 209120,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt"
+      "duration_ms": 222559,
+      "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
+      "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -211,26 +219,18 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 222559,
-      "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
-      "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
+      "duration_ms": 209120,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Creo en Mi",
-        "url": "https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Creo en Mi",
-      "url": "https://open.spotify.com/track/4fSar1liXyxCK3lOcWHUE1"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
         "name": "PB.DB. The Mixtape",
         "url": "https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 219186,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/3AtfmXxTKKn0QIEbdRRvJI"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
+        "name": "Creo en Mi",
+        "url": "https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Creo en Mi",
+      "url": "https://open.spotify.com/track/4fSar1liXyxCK3lOcWHUE1"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -499,26 +499,6 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
         "name": "Golpe Avisa",
         "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 285013,
       "name": "Suena Mamal***",
       "url": "https://open.spotify.com/track/3qTatqQ0vzzztgYdaQGEmV"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Huyendo conmigo de m\u00ed",
-        "url": "https://open.spotify.com/album/5OlfTqv9K5yzd2nvgPdpmj"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 292240,
-      "name": "Entre la espada y la pared",
-      "url": "https://open.spotify.com/track/7djk6VYALvdcRqPJKq5xXx"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/2R7m2KEpz551kzsoayID3S"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 213060,
       "name": "Diez Mil Maneras",
       "url": "https://open.spotify.com/track/0bozYJjedwJwsvg7WWrWnX"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
+        "name": "Huyendo conmigo de m\u00ed",
+        "url": "https://open.spotify.com/album/5OlfTqv9K5yzd2nvgPdpmj"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 292240,
+      "name": "Entre la espada y la pared",
+      "url": "https://open.spotify.com/track/7djk6VYALvdcRqPJKq5xXx"
     },
     {
       "added_at": "2024-07-13 01:11:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 
 > 70s rock to fuel your ride\. Cover: Aerosmith
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,786 likes - 85 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,937 likes - 85 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 | 79 | [Domino \- 1999 Remaster](https://open.spotify.com/track/0eti3iRdEgUxwcIcN2N9DY) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [His Band and the Street Choir](https://open.spotify.com/album/3YdFToTF5Mr2HLx7zRUIQA) | 3:09 |
 | 80 | [Miami 2017 \(Seen the Lights Go Out On Broadway\)](https://open.spotify.com/track/4zVPevC2rE84lySHxX61Yr) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turnstiles](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) | 5:14 |
 | 81 | [Whatever Gets You Thru The Night \- Remastered 2010](https://open.spotify.com/track/49nBXQzYNyjoBmUda3ezMf) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Walls And Bridges](https://open.spotify.com/album/3n1j9GslH8h0jIx7NRUIX4) | 3:27 |
-| 82 | [Love Comes To Everyone \- Remastered 2004](https://open.spotify.com/track/1dYimSgEq46lJ30MKQP9l6) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [George Harrison](https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU) | 4:36 |
+| 82 | [Love Comes to Everyone](https://open.spotify.com/track/1dYimSgEq46lJ30MKQP9l6) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [George Harrison](https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU) | 4:36 |
 | 83 | [Sweet Little Rock 'N' Roller](https://open.spotify.com/track/6iLgfbyvQ8lRjixyIYZCW8) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Smiler](https://open.spotify.com/album/1RuMPrVES7OeG5Nam0N8mJ) | 3:42 |
 | 84 | [The Lamb Lies Down on Broadway \- 2007 Stereo Mix](https://open.spotify.com/track/10birs3L6T1PnvDwk4NXuf) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Lamb Lies Down on Broadway \(2007 Stereo Mix\)](https://open.spotify.com/album/49BxISwAbZZfmlhqD6Vh88) | 4:53 |
 | 85 | [Rosalita \(Come Out Tonight\)](https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Wild, the Innocent & The E Street Shuffle](https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608) | 7:04 |

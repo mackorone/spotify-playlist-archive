@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 142722,
+  "num_followers": 142805,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJNzA7KOrCP2b9zMJVKnoMlSzbc",
+  "snapshot_id": "AAAAACU5tZbpJHXRtuT8tWi1wyw2dFOL",
   "tracks": [
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "Hoodoo Woman",
+        "url": "https://open.spotify.com/album/16E63Rm7QHoDvGcrA6848S"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 189820,
+      "name": "Hoodoo Woman",
+      "url": "https://open.spotify.com/track/29rU2ADe2TBKlDePc7BWV4"
+    },
     {
       "added_at": "2025-11-21 05:00:18",
       "album": {
@@ -1819,26 +1835,6 @@
       "duration_ms": 231829,
       "name": "Whiskey Got Me Married",
       "url": "https://open.spotify.com/track/1LlJhzftKCr4SVRfOgIYXN"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Girl Friends",
-        "url": "https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        },
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 197468,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
     }
   ],
   "unique_name": "Got Blues",

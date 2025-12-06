@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Pirlo
 
-158 songs - 8 hr 32 min
+159 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Le Falta la Forty](https://open.spotify.com/track/18hTjSSkgVhK4AHMrMe6qE) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Le Falta la Forty](https://open.spotify.com/album/7h07MPO9K6uJNIzdkwOQue) | 2:57 | 2024-06-28 | 2025-08-16 |
 | [Livianito](https://open.spotify.com/track/4DANLftoIh2G6U2O3N3LFo) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [Livianito](https://open.spotify.com/album/4gbTB6sULTaiHobyBUEH33) | 2:56 | 2025-11-28 |  |
 | [Llanogrande](https://open.spotify.com/track/19j1aiX1XtvV1rjQiB0xnI) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Llanogrande](https://open.spotify.com/album/4erHmgwHrYipv67oz7EEhz) | 3:16 | 2022-08-19 | 2023-03-25 |
+| [Lora](https://open.spotify.com/track/1eKeNjTZZpSpNZn7309P1W) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [Lora](https://open.spotify.com/album/1HIVNgldQfNmBiBdtMIc3O) | 2:30 | 2025-12-05 |  |
 | [LOS CACORROS USAN KLEIMOND](https://open.spotify.com/track/73gesm262Pgbk7j0SEpijT) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [LOS CACORROS USAN KLEIMOND](https://open.spotify.com/album/2cwKNb3KXIcndDJeEzBi1N) | 3:18 | 2025-10-03 |  |
 | [Los Negritos II](https://open.spotify.com/track/26NyY7vQeWoP4wtVoEB9u1) | [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [Oliver Outc](https://open.spotify.com/artist/4ZK8wO3w5bwhtX0XtUjgWw) | [Los Negritos II](https://open.spotify.com/album/1B1jKCRab5fXBJlZPwgWGQ) | 2:09 | 2023-02-10 | 2023-03-25 |
 | [Ma' G](https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ma' G](https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe) | 3:46 | 2021-10-15 |  |
@@ -108,7 +109,7 @@
 | [Meterlo A Estudiar](https://open.spotify.com/track/2szyeDtOPaBLCenHCMgMP6) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [Meterlo A Estudiar](https://open.spotify.com/album/03tK5aJsBoDecyfb7EkuBz) | 2:45 | 2025-08-22 |  |
 | [Mi Imperio Romano](https://open.spotify.com/track/6Nl1sPqRe3H2ovczhCifYJ) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Mi Imperio Romano](https://open.spotify.com/album/0VYYcdYzRwFV8IXLWdn9RF) | 3:18 | 2025-04-04 | 2025-07-24 |
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-04-08 | 2022-09-03 |
-| [MR CHIMB4S](https://open.spotify.com/track/4EDhkGtlJRPf8fnonD0n5q) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Sjoy on the beat](https://open.spotify.com/artist/2JpD7COyH3RDoFJ1vneHOw) | [MR CHIMB4S](https://open.spotify.com/album/16CL0gZreRyXOHkovjxRjm) | 2:18 | 2025-08-15 |  |
+| [MR CHIMB4S](https://open.spotify.com/track/4EDhkGtlJRPf8fnonD0n5q) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Sjoy on the beat](https://open.spotify.com/artist/2JpD7COyH3RDoFJ1vneHOw) | [MR CHIMB4S](https://open.spotify.com/album/16CL0gZreRyXOHkovjxRjm) | 2:18 | 2025-08-15 | 2025-12-06 |
 | [MUÑECA DE URBA](https://open.spotify.com/track/3BYsz5bUXe92mkIZ7XEOpN) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [UNA VALIJA EN SENTIMIENTO](https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY) | 3:02 | 2025-08-08 | 2025-10-04 |
 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 | 2021-10-15 | 2025-08-02 |
 | [Negro](https://open.spotify.com/track/3QS73YxMlbbqHvZQhp1WNH) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/2jRVG4AZf6eFLc9Y1ELdgq) | 3:17 | 2023-12-01 | 2024-04-19 |

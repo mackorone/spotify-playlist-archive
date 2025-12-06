@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 150 songs - 10 hr 6 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 151 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,5 +158,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 148 | [Glass Eyes](https://open.spotify.com/track/0uOeAmfdyaekD2RIGwCDwq) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 2:52 |
 | 149 | [Spanish Sahara](https://open.spotify.com/track/2fWSJxOHKSqXOkhxyo3Gly) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Total Life Forever](https://open.spotify.com/album/7edt9zVFJtKYLMI213anC9) | 6:49 |
 | 150 | [I Fall Apart](https://open.spotify.com/track/4MqFHxNM8uM7UEW4t56nzU) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Rory Gallagher \(Remastered 2017\)](https://open.spotify.com/album/3tk9uyWCvfQbkmvROJGUXB) | 5:12 |
+| 151 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 |
 
-Snapshot ID: `AAABDkAq5DopcuuFM1UGvtuPbN512ZRm`
+Snapshot ID: `AAABD+yNXwjFbtyer2YZUyC8W8iTtWp5`

@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 33341,
+  "num_followers": 33360,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "I remember how your hands felt on mine",
-        "url": "https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 195968,
-      "name": "I remember how your hands felt on mine",
-      "url": "https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Elige Tu Propia Aventura",
         "url": "https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 150171,
       "name": "Normal",
       "url": "https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "I remember how your hands felt on mine",
+        "url": "https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 195968,
+      "name": "I remember how your hands felt on mine",
+      "url": "https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Before I Die",
-        "url": "https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1"
-      },
-      "artists": [
-        {
-          "name": "Footballhead",
-          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Your Ghost",
-      "url": "https://open.spotify.com/track/6Qqw9m2tS2I3wJOOEWyE7S"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Ode To Clio",
         "url": "https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 197590,
       "name": "Ode To Clio",
       "url": "https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Before I Die",
+        "url": "https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1"
+      },
+      "artists": [
+        {
+          "name": "Footballhead",
+          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Your Ghost",
+      "url": "https://open.spotify.com/track/6Qqw9m2tS2I3wJOOEWyE7S"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Name Your Sorrow",
-        "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
-      },
-      "artists": [
-        {
-          "name": "Pillow Queens",
-          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
-        }
-      ],
-      "duration_ms": 230984,
-      "name": "Heavy Pour",
-      "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Crispy Skin",
         "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 379400,
       "name": "Crispy Skin",
       "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Name Your Sorrow",
+        "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
+      },
+      "artists": [
+        {
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+        }
+      ],
+      "duration_ms": 230984,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Self Doubt",
-        "url": "https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt"
-      },
-      "artists": [
-        {
-          "name": "Ava Maybee",
-          "url": "https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "Self Doubt",
-      "url": "https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "ATTENTION",
         "url": "https://open.spotify.com/album/75rSyZ1VksQpRlXGkDyCwM"
       },
@@ -1135,18 +1119,34 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Teething",
-        "url": "https://open.spotify.com/album/26eGjM6GpvS9ht85XNKAdl"
+        "name": "Self Doubt",
+        "url": "https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt"
       },
       "artists": [
         {
-          "name": "Ain't",
-          "url": "https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD"
+          "name": "Ava Maybee",
+          "url": "https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9"
         }
       ],
-      "duration_ms": 220528,
-      "name": "Teething",
-      "url": "https://open.spotify.com/track/3M1AOV25ZrXc4bLdHcDzEf"
+      "duration_ms": 174226,
+      "name": "Self Doubt",
+      "url": "https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Under The Skin",
+        "url": "https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Under The Skin",
+      "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Under The Skin",
-        "url": "https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs"
+        "name": "Teething",
+        "url": "https://open.spotify.com/album/26eGjM6GpvS9ht85XNKAdl"
       },
       "artists": [
         {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+          "name": "Ain't",
+          "url": "https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Under The Skin",
-      "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
+      "duration_ms": 220528,
+      "name": "Teething",
+      "url": "https://open.spotify.com/track/3M1AOV25ZrXc4bLdHcDzEf"
     },
     {
       "added_at": "2024-12-04 12:15:00",

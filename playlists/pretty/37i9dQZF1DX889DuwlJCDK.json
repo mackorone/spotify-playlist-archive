@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: 171",
-  "num_followers": 21303,
+  "num_followers": 21322,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "\u6b20\u7247",
-        "url": "https://open.spotify.com/album/1cI7JtMgSvQktNUkqvdsZt"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "\u6b20\u7247",
-      "url": "https://open.spotify.com/track/5mYTtXFq2DreBL25EK5bkF"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
         "name": "\u30e6\u30fc\u30d5\u30a9\u30fc\u3092\u898b\u306b\u3044\u3053\u3046",
         "url": "https://open.spotify.com/album/06F3cSHA1gV6zjeA9PUaxB"
       },
@@ -1111,34 +1095,18 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "Let's eat food",
-        "url": "https://open.spotify.com/album/0s0ed6peiGYTHvg5Pjx6E9"
+        "name": "\u6b20\u7247",
+        "url": "https://open.spotify.com/album/1cI7JtMgSvQktNUkqvdsZt"
       },
       "artists": [
         {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
         }
       ],
-      "duration_ms": 187912,
-      "name": "Let's eat food",
-      "url": "https://open.spotify.com/track/5gjQz3TrfWTD0M1jYRHhli"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
-        "name": "\u308b\u3066\u3093",
-        "url": "https://open.spotify.com/album/43S0B2hwGw5F3BLjKAf3f1"
-      },
-      "artists": [
-        {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
-        }
-      ],
-      "duration_ms": 213433,
-      "name": "\u308b\u3066\u3093",
-      "url": "https://open.spotify.com/track/6nnlidVjXQpOVS8cfnr82o"
+      "duration_ms": 160466,
+      "name": "\u6b20\u7247",
+      "url": "https://open.spotify.com/track/5mYTtXFq2DreBL25EK5bkF"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1159,18 +1127,34 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "\u9752\u7a7a",
-        "url": "https://open.spotify.com/album/2lzkVnmmTJeAfRgijw9SER"
+        "name": "\u308b\u3066\u3093",
+        "url": "https://open.spotify.com/album/43S0B2hwGw5F3BLjKAf3f1"
       },
       "artists": [
         {
-          "name": "\u30de\u30eb\u30b7\u30a3",
-          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
         }
       ],
-      "duration_ms": 238160,
-      "name": "\u9752\u7a7a",
-      "url": "https://open.spotify.com/track/1iBGMFMIZ3JerD7tAFPxPJ"
+      "duration_ms": 213433,
+      "name": "\u308b\u3066\u3093",
+      "url": "https://open.spotify.com/track/6nnlidVjXQpOVS8cfnr82o"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
+        "name": "Let's eat food",
+        "url": "https://open.spotify.com/album/0s0ed6peiGYTHvg5Pjx6E9"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "duration_ms": 187912,
+      "name": "Let's eat food",
+      "url": "https://open.spotify.com/track/5gjQz3TrfWTD0M1jYRHhli"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1187,6 +1171,22 @@
       "duration_ms": 214400,
       "name": "\u672a\u5b8c\u6210\u306b\u77ac\u3044\u3066",
       "url": "https://open.spotify.com/track/3ECQagtUNR0W8EA05eX3VC"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
+        "name": "\u9752\u7a7a",
+        "url": "https://open.spotify.com/album/2lzkVnmmTJeAfRgijw9SER"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "\u9752\u7a7a",
+      "url": "https://open.spotify.com/track/1iBGMFMIZ3JerD7tAFPxPJ"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "\u671d\u51ea",
-        "url": "https://open.spotify.com/album/0u6ouRVyJKDRASyr2CflFY"
-      },
-      "artists": [
-        {
-          "name": "Atarayo",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "\u671d\u51ea",
-      "url": "https://open.spotify.com/track/6CUbPRA9vVWqBc7ncQ8sfY"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
         "name": "\u30a2\u30ca\u30b6\u30fc\u30c0\u30a4\u30d0\u30fc\u30b7\u30c6\u30a3",
         "url": "https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 215433,
       "name": "\u30af\u30ea\u30fc\u30e0\u30bd\u30fc\u30c0",
       "url": "https://open.spotify.com/track/1j58n5vsSxrHnmusrfxeqz"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
+        "name": "\u671d\u51ea",
+        "url": "https://open.spotify.com/album/0u6ouRVyJKDRASyr2CflFY"
+      },
+      "artists": [
+        {
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "\u671d\u51ea",
+      "url": "https://open.spotify.com/track/6CUbPRA9vVWqBc7ncQ8sfY"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "\u6ce1\u6cab\u306e\u5922\u306f\u5e7b\u306b",
-        "url": "https://open.spotify.com/album/0HeOpLghvT87CUx7wuE2t2"
-      },
-      "artists": [
-        {
-          "name": "Atarayo",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 188952,
-      "name": "\u591c\u7a7a\u3092\u8755\u3093\u3067",
-      "url": "https://open.spotify.com/track/3aWz8DKkDInc9AQDP1es3T"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
         "name": "\u30ef\u30f3\u30bf\u30a4\u30e0\u30a8\u30d4\u30ed\u30fc\u30b0",
         "url": "https://open.spotify.com/album/4yuDiUMUIfaEItFEyTWcme"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 176506,
       "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
       "url": "https://open.spotify.com/track/69ZuItVMLZ5SHpiYEW6Fca"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
+        "name": "\u6ce1\u6cab\u306e\u5922\u306f\u5e7b\u306b",
+        "url": "https://open.spotify.com/album/0HeOpLghvT87CUx7wuE2t2"
+      },
+      "artists": [
+        {
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 188952,
+      "name": "\u591c\u7a7a\u3092\u8755\u3093\u3067",
+      "url": "https://open.spotify.com/track/3aWz8DKkDInc9AQDP1es3T"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "SWEATER",
-        "url": "https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq"
-      },
-      "artists": [
-        {
-          "name": "\u3048\u3093\u3077\u3066\u3044",
-          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
-        }
-      ],
-      "duration_ms": 254498,
-      "name": "SWEATER",
-      "url": "https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
         "name": "\u661f\u306e\u4e0b",
         "url": "https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
+        "name": "SWEATER",
+        "url": "https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3093\u3077\u3066\u3044",
+          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
+        }
+      ],
+      "duration_ms": 254498,
+      "name": "SWEATER",
+      "url": "https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
         "name": "\u7d76\u547d",
         "url": "https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 276705,
       "name": "\u7d76\u547d",
       "url": "https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
-        "name": "\u30e9\u30d7\u30bd\u30c7\u30a3",
-        "url": "https://open.spotify.com/album/3pXLBsa2XGNPNGwRlhqV4I"
-      },
-      "artists": [
-        {
-          "name": "BILLY BOO",
-          "url": "https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey"
-        }
-      ],
-      "duration_ms": 221471,
-      "name": "\u30e9\u30d7\u30bd\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/1UELk4WT2YPMrjFGttcBHR"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1563,6 +1547,22 @@
       "duration_ms": 132154,
       "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/3LwGHyXnRDA76mFfR79ZF3"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
+        "name": "\u30e9\u30d7\u30bd\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/3pXLBsa2XGNPNGwRlhqV4I"
+      },
+      "artists": [
+        {
+          "name": "BILLY BOO",
+          "url": "https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey"
+        }
+      ],
+      "duration_ms": 221471,
+      "name": "\u30e9\u30d7\u30bd\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/1UELk4WT2YPMrjFGttcBHR"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "CRASH OUT!!!",
-        "url": "https://open.spotify.com/album/3b7VZfo0jA5ubB2suwF2kU"
-      },
-      "artists": [
-        {
-          "name": "OddRe:",
-          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
-        }
-      ],
-      "duration_ms": 219932,
-      "name": "CRASH OUT!!!",
-      "url": "https://open.spotify.com/track/6aSYoAORIn0mhwy2pAh3LT"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
         "name": "\u93e1\u3088\u93e1",
         "url": "https://open.spotify.com/album/4VxZf7TIjbjt3zzQzGcesI"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 252620,
       "name": "\u93e1\u3088\u93e1",
       "url": "https://open.spotify.com/track/1uwKym8nRJTOth3KYqU5Ja"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
+        "name": "CRASH OUT!!!",
+        "url": "https://open.spotify.com/album/3b7VZfo0jA5ubB2suwF2kU"
+      },
+      "artists": [
+        {
+          "name": "OddRe:",
+          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+        }
+      ],
+      "duration_ms": 219932,
+      "name": "CRASH OUT!!!",
+      "url": "https://open.spotify.com/track/6aSYoAORIn0mhwy2pAh3LT"
     },
     {
       "added_at": "2025-12-02 15:40:38",

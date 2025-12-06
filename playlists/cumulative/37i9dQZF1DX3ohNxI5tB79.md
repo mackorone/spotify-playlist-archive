@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-347 songs - 22 hr 16 min
+350 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Dance With The Devil](https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Dance With The Devil](https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo) | 3:30 | 2024-11-08 | 2025-10-02 |
 | [Dancin Like a Fool](https://open.spotify.com/track/4wI11xnaKJAayVFBTHd6LM) | [Souldrippin](https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5), [Darius Dante](https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5), [Hari Loco](https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ) | [Dancin Like a Fool](https://open.spotify.com/album/6MY3TcKo5VPo3ANxeuVM6G) | 3:04 | 2024-04-11 | 2025-07-05 |
 | [DANCING IN THE SUN](https://open.spotify.com/track/43GWrCMgxLOH7lE1KrBGul) | [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw), [Raven Iman](https://open.spotify.com/artist/05dN9yoDxFnmmy8KRUhRKX) | [ODYSSÉ](https://open.spotify.com/album/2HJUWjdQsyRWF6ybmqwQVk) | 4:09 | 2025-08-08 |  |
+| [Daydreaming](https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Daydreaming](https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf) | 3:08 | 2025-12-05 |  |
 | [Deep](https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Below Dawn](https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw) | 4:10 | 2024-06-28 | 2025-07-05 |
 | [Diamonds in the rough](https://open.spotify.com/track/0DltlSIHRJQR74DKrk9dvB) | [Nathan Badu](https://open.spotify.com/artist/3IjtugjO4uMXKRiNDmyAWY) | [Diamonds in the rough](https://open.spotify.com/album/2KSmHJMcHT22zT4qbXj5nz) | 3:36 | 2023-10-19 | 2025-05-23 |
 | [Do You Really](https://open.spotify.com/track/4vt4JoGfQ1QaDeHXKxTpUI) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Do You Really](https://open.spotify.com/album/176nPDYntjkybucUj1VlJt) | 3:30 | 2021-12-13 | 2022-10-01 |
@@ -233,6 +234,7 @@
 | [Pure Gold](https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Pure Gold](https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS) | 2:49 | 2022-04-28 | 2025-01-11 |
 | [Purpose](https://open.spotify.com/track/6jEEB0yo5OM3h1kxptUxFK) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Purpose](https://open.spotify.com/album/08ByKuA4cV7y99FD0IUO8Q) | 3:32 | 2025-07-04 | 2025-09-02 |
 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 | 2024-09-20 | 2025-09-02 |
+| [Ready to Fall](https://open.spotify.com/track/0ZvcS3Keg5vYopuiQgeaDP) | [Tasha's World](https://open.spotify.com/artist/0s826k2Yy9FVmxhFsOAQoF) | [Ready to Fall](https://open.spotify.com/album/4JnxDMaP5yF4TcDexKpCbY) | 4:28 | 2025-12-05 |  |
 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 | 2025-05-19 |  |
 | [Reverence](https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Reverence](https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m) | 2:19 | 2024-06-28 | 2025-06-03 |
 | [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 | 2025-05-14 | 2025-10-09 |
@@ -252,7 +254,7 @@
 | [Say Something](https://open.spotify.com/track/4nSO7iKiwPj4wJjylLCu0s) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Say Something](https://open.spotify.com/album/4NxOn5zVNIZiLODN8t5hbb) | 2:40 | 2021-12-13 | 2022-04-29 |
 | [Scaredy Cat](https://open.spotify.com/track/0BBwsVm77FPUSonCHdNZcN) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Scaredy Cat](https://open.spotify.com/album/3nUL20I7rAjJ4cnNSHhrsO) | 3:02 | 2025-09-01 |  |
 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 | 2022-05-17 | 2025-02-11 |
-| [Seconds, Minutes, Hours](https://open.spotify.com/track/7dSu6dQ8dQikkGSq0ZEj3f) | [JAÏNDA](https://open.spotify.com/artist/66o7kKRzYuVjtmQo4acAkR) | [Seconds, Minutes, Hours](https://open.spotify.com/album/4vqGSFdoW2vX2Umle1d2ml) | 3:06 | 2024-09-20 |  |
+| [Seconds, Minutes, Hours](https://open.spotify.com/track/7dSu6dQ8dQikkGSq0ZEj3f) | [JAÏNDA](https://open.spotify.com/artist/66o7kKRzYuVjtmQo4acAkR) | [Seconds, Minutes, Hours](https://open.spotify.com/album/4vqGSFdoW2vX2Umle1d2ml) | 3:06 | 2024-09-20 | 2025-12-06 |
 | [Seú Days](https://open.spotify.com/track/14A3i3kN1Ch5hbMnhDgCWg) | [Siegfried Hart](https://open.spotify.com/artist/4ltScyJGi3NVTEeSj0D4xP) | [Super\-Sonic Family Vol\. 2 \- Part 1](https://open.spotify.com/album/06WzFxDa5CjgpBhwRrvyKO) | 4:25 | 2023-10-03 | 2024-06-29 |
 | [Shaquille Sama](https://open.spotify.com/track/5lBSxxvADqvpKTvbCi8ETo) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [ORCHIDEA](https://open.spotify.com/album/1x2TVjnEoSS2TBZdH2E0Bo) | 3:20 | 2022-06-16 | 2025-01-11 |
 | [Shine On Me](https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Shine On Me](https://open.spotify.com/album/4AhjruKGfgNYnmPVzl1SRa) | 3:34 | 2025-04-04 |  |
@@ -283,6 +285,7 @@
 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 | 2025-02-10 | 2025-09-02 |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2021-12-13 | 2022-12-03 |
 | [Take Me Higher](https://open.spotify.com/track/4ORp5huJChm7E6QZpA1482) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Take Me Higher](https://open.spotify.com/album/3rJ1uoo2TS4CqPE49XOzeT) | 4:04 | 2022-04-28 | 2025-03-08 |
+| [Talk About Love](https://open.spotify.com/track/4zP7IAdGX6ceJkILqkI9Fz) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 5:10 | 2025-12-05 |  |
 | [Tell Me Something](https://open.spotify.com/track/5KxO8FockGFq9A9qJqGboV) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [The Gumption](https://open.spotify.com/album/7GuUikcFr7yABSMwse3beG) | 3:04 | 2021-12-13 | 2022-05-18 |
 | [Temperature High](https://open.spotify.com/track/6oWvAsngOlg82gyQId0kTY) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Temperature High](https://open.spotify.com/album/4oMU5P0ffgoNLFn5FGCKp7) | 3:10 | 2024-04-11 | 2024-06-29 |
 | [Temperature High](https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Temperature High](https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD) | 3:10 | 2023-10-03 | 2023-10-09 |

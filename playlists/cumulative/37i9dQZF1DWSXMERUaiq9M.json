@@ -925,6 +925,36 @@
     },
     {
       "album": {
+        "name": "Bass Down Low (feat. DEV) [Go Version]",
+        "url": "https://open.spotify.com/album/1FogdMMgodRlRvaZ9WXzS8"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Avancada",
+          "url": "https://open.spotify.com/artist/2LvoCyCKPikfIOquhBqRce"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Bass Down Low (feat. DEV) [Go Version]",
+      "url": "https://open.spotify.com/track/0rmNe8Ds7tl1nfkj4eNJq8"
+    },
+    {
+      "album": {
         "name": "Bass Go",
         "url": "https://open.spotify.com/album/6r9zTqop9f3suoUtKTcXZL"
       },
@@ -2290,7 +2320,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 227612,
       "name": "Die Tonight",
       "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"

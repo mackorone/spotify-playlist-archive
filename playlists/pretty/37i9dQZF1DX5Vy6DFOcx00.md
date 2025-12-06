@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,160,750 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,160,178 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 74 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
 | 75 | [GET NAKED](https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [GET NAKED](https://open.spotify.com/album/17aMf9YdX5Pdyt0RyfU3Jh) | 2:06 |
 
-Snapshot ID: `AAAAAB7yaCIr6Z4F/VkSU7s6+XG36zER`
+Snapshot ID: `AAAAAOQm4dRGQiT4KDrJkcROY/0isckh`

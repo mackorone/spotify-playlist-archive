@@ -1551,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "Free Your Mind (Channel Tres Version)",
+        "url": "https://open.spotify.com/album/1UfhxDoBDTTZr8MXxePy73"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188435,
+      "name": "Free Your Mind (Channel Tres Version)",
+      "url": "https://open.spotify.com/track/4v2wt4SQjJpVNDmfTgEhQ7"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/2q78xap5Jv3j3Do0VIasVZ"
       },
@@ -4272,7 +4290,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-06",
       "duration_ms": 463405,
       "name": "Solitary Daze",
       "url": "https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8"
