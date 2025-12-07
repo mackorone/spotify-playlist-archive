@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,829 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,910 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 73 | [Convivium](https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Convivium](https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv) | 2:13 |
 | 74 | [Hit The Road Jack](https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Millows](https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG) | [Hit The Road Jack](https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu) | 2:06 |
 | 75 | [Hellfire](https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Hellfire](https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs) | 3:03 |
-| 76 | [All Of The Lights](https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [All Of The Lights](https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov) | 4:01 |
-| 77 | [Bel Mercy \- Techno](https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC) | [Paayne](https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO) | [Bel Mercy \(Techno\)](https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H) | 1:52 |
+| 76 | [Bel Mercy \- Techno](https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC) | [Paayne](https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO) | [Bel Mercy \(Techno\)](https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H) | 1:52 |
+| 77 | [All Of The Lights](https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [All Of The Lights](https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov) | 4:01 |
 | 78 | [Ameno \(Techno Mix\)](https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Roberto Molinaro](https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9) | [Ameno \(Techno Mix\)](https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX) | 2:30 |
 | 79 | [Don't Stop](https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Don't Stop](https://open.spotify.com/album/0PPTQ6w442u34twxct76hc) | 2:56 |
 | 80 | [Perfect \(Exceeder\) \- 1991 Remix](https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Perfect \(Exceeder\) \[1991 Remix\]](https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob) | 3:20 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 95 | [Mozart's Final Rave \(Lacrimosa\)](https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO), [Dana Vicci](https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4) | [Mozart's Final Rave \(Lacrimosa\)](https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE) | 1:45 |
 | 96 | [Hey Ya](https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI) | [Hey Ya](https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF) | 2:14 |
 | 97 | [Late At Night](https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Late At Night](https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG) | 2:36 |
-| 98 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 |
-| 99 | [Crawling](https://open.spotify.com/track/1khBnYHMABE5yXgKs5p5of) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Crawling](https://open.spotify.com/album/75lVQpORGx9xwyyPr55Aa1) | 2:56 |
+| 98 | [Crawling](https://open.spotify.com/track/1khBnYHMABE5yXgKs5p5of) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Crawling](https://open.spotify.com/album/75lVQpORGx9xwyyPr55Aa1) | 2:56 |
+| 99 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 |
 | 100 | [2 LOUD](https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [2 LOUD](https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9) | 5:03 |
 
 Snapshot ID: `AAAAACtE5p/wGl4I0K1D7IFcVIPF5UDd`

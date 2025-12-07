@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,637 songs - 4 day 3 hr 28 min
+1,642 songs - 4 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [Feeling This](https://open.spotify.com/track/26AYR77170U49cMcXB7aRV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:52 | 2025-02-04 |  |
 | [Feelings](https://open.spotify.com/track/2u6Qy7B4heQkPZVuMt3L40) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Feelings](https://open.spotify.com/album/6fvAeDQnOGcP2PQqnKAZeB) | 4:04 | 2025-11-02 |  |
 | [Fight For Your Rights](https://open.spotify.com/track/5siGfDa7QVNg7kFYQ0U9VD) | [Moune](https://open.spotify.com/artist/1tgyjeMiFgkVj1GemMhR3G) | [The Legacy Of the Sun](https://open.spotify.com/album/5pIVHjl7bwGOEzDI82JN0s) | 4:18 | 2024-03-10 |  |
+| [Filtros](https://open.spotify.com/track/2w6Vf7RMtvWOMXV6HTalL5) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Filtros](https://open.spotify.com/album/41cTBLBHm96ebgJUiVlVaA) | 2:31 | 2025-12-06 |  |
 | [Fine Dub](https://open.spotify.com/track/3OC1ZBl2IyA6A2Vn4CD7VU) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:19 | 2024-03-25 |  |
 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 | 2024-03-04 |  |
 | [Fireside](https://open.spotify.com/track/0ZDHsXc2Oe3PXKaNH38tR2) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Fireside](https://open.spotify.com/album/3hKn1c0BwHI1PzWQELe6tM) | 2:29 | 2025-11-21 |  |
@@ -1122,6 +1123,7 @@
 | [Prevail](https://open.spotify.com/track/1c8Dz73OCrbrRgfsuO9XXk) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Dangerous Discomixes](https://open.spotify.com/album/6gMtNJyVlKsMQSexWFyb4H) | 7:24 | 2024-05-01 |  |
 | [Progress no Stress](https://open.spotify.com/track/29vMfjvk0ZwgI2FNV99gPm) | [E.R.S.](https://open.spotify.com/artist/78q8u6KVkHcu9jK1RYWG82) | [Dubconscious](https://open.spotify.com/album/6KWDSRmHzwkQfCBAVZiR0b) | 6:28 | 2025-10-04 |  |
 | [PROMESA](https://open.spotify.com/track/1O2BIausmhxIvh02DGVB2F) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [GOLDENSHADE](https://open.spotify.com/album/6BRnUAnUIw3LFyX2Tvbdt5) | 4:45 | 2025-11-13 |  |
+| [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 | 2025-12-06 |  |
 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 | 2024-03-04 |  |
 | [Psalm 103](https://open.spotify.com/track/7ukxzQRe1Mc3aPH6HBaRgv) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Norma](https://open.spotify.com/artist/0m9V6VkZS0jjZXHJRjsqVC), [Kasia](https://open.spotify.com/artist/29qQXkeJ7QhNmubpz5DTJp) | [In Love with Righteousness \(2005\-2014 Best Dubs Compilation\)](https://open.spotify.com/album/0yCEH2qbynKuAzXt7x3Yzp) | 5:16 | 2024-05-01 |  |
 | [Pseudo Armacao Ltda](https://open.spotify.com/track/5iu0hf47OCX3lEPOmEmBYJ) | [DJ Zonattão](https://open.spotify.com/artist/1wWANVAA56sHvzBLKFpnyS) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 3:35 | 2025-06-16 |  |
@@ -1433,6 +1435,8 @@
 | [These Times](https://open.spotify.com/track/1MWwu668fTLh1U4EGVo9uv) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 4:35 | 2024-03-23 |  |
 | [These Times Dub](https://open.spotify.com/track/1iz16m0TTqxmbGyAws07zO) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 4:15 | 2024-03-23 |  |
 | [Thieves of Youth](https://open.spotify.com/track/6BiFI3r6jKsaasLXPBBNW0) | [No Conscription League](https://open.spotify.com/artist/4id25mOX3NU4hrTU1GdZNQ) | [ÂME DAMNÉE, KEEP YOUR HEAD HELD HIGH!](https://open.spotify.com/album/7y2gs2bBvmIEnPpadz4Fi3) | 4:13 | 2025-03-30 |  |
+| [Things Ah Get Dub](https://open.spotify.com/track/7st8TCdQWeIMejQgbaojv4) | [Makyo](https://open.spotify.com/artist/3FGI29SmDTzOZgdGtHkzku) | [Things Ah Get Tuff](https://open.spotify.com/album/17xUNLNDNREfl1W9dp4ABr) | 4:34 | 2025-12-06 |  |
+| [Things Ah Get Tuff](https://open.spotify.com/track/1ShVw6HorYpQ49D7EZtNVs) | [Makyo](https://open.spotify.com/artist/3FGI29SmDTzOZgdGtHkzku) | [Things Ah Get Tuff](https://open.spotify.com/album/17xUNLNDNREfl1W9dp4ABr) | 4:36 | 2025-12-06 |  |
 | [Think that i\`m in love](https://open.spotify.com/track/1z4jj3igYn3iZ89Ay5wTe4) | [Twirlies](https://open.spotify.com/artist/1M0XUNd420W1qZ3YPtvm4M) | [Think that i\`m in love](https://open.spotify.com/album/6EKEe0orzdFHSyxpehLaLH) | 3:06 | 2025-05-23 |  |
 | [Third Light \(Adrian Sherwood's Echoes of the Night 10" Dub Mix\)](https://open.spotify.com/track/6iETRxOF4hQGm0HGvCzsB3) | [Pitch Black](https://open.spotify.com/artist/48bwfC5uieNXZjebbWBLpm), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [Echoes of the Night \(The Adrian Sherwood Remixes\)](https://open.spotify.com/album/081Yp6jTc6IDD5KL8Qhm2x) | 4:37 | 2024-08-31 |  |
 | [This Old Shirt](https://open.spotify.com/track/3WECh5xGQa0z9IAkopM9Nb) | [K.N.I.G.H.T.](https://open.spotify.com/artist/5BSZCKPIxIESKFDLvP5ck2) | [Reforged](https://open.spotify.com/album/2SNIPn2MqbsId4i6QaIfke) | 3:16 | 2025-08-14 |  |
@@ -1617,6 +1621,7 @@
 | [Youthman Stepwise \- Bass Cut](https://open.spotify.com/track/02hy0VNXlcVT3NzM92ClBU) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 4:05 | 2024-05-01 |  |
 | [Zanzibar Dub](https://open.spotify.com/track/0T8BZWRrVfcIInO2gBi26C) | [DubRaJah](https://open.spotify.com/artist/4c5I4mGasi5eQMN0alj1Bu) | [Enkang](https://open.spotify.com/album/3BzGmTXAb0AcL6ZlcfEw5a) | 3:35 | 2024-03-25 |  |
 | [Zauberer](https://open.spotify.com/track/35gAa14ojFAoGMpB9KoE8i) | [Ragoody Orchestra](https://open.spotify.com/artist/5A9I1XyVWkXRTKv8VVePMD) | [Zauberer](https://open.spotify.com/album/5NBukRmeAsgNWAmSB83c6s) | 2:34 | 2025-06-10 |  |
+| [Zenith](https://open.spotify.com/track/6OrjMdW9uD4sDkJueoK3Jh) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 2:58 | 2025-12-06 |  |
 | [Zeno Dino Spadaccino](https://open.spotify.com/track/2FVj1fRBJ53SSJZPGHOOdJ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Zeno Dino Spadaccino](https://open.spotify.com/album/6stjLmCpYUc0JU39BEpOdV) | 2:09 | 2025-11-27 |  |
 | [Ziamla](https://open.spotify.com/track/1wgTIZaEpP6df2uQxrVkyg) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 4:41 | 2025-10-09 |  |
 | [Ziamla](https://open.spotify.com/track/0sf039XhHo3xCOJo19hhQJ) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Ziamla](https://open.spotify.com/album/6b8QcWX9LtTQ7CKwnkIsai) | 4:43 | 2025-09-18 |  |

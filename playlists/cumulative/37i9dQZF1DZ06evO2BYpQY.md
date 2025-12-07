@@ -4,7 +4,7 @@
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 58 min
+53 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [House of the Rising Sun](https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Thank You for Hearing Me](https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG) | 5:06 | 2025-10-28 |  |
 | [How About I Be Me](https://open.spotify.com/track/4UinhVSySHqF1Noln1Srs0) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I'm Not Bossy, I'm the Boss \(Deluxe Version\)](https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek) | 3:25 | 2025-10-28 | 2025-10-31 |
 | [I Believe In You](https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 5:38 | 2025-12-01 |  |
-| [I Guess the Lord Must Be in New York City](https://open.spotify.com/track/1jZnJWqzYmuCztcdefyZyQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 3:07 | 2025-10-28 |  |
+| [I Defeat](https://open.spotify.com/track/1n81f2txtdOuZA8PtwFuBr) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Nothing But Love \- The Definitive Best Of](https://open.spotify.com/album/61YNdIhnhERWIAtuFbdxGR) | 2:56 | 2025-12-07 |  |
+| [I Guess the Lord Must Be in New York City](https://open.spotify.com/track/1jZnJWqzYmuCztcdefyZyQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 3:07 | 2025-10-28 | 2025-12-07 |
 | [I Want Your \(Hands on Me\)](https://open.spotify.com/track/3FwJ6vxxKhhvet3DM042p9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 4:38 | 2025-10-28 |  |
 | [In This Heart](https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 3:10 | 2025-10-28 |  |
 | [I’ll Be Singing](https://open.spotify.com/track/3bBOiHYE2XI7lO1Eoa31zT) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Wild Mountain Thyme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Ump0HCFMKZw7249P3JMFm) | 3:36 | 2025-10-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Odhran Murphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,309 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,319 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 69 | [nothing stays the same](https://open.spotify.com/track/1G5BjlSpXHxNYrekbizoqB) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [nothing stays the same](https://open.spotify.com/album/5LwN7m2X4JWl0k3Pcpky1v) | 3:49 |
 | 70 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 |
 
-Snapshot ID: `AAAAAN5wuHbwd+vBeqxY6hoS5+2gbNrO`
+Snapshot ID: `AAAAAIq7uFqX73o5QaRscPfw6zVyy3TO`

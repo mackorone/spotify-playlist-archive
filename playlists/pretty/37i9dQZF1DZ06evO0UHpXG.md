@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,224 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,242 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 49 | [Dead Men Tell No Tales](https://open.spotify.com/track/20KE0WQNmYYYhI2U5coisY) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I) | 3:04 |
 | 50 | [Neat Neat Neat](https://open.spotify.com/track/5eYqGfKM0BudNWYUFvtJX7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M), [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h), [Killed By Deaf](https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB) | [Neat Neat Neat](https://open.spotify.com/album/1v3bSptWKdJ9jqU5J5DR0L) | 3:14 |
 
-Snapshot ID: `aTDPAAAAAADoVH3DfPaxc0Lx5pH4NrlZ`
+Snapshot ID: `aTIggAAAAABnw5O+Nf2ACso8QsRnwC2A`

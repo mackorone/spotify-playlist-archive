@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc"
+      },
+      "artists": [
+        {
+          "name": "People You Know",
+          "url": "https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270062,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/60Opr83gQPHZd410ykHScx"
+    },
+    {
+      "album": {
         "name": "Blue Hands",
         "url": "https://open.spotify.com/album/3PzzUiNtsYSDMRNhSPL1yT"
       },
@@ -2060,6 +2078,24 @@
       "duration_ms": 158545,
       "name": "The Hook",
       "url": "https://open.spotify.com/track/1d56JDKGyZatnz6RRJjHcO"
+    },
+    {
+      "album": {
+        "name": "The Hope and Desperation of the Sea",
+        "url": "https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222213,
+      "name": "The Hope and Desperation of the Sea",
+      "url": "https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo"
     },
     {
       "album": {

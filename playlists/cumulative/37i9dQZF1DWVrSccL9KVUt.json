@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Celebrating the women of all the genres of Christian & Gospel music!  Cover: Steffany Gretzinger",
+  "description": "Celebrating the women of all the genres of Christian & Gospel music!  Cover: Frannie Cash",
   "name": "Women of Faith",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 180006,
       "name": "24/7",
       "url": "https://open.spotify.com/track/4HR5BN6hc4AmcPO1NK0fgK"
+    },
+    {
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/2tWWKk3Vs9OtcZr4atIKxo"
+      },
+      "artists": [
+        {
+          "name": "Amy Maria",
+          "url": "https://open.spotify.com/artist/5ByPRIYwTbSZJCcsdghKEb"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184237,
+      "name": "25",
+      "url": "https://open.spotify.com/track/3HMAeqpwBIoQ9KN4SMBDP4"
     },
     {
       "album": {
@@ -186,7 +204,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 393476,
       "name": "Adonai",
       "url": "https://open.spotify.com/track/5XTxPTFLjv7WPyWA8ZWRA7"
@@ -266,6 +284,28 @@
       "duration_ms": 106443,
       "name": "all in time",
       "url": "https://open.spotify.com/track/5Zq4A5cMpv6LypEzIESfvV"
+    },
+    {
+      "album": {
+        "name": "All Joy",
+        "url": "https://open.spotify.com/album/4eAk5OORE33Bwpf5EpjNnT"
+      },
+      "artists": [
+        {
+          "name": "Natalie Layne",
+          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
+        },
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166172,
+      "name": "All Joy",
+      "url": "https://open.spotify.com/track/0J0tBCYZFiSkOADYJDZIuO"
     },
     {
       "album": {
@@ -360,6 +400,42 @@
       "duration_ms": 361120,
       "name": "Always Been You (with Anike) - Live",
       "url": "https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM"
+    },
+    {
+      "album": {
+        "name": "Always Mine",
+        "url": "https://open.spotify.com/album/5RaiSLU3oTyhaX3FZsRZhI"
+      },
+      "artists": [
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197308,
+      "name": "Always Mine",
+      "url": "https://open.spotify.com/track/5OCITyPbF7kCasussMyqKM"
+    },
+    {
+      "album": {
+        "name": "the unknown",
+        "url": "https://open.spotify.com/album/0mhF2Ygr1GQE7JrmkfUrZI"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178593,
+      "name": "always will be - acoustic",
+      "url": "https://open.spotify.com/track/4L1vwX3sseUZAsyPieVksK"
     },
     {
       "album": {
@@ -701,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Beginning Of Your Grace",
+        "url": "https://open.spotify.com/album/6eOMEfJJrXeAGcM7DHBsbm"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238971,
+      "name": "Beginning Of Your Grace",
+      "url": "https://open.spotify.com/track/6XzzANAyd5iEeyGcKEkGZ1"
+    },
+    {
+      "album": {
         "name": "Believe For It (feat. Lauren Daigle)",
         "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
       },
@@ -756,7 +850,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 178816,
       "name": "Believe In Jesus",
       "url": "https://open.spotify.com/track/5RfgNwME6tabAIZoGYmE1N"
@@ -792,10 +886,50 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 190786,
       "name": "Better Yet",
       "url": "https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE"
+    },
+    {
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0vnGzRXln9z7XcR3aZWAAw"
+      },
+      "artists": [
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        },
+        {
+          "name": "Stacie Orrico",
+          "url": "https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276721,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/1bKaY9NsqoMlVopgtV0aCY"
+    },
+    {
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/4xryD1sCenNXeluGoEgbEz"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189537,
+      "name": "BREAKING NEWS",
+      "url": "https://open.spotify.com/track/2iOcI8vtFaBPlBchGZlhKC"
     },
     {
       "album": {
@@ -998,7 +1132,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 184960,
       "name": "Church Clothes",
       "url": "https://open.spotify.com/track/2GyzxYTYOcOn2gABrdIUmU"
@@ -1229,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "deep down low",
+        "url": "https://open.spotify.com/album/22EEqBQwoSjXsikRmmClXw"
+      },
+      "artists": [
+        {
+          "name": "Abby Siler",
+          "url": "https://open.spotify.com/artist/4JmRxJQC4R65Po60AERzGG"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169496,
+      "name": "deep down low",
+      "url": "https://open.spotify.com/track/5CcF0JXbcpmJCEqOpC9CtI"
+    },
+    {
+      "album": {
         "name": "Own It",
         "url": "https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0"
       },
@@ -1306,7 +1458,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 210785,
       "name": "Desperate (with Lauren Daigle)",
       "url": "https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI"
@@ -1484,6 +1636,24 @@
       "duration_ms": 176000,
       "name": "Ease Your Mind",
       "url": "https://open.spotify.com/track/6ITMqdUBqzCtPX5mhiOkhb"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/37gSzSxrOS4iWxhaKkzN4Y"
+      },
+      "artists": [
+        {
+          "name": "C\u00e8Jae",
+          "url": "https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143709,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/01Jsw5wBm2iMFhYFezlOg5"
     },
     {
       "album": {
@@ -1888,7 +2058,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 255428,
       "name": "Genesis - Studio Session",
       "url": "https://open.spotify.com/track/4VqkXU7Z0g1uDMH4BGLosu"
@@ -1946,7 +2116,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 226758,
       "name": "Give Us Clean Hands",
       "url": "https://open.spotify.com/track/4hTd0w8f0YXDcFJxOjQEVV"
@@ -2087,6 +2257,42 @@
     },
     {
       "album": {
+        "name": "Almighty",
+        "url": "https://open.spotify.com/album/7ifK9JuKd1DOepCcPW7MVy"
+      },
+      "artists": [
+        {
+          "name": "Maddi Jane",
+          "url": "https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175488,
+      "name": "Good Plans",
+      "url": "https://open.spotify.com/track/7kuOL4VysvTXtoPnq6FASL"
+    },
+    {
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/4RLMo2rEWRHFyTYsDmMDjB"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242365,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/0HygZvNlBcHgLfqQxlwdcN"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/7fEzJc58tqO4lefMZB3aH9"
       },
@@ -2214,7 +2420,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 158571,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1bxY6erFDE2a6pIzp0sSNj"
@@ -2401,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/7lDIdFyF3lcX0OYKfJ2G4j"
+      },
+      "artists": [
+        {
+          "name": "Megan Woods",
+          "url": "https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181864,
+      "name": "History",
+      "url": "https://open.spotify.com/track/1K4mkirXUaZ0cT75JFVMty"
+    },
+    {
+      "album": {
         "name": "Hold On To Me",
         "url": "https://open.spotify.com/album/3nG6F5yVPJubWNP5dp24b2"
       },
@@ -2416,6 +2640,24 @@
       "duration_ms": 185346,
       "name": "Hold On To Me",
       "url": "https://open.spotify.com/track/5tnRnYnQIm9iJCraZGpOJp"
+    },
+    {
+      "album": {
+        "name": "Holy Ground",
+        "url": "https://open.spotify.com/album/61KllsNNfR7b6N4XyKDeBS"
+      },
+      "artists": [
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328077,
+      "name": "Holy Ground",
+      "url": "https://open.spotify.com/track/5wZNss9iqUHm8ZKt1IlIrO"
     },
     {
       "album": {
@@ -2676,7 +2918,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 214054,
       "name": "I Believe You",
       "url": "https://open.spotify.com/track/0sJsvjGg4AliQFE7JFC0Cs"
@@ -2856,7 +3098,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 179340,
       "name": "if it aint you",
       "url": "https://open.spotify.com/track/4rficSRdnRON5sVJSeTsJX"
@@ -3011,6 +3253,24 @@
     },
     {
       "album": {
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/6SUTVZzodxA2aRcAnMwfY9"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148644,
+      "name": "Intentional",
+      "url": "https://open.spotify.com/track/1xGC1OwWQ74z7wHth9BQ0Z"
+    },
+    {
+      "album": {
         "name": "Into the Sea (It's Gonna Be Ok)",
         "url": "https://open.spotify.com/album/73dd5jycwxSTN1XZ1dZQfd"
       },
@@ -3116,7 +3376,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 203065,
       "name": "Isn't It Weird",
       "url": "https://open.spotify.com/track/66q0zItROuIGWNEbVdC2kc"
@@ -3228,6 +3488,24 @@
       "duration_ms": 207321,
       "name": "Jesus Only You - Alternate Version",
       "url": "https://open.spotify.com/track/4JZ3skUPbW9QqCBPmbqvrT"
+    },
+    {
+      "album": {
+        "name": "Jesus, You\u2019re Enough",
+        "url": "https://open.spotify.com/album/0mLZ66xcqSZribygKwuehO"
+      },
+      "artists": [
+        {
+          "name": "Anna Childs",
+          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Jesus, You\u2019re Enough",
+      "url": "https://open.spotify.com/track/3mAMyzElL4P5QQ2UTU1xAK"
     },
     {
       "album": {
@@ -3380,7 +3658,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 180829,
       "name": "Koolaid",
       "url": "https://open.spotify.com/track/2VT2WRmWPN4Be318KrdFDo"
@@ -3459,6 +3737,24 @@
     },
     {
       "album": {
+        "name": "Songs from the Valley",
+        "url": "https://open.spotify.com/album/0QjeghvE34mmEBpby2n4Lf"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226064,
+      "name": "Let's Hope Again",
+      "url": "https://open.spotify.com/track/6hHuoltYpCPEbwerV3ROEV"
+    },
+    {
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/6eE8RfJy2M4CvnzIoSmyJl"
       },
@@ -3488,7 +3784,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 212462,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/3vD7RwSB9qjbnGn5mAcdjn"
@@ -3625,6 +3921,42 @@
     },
     {
       "album": {
+        "name": "Rediscovery",
+        "url": "https://open.spotify.com/album/5WKbd9lbctdAXcjwK2X4PV"
+      },
+      "artists": [
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297231,
+      "name": "Loved By Love",
+      "url": "https://open.spotify.com/track/2fGaAHVN3P45yLBLAjd3mi"
+    },
+    {
+      "album": {
+        "name": "Mad for Me",
+        "url": "https://open.spotify.com/album/2VaCUhVcb71igNGAVywnAa"
+      },
+      "artists": [
+        {
+          "name": "McKenna Faith",
+          "url": "https://open.spotify.com/artist/2J5ZG3xD6VTCBOXnpn8r2B"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210027,
+      "name": "Mad for Me",
+      "url": "https://open.spotify.com/track/0jVKGpZTr7AGhjxNH3OoZt"
+    },
+    {
+      "album": {
         "name": "Make Room",
         "url": "https://open.spotify.com/album/4Kb7uvu8D3kfYK71Hfe2if"
       },
@@ -3692,6 +4024,42 @@
       "duration_ms": 366706,
       "name": "Maker of the Moon",
       "url": "https://open.spotify.com/track/6tP5tprDmkaWDebA8Xt1Tl"
+    },
+    {
+      "album": {
+        "name": "Life In Me",
+        "url": "https://open.spotify.com/album/7FIfXj0dEP5zf4Kl7KwcyC"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266573,
+      "name": "Meet Me In The Valley",
+      "url": "https://open.spotify.com/track/4DEidL01X20LpYZI288hG2"
+    },
+    {
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/14E7damoXLAmUr7To872fD"
+      },
+      "artists": [
+        {
+          "name": "Aura\u00e8",
+          "url": "https://open.spotify.com/artist/3tZVXVqt6MP5k80gT723pM"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268656,
+      "name": "Midnight Blues - Reimagined",
+      "url": "https://open.spotify.com/track/7nQZ047lLiiTWmXeZqz38R"
     },
     {
       "album": {
@@ -3962,7 +4330,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 226265,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/2DSQa62M7ek9NGMrzmniaU"
@@ -4063,6 +4431,24 @@
     },
     {
       "album": {
+        "name": "One Thing He Wouldn't Do",
+        "url": "https://open.spotify.com/album/24ZkWSBYktXLgQcvGfphIA"
+      },
+      "artists": [
+        {
+          "name": "Holly Brand",
+          "url": "https://open.spotify.com/artist/7g6SnEgo46bultqgcRI5FI"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208681,
+      "name": "One Thing He Wouldn't Do",
+      "url": "https://open.spotify.com/track/1XkMo7w7CfptNggLuJEoq9"
+    },
+    {
+      "album": {
         "name": "Overcomer",
         "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
       },
@@ -4135,6 +4521,24 @@
     },
     {
       "album": {
+        "name": "Pass Me Not",
+        "url": "https://open.spotify.com/album/7rWbJwsjZx6TgoPqyuUwTw"
+      },
+      "artists": [
+        {
+          "name": "MAYIA WARREN",
+          "url": "https://open.spotify.com/artist/6jwSYdglftKLb8vhvAfNag"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233790,
+      "name": "Pass Me Not",
+      "url": "https://open.spotify.com/track/7Jh5uEB1ehvXU1cTec3OoL"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/76MAve42IxCPmmr6FGkqfQ"
       },
@@ -4164,7 +4568,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 92759,
       "name": "Peace",
       "url": "https://open.spotify.com/track/5OlA8wCfwEyKh3ZZdCUjxf"
@@ -4208,6 +4612,42 @@
       "duration_ms": 204263,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3fxejBCZDRMhp1Er5B7gtm"
+    },
+    {
+      "album": {
+        "name": "Poetic",
+        "url": "https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8"
+      },
+      "artists": [
+        {
+          "name": "The Band JAREN",
+          "url": "https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228677,
+      "name": "Poetic",
+      "url": "https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b"
+    },
+    {
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/0aBPFsaH4kjan3UEbhYODS"
+      },
+      "artists": [
+        {
+          "name": "Alexis Arai",
+          "url": "https://open.spotify.com/artist/1R4eSpkZ0vh2zRI3I4E6Fw"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224281,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/68D9e3zXLDoCrbf2ihuM7g"
     },
     {
       "album": {
@@ -4576,7 +5016,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 250402,
       "name": "Safe With You",
       "url": "https://open.spotify.com/track/6FKeQwZLY1Y5MgFRRSNCC3"
@@ -4612,7 +5052,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 164861,
       "name": "Salt",
       "url": "https://open.spotify.com/track/1viKqfuDYNpe9taeHCvipp"
@@ -4666,7 +5106,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 158048,
       "name": "Scared",
       "url": "https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6"
@@ -4826,6 +5266,24 @@
       "duration_ms": 208291,
       "name": "Simple Phrase",
       "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
+    },
+    {
+      "album": {
+        "name": "sit & wait",
+        "url": "https://open.spotify.com/album/5NvQjf67ig4NzqDnJRM4Qu"
+      },
+      "artists": [
+        {
+          "name": "Tianna",
+          "url": "https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238110,
+      "name": "sit & wait",
+      "url": "https://open.spotify.com/track/0UbOXTutwkmO1hYUYpfjqO"
     },
     {
       "album": {
@@ -5042,7 +5500,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 189527,
       "name": "STAND STRONG",
       "url": "https://open.spotify.com/track/5CIWMOtUlrW9XWddgClI4U"
@@ -5060,7 +5518,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 272910,
       "name": "Stay",
       "url": "https://open.spotify.com/track/20aFBBGTitrfRR2IcKKOY8"
@@ -5078,7 +5536,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 180843,
       "name": "STEADY",
       "url": "https://open.spotify.com/track/6pBnwzuBSzIN9AaOaop5aa"
@@ -5176,7 +5634,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 217216,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/3ZNHrPveoYFrzPK2VYjbqn"
@@ -5238,6 +5696,24 @@
       "duration_ms": 241828,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/29JYehak0dkokrxhsLVOeN"
+    },
+    {
+      "album": {
+        "name": "Take Up Your Space Freestyle",
+        "url": "https://open.spotify.com/album/6hgot9YErAOZS35ksSVpD9"
+      },
+      "artists": [
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282357,
+      "name": "Take Up Your Space Freestyle",
+      "url": "https://open.spotify.com/track/0ZqaPKOhVDMxiLAQY6bRxe"
     },
     {
       "album": {
@@ -5310,7 +5786,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 218412,
       "name": "that's my life",
       "url": "https://open.spotify.com/track/3RzeND9jTPsTDv8wiHIDfm"
@@ -5376,7 +5852,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 232297,
       "name": "The Long Way",
       "url": "https://open.spotify.com/track/5YfH2ofmhBD8U0ndVAId6n"
@@ -5549,6 +6025,24 @@
     },
     {
       "album": {
+        "name": "through heaven's eyes",
+        "url": "https://open.spotify.com/album/67eniAirDESM0krEi6swKz"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169317,
+      "name": "through heaven's eyes",
+      "url": "https://open.spotify.com/track/2ADZPreOBRYCSa0RtoEChZ"
+    },
+    {
+      "album": {
         "name": "Love Remains",
         "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
@@ -5640,6 +6134,24 @@
       "duration_ms": 359509,
       "name": "Trials of Many Kinds",
       "url": "https://open.spotify.com/track/5hYuDjuMy47jzht5ATyrBj"
+    },
+    {
+      "album": {
+        "name": "Paint The Sky",
+        "url": "https://open.spotify.com/album/1cEg7qO1LhE8Uap9Recnil"
+      },
+      "artists": [
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/6Jdt3PWi3tYqJjFSPigfLn"
     },
     {
       "album": {
@@ -5778,7 +6290,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 234352,
       "name": "Wade",
       "url": "https://open.spotify.com/track/0nLL5geExfqitGFZTgh3kD"
@@ -6050,7 +6562,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 216000,
       "name": "What If?",
       "url": "https://open.spotify.com/track/4gLhQVev1YSv62UnGkJRR0"
@@ -6090,6 +6602,42 @@
       "duration_ms": 277000,
       "name": "Where Can I Go - Psalm 139",
       "url": "https://open.spotify.com/track/759M03NuO9GCcWNRbZlWOL"
+    },
+    {
+      "album": {
+        "name": "WHERE I BELONG",
+        "url": "https://open.spotify.com/album/3ItQqQutu4fmKZdvCjmoSI"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188303,
+      "name": "WHERE I BELONG",
+      "url": "https://open.spotify.com/track/4i4IC1QpiTAfQEdM3Mmydf"
+    },
+    {
+      "album": {
+        "name": "Where the Warfare Ends",
+        "url": "https://open.spotify.com/album/53Bpez88XLt8D0ifczO654"
+      },
+      "artists": [
+        {
+          "name": "Amanda Janson",
+          "url": "https://open.spotify.com/artist/1hmExKU3SJa9jqgv2KKCuN"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291590,
+      "name": "Where the Warfare Ends",
+      "url": "https://open.spotify.com/track/76uuVO1zARyQedDmhJJfdw"
     },
     {
       "album": {
@@ -6176,10 +6724,28 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 221425,
       "name": "WHY SHOULD I WORRY (Remind Me Version)",
       "url": "https://open.spotify.com/track/7nWlsNm5x9tBvt9oQlpKug"
+    },
+    {
+      "album": {
+        "name": "why why why",
+        "url": "https://open.spotify.com/album/1WPv7AqB9oxxwnNEiDaNBN"
+      },
+      "artists": [
+        {
+          "name": "Allison Eide",
+          "url": "https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "why why why",
+      "url": "https://open.spotify.com/track/2G0xJMt5vfPh3qG95HtiQF"
     },
     {
       "album": {
@@ -6241,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "Will You Let Me",
+        "url": "https://open.spotify.com/album/2gtI3hI7XHNxZEw7FcApnA"
+      },
+      "artists": [
+        {
+          "name": "Kylie Odetta",
+          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281249,
+      "name": "Will You Let Me",
+      "url": "https://open.spotify.com/track/78I0X3v4gdZvFxn7hVTFlI"
+    },
+    {
+      "album": {
         "name": "His World",
         "url": "https://open.spotify.com/album/0uenSlwqsbQEN4QqDN4qvq"
       },
@@ -6252,7 +6836,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 267282,
       "name": "Wings",
       "url": "https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC"
@@ -6389,6 +6973,24 @@
     },
     {
       "album": {
+        "name": "You Can't Take My Song",
+        "url": "https://open.spotify.com/album/2JCOYf1pNuxtUwtXio4TMA"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179939,
+      "name": "You Can't Take My Song",
+      "url": "https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7"
+    },
+    {
+      "album": {
         "name": "YOU CARE FOR ME",
         "url": "https://open.spotify.com/album/2lorzyeUZo8i1UJa8iBmsV"
       },
@@ -6516,6 +7118,24 @@
       "duration_ms": 361413,
       "name": "Your Great Name",
       "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
+    },
+    {
+      "album": {
+        "name": "OTW",
+        "url": "https://open.spotify.com/album/6J0mKjH3sp31CvryORtQcK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182569,
+      "name": "Your Will",
+      "url": "https://open.spotify.com/track/0iWOdu95ZS9X5o5Bwnavjy"
     },
     {
       "album": {

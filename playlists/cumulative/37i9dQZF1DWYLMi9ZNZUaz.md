@@ -2,7 +2,7 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: YC
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
 322 songs - 18 hr 51 min
 
@@ -163,7 +163,7 @@
 | [Lướt Trên Con Xe \(feat\. Blacka\)](https://open.spotify.com/track/277NJkEbAQPmSAsm2ZTz46) | [Cường Seven](https://open.spotify.com/artist/6uPQqRyJMiXn3lHCh0oJIt), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Lướt](https://open.spotify.com/album/4rVaK1jtsm2vqueVG8um6u) | 3:12 | 2024-11-21 | 2024-11-29 |
 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT TAP RAP](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 | 2023-10-19 |  |
 | [Lối Nhỏ](https://open.spotify.com/track/25edeHHueINMguqu9emCyV) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Phương Anh Đào](https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav) | [Lối Nhỏ](https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N) | 4:12 | 2023-10-19 | 2024-04-19 |
-| [Lối Sống](https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:10 | 2025-04-01 | 2025-10-30 |
+| [Lối Sống](https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:10 | 2025-04-01 |  |
 | [Lớn Rồi](https://open.spotify.com/track/0FjmyK9Z2ymS5HbUvrdeL5) | [DSK](https://open.spotify.com/artist/0KqWWEbDa21psQwESpf3pD) | [Lớn Rồi](https://open.spotify.com/album/1aV6gmvYoIWNjzS7yOo4mG) | 3:21 | 2024-03-19 | 2024-05-08 |
 | [Lựa Chọn Của Em](https://open.spotify.com/track/5S1qhBgTprx5CFkLmmU95i) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm), [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [Đậu Tất Đạt](https://open.spotify.com/artist/37yCp3F1wG0gNrnaLkIdDV) | [Lựa Chọn Của Em](https://open.spotify.com/album/2v1ZACaUYprXiqCOU7sEng) | 4:07 | 2024-06-10 | 2024-11-08 |
 | [magick \- feat\. Táo](https://open.spotify.com/track/1RqTiIkl4dTitoanZYEx9u) | [RHYME SO](https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [magick \(feat\. Táo\)](https://open.spotify.com/album/38ZKbjXwT4eOYd7KU87akr) | 3:37 | 2023-10-29 | 2023-10-31 |
@@ -254,7 +254,7 @@
 | [Tan ra 融](https://open.spotify.com/track/3cGNLGsGBflA9AbMjAVwZ1) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [SGN\-TPE](https://open.spotify.com/album/4ZiPBd4PpdNsjQdJrXf8Uz) | 2:56 | 2025-06-12 | 2025-06-17 |
 | [Tay To](https://open.spotify.com/track/41aMYNen9G7uUbqLfV65cF) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Phongkhin](https://open.spotify.com/artist/7qHgn5ADOzPBlcWcXfM6iA) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 2:45 | 2023-10-19 | 2023-12-25 |
 | [Tell the kids i love them \(ft\. Shiki\)](https://open.spotify.com/track/2UtFCtiSoc30GJ4MUcHDKr) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:44 | 2023-10-19 | 2024-07-23 |
-| [TETVOVEN](https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [TETVOVEN](https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc) | 3:17 | 2023-12-04 |  |
+| [TETVOVEN](https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [TETVOVEN](https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc) | 3:17 | 2023-12-04 | 2025-12-07 |
 | [Thanh Xuân](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuân](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 | 2023-10-19 | 2024-10-04 |
 | [Thanh Âm Da Vàng](https://open.spotify.com/track/3YW5gvoQ2H77ftMq1ME2pu) | [Lãng](https://open.spotify.com/artist/39HlpQmjGAer2XWNh0Ro83) | [Thanh Âm Da Vàng](https://open.spotify.com/album/6yxagIj4s5Ic2grT8J2MbM) | 3:00 | 2025-05-13 | 2025-05-16 |
 | [thap trap tu do \- remix](https://open.spotify.com/track/4IjFRncpS1t5cXKDzs68Iy) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [thap trap tu do \(remix\)](https://open.spotify.com/album/4ptD1JJgSXmsTtiRlv4JQu) | 2:29 | 2025-04-17 | 2025-05-10 |

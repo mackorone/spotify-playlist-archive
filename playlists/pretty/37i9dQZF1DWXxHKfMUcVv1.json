@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 125491,
+  "num_followers": 125509,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,30 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Ac\u00fastico en Paraguay (En Vivo)",
+        "url": "https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV"
+      },
+      "artists": [
+        {
+          "name": "Diego R\u00edos",
+          "url": "https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI"
+        },
+        {
+          "name": "So pra Voce",
+          "url": "https://open.spotify.com/artist/6jxVE6pphzdM6pRIaxKr2y"
+        },
+        {
+          "name": "Talento De Barrio",
+          "url": "https://open.spotify.com/artist/4475BmzzuqYgDqvJZCySZ3"
+        }
+      ],
+      "duration_ms": 248164,
+      "name": "Si T\u00fa Te Vas - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/4OTFNviyg8qHuASnJX0O9S"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Soy Latino",
         "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
       },
@@ -643,30 +667,6 @@
       "duration_ms": 189658,
       "name": "Soy Latino",
       "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Ac\u00fastico en Paraguay (En Vivo)",
-        "url": "https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV"
-      },
-      "artists": [
-        {
-          "name": "Diego R\u00edos",
-          "url": "https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI"
-        },
-        {
-          "name": "So pra Voce",
-          "url": "https://open.spotify.com/artist/6jxVE6pphzdM6pRIaxKr2y"
-        },
-        {
-          "name": "Talento De Barrio",
-          "url": "https://open.spotify.com/artist/4475BmzzuqYgDqvJZCySZ3"
-        }
-      ],
-      "duration_ms": 248164,
-      "name": "Si T\u00fa Te Vas - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/4OTFNviyg8qHuASnJX0O9S"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Estamos Solos (Nderehe'y)",
+        "url": "https://open.spotify.com/album/1KMbrF7GXhwWcslv5BgjbH"
+      },
+      "artists": [
+        {
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
+        }
+      ],
+      "duration_ms": 174461,
+      "name": "Estamos Solos (Nderehe'y)",
+      "url": "https://open.spotify.com/track/7KTWO0fIqXdsX1XDtUIzWu"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "D\u00f3nde est\u00e1 el amor?",
         "url": "https://open.spotify.com/album/6Va6OpLeZmmzbBjV1CgtWE"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 194022,
       "name": "D\u00f3nde est\u00e1 el amor?",
       "url": "https://open.spotify.com/track/0vc4k8TRSYEggDDB2RVUmu"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Estamos Solos (Nderehe'y)",
-        "url": "https://open.spotify.com/album/1KMbrF7GXhwWcslv5BgjbH"
-      },
-      "artists": [
-        {
-          "name": "Yamila Ruiz",
-          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
-        }
-      ],
-      "duration_ms": 174461,
-      "name": "Estamos Solos (Nderehe'y)",
-      "url": "https://open.spotify.com/track/7KTWO0fIqXdsX1XDtUIzWu"
     },
     {
       "added_at": "2025-03-14 20:46:39",

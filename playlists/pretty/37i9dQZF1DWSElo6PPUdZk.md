@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,162 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,166 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dilbar](https://open.spotify.com/track/0wuyoeqWCA0CEyGb4FprEV) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Dilbar](https://open.spotify.com/album/5Inem7yitJIVsgHDPDvny9) | 2:34 |
+| 1 | [Dilbar](https://open.spotify.com/track/0wuyoeqWCA0CEyGb4FprEV) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Dilbar](https://open.spotify.com/album/5Inem7yitJIVsgHDPDvny9) | 2:34 |
 | 2 | [Mera Mahi](https://open.spotify.com/track/445SKNj7J0NZC5tp2in8Cc) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Mera Mahi](https://open.spotify.com/album/4Lavw2Qao6SX3DqcPJRGXs) | 2:59 |
 | 3 | [Pols](https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Pols](https://open.spotify.com/album/0dKep1k5qQFGZnW7ZYEXmD) | 2:00 |
 | 4 | [Meinu Heere Heere Akhe](https://open.spotify.com/track/1r49RrZ4aiv4lNMghpkxrf) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Meinu Heere Heere Akhe](https://open.spotify.com/album/4Xei2VENUM83NkxdPGrGpN) | 2:45 |

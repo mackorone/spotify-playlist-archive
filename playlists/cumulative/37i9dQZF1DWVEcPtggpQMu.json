@@ -22373,20 +22373,24 @@
     },
     {
       "album": {
-        "name": "WHAT!",
+        "name": "WHAT! (WITH SHANNON)",
         "url": "https://open.spotify.com/album/1TH98ynoGEm3YKSMtpjc6x"
       },
       "artists": [
         {
           "name": "The Big Hash",
           "url": "https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL"
+        },
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0cpRAqLFfaS1wgflVWtd4S"
         }
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 232904,
-      "name": "WHAT!",
+      "name": "WHAT! (WITH SHANNON)",
       "url": "https://open.spotify.com/track/1XFv0iwOukqnhnobIUpWMc"
     },
     {

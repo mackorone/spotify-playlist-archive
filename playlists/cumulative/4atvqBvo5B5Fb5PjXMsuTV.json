@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 Dec 23:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Dec 04:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -548,6 +548,24 @@
       "duration_ms": 194285,
       "name": "1000 de parai",
       "url": "https://open.spotify.com/track/71XZRfa9KwmwnUm0sOmOXv"
+    },
+    {
+      "album": {
+        "name": "100days100nights",
+        "url": "https://open.spotify.com/album/0j4nMyhDhscxWa0VrgUHEN"
+      },
+      "artists": [
+        {
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108445,
+      "name": "100days100nights",
+      "url": "https://open.spotify.com/track/421kwayIuwfQWizPPST9Jx"
     },
     {
       "album": {
@@ -12865,6 +12883,24 @@
     },
     {
       "album": {
+        "name": "BODY THE PISTOL",
+        "url": "https://open.spotify.com/album/3eFLCWIeCjBWjDH5Ik5hBG"
+      },
+      "artists": [
+        {
+          "name": "femtanyl",
+          "url": "https://open.spotify.com/artist/53e9n1LucuH3guikmtv180"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158832,
+      "name": "BODY THE PISTOL",
+      "url": "https://open.spotify.com/track/6vIJIAUr2OplD5uYavcfzB"
+    },
+    {
+      "album": {
         "name": "Bogota",
         "url": "https://open.spotify.com/album/1rvZibf8hsAYjaaGdGP82A"
       },
@@ -16536,7 +16572,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 197137,
       "name": "Car Crash Baby",
       "url": "https://open.spotify.com/track/5ZrmgtEvaTrMhWbvzmq4UD"
@@ -23870,7 +23906,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 90461,
       "name": "DAYTONA",
       "url": "https://open.spotify.com/track/5gR5qIYrjbfzJBNuFXknz3"
@@ -38737,6 +38773,24 @@
     },
     {
       "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/3ISicmxJuaKEZEbKDJuOdo"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191803,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/0y9S3dw1MBzHqmTpMTTd0M"
+    },
+    {
+      "album": {
         "name": "Glluu",
         "url": "https://open.spotify.com/album/7synljnrjovVoHz2eIGtzj"
       },
@@ -39488,7 +39542,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 192413,
       "name": "Gold Unbalance",
       "url": "https://open.spotify.com/track/5QNhLQXwvqwC97oRSqsIae"
@@ -61395,6 +61449,24 @@
     },
     {
       "album": {
+        "name": "MARCH",
+        "url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "MARCH",
+      "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
+    },
+    {
+      "album": {
         "name": "March 19th",
         "url": "https://open.spotify.com/album/7r0YjlBopP32qw37Gz0Zen"
       },
@@ -80024,7 +80096,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 182221,
       "name": "Rift",
       "url": "https://open.spotify.com/track/5S23vBGKmUzr3HSaHQxbzW"

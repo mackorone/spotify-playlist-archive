@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Dan + Shay",
-  "num_followers": 135287,
+  "num_followers": 135294,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,18 @@
     {
       "added_at": "2025-12-05 05:00:19",
       "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+        "name": "Blinding Lights (Country Version)",
+        "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
         }
       ],
-      "duration_ms": 296866,
-      "name": "Believe (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/3Nh5mzU8htHws2Wi7j2X4Z"
+      "duration_ms": 186008,
+      "name": "Blinding Lights - Country Version",
+      "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
     },
     {
       "added_at": "2025-12-05 05:00:19",
@@ -903,18 +899,22 @@
     {
       "added_at": "2025-12-05 05:00:19",
       "album": {
-        "name": "Blinding Lights (Country Version)",
-        "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
       "artists": [
         {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 186008,
-      "name": "Blinding Lights - Country Version",
-      "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
+      "duration_ms": 296866,
+      "name": "Believe (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Nh5mzU8htHws2Wi7j2X4Z"
     },
     {
       "added_at": "2025-12-05 05:00:19",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-12-05 05:00:19",
       "album": {
-        "name": "When A Man Loves A Woman",
-        "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 197885,
-      "name": "When A Man Loves A Woman",
-      "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
-    },
-    {
-      "added_at": "2025-12-05 05:00:19",
-      "album": {
         "name": "American Heartbreak",
         "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2025-12-05 05:00:19",
       "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+        "name": "When A Man Loves A Woman",
+        "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 241280,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
+      "duration_ms": 197885,
+      "name": "When A Man Loves A Woman",
+      "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
     },
     {
       "added_at": "2025-12-05 05:00:19",
@@ -1011,6 +995,22 @@
       "duration_ms": 231750,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo"
+    },
+    {
+      "added_at": "2025-12-05 05:00:19",
+      "album": {
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
     },
     {
       "added_at": "2025-12-05 05:00:19",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-12-05 05:00:19",
       "album": {
-        "name": "Palace (Cover) / Diane",
-        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 229496,
-      "name": "Palace - Cover",
-      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
-    },
-    {
-      "added_at": "2025-12-05 05:00:19",
-      "album": {
         "name": "Something Borrowed, Something New: A Tribute to John Anderson",
         "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 230453,
       "name": "Home",
       "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
+    },
+    {
+      "added_at": "2025-12-05 05:00:19",
+      "album": {
+        "name": "Palace (Cover) / Diane",
+        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 229496,
+      "name": "Palace - Cover",
+      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
     },
     {
       "added_at": "2025-12-05 05:00:19",

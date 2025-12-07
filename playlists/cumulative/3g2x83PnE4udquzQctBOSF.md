@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-421 songs - 1 day 1 hr 4 min
+422 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Calling Through The Fire](https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Safety First](https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp) | 3:05 | 2023-06-30 | 2024-08-17 |
 | [Can't Be Me](https://open.spotify.com/track/1kqmG7Yohi5Kce049vnYZe) | [Nick Raff](https://open.spotify.com/artist/5RKz5nG67MROnbKyfbIQYF) | [Can't Be Me](https://open.spotify.com/album/1A4WZFYoCbyi0AX31CGX0P) | 3:15 | 2023-09-24 | 2023-12-14 |
 | [Catwalk](https://open.spotify.com/track/5gaVKMc6nadZFqZEf59guL) | [Kaishi](https://open.spotify.com/artist/6fasy0xC15SV7Z5yWnJtZI) | [Catwalk](https://open.spotify.com/album/2k9LatThz4DjlduXaQ2XOk) | 3:04 | 2023-08-20 | 2023-09-26 |
+| [Cerco il Nirvana](https://open.spotify.com/track/56A2pT45d2gKQpDrk7B2yH) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Cerco il Nirvana](https://open.spotify.com/album/44ToiI91J1uUmLefDmSh6T) | 3:20 | 2025-12-06 |  |
 | [Chama](https://open.spotify.com/track/0VupF0wdDqSvRlwe0JLNjZ) | [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q), [Chaval \(BR\)](https://open.spotify.com/artist/1w76OkGmAQl3aJSkZcRe5F) | [Chama](https://open.spotify.com/album/0fRcHYc1JqjTJhg90GcGW8) | 3:30 | 2023-08-13 | 2023-08-28 |
 | [Chiki Ta](https://open.spotify.com/track/6i5KdoiRrN290bPq6IQkIa) | [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Chiki Ta](https://open.spotify.com/album/4gozxbu9QuB6AAMW4CMv43) | 1:54 | 2023-04-30 | 2023-05-23 |
 | [Clappa](https://open.spotify.com/track/7xg64Eg2avjGw44TmtI4GQ) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Naughty](https://open.spotify.com/album/55eFetaEDWddPSu31yr84q) | 3:00 | 2023-04-30 | 2023-05-30 |

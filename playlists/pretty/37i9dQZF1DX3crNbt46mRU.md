@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Argyle, Ozuna,  Jul, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,263 likes - 103 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,264 likes - 103 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 57 | [SCHAUFENSTER](https://open.spotify.com/track/2aEm7tPxBCAWZb1ThM3EL9) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [SCHAUFENSTER](https://open.spotify.com/album/60ShzvcI3O4wGWgq3aPEHS) | 2:16 |
 | 58 | [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 |
 | 59 | [Memories Never Go](https://open.spotify.com/track/78KhFb5pjqxnz948yRS0dh) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Memories Never Go](https://open.spotify.com/album/6UUdweELIvWwftw1NtxWxu) | 3:18 |
-| 60 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |
+| 60 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Orlane](https://open.spotify.com/artist/2hw9I0HXNDcxp3jQAq6r22) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |
 | 61 | [Nicht an meinem Tisch](https://open.spotify.com/track/4EGzDCiY49NnqKBsltrkKx) | [Tabea](https://open.spotify.com/artist/2Ln4MnBIgYIjosyhXvgvW3) | [Nicht an meinem Tisch](https://open.spotify.com/album/5Pd21h0oZXLUNsJmBnrKCo) | 3:11 |
 | 62 | [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 |
 | 63 | [Dreaming](https://open.spotify.com/track/18TnCQ3tnJVvvF2KdACTgE) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [HEADER](https://open.spotify.com/artist/7odWcvukhtSCQY2pBN7YT0) | [Dreaming](https://open.spotify.com/album/1G9YU8mm4glQy0NETkozvK) | 3:12 |

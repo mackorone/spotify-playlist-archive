@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 34565,
+  "num_followers": 34582,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,30 @@
     {
       "added_at": "2025-11-18 10:21:43",
       "album": {
+        "name": "O Sheth (DJ Remix)",
+        "url": "https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK"
+      },
+      "artists": [
+        {
+          "name": "Praniket Khune",
+          "url": "https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ"
+        },
+        {
+          "name": "Sandhya Keshe",
+          "url": "https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak"
+        },
+        {
+          "name": "Umesh Gawali",
+          "url": "https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "O Sheth (DJ Remix)",
+      "url": "https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl"
+    },
+    {
+      "added_at": "2025-11-18 10:21:43",
+      "album": {
         "name": "Chandramukhi",
         "url": "https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 246671,
       "name": "Payee Fufata",
       "url": "https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt"
-    },
-    {
-      "added_at": "2025-11-18 10:21:43",
-      "album": {
-        "name": "O Sheth (DJ Remix)",
-        "url": "https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK"
-      },
-      "artists": [
-        {
-          "name": "Praniket Khune",
-          "url": "https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ"
-        },
-        {
-          "name": "Sandhya Keshe",
-          "url": "https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak"
-        },
-        {
-          "name": "Umesh Gawali",
-          "url": "https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "O Sheth (DJ Remix)",
-      "url": "https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl"
     },
     {
       "added_at": "2025-11-18 10:21:43",

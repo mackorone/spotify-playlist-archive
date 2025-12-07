@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 70's! Cover: The Cats",
-  "num_followers": 95000,
+  "num_followers": 95026,
   "original_name": "70's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 215319,
       "name": "Blame It on the Boogie",
       "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 255875,
       "name": "Walk On the Wild Side",
       "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "The Very Best Of Shocking Blue (Part One - The A Sides)",
-        "url": "https://open.spotify.com/album/2UpjCnEO4XJ5F5PwKGFg8N"
+        "name": "Earth & Fire",
+        "url": "https://open.spotify.com/album/7dSaXmg3sfQsC5wE58o4RM"
       },
       "artists": [
         {
-          "name": "Shocking Blue",
-          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
+          "name": "Earth & Fire",
+          "url": "https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Inkpot",
-      "url": "https://open.spotify.com/track/7fKfIfnIuQaNrnvrRkF637"
+      "duration_ms": 200893,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/1OQAgz0YJVT25qcANVYp9V"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Earth & Fire",
-        "url": "https://open.spotify.com/album/7dSaXmg3sfQsC5wE58o4RM"
+        "name": "The Very Best Of Shocking Blue (Part One - The A Sides)",
+        "url": "https://open.spotify.com/album/2UpjCnEO4XJ5F5PwKGFg8N"
       },
       "artists": [
         {
-          "name": "Earth & Fire",
-          "url": "https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo"
+          "name": "Shocking Blue",
+          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
         }
       ],
-      "duration_ms": 200893,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/1OQAgz0YJVT25qcANVYp9V"
+      "duration_ms": 159000,
+      "name": "Inkpot",
+      "url": "https://open.spotify.com/track/7fKfIfnIuQaNrnvrRkF637"
     }
   ],
   "unique_name": "70's Allerbeste",

@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262942,
+      "name": "Eu Nunca vi",
+      "url": "https://open.spotify.com/track/702spAI8qSwLawBz8bvV8S"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Pare",
         "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
       },
@@ -742,7 +760,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 316673,
       "name": "N\u00e3o Haver\u00e1 Vergonha",
       "url": "https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN"
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 290481,
       "name": "Sou Teu Deus",
       "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 293561,
       "name": "Sou Teu Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/0PVw1ZzghEVouil3OUuHQC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmyIPX2ivrY.md) - [plain]
 
 > Relaxing classical music to soothe your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,526 likes - 49 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,549 likes - 49 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

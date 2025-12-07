@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/6nwwMi6ml0VWVfDAKLzqs8"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Embrace",
+          "url": "https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/08D80j5X4eSW10Usymcn2A"
+    },
+    {
+      "album": {
         "name": "Flod",
         "url": "https://open.spotify.com/album/3X1AMeGSmFecsjCrPQasc5"
       },
@@ -5662,7 +5680,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 160975,
       "name": "Solar Skies",
       "url": "https://open.spotify.com/track/1W3SYju3DvZHWgNSzb3N0S"

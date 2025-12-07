@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,163 songs - 3 day 0 hr 49 min
+1,164 songs - 3 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Lysergic War Psychosis](https://open.spotify.com/track/1aegOIEWeGvUVm1Kavduz4) | [Antichrist Siege Machine](https://open.spotify.com/artist/0g132bsggkLIMT0pW9aa7s) | [Vengeance of Eternal Fire](https://open.spotify.com/album/4MHngXy37mudMEn2H39sAg) | 2:35 | 2024-04-19 | 2025-04-11 |
 | [MaBeLu](https://open.spotify.com/track/14gGfvwn3Fdb74NKTBy6Di) | [MTVoid](https://open.spotify.com/artist/18zL2Ycw9paUbgS4TiAgOP) | [MaBeLu](https://open.spotify.com/album/0WeHR1XLB4yHTKAwWOh7uM) | 3:47 | 2023-09-08 | 2024-02-03 |
 | [Made Me This Way](https://open.spotify.com/track/2QmqloB5RrJ9JXIOSxM2fL) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Made Me This Way](https://open.spotify.com/album/4y5H1S6oL2W983ataQpdQi) | 3:30 | 2024-07-05 | 2025-04-11 |
+| [Magic](https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Magic](https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U) | 3:42 | 2025-12-06 |  |
 | [Magno Interitus](https://open.spotify.com/track/2eAer3KcjPluOhra1Qo6DS) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Magno Interitus](https://open.spotify.com/album/3D9Uy89sXoOF9eXKFNxktl) | 3:27 | 2022-05-06 | 2023-07-15 |
 | [Magnolia](https://open.spotify.com/track/4NplbKZO0lLEZ3obzxWBpt) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Magnolia](https://open.spotify.com/album/0u2ZC6H4KaVg9PupIkKx7S) | 4:14 | 2025-01-31 |  |
 | [Make the Demons Obey](https://open.spotify.com/track/1SM5OO9sd6GFMhttoE4YR2) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Make the Demons Obey](https://open.spotify.com/album/6odSPFaxrMvlkkPmh2zDYo) | 2:51 | 2025-07-25 |  |

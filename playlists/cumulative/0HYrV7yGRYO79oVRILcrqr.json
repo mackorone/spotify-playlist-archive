@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc"
+      },
+      "artists": [
+        {
+          "name": "People You Know",
+          "url": "https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270062,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/60Opr83gQPHZd410ykHScx"
+    },
+    {
+      "album": {
         "name": "Huckleberry",
         "url": "https://open.spotify.com/album/72jB7XjZSEevzrGC9GaikJ"
       },
@@ -1108,6 +1126,24 @@
       "duration_ms": 242080,
       "name": "Echos in Reverse",
       "url": "https://open.spotify.com/track/4X7u2YyQAddBuysCljzlTv"
+    },
+    {
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/0HkjLJ5pWZg2qIbHPTpR4C"
+      },
+      "artists": [
+        {
+          "name": "never mind the world",
+          "url": "https://open.spotify.com/artist/33GYHfjMu2Coh9fFUaLooN"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/3MeFzHAPF4iRxQqReIgXHV"
     },
     {
       "album": {
@@ -2676,6 +2712,24 @@
       "duration_ms": 179075,
       "name": "Pure Class",
       "url": "https://open.spotify.com/track/2pc3KRm7C2gekeLULubtAN"
+    },
+    {
+      "album": {
+        "name": "Repress\u00e3o",
+        "url": "https://open.spotify.com/album/6dvtMreChRtPlh2DvXTTZV"
+      },
+      "artists": [
+        {
+          "name": "Banda Revo",
+          "url": "https://open.spotify.com/artist/64qE20fQAZ86e6ZHgQtZ6w"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181946,
+      "name": "Repress\u00e3o",
+      "url": "https://open.spotify.com/track/5BI5z9B2w5Ypg4tY113WeN"
     },
     {
       "album": {

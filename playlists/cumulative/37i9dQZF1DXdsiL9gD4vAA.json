@@ -2495,6 +2495,24 @@
     },
     {
       "album": {
+        "name": "Kuchh mai likhta chalu tum mitati chalo",
+        "url": "https://open.spotify.com/album/1zbgpLJIhgX2S8s0IyUYVj"
+      },
+      "artists": [
+        {
+          "name": "Dr Pallav Mishra",
+          "url": "https://open.spotify.com/artist/1ayPLvAEQCu6s6FF7AKxbz"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376479,
+      "name": "Kuchh mai likhta chalu tum mitati chalo",
+      "url": "https://open.spotify.com/track/6LcxYSjuQlsybXNlKHivd9"
+    },
+    {
+      "album": {
         "name": "Kya Main Ik Harf",
         "url": "https://open.spotify.com/album/2Xg8iGHNFYZ19s7KIRFsNK"
       },
@@ -4048,7 +4066,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 226956,
       "name": "Wajah Dhoondh Rahi Hoon",
       "url": "https://open.spotify.com/track/6S9QMBT09F27PmBSttpQ0m"

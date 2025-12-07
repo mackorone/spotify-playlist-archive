@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 530803,
+  "num_followers": 530773,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
         "name": "Kyoto",
         "url": "https://open.spotify.com/album/1F0k3wIIdS72rQW8IJ9BzZ"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 187378,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7hw4CJMlaYl6h7Lv7h5OXS"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
-      },
-      "artists": [
-        {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
     },
     {
       "added_at": "2025-12-02 06:38:19",
@@ -571,6 +571,26 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
+        "name": "Sleep Machine",
+        "url": "https://open.spotify.com/album/6nzWq6ajLDp6wysZhj06Ft"
+      },
+      "artists": [
+        {
+          "name": "HALFBY",
+          "url": "https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7"
+        },
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "duration_ms": 370389,
+      "name": "Sleep Machine",
+      "url": "https://open.spotify.com/track/3SwcwEQo0mIF2ZByCJCC7f"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/7cq3zDj5M57yU1otnKnXmp"
       },
@@ -607,26 +627,6 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
-        "name": "Sleep Machine",
-        "url": "https://open.spotify.com/album/6nzWq6ajLDp6wysZhj06Ft"
-      },
-      "artists": [
-        {
-          "name": "HALFBY",
-          "url": "https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7"
-        },
-        {
-          "name": "Cornelius",
-          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
-        }
-      ],
-      "duration_ms": 370389,
-      "name": "Sleep Machine",
-      "url": "https://open.spotify.com/track/3SwcwEQo0mIF2ZByCJCC7f"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
         "name": "Lucid Dream",
         "url": "https://open.spotify.com/album/1R1wjANQL3mhWsvC2SuZui"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
-        "name": "On My Way Home",
-        "url": "https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou"
-      },
-      "artists": [
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 194337,
-      "name": "On My Way Home",
-      "url": "https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
         "name": "Dawn Breaks",
         "url": "https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 118750,
       "name": "Dawn Breaks",
       "url": "https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
+        "name": "On My Way Home",
+        "url": "https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 194337,
+      "name": "On My Way Home",
+      "url": "https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc"
     },
     {
       "added_at": "2025-12-02 06:38:19",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
-        "name": "GeGe E.P.",
-        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
-      },
-      "artists": [
-        {
-          "name": "MANTIS",
-          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 160500,
       "name": "YOU",
       "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
+        "name": "GeGe E.P.",
+        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
+      },
+      "artists": [
+        {
+          "name": "MANTIS",
+          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
     },
     {
       "added_at": "2025-12-02 06:38:19",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
+        "name": "The Way of the Rain",
+        "url": "https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "The Way of the Rain",
+      "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
         "name": "Resynthesis (Yellow)",
         "url": "https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD"
       },
@@ -1295,18 +1311,34 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
-        "name": "The Way of the Rain",
-        "url": "https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx"
       },
       "artists": [
         {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
         }
       ],
-      "duration_ms": 190285,
-      "name": "The Way of the Rain",
-      "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"
+      "duration_ms": 146014,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
+        "name": "The Wondering Beats vol.1",
+        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+      },
+      "artists": [
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
     },
     {
       "added_at": "2025-12-02 06:38:19",
@@ -1331,38 +1363,6 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
-        "name": "The Wondering Beats vol.1",
-        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
-      },
-      "artists": [
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 146014,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
         "name": "Rock",
         "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
       },
@@ -1379,26 +1379,6 @@
       "duration_ms": 123658,
       "name": "Rock",
       "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
-        "name": "Yufuin",
-        "url": "https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC"
-      },
-      "artists": [
-        {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
-        },
-        {
-          "name": "yuhei miura",
-          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
-        }
-      ],
-      "duration_ms": 155670,
-      "name": "Yufuin",
-      "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"
     },
     {
       "added_at": "2025-12-02 06:38:19",
@@ -1443,6 +1423,42 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
+        "name": "Yufuin",
+        "url": "https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC"
+      },
+      "artists": [
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "yuhei miura",
+          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
+        }
+      ],
+      "duration_ms": 155670,
+      "name": "Yufuin",
+      "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
         "name": "Carol",
         "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
       },
@@ -1475,6 +1491,22 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY"
+      },
+      "artists": [
+        {
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Sir",
+      "url": "https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
         "name": "Southern Street (DLJ Remix)",
         "url": "https://open.spotify.com/album/0cxwp0Gripib4vzzBUdJzb"
       },
@@ -1491,38 +1523,6 @@
       "duration_ms": 142142,
       "name": "Southern Street (DLJ Remix)",
       "url": "https://open.spotify.com/track/0w9bfDsou5J6Ef0wlLU6ry"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY"
-      },
-      "artists": [
-        {
-          "name": "JABBERLOOP",
-          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Sir",
-      "url": "https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN"
     },
     {
       "added_at": "2025-12-02 06:38:19",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
-        "name": "Awesome City",
-        "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
-      },
-      "artists": [
-        {
-          "name": "DJ FRIP a.k.a. BeatLab",
-          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Awesome City",
-      "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
         "name": "PAREIDOLIA",
         "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
       },
@@ -1627,50 +1611,18 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
-        "name": "\u5149\u306e\u3088\u3046\u306b",
-        "url": "https://open.spotify.com/album/77NDqgGxatgBntyyD9634e"
+        "name": "Awesome City",
+        "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
       },
       "artists": [
         {
-          "name": "Yuri Hiranuma",
-          "url": "https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1"
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
         }
       ],
-      "duration_ms": 140253,
-      "name": "\u5149\u306e\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
-        "name": "16FLIP -Atomosphere'22-",
-        "url": "https://open.spotify.com/album/5pusvt9Hq28gJ79xgoFQzH"
-      },
-      "artists": [
-        {
-          "name": "16FLIP",
-          "url": "https://open.spotify.com/artist/5FDuoCFktB6LXQ73XCPFvT"
-        }
-      ],
-      "duration_ms": 45690,
-      "name": "Beat Diary 917",
-      "url": "https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/2x2cUyIuScLl3M7eVeeAdq"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 199363,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n"
+      "duration_ms": 160840,
+      "name": "Awesome City",
+      "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
     },
     {
       "added_at": "2025-12-02 06:38:19",
@@ -1691,6 +1643,54 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
+        "name": "\u5149\u306e\u3088\u3046\u306b",
+        "url": "https://open.spotify.com/album/77NDqgGxatgBntyyD9634e"
+      },
+      "artists": [
+        {
+          "name": "Yuri Hiranuma",
+          "url": "https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1"
+        }
+      ],
+      "duration_ms": 140253,
+      "name": "\u5149\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/2x2cUyIuScLl3M7eVeeAdq"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 199363,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
+        "name": "16FLIP -Atomosphere'22-",
+        "url": "https://open.spotify.com/album/5pusvt9Hq28gJ79xgoFQzH"
+      },
+      "artists": [
+        {
+          "name": "16FLIP",
+          "url": "https://open.spotify.com/artist/5FDuoCFktB6LXQ73XCPFvT"
+        }
+      ],
+      "duration_ms": 45690,
+      "name": "Beat Diary 917",
+      "url": "https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
         "name": "\u5915\u6620",
         "url": "https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR"
       },
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
-        "name": "unstable",
-        "url": "https://open.spotify.com/album/5Bt7UlXSx1G75ieZIH3s10"
-      },
-      "artists": [
-        {
-          "name": "invisible design",
-          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
-        }
-      ],
-      "duration_ms": 140808,
-      "name": "unstable",
-      "url": "https://open.spotify.com/track/70IWLuFvDpuEkChta4PpjG"
-    },
-    {
-      "added_at": "2025-12-02 06:38:19",
-      "album": {
         "name": "Points of light",
         "url": "https://open.spotify.com/album/2cvoaxFVvRl6FsuHFQYVDG"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 168224,
       "name": "Points of light",
       "url": "https://open.spotify.com/track/6kppyz5XQdXFFdjDRqFmbm"
+    },
+    {
+      "added_at": "2025-12-02 06:38:19",
+      "album": {
+        "name": "unstable",
+        "url": "https://open.spotify.com/album/5Bt7UlXSx1G75ieZIH3s10"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "duration_ms": 140808,
+      "name": "unstable",
+      "url": "https://open.spotify.com/track/70IWLuFvDpuEkChta4PpjG"
     },
     {
       "added_at": "2025-12-02 06:38:19",
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2025-12-02 06:38:19",
       "album": {
-        "name": "Cross the Bridge",
-        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
+        "name": "ode to N",
+        "url": "https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF"
       },
       "artists": [
         {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 138913,
-      "name": "Cross the Bridge",
-      "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
+      "duration_ms": 134789,
+      "name": "ode to N",
+      "url": "https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO"
     }
   ],
   "unique_name": "Road Trip To Tokyo",

@@ -4,7 +4,7 @@
 
 > musica per un inverno non proprio felice \(chiello in cover\)
 
-1,556 songs - 2 day 23 hr 18 min
+1,557 songs - 2 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1160,6 +1160,7 @@
 | [Rivoluzione!](https://open.spotify.com/track/4OYZLVdGFBHJ8UQcRbU3Ny) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Rivoluzione!](https://open.spotify.com/album/5jFiLe8UahShhjZyUhmnkM) | 2:41 | 2023-07-20 | 2023-10-27 |
 | [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/3g7ds9lLoBRTQag67wtUK3) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:57 | 2022-09-29 | 2023-03-29 |
 | [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/4fVRM7JsozbVr1z9ApEixY) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:57 | 2023-03-23 | 2023-06-16 |
+| [Rock 'N Roll Queen](https://open.spotify.com/track/1EunUYSnYIL2Td0rZmzh7w) | [Danien & Theø](https://open.spotify.com/artist/0UyLfzwH9SXflwWW7GDHfa) | [La dolce vita](https://open.spotify.com/album/17v3aLjI654A1gpSp5Uf4D) | 2:26 | 2025-12-06 |  |
 | [ROCKSTAR](https://open.spotify.com/track/5cc4c8Hcv1Km8GIdolGLuq) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH) | [ROCKSTAR](https://open.spotify.com/album/1lDFJJvv6IaSyO1F3kqs3q) | 3:25 | 2022-05-06 | 2022-05-11 |
 | [ROMA TUTTA](https://open.spotify.com/track/6S8LFWzphG21Hr5omHm2qV) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [CITRIESTE](https://open.spotify.com/artist/2xOa0F2TZGjX9uOZ60TCI2) | [ROMA TUTTA](https://open.spotify.com/album/18UaFxs5g5MTSDsImNy4h5) | 2:43 | 2022-05-06 | 2022-06-03 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-10-27 | 2023-01-13 |

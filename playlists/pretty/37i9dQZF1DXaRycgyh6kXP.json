@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 277545,
+  "num_followers": 277641,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,26 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 217392,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 235702,
       "name": "Flown",
       "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 217392,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
+        "name": "Vital Loop",
+        "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "duration_ms": 236659,
+      "name": "Vital Loop",
+      "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
         "name": "Reality Testing",
         "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 284551,
       "name": "Loading",
       "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
-        "name": "Vital Loop",
-        "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
-      },
-      "artists": [
-        {
-          "name": "Kelbin",
-          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
-        }
-      ],
-      "duration_ms": 236659,
-      "name": "Vital Loop",
-      "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
-        "name": "no world",
-        "url": "https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr"
-      },
-      "artists": [
-        {
-          "name": "Inc.",
-          "url": "https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "the place",
-      "url": "https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
         "name": "To You EP",
         "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 342604,
       "name": "Lonely Romance",
       "url": "https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
+        "name": "no world",
+        "url": "https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr"
+      },
+      "artists": [
+        {
+          "name": "Inc.",
+          "url": "https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "the place",
+      "url": "https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
-        "name": "Grafts",
-        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
+        "name": "X-Dream",
+        "url": "https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV"
       },
       "artists": [
         {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
         }
       ],
-      "duration_ms": 1351601,
-      "name": "Grafts",
-      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
+      "duration_ms": 261335,
+      "name": "X-Dream",
+      "url": "https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
-        "name": "X-Dream",
-        "url": "https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV"
+        "name": "Grafts",
+        "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
       },
       "artists": [
         {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 261335,
-      "name": "X-Dream",
-      "url": "https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd"
+      "duration_ms": 1351601,
+      "name": "Grafts",
+      "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit"
       },
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -1627,6 +1643,22 @@
       "duration_ms": 321880,
       "name": "aisatsana [102]",
       "url": "https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3"
+    },
+    {
+      "added_at": "2025-12-05 05:00:25",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 209806,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
     },
     {
       "added_at": "2025-12-05 05:00:25",
@@ -1667,22 +1699,6 @@
     {
       "added_at": "2025-12-05 05:00:25",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 596773,
       "name": "Immunity",
       "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
     }
   ],
   "unique_name": "Electronica Romantica",

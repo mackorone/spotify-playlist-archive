@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15626,
+  "num_followers": 15622,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAADHyt2a7Xcy8WwbRuqJbPGT",
+  "snapshot_id": "aTIggAAAAAD7mSyuUwvhF7IRhOwZbnBH",
   "tracks": [
     {
       "added_at": null,
@@ -338,15 +338,11 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Carolina Mestrovic",
-          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
         }
       ],
-      "duration_ms": 177852,
-      "name": "Ladrona (feat. Carolina Mestrovic)",
-      "url": "https://open.spotify.com/track/4mNYI236bic5jVoZXZXYbH"
+      "duration_ms": 268880,
+      "name": "Me Va a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6caUAXmSdkOYsYb0C2Dtjd"
     },
     {
       "added_at": null,
@@ -414,11 +410,15 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Carolina Mestrovic",
+          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
         }
       ],
-      "duration_ms": 268880,
-      "name": "Me Va a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/6caUAXmSdkOYsYb0C2Dtjd"
+      "duration_ms": 177852,
+      "name": "Ladrona (feat. Carolina Mestrovic)",
+      "url": "https://open.spotify.com/track/4mNYI236bic5jVoZXZXYbH"
     },
     {
       "added_at": null,
@@ -531,6 +531,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
+        "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Carolina Mestrovic",
+          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
+      "url": "https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
         "url": "https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 166140,
       "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
       "url": "https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
-        "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Carolina Mestrovic",
-          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
-        }
-      ],
-      "duration_ms": 133880,
-      "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
-      "url": "https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR"
     },
     {
       "added_at": null,

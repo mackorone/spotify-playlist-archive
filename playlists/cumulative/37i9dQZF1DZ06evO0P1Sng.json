@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 136470,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/36J1XvwjxZkMumcLROBn7X"
@@ -2799,6 +2799,44 @@
     },
     {
       "album": {
+        "name": "Sensa\u00e7\u00e3o de Poder",
+        "url": "https://open.spotify.com/album/3qDRNCiXHGaeCthecxtIMr"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "C.Z",
+          "url": "https://open.spotify.com/artist/2h5aZ1sD7MzqComOWdLTPU"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Sensa\u00e7\u00e3o de Poder",
+      "url": "https://open.spotify.com/track/53W22Rzbtfj60HGyIUQjdc"
+    },
+    {
+      "album": {
         "name": "Consequ\u00eancias",
         "url": "https://open.spotify.com/album/0iRMKFD3Pwq7heMrMsg8Dk"
       },
@@ -2896,7 +2934,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 131584,
       "name": "Sua Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
@@ -3062,7 +3100,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 150329,
       "name": "Tipo Uma Dan\u00e7a",
       "url": "https://open.spotify.com/track/0ZaxU6AbRDT3TSRO5RhCDr"

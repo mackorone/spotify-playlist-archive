@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 317637,
+  "num_followers": 317699,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAABO4zy6zai+2e4K4dFFPLZ3",
+  "snapshot_id": "aTIggAAAAABGIm3rcDMqXxetK+1a3SK3",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unleashed Beyond (Special Edition)",
-        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
       },
       "artists": [
         {
           "name": "Skillet",
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        },
-        {
-          "name": "Lacey Sturm",
-          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
         }
       ],
-      "duration_ms": 232813,
-      "name": "Breaking Free (feat. Lacey Sturm)",
-      "url": "https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5"
+      "duration_ms": 238870,
+      "name": "Surviving The Game",
+      "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
     },
     {
       "added_at": null,
@@ -619,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dominion",
-        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+        "name": "Unleashed Beyond (Special Edition)",
+        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
       },
       "artists": [
         {
           "name": "Skillet",
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
         }
       ],
-      "duration_ms": 238870,
-      "name": "Surviving The Game",
-      "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
+      "duration_ms": 232813,
+      "name": "Breaking Free (feat. Lacey Sturm)",
+      "url": "https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5"
     },
     {
       "added_at": null,

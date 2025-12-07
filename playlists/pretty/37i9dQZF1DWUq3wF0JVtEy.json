@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 919212,
+  "num_followers": 184241,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -187,30 +187,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Freaking You Out",
-        "url": "https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "KOPPY",
-          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
-        }
-      ],
-      "duration_ms": 182968,
-      "name": "Freaking You Out",
-      "url": "https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "BANG BANG POW!",
         "url": "https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO"
       },
@@ -231,6 +207,30 @@
       "duration_ms": 133406,
       "name": "BANG BANG POW!",
       "url": "https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Freaking You Out",
+        "url": "https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+        }
+      ],
+      "duration_ms": 182968,
+      "name": "Freaking You Out",
+      "url": "https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "Freek Like Me",
-        "url": "https://open.spotify.com/album/3w58vPtV09dITZTOIhjUz5"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Freek Like Me",
-      "url": "https://open.spotify.com/track/1NPmM6VERI6zEJOIoXBEuo"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
         "name": "GASOLINA & COCAINA",
         "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "Freek Like Me",
+        "url": "https://open.spotify.com/album/3w58vPtV09dITZTOIhjUz5"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Freek Like Me",
+      "url": "https://open.spotify.com/track/1NPmM6VERI6zEJOIoXBEuo"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "Instant Moments",
         "url": "https://open.spotify.com/album/5Fg45x7G4Pq2DNZAek17vu"
       },
@@ -335,6 +335,42 @@
       "duration_ms": 160208,
       "name": "Instant Moments",
       "url": "https://open.spotify.com/track/3La3KFoSyjE2MOxoljTioT"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "No Sleep (6AM) (feat. MERYLL)",
+        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 146195,
+      "name": "No Sleep (6AM) (feat. MERYLL)",
+      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
+        "name": "Warehouse",
+        "url": "https://open.spotify.com/album/5cguVMkWcQVYde2ZucBdNR"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 139852,
+      "name": "Warehouse",
+      "url": "https://open.spotify.com/track/0TH77vpxcIxMIND1gnne68"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -359,42 +395,6 @@
       "duration_ms": 155146,
       "name": "Riverside MF",
       "url": "https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "Warehouse",
-        "url": "https://open.spotify.com/album/5cguVMkWcQVYde2ZucBdNR"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 139852,
-      "name": "Warehouse",
-      "url": "https://open.spotify.com/track/0TH77vpxcIxMIND1gnne68"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "No Sleep (6AM) (feat. MERYLL)",
-        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 146195,
-      "name": "No Sleep (6AM) (feat. MERYLL)",
-      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "2HEARTs dlux",
+        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "my luv - bonus track",
+      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 195813,
       "name": "Let Me Think About It Again",
       "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "2HEARTs dlux",
-        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "my luv - bonus track",
-      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 166954,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 150875,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
-      },
-      "artists": [
-        {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-        }
-      ],
-      "duration_ms": 166954,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
+        "name": "No Ecstasy Love",
+        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "No Ecstasy Love",
+      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
+    },
+    {
+      "added_at": "2025-11-07 05:00:42",
+      "album": {
         "name": "808",
         "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
       },
@@ -1871,18 +1887,18 @@
     {
       "added_at": "2025-11-07 05:00:42",
       "album": {
-        "name": "No Ecstasy Love",
-        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
       },
       "artists": [
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
         }
       ],
-      "duration_ms": 205846,
-      "name": "No Ecstasy Love",
-      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
+      "duration_ms": 166363,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
     },
     {
       "added_at": "2025-11-07 05:00:42",
@@ -1907,22 +1923,6 @@
       "duration_ms": 150447,
       "name": "Mind Awake, Body Asleep",
       "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
-    },
-    {
-      "added_at": "2025-11-07 05:00:42",
-      "album": {
-        "name": "Be With You",
-        "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
-      },
-      "artists": [
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
     },
     {
       "added_at": "2025-11-07 05:00:42",

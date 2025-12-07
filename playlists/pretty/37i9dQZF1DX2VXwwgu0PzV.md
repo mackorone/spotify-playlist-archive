@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: StraTeGee and K3ndrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,524 likes - 105 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,538 likes - 105 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Karoline Mousing, Bless You og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,541 likes - 95 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,536 likes - 95 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 26 | [Cry Against The Wind](https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Cry Against The Wind](https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn) | 4:20 |
 | 27 | [hvad laver du nu?](https://open.spotify.com/track/0wl9pxQkwSxixjDtlRfo0t) | [ELBA](https://open.spotify.com/artist/06nGqswwQ7xVDvC5r5mQL2) | [hvad laver du nu?](https://open.spotify.com/album/5dbJaIfyfukzEXIxDN8qRR) | 3:21 |
 | 28 | [TIMEOUT](https://open.spotify.com/track/1GgRdYV6DfGwBQQNcAPdHt) | [3XB](https://open.spotify.com/artist/5mclFegO0RRuDnxI8d0dW7) | [ELSKER AT HADE](https://open.spotify.com/album/6l8LxM9BRW3P7MJZ0c8ASk) | 2:28 |
-| 29 | [F.E.D\. \(Kender Du Ham?\)](https://open.spotify.com/track/247YsG30muyJC1wQxho3Gn) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr) | [F.E.D\. \(Kender Du Ham?\)](https://open.spotify.com/album/1QERiqkBmh9e4ecDEtUR8W) | 2:16 |
+| 29 | [F.E.D \(Kender Du Ham?\)](https://open.spotify.com/track/247YsG30muyJC1wQxho3Gn) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr) | [F.E.D \(Kender Du Ham?\)](https://open.spotify.com/album/1QERiqkBmh9e4ecDEtUR8W) | 2:16 |
 | 30 | [Running Away](https://open.spotify.com/track/5YThXlCu0msISTN13qqzCP) | [Willone](https://open.spotify.com/artist/0HHPiYhrH0UvwKgUC4Lwpf), [LIVA](https://open.spotify.com/artist/6E2UPrLYgrLSoNDHnXNclL) | [Running Away](https://open.spotify.com/album/7nd81zxrG0VOlIehLZxm0e) | 3:06 |
 | 31 | [to the end](https://open.spotify.com/track/2J48YPA2R1a2aEk1Jg5cCn) | [Zoumer](https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB) | [to the end](https://open.spotify.com/album/7rJfXSipvNdlmoDdyScee9) | 2:58 |
 | 32 | [Rollercoaster Ride \(Domani\)](https://open.spotify.com/track/4ndPzPgHxbhZWkoZx2KlSA) | [Takykardia](https://open.spotify.com/artist/0QVLnJAtiwW8u4GKnU5IXZ) | [Best Rollercoaster Ride, Ever!](https://open.spotify.com/album/2EB7w74tgMFYQD8ON69WOV) | 2:32 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 52 | [Delusional](https://open.spotify.com/track/5XJvCvOx6I7H7EUsvTOpny) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Delusional](https://open.spotify.com/album/5VL11F19vY5g5j0jw2D2Ar) | 3:08 |
 | 53 | [Människobarn](https://open.spotify.com/track/0VaIs3pVGqAeXidW86x7Nc) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Människobarn](https://open.spotify.com/album/11cjyNBwd0KWKHcAsrQhS7) | 3:38 |
 | 54 | [all of a sudden we move](https://open.spotify.com/track/1is4WyPrdz56pAcm4BQYsT) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [All of a sudden we move](https://open.spotify.com/album/0m7frKvrGaPlJK4tG1zNGj) | 4:01 |
-| 55 | [HARRY STAMPER](https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [](https://open.spotify.com/album/null) | 3:12 |
+| 55 | [HARRY STAMPER](https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:12 |
 | 56 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
 | 57 | [Let 'Em Go](https://open.spotify.com/track/4nBtsK1aqOGnd1Te6Aaizc) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Let 'Em Go](https://open.spotify.com/album/5U1w2GkChTUowyfhnXMwEF) | 3:19 |
 | 58 | [Point Zero](https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Point Zero / Lift Me Up](https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7) | 3:11 |

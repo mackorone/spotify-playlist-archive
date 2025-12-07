@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:3dbajnsA1YJq9SS64Aoey4">Campechanas Podcast</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,993 likes - 8 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,990 likes - 8 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

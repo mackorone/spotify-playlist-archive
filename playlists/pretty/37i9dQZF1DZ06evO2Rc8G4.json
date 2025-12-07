@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 169825,
+  "num_followers": 169823,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAABekDajIMlj+htKSl9fuRpB",
+  "snapshot_id": "aTIggAAAAADXEutMAfwKGqTJoiVUGniI",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kylie Christmas (Fully Wrapped)",
+        "url": "https://open.spotify.com/album/2Qqr2SBEHLPEyqsQPYTa6y"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 192107,
+      "name": "Hot in December",
+      "url": "https://open.spotify.com/track/1yepCSPoxirpHDK1580Eq5"
     },
     {
       "added_at": null,
@@ -515,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO: Guest List Edition",
-        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 207986,
-      "name": "A Second to Midnight",
-      "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
+      "duration_ms": 189093,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
     },
     {
       "added_at": null,
@@ -555,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+        "name": "DISCO: Guest List Edition",
+        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
+      "duration_ms": 207986,
+      "name": "A Second to Midnight",
+      "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Things We Do For Love",
-      "url": "https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tension II",
         "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 168293,
       "name": "Taboo",
       "url": "https://open.spotify.com/track/3NugCU8elmTyNscNBZFWZr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Things We Do For Love",
+      "url": "https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension Tour//Live 2025",
-        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "What Do I Have to Do? - Live From The Tension Tour",
-      "url": "https://open.spotify.com/track/2AufsFx4AOIuluoIJXHJU6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 260133,
       "name": "Red Blooded Woman",
       "url": "https://open.spotify.com/track/4A62ukubxZNeSQ2bUx2tKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension Tour//Live 2025",
+        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "What Do I Have to Do? - Live From The Tension Tour",
+      "url": "https://open.spotify.com/track/2AufsFx4AOIuluoIJXHJU6"
     },
     {
       "added_at": null,
@@ -823,38 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension Tour//Live 2025",
-        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "Spinning Around - Live From The Tension Tour",
-      "url": "https://open.spotify.com/track/7EaiJEkUiLk9CGtSB11d1F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Murder Ballads",
         "url": "https://open.spotify.com/album/1wG6L7SUkfnE3koQ7fP9FW"
       },
@@ -875,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/1uMNoNdPEtf8jhK6gxaDTO"
+        "name": "Tension Tour//Live 2025",
+        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
       },
       "artists": [
         {
@@ -884,9 +868,25 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 217333,
-      "name": "Turn It into Love",
-      "url": "https://open.spotify.com/track/1LH4pipBS71ZUPHmFS4gpC"
+      "duration_ms": 220453,
+      "name": "Taboo / On A Night Like This - Live From The Tension Tour",
+      "url": "https://open.spotify.com/track/4G0q4mbG5ELNLaNfyOl1M6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk"
     }
   ],
   "unique_name": "This Is Kylie Minogue",

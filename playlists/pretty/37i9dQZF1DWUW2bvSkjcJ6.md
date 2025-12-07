@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Kane und Sido, Paula Hartmann und Berq, Ivo Martin und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,459 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,414 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 28 | [SCHAUFENSTER](https://open.spotify.com/track/2aEm7tPxBCAWZb1ThM3EL9) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [SCHAUFENSTER](https://open.spotify.com/album/60ShzvcI3O4wGWgq3aPEHS) | 2:16 |
 | 29 | [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 |
 | 30 | [Memories Never Go](https://open.spotify.com/track/78KhFb5pjqxnz948yRS0dh) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Memories Never Go](https://open.spotify.com/album/6UUdweELIvWwftw1NtxWxu) | 3:18 |
-| 31 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |
+| 31 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Orlane](https://open.spotify.com/artist/2hw9I0HXNDcxp3jQAq6r22) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |
 | 32 | [Walk Away](https://open.spotify.com/track/1LZOh9k6qtQ4nUyZvDuVA1) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [2025](https://open.spotify.com/album/6rhlQi13LyDs5JzrZShE0C) | 2:46 |
 | 33 | [Nicht an meinem Tisch](https://open.spotify.com/track/4EGzDCiY49NnqKBsltrkKx) | [Tabea](https://open.spotify.com/artist/2Ln4MnBIgYIjosyhXvgvW3) | [Nicht an meinem Tisch](https://open.spotify.com/album/5Pd21h0oZXLUNsJmBnrKCo) | 3:11 |
 | 34 | [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 |

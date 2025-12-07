@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 453742,
+  "num_followers": 453860,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-11-30 17:56:43",
       "album": {
-        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 431470,
-      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
-    },
-    {
-      "added_at": "2025-11-30 17:56:43",
-      "album": {
         "name": "Avenida do Arrependimento",
         "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 323000,
       "name": "Esp\u00edrito Santo (Inhabit)",
       "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
+    },
+    {
+      "added_at": "2025-11-30 17:56:43",
+      "album": {
+        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 431470,
+      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
     },
     {
       "added_at": "2025-11-30 17:56:43",
@@ -951,46 +951,6 @@
     {
       "added_at": "2025-11-30 17:56:43",
       "album": {
-        "name": "Jesus te Amamos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL"
-      },
-      "artists": [
-        {
-          "name": "O Canto das Igrejas",
-          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
-        },
-        {
-          "name": "Marsena",
-          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
-        },
-        {
-          "name": "Somos OCDI",
-          "url": "https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b"
-        }
-      ],
-      "duration_ms": 415435,
-      "name": "Jesus te Amamos - Ao Vivo",
-      "url": "https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv"
-    },
-    {
-      "added_at": "2025-11-30 17:56:43",
-      "album": {
-        "name": "Castelo Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vODlNGVD511iYGipXthzk"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 294457,
-      "name": "Castelo Forte - Ao Vivo",
-      "url": "https://open.spotify.com/track/3rY3TNiZAvSZoIcxniDROl"
-    },
-    {
-      "added_at": "2025-11-30 17:56:43",
-      "album": {
         "name": "Agnus Dei (Ao Vivo)",
         "url": "https://open.spotify.com/album/72oNXSBHAg6Jwk6VnaVu3A"
       },
@@ -1015,6 +975,46 @@
     {
       "added_at": "2025-11-30 17:56:43",
       "album": {
+        "name": "Castelo Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vODlNGVD511iYGipXthzk"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 294457,
+      "name": "Castelo Forte - Ao Vivo",
+      "url": "https://open.spotify.com/track/3rY3TNiZAvSZoIcxniDROl"
+    },
+    {
+      "added_at": "2025-11-30 17:56:43",
+      "album": {
+        "name": "Jesus te Amamos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL"
+      },
+      "artists": [
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        },
+        {
+          "name": "Marsena",
+          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
+        },
+        {
+          "name": "Somos OCDI",
+          "url": "https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b"
+        }
+      ],
+      "duration_ms": 415435,
+      "name": "Jesus te Amamos - Ao Vivo",
+      "url": "https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv"
+    },
+    {
+      "added_at": "2025-11-30 17:56:43",
+      "album": {
         "name": "No Secreto (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ImEIgbOdSt9wmtXyZUmkM"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-11-30 17:56:43",
       "album": {
-        "name": "N\u00e3o Tem Como Dar Errado",
-        "url": "https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 202398,
-      "name": "N\u00e3o Tem Como Dar Errado - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe"
-    },
-    {
-      "added_at": "2025-11-30 17:56:43",
-      "album": {
         "name": "A Promessa Nasceu",
         "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 306103,
       "name": "A Promessa Nasceu",
       "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
+    },
+    {
+      "added_at": "2025-11-30 17:56:43",
+      "album": {
+        "name": "N\u00e3o Tem Como Dar Errado",
+        "url": "https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 202398,
+      "name": "N\u00e3o Tem Como Dar Errado - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe"
     },
     {
       "added_at": "2025-11-30 17:56:43",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-11-30 17:56:43",
       "album": {
-        "name": "Eu Vou Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W"
-      },
-      "artists": [
-        {
-          "name": "Nair Nany",
-          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
-        }
-      ],
-      "duration_ms": 1356604,
-      "name": "Eu Vou Orar - Ao Vivo",
-      "url": "https://open.spotify.com/track/7wZQH168Uz7cZQbLyoid2U"
-    },
-    {
-      "added_at": "2025-11-30 17:56:43",
-      "album": {
         "name": "Mem\u00f3rias Deluxe",
         "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
       },
@@ -1403,22 +1387,6 @@
       "duration_ms": 271073,
       "name": "Louvemos Ao Senhor",
       "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
-    },
-    {
-      "added_at": "2025-11-30 17:56:43",
-      "album": {
-        "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/1h1axBoJHetIHgTIF2ikLw"
-      },
-      "artists": [
-        {
-          "name": "Leandro Soares",
-          "url": "https://open.spotify.com/artist/5QiowaqBJe5wxa8S1c2Xhr"
-        }
-      ],
-      "duration_ms": 218424,
-      "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/5B6IQuwgmq1oVJksv0IUNQ"
     },
     {
       "added_at": "2025-11-30 17:56:43",
@@ -1439,6 +1407,38 @@
       "duration_ms": 243368,
       "name": "Eu Te Ouvi - Ao Vivo",
       "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
+    },
+    {
+      "added_at": "2025-11-30 17:56:43",
+      "album": {
+        "name": "Eu Vou Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W"
+      },
+      "artists": [
+        {
+          "name": "Nair Nany",
+          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
+        }
+      ],
+      "duration_ms": 1356604,
+      "name": "Eu Vou Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7wZQH168Uz7cZQbLyoid2U"
+    },
+    {
+      "added_at": "2025-11-30 17:56:43",
+      "album": {
+        "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/1h1axBoJHetIHgTIF2ikLw"
+      },
+      "artists": [
+        {
+          "name": "Leandro Soares",
+          "url": "https://open.spotify.com/artist/5QiowaqBJe5wxa8S1c2Xhr"
+        }
+      ],
+      "duration_ms": 218424,
+      "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5B6IQuwgmq1oVJksv0IUNQ"
     },
     {
       "added_at": "2025-11-30 17:56:43",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-11-30 17:56:43",
       "album": {
-        "name": "Escape / Nunca Pare de Lutar",
-        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
-      },
-      "artists": [
-        {
-          "name": "Jadson Moreno",
-          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
-        }
-      ],
-      "duration_ms": 565252,
-      "name": "Escape / Nunca Pare de Lutar",
-      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
-    },
-    {
-      "added_at": "2025-11-30 17:56:43",
-      "album": {
         "name": "Minh'alma Engrandece ao Senhor / Adorado (Ao Vivo)",
         "url": "https://open.spotify.com/album/4MkBBQMxmYrJ1lCkmzMqzw"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2025-11-30 17:56:43",
       "album": {
-        "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91"
+        "name": "Escape / Nunca Pare de Lutar",
+        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
       },
       "artists": [
         {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+          "name": "Jadson Moreno",
+          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
         }
       ],
-      "duration_ms": 605638,
-      "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore - Ao Vivo",
-      "url": "https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ"
+      "duration_ms": 565252,
+      "name": "Escape / Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
     },
     {
       "added_at": "2025-11-30 17:56:43",
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2025-11-30 17:56:43",
       "album": {
-        "name": "C\u00e2ntico de Mois\u00e9s",
-        "url": "https://open.spotify.com/album/0GED76A2YQfIgUOR368kRf"
+        "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
         }
       ],
-      "duration_ms": 279609,
-      "name": "C\u00e2ntico de Mois\u00e9s",
-      "url": "https://open.spotify.com/track/3aV5VcZEBU6NrHif4fnOiy"
+      "duration_ms": 605638,
+      "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore - Ao Vivo",
+      "url": "https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ"
     },
     {
       "added_at": "2025-11-30 17:56:43",
@@ -1655,6 +1639,38 @@
     {
       "added_at": "2025-11-30 17:56:43",
       "album": {
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 347434,
+      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
+    },
+    {
+      "added_at": "2025-11-30 17:56:43",
+      "album": {
+        "name": "C\u00e2ntico de Mois\u00e9s",
+        "url": "https://open.spotify.com/album/0GED76A2YQfIgUOR368kRf"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 279609,
+      "name": "C\u00e2ntico de Mois\u00e9s",
+      "url": "https://open.spotify.com/track/3aV5VcZEBU6NrHif4fnOiy"
+    },
+    {
+      "added_at": "2025-11-30 17:56:43",
+      "album": {
         "name": "20 Anos de Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 348433,
       "name": "Sobre As \u00c1guas",
       "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
-    },
-    {
-      "added_at": "2025-11-30 17:56:43",
-      "album": {
-        "name": "A Igreja Canta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 347434,
-      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
     },
     {
       "added_at": "2025-11-30 17:56:43",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2025-11-30 17:56:43",
       "album": {
+        "name": "Nunca Abandone a F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3eskt4dpkhsZeNsrE4oHU9"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        }
+      ],
+      "duration_ms": 264188,
+      "name": "Nunca Abandone a F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ajhPg035PzOvPIh8tcmZ6"
+    },
+    {
+      "added_at": "2025-11-30 17:56:43",
+      "album": {
         "name": "Rei e Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/69OtcCjBnzz8ZHp7q1KQ8v"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 397616,
       "name": "Rei e Santo - Ao Vivo",
       "url": "https://open.spotify.com/track/5pQgg3LmMKBVQifdDslwCr"
-    },
-    {
-      "added_at": "2025-11-30 17:56:43",
-      "album": {
-        "name": "Nunca Abandone a F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3eskt4dpkhsZeNsrE4oHU9"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 264188,
-      "name": "Nunca Abandone a F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ajhPg035PzOvPIh8tcmZ6"
     },
     {
       "added_at": "2025-11-30 17:56:43",
@@ -2179,26 +2179,6 @@
     {
       "added_at": "2025-11-30 17:56:43",
       "album": {
-        "name": "Doce Voz",
-        "url": "https://open.spotify.com/album/7kStmovEGTihQ1Wgndtj2h"
-      },
-      "artists": [
-        {
-          "name": "Samuel Dias",
-          "url": "https://open.spotify.com/artist/0hJ3Y7nOHR6ibLnMABe3TK"
-        },
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        }
-      ],
-      "duration_ms": 278507,
-      "name": "Doce Voz",
-      "url": "https://open.spotify.com/track/7LL1Lw9Aqih55x7ur1D3JU"
-    },
-    {
-      "added_at": "2025-11-30 17:56:43",
-      "album": {
         "name": "Digno de Tudo/ Nada Mais Satisfaz/ At\u00e9 Que Nada Mais Importe (Ao Vivo)",
         "url": "https://open.spotify.com/album/4H6fBnVIQ4gdnBbcHtjmII"
       },
@@ -2219,6 +2199,26 @@
       "duration_ms": 704453,
       "name": "Digno de Tudo/ Nada Mais Satisfaz/ At\u00e9 Que Nada Mais Importe - Ao Vivo",
       "url": "https://open.spotify.com/track/3aEa2l3IM0Uzw7SseltnZh"
+    },
+    {
+      "added_at": "2025-11-30 17:56:43",
+      "album": {
+        "name": "Doce Voz",
+        "url": "https://open.spotify.com/album/7kStmovEGTihQ1Wgndtj2h"
+      },
+      "artists": [
+        {
+          "name": "Samuel Dias",
+          "url": "https://open.spotify.com/artist/0hJ3Y7nOHR6ibLnMABe3TK"
+        },
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "duration_ms": 278507,
+      "name": "Doce Voz",
+      "url": "https://open.spotify.com/track/7LL1Lw9Aqih55x7ur1D3JU"
     }
   ],
   "unique_name": "Louvando no Tr\u00e2nsito",

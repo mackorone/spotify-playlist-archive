@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,761 likes - 234 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,800 likes - 234 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 233 | [My Big Ego](https://open.spotify.com/track/0JIh6T4MOwDcj8MajZlAHA) | [Helio Lush](https://open.spotify.com/artist/4gtfDaFcQA61xtmw5GenXa) | [My Big Ego](https://open.spotify.com/album/5jL5D0d8Era85ea9kAIOu1) | 3:06 |
 | 234 | [Portal](https://open.spotify.com/track/6kHh2ZrK4ULBOVvqvOaXvF) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [Portal](https://open.spotify.com/album/6b0vLoS6SFcdlS1rR0mi6T) | 3:14 |
 
-Snapshot ID: `AAAAANRZqHh1Wcjbp4Ubgt1ty3Xc0O2M`
+Snapshot ID: `AAAAAF26y6DeC8qA7MO0RzVlHT8F8S7e`

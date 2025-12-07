@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Marshmello & INJI
 
-1,860 songs - 3 day 19 hr 2 min
+1,861 songs - 3 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,6 +778,7 @@
 | [I Love You, Bye](https://open.spotify.com/track/4hdpm42CRpimwv3QDe3vq9) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Rufus](https://open.spotify.com/artist/2EPGTmE0IO7hv3fljE3qOn) | [I Love You, Bye](https://open.spotify.com/album/490YCL3HcoKj3SDA7vMK8T) | 3:00 | 2024-07-26 | 2024-10-19 |
 | [I Might](https://open.spotify.com/track/76RqGYYJgQJjI4AR8iZ2KD) | [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [I Might](https://open.spotify.com/album/4NMpGb1smUUcI7uqovgz6N) | 2:04 | 2023-12-15 | 2024-01-27 |
 | [I Remember](https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Remember](https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF) | 2:48 | 2022-08-26 | 2022-12-24 |
+| [i think i'm addicted](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [i think i'm addicted](https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG) | 2:38 | 2025-12-06 |  |
 | [I Told You](https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [I Told You](https://open.spotify.com/album/7D4zYU5Rp03kIE3HMG7fzp) | 3:27 | 2022-06-03 | 2022-09-17 |
 | [I Wanna](https://open.spotify.com/track/0yG5r8xqtJLfMfbsiak6Ra) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [I Wanna](https://open.spotify.com/album/5KWURvzhIZ1zRn26ONZhyN) | 3:30 | 2022-09-23 | 2022-12-24 |
 | [I Wanna Be Loved \(Just A Little Better\)](https://open.spotify.com/track/1KwZQmJ03PN3hye7NF4iiA) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [I Wanna Be Loved \(Just A Little Better\)](https://open.spotify.com/album/57QKPE7R7BYQ29aX0npMIg) | 3:08 | 2024-07-26 | 2024-08-31 |
@@ -1148,7 +1149,7 @@
 | [No Saving Us \(feat\. SAYGRACE\)](https://open.spotify.com/track/4GHxtNdSBBaWaivjS1Y05R) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [No Saving Us \(feat\. SAYGRACE\)](https://open.spotify.com/album/7soMTIjTtiKw0PJQVl60k0) | 3:15 | 2023-02-17 | 2023-05-13 |
 | [No Shade at Pitti](https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:33 | 2024-05-10 | 2024-06-22 |
 | [No Sleep](https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [No Sleep](https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p) | 2:50 | 2023-03-17 | 2023-06-10 |
-| [nobody \(make me feel\)](https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [nobody \(make me feel\)](https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ) | 2:45 | 2025-09-19 |  |
+| [nobody \(make me feel\)](https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [nobody \(make me feel\)](https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ) | 2:45 | 2025-09-19 | 2025-12-07 |
 | [Nostalgia](https://open.spotify.com/track/4ZFDyyJ4wvJKf916pZDMWR) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Nostalgia](https://open.spotify.com/album/1l7Nbr3Z94PU2C175XEEY6) | 2:04 | 2024-04-05 | 2024-04-27 |
 | [Nostalgia](https://open.spotify.com/track/73W9I0EIOcw8IW8zEIiyN4) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Nostalgia](https://open.spotify.com/album/6hVYf2R4nHBorsLM6Oj2cN) | 3:19 | 2024-02-16 | 2024-03-23 |
 | [Nostalgia](https://open.spotify.com/track/3AgHs7svu3fb2d5NguwfXY) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 2:44 | 2024-03-22 | 2024-04-19 |

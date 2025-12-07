@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 587 likes - 139 songs - 8 hr 8 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 587 likes - 140 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,5 +147,6 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 137 | [may be](https://open.spotify.com/track/2fbhU9BAN9DMHUJmVd2WER) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [may be](https://open.spotify.com/album/3r5LuwbKuUEhGt1fO0q0Z6) | 3:27 |
 | 138 | [Dear Malibu](https://open.spotify.com/track/6MXhSdqhQGJzLX2vdVK1O0) | [Pastel Atlas](https://open.spotify.com/artist/0dOOtoPeBfIwrRKMRJlda0) | [Dear Malibu](https://open.spotify.com/album/4lV1jPMuaz8odID52UUMcV) | 2:56 |
 | 139 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 |
+| 140 | [Lost Treasure](https://open.spotify.com/track/4eEpb5RY5a7ShP6MysMpiY) | [Richard Dobeson](https://open.spotify.com/artist/28KWLvWlBhBq9vp1HwGfTH) | [Lost Treasure](https://open.spotify.com/album/0cVssofpvNMlCU8H0RYUbi) | 1:39 |
 
-Snapshot ID: `AAADaUlmYHNs7AhWHMTjzLl1OTI26FeA`
+Snapshot ID: `AAADavi3oycLM/Isu9QVoRgu3dXIcXaO`

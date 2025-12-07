@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-104 songs - 5 hr 52 min
+105 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-11-04 |  |
 | [My Friend](https://open.spotify.com/track/60tEe3FD5InMNCDJBSOAZi) | [postcard](https://open.spotify.com/artist/3SW3Kv43pKoTu9HwN4rhSj) | [Postcard](https://open.spotify.com/album/4XcJSh9lkIQkexyxQQLoqf) | 3:25 | 2025-10-29 |  |
 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 | 2025-11-03 |  |
+| [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 | 2025-12-06 |  |
 | [Noche Salvaje](https://open.spotify.com/track/2hKsTIIIv4MvrAmIy4sWWX) | [Break.Out](https://open.spotify.com/artist/5QYRdCdd7IpHlwrh5v2PPT) | [Noche Salvaje](https://open.spotify.com/album/5XQB8rZPholnVJusb803uP) | 3:21 | 2025-10-29 |  |
 | [Not Supposed to Let You Know](https://open.spotify.com/track/7nOehwhib8wpPrvt4ZFF2f) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Not Supposed to Let You Know](https://open.spotify.com/album/3X5OMgdsTqKqo0ZZ4RO98k) | 3:41 | 2025-11-28 |  |
 | [NOV\. 7TH](https://open.spotify.com/track/5CfQglqzFQs8Lh4XFkB8Jz) | [BLACKPUNK!](https://open.spotify.com/artist/433Ag1dK5zyWGEe1T58RgZ), [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN), [Mr\. Starbeast](https://open.spotify.com/artist/2g5awxfkf1XlvYsNBjATI8) | [NOV\. 7TH](https://open.spotify.com/album/7vM9Lwq37Xqjbz01xW2Gii) | 3:17 | 2025-11-11 |  |

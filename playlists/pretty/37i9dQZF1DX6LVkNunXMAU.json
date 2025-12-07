@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Diosque y Juliana Gattas",
-  "num_followers": 61512,
+  "num_followers": 61517,
   "original_name": "folk & primavera",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
+        "name": "Si Sabes Regresar",
+        "url": "https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN"
+      },
+      "artists": [
+        {
+          "name": "Molok0",
+          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+        }
+      ],
+      "duration_ms": 158658,
+      "name": "Si Sabes Regresar",
+      "url": "https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
         "name": "Me Gustas Tanto (Remix)",
         "url": "https://open.spotify.com/album/76AkbUyhoc5LgqeroxLXw4"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 208213,
       "name": "Me Gustas Tanto - Remix",
       "url": "https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "Si Sabes Regresar",
-        "url": "https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN"
-      },
-      "artists": [
-        {
-          "name": "Molok0",
-          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
-        }
-      ],
-      "duration_ms": 158658,
-      "name": "Si Sabes Regresar",
-      "url": "https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Madre",
-        "url": "https://open.spotify.com/album/3tCum4uYwoeZQKS6MF5Huj"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 187088,
-      "name": "Madre",
-      "url": "https://open.spotify.com/track/3aC7Zr43bVLQU9s2d12enq"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "Vapor",
         "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
       },
@@ -667,22 +647,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "todo es luz",
-        "url": "https://open.spotify.com/album/7vWQ4mxTjNwxFhSCawpTeG"
+        "name": "Madre",
+        "url": "https://open.spotify.com/album/3tCum4uYwoeZQKS6MF5Huj"
       },
       "artists": [
         {
-          "name": "Franco Masciarelli",
-          "url": "https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c"
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
         },
         {
-          "name": "Sofia Macchi",
-          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
         }
       ],
-      "duration_ms": 253141,
-      "name": "todo es luz",
-      "url": "https://open.spotify.com/track/1ShA7GuWcYnxrKuwXxilqF"
+      "duration_ms": 187088,
+      "name": "Madre",
+      "url": "https://open.spotify.com/track/3aC7Zr43bVLQU9s2d12enq"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -707,6 +687,26 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
+        "name": "todo es luz",
+        "url": "https://open.spotify.com/album/7vWQ4mxTjNwxFhSCawpTeG"
+      },
+      "artists": [
+        {
+          "name": "Franco Masciarelli",
+          "url": "https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c"
+        },
+        {
+          "name": "Sofia Macchi",
+          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+        }
+      ],
+      "duration_ms": 253141,
+      "name": "todo es luz",
+      "url": "https://open.spotify.com/track/1ShA7GuWcYnxrKuwXxilqF"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
         "name": "el gil",
         "url": "https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 272500,
       "name": "el gil",
       "url": "https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "La flor",
-        "url": "https://open.spotify.com/album/7AhQPybEfm0TDETnoYNHSY"
-      },
-      "artists": [
-        {
-          "name": "Minco",
-          "url": "https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0"
-        }
-      ],
-      "duration_ms": 177005,
-      "name": "La flor",
-      "url": "https://open.spotify.com/track/3NVKTfHRh54yr5bGcCt5Z1"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -775,22 +759,18 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "volver a verme",
-        "url": "https://open.spotify.com/album/7dZ5pvDh0rHaMavQ6RBkl9"
+        "name": "La flor",
+        "url": "https://open.spotify.com/album/7AhQPybEfm0TDETnoYNHSY"
       },
       "artists": [
         {
-          "name": "Franco Masciarelli",
-          "url": "https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c"
-        },
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+          "name": "Minco",
+          "url": "https://open.spotify.com/artist/1bh3W2nSMpGnc7jApTUcH0"
         }
       ],
-      "duration_ms": 228363,
-      "name": "volver a verme",
-      "url": "https://open.spotify.com/track/1j5SV3GIztoQRptqrn6ZFZ"
+      "duration_ms": 177005,
+      "name": "La flor",
+      "url": "https://open.spotify.com/track/3NVKTfHRh54yr5bGcCt5Z1"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -807,6 +787,26 @@
       "duration_ms": 110762,
       "name": "Iuju",
       "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "volver a verme",
+        "url": "https://open.spotify.com/album/7dZ5pvDh0rHaMavQ6RBkl9"
+      },
+      "artists": [
+        {
+          "name": "Franco Masciarelli",
+          "url": "https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 228363,
+      "name": "volver a verme",
+      "url": "https://open.spotify.com/track/1j5SV3GIztoQRptqrn6ZFZ"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "2:42",
-        "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
-      },
-      "artists": [
-        {
-          "name": "SANTACRUZ",
-          "url": "https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2"
-        }
-      ],
-      "duration_ms": 171388,
-      "name": "2:42",
-      "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "INFRUTESCENCIA",
         "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 139264,
       "name": "PARA VERTE",
       "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "2:42",
+        "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
+      },
+      "artists": [
+        {
+          "name": "SANTACRUZ",
+          "url": "https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2"
+        }
+      ],
+      "duration_ms": 171388,
+      "name": "2:42",
+      "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 244689,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
+        "name": "Un amor",
+        "url": "https://open.spotify.com/album/1MRtSdJSapLRHzJeeuv4kL"
+      },
+      "artists": [
+        {
+          "name": "Ihara",
+          "url": "https://open.spotify.com/artist/5HMSeEkN5TBGd50gdBNPL2"
+        }
+      ],
+      "duration_ms": 194375,
+      "name": "Un amor",
+      "url": "https://open.spotify.com/track/3IL3mklv4NTLUANPgg9G9O"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
         "name": "Carretera Austral",
         "url": "https://open.spotify.com/album/09aNyCG1HL7eBxvJSpDpWg"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 264582,
       "name": "Carretera Austral",
       "url": "https://open.spotify.com/track/5xtCrCYy7q5od2jx0GHkdg"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "Un amor",
-        "url": "https://open.spotify.com/album/1MRtSdJSapLRHzJeeuv4kL"
-      },
-      "artists": [
-        {
-          "name": "Ihara",
-          "url": "https://open.spotify.com/artist/5HMSeEkN5TBGd50gdBNPL2"
-        }
-      ],
-      "duration_ms": 194375,
-      "name": "Un amor",
-      "url": "https://open.spotify.com/track/3IL3mklv4NTLUANPgg9G9O"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "Caminito",
         "url": "https://open.spotify.com/album/6K3521IAJJFcPu0cY0d0V4"
       },
@@ -1267,6 +1251,42 @@
       "duration_ms": 166500,
       "name": "Caminito",
       "url": "https://open.spotify.com/track/1nLPGf1saHtgUgHEDWBjMP"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Un Nuevo Ritmo",
+        "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 213164,
+      "name": "Un Nuevo Ritmo",
+      "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1291,22 +1311,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Un Nuevo Ritmo",
-        "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
+        "name": "Lo Que Hicimos",
+        "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
       },
       "artists": [
         {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
         },
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "S\u00f3nico Vivo",
+          "url": "https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe"
         }
       ],
-      "duration_ms": 213164,
-      "name": "Un Nuevo Ritmo",
-      "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+      "duration_ms": 157725,
+      "name": "Lo Que Hicimos",
+      "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1347,22 +1367,18 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Lo Que Hicimos",
-        "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
+        "name": "Coraz\u00f3n de Metal",
+        "url": "https://open.spotify.com/album/6akKOPEnC76tjH5SaSCVns"
       },
       "artists": [
         {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "S\u00f3nico Vivo",
-          "url": "https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe"
+          "name": "B\u00e1rbara Jorcin",
+          "url": "https://open.spotify.com/artist/4DQnZeuDDLSiEOcLFrKLT6"
         }
       ],
-      "duration_ms": 157725,
-      "name": "Lo Que Hicimos",
-      "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
+      "duration_ms": 175408,
+      "name": "Coraz\u00f3n de Metal",
+      "url": "https://open.spotify.com/track/2WfjpO5nlmUHSN0NLQs6IQ"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1379,22 +1395,6 @@
       "duration_ms": 194611,
       "name": "Ser\u00e9 m\u00eda",
       "url": "https://open.spotify.com/track/6ztXazDxjvxifJMWRAGkKn"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "Coraz\u00f3n de Metal",
-        "url": "https://open.spotify.com/album/6akKOPEnC76tjH5SaSCVns"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Jorcin",
-          "url": "https://open.spotify.com/artist/4DQnZeuDDLSiEOcLFrKLT6"
-        }
-      ],
-      "duration_ms": 175408,
-      "name": "Coraz\u00f3n de Metal",
-      "url": "https://open.spotify.com/track/2WfjpO5nlmUHSN0NLQs6IQ"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Tur Blues",
-        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 213112,
-      "name": "Tur Blues",
-      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
       },
@@ -1467,22 +1447,22 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Comerte la boca (Nos Vamos a Comer)",
-        "url": "https://open.spotify.com/album/7F2KSKTlQTkbKRS1DSeSo1"
+        "name": "Tur Blues",
+        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
       "artists": [
         {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
         },
         {
-          "name": "LAIA",
-          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
         }
       ],
-      "duration_ms": 147658,
-      "name": "Comerte la boca (Nos Vamos a Comer)",
-      "url": "https://open.spotify.com/track/51O0WXWf7ZrcNGuNWCzfWl"
+      "duration_ms": 213112,
+      "name": "Tur Blues",
+      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1523,6 +1503,26 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
+        "name": "Comerte la boca (Nos Vamos a Comer)",
+        "url": "https://open.spotify.com/album/7F2KSKTlQTkbKRS1DSeSo1"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        },
+        {
+          "name": "LAIA",
+          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
+        }
+      ],
+      "duration_ms": 147658,
+      "name": "Comerte la boca (Nos Vamos a Comer)",
+      "url": "https://open.spotify.com/track/51O0WXWf7ZrcNGuNWCzfWl"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
         "name": "A la deriva",
         "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Caparaz\u00f3n",
-        "url": "https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp"
-      },
-      "artists": [
-        {
-          "name": "Delfi Moore",
-          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
-        }
-      ],
-      "duration_ms": 187594,
-      "name": "Caparaz\u00f3n",
-      "url": "https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
         "name": "Barquinho",
         "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
       },
@@ -1575,18 +1559,34 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Final Feliz",
-        "url": "https://open.spotify.com/album/1DzJ8Md2trz0mN8KQh5tZ9"
+        "name": "Caparaz\u00f3n",
+        "url": "https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp"
       },
       "artists": [
         {
-          "name": "JUSTINA",
-          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
+          "name": "Delfi Moore",
+          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Final Feliz",
-      "url": "https://open.spotify.com/track/0znwYCQWSS5Bupi6ZI4JhM"
+      "duration_ms": 187594,
+      "name": "Caparaz\u00f3n",
+      "url": "https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 223349,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1607,34 +1607,18 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
+        "name": "Final Feliz",
+        "url": "https://open.spotify.com/album/1DzJ8Md2trz0mN8KQh5tZ9"
       },
       "artists": [
         {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+          "name": "JUSTINA",
+          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
         }
       ],
-      "duration_ms": 212444,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 223349,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
+      "duration_ms": 214706,
+      "name": "Final Feliz",
+      "url": "https://open.spotify.com/track/0znwYCQWSS5Bupi6ZI4JhM"
     },
     {
       "added_at": "2025-10-27 16:45:31",
@@ -1679,6 +1663,38 @@
     {
       "added_at": "2025-10-27 16:45:31",
       "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 212444,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
+        "name": "D\u00eda tras d\u00eda",
+        "url": "https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF"
+      },
+      "artists": [
+        {
+          "name": "El Tio Valen",
+          "url": "https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "D\u00eda tras d\u00eda",
+      "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
+    },
+    {
+      "added_at": "2025-10-27 16:45:31",
+      "album": {
         "name": "Comida China",
         "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 162993,
       "name": "Comida China",
       "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
-    },
-    {
-      "added_at": "2025-10-27 16:45:31",
-      "album": {
-        "name": "Ni\u00f1o Bosque",
-        "url": "https://open.spotify.com/album/0X7lBPRO37oNovgx6tdPN5"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Morgade",
-          "url": "https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF"
-        }
-      ],
-      "duration_ms": 176916,
-      "name": "Ni\u00f1o Bosque",
-      "url": "https://open.spotify.com/track/3NgFZGH2w9BqkNVyxsBP1X"
     }
   ],
   "unique_name": "folk & primavera",

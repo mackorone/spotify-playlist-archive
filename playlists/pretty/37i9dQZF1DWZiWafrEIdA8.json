@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13157,
+  "num_followers": 13167,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
+        "name": "[Hwa Sa Show Vol.1] just talking to myself",
+        "url": "https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "just talking to myself",
+      "url": "https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
         "name": "On the street",
         "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 209154,
       "name": "On the street (Feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
-        "name": "[Hwa Sa Show Vol.1] just talking to myself",
-        "url": "https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "just talking to myself",
-      "url": "https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -823,6 +823,26 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
+        "name": "Show Me the Money 4 Episode 5",
+        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 249317,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
         "name": "TOYSTORY3",
         "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 234306,
       "name": "Never Ending Story (Feat. Dynamicduo)",
       "url": "https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
-        "name": "Show Me the Money 4 Episode 5",
-        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 249317,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -931,26 +931,6 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/5xMDM5NhrHaiQ9yrcf7uKj"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Hannah",
-          "url": "https://open.spotify.com/artist/2XHuhBOiADOIR91vFkNq6Q"
-        }
-      ],
-      "duration_ms": 233092,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/1Z8I2cvV9JQZqB1YA0O3PY"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
         "name": "365&7",
         "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 169133,
       "name": "365&7 (Feat. JAMIE)",
       "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/5xMDM5NhrHaiQ9yrcf7uKj"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Hannah",
+          "url": "https://open.spotify.com/artist/2XHuhBOiADOIR91vFkNq6Q"
+        }
+      ],
+      "duration_ms": 233092,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/1Z8I2cvV9JQZqB1YA0O3PY"
     },
     {
       "added_at": "2025-09-29 05:04:58",

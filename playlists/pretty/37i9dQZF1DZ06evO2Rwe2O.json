@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAACTXAjTJHOaRzxDMdJISf6e",
+  "snapshot_id": "aTIggAAAAAC9ZKxSl2MxLuPx5DV9sTo2",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger No More",
-        "url": "https://open.spotify.com/album/0DS9botbRJdPSK6JNmclu0"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        },
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 223765,
-      "name": "Stranger No More",
-      "url": "https://open.spotify.com/track/2XYTPC9zVV8AcukTR8W8jJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volume 3",
         "url": "https://open.spotify.com/album/6LhBi5MCG1JHC5rfO8RWJH"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 257940,
       "name": "I Speak Jesus",
       "url": "https://open.spotify.com/track/7MRQ4joddMDJeA2TUiD1a4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stranger No More",
+        "url": "https://open.spotify.com/album/0DS9botbRJdPSK6JNmclu0"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 223765,
+      "name": "Stranger No More",
+      "url": "https://open.spotify.com/track/2XYTPC9zVV8AcukTR8W8jJ"
     },
     {
       "added_at": null,

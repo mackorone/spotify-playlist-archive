@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,676 likes - 91 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,946 likes - 91 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 4 | [Cornfield Chase \- Piano\-Cello Version](https://open.spotify.com/track/0dn7lN2ky5BnUJNoELXh3i) | [Michael Forster](https://open.spotify.com/artist/0TORlmlTHaneG9k4nWPn0V), [Anna Stevens](https://open.spotify.com/artist/1vIQpbquJceZ12FiKFnnzv) | [Piano Chill](https://open.spotify.com/album/01O3K6QN4xR3YR2j00ONtr) | 2:04 |
 | 5 | [Andrei](https://open.spotify.com/track/3FuIwtiMNisauMhKOdmPjO) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [War & Peace \(Original Soundtrack by Martin Phipps\)](https://open.spotify.com/album/783EdYKCbDqS0I6TrCGCnl) | 3:19 |
 | 6 | [Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 |
-| 7 | [A Hidden Life](https://open.spotify.com/track/6VhExWbPovba3QfMY1sw7U) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [James Ehnes](https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8), [Andrew Armstrong](https://open.spotify.com/artist/3pi9i7KYNops33AeHXFGMz) | [A Hidden Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7) | 2:50 |
+| 7 | [A Hidden Life \(From "A Hidden Life" Soundtrack\)](https://open.spotify.com/track/6VhExWbPovba3QfMY1sw7U) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [James Ehnes](https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8), [Andrew Armstrong](https://open.spotify.com/artist/3pi9i7KYNops33AeHXFGMz) | [A Hidden Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7) | 2:50 |
 | 8 | [Mrs Darcy \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/6EDyPQRGyaPhNUCjJXR23r) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Pride and Prejudice OST](https://open.spotify.com/album/31qEnY1MFmGwOdgjLLClPd) | 3:43 |
 | 9 | [Resonance](https://open.spotify.com/track/5jBvpZQRplWigmvSjMY2o4) | [Jamie Duffy](https://open.spotify.com/artist/2yvguoW65iZdUhca8yIfIo) | [Jamie Duffy](https://open.spotify.com/album/7kZvHM83uaWWdoGUR8EFXP) | 3:53 |
 | 10 | [Lullabying](https://open.spotify.com/track/66iRadfmhQJCkJvWmUKwNT) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Eternal Echoes](https://open.spotify.com/album/3E2zcjhDZtmquk3d54VMzi) | 3:16 |

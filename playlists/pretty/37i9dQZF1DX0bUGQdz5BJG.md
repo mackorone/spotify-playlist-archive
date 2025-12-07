@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Lily Meola
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,608 likes - 199 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,633 likes - 199 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

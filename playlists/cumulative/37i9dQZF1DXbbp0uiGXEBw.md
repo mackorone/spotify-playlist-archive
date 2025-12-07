@@ -4,7 +4,7 @@
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: VSTRA
 
-367 songs - 23 hr 10 min
+368 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 | 2021-12-07 |  |
 | [Em Là Bông Hoa Của Ai](https://open.spotify.com/track/7I3xiEyT3CzBYu3aSFPmeq) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Em Là Bông Hoa Của Ai](https://open.spotify.com/album/0Mshz1KpsO3gtVZx5vQPQo) | 4:25 | 2025-11-06 | 2025-12-04 |
 | [Em Là Coffee](https://open.spotify.com/track/2mC5v8NMmr6NjKyV7alPDu) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Em Là Coffee](https://open.spotify.com/album/6qagm5uRQf1OfpApaDGIEa) | 3:05 | 2023-02-06 | 2024-01-10 |
+| [Em Muốn Được Bay](https://open.spotify.com/track/7Alqz3KnV46S8lkFZha1hg) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [Em Muốn Được Bay](https://open.spotify.com/album/5Hj2bCXXleZ5nXjoJqOeLP) | 4:05 | 2025-12-06 |  |
 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/2hHic1AMDTtCmK072fentL) | 3:48 | 2022-07-24 | 2025-12-04 |
 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/2WEGXC92GQ1w6gMC4n6i6I) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/3Q5X1Ye28iIRVKATFQrFpS) | 3:48 | 2022-07-24 | 2022-07-31 |
 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/6jS9KdVErfIauI0XXX64sw) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/3MN286Nzodk9pQecwhTIwZ) | 3:48 | 2021-12-07 | 2022-07-29 |
@@ -211,7 +212,7 @@
 | [Mỗi Khi Anh Nhìn Em](https://open.spotify.com/track/3PKqHxhKXSOfENDJywBFOe) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Em](https://open.spotify.com/album/5r85lwBL5ytrpQlWSAsNjy) | 3:10 | 2025-03-04 | 2025-06-05 |
 | [Mỗi Khi Anh Nhìn Em](https://open.spotify.com/track/3sU34vxNXY8rDdfkFPqiKO) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Em•Me \(Full Circle Edition\)](https://open.spotify.com/album/6xfxgx6Hkit06gueMUNCME) | 3:10 | 2025-02-04 | 2025-02-14 |
 | [Một Cú Lừa](https://open.spotify.com/track/2LKI0fGEKR3RWAiY2jqq8k) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/0JoA8Z6TWI31c6uWXldxyU) | 3:28 | 2021-12-07 | 2022-07-29 |
-| [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 2:32 | 2022-07-24 |  |
+| [Một Cú Lừa](https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/56sZf01q5Ih5jXICYyslq7) | 2:32 | 2022-07-24 | 2025-12-07 |
 | [Một Cú Lừa](https://open.spotify.com/track/0d6x6469lyfnzbZp259vqS) | [Bích Phương](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/0VRy0RRhR213csO57y3gKe) | 3:28 | 2025-10-01 |  |
 | [Một Ngàn Nỗi Đau](https://open.spotify.com/track/05X3a0YGmS1rbH50aL8lGF) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Một Ngàn Nỗi Đau](https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz) | 5:21 | 2022-06-30 | 2022-10-05 |
 | [Một Ngày Chẳng Nắng](https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Một Ngày Chẳng Nắng](https://open.spotify.com/album/5KOH4cewrrp8flJpIAmeoX) | 3:12 | 2023-06-06 |  |

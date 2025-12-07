@@ -1,13 +1,45 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9076,
+  "num_followers": 9077,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAPNtbg5lYrPH9wSKd56f1UM8t87BIf",
+  "snapshot_id": "AAAPO11GNbCG4iLZZpJWXNs2Q+Y0K3de",
   "tracks": [
+    {
+      "added_at": "2025-12-06 14:24:17",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 222656,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
+    },
+    {
+      "added_at": "2025-12-05 20:21:42",
+      "album": {
+        "name": "Fleshbound Reliquary",
+        "url": "https://open.spotify.com/album/7iPJGYLSog212KMkIfuKl1"
+      },
+      "artists": [
+        {
+          "name": "The Zenith Passage",
+          "url": "https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf"
+        }
+      ],
+      "duration_ms": 328897,
+      "name": "Fleshbound Reliquary",
+      "url": "https://open.spotify.com/track/4RzvevjyzXsDp1KV6oQKrd"
+    },
     {
       "added_at": "2025-12-05 20:21:20",
       "album": {
@@ -41,22 +73,6 @@
       "url": "https://open.spotify.com/track/1vw01GQt7Pf5Cmx5iehWZg"
     },
     {
-      "added_at": "2025-12-05 20:20:18",
-      "album": {
-        "name": "Leather Temple",
-        "url": "https://open.spotify.com/album/4GbZyvHTaq3brBs1voKVwK"
-      },
-      "artists": [
-        {
-          "name": "Carpenter Brut",
-          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Leather Temple",
-      "url": "https://open.spotify.com/track/5TGCq9mNirOQds6F2J1PnA"
-    },
-    {
       "added_at": "2025-12-05 20:21:09",
       "album": {
         "name": "Cannibal",
@@ -73,20 +89,20 @@
       "url": "https://open.spotify.com/track/2TqhTORgYMBEz8hrLbXIhT"
     },
     {
-      "added_at": "2025-12-05 20:21:42",
+      "added_at": "2025-12-05 20:20:18",
       "album": {
-        "name": "Fleshbound Reliquary",
-        "url": "https://open.spotify.com/album/7iPJGYLSog212KMkIfuKl1"
+        "name": "Leather Temple",
+        "url": "https://open.spotify.com/album/4GbZyvHTaq3brBs1voKVwK"
       },
       "artists": [
         {
-          "name": "The Zenith Passage",
-          "url": "https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf"
+          "name": "Carpenter Brut",
+          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
         }
       ],
-      "duration_ms": 328897,
-      "name": "Fleshbound Reliquary",
-      "url": "https://open.spotify.com/track/4RzvevjyzXsDp1KV6oQKrd"
+      "duration_ms": 215973,
+      "name": "Leather Temple",
+      "url": "https://open.spotify.com/track/5TGCq9mNirOQds6F2J1PnA"
     },
     {
       "added_at": "2025-11-28 19:29:30",

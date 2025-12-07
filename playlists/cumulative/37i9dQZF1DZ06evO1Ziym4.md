@@ -4,13 +4,14 @@
 
 > This is Guns N' Roses\. The essential tracks, all in one playlist.
 
-65 songs - 5 hr 17 min
+67 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [14 Years](https://open.spotify.com/track/7xki0BmuOllyquWqjhETyr) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 4:21 | 2022-09-17 |  |
 | [ABSUЯD](https://open.spotify.com/track/7q4Miqc5itaPtd20K2gH4N) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [ABSUЯD](https://open.spotify.com/album/0dMoESugZcGjrttbxxxqdV) | 3:23 | 2022-09-17 |  |
 | [Ain't It Fun](https://open.spotify.com/track/6O2fGDuLTT67XT6wWbkKHh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 5:05 | 2022-09-17 |  |
+| [Atlas](https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Atlas](https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb) | 3:58 | 2025-12-07 |  |
 | [Attitude](https://open.spotify.com/track/0ivarc4umuzp5I3J7lPDJc) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 1:27 | 2022-09-17 |  |
 | [Better](https://open.spotify.com/track/3nW5v0Htr1ySk8czTJIA2V) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 4:57 | 2022-09-17 |  |
 | [Chinese Democracy](https://open.spotify.com/track/0zoK1L5JxJbyk7T2nw367B) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 4:43 | 2022-09-17 |  |
@@ -42,6 +43,7 @@
 | [Nice Boys \- Live](https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 3:02 | 2023-03-22 |  |
 | [Nightrain](https://open.spotify.com/track/2vNw57KPaYDzkyPxXYUORX) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 4:26 | 2022-09-17 | 2023-03-18 |
 | [Nightrain](https://open.spotify.com/track/7CBFRsUz1pz1cS12soVhih) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:28 | 2023-03-17 |  |
+| [Nothin'](https://open.spotify.com/track/49u9MlLKXc0NLg6m775ecd) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Nothin'](https://open.spotify.com/album/6BieAhfPQAUAISRIaNP5ER) | 4:23 | 2025-12-07 |  |
 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 | 2022-09-17 |  |
 | [One In A Million](https://open.spotify.com/track/693Vu2TytCbonbTu9qQ8M3) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU) | 6:08 | 2023-03-21 | 2024-06-01 |
 | [One In A Million](https://open.spotify.com/track/1dKUedvGLfp8byiThM1TO0) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 6:11 | 2022-09-17 | 2023-03-22 |

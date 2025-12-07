@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: 임윤찬\(Yunchan Lim\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,068 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,069 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 49 | [The Red String](https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8) | [Hyungjoo Lim](https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG) | [Lost In Memory](https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj) | 4:39 |
 | 50 | [Minuet in G Minor, HWV 434 No\. 4 \(Arr\. Kempff for Piano\)](https://open.spotify.com/track/54o2CXo5WVAMIYHW0k9pqs) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [The Handel Project: Handel\-Suites & Brahms\-Variations](https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE) | 4:17 |
 
-Snapshot ID: `AAAAAPiZ9DUR19prFnygxsJu9llvIxmy`
+Snapshot ID: `AAAAAMtSAi4ebqYjP3haxh/psAxnnmo0`

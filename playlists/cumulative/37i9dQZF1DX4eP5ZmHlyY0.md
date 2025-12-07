@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ALPHA DRIVE ONE
 
-820 songs - 1 day 20 hr 57 min
+821 songs - 1 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,6 +601,7 @@
 | [Step by Step](https://open.spotify.com/track/1zLdLI3VhSChUB1vlA4GYG) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Step by Step](https://open.spotify.com/album/4YqxNq9s42iBQ30nQsLlJD) | 3:24 | 2025-05-26 | 2025-07-22 |
 | [STEP IT UP](https://open.spotify.com/track/1FCj33CWl1pCJnDZZGpF1y) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [STEP IT UP](https://open.spotify.com/album/3MBiIPA9X5spqqQmnPlDu0) | 2:17 | 2025-08-07 | 2025-09-16 |
 | [STEPPIN'](https://open.spotify.com/track/2zIBNnjKTQ0wpNW7369iQw) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [uNi](https://open.spotify.com/album/08xmveHVtLw1t4cb5fx02c) | 3:15 | 2025-03-25 | 2025-05-09 |
+| [Still Love You](https://open.spotify.com/track/1iTD1cezCFJgVsTQ9shCnI) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Still Love You\]](https://open.spotify.com/album/5NJHeBJzOo41F03PAdSBiP) | 3:42 | 2025-12-06 |  |
 | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN) | [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI) | 3:10 | 2025-05-02 | 2025-07-02 |
 | [Story](https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Story](https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX) | 2:26 | 2024-07-09 | 2024-10-16 |
 | [Stretch](https://open.spotify.com/track/45ika45Kgm9A0a9Hg36tRz) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [I\-KNOW \- The 1st Album](https://open.spotify.com/album/0as0v59idZjdfApWTAItnC) | 3:02 | 2025-11-05 |  |
@@ -644,7 +645,7 @@
 | [The Stranger](https://open.spotify.com/track/4YAgji0t2oRqsu2HJ8YtBD) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY IDENTITY](https://open.spotify.com/album/4LCtoxSKDHcUilR9nM9teK) | 3:03 | 2025-03-06 | 2025-04-21 |
 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 | 2025-05-26 |  |
 | [Tick\-Tack](https://open.spotify.com/track/3BNpzwhcHzHbn2c0Ymmzib) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Tick\-Tack](https://open.spotify.com/album/0QL5RbXpEomD15jDSbTkr5) | 2:49 | 2025-04-08 | 2025-05-07 |
-| [Tiger](https://open.spotify.com/track/0gNPZeBRc7Yal1BlDKc8we) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Unit Digital Single \[Tiger\]](https://open.spotify.com/album/3ld4YGGgl5gLB0rfkm20ma) | 2:52 | 2025-11-11 |  |
+| [Tiger](https://open.spotify.com/track/0gNPZeBRc7Yal1BlDKc8we) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Unit Digital Single \[Tiger\]](https://open.spotify.com/album/3ld4YGGgl5gLB0rfkm20ma) | 2:52 | 2025-11-11 | 2025-12-07 |
 | [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/track/5ZwXgb8dQuK1GC15s7tG5L) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [EWC](https://open.spotify.com/artist/4kKPwcOLjcgetDZos7Yx1K) | [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/album/6YsKzkuaCcKLEPGN69hnU1) | 3:02 | 2025-07-01 | 2025-07-09 |
 | [Time](https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:44 | 2025-04-24 | 2025-09-19 |
 | [TIME MACHINE](https://open.spotify.com/track/5NRkJih2PxdvMS8Bz3qA7q) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [TIME MACHINE](https://open.spotify.com/album/1GbvjB3ehllvBn31u6Iaer) | 3:35 | 2025-05-01 | 2025-06-29 |

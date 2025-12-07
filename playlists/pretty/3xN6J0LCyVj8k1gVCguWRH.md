@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,621 likes - 185 songs - 10 hr 58 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,611 likes - 185 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 30 | [God is My Strength \(Gabriella\)](https://open.spotify.com/track/0n5xl1JZ7TEaCRJHu0wIO6) | [Gabby Poli](https://open.spotify.com/artist/4gLuj01C8v07FzdFOkHPFq) | [God is My Strength \(Gabriella\)](https://open.spotify.com/album/1lyXfHF1UIHyvW640FKojp) | 3:49 |
 | 31 | [Lie To Me](https://open.spotify.com/track/3TgL95YXeyc28PCFqKuwrL) | [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL), [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb) | [Lie To Me](https://open.spotify.com/album/5hEZJAXDNWhlUKImqqcTmn) | 3:46 |
 | 32 | [Lakeside](https://open.spotify.com/track/0tBtqZdkYcmLYhCElXtCMV) | [Luvall](https://open.spotify.com/artist/29QgcfGCGexIlzUypdYDzM) | [Lakeside](https://open.spotify.com/album/7itZ0XTVvEGsWaCKQ4Vbts) | 1:55 |
-| 33 | [WHISKEY FOR BREAKFAST](https://open.spotify.com/track/79eMF1a2HuQTWy70WIVMe7) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [WHISKEY FOR BREAKFAST](https://open.spotify.com/album/6hWZ0CaPsjoZdxuDIPf7lT) | 3:06 |
-| 34 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
-| 35 | [Pink Cigarette](https://open.spotify.com/track/4MdaWs0CMx1Jwl01LnCVbs) | [HAMEX](https://open.spotify.com/artist/2V16fiJ3HvYKclGULE2AW7) | [Pink Cigarette](https://open.spotify.com/album/2lWD8jUZsjMa5uzgUoHl92) | 2:23 |
-| 36 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 |
+| 33 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
+| 34 | [Pink Cigarette](https://open.spotify.com/track/4MdaWs0CMx1Jwl01LnCVbs) | [HAMEX](https://open.spotify.com/artist/2V16fiJ3HvYKclGULE2AW7) | [Pink Cigarette](https://open.spotify.com/album/2lWD8jUZsjMa5uzgUoHl92) | 2:23 |
+| 35 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 |
+| 36 | [WHISKEY FOR BREAKFAST](https://open.spotify.com/track/79eMF1a2HuQTWy70WIVMe7) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [WHISKEY FOR BREAKFAST](https://open.spotify.com/album/6hWZ0CaPsjoZdxuDIPf7lT) | 3:06 |
 | 37 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
 | 38 | [As Long As You'll Stay](https://open.spotify.com/track/3RcwUz91DYJUFlTsuIeVGQ) | [Braison Cyrus](https://open.spotify.com/artist/6VBgMdUuX6QKDkK7pRLJx0), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [As Long As You'll Stay](https://open.spotify.com/album/3fsPGrtlrEATa73CcQvqsu) | 2:51 |
 | 39 | [Most of the Time](https://open.spotify.com/track/3vX49liEI7bAxMLvLP1gTW) | [Bets](https://open.spotify.com/artist/1UKb8fKzb3cCbapXoaMbqH) | [Days Hours Nights](https://open.spotify.com/album/7pwaBIepILNjay0iv4O4SD) | 2:51 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 184 | [Fragments](https://open.spotify.com/track/5MtFKgN0y2xhrPxqTRvSaq) | [Saint Sulpice](https://open.spotify.com/artist/3y5zh9y3262XjWRZxLLMBu) | [The Ides of March](https://open.spotify.com/album/2XrJJTibYl6JSrMd5IsLu7) | 3:44 |
 | 185 | [Fixin' Too](https://open.spotify.com/track/6sTmdvCm99X0hRQ9cWEOqZ) | [James Hollingsworth](https://open.spotify.com/artist/7wNAA6B6VDlkAuwSlgfLeV), [Molly Lovette](https://open.spotify.com/artist/173IW0WbY02WURT81tkEEr) | [Fixin' Too](https://open.spotify.com/album/74YSx5IzX11H1wA6m9Ugpm) | 3:37 |
 
-Snapshot ID: `AAA19z2zRdjk47oFcxQiKoWLXSGx0SOu`
+Snapshot ID: `AAA1+PX/Zt2m17Q7shjZIe112QCk9Kvy`

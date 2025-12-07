@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232837,
+  "num_followers": 232855,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
+        "name": "Am\u00e9rica Brasil Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "Tive Raz\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
         "name": "Jovelina P\u00e9rola Negra",
         "url": "https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 246733,
       "name": "Nas Asas da Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
-        "name": "Am\u00e9rica Brasil Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "Tive Raz\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14"
     },
     {
       "added_at": "2025-09-19 22:07:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: 태연\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,240 likes - 110 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,225 likes - 110 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 22 | [FORMULA](https://open.spotify.com/track/7z81drJrJ391T2RRwFLNTk) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [FORMULA](https://open.spotify.com/album/47uqilRXlk7qLpre3yubx5) | 3:08 |
 | 23 | [Flower](https://open.spotify.com/track/1lI5CLWCAf2M8MxyAzsBUt) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Harmless Pt.2 : Home Session](https://open.spotify.com/album/5zbNvkaxjnyQQmLFu308QC) | 2:34 |
 | 24 | [UxYOUxU](https://open.spotify.com/track/7FMjQgcvSnAbLDFWNcL1Xu) | [CHUEI LI YU](https://open.spotify.com/artist/6d08w23ccJlF5f0I7tKlGl) | [SWEET DREAM](https://open.spotify.com/album/78sWCAEgt78WNRfwkGijgX) | 2:25 |
-| 25 | [MY MAN \- Instrumental](https://open.spotify.com/track/5b7tap7ob0rrZIA2DsyOQe) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Yun Seokcheol](https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we) | [MY MAN](https://open.spotify.com/album/5m4tzRlNB4CCP2ZPf8YgBC) | 2:50 |
+| 25 | [MY MAN](https://open.spotify.com/track/5b7tap7ob0rrZIA2DsyOQe) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Yun Seokcheol](https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we) | [MY MAN](https://open.spotify.com/album/5m4tzRlNB4CCP2ZPf8YgBC) | 2:50 |
 | 26 | [Have I Asked You](https://open.spotify.com/track/6ntNYbDZwSmYiQAaqTYo01) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB) | [Cityboys Attitude](https://open.spotify.com/album/6Ocr3jf1Opxm12ZQchH0sq) | 3:32 |
 | 27 | [Let it snow](https://open.spotify.com/track/19w33l0Vqs74bHG0f4QoLf) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [Ko Youngbae](https://open.spotify.com/artist/135TOw1jqM2Bolkngy62nS) | [Let it snow](https://open.spotify.com/album/12cSuRlNy97Rk6fKPqBzLz) | 3:41 |
 | 28 | [TAKE BACK](https://open.spotify.com/track/3efKgBOz7SnNYZfV1zSfjB) | [JIMIN](https://open.spotify.com/artist/0bxSJJ7V2M4Zb9lpRzWPD8) | [TAKE BACK \(Webtoon 'The Maid' Original Soundtrack\)](https://open.spotify.com/album/4YqWI7NA5jZtAxFWcQSFPe) | 2:52 |

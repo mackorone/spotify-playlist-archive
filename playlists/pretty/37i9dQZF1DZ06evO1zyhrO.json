@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103782,
+  "num_followers": 103783,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAAA62e0tfBlY1QI2n37QBMW3",
+  "snapshot_id": "aTIggAAAAAAfh1nBWUh1fB6QNwG8DToI",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "22 (Deluxe)",
+        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "Obvious - feat. Muni Long",
+      "url": "https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
         "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 183645,
       "name": "Nothing Like This",
       "url": "https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "22 (Deluxe)",
-        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "Obvious - feat. Muni Long",
-      "url": "https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Neighbour Got Their Flava (Just Eat)",
-        "url": "https://open.spotify.com/album/2hdOMkeUEwT54EN0jnfHdD"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 60000,
-      "name": "Every Neighbour Got Their Flava (Just Eat)",
-      "url": "https://open.spotify.com/track/7BBF73cSuNulTag3pLOvVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "22 (Deluxe)",
         "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 204800,
       "name": "My Heart's Been Waiting for You - feat. Duvall",
       "url": "https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Every Neighbour Got Their Flava (Just Eat)",
+        "url": "https://open.spotify.com/album/2hdOMkeUEwT54EN0jnfHdD"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "Every Neighbour Got Their Flava (Just Eat)",
+      "url": "https://open.spotify.com/track/7BBF73cSuNulTag3pLOvVQ"
     }
   ],
   "unique_name": "This Is Craig David",

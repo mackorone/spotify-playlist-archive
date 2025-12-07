@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1605949,
+  "num_followers": 1606056,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 184349,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 245927,
       "name": "Children - Edit Mix",
       "url": "https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 184349,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "Different Way (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/7mzkVJfrdMzS4VhTOW1TGY"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Different Way - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/18d6tKtNSpow0iQq1OCpIX"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 207992,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "Different Way (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/7mzkVJfrdMzS4VhTOW1TGY"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Different Way - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/18d6tKtNSpow0iQq1OCpIX"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
         "name": "Getting Lost",
         "url": "https://open.spotify.com/album/0qdinh0sxfnzRxRa9mzgeB"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 161200,
       "name": "Getting Lost",
       "url": "https://open.spotify.com/track/71IxdxUXlRpBrRASkihDZ4"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
         "name": "Yumi (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 214323,
       "name": "Tears Don\u2019t Fall",
       "url": "https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 314462,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 267812,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
-        "name": "Blink",
-        "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 314462,
-      "name": "Blink",
-      "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "Coming Down",
-        "url": "https://open.spotify.com/album/63YuEPlpI89krdvctGytaa"
-      },
-      "artists": [
-        {
-          "name": "Solanca",
-          "url": "https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 214695,
-      "name": "Coming Down",
-      "url": "https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
         "name": "Cheating Heart",
         "url": "https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 220952,
       "name": "Cheating Heart",
       "url": "https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "Coming Down",
+        "url": "https://open.spotify.com/album/63YuEPlpI89krdvctGytaa"
+      },
+      "artists": [
+        {
+          "name": "Solanca",
+          "url": "https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 214695,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H"
     },
     {
       "added_at": "2025-12-05 05:00:14",

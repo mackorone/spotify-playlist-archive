@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,416 likes - 62 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,413 likes - 62 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 32 | [Run To The Church](https://open.spotify.com/track/1F3yUGDxCfGH9Zx3KePnmK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Sixth Sense \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI) | 1:21 |
 | 33 | [Main Title](https://open.spotify.com/track/3mgO7YAlNvmGoZNEaEjfaA) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [Alien](https://open.spotify.com/album/0kRM4B6TRITAcjLebvS12N) | 4:12 |
 | 34 | [Promised Land](https://open.spotify.com/track/0dj3UPBCXsTtgWX1KT6OyU) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [28 Years Later \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0X8jJb6RB4Ene8VcAqR3vl) | 3:13 |
-| 35 | [Magnificent, Isn't It](https://open.spotify.com/track/244zUPDZ1nb7kN9SrxgHGX) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [A Cure For Wellness \(Original Soundtrack Album\)](https://open.spotify.com/album/1JpTP5zaoj0ud6lLu3gqZ0) | 2:11 |
+| 35 | [Magnificent, Isn't It \(From "A Cure For Wellness" Soundtrack\)](https://open.spotify.com/track/244zUPDZ1nb7kN9SrxgHGX) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [A Cure For Wellness \(Original Soundtrack Album\)](https://open.spotify.com/album/1JpTP5zaoj0ud6lLu3gqZ0) | 2:11 |
 | 36 | [Every 27 Years](https://open.spotify.com/track/2oZBR0rdkFfgkyQ4lVShfd) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [IT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tVCAKqFXuBvDMO5Jh3dZF) | 2:36 |
 | 37 | [The Shock](https://open.spotify.com/track/7ywQ5kMHhMIzPnq1pWnx4P) | [Libra](https://open.spotify.com/artist/5NcUfLgHkxGWEUgG30Rkz2) | [Shock](https://open.spotify.com/album/7d38p5xz6uCm4PZInK3EmA) | 4:10 |
 | 38 | [Theme from "Beetlejuice: The Animated Series" by Danny Elfman](https://open.spotify.com/track/1r8fZ2HxjBWDEvs7lqXWAJ) | [Dominik Hauser](https://open.spotify.com/artist/4MTfVjZzx72caVcbCjUK73) | [Theme from "Beetlejuice: The Animated Series" by Danny Elfman](https://open.spotify.com/album/13wjqvHMQ6xDJ0JpEHWvln) | 1:01 |

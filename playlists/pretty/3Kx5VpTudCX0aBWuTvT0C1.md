@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 875 likes - 106 songs - 5 hr 59 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 874 likes - 107 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 104 | [Rock](https://open.spotify.com/track/77lY028zHQMb93dP5XEYTE) | [MINNA ORA](https://open.spotify.com/artist/76RqksjOb9wTLKq1EUfNOC) | [Rock](https://open.spotify.com/album/6e6WCc9Exq6Dn8F0aUSh1y) | 2:56 |
 | 105 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 |
 | 106 | [Vur Kalbimden](https://open.spotify.com/track/0fu2sSqESedfVKV7QD7fBz) | [Azel](https://open.spotify.com/artist/6Wefz4jdGRWUIPjmvl76QU) | [Vur Kalbimden](https://open.spotify.com/album/7efSlA8XFS5odUgIg36w0V) | 3:11 |
+| 107 | [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 |
 
-Snapshot ID: `AAACYngj8DKOIkOVaB79A4BbzWx6TFTl`
+Snapshot ID: `AAACY2nfmeFUVE0WvMzPEychToUDV81n`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Maurice Kirya
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,894 likes - 61 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,906 likes - 61 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 60 | [I Do \- Acoustic Version](https://open.spotify.com/track/35p0RKvsJ6wS5fthRJLFQh) | [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [I Do \(Acoustic Version\)](https://open.spotify.com/album/1HURfcIukpOqxEhsJeL38E) | 2:34 |
 | 61 | [River Nile](https://open.spotify.com/track/6e1t9WWPexddWCd9hiwpsg) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [River Nile](https://open.spotify.com/album/1tUosBioWR9zjs2qRIR4gk) | 2:55 |
 
-Snapshot ID: `AAAAALqYWQIcWCxjicTVXOXYqrhD4bVp`
+Snapshot ID: `AAAAAP88ODVMp24U5DalSn84Kn6LXADp`

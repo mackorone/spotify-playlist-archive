@@ -4,7 +4,7 @@
 
 > This is Qlank\. The essential tracks, all in one playlist.
 
-105 songs - 6 hr 29 min
+106 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Drunk](https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 4:03 | 2024-01-03 |  |
 | [Elise](https://open.spotify.com/track/7aoPqIaW8W1hwsiaSrNFks) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Elise](https://open.spotify.com/album/1l4tCggsaDZ8s0bjSymMz8) | 3:05 | 2024-01-03 |  |
 | [Fast Beats](https://open.spotify.com/track/7c79srksl4pd0AX1dbSuzT) | [Kendoll](https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Jauz Presents: This Is Off The Deep End](https://open.spotify.com/album/76WlRA8IoM6lYCzyEp9LRl) | 4:03 | 2024-01-03 | 2024-04-01 |
-| [Fast Beats](https://open.spotify.com/track/7rshJK7NdCCqUOYI3pvBhy) | [Kendoll](https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Jauz Presents: This Is off the Deep End](https://open.spotify.com/album/4sqdlKShrnyfzEH86X3bfW) | 4:03 | 2024-04-01 |  |
+| [Fast Beats](https://open.spotify.com/track/7rshJK7NdCCqUOYI3pvBhy) | [Kendoll](https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Jauz Presents: This Is off the Deep End](https://open.spotify.com/album/4sqdlKShrnyfzEH86X3bfW) | 4:03 | 2024-04-01 | 2025-12-07 |
 | [Fast Beats \(Mixed\)](https://open.spotify.com/track/5oYFyzwBY1UcPIbqpszII5) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Kendoll](https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Jauz Presents: This Is off the Deep End \(Dj Mix\)](https://open.spotify.com/album/0yXnktH2sNowgwiFUwMYOs) | 3:33 | 2024-03-13 |  |
 | [Feel](https://open.spotify.com/track/09lLEr6ET6EptJTjzgMTaL) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Quinn](https://open.spotify.com/artist/2ra5scTrNqQy2ygL3H6Fyp) | [Paradise](https://open.spotify.com/album/222D7CUNZUVg7QhXJa9MEl) | 4:23 | 2024-01-03 | 2025-11-07 |
 | [Find Away](https://open.spotify.com/track/45GUKSyfsmue7hTzNq9Dfp) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 2:43 | 2024-01-03 | 2025-01-01 |
@@ -55,6 +55,7 @@
 | [Hands \- Original Mix](https://open.spotify.com/track/6LBY5xiRjfloS40kRhhBz8) | [Fish Scale](https://open.spotify.com/artist/6wtqdTPU9yu2s9i2KpDSMK), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Hands](https://open.spotify.com/album/4fijuFWgx8cBcwl5AC8Wsi) | 3:50 | 2024-01-24 |  |
 | [Higher](https://open.spotify.com/track/0Lz7iCYjituzyqrZardCyy) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Paradise](https://open.spotify.com/album/222D7CUNZUVg7QhXJa9MEl) | 3:50 | 2024-01-03 |  |
 | [Hollow](https://open.spotify.com/track/3LLalA2rYOcoRDrFgYf971) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Hollow](https://open.spotify.com/album/4rSYBJ5iW2boVHgqR2bm2V) | 4:27 | 2024-03-16 | 2025-10-30 |
+| [I Don't Wanna](https://open.spotify.com/track/67vqm19um4QNU9X4Mmfnnn) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [I Don't Wanna](https://open.spotify.com/album/5D1w4lb9OpBfwg9ZBD8Km3) | 2:57 | 2025-12-07 |  |
 | [I Got](https://open.spotify.com/track/4hrOYN8z9kfg4KTTbhvAIX) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dimensions](https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM) | 3:52 | 2024-01-03 |  |
 | [I Want Your Love](https://open.spotify.com/track/5gtBHjBPfN3x7XAhtmIsDP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Boss EP](https://open.spotify.com/album/3ntS4eh1rFf6YpmfwYyRQ6) | 3:52 | 2024-08-03 |  |
 | [I.T.F.](https://open.spotify.com/track/24mY4mnlCxyG7eiECUzSfQ) | [DirtyFun](https://open.spotify.com/artist/34COAQQm9sxxuIiNYyIClG), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [I.T.F.](https://open.spotify.com/album/12lYckaf6NkpInMraeArdz) | 4:46 | 2024-04-30 | 2025-11-30 |

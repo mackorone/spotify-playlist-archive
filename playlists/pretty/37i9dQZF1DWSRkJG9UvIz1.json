@@ -1,6 +1,6 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 135857,
+  "num_followers": 135837,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "28",
-        "url": "https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r"
-      },
-      "artists": [
-        {
-          "name": "Julian Campos",
-          "url": "https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Notifica\u00e7\u00e3o Ligada",
-      "url": "https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/2WgwPpY2aNg2gwgCheg8lT"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 192800,
       "name": "Terrorista del Amor",
       "url": "https://open.spotify.com/track/0C5jThTBhHF2fxz2YU6PNX"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r"
+      },
+      "artists": [
+        {
+          "name": "Julian Campos",
+          "url": "https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Notifica\u00e7\u00e3o Ligada",
+      "url": "https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -647,6 +647,30 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Quarta Feira",
+        "url": "https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur"
+      },
+      "artists": [
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        },
+        {
+          "name": "Kary",
+          "url": "https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN"
+        }
+      ],
+      "duration_ms": 174543,
+      "name": "Quarta Feira",
+      "url": "https://open.spotify.com/track/42tjHNh6PqLRdFYgwhSJlb"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Ameixa",
         "url": "https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz"
       },
@@ -671,30 +695,6 @@
       "duration_ms": 246177,
       "name": "Ameixa",
       "url": "https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Quarta Feira",
-        "url": "https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur"
-      },
-      "artists": [
-        {
-          "name": "Samantha Machado",
-          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
-        },
-        {
-          "name": "Tropa da W&S",
-          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
-        },
-        {
-          "name": "Kary",
-          "url": "https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN"
-        }
-      ],
-      "duration_ms": 174543,
-      "name": "Quarta Feira",
-      "url": "https://open.spotify.com/track/42tjHNh6PqLRdFYgwhSJlb"
     },
     {
       "added_at": "2023-06-23 03:00:00",

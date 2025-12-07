@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Rits
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,215 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,189 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rodney](https://open.spotify.com/track/7cgggy3ha5vFg1J96sI93o) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [VOOR DE RITSELAARS](https://open.spotify.com/album/2h4PDrB0ZQFYxlaY2LCmb1) | 3:08 |
-| 2 | [Man Down](https://open.spotify.com/track/4aBYk2fxRupiNjvvtOglRM) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Man Down](https://open.spotify.com/album/3E2aAebxO2g7U8svhw5JJa) | 3:10 |
-| 3 | [Prijskaart \- Intro](https://open.spotify.com/track/1AxLALp6JPMcNGKwLbrH8Q) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Prijskaart \- Intro](https://open.spotify.com/album/0pM4lngjlsB7a9hGUfffme) | 2:45 |
-| 4 | [Plan C](https://open.spotify.com/track/1h9iSY0MustqhMDTJ20KdE) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Plan C](https://open.spotify.com/album/3QpD7k6aF8teVbLxMm5QPR) | 1:53 |
-| 5 | [Koning Winter \(feat\. Chivv\)](https://open.spotify.com/track/3tX0OsoZ6u4l20LN3narOr) | [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Andere Man](https://open.spotify.com/album/4F7HRc2bLbvOWKA2IoOisH) | 4:04 |
-| 6 | [Warming up](https://open.spotify.com/track/4bO9GDQ6RX5IrpbhIQMnIS) | [Nass](https://open.spotify.com/artist/2vmQP2rkDh9bcyzhP1YVKU) | [Warming up](https://open.spotify.com/album/7aZsDpLkUujdXXwmCeefIf) | 2:02 |
-| 7 | [CADILLAC](https://open.spotify.com/track/1kGUtgmVA9e18iZBgXaYNv) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [CADILLAC](https://open.spotify.com/album/6yJzhFi7ASUg1YmuzZFXXh) | 1:53 |
-| 8 | [TRANQUILLO](https://open.spotify.com/track/7yCQnZXobkhuUhou4F9kog) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [TRANQUILLO](https://open.spotify.com/album/2hIBuW8ozqyF7Uv8D6gC8G) | 2:46 |
+| 2 | [Prijskaart \- Intro](https://open.spotify.com/track/1AxLALp6JPMcNGKwLbrH8Q) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Prijskaart \- Intro](https://open.spotify.com/album/0pM4lngjlsB7a9hGUfffme) | 2:45 |
+| 3 | [Man Down](https://open.spotify.com/track/4aBYk2fxRupiNjvvtOglRM) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Man Down](https://open.spotify.com/album/3E2aAebxO2g7U8svhw5JJa) | 3:10 |
+| 4 | [TRANQUILLO](https://open.spotify.com/track/7yCQnZXobkhuUhou4F9kog) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [TRANQUILLO](https://open.spotify.com/album/2hIBuW8ozqyF7Uv8D6gC8G) | 2:46 |
+| 5 | [Plan C](https://open.spotify.com/track/1h9iSY0MustqhMDTJ20KdE) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Plan C](https://open.spotify.com/album/3QpD7k6aF8teVbLxMm5QPR) | 1:53 |
+| 6 | [Koning Winter \(feat\. Chivv\)](https://open.spotify.com/track/3tX0OsoZ6u4l20LN3narOr) | [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Andere Man](https://open.spotify.com/album/4F7HRc2bLbvOWKA2IoOisH) | 4:04 |
+| 7 | [Warming up](https://open.spotify.com/track/4bO9GDQ6RX5IrpbhIQMnIS) | [Nass](https://open.spotify.com/artist/2vmQP2rkDh9bcyzhP1YVKU) | [Warming up](https://open.spotify.com/album/7aZsDpLkUujdXXwmCeefIf) | 2:02 |
+| 8 | [CADILLAC](https://open.spotify.com/track/1kGUtgmVA9e18iZBgXaYNv) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [CADILLAC](https://open.spotify.com/album/6yJzhFi7ASUg1YmuzZFXXh) | 1:53 |
 | 9 | [Criminal](https://open.spotify.com/track/7E41iQPkQJ3HhMhzqjeCCa) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [Lef](https://open.spotify.com/artist/1MUxYVrXFiMh1wmP74mfu7) | [Criminal](https://open.spotify.com/album/7s7KhwLYasEc3LSsu2Dn5K) | 2:09 |
 | 10 | [Gepassioneerd](https://open.spotify.com/track/5i1sPpbpugQJ6XVrojc9O1) | [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk) | [Gepassioneerd](https://open.spotify.com/album/5euBuWzTTM7YUSl31Q6qMR) | 2:26 |
 | 11 | [ORIGINAL](https://open.spotify.com/track/5cGVzKtpAVYJakSGLg323D) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [ORIGINAL](https://open.spotify.com/album/7cskRHFG3WHGxv1BRXDPRH) | 3:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Schweinsteiger](https://open.spotify.com/track/4VGvMXucEK4TjC6GZgyjRk) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Schweinsteiger](https://open.spotify.com/album/2BTwcwPD1vISGzagEKkwlE) | 4:42 |
 | 60 | [Netvlies](https://open.spotify.com/track/6yaxq1G2zh6WAKofZVZSjC) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [Romano Santino](https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU) | [Netvlies](https://open.spotify.com/album/1N08jfMlRLXRijddi54kkQ) | 2:20 |
 
-Snapshot ID: `AAAAABJgC2uv43TqQPxHZ/fKL6+7kGVM`
+Snapshot ID: `AAAAAHIdqd4cxV31zZvy1x5alz/E0nMv`

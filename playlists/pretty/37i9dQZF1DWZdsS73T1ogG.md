@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Rowma, Kris R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,716 likes - 116 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,735 likes - 116 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 15 | [AWITA](https://open.spotify.com/track/0fwsGVr7hWHqkmXlwis8aZ) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [NO TE ENAMORES DE UN ARTISTA](https://open.spotify.com/album/5fkMnrIODdP2v1EjIsP7BV) | 2:34 |
 | 16 | [Ñero Session 18](https://open.spotify.com/track/2bMwrVNQ8BeH4w3o12GZoh) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Bbyboy 100k](https://open.spotify.com/artist/12523oWu2Tgbcy89mJJhHi), [Ikoniko](https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh) | [Ñero Session 18](https://open.spotify.com/album/6FRuG41qAc885UAtWWdhoG) | 2:16 |
 | 17 | [KIA](https://open.spotify.com/track/32ga1tB2S40jROHEhb0opl) | [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [KIA](https://open.spotify.com/album/1J5uVvrz4s9LEtfA19mqzr) | 2:17 |
-| 18 | [Gomita Azul](https://open.spotify.com/track/5CrLlCxoKDxE5hi23dj923) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb) | [](https://open.spotify.com/album/null) | 2:11 |
+| 18 | [Gomita Azul](https://open.spotify.com/track/5CrLlCxoKDxE5hi23dj923) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb) | [aLtita](https://open.spotify.com/album/1qXAy2YkjsXSKCopFwi90S) | 2:11 |
 | 19 | [NAQUETO](https://open.spotify.com/track/7uK3HaXFTO5b6bkVfTJKlG) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [NAQUETO](https://open.spotify.com/album/5Yq5Ib5xa8SVLV0YroU3N2) | 3:55 |
 | 20 | [Dos Elegidos: Como Es](https://open.spotify.com/track/1AZ2FYJ6AM0OPYwL4VsqwO) | [Dos Elegidos](https://open.spotify.com/artist/4lxrAPSiyuyIvitdtZm2ID), [Joel Melody](https://open.spotify.com/artist/0rcA9xExulHK8nAe6J54ii), [Mark Poow](https://open.spotify.com/artist/6Y0IhGYKvjkuynhtWfFbNL) | [Dos Elegidos: Como Es](https://open.spotify.com/album/3CxUHZcFS4swSdhiJxZmT0) | 2:51 |
 | 21 | [DOWN](https://open.spotify.com/track/4PHG0zRmG4LRKq8Fleoppk) | [Javy Hustle](https://open.spotify.com/artist/5Fh1ainENEVE5mqYS7USG5), [El Whitey](https://open.spotify.com/artist/12cbxywKVbZ8UX3szdgJEN), [SuperJavi](https://open.spotify.com/artist/767xdXp2KQvncNCEs0efDx), [ELE EME](https://open.spotify.com/artist/0HF2LhLgiE0Srx5zQbUVII), [Motion on the Beat](https://open.spotify.com/artist/5yMipp3woSNxemt3yVP4VW), [El Blxnco](https://open.spotify.com/artist/1XvEg3gtHU3rhwnXK9qjui) | [DOWN](https://open.spotify.com/album/3LSAbDGDrRMD0IcuyHTG5U) | 3:03 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from YoungBoy Never Broke Again, Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 85,000 likes - 199 songs - 10 hr 15 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 84,990 likes - 199 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lil Baby\-Let’s do it \(ft\. Playboi Carti & Skooly\)](https://open.spotify.com/episode/0flwr556R7RMuOJMLEKKee) | [the goats show ](https://open.spotify.com/show/5dTGLLvVMNE3lOEPBhhHZM) | [the goats show ](https://open.spotify.com/album/5dTGLLvVMNE3lOEPBhhHZM) | 5:05 |
+| 1 | [Lil Baby\-Let’s do it V2\(ft\. Playboi Carti & Skooly\)](https://open.spotify.com/episode/0flwr556R7RMuOJMLEKKee) | [the goats show ](https://open.spotify.com/show/5dTGLLvVMNE3lOEPBhhHZM) | [the goats show ](https://open.spotify.com/album/5dTGLLvVMNE3lOEPBhhHZM) | 5:05 |
 | 2 | [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 |
 | 3 | [44 Bars](https://open.spotify.com/track/5wCydgDC070Tym8HpjYr75) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [44 Bars](https://open.spotify.com/album/1Kd1W0uSpaJuRUrbBvoa2D) | 2:26 |
 | 4 | [F\*\*k That Ni\*\*a \(feat\. YoungBoy Never Broke Again & Herm Tha Blacksheep\)](https://open.spotify.com/track/0FhYyC39xc3ueYuIdtO0ml) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Herm Tha Blacksheep](https://open.spotify.com/artist/6w0Iuyn54jO5fBsBDMvMH0) | [F\*\*k That Ni\*\*a](https://open.spotify.com/album/6kR6FGJOz73Ouv1etSqjSJ) | 2:28 |

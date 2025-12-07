@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-722 songs - 1 day 11 hr 10 min
+723 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,7 +565,8 @@
 | [Se Estraga \- Ao Vivo](https://open.spotify.com/track/5kZUVnh6spPuBwy7jrPs5U) | [Clara Barreto](https://open.spotify.com/artist/1Nap2Dhjit8nRFc6RjkGUc) | [Vai Tomar no Bar \(Ao Vivo\)](https://open.spotify.com/album/3m7UtzPzFVKsDSLpjixcFT) | 3:02 | 2023-12-30 | 2025-11-14 |
 | [Se Mandar um Vem \- Saudade Indignada](https://open.spotify.com/track/2e3JPNqIsGJHeTFGD1OoVE) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Até o Último Gole](https://open.spotify.com/album/3XdTvRSiOvB6xSNkmHvJf2) | 2:30 | 2023-12-30 |  |
 | [Se Não Contar Eu Conto \- Ao Vivo](https://open.spotify.com/track/5D3GIJn5gIl4s3KLtltx8H) | [Lorenzo Castro](https://open.spotify.com/artist/26XpNOKC1qBK4CISMM1KIv), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Divisor De Águas \(Ao Vivo\)](https://open.spotify.com/album/55dm1XTNHE6W3trPKk70OJ) | 2:52 | 2023-12-30 |  |
-| [Se Valoriza](https://open.spotify.com/track/4Ou8CB0ogmD5l98WOdhlmj) | [Priscila Meireles](https://open.spotify.com/artist/1foAresKai17MV5oP6ODbT) | [Se Valoriza](https://open.spotify.com/album/2KpA4409qtqPxCjcWfem1B) | 2:22 | 2023-12-30 |  |
+| [Se Valoriza](https://open.spotify.com/track/4Ou8CB0ogmD5l98WOdhlmj) | [Priscila Meireles](https://open.spotify.com/artist/1foAresKai17MV5oP6ODbT) | [Se Valoriza](https://open.spotify.com/album/2KpA4409qtqPxCjcWfem1B) | 2:22 | 2023-12-30 | 2025-12-07 |
+| [Se Valoriza](https://open.spotify.com/track/4ns4QPpbvwOiHRnJleyD1N) | [Priscila Meireles](https://open.spotify.com/artist/1foAresKai17MV5oP6ODbT) | [Se Valoriza](https://open.spotify.com/album/2mgE4pH9TCiF8zTwqIqMFs) | 2:22 | 2025-12-06 |  |
 | [Se Você Fosse \(Soda\)](https://open.spotify.com/track/1r6imoFUJcKnoqhlZvgssn) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Pé Na Rua](https://open.spotify.com/album/4GPicD3sphtwoewZrFqNHV) | 2:44 | 2023-12-30 |  |
 | [Secando Garrafas \- Ao Vivo](https://open.spotify.com/track/171xO0hiFf79MhFWZXmiD7) | [Lincoln e Marcelo](https://open.spotify.com/artist/5PxvIFapTE14XRPRfOPe4g), [Bruno](https://open.spotify.com/artist/6XXk08O8PJ8rxN9DsLJaCT) | [Você Me Traz Paz, ao Vivo em Goiânia](https://open.spotify.com/album/1AzjBo92e872OZuOKhCiJB) | 2:33 | 2023-12-30 |  |
 | [Segura o Seu Dog](https://open.spotify.com/track/5bQRReci23NeYAIJCXIXzL) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Manu Bahtidão, Vol\. 3](https://open.spotify.com/album/62YjVYUxROH3N35jFDjg4g) | 2:35 | 2023-12-30 | 2025-06-28 |

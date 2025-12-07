@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 74540,
+  "num_followers": 74542,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAADLQx2lgrIFBwYETOJ0vdDq",
+  "snapshot_id": "aTIggAAAAAB/hAsWO2aJS9JhMK7jv8PM",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 213831,
-      "name": "Casafantasmas",
-      "url": "https://open.spotify.com/track/2MorQjaQcg4CFdfrN5nCqa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Siento Loco",
         "url": "https://open.spotify.com/album/3ROyBUPRhkhFWjiFPIfD6b"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 243185,
       "name": "Me Siento Loco",
       "url": "https://open.spotify.com/track/4VzSXSEjrjdO7hWoJyE5Pm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 213831,
+      "name": "Casafantasmas",
+      "url": "https://open.spotify.com/track/2MorQjaQcg4CFdfrN5nCqa"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "Animales Sueltos",
-      "url": "https://open.spotify.com/track/65uSLDV4MyXnumIlLGSauj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pachanga",
         "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 180706,
+      "name": "Animales Sueltos",
+      "url": "https://open.spotify.com/track/65uSLDV4MyXnumIlLGSauj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
       },
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 205226,
-      "name": "Pinto Con Sangre",
-      "url": "https://open.spotify.com/track/1Gt6ScG7Iwk5baPKu8QL5m"
+      "duration_ms": 198160,
+      "name": "Centurion",
+      "url": "https://open.spotify.com/track/4CGt19vmFmyEKmWTnTXDcs"
     }
   ],
   "unique_name": "This Is Vilma Palma e Vampiros",

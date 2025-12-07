@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Rowjay, FREAKY!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,413 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,415 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OLIVER KAHN](https://open.spotify.com/track/7Fi3Q0PjZZdTkDutIpvLyr) | [HLD](https://open.spotify.com/artist/2tgTUUrbrQd6iuAjW5BQI7), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [DROGUE 2](https://open.spotify.com/album/7ciiVspOLwHHyHIsQtPTnN) | 2:21 |
 | 2 | [PAS LES COUILLES](https://open.spotify.com/track/43wWsvU0v8Ijl1cEFtqZnl) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [AVEC TOUT LE RESPECT](https://open.spotify.com/album/5OqktAqR8ecIornz8xFqLA) | 2:06 |
 | 3 | [GELATO LATTO](https://open.spotify.com/track/3ZJAYfHJht2qRUGtw9REcx) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [NEPTUNEFINESSE](https://open.spotify.com/album/50t2E1wnAWYuiLz01hQkaK) | 3:10 |
-| 4 | [Viral](https://open.spotify.com/track/59a3NK8Q0wiyx8woSOhxgx) | [E MADE IT](https://open.spotify.com/artist/18vwo8WT73HLw7tdAOjJDZ), [Sans Pression](https://open.spotify.com/artist/74rvNay1vSLR4DZZWFl7YJ), [Fléau Dicaprio](https://open.spotify.com/artist/4KiYF1iNAylxJNYvLEXUoI) | [Viral](https://open.spotify.com/album/3mmrAxXteD4yR764HlZotb) | 2:57 |
+| 4 | [Viral](https://open.spotify.com/track/59a3NK8Q0wiyx8woSOhxgx) | [E MADE IT](https://open.spotify.com/artist/18vwo8WT73HLw7tdAOjJDZ), [Sans Pression](https://open.spotify.com/artist/4WRTfy1amcikjn8lvpd5pS), [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Viral](https://open.spotify.com/album/3mmrAxXteD4yR764HlZotb) | 2:57 |
 | 5 | [POLY](https://open.spotify.com/track/0pz3th1qDDGUmTW4JN1EKA) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [POLY](https://open.spotify.com/album/21vnDN2DF90cp09ZE3cPT9) | 3:02 |
 | 6 | [Seul](https://open.spotify.com/track/4pX2gTPPjYsqlnmZYu6Ijh) | [Pit Baccardi](https://open.spotify.com/artist/5Gf71JW8QjF77ELQ94JX38), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [OG](https://open.spotify.com/album/4qq8AXnP0B0HfRF6JobWwj) | 3:20 |
 | 7 | [b200](https://open.spotify.com/track/68dAZIVNsvBIqfGxdv8tos) | [Franz Keloh](https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A) | [OPERATION85](https://open.spotify.com/album/3zzear2bK1CgFDUquphd23) | 2:44 |

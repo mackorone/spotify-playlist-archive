@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 16845,
+  "num_followers": 16864,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -527,18 +527,22 @@
     {
       "added_at": "2025-12-05 09:32:51",
       "album": {
-        "name": "Shakabulizzy",
-        "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
+        "name": "Management",
+        "url": "https://open.spotify.com/album/7HRbB37rfjzopeNej7TPsg"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "BIGKHALID",
+          "url": "https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB"
         }
       ],
-      "duration_ms": 165296,
-      "name": "Shakabulizzy",
-      "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
+      "duration_ms": 155669,
+      "name": "Management",
+      "url": "https://open.spotify.com/track/7L1DT2ByQ331AJkDfjvI5N"
     },
     {
       "added_at": "2025-12-05 09:32:51",
@@ -591,22 +595,18 @@
     {
       "added_at": "2025-12-05 09:32:51",
       "album": {
-        "name": "Management",
-        "url": "https://open.spotify.com/album/7HRbB37rfjzopeNej7TPsg"
+        "name": "Shakabulizzy",
+        "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
       },
       "artists": [
         {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "BIGKHALID",
-          "url": "https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 155669,
-      "name": "Management",
-      "url": "https://open.spotify.com/track/7L1DT2ByQ331AJkDfjvI5N"
+      "duration_ms": 165296,
+      "name": "Shakabulizzy",
+      "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
     },
     {
       "added_at": "2025-12-05 09:32:51",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2025-12-05 09:32:51",
       "album": {
-        "name": "Goldigga",
-        "url": "https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO"
-      },
-      "artists": [
-        {
-          "name": "Samsney",
-          "url": "https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 182265,
-      "name": "Goldigga",
-      "url": "https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg"
-    },
-    {
-      "added_at": "2025-12-05 09:32:51",
-      "album": {
         "name": "BALANCE (with Lasmid)",
         "url": "https://open.spotify.com/album/7pSHlYExOSYZf0g67YUmED"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 166291,
       "name": "BALANCE (with Lasmid)",
       "url": "https://open.spotify.com/track/4yVprPvNUGc840gsCWcvOq"
+    },
+    {
+      "added_at": "2025-12-05 09:32:51",
+      "album": {
+        "name": "Goldigga",
+        "url": "https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO"
+      },
+      "artists": [
+        {
+          "name": "Samsney",
+          "url": "https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 182265,
+      "name": "Goldigga",
+      "url": "https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg"
     },
     {
       "added_at": "2025-12-05 09:32:51",

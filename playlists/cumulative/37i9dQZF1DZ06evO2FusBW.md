@@ -4,7 +4,7 @@
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-73 songs - 5 hr 2 min
+74 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Joy](https://open.spotify.com/track/7mvTFZOADmiyYizsxEwJ5y) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:23 | 2025-04-09 | 2025-06-07 |
 | [La Vernatelle](https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:50 | 2025-01-03 |  |
 | [La Vie](https://open.spotify.com/track/5Hn2dUqSBV79DHbMuHI11h) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 4:20 | 2025-01-03 | 2025-03-03 |
+| [Law of One](https://open.spotify.com/track/337cxMW9sAm2WNXBQjjoKF) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Law of One](https://open.spotify.com/album/6jIyLWwtDkNFt3BpR47ohN) | 5:39 | 2025-12-07 |  |
 | [Le rêve d'une note](https://open.spotify.com/track/2xDBwhsdKnawySo4jswvjT) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Le Rêve d'une note](https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY) | 3:09 | 2025-01-03 |  |
 | [Lily’s Lullaby](https://open.spotify.com/track/3oXl4DnBBGeGhXjHmSSMpU) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Lily’s Lullaby](https://open.spotify.com/album/42F0b6Sj5NZ7QzRhhHRMAC) | 3:59 | 2025-01-03 | 2025-09-21 |
 | [Lily’s Lullaby](https://open.spotify.com/track/7sximELhhshAcurlFEDhU5) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:59 | 2025-09-21 |  |

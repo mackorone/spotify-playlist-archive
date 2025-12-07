@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 541876,
+  "num_followers": 541852,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -1531,6 +1531,34 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "New Love (feat. Ellie Goulding)",
+        "url": "https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ"
+      },
+      "artists": [
+        {
+          "name": "Silk City",
+          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "New Love (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm"
       },
@@ -1575,34 +1603,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "New Love (feat. Ellie Goulding)",
-        "url": "https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ"
-      },
-      "artists": [
-        {
-          "name": "Silk City",
-          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "New Love (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Be Okay (with HRVY)",
         "url": "https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v"
       },
@@ -1619,6 +1619,30 @@
       "duration_ms": 141600,
       "name": "Be Okay (with HRVY)",
       "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "How Beautiful (she is)",
+        "url": "https://open.spotify.com/album/0BzSvuNSqq9DRtme4i2Pys"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        },
+        {
+          "name": "duendita",
+          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "How Beautiful (she is)",
+      "url": "https://open.spotify.com/track/53TbfWFcp3COCSs3zkVfSR"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1659,30 +1683,6 @@
       "duration_ms": 179279,
       "name": "Swing",
       "url": "https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "How Beautiful (she is)",
-        "url": "https://open.spotify.com/album/0BzSvuNSqq9DRtme4i2Pys"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        },
-        {
-          "name": "duendita",
-          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
-        },
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "How Beautiful (she is)",
-      "url": "https://open.spotify.com/track/53TbfWFcp3COCSs3zkVfSR"
     }
   ],
   "unique_name": "Corra numa Boa",

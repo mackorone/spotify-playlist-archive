@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 
 > “now i am become death, the destroyer of worlds.”
 
-[carolina <3](https://open.spotify.com/user/ninasantos11) - 100,633 likes - 102 songs - 6 hr 27 min
+[carolina <3](https://open.spotify.com/user/ninasantos11) - 100,766 likes - 102 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 | 91 | [Natural Light](https://open.spotify.com/track/2zM7Ato6xDOi8ten4qn7Cm) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Natural Light](https://open.spotify.com/album/43wcKhgYUpeh2cwvBtqDYc) | 5:35 |
 | 92 | [Merry\-Go\-Round of Life \- from 'Howl's Moving Castle'](https://open.spotify.com/track/39uLYYZytVUwcjgeYLI409) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [FREEDOM PIANO STORIES 4](https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV) | 5:11 |
 | 93 | [With Love Comes Loss \(Arr\. for Piano Solo\)](https://open.spotify.com/track/33FtwY8jXSPaHRtEGFggwO) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP), [Batu Sener](https://open.spotify.com/artist/4enW2XwJjMzaJ78AikSoEF) | [Piano Solos from How to Train Your Dragon: The Hidden World](https://open.spotify.com/album/7r1GwIFvK2MyZyuxVVS19S) | 1:10 |
-| 94 | [1917](https://open.spotify.com/track/6TsRPIdwASJBXanGhftVjc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 1:17 |
+| 94 | [1917 \(From "1917" Soundtrack\)](https://open.spotify.com/track/6TsRPIdwASJBXanGhftVjc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 1:17 |
 | 95 | [The Armstrongs](https://open.spotify.com/track/0rPImnH72wOroTMvIedDC3) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [First Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw) | 2:25 |
 | 96 | [Dance For Me Wallis](https://open.spotify.com/track/1vWtTis3VRkkUp8qST4jY5) | [Abel Korzeniowski](https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice) | [W.E\. \- Music From The Motion Picture](https://open.spotify.com/album/0ILxbrvGwBj3jyhQjhzrP7) | 3:08 |
 | 97 | [Adagio in C Minor](https://open.spotify.com/track/0HRyrj2c5TN8R4I4rehpSg) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 1 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj) | 1:30 |

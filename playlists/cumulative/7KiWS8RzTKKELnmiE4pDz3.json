@@ -661,6 +661,28 @@
     },
     {
       "album": {
+        "name": "Stakes Is High",
+        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Zhane",
+          "url": "https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258140,
+      "name": "4 More",
+      "url": "https://open.spotify.com/track/4AczEdAZBYmUo2a703sibE"
+    },
+    {
+      "album": {
         "name": "Days B4 III",
         "url": "https://open.spotify.com/album/0p1QXY0M8LRXybgy9TchHE"
       },

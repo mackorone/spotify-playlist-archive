@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAABtjsk/8Wr5rojg+uSnR7i5",
+  "snapshot_id": "aTIggAAAAABwP+bv5NRq3CtGck/M9Deo",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Let It Be You (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/1H90T1SzYHLRqNZZ0y7dhC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
         "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
@@ -583,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
       "artists": [
         {
@@ -596,9 +576,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 374106,
-      "name": "I'm Comin' Home Tomorrow (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/4QaqcfGIFyDMhWR2bk9qwC"
+      "duration_ms": 212240,
+      "name": "Let It Be You (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/1H90T1SzYHLRqNZZ0y7dhC"
     },
     {
       "added_at": null,
@@ -615,6 +595,26 @@
       "duration_ms": 296706,
       "name": "Don't Give Me Up",
       "url": "https://open.spotify.com/track/7AmfvFOl8K3rflTfZLxt8b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 374106,
+      "name": "I'm Comin' Home Tomorrow (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4QaqcfGIFyDMhWR2bk9qwC"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Don't Know Christ by Now",
-        "url": "https://open.spotify.com/album/1NVw7iYkO1pJzTeKyqgp0Y"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 275070,
-      "name": "If You Don't Know Christ by Now",
-      "url": "https://open.spotify.com/track/6gXtxEee0iLH3Dug0WV81T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soul Love: 25 Gorgeous Tracks for Lovers, Vol. 3",
         "url": "https://open.spotify.com/album/12yI3cMMv8UNjyFzA5HoUG"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 178218,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/16gkC288NMzIlhEp1YxXjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Don't Know Christ by Now",
+        "url": "https://open.spotify.com/album/1NVw7iYkO1pJzTeKyqgp0Y"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 275070,
+      "name": "If You Don't Know Christ by Now",
+      "url": "https://open.spotify.com/track/6gXtxEee0iLH3Dug0WV81T"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 604160,
-      "name": "Hope We Can Be Together Soon / All Night Long - Live Medley",
-      "url": "https://open.spotify.com/track/4iF9cKkfXWgRiCkqC2eVyK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To Back With Love",
         "url": "https://open.spotify.com/album/2rhLXj1XHT6GBssORJqzRk"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 158360,
       "name": "Get Ready",
       "url": "https://open.spotify.com/track/2NTixSlpJYRvcIngMbI6jm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 604160,
+      "name": "Hope We Can Be Together Soon / All Night Long - Live Medley",
+      "url": "https://open.spotify.com/track/4iF9cKkfXWgRiCkqC2eVyK"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retro Swag: Soulful Sounds and Funky Favorites",
-        "url": "https://open.spotify.com/album/3GFvHWFNoj2xEjYw8SxVfA"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 212551,
-      "name": "For the Love of Money",
-      "url": "https://open.spotify.com/track/6fEyeDyZC9QE2aO7HcGuZN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cooler Than Ice: Arctic Records and the Rise of Philly Soul",
         "url": "https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 182693,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retro Swag: Soulful Sounds and Funky Favorites",
+        "url": "https://open.spotify.com/album/3GFvHWFNoj2xEjYw8SxVfA"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 212551,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/6fEyeDyZC9QE2aO7HcGuZN"
     }
   ],
   "unique_name": "This Is Harold Melvin & The Blue Notes",

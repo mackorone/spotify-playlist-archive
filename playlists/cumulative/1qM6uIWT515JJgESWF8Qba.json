@@ -1173,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Take Me to the Top",
+        "url": "https://open.spotify.com/album/0W2FAqh9grkIdrF21bhTTe"
+      },
+      "artists": [
+        {
+          "name": "ARMAGELION",
+          "url": "https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245654,
+      "name": "Take Me to the Top",
+      "url": "https://open.spotify.com/track/3iikl4YLJHy3JyegB6FzAE"
+    },
+    {
+      "album": {
         "name": "Technicolor Wine",
         "url": "https://open.spotify.com/album/2LuUFZMvR9PSNdv4QDlhNk"
       },

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-205 songs - 12 hr 32 min
+208 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Badclown](https://open.spotify.com/track/5kWwICLRj4mSYYcAlxus8v) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 4:36 | 2025-09-21 | 2025-11-28 |
 | [Beat Up Chevy](https://open.spotify.com/track/4b3pnApfGfgQbmL44FeIl5) | [Mellowscape](https://open.spotify.com/artist/21SImcHsUMIWVlAM96ZIe3), [Lorelai Paige](https://open.spotify.com/artist/3HVWZoxdlflhNpe04Np1tD) | [Sunsick](https://open.spotify.com/album/18wREmEVKw4na0Q3uYKCYx) | 4:42 | 2025-09-22 |  |
 | [Bebeğim](https://open.spotify.com/track/0UE1X4VimOchf2p37eE4uh) | [Evren Uğur](https://open.spotify.com/artist/2AZPixOsGHxuc0gqq3XOy4) | [Bebeğim](https://open.spotify.com/album/78VtGQ3K0YPQxKHXrFuAyh) | 3:11 | 2025-10-28 | 2025-11-28 |
+| [Blue](https://open.spotify.com/track/60Opr83gQPHZd410ykHScx) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Blue](https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc) | 4:30 | 2025-12-06 |  |
 | [Blue Collar Swaller](https://open.spotify.com/track/04PTzfMWSBwwK2fG5wRxle) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Huckleberry](https://open.spotify.com/album/72jB7XjZSEevzrGC9GaikJ) | 2:50 | 2025-11-30 |  |
 | [Blue Money Bills](https://open.spotify.com/track/3cNEkCAFg82SSWqkyNdwRp) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Blue Money Bills](https://open.spotify.com/album/36zqHa3fQZ0kROvyzvl33L) | 3:23 | 2025-10-23 | 2025-11-28 |
 | [Breaking the Silence](https://open.spotify.com/track/2e3tbGEZwn3lpQfGydppwZ) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Delicate](https://open.spotify.com/album/3JYJmRhi9SR7yX6AjfJpi1) | 3:32 | 2025-12-04 |  |
@@ -67,6 +68,7 @@
 | [Día Uno](https://open.spotify.com/track/5VsgNggxi9TqdaTZdxGu5h) | [A New Addiction](https://open.spotify.com/artist/51K7A0J9GRIFQEYVsHtoNV) | [Día Uno](https://open.spotify.com/album/14xgFMCKwyOhnNKlnZHpwq) | 3:20 | 2025-10-09 | 2025-11-28 |
 | [Echoes of Forever](https://open.spotify.com/track/5R8ZWNR0hltUBTVwMIIS9P) | [Uby](https://open.spotify.com/artist/10LBfcS3SRojvj2bYyXUf9) | [Echoes of Forever](https://open.spotify.com/album/7b2lYFFbdywzGzNbtPeHL4) | 5:00 | 2025-10-02 |  |
 | [Echos in Reverse](https://open.spotify.com/track/4X7u2YyQAddBuysCljzlTv) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Echos in Reverse](https://open.spotify.com/album/6R3iwi2gajC46Jy1ZcQAgQ) | 4:02 | 2025-10-06 | 2025-11-28 |
+| [Ecstasy](https://open.spotify.com/track/3MeFzHAPF4iRxQqReIgXHV) | [never mind the world](https://open.spotify.com/artist/33GYHfjMu2Coh9fFUaLooN) | [Ecstasy](https://open.spotify.com/album/0HkjLJ5pWZg2qIbHPTpR4C) | 3:20 | 2025-12-06 |  |
 | [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 | 2025-11-22 |  |
 | [El Rock No Esta En Tu Ropa](https://open.spotify.com/track/3DGdbW7SbmdwT9P3tLfhAb) | [Todo Podrido](https://open.spotify.com/artist/4jVIYvQsjLqSJgR9ePsJRQ) | [Encantados](https://open.spotify.com/album/6vGyGiCIjk9FecwFAfXmhp) | 2:54 | 2025-09-29 |  |
 | [Empiezo a Creer](https://open.spotify.com/track/1lzwwRYzUb3BotVYxuoQ2z) | [Coto privado](https://open.spotify.com/artist/1TmFxjLLIPQFgmha4yIXh8) | [Escrito en el Lavabo](https://open.spotify.com/album/6khlI7NYlitPiEALNeqoVE) | 4:34 | 2025-10-29 |  |
@@ -153,6 +155,7 @@
 | [Prisoner Of My Fate](https://open.spotify.com/track/3OeuBRruLfv1PlOjjrOnz0) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Prisoner Of My Fate](https://open.spotify.com/album/4aDtoicAYNPQ9QLmZLU21z) | 6:00 | 2025-10-14 | 2025-11-28 |
 | [Promise of salvation](https://open.spotify.com/track/7ovWStycwZ5tOZrPn3A7Lm) | [Suraj Synthesist](https://open.spotify.com/artist/6kEAlt8l3zvFrxfHhRJfaK) | [Consume this album...\(Before the ban\)](https://open.spotify.com/album/6CabXiXT7t5cqCekHJabzY) | 2:18 | 2025-10-30 |  |
 | [Pure Class](https://open.spotify.com/track/2pc3KRm7C2gekeLULubtAN) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:59 | 2025-09-28 |  |
+| [Repressão](https://open.spotify.com/track/5BI5z9B2w5Ypg4tY113WeN) | [Banda Revo](https://open.spotify.com/artist/64qE20fQAZ86e6ZHgQtZ6w) | [Repressão](https://open.spotify.com/album/6dvtMreChRtPlh2DvXTTZV) | 3:01 | 2025-12-06 |  |
 | [Ride of Your Life](https://open.spotify.com/track/3sB3liuVnmOzxlyCLBCbIG) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [Juxta](https://open.spotify.com/artist/21iGpZuaMiJPrCNQcWPKKN), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [Ride Of Your Life](https://open.spotify.com/album/3ZefyjSFIGGxfK2m83a1BS) | 6:36 | 2025-09-21 |  |
 | [Ruines](https://open.spotify.com/track/5k0EsA3WldipVOOZhUkhQr) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [City pilgrim](https://open.spotify.com/album/3LPAMLVRB4F46OcQUBq6SA) | 2:11 | 2025-11-25 |  |
 | [Running \- Acoustic Version](https://open.spotify.com/track/5jEbpt1f9Juw7UTdu67SRJ) | [Boogie and the Mean Machine](https://open.spotify.com/artist/7p3NuBEpuN2PDVFCbKvc6m) | [The Classics of Love](https://open.spotify.com/album/3012TUcrbqKtJ3hTsQsvvh) | 2:29 | 2025-10-01 |  |

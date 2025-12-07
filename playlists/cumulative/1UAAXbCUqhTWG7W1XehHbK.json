@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Lost Treasure",
+        "url": "https://open.spotify.com/album/0cVssofpvNMlCU8H0RYUbi"
+      },
+      "artists": [
+        {
+          "name": "Richard Dobeson",
+          "url": "https://open.spotify.com/artist/28KWLvWlBhBq9vp1HwGfTH"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99375,
+      "name": "Lost Treasure",
+      "url": "https://open.spotify.com/track/4eEpb5RY5a7ShP6MysMpiY"
+    },
+    {
+      "album": {
         "name": "Love On The Brain",
         "url": "https://open.spotify.com/album/1Fd7U1tzEhGhHJO74JTuRG"
       },

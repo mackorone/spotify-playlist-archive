@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Hooja, Dina Ögon och Nuqi med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,848 likes - 101 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,837 likes - 101 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 44 | [I’m Coming Home](https://open.spotify.com/track/27BtPFko8mtrNiFe3HGox7) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [Hopes & Fears \(Companion EP\)](https://open.spotify.com/album/6wdlQSYwE4NGGoklv44Ewm) | 3:13 |
 | 45 | [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:50 |
 | 46 | [Walk Away](https://open.spotify.com/track/1LZOh9k6qtQ4nUyZvDuVA1) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [2025](https://open.spotify.com/album/6rhlQi13LyDs5JzrZShE0C) | 2:46 |
-| 47 | [HARRY STAMPER](https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [](https://open.spotify.com/album/null) | 3:12 |
+| 47 | [HARRY STAMPER](https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:12 |
 | 48 | [Destinies and Melodies](https://open.spotify.com/track/6RwUZYCQSo6OUl6SxJ5214) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Destinies and Melodies](https://open.spotify.com/album/5zMmEBwc2zkcr8HfKLijg9) | 2:45 |
 | 49 | [Känna som jag](https://open.spotify.com/track/1KYuRB76TVOtPKKQhB9dVN) | [Tado](https://open.spotify.com/artist/4qc3USZURjRYYS8PTyRimP) | [Lämna mig o jag dör](https://open.spotify.com/album/1x0oQdHx8qOfU3hlajPChP) | 2:10 |
 | 50 | [Like That \(bomboclatt\) \(feat\. Wizkid\)](https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 3:38 |

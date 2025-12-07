@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,060 likes - 302 songs - 17 hr 12 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,062 likes - 306 songs - 17 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -310,5 +310,9 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 300 | [Down in A Hole](https://open.spotify.com/track/4c1vW7vyXE0BDRqRi0hOEe) | [dirth.](https://open.spotify.com/artist/4AXYaezweit6i4xoEtBoAu) | [Down in A Hole](https://open.spotify.com/album/1YGIlMHK8sPw1TgJFONB0z) | 4:19 |
 | 301 | [BREATHE](https://open.spotify.com/track/3ALJaDfdUCrARTslgZig5k) | [dmncles](https://open.spotify.com/artist/6AXQbXnTcpATjFnocZgBK3) | [BREATHE](https://open.spotify.com/album/3ngaCH0ImMqEuCnlO1F84m) | 2:34 |
 | 302 | [It's Inside](https://open.spotify.com/track/5H7NtbhuEfMQdLWwMrlEh5) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:35 |
+| 303 | [Unleash The Madness](https://open.spotify.com/track/2lpGgY8sW4PEIRwFUYBERJ) | [Mus\-D Beatz](https://open.spotify.com/artist/1k7gX3I4ws0MrlS0jJinbo) | [Unleash The Madness](https://open.spotify.com/album/77O5f8gtVYG51CnLtiFZqe) | 3:30 |
+| 304 | [Wide Awake](https://open.spotify.com/track/4b34QqJbXageXnFaBkEmWm) | [Chronic Dream](https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Wide Awake](https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq) | 3:33 |
+| 305 | [The Curse](https://open.spotify.com/track/4txU9T6REQrKXvO9qBhxVz) | [The Forest](https://open.spotify.com/artist/2q8zPDrAV8jdxb2Y2Ahas0) | [The Curse](https://open.spotify.com/album/5Y3gDBggPtX0VKUeUCbHSO) | 4:35 |
+| 306 | [Litany of Your Name](https://open.spotify.com/track/2Alk9YqpSZMeVMm3sC23I0) | [Dystopian Machine](https://open.spotify.com/artist/4Zdx5hWyc79G1UafxgokPo) | [Litany of Your Name](https://open.spotify.com/album/7qsY33yeO2xK22Ax1FgA2J) | 5:02 |
 
-Snapshot ID: `AAAIC2Gif0EvRSpYG77qT0khYZoHu7Du`
+Snapshot ID: `AAAID7s1Y2aHkzThT12qVDrlvRk/9LFw`

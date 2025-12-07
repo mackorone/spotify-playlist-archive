@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1501043,
+  "num_followers": 1501363,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
+        "name": "Rave Mozart",
+        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Rave Mozart",
+      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
         "name": "Brace For Impact",
         "url": "https://open.spotify.com/album/181ZDba8AtrqMPlB9UbcQi"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 220444,
       "name": "Brace For Impact",
       "url": "https://open.spotify.com/track/3h7yXc3dy9bLKHNYVc8YrC"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
-        "name": "Rave Mozart",
-        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Rave Mozart",
-      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -895,42 +895,6 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
-        "name": "Anadrol",
-        "url": "https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY"
-      },
-      "artists": [
-        {
-          "name": "Yosuf",
-          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
-        }
-      ],
-      "duration_ms": 139947,
-      "name": "Anadrol",
-      "url": "https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
-        "name": "WELCOME TO THE GANG VOL. 2",
-        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 206437,
-      "name": "DOWN DOWN",
-      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
         "name": "Free (feat. Starsplash)",
         "url": "https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf"
       },
@@ -955,6 +919,42 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
+        "name": "WELCOME TO THE GANG VOL. 2",
+        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 206437,
+      "name": "DOWN DOWN",
+      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
+        "name": "Anadrol",
+        "url": "https://open.spotify.com/album/0FIwrGmZLzqi8anLO36QDY"
+      },
+      "artists": [
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        }
+      ],
+      "duration_ms": 139947,
+      "name": "Anadrol",
+      "url": "https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
         "name": "The Unknown",
         "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
       },
@@ -967,26 +967,6 @@
       "duration_ms": 215000,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
-        "name": "Ready Or Not",
-        "url": "https://open.spotify.com/album/4bnPHqulH5HKtpkeb4ZmJ5"
-      },
-      "artists": [
-        {
-          "name": "Ghost Stories",
-          "url": "https://open.spotify.com/artist/6J6UF3GqOLdt6f4gfazSzf"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 128225,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/1XGNfiOQXjaUG8W9kLSCQl"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -1011,22 +991,6 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
-        "name": "When I'm With You",
-        "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 233806,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
         "name": "I Like To Party",
         "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
       },
@@ -1043,6 +1007,42 @@
       "duration_ms": 159483,
       "name": "I Like To Party",
       "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
+        "name": "Ready Or Not",
+        "url": "https://open.spotify.com/album/4bnPHqulH5HKtpkeb4ZmJ5"
+      },
+      "artists": [
+        {
+          "name": "Ghost Stories",
+          "url": "https://open.spotify.com/artist/6J6UF3GqOLdt6f4gfazSzf"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 128225,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/1XGNfiOQXjaUG8W9kLSCQl"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 233806,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
+        "name": "Burning Down",
+        "url": "https://open.spotify.com/album/4XQenqlElkoMggcTGHj7VT"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 199941,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/1Es2uLFDtB3xHrjv7V2H9J"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/0BmFaRJVXmnZTaOlqc2aFE"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 127500,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0yAVKaQr7UxS9PCixQCwYs"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
-        "name": "Burning Down",
-        "url": "https://open.spotify.com/album/4XQenqlElkoMggcTGHj7VT"
-      },
-      "artists": [
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 199941,
-      "name": "Burning Down",
-      "url": "https://open.spotify.com/track/1Es2uLFDtB3xHrjv7V2H9J"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
-        "name": "Movin On",
-        "url": "https://open.spotify.com/album/0TY32SjPCtndCENg5nwXg6"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        },
-        {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        }
-      ],
-      "duration_ms": 191392,
-      "name": "Movin On",
-      "url": "https://open.spotify.com/track/5oqoOdam8OLC5KIBZzvQsZ"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
         "name": "Miss You (Remix)",
         "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
       },
@@ -1395,18 +1375,42 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
-        "name": "All Good Things (Come To An End)",
-        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
+        "name": "Movin On",
+        "url": "https://open.spotify.com/album/0TY32SjPCtndCENg5nwXg6"
       },
       "artists": [
         {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
         }
       ],
-      "duration_ms": 134918,
-      "name": "All Good Things (Come To An End)",
-      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
+      "duration_ms": 191392,
+      "name": "Movin On",
+      "url": "https://open.spotify.com/track/5oqoOdam8OLC5KIBZzvQsZ"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
+        "name": "DON'T FKN NEED U",
+        "url": "https://open.spotify.com/album/3VV8mpVVBkTEcn1JO76nUL"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Stratisphere",
+          "url": "https://open.spotify.com/artist/1LfbVm2aPZrE45sBGO34MO"
+        }
+      ],
+      "duration_ms": 190527,
+      "name": "DON'T FKN NEED U",
+      "url": "https://open.spotify.com/track/52C8aF588mf11VBsSnCdsy"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -1431,26 +1435,6 @@
       "duration_ms": 190451,
       "name": "Ruinen Dieser Welt",
       "url": "https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
-        "name": "DON'T FKN NEED U",
-        "url": "https://open.spotify.com/album/3VV8mpVVBkTEcn1JO76nUL"
-      },
-      "artists": [
-        {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
-        },
-        {
-          "name": "Stratisphere",
-          "url": "https://open.spotify.com/artist/1LfbVm2aPZrE45sBGO34MO"
-        }
-      ],
-      "duration_ms": 190527,
-      "name": "DON'T FKN NEED U",
-      "url": "https://open.spotify.com/track/52C8aF588mf11VBsSnCdsy"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 134918,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
         "name": "Waste Your Youth",
         "url": "https://open.spotify.com/album/4oklcY1bCUtzcT0IXx8B7V"
       },
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
-        "name": "Till I Collapse",
-        "url": "https://open.spotify.com/album/38wErlxsJZ55IxGjT3Zq0c"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "KAMI",
-          "url": "https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06"
-        }
-      ],
-      "duration_ms": 158007,
-      "name": "Till I Collapse",
-      "url": "https://open.spotify.com/track/2G5pp5lBvvOZobxOhimIh6"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
         "name": "Weisse Nase",
         "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
       },
@@ -1559,22 +1539,22 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/3B7aLTKz7ZNanHxu6K7cta"
+        "name": "Till I Collapse",
+        "url": "https://open.spotify.com/album/38wErlxsJZ55IxGjT3Zq0c"
       },
       "artists": [
         {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
         },
         {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+          "name": "KAMI",
+          "url": "https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06"
         }
       ],
-      "duration_ms": 221578,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/5v5rbWpEf9toQLUmMo1JdW"
+      "duration_ms": 158007,
+      "name": "Till I Collapse",
+      "url": "https://open.spotify.com/track/2G5pp5lBvvOZobxOhimIh6"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -1595,6 +1575,26 @@
       "duration_ms": 269895,
       "name": "Nobody Said It Was Easy - Sefa Remix",
       "url": "https://open.spotify.com/track/5qeMz1IZRziSatqOG3ZHz6"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/3B7aLTKz7ZNanHxu6K7cta"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 221578,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/5v5rbWpEf9toQLUmMo1JdW"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -1643,18 +1643,22 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
-        "name": "Kiss Kiss Bang",
-        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy"
       },
       "artists": [
         {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
         }
       ],
-      "duration_ms": 154639,
-      "name": "Kiss Kiss Bang",
-      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
+      "duration_ms": 242345,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/5YPl1zxprbE2ZaHQqxJ5wZ"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -1679,22 +1683,18 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
-        "name": "Somebody That I Used To Know",
-        "url": "https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy"
+        "name": "Kiss Kiss Bang",
+        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
       },
       "artists": [
         {
-          "name": "Ran-D",
-          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
-        },
-        {
-          "name": "Devin Wild",
-          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         }
       ],
-      "duration_ms": 242345,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/5YPl1zxprbE2ZaHQqxJ5wZ"
+      "duration_ms": 154639,
+      "name": "Kiss Kiss Bang",
+      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -2227,6 +2227,22 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
         "name": "Stuck In The Middle",
         "url": "https://open.spotify.com/album/7Jkxwy6alSRbaYRx0BXEUG"
       },
@@ -2243,22 +2259,6 @@
       "duration_ms": 232215,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/2vpH5Pr0e8YuuRv4YLHB6V"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -2283,38 +2283,18 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
-        "name": "Aliens On Acid",
-        "url": "https://open.spotify.com/album/2uWl3zx25KruSMy8dML13B"
+        "name": "The Final Dose",
+        "url": "https://open.spotify.com/album/54xJCXszt42VOHFmLtpgU5"
       },
       "artists": [
         {
           "name": "Rebelion",
           "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Sarah Anglionin",
-          "url": "https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Aliens On Acid",
-      "url": "https://open.spotify.com/track/3CsSF3Ty6F3qa09ngJcps2"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
-        "name": "Harder Styles United (Official Knockout Anthem 2025)",
-        "url": "https://open.spotify.com/album/3KVDDyVlrnMaqxp8jcvMF4"
-      },
-      "artists": [
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        }
-      ],
-      "duration_ms": 331354,
-      "name": "Harder Styles United (Official Knockout Anthem 2025)",
-      "url": "https://open.spotify.com/track/4tZgM0PdoK8MG5jvMKdJkC"
+      "duration_ms": 168000,
+      "name": "POLIZEI",
+      "url": "https://open.spotify.com/track/20XN7Sr1wil6dvhPwR2FOe"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -2355,6 +2335,22 @@
       "duration_ms": 129332,
       "name": "Remember The Name",
       "url": "https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
+        "name": "Harder Styles United (Official Knockout Anthem 2025)",
+        "url": "https://open.spotify.com/album/3KVDDyVlrnMaqxp8jcvMF4"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "duration_ms": 331354,
+      "name": "Harder Styles United (Official Knockout Anthem 2025)",
+      "url": "https://open.spotify.com/track/4tZgM0PdoK8MG5jvMKdJkC"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -2451,26 +2447,6 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
-        "name": "Scapenite",
-        "url": "https://open.spotify.com/album/1OmLavmZdqeMXcjgnFus8K"
-      },
-      "artists": [
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        },
-        {
-          "name": "ELI YAZ",
-          "url": "https://open.spotify.com/artist/3pqccXDPIA6Iy07Le4p75R"
-        }
-      ],
-      "duration_ms": 190209,
-      "name": "Scapenite",
-      "url": "https://open.spotify.com/track/0Y3BuxabB4XCsjbZpErLDp"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
         "name": "Blow Up The Speakers (Again)",
         "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
       },
@@ -2487,6 +2463,26 @@
       "duration_ms": 208657,
       "name": "Blow Up The Speakers (Again)",
       "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
+        "name": "Scapenite",
+        "url": "https://open.spotify.com/album/1OmLavmZdqeMXcjgnFus8K"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "ELI YAZ",
+          "url": "https://open.spotify.com/artist/3pqccXDPIA6Iy07Le4p75R"
+        }
+      ],
+      "duration_ms": 190209,
+      "name": "Scapenite",
+      "url": "https://open.spotify.com/track/0Y3BuxabB4XCsjbZpErLDp"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -2531,6 +2527,22 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
+        "name": "Sweet But Psycho",
+        "url": "https://open.spotify.com/album/4OB4IRGAHNxCDqriQJuWT9"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 171983,
+      "name": "Sweet But Psycho",
+      "url": "https://open.spotify.com/track/4tuAQKIOvR2y93N2b8zI9m"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
         "name": "Legends Of The Midnight",
         "url": "https://open.spotify.com/album/33Y6hsT7m3jhsVIsjMC0i8"
       },
@@ -2551,22 +2563,6 @@
       "duration_ms": 210037,
       "name": "Legends Of The Midnight",
       "url": "https://open.spotify.com/track/6OU8U5Os1eeLoWHw3U6o5K"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
-        "name": "Sweet But Psycho",
-        "url": "https://open.spotify.com/album/4OB4IRGAHNxCDqriQJuWT9"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 171983,
-      "name": "Sweet But Psycho",
-      "url": "https://open.spotify.com/track/4tuAQKIOvR2y93N2b8zI9m"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -2635,18 +2631,22 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
-        "name": "BAD GIRLS",
-        "url": "https://open.spotify.com/album/0RD7qFjFhVP3tI4phaRdBJ"
+        "name": "Broken Dreams",
+        "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
       },
       "artists": [
         {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+          "name": "Re-Style",
+          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
+        },
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
         }
       ],
-      "duration_ms": 170355,
-      "name": "BAD GIRLS",
-      "url": "https://open.spotify.com/track/4gP5KoeUwgXOWMy75UhF51"
+      "duration_ms": 222631,
+      "name": "Broken Dreams",
+      "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -2671,46 +2671,18 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
-        "name": "Broken Dreams",
-        "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
+        "name": "BAD GIRLS",
+        "url": "https://open.spotify.com/album/0RD7qFjFhVP3tI4phaRdBJ"
       },
       "artists": [
         {
-          "name": "Re-Style",
-          "url": "https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E"
-        },
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
         }
       ],
-      "duration_ms": 222631,
-      "name": "Broken Dreams",
-      "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
-        "name": "Big City Life (BassWar & CaoX Remix)",
-        "url": "https://open.spotify.com/album/2wvD2ukyl9sYPTsuyjcdyS"
-      },
-      "artists": [
-        {
-          "name": "R.I.O.",
-          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
-        },
-        {
-          "name": "Nicco",
-          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
-        },
-        {
-          "name": "BassWar & CaoX",
-          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "Big City Life - BassWar & CaoX Remix",
-      "url": "https://open.spotify.com/track/0gkSAe8SBP4ufXgIMfB5VK"
+      "duration_ms": 170355,
+      "name": "BAD GIRLS",
+      "url": "https://open.spotify.com/track/4gP5KoeUwgXOWMy75UhF51"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -2751,6 +2723,30 @@
       "duration_ms": 161243,
       "name": "Like A Bitch",
       "url": "https://open.spotify.com/track/38g2OfneomEog25tsXHDHX"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
+        "name": "Big City Life (BassWar & CaoX Remix)",
+        "url": "https://open.spotify.com/album/2wvD2ukyl9sYPTsuyjcdyS"
+      },
+      "artists": [
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        },
+        {
+          "name": "Nicco",
+          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
+        },
+        {
+          "name": "BassWar & CaoX",
+          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Big City Life - BassWar & CaoX Remix",
+      "url": "https://open.spotify.com/track/0gkSAe8SBP4ufXgIMfB5VK"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -2807,6 +2803,22 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/6LcFBmnsk9wGrd2sT4SQao"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/2OGXiM79qJ0ucZ57SArp0S"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
         "name": "The Alarm",
         "url": "https://open.spotify.com/album/0s66Adp95hZ64QV1lAqGHC"
       },
@@ -2835,22 +2847,6 @@
       "duration_ms": 156375,
       "name": "Break The Chain",
       "url": "https://open.spotify.com/track/63w90qB6VWlqDXqawZnszl"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/6LcFBmnsk9wGrd2sT4SQao"
-      },
-      "artists": [
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/2OGXiM79qJ0ucZ57SArp0S"
     },
     {
       "added_at": "2025-11-17 16:17:36",
@@ -2911,6 +2907,26 @@
     {
       "added_at": "2025-11-17 16:17:36",
       "album": {
+        "name": "Nuclear Bomb",
+        "url": "https://open.spotify.com/album/4KynLnM8OzYMd5hFIEkNvD"
+      },
+      "artists": [
+        {
+          "name": "MJU",
+          "url": "https://open.spotify.com/artist/67mfEI3l2eiyhmTPHf4YcY"
+        },
+        {
+          "name": "RAM\u00d8N",
+          "url": "https://open.spotify.com/artist/3wGq6ADKJWJOBfHw0kzytT"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Nuclear Bomb",
+      "url": "https://open.spotify.com/track/3yIXUW0vm0vSeGFRjXUJkS"
+    },
+    {
+      "added_at": "2025-11-17 16:17:36",
+      "album": {
         "name": "Kickuhh!!",
         "url": "https://open.spotify.com/album/0BcLt1ciYWZanb6Gn7jfjS"
       },
@@ -2935,26 +2951,6 @@
       "duration_ms": 161894,
       "name": "Kickuhh!!",
       "url": "https://open.spotify.com/track/0r1N8yWFFouzXIVCegwDQe"
-    },
-    {
-      "added_at": "2025-11-17 16:17:36",
-      "album": {
-        "name": "Nuclear Bomb",
-        "url": "https://open.spotify.com/album/4KynLnM8OzYMd5hFIEkNvD"
-      },
-      "artists": [
-        {
-          "name": "MJU",
-          "url": "https://open.spotify.com/artist/67mfEI3l2eiyhmTPHf4YcY"
-        },
-        {
-          "name": "RAM\u00d8N",
-          "url": "https://open.spotify.com/artist/3wGq6ADKJWJOBfHw0kzytT"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Nuclear Bomb",
-      "url": "https://open.spotify.com/track/3yIXUW0vm0vSeGFRjXUJkS"
     },
     {
       "added_at": "2025-11-17 16:17:36",

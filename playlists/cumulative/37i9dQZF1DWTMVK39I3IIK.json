@@ -4059,6 +4059,28 @@
     },
     {
       "album": {
+        "name": "never let u go",
+        "url": "https://open.spotify.com/album/1zmFCBEU2J1zSnmjLvAN7w"
+      },
+      "artists": [
+        {
+          "name": "Sigurd K",
+          "url": "https://open.spotify.com/artist/0MBbzVTmbulTv2yS7qfznw"
+        },
+        {
+          "name": "miint",
+          "url": "https://open.spotify.com/artist/5PKRj9m1a4XoPSNDmT2oJp"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "never let u go",
+      "url": "https://open.spotify.com/track/0Tb4fg5oV93tbgL9xa1spL"
+    },
+    {
+      "album": {
         "name": "Nevermind",
         "url": "https://open.spotify.com/album/1WL7AjCCMOOBazFXaqD78w"
       },
@@ -6504,7 +6526,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 149761,
       "name": "Vores Forhandling",
       "url": "https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI"

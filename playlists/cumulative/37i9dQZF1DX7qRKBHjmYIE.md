@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con CA7RIEL y Paco Amoroso.
 
-961 songs - 2 day 3 hr 50 min
+962 songs - 2 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -771,7 +771,7 @@
 | [Señales](https://open.spotify.com/track/1itug8TlWzLL2jxCpWQwtp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Señales](https://open.spotify.com/album/4rCqAWYzn68QdzE9b0o77M) | 3:30 | 2025-04-04 | 2025-07-12 |
 | [Shapeshifting](https://open.spotify.com/track/52oyNRoKTuet5V4Q0MATIz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Shapeshifting](https://open.spotify.com/album/03xfkeByIGKb2tlzSrNuxM) | 3:26 | 2021-12-02 | 2022-01-25 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-03-21 | 2022-05-11 |
-| [Si Es Verdad](https://open.spotify.com/track/64FLKmzgsDYXIj0S37de7W) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Si Es Verdad](https://open.spotify.com/album/4PmJkc7tLBzrQt2dBfdWHr) | 2:49 | 2025-06-27 |  |
+| [Si Es Verdad](https://open.spotify.com/track/64FLKmzgsDYXIj0S37de7W) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Si Es Verdad](https://open.spotify.com/album/4PmJkc7tLBzrQt2dBfdWHr) | 2:49 | 2025-06-27 | 2025-12-07 |
 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 | 2022-03-28 | 2023-01-11 |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-22 | 2023-08-26 |
 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 | 2024-05-03 | 2024-05-18 |
@@ -913,6 +913,7 @@
 | [VALLADO 3](https://open.spotify.com/track/5svDgDHktVJoiRYQKx5w8f) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Joyas Del Barrio](https://open.spotify.com/album/4pDa0Jkg14v3coFy2DLuG0) | 2:55 | 2024-10-18 | 2025-01-26 |
 | [VCR](https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5) | [Atomic Rose](https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI) | [VCR](https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb) | 3:35 | 2023-08-25 | 2023-09-02 |
 | [Veinte Años](https://open.spotify.com/track/0Yq9F5wyQPrVVgS2veVxvp) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Veinte Años](https://open.spotify.com/album/6Nr6WLOt5R1nh1VcxAIA1B) | 3:24 | 2024-04-05 | 2024-08-24 |
+| [VENENO](https://open.spotify.com/track/3PUnHlf7ujQ9N5KUtI4jkH) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [mañana, temprano](https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi) | 3:31 | 2025-12-05 |  |
 | [Veneno \- A COLORS SHOW](https://open.spotify.com/track/3NQNJcX6jLyiZfNWKVcgyH) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Veneno \- A COLORS SHOW](https://open.spotify.com/album/1nnRPpAwjfhtXUGYkqsFWZ) | 2:39 | 2021-12-02 | 2022-07-23 |
 | [Veo Luces](https://open.spotify.com/track/63wvx0oN5gandg86x2FSup) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [Veo Luces](https://open.spotify.com/album/4fscuZRhvbb7O0qgPFODlf) | 3:26 | 2023-08-25 | 2023-09-30 |
 | [Versos de Placer](https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Versos de Placer](https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0) | 2:48 | 2021-12-02 | 2022-05-26 |

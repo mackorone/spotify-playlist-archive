@@ -1829,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/0L1fZgjQTboP65QTburanO"
       },
@@ -1870,6 +1888,24 @@
       "duration_ms": 189793,
       "name": "Everything But You (feat. A7S) - Luude Remix",
       "url": "https://open.spotify.com/track/2dLU5EMUxumBWWdzDCL7Lc"
+    },
+    {
+      "album": {
+        "name": "Family Affair (Dance For Me)",
+        "url": "https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2025-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158391,
+      "name": "Family Affair (Dance For Me)",
+      "url": "https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY"
     },
     {
       "album": {
@@ -4760,7 +4796,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 193506,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
@@ -6272,7 +6308,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"

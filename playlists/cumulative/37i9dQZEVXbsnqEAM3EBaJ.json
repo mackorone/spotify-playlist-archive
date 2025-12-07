@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/6Vchu5Bbi4C0nUNSprj6lD"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "A Waltz",
+      "url": "https://open.spotify.com/track/12NyC360WQb7BPQIrC2mqN"
+    },
+    {
+      "album": {
         "name": "A Whole New Sound",
         "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
       },
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 166040,
       "name": "A World Without Heroes",
       "url": "https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI"
@@ -2694,7 +2712,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 291709,
       "name": "alikho igama",
       "url": "https://open.spotify.com/track/27XrJZD7AAhwBSplHlaYC4"
@@ -3646,6 +3664,28 @@
       "duration_ms": 64690,
       "name": "An Epoch",
       "url": "https://open.spotify.com/track/0alZev3wWfiThW3crg7fzR"
+    },
+    {
+      "album": {
+        "name": "Keeper of the Cosmic Staff",
+        "url": "https://open.spotify.com/album/0m7tSKgIGTUxezvjPPg0Pr"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Motion",
+          "url": "https://open.spotify.com/artist/6nFmT4dX7ORQk2FaVwQmA0"
+        },
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65680,
+      "name": "An Organic Power",
+      "url": "https://open.spotify.com/track/4TPk1WNg6bfqzDJtjnUr7A"
     },
     {
       "album": {
@@ -4834,7 +4874,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 238182,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B"
@@ -7012,7 +7052,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 200531,
       "name": "BLACKDEMONIUM",
       "url": "https://open.spotify.com/track/3ObmyKe9kv4raCfgntyBwS"
@@ -7504,7 +7544,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 233239,
       "name": "Bomba de Humo",
       "url": "https://open.spotify.com/track/17R9UNXZceLZSYeolIJlMy"
@@ -9086,7 +9126,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 184680,
       "name": "Castles Made of Sand - Backwards Guitar",
       "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
@@ -11228,7 +11268,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 263253,
       "name": "Cuarto Camino",
       "url": "https://open.spotify.com/track/0lY06zw4KXJGlb2BekKoT8"
@@ -12692,7 +12732,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 149080,
       "name": "Dicotom\u00eda",
       "url": "https://open.spotify.com/track/5Z0VhKCOEueiIGJJXIgKPb"
@@ -14742,7 +14782,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 147322,
       "name": "Echoes of the Hidden Wood",
       "url": "https://open.spotify.com/track/3CxbK6AsB5IrCPoUIyVXuF"
@@ -17172,7 +17212,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 100224,
       "name": "f a t h o m",
       "url": "https://open.spotify.com/track/57qPdRYE1qWHE01Ok7mjT3"
@@ -18284,7 +18324,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 249000,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6aY6gQtFKzAUejy7TW7QZl"
@@ -20512,7 +20552,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 130333,
       "name": "Gone From This Place",
       "url": "https://open.spotify.com/track/3wuHVg60JxrwxAuymngPy5"
@@ -29616,7 +29656,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 404109,
       "name": "Let The Music Play",
       "url": "https://open.spotify.com/track/44i27x71O3m6QKnwSqtWnb"
@@ -30772,7 +30812,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 217064,
       "name": "Living In The Past - Remastered 2025, Live",
       "url": "https://open.spotify.com/track/0bqJr3fbc3heNaOcrE8aBt"
@@ -35092,7 +35132,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 272070,
       "name": "Neighbourhood Villain",
       "url": "https://open.spotify.com/track/2y2RqF6ojE92lv9wYDo6GY"
@@ -35582,7 +35622,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 63460,
       "name": "Nimbus",
       "url": "https://open.spotify.com/track/1rKMCgELu6ToKjnIbKS5IS"
@@ -36150,6 +36190,24 @@
       "duration_ms": 292760,
       "name": "Not Nothing",
       "url": "https://open.spotify.com/track/4vmLFO56Gb5LeMK8surfau"
+    },
+    {
+      "album": {
+        "name": "Nothin'",
+        "url": "https://open.spotify.com/album/6BieAhfPQAUAISRIaNP5ER"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263180,
+      "name": "Nothin'",
+      "url": "https://open.spotify.com/track/49u9MlLKXc0NLg6m775ecd"
     },
     {
       "album": {
@@ -41468,7 +41526,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 240389,
       "name": "Reconocerte en sus calles",
       "url": "https://open.spotify.com/track/3E2N55Bo7BSZQmj2S5EVM6"
@@ -50610,7 +50668,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 323294,
       "name": "The Day I Tried To Live - feat. Kim Thayil & Alissa White-Gluz",
       "url": "https://open.spotify.com/track/2s4F5SGrpFyGD2grG8aqvl"
@@ -58886,7 +58944,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 281600,
       "name": "Where The Wild Things Are",
       "url": "https://open.spotify.com/track/1Syy5gdj5Ug4kIYwnjYQT5"
@@ -59596,6 +59654,32 @@
       "duration_ms": 168493,
       "name": "Wires And The Concept Of Breathing - Live at The Glasshouse",
       "url": "https://open.spotify.com/track/1V1I1oa74v1vPkGKaEP5AG"
+    },
+    {
+      "album": {
+        "name": "ENIAG FOREVER",
+        "url": "https://open.spotify.com/album/3vcMYi4XWP5fQVnvIcaPQZ"
+      },
+      "artists": [
+        {
+          "name": "Douglass",
+          "url": "https://open.spotify.com/artist/5WR2RuBXuzsOzfFW8D8Ji6"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "Branko Fetti",
+          "url": "https://open.spotify.com/artist/5FrBoubegsqkORfkCivfsc"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251161,
+      "name": "WISE MONEY",
+      "url": "https://open.spotify.com/track/6ff9ZYSsFW9T5Z95UJo7Qs"
     },
     {
       "album": {

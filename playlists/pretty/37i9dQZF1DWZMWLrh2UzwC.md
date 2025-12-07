@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from DIOR 大穎, TAEYEON, FIFTY FIFTY, Aisha Retno, Aziz Harun,  艾薇 Ivy, <br/>吳霏, Sarah Suhairi, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,327 likes - 99 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,322 likes - 99 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

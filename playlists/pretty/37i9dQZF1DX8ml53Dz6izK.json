@@ -1,6 +1,6 @@
 {
   "description": "< insert emo glitter gif here >",
-  "num_followers": 70009,
+  "num_followers": 70014,
   "original_name": "CrySpace",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
+        "name": "Suicide Season",
+        "url": "https://open.spotify.com/album/6bdSj3D5soQXZqlxSn5ZQr"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 302560,
+      "name": "Chelsea Smile",
+      "url": "https://open.spotify.com/track/2C5jGbR23YLonV7Lton6fV"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/7vTkGDm4harI3j80FSvr2p"
       },
@@ -1259,34 +1275,18 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "No Pads, No Helmets...Just Balls",
-        "url": "https://open.spotify.com/album/3rEl0zv6lbVZiB79uHAQ5y"
+        "name": "Zombies! Aliens! Vampires! Dinosaurs! And More!",
+        "url": "https://open.spotify.com/album/4xS0NB3U8IOAobyyJy09Yk"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "Hellogoodbye",
+          "url": "https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde"
         }
       ],
-      "duration_ms": 197640,
-      "name": "I'd Do Anything",
-      "url": "https://open.spotify.com/track/5KCPpfk3qfw2Gd9DRMCq8Y"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/34eR6ev1GGZHmxNTEfRobW"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "If It Means a Lot to You",
-      "url": "https://open.spotify.com/track/6J7cSyvSCnPwv3vqHchEfL"
+      "duration_ms": 240546,
+      "name": "Here (In Your Arms)",
+      "url": "https://open.spotify.com/track/4z1gmF4S1YsTj1pxiU47Qx"
     }
   ],
   "unique_name": "CrySpace",

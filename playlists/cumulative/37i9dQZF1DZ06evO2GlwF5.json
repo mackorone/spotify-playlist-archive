@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "\u5c11\u5e74\u30a2\u30ea\u30b9",
+        "url": "https://open.spotify.com/album/5C1IE2qoBSHKwp8U8mlNec"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354870,
+      "name": "03",
+      "url": "https://open.spotify.com/track/59BhhH7f98M7on63nZOHAY"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 \u30d7\u30e9\u30b9 \u300c\u30cf\u30c1\u30dd\u30c1\u300d",
         "url": "https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy"
       },
@@ -402,7 +420,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 254266,
       "name": "Get No Satisfaction!",
       "url": "https://open.spotify.com/track/6iWhliYMcrGhdZ6pOOTBSI"

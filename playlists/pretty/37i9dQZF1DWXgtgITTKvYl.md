@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of best Prog Rock tracks\. Cover: Dream Theater
+> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,656 likes - 75 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,711 likes - 75 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [The 5th Law](https://open.spotify.com/track/2KMZ1xgGefGnO3WnMC5G6o) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [The 5th Law](https://open.spotify.com/album/1npulGf5kCQoe7x7GGrEoD) | 2:01 |
 | 75 | [Triangulation \(feat\. John Petrucci\)](https://open.spotify.com/track/2MoGL0GCj3NiaAZB9a5pHi) | [Steve Morse Band](https://open.spotify.com/artist/4RvfPm4uzNgEzeAxBOAQZK), [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Triangulation](https://open.spotify.com/album/56G7p9w4Ob1AQMq8ltWqRE) | 4:50 |
 
-Snapshot ID: `AAAAABfGHhdytzOj/WyzQHDasteXXUB3`
+Snapshot ID: `AAAAAJvWvXxfZf5fknYJ9OUf8wbuv9Hs`

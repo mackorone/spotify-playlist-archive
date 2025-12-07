@@ -4,7 +4,7 @@
 
 > This is PJ Harvey\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 1 min
+53 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Broken Harp](https://open.spotify.com/track/1eqENjZS8hTmOJWRUb3yp2) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [White Chalk](https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j) | 1:57 | 2025-10-28 | 2025-11-07 |
 | [C'mon Billy](https://open.spotify.com/track/56sWRGGeRFWgFhrMOgOyZC) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 2:47 | 2025-10-28 |  |
 | [Come to Me](https://open.spotify.com/track/7xDeTALyFeNz7241qj3aJS) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Bubblegum](https://open.spotify.com/album/4tK7Hlb92sbC6OEKQG7QiJ) | 3:45 | 2025-10-28 |  |
+| [Dear Darkness](https://open.spotify.com/track/3khsLfdlKOy9uZ754psc9G) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [White Chalk](https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j) | 3:09 | 2025-12-07 |  |
 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 | 2025-10-28 |  |
 | [Dress](https://open.spotify.com/track/6pRWjTvrRM8vmf3LE9akXc) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/0sOkhl9Sgep1t9v0wx8ffg) | 3:18 | 2025-10-28 |  |
 | [Eyepennies](https://open.spotify.com/track/2KN2jYc5w89X3odixWVp1I) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 5:27 | 2025-10-28 |  |
@@ -27,7 +28,7 @@
 | [I Inside the Old Year Dying](https://open.spotify.com/track/1bk0pE5DN0lfTx8pI9WerX) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 1:52 | 2025-10-28 |  |
 | [In The Dark Places](https://open.spotify.com/track/0fAoPbcLqVYS11D3Eds7J7) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 2:59 | 2025-10-28 |  |
 | [Is This Desire?](https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:25 | 2025-10-28 |  |
-| [Legs](https://open.spotify.com/track/2UVPkh6lrARjYDK42jC6kD) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:40 | 2025-10-28 |  |
+| [Legs](https://open.spotify.com/track/2UVPkh6lrARjYDK42jC6kD) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:40 | 2025-10-28 | 2025-12-07 |
 | [Let England Shake](https://open.spotify.com/track/6DST3HT8zF8WpNmg9tHuaa) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 3:09 | 2025-10-28 |  |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/3FYnFqxfRBeAHdBRExnaUZ) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz), [Tim Phillips](https://open.spotify.com/artist/0prMdgdyCmPmrmPQ5Sgf5h) | [Bad Sisters \(Season 2\) \[Original Series Soundtrack\]](https://open.spotify.com/album/0s3OVD9QWfP6cEdG1K5FGj) | 3:01 | 2025-11-07 |  |
 | [Lwonesome Tonight](https://open.spotify.com/track/1YOs9wSUVlmIIJ0GNL1Oiv) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 3:48 | 2025-10-28 |  |

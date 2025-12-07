@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Emtee
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,549 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,602 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 39 | [No Niggas \(Like Me\)](https://open.spotify.com/track/7IoUvx7HG50MoRAcUEDV0G) | [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Mochen](https://open.spotify.com/artist/4nudcbC591mp6tDevFf6iA) | [No Niggas \(Like Me\)](https://open.spotify.com/album/4SIMSLnkIFqD08g1nTeORf) | 3:05 |
 | 40 | [Nombolo](https://open.spotify.com/track/6pXNT3NpkgRODpPEoZclnU) | [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT) | [iiNtsikelelo](https://open.spotify.com/album/24jCsI6eZ5wKORW876EeI2) | 3:10 |
 | 41 | [MSP](https://open.spotify.com/track/6Fmf4e8VM4Eug4QhjIpt5I) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [DJ Speedsta](https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87) | [MSP](https://open.spotify.com/album/3DercX1wefziUL8AjaLlZo) | 2:33 |
-| 42 | [WHAT!](https://open.spotify.com/track/1XFv0iwOukqnhnobIUpWMc) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [WHAT!](https://open.spotify.com/album/1TH98ynoGEm3YKSMtpjc6x) | 3:52 |
+| 42 | [WHAT! \(WITH SHANNON\)](https://open.spotify.com/track/1XFv0iwOukqnhnobIUpWMc) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL), [Shannon](https://open.spotify.com/artist/0cpRAqLFfaS1wgflVWtd4S) | [WHAT! \(WITH SHANNON\)](https://open.spotify.com/album/1TH98ynoGEm3YKSMtpjc6x) | 3:52 |
 | 43 | [Right In](https://open.spotify.com/track/3W8GAAAu35BL6dpr5TcnLe) | [yungseruno](https://open.spotify.com/artist/5sQfJS73DtZdQlA00Fg5La), [Joey Manson](https://open.spotify.com/artist/3VqJlz60VvvWdBBs4DthJT), [SXNIC](https://open.spotify.com/artist/1VL3jtaXlbhFs3YTZ6BbRK), [Skyler YSL](https://open.spotify.com/artist/1JTS7zNKbMZMAV2IBw8LlO) | [Right In](https://open.spotify.com/album/4HyhOiaDkaYoNL6tk9vfjN) | 2:50 |
 | 44 | [TOP FIVE](https://open.spotify.com/track/3xqWsz7fy83b26Q7pZFArv) | [Skatle](https://open.spotify.com/artist/34tueLJCJdZWicSpnlh1T2), [GVNT](https://open.spotify.com/artist/3mPwYo0I3ghj65F0C9iRtQ), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn) | [TOP FIVE](https://open.spotify.com/album/27swsg5S0DtW66EwHfMaA0) | 3:05 |
 | 45 | [DND](https://open.spotify.com/track/2y5yUm9XnEQmbuO0IEy7cl) | [Yung 6illy](https://open.spotify.com/artist/5sGDkdutubvXnakJvifK4u), [Lunmctik](https://open.spotify.com/artist/3n0UVJAPEwOwdOFWvZrPYh) | [DND](https://open.spotify.com/album/7204Qh9lngNMO0KvIHCtxP) | 3:50 |

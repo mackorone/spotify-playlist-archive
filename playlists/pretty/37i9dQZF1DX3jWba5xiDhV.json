@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 369498,
+  "num_followers": 369676,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-11-20 23:01:37",
       "album": {
+        "name": "Caf\u00e8",
+        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
+      },
+      "artists": [
+        {
+          "name": "Dd Sound",
+          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
+        }
+      ],
+      "duration_ms": 393773,
+      "name": "Caf\u00e8 - Original 1979 Version",
+      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
+    },
+    {
+      "added_at": "2025-11-20 23:01:37",
+      "album": {
         "name": "Mini Pony",
         "url": "https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 209053,
       "name": "Mini Pony",
       "url": "https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv"
-    },
-    {
-      "added_at": "2025-11-20 23:01:37",
-      "album": {
-        "name": "Caf\u00e8",
-        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
-      },
-      "artists": [
-        {
-          "name": "Dd Sound",
-          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
-        }
-      ],
-      "duration_ms": 393773,
-      "name": "Caf\u00e8 - Original 1979 Version",
-      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
     },
     {
       "added_at": "2025-11-20 23:01:37",
@@ -1267,22 +1267,26 @@
     {
       "added_at": "2025-11-20 23:01:37",
       "album": {
-        "name": "Orrore!",
-        "url": "https://open.spotify.com/album/6HlAOxR2wMWbjEmbZRw7gQ"
+        "name": "Come On Closer (2020 Remaster)",
+        "url": "https://open.spotify.com/album/1bdDfDXBhrMZQZqLDbmGdL"
       },
       "artists": [
         {
-          "name": "Protopapa",
-          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+          "name": "Pineapples",
+          "url": "https://open.spotify.com/artist/2XT4eexHFaKdv4Jm1NT9r0"
         },
         {
-          "name": "Hey Cabrera!",
-          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
+        },
+        {
+          "name": "Douglas Roop",
+          "url": "https://open.spotify.com/artist/37nfoS8kfCxK8tzAsbq5vY"
         }
       ],
-      "duration_ms": 158214,
-      "name": "Orrore!",
-      "url": "https://open.spotify.com/track/02BsuUGEo4dNbzioXbEhjJ"
+      "duration_ms": 390333,
+      "name": "Come On Closer - (Dub Version) Prod. by Roberto Ferrante - 2020 Remaster",
+      "url": "https://open.spotify.com/track/6kuJUlAVljF251MvyvdcPP"
     },
     {
       "added_at": "2025-11-20 23:01:37",

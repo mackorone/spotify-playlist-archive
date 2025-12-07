@@ -1,6 +1,6 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 188810,
+  "num_followers": 188931,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-10-10 06:00:33",
       "album": {
+        "name": "BANSHEE/#REBEL",
+        "url": "https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik"
+    },
+    {
+      "added_at": "2025-10-10 06:00:33",
+      "album": {
         "name": "Take Yer Meds",
         "url": "https://open.spotify.com/album/1VxbwC3jq5hj69AHQKi4ZE"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 223226,
       "name": "Take Yer Meds",
       "url": "https://open.spotify.com/track/4D6Q0SpfBPae88bwbLXKmo"
-    },
-    {
-      "added_at": "2025-10-10 06:00:33",
-      "album": {
-        "name": "BANSHEE/#REBEL",
-        "url": "https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "BANSHEE",
-      "url": "https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik"
     },
     {
       "added_at": "2025-10-10 06:00:33",

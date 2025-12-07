@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 10346,
+  "num_followers": 10351,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAABHg5lScIhr5hirv8Tlpq/4",
+  "snapshot_id": "aTIggAAAAAAf6vJNGrqOMzB6XBeN9ZWH",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primer Tiempo",
-        "url": "https://open.spotify.com/album/1kenLdV50A0LUgYFE73EjH"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "El Vaso Derrama",
-      "url": "https://open.spotify.com/track/4qbzincCvSKGd9mhhYCsUF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 179240,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Primer Tiempo",
+        "url": "https://open.spotify.com/album/1kenLdV50A0LUgYFE73EjH"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 236373,
+      "name": "El Vaso Derrama",
+      "url": "https://open.spotify.com/track/4qbzincCvSKGd9mhhYCsUF"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
         }
       ],
-      "duration_ms": 200596,
-      "name": "Los 3 Gallos - En Vivo",
-      "url": "https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ"
+      "duration_ms": 216850,
+      "name": "La Clave 7 - En Vivo",
+      "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
         }
       ],
-      "duration_ms": 216850,
-      "name": "La Clave 7 - En Vivo",
-      "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
+      "duration_ms": 200596,
+      "name": "Los 3 Gallos - En Vivo",
+      "url": "https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mejores Corridos",
-        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 196346,
-      "name": "Mi Ranchito Querido",
-      "url": "https://open.spotify.com/track/5NBqQ42L9zHfCb3NJV1HEP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cargamento Del Diablo",
         "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 231533,
       "name": "El Cargamento Del Diablo",
       "url": "https://open.spotify.com/track/7sGWaqVuPGvfmXtnF71frT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 196346,
+      "name": "Mi Ranchito Querido",
+      "url": "https://open.spotify.com/track/5NBqQ42L9zHfCb3NJV1HEP"
     },
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mejores Corridos",
-        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+        "name": "Mi Corazon Ya Te Olvido",
+        "url": "https://open.spotify.com/album/3l8xnffFtNk5UOMlt7Ye5v"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 185906,
-      "name": "Los Dos Jefes",
-      "url": "https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2"
+      "duration_ms": 158480,
+      "name": "Linda Princesa",
+      "url": "https://open.spotify.com/track/2hALctzTAdTgRsdUbE3Jwu"
     }
   ],
   "unique_name": "This Is El Potro De Sinaloa",

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-711 songs - 1 day 6 hr 49 min
+712 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Allure](https://open.spotify.com/track/04ooGGf7K6S82kmzceMqX3) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Allure](https://open.spotify.com/album/2WVuxyDtbBCTRqBgnuah9g) | 2:24 | 2025-09-26 | 2025-11-29 |
 | [Altered Sine](https://open.spotify.com/track/60f6EbhrEope346BnF3G6J) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Altered Sine](https://open.spotify.com/album/4ZlHTbQtEDzz72oLt4jVlg) | 2:57 | 2024-09-13 | 2025-11-15 |
 | [Always Late](https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h) | [takoda](https://open.spotify.com/artist/73iCRSMTOEczMdEyZwWzME), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Hubie](https://open.spotify.com/artist/06pHfTjRYEOBsFQ4viO0oM) | [Together Tomorrow](https://open.spotify.com/album/2r54jmgXYv5F2Cn7Qqjxa0) | 2:17 | 2024-11-22 | 2025-05-03 |
+| [amber](https://open.spotify.com/track/5XERwPrTfpLlvbCzK1ZfC8) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [amber](https://open.spotify.com/album/3ZXyc2p19TsdtGowioTvBY) | 2:32 | 2025-12-05 |  |
 | [Amber Interior](https://open.spotify.com/track/4E84hKfy5OdYXiYGw2hbAK) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg), [Colt](https://open.spotify.com/artist/7aT9MkRQS4iaMF4CRUpm5c) | [Empty Pool](https://open.spotify.com/album/1cp1dwciYyhXThpHOQfJ9s) | 3:05 | 2024-08-23 | 2025-05-17 |
 | [Amor De Otoño](https://open.spotify.com/track/2YdEIwKZ4Tc7zJ7dnl2lF1) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Amor De Otoño](https://open.spotify.com/album/2KFPpWIjPLZliPeBhdL5f2) | 2:08 | 2023-08-22 | 2025-04-12 |
 | [Ancestors](https://open.spotify.com/track/0XhbvGiHIzF7BunDLqO2tc) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Jazz Cats](https://open.spotify.com/album/2GgAaiOoYwlpXsEnCLzaNv) | 2:25 | 2023-08-22 | 2024-04-19 |
@@ -235,7 +236,7 @@
 | [Good Things Happen](https://open.spotify.com/track/2GwRZI8nIoVFCAIsf3qaUu) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Aaron Wood](https://open.spotify.com/artist/1ezDfTAgyNgHfoZNRaEEls) | [Good Things Happen](https://open.spotify.com/album/58xqkw3fRhOKsO9f7lDXtY) | 2:49 | 2024-09-06 | 2025-06-21 |
 | [Grandma's Stove](https://open.spotify.com/track/7bcOJpMCtzmLDq5IaSqFn6) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Grandma's Stove](https://open.spotify.com/album/3wvW2X3Tc5zMQ3QkQwYuhk) | 3:19 | 2025-05-02 | 2025-06-12 |
 | [Great Void](https://open.spotify.com/track/0JDeLjaHDaXT3SR9SjrNCt) | [ChildNoah](https://open.spotify.com/artist/5H3mowogBSr0PYGW0JrtAg) | [Great Void](https://open.spotify.com/album/2oKyOFhX6bkJsKy7xW6rX9) | 2:40 | 2025-01-10 | 2025-12-06 |
-| [Grey Sky](https://open.spotify.com/track/2AEhxIKFfvjxk1NTMP1bR0) | [Mjølnir](https://open.spotify.com/artist/0oXIq7U8lZeSOpBXt2EFfQ), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Grey Sky](https://open.spotify.com/album/5tnq2hprFcEZn5oOEvqW9P) | 2:04 | 2025-02-14 |  |
+| [Grey Sky](https://open.spotify.com/track/2AEhxIKFfvjxk1NTMP1bR0) | [Mjølnir](https://open.spotify.com/artist/0oXIq7U8lZeSOpBXt2EFfQ), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Grey Sky](https://open.spotify.com/album/5tnq2hprFcEZn5oOEvqW9P) | 2:04 | 2025-02-14 | 2025-12-07 |
 | [Growing Season](https://open.spotify.com/track/21qtuIFQb8HQg0aYNNhvFa) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Growing Season](https://open.spotify.com/album/4awunKCrufzXXpOwfXnxs1) | 2:51 | 2025-03-03 | 2025-09-20 |
 | [Guhbs Inspired](https://open.spotify.com/track/79XSdxwWYr7GGEt29xRfVC) | [Kobe Banks](https://open.spotify.com/artist/5oNNblNaS9wcfoe7iYO4HI) | [Golden hour](https://open.spotify.com/album/1KuuAczFNGO90VfWwHB97z) | 2:12 | 2025-09-26 | 2025-10-22 |
 | [Half Drunk](https://open.spotify.com/track/09TZnkjjydQH8eTmbhYVAS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Half Drunk](https://open.spotify.com/album/6k7AaUKAZ67FSDgThrteq0) | 2:14 | 2024-08-23 | 2024-08-28 |

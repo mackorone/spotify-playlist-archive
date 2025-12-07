@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 66212,
+  "num_followers": 66220,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAABf1TmvQsYIZbtI1SkLs4tY",
+  "snapshot_id": "aTIggAAAAADgqUOMck/gjqTH710odpl0",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 170693,
-      "name": "Noches Eternas",
-      "url": "https://open.spotify.com/track/7k11lO5JBXkkQfKBExqVGh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Lo Bueno Lo Mejor",
         "url": "https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 217373,
       "name": "No Me Hagas Menos",
       "url": "https://open.spotify.com/track/5CpAD6mT0lOdUkZHIqPGCq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 170693,
+      "name": "Noches Eternas",
+      "url": "https://open.spotify.com/track/7k11lO5JBXkkQfKBExqVGh"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldito Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/67Lp9kVL6E0KWnnp1fIjge"
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Maldito Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4hgnCn9YlSTs1igsFyGInk"
+      "duration_ms": 219320,
+      "name": "Ya Para Que",
+      "url": "https://open.spotify.com/track/17jm8TyGeg2ZHMUk0L9IL7"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+        "name": "Maldito Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/67Lp9kVL6E0KWnnp1fIjge"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Ya Para Que",
-      "url": "https://open.spotify.com/track/17jm8TyGeg2ZHMUk0L9IL7"
+      "duration_ms": 207500,
+      "name": "Maldito Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4hgnCn9YlSTs1igsFyGInk"
     },
     {
       "added_at": null,

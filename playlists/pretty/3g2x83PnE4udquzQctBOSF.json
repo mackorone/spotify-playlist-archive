@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2628,
+  "num_followers": 2630,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARHPrjCuT9a8xDRolexYP3myTBGL2i",
+  "snapshot_id": "AAARHT0g2aUIPOBfK72WXww1xvExewuW",
   "tracks": [
+    {
+      "added_at": "2025-12-06 15:12:49",
+      "album": {
+        "name": "Cerco il Nirvana",
+        "url": "https://open.spotify.com/album/44ToiI91J1uUmLefDmSh6T"
+      },
+      "artists": [
+        {
+          "name": "DreamerWild",
+          "url": "https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cerco il Nirvana",
+      "url": "https://open.spotify.com/track/56A2pT45d2gKQpDrk7B2yH"
+    },
     {
       "added_at": "2025-12-01 18:35:13",
       "album": {

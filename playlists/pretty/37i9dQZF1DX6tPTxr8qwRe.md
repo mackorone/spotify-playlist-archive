@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Mad Tsai on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,721 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,728 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 50 | [Shotgun](https://open.spotify.com/track/4S5pZrGfNZFhVkbOnDLNX3) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Shotgun](https://open.spotify.com/album/6Nq1mbAovv0dnh9DPDyfyd) | 3:04 |
 | 51 | [Crucify Me](https://open.spotify.com/track/6CRtl0zQVr5LxmFCVIqnjZ) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Crucify Me](https://open.spotify.com/album/0xklVGzqJfLr2w2IJeLyEB) | 2:20 |
 
-Snapshot ID: `AAAAAKVZ1PaTycRB1I1Yo8sg3Q6tYK6b`
+Snapshot ID: `AAAAAGawOabfsyRc7Ugshu+aaCMj8TfU`

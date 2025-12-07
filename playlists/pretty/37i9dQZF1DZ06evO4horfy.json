@@ -1,12 +1,12 @@
 {
   "description": "This is Kinderen voor Kinderen. The essential tracks, all in one playlist.",
-  "num_followers": 45098,
+  "num_followers": 45092,
   "original_name": "This Is Kinderen voor Kinderen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAACrbA1ZvNW6hzlRrWHUXXwc",
+  "snapshot_id": "aTIggAAAAAAszEJ1kwVJtFln4aNjXQ3e",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Klaar Voor De Start (Deel 34)",
-        "url": "https://open.spotify.com/album/2JN272oH25vLaaK57Grk6p"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 183382,
-      "name": "Bewegen Is Gezond",
-      "url": "https://open.spotify.com/track/3U2FMlenYkTKN6Dyb3STda"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "45 - Lekker eigenwijs",
         "url": "https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 175762,
       "name": "Lekker eigenwijs",
       "url": "https://open.spotify.com/track/6Ywtn5b16tAlqwQJrzEXm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Klaar Voor De Start (Deel 34)",
+        "url": "https://open.spotify.com/album/2JN272oH25vLaaK57Grk6p"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 183382,
+      "name": "Bewegen Is Gezond",
+      "url": "https://open.spotify.com/track/3U2FMlenYkTKN6Dyb3STda"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daba Die Daba Daa",
-        "url": "https://open.spotify.com/album/0xHWsgwM49ZtsJz3GNDQIS"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Daba Die Daba Daa",
-      "url": "https://open.spotify.com/track/1a7sr4v7f7tAig5fl68Vir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "45 - Lekker eigenwijs",
         "url": "https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 170000,
       "name": "Dansen in de regen",
       "url": "https://open.spotify.com/track/5zh0gHpGzmzZEtsQRL4xPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daba Die Daba Daa",
+        "url": "https://open.spotify.com/album/0xHWsgwM49ZtsJz3GNDQIS"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "Daba Die Daba Daa",
+      "url": "https://open.spotify.com/track/1a7sr4v7f7tAig5fl68Vir"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Samen Alleen (NXT)",
-        "url": "https://open.spotify.com/album/2iKOMx5q7TDQluXyceh3bF"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 170676,
-      "name": "Samen alleen - NXT",
-      "url": "https://open.spotify.com/track/3hW3iRrYjo63Tj2faTc4rY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "45 - Lekker eigenwijs",
         "url": "https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 132710,
       "name": "Op een eiland",
       "url": "https://open.spotify.com/track/0AZKztHONbLWNx94BRgOrK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Samen Alleen (NXT)",
+        "url": "https://open.spotify.com/album/2iKOMx5q7TDQluXyceh3bF"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 170676,
+      "name": "Samen alleen - NXT",
+      "url": "https://open.spotify.com/track/3hW3iRrYjo63Tj2faTc4rY"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "38 - Gruwelijk eng",
-        "url": "https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 183089,
-      "name": "Haai Alarm!",
-      "url": "https://open.spotify.com/track/5BR0NuF8t22IXEb62zfw6g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "45 - Lekker eigenwijs",
         "url": "https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 174085,
       "name": "Hardop dromen",
       "url": "https://open.spotify.com/track/2iBGVympAN7k2eOfX5yXQd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "38 - Gruwelijk eng",
+        "url": "https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 183089,
+      "name": "Haai Alarm!",
+      "url": "https://open.spotify.com/track/5BR0NuF8t22IXEb62zfw6g"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superkracht (NXT)",
-        "url": "https://open.spotify.com/album/5okXjfwZKRpR8YcXiMqVdk"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 173478,
-      "name": "Superkracht - NXT",
-      "url": "https://open.spotify.com/track/7GQdgmX4UezlLisuY82Lcl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "45 - Lekker eigenwijs",
         "url": "https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr"
       },
@@ -331,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "46 - Vol avontuur",
-        "url": "https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 171531,
-      "name": "Giechel",
-      "url": "https://open.spotify.com/track/0I6ILRoXNFyGIbHAO3mmT5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gi-ga-groen",
         "url": "https://open.spotify.com/album/5aXZyWxZlxLwr6bFL5Izu2"
       },
@@ -359,6 +327,22 @@
       "duration_ms": 171013,
       "name": "Gi-ga-groen",
       "url": "https://open.spotify.com/track/5qHgkualSydbFiJHwKnD1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "46 - Vol avontuur",
+        "url": "https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 171531,
+      "name": "Giechel",
+      "url": "https://open.spotify.com/track/0I6ILRoXNFyGIbHAO3mmT5"
     },
     {
       "added_at": null,
@@ -391,6 +375,22 @@
       "duration_ms": 168732,
       "name": "Schoolziek",
       "url": "https://open.spotify.com/track/6Sfu19rB7tMIETQz0OXFRO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superkracht (NXT)",
+        "url": "https://open.spotify.com/album/5okXjfwZKRpR8YcXiMqVdk"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 173478,
+      "name": "Superkracht - NXT",
+      "url": "https://open.spotify.com/track/7GQdgmX4UezlLisuY82Lcl"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hand in hand",
-        "url": "https://open.spotify.com/album/5pyavwHS0xk7LYdblI5RKr"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 183135,
-      "name": "Hand in hand",
-      "url": "https://open.spotify.com/track/2bJJS2AusQLIeoSSAcIUyd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "44 - Bij mij thuis",
         "url": "https://open.spotify.com/album/4NhFo1kpTnSg3KMi8B2hFV"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 - Reis mee!",
-        "url": "https://open.spotify.com/album/3s1UkvqVNjeDkoH3VGMqmW"
+        "name": "Hand in hand",
+        "url": "https://open.spotify.com/album/5pyavwHS0xk7LYdblI5RKr"
       },
       "artists": [
         {
@@ -660,9 +644,25 @@
           "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Reis mee!",
-      "url": "https://open.spotify.com/track/2vINFq5NlL2zC247YSWXwt"
+      "duration_ms": 183135,
+      "name": "Hand in hand",
+      "url": "https://open.spotify.com/track/2bJJS2AusQLIeoSSAcIUyd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "43 - Gi-ga-groen",
+        "url": "https://open.spotify.com/album/64NvoYlzgfUwUpzMiteFBA"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 155474,
+      "name": "Vrienden met de monsters",
+      "url": "https://open.spotify.com/track/7fTn6zBh9gJHTcltdXff3j"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "43 - Gi-ga-groen",
-        "url": "https://open.spotify.com/album/64NvoYlzgfUwUpzMiteFBA"
+        "name": "40 - Reis mee!",
+        "url": "https://open.spotify.com/album/3s1UkvqVNjeDkoH3VGMqmW"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
         }
       ],
-      "duration_ms": 155474,
-      "name": "Vrienden met de monsters",
-      "url": "https://open.spotify.com/track/7fTn6zBh9gJHTcltdXff3j"
+      "duration_ms": 173333,
+      "name": "Reis mee!",
+      "url": "https://open.spotify.com/track/2vINFq5NlL2zC247YSWXwt"
     },
     {
       "added_at": null,

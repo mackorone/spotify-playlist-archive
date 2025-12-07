@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,668 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,697 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 45 | [Encontrei em Você](https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI) | [Lucena](https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V), [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [O Peter](https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Encontrei em Você](https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo) | 2:52 |
 | 46 | [Bíblia no Jeans](https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv) | [Kinho](https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bíblia no Jeans](https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb) | 2:18 |
 | 47 | [DNA](https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [Novidade Urbana](https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy) | [DNA](https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf) | 2:22 |
-| 48 | [Firme](https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw) | [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX), [Ty Fig](https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S) | [Firme](https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI) | 2:36 |
-| 49 | [Com Jesus Eu Ganho](https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB) | [Com Jesus Eu Ganho](https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u) | 2:18 |
+| 48 | [Com Jesus Eu Ganho](https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB) | [Com Jesus Eu Ganho](https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u) | 2:18 |
+| 49 | [Firme](https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw) | [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX), [Ty Fig](https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S) | [Firme](https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI) | 2:36 |
 | 50 | [Rio De Águas Vivas](https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Prod Mkzin](https://open.spotify.com/artist/4qV4GKPQMSwtTP1ZAM4z9v) | [Rio De Águas Vivas](https://open.spotify.com/album/74Yrv4ZAKbA9nnEV9NUqYr) | 3:03 |
 | 51 | [Mais Perto do Céu](https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9) | [Levi](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Mais Perto do Céu](https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk) | 2:37 |
 | 52 | [Me Deixou Forte](https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Me Deixou Forte](https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va) | 2:44 |

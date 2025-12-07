@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,701 songs - 4 day 7 hr 25 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 245 likes - 1,706 songs - 4 day 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1709,5 +1709,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1699 | [Worst Universe](https://open.spotify.com/track/0jdnGukKtJsvQ3EfvB5m3F) | [Marcy Daydream](https://open.spotify.com/artist/6NkpRJhd9in8Syp4gT3ka9) | [Worst Universe](https://open.spotify.com/album/3ts13EAFlZY3xcN9jmN19L) | 4:07 |
 | 1700 | [FRONTIER SNOW](https://open.spotify.com/track/6qW4799c2YhHshgwyVgXOl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FRONTIER SNOW](https://open.spotify.com/album/3S8GuBbOqtyIN5EqF5KiC2) | 3:19 |
 | 1701 | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/track/1nlL8h5SlpHQRc7zDWgE7R) | [ski mask BIG daddy](https://open.spotify.com/artist/63AMuOyMwnLVlOWMskZ6B5) | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/album/0nN0VqilWsN1XwMbNz8WmK) | 2:56 |
+| 1702 | [Filtros](https://open.spotify.com/track/2w6Vf7RMtvWOMXV6HTalL5) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Filtros](https://open.spotify.com/album/41cTBLBHm96ebgJUiVlVaA) | 2:31 |
+| 1703 | [Zenith](https://open.spotify.com/track/6OrjMdW9uD4sDkJueoK3Jh) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 2:58 |
+| 1704 | [Things Ah Get Tuff](https://open.spotify.com/track/1ShVw6HorYpQ49D7EZtNVs) | [Makyo](https://open.spotify.com/artist/3FGI29SmDTzOZgdGtHkzku) | [Things Ah Get Tuff](https://open.spotify.com/album/17xUNLNDNREfl1W9dp4ABr) | 4:36 |
+| 1705 | [Things Ah Get Dub](https://open.spotify.com/track/7st8TCdQWeIMejQgbaojv4) | [Makyo](https://open.spotify.com/artist/3FGI29SmDTzOZgdGtHkzku) | [Things Ah Get Tuff](https://open.spotify.com/album/17xUNLNDNREfl1W9dp4ABr) | 4:34 |
+| 1706 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 |
 
-Snapshot ID: `AAAHfhI+/L80OjZndvt6fEwxzOSPhhpl`
+Snapshot ID: `AAAHgmQcsVRy6yBio/cLIVNlXj9x1Dsj`

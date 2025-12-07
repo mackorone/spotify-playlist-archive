@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,675 songs - 8 day 3 hr 1 min
+3,676 songs - 8 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,6 +672,7 @@
 | [dack](https://open.spotify.com/track/4qlWjCMKFWZzxLMzKGv32s) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 5:29 | 2025-09-28 |  |
 | [Daisy](https://open.spotify.com/track/6ScAaAVew9NoemHB08z947) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Daisy](https://open.spotify.com/album/42xAYgMGWgULQUdBhza2KR) | 3:05 | 2025-06-01 |  |
 | [Daiya Daiya Daiya Re](https://open.spotify.com/track/5QTjgFSJurZkpchKSqzl2S) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Daiya Daiya Daiya Re](https://open.spotify.com/album/4nkEMcfV2F5b7m6ezaDYpR) | 3:14 | 2025-05-20 |  |
+| [Daleko jestem](https://open.spotify.com/track/2ACJYr7ap1zxHzsIkmVdag) | [D.Bańka](https://open.spotify.com/artist/2WMp1BJzsAJk0uGu6owxtv) | [Daleko jestem](https://open.spotify.com/album/7zSEIyptdy5xgHPLWQFhrr) | 3:17 | 2025-12-06 |  |
 | [Dalla parte del coltello](https://open.spotify.com/track/4Irq1POPWe9GlzgZtGiHTJ) | [Sono](https://open.spotify.com/artist/4I9E7P0A63ze5UdhH43gpK) | [Dalla parte del coltello](https://open.spotify.com/album/2JuJAJxXEIvdGz3c9EOTtk) | 3:12 | 2025-05-27 |  |
 | [Damaged Goods](https://open.spotify.com/track/5PRU610vVE9hHvPqfH3qcX) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Damaged Goods](https://open.spotify.com/album/1T0nUhUZKXBsgog7qe5u1F) | 2:40 | 2025-11-05 |  |
 | [Dance](https://open.spotify.com/track/5c36b7t4VDo8wzfzRvcd0S) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral party music](https://open.spotify.com/album/7sIs19ORMiQ3JzO7UR609t) | 2:57 | 2025-09-15 |  |

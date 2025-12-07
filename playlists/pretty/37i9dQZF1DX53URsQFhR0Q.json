@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 10322,
+  "num_followers": 10331,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -91,38 +91,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 269169,
-      "name": "Mo Ne Yo",
-      "url": "https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Onyame Boafuo",
-        "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
-      },
-      "artists": [
-        {
-          "name": "Esther Smith",
-          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
-        }
-      ],
-      "duration_ms": 316055,
-      "name": "Nipa",
-      "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -147,6 +115,38 @@
       "duration_ms": 977893,
       "name": "Ghana Local Worship",
       "url": "https://open.spotify.com/track/3ckzZvKEnsIa9kWrXrQMlK"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Onyame Boafuo",
+        "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
+      },
+      "artists": [
+        {
+          "name": "Esther Smith",
+          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
+        }
+      ],
+      "duration_ms": 316055,
+      "name": "Nipa",
+      "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 269169,
+      "name": "Mo Ne Yo",
+      "url": "https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD"
     },
     {
       "added_at": "2025-01-09 09:53:00",

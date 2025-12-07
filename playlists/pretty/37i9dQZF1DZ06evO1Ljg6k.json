@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 67300,
+  "num_followers": 67356,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAACv3Z2aexo0YcWMHb2uOhR6",
+  "snapshot_id": "aTIggAAAAABBcM/0r/GshPTV7Z6ZTx+W",
   "tracks": [
     {
       "added_at": null,
@@ -451,42 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 299533,
-      "name": "Ain't Nobody Home",
-      "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 289026,
-      "name": "Ain't That Easy",
-      "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Blue Carpet Treatment",
         "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
       },
@@ -507,6 +471,42 @@
       "duration_ms": 282186,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 289026,
+      "name": "Ain't That Easy",
+      "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 299533,
+      "name": "Ain't Nobody Home",
+      "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bixarte",
-  "num_followers": 221791,
+  "num_followers": 221783,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,22 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
       },
       "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
         {
           "name": "Liniker",
           "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 266737,
-      "name": "CAJU",
-      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2025-11-22 12:14:14",
@@ -183,22 +187,18 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "Silva & Liniker (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
       "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
         {
           "name": "Liniker",
           "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 230746,
-      "name": "Sorte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
+      "duration_ms": 266737,
+      "name": "CAJU",
+      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
     },
     {
       "added_at": "2025-11-22 12:14:14",
@@ -407,42 +407,6 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "LIA CLARK",
-        "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "SEREIA",
-      "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
-    },
-    {
-      "added_at": "2025-11-22 12:14:14",
-      "album": {
-        "name": "Sideral",
-        "url": "https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 169701,
-      "name": "Sideral",
-      "url": "https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF"
-    },
-    {
-      "added_at": "2025-11-22 12:14:14",
-      "album": {
         "name": "Cara Ideal",
         "url": "https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS"
       },
@@ -463,6 +427,42 @@
       "duration_ms": 144923,
       "name": "Ego\u00edsta",
       "url": "https://open.spotify.com/track/1xqRzHGo7Eie8X6Atc8klO"
+    },
+    {
+      "added_at": "2025-11-22 12:14:14",
+      "album": {
+        "name": "Sideral",
+        "url": "https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 169701,
+      "name": "Sideral",
+      "url": "https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF"
+    },
+    {
+      "added_at": "2025-11-22 12:14:14",
+      "album": {
+        "name": "LIA CLARK",
+        "url": "https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "SEREIA",
+      "url": "https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC"
     },
     {
       "added_at": "2025-11-22 12:14:14",
@@ -911,30 +911,6 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
-        "name": "CHATA",
-        "url": "https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj"
-      },
-      "artists": [
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 156330,
-      "name": "CHATA",
-      "url": "https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr"
-    },
-    {
-      "added_at": "2025-11-22 12:14:14",
-      "album": {
         "name": "18 dias / 13 cm",
         "url": "https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps"
       },
@@ -967,6 +943,30 @@
       "duration_ms": 152000,
       "name": "GPS",
       "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
+    },
+    {
+      "added_at": "2025-11-22 12:14:14",
+      "album": {
+        "name": "CHATA",
+        "url": "https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 156330,
+      "name": "CHATA",
+      "url": "https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr"
     },
     {
       "added_at": "2025-11-22 12:14:14",

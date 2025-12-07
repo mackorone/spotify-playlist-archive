@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,600 likes - 204 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,852 likes - 204 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 135 | [Christmas Is Killing Me](https://open.spotify.com/track/1xtlEoY8yW3FzttzUUrvWw) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Taylor Momsen's Pretty Reckless Christmas](https://open.spotify.com/album/6Y9WENXPwpVPnfrWKVYhB2) | 2:22 |
 | 136 | [Christmas Cookies](https://open.spotify.com/track/2K2UmIJHUptAkAeFwUQUzg) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Christmas Cookies](https://open.spotify.com/album/00MAHDFOnNoJqp2cGwoBGp) | 3:19 |
 | 137 | [Wouldn’t Be Christmas](https://open.spotify.com/track/5GV4Vgimh8KiSf5UsW5W9o) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Volume 2\)](https://open.spotify.com/album/2b36acHD0MJvIT82Zoc6tV) | 3:26 |
-| 138 | [Give Love On Christmas Day](https://open.spotify.com/track/77ZOwXbPxEYRiiqiRgAjCJ) | [The BoykinZ](https://open.spotify.com/artist/45yX0sqYmkP2IgBtKVJKSL) | [A QC Christmas](https://open.spotify.com/album/02t9inWwAGovhOYDzMctaN) | 2:54 |
+| 138 | [Give Love On Christmas Day](https://open.spotify.com/track/77ZOwXbPxEYRiiqiRgAjCJ) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [The BoykinZ](https://open.spotify.com/artist/45yX0sqYmkP2IgBtKVJKSL) | [A QC Christmas](https://open.spotify.com/album/02t9inWwAGovhOYDzMctaN) | 2:54 |
 | 139 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/2V3gQpO3v2zY6f4iB73Jva) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh), [Chris Cron](https://open.spotify.com/artist/3KOEKMUxngxpCbKGBk8giH) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/0pa0z3X2x0DxdLuMBn97e9) | 2:28 |
 | 140 | [A Very Merry Christmas](https://open.spotify.com/track/0hAEBk61a4ffAaEIvBVZmA) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [A Very Merry Christmas](https://open.spotify.com/album/6I4jgcSMd0mQE4qLaU9OWP) | 2:38 |
 | 141 | [All I Want For Christmas Is You \- Single Mix](https://open.spotify.com/track/33D3lDroHTbXhV72zXw7AP) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [All I Want For Christmas Is You](https://open.spotify.com/album/6WRptbLc5SL0X7Qy0zdfUu) | 3:27 |
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 173 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/3w6YUnqUiJEYjxh0lSefSb) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/album/590drOQWjZxdv3O0BzlcKT) | 2:23 |
 | 174 | [Blue Christmas](https://open.spotify.com/track/2Tr32Hngb0M5lEVOUFNPEO) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Blue Christmas](https://open.spotify.com/album/7q9zP48DzNY2RL1Qr9gTII) | 4:09 |
 | 175 | [We Three Kings](https://open.spotify.com/track/4tHAnscFMkMQL36f2dVBXx) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [We Three Kings](https://open.spotify.com/album/0qO46uL8GslPfSj1aZwvPD) | 3:00 |
-| 176 | [Santa Baby](https://open.spotify.com/track/3wcbh6MMRb0fsjv5zKJ9gT) | [Syamali](https://open.spotify.com/artist/17kHwTPo7kOMb7DTEyySs4) | [A QC Christmas](https://open.spotify.com/album/02t9inWwAGovhOYDzMctaN) | 2:36 |
+| 176 | [Santa Baby](https://open.spotify.com/track/3wcbh6MMRb0fsjv5zKJ9gT) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Syamali](https://open.spotify.com/artist/17kHwTPo7kOMb7DTEyySs4) | [A QC Christmas](https://open.spotify.com/album/02t9inWwAGovhOYDzMctaN) | 2:36 |
 | 177 | [Let The Season Come To Life](https://open.spotify.com/track/0IpucwqU10JSFkxY16ykJH) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Let The Season Come To Life](https://open.spotify.com/album/0V4OY6zQUcv6PzhjWLexyp) | 3:55 |
 | 178 | [Our King Has Come](https://open.spotify.com/track/55qWotxqUod4d6T4SjatSk) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Hope Of Christmas](https://open.spotify.com/album/1Zq89ub3yfNs4bMCMNy4gm) | 3:37 |
 | 179 | [SANTA \- Tengo Un Crush Contigo](https://open.spotify.com/track/1grwk2p5zMi6WLzJdO0Som) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [SANTA](https://open.spotify.com/album/77cjih204WgiFVdQFRIdsA) | 3:30 |

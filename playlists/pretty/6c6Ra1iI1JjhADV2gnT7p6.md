@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,525 likes - 333 songs - 18 hr 17 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,526 likes - 333 songs - 18 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -342,4 +342,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 332 | [greaser \(panda bear version\)](https://open.spotify.com/track/7Dx2ZULFEpBUNU1hlSzNu7) | [The Crying Nudes](https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [greaser \(panda bear version\)](https://open.spotify.com/album/0eoyY6G0EsIzP1cyQ0sDnk) | 2:24 |
 | 333 | [Chasm Keeper](https://open.spotify.com/track/0zccFOS4RVSOpyaoAnkQtG) | [Run It Still](https://open.spotify.com/artist/43CIMMw7qY2b52634bjPOy) | [Chasm Keeper](https://open.spotify.com/album/1wqpOHUP4cA2k7S2LjblyT) | 2:45 |
 
-Snapshot ID: `AAApvkb12Ih4bQuZOrGme4HVSW7OdxMz`
+Snapshot ID: `AAApwMCO57XKnoUvTOdkf8Dv4asumSVp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,610 likes - 30 songs - 1 hr 53 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,613 likes - 31 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,5 +38,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 28 | [Céu Azul](https://open.spotify.com/track/5Ly7IBANByS001ZInlG4C8) | [George Sauma Jr.](https://open.spotify.com/artist/4L4HRYMFxFZN78sOhoPEGI) | [George Sauma Jr.](https://open.spotify.com/album/2H2XuOZWql7j6r9GCt9H8K) | 3:31 |
 | 29 | [Si, Paloma](https://open.spotify.com/track/7tu29mHOe4iY2sINKAXWCR) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 5:32 |
 | 30 | [Streets of Mine](https://open.spotify.com/track/3U4SPwYCuRGgwaASbGWi2o) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Jessica Pratt](https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS) | 2:43 |
+| 31 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 |
 
-Snapshot ID: `AAANe8f88/ohBazRr7z0nBip4MRpWmYH`
+Snapshot ID: `AAANfyJ8i4XMIgjgvB1csA2hDxu+xwCX`

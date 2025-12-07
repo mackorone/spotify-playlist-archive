@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 13 | [Bad Mistake](https://open.spotify.com/track/7qCLGt5o3agKocYAjy5P4A) | [Kardang](https://open.spotify.com/artist/6fgcUT8lhFDwAJwbnAriiI) | [Bad Mistake](https://open.spotify.com/album/58XFhFrZTAdkozoWRvWvaU) | 4:05 |
 | 14 | [TRICK and TREAT](https://open.spotify.com/track/71wsNbnZ7S3NiOStYg8DVY) | [Dolly Demeli](https://open.spotify.com/artist/62iOQq0JgS45GsWjuUtVZU) | [TRICK and TREAT](https://open.spotify.com/album/1WPgTdmt0CCN1Ff81i4igu) | 1:30 |
 | 15 | [Burst \- ANNA Remix](https://open.spotify.com/track/4rX5gDjEDNj1jUWR2mq6sV) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Burst \(ANNA Remix\)](https://open.spotify.com/album/1bVcpOwHIrXjWKNouJ7ybL) | 5:43 |
-| 16 | [Lyset vender hjem](https://open.spotify.com/track/3kaAE6MEGKB3Fayz2fRxAz) | [Milly Nou](https://open.spotify.com/artist/4e3dKWaqu93gNcZ70r9scr) | [Lyset vender hjem](https://open.spotify.com/album/14ZUN2hMMKLZiMDBog5XYF) | 3:51 |
+| 16 | [Født til kærlighed](https://open.spotify.com/track/3iCWrBz2lKiLROBiRFtsid) | [Milly Nou](https://open.spotify.com/artist/4e3dKWaqu93gNcZ70r9scr) | [Født til kærlighed](https://open.spotify.com/album/4R7dD6mpx8yGCvvbfklOnr) | 4:01 |
 | 17 | [Wake Up From This Nightmare](https://open.spotify.com/track/09PevcRkdtEdQYjygC8wEU) | [Ed Eagle](https://open.spotify.com/artist/533zHq8CZyLs9n75vs82aO) | [Wake Up From This Nightmare](https://open.spotify.com/album/6X5AQ96kPo6KJdIJnUQRRq) | 2:06 |
 | 18 | [Ogbe](https://open.spotify.com/track/1lDt2ZkQORKmv8bKfnbosM) | [TownCryer](https://open.spotify.com/artist/15Ll7Kz2Fg3Hqx5AdzDfDT) | [Ogbe](https://open.spotify.com/album/52WKjMtLrzJxCTfejQFjxg) | 3:17 |
 | 19 | [What Does Bob Think?](https://open.spotify.com/track/41Mfjkvgz4I7QZDTRKUQyV) | [Laurie Miller](https://open.spotify.com/artist/6IzJq5jhRMwWBmyCVX37tz) | [What Does Bob Think?](https://open.spotify.com/album/1r3Fgt7pAhlcpVtV3aJ5lE) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 99 | [The Quiet Earthquakee](https://open.spotify.com/track/0y7L02XQEEQ0KpShsfTyTB) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [Takeoff Prod](https://open.spotify.com/artist/3TDdgh9R8V77E8z1MrOLWX) | [I'm in Trouble](https://open.spotify.com/album/4IViuwSiwhyvhNxvQlXC9W) | 3:31 |
 | 100 | [Futon Party](https://open.spotify.com/track/56tS3PlbE47mE5OyyAn3iR) | [MAD SCORPIO](https://open.spotify.com/artist/3TSVFRgaIY3m3zGiM8SrhB) | [Futon Party](https://open.spotify.com/album/4E6OYYnsAsLy8NMnJ6DRQA) | 3:42 |
 
-Snapshot ID: `AABil1MJ3xMys+1Ok1Semiwg5Ceofjm7`
+Snapshot ID: `AABimsxk83pL1uFUHG+TugAa5qbP/21q`

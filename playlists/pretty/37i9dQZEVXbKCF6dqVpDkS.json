@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 917209,
+  "num_followers": 917205,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MMZM+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MMejKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-12-05 14:17:56",
+      "added_at": "2025-12-06 14:03:21",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -25,7 +25,47 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-12-05 14:17:56",
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "duration_ms": 47320,
+      "name": "Hij Komt, Hij Komt",
+      "url": "https://open.spotify.com/track/0t0oGLmuoBd5xqTLNkLlkX"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "duration_ms": 91160,
+      "name": "Hoor De Wind Waait Door De Bomen",
+      "url": "https://open.spotify.com/track/55Fdq7Gz3uCCEP7xtyikiq"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -41,23 +81,91 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2025-12-05 14:17:56",
+      "added_at": "2025-12-06 14:03:21",
       "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+      "duration_ms": 88040,
+      "name": "Pepernotensamba",
+      "url": "https://open.spotify.com/track/1YDl0IczCuQwFoUjvWbZXI"
     },
     {
-      "added_at": "2025-12-05 14:17:56",
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes 2023 met Juf Roos",
+        "url": "https://open.spotify.com/album/3tpRARBwc7u2Xb2Bsd5P9Q"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "duration_ms": 49473,
+      "name": "Sinterklaasje Kom Maar Binnen",
+      "url": "https://open.spotify.com/track/5dJJiGqsskjq7OSwNgbHoI"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241562,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Meer Sinterklaas liedjes",
+        "url": "https://open.spotify.com/album/0ovWeNy0APYrEgdQ8oAm3S"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "duration_ms": 76235,
+      "name": "Jongens heb je 't al vernomen?",
+      "url": "https://open.spotify.com/track/0pNFDezr07qWHVM21RChrH"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
       "album": {
         "name": "GO BESTFRIEND",
         "url": "https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95"
@@ -73,7 +181,7 @@
       "url": "https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J"
     },
     {
-      "added_at": "2025-12-05 14:17:56",
+      "added_at": "2025-12-06 14:03:21",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -89,7 +197,67 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2025-12-05 14:17:56",
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes 2025",
+        "url": "https://open.spotify.com/album/7bQUDMt4N7Hbb4fGjNoq0K"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        },
+        {
+          "name": "Kinderliedjes Om Mee Te Zingen",
+          "url": "https://open.spotify.com/artist/0KI6HIuDsZdmZ65lpnZHpt"
+        }
+      ],
+      "duration_ms": 124054,
+      "name": "5 december, ha dat is een blijde dag!",
+      "url": "https://open.spotify.com/track/0EY69p1x2CFScXjqVG8CL7"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "duration_ms": 55453,
+      "name": "Wie Komt Er Alle Jaren",
+      "url": "https://open.spotify.com/track/4Xvq0McZanuNuROuA6IsQb"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
       "album": {
         "name": "Helaas",
         "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
@@ -113,39 +281,183 @@
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
-      "added_at": "2025-12-05 14:17:56",
+      "added_at": "2025-12-06 14:03:21",
       "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+        "name": "Meer Sinterklaas liedjes",
+        "url": "https://open.spotify.com/album/0ovWeNy0APYrEgdQ8oAm3S"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
         }
       ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+      "duration_ms": 62000,
+      "name": "Hee, zeg Piet, wiedewiedewiet",
+      "url": "https://open.spotify.com/track/6bvkA8w0abLwYCO7o8LqDn"
     },
     {
-      "added_at": "2025-12-05 14:17:56",
+      "added_at": "2025-12-06 14:03:21",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
         }
       ],
-      "duration_ms": 241562,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+      "duration_ms": 75133,
+      "name": "Zie De Maan Schijnt Door De Bomen",
+      "url": "https://open.spotify.com/track/1HcBkW6eKKN0GSt09ozPeM"
     },
     {
-      "added_at": "2025-12-05 14:17:56",
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "duration_ms": 40800,
+      "name": "Dag Sinterklaasje",
+      "url": "https://open.spotify.com/track/4YBEtbyOU356ZYQAvJjTsD"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "duration_ms": 89160,
+      "name": "Oh Kom Er Eens Kijken",
+      "url": "https://open.spotify.com/track/0i1G8lq7OoE2Dverts6OoC"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes 2025",
+        "url": "https://open.spotify.com/album/7bQUDMt4N7Hbb4fGjNoq0K"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        },
+        {
+          "name": "Kinderliedjes Om Mee Te Zingen",
+          "url": "https://open.spotify.com/artist/0KI6HIuDsZdmZ65lpnZHpt"
+        }
+      ],
+      "duration_ms": 161718,
+      "name": "De Sinterklaas Welkomsdans",
+      "url": "https://open.spotify.com/track/5Wx6BTkuyLXY10pdi0Ayxe"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "duration_ms": 63626,
+      "name": "Zie Ginds Komt De Stoomboot",
+      "url": "https://open.spotify.com/track/7ftem6EQF6isH4imw6qK58"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaas Pret met Party Piet Pablo",
+        "url": "https://open.spotify.com/album/7tKFql2DDbydhw25T46h5j"
+      },
+      "artists": [
+        {
+          "name": "Party Piet Pablo",
+          "url": "https://open.spotify.com/artist/1s3i7nR3SaBR77Oia1kbfW"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "De pieten sinterklaas move",
+      "url": "https://open.spotify.com/track/1wr3pe9KpJmfeAS6jHuTFM"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Op de Hoge Hoge Daken & Vijf December",
+        "url": "https://open.spotify.com/album/7gGH8GdOde7EjvzkMBlTC9"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "duration_ms": 76000,
+      "name": "Op de Hoge, Hoge Daken",
+      "url": "https://open.spotify.com/track/6wqFJ2zKk3E4t2yIvleIic"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        },
+        {
+          "name": "Kinderliedjes Om Mee Te Zingen",
+          "url": "https://open.spotify.com/artist/0KI6HIuDsZdmZ65lpnZHpt"
+        }
+      ],
+      "duration_ms": 93994,
+      "name": "Sinterklaasje kom maar binnen",
+      "url": "https://open.spotify.com/track/2va7hTvr8psGLxZoxkrTwd"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -177,7 +489,211 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-12-05 14:17:56",
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Dans Gewoon",
+        "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"
+      },
+      "artists": [
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Dans Gewoon",
+      "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Hollands Kinderkoor Sinterklaasliedjes",
+        "url": "https://open.spotify.com/album/37i4lNXMzRzWWHRr8qGEq9"
+      },
+      "artists": [
+        {
+          "name": "Kinderkoor Alles Kids",
+          "url": "https://open.spotify.com/artist/21NtCunIoLVvsMfmGVBd37"
+        },
+        {
+          "name": "Alles Kids, Kinderliedjes om mee te zingen, Slaapliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6iXLTBjc7AEqZfcBLJvnWU"
+        }
+      ],
+      "duration_ms": 65971,
+      "name": "Zie Ginds Komt De Stoomboot",
+      "url": "https://open.spotify.com/track/10hVKrwcXA26F5euXqaPS2"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes",
+        "url": "https://open.spotify.com/album/6THmjT9v5GlxEYM0v1eOAw"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        },
+        {
+          "name": "Kinderliedjes Om Mee Te Zingen",
+          "url": "https://open.spotify.com/artist/0KI6HIuDsZdmZ65lpnZHpt"
+        }
+      ],
+      "duration_ms": 112759,
+      "name": "Hallo Sinterklaas - Nederlands",
+      "url": "https://open.spotify.com/track/2HqETkx4vRYKAzKW3IZnUG"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes",
+        "url": "https://open.spotify.com/album/6THmjT9v5GlxEYM0v1eOAw"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        },
+        {
+          "name": "Kinderliedjes Om Mee Te Zingen",
+          "url": "https://open.spotify.com/artist/0KI6HIuDsZdmZ65lpnZHpt"
+        }
+      ],
+      "duration_ms": 72702,
+      "name": "Zie de maan schijnt door de bomen - Nederlands",
+      "url": "https://open.spotify.com/track/5CBv0yxnw9SMrNQD1rGZSE"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Nieuwe Sinterklaas liedjes van Juf Roos 2024",
+        "url": "https://open.spotify.com/album/1w3S0CxxW0WZly50m0gD2H"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "duration_ms": 69230,
+      "name": "De baard van Sinterklaas",
+      "url": "https://open.spotify.com/track/5jNJW37E96IgROig56mIEJ"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Meer Sinterklaas liedjes",
+        "url": "https://open.spotify.com/album/0ovWeNy0APYrEgdQ8oAm3S"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "duration_ms": 69600,
+      "name": "Snelle Piet ging uit fietsen",
+      "url": "https://open.spotify.com/track/5776Zb93uf9Ub4JxVm38PW"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "duration_ms": 42093,
+      "name": "Sinterklaas Kapoentje",
+      "url": "https://open.spotify.com/track/3r0TH3SP5bIRMgGpo1ZEjR"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Hollands Kinderkoor Sinterklaasliedjes",
+        "url": "https://open.spotify.com/album/37i4lNXMzRzWWHRr8qGEq9"
+      },
+      "artists": [
+        {
+          "name": "Kinderkoor Alles Kids",
+          "url": "https://open.spotify.com/artist/21NtCunIoLVvsMfmGVBd37"
+        },
+        {
+          "name": "Alles Kids, Kinderliedjes om mee te zingen, Slaapliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6iXLTBjc7AEqZfcBLJvnWU"
+        }
+      ],
+      "duration_ms": 67600,
+      "name": "Daar Wordt Aan De Deur Geklopt",
+      "url": "https://open.spotify.com/track/2M00LalAqdiIZaCvbeqOCt"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes 2025",
+        "url": "https://open.spotify.com/album/7bQUDMt4N7Hbb4fGjNoq0K"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        },
+        {
+          "name": "Kinderliedjes Om Mee Te Zingen",
+          "url": "https://open.spotify.com/artist/0KI6HIuDsZdmZ65lpnZHpt"
+        }
+      ],
+      "duration_ms": 77031,
+      "name": "Sinterklaas uit Spanje",
+      "url": "https://open.spotify.com/track/4nNYID7eQbXOZyHOORNSbZ"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
       "album": {
         "name": "bLoOdLine",
         "url": "https://open.spotify.com/album/0WW2cx3x8Foi8d4xNLfHce"
@@ -197,23 +713,235 @@
       "url": "https://open.spotify.com/track/0hVWE4YILwwpN4F1P9nxva"
     },
     {
-      "added_at": "2025-12-05 14:17:56",
+      "added_at": "2025-12-06 14:03:21",
       "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2025-12-05 14:17:56",
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229638,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes 2023 met Juf Roos",
+        "url": "https://open.spotify.com/album/3tpRARBwc7u2Xb2Bsd5P9Q"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "duration_ms": 64453,
+      "name": "Sinterklaas is jarig!",
+      "url": "https://open.spotify.com/track/3rkQY8x3dKczio3bXncbrM"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Pepernoot",
+        "url": "https://open.spotify.com/album/6juIkKWtxmUQamKgB5dB1A"
+      },
+      "artists": [
+        {
+          "name": "Pietje Fernando",
+          "url": "https://open.spotify.com/artist/4KkrryLOEp23xrIS0Bmp1C"
+        },
+        {
+          "name": "De Club van Sinterklaas",
+          "url": "https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1"
+        },
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "duration_ms": 155086,
+      "name": "Pepernoot",
+      "url": "https://open.spotify.com/track/5gHt6koylIwR0MzYQwtOj8"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Meer Sinterklaas liedjes",
+        "url": "https://open.spotify.com/album/0ovWeNy0APYrEgdQ8oAm3S"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "duration_ms": 67594,
+      "name": "Daar wordt aan de deur geklopt",
+      "url": "https://open.spotify.com/track/0cVJRH8M3qDPNjZadek71M"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Nieuwe Sinterklaas liedjes van Juf Roos 2024",
+        "url": "https://open.spotify.com/album/1w3S0CxxW0WZly50m0gD2H"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "duration_ms": 66057,
+      "name": "De Sint, De Sint",
+      "url": "https://open.spotify.com/track/4vRkc6KrejCx2mtOpJz6yF"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Hollands Kinderkoor Sinterklaasliedjes",
+        "url": "https://open.spotify.com/album/37i4lNXMzRzWWHRr8qGEq9"
+      },
+      "artists": [
+        {
+          "name": "Kinderkoor Alles Kids",
+          "url": "https://open.spotify.com/artist/21NtCunIoLVvsMfmGVBd37"
+        },
+        {
+          "name": "Alles Kids, Kinderliedjes om mee te zingen, Slaapliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6iXLTBjc7AEqZfcBLJvnWU"
+        }
+      ],
+      "duration_ms": 80294,
+      "name": "Sinterklaas Kapoentje",
+      "url": "https://open.spotify.com/track/7oFMhMEsqCrzgXq3XZnDdN"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "duration_ms": 88200,
+      "name": "Jongens, Heb Je 't Al Vernomen",
+      "url": "https://open.spotify.com/track/6HlytDgbNe2xJREe9XjKru"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Niemand",
+        "url": "https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 229779,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "duration_ms": 57146,
+      "name": "Sinterklaas Is Jarig",
+      "url": "https://open.spotify.com/track/4xwh0OgPHCFexcDzIVwx2Z"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "added_at": "2025-12-06 14:03:21",
       "album": {
         "name": "Kan Je Me Zien",
         "url": "https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU"
@@ -231,658 +959,6 @@
       "duration_ms": 207530,
       "name": "Kan Je Me Zien",
       "url": "https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Niemand",
-        "url": "https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 229779,
-      "name": "Niemand",
-      "url": "https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Puinhoop",
-        "url": "https://open.spotify.com/album/0HOPa8tTcv1s2K1JbI2UPW"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        }
-      ],
-      "duration_ms": 134641,
-      "name": "Puinhoop",
-      "url": "https://open.spotify.com/track/5UR6iM7zFdl0JhY4JZ7NIw"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 229638,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "I Run",
-        "url": "https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri"
-      },
-      "artists": [
-        {
-          "name": "HAVEN.",
-          "url": "https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz"
-        },
-        {
-          "name": "Kaitlin Aragon",
-          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
-        }
-      ],
-      "duration_ms": 129565,
-      "name": "I Run",
-      "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Voorbestemd",
-        "url": "https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
-        },
-        {
-          "name": "Russo",
-          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
-        }
-      ],
-      "duration_ms": 178577,
-      "name": "Voorbestemd",
-      "url": "https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
-        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Driving Home for Christmas - 2019 Remaster",
-      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Beetje Van Mij",
-        "url": "https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        }
-      ],
-      "duration_ms": 150620,
-      "name": "Beetje Van Mij",
-      "url": "https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "LEKKERDING",
-        "url": "https://open.spotify.com/album/50Bj8NzQEuWSxRyu6I4zSL"
-      },
-      "artists": [
-        {
-          "name": "Alessio",
-          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
-        },
-        {
-          "name": "YORDI",
-          "url": "https://open.spotify.com/artist/0G6ynrkfdMoxJTBnxiAPcT"
-        },
-        {
-          "name": "Lastpakken",
-          "url": "https://open.spotify.com/artist/2J28L5P6Kf6HtTIryvixK4"
-        }
-      ],
-      "duration_ms": 118309,
-      "name": "LEKKERDING",
-      "url": "https://open.spotify.com/track/522Qx5uJaUzkLuYp7wTB5u"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Nog Even Blijven",
-        "url": "https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6"
-      },
-      "artists": [
-        {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        },
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
-        }
-      ],
-      "duration_ms": 170876,
-      "name": "Nog Even Blijven",
-      "url": "https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Echte Liefde Is Te Koop",
-        "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
-      },
-      "artists": [
-        {
-          "name": "Samuel Welten",
-          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
-        }
-      ],
-      "duration_ms": 152659,
-      "name": "Echte Liefde Is Te Koop",
-      "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Christmas (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6UuaXwIIaIaNSGrpPE1vFt"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 207199,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Sleigh Ride",
-        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
-      },
-      "artists": [
-        {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Baila De Gasolina",
-        "url": "https://open.spotify.com/album/2qqrUzSpgZFSz1dapCUgb5"
-      },
-      "artists": [
-        {
-          "name": "Effe Serieus",
-          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
-        }
-      ],
-      "duration_ms": 140792,
-      "name": "Baila De Gasolina",
-      "url": "https://open.spotify.com/track/5hturvyhOQAffgAIegfJ3v"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
-    },
-    {
-      "added_at": "2025-12-05 14:17:56",
-      "album": {
-        "name": "Single In De Club",
-        "url": "https://open.spotify.com/album/4WC3sXK9AKEQ6HlMfoZJGC"
-      },
-      "artists": [
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "Rijck",
-          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        }
-      ],
-      "duration_ms": 154507,
-      "name": "Single In De Club",
-      "url": "https://open.spotify.com/track/5045jDDUndh7937KS177Ir"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

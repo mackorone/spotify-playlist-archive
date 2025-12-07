@@ -4,7 +4,7 @@
 
 > Aquí viven las acústicas\. Cover: Valentina Rico
 
-235 songs - 13 hr 47 min
+236 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [AMANECER](https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:23 | 2024-05-07 |  |
 | [Amanecí Nublado](https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:54 | 2021-12-16 | 2023-04-29 |
 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 | 2022-08-05 |  |
-| [Amiga Cruel \(Acústico\)](https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Amiga Cruel \(Acústico\)](https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K) | 3:37 | 2021-12-16 |  |
+| [Amiga Cruel \(Acústico\)](https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Amiga Cruel \(Acústico\)](https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K) | 3:37 | 2021-12-16 | 2025-12-07 |
 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 | 2024-05-07 |  |
 | [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 | 2021-12-16 | 2025-08-28 |
 | [Amé \- demo original](https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [Amé \(demo original\)](https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE) | 3:25 | 2025-07-18 |  |
@@ -60,6 +60,7 @@
 | [De Adentro Pa Afuera \- En Vivo Desde La Puerta de Alcalá](https://open.spotify.com/track/6Br10W2EX7UkOxAWWAAZm5) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera \(Deluxe Edition\)](https://open.spotify.com/album/33CW5fr7A0nTN5prOTyScI) | 3:13 | 2023-06-09 |  |
 | [De Camino](https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Agua Del Pozo](https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd) | 3:26 | 2021-12-16 |  |
 | [De Rodillas \- Acústico](https://open.spotify.com/track/2iMb7HAmOcdnZzAOa4yNAq) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [De Rodillas \(Acústico\)](https://open.spotify.com/album/1vjl5MYuhrEKd9leIUnADp) | 4:28 | 2021-12-16 | 2024-04-21 |
+| [DE SASTRE](https://open.spotify.com/track/4UQ70VRSltB7PLBTXcvxtv) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [DE SASTRE](https://open.spotify.com/album/4QWe6IxRC0jkG03pNdYmAp) | 4:10 | 2025-12-05 |  |
 | [Decisión](https://open.spotify.com/track/3thXiXy8Y9Db1GwoHmxbnp) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Decisión](https://open.spotify.com/album/3VfF9AzOdrtJrN4yvwWV1H) | 3:24 | 2025-06-13 |  |
 | [Derrumbe](https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Derrumbe](https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W) | 2:11 | 2024-02-16 |  |
 | [DESASTRE](https://open.spotify.com/track/6GUKOpUYvQtgHoCpcTmhWk) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [DESASTRE](https://open.spotify.com/album/3O0R0OFOqeC5yG7B0OVHWB) | 3:42 | 2024-06-07 | 2024-07-20 |

@@ -4,7 +4,7 @@
 
 > 
 
-1,248 songs - 2 day 16 hr 43 min
+1,249 songs - 2 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [3rd World](https://open.spotify.com/track/1ykurvqNgGYzkIPtEP0ASi) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Took The Biggest Risk](https://open.spotify.com/album/1uxKUKESMaMQcxcoCp2dte) | 2:25 | 2023-09-08 | 2024-11-06 |
 | [4 Da Gang \(with Roddy Ricch\)](https://open.spotify.com/track/1mAey8kEPmDM2icL56kS9d) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 2:36 | 2022-07-28 | 2023-04-12 |
 | [4 Minutes \(feat\. Justin Timberlake and Timbaland\)](https://open.spotify.com/track/1dDNz8h95Gsu0W4QdxVVln) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk) | 4:05 | 2025-08-21 |  |
+| [4 More](https://open.spotify.com/track/4AczEdAZBYmUo2a703sibE) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Zhane](https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 4:18 | 2025-12-06 |  |
 | [4 The Betta](https://open.spotify.com/track/7ibRB2S2WOfPKSvYkhcYtj) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Days B4 III](https://open.spotify.com/album/0p1QXY0M8LRXybgy9TchHE) | 2:12 | 2022-06-17 | 2023-05-09 |
 | [40 FLOORS UP](https://open.spotify.com/track/2oqp5mVMAg1kzlO72bBfKk) | [King Kobi](https://open.spotify.com/artist/0eJzTpGGbLbiuvEo7pIyOk), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [444 Degrees](https://open.spotify.com/album/67XJX8IlsbQdtecOYZ9EVO) | 2:47 | 2022-10-28 | 2023-05-09 |
 | [400$ Shirt](https://open.spotify.com/track/0k5GBEHir5idlnh5a1RQ7Y) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Mr.Perfect](https://open.spotify.com/album/0oamIV3Wgjs50VmaKWNiZ4) | 1:44 | 2022-09-10 | 2023-12-14 |

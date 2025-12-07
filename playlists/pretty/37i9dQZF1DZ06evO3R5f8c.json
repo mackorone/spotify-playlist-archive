@@ -1,45 +1,13 @@
 {
   "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 183217,
+  "num_followers": 183260,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAAA8S0IfpkosnXrV1O1oS6yA",
+  "snapshot_id": "aTIggAAAAAAhWTTQAuGeHXckcilRHmcj",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deep In The Bottom (of Africa) [DBN Gogo & Ntwana_R Remix (Radio Edit)]",
-        "url": "https://open.spotify.com/album/7KY0z90Da0Uxovg7o74Mox"
-      },
-      "artists": [
-        {
-          "name": "Monique Bingham",
-          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "DBN Gogo",
-          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
-        },
-        {
-          "name": "Ntwana_R",
-          "url": "https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS"
-        },
-        {
-          "name": "Nkosingiphile Tshabalala",
-          "url": "https://open.spotify.com/artist/2BchPtVPXKReo9VtbGnjoj"
-        }
-      ],
-      "duration_ms": 308571,
-      "name": "Deep In The Bottom (of Africa) - DBN Gogo & Ntwana_R Remix (Radio Edit)",
-      "url": "https://open.spotify.com/track/1ZJxTWTD7ZS18qVwdFOE1J"
-    },
     {
       "added_at": null,
       "album": {
@@ -1051,6 +1019,26 @@
       "duration_ms": 439308,
       "name": "Traveller - Extended Mix",
       "url": "https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+        }
+      ],
+      "duration_ms": 371613,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/2fSAzJ6LKW1Ausdmdd7mTK"
     }
   ],
   "unique_name": "This Is Black Coffee",

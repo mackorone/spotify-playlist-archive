@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "A Plea",
+        "url": "https://open.spotify.com/album/0eFgrTbT424fF4zLnhF6R5"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458053,
+      "name": "A Plea",
+      "url": "https://open.spotify.com/track/7fkWpK1YcIMtM7PdMawgfY"
+    },
+    {
+      "album": {
         "name": "All I Ever Asked (with sombr)",
         "url": "https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x"
       },
@@ -680,7 +698,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 183266,
       "name": "Dying",
       "url": "https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH"
@@ -770,7 +788,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 258826,
       "name": "Everything I Wanted",
       "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 155830,
       "name": "Pretending",
       "url": "https://open.spotify.com/track/3DpXBc7bzSDWA7G1lrhi7P"
@@ -1946,6 +1964,24 @@
       "duration_ms": 195700,
       "name": "Pyramid Scheme",
       "url": "https://open.spotify.com/track/1j43NtqRUKUTWSiFflguz8"
+    },
+    {
+      "album": {
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/6MzwLnpf99FUDAUwpzRJuB"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135145,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c"
     },
     {
       "album": {
@@ -2620,6 +2656,24 @@
       "duration_ms": 186079,
       "name": "Walls",
       "url": "https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3"
+    },
+    {
+      "album": {
+        "name": "In the Works",
+        "url": "https://open.spotify.com/album/6G5sFEjLo515bziYyusTAh"
+      },
+      "artists": [
+        {
+          "name": "Kymara",
+          "url": "https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "wecouldsithereforever",
+      "url": "https://open.spotify.com/track/1KGGGr7EkmdsNJVNyU0Kb3"
     },
     {
       "album": {

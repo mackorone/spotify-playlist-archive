@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 24612,
+  "num_followers": 24621,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -248,25 +248,13 @@
       },
       "artists": [
         {
-          "name": "Adele Bloemendaal",
-          "url": "https://open.spotify.com/artist/0pNIifC8tolZOMkQi08w7L"
-        },
-        {
-          "name": "Leen Jongewaard",
-          "url": "https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10"
-        },
-        {
-          "name": "Piet Romer",
-          "url": "https://open.spotify.com/artist/4P4zMmwrUImvXjHD6WcdkR"
-        },
-        {
-          "name": "Choir",
-          "url": "https://open.spotify.com/artist/6T1zPwkNslEt3YD1SckRd9"
+          "name": "Karin Kent",
+          "url": "https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU"
         }
       ],
-      "duration_ms": 163120,
-      "name": "We Zijn Toch Op De Wereld Om Mekaar Te Helpen, Nietwaar",
-      "url": "https://open.spotify.com/track/2GhrEcT6XFmV63N0COZB0s"
+      "duration_ms": 159000,
+      "name": "Dans Je De Hele Nacht Met Mij?",
+      "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -292,13 +280,25 @@
       },
       "artists": [
         {
-          "name": "Karin Kent",
-          "url": "https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU"
+          "name": "Adele Bloemendaal",
+          "url": "https://open.spotify.com/artist/0pNIifC8tolZOMkQi08w7L"
+        },
+        {
+          "name": "Leen Jongewaard",
+          "url": "https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10"
+        },
+        {
+          "name": "Piet Romer",
+          "url": "https://open.spotify.com/artist/4P4zMmwrUImvXjHD6WcdkR"
+        },
+        {
+          "name": "Choir",
+          "url": "https://open.spotify.com/artist/6T1zPwkNslEt3YD1SckRd9"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Dans Je De Hele Nacht Met Mij?",
-      "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
+      "duration_ms": 163120,
+      "name": "We Zijn Toch Op De Wereld Om Mekaar Te Helpen, Nietwaar",
+      "url": "https://open.spotify.com/track/2GhrEcT6XFmV63N0COZB0s"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Het Beste van De Heikrekels - Instrumentaal",
+        "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
+      },
+      "artists": [
+        {
+          "name": "De Heikrekels",
+          "url": "https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR"
+        }
+      ],
+      "duration_ms": 184944,
+      "name": "Mooier Dan Rode Rozen",
+      "url": "https://open.spotify.com/track/4FV84ccMAe9cpTkMyiGGfx"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "Hollandse Hits Top 100",
         "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 168786,
       "name": "Beestjes",
       "url": "https://open.spotify.com/track/5bNlDs2IvevjBJ3MH0FluN"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Het Beste van De Heikrekels - Instrumentaal",
-        "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
-      },
-      "artists": [
-        {
-          "name": "De Heikrekels",
-          "url": "https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR"
-        }
-      ],
-      "duration_ms": 184944,
-      "name": "Mooier Dan Rode Rozen",
-      "url": "https://open.spotify.com/track/4FV84ccMAe9cpTkMyiGGfx"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Heerlijk Hollands - Het Allerbeste van Gerard de Vries & Henk Wijngaard",
-        "url": "https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l"
-      },
-      "artists": [
-        {
-          "name": "Gerard De Vries",
-          "url": "https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "Giddy Up Go",
-      "url": "https://open.spotify.com/track/3Nw18q2ryka6Cjs6h5eSov"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "The Story of Indo Rock, Vol. 5",
         "url": "https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 182047,
       "name": "Ik Heb Me Weer Vergist",
       "url": "https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Heerlijk Hollands - Het Allerbeste van Gerard de Vries & Henk Wijngaard",
+        "url": "https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l"
+      },
+      "artists": [
+        {
+          "name": "Gerard De Vries",
+          "url": "https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "Giddy Up Go",
+      "url": "https://open.spotify.com/track/3Nw18q2ryka6Cjs6h5eSov"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollandse Hits Top 100",
-        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
-      },
-      "artists": [
-        {
-          "name": "Rudi Carrell",
-          "url": "https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5"
-        }
-      ],
-      "duration_ms": 150466,
-      "name": "Wat Een Geluk",
-      "url": "https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste van De Heikrekels - Instrumentaal",
         "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 171551,
       "name": "Jij Bent Voor Mij Alleen",
       "url": "https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Hollandse Hits Top 100",
+        "url": "https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD"
+      },
+      "artists": [
+        {
+          "name": "Rudi Carrell",
+          "url": "https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5"
+        }
+      ],
+      "duration_ms": 150466,
+      "name": "Wat Een Geluk",
+      "url": "https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Teddybeer",
-        "url": "https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM"
-      },
-      "artists": [
-        {
-          "name": "Reggy Van Der Burgt",
-          "url": "https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42"
-        }
-      ],
-      "duration_ms": 142066,
-      "name": "Teddybeer",
-      "url": "https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Hollands Glorie Liedjes van vroeger Top 100",
         "url": "https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 315853,
       "name": "Een glaasje madeira",
       "url": "https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Teddybeer",
+        "url": "https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM"
+      },
+      "artists": [
+        {
+          "name": "Reggy Van Der Burgt",
+          "url": "https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42"
+        }
+      ],
+      "duration_ms": 142066,
+      "name": "Teddybeer",
+      "url": "https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Beste Amsterdamse Hits Ooit",
-        "url": "https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk"
-      },
-      "artists": [
-        {
-          "name": "Sjakie Schram",
-          "url": "https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i"
-        }
-      ],
-      "duration_ms": 149866,
-      "name": "Glaasje Op ... Laat Je Rijden",
-      "url": "https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste van Ronnie Tober",
         "url": "https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 191341,
       "name": "Arrivederci Ans",
       "url": "https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "De Beste Amsterdamse Hits Ooit",
+        "url": "https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk"
+      },
+      "artists": [
+        {
+          "name": "Sjakie Schram",
+          "url": "https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i"
+        }
+      ],
+      "duration_ms": 149866,
+      "name": "Glaasje Op ... Laat Je Rijden",
+      "url": "https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk"
     },
     {
       "added_at": "2024-07-19 06:41:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: Spellbound
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,592 likes - 75 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,713 likes - 75 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 60 | [Get Along](https://open.spotify.com/track/0iEyU8xE61ICnyQ4fjZpL8) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6gZ3zzVuQzN7UkjKeZBJRk) | 3:43 |
 | 61 | [Life Is Better Loud](https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 2:29 |
 | 62 | [The Music In You](https://open.spotify.com/track/6dawwS9u34unKdN6GpecGT) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [The Music In You](https://open.spotify.com/album/5dpKoCPEjVfPljzdyYruoK) | 2:24 |
-| 63 | [Ada Twist, Scientist Theme Song \(From "Ada Twist, Scientist"\)](https://open.spotify.com/track/5fvMWOLISgdDbvm8EYuJMU) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK), [Renee Elise Goldsberry](https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 0:47 |
+| 63 | [Ada Twist, Scientist Theme Song \(From "Ada Twist, Scientist" Soundtrack\)](https://open.spotify.com/track/5fvMWOLISgdDbvm8EYuJMU) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK), [Renee Elise Goldsberry](https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 0:47 |
 | 64 | [Let’s Move! Dance Party](https://open.spotify.com/track/2qPEiuO3w4iho9YY8B0KMW) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/4vDKqx4kvhz1d1t7JiEIov) | 3:23 |
 | 65 | [Hansel & Gretel's Lullaby \(All Is Blind\) \[From The Netflix Series "A Tale Dark & Grimm"\]](https://open.spotify.com/track/3j5uSjiatPSFRyxcB7MZiJ) | [Michael Kramer](https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp), [Allie Feder](https://open.spotify.com/artist/7zmbSYjFlZh3KAHnLtPpY2) | [Hansel & Gretel's Lullaby \(All Is Blind\) \[From The Netflix Series "A Tale Dark & Grimm"\]](https://open.spotify.com/album/3dtJ8XF0YBeEZvD4QpWhJk) | 2:17 |
 | 66 | [Bartleby Finnegan](https://open.spotify.com/track/05iojOqYgGy4SU89O5paby) | [True and the Rainbow Kingdom](https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl) | [True Tunes](https://open.spotify.com/album/1PNn0XkjppVpSmZSkbXfnQ) | 2:26 |

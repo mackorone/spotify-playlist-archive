@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ALPHA DRIVE ONE
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,738 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,744 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 22 | [Choose](https://open.spotify.com/track/1zweSaoWJ0N7wSwMIxFFQN) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Choose](https://open.spotify.com/album/66vRe3MmrT37PtgQP2sIec) | 3:06 |
 | 23 | [SAY CHEESE!](https://open.spotify.com/track/5K7Mt6iXdKKJV08fn1aFdb) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [SAY CHEESE!](https://open.spotify.com/album/5r8SFpLS1F2UtCgI9pVAGQ) | 2:52 |
 | 24 | [Marmalade](https://open.spotify.com/track/1yuhVkErJhVz0Y8dr73y2G) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Marmalade](https://open.spotify.com/album/6IRDoLszHjzvriH80RFlJj) | 2:44 |
-| 25 | [ずっとずっと](https://open.spotify.com/track/1tRjtiooTUAuML3E8MeExz) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [ずっとずっと](https://open.spotify.com/album/5EVvEVgIATRL4P1TrwHhSU) | 3:26 |
-| 26 | [Pinocchio](https://open.spotify.com/track/3hXsfPCNGZnZx0l4AYvh8E) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [The Passage](https://open.spotify.com/album/0ZX6t8OnOwrjrnKXzHGuHK) | 3:41 |
-| 27 | [PARADISE](https://open.spotify.com/track/1hnUnUBYHDwjTbz3UbYibb) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/4OhWb329ph6bDQPT7YkYJ8) | 2:50 |
-| 28 | [Trap](https://open.spotify.com/track/3Oftm2skZTLoKMZcxrZ1xM) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Only You](https://open.spotify.com/album/3EEixzNLIpp0tPr0pCZGIJ) | 3:02 |
-| 29 | [SUGAR](https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [SUGAR](https://open.spotify.com/album/3FrLQvdgg4exfE1njHIxMQ) | 2:57 |
-| 30 | [X](https://open.spotify.com/track/2oZ2EKWo51eXQsn83pjNvj) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [blackout](https://open.spotify.com/album/10UGFED19zySy8M8bjI0rk) | 3:15 |
-| 31 | [BBUU!](https://open.spotify.com/track/5aVJRrcywxt8dtjkgihKsF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [PLBBUU](https://open.spotify.com/album/4Cl8PGyGfzPPa2y76nEYAU) | 2:52 |
-| 32 | [メロリ](https://open.spotify.com/track/4UqCbk4dNCULiz6GK47kBP) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [メロリ](https://open.spotify.com/album/224MMjQyPVB1tVe4yb0OY3) | 3:37 |
-| 33 | [Eight Eleven](https://open.spotify.com/track/1bA3Iw9z64PdJVohEb8g0D) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<Eight Eleven>](https://open.spotify.com/album/6N0KvZuXQQVp1K8LJmuoMA) | 2:21 |
-| 34 | [Tiger](https://open.spotify.com/track/0gNPZeBRc7Yal1BlDKc8we) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Unit Digital Single \[Tiger\]](https://open.spotify.com/album/3ld4YGGgl5gLB0rfkm20ma) | 2:52 |
+| 25 | [Still Love You](https://open.spotify.com/track/1iTD1cezCFJgVsTQ9shCnI) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Still Love You\]](https://open.spotify.com/album/5NJHeBJzOo41F03PAdSBiP) | 3:42 |
+| 26 | [ずっとずっと](https://open.spotify.com/track/1tRjtiooTUAuML3E8MeExz) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [ずっとずっと](https://open.spotify.com/album/5EVvEVgIATRL4P1TrwHhSU) | 3:26 |
+| 27 | [Pinocchio](https://open.spotify.com/track/3hXsfPCNGZnZx0l4AYvh8E) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [The Passage](https://open.spotify.com/album/0ZX6t8OnOwrjrnKXzHGuHK) | 3:41 |
+| 28 | [PARADISE](https://open.spotify.com/track/1hnUnUBYHDwjTbz3UbYibb) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/4OhWb329ph6bDQPT7YkYJ8) | 2:50 |
+| 29 | [Trap](https://open.spotify.com/track/3Oftm2skZTLoKMZcxrZ1xM) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Only You](https://open.spotify.com/album/3EEixzNLIpp0tPr0pCZGIJ) | 3:02 |
+| 30 | [SUGAR](https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [SUGAR](https://open.spotify.com/album/3FrLQvdgg4exfE1njHIxMQ) | 2:57 |
+| 31 | [X](https://open.spotify.com/track/2oZ2EKWo51eXQsn83pjNvj) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [blackout](https://open.spotify.com/album/10UGFED19zySy8M8bjI0rk) | 3:15 |
+| 32 | [BBUU!](https://open.spotify.com/track/5aVJRrcywxt8dtjkgihKsF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [PLBBUU](https://open.spotify.com/album/4Cl8PGyGfzPPa2y76nEYAU) | 2:52 |
+| 33 | [メロリ](https://open.spotify.com/track/4UqCbk4dNCULiz6GK47kBP) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [メロリ](https://open.spotify.com/album/224MMjQyPVB1tVe4yb0OY3) | 3:37 |
+| 34 | [Eight Eleven](https://open.spotify.com/track/1bA3Iw9z64PdJVohEb8g0D) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<Eight Eleven>](https://open.spotify.com/album/6N0KvZuXQQVp1K8LJmuoMA) | 2:21 |
 | 35 | [PIECES \- STARGLOW Ver.](https://open.spotify.com/track/1hY0tMMKzSkeW6czNDdPph) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [PIECES \(STARGLOW Ver.\)](https://open.spotify.com/album/2OX4YJRS8z8ad58YjMeacS) | 5:18 |
 | 36 | [5, 4, 3 \(Pretty woman\) \(feat\. Lay Bankz\)](https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq) | [CxM](https://open.spotify.com/artist/7kjuLdYbtTkWBToMu2ebZN), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [CxM 1st Mini Album ‘HYPE VIBES’](https://open.spotify.com/album/4PxPsw7YFuzBaJZ3dHUV55) | 2:46 |
 | 37 | [baby blue](https://open.spotify.com/track/2iUv18ruokAyhWk9w0CTYy) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [baby blue](https://open.spotify.com/album/2GRdKh2u9tleGC5gGWV8lx) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 |
 | 80 | [Poet \| Artist](https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Poet \| Artist](https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED) | 3:24 |
 
-Snapshot ID: `AAAAADP25SGD9LmEV2mSyQofWK7BG8QR`
+Snapshot ID: `AAAAAHMJ4i7Rh7m7oSikKGlhNwWoEVD/`

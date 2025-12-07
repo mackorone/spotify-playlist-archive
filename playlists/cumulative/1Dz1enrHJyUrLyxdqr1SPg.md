@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-108 songs - 6 hr 19 min
+109 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Forever Yours](https://open.spotify.com/track/2phRDv92tyNX5XNezzf6GK) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Reinhard Zwisler](https://open.spotify.com/artist/71ye10XRGQdJ2l9s8LZENB) | [Forever Yours](https://open.spotify.com/album/3c6u2ytsTyiXEOizWF493Z) | 3:55 | 2023-10-12 |  |
 | [From Darkness to Light](https://open.spotify.com/track/4qvY2noGKvg2OFcTpQe0FJ) | [Barbara Borgelin](https://open.spotify.com/artist/3IsHx0vZYapvC5YBkFOv2V) | [From Darkness to Light](https://open.spotify.com/album/6Faby9zPGISHqe1PubDajM) | 3:54 | 2025-10-31 |  |
 | [Futon Party](https://open.spotify.com/track/56tS3PlbE47mE5OyyAn3iR) | [MAD SCORPIO](https://open.spotify.com/artist/3TSVFRgaIY3m3zGiM8SrhB) | [Futon Party](https://open.spotify.com/album/4E6OYYnsAsLy8NMnJ6DRQA) | 3:42 | 2025-12-05 |  |
+| [Født til kærlighed](https://open.spotify.com/track/3iCWrBz2lKiLROBiRFtsid) | [Milly Nou](https://open.spotify.com/artist/4e3dKWaqu93gNcZ70r9scr) | [Født til kærlighed](https://open.spotify.com/album/4R7dD6mpx8yGCvvbfklOnr) | 4:01 | 2025-12-06 |  |
 | [Gladiator](https://open.spotify.com/track/0n89Qtx2dUkjeO7iO4nlJ5) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [DESTINY UNKNOWN](https://open.spotify.com/album/2dx5eaDJuRYmA3kvGjHn5k) | 1:41 | 2025-06-28 |  |
 | [Gladiator \- Quick on the drawing Remix](https://open.spotify.com/track/0Bi8QtVN3cQrPyBkcYN054) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu), [Quick on the drawing](https://open.spotify.com/artist/0D5dRS9CdchnNCgCuaVZr2) | [Gladiator \(Quick on the drawing Remix\)](https://open.spotify.com/album/3cIllayNKPBQkLMa8e2ABS) | 5:28 | 2025-09-05 | 2025-12-06 |
 | [Golden Hour](https://open.spotify.com/track/6hG7emAHE76bHX4z3xvCeT) | [Leonardo Baldassarri](https://open.spotify.com/artist/7Kd95lukoVFMzZ1jQycAyQ) | [Golden Hour](https://open.spotify.com/album/0flV2vWlpcA214NGjtQKzN) | 1:41 | 2024-02-15 |  |
@@ -59,7 +60,7 @@
 | [Le Ombre Della Notte](https://open.spotify.com/track/7ewBgQDZTMzYLICjSqkBI1) | [Ilario Schanzer](https://open.spotify.com/artist/551HaqOHmPu8wZ9e4vWljl) | [Le Ombre Della Notte](https://open.spotify.com/album/432h1Nl6GfSmkgBHktsEID) | 3:58 | 2025-04-20 |  |
 | [Let Me In](https://open.spotify.com/track/10lXkXqFsKjwBa9nYrDEX6) | [Ashes for Dreams](https://open.spotify.com/artist/5AtELzYGDQYauyINzYYgsG) | [Let Me In](https://open.spotify.com/album/3OmY8fEav68PUm5vVtYCyq) | 3:19 | 2025-02-28 |  |
 | [Let the Rhythm Set You Free](https://open.spotify.com/track/2vVZDxnbEQKZE4J8EJsd57) | [Barbara Borgelin](https://open.spotify.com/artist/3IsHx0vZYapvC5YBkFOv2V) | [Let the Rhythm Set You Free](https://open.spotify.com/album/2EkWvoHH8VF4oWIIg6lf8E) | 3:45 | 2025-03-14 | 2025-11-24 |
-| [Lyset vender hjem](https://open.spotify.com/track/3kaAE6MEGKB3Fayz2fRxAz) | [Milly Nou](https://open.spotify.com/artist/4e3dKWaqu93gNcZ70r9scr) | [Lyset vender hjem](https://open.spotify.com/album/14ZUN2hMMKLZiMDBog5XYF) | 3:51 | 2025-10-24 |  |
+| [Lyset vender hjem](https://open.spotify.com/track/3kaAE6MEGKB3Fayz2fRxAz) | [Milly Nou](https://open.spotify.com/artist/4e3dKWaqu93gNcZ70r9scr) | [Lyset vender hjem](https://open.spotify.com/album/14ZUN2hMMKLZiMDBog5XYF) | 3:51 | 2025-10-24 | 2025-12-07 |
 | [Mi Navidad](https://open.spotify.com/track/31pUHQcaaxTvCe7br4VWS3) | [Pacoco Junior](https://open.spotify.com/artist/4GRwhJMakVrfxYUYJMMs51), [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12) | [Mi Navidad](https://open.spotify.com/album/1RBCA5ERtbFjlxq6LzrPx2) | 3:20 | 2025-11-15 |  |
 | [Mkpakpa](https://open.spotify.com/track/4L8L2epkMdYWFFwspUyzZQ) | [TownCryer](https://open.spotify.com/artist/15Ll7Kz2Fg3Hqx5AdzDfDT) | [Mkpakpa](https://open.spotify.com/album/4jU1tMg3QeFrKmt4r8UgoN) | 2:35 | 2024-11-16 |  |
 | [My Heroin](https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO) | [Greg Llatse](https://open.spotify.com/artist/2YHENpAL3KjjYeBoJT9QF3) | [My Heroin](https://open.spotify.com/album/3fZ0ASFmrBiUUaQ5ub5fz5) | 3:52 | 2025-10-31 |  |

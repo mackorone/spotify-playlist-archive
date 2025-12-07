@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby, GloRilla, A Boogie Wit da Hoodie and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,317 likes - 49 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,378 likes - 49 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 41 | [Love Better](https://open.spotify.com/track/4WItbQXevi06G3D7gSD7Zq) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Flashy B](https://open.spotify.com/artist/1WVFzUjHejMwcAUIuDnBEN), [Capolow](https://open.spotify.com/artist/3RNcvKfUnyALZxATNSO8PS) | [Catch 22: Sweater Weather](https://open.spotify.com/album/5dAvErROiKg6iPnBlZwRzB) | 2:16 |
 | 42 | [Underground Railroad](https://open.spotify.com/track/35xP7dlrtNVdcGH8F8Yvjv) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [The Price Of Freedom](https://open.spotify.com/album/27oahNvpEtjGWsMM5vHdq2) | 1:47 |
 | 43 | [Miss Irresponsible](https://open.spotify.com/track/21Ra5gh1mRQH5VVfqf5MSo) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Miss Irresponsible](https://open.spotify.com/album/3cYSoTW5N0mBD3l2WtsWX6) | 3:14 |
-| 44 | [Estranged](https://open.spotify.com/track/40rEEf9N4MRkVclcQRz9za) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu) | [Estranged](https://open.spotify.com/album/79b5hnAwySc5zF7PIZjQH6) | 3:00 |
+| 44 | [Estranged](https://open.spotify.com/track/40rEEf9N4MRkVclcQRz9za) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu) | [Estranged](https://open.spotify.com/album/79b5hnAwySc5zF7PIZjQH6) | 2:57 |
 | 45 | [prima donna](https://open.spotify.com/track/3ALcpsICNV8JMshVmfXMFV) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [prima donna](https://open.spotify.com/album/0K4QhYANu3dZCmRuCEwhDl) | 2:18 |
 | 46 | [some shit i could say](https://open.spotify.com/track/0n5SmF8CfqMcfsuQ226SSG) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [some shit i could say](https://open.spotify.com/album/39QC7Vxg0UdZ3mc87JidwS) | 1:51 |
 | 47 | [TAX SZN \(feat\. Rob49, YTB Fatt & BabyDrill\)](https://open.spotify.com/track/3IhNQW17yn8JIeDqTLaJof) | [Moskino](https://open.spotify.com/artist/7kcRAj4MDDe43n92WMXkS7), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [TAX SZN \(feat\. Rob49, YTB Fatt & BabyDrill\)](https://open.spotify.com/album/7jQrzpI043Euzlv90P6WJY) | 3:13 |

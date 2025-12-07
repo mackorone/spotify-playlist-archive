@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: KD DESIROCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,265 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,282 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 8 | [Gaadi 150](https://open.spotify.com/track/0qNMptHdkQuZsWKxZ8rmW2) | [Vikram Sarkar](https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC) | [Gaadi 150](https://open.spotify.com/album/1Xp8PesszaBmk58MKYwgfy) | 2:34 |
 | 9 | [Albadi Hood](https://open.spotify.com/track/1pGcsZRZHbGodigDtfTgM1) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Albadi Hood](https://open.spotify.com/album/287jjIzNyGO25bcSTYJBYx) | 3:21 |
 | 10 | [Ghane Gande](https://open.spotify.com/track/1rWSLMe0neIBRZi15GgfY6) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Ghane Gande](https://open.spotify.com/album/5GghzJpDq0yvH3YE0jiAWJ) | 2:56 |
-| 11 | [Gg Ki Ghaintness \(From "Single Papa"\)](https://open.spotify.com/track/6C4ky0I5Mwn5TQkmXSsck4) | [Aman Pant](https://open.spotify.com/artist/3DEQO9JUqGunLxKk6UJVpE), [Shubh Khillari](https://open.spotify.com/artist/023yeIgYxp16ewVGF4i33r) | [Gg Ki Ghaintness \(From "Single Papa"\)](https://open.spotify.com/album/2TQUKPrFUd00YxbqqL6iQy) | 2:21 |
+| 11 | [GG Ki Ghaintness \(From "Single Papa"\)](https://open.spotify.com/track/6C4ky0I5Mwn5TQkmXSsck4) | [Aman Pant](https://open.spotify.com/artist/3DEQO9JUqGunLxKk6UJVpE), [KHILLARI](https://open.spotify.com/artist/57i3gH8eXXsBYPHBre63v1) | [GG Ki Ghaintness \(From "Single Papa"\)](https://open.spotify.com/album/2TQUKPrFUd00YxbqqL6iQy) | 2:21 |
 | 12 | [Cash Cash](https://open.spotify.com/track/4M60JVJPqNzIkJy4V6Jfi1) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [Cash Cash](https://open.spotify.com/album/4s9fLpsGNYr0OlD8oJRvbS) | 2:19 |
 | 13 | [Western Up](https://open.spotify.com/track/0tUTTFuPwxeA3FJzNwxEO5) | [Eshan Bhati](https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf), [Ajitesh](https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3) | [Western Up](https://open.spotify.com/album/59eweM489JYi1Lseo4Wx8k) | 3:01 |
 | 14 | [No Guts No Glory](https://open.spotify.com/track/32OvzmMs6oBsa2MDPQw9bH) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [No Guts No Glory](https://open.spotify.com/album/42xj8tt1FmuETtkQS43oCa) | 2:56 |

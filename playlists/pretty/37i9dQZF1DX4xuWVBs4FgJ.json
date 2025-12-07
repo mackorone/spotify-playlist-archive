@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1822330,
+  "num_followers": 1822469,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ5kQAf99OJQ6lUly69zabUnxjmO",
+  "snapshot_id": "AAAAAJ9d0EqNFL5X3N7nsREcN+689h99",
   "tracks": [
     {
       "added_at": "2025-10-07 16:14:02",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
     },
     {
-      "added_at": "2025-10-10 04:00:47",
-      "album": {
-        "name": "The Light For Days",
-        "url": "https://open.spotify.com/album/6QFCcGo5qotgcHmizXKTta"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Heaven (Butterflies)",
-      "url": "https://open.spotify.com/track/2O9bYhoUhCOVvwRoaFSFje"
-    },
-    {
       "added_at": "2025-10-07 16:14:02",
       "album": {
         "name": "In A Perfect World (Expanded Edition)",
@@ -1319,6 +1303,22 @@
       "duration_ms": 216346,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1"
+    },
+    {
+      "added_at": "2025-10-10 04:00:47",
+      "album": {
+        "name": "The Light For Days",
+        "url": "https://open.spotify.com/album/6QFCcGo5qotgcHmizXKTta"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Heaven (Butterflies)",
+      "url": "https://open.spotify.com/track/2O9bYhoUhCOVvwRoaFSFje"
     },
     {
       "added_at": "2025-10-07 16:14:02",

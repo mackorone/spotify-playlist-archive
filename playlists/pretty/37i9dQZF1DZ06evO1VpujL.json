@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 28727,
+  "num_followers": 28736,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAAASRbi/GpkpxjlELcYqKhqx",
+  "snapshot_id": "aTIggAAAAABOcKnlrHTpFn5vwH6M51pe",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kill The Power",
+        "url": "https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Proceed With Caution",
+      "url": "https://open.spotify.com/track/2XBszkWUCGp98STdL0BS1c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Babylon (U.S. Version)",
         "url": "https://open.spotify.com/album/6OZIaKS03Zn8B7Ov7F2Rx4"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 183760,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/4IKslwj0xYFfJmWb1yQQxM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volume",
-        "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 244769,
-      "name": "Under Attack",
-      "url": "https://open.spotify.com/track/1eM3Bb2lqftghVmfzijRki"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill The Power",
-        "url": "https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu"
+        "name": "Volume",
+        "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Proceed With Caution",
-      "url": "https://open.spotify.com/track/2XBszkWUCGp98STdL0BS1c"
+      "duration_ms": 244769,
+      "name": "Under Attack",
+      "url": "https://open.spotify.com/track/1eM3Bb2lqftghVmfzijRki"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 210973,
-      "name": "Bad Man Ah Bad Man",
-      "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
+      "duration_ms": 241573,
+      "name": "Guntalk",
+      "url": "https://open.spotify.com/track/5XKkLDPZKRJImrMbWSk4Z1"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 241573,
-      "name": "Guntalk",
-      "url": "https://open.spotify.com/track/5XKkLDPZKRJImrMbWSk4Z1"
+      "duration_ms": 210973,
+      "name": "Bad Man Ah Bad Man",
+      "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
     },
     {
       "added_at": null,

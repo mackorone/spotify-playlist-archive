@@ -1509,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Cerco il Nirvana",
+        "url": "https://open.spotify.com/album/44ToiI91J1uUmLefDmSh6T"
+      },
+      "artists": [
+        {
+          "name": "DreamerWild",
+          "url": "https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Cerco il Nirvana",
+      "url": "https://open.spotify.com/track/56A2pT45d2gKQpDrk7B2yH"
+    },
+    {
+      "album": {
         "name": "Chama",
         "url": "https://open.spotify.com/album/0fRcHYc1JqjTJhg90GcGW8"
       },

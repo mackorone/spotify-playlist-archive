@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,712 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,747 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 72 | [My Heart](https://open.spotify.com/track/08z6EsebfUH0Q6J0Wf3eWf) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw) | [My Heart](https://open.spotify.com/album/33Fc7E5Avn2eAM8jUNuljT) | 4:26 |
 | 73 | [Payback](https://open.spotify.com/track/2Lv7vYpPx68ttqspWdMnvw) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Payback](https://open.spotify.com/album/2N6nSi9sTO5Tvfq0bEmRc0) | 5:49 |
 | 74 | [All of Me \(Tiësto's Birthday Treatment Remix\) \- Radio Edit](https://open.spotify.com/track/3OgesRs9A97HaLMZEWBM9a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jason Agel](https://open.spotify.com/artist/1fiatwjGipTH7cFxTeyKOP), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Love In The Future \(Special Edition\)](https://open.spotify.com/album/2buNSPalbxgT5kdFVYzfWG) | 4:11 |
-| 75 | [Anywhere For You](https://open.spotify.com/track/7nkOH6CQX02HDuXKWYuh1I) | [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Anywhere For You](https://open.spotify.com/album/4TLtJYTNGu0GQTo5g7RrxI) | 3:33 |
-| 76 | [Sleepless \- Radio Edit](https://open.spotify.com/track/15uFqHGAOvaGCqikvgiW6w) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Sleepless](https://open.spotify.com/album/4pDtJD36tHdR4dVxakWBWH) | 3:41 |
+| 75 | [Sleepless \- Radio Edit](https://open.spotify.com/track/15uFqHGAOvaGCqikvgiW6w) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Sleepless](https://open.spotify.com/album/4pDtJD36tHdR4dVxakWBWH) | 3:41 |
+| 76 | [Anywhere For You](https://open.spotify.com/track/7nkOH6CQX02HDuXKWYuh1I) | [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Anywhere For You](https://open.spotify.com/album/4TLtJYTNGu0GQTo5g7RrxI) | 3:33 |
 | 77 | [Parachute \- Radio Edit](https://open.spotify.com/track/5eaH3RdmqBfaSQl3NSBywF) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Parachute](https://open.spotify.com/album/1kwSsEMGSrlcvYopqS2r3Z) | 3:22 |
 | 78 | [Miami 82 \- Lucas Silow Remix](https://open.spotify.com/track/57Bz0GED2wTznnuTnMhR2Z) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Madame Buttons](https://open.spotify.com/artist/7KF7MdboLjh7O5BxomF54M), [Lucas Silow](https://open.spotify.com/artist/6beHDze0bQhGurAi7Td9iO) | [Miami 82 \(Remixes II\)](https://open.spotify.com/album/0k5THSvm4esC4onGWVSlFW) | 4:31 |
 | 79 | [Calabria \- Firebeatz Edit](https://open.spotify.com/track/08bIgTMyh9nvkrs1Ox36dz) | [Rune RK](https://open.spotify.com/artist/32ejcIBfk6cbs473H0LlBE) | [Calabria \(Firebeatz Remix\)](https://open.spotify.com/album/7khlovIMSSCAXiiV1Pzff3) | 2:18 |

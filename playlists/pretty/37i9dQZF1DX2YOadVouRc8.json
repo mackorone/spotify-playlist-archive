@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 42770,
+  "num_followers": 42791,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWX/5ar6rVACmKvwGM+0tS4IdgX",
+  "snapshot_id": "AAAAAJLgWUyYKG4EfCZyr4axOv4m5poQ",
   "tracks": [
     {
       "added_at": "2025-11-28 00:01:19",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-11-28 00:01:19",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
+    },
+    {
+      "added_at": "2025-11-28 00:01:19",
+      "album": {
         "name": "Bobo",
         "url": "https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 182142,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy"
-    },
-    {
-      "added_at": "2025-11-28 00:01:19",
-      "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 140367,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
     },
     {
       "added_at": "2025-11-28 00:01:19",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-11-28 00:01:19",
       "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 184135,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/0Zy9VEBhwZzh3RPzMDvdrM"
-    },
-    {
-      "added_at": "2025-11-28 00:01:19",
-      "album": {
         "name": "Phenomena",
         "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 202861,
       "name": "Phenomena",
       "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
+    },
+    {
+      "added_at": "2025-11-28 00:01:19",
+      "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 184135,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/0Zy9VEBhwZzh3RPzMDvdrM"
     },
     {
       "added_at": "2025-11-28 00:01:19",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-11-28 00:01:19",
       "album": {
-        "name": "DIVE IN",
-        "url": "https://open.spotify.com/album/0wcF2eQIGacMilWO8F3hTM"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 182565,
-      "name": "DIVE IN",
-      "url": "https://open.spotify.com/track/4zwGCsh0qWBJYpKCJk2wBl"
-    },
-    {
-      "added_at": "2025-11-28 00:01:19",
-      "album": {
         "name": "Yes I Do",
         "url": "https://open.spotify.com/album/2FlaE855XAFjUwUhS36vox"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 173333,
       "name": "Yes I Do",
       "url": "https://open.spotify.com/track/5kwEDuHCYtqCyO9JisE3XA"
+    },
+    {
+      "added_at": "2025-11-28 00:01:19",
+      "album": {
+        "name": "DIVE IN",
+        "url": "https://open.spotify.com/album/0wcF2eQIGacMilWO8F3hTM"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 182565,
+      "name": "DIVE IN",
+      "url": "https://open.spotify.com/track/4zwGCsh0qWBJYpKCJk2wBl"
     },
     {
       "added_at": "2025-11-28 00:01:19",

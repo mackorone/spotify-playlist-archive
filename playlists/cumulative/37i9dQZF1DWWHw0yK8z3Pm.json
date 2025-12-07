@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Bolo Blues",
+        "url": "https://open.spotify.com/album/38zPrueVMw4hOgGryi9mhn"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150071,
+      "name": "Bolo Blues",
+      "url": "https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN"
+    },
+    {
+      "album": {
         "name": "Honey Harper & The Infinite Sky",
         "url": "https://open.spotify.com/album/400XedHANVhPNbid6j0UQc"
       },
@@ -1854,7 +1872,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 269764,
       "name": "Can't Keep From Singing",
       "url": "https://open.spotify.com/track/75YQt9dU8jRsdCf1Gnxuia"
@@ -4052,7 +4070,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 262213,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/3wjgHCEZobKb0A2hE9mcvf"
@@ -5283,6 +5301,24 @@
     },
     {
       "album": {
+        "name": "I'm In Love with a Man",
+        "url": "https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181846,
+      "name": "I'm In Love with a Man",
+      "url": "https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt"
+    },
+    {
+      "album": {
         "name": "The Man from Waco",
         "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
       },
@@ -6164,6 +6200,24 @@
       "duration_ms": 200880,
       "name": "Less Stress",
       "url": "https://open.spotify.com/track/2bIUrjwlTuuzpMdWFU5pCx"
+    },
+    {
+      "album": {
+        "name": "Let 'Em Go",
+        "url": "https://open.spotify.com/album/5U1w2GkChTUowyfhnXMwEF"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Roy",
+          "url": "https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199679,
+      "name": "Let 'Em Go",
+      "url": "https://open.spotify.com/track/4nBtsK1aqOGnd1Te6Aaizc"
     },
     {
       "album": {
@@ -11718,7 +11772,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 291732,
       "name": "Write To Me",
       "url": "https://open.spotify.com/track/6v1pDnzoghdolKn8NBO8tH"

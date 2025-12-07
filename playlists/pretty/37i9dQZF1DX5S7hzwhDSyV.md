@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,259 likes - 125 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,396 likes - 125 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 98 | [Afternoon In Paris](https://open.spotify.com/track/2C3HvdJUwK6ItoWb0F5GgP) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Benny Golson And The Philadelphians](https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h) | 6:53 |
 | 99 | [Can't We Be Friends](https://open.spotify.com/track/48ouTE8wi3LU4ZTQjJjstB) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 4:19 |
 | 100 | [Stella By Starlight \- Remaster/2004](https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:55 |
-| 101 | [I Got Rhythm](https://open.spotify.com/track/29e5iLMydpu1LynhZrS1QI) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Verve Jazz Masters 50: Sonny Stitt](https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA) | 3:09 |
-| 102 | [Yesterdays](https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7) | [Lennie Tristano Sextet](https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 2:48 |
+| 101 | [Yesterdays](https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7) | [Lennie Tristano Sextet](https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 2:48 |
+| 102 | [I Got Rhythm](https://open.spotify.com/track/29e5iLMydpu1LynhZrS1QI) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Verve Jazz Masters 50: Sonny Stitt](https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA) | 3:09 |
 | 103 | [That Old Feeling](https://open.spotify.com/track/42Tiidz9wZVBQSm9HZlcQv) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 5:46 |
 | 104 | [The Song Is You](https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:13 |
 | 105 | [It's You or No One](https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Jazz Messengers](https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX) | 5:33 |

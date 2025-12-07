@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37468,
+  "num_followers": 37472,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAADx+IBS/46lxgYozaXckebq",
+  "snapshot_id": "aTIggAAAAAA9ZSnLHV87a1tvVNifVUQn",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ao Som dos Louvores",
-        "url": "https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 313093,
-      "name": "Amigo Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 384876,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ao Som dos Louvores",
+        "url": "https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 313093,
+      "name": "Amigo Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0"
     },
     {
       "added_at": null,
@@ -700,25 +700,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 290899,
-      "name": "Contigo Est\u00e1",
-      "url": "https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 345698,
-      "name": "Alvo Mais que a Neve",
-      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
+      "duration_ms": 411364,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 345698,
+      "name": "Alvo Mais que a Neve",
+      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 411364,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
+      "duration_ms": 290899,
+      "name": "Contigo Est\u00e1",
+      "url": "https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 247942,
-      "name": "A Alma Abatida",
-      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Sempre",
         "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 222958,
       "name": "Para Sempre",
       "url": "https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 247942,
+      "name": "A Alma Abatida",
+      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Noivo Vem",
-        "url": "https://open.spotify.com/album/24uDcnwb1PpcMDXy5VsrRx"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 259071,
-      "name": "O Noivo Vem",
-      "url": "https://open.spotify.com/track/40FqywjgcTzbLZF2UOx2ys"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marca o Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1MKcpoNwxkKkkYKVpQFKeg"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 289246,
       "name": "Marca o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/61aeQsEdTS9jNUYjtbnnh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Noivo Vem",
+        "url": "https://open.spotify.com/album/24uDcnwb1PpcMDXy5VsrRx"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 259071,
+      "name": "O Noivo Vem",
+      "url": "https://open.spotify.com/track/40FqywjgcTzbLZF2UOx2ys"
     }
   ],
   "unique_name": "This Is Cassiane",

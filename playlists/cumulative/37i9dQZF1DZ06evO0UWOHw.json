@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "TRINITY",
+        "url": "https://open.spotify.com/album/0BbA1RZELLNCFtzRkEEkyQ"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "A Lot (with Victony)",
+      "url": "https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w"
+    },
+    {
+      "album": {
         "name": "A Lot (with Victony)",
         "url": "https://open.spotify.com/album/6V4dnyT8bItiBHRwQwh0IR"
       },
@@ -20,7 +42,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 161840,
       "name": "A Lot (with Victony)",
       "url": "https://open.spotify.com/track/7MAUCyUl1hbCJg20W6ecJK"

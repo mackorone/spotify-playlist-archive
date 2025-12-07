@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33592,
+  "num_followers": 33596,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "Harlem Nocturne",
-        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 124613,
-      "name": "Harlem Nocturne",
-      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
         "name": "Popoli del Mare",
         "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "New Game Plus",
-        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
+        "name": "Harlem Nocturne",
+        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
       },
       "artists": [
         {
-          "name": "magikAAAAArp",
-          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
         }
       ],
-      "duration_ms": 222000,
-      "name": "2 AM",
-      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
+      "duration_ms": 124613,
+      "name": "Harlem Nocturne",
+      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -1075,6 +1059,22 @@
       "duration_ms": 302689,
       "name": "Per Ricordarmi Di Te",
       "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
+        "name": "New Game Plus",
+        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
+      },
+      "artists": [
+        {
+          "name": "magikAAAAArp",
+          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "MUZAK",
-        "url": "https://open.spotify.com/album/2nlVy812pWV8NwTeVEIY1g"
-      },
-      "artists": [
-        {
-          "name": "Planet Butter",
-          "url": "https://open.spotify.com/artist/5naixVJ23Qmj2CLO8W5AqG"
-        }
-      ],
-      "duration_ms": 180340,
-      "name": "Habitat",
-      "url": "https://open.spotify.com/track/5ximYjEkEn6tZ5v9OXgatD"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
         "name": "Morabeza",
         "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "GAS",
-        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
+        "name": "MUZAK",
+        "url": "https://open.spotify.com/album/2nlVy812pWV8NwTeVEIY1g"
       },
       "artists": [
         {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+          "name": "Planet Butter",
+          "url": "https://open.spotify.com/artist/5naixVJ23Qmj2CLO8W5AqG"
         }
       ],
-      "duration_ms": 180738,
-      "name": "Acqua alta",
-      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
+      "duration_ms": 180340,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/5ximYjEkEn6tZ5v9OXgatD"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "duration_ms": 180738,
+      "name": "Acqua alta",
+      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
         "name": "Porta Pia",
         "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "Grammegna",
-        "url": "https://open.spotify.com/album/2C60NGIF3EjUCkh7QkHdnc"
-      },
-      "artists": [
-        {
-          "name": "The Funkin' Machine",
-          "url": "https://open.spotify.com/artist/7l1iaeDCxprB4GgCRdwBrS"
-        }
-      ],
-      "duration_ms": 285981,
-      "name": "Grammegna",
-      "url": "https://open.spotify.com/track/3NZ1tg9ca0YyY2ppqlBnvy"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
         "name": "Ma Gnossienne",
         "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 270513,
       "name": "Ma Gnossienne",
       "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
+        "name": "Grammegna",
+        "url": "https://open.spotify.com/album/2C60NGIF3EjUCkh7QkHdnc"
+      },
+      "artists": [
+        {
+          "name": "The Funkin' Machine",
+          "url": "https://open.spotify.com/artist/7l1iaeDCxprB4GgCRdwBrS"
+        }
+      ],
+      "duration_ms": 285981,
+      "name": "Grammegna",
+      "url": "https://open.spotify.com/track/3NZ1tg9ca0YyY2ppqlBnvy"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
         "name": "La Valle Dei Templi",
         "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
       },
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
         "name": "Alchimia",
         "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
       },
@@ -1767,22 +1767,6 @@
       "duration_ms": 225875,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
-        "name": "Kair\u00f2s",
-        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 279570,
-      "name": "Bajone",
-      "url": "https://open.spotify.com/track/19OFvkqZzpzoxupIWbHJy3"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -1815,6 +1799,22 @@
       "duration_ms": 377930,
       "name": "Tempo al Tempo",
       "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
+        "name": "Kair\u00f2s",
+        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "duration_ms": 279570,
+      "name": "Bajone",
+      "url": "https://open.spotify.com/track/19OFvkqZzpzoxupIWbHJy3"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "Kair\u00f2s",
-        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 255441,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
         "name": "AMUN\u00cc",
         "url": "https://open.spotify.com/album/11Eg6yBh2LphTmiHJY0vwt"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 220969,
       "name": "AMUN\u00cc",
       "url": "https://open.spotify.com/track/3IbJzKw3LBlO0Gomvw4wqP"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
+        "name": "NAXOS",
+        "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
+      },
+      "artists": [
+        {
+          "name": "Francesco Buzzurro",
+          "url": "https://open.spotify.com/artist/7va7RuUDlM00yzRi2nrFX5"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "Song for Django",
+      "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
     }
   ],
   "unique_name": "Jazz Italia",

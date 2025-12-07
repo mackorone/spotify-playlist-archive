@@ -4,7 +4,7 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-439 songs - 23 hr 12 min
+440 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [I LOVE BEING NORMAL](https://open.spotify.com/track/1ePCMvoywpQ4eB6VQPsPwe) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [I LOVE BEING NORMAL](https://open.spotify.com/album/5Us6d5XJoDoJlDN903GibE) | 2:08 | 2025-01-07 |  |
 | [I need Sombody](https://open.spotify.com/track/3vypveqsnXyoobkju425wy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I need Sombody](https://open.spotify.com/album/4uLaHsPdPdlyutC4IvQQyd) | 4:23 | 2024-10-21 |  |
 | [i smoke cigarettes! \(not really\)](https://open.spotify.com/track/7MionYRcWQleclOilIMPCD) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [cheap guitar, cheap songs.](https://open.spotify.com/album/33Fzs7KelOKWDsxvYT9P8x) | 1:44 | 2025-10-27 | 2025-10-29 |
+| [I Still Create](https://open.spotify.com/track/0IqTgwWU2syiSYbdBEromt) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [I Still Create](https://open.spotify.com/album/0A8AvUQ22Y2ZtbjvniXSh9) | 3:53 | 2025-12-06 |  |
 | [I WANNA BE ALIVE](https://open.spotify.com/track/4kDMTYsd387sYIb0P053oo) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [I WANNA BE ALIVE](https://open.spotify.com/album/0yhjAKeMX46S2XwxHgkvMZ) | 3:33 | 2025-04-16 |  |
 | [I Wish I Loved You](https://open.spotify.com/track/4pVOMSYIsddjrvi3LDlqRp) | [a fox named coyote](https://open.spotify.com/artist/2ZLKUQVWLZAVNY0qFGSY69), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [I Wish I Loved You](https://open.spotify.com/album/0uwMsB1SuYN2DElUEU8rMJ) | 4:47 | 2024-07-23 |  |
 | [I've Been Gone](https://open.spotify.com/track/5vwbKI4y8QPHENwh1afdjs) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I've Been Gone](https://open.spotify.com/album/3nkvNUzeXNSoyksBQh5xf6) | 4:30 | 2025-05-17 |  |

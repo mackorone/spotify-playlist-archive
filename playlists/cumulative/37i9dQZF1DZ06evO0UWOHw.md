@@ -4,11 +4,12 @@
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 31 min
+69 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Lot \(with Victony\)](https://open.spotify.com/track/7MAUCyUl1hbCJg20W6ecJK) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [A Lot \(with Victony\)](https://open.spotify.com/album/6V4dnyT8bItiBHRwQwh0IR) | 2:41 | 2025-11-09 |  |
+| [A Lot \(with Victony\)](https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [TRINITY](https://open.spotify.com/album/0BbA1RZELLNCFtzRkEEkyQ) | 2:41 | 2025-12-07 |  |
+| [A Lot \(with Victony\)](https://open.spotify.com/track/7MAUCyUl1hbCJg20W6ecJK) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [A Lot \(with Victony\)](https://open.spotify.com/album/6V4dnyT8bItiBHRwQwh0IR) | 2:41 | 2025-11-09 | 2025-12-07 |
 | [All Power](https://open.spotify.com/track/12TjLPC70MRIDDnx8Ob3x4) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 3:12 | 2025-07-19 |  |
 | [Amen](https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:54 | 2025-11-23 |  |
 | [Angelus](https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY) | 3:06 | 2025-07-19 |  |

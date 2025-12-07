@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Rose Villain in cover
 
-460 songs - 23 hr 34 min
+461 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Caravan](https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Caravan](https://open.spotify.com/album/34P3bZIIlWIRSICqswgsJN) | 2:33 | 2024-12-11 | 2025-01-10 |
 | [Casomai](https://open.spotify.com/track/2Yo5lsdqZunwJxkLI0mxIt) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Casomai](https://open.spotify.com/album/3pQ5QeRXj1tCHWXBmIJbXG) | 3:05 | 2025-05-01 | 2025-09-12 |
 | [CCHIÙ BENE 'E ME \(feat\. Irama\)](https://open.spotify.com/track/6NfsDpez9CiGcvSonBdYWc) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/48XM18Azz6c6afvKV239IW) | 2:33 | 2025-04-24 | 2025-05-23 |
+| [CENTO RAGAZZE](https://open.spotify.com/track/2YzoQKJwvo0ZBeQc6Ro7LT) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7) | [CENTO RAGAZZE](https://open.spotify.com/album/4xrK0fSYLtKdgFAaRgp61W) | 2:42 | 2025-12-06 |  |
 | [Centri Commerciali](https://open.spotify.com/track/1QdLcCH3xq7JEqCE8Lfbac) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Centri Commerciali](https://open.spotify.com/album/7nkwjllcvWQUTGQk25LjE6) | 2:37 | 2025-06-19 | 2025-07-11 |
 | [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 | 2024-11-13 | 2024-12-20 |
 | [Chakra](https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Chakra](https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul) | 2:24 | 2025-06-19 | 2025-10-24 |

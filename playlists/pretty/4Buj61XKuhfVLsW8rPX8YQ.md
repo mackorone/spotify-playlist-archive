@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/4Buj61XKuhfVLsW8rPX8YQ.md) - [plain]
 
 > 100+ of the happiest songs of all time\. Come on, Get Happy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 671 likes - 105 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 670 likes - 105 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/4rmPQGwcLQjCoFq5NrTA0D) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/album/0tWBtc7le3TMo1gDdGyJVI) | 4:30 |
-| 2 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/4ZrbWwFHHjPoe7cfUBJ9WQ) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 2:48 |
+| 2 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/4ZrbWwFHHjPoe7cfUBJ9WQ) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 2:48 |
 | 3 | [The Man](https://open.spotify.com/track/2stPxcgjdSImK7Gizl8ZUN) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv) | 4:14 |
 | 4 | [The Lazy Song](https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:09 |
 | 5 | [My Girl](https://open.spotify.com/track/0Vpswx5knuuXW8HmNK1LrT) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [An American Love Story](https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK) | 2:41 |

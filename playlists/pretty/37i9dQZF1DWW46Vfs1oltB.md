@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: UNEDUCATED KID\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,535 likes - 122 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,411 likes - 122 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 8 | [KAY COOL](https://open.spotify.com/track/5eEDo5Um0Uk0b9wGoMaQsE) | [KC](https://open.spotify.com/artist/0hQTMC0zU4pFW0Lc7ExB6f), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [KC3](https://open.spotify.com/album/2m8rq4ip4MPBvceEHdgH5G) | 3:39 |
 | 9 | [YÖLÖ \(Feat\. Kobane\)](https://open.spotify.com/track/78Qkm2TAe2TxJZJUnoLmss) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Kobane](https://open.spotify.com/artist/5jj8T5krsoMpd2uHYzKfQV) | [Rich or Die ll](https://open.spotify.com/album/1VaiOIuMr3cpVXBKwyq2Gl) | 3:20 |
 | 10 | [BANGING! \(Feat\. Dynamicduo\)](https://open.spotify.com/track/4UQZhXSoEnuRXZHDRml5zl) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [BANGING!](https://open.spotify.com/album/6tP3fsEnK5xnhsttWPXclb) | 2:52 |
-| 11 | [MY MAN \- Instrumental](https://open.spotify.com/track/5b7tap7ob0rrZIA2DsyOQe) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Yun Seokcheol](https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we) | [MY MAN](https://open.spotify.com/album/5m4tzRlNB4CCP2ZPf8YgBC) | 2:50 |
+| 11 | [MY MAN](https://open.spotify.com/track/5b7tap7ob0rrZIA2DsyOQe) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Yun Seokcheol](https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we) | [MY MAN](https://open.spotify.com/album/5m4tzRlNB4CCP2ZPf8YgBC) | 2:50 |
 | 12 | [WAKE UP \(Feat\. CHAEYOUNG\)](https://open.spotify.com/track/1pcgk6NU0pKKJDLzRcjxph) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [CHAEYOUNG](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [SCORPIO000\-^](https://open.spotify.com/album/7LfaWJGHbqMxIcXRwMx4Bh) | 2:44 |
 | 13 | [Can’t Quit THIS Shit \(feat\. ILLINIT\)](https://open.spotify.com/track/63JxE7DAQ7S8ZXoIj2V8VX) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Illinit](https://open.spotify.com/artist/5N9rfcaITVgayz1OzCqu4h) | [LIT](https://open.spotify.com/album/6g7UQY5P57dq99rQPHb2zi) | 2:37 |
 | 14 | [Traveler](https://open.spotify.com/track/6F8LDvBMvRi8WasuiuSfvb) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22) | [BOYCOLD 3](https://open.spotify.com/album/42zOIi0SBowNvOPa7VQi5N) | 2:25 |

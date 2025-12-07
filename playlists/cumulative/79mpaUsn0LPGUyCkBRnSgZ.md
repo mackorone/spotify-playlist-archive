@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-972 songs - 2 day 16 hr 5 min
+977 songs - 2 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Arithmophobia](https://open.spotify.com/track/2gOfUuZ0FMpFVvCsjy0omI) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Madness Of Many](https://open.spotify.com/album/4Xm2aSISFdqLoJJACkZFUl) | 6:01 | 2024-05-31 |  |
 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 | 2022-10-01 |  |
 | [As Good As New](https://open.spotify.com/track/71or1G6CbfIttRDnBnTTAL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:24 | 2023-01-18 |  |
+| [As Scared As Can Be](https://open.spotify.com/track/0CoUc6KQK29UbNIckUB27e) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Peak Experience](https://open.spotify.com/album/2jfoofcxbrIC99cwR8qMbq) | 2:09 | 2025-12-06 |  |
 | [ascension](https://open.spotify.com/track/62MSbv3IJNlQdN2NMfOGny) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:12 | 2024-07-31 |  |
 | [Ashes in the Snow \- Remastered](https://open.spotify.com/track/6ieH021IWLGOGifX0FUzsM) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Hymn to the Immortal Wind \(Anniversary Edition\)](https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK) | 11:44 | 2025-09-10 |  |
 | [Assata's Code](https://open.spotify.com/track/2aSkCiAqywd3LMmanvsYXi) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Diani](https://open.spotify.com/artist/4g4T0gCzryRmUOfYDgrvyD) | [Liberation 2](https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn) | 2:02 | 2024-04-14 |  |
@@ -327,6 +328,7 @@
 | [Goin on a Plane Today](https://open.spotify.com/track/0qffZBf6URNKcCWtkxYX4v) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 2:29 | 2023-01-11 |  |
 | [Going Insane](https://open.spotify.com/track/7wgjOD4FrtZ0zPPtK7dSn8) | [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn) | [Cover The Mirrors](https://open.spotify.com/album/6cXzNHCcql2F15q7OP3Sks) | 3:42 | 2025-06-19 | 2025-06-22 |
 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 | 2022-04-21 |  |
+| [Golden Arrow](https://open.spotify.com/track/2uo4ZOD82ldcydWj5cPqAa) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt) | 11:20 | 2025-12-06 |  |
 | [Gone](https://open.spotify.com/track/7GB9nHKwwLs9mdbjErqK4H) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i) | 4:19 | 2025-07-23 | 2025-07-25 |
 | [Gone Hollywood](https://open.spotify.com/track/254AmmsIPAWg1nxwrnEpHj) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America](https://open.spotify.com/album/7i75GRwJbhDDiLi2uQHTtZ) | 5:17 | 2024-01-08 |  |
 | [Gone Under Sea](https://open.spotify.com/track/0s2fkGnkRf7uWaRiK4TrnW) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:12 | 2025-11-21 |  |
@@ -442,6 +444,7 @@
 | [Ivory](https://open.spotify.com/track/4JaqygglHv9rWW6B2NfgF6) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 0:45 | 2023-06-21 |  |
 | [J & J](https://open.spotify.com/track/5pZxlslpcJfWZS7Hg5yAK2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Mainframe](https://open.spotify.com/artist/6KOrnW75O2TRNDXzHSXm9h) | [Johnson & Jonson](https://open.spotify.com/album/1bTbPZOjvjsNRD1EKTKt1h) | 4:21 | 2025-07-26 |  |
 | [Jailer](https://open.spotify.com/track/0ggGTGpdhiWCQHY7UoNDI2) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ASA \(Asha\) \[Deluxe Edition\]](https://open.spotify.com/album/6jJE2t5ZfWq3I7n5KhF89d) | 4:07 | 2025-10-19 |  |
+| [Janie](https://open.spotify.com/track/1ZPct0Fm4bWqtdfmf1Cspt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 5:00 | 2025-12-06 |  |
 | [Jealousy](https://open.spotify.com/track/3sXZLfPN16Xnwr0hJt3Tvl) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Live Forever](https://open.spotify.com/album/0BTz0mHuiV8hEsU9azWSwo) | 2:41 | 2022-03-27 |  |
 | [Jenny Was A Friend Of Mine](https://open.spotify.com/track/60eVCXFCuw1WYswBuNZc4H) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 4:03 | 2023-12-13 |  |
 | [Jesus Alone](https://open.spotify.com/track/7xqVvINIZAzzNRh4MLzdf2) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Skeleton Tree](https://open.spotify.com/album/7bCVL7M7T5hz7x0OX9e32S) | 5:52 | 2024-01-19 |  |
@@ -751,6 +754,7 @@
 | [Sketches Of Brunswick East I](https://open.spotify.com/track/2nuzFl7CdwhdTQEnmiqWW2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn), [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Sketches of Brunswick East](https://open.spotify.com/album/6eD0NNGuIdYPUbEPbUzLnE) | 1:20 | 2023-06-23 |  |
 | [SKRILLEX IS DEAD](https://open.spotify.com/track/3tkzHn6WVGdAGEet1J4VDt) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Dj Smokey](https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 0:51 | 2025-11-14 | 2025-11-18 |
 | [Sky Saw \- 2004 Remaster](https://open.spotify.com/track/1sr1NnVTSUZL2xGzlkiq1G) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:27 | 2024-06-17 |  |
+| [Sleep](https://open.spotify.com/track/6tXvoKcGQvnKZKEV7jL094) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Patience, Moonbeam](https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct) | 0:36 | 2025-12-06 |  |
 | [Sleep to Dream](https://open.spotify.com/track/51HiIbv8gO0HvwpmAxXAFe) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:08 | 2023-06-08 | 2023-06-14 |
 | [Sleep/Swim](https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 0:50 | 2023-04-10 | 2024-07-03 |
 | [Sleeping Ute](https://open.spotify.com/track/2PoqnzWrZku3y90o50wVNi) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX) | 4:35 | 2023-06-19 | 2024-01-07 |
@@ -895,6 +899,7 @@
 | [Turn the Page](https://open.spotify.com/track/7eHt7rcLWNXREbck9PAsHA) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/6HAJ0LRCEqJeaCDm2lSsq8) | 3:15 | 2025-05-16 | 2025-06-22 |
 | [Turnin' Me Up](https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:29 | 2024-01-17 |  |
 | [Turnover](https://open.spotify.com/track/3GzrbXN9lIE6kmycaX5xzt) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [Repeater + 3 Songs](https://open.spotify.com/album/6JbGZGta38AArBgflt024C) | 4:15 | 2024-02-24 |  |
+| [TWICE REMOVED](https://open.spotify.com/track/6cMaeMxUUtPGZri4qPSQ5Y) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 3:59 | 2025-12-06 |  |
 | [Twin Plagues](https://open.spotify.com/track/5OeHMVPyqAyfAkeZm9MwSI) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 4:08 | 2023-12-25 | 2025-07-25 |
 | [Ugly Brunette](https://open.spotify.com/track/0fUV4Y51wN8lnG75rkDDwg) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Horse Jumper of Love](https://open.spotify.com/album/6deqa9Ep8kRZA1xiKbj1jc) | 2:56 | 2024-08-26 |  |
 | [Under The Pressure](https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 8:52 | 2022-01-11 |  |

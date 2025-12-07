@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 138021,
+  "num_followers": 138104,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-11-21 05:00:33",
       "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh"
+    },
+    {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 247054,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W"
-    },
-    {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh"
     },
     {
       "added_at": "2025-11-21 05:00:33",

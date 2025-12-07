@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Anitta, Felipe Amorim",
-  "num_followers": 744277,
+  "num_followers": 744503,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
+        "name": "Ana Castela - Spotify Sessions",
+        "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 224223,
+      "name": "Neon - Spotify Sessions",
+      "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
         "name": "DEBAIXO DO MEU CHAP\u00c9U, Vol. 2",
         "url": "https://open.spotify.com/album/4k1l6rmHL1FL5rURdvJ5Kg"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 159082,
       "name": "DENTRO DA LAND ROVER - Ao Vivo",
       "url": "https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
-        "name": "Ana Castela - Spotify Sessions",
-        "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
-      },
-      "artists": [
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 224223,
-      "name": "Neon - Spotify Sessions",
-      "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
     },
     {
       "added_at": "2025-12-05 03:00:31",
@@ -523,34 +523,6 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
-        "name": "BOA NOITE (CHEGUEI)",
-        "url": "https://open.spotify.com/album/5lV41TU5XhMIQHa2aCViUR"
-      },
-      "artists": [
-        {
-          "name": "THEUZZIN",
-          "url": "https://open.spotify.com/artist/4xQrZxDunp16t3UzWHCwwo"
-        },
-        {
-          "name": "2L Motta",
-          "url": "https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm"
-        },
-        {
-          "name": "Mn de Niteroi",
-          "url": "https://open.spotify.com/artist/7DD0RNx3vfzZXPcTuu3hKm"
-        },
-        {
-          "name": "DJ MK De Niter\u00f3i",
-          "url": "https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs"
-        }
-      ],
-      "duration_ms": 159777,
-      "name": "BOA NOITE (CHEGUEI)",
-      "url": "https://open.spotify.com/track/7gqB5ul2pZhMA80pX1orVZ"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
         "name": "Encosta na Parede",
         "url": "https://open.spotify.com/album/4Lx2IrKx6HwDR1kEfXh2F0"
       },
@@ -579,34 +551,30 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
-        "name": "Body Splash",
-        "url": "https://open.spotify.com/album/61vYdyIix9KxRXH2iT0hQN"
+        "name": "BOA NOITE (CHEGUEI)",
+        "url": "https://open.spotify.com/album/5lV41TU5XhMIQHa2aCViUR"
       },
       "artists": [
         {
-          "name": "Rey Vaqueiro",
-          "url": "https://open.spotify.com/artist/2LiTVEYDOEckioqrkD83jL"
-        }
-      ],
-      "duration_ms": 162883,
-      "name": "Body Splash",
-      "url": "https://open.spotify.com/track/6HqkE4XccT7AmAMRSfzOcp"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
-        "name": "MOLHO (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy"
-      },
-      "artists": [
+          "name": "THEUZZIN",
+          "url": "https://open.spotify.com/artist/4xQrZxDunp16t3UzWHCwwo"
+        },
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "2L Motta",
+          "url": "https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm"
+        },
+        {
+          "name": "Mn de Niteroi",
+          "url": "https://open.spotify.com/artist/7DD0RNx3vfzZXPcTuu3hKm"
+        },
+        {
+          "name": "DJ MK De Niter\u00f3i",
+          "url": "https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs"
         }
       ],
-      "duration_ms": 167528,
-      "name": "Aquele Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn"
+      "duration_ms": 159777,
+      "name": "BOA NOITE (CHEGUEI)",
+      "url": "https://open.spotify.com/track/7gqB5ul2pZhMA80pX1orVZ"
     },
     {
       "added_at": "2025-12-05 03:00:31",
@@ -631,6 +599,38 @@
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 167528,
+      "name": "Aquele Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
+        "name": "Body Splash",
+        "url": "https://open.spotify.com/album/61vYdyIix9KxRXH2iT0hQN"
+      },
+      "artists": [
+        {
+          "name": "Rey Vaqueiro",
+          "url": "https://open.spotify.com/artist/2LiTVEYDOEckioqrkD83jL"
+        }
+      ],
+      "duration_ms": 162883,
+      "name": "Body Splash",
+      "url": "https://open.spotify.com/track/6HqkE4XccT7AmAMRSfzOcp"
     },
     {
       "added_at": "2025-12-05 03:00:31",
@@ -827,6 +827,26 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
+        "name": "Estilo Nattanzinho (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 157557,
+      "name": "\u00daltima Noite",
+      "url": "https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
         "name": "NEM S\u00d3 DE MALUQUICE VIVE O HOMEM",
         "url": "https://open.spotify.com/album/3lHprza8hVWcc19Ouj48jy"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 194303,
       "name": "AMOR BANDIDO",
       "url": "https://open.spotify.com/track/7trxRWRqAhf9bJziU1ZQBH"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
-        "name": "Estilo Nattanzinho (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 157557,
-      "name": "\u00daltima Noite",
-      "url": "https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f"
     },
     {
       "added_at": "2025-12-05 03:00:31",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
+        "name": "Resenha do Arrocha 4.0",
+        "url": "https://open.spotify.com/album/2T7BeLGczS8r3xcwPzzfGU"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Resenha do Arrocha 4.0",
+      "url": "https://open.spotify.com/track/2Ls4iRSyXUjoE27QEbfdhX"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
         "name": "Brega do Bruxo",
         "url": "https://open.spotify.com/album/2pABm4fBCMvlyCvq6zIxRY"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 138591,
       "name": "CAVALINHO",
       "url": "https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
-        "name": "Resenha do Arrocha 4.0",
-        "url": "https://open.spotify.com/album/2T7BeLGczS8r3xcwPzzfGU"
-      },
-      "artists": [
-        {
-          "name": "J. Eskine",
-          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
-        },
-        {
-          "name": "Alef Donk",
-          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Resenha do Arrocha 4.0",
-      "url": "https://open.spotify.com/track/2Ls4iRSyXUjoE27QEbfdhX"
     },
     {
       "added_at": "2025-12-05 03:00:31",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
+        "name": "Mu\u00eddo Do Original (Ao Vivo Em Caruaru)",
+        "url": "https://open.spotify.com/album/5ZqEDypPktIpwRZnKuGfmw"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 136709,
+      "name": "Solteira Que \u00c9 Fiel - Ao Vivo em Caruaru",
+      "url": "https://open.spotify.com/track/6Fm0DxUyOYZOqSJXXyancI"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
         "name": "Prazer, Mam\u00e3e Noel",
         "url": "https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB"
       },
@@ -1403,46 +1423,6 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
-        "name": "Mu\u00eddo Do Original (Ao Vivo Em Caruaru)",
-        "url": "https://open.spotify.com/album/5ZqEDypPktIpwRZnKuGfmw"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 136709,
-      "name": "Solteira Que \u00c9 Fiel - Ao Vivo em Caruaru",
-      "url": "https://open.spotify.com/track/6Fm0DxUyOYZOqSJXXyancI"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
-        "name": "Na Pegada da Talita",
-        "url": "https://open.spotify.com/album/0dThd9WFSTWGOm5Is6xaKv"
-      },
-      "artists": [
-        {
-          "name": "Talita Mel",
-          "url": "https://open.spotify.com/artist/5wbSuC0q60AcyFwikoH8k3"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 144160,
-      "name": "Melzinho",
-      "url": "https://open.spotify.com/track/4HAF5oAZt0Dq7pF6P0NqEW"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
         "name": "Patrai",
         "url": "https://open.spotify.com/album/3DI8ogem3fcfyRmk7UHHz0"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 113448,
       "name": "Patrai",
       "url": "https://open.spotify.com/track/3TzANwXYkLsjIY9CT7prcL"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
+        "name": "Na Pegada da Talita",
+        "url": "https://open.spotify.com/album/0dThd9WFSTWGOm5Is6xaKv"
+      },
+      "artists": [
+        {
+          "name": "Talita Mel",
+          "url": "https://open.spotify.com/artist/5wbSuC0q60AcyFwikoH8k3"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 144160,
+      "name": "Melzinho",
+      "url": "https://open.spotify.com/track/4HAF5oAZt0Dq7pF6P0NqEW"
     },
     {
       "added_at": "2025-12-05 03:00:31",

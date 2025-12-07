@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Tigers Jaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,278 likes - 124 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,286 likes - 124 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

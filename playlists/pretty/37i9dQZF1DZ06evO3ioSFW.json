@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 513401,
+  "num_followers": 513488,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAACsU4uno3NRWOQLVyVlBmte",
+  "snapshot_id": "aTIggAAAAADKmYC0K+xhr648ErdMUdMO",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Es Color De Rosa",
-        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Irremediable",
-      "url": "https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 257209,
       "name": "Si No Piensas Cambiar",
       "url": "https://open.spotify.com/track/00TtkTraaGXv6LuGrzvw0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Es Color De Rosa",
+        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Irremediable",
+      "url": "https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok"
     },
     {
       "added_at": null,

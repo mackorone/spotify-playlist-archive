@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mugoicuosu.md) - [plain]
 
 > Posłuchaj muzyki z Nowego Rozdania: Rhythm + Flow Polska\. Oglądaj wszystkie odcinki w Netflixie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,054 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,058 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mugoicuosu.md) - [plain]
 | 32 | [Bragga \- Nowe Rozdanie \| S1](https://open.spotify.com/track/7FT6XmiKUuWJFm4DCe9eMV) | [Kara](https://open.spotify.com/artist/3BirXmy3kNcWZZkbpjeP2C), [Nowe Rozdanie](https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8) | [Przesłuchania Cz\. I & II \- Nowe Rozdanie \| S1](https://open.spotify.com/album/3HsbMvfHqenfBkQf8aE7gq) | 1:44 |
 | 33 | [BOUNCETOYT \- Nowe Rozdanie \| S1](https://open.spotify.com/track/0GrciYnm5l74quDGni9LJb) | [Dżanglu](https://open.spotify.com/artist/4ZYy3V9JdLmmr9Su7FlDlP), [Nowe Rozdanie](https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8) | [Przesłuchania Cz\. I & II \- Nowe Rozdanie \| S1](https://open.spotify.com/album/3HsbMvfHqenfBkQf8aE7gq) | 2:07 |
 | 34 | [Floyd Mayweather](https://open.spotify.com/track/5wOAQXIydVWJNatT6nKwhz) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [Internaziomal](https://open.spotify.com/album/1s4XFPqpSeY9RqteshYgPO) | 3:22 |
-| 35 | [Doja Cat](https://open.spotify.com/track/5GqUS2hyZj73WXpIamn5gA) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [PRODUKT47](https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn) | 2:47 |
+| 35 | [Doja Cat](https://open.spotify.com/track/5GqUS2hyZj73WXpIamn5gA) | [OKI](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [PRODUKT47](https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn) | 2:47 |
 | 36 | [Ground Zero](https://open.spotify.com/track/7gPbVDk8Es7AVHTLUFq6CU) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [Ground Zero Mixtape](https://open.spotify.com/album/4jri1WGY01xNetAXhHv4d9) | 3:01 |
 | 37 | [1998 \(mam to we krwi\)](https://open.spotify.com/track/5WOnkFszDc0OY8PZw4gygY) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG) | [Opowieści z Doliny Smoków](https://open.spotify.com/album/0zqVGKhttQF25HwPeNcknO) | 3:52 |
 | 38 | [RAP](https://open.spotify.com/track/1F7O4MZUE2VZdJ9QbS0qB7) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [TTHE GRIND](https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP) | 2:36 |

@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 163586,
       "name": "Boxful Of Wood",
       "url": "https://open.spotify.com/track/4vF0RapKHhbQvwSpfaoOMo"
@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "How Many Songs",
+        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150198,
+      "name": "How Many Songs",
+      "url": "https://open.spotify.com/track/2VHSzDXLqKg4eH2YdgdXOf"
+    },
+    {
+      "album": {
         "name": "A Hell of a Career",
         "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
       },
@@ -942,7 +960,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 166352,
       "name": "Losin' My Mojo",
       "url": "https://open.spotify.com/track/6R23XJHeB5iqQO5GUpapUw"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 227146,
       "name": "The Big Red",
       "url": "https://open.spotify.com/track/6eUiyTK9pXGpekx53Ag5w7"

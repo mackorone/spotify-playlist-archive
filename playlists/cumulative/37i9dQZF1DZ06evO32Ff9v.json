@@ -213,6 +213,28 @@
     },
     {
       "album": {
+        "name": "De Mexico Para El Mundo",
+        "url": "https://open.spotify.com/album/20eOV7sZ0hZxn7mWeUmyCl"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "De Mexico Para El Mundo",
+      "url": "https://open.spotify.com/track/2icmqXxY4Zo5MvgiIeHZ5O"
+    },
+    {
+      "album": {
         "name": "De Que Color Es La Suerte",
         "url": "https://open.spotify.com/album/7Luhi6dMH1sWR1KhrWrGOD"
       },
@@ -276,7 +298,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 150000,
       "name": "DEFIENDO EL TERRE",
       "url": "https://open.spotify.com/track/150x3uhN0IOSohoxaj3auy"

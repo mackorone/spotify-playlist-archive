@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Creators do mês: <a href="spotify:show:6tm0VBIICzSjddzmSN7BmS">Irrisório Show</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,871 likes - 11 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,870 likes - 11 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

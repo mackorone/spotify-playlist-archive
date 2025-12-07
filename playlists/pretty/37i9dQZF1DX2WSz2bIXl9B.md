@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 
 > Pódcasts que necesitas mantener en tu RADAR: Mamarracha, No Todo Vale, Me Cago Vivo, Fluir con el Caos, Te la pinto<br/><br/>En portada, Te la pinto
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,474 likes - 10 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,475 likes - 10 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 | 9 | [24\. Los MIEDOS que te impiden BRILLAR y crear tu VIDA \| Alba Santamarina](https://open.spotify.com/episode/40zXtHGL7wFI1aDDSGoGOx) | [FLUIR CON EL CAOS](https://open.spotify.com/show/5j40y3EhMwY57jeVPo27i6) | [FLUIR CON EL CAOS](https://open.spotify.com/album/5j40y3EhMwY57jeVPo27i6) | 1:03:54 |
 | 10 | [La Oficina de Premoniciones, un caso real](https://open.spotify.com/episode/4LvO1R1txXgFuNZbHPePej) | [Te la pinto](https://open.spotify.com/show/7h7Ol2q5eruuobw526Ao6k) | [Te la pinto](https://open.spotify.com/album/7h7Ol2q5eruuobw526Ao6k) | 1:21:30 |
 
-Snapshot ID: `AAAAADbG+tR7ABmBmAGWr6Bbg54akMJx`
+Snapshot ID: `AAAAAPK3T5W1OFnW6s18MKn92Lrh/McM`

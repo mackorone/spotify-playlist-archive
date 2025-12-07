@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 232920,
+  "num_followers": 232978,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,26 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Celia y Johnny",
+        "url": "https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 291946,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Fuego En El 23",
         "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
       },
@@ -215,6 +235,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 407373,
+      "name": "Periodico De Ayer",
+      "url": "https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Vamonos Pal' Monte",
         "url": "https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM"
       },
@@ -227,6 +263,26 @@
       "duration_ms": 426746,
       "name": "Vamonos Pal Monte",
       "url": "https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Asalto Navide\u00f1o Deluxe Edition",
+        "url": "https://open.spotify.com/album/5anrfHL63mx1v31grZcTbo"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Popurri Navide\u00f1o / Estrellas De Oriente (De Tierras Lejanas) / Noche De Paz / La Virgen Maria / La Tierra Mia",
+      "url": "https://open.spotify.com/track/7nmQRUWNptOVlHlxDAYMWE"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -263,42 +319,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Celia y Johnny",
-        "url": "https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 291946,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 407373,
-      "name": "Periodico De Ayer",
-      "url": "https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "Jala Jala Y Boogaloo",
         "url": "https://open.spotify.com/album/4UnQVmkl3uH5mEBeAvQbjH"
       },
@@ -311,6 +331,26 @@
       "duration_ms": 307146,
       "name": "Richie's Jala Jala",
       "url": "https://open.spotify.com/track/4Mk7napJbsKzRAs38jy0oK"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 370640,
+      "name": "Triste Y Vac\u00eda",
+      "url": "https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -367,26 +407,6 @@
       "duration_ms": 331817,
       "name": "Senor Sereno",
       "url": "https://open.spotify.com/track/4DP2GpPC1F8tFyGRMY4fbA"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 370640,
-      "name": "Triste Y Vac\u00eda",
-      "url": "https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -703,26 +723,6 @@
       "duration_ms": 190186,
       "name": "Mala Suerte",
       "url": "https://open.spotify.com/track/0K3LgduOVcSi9Z75bcbihT"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Asalto Navide\u00f1o Deluxe Edition",
-        "url": "https://open.spotify.com/album/5anrfHL63mx1v31grZcTbo"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Popurri Navide\u00f1o / Estrellas De Oriente (De Tierras Lejanas) / Noche De Paz / La Virgen Maria / La Tierra Mia",
-      "url": "https://open.spotify.com/track/7nmQRUWNptOVlHlxDAYMWE"
     },
     {
       "added_at": "2024-09-24 20:30:16",

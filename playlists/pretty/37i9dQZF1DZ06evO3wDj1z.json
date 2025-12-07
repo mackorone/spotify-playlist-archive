@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 115328,
+  "num_followers": 115357,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAABzhyWbnJKFStBLin6ucUer",
+  "snapshot_id": "aTIggAAAAAD6XiG3yuyYTHglXq4V+Zln",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 152920,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/3Z9OK3CUYv9t5iQpweJhda"
+      "duration_ms": 164226,
+      "name": "El Ayudante",
+      "url": "https://open.spotify.com/track/0dI9WuHlpDdUGFXUFO8ww7"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 164226,
-      "name": "El Ayudante",
-      "url": "https://open.spotify.com/track/0dI9WuHlpDdUGFXUFO8ww7"
+      "duration_ms": 152920,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/3Z9OK3CUYv9t5iQpweJhda"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Una P\u00e1gina M\u00e1s",
+        "url": "https://open.spotify.com/album/0nRrvlwgmNribpWPPb1Rdb"
+      },
+      "artists": [
+        {
+          "name": "Chuy Vega",
+          "url": "https://open.spotify.com/artist/3hjrGFp8ocEsDoHgkzAd4A"
+        },
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 127496,
+      "name": "Estrella Ca\u00edda",
+      "url": "https://open.spotify.com/track/0bztHEZfIFe23wKxAbHTuT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde el Cielo",
         "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 207573,
       "name": "Luto En El Cielo",
       "url": "https://open.spotify.com/track/693F8g19ECSFfMiejm00bo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una P\u00e1gina M\u00e1s",
-        "url": "https://open.spotify.com/album/0nRrvlwgmNribpWPPb1Rdb"
-      },
-      "artists": [
-        {
-          "name": "Chuy Vega",
-          "url": "https://open.spotify.com/artist/3hjrGFp8ocEsDoHgkzAd4A"
-        },
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 127496,
-      "name": "Estrella Ca\u00edda",
-      "url": "https://open.spotify.com/track/0bztHEZfIFe23wKxAbHTuT"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mi Gente...Mis Canciones En Vivo (Live At Teatro Del Pueblo Hermosillo, Sonora/2010)",
-        "url": "https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy"
+        "name": "30 Anos",
+        "url": "https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 173106,
-      "name": "Pase Y Pase - En Vivo",
-      "url": "https://open.spotify.com/track/6JddtBLhOsODAOVxRQWeFi"
+      "duration_ms": 194403,
+      "name": "Esa Triste Guitarra",
+      "url": "https://open.spotify.com/track/5DLkYGsCuWVoNKDCUBZInU"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde El Cielo",
-        "url": "https://open.spotify.com/album/73Pq9VKUdTh4gVUwvxCzQd"
+        "name": "A Mi Gente...Mis Canciones En Vivo (Live At Teatro Del Pueblo Hermosillo, Sonora/2010)",
+        "url": "https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 158520,
-      "name": "Sepa Dios",
-      "url": "https://open.spotify.com/track/6kqJnZAi3g4oH3NsxBPvtl"
+      "duration_ms": 173106,
+      "name": "Pase Y Pase - En Vivo",
+      "url": "https://open.spotify.com/track/6JddtBLhOsODAOVxRQWeFi"
     }
   ],
   "unique_name": "This Is Sergio Vega \"El Shaka\"",

@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 11315,
+  "num_followers": 11366,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 190249,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Tirando Balas",
         "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 173748,
       "name": "Tirando Balas",
       "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 190249,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "i haunt ur dreams",
+        "url": "https://open.spotify.com/album/6Nm1396bUjq3IUS0nlhcAP"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "i haunt ur dreams",
+      "url": "https://open.spotify.com/track/2JE60bG37E2hJA0pAuQ9wo"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
         "url": "https://open.spotify.com/album/01q7dE8UcVZpykFNzBnGP1"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 198000,
       "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
       "url": "https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "i haunt ur dreams",
-        "url": "https://open.spotify.com/album/6Nm1396bUjq3IUS0nlhcAP"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "i haunt ur dreams",
-      "url": "https://open.spotify.com/track/2JE60bG37E2hJA0pAuQ9wo"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "GASLIGHT",
         "url": "https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 197013,
       "name": "GASLIGHT",
       "url": "https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "A Lot More Free",
-        "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "Blue Eyed Constellation",
-      "url": "https://open.spotify.com/track/3fFI9wK6aZgeLuS8y3E9PH"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -2199,18 +2183,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Tuning In",
-        "url": "https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y"
+        "name": "A Lot More Free",
+        "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
       },
       "artists": [
         {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
         }
       ],
-      "duration_ms": 115228,
-      "name": "Tuning In",
-      "url": "https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a"
+      "duration_ms": 233750,
+      "name": "Blue Eyed Constellation",
+      "url": "https://open.spotify.com/track/3fFI9wK6aZgeLuS8y3E9PH"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2231,6 +2215,22 @@
       "duration_ms": 226153,
       "name": "Sweet (feat. Landon Sears)",
       "url": "https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Tuning In",
+        "url": "https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 115228,
+      "name": "Tuning In",
+      "url": "https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Liham Sa Ulap",
-        "url": "https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I"
-      },
-      "artists": [
-        {
-          "name": "KYLIX",
-          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
-        }
-      ],
-      "duration_ms": 188664,
-      "name": "Liham Sa Ulap",
-      "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Sunday (1994) [Deluxe]",
         "url": "https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 270344,
       "name": "Tired Boy",
       "url": "https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Liham Sa Ulap",
+        "url": "https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I"
+      },
+      "artists": [
+        {
+          "name": "KYLIX",
+          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
+        }
+      ],
+      "duration_ms": 188664,
+      "name": "Liham Sa Ulap",
+      "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2463,6 +2463,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Second hand embarrassment",
+      "url": "https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Can't Hide",
         "url": "https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW"
       },
@@ -2479,22 +2495,6 @@
       "duration_ms": 184000,
       "name": "Can't Hide",
       "url": "https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Second hand embarrassment",
-      "url": "https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1"
     }
   ],
   "unique_name": "10 Years of Fresh Finds",

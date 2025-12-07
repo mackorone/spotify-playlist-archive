@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 40854,
+  "num_followers": 40857,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAADBs9F0RlylN3YWegdbdTdW",
+  "snapshot_id": "aTIggAAAAABs72xlrLLPQqdSqL8KUq2C",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chuck Berry",
+        "url": "https://open.spotify.com/album/0mbqNbJKX0e942BUstZEXs"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 170627,
+      "name": "Chuck Berry",
+      "url": "https://open.spotify.com/track/14wonkYOgDaYgDZGuGIUAn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JAH-VAN",
         "url": "https://open.spotify.com/album/6jPDVtAx9fIrwS6KKTWYDO"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 284466,
       "name": "Meu Bem Querer - JAH-VAN",
       "url": "https://open.spotify.com/track/2FlIG6qvcKd73lqqedlgEX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chuck Berry",
-        "url": "https://open.spotify.com/album/0mbqNbJKX0e942BUstZEXs"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 170627,
-      "name": "Chuck Berry",
-      "url": "https://open.spotify.com/track/14wonkYOgDaYgDZGuGIUAn"
     },
     {
       "added_at": null,
@@ -683,30 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fast Five (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
-      },
-      "artists": [
-        {
-          "name": "Tejo",
-          "url": "https://open.spotify.com/artist/1v43iHOxg4GZtganT7wcjH"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/0jO4EktP5hJgHvd4fhN5p7"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Follow Me Follow Me (Quem Que Caguetou?) - Fast 5 Hybrid Remix",
-      "url": "https://open.spotify.com/track/186BCL46iM9FeZNNHfBU02"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crian\u00e7as Selvagens",
         "url": "https://open.spotify.com/album/1AY1gFOjPTPJ3jXhpEgKe1"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 235413,
       "name": "Papaia",
       "url": "https://open.spotify.com/track/4k5u1ja0I1T0d2jzcVN17x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fast Five (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
+      },
+      "artists": [
+        {
+          "name": "Tejo",
+          "url": "https://open.spotify.com/artist/1v43iHOxg4GZtganT7wcjH"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/0jO4EktP5hJgHvd4fhN5p7"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Follow Me Follow Me (Quem Que Caguetou?) - Fast 5 Hybrid Remix",
+      "url": "https://open.spotify.com/track/186BCL46iM9FeZNNHfBU02"
     },
     {
       "added_at": null,

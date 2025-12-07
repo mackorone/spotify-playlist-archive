@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 32359,
+  "num_followers": 32372,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAAAbzrlWUf1gAtIGlLVoz4kQ",
+  "snapshot_id": "aTIggAAAAABn4FaSsK9Y3TnncpEyjoJ2",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunbathe",
-        "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Sunbathe",
-      "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 164224,
       "name": "Button (feat. Anuel AA & Tainy)",
       "url": "https://open.spotify.com/track/6FDKYM0lBf6zqrg8cFokPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunbathe",
+        "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Sunbathe",
+      "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
     },
     {
       "added_at": null,

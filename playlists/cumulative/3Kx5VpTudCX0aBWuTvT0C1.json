@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "EQUINOCCIO",
+        "url": "https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw"
+      },
+      "artists": [
+        {
+          "name": "Rodeo Manhattan",
+          "url": "https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153240,
+      "name": "No Queda Mas",
+      "url": "https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy"
+    },
+    {
+      "album": {
         "name": "Noche Salvaje",
         "url": "https://open.spotify.com/album/5XQB8rZPholnVJusb803uP"
       },

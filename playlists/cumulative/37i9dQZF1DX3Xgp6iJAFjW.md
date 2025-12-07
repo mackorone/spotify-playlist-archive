@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-193 songs - 13 hr 8 min
+194 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Feliz Navidad](https://open.spotify.com/track/364zaCkRaENgzJ9THwg6dD) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Behind This Guitar](https://open.spotify.com/album/5FsRPLn0LijFONLY9HogEH) | 3:07 | 2022-11-25 | 2023-11-18 |
 | [Fin de Semana \- Version Navideña](https://open.spotify.com/track/4he2N9NCRkMdzCcFyADnp7) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Y Es Fácil!](https://open.spotify.com/album/0hTAsUTkGytIz0jozjge3A) | 4:39 | 2022-11-25 |  |
 | [Gaita es Gaita](https://open.spotify.com/track/4KMwOrUZ2L4g7CXpjHhA2f) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Neguito Borjas](https://open.spotify.com/artist/6rs8uM2E2JKbIHk4oTgdVC) | [C4 Suena a Navidad](https://open.spotify.com/album/2rRbC5Ti8ji2BoEYU28tva) | 3:57 | 2023-12-19 | 2025-11-01 |
+| [Gracias](https://open.spotify.com/track/6JEM41cUizPxyKVgQLIc6z) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Gracias](https://open.spotify.com/album/35D3oPRezyNeU9ion9E40U) | 3:24 | 2025-12-05 |  |
 | [Grito En Navidad](https://open.spotify.com/track/3jWOE0Ly1Weqfl1nxlLjhc) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Navideños](https://open.spotify.com/album/7lsz6aRXUQ37WOtDz3yVOh) | 5:48 | 2022-12-18 | 2024-10-06 |
 | [Gózate La Navidad](https://open.spotify.com/track/2JP7cYDckFDmhu8wrLGtg9) | [Sin Fronteras](https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Gózate La Navidad](https://open.spotify.com/album/20Oy7Ji4W1CCrekZx4NcG5) | 4:20 | 2023-11-17 | 2024-06-04 |
 | [Gózate La Navidad](https://open.spotify.com/track/42RVNjHSOKCzWzGJygIO7s) | [Sin Fronteras](https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Gózate La Navidad](https://open.spotify.com/album/5DYT72bROztD8TEnneE5PC) | 4:20 | 2023-12-19 | 2024-04-19 |
@@ -168,7 +169,7 @@
 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 | 2022-11-25 |  |
 | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \- De Navidad](https://open.spotify.com/track/60VHGVgXcbFleSAxUeNMLq) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \(De Navidad\)](https://open.spotify.com/album/1NF6nTsGudRHJLxRd9V3pW) | 4:41 | 2023-08-16 |  |
 | [Noche de Paz \- Cumbia](https://open.spotify.com/track/4hoPjIJDzvzOkgaKywO3f2) | [PAOLO RUBBOLI](https://open.spotify.com/artist/2YTXrgl9NKHgi2Bd4XUsEe) | [Noche de Paz \(Cumbia\)](https://open.spotify.com/album/3nOotXnsDskTlGFtSlz4hD) | 2:40 | 2022-11-25 | 2023-08-17 |
-| [Pa' Celebrar](https://open.spotify.com/track/5e1kwmkc6rRDYlChD7UYqn) | [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Superestrellas En Navidad Tropical](https://open.spotify.com/album/6VnclUCdwvVqTVFK8Plcvc) | 5:08 | 2025-10-31 |  |
+| [Pa' Celebrar](https://open.spotify.com/track/5e1kwmkc6rRDYlChD7UYqn) | [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Superestrellas En Navidad Tropical](https://open.spotify.com/album/6VnclUCdwvVqTVFK8Plcvc) | 5:08 | 2025-10-31 | 2025-12-07 |
 | [Parranda Navideña](https://open.spotify.com/track/6ltjndHA8EV1SIyaspqWAt) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [10 Grandes Exitos](https://open.spotify.com/album/3fyyvvAPxiWSL9Y7Eo9YLr) | 4:13 | 2023-11-17 | 2025-11-27 |
 | [Parranda Quisqueyana](https://open.spotify.com/track/09JoV9u9sijtmIWY9j0NX6) | [Dimension Dominicana](https://open.spotify.com/artist/2MghxItTMU77qHH5Q7yBCf) | [Navidad Caribeña: Desde Quisqueya y Puerto Rico](https://open.spotify.com/album/0ChiBQiatrvyHDGABY7V68) | 5:02 | 2023-08-16 |  |
 | [Persona Ideal \- Me Tengo Que Ir](https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP) | 4:39 | 2022-11-25 | 2024-04-19 |

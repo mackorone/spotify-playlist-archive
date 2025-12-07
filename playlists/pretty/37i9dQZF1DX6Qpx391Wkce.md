@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,521 likes - 66 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,538 likes - 66 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 65 | [Opus \- Four Tet Remix](https://open.spotify.com/track/3Iw9Nr3rmMM7L4FjSV7DEB) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opus \(Four Tet Remix\)](https://open.spotify.com/album/5T4TrDstGCVdlsnO4UY62g) | 9:58 |
 | 66 | [Der Mückenschwarm \- andhim 20yrs SVT Remix](https://open.spotify.com/track/1sJjV9KqZJ4m7WI3SCzgIY) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Der Mückenschwarm \(andhim 20yrs SVT Remix\)](https://open.spotify.com/album/0yB4dLIvUeqk0uMjE4xqsp) | 5:02 |
 
-Snapshot ID: `AAAAAL2kLcCcRK6TfNLd9477nJlxW05A`
+Snapshot ID: `AAAAAAPudtNrwJvoyygoAjnrnmtetWnO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tWCKOtVwoq.md) - [plain]
 
 > Music from "Solo Leveling"! ©Solo Leveling Animation Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,847 likes - 44 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,907 likes - 44 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

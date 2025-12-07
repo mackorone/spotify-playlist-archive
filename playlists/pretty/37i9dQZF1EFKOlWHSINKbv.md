@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558 likes - 153 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,560 likes - 153 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 76 | [I'm The One](https://open.spotify.com/track/5lHK542W8im991c0y4Tcrs) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:29 |
 | 77 | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/60lNUvQVzMnORIJvDEZG8Z) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [BEFORE WE GO](https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr) | 3:46 |
 | 78 | [Famous Excuses](https://open.spotify.com/track/5pE2YAGK1WBgG0p1qRtQFS) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Beach House 3](https://open.spotify.com/album/7Dj0aaKI4RpehMPqOu56mW) | 1:02 |
-| 79 | [Wood & Leather \(feat\. Big TC & Pops\)](https://open.spotify.com/track/3tQUYZLLCTxL5iiJ0gfCCT) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Big TC](https://open.spotify.com/artist/0lcJ0rnv51qnpYkAlvMCGE), [Pops](https://open.spotify.com/artist/2lUV8y5WkVid02dgmgCQ9D) | [Beach House EP](https://open.spotify.com/album/2P0JJ9p0o3unqi6EK4iDQw) | 5:06 |
-| 80 | [Finish Line](https://open.spotify.com/track/5nNVUJaPFtJEni4RK5ZS3U) | [Daye Jack](https://open.spotify.com/artist/0LSjb1pZ3uHwuvIaVzhdyT) | [Surf the Web](https://open.spotify.com/album/61jcg6D6K4JHWP6FBx9kxa) | 3:59 |
+| 79 | [Finish Line](https://open.spotify.com/track/5nNVUJaPFtJEni4RK5ZS3U) | [Daye Jack](https://open.spotify.com/artist/0LSjb1pZ3uHwuvIaVzhdyT) | [Surf the Web](https://open.spotify.com/album/61jcg6D6K4JHWP6FBx9kxa) | 3:59 |
+| 80 | [Wood & Leather \(feat\. Big TC & Pops\)](https://open.spotify.com/track/3tQUYZLLCTxL5iiJ0gfCCT) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Big TC](https://open.spotify.com/artist/0lcJ0rnv51qnpYkAlvMCGE), [Pops](https://open.spotify.com/artist/2lUV8y5WkVid02dgmgCQ9D) | [Beach House EP](https://open.spotify.com/album/2P0JJ9p0o3unqi6EK4iDQw) | 5:06 |
 | 81 | [MOVIN' ON \(feat\. Anderson .Paak\)](https://open.spotify.com/track/0A74iSx3c4rSaM5oXfgQ7m) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [BEFORE WE GO](https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr) | 3:44 |
 | 82 | [Famous Lies](https://open.spotify.com/track/5AG8xFKYpPKPDg1wq0P3D8) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Beach House 3](https://open.spotify.com/album/7Dj0aaKI4RpehMPqOu56mW) | 0:59 |
 | 83 | [Credit \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/6GDMLZoykMpZ4JqQoyoZpQ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Free TC](https://open.spotify.com/album/325oe5W5EgQVcuzNwBBnmt) | 6:11 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 152 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 | 153 | [Falling In Love](https://open.spotify.com/track/0zzqjHe6CUudt5UzKgS95v) | [Juxtaposition](https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F) | [Retrospect](https://open.spotify.com/album/3W28uUSJbOrzH3WDbgSWX3) | 3:02 |
 
-Snapshot ID: `AcDcPgAAAABjrJyZ2Y0wYhambKi20zib`
+Snapshot ID: `AcDiGgAAAACTNwCfFiBFZWGA1IX8WVVO`

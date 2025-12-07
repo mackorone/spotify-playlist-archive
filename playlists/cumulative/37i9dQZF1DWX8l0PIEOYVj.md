@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with William Black
 
-848 songs - 2 day 2 hr 42 min
+849 songs - 2 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Bloom](https://open.spotify.com/track/53nRvoOp71cFHGqtx3osGQ) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g) | [Bloom](https://open.spotify.com/album/1qWaMkuLpE4G3ZtdLqyNFz) | 3:07 | 2023-06-02 | 2024-01-28 |
 | [BLUE](https://open.spotify.com/track/09IX3DHZOc95yJs23HNxv0) | [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [zoska](https://open.spotify.com/artist/3PUGGjaM7gnyEvIGfWYwh6) | [BLUE](https://open.spotify.com/album/4qGzXp7Rtj0CPpyKGkdah9) | 2:44 | 2025-05-23 | 2025-08-10 |
 | [Blue](https://open.spotify.com/track/7amTNi6wRWUzvAh5aC9fmd) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Blue](https://open.spotify.com/album/2Go4wSvMagoNKseAj2UGp3) | 3:05 | 2025-10-24 |  |
-| [Borderline \(feat\. EMELINE\)](https://open.spotify.com/track/5c27MdKM2FFQMW8eEJy63e) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Borderline \(feat\. EMELINE\)](https://open.spotify.com/album/3HuiAw5KVyxtca92Ai6oYz) | 3:17 | 2023-09-08 |  |
+| [Borderline \(feat\. EMELINE\)](https://open.spotify.com/track/5c27MdKM2FFQMW8eEJy63e) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Borderline \(feat\. EMELINE\)](https://open.spotify.com/album/3HuiAw5KVyxtca92Ai6oYz) | 3:17 | 2023-09-08 | 2025-12-07 |
 | [Boyz Lie](https://open.spotify.com/track/0lE7VZvooD13UimBdCPkpz) | [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Boyz Lie](https://open.spotify.com/album/3Y2s6QLxcPS9DYdaCw4Al2) | 3:12 | 2023-05-19 | 2023-06-07 |
 | [Brand New Funk](https://open.spotify.com/track/2zSVXz9fevABKCEnc2epnf) | [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [Brand New Funk](https://open.spotify.com/album/0pllHpliPouNfbcLYJW5qd) | 3:04 | 2024-08-09 | 2024-09-21 |
 | [Breakthrough](https://open.spotify.com/track/32ohfXjRAJoj43Jgtm02cP) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Breakthrough](https://open.spotify.com/album/3wDZeVyPFa6gindhyvg6bT) | 4:48 | 2022-08-26 | 2022-12-20 |
@@ -715,6 +715,7 @@
 | [Sunburn](https://open.spotify.com/track/6UEkaSqswLYnWRgVQFkHMs) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Sunburn](https://open.spotify.com/album/34tTL3sIlZ5mzpwvEiXKaQ) | 2:47 | 2022-07-08 | 2023-02-18 |
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-07-08 | 2022-09-06 |
 | [Sunlight](https://open.spotify.com/track/5axc0a5C3q8TR3zgte06QB) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [All I See, You See Me](https://open.spotify.com/album/4xbc9uLkDES1awQAfjqtfA) | 3:24 | 2023-08-04 | 2023-09-28 |
+| [Superluminal](https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Superluminal](https://open.spotify.com/album/6FPhibUXT8Y0f6RwfKJUII) | 5:28 | 2025-12-05 |  |
 | [Surrender](https://open.spotify.com/track/22n6NWju62SksM175Je9xc) | [Cinema Kid](https://open.spotify.com/artist/0zPDD8eFOxihKPKPI0uZEz) | [Everything Is Alright](https://open.spotify.com/album/4emfuxoSlvfgMnzeuoUx0I) | 4:45 | 2024-05-24 | 2024-06-22 |
 | [Surrender](https://open.spotify.com/track/4WmQdAUKoo2jcYqY0Ocz1P) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Surrender](https://open.spotify.com/album/2RlTxicWPSu1Z4sWXXWPrV) | 4:17 | 2023-06-09 | 2023-07-22 |
 | [Surrender](https://open.spotify.com/track/67hXwO5ry524QKakkllndZ) | [Napa Cabbage](https://open.spotify.com/artist/6yQkMw2cRF9RstGdKlva32), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Surrender](https://open.spotify.com/album/070G3aCcs8BV5yCLsYmm9F) | 3:38 | 2022-07-08 | 2022-09-05 |

@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-296 songs - 16 hr 53 min
+299 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Like A Phoenix](https://open.spotify.com/track/2fxhKNbUWjZHijIaufQ3O9) | [Esprit D'Air](https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD) | [Aeons](https://open.spotify.com/album/13ClQsOANOW8waXYZPQ72W) | 3:37 | 2025-11-07 |  |
 | [Lion And The Fish](https://open.spotify.com/track/7xZTnC049EWRl4CzFjyfBX) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 5:08 | 2025-09-16 |  |
 | [Lipstick and Gunpowder](https://open.spotify.com/track/6G4aQxU8rmdLydVTAZjhcO) | [Relentless // Romantic](https://open.spotify.com/artist/17wxtLNjFuGM0TxVilDdwA) | [Lipstick and Gunpowder](https://open.spotify.com/album/5ItUHJdPISPQXD0hS4TEGL) | 3:34 | 2025-11-12 |  |
+| [Litany of Your Name](https://open.spotify.com/track/2Alk9YqpSZMeVMm3sC23I0) | [Dystopian Machine](https://open.spotify.com/artist/4Zdx5hWyc79G1UafxgokPo) | [Litany of Your Name](https://open.spotify.com/album/7qsY33yeO2xK22Ax1FgA2J) | 5:02 | 2025-12-06 |  |
 | [Los Fantasmas](https://open.spotify.com/track/2q4y2vy1FAuzuqQBB2qZeZ) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy), [Carroña](https://open.spotify.com/artist/7d5zlC95WTo4JJFWNKsiP1), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Los Fantasmas](https://open.spotify.com/album/5pAzx5gDZpEnMgmXlMH8Kw) | 3:09 | 2025-12-04 |  |
 | [Love is Violence](https://open.spotify.com/track/2Dlsx5DnYqEqQBTcs3p8Mr) | [J.F\. Rites](https://open.spotify.com/artist/24I3eAEQHunlKXfelrPmyd) | [Love is Violence](https://open.spotify.com/album/5gxOdmUjuEasKZ5UVsnqRQ) | 2:56 | 2025-11-10 |  |
 | [Lovely Head](https://open.spotify.com/track/1zgep5cR2ZjHRKLi3qqbl8) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 3:49 | 2025-08-03 |  |
@@ -256,6 +257,7 @@
 | [Tears Me Up](https://open.spotify.com/track/6959IIhaVq28Z6ygotljjL) | [Lifeboats](https://open.spotify.com/artist/2vGWwJu1DndWtt2AhRAplt) | [Tears Me Up](https://open.spotify.com/album/0OKcZGOjOy4VYwBxOux7Ph) | 3:20 | 2025-11-27 |  |
 | [temptress](https://open.spotify.com/track/1PDUiwGUzBCNwKbbqKM03J) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [temptress](https://open.spotify.com/album/65cYeQSbhT1ZY3JQEx39b9) | 3:17 | 2025-11-20 |  |
 | [temptress \(amnesia edit\)](https://open.spotify.com/track/4DgcfrBabvXy8qsiU8recG) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [temptress](https://open.spotify.com/album/65cYeQSbhT1ZY3JQEx39b9) | 3:40 | 2025-11-20 |  |
+| [The Curse](https://open.spotify.com/track/4txU9T6REQrKXvO9qBhxVz) | [The Forest](https://open.spotify.com/artist/2q8zPDrAV8jdxb2Y2Ahas0) | [The Curse](https://open.spotify.com/album/5Y3gDBggPtX0VKUeUCbHSO) | 4:35 | 2025-12-06 |  |
 | [The Distance](https://open.spotify.com/track/7H9COK6fJ6RLga1Gizf71C) | [Monte Cristo](https://open.spotify.com/artist/5PBBLMciIri0fAzQgteVgQ) | [FROM THE LOWEST VALLEY TO THE HIGHEST MOUNTAIN](https://open.spotify.com/album/6hLWJmUuUq4s7enf203pXu) | 4:14 | 2025-10-23 |  |
 | [The Night on Fire](https://open.spotify.com/track/3H4RWWL4RAqP8ewNclLZfS) | [LuumixX](https://open.spotify.com/artist/0YM7PRuqPpBZUzqnD5Wh6n), [DJ Mokka](https://open.spotify.com/artist/2HsoBly6mGxZkMKZ0XjAyr) | [The Night on Fire](https://open.spotify.com/album/6GZszizjAdpKzt1Zbq5o7r) | 2:51 | 2025-11-28 |  |
 | [The Ones Who Drifted](https://open.spotify.com/track/5shpX3zlrOb9nZnWqX8xgY) | [Madness Men](https://open.spotify.com/artist/6vLj31hJ7SVEK1QaAOndpk) | [Madness Dimension, Pt\. One](https://open.spotify.com/album/6dhW2f9OGUrZEzBWU7RthA) | 4:43 | 2025-11-29 |  |
@@ -274,6 +276,7 @@
 | [Tiny White Lies](https://open.spotify.com/track/0dUCsTCufQXpQpH0xrJW4x) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:34 | 2025-08-03 |  |
 | [Too Close For Comfort](https://open.spotify.com/track/2eLNKsTamXcUGp8Q0PrfeJ) | [DIZTEN](https://open.spotify.com/artist/0hj6Y8SHrQ6ETXoh4dBi9P) | [Too Close For Comfort](https://open.spotify.com/album/3Rqi8cEOHDKJMBXqKt5WvF) | 3:23 | 2025-11-14 |  |
 | [Unforgiven Ghosts](https://open.spotify.com/track/0k76GGJSrK4Mvf21WJnTzQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Serendipitous Ruse \(Deluxe\)](https://open.spotify.com/album/4RHX1QDINQsvXt2NAoqaOS) | 3:24 | 2025-12-04 |  |
+| [Unleash The Madness](https://open.spotify.com/track/2lpGgY8sW4PEIRwFUYBERJ) | [Mus\-D Beatz](https://open.spotify.com/artist/1k7gX3I4ws0MrlS0jJinbo) | [Unleash The Madness](https://open.spotify.com/album/77O5f8gtVYG51CnLtiFZqe) | 3:30 | 2025-12-06 |  |
 | [Veneer of Happiness](https://open.spotify.com/track/05XSQqpNie45Bm5DiIBYJt) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Veneer of Happiness](https://open.spotify.com/album/2UsupNlVls5rnuxjAxdVoe) | 3:49 | 2025-10-24 |  |
 | [Vindicta](https://open.spotify.com/track/54FUFjNwNJBPgOZOW5N9J0) | [Sonder](https://open.spotify.com/artist/0L0D31Vnz5LTRR8I620V0G) | [Rompiendo Refugios](https://open.spotify.com/album/7CcpgykbYIRVRADvSi9PzI) | 4:21 | 2025-11-15 |  |
 | [Walk With Me](https://open.spotify.com/track/4SY4BgJEk2cYGA5Q8IJzMY) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 4:12 | 2025-09-16 |  |

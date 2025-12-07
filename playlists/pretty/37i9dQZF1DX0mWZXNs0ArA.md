@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,958,983 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,958,687 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 59 | [Price Tag \- Sped Up](https://open.spotify.com/track/7wBOjV4TIq2YzPFDc3mFmA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Price Tag \(Sped Up\)](https://open.spotify.com/album/6ITJMaP8RALYKlF1zYr8kx) | 3:17 |
 | 60 | [Džanum \- Sped Up](https://open.spotify.com/track/0MsTPYCpMwTlhq3XrtRTT1) | [Teya Dora](https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU) | [Džanum \- Sped up](https://open.spotify.com/album/2vuMXOH1OPzMrMxInxmnaB) | 2:18 |
 | 61 | [If We Have Each Other \(Always By Her Side\) \- Sped Up Version](https://open.spotify.com/track/1B2mOfWYc7EatMwnVx1g1x) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [If We Have Each Other \(Always By Her Side\) \[Sped Up Version\]](https://open.spotify.com/album/6THJRzfxXMd5tjtt4uqFGY) | 2:36 |
-| 62 | [HYPNOTIC DATA \- Sped Up](https://open.spotify.com/track/3iLEjZtu5Za0ZR35lYIDeu) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS \(ODECORE MIX\)](https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE) | 1:57 |
-| 63 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [PHANTOMA](https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
+| 62 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [PHANTOMA](https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
+| 63 | [HYPNOTIC DATA \- Sped Up](https://open.spotify.com/track/3iLEjZtu5Za0ZR35lYIDeu) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS \(ODECORE MIX\)](https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE) | 1:57 |
 | 64 | [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 |
 | 65 | [In The Stars \- Sped Up](https://open.spotify.com/track/7B9gPx18Tbm8dgaB14jwKm) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars \(Sped Up\)](https://open.spotify.com/album/5OmxavyXrqVdtH22o99mCu) | 2:50 |
 | 66 | [Feather \- Sped Up](https://open.spotify.com/track/2WkrEyLzATbOK8U3xt8Ggq) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Feather \(Sped Up\)](https://open.spotify.com/album/0TCgFAC92fkbHe2lJkwZRF) | 2:33 |

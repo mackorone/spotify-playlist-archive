@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Sam Deep, Shallipopi, Makhadzi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,404 likes - 86 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,543 likes - 86 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 45 | [Wena Wedwa](https://open.spotify.com/track/5DHLUmKQT7AumoXpEwE8me) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [De Rose](https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL), [Mizi.DM](https://open.spotify.com/artist/04QtPvJruHxv5JeGtVgaKm) | [The Blueprint](https://open.spotify.com/album/5ayzoZxOSakw0Wn2nMgDpU) | 6:49 |
 | 46 | [Crush](https://open.spotify.com/track/3cDzIY1AdJZ36kTlUxpApw) | [Zane Gulston](https://open.spotify.com/artist/18rZ7Kl0Dtyla220ZktTR7), [Rebiirth](https://open.spotify.com/artist/1Tx7L6W346dIQcAwDGdF1o) | [Crush](https://open.spotify.com/album/0fIRjHKYAiceTTcRshmORw) | 5:10 |
 | 47 | [Thanda \(Tshwala\) 10.0](https://open.spotify.com/track/30hPPrZfLrOBRTMlCfFarD) | [Bukzin Keyz](https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ), [Loony Q](https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv), [Senzo02](https://open.spotify.com/artist/7vcWS5ksAb4LpQMGP68ouZ) | [BULALA 10.0](https://open.spotify.com/album/2sAWsae6k2FuFXQL97XFg3) | 4:31 |
-| 48 | [Lilizela \(feat\. Kwesta, Nokwazi & Stoan\)](https://open.spotify.com/track/1eRbRBdiBKwlFPJDGRvtHd) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL), [Stoan](https://open.spotify.com/artist/35Dxek7qSmZJcG7ikp11Ef) | [Lilizela \(feat\. Kwesta, Nokwazi & Stoan\)](https://open.spotify.com/album/404Vh1YTzsdFLIVWO5wxyW) | 5:56 |
+| 48 | [Lilizela \(feat\. Nokwazi, Kwesta & Stoan\)](https://open.spotify.com/track/1eRbRBdiBKwlFPJDGRvtHd) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Stoan](https://open.spotify.com/artist/35Dxek7qSmZJcG7ikp11Ef) | [Lilizela \(feat\. Nokwazi, Kwesta & Stoan\)](https://open.spotify.com/album/404Vh1YTzsdFLIVWO5wxyW) | 5:56 |
 | 49 | [Esbukweni](https://open.spotify.com/track/1IzWAt2w2jtXhczEMfVBEA) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs) | [Esbukweni](https://open.spotify.com/album/6zAZINM84wy23WZ8PPdLMX) | 3:21 |
 | 50 | [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 |
 | 51 | [Can't Deny It](https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D) | [Can't Deny It](https://open.spotify.com/album/2tYGrcqUZ1OASP2vMwDfBJ) | 2:52 |

@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 97841,
+  "num_followers": 97855,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Hot Couture",
+        "url": "https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA"
+      },
+      "artists": [
+        {
+          "name": "Manila Luzon",
+          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Hot Couture",
+      "url": "https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
         "url": "https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 248973,
       "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
       "url": "https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Hot Couture",
-        "url": "https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA"
-      },
-      "artists": [
-        {
-          "name": "Manila Luzon",
-          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Hot Couture",
-      "url": "https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -639,50 +639,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "AAA",
-        "url": "https://open.spotify.com/album/7Hg59DHj3jPVUWxegY6Inm"
-      },
-      "artists": [
-        {
-          "name": "The AAA Girls",
-          "url": "https://open.spotify.com/artist/0RQTMmeu6M6VQg5zPeWKgw"
-        },
-        {
-          "name": "Courtney Act",
-          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
-        },
-        {
-          "name": "Willam",
-          "url": "https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8"
-        },
-        {
-          "name": "Alaska Thunderfuck",
-          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
-        }
-      ],
-      "duration_ms": 191680,
-      "name": "AAA",
-      "url": "https://open.spotify.com/track/3emMgXnKizZEJfE8HN4WTW"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
-      },
-      "artists": [
-        {
-          "name": "Bimini",
-          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
-        }
-      ],
-      "duration_ms": 210708,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Arrogant",
         "url": "https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc"
       },
@@ -715,6 +671,50 @@
       "duration_ms": 237987,
       "name": "Hurt My Feelings",
       "url": "https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "duration_ms": 210708,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/7Hg59DHj3jPVUWxegY6Inm"
+      },
+      "artists": [
+        {
+          "name": "The AAA Girls",
+          "url": "https://open.spotify.com/artist/0RQTMmeu6M6VQg5zPeWKgw"
+        },
+        {
+          "name": "Courtney Act",
+          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
+        },
+        {
+          "name": "Willam",
+          "url": "https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8"
+        },
+        {
+          "name": "Alaska Thunderfuck",
+          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
+        }
+      ],
+      "duration_ms": 191680,
+      "name": "AAA",
+      "url": "https://open.spotify.com/track/3emMgXnKizZEJfE8HN4WTW"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Loving Me Like That",
-        "url": "https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Loving Me Like That",
-      "url": "https://open.spotify.com/track/03NhvyKomhZpEkvuePLseZ"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Know-It-All",
         "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Loving Me Like That",
+        "url": "https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Loving Me Like That",
+      "url": "https://open.spotify.com/track/03NhvyKomhZpEkvuePLseZ"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "The Shady Bunch / Bring Back My Girls",
         "url": "https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 163893,
       "name": "Bring Back My Girls",
       "url": "https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Burn Rubber",
-        "url": "https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5"
-      },
-      "artists": [
-        {
-          "name": "Aquaria",
-          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Burn Rubber",
-      "url": "https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -863,18 +847,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Outside In",
-        "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
+        "name": "Burn Rubber",
+        "url": "https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5"
       },
       "artists": [
         {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+          "name": "Aquaria",
+          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
         }
       ],
-      "duration_ms": 194361,
-      "name": "Outside In",
-      "url": "https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso"
+      "duration_ms": 173333,
+      "name": "Burn Rubber",
+      "url": "https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -891,6 +875,22 @@
       "duration_ms": 176000,
       "name": "Fight for Love",
       "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Outside In",
+        "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 194361,
+      "name": "Outside In",
+      "url": "https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Zubi Zubi Zubi",
-        "url": "https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF"
-      },
-      "artists": [
-        {
-          "name": "Raja",
-          "url": "https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "Zubi Zubi Zubi",
-      "url": "https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 202476,
       "name": "Boys Like Me",
       "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Zubi Zubi Zubi",
+        "url": "https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF"
+      },
+      "artists": [
+        {
+          "name": "Raja",
+          "url": "https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "Zubi Zubi Zubi",
+      "url": "https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "PUMPKIN TITS - Single",
-        "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
-      },
-      "artists": [
-        {
-          "name": "JIMBO the Drag Clown",
-          "url": "https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t"
-        }
-      ],
-      "duration_ms": 176215,
-      "name": "PUMPKIN TITS",
-      "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Bitch On Heels (Kelvin Wood Remix)",
         "url": "https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 178064,
       "name": "Bitch On Heels - Kelvin Wood Radio Mix",
       "url": "https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "PUMPKIN TITS - Single",
+        "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
+      },
+      "artists": [
+        {
+          "name": "JIMBO the Drag Clown",
+          "url": "https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t"
+        }
+      ],
+      "duration_ms": 176215,
+      "name": "PUMPKIN TITS",
+      "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
     },
     {
       "added_at": "2025-01-14 16:17:40",

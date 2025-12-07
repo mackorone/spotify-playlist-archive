@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAAC5BcCu5G4yy1VpbyiUwZST",
+  "snapshot_id": "aTIggAAAAAAO8dcyQk4Dz3HWmfdQzzkj",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
       "duration_ms": 86546,
       "name": "You Lost Your Shadow, Bill",
       "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 103158,
+      "name": "Saint Luke's",
+      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
     },
     {
       "added_at": null,

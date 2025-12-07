@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,318 songs - 3 day 2 hr 16 min
+1,319 songs - 3 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [אהבה חולה](https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח](https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci) | 3:02 | 2022-12-26 | 2024-02-18 |
 | [אהבה קצרה](https://open.spotify.com/track/2JgH4aj4Afie8gZa4T6vmG) | [Meir Banai](https://open.spotify.com/artist/3u8toIYNbUIHmhGjEZRuQU) | [וביניהם](https://open.spotify.com/album/18ckY8CdBUqkrJLmRdRUgU) | 3:48 | 2023-04-29 | 2023-05-02 |
 | [אהבת אותי](https://open.spotify.com/track/1hPyp13B8rWWxAduMcPsdM) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 2:44 | 2025-05-31 | 2025-07-20 |
+| [אהבת חיי](https://open.spotify.com/track/4T87Z2bkvgdLI9sECWYF7i) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אהבת חיי](https://open.spotify.com/album/74pNigP1FQzmaxpCt5cOxq) | 3:27 | 2025-12-06 |  |
 | [אהובי לב אדום](https://open.spotify.com/track/2ICsg0MAobTLg4VVjW2iE5) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אהובי לב אדום](https://open.spotify.com/album/4OY25L91SZ7PPDiCgIHZDV) | 3:24 | 2022-06-03 | 2022-08-28 |
 | [אהובתי כבר לא רואה אותי](https://open.spotify.com/track/2QkVXq7dLpefWAiETsvIOs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 3:10 | 2024-11-11 |  |
 | [אהלן וסהלן](https://open.spotify.com/track/5paLSZ9sF5jc3aSOSjQf3b) | [Lehakat Sfataim](https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R) | [חגיגה מרוקאית](https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD) | 5:48 | 2021-04-05 | 2025-04-22 |
@@ -708,7 +709,7 @@
 | [ארץ ישראל שלי](https://open.spotify.com/track/58gjKhdAyYFvtuw0sGn95e) | [נירה רבינוביץ](https://open.spotify.com/artist/3mBMLsSr0PuSkTmPxtQu5i) | [דתיה בן דור \- עוד שירי משחק](https://open.spotify.com/album/1g5zWDkBTPvnse7CjVCSuJ) | 1:56 | 2023-04-27 | 2024-05-17 |
 | [את חסרה לי](https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 2:49 | 2022-03-26 | 2024-10-06 |
 | [את חסרה לי & אורות](https://open.spotify.com/track/6Eds9y8ZiQHcIegsEIVcYP) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd), [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [את חסרה לי & אורות](https://open.spotify.com/album/5iw1EWAmGUHfrCNfTi7z14) | 4:28 | 2022-10-09 | 2024-03-22 |
-| [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/track/0sMyBmtyp4riKYNpDVNSH4) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/album/5oVtGh11SKW9cnaltFyxaW) | 3:22 | 2024-12-09 |  |
+| [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/track/0sMyBmtyp4riKYNpDVNSH4) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/album/5oVtGh11SKW9cnaltFyxaW) | 3:22 | 2024-12-09 | 2025-12-07 |
 | [באור גדול](https://open.spotify.com/track/2VlUJabkhkXenAPhdeNtL6) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U), [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [להיות מאושר](https://open.spotify.com/album/793n3eYaBcW0IHs7zHmrnI) | 3:10 | 2021-03-27\* | 2021-07-10 |
 | [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 | 2024-05-31 | 2025-06-11 |
 | [באמת של האמת](https://open.spotify.com/track/3Dx920qUWdBswFizsT1PxR) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אוגוסט דאמפ](https://open.spotify.com/album/4iWiYzhVxoPbLFk8ROV5Bj) | 3:03 | 2025-08-06 |  |
@@ -1254,7 +1255,7 @@
 | [שובו של מרדכי](https://open.spotify.com/track/1s8Mk9MmCPIhhhq2F9aGnz) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Oshik Levy](https://open.spotify.com/artist/3tjoGZmGJVn69uCacptnWh), [Teddy Neguse](https://open.spotify.com/artist/1SOCXWLgBvXDqNobiSnGM7) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:30 | 2021-12-18 | 2021-12-25 |
 | [שווארמה ודמעה](https://open.spotify.com/track/51XDPGyuq8EgHSXwKCn8CQ) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:36 | 2024-11-11 | 2025-03-06 |
 | [שום דבר לא יפגע בי](https://open.spotify.com/track/3FAOYZtUlvrvs3EgZ3Nyy1) | [Knesiyat Hasechel](https://open.spotify.com/artist/16MkPn5NwSOt7xc4OqjOHp) | [שום דבר לא יפגע בי](https://open.spotify.com/album/2raX9lg2PnnTYO1lUBJoxZ) | 3:41 | 2022-05-05 | 2024-05-16 |
-| [שושו](https://open.spotify.com/track/7pojjbZAyaEs28gCbV55xT) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 2:56 | 2025-06-11 |  |
+| [שושו](https://open.spotify.com/track/7pojjbZAyaEs28gCbV55xT) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 2:56 | 2025-06-11 | 2025-12-07 |
 | [שושנים עצובות](https://open.spotify.com/track/10GsfggkORXTRVaIHvA7y3) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [הפרויקט של עידן רייכל](https://open.spotify.com/album/2rHCT6QwNlr1NgMT8MmHK3) | 2:35 | 2023-04-26 | 2023-04-28 |
 | [שושנים עצובות \(ישראל בידור\)](https://open.spotify.com/track/1rmxF8VNLZ2gXwwzqGJ9tJ) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [ישראל בידור](https://open.spotify.com/artist/3v9RYe2J8eJLUlggkXxmZL) | [שושנים עצובות \(ישראל בידור\)](https://open.spotify.com/album/6y4VKtxBdPN8jVmeyCp0Qv) | 3:29 | 2021-04-14 | 2025-05-03 |
 | [שותפה שלי](https://open.spotify.com/track/5FQCwtsC3YanKJzpfkvnDt) | [Moshiko Mor](https://open.spotify.com/artist/6KskOtymSG2RrswMdNC2zC) | [שותפה שלי](https://open.spotify.com/album/1nK8LOQ8nZYsFwOHF7PyUu) | 2:54 | 2024-09-06 | 2024-11-11 |
@@ -1325,6 +1326,6 @@
 | [‏פתמטר](https://open.spotify.com/track/1pwMJiF3aqE3zjeWIpYV1U) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Kashi](https://open.spotify.com/artist/0fH0m0VTc45qnCNF1tCYiK) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:17 | 2021-09-26 | 2021-10-03 |
 | [‏קורבן](https://open.spotify.com/track/2mGGqzRrPOYhgv4MSG6Fhq) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Sima Noon](https://open.spotify.com/artist/2DMdTMjbXXHnlhsnJ9UJyz) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:24 | 2021-09-26 | 2022-02-26 |
 | [‏קנדריק](https://open.spotify.com/track/5MVbhdDzP1WiDquAHxNDbl) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:14 | 2021-09-26 | 2021-10-08 |
-| [‏שלווה בארמונותייך](https://open.spotify.com/track/0PfvEnfj3hHl7zlc0WcfGY) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:35 | 2021-09-26 | 2025-12-06 |
+| [‏שלווה בארמונותייך](https://open.spotify.com/track/0PfvEnfj3hHl7zlc0WcfGY) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:35 | 2021-09-26 |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

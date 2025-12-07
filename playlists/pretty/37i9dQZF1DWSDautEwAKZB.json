@@ -511,22 +511,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Imagina A Sentada \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Imagina A Sentada \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 255650,
       "name": "La Carretera - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Imagina A Sentada \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Imagina A Sentada \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "O Mundo D\u00e1 Voltas (Spotify Singles)",
-        "url": "https://open.spotify.com/album/59kSwQ4mkGJ5YVmVgmQv3s"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 186778,
-      "name": "O Mundo D\u00e1 Voltas - Spotify Singles",
-      "url": "https://open.spotify.com/track/1yz7wQVh2A3cCED0QPpfGU"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
         "url": "https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 181894,
       "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/30K54dQDikHIulypekVSZp"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "O Mundo D\u00e1 Voltas (Spotify Singles)",
+        "url": "https://open.spotify.com/album/59kSwQ4mkGJ5YVmVgmQv3s"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 186778,
+      "name": "O Mundo D\u00e1 Voltas - Spotify Singles",
+      "url": "https://open.spotify.com/track/1yz7wQVh2A3cCED0QPpfGU"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 260213,
-      "name": "Flaco - Spotify Singles",
-      "url": "https://open.spotify.com/track/0lhX3lxFDk0KOeXoQdJ6vW"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "EMPELICULADOS - Spotify Singles",
         "url": "https://open.spotify.com/album/1L88SIO4NmlW9TeY5gbCLb"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 222245,
       "name": "EMPELICULADOS - Spotify Singles",
       "url": "https://open.spotify.com/track/3PjY7hNtvJPnFeZxplptne"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 260213,
+      "name": "Flaco - Spotify Singles",
+      "url": "https://open.spotify.com/track/0lhX3lxFDk0KOeXoQdJ6vW"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1128,17 +1128,17 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
+        "url": "https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS"
       },
       "artists": [
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 192870,
-      "name": "La Tirana - Spotify Singles",
-      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
+      "duration_ms": 181440,
+      "name": "Bestia Peque\u00f1a - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1164,17 +1164,17 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS"
+        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         }
       ],
-      "duration_ms": 181440,
-      "name": "Bestia Peque\u00f1a - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45"
+      "duration_ms": 192870,
+      "name": "La Tirana - Spotify Singles",
+      "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
     },
     {
       "added_at": "2024-11-07 00:01:00",

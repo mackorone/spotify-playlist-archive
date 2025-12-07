@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-218 songs - 19 hr 25 min
+219 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Koi Yeh Kaise Bataye](https://open.spotify.com/track/0xacMfqz3t5x29sgDmaYms) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 3:17 | 2021-12-01 | 2023-05-16 |
 | [Kuch Aise Aakar Gira Hai](https://open.spotify.com/track/4BO6XJ59xrkHMoqjHqedvs) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Nazm, Vol\. 1 & 2](https://open.spotify.com/album/7zxbbT2rlXgkwOEvyPOEYk) | 0:23 | 2023-09-14 | 2024-04-19 |
 | [Kuch Aise Aakar Gira Hai](https://open.spotify.com/track/7b4T76KOVCaEG2HJNdm9fW) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Gulzars Nazm Vol.1](https://open.spotify.com/album/5EaGDGV9pZhrduNvpxLUoy) | 0:23 | 2024-04-18 | 2025-01-01 |
+| [Kuchh mai likhta chalu tum mitati chalo](https://open.spotify.com/track/6LcxYSjuQlsybXNlKHivd9) | [Dr Pallav Mishra](https://open.spotify.com/artist/1ayPLvAEQCu6s6FF7AKxbz) | [Kuchh mai likhta chalu tum mitati chalo](https://open.spotify.com/album/1zbgpLJIhgX2S8s0IyUYVj) | 6:16 | 2025-11-28 |  |
 | [Kya Main Ik Harf](https://open.spotify.com/track/1EkrybycogZ3e00XgdmgC2) | [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Kya Main Ik Harf](https://open.spotify.com/album/2Xg8iGHNFYZ19s7KIRFsNK) | 3:51 | 2025-09-15 | 2025-11-06 |
 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 | 2023-07-27 |  |
 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 | 2024-02-07 |  |
@@ -210,7 +211,7 @@
 | [Virah](https://open.spotify.com/track/44SQLK6OS7gadq8h8Le57b) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Virah](https://open.spotify.com/album/1sF096U2dFacXRfS7l3vaT) | 3:27 | 2024-08-20 | 2024-09-30 |
 | [Vo Haseen Raat](https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw) | [Daboo Malik](https://open.spotify.com/artist/5pizYgjzyLFGdSQp80rQF1), [Sarrika Singh](https://open.spotify.com/artist/4e6Tas6HkzcBbFvL611Qq7) | [Vo Haseen Raat](https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v) | 4:06 | 2024-08-19 |  |
 | [Voh Tere Mere Ishq Ka](https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 5:13 | 2023-03-31 |  |
-| [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/track/6S9QMBT09F27PmBSttpQ0m) | [Rubai](https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r), [Gufy](https://open.spotify.com/artist/6fGoY0h9sQa81gzIw3e6Qv) | [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/album/38CLfNETJOIYjRCz9ug5fe) | 3:46 | 2025-09-15 |  |
+| [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/track/6S9QMBT09F27PmBSttpQ0m) | [Rubai](https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r), [Gufy](https://open.spotify.com/artist/6fGoY0h9sQa81gzIw3e6Qv) | [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/album/38CLfNETJOIYjRCz9ug5fe) | 3:46 | 2025-09-15 | 2025-12-07 |
 | [Wo Baat Kahan](https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Wo Baat Kahan](https://open.spotify.com/album/2slESqhptAlh3jIB9KtExS) | 4:57 | 2025-02-28 |  |
 | [Woh Dehleez](https://open.spotify.com/track/7417MJt7NRvYGAcltQ5fyr) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/65E83zzOXqaokPZl6yO1pN) | 5:28 | 2023-12-12 | 2024-04-19 |
 | [Woh Dehleez](https://open.spotify.com/track/7ywmyRfxqVjuVVRFL9JdyZ) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/380FWdzxBJTUcBwiGAAJch) | 5:28 | 2023-06-09 | 2025-01-01 |

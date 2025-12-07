@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Best of this year's RADAR class\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,215 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,539 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 16 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 |
 | 17 | [Dada](https://open.spotify.com/track/6WPSzmAt1fgTeq3P62Z3Vo) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Dada](https://open.spotify.com/album/4o62iYJOehteyFmHPxsG09) | 5:38 |
 | 18 | ['BOUT U](https://open.spotify.com/track/0TkxukEZ2yWc6KEOkMfytD) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 2:59 |
-| 19 | [รสชาติชีวิต](https://open.spotify.com/track/3S16LqUZZibsrTeG59kH4M) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [รสชาติชีวิต](https://open.spotify.com/album/716iJevJDc8Pl0nob6n891) | 4:42 |
-| 20 | [poukwa \(elle m'demande\)](https://open.spotify.com/track/3KECoEpKXUzZhkrZra1TAZ) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [6TR9C9 DE LUXE](https://open.spotify.com/album/3VrVgrYmoqSgiEp8zfMSv7) | 2:25 |
+| 19 | [poukwa \(elle m'demande\)](https://open.spotify.com/track/3KECoEpKXUzZhkrZra1TAZ) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [6TR9C9 DE LUXE](https://open.spotify.com/album/3VrVgrYmoqSgiEp8zfMSv7) | 2:25 |
+| 20 | [รสชาติชีวิต](https://open.spotify.com/track/3S16LqUZZibsrTeG59kH4M) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [รสชาติชีวิต](https://open.spotify.com/album/716iJevJDc8Pl0nob6n891) | 4:42 |
 | 21 | [ความรักไม่ได้น่ากลัวขนาดนั้น \(TRUST ME\)](https://open.spotify.com/track/5fmGQW02BWMCKEbXG2m1xi) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [DUSK & DAWN](https://open.spotify.com/album/6ClfflTjLdTkVP4ElFO6Pb) | 3:54 |
 | 22 | [เติบโตโดยไม่มีฉัน \- End Of My Turn](https://open.spotify.com/track/6qokdF2ulHUVKntPfgKDsu) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เติบโตโดยไม่มีฉัน \(End Of My Turn\)](https://open.spotify.com/album/1sLZJuUH0pNb6tf6gXTZV2) | 4:37 |
 | 23 | [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 28 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 |
 | 29 | [ちょうどいい \(feels just right\)](https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [ちょうどいい \(feels just right\)](https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv) | 3:47 |
 | 30 | [Humahalik](https://open.spotify.com/track/0zEn6vTXSk2is5l6kpDe0Z) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Humahalik](https://open.spotify.com/album/09gZvZkIXdW5mEmQwie7hF) | 3:55 |
-| 31 | [VAMO A MATARNO](https://open.spotify.com/track/6tDPboTFnNiYJLCvkKsDhY) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [ASÍ SONÁBAMOS<?](https://open.spotify.com/album/4UWSapwmVuJTSuhyx0TkiK) | 2:08 |
-| 32 | [Therapieplatz](https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Therapieplatz](https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE) | 5:15 |
+| 31 | [Therapieplatz](https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Therapieplatz](https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE) | 5:15 |
+| 32 | [VAMO A MATARNO](https://open.spotify.com/track/6tDPboTFnNiYJLCvkKsDhY) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [ASÍ SONÁBAMOS<?](https://open.spotify.com/album/4UWSapwmVuJTSuhyx0TkiK) | 2:08 |
 | 33 | [Bila](https://open.spotify.com/track/3NoDf1xUib20i3OuyhW7Gp) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Cara Mencintai](https://open.spotify.com/album/7u5NCLGmm0CYfYA9XcGvZB) | 3:08 |
 | 34 | [No iPhone](https://open.spotify.com/track/38FBUVBFNken57Q25fQxPG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [No iPhone](https://open.spotify.com/album/2U8fPsJLJGwykY38e1vfDG) | 2:16 |
 | 35 | [ดิ่งดาวน์ \(DOWN\)](https://open.spotify.com/track/4jhWTchEKltAokimVeYmL9) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [Angel Energy](https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt) | 3:39 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 41 | [รักนะเด็กโง่ \(Stupid Girl\)](https://open.spotify.com/track/7mfVUEp99L4yUzNfrq8Iym) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [รักนะเด็กโง่ \(Stupid Girl\)](https://open.spotify.com/album/20rgWspabRP8RksEeQn6Tp) | 4:01 |
 | 42 | [Vui Đét](https://open.spotify.com/track/5e1kUuII1bqgwu8fjuFNxE) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL), [Duy B](https://open.spotify.com/artist/5PMctPa8RxN3yzRVm93SI0), [Trix](https://open.spotify.com/artist/6n5eDbbT3ErAGFipwc9DEg) | [Vui Đét](https://open.spotify.com/album/6UmKSgtvHaQ62A2LHDQyuB) | 3:12 |
 | 43 | [Kehdo Na](https://open.spotify.com/track/5UNN2SnmrqvYMFpREy7vZz) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Rithmetic](https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a) | [Kehdo Na](https://open.spotify.com/album/7zWYyvK6weW41BYS5vd7hV) | 3:03 |
-| 44 | [Wst Lmraya](https://open.spotify.com/track/2MMMwRctD1NszGJAVxmkTH) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Wst Lmraya](https://open.spotify.com/album/626dTAFiyQb5tfevK8pVv3) | 2:54 |
-| 45 | [COCINE Y COCINE](https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 2:35 |
+| 44 | [COCINE Y COCINE](https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 2:35 |
+| 45 | [Wst Lmraya](https://open.spotify.com/track/2MMMwRctD1NszGJAVxmkTH) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Wst Lmraya](https://open.spotify.com/album/626dTAFiyQb5tfevK8pVv3) | 2:54 |
 | 46 | [Taboo \(feat\. Tobii\)](https://open.spotify.com/track/6bvMA4wCSHYVB16pPiRUnX) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa), [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [Taboo \(feat\. Tobii\)](https://open.spotify.com/album/5I1MaGUZevQ3PIL4sUUoYs) | 3:15 |
 | 47 | [KARMEN](https://open.spotify.com/track/4ecS04LKhx2dFdnVYCYc7B) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [KARMEN](https://open.spotify.com/album/1nERzbdmnFru3H4cwZFxRU) | 3:47 |
 | 48 | [Thua Người Ta](https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [Thua Người Ta](https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L) | 3:14 |

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"Nijigasaki High School Idol Club\". \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\n",
-  "num_followers": 18685,
+  "num_followers": 18693,
   "original_name": "Love Live! Nijigasaki High School Idol Club",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "duration_ms": 295800,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6IR8MKTOD0skW9FKZKl3kH"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
         "name": "Love U my friends",
         "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 236746,
       "name": "MONSTER GIRLS",
       "url": "https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
-          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
-        }
-      ],
-      "duration_ms": 295800,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6IR8MKTOD0skW9FKZKl3kH"
     },
     {
       "added_at": "2025-07-21 16:15:15",

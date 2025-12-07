@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Esa Risty
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,829 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,840 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 95 | [Kejam](https://open.spotify.com/track/1jGPT79sQ8k48Lu4nWqKMj) | [Iyeth Bustami](https://open.spotify.com/artist/00C7NuuxMrVAu6Yzxj667R) | [Kejam](https://open.spotify.com/album/7vOcQvH0zVauyTYW4wWh73) | 5:03 |
 | 96 | [Insan Biasa](https://open.spotify.com/track/79T9Ab0SwY8h6kxzDoVZdz) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Insan Biasa](https://open.spotify.com/album/2UyX1tZhUrWMt52W3op8ha) | 5:40 |
 | 97 | [Sayang](https://open.spotify.com/track/1cs5LFOcznflbTzEKDPXCx) | [Via Vallen](https://open.spotify.com/artist/74YCcIyS1oSkCUJFh5ksRl) | [Sayang](https://open.spotify.com/album/5GuZuYBsOhtIe0xW50jCwm) | 5:06 |
-| 98 | [Kulepas Dengan ikhlas](https://open.spotify.com/track/0MMgF49ViaGpAonpNRbavI) | [Angly Kansil](https://open.spotify.com/artist/1b6uU6N4Uw7zGLdhn2C291) | [Kulepas Dengan Ikhlas](https://open.spotify.com/album/26nVfbBouNRMtdDOCn3Zq0) | 6:13 |
+| 98 | [Kulepas Dengan ikhlas](https://open.spotify.com/track/0MMgF49ViaGpAonpNRbavI) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Kulepas Dengan Ikhlas](https://open.spotify.com/album/26nVfbBouNRMtdDOCn3Zq0) | 6:13 |
 | 99 | [Indah Pada Waktunya](https://open.spotify.com/track/2EPSzjMwz0sCVwx0GUYjYa) | [Dewi Perssik](https://open.spotify.com/artist/1mX7WgTa4SubvAy0uxThYp) | [Indah Pada Waktunya](https://open.spotify.com/album/3aVuf3v7nr5qlcrNpFJ6D2) | 4:41 |
-| 100 | [Egois](https://open.spotify.com/track/4avHigwVYoL7TD48EhcNFK) | [Angly Kansil](https://open.spotify.com/artist/1b6uU6N4Uw7zGLdhn2C291) | [Egois](https://open.spotify.com/album/4wnJOz5Oeg9tVK7MonAwnt) | 4:17 |
+| 100 | [Egois](https://open.spotify.com/track/4avHigwVYoL7TD48EhcNFK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Egois](https://open.spotify.com/album/4wnJOz5Oeg9tVK7MonAwnt) | 4:17 |
 
-Snapshot ID: `AAAAAImhVQrgAkC6BFF5jKmzFvR1Gcba`
+Snapshot ID: `AAAAADRaMxsvDnGQ+mXdmRkcxqHeun3E`

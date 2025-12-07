@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-462 songs - 1 day 2 hr 19 min
+463 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 | 2024-05-02 |  |
 | [Albino Rhino](https://open.spotify.com/track/3oFGca7dXXLvRC9AD4JdF9) | [Aaron Rux](https://open.spotify.com/artist/18KCq8v87co2o7RqJoR4C0), [The Crying Cowboys](https://open.spotify.com/artist/6FRl73eoQmfFTjcaZBrasd) | [Albino Rhino](https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo) | 4:09 | 2025-11-21 |  |
 | [Algo Físico](https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm) | [Julia Nar](https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL) | [Algo Físico](https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI) | 2:47 | 2025-09-18 |  |
+| [Algo que no duele](https://open.spotify.com/track/2Y8Qw5PU03Bl062cZJ4p0v) | [Espíritu System](https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0), [Chini Tacchini](https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY) | [Otras 3 Lunas](https://open.spotify.com/album/4XEIBLJwW5kRkJt7d4abOx) | 2:42 | 2025-12-04 |  |
 | [All of Me](https://open.spotify.com/track/0Ddm2WaOg8B1OCa6zamy4K) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 3:37 | 2023-04-20 | 2024-04-19 |
 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 | 2023-04-20 |  |
 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 | 2022-11-11 |  |
@@ -417,7 +418,7 @@
 | [To Die For](https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Die For](https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf) | 3:13 | 2022-11-11 | 2023-03-28 |
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-03-16 | 2023-03-28 |
 | [Todo Este Amor \(Capítulo IV: Huída\)](https://open.spotify.com/track/4ZFCQHDbp3V5d4TyN6wmPu) | [Víctor Monte](https://open.spotify.com/artist/3091wSOSRYaP4DUHhP1OHf), [nosoymeri](https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd) | [Todo Este Amor \(Capítulo IV: Huída\)](https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4) | 3:06 | 2025-10-09 |  |
-| [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 | 2024-04-11 |  |
+| [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 | 2024-04-11 | 2025-12-07 |
 | [Todo Marchitó](https://open.spotify.com/track/5NbGdDoAlBNn5i4HxWppYf) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Todo Marchitó](https://open.spotify.com/album/45vox10mCCmPfUgr3SkJ1v) | 4:07 | 2025-10-09 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2023-02-28 | 2024-02-09 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2022-11-11 | 2023-03-16 |

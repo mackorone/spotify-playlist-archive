@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1035967,
+  "num_followers": 1035926,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Ralk",
-          "url": "https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC"
-        }
-      ],
-      "duration_ms": 172340,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Ralk Remix",
-      "url": "https://open.spotify.com/track/08E0nvXBTp8ayyOaXwEtue"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Metaphor",
         "url": "https://open.spotify.com/album/2ds371eeP7JXPUhBCk26eH"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 202000,
       "name": "Metaphor",
       "url": "https://open.spotify.com/track/1UTXQrmAL4oladIwc1PWSh"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Fiz Esse Som Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Ralk",
+          "url": "https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC"
+        }
+      ],
+      "duration_ms": 172340,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Ralk Remix",
+      "url": "https://open.spotify.com/track/08E0nvXBTp8ayyOaXwEtue"
     },
     {
       "added_at": "2024-11-15 03:00:00",

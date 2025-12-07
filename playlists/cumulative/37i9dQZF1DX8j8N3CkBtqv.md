@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Utsavi Jha, Parvaaz, and other exciting artists.
 
-1,254 songs - 2 day 20 hr 45 min
+1,255 songs - 2 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [I Feel Like](https://open.spotify.com/track/08uvo7TSrwVb7fTtIxNSU4) | [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd), [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ), [Prakruti Mishra](https://open.spotify.com/artist/57YUzjAZM4L84yMIkc9obC) | [I Feel Like](https://open.spotify.com/album/11q2PCs818UB60OMa8f9UW) | 3:57 | 2024-03-22 | 2024-05-11 |
 | [I met a boy](https://open.spotify.com/track/3fBodzlhvIfiyNN2Bka0rC) | [Ishita Parakh](https://open.spotify.com/artist/0Fb1hND25pyPt3JSQAjIIV) | [I met a boy](https://open.spotify.com/album/3R6BJZrZ5jH98nu0JwNcpH) | 3:00 | 2023-10-20 | 2023-11-25 |
 | [I Will Be Here](https://open.spotify.com/track/1VkJx1MZeYYQk8MhWwqN5O) | [Abdon Mech](https://open.spotify.com/artist/7GY6RgfJdJDs2euNW5Scv4) | [I Will Be Here](https://open.spotify.com/album/6wv1Z2OYouUgSDwMWMxJvI) | 2:35 | 2024-11-29 | 2024-12-14 |
+| [I'm Coming Home](https://open.spotify.com/track/2jSzZzNlmi9kIh1QHGUYNg) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [I'm Coming Home](https://open.spotify.com/album/0FBJyrE6rFKntb4lRDA9GA) | 2:45 | 2025-12-05 |  |
 | [I'm Lost](https://open.spotify.com/track/5WfRAy9N9zpqNABjETWsan) | [Karthik Sambhapur](https://open.spotify.com/artist/3mnwuCeoiNmqQ8sSnNcApJ), [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96) | [I'm Lost](https://open.spotify.com/album/6syl0p9pfqObU5mqHwLmDP) | 1:37 | 2023-12-01 | 2023-12-23 |
 | [I'm Someone New](https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [I'm Someone New](https://open.spotify.com/album/5QwDXdYTzUiaY6geFpTgZX) | 4:13 | 2024-06-28 | 2024-08-03 |
 | [Ibadat](https://open.spotify.com/track/5dVAIwFQL6zh42WhG68ySk) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Ibadat](https://open.spotify.com/album/3jIftDearbbeAnE7Sad8Kd) | 3:02 | 2024-02-23 | 2024-03-30 |
@@ -1116,7 +1117,7 @@
 | [The Fall](https://open.spotify.com/track/1pDFhiLYmk3VGjTU9Yx3TS) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [The Fall](https://open.spotify.com/album/024NLABY80xWm1YMZMifjZ) | 5:26 | 2023-09-08 | 2023-09-30 |
 | [The Lovey Dovey Song](https://open.spotify.com/track/5nqZmbB3xB0RO0RooubM4n) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [The Lovey Dovey Song](https://open.spotify.com/album/30SZowhZ6LpoAl0UyTbWYX) | 2:50 | 2025-05-04 | 2025-06-28 |
 | [The Other Side](https://open.spotify.com/track/1NZcWNXk2ZsMSiiFen25nN) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv), [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u) | [The Other Side](https://open.spotify.com/album/3b3V9Xrmq468GwoZuiuTRG) | 3:20 | 2025-02-07 | 2025-03-01 |
-| [the party song](https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [the party song](https://open.spotify.com/album/63sVUToNMo3Buh9GwODQRZ) | 3:04 | 2025-11-07 |  |
+| [the party song](https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [the party song](https://open.spotify.com/album/63sVUToNMo3Buh9GwODQRZ) | 3:04 | 2025-11-07 | 2025-12-07 |
 | [The Search for Wild Geese](https://open.spotify.com/track/3D9oBcbBI8BoFs8cNbO7Nc) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn) | [The Search for Wild Geese](https://open.spotify.com/album/31vFwTEramFgkSBd38LEf4) | 4:26 | 2023-04-14 | 2023-06-24 |
 | [Thikana](https://open.spotify.com/track/7tGwilnEe5wNfQ097nTWOC) | [Jivitesh Kharbanda](https://open.spotify.com/artist/6xRm13Ry0rDXAZyspU8Rue), [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Gautam Aditya](https://open.spotify.com/artist/1RYvJWl1FrAPcH8Rg5xOV3) | [Thikana](https://open.spotify.com/album/6NlJIRAUjQoJCaSRbz2viR) | 4:54 | 2024-02-09 | 2024-03-09 |
 | [Thokro Ke Dhabe](https://open.spotify.com/track/5NDD08apREZEiLlT3xKQEa) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Thokro Ke Dhabe](https://open.spotify.com/album/29cJqwLp5LR97kCAtIjoNb) | 3:30 | 2025-08-01 | 2025-11-14 |

@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -5206,7 +5206,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 132170,
       "name": "At\u00e9 Quebrar a Cama 2.0",
       "url": "https://open.spotify.com/track/7aOv4uSAmiB9XKnkibqSdo"
@@ -17602,7 +17602,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 190833,
       "name": "Dos Locos",
       "url": "https://open.spotify.com/track/2rIw5oE9MjacQgsWjks1dy"
@@ -27535,6 +27535,32 @@
     },
     {
       "album": {
+        "name": "HOMAGE FUNK",
+        "url": "https://open.spotify.com/album/53PlPC6A2mj9PsHr3N9cqj"
+      },
+      "artists": [
+        {
+          "name": "KIXIA",
+          "url": "https://open.spotify.com/artist/6e1LwzV1WAJFCdT1RsgqMK"
+        },
+        {
+          "name": "KREZUS",
+          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
+        },
+        {
+          "name": "Mc Kaique SP",
+          "url": "https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121771,
+      "name": "HOMAGE FUNK",
+      "url": "https://open.spotify.com/track/4oFXV9F1OhUZy9cEGqrGHe"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
       },
@@ -29102,6 +29128,24 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "album": {
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "date_added": "2025-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217351,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
     },
     {
       "album": {
@@ -32002,7 +32046,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 211239,
       "name": "La milla extra",
       "url": "https://open.spotify.com/track/0PEP61yLiv2SQoRlaxKGSc"
@@ -33136,7 +33180,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 172200,
       "name": "LAS XII",
       "url": "https://open.spotify.com/track/040CeSVj4n3aDCEsscMvJL"
@@ -43136,7 +43180,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-07",
       "duration_ms": 188943,
       "name": "No lo hagas",
       "url": "https://open.spotify.com/track/7f4ptGRA18W8ighgleOimu"

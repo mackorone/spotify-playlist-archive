@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1065422,
+  "num_followers": 1065732,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAADWk4tUX0+7C+FTwKztZJf5",
+  "snapshot_id": "aTIggAAAAADohBCiy0AnHvht2Nm08Iha",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Que Sepas",
+      "url": "https://open.spotify.com/track/0lPSo6OtN3vPrpBaZ9YHOm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Siga La Fiesta",
         "url": "https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 235253,
       "name": "Los Lujos Del R.",
       "url": "https://open.spotify.com/track/1QZrQnjIMS9yVFVYRoqnaX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 196146,
-      "name": "Que Sepas",
-      "url": "https://open.spotify.com/track/0lPSo6OtN3vPrpBaZ9YHOm"
     },
     {
       "added_at": null,

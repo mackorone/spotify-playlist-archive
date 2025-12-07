@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-223 songs - 18 hr 8 min
+224 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [La Mulata](https://open.spotify.com/track/6qxdJFgAJm3xJAd1msdNoW) | [Manana Club y Papucho](https://open.spotify.com/artist/4t2sviMc0Odp6WNgKg1icD) | [Respeta](https://open.spotify.com/album/4xTtfBZZN4WKhg2ZImTEgN) | 5:11 | 2020-08-25 | 2022-07-28 |
 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 | 2020-08-25 |  |
 | [La Palangana](https://open.spotify.com/track/0rpVrEX5j0PGlSM5Dz6tnR) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n) | [Más Duro](https://open.spotify.com/album/3zR9fk3CXln9qMLVMrJyK6) | 4:17 | 2020-08-25 | 2022-07-29 |
-| [La Preferencia](https://open.spotify.com/track/2qzE1R69r7RatHTEj5zRR9) | [El Noro y Primera Clase](https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf) | [Sin Escala](https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9) | 5:58 | 2020-08-25 |  |
+| [La Preferencia](https://open.spotify.com/track/2qzE1R69r7RatHTEj5zRR9) | [El Noro y Primera Clase](https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf) | [Sin Escala](https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9) | 5:58 | 2020-08-25 | 2025-12-07 |
 | [La Reina del Café](https://open.spotify.com/track/2ShiboaPX0z7DKswAs78WS) | [Rudy Calzado](https://open.spotify.com/artist/55SpWdkjLvDiH67u0gct8k) | [Discover Music from Cuba with ARC Music](https://open.spotify.com/album/69vS5OTZwOm65PNxJ28gyP) | 3:28 | 2020-08-25 | 2022-07-27 |
 | [La Tremenda](https://open.spotify.com/track/6voqBz6blDvN1c29vadprU) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [Ya No Hace Falta](https://open.spotify.com/album/00ZrOIn5bIxbiicATeWcXL) | 5:25 | 2020-08-25 | 2024-01-30 |
 | [La Vida Es Buena](https://open.spotify.com/track/5gnGvvDGNXYZyzGSt6uEdD) | [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Latin Hits 2015 Summer Edition \- 34 Latin Music Hits \(Salsa, Bachata, Dembow, Merengue, Reggaeton, Urbano, Timba, Cubaton, Kuduro, Latin Fitness\)](https://open.spotify.com/album/2D2ymh4Ugd4l9MQRCOWKVB) | 4:07 | 2020-08-25 | 2022-07-29 |
@@ -228,6 +228,7 @@
 | [Yo Soy Bueno](https://open.spotify.com/track/513iDsAlLAUrvGV7vaFfDn) | [FredyClan](https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE), [Manolito Simonet](https://open.spotify.com/artist/6adLsqn55b2gmsz54GG0W9) | [Yo Soy Bueno](https://open.spotify.com/album/6W35l333Bu7qHFtZdRtjBV) | 4:06 | 2020-08-25 | 2022-07-26 |
 | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od) | [FredyClan](https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6) | 4:48 | 2020-08-25 |  |
 | [Yo Voy Pa Encima](https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Yo Voy Pa Encima](https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ) | 3:26 | 2020-08-25 | 2025-01-06 |
+| [¡Ay! Ay Amor](https://open.spotify.com/track/5FxtsZEiJqNn9mCl4lAJKp) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Lo Mejor de la Charanga](https://open.spotify.com/album/17BU5qXTnzlNo6ETqkBY2S) | 5:24 | 2025-03-07 |  |
 | [¡UEA!](https://open.spotify.com/track/0ZjAqYRECVtph1ros7fEW7) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [¡Uea!](https://open.spotify.com/album/71RxJ0XbxoVGidD6EPSPei) | 4:55 | 2020-08-25 | 2022-07-22 |
 | [¿Dónde va Chichi?](https://open.spotify.com/track/5DPfEdyjJpt1PpFOKSAcW3) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/7zmnzispQ0hGww56bg7kMX) | 5:13 | 2020-08-25 | 2022-07-29 |
 | [Ámame con Tu Experiencia \- Remasterizado](https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst) | [Juan Carlos Alfonso y su Dan Den](https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM) | [Fiestas de Cuba \(Remasterizado\)](https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u) | 4:44 | 2020-08-25 |  |

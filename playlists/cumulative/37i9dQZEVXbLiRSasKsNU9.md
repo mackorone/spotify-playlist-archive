@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-4,496 songs - 9 day 23 hr 53 min
+4,497 songs - 9 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2472,6 +2472,7 @@
 | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/track/4BoFJMLSO3ZoD48KgnslSe) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/album/1xT6hChxAkSLclY5Jvl65M) | 5:51 | 2022-08-22 | 2022-08-31 |
 | [Merhametsiz](https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4) | [Cevher](https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf) | [Merhametsiz](https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X) | 4:06 | 2024-06-28 | 2024-07-17 |
 | [Meri Jaan](https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Gangubai Kathiawadi](https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b) | 3:58 | 2022-03-15 | 2022-04-01 |
+| [Meri Zindagi Hai Tu](https://open.spotify.com/track/5RYXTC4G3RYYP6pUmaF6s2) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn) | [Meri Zindagi Hai Tu](https://open.spotify.com/album/4FWgeZQOq8g7kLQAniEdzR) | 3:46 | 2025-12-06 |  |
 | [Merindukanmu](https://open.spotify.com/track/6iWN7lzwq9LedX3F1g3sTy) | [Salma Aliyyah](https://open.spotify.com/artist/090J9hBaxShI7OWuk64gm3) | [Merindukanmu](https://open.spotify.com/album/5CNkGpz6Hf1P595qSsOw3C) | 3:55 | 2023-05-12 | 2023-05-14 |
 | [Merindumu lagi](https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Merindumu lagi](https://open.spotify.com/album/4LTGuJdFIcKgJfHjsK0lE7) | 3:38 | 2025-09-18 | 2025-10-08 |
 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/6WY4wvlmgccWapnIg14Vy0) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [1996](https://open.spotify.com/album/2GVHciB5rx3gCQgIqHdJ4G) | 4:46 | 2023-04-04 | 2023-04-12 |
@@ -3209,8 +3210,8 @@
 | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW) | 4:00 | 2024-10-23 | 2024-12-11 |
 | [Raanjhan Aaya](https://open.spotify.com/track/0vqtlDkv6BamM6PIKM9ptz) | [Masaba](https://open.spotify.com/artist/5wqQrS5pyg3kv4FRI6I45P), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Raanjhan Aaya](https://open.spotify.com/album/1D42KMvs4ntxc04oXyY7cJ) | 2:43 | 2023-11-30 | 2023-12-02 |
 | [Rabetão De Terremoto](https://open.spotify.com/track/4swtnATsndB7VJVq0n4EQE) | [DJ CZ](https://open.spotify.com/artist/52xstrfqEahsQREdysdsgr), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw), [DJ TS](https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON), [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [Prime Funk](https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x) | [Rabetão De Terremoto](https://open.spotify.com/album/67v8jx5TDQDkewt5oMiJZn) | 1:47 | 2025-04-08 | 2025-04-30 |
-| [Radio](https://open.spotify.com/track/3l8ACerUtJfRd0rxJJ4Gkx) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/3rcJwEH6EyPPEiqsrABR4k) | 3:21 | 2025-11-30 | 2025-12-06 |
-| [Radio](https://open.spotify.com/track/6jppHdy8EW9ghHlOCpGBEr) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/6LhMCZ3grywqUzh5LH2CND) | 3:21 | 2025-12-01 |  |
+| [Radio](https://open.spotify.com/track/3l8ACerUtJfRd0rxJJ4Gkx) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/3rcJwEH6EyPPEiqsrABR4k) | 3:21 | 2025-11-30 |  |
+| [Radio](https://open.spotify.com/track/6jppHdy8EW9ghHlOCpGBEr) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/6LhMCZ3grywqUzh5LH2CND) | 3:21 | 2025-12-01 | 2025-12-07 |
 | [Radio](https://open.spotify.com/track/7i6II9P0ZbZegC4nvMzGLz) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/31vE4XyMAWFJFF8JxbJ4FJ) | 3:21 | 2025-11-26 | 2025-12-01 |
 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 | 2024-11-12 | 2024-11-15 |
 | [Rahmatun Lil’Alameen](https://open.spotify.com/track/4gcQ4sBOIX8s510XrNZQUA) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil’Alameen](https://open.spotify.com/album/0XDt4wF7I0dpj6ii47DQoF) | 3:50 | 2023-03-28 | 2023-04-05 |
@@ -3327,7 +3328,7 @@
 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 | 2025-03-25 | 2025-04-02 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-03-15 | 2022-03-30 |
 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 | 2025-02-18 | 2025-03-12 |
-| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2025-12-01 |  |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2025-12-01 | 2025-12-07 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-08-03 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-08-08 | 2023-08-16 |
 | [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 | 2025-05-17 | 2025-06-04 |

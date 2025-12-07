@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 215549,
+  "num_followers": 215629,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAAbs8JYerE9Jh35YB04viBfXyDi9",
   "tracks": [
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Cartel De Santa",
-        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Todas Mueren por M\u00ed",
-      "url": "https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy"
-    },
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 284708,
       "name": "Maquiav\u00e9lico",
       "url": "https://open.spotify.com/track/447r2keRxpkINmWYp83MlH"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Cartel De Santa",
+        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Todas Mueren por M\u00ed",
+      "url": "https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "La Familia, Cap. 1",
-        "url": "https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ"
-      },
-      "artists": [
-        {
-          "name": "Crack Family",
-          "url": "https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk"
-        },
-        {
-          "name": "Aerophon",
-          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
-        }
-      ],
-      "duration_ms": 309733,
-      "name": "Gaminart",
-      "url": "https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Techymuv",
         "url": "https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 311500,
       "name": "I Love You a Lo V\u00edo",
       "url": "https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "La Familia, Cap. 1",
+        "url": "https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ"
+      },
+      "artists": [
+        {
+          "name": "Crack Family",
+          "url": "https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk"
+        },
+        {
+          "name": "Aerophon",
+          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
+        }
+      ],
+      "duration_ms": 309733,
+      "name": "Gaminart",
+      "url": "https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "C\u00edrculo Vicioso",
-        "url": "https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1"
-      },
-      "artists": [
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        }
-      ],
-      "duration_ms": 263023,
-      "name": "De Pe a Pa",
-      "url": "https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Verte Cerquita",
         "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 232721,
       "name": "Verte Cerquita",
       "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "C\u00edrculo Vicioso",
+        "url": "https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1"
+      },
+      "artists": [
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "duration_ms": 263023,
+      "name": "De Pe a Pa",
+      "url": "https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Faruz Vs. Proof",
+        "url": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/6udpsP3eFtN0CtaXLquDdb"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "El C\u00edrculo (Versi\u00f3n Exclusiva de Spotify)",
         "url": "https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 271733,
       "name": "Pavos Reales (con Hermano L, Shabu One Shant y Mcklopedia)",
       "url": "https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Faruz Vs. Proof",
-        "url": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        },
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/6udpsP3eFtN0CtaXLquDdb"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Poes\u00eda Difusa",
-        "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
-      },
-      "artists": [
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        },
-        {
-          "name": "Shuga Wuga",
-          "url": "https://open.spotify.com/artist/5K0ecq1n7e5BnM7FxgVi3G"
-        }
-      ],
-      "duration_ms": 309606,
-      "name": "Amor Libre",
-      "url": "https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "El Ataque De Los Que Observaban",
         "url": "https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY"
       },
@@ -1455,6 +1435,22 @@
       "duration_ms": 354226,
       "name": "Rap Vs. Racismo - Con L\u00edrico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Tit\u00f3 y Xhelazz.",
       "url": "https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Entren Los Que Quieran",
+        "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "Digo Lo Que Pienso",
+      "url": "https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Entren Los Que Quieran",
-        "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
+        "name": "Poes\u00eda Difusa",
+        "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
       },
       "artists": [
         {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "Shuga Wuga",
+          "url": "https://open.spotify.com/artist/5K0ecq1n7e5BnM7FxgVi3G"
         }
       ],
-      "duration_ms": 293066,
-      "name": "Digo Lo Que Pienso",
-      "url": "https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO"
+      "duration_ms": 309606,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Vicios y Virtudes",
-        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 269160,
-      "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
-      "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Producto Infinito Version 0.4",
         "url": "https://open.spotify.com/album/0MoNYk7bMv3Vwt8VFyssME"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 298893,
       "name": "Suelo so\u00f1ar",
       "url": "https://open.spotify.com/track/3bUZA8syssxjVdvJDExkRi"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Un D\u00eda En Suburbia",
+        "url": "https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 790440,
+      "name": "Anochece / Manifiesto",
+      "url": "https://open.spotify.com/track/1EnpICfLSoEqih0r6wkUEx"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Un D\u00eda En Suburbia",
-        "url": "https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7"
+        "name": "Vicios y Virtudes",
+        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
       },
       "artists": [
         {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
         }
       ],
-      "duration_ms": 790440,
-      "name": "Anochece / Manifiesto",
-      "url": "https://open.spotify.com/track/1EnpICfLSoEqih0r6wkUEx"
+      "duration_ms": 269160,
+      "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
+      "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
     },
     {
       "added_at": "2024-07-12 18:46:41",

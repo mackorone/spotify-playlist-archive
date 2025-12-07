@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Naledi Aphiwe, Mawelele
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,266 likes - 95 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,358 likes - 95 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 94 | [Eyami](https://open.spotify.com/track/5Jf3hmkf8WKKqxM4vM8rux) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Eyami](https://open.spotify.com/album/1RiHVe3VXFIC1xIQ8VJPUa) | 4:20 |
 | 95 | [All My Life](https://open.spotify.com/track/6eyJuobFFGXLAOOkxrIdSV) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [All My Life](https://open.spotify.com/album/6Ik9e7LZgsK0az1tzEVEG0) | 4:26 |
 
-Snapshot ID: `AAAAAHrJxPCF8OXjQeMmKSbdwLR5vbYd`
+Snapshot ID: `AAAAAIDyJOc9ZxeHpYZyfM8KIxbAft7M`

@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "still hungover",
+        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187973,
+      "name": "cowgirl don't cry - acoustic",
+      "url": "https://open.spotify.com/track/3RhlRWYDgXqfQAH0VKLb2s"
+    },
+    {
+      "album": {
         "name": "Damn You",
         "url": "https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je"
       },

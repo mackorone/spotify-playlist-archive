@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Utsavi Jha, Parvaaz, and other exciting artists.\n",
-  "num_followers": 100302,
+  "num_followers": 100316,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,30 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
+        "name": "Kariyaa Haan",
+        "url": "https://open.spotify.com/album/4JSpyzuOJE0ORItYPvrf3M"
+      },
+      "artists": [
+        {
+          "name": "Pawandeep Rajan",
+          "url": "https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd"
+        },
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        },
+        {
+          "name": "Rameez Sohail",
+          "url": "https://open.spotify.com/artist/7d0RS6CUY3YghDb1YbZZtc"
+        }
+      ],
+      "duration_ms": 221052,
+      "name": "Kariyaa Haan",
+      "url": "https://open.spotify.com/track/7aR4nGalo99Zjnh6Re5CPO"
+    },
+    {
+      "added_at": "2025-12-05 09:52:12",
+      "album": {
         "name": "Raazi",
         "url": "https://open.spotify.com/album/7glMnUmxLbZg5b8EalkypD"
       },
@@ -447,30 +471,6 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "Kariyaa Haan",
-        "url": "https://open.spotify.com/album/4JSpyzuOJE0ORItYPvrf3M"
-      },
-      "artists": [
-        {
-          "name": "Pawandeep Rajan",
-          "url": "https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd"
-        },
-        {
-          "name": "Priyanshi Srivastava",
-          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
-        },
-        {
-          "name": "Rameez Sohail",
-          "url": "https://open.spotify.com/artist/7d0RS6CUY3YghDb1YbZZtc"
-        }
-      ],
-      "duration_ms": 221052,
-      "name": "Kariyaa Haan",
-      "url": "https://open.spotify.com/track/7aR4nGalo99Zjnh6Re5CPO"
-    },
-    {
-      "added_at": "2025-12-05 09:52:12",
-      "album": {
         "name": "Gustakh Dil",
         "url": "https://open.spotify.com/album/6gyWtT1mzXqFrURC7KjILt"
       },
@@ -507,18 +507,22 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/7maD5HUpzqayiV4qjDceas"
+        "name": "You're The One",
+        "url": "https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9"
       },
       "artists": [
         {
-          "name": "Kanika Malhotra",
-          "url": "https://open.spotify.com/artist/5gjsevqOsPyRsQVf8JhOH6"
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
         }
       ],
-      "duration_ms": 154943,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/77JADpb4QoY4roz5oxEWX4"
+      "duration_ms": 153600,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -559,22 +563,18 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "You're The One",
-        "url": "https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9"
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/7maD5HUpzqayiV4qjDceas"
       },
       "artists": [
         {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        },
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+          "name": "Kanika Malhotra",
+          "url": "https://open.spotify.com/artist/5gjsevqOsPyRsQVf8JhOH6"
         }
       ],
-      "duration_ms": 153600,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6"
+      "duration_ms": 154943,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/77JADpb4QoY4roz5oxEWX4"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -659,6 +659,26 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
+        "name": "Dariaa",
+        "url": "https://open.spotify.com/album/3kgwWQdxryWLeRfxhAJaxm"
+      },
+      "artists": [
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        }
+      ],
+      "duration_ms": 153673,
+      "name": "Dariaa",
+      "url": "https://open.spotify.com/track/1IIK5l7cDgwNeaDSqzkqPe"
+    },
+    {
+      "added_at": "2025-12-05 09:52:12",
+      "album": {
         "name": "Na Gul Na Gulistan",
         "url": "https://open.spotify.com/album/3iHvPWrqP5RrcMyp4yYzm7"
       },
@@ -727,6 +747,38 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
+        "name": "Don't Know Where Else",
+        "url": "https://open.spotify.com/album/7bB7ufqbgTFMxwhUC8Gase"
+      },
+      "artists": [
+        {
+          "name": "Takar Nabam",
+          "url": "https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H"
+        }
+      ],
+      "duration_ms": 220691,
+      "name": "Don't Know Where Else",
+      "url": "https://open.spotify.com/track/3cmw6gkiodCtSwnsWhFp39"
+    },
+    {
+      "added_at": "2025-12-05 09:52:12",
+      "album": {
+        "name": "Kaua\u02bbi \u02bb\u014d\u02bb\u014d",
+        "url": "https://open.spotify.com/album/0723LakZfEFENUHxNZ35LT"
+      },
+      "artists": [
+        {
+          "name": "Parvaaz",
+          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
+        }
+      ],
+      "duration_ms": 324063,
+      "name": "Kaua\u02bbi \u02bb\u014d\u02bb\u014d",
+      "url": "https://open.spotify.com/track/3oaiL00o9EZjTvmJeocdxy"
+    },
+    {
+      "added_at": "2025-12-05 09:52:12",
+      "album": {
         "name": "Qareeb",
         "url": "https://open.spotify.com/album/67TmrfJ0pim4hq3kRIOznG"
       },
@@ -747,22 +799,6 @@
       "duration_ms": 195857,
       "name": "Qareeb",
       "url": "https://open.spotify.com/track/35hwpi55PUyJFXjrodHPa0"
-    },
-    {
-      "added_at": "2025-12-05 09:52:12",
-      "album": {
-        "name": "Kaua\u02bbi \u02bb\u014d\u02bb\u014d",
-        "url": "https://open.spotify.com/album/0723LakZfEFENUHxNZ35LT"
-      },
-      "artists": [
-        {
-          "name": "Parvaaz",
-          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
-        }
-      ],
-      "duration_ms": 324063,
-      "name": "Kaua\u02bbi \u02bb\u014d\u02bb\u014d",
-      "url": "https://open.spotify.com/track/3oaiL00o9EZjTvmJeocdxy"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -795,42 +831,6 @@
       "duration_ms": 157377,
       "name": "Student of Love",
       "url": "https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx"
-    },
-    {
-      "added_at": "2025-12-05 09:52:12",
-      "album": {
-        "name": "Don't Know Where Else",
-        "url": "https://open.spotify.com/album/7bB7ufqbgTFMxwhUC8Gase"
-      },
-      "artists": [
-        {
-          "name": "Takar Nabam",
-          "url": "https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H"
-        }
-      ],
-      "duration_ms": 220691,
-      "name": "Don't Know Where Else",
-      "url": "https://open.spotify.com/track/3cmw6gkiodCtSwnsWhFp39"
-    },
-    {
-      "added_at": "2025-12-05 09:52:12",
-      "album": {
-        "name": "Dariaa",
-        "url": "https://open.spotify.com/album/3kgwWQdxryWLeRfxhAJaxm"
-      },
-      "artists": [
-        {
-          "name": "Danny",
-          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
-        },
-        {
-          "name": "Suyash",
-          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
-        }
-      ],
-      "duration_ms": 153673,
-      "name": "Dariaa",
-      "url": "https://open.spotify.com/track/1IIK5l7cDgwNeaDSqzkqPe"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -895,22 +895,18 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "pocket friendly: volume i",
-        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/0FBJyrE6rFKntb4lRDA9GA"
       },
       "artists": [
         {
-          "name": "sudan",
-          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
-        },
-        {
-          "name": "Tejas",
-          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
         }
       ],
-      "duration_ms": 167250,
-      "name": "a hiatus",
-      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
+      "duration_ms": 165104,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/2jSzZzNlmi9kIh1QHGUYNg"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -935,22 +931,22 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "the party song",
-        "url": "https://open.spotify.com/album/63sVUToNMo3Buh9GwODQRZ"
+        "name": "pocket friendly: volume i",
+        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
       },
       "artists": [
         {
-          "name": "Shikhar",
-          "url": "https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9"
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
         },
         {
-          "name": "Anumita Nadesan",
-          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
         }
       ],
-      "duration_ms": 184447,
-      "name": "the party song",
-      "url": "https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27"
+      "duration_ms": 167250,
+      "name": "a hiatus",
+      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
     }
   ],
   "unique_name": "Naya Indiestan",

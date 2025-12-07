@@ -1,33 +1,13 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 15065,
+  "num_followers": 15076,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTDPAAAAAADazx+J0RMayDuXLmTJQQKc",
+  "snapshot_id": "aTIggAAAAAAaXb8wUUhatjNOZRkia/2i",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Lot (with Victony)",
-        "url": "https://open.spotify.com/album/6V4dnyT8bItiBHRwQwh0IR"
-      },
-      "artists": [
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "A Lot (with Victony)",
-      "url": "https://open.spotify.com/track/7MAUCyUl1hbCJg20W6ecJK"
-    },
     {
       "added_at": null,
       "album": {
@@ -227,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TRINITY",
+        "url": "https://open.spotify.com/album/0BbA1RZELLNCFtzRkEEkyQ"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 161840,
+      "name": "A Lot (with Victony)",
+      "url": "https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
       },
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Very Stubborn",
         "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 217302,
       "name": "Way Home",
       "url": "https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq"
     },
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 144592,
+      "name": "Gangsta Cry",
+      "url": "https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Symbol of Hope",
         "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 153560,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/1agUOP9cocY7h4gY9t1tYh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 144592,
-      "name": "Gangsta Cry",
-      "url": "https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 174452,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
       },
@@ -431,26 +447,6 @@
       "duration_ms": 182142,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
-        }
-      ],
-      "duration_ms": 212349,
-      "name": "E Go Be",
-      "url": "https://open.spotify.com/track/2PuLfDkkrUlQb3erFyAPFW"
     },
     {
       "added_at": null,
@@ -499,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 212349,
+      "name": "E Go Be",
+      "url": "https://open.spotify.com/track/2PuLfDkkrUlQb3erFyAPFW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 175000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/6OeHAhsVn22nStOm1XRHLQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 174452,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "$exy Girl $ummer (Vol.1)",
-        "url": "https://open.spotify.com/album/68q09r65wcBidNleimVoLk"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/1WZI9KoHg61cChCLEGi2Gn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jailer",
         "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 230588,
       "name": "Jailer",
       "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$exy Girl $ummer (Vol.1)",
+        "url": "https://open.spotify.com/album/68q09r65wcBidNleimVoLk"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/1WZI9KoHg61cChCLEGi2Gn"
     },
     {
       "added_at": null,

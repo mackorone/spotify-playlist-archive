@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,963,908 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,963,982 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 25 | [Friends Will Be Friends \- Remastered 2011](https://open.spotify.com/track/0SaopEgTo6O5dJoFXBbulL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind of Magic \(Deluxe Remastered Version\)](https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7) | 4:06 |
 | 26 | [These Are The Days Of Our Lives \- 2011 Remaster](https://open.spotify.com/track/6L2zQunC8lImxNEH60yxaR) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) | 4:15 |
 | 27 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 |
-| 28 | [Save Me \- Remastered 2011](https://open.spotify.com/track/2mGEqJahn3CSyCG1BTEqMs) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:49 |
-| 29 | [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/4NSqnfkGwPWde6a5YkjylT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/7xwWxiV4bILVMT4iHAsIt0) | 2:47 |
+| 28 | [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/4NSqnfkGwPWde6a5YkjylT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/7xwWxiV4bILVMT4iHAsIt0) | 2:47 |
+| 29 | [Save Me \- Remastered 2011](https://open.spotify.com/track/2mGEqJahn3CSyCG1BTEqMs) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:49 |
 | 30 | [Bicycle Race \- Remastered 2011](https://open.spotify.com/track/3lUx27TOwV2nAiKwnYYXxe) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:00 |
 | 31 | [It's A Hard Life \- Remastered 2011](https://open.spotify.com/track/5PTvZMe9mIL0GrRvPBRu6S) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:06 |
 | 32 | [Breakthru \- Remastered 2011](https://open.spotify.com/track/2HPvr5vD9rjbc0tejSmkkp) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Deluxe Remastered Version\)](https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 49 | [Don't Try Suicide \- Remastered 2011](https://open.spotify.com/track/5BsfxG08SKbFzEhv2UXuiW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:52 |
 | 50 | [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/1v870eS7JuHSeBNBFsVz3b) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:13 |
 
-Snapshot ID: `aTDPAAAAAAAv6jupoQ9Vn3+N4i2DdQ59`
+Snapshot ID: `aTIggAAAAADl3ys/p9eIQSl8SS2xBaYo`

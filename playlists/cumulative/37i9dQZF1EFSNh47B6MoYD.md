@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-175 songs - 10 hr 47 min
+177 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Dimelo Mi Amor](https://open.spotify.com/track/1WUmROl7NnLXEK6l4XM2eE) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:35 | 2023-03-09 | 2024-05-02 |
 | [Donde \(Xeque\-Mate\)](https://open.spotify.com/track/314hiE2Yr06A9gDHNg7Pyr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Donde \(Xeque\-Mate\)](https://open.spotify.com/album/06ZepOfHjDSp99jAECXmjW) | 3:26 | 2023-03-09 |  |
 | [Donde \- Remix](https://open.spotify.com/track/2TKx2VX1WS8SakXQcYNG0v) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Donde \(Remix\)](https://open.spotify.com/album/3SUCEzZG84ZDXRJfemBHzV) | 3:30 | 2023-03-09 |  |
-| [Dueña De Mis Ojos \(Remix\)](https://open.spotify.com/track/58leE3SqJv2Ol8OYiKiSfS) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Me Gusta](https://open.spotify.com/album/4ANRnYE30UumUjxlvIHrzS) | 3:54 | 2023-03-09 |  |
+| [Dueña De Mis Ojos \(Remix\)](https://open.spotify.com/track/2vPmivEKAgdBY9WiOeKBIi) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Me Gusta](https://open.spotify.com/album/1eYDmaDVd5ZcIgbKh4pLOT) | 3:54 | 2025-12-06 |  |
+| [Dueña De Mis Ojos \(Remix\)](https://open.spotify.com/track/58leE3SqJv2Ol8OYiKiSfS) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Me Gusta](https://open.spotify.com/album/4ANRnYE30UumUjxlvIHrzS) | 3:54 | 2023-03-09 | 2025-12-07 |
 | [Déjame Ser](https://open.spotify.com/track/1ulFHInMGgimr006vDUa8c) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Soy](https://open.spotify.com/album/7IIOcMIp2AYlxgJQ0Ql7YR) | 3:44 | 2025-01-09 | 2025-04-12 |
 | [Echa P'aca \(a/k/a Déjate Llevar\)](https://open.spotify.com/track/0cGFKKxMuMdRfwtaOGNCVQ) | [Donato Poveda](https://open.spotify.com/artist/2B9jOeFRM64ChziFnAYprP) | [Bohemio Enamorado](https://open.spotify.com/album/5nKzMMs0MfZrUSuXicagfG) | 4:34 | 2023-03-09 |  |
 | [Efecto Secundario](https://open.spotify.com/track/1lr19xYTvsSH5Vf819bMAG) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [Como Te Digo](https://open.spotify.com/album/6P0o98lx8qGwSkdyE9Y1ji) | 3:33 | 2023-03-09 |  |
@@ -90,7 +91,8 @@
 | [Fiesta](https://open.spotify.com/track/1FX7bD1aTcY81PzAP9OyTf) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 | 2023-03-09 | 2024-05-02 |
 | [Fuerte Pero Frágil](https://open.spotify.com/track/3H0QXSErbJUT1GNVaatHzb) | [Patricia Manterola](https://open.spotify.com/artist/7qGVAYNNMun6Qf3jTkTGmf) | [Ya Terminé](https://open.spotify.com/album/42c96MawCtXwnoVpBRbvK9) | 3:09 | 2023-03-09 |  |
 | [Hazme Tuya](https://open.spotify.com/track/4G7wRyhsbCSgrALMbVEwNP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 4:15 | 2023-03-09 |  |
-| [Hechicera](https://open.spotify.com/track/0PaAM2fi2zOHrJN7QR34AY) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Hechicera](https://open.spotify.com/album/1ZVF58hLH31xOaBAwFsej6) | 3:38 | 2023-03-09 |  |
+| [Hechicera](https://open.spotify.com/track/0PaAM2fi2zOHrJN7QR34AY) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Hechicera](https://open.spotify.com/album/1ZVF58hLH31xOaBAwFsej6) | 3:38 | 2023-03-09 | 2025-12-07 |
+| [Hechicera](https://open.spotify.com/track/1KT9yq05mrkWpQYIvC9BAH) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Hechicera](https://open.spotify.com/album/5kZm448aOkmJal9xbHiwh6) | 3:38 | 2025-12-06 |  |
 | [In the Middle](https://open.spotify.com/track/07g2wuOZXmXnqPG1SOdmtt) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 4:00 | 2023-12-13 | 2024-09-13 |
 | [In the Middle](https://open.spotify.com/track/2yUp50Sl8f1UXvv8Zcbdf1) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/3qifUQcqRxlOWNRcTwo0mS) | 4:00 | 2023-03-09 | 2023-12-14 |
 | [Indestructible](https://open.spotify.com/track/1FWNaYZdL0npIuzxsHb8aK) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Juego De Valientes](https://open.spotify.com/album/4xUjdG7ySlpPVEFCmjCWG4) | 3:25 | 2023-03-09 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 20039,
+  "num_followers": 20052,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-11-05 08:21:46",
       "album": {
-        "name": "COUP D'ETAT",
-        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 224792,
-      "name": "CROOKED",
-      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
-    },
-    {
-      "added_at": "2025-11-05 08:21:46",
-      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 199026,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
+    },
+    {
+      "added_at": "2025-11-05 08:21:46",
+      "album": {
+        "name": "COUP D'ETAT",
+        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 224792,
+      "name": "CROOKED",
+      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
     },
     {
       "added_at": "2025-11-05 08:21:46",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-11-05 08:21:46",
       "album": {
-        "name": "Queendom - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 181760,
-      "name": "Queendom",
-      "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
-    },
-    {
-      "added_at": "2025-11-05 08:21:46",
-      "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 235779,
       "name": "Go Go",
       "url": "https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO"
+    },
+    {
+      "added_at": "2025-11-05 08:21:46",
+      "album": {
+        "name": "Queendom - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 181760,
+      "name": "Queendom",
+      "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
     },
     {
       "added_at": "2025-11-05 08:21:46",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-11-05 08:21:46",
       "album": {
-        "name": "K.A.R.D Project Vol.2 \"Don't Recall\"",
-        "url": "https://open.spotify.com/album/4wTkdR3v9qFdRuCf2hpBZn"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Don't Recall",
-      "url": "https://open.spotify.com/track/4b1sQpvL7QVgamRZ74F1oA"
-    },
-    {
-      "added_at": "2025-11-05 08:21:46",
-      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 203066,
       "name": "Hula Hoops",
       "url": "https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh"
+    },
+    {
+      "added_at": "2025-11-05 08:21:46",
+      "album": {
+        "name": "K.A.R.D Project Vol.2 \"Don't Recall\"",
+        "url": "https://open.spotify.com/album/4wTkdR3v9qFdRuCf2hpBZn"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Don't Recall",
+      "url": "https://open.spotify.com/track/4b1sQpvL7QVgamRZ74F1oA"
     },
     {
       "added_at": "2025-11-05 08:21:46",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-11-05 08:21:46",
       "album": {
-        "name": "IVE EMPATHY",
-        "url": "https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Thank U",
-      "url": "https://open.spotify.com/track/5byscDL6SmZhKr8MbcoJcb"
-    },
-    {
-      "added_at": "2025-11-05 08:21:46",
-      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 214813,
       "name": "Summer Tights",
       "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+    },
+    {
+      "added_at": "2025-11-05 08:21:46",
+      "album": {
+        "name": "IVE EMPATHY",
+        "url": "https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Thank U",
+      "url": "https://open.spotify.com/track/5byscDL6SmZhKr8MbcoJcb"
     },
     {
       "added_at": "2025-11-05 08:21:46",

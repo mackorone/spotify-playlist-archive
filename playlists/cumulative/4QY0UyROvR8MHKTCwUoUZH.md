@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2025 \| Koffie Chill \| Café Music
 
-156 songs - 8 hr 25 min
+159 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [09](https://open.spotify.com/track/1YHK7lD9tjm2IXRnO5WZkM) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [09](https://open.spotify.com/album/7LCNII9sfgoy7wcagY7GUa) | 3:15 | 2025-07-18 |  |
 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2025-07-18 | 2025-10-25 |
 | [808s & 6 STRINGS](https://open.spotify.com/track/7sYxnp5tnkwziJbOoQnwcb) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [808s & 6 STRINGS](https://open.spotify.com/album/2i8O2Rmi5Dz9Ft63l5Mw0a) | 2:33 | 2025-09-05 |  |
+| [A Plea](https://open.spotify.com/track/7fkWpK1YcIMtM7PdMawgfY) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [A Plea](https://open.spotify.com/album/0eFgrTbT424fF4zLnhF6R5) | 7:38 | 2025-12-06 |  |
 | [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 | 2025-07-18 |  |
 | [ALL I EVER DO](https://open.spotify.com/track/4VPmNvFDBUoncOB3u6Ioc8) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [ALL I EVER DO](https://open.spotify.com/album/2heJmwKeBIDb8cBZsYAuFg) | 2:52 | 2025-07-18 |  |
 | [American Life \- live version](https://open.spotify.com/track/5d2g5QrbtgQDc51bRxpeEJ) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [American Life \(live version\)](https://open.spotify.com/album/42LLrq09ZgbWxwAuSfxydx) | 3:46 | 2025-10-10 |  |
@@ -44,12 +45,12 @@
 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 | 2025-07-18 | 2025-10-18 |
 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 | 2025-07-18 | 2025-09-20 |
 | [Dulce Perro](https://open.spotify.com/track/1Neey2oqU4yz7yRsfQoLn7) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Dulce Perro](https://open.spotify.com/album/66wJOEVqN5bxB2h5I5xyTj) | 2:49 | 2025-10-17 |  |
-| [Dying](https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Dying](https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD) | 3:03 | 2025-09-05 |  |
+| [Dying](https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Dying](https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD) | 3:03 | 2025-09-05 | 2025-12-07 |
 | [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 | 2025-07-18 |  |
 | [Everlastingly \- Wedding Version](https://open.spotify.com/track/2PUV7cOFpV1wrGBKed91N8) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Everlastingly \(Wedding Version\)](https://open.spotify.com/album/6un0lF2zOowIKOS3fI7YeH) | 3:12 | 2025-10-17 |  |
 | [Everyday](https://open.spotify.com/track/6PW7IX53uKCB1woGe0Uak5) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Don't Look Down](https://open.spotify.com/album/1RAGs6JnmurAIytKWIbAxX) | 2:31 | 2025-09-19 |  |
 | [Everything I Need Is Here](https://open.spotify.com/track/1r427MrTKh6BIswuVVLGri) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Everything I Need Is Here](https://open.spotify.com/album/7rgi5Z6SNZ5rCcwTIkFEdj) | 3:26 | 2025-11-21 |  |
-| [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 | 2025-09-05 |  |
+| [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 | 2025-09-05 | 2025-12-07 |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2025-07-18 | 2025-09-20 |
 | [Flowers \(Carry Me Home\)](https://open.spotify.com/track/70VTz7ZH2rCXUbk6PEo4Ap) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Flowers \(Carry Me Home\)](https://open.spotify.com/album/2vMtuoEPWr7zbQnjCoLoVa) | 3:42 | 2025-07-18 |  |
 | [Flyover State](https://open.spotify.com/track/2ZxUgGgTOUM1izQUSQ6Ui1) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Flyover State](https://open.spotify.com/album/03T3cRxwnKsDtOeHZ4K5EG) | 3:15 | 2025-07-18 |  |
@@ -111,9 +112,10 @@
 | [peace of mind \(feat\. blackwave.\)](https://open.spotify.com/track/5hZ4Ta8RoPjlRIOp1viGM5) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD) | [333](https://open.spotify.com/album/3qZqLv9ASu1fawBdLD11JZ) | 3:24 | 2025-07-18 | 2025-08-23 |
 | [Pinocchio](https://open.spotify.com/track/4PlauR1yKbWWgUoZhDT1kh) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Pinocchio](https://open.spotify.com/album/7FW3kBFDP5PIY8dVV2LQSP) | 3:10 | 2025-07-18 | 2025-10-11 |
 | [Polo TSI](https://open.spotify.com/track/66bN4vvWaiZP1u8wVuYOiq) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Polo TSI](https://open.spotify.com/album/1YbtxQJz9kisYy5IwfPU8G) | 2:48 | 2025-10-31 |  |
-| [Pretending](https://open.spotify.com/track/3DpXBc7bzSDWA7G1lrhi7P) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Pretending](https://open.spotify.com/album/5GNrY0z2yqaOOcvbmq1t5m) | 2:35 | 2025-10-17 |  |
+| [Pretending](https://open.spotify.com/track/3DpXBc7bzSDWA7G1lrhi7P) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Pretending](https://open.spotify.com/album/5GNrY0z2yqaOOcvbmq1t5m) | 2:35 | 2025-10-17 | 2025-12-07 |
 | [Puzzle](https://open.spotify.com/track/1E1bsQ93htYPzHqKbakej9) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Puzzle](https://open.spotify.com/album/6o2y7CpR7xIBqHYyFIXOu5) | 3:00 | 2025-07-18 | 2025-08-23 |
 | [Pyramid Scheme](https://open.spotify.com/track/1j43NtqRUKUTWSiFflguz8) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Pyramid Scheme](https://open.spotify.com/album/1GFVlKpMG87Le8H1EmFKpG) | 3:15 | 2025-07-18 | 2025-09-20 |
+| [Radio Silence](https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Radio Silence](https://open.spotify.com/album/6MzwLnpf99FUDAUwpzRJuB) | 2:15 | 2025-12-06 |  |
 | [Rule My World](https://open.spotify.com/track/2fN6zJClsuH8SXqBbAVC3S) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Declaration Of Dependence](https://open.spotify.com/album/6HdLcKjSVbImVaqAduttER) | 3:31 | 2025-07-18 | 2025-11-22 |
 | [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 | 2025-11-21 |  |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2025-07-18 |  |
@@ -151,6 +153,7 @@
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-07-18 |  |
 | [Vauxhall](https://open.spotify.com/track/2ukWCx1OUBiZsTyjhfGVYY) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Slowly, It Dawns](https://open.spotify.com/album/4cXbkCGtivxpmwwbmdyuQR) | 3:22 | 2025-07-18 |  |
 | [Walls](https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Walls](https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS) | 3:06 | 2025-10-03 |  |
+| [wecouldsithereforever](https://open.spotify.com/track/1KGGGr7EkmdsNJVNyU0Kb3) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [In the Works](https://open.spotify.com/album/6G5sFEjLo515bziYyusTAh) | 3:21 | 2025-12-06 |  |
 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-09-12 |  |
 | [what are friends for?](https://open.spotify.com/track/2w2XDOLq812JhcXe4nL2lI) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [what are friends for?](https://open.spotify.com/album/1lleZ7nqFgCsP6ySrObaMn) | 2:57 | 2025-07-18 | 2025-08-16 |
 | [What’s on your mind?!](https://open.spotify.com/track/7zetTt73XEyvXy3xdq5gDs) | [Emmy d’Arc](https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o) | [What’s on your mind?!](https://open.spotify.com/album/400zMpudSCsm7wltCmspf3) | 3:38 | 2025-07-18 |  |

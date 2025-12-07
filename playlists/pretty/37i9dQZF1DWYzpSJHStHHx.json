@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 485570,
+  "num_followers": 485551,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "Soft Rock Band",
-        "url": "https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m"
-      },
-      "artists": [
-        {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
-        }
-      ],
-      "duration_ms": 492280,
-      "name": "Soft Rock Band",
-      "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
         "name": "For The Dreams",
         "url": "https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 225198,
       "name": "Southerly",
       "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Soft Rock Band",
+        "url": "https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "duration_ms": 492280,
+      "name": "Soft Rock Band",
+      "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
     },
     {
       "added_at": "2025-03-27 13:00:14",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Existential Playboy",
-        "url": "https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J"
-      },
-      "artists": [
-        {
-          "name": "Surf Rock Is Dead",
-          "url": "https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd"
-        }
-      ],
-      "duration_ms": 134386,
-      "name": "always learning not what to do",
-      "url": "https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt"
-    },
-    {
       "added_at": "2025-02-07 17:00:04",
       "album": {
         "name": "Sunlight",
@@ -567,6 +551,22 @@
       "duration_ms": 231950,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Existential Playboy",
+        "url": "https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J"
+      },
+      "artists": [
+        {
+          "name": "Surf Rock Is Dead",
+          "url": "https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "always learning not what to do",
+      "url": "https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra"
-      },
-      "artists": [
-        {
-          "name": "Sunsick Daisy",
-          "url": "https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Tommy Bahama",
@@ -1095,6 +1079,22 @@
       "duration_ms": 229963,
       "name": "Tommy Bahama",
       "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra"
+      },
+      "artists": [
+        {
+          "name": "Sunsick Daisy",
+          "url": "https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf"
     },
     {
       "added_at": "2024-10-11 04:00:00",

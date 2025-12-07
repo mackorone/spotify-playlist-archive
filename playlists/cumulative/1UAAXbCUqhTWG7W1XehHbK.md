@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-137 songs - 8 hr 0 min
+138 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-11-19 |  |
 | [Landscrape](https://open.spotify.com/track/27OQnffoLFnBccU5uAtlOu) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Rummage](https://open.spotify.com/album/1dov4lqj9OLuBvIrRa9XMe) | 2:38 | 2025-10-02 |  |
 | [Longlist](https://open.spotify.com/track/1sW8K2lXzHIXH19gT1OToP) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Hometown](https://open.spotify.com/album/1D8nC9VavWlypXWsPomp0Z) | 4:31 | 2025-10-03 |  |
+| [Lost Treasure](https://open.spotify.com/track/4eEpb5RY5a7ShP6MysMpiY) | [Richard Dobeson](https://open.spotify.com/artist/28KWLvWlBhBq9vp1HwGfTH) | [Lost Treasure](https://open.spotify.com/album/0cVssofpvNMlCU8H0RYUbi) | 1:39 | 2025-12-06 |  |
 | [Love On The Brain](https://open.spotify.com/track/6YrIDvPwRNEf2CDsQxbMma) | [Mittch](https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV), [N Castillo](https://open.spotify.com/artist/1E7el4DK1FhfE6VIL07Bxa), [Lena Kurosaki](https://open.spotify.com/artist/55UCDOAn6DVoTRJhUUmoUK) | [Love On The Brain](https://open.spotify.com/album/1Fd7U1tzEhGhHJO74JTuRG) | 3:28 | 2025-10-09 |  |
 | [Marlee](https://open.spotify.com/track/3jjTjNKbH7JqnSWMDQ8QCl) | [Lusha](https://open.spotify.com/artist/0KroU4cOMO64mhVM1jJgjz) | [Like a Glove](https://open.spotify.com/album/1I21cLUqN3XjdiFzqpSi0f) | 2:33 | 2025-11-10 |  |
 | [may be](https://open.spotify.com/track/2fbhU9BAN9DMHUJmVd2WER) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [may be](https://open.spotify.com/album/3r5LuwbKuUEhGt1fO0q0Z6) | 3:27 | 2025-12-03 |  |
